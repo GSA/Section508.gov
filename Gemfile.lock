@@ -54,7 +54,11 @@ GEM
       jekyll (>= 3.5, < 4.0)
       jekyll-sanity (~> 1.2)
       liquid-tag-parser (~> 1.0)
+<<<<<<< HEAD
       nokogiri (~> 1.11.0)
+=======
+      nokogiri (~> 1.8)
+>>>>>>> parent of c3ef39c (more dependency updates)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
     jekyll-feed (0.15.1)
@@ -90,7 +94,7 @@ GEM
     nokogiri (1.11.0)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.4)
-      nokogiri (~> 1.11.0, >= 1.11.0)
+      nokogiri (~> 1.8, >= 1.8.4)
     parallel (1.20.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
