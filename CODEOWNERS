@@ -1,0 +1,15 @@
+# Global owners
+* @drewnielson @alexwilsongsa @michaelhortongsa
+
+# Layouts and Includes and other Jekyll structural changes
+/_assets/css/ @drewnielson
+/_assets/js/ @drewnielson
+/_plugins/ @drewnielson
+/_includes/ @drewnielson @michaelhortongsa
+/_layouts/ @drewnielson @michaelhortongsa
+
+# Site content changes
+/_pages/ @alexwilsongsa
+/_posts/ @alexwilsongsa
+/blog/ @alexwilsongsa
+*.md @alexwilsongsa
