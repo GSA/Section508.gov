@@ -87,6 +87,8 @@ primary_navigation:
     url: /document-with-sidenav/
   - name: Accessibility Requirements Tool (AR)
     url: /art/
+  - name: ART - as is
+    url: /art_as-is/
   - name: Document submenu
     children:
       - name: Navigation link
