@@ -1,0 +1,83 @@
+---
+layout: wide_art
+permalink: /art/
+title: Accessibility Requirements Tool
+---
+<h2>Accessibility Requirements Tool (ART)</h2>
+<div class="content">
+    <!-- <div id="myProgress"><div id="myBar">0%</div></div> -->
+
+    <div id="body"></div>
+    
+</div>
+<div id="nav"></div>
+
+<!-- Trigger/Open The Modal -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal" role="modal" aria-labelledby="modal-title" aria-describedby="modal-description">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>What's new in DART 2.1</h2>
+    </div>
+    <div class="modal-body">
+      <p>DART 2.1 includes important updates that will improve the management of Section 508 requirements in DHS solicitations:</p>
+        <p>Key changes:</p>
+        <ul>
+          <li>Solicitation Language Changes
+            <ul>
+              <li>Added Section 508 Deliverables Section to recommended solicitation language</li>
+              <li>Deleted Instructions to Offerors and Acceptance Criteria Sections</li>
+              <li>Revised requirements related to contractor validation for 508 conformance</li>
+              <li>Added requirements for cloud services, kiosks, and hardware</li>
+              <li>More information: <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Guide to Understanding the DART 2.1 Section 508 Contract Language Output</a></li>
+            </ul></li><p></p>
+          <li>DART 2.1 Functionality Changes<ul>
+          <li>Improved instructions to guide users through the entire solicitation development process</li>
+          <li>Added ability to export all outputs to Microsoft Word</li>
+          <li>Added new Project Planning Section to assist with obtain a detailed list of applicable Section 508 standards at the beginning of a project</li>
+          <li>Added new Market Research Section to assist with addressing Section 508 in Requests for Information (RFIs)</li>
+          </ul></li>
+        </ul>
+    </div>
+    <div class="modal-footer">
+      <button id="modalclose" aria-label="Close Modal Window" class="close-modal">Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="dart_getmodal.js"></script>
+
+<div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
+      <header class="modal__header">
+        <h2 class="modal__title" id="modal-1-title">
+          What's new in DART 2.1
+        </h2>
+        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+      </header>
+      <main class="modal__content" id="modal-1-content">
+        <p>DART 2.1 includes important updates that will improve the management of Section 508 requirements in DHS solicitations:</p>
+        <p>Key changes:</p>
+        <ul><li>Solicitation Language Changes<ul>
+          <li>Added Section 508 Deliverables Section to recommended solicitation language</li>
+          <li>Deleted Instructions to Offerors and Acceptance Criteria Sections</li>
+          <li>Revised requirements related to contractor validation for 508 conformance</li>
+          <li>Added requirements for cloud services, kiosks, and hardware</li>
+        <li>More information: <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Guide to Understanding the DART 2.1 Section 508 Contract Language Output</a></li>
+        </ul></li><p></p>
+        <li>DART 2.1 Functionality Changes<ul>
+          <li>Improved instructions to guide users through the entire solicitation development process</li>
+        <li>Added ability to export all outputs to Microsoft Word</li>
+        <li>Added new Project Planning Section to assist with obtain a detailed list of applicable Section 508 standards at the beginning of a project</li>
+        <li>Added new Market Research Section to assist with addressing Section 508 in Requests for Information (RFIs)</li>
+        </ul></li>
+        </ul>
+      </main>
+
+    </div>
+  </div>
+</div>
