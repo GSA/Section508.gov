@@ -1,4 +1,5 @@
 ---
+layout: wide
 uri: blog/microsoft-journey-to-accessibility
 type: article
 title: 'Microsoft’s Journey to Accessibility'
