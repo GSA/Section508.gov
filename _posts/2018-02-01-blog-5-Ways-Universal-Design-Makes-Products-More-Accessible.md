@@ -1,5 +1,6 @@
 ---
-uri: blog/5-Ways-Universal-Design-Makes-Products-More-Accessible
+layout: post
+permalink: blog/5-Ways-Universal-Design-Makes-Products-More-Accessible
 type: article
 title: '5 Ways Universal Design Makes Products More Accessible '
 created: 1517533537

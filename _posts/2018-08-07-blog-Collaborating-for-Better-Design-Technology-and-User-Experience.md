@@ -1,5 +1,6 @@
 ---
-uri: blog/Collaborating-for-Better-Design-Technology-and-User-Experience
+layout: post
+permalink: blog/Collaborating-for-Better-Design-Technology-and-User-Experience
 type: article
 title: 'Collaborating for Better Design, Technology and User Experience'
 created: 1533674391

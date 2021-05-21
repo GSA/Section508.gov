@@ -1,5 +1,6 @@
 ---
-uri: blog/do-section-508-accessibility-standards-apply-to-mywebsite
+layout: post
+permalink: blog/do-section-508-accessibility-standards-apply-to-mywebsite
 type: article
 title: 'Do Section 508 Accessibility Standards Apply to My Website?'
 created: 1513131053

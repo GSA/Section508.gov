@@ -1,5 +1,6 @@
 ---
-uri: blog/Global-Accessibility-Awareness-Day-2018
+layout: post
+permalink: blog/Global-Accessibility-Awareness-Day-2018
 type: article
 title: 'Global Accessibility Awareness Day 2018'
 created: 1526588225

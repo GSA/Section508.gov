@@ -1,5 +1,6 @@
 ---
-uri: blog/supporting-empowerment-through-accessibility
+layout: post
+permalink: blog/supporting-empowerment-through-accessibility
 type: article
 title: 'Supporting Empowerment through Accessibility'
 created: 1541532205
@@ -78,24 +79,6 @@ The HUD co-host, William Lynch, Assistant General Counsel, Fair Housing Complian
 </p>
 
 During lunch, participants visited with many of the 27 exhibitors showcasing their products and services. In the afternoon, subject matter experts who were on the breakout session panels addressed:
-
-<p style="margin-left: 40px;">
-  &nbsp;
-</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <ul style="margin-left: 40px;">
   <li>

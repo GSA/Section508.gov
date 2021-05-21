@@ -1,5 +1,6 @@
 ---
-uri: blog/benefits-accessible-design
+layout: post
+permalink: blog/benefits-accessible-design
 type: article
 title: 'Benefits of Accessible Design'
 created: 1493993415

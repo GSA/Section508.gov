@@ -1,5 +1,6 @@
 ---
-uri: blog/Introducing-Accessibility-for-Teams
+layout: post
+permalink: blog/Introducing-Accessibility-for-Teams
 type: article
 title: 'Introducing Accessibility for Teams'
 created: 1531930870

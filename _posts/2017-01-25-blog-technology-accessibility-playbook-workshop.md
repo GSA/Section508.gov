@@ -1,5 +1,6 @@
 ---
-uri: blog/technology-accessibility-playbook-workshop
+layout: post
+permalink: blog/technology-accessibility-playbook-workshop
 type: article
 title: 'Technology Accessibility Playbook Workshop '
 created: 1485354129

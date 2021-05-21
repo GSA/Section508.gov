@@ -1,5 +1,6 @@
 ---
-uri: blog/access-board-updates-ict-requirements
+layout: post 
+permalink: blog/access-board-updates-ict-requirements
 type: article
 title: 'NEW: Access Board Updates Requirements for Information and Communication Technology'
 created: 1483972791

@@ -1,5 +1,6 @@
 ---
-uri: blog/2018-interagency-accessibility-forum
+layout: post
+permalink: blog/2018-interagency-accessibility-forum
 type: article
 title: '2018 Interagency Accessibility Forum'
 created: 1537886593

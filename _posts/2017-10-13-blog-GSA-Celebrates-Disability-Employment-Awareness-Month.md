@@ -1,5 +1,6 @@
 ---
-uri: blog/GSA-Celebrates-Disability-Employment-Awareness-Month
+layout: post
+permalink: blog/GSA-Celebrates-Disability-Employment-Awareness-Month
 type: article
 title: 'GSA Celebrates Disability Employment Awareness Month at 2017 Interagency Accessibility Forum'
 created: 1507900375

@@ -1,5 +1,6 @@
 ---
-uri: blog/how-read-vpat/
+layout: post
+permalink: blog/how-read-vpat/
 type: article
 title: 'Building Accessibility into Your Procurement Process'
 created: 1524275406

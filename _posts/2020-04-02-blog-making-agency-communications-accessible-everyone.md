@@ -1,5 +1,6 @@
 ---
-uri: blog/making-agency-communications-accessible-everyone
+layout: post
+permalink: blog/making-agency-communications-accessible-everyone
 type: article
 title: 'Making Agency Communications Accessible to Everyone'
 created: 1585848520

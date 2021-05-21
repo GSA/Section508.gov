@@ -1,5 +1,6 @@
 ---
-uri: blog/section-508-transition-activities-update
+layout: post
+permalink: blog/section-508-transition-activities-update
 type: article
 title: 'Section 508 Transition Activities Update'
 created: 1498743532

@@ -1,5 +1,6 @@
 ---
-uri: blog/new-section-508-rule
+layout: post
+permalink: blog/new-section-508-rule
 type: article
 title: 'New Section 508 Rule: Transition Assistance is Coming'
 created: 1484058893

@@ -1,5 +1,6 @@
 ---
-uri: blog/OMB-508-agency-report-for-august
+layout: post 
+permalink: blog/OMB-508-agency-report-for-august
 type: article
 title: 'OMB 508 Agency Report for August'
 created: 1497274428
