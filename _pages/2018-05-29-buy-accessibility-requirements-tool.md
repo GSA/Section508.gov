@@ -3,6 +3,8 @@ permalink: buy/accessibility-requirements-tool/
 type: page
 title: 'Accessibility Requirements Tool (ART)'
 created: 1527569449
+layout: page
+sidenav: false
 ---
 
  
