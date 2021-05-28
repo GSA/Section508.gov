@@ -183,23 +183,23 @@ Support services shall be provided directly to the user or through a referral to
 
 The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([https://section508.gov/manage/program-roadmap][20]) for further information on the procurement process.
 
- [1]: /ict-accessibility#e206_1
- [2]: /ict-accessibility#e404_1
- [3]: /ict-accessibility#e406_1
- [4]: /ict-accessibility#e407_1__e407_2
- [5]: /ict-accessibility#e407_3_1__e407_3_2__e407_3_3
- [6]: /ict-accessibility#407_8__407_8_1__407_8_1_1
- [7]: /ict-accessibility#407_8_1_2__407_8_2__407_8_2_1__407_8_2_2
- [8]: /ict-accessibility#407_8_3__407_8_3_1__407_8_3_2
- [9]: /ict-accessibility#407_8_3_2_1
- [10]: /ict-accessibility#407_8_3_2_2
- [11]: /ict-accessibility#e408_2
- [12]: /ict-accessibility#e409_1__e410_1
- [13]: /ict-accessibility#e401_1
- [14]: /ict-accessibility#e208_1_general
- [15]: /ict-accessibility#e602_1_general
- [16]: /ict-accessibility#e602_3__e602_4
- [17]: /ict-accessibility#e603_1__e603_2__e603_3
- [18]: /ict-accessibility#e301_1
- [19]: /ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e206_1
+ [2]: {{site.baseurl}}/ict-accessibility#e404_1
+ [3]: {{site.baseurl}}/ict-accessibility#e406_1
+ [4]: {{site.baseurl}}/ict-accessibility#e407_1__e407_2
+ [5]: {{site.baseurl}}/ict-accessibility#e407_3_1__e407_3_2__e407_3_3
+ [6]: {{site.baseurl}}/ict-accessibility#407_8__407_8_1__407_8_1_1
+ [7]: {{site.baseurl}}/ict-accessibility#407_8_1_2__407_8_2__407_8_2_1__407_8_2_2
+ [8]: {{site.baseurl}}/ict-accessibility#407_8_3__407_8_3_1__407_8_3_2
+ [9]: {{site.baseurl}}/ict-accessibility#407_8_3_2_1
+ [10]: {{site.baseurl}}/ict-accessibility#407_8_3_2_2
+ [11]: {{site.baseurl}}/ict-accessibility#e408_2
+ [12]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [13]: {{site.baseurl}}/ict-accessibility#e401_1
+ [14]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [15]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [16]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [17]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
+ [18]: {{site.baseurl}}/ict-accessibility#e301_1
+ [19]: {{site.baseurl}}/ict-accessibility#e302_1
  [20]: /manage/program-roadmap

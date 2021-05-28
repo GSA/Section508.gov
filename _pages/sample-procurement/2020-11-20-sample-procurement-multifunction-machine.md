@@ -129,16 +129,16 @@ ICT shall provide features making its use by individuals with limited cognitive,
 
 The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [(https://section508.gov/manage/program-roadmap)][13] for further information on the procurement process.
 
- [1]: /ict-accessibility#e206_1
- [2]: /ict-accessibility#e404_1
- [3]: /ict-accessibility#e409_1__e410_1
- [4]: /ict-accessibility#e412_1
- [5]: /ict-accessibility#e412_2_2
- [6]: /ict-accessibility#412_4__412_5
- [7]: /ict-accessibility#e401_1
- [8]: /ict-accessibility#e208_1_general
- [9]: /ict-accessibility#e602_1_general
- [10]: /ict-accessibility#e602_3__e602_4
- [11]: /ict-accessibility#e301_1
- [12]: /ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e206_1
+ [2]: {{site.baseurl}}/ict-accessibility#e404_1
+ [3]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [4]: {{site.baseurl}}/ict-accessibility#e412_1
+ [5]: {{site.baseurl}}/ict-accessibility#e412_2_2
+ [6]: {{site.baseurl}}/ict-accessibility#412_4__412_5
+ [7]: {{site.baseurl}}/ict-accessibility#e401_1
+ [8]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [9]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [10]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [11]: {{site.baseurl}}/ict-accessibility#e301_1
+ [12]: {{site.baseurl}}/ict-accessibility#e302_1
  [13]: https://section508.gov/manage/program-roadmap

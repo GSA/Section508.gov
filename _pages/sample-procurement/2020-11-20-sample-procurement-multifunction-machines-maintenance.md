@@ -103,10 +103,10 @@ ICT shall provide features making its use by individuals with limited cognitive,
 
 The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [(https://section508.gov/refresh-toolkit)][7] for further information on the procurement process.
 
- [1]: /ict-accessibility#e208_1_general
- [2]: /ict-accessibility#e602_1_general
- [3]: /ict-accessibility#e602_3__e602_4
- [4]: /ict-accessibility#e603_1__e603_2__e603_3
- [5]: /ict-accessibility#e301_1
- [6]: /ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [2]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [3]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [4]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
+ [5]: {{site.baseurl}}/ict-accessibility#e301_1
+ [6]: {{site.baseurl}}/ict-accessibility#e302_1
  [7]: https://section508.gov/refresh-toolkit

@@ -173,21 +173,21 @@ Applications shall permit user preferences from platform settings for color, con
 
 The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;[(https://section508.gov/refresh-toolkit)][18] for further information on the procurement process.
 
- [1]: /ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
- [2]: /ict-accessibility#e206_1
- [3]: /ict-accessibility#e405_1
- [4]: /ict-accessibility#e409_1__e410_1
- [5]: /ict-accessibility#e412_1
- [6]: /ict-accessibility#e412_2__e412_2_1
- [7]: /ict-accessibility#412_3__412_3_1__412_3_2
- [8]: /ict-accessibility#e412_6
- [9]: /ict-accessibility#e401_1
- [10]: /ict-accessibility#e412_2_exception
- [11]: /ict-accessibility#e501_1_scope
- [12]: /ict-accessibility#e502_1_general
- [13]: /ict-accessibility#e502_2__e502_2_2__e502_3_1
- [14]: /ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
- [15]: /ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
- [16]: /ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
- [17]: /ict-accessibility#503_1__503_2
+ [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
+ [2]: {{site.baseurl}}/ict-accessibility#e206_1
+ [3]: {{site.baseurl}}/ict-accessibility#e405_1
+ [4]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [5]: {{site.baseurl}}/ict-accessibility#e412_1
+ [6]: {{site.baseurl}}/ict-accessibility#e412_2__e412_2_1
+ [7]: {{site.baseurl}}/ict-accessibility#412_3__412_3_1__412_3_2
+ [8]: {{site.baseurl}}/ict-accessibility#e412_6
+ [9]: {{site.baseurl}}/ict-accessibility#e401_1
+ [10]: {{site.baseurl}}/ict-accessibility#e412_2_exception
+ [11]: {{site.baseurl}}/ict-accessibility#e501_1_scope
+ [12]: {{site.baseurl}}/ict-accessibility#e502_1_general
+ [13]: {{site.baseurl}}/ict-accessibility#e502_2__e502_2_2__e502_3_1
+ [14]: {{site.baseurl}}/ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
+ [15]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
+ [16]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
+ [17]: {{site.baseurl}}/ict-accessibility#503_1__503_2
  [18]: https://section508.gov/refresh-toolkit

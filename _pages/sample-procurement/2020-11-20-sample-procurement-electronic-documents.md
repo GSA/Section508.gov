@@ -241,17 +241,17 @@ Applications shall permit user preferences from platform settings for color, con
 
 The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([https://section508.gov/manage/program-roadmap][14]) for further information on the procurement process.
 
- [1]: /ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
- [2]: /ict-accessibility#e205_1_general
- [3]: /ict-accessibility#e205_3__e205_4__e205_4_1
- [4]: /ict-accessibility#602__603__302
- [5]: /ict-accessibility#e501_1_scope
- [6]: /ict-accessibility#e502_1_general
- [7]: /ict-accessibility#e504_1__e504_2__e504_2_1
- [8]: /ict-accessibility#e504_2_2__e504_3__e504_4
- [9]: /ict-accessibility#e502_2__e502_2_2__e502_3_1
- [10]: /ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
- [11]: /ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
- [12]: /ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
- [13]: /ict-accessibility#503_1__503_2
+ [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
+ [2]: {{site.baseurl}}/ict-accessibility#e205_1_general
+ [3]: {{site.baseurl}}/ict-accessibility#e205_3__e205_4__e205_4_1
+ [4]: {{site.baseurl}}/ict-accessibility#602__603__302
+ [5]: {{site.baseurl}}/ict-accessibility#e501_1_scope
+ [6]: {{site.baseurl}}/ict-accessibility#e502_1_general
+ [7]: {{site.baseurl}}/ict-accessibility#e504_1__e504_2__e504_2_1
+ [8]: {{site.baseurl}}/ict-accessibility#e504_2_2__e504_3__e504_4
+ [9]: {{site.baseurl}}/ict-accessibility#e502_2__e502_2_2__e502_3_1
+ [10]: {{site.baseurl}}/ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
+ [11]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
+ [12]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
+ [13]: {{site.baseurl}}/ict-accessibility#503_1__503_2
  [14]: /manage/program-roadmap
