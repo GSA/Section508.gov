@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/Accessibility-Requirements-Tool-is-Live
+permalink: blog/Accessibility-Requirements-Tool-is-Live/
 type: article
 title: 'Accessibility Requirements Tool (ART) is Live!'
 created: 1516238754

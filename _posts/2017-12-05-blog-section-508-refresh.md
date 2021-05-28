@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/section-508-refresh
+permalink: blog/section-508-refresh/
 type: article
 title: 'Watch the Video! New Requirements: Section 508 Refresh'
 created: 1512526462

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/DHS-Trusted-Tester-Program-Updates
+permalink: blog/DHS-Trusted-Tester-Program-Updates/
 type: article
 title: 'DHS Trusted Tester Program Updates '
 created: 1524687889

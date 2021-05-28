@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/section508-facelift
+permalink: blog/section508-facelift/
 type: article
 title: 'Section508.gov Gets a Facelift!'
 created: 1527870039

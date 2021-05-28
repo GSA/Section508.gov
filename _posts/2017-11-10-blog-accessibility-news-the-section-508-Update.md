@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessibility-news-the-section-508-Update
+permalink: blog/accessibility-news-the-section-508-Update/
 type: article
 title: 'Accessibility News: The Section 508 Update'
 created: 1510319868

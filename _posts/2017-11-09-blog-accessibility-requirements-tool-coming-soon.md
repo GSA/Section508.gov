@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessibility-requirements-tool-coming-soon
+permalink: blog/accessibility-requirements-tool-coming-soon/
 type: article
 title: 'Accessibility Requirements Tool (ART) Coming Soon!'
 created: 1510231865

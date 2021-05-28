@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/executive-guide-to-federal-IT-accessibility-released
+permalink: blog/executive-guide-to-federal-IT-accessibility-released/
 type: article
 title: 'Executive Guide to Federal IT Accessibility Released'
 created: 1537886806

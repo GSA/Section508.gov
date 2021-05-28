@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/ACoP-on-the-Road-CSUN-Assistive-Technology-Conference
+permalink: blog/ACoP-on-the-Road-CSUN-Assistive-Technology-Conference/
 type: article
 title: 'ACoP on the Road - CSUN Assistive Technology Conference '
 created: 1524515236

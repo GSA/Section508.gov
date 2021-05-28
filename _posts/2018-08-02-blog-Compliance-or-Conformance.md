@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/Compliance-or-Conformance
+permalink: blog/Compliance-or-Conformance/
 type: article
 title: 'Compliance or Conformance?'
 created: 1533227088

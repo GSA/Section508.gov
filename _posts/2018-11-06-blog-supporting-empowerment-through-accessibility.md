@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/supporting-empowerment-through-accessibility
+permalink: blog/supporting-empowerment-through-accessibility/
 type: article
 title: 'Supporting Empowerment through Accessibility'
 created: 1541532205

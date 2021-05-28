@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/Revised-508-Standards-Safe-Harbor-and-FAR-Update
+permalink: blog/Revised-508-Standards-Safe-Harbor-and-FAR-Update/
 type: article
 title: 'Revised 508 Standards, Safe Harbor and FAR Update'
 created: 1517534461

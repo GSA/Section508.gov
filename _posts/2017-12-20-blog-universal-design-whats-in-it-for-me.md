@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/universal-design-whats-in-it-for-me
+permalink: blog/universal-design-whats-in-it-for-me/
 type: article
 title: "Universal Design: What's in it for Me?"
 created: 1513821339

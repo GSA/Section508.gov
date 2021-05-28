@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/e-recruiting-and-accessibility
+permalink: blog/e-recruiting-and-accessibility/
 type: article
 title: 'e-Recruiting and Accessibility'
 created: 1494338501

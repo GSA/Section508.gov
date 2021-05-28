@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/infographic-the-case-for-universal-design
+permalink: blog/infographic-the-case-for-universal-design/
 type: article
 title: 'Infographic: The Case for Universal Design '
 created: 1519692723

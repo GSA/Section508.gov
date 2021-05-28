@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/celebrate-global-accessibility-awareness-day-2017
+permalink: blog/celebrate-global-accessibility-awareness-day-2017/
 type: article
 title: 'Celebrate Global Accessibility Awareness Day 2017'
 created: 1495115769

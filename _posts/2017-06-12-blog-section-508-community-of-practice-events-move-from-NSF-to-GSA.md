@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/section-508-community-of-practice-events-move-from-NSF-to-GSA
+permalink: blog/section-508-community-of-practice-events-move-from-NSF-to-GSA/
 type: article
 title: 'Section 508 Community of Practice Events Move from NSF to GSA'
 created: 1497273858

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/Barriers-to-Accessibility-Stories-from-Our-Community
+permalink: blog/Barriers-to-Accessibility-Stories-from-Our-Community/
 type: article
 title: 'Barriers to Accessibility: Stories from Our Community'
 created: 1535656948

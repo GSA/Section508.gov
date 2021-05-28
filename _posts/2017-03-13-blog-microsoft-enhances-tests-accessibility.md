@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/microsoft-enhances-tests-accessibility
+permalink: blog/microsoft-enhances-tests-accessibility/
 type: article
 title: 'Microsoft Enhances Tests for Accessibility'
 created: 1489414442

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/Universal-Design-What-is-it
+permalink: blog/Universal-Design-What-is-it/
 type: article
 title: 'Universal Design: What is it?'
 created: 1513216986
