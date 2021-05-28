@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/microsoft-journey-to-accessibility
+permalink: blog/microsoft-journey-to-accessibility/
 type: article
 title: 'Microsoft’s Journey to Accessibility'
 created: 1483454666
