@@ -1,5 +1,5 @@
 ---
-url: ict-accessibility
+permalink: /ict-accessibility/
 type: page
 title: 'ART - Listing of ICT Accessibility Requirements Statements'
 created: 1596557631
