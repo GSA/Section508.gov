@@ -195,22 +195,22 @@ Support services shall be provided directly to the user or through a referral to
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<https://section508.gov/manage/program-roadmap>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<{{site.baseurl}}/manage/program-roadmap>) for further information on the procurement process.
 
- [1]: https://section508.gov/ict-accessibility#e206_1
- [2]: https://section508.gov/ict-accessibility#e405_1
- [3]: https://section508.gov/ict-accessibility#e406_1
- [4]: https://section508.gov/ict-accessibility#e407_1__e407_2
- [5]: https://section508.gov/ict-accessibility#e407_3_1__e407_3_2__e407_3_3
- [6]: https://section508.gov/ict-accessibility#e408_2
- [7]: https://section508.gov/ict-accessibility#407_8_3_2_2
- [8]: https://section508.gov/ict-accessibility#e409_1__e410_1
- [9]: https://section508.gov/ict-accessibility#e411_1
- [10]: https://section508.gov/ict-accessibility#e414_1__e414_1_1__e414_1_2
- [11]: https://section508.gov/ict-accessibility#e401_1
- [12]: https://section508.gov/ict-accessibility#e208_1_general
- [13]: https://section508.gov/ict-accessibility#e602_1_general
- [14]: https://section508.gov/ict-accessibility#e602_3__e602_4
- [15]: https://section508.gov/ict-accessibility#e603_1__e603_2__e603_3
- [16]: https://section508.gov/ict-accessibility#e301_1
- [17]: https://section508.gov/ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e206_1
+ [2]: {{site.baseurl}}/ict-accessibility#e405_1
+ [3]: {{site.baseurl}}/ict-accessibility#e406_1
+ [4]: {{site.baseurl}}/ict-accessibility#e407_1__e407_2
+ [5]: {{site.baseurl}}/ict-accessibility#e407_3_1__e407_3_2__e407_3_3
+ [6]: {{site.baseurl}}/ict-accessibility#e408_2
+ [7]: {{site.baseurl}}/ict-accessibility#407_8_3_2_2
+ [8]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [9]: {{site.baseurl}}/ict-accessibility#e411_1
+ [10]: {{site.baseurl}}/ict-accessibility#e414_1__e414_1_1__e414_1_2
+ [11]: {{site.baseurl}}/ict-accessibility#e401_1
+ [12]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [13]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [14]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [15]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
+ [16]: {{site.baseurl}}/ict-accessibility#e301_1
+ [17]: {{site.baseurl}}/ict-accessibility#e302_1

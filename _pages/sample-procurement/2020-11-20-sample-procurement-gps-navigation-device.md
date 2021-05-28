@@ -115,17 +115,17 @@ Support services shall be provided directly to the user or through a referral to
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<https://section508.gov/manage/program-roadmap>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<{{site.baseurl}}/manage/program-roadmap>) for further information on the procurement process.
 
- [1]: https://section508.gov/ict-accessibility#e205_1_general
- [2]: https://section508.gov/ict-accessibility#e206_1
- [3]: https://section508.gov/ict-accessibility#e405_1
- [4]: https://section508.gov/ict-accessibility#e409_1__e410_1
- [5]: https://section508.gov/ict-accessibility#e411_1
- [6]: https://section508.gov/ict-accessibility#e401_1
- [7]: https://section508.gov/ict-accessibility#e208_1_general
- [8]: https://section508.gov/ict-accessibility#e602_1_general
- [9]: https://section508.gov/ict-accessibility#e602_3__e602_4
- [10]: https://section508.gov/ict-accessibility#e603_1__e603_2__e603_3
- [11]: https://section508.gov/ict-accessibility#e301_1
- [12]: https://section508.gov/ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e205_1_general
+ [2]: {{site.baseurl}}/ict-accessibility#e206_1
+ [3]: {{site.baseurl}}/ict-accessibility#e405_1
+ [4]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [5]: {{site.baseurl}}/ict-accessibility#e411_1
+ [6]: {{site.baseurl}}/ict-accessibility#e401_1
+ [7]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [8]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [9]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [10]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
+ [11]: {{site.baseurl}}/ict-accessibility#e301_1
+ [12]: {{site.baseurl}}/ict-accessibility#e302_1

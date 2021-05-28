@@ -205,18 +205,18 @@ Support services shall be provided directly to the user or through a referral to
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [(https://section508.gov/manage/program-roadmap)][13] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [({{site.baseurl}}/manage/program-roadmap)][13] for further information on the procurement process.
 
- [1]: https://section508.gov/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
- [2]: https://section508.gov/ict-accessibility#e205_1_general
- [3]: https://section508.gov/ict-accessibility#e205_3__e205_4__e205_4_1
- [4]: https://section508.gov/ict-accessibility#602__603__302
- [5]: https://section508.gov/ict-accessibility#e501_1_scope
- [6]: https://section508.gov/ict-accessibility#e502_1_general
- [7]: https://section508.gov/ict-accessibility#e502_2__e502_3__e502_4
- [8]: https://section508.gov/ict-accessibility#e503_2_user_preferences_exception
- [9]: https://section508.gov/ict-accessibility#e208_1_general
- [10]: https://section508.gov/ict-accessibility#e602_1_general
- [11]: https://section508.gov/ict-accessibility#e602_3__e602_4
- [12]: https://section508.gov/ict-accessibility#e603_1__e603_2__e603_3
- [13]: https://section508.gov/manage/program-roadmap
+ [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
+ [2]: {{site.baseurl}}/ict-accessibility#e205_1_general
+ [3]: {{site.baseurl}}/ict-accessibility#e205_3__e205_4__e205_4_1
+ [4]: {{site.baseurl}}/ict-accessibility#602__603__302
+ [5]: {{site.baseurl}}/ict-accessibility#e501_1_scope
+ [6]: {{site.baseurl}}/ict-accessibility#e502_1_general
+ [7]: {{site.baseurl}}/ict-accessibility#e502_2__e502_3__e502_4
+ [8]: {{site.baseurl}}/ict-accessibility#e503_2_user_preferences_exception
+ [9]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [10]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [11]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [12]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
+ [13]: {{site.baseurl}}/manage/program-roadmap

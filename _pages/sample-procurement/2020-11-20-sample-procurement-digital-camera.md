@@ -81,14 +81,14 @@ The requirements of Chapter 4 shall apply to ICT that is hardware where required
 
 #### **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<https://section508.gov/manage/program-roadmap>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<{{site.baseurl}}/manage/program-roadmap>) for further information on the procurement process.
 
- [1]: https://section508.gov/ict-accessibility#e206_1
- [2]: https://section508.gov/ict-accessibility#e405_1
- [3]: https://section508.gov/ict-accessibility#e406_1
- [4]: https://section508.gov/ict-accessibility#e407_1__e407_2
- [5]: https://section508.gov/ict-accessibility#e407_3_1__e407_3_2__e407_3_3
- [6]: https://section508.gov/ict-accessibility#e409_1__e410_1
- [7]: https://section508.gov/ict-accessibility#e401_1
- [8]: https://section508.gov/ict-accessibility#e301_1
- [9]: https://section508.gov/ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e206_1
+ [2]: {{site.baseurl}}/ict-accessibility#e405_1
+ [3]: {{site.baseurl}}/ict-accessibility#e406_1
+ [4]: {{site.baseurl}}/ict-accessibility#e407_1__e407_2
+ [5]: {{site.baseurl}}/ict-accessibility#e407_3_1__e407_3_2__e407_3_3
+ [6]: {{site.baseurl}}/ict-accessibility#e409_1__e410_1
+ [7]: {{site.baseurl}}/ict-accessibility#e401_1
+ [8]: {{site.baseurl}}/ict-accessibility#e301_1
+ [9]: {{site.baseurl}}/ict-accessibility#e302_1

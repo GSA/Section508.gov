@@ -133,17 +133,17 @@ Applications shall permit user preferences from platform settings for color, con
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [(https://section508.gov/manage/program-roadmap)][12] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [({{site.baseurl}}/manage/program-roadmap)][12] for further information on the procurement process.
 
- [1]: https://section508.gov/ict-accessibility#e207_1__e207_2__e207_3
- [2]: https://section508.gov/ict-accessibility#e205_1_general
- [3]: https://section508.gov/ict-accessibility#e501_1_scope
- [4]: https://section508.gov/ict-accessibility#e502_1_general
- [5]: https://section508.gov/ict-accessibility#e503_3__e503_4_1__e503_4_2
- [6]: https://section508.gov/ict-accessibility#e502_2__e502_3__e502_4
- [7]: https://section508.gov/ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
- [8]: https://section508.gov/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
- [9]: https://section508.gov/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
- [10]: https://section508.gov/ict-accessibility#e502_2__e502_2_2__e502_3_1
- [11]: https://section508.gov/ict-accessibility#503_1__503_2
- [12]: https://section508.gov/manage/program-roadmap
+ [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_3
+ [2]: {{site.baseurl}}/ict-accessibility#e205_1_general
+ [3]: {{site.baseurl}}/ict-accessibility#e501_1_scope
+ [4]: {{site.baseurl}}/ict-accessibility#e502_1_general
+ [5]: {{site.baseurl}}/ict-accessibility#e503_3__e503_4_1__e503_4_2
+ [6]: {{site.baseurl}}/ict-accessibility#e502_2__e502_3__e502_4
+ [7]: {{site.baseurl}}/ict-accessibility#502_3_2__502_3_3__502_3_4__502_3_5
+ [8]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
+ [9]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
+ [10]: {{site.baseurl}}/ict-accessibility#e502_2__e502_2_2__e502_3_1
+ [11]: {{site.baseurl}}/ict-accessibility#503_1__503_2
+ [12]: {{site.baseurl}}/manage/program-roadmap
