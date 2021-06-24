@@ -5,22 +5,26 @@
 
 // Example - Override the background image in the hero component using SASS:
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
-
+$theme-font-type-sans: "public-sans";
+$theme-show-notifications: false;
 @import "uswds";
 
 // Example - Override the background image in the hero component using CSS:
-//.usa-hero {
-//  background-image: asset_url("your-image.png")
+.usa-hero {
+  background-image: asset_url("hero.jpg")
 //  background-position: 50%;
 //  background-size: cover;
-//}
+}
+.usa-hero.mission {
+  background-image: asset_url("absolutvision@2x.png")
+  //  background-position: 50%;
+  //  background-size: cover;
+}
+.misson__callout{
+  background: rgba(17, 47, 78, 0.93) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 80px #00000012;
+}
 /*
-$theme-font-role-ui:       'public-sans';
-$theme-font-role-heading:  'public-sans';
-$theme-font-role-body:     'public-sans';
-$theme-font-role-code:     'public-sans';
-$theme-font-role-alt:      'public-sans';
-
   Add your SASS/CSS here
 */
 
@@ -71,3 +75,39 @@ $theme-font-role-alt:      'public-sans';
     visibility: hidden;
   }
 }
+@media (min-width: 40em) {
+  .usa-hero__callout {
+    max-width: 24rem;
+  }
+}
+.h2color{
+  color:#235EBC;
+}
+.primary-background-color{
+  background-color:#235EBC
+}
+.mission h3{
+  font-size:26px;
+}
+.secondary-background-color{
+  background-color: #00a871 ;
+}
+.white-background{
+  background: var(--white) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 80px #00000012;
+  border-radius: 16px;
+  opacity: 1;
+  .circle{
+    width:115px;
+    margin: 0 auto;
+    background: #edf5ff;
+    border-radius:50%;
+    height:115px;
+    text-align: center;
+    .icon{
+      margin-top: 25px;
+    }
+  }
+}
+

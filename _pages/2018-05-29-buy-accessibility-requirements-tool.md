@@ -3,7 +3,7 @@ permalink: buy/accessibility-requirements-tool/
 type: page
 title: 'Accessibility Requirements Tool (ART)'
 created: 1527569449
-layout: page
+layout: wide
 sidenav: false
 ---
 
@@ -52,8 +52,8 @@ To start a new procurement, you&rsquo;ll need to know:
     </li>
   </ol>
   
-  <div class="container_1">
-    <div class="section_1">
+  <div class="grid-row grid-gap">
+    <div class="desktop:grid-col-4">
       <ul class="list_1">
         <li>
           <a href="{{site.baseurl}}/sample-procurement/call-contacthelp-desk-center-services">Call (Contact/Help Desk) Center Services</a>
@@ -99,7 +99,7 @@ To start a new procurement, you&rsquo;ll need to know:
         </li>
       </ul>
     </div>
-    <div class="section_1">
+    <div class="desktop:grid-col-4">
       <ul class="list_1">
         <li>
           <a href="{{site.baseurl}}/sample-procurement/fax-machine ">Fax Only</a>
@@ -145,7 +145,7 @@ To start a new procurement, you&rsquo;ll need to know:
         </li>
       </ul>
     </div>
-    <div class="section_1">
+    <div class="desktop:grid-col-4">
       <ul class="list_1">
         <li>
           <a href="{{site.baseurl}}/sample-procurement/smartphone-maintenance ">Smartphone Maintenance</a>
