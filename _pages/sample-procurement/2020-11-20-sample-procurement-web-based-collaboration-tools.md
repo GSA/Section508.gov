@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: wide 
 sidenav: false 
 permalink: sample-procurement/web-based-collaboration-tools/
 type: page

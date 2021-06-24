@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: wide 
 sidenav: false 
 permalink: sample-procurement/computer-based-training/
 type: page

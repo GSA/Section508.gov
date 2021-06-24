@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: wide 
 sidenav: false 
 permalink: sample-procurement/voip-services/
 type: page

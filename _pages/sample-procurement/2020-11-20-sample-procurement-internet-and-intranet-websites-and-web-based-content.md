@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: wide 
 sidenav: false 
 permalink: sample-procurement/internet-and-intranet-websites-and-web-based-content/
 type: page

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 permalink: sample-procurement/video-and-imaging-input-devices/
 type: page
 title: 'Video and Imaging Input Devices'
