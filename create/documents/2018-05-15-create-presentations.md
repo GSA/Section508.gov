@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/presentations/
-type: page
+type: create
 title: 'Create Accessible Presentations'
 created: 1526359269
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/universal-design-video-series/
-type: page
+type: create
 title: 'An Introduction to Universal Design'
 created: 1604066026
 ---

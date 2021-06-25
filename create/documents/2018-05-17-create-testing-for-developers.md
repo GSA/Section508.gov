@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/testing-for-developers/
-type: page
+type: create
 title: 'Testing Guidance for Developers'
 created: 1526587845
 ---

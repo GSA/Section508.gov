@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/electronic-signatures/
-type: page
+type: create
 title: 'Create Electronic Signatures'
 created: 1576174077
 ---

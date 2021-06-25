@@ -1,8 +1,8 @@
 ---
-layout: page
-sidenav: false
+layout: create
+sidenav: true
 permalink: create/developer-training/
-type: page
+type: create
 title: 'Accessibility Training for Developers'
 created: 1526930196
 ---

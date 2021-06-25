@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/spreadsheets/
-type: page
+type: create
 title: 'Create Accessible Spreadsheets'
 created: 1526410073
 ---

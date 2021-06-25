@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/documents/
-type: page
+type: create
 title: 'Create Accessible Documents'
 created: 1525986152
 ---
