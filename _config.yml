@@ -76,28 +76,28 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: Law & Policy
+  - name: Policy & Management
     url: /
   - name: Acquisition
     url: /blog/
+  - name: Content Creation
+    url: /
   - name: Design & Develop
     url: /document/
   - name: Testing
     url: /document-with-sidenav/
-  - name: Content Creation
-    url: "#"
-  - name: Manage
+  - name: Training & Tools
     url: "#"
 
+
 secondary_navigation:
-  - name: Training
-    url: "#main-content"
-  - name: About Us
-    url: "#main-content"
-  - name: List of Program
-    url: "#"
   - name: News & Updates
+    url: "#main-content"
+  - name: "My Agency’s 508 PM"
+    url: /
+  - name: About Us
     url: "#"
+
 
 # Search.gov configuration
 #
