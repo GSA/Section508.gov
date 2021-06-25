@@ -93,17 +93,17 @@ $theme-show-notifications: false;
 .buy-content{
   background-image: asset_url("rupixen.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 .news-content{
   background-image: asset_url("markus.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 .tools-content{
   background-image: asset_url("jo-szczepanska.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 .topics {
   li {
@@ -173,12 +173,15 @@ $theme-show-notifications: false;
   .usa-nav__secondary-links .usa-nav__secondary-item + .usa-nav__secondary-item::before{
     visibility: hidden;
   }
-  ul {
-    border-left: 6px solid #DBF6ED;
-    margin: 43px 0 43px 10px;
-  }
-  .tools-list ul{
-    margin: 10px 0 0 10px;
+  .topics {
+    ul {
+      border-left: 6px solid #DBF6ED;
+      margin: 43px 0 43px 10px;
+    }
+
+    .tools-list ul {
+      margin: 10px 0 0 10px;
+    }
   }
 }
 @media (min-width: 40em) {
