@@ -81,7 +81,7 @@ primary_navigation:
   - name: Acquisition
     url: /blog/
   - name: Content Creation
-    url: /
+    url: "#"
   - name: Design & Develop
     url: /document/
   - name: Testing
