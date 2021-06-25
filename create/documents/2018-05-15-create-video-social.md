@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/video-social/
-type: page
+type: create
 title: 'Create Accessible Video, Audio and Social Media'
 created: 1526416120
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/authoring-tools/
-type: page
+type: create
 title: 'Authoring Tool Requirements'
 created: 1526591762
 ---

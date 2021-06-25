@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/applicability-conformance/
-type: page
+type: create
 title: 'Applicability & Conformance Requirements '
 created: 1526574510
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/pdfs/
-type: page
+type: create
 title: 'Create Accessible PDFs'
 created: 1527621813
 ---

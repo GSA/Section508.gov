@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: create/presentations/training-videos/
-type: page
+type: create
 title: 'Presentations Training Videos'
 created: 1578415169
 ---
