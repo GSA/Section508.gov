@@ -84,7 +84,7 @@ $theme-show-notifications: false;
   color:#235EBC;
 }
 .primary-background-color{
-  background-color:#235EBC
+  background-color:#2672de;
 }
 .mission h3{
   font-size:26px;
@@ -109,5 +109,65 @@ $theme-show-notifications: false;
       margin-top: 25px;
     }
   }
+  .card{
+    height:207px;
+    a{
+      margin-top: 135px;
+    }
+  }
 }
-
+.pillcolor{
+  background: #edf5ff;
+}
+.buy{
+  background-image: asset_url("icons/Icon-awesome-shopping-bag.svg");
+  background-repeat: no-repeat;
+  background-position: 20px 7px;
+}
+.news{
+  background-image: asset_url("icons/Icon-awesome-newspaper.svg");
+  background-repeat: no-repeat;
+  background-position: 17px 12px;
+}
+.tools{
+  background-image: asset_url("icons/Icon-awesome-tools.svg");
+  background-repeat: no-repeat;
+  background-position: 15px 8px;
+}
+.buy-content{
+  background-image: asset_url("rupixen.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.news-content{
+  background-image: asset_url("markus.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tools-content{
+  background-image: asset_url("jo-szczepanska.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.topics {
+  li {
+    text-align: left;
+    line-height: 2em;
+    padding-left: 1em;
+    a{
+      color: #2672de;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  }
+  li:hover{
+    background: #edf5ff;
+  }
+  ul {
+    border-left: 6px solid #DBF6ED;
+    margin: 43px 0 43px 10px;
+  }
+  .tools-list ul{
+    margin: 10px 0 0 10px;
+  }
+}
