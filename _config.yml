@@ -77,7 +77,7 @@ ga:
 # Site Navigation
 primary_navigation:
   - name: Policy & Management
-    url: /
+    url: /manage/
   - name: Acquisition
     url: /blog/
   - name: Content Creation
