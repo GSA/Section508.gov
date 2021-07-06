@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/laws-and-policies/state/
-type: page
+type: manage
 title: 'State Policy'
 created: 1527605841
 ---

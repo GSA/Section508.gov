@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/improve-digital-dashboard-scores/
-type: page
+type: manage
 title: 'How to Improve Digital Dashboard Accessibility Scores'
 created: 1603390069
 ---
@@ -129,31 +129,22 @@ The Digital Dashboard&rsquo;s Accessibility module scans for certain common acce
 
 <ol>
   <li>
-    Sign into <a href="http://digitaldashboard.gov/"><span style="color: #0071bc;">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/"><span style="color: #0071bc;">MAX.gov</a> account </li> 
-    
+    Sign into <a href="http://digitaldashboard.gov/">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/">MAX.gov</a> account </li>
     <li>
       Select the &ldquo;Accessibility&rdquo; module link, and review the data for your agency.
-    </li></ol> 
+    </li>
+</ol>
     
-    <p style="margin-left: 20px;">
+<p style="margin-left: 20px;">
       <strong>Note:</strong> First-time dashboard users will need to submit a one-time request to <a href="mailto:dotgovdashboard@gsa.gov">dotgovdashboard@gsa.gov</a> for access to your agency data.
-    </p>
-    
-    <div class="panel panel-default" style="margin-top: 1.5em;">
-      <div class="panel-body">
-        <p class="text-large">
-          <strong>Before You Go</strong>
-        </p>
-        
-        <p>
-          We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-        </p>
-      </div>
-    </div>
-    
-    <p>
-      <strong>Reviewed/Updated:</strong> October 2020
-    </p>
+</p>
+<div class="panel panel-default" style="margin-top: 1.5em;">
+<div class="panel-body">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
+</div>
+</div>
+<p><strong>Reviewed/Updated:</strong> October 2020</p>
 
  [1]: https://www.digitaldashboard.gov/faq
  [2]: https://www.digitaldashboard.gov

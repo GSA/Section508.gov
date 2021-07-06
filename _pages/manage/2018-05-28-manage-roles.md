@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/roles/
-type: page
+type: manage
 title: 'Roles and Responsibilities'
 created: 1527546177
 ---

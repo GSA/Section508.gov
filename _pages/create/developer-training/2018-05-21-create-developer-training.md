@@ -1,5 +1,5 @@
 ---
-layout: create
+layout: page
 sidenav: true
 permalink: create/developer-training/
 type: create

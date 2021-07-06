@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/program-management/
-type: page
+type: manage
 title: ' IT Accessibility Program Management'
 created: 1527541161
 ---

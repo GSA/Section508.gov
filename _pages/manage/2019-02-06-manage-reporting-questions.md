@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/reporting/questions/
-type: page
+type: manage
 title: 'OMB Reporting Questions'
 created: 1549497525
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/laws-and-policies/international/
-type: page
+type: manage
 title: 'International Harmonization'
 created: 1527606769
 ---

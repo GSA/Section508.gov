@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/reporting/guidelines-program-maturity/
-type: page
+type: manage
 title: 'Assessing Program Maturity'
 created: 1527575116
 ---

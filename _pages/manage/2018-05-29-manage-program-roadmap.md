@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/program-roadmap/
-type: page
+type: manage
 title: 'Revised 508 Standards Roadmap'
 created: 1527574221
 ---

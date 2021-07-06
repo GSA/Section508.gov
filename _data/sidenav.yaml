@@ -1,0 +1,71 @@
+# We can add any kind of data in this _data folder and this file.
+# In this example, we create a simple array of options and then in the _pages/collections.md file we 
+# Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it 
+# This is simple, hopefully provides you with a good enough example to make changes as needed
+manage:
+  - name: Policy and Management home
+    url: manage/
+  - name: Management
+    url: manage/roles/
+    children:
+      - name: Manage a 508 Program
+        url: manage/roles/
+        grandchildren:
+          - name: Accessibility Roles
+            url: manage/roles/
+          - name: Improve Digital Dashboard Accessibility Scores
+            url: manage/improve-digital-dashboard-scores/
+          - name: Publish Accessible Content
+            url: manage/publish-accessible-content/
+          - name: Teach Staff about Accessibility
+            url: manage/teach-staff-about-accessibility/
+          - name: Track and Report Conformance
+            url: manage/track-report-conformance/
+          - name: IT Accessibility/508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
+          - name: Revised 508 Standards Roadmap
+            url: manage/program-roadmap/
+      - name: Accessibility for IT Program & Project Manager
+        url: manage/program-management/
+        grandchildren:
+          - name: IT Accessibility Program Management
+            url: manage/program-management/
+          - name: Identify User Needs
+            url: manage/identify-user-needs/
+          - name: Support Development of Accessible Content
+            url: manage/support-accessible-content/
+          - name: Understand Content Scope and Technical Requirements
+            url: manage/understand-scope-technical-requirements/
+      - name: Join the 508 community
+        url: manage/join-the-508-community/
+      - name: Find you program manager
+        url: tools/coordinator-listing/
+      - name: Accessibility Reporting
+        url: manage/reporting/
+        grandchildren:
+          - name: Maturity Reporting
+            url: manage/reporting/
+          - name: Reporting FAQ
+            url: manage/reporting/faq/
+          - name: Measure Website Conformance
+            url: manage/reporting/guidelines-conformance/
+          - name: Maturity Assessment Guidelines
+            url: manage/reporting/guidelines-program-maturity/
+          - name: Roll Up Agency Accessibility Metrics
+            url: manage/reporting/guidelines-roll-up-metrics/
+          - name: OMB Reporting Questions
+            url: manage/reporting/questions/
+  - name: Law and Policy
+    url: manage/laws-and-policies/
+    children:
+      - name: IT Accessibility Laws and Policies Overview
+        url: manage/laws-and-policies/
+      - name: International IT Accessibility Laws and Policies
+        url: manage/laws-and-policies/international/
+      - name: Laws and Policy Quick Reference Guide
+        url: manage/laws-and-policies/quick-reference-guide/
+      - name: State-level Accessibility Law and Policy
+        url: manage/laws-and-policies/state/
+      - name: Updating Agency Policy
+        url: manage/laws-and-policies/update-agency-policies/
+

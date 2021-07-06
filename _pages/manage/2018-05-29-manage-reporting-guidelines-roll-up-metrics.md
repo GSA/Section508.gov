@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/reporting/guidelines-roll-up-metrics/
-type: page
+type: manage
 title: 'Rolling Up Agency Metrics'
 created: 1527574644
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/program-manager-responsibilities/
-type: page
+type: manage
 title: ' IT Accessibility/508 Program Manager Responsibilities'
 created: 1534188326
 ---

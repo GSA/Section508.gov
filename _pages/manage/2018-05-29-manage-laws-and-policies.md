@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/laws-and-policies/
-type: page
+type: manage
 title: 'IT Accessibility Laws and Policies'
 created: 1527612022
 ---

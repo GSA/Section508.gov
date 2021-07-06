@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/support-accessible-content/
-type: page
+type: manage
 title: 'Build Support for Accessible Content'
 created: 1527548666
 ---

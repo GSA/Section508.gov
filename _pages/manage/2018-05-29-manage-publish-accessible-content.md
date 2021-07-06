@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/publish-accessible-content/
-type: page
+type: manage
 title: 'Publish Accessible Content'
 created: 1527566954
 ---

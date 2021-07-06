@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/reporting/faq/
-type: page
+type: manage
 title: 'Reporting - Frequently Asked Questions'
 created: 1527582783
 ---

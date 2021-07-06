@@ -1,55 +1,105 @@
-{% comment %} 
+{% comment %}
 The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
 {% endcomment %}
 
 
 {% if page.type == 'create' %}
-
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-  <nav>
-    <ul class="usa-sidenav">
-      <li class="usa-sidenav__item">
-        <a href="">Parent link</a>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="" class="usa-current">Current page</a>
-        <ul class="usa-sidenav__sublist">
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="" class="usa-current">Child link</a>
-            <ul class="usa-sidenav__sublist">
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="" class="usa-current">Grandchild link</a>
-              </li>
-              <li class="usa-sidenav__item">
-                <a href="">Grandchild link</a>
-              </li>
-            </ul>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
-          <li class="usa-sidenav__item">
-            <a href="">Child link</a>
-          </li>
+    <nav>
+        <ul class="usa-sidenav">
+            <li class="usa-sidenav__item">
+                <a href="">Parent link</a>
+            </li>
+            <li class="usa-sidenav__item">
+                <a href="" class="usa-current">Current page</a>
+                <ul class="usa-sidenav__sublist">
+                    <li class="usa-sidenav__item">
+                        <a href="">Child link</a>
+                    </li>
+                    <li class="usa-sidenav__item">
+                        <a href="" class="usa-current">Child link</a>
+                        <ul class="usa-sidenav__sublist">
+                            <li class="usa-sidenav__item">
+                                <a href="">Grandchild link</a>
+                            </li>
+                            <li class="usa-sidenav__item">
+                                <a href="">Grandchild link</a>
+                            </li>
+                            <li class="usa-sidenav__item">
+                                <a href="" class="usa-current">Grandchild link</a>
+                            </li>
+                            <li class="usa-sidenav__item">
+                                <a href="">Grandchild link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="usa-sidenav__item">
+                        <a href="">Child link</a>
+                    </li>
+                    <li class="usa-sidenav__item">
+                        <a href="">Child link</a>
+                    </li>
+                    <li class="usa-sidenav__item">
+                        <a href="">Child link</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="usa-sidenav__item">
+                <a href="">Parent link</a>
+            </li>
         </ul>
-      </li>
-      <li class="usa-sidenav__item">
-        <a href="">Parent link</a>
-      </li>
-    </ul>
-  </nav>
+    </nav>
+</aside>
+{% endif %}
+{% if page.type == 'manage' %}
+<aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+    <nav>
+        <ul class="usa-sidenav">
+            {% assign links = site.data.sidenav.manage %}
+            {% for link in links %}
+            {% assign href = link.url %}
+            {% assign current = false %}
+            {% if href == page.url or href == page.permalink %}
+            {% assign current = true %}
+            {% endif %}
+            <li class="usa-sidenav__item">
+                <a href="{{site.baseurl}}/{{ href }}" {% if current %} class="usa-current" {% endif %}>
+                    {{ link.name }}
+                </a>
+                {% if link.children %}
+                <ul class="usa-sidenav__sublist">
+                    {% for children in link.children %}
+                    {% assign currentChild = false %}
+                    {% if page.url == children.url or page.permalink == children.url %}
+                    {% assign currentChild = true %}
+                    {% endif %}
+                    <li class="usa-sidenav__item">
+                        <a href="{{site.baseurl}}/{{ children.url }}" {% if currentChild %} class="usa-current" {% endif %}>
+                            {{ children.name }}
+                        </a>
+                        {% if children.grandchildren %}
+                         <ul class="usa-sidenav__sublist">
+                          {% for grandchildren in children.grandchildren %}
+                             {% assign currentGrandchild = false %}
+                             {% if page.url == grandchildren.url or page.permalink == grandchildren.url %}
+                             {% assign currentGrandchild = true %}
+                             {% endif %}
+                           <li class="usa-sidenav__item">
+                             <a href="{{site.baseurl}}/{{ grandchildren.url }}" {% if currentGrandchild %} class="usa-current" {% endif %}>
+                               {{ grandchildren.name }}
+                             </a>
+                           </li>
+                           {% endfor %}
+                         </ul>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
 </aside>
 {% endif %}

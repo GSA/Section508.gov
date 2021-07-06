@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/laws-and-policies/update-agency-policies/
-type: page
+type: manage
 title: 'Update Agency Accessibility Policies'
 created: 1527607206
 ---

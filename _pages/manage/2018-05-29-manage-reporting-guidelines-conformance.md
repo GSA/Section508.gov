@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/reporting/guidelines-conformance/
-type: page
+type: manage
 title: 'Measuring Website Conformance'
 created: 1527574911
 ---

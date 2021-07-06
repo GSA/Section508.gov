@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/teach-staff-about-accessibility/
-type: page
+type: manage
 title: 'Teach Staff about Accessibility'
 created: 1527553139
 ---

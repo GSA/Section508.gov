@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/identify-user-needs/
-type: page
+type: manage
 title: 'Identify User Needs'
 created: 1527548267
 ---

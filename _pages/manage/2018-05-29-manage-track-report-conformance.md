@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/track-report-conformance/
-type: page
+type: manage
 title: 'Track and Report Conformance'
 created: 1527568792
 ---

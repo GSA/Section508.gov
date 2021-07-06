@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: manage/understand-scope-technical-requirements/
-type: page
+type: manage
 title: 'Understand Content Scope and Technical Requirements'
 created: 1527551014
 ---
