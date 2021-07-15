@@ -1,5 +1,5 @@
 ---
-layout: wide 
+layout: sampleProcurement 
 sidenav: false 
 permalink: sample-procurement/gps-navigation-device/
 type: page
@@ -65,7 +65,7 @@ Documentation that supports the use of ICT shall conform to 602.
 
 Documentation shall list and explain how to use the accessibility and compatibility features required by Chapters 4 and 5. Documentation shall include accessibility features that are built-in and accessibility features that provide compatibility with assistive technology.
 
-[E602.3 Electronic Support Documentation][8] -
+[E602.3 Electronic Support Documentation][9] -
 
 Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
 
@@ -115,7 +115,8 @@ Support services shall be provided directly to the user or through a referral to
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<{{site.baseurl}}/manage/program-roadmap>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit 
+([{{site.baseurl}}/manage/program-roadmap][13])for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e205_1_general
  [2]: {{site.baseurl}}/ict-accessibility#e206_1
@@ -129,3 +130,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [10]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
  [11]: {{site.baseurl}}/ict-accessibility#e301_1
  [12]: {{site.baseurl}}/ict-accessibility#e302_1
+ [13]: {{site.baseurl}}/manage/program-roadmap

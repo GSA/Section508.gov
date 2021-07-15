@@ -1,5 +1,5 @@
 ---
-layout: wide 
+layout: sampleProcurement 
 sidenav: false 
 permalink: sample-procurement/fax-machine/
 type: page
@@ -202,4 +202,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [17]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
  [18]: {{site.baseurl}}/ict-accessibility#e301_1
  [19]: {{site.baseurl}}/ict-accessibility#e302_1
- [20]: /manage/program-roadmap
+ [20]: {{site.baseurl}}/manage/program-roadmap
