@@ -1,5 +1,5 @@
 ---
-layout: wide 
+layout: sampleProcurement 
 sidenav: false 
 permalink: sample-procurement/management-information-system-services/
 type: page

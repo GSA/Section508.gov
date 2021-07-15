@@ -1,5 +1,5 @@
 ---
-layout: wide 
+layout: sampleProcurement 
 sidenav: false 
 permalink: sample-procurement/software-maintenance-services/
 type: page

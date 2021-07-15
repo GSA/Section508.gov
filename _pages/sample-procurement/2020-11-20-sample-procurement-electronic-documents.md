@@ -1,12 +1,11 @@
 ---
-layout: wide 
+layout: sampleProcurement 
 sidenav: false 
 permalink: sample-procurement/electronic-documents/
 type: page
 title: 'Electronic Documents'
 created: 1605888472
 ---
-
 ## **ICT Accessibility Requirements Statement per the Revised Section 508 of the Rehabilitation Act**
 
 ### **General Exceptions**
@@ -254,4 +253,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [11]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
  [12]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
  [13]: {{site.baseurl}}/ict-accessibility#503_1__503_2
- [14]: /manage/program-roadmap
+ [14]: {{site.baseurl}}/manage/program-roadmap
