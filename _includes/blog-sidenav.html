@@ -1,0 +1,14 @@
+{% comment %} 
+This sidenav has tags from all the posts. Will be displayed on Blog landing page and inner pages.
+{% endcomment %}
+
+<nav>
+  <div class="usa-sidenav__title">Topics</div>
+  <ul class="usa-sidenav">
+  	{% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+     {% assign tag-url = '/blog/' | append: tag[0] | append: '/' | downcase %}
+    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/{{ tag[0] }}" class="usa-nav__link {% if page.url == tag-url %} usa-current{% endif %}">{{ tag[0] | replace: "-"," " }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

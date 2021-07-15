@@ -4,6 +4,8 @@ permalink: blog/section-508-refresh/
 type: article
 title: 'Watch the Video! New Requirements: Section 508 Refresh'
 created: 1512526462
+tags: Announcements Policy
+description: December 12, 2017 - The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
 ---
 
 December 12, 2017 - The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.

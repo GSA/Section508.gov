@@ -4,6 +4,8 @@ permalink: blog/Accessibility-Requirements-Tool-is-Live/
 type: article
 title: 'Accessibility Requirements Tool (ART) is Live!'
 created: 1516238754
+tags: Announcements Procurement
+description: January 17, 2018 - The Accessibility Requirements Tool (ART) is now live. Read on to learn how the tool can help your federal agency more easily develop and procure accessible technology.
 ---
 
 The [Accessibility Requirements Tool (ART)][1] is now live. Read on to learn how the tool can help your federal agency more easily develop and procure accessible technology.
