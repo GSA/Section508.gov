@@ -28,6 +28,12 @@ $theme-show-notifications: false;
   Add your SASS/CSS here
 */
 
+.usa-sidenav__title {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
 // default mode hide banner
 .usa-banner__content {
   display: hidden;

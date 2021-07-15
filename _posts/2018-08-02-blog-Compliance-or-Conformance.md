@@ -4,6 +4,8 @@ permalink: blog/Compliance-or-Conformance/
 type: article
 title: 'Compliance or Conformance?'
 created: 1533227088
+tags: Accessibility Policy
+description: July 31, 2018 - You've likely heard the terms "compliance" and "conformance" when people talk about IT accessibility. What's the difference?
 ---
 
 You've likely heard the terms "compliance" and "conformance" when people talk about IT accessibility. These words are often used interchangeably (and incorrectly) in relation to Section 508 law and standards and it's easy to get them confused.
