@@ -185,7 +185,7 @@ Applications shall permit user preferences from platform settings for color, con
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<{{site.baseurl}}/manage/program-roadmap>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit([{{site.baseurl}}/manage/program-roadmap][12])for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
  [2]: {{site.baseurl}}/ict-accessibility#e205_1_general
@@ -198,3 +198,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [9]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
  [10]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
  [11]: {{site.baseurl}}/ict-accessibility#503_1__503_2
+ [12]:{{site.baseurl}}/manage/program-roadmap

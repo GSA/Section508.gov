@@ -32,12 +32,10 @@ created: 1605888472
 [302.9 With Limited Language, Cognitive, and Learning Abilities][2] -<p.>ICT shall provide features making its use by individuals with limited cognitive, language, and learning abilities simpler and easier.</p> 
 
   
-
-
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [({{site.baseurl}}/refresh-toolkit)][3] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][3])  for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e301_1
  [2]: {{site.baseurl}}/ict-accessibility#e302_1
- [3]: {{site.baseurl}}/refresh-toolkit
+ [3]: {{site.baseurl}}/manage/program-roadmap

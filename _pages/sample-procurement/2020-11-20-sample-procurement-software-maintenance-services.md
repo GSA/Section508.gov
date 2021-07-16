@@ -63,7 +63,7 @@ Support services shall be provided directly to the user or through a referral to
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [({{site.baseurl}}/manage/program-roadmap)][5] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][5])  for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e208_1_general
  [2]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3

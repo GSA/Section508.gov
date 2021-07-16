@@ -25,7 +25,7 @@ ICT with closed functionality shall be operable without requiring the user to at
 
 ICT with a display screen shall be speech-output enabled for full and independent use by individuals with vision impairments.
 
-[E402.3 Volume -][4]
+[E402.3 Volume -][5]
 
 ICT that delivers sound, including speech output required by 402.2, shall provide volume control and output amplification conforming to 402.3.
 
@@ -271,7 +271,7 @@ CT shall provide features making its use by individuals with limited cognitive, 
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;[({{site.baseurl}}/refresh-toolkit)][34] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;([{{site.baseurl}}/manage/program-roadmap][34])  for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e206_1
  [2]: {{site.baseurl}}/ict-accessibility#e402_1_general
@@ -306,4 +306,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [31]: {{site.baseurl}}/ict-accessibility#e602_1_general
  [32]: {{site.baseurl}}/ict-accessibility#e301_1
  [33]: {{site.baseurl}}/ict-accessibility#e302_1
- [34]: {{site.baseurl}}/refresh-toolkit
+ [34]: {{site.baseurl}}/manage/program-roadmap
