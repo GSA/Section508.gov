@@ -40,7 +40,7 @@ Electronic content shall comply with E205.
 
 [E205.3 Agency Official Communication][3] -
 
-Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:<ol type= "A"> 
+Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:
 
   * An emergency notification;
   * An initial or final decision adjudicating an administrative claim or proceeding;
@@ -50,11 +50,11 @@ Electronic content that is not public facing shall conform to the accessibility 
   * A survey questionnaire;
   * A template or form;
   * Educational or training materials; or
-  * Intranet content designed as a Web page.</ol> 
+  * Intranet content designed as a Web page.
 
 [E205.4 Accessibility Standard (WCAG 2.0)][3] -
 
-Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:<ol type = "A"> 
+Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:
 
   * An emergency notification;
   * An initial or final decision adjudicating an administrative claim or proceeding;
@@ -64,7 +64,7 @@ Electronic content that is not public facing shall conform to the accessibility 
   * A survey questionnaire;
   * A template or form;
   * Educational or training materials; or
-  * Intranet content designed as a Web page.</ol> 
+  * Intranet content designed as a Web page.
 
 [E205.4.1 Word Substitution when Applying WCAG to non-Web Documents][3] -
 
