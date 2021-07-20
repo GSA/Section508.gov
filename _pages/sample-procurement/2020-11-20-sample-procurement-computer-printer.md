@@ -133,11 +133,11 @@ Documentation that supports the use of ICT shall conform to 602.
 
 Documentation shall list and explain how to use the accessibility and compatibility features required by Chapters 4 and 5. Documentation shall include accessibility features that are built-in and accessibility features that provide compatibility with assistive technology.
 
-[E602.3 Electronic Support Documentation][16] -
+[E602.3 Electronic Support Documentation][17] -
 
 Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
 
-[E602.4 Alternate Formats for Non-Electronic Support Documentation][16] -
+[E602.4 Alternate Formats for Non-Electronic Support Documentation][17] -
 
 Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.
 

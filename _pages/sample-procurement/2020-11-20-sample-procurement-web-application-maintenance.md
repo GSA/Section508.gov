@@ -32,7 +32,7 @@ ICT support services shall include information on the accessibility and compatib
 [E603.3 Accommodation of Communication Needs][2] -  
 Support services shall be provided directly to the user or through a referral to a point of contact. Such ICT support services shall accommodate the communication needs of individuals with disabilities.
 
-[E602.3 Electronic Support Documentation][3] -  
+[E602.3 Electronic Support Documentation][4] -  
 Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
 
 [E602.4 Alternate Formats for Non-Electronic Support Documentation][3] -  
@@ -47,7 +47,7 @@ Documentation shall list and explain how to use the accessibility and compatibil
 [E602.3 Electronic Support Documentation][4] -  
 Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
 
-[E602.4 Alternate Formats for Non-Electronic Support Documentation][4] -  
+[E602.4 Alternate Formats for Non-Electronic Support Documentation][3] -  
 Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.
 
 [E208.1 General][5] -  
@@ -96,7 +96,7 @@ ICT shall provide features making its use by individuals with limited cognitive,
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit [({{site.baseurl}}/manage/program-roadmap)][8] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][8]) for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e205_1_general
  [2]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3

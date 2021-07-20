@@ -5,6 +5,7 @@ permalink: sample-procurement/ip-telephones/
 type: page
 title: 'IP Telephones'
 created: 1605888472
+
 ---
 
 ## **ICT Accessibility Requirements Statement per the Revised Section 508 of the Rehabilitation Act**
@@ -53,7 +54,7 @@ Where provided, color coding shall not be used as the only means of conveying in
 
 ICT that provides two-way voice communication shall conform to 412.
 
-[E412.2 Volume Gain -][6]
+[E412.2 Volume Gain -][10]
 
 ICT that provides two-way voice communication shall conform to 412.2.1 or 412.2.2.
 
@@ -171,7 +172,8 @@ Applications shall permit user preferences from platform settings for color, con
 
 #### **Instructions&nbsp;**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;[({{site.baseurl}}/refresh-toolkit)][18] for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;[({{site.baseurl}}/refresh-toolkit][18])for further information on the procurement process.
+
 
  [1]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
  [2]: {{site.baseurl}}/ict-accessibility#e206_1
@@ -190,4 +192,4 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [15]: {{site.baseurl}}/ict-accessibility#502_3_6__502_3_7__502_3_8__502_3_9__502_3_10
  [16]: {{site.baseurl}}/ict-accessibility#502_3_11__502_3_12__502_3_13__502_3_14
  [17]: {{site.baseurl}}/ict-accessibility#503_1__503_2
- [18]: {{site.baseurl}}/refresh-toolkit
+ [18]: {{site.baseurl}}/manage/program-roadmap
