@@ -79,7 +79,7 @@ primary_navigation:
   - name: Policy & Management
     url: /manage/
   - name: Acquisition
-    url: /blog/
+    url: "#"
   - name: Content Creation
     url: "#"
   - name: Design & Develop
@@ -92,7 +92,7 @@ primary_navigation:
 
 secondary_navigation:
   - name: News & Updates
-    url: "#main-content"
+    url: /blog/
   - name: "My Agency’s 508 PM"
     url: /
   - name: About Us
