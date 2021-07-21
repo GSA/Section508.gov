@@ -54,8 +54,7 @@ If you have questions while using the application or have tool improvement recom
 <div class="panel panel-default" style="margin-top: 1.5em;">
   <div class="panel-body">
     <strong>Before You Go</strong> 
-    
-    <p>
+<p>
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

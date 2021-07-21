@@ -12,16 +12,13 @@ created: 1527530633
     <p>
       Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html">Universal design</a>, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
     </p>
-    
-    <p>
+<p>
       Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
     </p>
-    
-    <p>
+<p>
       Through universal design, your agency will:
     </p>
-    
-    <ol>
+<ol>
       <li>
         <strong>Save money </strong>by investing in the most accessible products from the start;
       </li>
@@ -54,12 +51,10 @@ Invest in universal design to transform the way your agency serves citizens, reg
     <p>
       <a href="/create/universal-design-video-series"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
-    
-    <p>
+<p>
       This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
     </p>
-    
-    <p>
+<p>
       Duration: 18m 21s | 4-Part Video Series
     </p>
   </div>
@@ -88,8 +83,7 @@ If you have questions or want to share your experiences using universal design, 
 <div class="panel panel-default" style="margin-top: 1.5em;">
   <div class="panel-body">
     <span class="text-large"><strong>Before You Go</strong></span> <br /> 
-    
-    <p>
+<p>
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

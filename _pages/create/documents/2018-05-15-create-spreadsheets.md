@@ -22,17 +22,14 @@ The resources in this section were developed by the Accessible Electronic Docume
     <div class="col-xs-12 col-md-3">
       <a href="https://www.section508.gov/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" /></a>
     </div>
-    
-    <div class="col-xs-12 col-md-9">
+<div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a>
       </p>
-      
-      <p>
+    <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Excel spreadsheet is Section 508 conformant.
       </p>
-      
-      <p>
+    <p>
         Duration 30m 50s | 12-part Video Series
       </p>
     </div>
@@ -68,8 +65,7 @@ The resources in this section were developed by Federal agencies, and shared her
 <div class="panel panel-default">
   <div class="panel-body">
     <strong>Before You Go</strong> 
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

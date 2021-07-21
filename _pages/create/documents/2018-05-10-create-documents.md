@@ -22,17 +22,14 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
     <div class="col-xs-12 col-md-3">
       <a href="https://www.section508.gov/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
     </div>
-    
-    <div class="col-xs-12 col-md-9">
+<div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/documents/training-videos">How to Make an Accessible Document in Microsoft Word</a>
       </p>
-      
-      <p>
+    <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Word document is Section 508 conformant.
       </p>
-      
-      <p>
+    <p>
         Duration 59m 21s | 14-part Video Series
       </p>
     </div>
@@ -86,8 +83,7 @@ The resources in this section were developed by federal agencies and shared here
 <div class="panel panel-default">
   <div class="panel-body">
     <strong>Before You Go</strong> 
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

@@ -173,14 +173,10 @@ For all user interface components (including, but not limited to, form elements,
   * Provide the name, role, state, value of all components.
 
   * For each element a user encounters, they need to know:
-    
-      * Name (e.g., the label)
-    
-      * State (e.g., checked/unchecked, expanded/collapsed, selected/unselected)
-    
-      * Role (e.g., input type)
-    
-      * Value
+  * Name (e.g., the label)
+  * State (e.g., checked/unchecked, expanded/collapsed, selected/unselected)
+  * Role (e.g., input type)
+  * Value
 
 ### 2.2.2 Pause, Stop, Hide
 
@@ -217,12 +213,9 @@ The visual presentation of text and images of text has a contrast ratio of at le
 **Content/Design Considerations**
 
   * Select colors for text and background that exceed the contrast requirement.
-    
-      * Large Text is at least 18 point text or at least 14 point for bold text.
-    
-      * If using colors that have a gradient, use the lightest color in the gradient for the contrast ratio test.
-    
-      * Note: The default red color in CSS does not provide enough contrast against white if it's not large text. Use a slightly darker red, like #E60000 for standard font sizes.
+  * Large Text is at least 18 point text or at least 14 point for bold text.
+  * If using colors that have a gradient, use the lightest color in the gradient for the contrast ratio test.
+  * Note: The default red color in CSS does not provide enough contrast against white if it's not large text. Use a slightly darker red, like #E60000 for standard font sizes.
 
   * Test color contrast with the [WebAIM color contrast checker][4]
 
@@ -273,8 +266,7 @@ Information, structure, and relationships conveyed through presentation can be p
 
   * Grouping related form controls: 
       * Refer to [ARIA (radio buttons, segmented inputs)][5]
-    
-      * Fieldset/Legend and Label/ID (see also [WCAG H44][6] and [WCAG H71][7]) <ul style="list-style-type:none;">
+  * Fieldset/Legend and Label/ID (see also [WCAG H44][6] and [WCAG H71][7]) <ul style="list-style-type:none;">
           <li>
             &nbsp;&nbsp;&nbsp;<fieldset><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<legend>Your Name</legend><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="title">Title (optional)</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="title" type="text"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="first-name">First name*</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="first-name" name="first-name" type="text" aria-required="true"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="middle-name">Middle name (optional)</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="middle-name" type="text"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="last-name">Last name*</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="last-name" name="last-name" type="text" aria-required="true"><br /> <br /> &nbsp;&nbsp;&nbsp;</fieldset><br /> &nbsp;</form>
           </li>
@@ -282,17 +274,13 @@ Information, structure, and relationships conveyed through presentation can be p
 
   * Techniques for WCAG Success Criteria: 
       * [H44: Using label elements to associate text labels with form controls][6]
-    
-      * [H71: Providing a description for groups of form controls using fieldset and legend elements][7])
-    
-      * [H85: Using OPTGROUP to group OPTION elements inside a SELECT][8]
+  * [H71: Providing a description for groups of form controls using fieldset and legend elements][7])
+  * [H85: Using OPTGROUP to group OPTION elements inside a SELECT][8]
 
   * ARIA techniques: 
       * [aria-labelledby][9] - Reference ID(s) that have been assigned to the form instruction(s); useful if the instructions are on the page but not together or next to the input form
-    
-      * [aria-label][10] - useful if the form instruction is not visible on the page
-    
-      * [aria-describedby][11] - reference ID(s) that have been assigned to information on the page that supports the form instruction
+  * [aria-label][10] - useful if the form instruction is not visible on the page
+  * [aria-describedby][11] - reference ID(s) that have been assigned to information on the page that supports the form instruction
 
 ### 3.2.2 On Input
 
@@ -572,10 +560,8 @@ If a web page can be navigated sequentially and the navigation sequences affect 
   * Code content so elements are tabbed to in a sequential order that matches visual presentation of content (left to right, top to bottom).
 
   * When adding an element to the keyboard tab order, use tabindex="0"
-    
-      * tabindex="-1": Makes the element focusable but **not** part of the (DOM) Tab sequence.
-    
-      * tabindex="0": Makes the element focusable **and** includes it in the (DOM) Tab sequence.
+  * tabindex="-1": Makes the element focusable but **not** part of the (DOM) Tab sequence.
+  * tabindex="0": Makes the element focusable **and** includes it in the (DOM) Tab sequence.
 
 ### 3.2.1 On Focus
 
@@ -657,12 +643,9 @@ This requirement covers both links and buttons.
   * The destination or function of each link/button should be clearly explained in the link/button text or programmatically-determined link context.
 
   * Tip: ARIA Links
-    
-      * Use HTML <a> element to create links whenever possible.
-    
-      * ARIA links do not have any native styling or functionality, so you will need to add things like keyboard support, underline and color.
-    
-      * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
+  * Use HTML <a> element to create links whenever possible.
+  * ARIA links do not have any native styling or functionality, so you will need to add things like keyboard support, underline and color.
+  * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -681,16 +664,11 @@ More than one way is available to locate a web page within a set of web pages ex
   * Plan for a site map or other ways for a user to reach a page in more than one way.
 
   * Examples:
-    
-      * Links to navigate to related web pages
-    
-      * A site map
-    
-      * A search function to help users find content
-    
-      * A list of links to all other web pages
-    
-      * Linking to all of the pages on the site from the home page
+  * Links to navigate to related web pages
+  * A site map
+  * A search function to help users find content
+  * A list of links to all other web pages
+  * Linking to all of the pages on the site from the home page
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -894,8 +872,7 @@ Captions are provided for all prerecorded audio content in synchronized media, e
 **Content/Design Considerations**
 
   * Provide the text caption files for time-based media.
-    
-      * Review [WebAIM captions][27] for a description.
+  * Review [WebAIM captions][27] for a description.
 
 **Development Considerations**
 
@@ -1095,21 +1072,18 @@ To meet the requirements of a conforming alternate version, it must:
   3. Be as up to date as the non-conforming content, and
 
   4. At least one of the following is true:
-    
-    <ol type="a">
+<ol type="a">
       <li>
         <p>
           The conforming version can be reached from the non-conforming page via an <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#accessibility-supporteddef">accessibility-supported</a> <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#mechanismdef">mechanism</a>, or
         </p>
       </li>
-      
-      <li>
+    <li>
         <p>
           The non-conforming version can only be reached from the conforming version, or
         </p>
       </li>
-      
-      <li>
+    <li>
         <p>
           The non-conforming version can only be reached from a conforming page that also provides a mechanism to reach the conforming version.
         </p>

@@ -44,8 +44,7 @@ To start a new procurement, you&rsquo;ll need to know:
         <strong>Download</strong> the <a href="/sites/default/files/ART%20Contract%20Language%20Template.pdf " style="font-weight: normal;"> ART Contract Language Template </a>
       </p>
     </li>
-    
-    <li>
+<li>
       <p>
         <strong>Select and download</strong> <span style="font-weight: normal;"> the sample procurement language from the list below: </span>
       </p>

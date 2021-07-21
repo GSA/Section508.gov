@@ -11,22 +11,16 @@ created: 1576174077
   Electronic signatures are used to digitally validate or acknowledge such things as PDF documents, online forms, or specialized e-signature software. As more government services move online, it's our responsibility to ensure that everyone can independently access and use electronic signature solutions, including:
 </p>
 
-<li dir="ltr">
-  <p dir="ltr" role="presentation">
+<li>
     <a href="#pdf-form">PDF form documents</a> - Electronic documents containing signatures, or signature form fields;
-  </p>
 </li>
 
-<li dir="ltr">
-  <p dir="ltr" role="presentation">
+<li>
     <a href="#web-based">Websites & web-based applications</a> - Online form fields, radio buttons and checkboxes;&nbsp;
-  </p>
 </li>
 
-<li dir="ltr">
-  <p dir="ltr" role="presentation">
+<li>
     <a href="#esig">E-signature software</a> - Software to automate workflows.
-  </p>
 </li>
 
 <h2 dir="ltr" id="pdf-form">
@@ -83,16 +77,12 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
   You are likely familiar with having to agree to an end-user license agreement (EULA) in order to use a software tool. By selecting the checkbox agreeing to the terms of the EULA, you have electronically signed a legal, valid, and enforceable agreement. The example below (Figure 3) shows two items the user could agree to upon selecting &ldquo;Sign up&rdquo;:
 </p>
 
-<li dir="ltr">
-  <p dir="ltr" role="presentation">
+<li>
     The website's &ldquo;terms of service, privacy policy and cookie policy&rdquo;.&nbsp;
-  </p>
 </li>
 
-<li dir="ltr">
-  <p dir="ltr" role="presentation">
+<li>
     To "receive occasional product updates, user research invitations, company announcements, and digests&rdquo; - if they select the little checkbox.&nbsp;
-  </p>
 </li>
 
 <p dir="ltr" style="text-align: center;">
@@ -138,8 +128,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 <div class="panel panel-default">
   <div class="panel-body">
     <strong>Before You Go</strong>
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

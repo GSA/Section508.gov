@@ -30,23 +30,19 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </div>
       </th>
     </tr>
-    
-    <tr bgcolor="E7E7E7">
+<tr bgcolor="E7E7E7">
       <td>
         <b>Role</b>
       </td>
-      
-      <td>
+    <td>
         <b>Responsibilities</b>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <a href="/tools/coordinator-listing">Agency Section 508 Program Manager</a>
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Manage an agency Section 508 program on behalf of the agency CIO, to include developing and maintaining agency policies, guidance, and best practices.
@@ -54,13 +50,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Agency Employees (developers, content creators, procurement professionals)
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Create and publish accessible content, products and systems.
@@ -71,13 +65,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Heads of Federal Agencies
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Ensure that individuals involved in acquisition planning and requirements generation specify needs; develop plans, specifications, etc., that address IT accessibility using standards issued in 36 CFR part 1194.
@@ -85,13 +77,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Agency Chief Information Officer (CIO)
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Establish the agency Section 508 program, provide leadership of the program, and appoint the agency Section 508 coordinator/manager.
@@ -105,13 +95,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Agency Chief Acquisition Officer (CAO)
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Responsible for agency performance of acquisition activities and acquisition programs, to include development of the agency&rsquo;s acquisition workforce.
@@ -122,13 +110,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Agency Senior Procurement Executive
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Responsible for management direction of the acquisition systems of an executive branch agency, including the implementation of the unique acquisition policies, regulations, and standards of the agency.
@@ -150,23 +136,19 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </div>
       </th>
     </tr>
-    
-    <tr bgcolor="E7E7E7">
+<tr bgcolor="E7E7E7">
       <td>
         <b>Role</b>
       </td>
-      
-      <td>
+    <td>
         <b>Responsibilities</b>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         General Services Administration (GSA)
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             In collaboration with the Access Board, provide Section 508 technical assistance, tools, and workforce development support to Federal agencies.
@@ -177,13 +159,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Access Board
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Promote accessibility for individuals with disabilities by developing accessibility standards for information and communications technology (ICT).
@@ -197,13 +177,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         CIO Council Accessibility Committee
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Serve as the principal interagency forum to improve the implementation of Section 508. Visit the <a href="https://www.cio.gov/about/accessibility-cop/">Accessibility CoP page on CIO.gov</a> to learn more.
@@ -211,13 +189,11 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Federal Acquisition Regulatory (FAR) Council
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Incorporate Access Board standards into the Federal Acquisition Regulation (FAR) as appropriate.
@@ -239,23 +215,19 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </div>
       </th>
     </tr>
-    
-    <tr bgcolor="E7E7E7">
+<tr bgcolor="E7E7E7">
       <td>
         <b>Role</b>
       </td>
-      
-      <td>
+    <td>
         <b>Responsibilities</b>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         Department of Justice
       </td>
-      
-      <td>
+    <td>
         <ul>
           <li>
             Biennially, conduct a survey of all Federal agencies to ascertain status of compliance with Section 508.

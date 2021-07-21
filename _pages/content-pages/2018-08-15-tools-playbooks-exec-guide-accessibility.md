@@ -35,7 +35,6 @@ created: 1534360384
           </li>
         </ul>
       </li>
-      
       <li>
         <a href="#design">Design and Development</a>
       </li>
@@ -58,11 +57,9 @@ created: 1534360384
     <p>
       The Federal government strives to deliver a level of service comparable to that of the best private sector organizations, and as more government services move online, we have a responsibility to ensure equal access to those services, particularly for the <a href="http://www.cdc.gov/media/releases/2018/p0816-disability.html" target="_blank">1 in 4 US adults - 61 million Americans - living with a disability</a>&nbsp; All information technology (IT) purchased, built, maintained or used by U.S. Federal agencies is required by Section 508 of the Rehabilitation Act of 1973 to be accessible.
     </p>
-    
     <p>
       Aside from the legal requirements, accessibility is good for business. Creating products and information that everyone can use drives innovation, provides a better customer experience, and improves employee engagement. Accessibility helps you reach more stakeholders and, ultimately, achieve your agency&rsquo;s mission.
     </p>
-    
     <p>
       Executive support for accessible IT is essential to increase compliance with Federal policy, and help agencies deliver a digital customer experience that is accessible to all. Drawn from successful practices in both government and the private sector, this guide aims to help Federal CIOs and senior executives improve the accessibility of Federal IT, through advocacy, strong governance, and appropriate resourcing of accessibility business functions.
     </p>
@@ -111,7 +108,7 @@ Better accessibility supports many areas of information assurance, including sec
   Develop a roadmap to increase transparency, strengthen accountability, and improve collaboration around accessible technology at your agency.
 </li>
 <li dir="ltr">
-  Review the <a href="https://www.section508.gov/sites/default/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
+  Review the <a href="https://www.section508.govhttps://assets.section508.gov/filesstrategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
 </li>
 
 <h4 dir="ltr">
