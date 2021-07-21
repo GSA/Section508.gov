@@ -138,8 +138,8 @@ The Digital Dashboard&rsquo;s Accessibility module scans for certain common acce
 <p style="margin-left: 20px;">
       <strong>Note:</strong> First-time dashboard users will need to submit a one-time request to <a href="mailto:dotgovdashboard@gsa.gov">dotgovdashboard@gsa.gov</a> for access to your agency data.
 </p>
-<div class="panel panel-default" style="margin-top: 1.5em;">
-<div class="panel-body">
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div>

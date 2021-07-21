@@ -13,7 +13,7 @@ This four-part video series provides an introduction to Universal Design for con
 
 <div class="row video-container clearfix" style="margin-bottom: 2em;">
   <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=acKd-q2I3f0"><img src="/sites/default/files/ui-content.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Content Creators" /></a>
+    <a href="https://www.youtube.com/watch?v=acKd-q2I3f0"><img src="https://assets.section508.gov/files/ui-content.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Content Creators" /></a>
   </div>
   
   <div class="col-xs-12 col-md-9">
@@ -33,7 +33,7 @@ This four-part video series provides an introduction to Universal Design for con
 
 <div class="row video-container clearfix" style="margin-bottom: 2em;">
   <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=ryfd3fmZHCY"><img src="/sites/default/files/ui-developers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Developers" /></a>
+    <a href="https://www.youtube.com/watch?v=ryfd3fmZHCY"><img src="https://assets.section508.gov/files/ui-developers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Developers" /></a>
   </div>
   
   <div class="col-xs-12 col-md-9">
@@ -53,7 +53,7 @@ This four-part video series provides an introduction to Universal Design for con
 
 <div class="row video-container clearfix" style="margin-bottom: 2em;">
   <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=d1X5XSEErdY"><img src="/sites/default/files/ui-managers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Managers" /></a>
+    <a href="https://www.youtube.com/watch?v=d1X5XSEErdY"><img src="https://assets.section508.gov/files/ui-managers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Managers" /></a>
   </div>
   
   <div class="col-xs-12 col-md-9">
@@ -73,7 +73,7 @@ This four-part video series provides an introduction to Universal Design for con
 
 <div class="row video-container clearfix" style="margin-bottom: 2em;">
   <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=MD0XrzqML8Y"><img src="/sites/default/files/ui-procurement.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Procurement Professionals" /></a>
+    <a href="https://www.youtube.com/watch?v=MD0XrzqML8Y"><img src="https://assets.section508.gov/files/ui-procurement.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Procurement Professionals" /></a>
   </div>
   
   <div class="col-xs-12 col-md-9">
@@ -89,8 +89,8 @@ This four-part video series provides an introduction to Universal Design for con
   </div>
 </div>
 
-<div class="panel panel-default" style="margin-top: 1.5em;">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+  <div class="panel-body padding-3">
     <span class="text-large"><strong>Before You Go</strong></span> <br /> 
 <p>
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.

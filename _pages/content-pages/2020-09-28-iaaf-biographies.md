@@ -8,7 +8,7 @@ created: 1601325079
 ---
 
 <p style="text-align:center;">
-  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="/sites/default/files/iaaf-web-banner.png" style="width:100%" />
+  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" />
 </p>
 
 <p style="text-align:center;" id="top">
@@ -21,7 +21,7 @@ created: 1601325079
 
 <div class="row border">
   <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
+    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
   </div>
   
   <div class="col-xs-12 col-md-10">
@@ -70,7 +70,7 @@ created: 1601325079
 
 <div class="row border">
   <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
+    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
   </div>
   
   <div class="col-xs-12 col-md-10">

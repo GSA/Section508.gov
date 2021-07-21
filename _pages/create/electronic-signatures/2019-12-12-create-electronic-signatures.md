@@ -44,7 +44,7 @@ created: 1576174077
 </p>
 
 <p style="text-align: center;">
-  <img alt="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." src="/sites/default/files/signature-electronic.jpg" title="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." /><br />Figure 1: Example of an electronic signature field in a PDF document.
+  <img alt="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." src="https://assets.section508.gov/files/signature-electronic.jpg" title="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." /><br />Figure 1: Example of an electronic signature field in a PDF document.
 </p>
 
 Learn more about specific considerations for creating [Accessible Forms in Acrobat][1] from WebAIM.org.
@@ -58,7 +58,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <img alt=" Positioned above the signature block, a hand-written (wet) signature of a scanned document (tagged as a figure) indicates PDF form's signature field." src="/sites/default/files/signature-wet.jpg" style="width: 1082px; height: 394px;" /><br />Figure 2: Example of a hand-written signature field in a PDF document as depicted in Adobe Acrobat DC's Order view.
+  <img alt=" Positioned above the signature block, a hand-written (wet) signature of a scanned document (tagged as a figure) indicates PDF form's signature field." src="https://assets.section508.gov/files/signature-wet.jpg" style="width: 1082px; height: 394px;" /><br />Figure 2: Example of a hand-written signature field in a PDF document as depicted in Adobe Acrobat DC's Order view.
 </p>
 
 <p dir="ltr">
@@ -86,7 +86,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </li>
 
 <p dir="ltr" style="text-align: center;">
-  <img alt="Website login screen with a checkbox to opt into receiving occasional announcements, and notice that you are agreeing to website policies upon selecting &quot;Sign Up&quot;" src="/sites/default/files/signature-web-form.jpg" style="width: 795px; height: 184px;" /><br />Figure 3: Example of website login screen with a checkbox to opt in, and notice that you agree to website policies upon signing up
+  <img alt="Website login screen with a checkbox to opt into receiving occasional announcements, and notice that you are agreeing to website policies upon selecting &quot;Sign Up&quot;" src="https://assets.section508.gov/files/signature-web-form.jpg" style="width: 795px; height: 184px;" /><br />Figure 3: Example of website login screen with a checkbox to opt in, and notice that you agree to website policies upon signing up
 </p>
 
 <p dir="ltr">
@@ -125,8 +125,8 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
   Learn more about specific considerations for <a href="https://www.section508.gov/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
 </p>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong>
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.

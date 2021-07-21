@@ -256,7 +256,7 @@ Department of Labor (DOL)
                                                           </p>
                                                                                                             <span class="session-type text-highlight margin-top-15">Downloads:<br /></span> <span class="speaker-name"> 
                                                                                                             <p>
-                                                            <a href="/sites/default/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx">IAAF 2020 - Mobile Accessibility Now and the Future (PPT)</a>
+                                                            <a href="https://assets.section508.gov/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx">IAAF 2020 - Mobile Accessibility Now and the Future (PPT)</a>
                                                           </p></span>
                                                         </div></div> </div> 
                                                                                                         <!-- end 2PM breakout row -->
@@ -401,13 +401,13 @@ Department of Labor (DOL)
                                                                                         </p>
                                                                                                                                                                         <span class="session-type text-highlight margin-top-15">Downloads:<br /></span> <span class="speaker-name"> 
                                                                                                                                                                         <p>
-                                                                                          <a href="/sites/default/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a>
+                                                                                          <a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a>
                                                                                         </p>
                                                                                                                                                                         <p>
-                                                                                          <a href="/sites/default/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a>
+                                                                                          <a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a>
                                                                                         </p>
                                                                                                                                                                         <p>
-                                                                                          <a href="/sites/default/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a>
+                                                                                          <a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a>
                                                                                         </p></span>
                                                                                       </div></div> </div> 
                                                                                                                                                                     <!-- close cell -->
@@ -571,8 +571,8 @@ Department of Labor (DOL)
                                                                                                         </ul>
                                                                                                       </div>
                                                                                                                                                                                                     <!-- end Exhibitors -->
-                                                                                                                                                                                                    <div class="panel panel-default" style="margin-top: 1.5em;">
-                                                                                                        <div class="panel-body">
+                                                                                                                                                                                                    <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+                                                                                                        <div class="panel-body padding-3">
                                                                                                           <p class="text-large">
                                                                                                             <strong>Thank you</strong>
                                                                                                           </p>

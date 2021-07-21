@@ -527,8 +527,8 @@ created: 1582828796
     </li>
   </ul>
   
-  <div class="panel panel-default">
-    <div class="panel-body">
+  <div class="border-base radius-lg border-1px">
+    <div class="panel-body padding-3">
       <strong>Before You Go</strong><br /> 
     <p dir="ltr">
         We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.

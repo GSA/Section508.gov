@@ -63,8 +63,8 @@ The resources in this section were developed by Federal agencies, and shared her
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
   * [Microsoft Accessibility][11] 
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong> 
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
@@ -74,14 +74,14 @@ The resources in this section were developed by Federal agencies, and shared her
 
 **Reviewed/Updated**: February&nbsp;2021
 
- [1]: /sites/default/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
- [2]: /sites/default/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
+ [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
+ [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [4]: https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html
  [5]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf
  [6]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Powerpoint.pdf
  [7]: http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html
- [8]: /create
+ [8]: {{site.baseurl}}/create
  [9]: https://www.w3.org/WAI/training/accessible.php
  [10]: https://www.w3.org/WAI/tutorials/images/decision-tree/
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx

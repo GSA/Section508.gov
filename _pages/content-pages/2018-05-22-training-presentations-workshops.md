@@ -109,8 +109,8 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
   * [New Features in Office 365 and Conclusion][41] (MS-PPT, December 2017)
   * [Read the transcript for the Section 508 Federal Day event][42] (MS-Word, December 2017)
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong> 
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
@@ -121,44 +121,44 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
 **Reviewed/Updated**: April&nbsp;2021
 
  [1]: https://section508.gov/sites/default/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
- [2]: /sites/default/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
- [3]: /sites/default/files/Get-Certified-ITACM%20-2021-02-09.pptx
- [4]: /sites/default/files/Captioned-Text-(ITACM-FEB2021).docx
+ [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
+ [3]: https://assets.section508.gov/files/Get-Certified-ITACM%20-2021-02-09.pptx
+ [4]: https://assets.section508.gov/files/Captioned-Text-(ITACM-FEB2021).docx
  [5]: https://www.dhs.gov/sites/default/files/publications/2020_csun_presentation_0.pptx
- [6]: /sites/default/files/ICT-Testing Baseline-CSUN-2020.pptx
- [7]: /sites/default/files/Section-508-QA CSUN-2020.pptx
- [8]: /sites/default/files/Captioned-Text-%28ITACM-DEC2020%29.docx
- [9]: /sites/default/files/Access-Israel-at-U.S-GSA-%28ITACM-2020-12-01%29.pptx
- [10]: /sites/default/files/Section-508-in-2020–The-Year-in-Review-%28ITACM-2020-12-01%29.pptx
- [11]: /buy/accessibility-requirements-tool
+ [6]: https://assets.section508.gov/files/ICT-Testing Baseline-CSUN-2020.pptx
+ [7]: https://assets.section508.gov/files/Section-508-QA CSUN-2020.pptx
+ [8]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2020%29.docx
+ [9]: https://assets.section508.gov/files/Access-Israel-at-U.S-GSA-%28ITACM-2020-12-01%29.pptx
+ [10]: https://assets.section508.gov/files/Section-508-in-2020–The-Year-in-Review-%28ITACM-2020-12-01%29.pptx
+ [11]: {{site.baseurl}}/buy/accessibility-requirements-tool
  [12]: https://srt.app.cloud.gov/
- [13]: /sites/default/files/Captioned Text (ITACM - AUG2020).docx
- [14]: /sites/default/files/Sections-of-the-Rehabilitation-Act-of-1973-%28ITACM-AUG_2020%29%20%281%29.pptx
- [15]: /sites/default/files/Captioned-Text-%28APMM-JUN2020%29%20%282%29.docx
- [16]: /sites/default/files/Best-Practices-for-Creating-a%20Position-Description-and-the-Importance-of-Updated-PDs-%28APMM-JUN2020%29.pptx
- [17]: /sites/default/files/Writing-Position-Descriptions-%28APMM-JUN2020%29%20%282%29.pptx
+ [13]: https://assets.section508.gov/files/Captioned Text (ITACM - AUG2020).docx
+ [14]: https://assets.section508.gov/files/Sections-of-the-Rehabilitation-Act-of-1973-%28ITACM-AUG_2020%29%20%281%29.pptx
+ [15]: https://assets.section508.gov/files/Captioned-Text-%28APMM-JUN2020%29%20%282%29.docx
+ [16]: https://assets.section508.gov/files/Best-Practices-for-Creating-a%20Position-Description-and-the-Importance-of-Updated-PDs-%28APMM-JUN2020%29.pptx
+ [17]: https://assets.section508.gov/files/Writing-Position-Descriptions-%28APMM-JUN2020%29%20%282%29.pptx
  [18]: https://www.section508.gov/test/web-software
- [19]: /sites/default/files/APMM-2020-04-07-Captioned-Text.docx
- [20]: /sites/default/files/APMM-2020-04-07-Event-Presentation.pptx
- [21]: /sites/default/files/APMM-2020-04-07-A-508-Program-on-the-Move-(CMS).pptx
- [22]: /sites/default/files/APMM%202020-02-04%20Captioned%20Text.docx
- [23]: /sites/default/files/APMM%202020-02-04%20Event%20Presentations.pptx
- [24]: /sites/default/files/APMM 2019-12-10 Captioned Text.docx
- [25]: /sites/default/files/FY 2019 Lessons Learned from a 508 PM - APMM 2019-12-10.pptx
- [26]: /sites/default/files/APMM 2019-08-01 Captioned Text.docx
- [27]: /sites/default/files/August Accessibility Program Managers Meeting Presentations - APMM 2019-08-01.pptx
- [28]: /sites/default/files/APMM 2019-06-05 Captioned Text.docx
- [29]: /sites/default/files/APMM 2019-04-08 Captioned Text.docx
- [30]: /sites/default/files/Performance Measures for Federal Accessibility Programs - APMM 2019-04-08.pptx
- [31]: /sites/default/files/Understanding Accessibility Training Needs for Federal 508 Programs - APMM 2019-04-08.pptx
- [32]: /sites/default/files/Access Board Training Update - APMM 2019-04-08.pptx
- [33]: /art/home
- [34]: /sites/default/files/Transcript%20February%202018AccessibilityCommunit%20Meeting.docx
- [35]: /sites/default/files/Resources%20for%20Section%20508%20Program%20Managers.pdf
- [36]: /sites/default/files/1-Welcome%20and%20Modernization%20of%20IT.PPTX
- [37]: /sites/default/files/2-Inclusive%20Documents%20Authoring%20of%20accessible%20content.pptx
- [38]: /sites/default/files/3-Accessible%20and%20Inclusive%20SharePoint.pptx
- [39]: /sites/default/files/4-Where%20to%20get%20answers%20and%20resources%20for%20Microsoft%20products.pptx
- [40]: /sites/default/files/5-Whats%20new%20in%20Windows%20and%20Narrator.pptx
- [41]: /sites/default/files/6-%20New%20features%20in%20Office%20365.%20%20Conclusion%20Slides.pptx
- [42]: /sites/default/files/Transcript%20-%20Section%20508%20Federal%20Day.docx
+ [19]: https://assets.section508.gov/files/APMM-2020-04-07-Captioned-Text.docx
+ [20]: https://assets.section508.gov/files/APMM-2020-04-07-Event-Presentation.pptx
+ [21]: https://assets.section508.gov/files/APMM-2020-04-07-A-508-Program-on-the-Move-(CMS).pptx
+ [22]: https://assets.section508.gov/files/APMM%202020-02-04%20Captioned%20Text.docx
+ [23]: https://assets.section508.gov/files/APMM%202020-02-04%20Event%20Presentations.pptx
+ [24]: https://assets.section508.gov/files/APMM 2019-12-10 Captioned Text.docx
+ [25]: https://assets.section508.gov/files/FY 2019 Lessons Learned from a 508 PM - APMM 2019-12-10.pptx
+ [26]: https://assets.section508.gov/files/APMM 2019-08-01 Captioned Text.docx
+ [27]: https://assets.section508.gov/files/August Accessibility Program Managers Meeting Presentations - APMM 2019-08-01.pptx
+ [28]: https://assets.section508.gov/files/APMM 2019-06-05 Captioned Text.docx
+ [29]: https://assets.section508.gov/files/APMM 2019-04-08 Captioned Text.docx
+ [30]: https://assets.section508.gov/files/Performance Measures for Federal Accessibility Programs - APMM 2019-04-08.pptx
+ [31]: https://assets.section508.gov/files/Understanding Accessibility Training Needs for Federal 508 Programs - APMM 2019-04-08.pptx
+ [32]: https://assets.section508.gov/files/Access Board Training Update - APMM 2019-04-08.pptx
+ [33]: {{site,baseurl}}/art/home
+ [34]: https://assets.section508.gov/files/Transcript%20February%202018AccessibilityCommunit%20Meeting.docx
+ [35]: https://assets.section508.gov/files/Resources%20for%20Section%20508%20Program%20Managers.pdf
+ [36]: https://assets.section508.gov/files/1-Welcome%20and%20Modernization%20of%20IT.PPTX
+ [37]: https://assets.section508.gov/files/2-Inclusive%20Documents%20Authoring%20of%20accessible%20content.pptx
+ [38]: https://assets.section508.gov/files/3-Accessible%20and%20Inclusive%20SharePoint.pptx
+ [39]: https://assets.section508.gov/files/4-Where%20to%20get%20answers%20and%20resources%20for%20Microsoft%20products.pptx
+ [40]: https://assets.section508.gov/files/5-Whats%20new%20in%20Windows%20and%20Narrator.pptx
+ [41]: https://assets.section508.gov/files/6-%20New%20features%20in%20Office%20365.%20%20Conclusion%20Slides.pptx
+ [42]: https://assets.section508.gov/files/Transcript%20-%20Section%20508%20Federal%20Day.docx

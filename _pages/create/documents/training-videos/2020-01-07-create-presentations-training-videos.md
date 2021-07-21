@@ -16,7 +16,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx00"><img alt="Module 0: Introduction & Background" src="/sites/default/files/PPT/aed-cop-ppt-m00.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx00"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/files/aed-cop-ppt-m00.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -35,7 +35,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx01"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="/sites/default/files/PPT/aed-cop-ppt-m01.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx01"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/files//aed-cop-ppt-m01.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -54,7 +54,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx02"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="/sites/default/files/PPT/aed-cop-ppt-m02.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx02"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/files//aed-cop-ppt-m02.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -73,7 +73,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx03"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="/sites/default/files/PPT/aed-cop-ppt-m03.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx03"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/files//aed-cop-ppt-m03.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -92,7 +92,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx04"><img alt="Module 4: Formatting Columns Correctly" src="/sites/default/files/PPT/aed-cop-ppt-m04.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx04"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/files//aed-cop-ppt-m04.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -111,7 +111,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx05"><img alt="Module 5: Formatting Lists Properly" src="/sites/default/files/PPT/aed-cop-ppt-m05.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx05"><img alt="Module 5: Formatting Lists Properly" src="https://assets.section508.gov/files//aed-cop-ppt-m05.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -130,7 +130,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx06"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="/sites/default/files/PPT/aed-cop-ppt-m06.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx06"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="https://assets.section508.gov/files//aed-cop-ppt-m06.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -149,7 +149,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx07"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="/sites/default/files/PPT/aed-cop-ppt-m07.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx07"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="https://assets.section508.gov/files//aed-cop-ppt-m07.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -168,7 +168,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx08"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="/sites/default/files/PPT/aed-cop-ppt-m08.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx08"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="https://assets.section508.gov/files//aed-cop-ppt-m08.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -187,7 +187,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="/create/presentations/aed-cop-pptx09"><img alt="Module 9: Making Vital Background Information Accessible" src="/sites/default/files/PPT/aed-cop-ppt-m09.png" style="width:100%" /></a>
+      <a href="/create/presentations/aed-cop-pptx09"><img alt="Module 9: Making Vital Background Information Accessible" src="https://assets.section508.gov/files//aed-cop-ppt-m09.png" style="width:100%" /></a>
     </div>
 <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -287,8 +287,8 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC][2]
   * [How to Author and Test Microsoft Excel Worksheets for Accessibility][3]
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong>
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.

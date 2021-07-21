@@ -62,8 +62,8 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Web Accessibility Tutorials and Presentations][10] - Guidance from the World Wide Web Consortium (W3C)
   * [Microsoft Accessibility][11]
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong> 
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
@@ -76,13 +76,13 @@ The resources in this section were developed by Federal agencies, and shared her
 &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /sites/default/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx
- [3]: /sites/default/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc
- [4]: /sites/default/files/Section%20508%20Basic%20Authoring%20Guide%20Excel%202010_0.doc
- [5]: /sites/default/files/Section%20508%20Basic%20Accessibility%20Checklist_0.doc
- [6]: /sites/default/files/Baseline_Tests_for_Docs_MS_Excel_2010_accessibility_v__1.0%20%2012.14.2015%20F..._0.doc
+ [2]: https://assets.section508.gov/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx
+ [3]: https://assets.section508.gov/files/MS Excel 2016 Printable Accessibility Checklist-AED COP.doc
+ [4]: https://assets.section508.gov/files/Section%20508%20Basic%20Authoring%20Guide%20Excel%202010_0.doc
+ [5]: https://assets.section508.gov/files/Section%20508%20Basic%20Accessibility%20Checklist_0.doc
+ [6]: https://assets.section508.gov/files/Baseline_Tests_for_Docs_MS_Excel_2010_accessibility_v__1.0%20%2012.14.2015%20F..._0.doc
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [8]: https://www.hhs.gov/web/section-508/making-files-accessible/index.html
- [9]: /create
+ [9]: {{site.baseurl}}/create
  [10]: https://www.w3.org/WAI/train
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
