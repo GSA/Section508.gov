@@ -69,8 +69,7 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
         </li>
       </ul>
     </li>
-    
-    <li>
+<li>
       Ensure audio descriptions for people with visual disabilities are included in the default sound track, or as a separate selectable sound track.
     </li>
     <li>
@@ -93,16 +92,12 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
   Audio
 </h2>
 
-<li dir="ltr">
-  <p dir="ltr">
+<li>
     <a href="http://acb.org/adp/">The Audio Description Project</a> - American Council of the Blind
-  </p>
 </li>
 
-<li dir="ltr">
-  <p dir="ltr">
+<li>
     Harpers Ferry Center of the National Park Service offers <a href="https://www.nps.gov/subjects/hfc/accessibility.htm">guidance on audio descriptions</a>
-  </p>
 </li>
 
 ## **Virtual Meetings and Collaboration&nbsp;**

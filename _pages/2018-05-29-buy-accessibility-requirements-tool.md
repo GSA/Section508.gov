@@ -41,11 +41,10 @@ To start a new procurement, you&rsquo;ll need to know:
   <ol style="font-weight: bold;">
     <li>
       <p>
-        <strong>Download</strong> the <a href="/sites/default/files/ART%20Contract%20Language%20Template.pdf " style="font-weight: normal;"> ART Contract Language Template </a>
+        <strong>Download</strong> the <a href="https://assets.section508.gov/files/ART%20Contract%20Language%20Template.pdf " style="font-weight: normal;"> ART Contract Language Template </a>
       </p>
     </li>
-    
-    <li>
+<li>
       <p>
         <strong>Select and download</strong> <span style="font-weight: normal;"> the sample procurement language from the list below: </span>
       </p>
@@ -201,8 +200,8 @@ To start a new procurement, you&rsquo;ll need to know:
 
 &nbsp;&nbsp;
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <p>
       <strong>Before You Go</strong>
     </p>
@@ -216,4 +215,3 @@ To start a new procurement, you&rsquo;ll need to know:
 
 * * *
 
-&nbsp;

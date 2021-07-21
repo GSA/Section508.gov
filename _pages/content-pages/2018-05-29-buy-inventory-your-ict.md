@@ -132,78 +132,67 @@ Use the chart below to figure out which ICT items will need a checklist, for sol
           <strong>Type of ICT Item</strong>
         </h3>
       </td>
-      
-      <td>
+    <td>
         <h3>
           <strong>Checklists Needed</strong>
         </h3>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           <strong>Single</strong> commercial off-the-shelf (COTS) item
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Prepare <strong>one checklist</strong> for the item, including required support services and electronic documentation.
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           <strong>Multiple</strong> commercial off-the-shelf (COTS) items
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Prepare <strong>a separate checklist for each COTS item</strong>, including required support services and electronic documentation.
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           <strong>Single</strong> custom developed, configured, or installed item that contains ICT
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Prepare <strong>one checklist</strong> for the item, including all ICT components, as well as required support services and electronic documentation.
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           <strong>Multiple</strong> custom developed, configured, or installed items that each contain ICT
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Prepare a <strong>separate checklist for each item</strong>, including required support services and electronic documentation.
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           ICT support services only
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Prepare <strong>one checklist</strong> for the support services and documentation only.
         </p>

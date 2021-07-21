@@ -105,11 +105,10 @@ If your agency has not received login information, and you wish to submit a repo
   Please direct questions about the template or reporting process to <a href="mailto:Section.508@gsa.gov" target="_blank">Section.508@gsa.gov</a>.
 </p>
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong> 
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

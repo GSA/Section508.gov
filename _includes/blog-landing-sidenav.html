@@ -1,0 +1,11 @@
+{% comment %} 
+This sidenav is for blog landing page and events landing page
+{% endcomment %}
+
+<nav>
+  <ul class="usa-sidenav">
+    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/index.html' %} usa-current{% endif %}">News & Updates</a></li>
+    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/' %} usa-current{% endif %}">Events</a></li>
+    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/' %} usa-current{% endif %}">Recurring Events</a></li>
+  </ul>
+</nav>

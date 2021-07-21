@@ -4,6 +4,8 @@ permalink: blog/accessibility-requirements-tool-coming-soon/
 type: article
 title: 'Accessibility Requirements Tool (ART) Coming Soon!'
 created: 1510231865
+tags: Procurement
+description: November 9, 2017 - If you’re a fan of the Buy Accessible Wizard (BAW), but wish it were easier to use, you’ll be happy to know that GSA is hard at work on a new tool which will replace the BAW. This new tool incorporates the Revised 508 Standards, so when you use it, you can be sure you’re conformant with current policy.
 ---
 
 November 9, 2017 - If you’re a fan of the Buy Accessible Wizard (BAW), but wish it were easier to use, you’ll be happy to know that GSA is hard at work on a new tool which will replace the BAW. This new tool incorporates the Revised 508 Standards, so when you use it, you can be sure you’re conformant with current policy.

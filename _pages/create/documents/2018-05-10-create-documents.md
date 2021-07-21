@@ -22,17 +22,14 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
     <div class="col-xs-12 col-md-3">
       <a href="https://www.section508.gov/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
     </div>
-    
-    <div class="col-xs-12 col-md-9">
+<div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/documents/training-videos">How to Make an Accessible Document in Microsoft Word</a>
       </p>
-      
-      <p>
+    <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Word document is Section 508 conformant.
       </p>
-      
-      <p>
+    <p>
         Duration 59m 21s | 14-part Video Series
       </p>
     </div>
@@ -83,11 +80,10 @@ The resources in this section were developed by federal agencies and shared here
   * Review [W3C's Alt Decision Tree][16] for guidance on how to describe images.
   * [Microsoft Accessibility][17]
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong> 
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>
@@ -98,15 +94,15 @@ The resources in this section were developed by federal agencies and shared here
 &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /sites/default/files/MS Word 2016 Basic Authoring and Testing Guide-AED COP.docx
- [3]: /sites/default/files/MSWord2016-Printable-Accessiblility-Checklist.docx
- [4]: /sites/default/files/MS%20Word%202013%20Baseline%20Test%20Process.docx
- [5]: /sites/default/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx
- [6]: /sites/default/files/MS%20Word%202013%20Detailed%20CheckList.docx
- [7]: /sites/default/files/MS%20Word%202013%20Printable%20Checklist.docx
- [8]: /sites/default/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Word%202010%20v%201.0%201.29.2015%20FINAL.docx
- [9]: /sites/default/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Checklist%20v%201.0%201.29.15%20FINAL.docx
- [10]: /sites/default/files/Baseline_Tests_for_Docs_MS_Word_2010_accessibility_v%20%201.0%202.1.2015%20FINAL.docx
+ [2]: https://assets.section508.gov/files/MS Word 2016 Basic Authoring and Testing Guide-AED COP.docx
+ [3]: https://assets.section508.gov/files/MSWord2016-Printable-Accessiblility-Checklist.docx
+ [4]: https://assets.section508.gov/files/MS%20Word%202013%20Baseline%20Test%20Process.docx
+ [5]: https://assets.section508.gov/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx
+ [6]: https://assets.section508.gov/files/MS%20Word%202013%20Detailed%20CheckList.docx
+ [7]: https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx
+ [8]: https://assets.section508.gov/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Word%202010%20v%201.0%201.29.2015%20FINAL.docx
+ [9]: https://assets.section508.gov/files/Section%20508%20Basic%20Authoring%20and%20Testing%20Guide%20Checklist%20v%201.0%201.29.15%20FINAL.docx
+ [10]: https://assets.section508.gov/files/Baseline_Tests_for_Docs_MS_Word_2010_accessibility_v%20%201.0%202.1.2015%20FINAL.docx
  [11]: https://www.ssa.gov/accessibility/developer_resources.html
  [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [13]: /create

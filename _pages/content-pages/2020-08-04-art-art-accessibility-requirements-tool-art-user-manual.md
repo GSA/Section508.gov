@@ -54,7 +54,7 @@ ART will first ask about any potential exceptions, and if none apply, it will wa
 
 Accessing the ART home page at&nbsp;[section508.gov/art][12]&nbsp;will take you to the following page, from which you can access every feature the ART website has to offer:
 
-<img class="figure-image" alt="ART home page image" src="/sites/default/files/art-manual-images-111920/art-homepage-0920.png" /> 
+<img class="figure-image" alt="ART home page image" src="https://assets.section508.gov/filesart-manual-images-111920/art-homepage-0920.png" /> 
 
 <p class="figure-label">
   <em>Figure 1: ART home page</em>

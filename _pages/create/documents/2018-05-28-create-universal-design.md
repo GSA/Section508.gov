@@ -12,16 +12,13 @@ created: 1527530633
     <p>
       Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html">Universal design</a>, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
     </p>
-    
-    <p>
+<p>
       Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
     </p>
-    
-    <p>
+<p>
       Through universal design, your agency will:
     </p>
-    
-    <ol>
+<ol>
       <li>
         <strong>Save money </strong>by investing in the most accessible products from the start;
       </li>
@@ -35,7 +32,7 @@ created: 1527530633
   </div>
   
   <div class="col-xs-12 col-md-4" style="margin-bottom: 15px;">
-    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="/sites/default/files/universal-design-callout-2.PNG" style="width: 100%;" />
+    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;" />
   </div>
 </div>
 
@@ -47,19 +44,17 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 <div class="row video-container clearfix" style="margin-bottom: 2em;">
   <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="/create/universal-design-video-series"><img src="/sites/default/files/ui-series.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Video Series" /></a>
+    <a href="/create/universal-design-video-series"><img src="https://assets.section508.gov/files/ui-series.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
   <div class="col-xs-12 col-md-9">
     <p>
       <a href="/create/universal-design-video-series"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
-    
-    <p>
+<p>
       This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
     </p>
-    
-    <p>
+<p>
       Duration: 18m 21s | 4-Part Video Series
     </p>
   </div>
@@ -85,11 +80,10 @@ If you have questions or want to share your experiences using universal design, 
   * [Section 508 Program Contact Us page][9]
   * Email: <section.508@gsa.gov>
 
-<div class="panel panel-default" style="margin-top: 1.5em;">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+  <div class="panel-body padding-3">
     <span class="text-large"><strong>Before You Go</strong></span> <br /> 
-    
-    <p>
+<p>
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>

@@ -22,17 +22,14 @@ The resources in this section were developed by the Accessible Electronic Docume
     <div class="col-xs-12 col-md-3">
       <a href="https://www.section508.gov/create/pdfs/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" /></a>
     </div>
-    
-    <div class="col-xs-12 col-md-9">
+<div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/pdfs/training-videos">How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC</a>
       </p>
-      
-      <p>
+    <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your PDF is Section 508 conformant.
       </p>
-      
-      <p>
+    <p>
         Duration 63m 51s | 5-part Video Series
       </p>
     </div>
@@ -72,11 +69,10 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
-<div class="panel panel-default">
-  <div class="panel-body">
+<div class="border-base radius-lg border-1px">
+  <div class="panel-body padding-3">
     <strong>Before You Go</strong>
-    
-    <p dir="ltr">
+<p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>
@@ -86,14 +82,14 @@ The resources in this section were developed by Federal agencies, and shared her
 &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /sites/default/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
- [3]: /sites/default/files/PDF-Printable-Accessiblility-Checklist.docx
- [4]: /sites/default/files/PDF%20Baseline%20Test%20Process.docx
- [5]: /sites/default/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
- [6]: /sites/default/files/PDF%20Printable%20Checklist.docx
+ [2]: https://assets.section508.gov/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
+ [3]: https://assets.section508.gov/files/PDF-Printable-Accessiblility-Checklist.docx
+ [4]: https://assets.section508.gov/files/PDF%20Baseline%20Test%20Process.docx
+ [5]: https://assets.section508.gov/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
+ [6]:https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [8]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
- [9]: /create
+ [9]: {{site.baseurl}}/create
  [10]: https://webaim.org/techniques/alttext/
  [11]: https://www.w3.org/WAI/tutorials/images/decision-tree/
  [12]: https://www.adobe.com/accessibility/products/acrobat.html

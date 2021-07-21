@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+        {% include blog-sidenav.html %}
+      </aside>
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <h1>{{ page.tag | replace: "-"," " }}</h1>
+         {% for post in site.tags[page.tag] %}
+        <div class="text-base margin-bottom-2" style="clear:both;">
+          <a class="text-no-underline" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+          <p>{{ post.description }}</p>
+          <ul style="list-style: none; float:right;" class="margin-top-0">
+            <li><a href="{{ site.baseurl }}/{{ post.permalink }}" aria-label="{{ post.title }} Read More Link">Read More</a></li>
+          </ul>
+        </div>
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

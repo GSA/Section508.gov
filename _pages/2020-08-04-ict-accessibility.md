@@ -335,8 +335,7 @@ sidenav: false
         </li>
       </ul>
     </li>
-    
-    <li>
+<li>
       602 Support Documentation
     </li>
     <li>
@@ -465,12 +464,10 @@ sidenav: false
     <p>
       <strong>502.2 Documented Accessibility Features</strong> Software with platform features defined in platform documentation as accessibility features shall conform to 502.2.
     </p>
-    
-    <p>
+<p>
       <strong>502.2.2 No Disruption of Accessibility Features</strong> Software shall not disrupt platform features that are defined in the platform documentation as accessibility features.
     </p>
-    
-    <ul>
+<ul>
       <li>
         <strong>502.3.1 Object Information.</strong>The object role, state(s), properties, boundary, name, and description shall be programmatically determinable.
       </li>
@@ -660,8 +657,7 @@ sidenav: false
     <p>
       <strong>402.2.3 Speech Delivery Type and Coordination.</strong> Speech output shall be delivered through a mechanism that is readily available to all users, including, but not limited to, an industry standard connector or a telephone handset. Speech shall be recorded or digitized human, or synthesized. Speech output shall be coordinated with information displayed on the screen.
     </p>
-    
-    <p>
+<p>
       <strong>402.2.4 User Control. </strong> Speech output for any single function shall be automatically interrupted when a transaction is selected. Speech output shall be capable of being repeated and paused.
     </p>
   </div>
@@ -813,8 +809,7 @@ sidenav: false
         </li>
       </ul>
     </li>
-    
-    <li>
+<li>
       <strong>407.8.2 Side Reach. </strong>Operable parts of ICT providing a side reach shall conform to 407.8.2.1 or 407.8.2.2. The vertical reference plane shall be centered on the operable part and placed at the leading edge of the maximum protrusion of the ICT within the length of the vertical reference plane. Where a side reach requires a reach over a portion of the ICT, the height of that portion of the ICT shall be 34 inches (865 mm) maximum. <ul>
         <li>
           <strong>407.8.2.1 Unobstructed Side Reach. </strong>Where the operable part is located 10 inches (255 mm) or less beyond the vertical reference plane, the operable part shall be 48 inches (1220 mm) high maximum and 15 inches (380 mm) high minimum above the floor.
@@ -824,8 +819,7 @@ sidenav: false
         </li>
       </ul>
     </li>
-    
-    <li id ="407_8_3__407_8_3_1__407_8_3_2">
+<li id ="407_8_3__407_8_3_1__407_8_3_2">
       <strong>407.8.3 Forward Reach. </strong>Operable parts of ICT providing a forward reach shall conform to 407.8.3.1 or 407.8.3.2. The vertical reference plane shall be centered, and intersect with, the operable part. Where a forward reach allows a reach over a portion of the ICT, the height of that portion of the ICT shall be 34 inches (865 mm) maximum. <ul>
         <li>
           <strong>407.8.3.1 Unobstructed Forward Reach. </strong>Where the operable part is located at the leading edge of the maximum protrusion within the length of the vertical reference plane of the ICT, the operable part shall be 48 inches (1220 mm) high maximum and 15 inches (380 mm) high minimum above the floor.
@@ -955,8 +949,7 @@ sidenav: false
     <p>
       <strong>413.1 General. </strong> Where ICT displays or processes video with synchronized audio, ICT shall provide closed caption processing technology that conforms to 413.1.1 or 413.1.2.
     </p>
-    
-    <ul>
+<ul>
       <li>
         <strong>413.1.1 Decoding and Display of Closed Captions.</strong> Players and displays shall decode closed caption data and support display of captions.
       </li>
@@ -964,12 +957,10 @@ sidenav: false
         <strong>413.1.2 Pass-Through of Closed Caption Data. </strong>Cabling and ancillary equipment shall pass through caption data.
       </li>
     </ul>
-    
-    <p>
+<p>
       <strong>414.1 General. </strong> Where ICT displays or processes video with synchronized audio, ICT shall provide audio description processing technology conforming to 414.1.1 or 414.1.2.
     </p>
-    
-    <ul>
+<ul>
       <li>
         <strong>414.1.1 Digital Television Tuners.</strong> Digital television tuners shall provide audio description processing that conforms to ATSC A/53 Digital Television Standard, Part 5 (2014) (incorporated by reference, see 702.2.1). Digital television tuners shall provide processing of audio description when encoded as a Visually Impaired (VI) associated audio service that is provided as a complete program mix containing audio description according to the ATSC A/53 standard.
       </li>

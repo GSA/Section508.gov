@@ -649,8 +649,7 @@ UNSPSC Code: <ul><li>81110000   Computer services
                                 <li>81111613    Programming for Perl</li>
                             </ul>
                         </li>
-                        
-                        <li>81111700    Management information systems MIS
+                                        <li>81111700    Management information systems MIS
                             <ul><li>81111701    Wide area network communications design</li>
                                 <li>81111702    Local area network communications design</li>
                                 <li>81111703    Electronic data interchange EDI design</li>
@@ -1219,16 +1218,12 @@ UNSPSC Code:
         o 43233701 Enterprise system management software  
         o 55111600 Electronic software reference material  
         o 55111601 Electronic software documentation or user manuals
-    
-    Definition of Deliverable
-    
-    "Application software, also known as an application or an app, is computer software designed to help the user to perform specific tasks. Examples include enterprise software, accounting software, office suites, graphics software and media players. Many application programs deal principally with documents. Applications may be bundled with the computer and its system software, or may be published separately. In recent years, the abbreviation "app" has specifically come to mean application software written for mobile devices, with the abbreviation in particular representing both the smaller size and smaller scope of the software (i.e. an app whose sole purpose is to display an image representation of the current weather). Application software is contrasted with system software and middleware, which manage and integrate a computer's capabilities, but typically do not directly apply in the performance of tasks that benefit the user. The system software serves the application, which in turn serves the user."  
+Definition of Deliverable
+"Application software, also known as an application or an app, is computer software designed to help the user to perform specific tasks. Examples include enterprise software, accounting software, office suites, graphics software and media players. Many application programs deal principally with documents. Applications may be bundled with the computer and its system software, or may be published separately. In recent years, the abbreviation "app" has specifically come to mean application software written for mobile devices, with the abbreviation in particular representing both the smaller size and smaller scope of the software (i.e. an app whose sole purpose is to display an image representation of the current weather). Application software is contrasted with system software and middleware, which manage and integrate a computer's capabilities, but typically do not directly apply in the performance of tasks that benefit the user. The system software serves the application, which in turn serves the user."  
     (<http://en.wikipedia.org/wiki/Application_software>)
-    
-    "An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. The operating system is a vital component of the system software in a computer system. Application programs usually require an operating system to function."  
+"An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. The operating system is a vital component of the system software in a computer system. Application programs usually require an operating system to function."  
     (<http://en.wikipedia.org/wiki/Operating_system>)
-    
-    The accessibility requirements for either application software or operating system software are the same.
+The accessibility requirements for either application software or operating system software are the same.
 
 <div class="link-top">
   <a href="#top">Top</a>
@@ -1433,34 +1428,24 @@ UNSPSC Code:
   * 45111900 Phone and video teleconference equipment and hardware and controllers 
       * 45111901 Audioconferencing systems
       * 45111902 Videoconferencing systems
-    
-    Definition of Deliverable
-    
-    According to Wikipedia (<http://en.wikipedia.org/wiki/Videoconferencing#Standards>) video teleconferencing typically includes both audio and video teleconferencing systems:
-    
-    "A videoconference or video teleconference (also known as a videoteleconference) is a set of interactive telecommunication technologies which allow two or more locations to interact via two-way video and audio transmissions simultaneously. It has also been called 'visual collaboration' and is a type of groupware.
-    
-    Videoconferencing differs from a videophone calls in that its designed to serve a conference rather than individuals. It is an intermediate form of videotelephony, first deployed commercially by AT&T during the early 1970s using their Picturephone technology. …
-    
-    The core technology used in a videoteleconference (VTC) system is digital compression of audio and video streams in real time. The hardware or software that performs compression is called a codec (coder/decoder). Compression rates of up to 1:500 can be achieved. The resulting digital stream of 1s and 0s is subdivided into labelled packets, which are then transmitted through a digital network of some kind (usually ISDN or IP). The use of audio modems in the transmission line allow for the use of POTS, or the Plain Old Telephone System, in some low-speed applications, such as videotelephony, because they convert the digital pulses to/from analog waves in the audio spectrum range.
-    
-    The other components required for a VTC system include:
-    
-      * Video input : video camera or webcam
+Definition of Deliverable
+According to Wikipedia (<http://en.wikipedia.org/wiki/Videoconferencing#Standards>) video teleconferencing typically includes both audio and video teleconferencing systems:
+"A videoconference or video teleconference (also known as a videoteleconference) is a set of interactive telecommunication technologies which allow two or more locations to interact via two-way video and audio transmissions simultaneously. It has also been called 'visual collaboration' and is a type of groupware.
+Videoconferencing differs from a videophone calls in that its designed to serve a conference rather than individuals. It is an intermediate form of videotelephony, first deployed commercially by AT&T during the early 1970s using their Picturephone technology. …
+The core technology used in a videoteleconference (VTC) system is digital compression of audio and video streams in real time. The hardware or software that performs compression is called a codec (coder/decoder). Compression rates of up to 1:500 can be achieved. The resulting digital stream of 1s and 0s is subdivided into labelled packets, which are then transmitted through a digital network of some kind (usually ISDN or IP). The use of audio modems in the transmission line allow for the use of POTS, or the Plain Old Telephone System, in some low-speed applications, such as videotelephony, because they convert the digital pulses to/from analog waves in the audio spectrum range.
+The other components required for a VTC system include:
+  * Video input : video camera or webcam
       * Video output: computer monitor, television or projector
       * Audio input: microphones, DVD player, cassette player, or any other source of PreAmp audio outlet.
       * Audio output: usually loudspeakers associated with the display device or telephone
       * Data transfer: analog or digital telephone network, LAN or Internet
-    
-    There are basically two kinds of VTC systems:
-    
-      1. Dedicated systems have all required components packaged into a single piece of equipment, usually a console with a high quality remote controlled video camera. These cameras can be controlled at a distance to pan left and right, tilt up and down, and zoom. They became known as PTZ cameras. The console contains all electrical interfaces, the control computer, and the software or hardware-based codec. Omnidirectional microphones are connected to the console, as well as a TV monitor with loudspeakers and/or a video projector. There are several types of dedicated VTC devices: 
+There are basically two kinds of VTC systems:
+  1. Dedicated systems have all required components packaged into a single piece of equipment, usually a console with a high quality remote controlled video camera. These cameras can be controlled at a distance to pan left and right, tilt up and down, and zoom. They became known as PTZ cameras. The console contains all electrical interfaces, the control computer, and the software or hardware-based codec. Omnidirectional microphones are connected to the console, as well as a TV monitor with loudspeakers and/or a video projector. There are several types of dedicated VTC devices: 
           1. Large group VTC are non-portable, large, more expensive devices used for large rooms and auditoriums.
           2. Small group VTC are non-portable or portable, smaller, less expensive devices used for small meeting rooms.
           3. Individual VTC are usually portable devices, meant for single users, have fixed cameras, microphones and loudspeakers integrated into the console.
       2. Desktop systems are add-ons (hardware boards, usually) to normal PCs, transforming them into VTC devices. A range of different cameras and microphones can be used with the board, which contains the necessary codec and transmission interfaces. Most of the desktops systems work with the H.323 standard. Videoconferences carried out via dispersed PCs are also known as e-meetings."
-    
-    Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.
+Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.
 
 <div class="link-top">
   <a href="#top">Top</a>

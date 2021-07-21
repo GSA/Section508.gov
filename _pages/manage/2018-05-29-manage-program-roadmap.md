@@ -31,7 +31,7 @@ created: 1527574221
   If your agency does not have a 508 Program, or you are working to improve your 508 Program, you will need to incorporate the standards into the work you are already doing. Here is step-by-step technical assistance on how the standards fit into program maturity. Each step below is organized to show requirements, tools, best practices, testing guidelines, and relevant sections of the technology accessibility playbook.
 </p>
 
-<img alt="Image depicting components of a mature 508 Program" src="/sites/default/files/508-roadmap.png" style="width:60%" title="Image depicting components of a mature 508 Program" /> 
+<img alt="Image depicting components of a mature 508 Program" src="https://assets.section508.gov/files/508-roadmap.png" style="width:60%" title="Image depicting components of a mature 508 Program" /> 
 
 <p dir="ltr">
   Caption: Image of the components of a mature 508 Program

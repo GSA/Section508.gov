@@ -31,134 +31,114 @@ The following examples show how to complete the chart for different ICT items.
           <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What applies?</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What functionality is covered?</strong>
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Exceptions
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           No exceptions apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 3: Functional Performance Criteria
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           WCAG 2.0 Level A and AA Guidelines
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 4: Hardware Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Does not apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 5: Software Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Does not apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 6: Support Services and Documentation Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
@@ -178,154 +158,129 @@ Software Example**
           <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What applies?</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What functionality is covered?</strong>
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Exceptions
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           No exceptions apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 3: Functional Performance Criteria
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           WCAG 2.0 Level A and AA Guidelines
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply except:
         </p>
-        
         <p>
           2.4.1 Bypass Blocks
         </p>
-        
         <p>
           2.4.5 Multiple Ways
         </p>
-        
         <p>
           3.2.3 Consistent Navigation
         </p>
-        
         <p>
           3.2.4 Consistent Identification
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 4: Hardware Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Does not apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 5: Software Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply except:
         </p>
-        
         <p>
           504 Authoring Tools
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 6: Support Services and Documentation Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
@@ -345,170 +300,141 @@ Kiosk (Complex) Example**
           <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What applies?</strong>
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           <strong>What functionality is covered?</strong>
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Exceptions
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           No exceptions apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 3: Functional Performance Criteria
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           WCAG 2.0 Level A and AA Guidelines
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Kiosk Web Based Software Interface
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 4: Hardware Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           402 Closed Functionality
         </p>
-        
         <p>
           408 Display Screens
         </p>
-        
         <p>
           404 Preservation of Information provided for accessibility
         </p>
-        
         <p>
           405 Privacy
         </p>
-        
         <p>
           406 Standard Connections
         </p>
-        
         <p>
           407 Operable Parts
         </p>
-        
         <p>
           409 Status Indicators
         </p>
-        
         <p>
           410 Color Coding
         </p>
-        
         <p>
           411 Audible Signals
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 5: Software Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           502 Interoperability with Assistive Technology
         </p>
-        
         <p>
           503 Application
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           Kiosk Web Based Software Interface
         </p>
       </td>
     </tr>
-    
-    <tr>
+<tr>
       <td>
         <p>
           Chapter 6: Support Services and Documentation Requirements
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All apply
         </p>
       </td>
-      
-      <td>
+    <td>
         <p>
           All functionality
         </p>

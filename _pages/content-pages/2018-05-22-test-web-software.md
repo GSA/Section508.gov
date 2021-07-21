@@ -38,12 +38,10 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
     <p>
       <a href="/test/web-software/andi-training-videos"><strong>Accessible Name & Description Inspector (ANDI) Tool Overview</strong></a>
     </p>
-    
-    <p>
+<p>
       Get a basic overview on how to use the Accessible Name & Description Inspector tool (ANDI) used to test websites and web-based applications for accessibility. ANDI is a free tool developed by the Social Security Administration.
     </p>
-    
-    <p>
+<p>
       Duration 31m 11s | 18-part Video Series
     </p>
   </div>
@@ -60,12 +58,10 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
     <p>
       <a href="/test/web-software/andi-training-videos/color-contrast-analyzer"><strong>How to Test Color Contrast using the Color Contrast Analyser</strong></a>
     </p>
-    
-    <p>
+<p>
       Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI.
     </p>
-    
-    <p>
+<p>
       Duration 2m 33s | 1-part Video Tutorial
     </p>
   </div>

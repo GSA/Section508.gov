@@ -39,14 +39,14 @@ The following guidance was developed to help agencies navigate the 2018 refresh 
 
 **Reviewed/Updated**: January 2019
 
- [1]: /tools/playbooks/exec-guide-accessibility
- [2]: /sites/default/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks
+ [1]: {{site.baseurl}}/tools/playbooks/exec-guide-accessibility
+ [2]: https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks
  [3]: /508-training/courses/exec-overview
- [4]: /tools/playbooks/accessibility-playbook-quick-guide
- [5]: /tools/playbooks/technology-accessibility-playbook-intro
- [6]: /sites/default/files/Technology-Accessibility-Playbook-2018-Update.docx
+ [4]: {{site.baseurl}}/tools/playbooks/accessibility-playbook-quick-guide
+ [5]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro
+ [6]: https://assets.section508.gov/files/Technology-Accessibility-Playbook-2018-Update.docx
  [7]: https://section508.gov/508-training/courses/playbook/
  [8]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [9]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [10]: /manage/program-roadmap
- [11]: /manage/laws-and-policies/quick-reference-guide
+ [10]: {{site.baseurl}}/manage/program-roadmap
+ [11]: {{site.baseurl}}/manage/laws-and-policies/quick-reference-guide

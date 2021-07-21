@@ -4,6 +4,8 @@ permalink: blog/accessibility-news-the-section-508-Update/
 type: article
 title: 'Accessibility News: The Section 508 Update'
 created: 1510319868
+tas: Policy
+description: November 10, 2017 - In January 2017, the [U.S. Access Board][1] published a [final rule][2] updating accessibility requirements for information and communication technology (ICT) covered by Section 508 of the [Rehabilitation Act of 1973][3].
 ---
 
 In January 2017, the [U.S. Access Board][1] published a [final rule][2] updating accessibility requirements for information and communication technology (ICT) covered by Section 508 of the [Rehabilitation Act of 1973][3]. The Rehabilitation Act is a federal law which requires programs and activities funded by federal agencies to be accessible to people with disabilities, including federal employees and members of the public. [Section 508][4] covers ICT developed, procured, maintained, or used by federal agencies.

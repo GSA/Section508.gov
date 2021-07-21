@@ -31,8 +31,7 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
         Determine the best strategic mix of false-positive generation vs. coverage of your agency requirements by ensuring the tool vendor defines and quantifies the method and accuracy of its rule sets in regard to its alignment with your agency’s standards and expectations.
       </li>
     </ul>
-    
-    <li>
+<li>
       Consider whether or how server-based automated scanning tools will be able to access content secured behind firewalls and password- or otherwise protected content.
     </li>
     <li>
@@ -169,12 +168,10 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
           Continue testing until you end up with rule sets that provide an acceptable level of accuracy in your environment.
         </li>
       </ol>
-      
-      <h3>
+    <h3>
         Configure Scans
       </h3>
-      
-      <ul>
+    <ul>
         <li>
           Firewall restrictions.
         </li>
@@ -197,12 +194,10 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
           The ability to identify content subject to the safe harbor provision. Content that conformed to the Original 508 Standards and has not been altered on or after January 18, 2018 does not need to conform to the Revised 508 Standards (i.e., legacy content). See Section 9.2 below for tips on identifying legacy content.
         </li>
       </ul>
-      
-      <h3>
+    <h3>
         Configure Reports
       </h3>
-      
-      <ul>
+    <ul>
         <li>
           The target audiences (web managers, program managers, executive managers).
         </li>
@@ -213,26 +208,21 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
           Reporting format (single scan view vs comparison against previous scans, trend highlighting, and identification of major positive and negative changes).
         </li>
       </ul>
-      
-      <div id="Manual">
+    <div id="Manual">
         <h2>
           Manual Testing
         </h2>
-        
         <p>
           Follow the instructions outlined in <a href="/test"> Test for Accessibility</a>, endorsed by the Federal CIO Council’s Accessibility Community of Practice.
         </p>
-        
         <div id="Hybrid">
           <h2>
             Hybrid Testing
           </h2>
-          
-          <p>
+            <p>
             A hybrid testing approach is usually the best solution to handle a large volume of electronic content. Consider the following:
           </p>
-          
-          <ul>
+            <ul>
             <li>
               Ensure developers build accessibility into code during development.
             </li>
@@ -251,26 +241,21 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
               </li>
             </ul>
           </ul>
-          
-          <h2>
+            <h2>
             Related Resources
           </h2>
-          
-          <ul>
+            <ul>
             <li>
               <a href="/manage/support-accessible-content">Build Support for Accessible Content</a> - Follow the stages of content production to ensure your organization publishes accessible content.
             </li>
           </ul>
-          
-          <p>
+            <p>
             <br />This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
           </p>
-          
-          <p>
+            <p>
             <br /><b>Reviewed/Updated: </b>May 2018
           </p>
-          
-          <br />
+            <br />
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: #Automated

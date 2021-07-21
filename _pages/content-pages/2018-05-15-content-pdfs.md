@@ -48,9 +48,9 @@ The resources in this section were developed by Federal agencies, and shared her
 **Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /sites/default/files/PDF%20Baseline%20Test%20Process.docx
- [3]: /sites/default/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
- [4]: /sites/default/files/PDF%20Printable%20Checklist.docx
+ [2]: https://assets.section508.gov/files/PDF%20Baseline%20Test%20Process.docx
+ [3]: https://assets.section508.gov/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
+ [4]: https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx
  [5]: https://www.youtube.com/playlist?list=PLt-4cbpi4NBvGYKCHnIdwk4tfhcoalw8g
  [6]: https://www.ssa.gov/accessibility/developer_resources.html
  [7]: https://section508.gov/create

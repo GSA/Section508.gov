@@ -45,8 +45,7 @@ Federal agencies are required to follow Section 508 and related laws and policie
           </li>
         </ol>
       </li>
-      
-      <li>
+    <li>
         First-time Dashboard users will need to submit a one-time access request to gain access to your agency data. Request access by emailing <a href="mailto:dotgovdashboard@gsa.gov">dotgovdashboard@gsa.gov</a>.
       </li>
     </ol>

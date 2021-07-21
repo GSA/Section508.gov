@@ -4,6 +4,7 @@ permalink: blog/microsoft-journey-to-accessibility/
 type: article
 title: 'Microsoft’s Journey to Accessibility'
 created: 1483454666
+description: 
 ---
 
 January 3, 2017 - On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products. Acknowledging that accessibility impacts everyone, Microsoft shared their journey of &ldquo;embracing accessibility by design.&rdquo;
