@@ -152,7 +152,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
  [30]: https://assets.section508.gov/files/Performance Measures for Federal Accessibility Programs - APMM 2019-04-08.pptx
  [31]: https://assets.section508.gov/files/Understanding Accessibility Training Needs for Federal 508 Programs - APMM 2019-04-08.pptx
  [32]: https://assets.section508.gov/files/Access Board Training Update - APMM 2019-04-08.pptx
- [33]: {{site,baseurl}}/art/home
+ [33]: {{site.baseurl}}/art/home
  [34]: https://assets.section508.gov/files/Transcript%20February%202018AccessibilityCommunit%20Meeting.docx
  [35]: https://assets.section508.gov/files/Resources%20for%20Section%20508%20Program%20Managers.pdf
  [36]: https://assets.section508.gov/files/1-Welcome%20and%20Modernization%20of%20IT.PPTX

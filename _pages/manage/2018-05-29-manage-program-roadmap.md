@@ -36,25 +36,26 @@ created: 1527574221
 <p dir="ltr">
   Caption: Image of the components of a mature 508 Program
 </p>
-
-<li dir="ltr">
-  <a href="#build">Build Awareness & Support</a>
-</li>
-<li dir="ltr">
-  <a href="#design">Practice Universal Design</a>
-</li>
-<li dir="ltr">
-  <a href="#policies">Update Agency Policies</a>
-</li>
-<li dir="ltr">
-  <a href="#technology">Procure & Develop Accessible Technology</a>
-</li>
-<li dir="ltr">
-  <a href="#accessible">Create Accessible Documents</a>
-</li>
-<li dir="ltr">
-  <a href="#monitor">Measure & Monitor Progress</a>
-</li>
+  <ul>
+  <li dir="ltr">
+    <a href="{{site.baseurl}}/#build">Build Awareness & Support</a>
+  </li>
+  <li dir="ltr">
+    <a href="{{site.baseurl}}/#design">Practice Universal Design</a>
+  </li>
+  <li dir="ltr">
+    <a href="#policies">Update Agency Policies</a>
+  </li>
+  <li dir="ltr">
+    <a href="#technology">Procure & Develop Accessible Technology</a>
+  </li>
+  <li dir="ltr">
+    <a href="#accessible">Create Accessible Documents</a>
+  </li>
+  <li dir="ltr">
+    <a href="#monitor">Measure & Monitor Progress</a>
+  </li>
+  </ul>
 
 <h2 dir="ltr" id="build">
   Build Awareness & Support
@@ -63,7 +64,7 @@ created: 1527574221
 <p dir="ltr">
   Get out and talk about what your agency is doing to implement the standards. Collaborate internally, and help employees understand their rights and responsibilities.
 </p>
-
+<ul>
 <li dir="ltr">
   Familiarize your agency with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. (Updated)
 </li>
@@ -73,8 +74,11 @@ created: 1527574221
 <li dir="ltr">
   Assess the maturity of your agency's 508 program, and take steps to improve accessibility of agency technology.
 </li>
+</ul>
+<ul>
 <li dir="ltr">
-  Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:<ul>
+  Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:
+  <ul>
     <li dir="ltr">
       Adopt accessibility and universal design principles;
     </li>
@@ -93,49 +97,53 @@ created: 1527574221
 <li dir="ltr">
   Use <a href="https://plainlanguage.gov/">plain language</a> when describing policies and procedures, so employees understand requirements and expectations.
 </li>
+</ul>
 
 ### Best Practices
 
-  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
+ * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
 
 <h3 dir="ltr">
   Revised 508 Standards
 </h3>
-
-<li dir="ltr">
+<ul>
+  <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
-</li>
-<li dir="ltr">
+  </li>
+  <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
-</li>
-<li dir="ltr">
+  </li>
+  <li dir="ltr">
   <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
-</li>
-  * [WCAG 2.0 Level A and Level AA Success Criteria][2] - Comparison to Original 508 Standards
-  * [Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)][3]
+  </li>
+</ul>
+
+ * [WCAG 2.0 Level A and Level AA Success Criteria][2] - Comparison to Original 508 Standards
+ * [Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)][3]
 
 <h3 dir="ltr">
   Webinars
 </h3>
-
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/archives/110610">Overview of the Revised 508 Standards</a> - January 2017
-</li>
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/archives/110612">WCAG 2.0 and the Revised 508 Standards</a> - March 2017
-</li>
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/archives/110613">Old versus New: Original Section 508 Standards (2000) compared to the Revised 508 Standards (2017)</a> - May 2017
-</li>
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/archives/110614">CIOC Revised Section 508 Chapter 4 Hardware (including Mobile)</a> - July 2017
-</li>
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/archives/110615">Revised Section 508 Chapter 5 Software (including Mobile)</a>- September 2017
-</li>
-<li dir="ltr">
-  <a href="https://www.accessibilityonline.org/cioc-508/schedule">Upcoming Webinars</a>
-</li>
+<ul>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110610">Overview of the Revised 508 Standards</a> - January 2017
+  </li>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110612">WCAG 2.0 and the Revised 508 Standards</a> - March 2017
+  </li>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110613">Old versus New: Original Section 508 Standards (2000) compared to the Revised 508 Standards (2017)</a> - May 2017
+  </li>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110614">CIOC Revised Section 508 Chapter 4 Hardware (including Mobile)</a> - July 2017
+  </li>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110615">Revised Section 508 Chapter 5 Software (including Mobile)</a>- September 2017
+  </li>
+  <li dir="ltr">
+    <a href="https://www.accessibilityonline.org/cioc-508/schedule">Upcoming Webinars</a>
+  </li>
+</ul>
 
 <h3 dir="ltr">
   Section 508 Online Training
@@ -150,25 +158,26 @@ created: 1527574221
 <h3 dir="ltr">
   Technology Accessibility Playbook
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play01">Play 1: Establish a Section 508 Program Manager to lead compliance efforts</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play01">Play 1: Establish a Section 508 Program Manager to lead compliance efforts</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play02">Play 2: Assess your Section 508 program maturity</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02">Play 2: Assess your Section 508 program maturity</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play03">Play 3: Develop a Section 508 Accessibility Roadmap</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play03">Play 3: Develop a Section 508 Accessibility Roadmap</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play05">Play 5: Develop a Section 508 Program Team</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play05">Play 5: Develop a Section 508 Program Team</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play06">Play 6: Collaborate with the federal accessibility community</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play06">Play 6: Collaborate with the federal accessibility community</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play12">Play 12: Educate the workforce</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play12">Play 12: Educate the workforce</a>
 </li>
+</ul>
 
 [Back to top][9]
 
@@ -177,11 +186,12 @@ created: 1527574221
 </h2>
 
 <p dir="ltr">
-  Use the technical requirements in the standards to drive adoption of accessible, sustainable technology and <a href="/create/universal-design">universal design principles</a>. Provide an environment that can be accessed, understood and used to the greatest extent possible by all people, regardless of their age, size, ability or disability.
+  Use the technical requirements in the standards to drive adoption of accessible, sustainable technology and <a href="{{site.baseurl}}/create/universal-design">universal design principles</a>. Provide an environment that can be accessed, understood and used to the greatest extent possible by all people, regardless of their age, size, ability or disability.
 </p>
-
+<ul>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: (NEW)<ul>
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: (NEW)
+  <ul>
     <li dir="ltr">
       Users with visual, hearing, mobility or cognitive disabilities (including disabled veterans, employees, and constituents); and
     </li>
@@ -203,34 +213,38 @@ created: 1527574221
 <li dir="ltr">
   Engage employees with disabilities to understand how to develop and support a diverse workforce and validate solutions.
 </li>
+</ul>
 
 ### Tools
 
-  * [U.S. Web Design System][10] - A design system to quickly prototype and deploy accessible digital products
-  * [Revised 508 Standards Applicability Checklist][11] (MS-Word, April 2018) -Use this checklist to document your accessibility requirements for ICT items
-  * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
-  * [Applicable 508 Standards and Exceptions Chart][13] - Sample template for reporting standards and exceptions in solicitations _(NEW)_
+   * [U.S. Web Design System][10] - A design system to quickly prototype and deploy accessible digital products
+   * [Revised 508 Standards Applicability Checklist][11] (MS-Word, April 2018) -Use this checklist to document your accessibility requirements for ICT items
+   * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
+   * [Applicable 508 Standards and Exceptions Chart][13] - Sample template for reporting standards and exceptions in solicitations _(NEW)_
 
 <h3 dir="ltr">
   Best Practices
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
+  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
-  * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
+</ul>
+ 
+   * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
 
 ### Testing Guidelines
 
-  * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
+   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
 </h3>
-
+<ul>
 <li dir="ltr">
   <a href="/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
 </li>
+</ul>
 
 [Back to top][9]
 
@@ -241,7 +255,7 @@ created: 1527574221
 <p dir="ltr">
   Update your agency policies to address new or updated requirements in the standards. If your agency does not have a 508 policy, you should establish one.
 </p>
-
+<ul>
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirements E202</a> - Revised criteria includes addressing new requirements when claiming exceptions. (Updated)<ul>
     <li dir="ltr">
@@ -273,6 +287,7 @@ created: 1527574221
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#301-general">Chapter 3 Functional Performance Criteria</a> (if Chapters 4 and 5 do not address one or more ICT functions). (Updated)
 </li>
+</ul>
 
 <h3 dir="ltr">
   Tools
@@ -285,22 +300,25 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-
+<ul>
 <li dir="ltr">
   <a href="/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
 </li>
 <li dir="ltr">
   <a href="/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
-  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
+</ul>
+
+   * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play04">Play 4: Establish an Agency Policy</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play04">Play 4: Establish an Agency Policy</a>
 </li>
+</ul>
 
 [Back to top][9]
 
@@ -311,7 +329,7 @@ created: 1527574221
 <p dir="ltr">
   Ensure that the technology you buy and build is designed to be accessible from the start.
 </p>
-
+<ul>
 <li dir="ltr">
   Communicate to key internal stakeholders the benefits of accessible technology for all users.
 </li>
@@ -355,6 +373,7 @@ created: 1527574221
 <li dir="ltr">
   When procuring or developing ICT items, determine the applicability of the standards to each item. (NEW)
 </li>
+</ul>
 
 <h3 dir="ltr">
   Tools
@@ -369,37 +388,41 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-
-<li dir="ltr">
+<ul>
+ <li dir="ltr">
   <a href="/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
-</li>
+ </li>
+</ul>
+
   * [Define Accessibility Criteria][18] - Learn how to prepare solicitations, statements of work, or other procurement documents _(NEW)_
   * [Request Accessibility Information From Vendors and Contractors][19] - Learn how to communicate accessibility requirements and contract provisions to vendors _(NEW)_; includes guidance on the Voluntary Product Accessibility Template, which is used by vendors to create Accessibility Conformance Reports (ACRs) _(Updated)_
 
 <h3 dir="ltr">
   Testing Guidelines
 </h3>
-
+<ul>
 <li dir="ltr">
   <a href="/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
 </li>
+</ul>
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play08">Play 8: Integrate accessibility needs into market research and acquisition processes</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play08">Play 8: Integrate accessibility needs into market research and acquisition processes</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
 </li>
+</ul>
 
 [Back to top][9]
 
@@ -410,7 +433,7 @@ created: 1527574221
 <p dir="ltr">
   Help employees create accessible documents and content.
 </p>
-
+<ul>
 <li dir="ltr">
   Communicate to key internal stakeholders the benefits of accessible documents for all users.
 </li>
@@ -440,28 +463,31 @@ created: 1527574221
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. (NEW)
 </li>
+</ul>
 
 <h3 dir="ltr">
   Best Practices
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
+  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
 </li>
+</ul>
 
   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
 
 ### Technology Accessibility Playbook
-
+<ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
 </li>
+</ul>
 
 [Back to top][9]
 
@@ -472,7 +498,7 @@ created: 1527574221
 <p dir="ltr">
   Keep track of how your agency is meeting goals; measure your success.
 </p>
-
+<ul>
 <li dir="ltr">
   As technology is modernized or updated, ensure conformance to the standards.
 </li>
@@ -505,40 +531,42 @@ created: 1527574221
 </li>
 
 <li dir="ltr">
-  <a href="/manage/reporting">Monitor and report progress</a> - Reports are due to OMB each February and August.
+  <a href="{{site.baseurl}}/manage/reporting">Monitor and report progress</a> - Reports are due to OMB each February and August.
 </li>
+</ul>
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
 </h3>
-
+<ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
 </li>
+</ul>
 
 <p dir="ltr">
   <strong>Reviewed/Updated:</strong> January 2018
 </p>
 
- [1]: /manage/support-accessible-content
+ [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
- [3]: /content/mapping-wcag-to-fpc
- [4]: /508-training/courses/exec-overview
- [5]: /508-training/courses/508-basics
- [6]: /508-training/courses/micro-purchase/lesson1/
- [7]: /508-training/courses/playbook
- [8]: /508-training/courses/procurement
+ [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
+ [4]: {{site.baseurl}}/508-training/courses/exec-overview
+ [5]: {{site.baseurl}}/508-training/courses/508-basics
+ [6]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1/
+ [7]: {{site.baseurl}}/508-training/courses/playbook
+ [8]: {{site.baseurl}}/508-training/courses/procurement
  [9]: #main-content
  [10]: https://standards.usa.gov/
  [11]: https://section508.gov/sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
- [12]: /buy/determine-508-standards-exceptions
- [13]: /content/files/standards-exceptions-chart.docx
- [14]: /create/software-websites
- [15]: /test
- [16]: /buy/accessibility-requirements-tool
- [17]: /buy/standards-exceptions
- [18]: /buy/define-accessibility-criteria
- [19]: /buy/request-accessibility-information
+ [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+ [13]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx
+ [14]: {{site.baseurl}}/create/software-websites
+ [15]: {{site.baseurl}}/test
+ [16]: {{site.baseurl}}/buy/accessibility-requirements-tool
+ [17]: {{site.baseurl}}/buy/standards-exceptions
+ [18]: {{site.baseurl}}/buy/define-accessibility-criteria
+ [19]: {{site.baseurl}}/buy/request-accessibility-information
