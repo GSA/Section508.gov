@@ -31,7 +31,7 @@ Suggestions to address these challenges include:
 
   * If you already have tracking mechanisms in place that record compliance levels (and preferably test results) for individual electronic content assets before January 18, 2018, identify those that fully conform to the Original 508 Standards.
   * Where applicable, use metadata to identify legacy content as conformant under the Original 508 Standards. Configure your automated scanning tool to bypass any legacy content that contains this tag and has a “last updated” date prior to January 18, 2018. If your scanning tool does not have this capability and you are unable to find another way to exclude the legacy content from the scan, let the tool scan all the content with the understanding that the scanning tool is only designed to provide an indication of accessibility issues – it is not a proxy for determining legal compliance.
-  * If the legacy content is not posted to the web (or cannot be tested by your automated scanning tool), integrate information about conforming legacy content into compliance reports. If the date last updated for the legacy content is on or after January 18, 2018, test the content against the Revised 508 Standards. Determine if there are components or portions of the legacy content that do not need to conform to the Revised 508 Standards</a>. Make a case-by-case determination of remediation needed to mitigate compliance risk for “legacy” assets.
+  * If the legacy content is not posted to the web (or cannot be tested by your automated scanning tool), integrate information about conforming legacy content into compliance reports. If the date last updated for the legacy content is on or after January 18, 2018, test the content against the Revised 508 Standards. Determine if there are components or portions of the legacy content that do not need to conform to the Revised 508 Standards. Make a case-by-case determination of remediation needed to mitigate compliance risk for “legacy” assets.
   * If you have previously scanned legacy content and did not identify any issues, do not automatically assume this exception applies. Scanning tools can only provide limited test coverage against the 508 Standards (Original or Revised). Only comprehensive manual testing can validate full conformance with either standard.
   * If you have not manually tested your legacy content (or have no testing records), there is no way to tell whether it can fall under this exception. Consider testing this legacy content using the Revised 508 Standards to establish a baseline for potential accessibility risk.
   * When compiling your overall reports for key stakeholders, include results from the “previously conforming legacy content” with the results from the automated tool, and any other manual test results based on the Revised 508 Standards.
@@ -56,8 +56,6 @@ Suggestions to address these challenges include:
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
-  
-
 
 **Reviewed/Updated:** May 2018
 
@@ -65,4 +63,4 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [5]: /manage/support-accessible-content
+ [5]: {{site.baseurl}}/manage/support-accessible-content

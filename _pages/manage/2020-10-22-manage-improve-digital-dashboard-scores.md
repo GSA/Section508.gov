@@ -3,19 +3,20 @@ layout: page
 sidenav: true
 permalink: manage/improve-digital-dashboard-scores/
 type: manage
-title: 'How to Improve Digital Dashboard Accessibility Scores'
+title: "How to Improve Digital Dashboard Accessibility Scores"
 created: 1603390069
 ---
 
 In order to improve your agency&rsquo;s website accessibility scores within the Digital Dashboard tool, we must understand why we test, how tests are conducted, and the limitations of automated testing. The below guidance is intended to assist with improving website scores on the Digital Dashboard Accessibility module. For other Digital Dashboard questions, please visit the [frequently asked questions][1] on [DigitalDashboard.gov][2].
 
-  * [Section 508 Accessibility Standards][3]
-  * [How Websites are Measured][4]
-  * [Limitations to Automated Testing][5]
-  * [How to Fix Accessibility Issues][6]
-  * [How to Access the Digital Dashboard][7]
+- [Section 508 Accessibility Standards][3]
+- [How Websites are Measured][4]
+- [Limitations to Automated Testing][5]
+- [How to Fix Accessibility Issues][6]
+- [How to Access the Digital Dashboard][7]
+- [Related Resources][8]
 
-* * *
+---
 
 <h2 id="standards">
   Section 508 Accessibility Standards
@@ -25,46 +26,32 @@ In 1998, Section 508 of the Rehabilitation Act of 1973 was amended to require al
 
 For additional information on Section 508 standards, laws and associated requirements, visit:
 
-  * [Section 508 laws and Policies][8] | Section508.gov
-  * [Accessibility Testing for Software and Websites][9] | Section508.gov
-  * [Guide to Accessible Design and Development][10] | Section508.gov
-  * [Mapping of WCAG 2.0 to Functional Performance Criteria][11] | Section508.gov
-  * [U.S. Access Board][12] | Access-Board.gov
-  * [WCAG 2.0 Guidelines][13] | W3.org
-  * [WCAG 2.0 Level AA standards][14] | W3.org
-
+<ul>
+<li><a href="{{site.baseurl}}/manage/laws-and-policies">Section 508 laws and Policies</a> | Section508.gov
+</li>
+<li><a href="{{site.baseurl}}/test/web-software">Accessibility Testing for Software and Websites</a> | Section508.gov</li>
+<li><a href="{{site.baseurl}}/content/guide-accessible-web-design-development">Guide to Accessible Design and Development</a> | Section508.gov</li>
+<li><a href="{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria</a> | Section508.gov</li>
+<li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh">U.S. Access Board</a> | Access-Board.gov</li>
+<li><a href="https://www.w3.org/TR/WCAG20/" >WCAG 2.0 Guidelines </a> | W3.org</li>
+<li><a href="https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&amp;currentsidebar=%23col_overview&amp;levels=aaa#principle1" >WCAG 2.0 Level AA standards</a> | W3.org</li>
+</ul>
 <h2 id="measure">
   How Websites are Measured
 </h2>
 
 ### The Tool
 
-The data presented by the Accessibility module is obtained through use of an open-source application known as [Pa11y][15]. Pa11y uses other open-source tools, including HTML_Codesniffer and aXe Core, to identify accessibility issues.&nbsp;
+The data presented by the Accessibility module is obtained through use of an open-source application known as [Pa11y][16]. Pa11y uses other open-source tools, including HTML_Codesniffer and aXe Core, to identify accessibility issues.&nbsp;
 
-While we selected Pa11y to scan for accessibility issues presented by the Accessibility Module, there are a range of other proprietary and open-source tools available to assist web developers and IT managers in creating accessible technology. It is recommended that agencies ensure their automated and manual accessibility testing tools and processes align with the [ICT Testing Baseline][16].&nbsp;
+While we selected Pa11y to scan for accessibility issues presented by the Accessibility Module, there are a range of other proprietary and open-source tools available to assist web developers and IT managers in creating accessible technology. It is recommended that agencies ensure their automated and manual accessibility testing tools and processes align with the [ICT Testing Baseline][17].&nbsp;
 
 ### The Findings&nbsp;
 
-The Digital Dashboard&rsquo;s Accessibility module scans for certain common accessibility issues across all publicly accessible <span style="font-style: italic;">.gov executive branch agency websites. Website domains that simply redirect to other websites are not measured. The Accessibility module scans second-level federal <span style="font-style: italic;">.gov websites (e.g., <span style="font-style: italic;">agency.gov). Note that third-level federal websites, such as <span style="font-style: italic;">program.agency.gov, <span style="font-style: italic;">.mil,<span style="font-style: italic;"> .edu,<span style="font-style: italic;"> .us, and state, local, and Native Sovereign Nation (NSN) are <span style="font-weight: bold;">not currently scanned by the Accessibility module.</p> 
+The Digital Dashboard&rsquo;s Accessibility module scans for certain common accessibility issues across all publicly accessible <span style="font-style: italic;">.gov executive branch agency websites. Website domains that simply redirect to other websites are not measured. The Accessibility module scans second-level federal <span style="font-style: italic;">.gov websites (e.g., <span style="font-style: italic;">agency.gov). Note that third-level federal websites, such as <span style="font-style: italic;">program.agency.gov, <span style="font-style: italic;">.mil,<span style="font-style: italic;"> .edu,<span style="font-style: italic;"> .us, and state, local, and Native Sovereign Nation (NSN) are <span style="font-weight: bold;">not currently scanned by the Accessibility module.
 
 <p>
-  The Accessibility Module performs the following spot checks, informed by the current Section 508 standards. The checks use the WCAG 2.0 success criteria associated with each standard to inform the testing approach.
-</p>
-
-<ul>
-  <li>
-    <strong>Images with missing text descriptions</strong> (WCAG 1.1.1 [A]): The Accessibility module is checking to determine if images and other non-text content, including user interface elements, contain a text description. Full conformance with standards also requires a meaningful text description which can only be determined by manual inspection and cannot be tested by the Accessibility module.
-  </li>
-  <li>
-    <strong>Color Contrast</strong> (WCAG 1.4.3 [AA]: Accessibility module is checking to ensure there is enough contrast between text and it's background (4.5:1 contrast ratio) so that it can be read by people who have difficulty seeing color.
-  </li>
-  <li>
-    <strong>Name, Role, Value</strong> (WCAG 4.1.2 [A]): The Accessibility module is checking for anchor elements found within a valid attribute, but where no link content has been supplied, such as an anchor element found with no link content and no name and/or ID attribute. Conformance with the standards requires that sufficient information about all user interface components (including identity, operation, and state) is available to assist in technology.
-  </li>
-</ul>
-
-<p>
-  <strong>NOTE:</strong> We are actively working to increase the number of conformance tests conducted by the Accessibility module - maximizing the tool&rsquo;s benefit to agencies.&nbsp;
+  The Accessibility Module performs the following spot checks, informed by the current Section 508 standards. The checks use the WCAG 2.0 success criteria associated with each standard to inform the testing approach. For additional testing guidance, visit <a href="{{site.baseurl}}/test/web-software">Accessibility Testing for Software and Websites.</a>
 </p>
 
 <h2 id="limits">
@@ -138,27 +125,36 @@ The Digital Dashboard&rsquo;s Accessibility module scans for certain common acce
 <p style="margin-left: 20px;">
       <strong>Note:</strong> First-time dashboard users will need to submit a one-time request to <a href="mailto:dotgovdashboard@gsa.gov">dotgovdashboard@gsa.gov</a> for access to your agency data.
 </p>
+
+<h2 id = "resources"> Related Resources </h2>
+<ul>
+ <li><a href="/sites/default/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar_0layout: sampleProcurement">Digital Dashboard </a>
+  - Overview of the purpose, uses, and function of the Digital Dashboard Accessibility module.
+ </li>
+</ul>
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
 <div class="panel-body padding-3">
 <p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
 </div>
 </div>
-<p><strong>Reviewed/Updated:</strong> October 2020</p>
+<p><strong>Reviewed/Updated:</strong> June 2021 </p>
 
- [1]: https://www.digitaldashboard.gov/faq
- [2]: https://www.digitaldashboard.gov
- [3]: #standards
- [4]: #measure
- [5]: #limits
- [6]: #fix
- [7]: #dashboard
- [8]: /manage/laws-and-policies
- [9]: /test/web-software
- [10]: /content/guide-accessible-web-design-development
- [11]: /content/mapping-wcag-to-fpc
- [12]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh
- [13]: https://www.w3.org/TR/WCAG20/
- [14]: https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#principle1
- [15]: https://pa11y.org/
- [16]: https://section508coordinators.github.io/ICTTestingBaseline/
+[1]: https://www.digitaldashboard.gov/faq
+[2]: https://www.digitaldashboard.gov
+[3]: #standards
+[4]: #measure
+[5]: #limits
+[6]: #fix
+[7]: #dashboard
+[8]: #resources
+[9]: {{site.baseurl}}/manage/laws-and-policies
+[10]: {{site.baseurl}}/test/web-software
+[11]: {{site.baseurl}}/content/guide-accessible-web-design-development
+[12]: {{site.baseurl}}/content/mapping-wcag-to-fpc
+[13]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh
+[14]: https://www.w3.org/TR/WCAG20/
+[15]: https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#principle1
+[16]: https://pa11y.org/
+[17]: https://section508coordinators.github.io/ICTTestingBaseline/

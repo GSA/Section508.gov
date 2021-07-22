@@ -25,8 +25,8 @@ Accessibility is not just a legal mandate, it is also good for business. Use the
 
   * **Establish accessibility review guidelines.** Determine a review process for each department responsible for publishing covered electronic content. Insert accessibility reviews into existing development and publication lifecycles.
 
-  *  [Play 7: Integrate accessibility needs into requirements and design processes][6]
-  *  [Play 9: Integrate accessibility needs into development processes][7]
+    *  [Play 7: Integrate accessibility needs into requirements and design processes][6]
+    *  [Play 9: Integrate accessibility needs into development processes][7]
 
 ## Related Resources
 
@@ -41,9 +41,9 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [3]: /blog/infographic-the-case-for-universal-design
- [4]: /training/508-training
- [5]: /test
- [6]: /tools/playbooks/technology-accessibility-playbook/play07
- [7]: /tools/playbooks/technology-accessibility-playbook/play09
- [8]: /manage/support-accessible-content
+ [3]: {{site.baseurl}}/blog/infographic-the-case-for-universal-design
+ [4]: {{site.baseurl}}/training/508-training
+ [5]: {{site.baseurl}}/test
+ [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook/play07
+ [7]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook/play09
+ [8]: {{site.baseurl}}/manage/support-accessible-content
