@@ -3,12 +3,16 @@ This sidenav has tags from all the posts. Will be displayed on Blog landing page
 {% endcomment %}
 
 <nav>
-  <div class="usa-sidenav__title">Topics</div>
   <ul class="usa-sidenav">
-  	{% assign tags = site.tags | sort %}
-    {% for tag in tags %}
-     {% assign tag-url = '/blog/' | append: tag[0] | append: '/' | downcase %}
-    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/{{ tag[0] | downcase }}/" class="usa-nav__link {% if page.url == tag-url %} usa-current{% endif %}">{{ tag[0] | replace: "-"," " }}</a></li>
-    {% endfor %}
+  	<li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/" class="usa-nav__link {% if page.url == '/blog/index.html' %} usa-current{% endif %}">Blog & Updates</a></li>
+  	<li class="usa-sidenav__item"><span class="usa-sidenav__item_nolink">IT Accessibility Bogs</span>
+	  <ul class="usa-sidenav__sublist">
+	  	{% assign tags = site.tags | sort %}
+	    {% for tag in tags %}
+	     {% assign tag-url = '/blog/' | append: tag[0] | append: '/' | downcase %}
+	    <li class="usa-sidenav__item"><a href="{{ site.baseurl }}/blog/{{ tag[0] | downcase }}/" class="usa-nav__link {% if page.url == tag-url %} usa-current{% endif %}">{{ tag[0] | replace: "-"," " }}</a></li>
+	    {% endfor %}
+	  </ul>
+	</li>
   </ul>
 </nav>

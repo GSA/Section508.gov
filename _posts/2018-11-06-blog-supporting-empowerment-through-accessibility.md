@@ -5,7 +5,7 @@ type: article
 title: 'Supporting Empowerment through Accessibility'
 created: 1541532205
 tags: Accessibility Events
-description: November 6, 2018 - In recognition of National Disability Employment Awareness Month (NDEAM), GSA hosted the Federal Interagency Accessibility Forum (IAAF) to celebrate the contributions of workers with disabilities, and educate people about the value of a workforce inclusive of all skills and talents.
+description: In recognition of National Disability Employment Awareness Month (NDEAM), GSA hosted the Federal Interagency Accessibility Forum (IAAF) to celebrate the contributions of workers with disabilities, and educate people about the value of a workforce inclusive of all skills and talents.
 ---
 
 <p style="margin:0in 0in 0.0001pt">

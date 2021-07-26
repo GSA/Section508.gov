@@ -28,6 +28,12 @@ $theme-show-notifications: false;
   Add your SASS/CSS here
 */
 
+.usa-sidenav__item_nolink {
+    color: #565c65;
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
 .usa-sidenav__title {
   padding: 0.5rem 1rem;
   font-weight: bold;
@@ -194,4 +200,18 @@ $theme-show-notifications: false;
   .usa-hero__callout {
     max-width: 24rem;
   }
+
+  .usa-sidenav__sublist .usa-current::after {
+    background-color: #005ea2;
+    border-radius: 99rem;
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0.25rem;
+    top: 0.25rem;
+    width: 0.25rem;
+    left: 0;
+  }
 }
+
+

@@ -5,12 +5,10 @@ type: article
 title: 'NEW: Access Board Updates Requirements for Information and Communication Technology'
 created: 1483972791
 tags: Policy
-description: January 9, 2017 - Tim Cregan of the Access Board reports that the Access Board has released a [final rule][1] that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act.
+description: Tim Cregan of the Access Board reports that the Access Board has released a [final rule][1] that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act.
 ---
 
 Source: Tim Cregan (Access Board)
-
-January 9, 2017
 
 The Access Board today released a [final rule][1] that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also refreshes guidelines for telecommunications equipment subject to Section 255 of the Communications Act.  
   
