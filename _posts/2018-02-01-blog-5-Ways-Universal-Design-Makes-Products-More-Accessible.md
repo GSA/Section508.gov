@@ -5,7 +5,7 @@ type: article
 title: '5 Ways Universal Design Makes Products More Accessible '
 created: 1517533537
 tags: Accessibility Universal-Design
-description: February 1, 2018 - Why build a product that can’t be used by everyone? With the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" aria-label="Revised 508 Standards link">Revised 508 Standards</a> now in effect, federal agencies have an opportunity to change the way they implement solutions and make them accessible to as many people as possible.
+description: Why build a product that can’t be used by everyone? With the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" aria-label="Revised 508 Standards link">Revised 508 Standards</a> now in effect, federal agencies have an opportunity to change the way they implement solutions and make them accessible to as many people as possible.
 ---
 
 Why build a product that can’t be used by everyone? With the Revised 508 Standards now in effect, federal agencies have an opportunity to change the way they implement solutions and make them accessible to as many people as possible. Technology leaders in the private sector have adopted [universal design][1] to create solutions that are inclusive and accessible for a wider user base. These leaders don’t see accessibility as an add-on to development, but as a key part of the overall design and user experience journey. This mindset results in more innovative solutions with improved functionality and an enhanced user experience.

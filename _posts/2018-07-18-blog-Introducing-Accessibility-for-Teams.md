@@ -5,7 +5,7 @@ type: article
 title: 'Introducing Accessibility for Teams'
 created: 1531930870
 tags: Accessibility Announcements Universal-Design
-description: July 10, 2018 - Accessibility is a crucial part of government product design.
+description: Accessibility is a crucial part of government product design.
 ---
 
 Accessibility is a crucial part of government product design. First,&nbsp;[it&rsquo;s the law][1]. Federal agencies face legal consequences when they don&rsquo;t meet accessibility requirements. Second, it affects us all. Whether you have a motor disability, you sprained your wrist playing dodgeball, you need a building to have a ramp for your wheelchair or stroller, or you literally just have your hands full, we all find ourselves unable to do certain things at different points in our lives. Accessible products are better products for everyone.
