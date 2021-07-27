@@ -4,7 +4,7 @@ permalink: blog/Revised-508-Standards-Safe-Harbor-and-FAR-Update/
 type: article
 title: 'Revised 508 Standards, Safe Harbor and FAR Update'
 created: 1517534461
-tags: Policy
+tags: Policy-and-Management
 description: Over the past year, federal agencies have been working to transition to the Revised 508 Standards, and the FAR Council is working on regulatory updates to the Federal Acquisition Regulation (FAR).
 ---
 

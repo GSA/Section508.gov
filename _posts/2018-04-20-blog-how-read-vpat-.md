@@ -4,7 +4,7 @@ permalink: blog/how-read-vpat/
 type: article
 title: 'Building Accessibility into Your Procurement Process'
 created: 1524275406
-tags: Procurement Universal-Design
+tags: Acquisition Design-and-Develop
 description: What comes to mind when you hear the word “accessibility”? If it's “compliance,” then you're not alone. While compliance is important, and a legal requirement, consider thinking about accessible IT from a universal design standpoint first.
 ---
 
