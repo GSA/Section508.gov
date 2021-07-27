@@ -10,11 +10,9 @@ created: 1527274672
 <p dir="ltr">
   The <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf">OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> aims to improve how agencies manage Section 508 and IT accessibility responsibilities by increasing transparency, strengthening accountability, and improving collaboration.
 </p>
-
 <h2 dir="ltr">
   Section 508 Program Maturity Reporting
 </h2>
-
 <p dir="ltr">
   Federal agencies are required to report to the Office of Management and Budget (OMB) twice per year on their IT accessibility/Section 508 program maturity and effectiveness. The CIO Council’s Accessibility Community of Practice and GSA analyze these reports to find ways to improve collaboration across agencies, reduce redundancies, and develop solutions to improve the management of government accessibility programs.
 </p>
@@ -34,7 +32,7 @@ created: 1527274672
 <p dir="ltr">
   <strong>How do I gain access to the online reporting system?</strong>
 </p>
-
+<ul>
 <li dir="ltr">
   CFO Act agencies: Shortly before the reporting due date, GSA will send login information to Section 508 Program Managers and other designated contacts
 </li>
@@ -44,11 +42,12 @@ created: 1527274672
 <li dir="ltr">
   Other federal agencies that wish to submit a report should email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to request access to the system
 </li>
+</ul>
 
 <p dir="ltr">
   <strong>How do I prepare the report?</strong>
 </p>
-
+<ul>
 <li dir="ltr">
   Complete the Mandatory 508 Program Maturity Metrics section for each of the five reporting requirements
 </li>
@@ -70,17 +69,18 @@ created: 1527274672
   <a href="https://www.section508.gov/manage/reporting/guidelines-conformance">Measuring Website Conformance</a>
 </li>
 <li dir="ltr">
-  Review the <a href="https://www.section508.gov/manage/reporting/questions">OMB Reporting Questions</a>
+  Review the <a href="https://www.section508.gov/manage/reporting/questions" aria-label ="OMB reporting questions">OMB Reporting Questions</a>
 </li>
+</ul>
 
 <p dir="ltr">
   <strong>How do I submit the report?</strong>
 </p>
 
 <p dir="ltr">
-  The current round of reports are&nbsp;<em>due&nbsp;</em>by 5:00 PM ET on August 16, 2021, with&nbsp;<em>final snapshots</em>&nbsp;due by 5:00 PM ET on August 28, 2021&nbsp;unless your agency has negotiated a different date with OMB.
+  The current round of reports are&nbsp;<em>due&nbsp;</em>by 5:00 PM ET on August 16, 2021, with&nbsp;<em>final snapshots</em>&nbsp;due by 5:00 PM ET on August 31, 2021&nbsp;unless your agency has negotiated a different date with OMB.
 </p>
-
+<ul>
 <li dir="ltr">
     Submit your information via the accessible online OMB Agency 508 Reporting tool using the login information provided to the designated contact(s) listed above
 </li>
@@ -89,18 +89,19 @@ created: 1527274672
 If your agency has not received login information, and you wish to submit a report, please email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to request access
 
 </li>
+</ul>
 
 <p dir="ltr">
   <strong>Additional Resources</strong>
 </p>
-
+<ul>
 <li dir="ltr">
   <a href="https://www.section508.gov/manage/reporting/faq">Frequently Asked Questions</a> about OMB reporting
 </li>
 <li dir="ltr">
   <a href="https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess Maturity of Your Agency’s 508 Program</a> - Play 2 from the <a href="https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a>
 </li>
-
+</ul>
 <p dir="ltr">
   Please direct questions about the template or reporting process to <a href="mailto:Section.508@gsa.gov" target="_blank">Section.508@gsa.gov</a>.
 </p>
@@ -114,4 +115,4 @@ If your agency has not received login information, and you wish to submit a repo
   </div>
 </div>
 
-**Reviewed/Updated**: November 2020
+**Reviewed/Updated**: July 2021

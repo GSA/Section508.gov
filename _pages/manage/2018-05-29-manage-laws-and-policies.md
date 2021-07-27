@@ -128,8 +128,8 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [7]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [8]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [9]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule
- [10]: /manage/laws-and-policies/quick-reference-guide
- [11]: https://www.disability.gov/rehabilitation-act-1973/
+ [10]: {{site.baseurl}}/manage/laws-and-policies/quick-reference-guide
+ [11]: https://section508.gov/sites/default/files/rehabilitation-act-of-1973-amended-by-wioa.pdf
  [12]: http://www.eeoc.gov/laws/statutes/rehab.cfm
  [13]: http://www.dol.gov/ofccp/regs/compliance/sec503.htm
  [14]: https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf
@@ -153,7 +153,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [32]: /manage/laws-and-policies/state
  [33]: /manage/laws-and-policies/international
  [34]: https://www.w3.org/WAI/policies/
- [35]: /manage/laws-and-policies/update-agency-policies
+ [35]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
  [36]: https://www.ssa.gov/accessibility/508_overview.html
  [37]: https://www.dhs.gov/accessibility
  [38]: https://www.va.gov/web/standards/accessibility.cfm
