@@ -3,10 +3,12 @@ layout: post
 permalink: blog/OMB-508-agency-report-for-august/
 type: article
 title: 'OMB 508 Agency Report for August'
+tags: Policy-and-Management
 created: 1497274428
+description: As a reminder, the biannual OMB Agency 508 Reports are due on August 30, 2017&nbsp;to&nbsp;<feedback@cio.gov>
 ---
 
-June 12, 2017 - As a reminder, the biannual OMB Agency 508 Reports are due on August 30, 2017&nbsp;to&nbsp;<feedback@cio.gov>
+As a reminder, the biannual OMB Agency 508 Reports are due on August 30, 2017&nbsp;to&nbsp;<feedback@cio.gov>
 
 There is no change in the reporting requirements from the February 2017 submission. Both the reporting template and the associated instructions sheet are attached to this message. If you are unable to access the template because of the version of software your agency is using, you can use an older version of the template and just the data elements identified in the current instructions document.
 

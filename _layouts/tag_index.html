@@ -7,11 +7,17 @@ layout: default
       <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
         {% include blog-sidenav.html %}
       </aside>
-      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h1>{{ page.tag | replace: "-"," " }}</h1>
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-graphic-list">
+        <h1 class="margin-top-0">{{ page.tag | replace: "-"," " }}</h1>
          {% for post in site.tags[page.tag] %}
         <div class="text-base margin-bottom-2" style="clear:both;">
           <a class="text-no-underline" href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+          <div class="text-base margin-bottom-2">
+            <div class="margin-top-neg-105">{% if post.author %}
+              By <span class="text-bold">{{ post.author }}</span> ·{% endif %} {{ post.date |
+              date: '%B %d, %Y' }}
+            </div>
+          </div>
           <p>{{ post.description }}</p>
           <ul style="list-style: none; float:right;" class="margin-top-0">
             <li><a href="{{ site.baseurl }}/{{ post.permalink }}" aria-label="{{ post.title }} Read More Link">Read More</a></li>

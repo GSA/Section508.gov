@@ -3,6 +3,8 @@ layout: post
 permalink: blog/Barriers-to-Accessibility-Stories-from-Our-Community/
 type: article
 title: 'Barriers to Accessibility: Stories from Our Community'
+description: In today's world, technology advances at a rapid pace. While these advancements bring benefits such as faster connections and increased productivity, they can also lead to challenges for accessibility.
+tags: Policy-and-Management
 created: 1535656948
 ---
 

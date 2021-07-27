@@ -4,11 +4,11 @@ permalink: blog/new-section-508-rule/
 type: article
 title: 'New Section 508 Rule: Transition Assistance is Coming'
 created: 1484058893
-tags: Policy
-description: January 10, 2017 - The United States Access Board has refreshed Section 508 of the Rehabilitation Act. The General Services Administration's Government-wide Section 508 Program, along with the Access Board, and the Accessibility Community of Practice, will guide agencies through the transition with training, tools, and communication resources.
+tags: Policy-and-Management
+description: The United States Access Board has refreshed Section 508 of the Rehabilitation Act. The General Services Administration's Government-wide Section 508 Program, along with the Access Board, and the Accessibility Community of Practice, will guide agencies through the transition with training, tools, and communication resources.
 ---
 
-January 10, 2017 - The United States Access Board has refreshed Section 508 of the Rehabilitation Act. The General Services Administration's Government-wide Section 508 Program, along with the Access Board, and the Accessibility Community of Practice, will guide agencies through the transition with training, tools, and communication resources.
+The United States Access Board has refreshed Section 508 of the Rehabilitation Act. The General Services Administration's Government-wide Section 508 Program, along with the Access Board, and the Accessibility Community of Practice, will guide agencies through the transition with training, tools, and communication resources.
 
 In a press release, the United States Access Board writes that they have “released a [<u>final rule</u>][1] that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also refreshes guidelines for telecommunications equipment subject to Section 255 of the Communications Act.” For complete details, view the entire [<u>Access Board announcement</u>][2].
 

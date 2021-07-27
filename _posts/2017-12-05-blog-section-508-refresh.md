@@ -4,11 +4,11 @@ permalink: blog/section-508-refresh/
 type: article
 title: 'Watch the Video! New Requirements: Section 508 Refresh'
 created: 1512526462
-tags: Announcements Policy
-description: December 12, 2017 - The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
+tags: Policy-and-Management
+description: The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
 ---
 
-December 12, 2017 - The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
+The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
 
 Within these regulations, Section 508 of the [Rehabilitation Act of 1973][1] establishes rules to ensure information and communication technology (ICT) is accessible. Section 508 was recently refreshed, and the [Revised 508 Standards][2] become effective for federal agencies on January 18, 2018. 
 

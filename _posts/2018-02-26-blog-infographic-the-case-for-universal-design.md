@@ -4,8 +4,8 @@ permalink: blog/infographic-the-case-for-universal-design/
 type: article
 title: 'Infographic: The Case for Universal Design '
 created: 1519692723
-tags: Announcements Universal-Design
-description: February 26, 2018 - Current trends in accessibility and technology promote universal design as a principle that leads to greater innovation, cost-savings, higher employee engagement, and talent retention.
+tags: Design-and-Develop
+description: Current trends in accessibility and technology promote universal design as a principle that leads to greater innovation, cost-savings, higher employee engagement, and talent retention.
 ---
 
 <div>

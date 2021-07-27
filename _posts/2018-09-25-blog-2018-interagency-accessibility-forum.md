@@ -4,8 +4,8 @@ permalink: blog/2018-interagency-accessibility-forum/
 type: article
 title: '2018 Interagency Accessibility Forum'
 created: 1537886593
-tags: Announcements Events
-description: September 25, 2018 - Federal employees (and contractors with a government email address) are invited to participate in the 2018 Interagency Accessibility Forum (IAAF) on Tuesday, October 9, 2018, in Washington, DC.
+tags: Events
+description: Federal employees (and contractors with a government email address) are invited to participate in the 2018 Interagency Accessibility Forum (IAAF) on Tuesday, October 9, 2018, in Washington, DC.
 ---
 
 <p dir="ltr">
