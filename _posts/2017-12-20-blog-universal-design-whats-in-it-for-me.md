@@ -4,7 +4,7 @@ permalink: blog/universal-design-whats-in-it-for-me/
 type: article
 title: "Universal Design: What's in it for Me?"
 created: 1513821339
-tas: Universal-Design
+tas: Design-and-Develop
 description: Part two of a two-part series about Universal Design
 ---
 

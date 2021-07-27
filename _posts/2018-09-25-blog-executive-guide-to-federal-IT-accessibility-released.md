@@ -4,7 +4,7 @@ permalink: blog/executive-guide-to-federal-IT-accessibility-released/
 type: article
 title: 'Executive Guide to Federal IT Accessibility Released'
 created: 1537886806
-tags: Accessibility Announcements
+tags: Policy-and-Management
 description: The federal government strives to deliver a level of service comparable to that of the best private sector organizations. As more government services move online, we have a responsibility to ensure equal access to services, particularly for people living with a disability.
 ---
 

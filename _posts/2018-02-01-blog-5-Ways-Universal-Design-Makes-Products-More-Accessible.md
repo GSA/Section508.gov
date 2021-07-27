@@ -4,7 +4,7 @@ permalink: blog/5-Ways-Universal-Design-Makes-Products-More-Accessible/
 type: article
 title: '5 Ways Universal Design Makes Products More Accessible '
 created: 1517533537
-tags: Accessibility Universal-Design
+tags: Design-and-Develop
 description: Why build a product that can’t be used by everyone? With the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" aria-label="Revised 508 Standards link">Revised 508 Standards</a> now in effect, federal agencies have an opportunity to change the way they implement solutions and make them accessible to as many people as possible.
 ---
 

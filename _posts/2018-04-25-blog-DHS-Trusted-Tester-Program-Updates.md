@@ -4,7 +4,7 @@ permalink: blog/DHS-Trusted-Tester-Program-Updates/
 type: article
 title: 'DHS Trusted Tester Program Updates '
 created: 1524687889
-tags: Announcements
+tags: Testing
 description: In April 2018, the Department of Homeland Security announced some updates coming to the Trusted Tester Program, to align with recent updates to the Revised 508 Standards.
 ---
 

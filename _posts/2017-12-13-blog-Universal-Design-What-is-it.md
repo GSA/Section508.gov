@@ -4,7 +4,7 @@ permalink: blog/Universal-Design-What-is-it/
 type: article
 title: 'Universal Design: What is it?'
 created: 1513216986
-tags: Universal-Design
+tags: Design-and-Develop
 description: Part one of a two-part series about Universal Design The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities.
 ---
 

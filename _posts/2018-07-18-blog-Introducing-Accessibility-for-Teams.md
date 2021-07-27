@@ -4,7 +4,7 @@ permalink: blog/Introducing-Accessibility-for-Teams/
 type: article
 title: 'Introducing Accessibility for Teams'
 created: 1531930870
-tags: Accessibility Announcements Universal-Design
+tags: Design-and-Develop
 description: Accessibility is a crucial part of government product design.
 ---
 
