@@ -44,14 +44,7 @@ If your agency doesn't have a designated 508 PM, contact your agency CIO office 
 
 ## Small and Independent Agencies
 
-<a href id = "top" name ="top"> Go to States Beginning With: |[A][2]| |[C][3]| |[I][4]| |[K][5]| |[L][6]| |[M][7]| |[N][8]| |[O][9]| |[V][10]| |[W][11]| </a>
-
-<a href id = "top" name = "top"> Navigate to Agen
-
-
-
-
-Navigate to Agencies starting with: <a id="topA" name="top"></a>|[A][25]| <a id="topC" name="top"></a>|[C][26]| <a id="topD" name="top"></a>|[D][27]| <a id="topE" name="top"></a>|[E][28]| <a id="topF" name="top"></a>|[F][29]| <a id="topG" name="top"></a>|[G][30]| [I][31]| <a id="topM" name="top"></a>|[M][32]| <a id="topN" name="top"></a>|[N][33]| <a id="topO" name="top"></a>|[O][34]| <a id="topP" name="top"></a>|[P][35]| <a id="topR" name="top"></a>|[R][36]| <a id="topS" name="top"></a>|[S][37]| <a id="topT" name="top"></a>|[T][38]| <a id="topU" name="top"></a>|[U][39]|
+Navigate to Agencies starting with: <a id="topA" name="top"></a> |[A][25]|<a id="topC" name="top"></a>|[C][26]| <a id="topD" name="top"></a>|[D][27]| <a id="topE" name="top"></a>|[E][28]| <a id="topF" name="top"></a>|[F][29]| <a id="topG" name="top"></a>|[G][30]| [I][31]| <a id="topM" name="top"></a>|[M][32]| <a id="topN" name="top"></a>|[N][33]| <a id="topO" name="top"></a>|[O][34]| <a id="topP" name="top"></a>|[P][35]| <a id="topR" name="top"></a>|[R][36]| <a id="topS" name="top"></a>|[S][37]| <a id="topT" name="top"></a>|[T][38]| <a id="topU" name="top"></a>|[U][39]|
 
   
 \- - - - -  
@@ -208,7 +201,6 @@ DIA IT Accessibility Program Office - <508AccessibilityTeam@dodiis.mil>
 ### Defense Logistics Agency (DLA)
 
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
-Christina Larsen - 804-489-2107 - <christina.larsen@dla.mil>  
 Helpdesk - <508compliance@dla.mil>
 
 ### Defense Media Activity (DMA)
@@ -218,6 +210,12 @@ Vacant
 ### Defense Security Cooperation Agency (DSCA)
 
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
+
+### Defense Technical Information Center (DTIC)
+
+Yvette Jacks - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
+Christine Durose (BACKUP) - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
+Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 
 ### Defense Threat Reduction Agency (DTRA)
 
@@ -381,8 +379,8 @@ Amanda C. Haney&nbsp;(BACKUP) - 571-468-6497 - <amanda.c.haney@cbp.dhs.gov>
 
 ### **Cybersecurity & Infrastructure Security Agency (CISA)**
 
-Stephen Knox - 202-254-7454 - <stephen.knox@hq.dhs.gov>  
-Valentina Melnichenko - 202-568-1630 - <valentina.melnichenko@associates.cisa.dhs.gov>
+Stan Lavery - 202-875-2587 - <stan.lavery@cisa.dhs.gov>
+Della Alvarado - 202-805-3425- <della.alvarado@cisa.dhs.gov>
 
 ### Federal Emergency Management Agency (FEMA)
 
@@ -653,7 +651,8 @@ Brandon Jubar - 202.693.4289 - [jubar.Brandon.T@dol.gov][91]
 
 ## Department of State
 
-David Conner - 202-261-8806 - <connerd2@state.gov>
+Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
+
 
 <a id="usdot" name="usdot"></a>
 
@@ -708,10 +707,6 @@ Michael Jones - 202-653-0331 - [jonesmw@cdfi.treas.gov][93]
 ### Departmental Offices
 
 Timothy Arnett - 202-927-9594 - <timothy.arnett@treasury.gov>
-
-### Financial Management Service (FMS)
-
-Efrain Villegas - 202-874-1136 - <efrain.villegas@fms.treas.gov>
 
 ### FINCEN
 
@@ -873,7 +868,7 @@ Patrick Leahy - 202-566-1675 - <pleahy@eac.gov>
 
 ### Executive Office of the President (EOP)
 
-David Baquis - 202-395-5283 - <david_baquis@oa.eop.gov>
+Craig Guyton - 202-395-0826 - <craig.guyton@oa.eop.gov>
 
 <a id="F" name="F"></a>
 
@@ -985,7 +980,7 @@ Sharvon Jones - 202-551-5251 -&nbsp;<jonessh@sec.gov>
 
 ### Tennessee Valley Authority
 
-Vacant</a>
+Vacant
 
 <a id="U" name="U"></a>
 

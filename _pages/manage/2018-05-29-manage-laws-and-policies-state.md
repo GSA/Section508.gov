@@ -6,21 +6,24 @@ type: manage
 title: 'State Policy'
 created: 1527605841
 ---
-
+<p id="top" name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Electronic and Information technology (EIT) also know as Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. Your state not listed? [Send us][1] your policy or site information and we'll display it here.
 
 
-<a href id = "top" name ="top"> Go to States Beginning With: |[A][2]| |[C][3]| |[I][4]| |[K][5]| |[L][6]| |[M][7]| |[N][8]| |[O][9]| |[V][10]| |[W][11]| </a>
+<!-- <a id ="top" > Go to States Beginning With: |[A][2]| |[C][3]| |[I][4]| |[K][5]| |[L][6]| |[M][7]| |[N][8]| |[O][9]| |[V][10]| |[W][11]| </a> -->
+
+Go to States Beginning With: \|[A][2]\| \|[C][3]\| \|[I][4]\| \|[K][5]\| \|[L][6]\| \|[M][7]\| \|[N][8]\| \|[O][9]\| \|[V][10]\| \|[W][11]\|
 
 
-<a href id="A" name="A"> </a> 
-[**Alabama**][12] _Accessibility Policy_ In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
+<p id="A" name="A"> </p> 
+
+[**Alabama**][12]{:name='anchorName'} _Accessibility Policy_ In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
 
 [**Arizona**][13]  
 _AZ.gov - Assessment and Evaluation_  
 To provide an accessibility model in which web content authors, format designers, and software developers within State agencies understand their roles in providing persons with disabilities, access to existing and developing State web sites. The following web page designs and features for completing the accessibility model are to be addressed for all State web sites.
 
-<a href id="C" name="C"></a>
+<p id="C" name="C"></p>
 
 [**California**][14]  
 _State University Accessible Technology Initiative_  
@@ -32,21 +35,21 @@ _[California Office of Statewide Health Planning and Development OSHPD Accessibi
 _State of Connecticut Universal Web Site Accessibility Policy for State Web Sites_  
 This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues. Additional references can be found on the State of Connecticut Accessibility Web Site at <http://www.access.state.ct.us/policies/accesspolicy40.html>.
 
-<a href id="I" name="I"></a>
+<p id="I" name="I"></p>
 
 [**Illinois**][17] The Illinois Information Technology Accessibility Act (IITAA) requires Illinois agencies and universities to ensure that their web sites, systems, and other information technologies are accessible to people with disabilities. While the Americans with Disabilities Act and Section 504 of the Rehabilitation Act require the State to address accessibility in general, the IITAA requires the State to establish and follow specific, functional accessibility standards and to address accessibility proactively.
 
 [**Indiana**][18] _IN.gov Accessibility Policy_ Indiana is committed to inclusion and universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.
 
-<a href id="K" name="K"></a>
+<p id="K" name="K"></p>
 
 [**Kansas**][19] _State of Kansas Information and Communication Technology Accessibility Standards_ Purpose: This policy contains scoping and technical requirements for information and communication technology (ICT) to ensure accessibility and usability by individuals with disabilities.
 
-<a href id="L" name="L"></a>
+<p id="L" name="L"></p>
 
 [**Louisiana**][20] _Louisiana.gov Policies_ It’s really about doing the right thing. It's about helping 65 million Americans with disabilities achieve transparent access to information. Aging baby boomers now in the workforce will need some of the technology solutions emerging from Section 508 efforts.
 
-<a href id="M" name="M"></a>
+<p id="M" name="M"></p>
 
 <p dir="ltr">
   <a href="http://www.mass.gov/portal/massgov-web-accessibility-statement.html"><strong>Massachusetts</strong></a>. Mass.Gov is committed to achieving meaningful accessibility to this online environment for all users, including users with disabilities. We follow specific <a href="http://www.mass.gov/anf/research-and-tech/policies-legal-and-technical-guidance/tech-guidance/accessibility-guidance/web-accessibility-standards.html">Commonwealth enterprise standards</a> designed to meet the needs of our citizens with disabilities. The Commonwealth enterprise standards are generally based on standards used by the Federal government for technology accessibility for people with disabilities, and web content accessibility guidelines developed by the World Wide Web Consortium (W3C). The Mass.Gov web site is regularly tested using leading web accessibility technologies and reviewed by users to verify that this web site is compliant with applicable standards.
@@ -56,19 +59,19 @@ This policy provides a set of established guidelines adopted by the the State of
 
 [**Missouri**][22] _Assistive Technology Information Technology Access: Questions, Answers, and Unknowns for State and Local Entities_ Missouri state law (RSMo. 191.863) requires state agencies to develop and procure accessible information technology unless an undue burden would be imposed. The statute defines state agencies as "each department, office, board, bureau, commission or other unit of the executive, legislative, or judicial branch of state government, including public four-year and two-year colleges and universities." Missouri's law defines information technology the same as Section 508. The statute also charges the Missouri assistive technology council (MoAT) and the office of information technology (OIT) with responsibility for adopting standards to be used by state agencies in the procurement or development of accessible information technology.
 
-<a href id="N" name="N"></a>
+<p id="N" name="N"></p>
 
 [**New York**][23] _NY State and section 508_ New York State has had a web accessibility policy since September of 1999. That first policy was aligned with the World Wide Web Consortium Web Accessibility Initiative's Web Content Accessibility Guidelines, current version (WCAG). When the guidelines were reformulated, and the "last call" draft was published in 2004, the IT Accessibility Committee advised that the successor WCAG guidelines were practically speaking, unimplementable. In reaction to this, OFT (with advice from the Committee) developed a set of hybrid standards that melded the WCAG and U. S. Section 508, which covered all federal agencies and contractors doing business with the federal government.
 
-<a href id="O" name="O"></a>
+<p id="O" name="O"></p>
 
 [**Oklahoma**][24] _EITA" Electronic and Information Technology Accessibility Law_ In 2004, the Oklahoma Legislature passed Oklahoma law modeling Section 508 of the Rehabilitation Act. Governor Brad Henry signed HB 2197 into law April 2004 thus improving the accessibility of electronic and information technology (EIT). The law pertains to state agencies, post-secondary institutions, and the Oklahoma Department of Career and Technology Education system. House Bill 2015 (7.1.09) created the position of Chief Information Officer and reflects new section numbers for Oklahoma's 508 law. Oklahoma Statute: Title 62: Section 34.28 (was 41.5t), Section 34.29 (was 41.5t.1) and Section 34.30 (was 41.5t.2).
 
-<a href id="V" name="V"></a>
+<p id="V" name="V"></p>
 
 [**Virginia Information Technologies Agency (VITA)**][25] Realizing in 2004 that accessible technologies serve all users regardless of their ability, the Virginia General Assembly and the Governor of Virginia enacted supporting state legislation. By state Code, all Virginia state executive branch agencies and institutions of higher education now are required to comply with the regulations that implement the electronic and information technology accessibility standards of the Rehabilitation Act of 1973, as amended, and any regulations as may be prescribed by Virginia Information Technologies Agency (VITA). In support of the legislation VITA implemented the Virginia Information Technology Accessibility Standard. The standard is incorporated in Virginia's Enterprise Architecture and designated as Information Technology Resource Management (ITRM) Standard GOV103-00.
 
-<a href id="W" name="W"></a>
+<p id="W" name="W"></p>
 
 [**Web Accessibility and Disability Resources in Spanish and Portuguese**][26]
 

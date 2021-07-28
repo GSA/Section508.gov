@@ -7,7 +7,7 @@ created: 1483454666
 description: 
 ---
 
-January 3, 2017 - On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products. Acknowledging that accessibility impacts everyone, Microsoft shared their journey of &ldquo;embracing accessibility by design.&rdquo;
+On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products. Acknowledging that accessibility impacts everyone, Microsoft shared their journey of &ldquo;embracing accessibility by design.&rdquo;
 
 Hosted by General Services Administration&rsquo;s (GSA) Office of Government-wide Policy (OGP), the event included speakers from many different Microsoft divisions. Dean Halstead, Director of Collaboration, Cloud & Accessibility, opened the event by quoting Microsoft CEO Satya Nadella, saying &ldquo;We will focus on designing and building products that our customers love, and that are accessible to everyone, and built for each of us.&rdquo; Microsoft&rsquo;s strategy is to think about accessibility as a part of design, not an afterthought.
 

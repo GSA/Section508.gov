@@ -144,7 +144,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [23]: https://policy.cio.gov/open-data/
  [24]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/improving-accessibility-government-information_07-19-2010.pdf
  [25]: https://obamawhitehouse.archives.gov/omb/procurement_index_508/
- [26]: /sites/default/files/ombNews_February_2011.doc
+ [26]: {{site.baseurl}}/sites/default/files/ombNews_February_2011.doc
  [27]: /sites/default/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
  [28]: /sites/default/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
  [29]: /sites/default/files/Memo_Safavian-Evans.doc

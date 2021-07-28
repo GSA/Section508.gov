@@ -5,7 +5,7 @@ type: article
 title: 'Global Accessibility Awareness Day 2018'
 created: 1526588225
 tags: Announcements
-description: May 17, 2018 - Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities.
+description: Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities.
 ---
 
 <img alt="Close-up picture of a computer keyboard and a person's hands hovering over the keys" src="/sites/default/files/field/image/laptop-keyboard.jpg" style="height:200px;float: right; margin-left:15px;margin-bottom:10px;" />Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities. Over the past year, GSA has made it our mission to transform the way we approach accessible IT in the Federal government.

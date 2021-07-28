@@ -6,7 +6,7 @@ title: 'Microsoft Enhances Tests for Accessibility'
 created: 1489414442
 ---
 
-March 17, 2017 - Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers. In particular, they have focused on making trustworthy technology for all employees and customers while also equipping them with information that will help them understand and validate product accessibility.
+Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers. In particular, they have focused on making trustworthy technology for all employees and customers while also equipping them with information that will help them understand and validate product accessibility.
 
 By testing Microsoft products for conformance to accessibility standards, Microsoft is able to support customers in the government and private sectors alike. Working extensively with the Department of Homeland Security’s Trusted Tester Program, Microsoft has been able to simplify these tests through a systematic engineering process.
 
