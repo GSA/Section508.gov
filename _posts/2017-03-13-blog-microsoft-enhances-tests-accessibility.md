@@ -3,7 +3,9 @@ layout: post
 permalink: blog/microsoft-enhances-tests-accessibility/
 type: article
 title: 'Microsoft Enhances Tests for Accessibility'
+tags: Testing
 created: 1489414442
+description: Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers.
 ---
 
 Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers. In particular, they have focused on making trustworthy technology for all employees and customers while also equipping them with information that will help them understand and validate product accessibility.

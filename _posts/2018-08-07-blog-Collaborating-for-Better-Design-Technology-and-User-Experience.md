@@ -4,7 +4,7 @@ permalink: blog/Collaborating-for-Better-Design-Technology-and-User-Experience/
 type: article
 title: 'Collaborating for Better Design, Technology and User Experience'
 created: 1533674391
-tags: Accessibility Universal-Design
+tags: Design-and-Develop
 description: In February 2018, the White House released its <a href="https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-12.pdf" aria-label="Implementation Plan PDF">implementation plan</a> to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. Paying specific attention to mobile friendliness, customer experience, and innovation, the federal government is changing how we approach design, development and user experience.
 ---
 

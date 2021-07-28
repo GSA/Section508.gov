@@ -4,7 +4,7 @@ permalink: blog/ACoP-on-the-Road-CSUN-Assistive-Technology-Conference/
 type: article
 title: 'ACoP on the Road - CSUN Assistive Technology Conference '
 created: 1524515236
-tags: Accessibility
+tags: Events
 description: On March 22, 2018, a group representing the Accessibility Community of Practice (ACoP) presented at the annual CSUN Assistive Technology Conference in San Diego, California.
 ---
 

@@ -4,7 +4,7 @@ permalink: blog/Compliance-or-Conformance/
 type: article
 title: 'Compliance or Conformance?'
 created: 1533227088
-tags: Accessibility Policy
+tags: Policy-and-Management
 description: You've likely heard the terms "compliance" and "conformance" when people talk about IT accessibility. What's the difference?
 ---
 

@@ -4,7 +4,7 @@ permalink: blog/do-section-508-accessibility-standards-apply-to-mywebsite/
 type: article
 title: 'Do Section 508 Accessibility Standards Apply to My Website?'
 created: 1513131053
-tags: Policy
+tags: Design-and-Develop
 description: You may wonder if non-federal websites are required to comply with the [Revised 508 Standards][1]. Since [Section 508 of the Rehabilitation Act of 1973][2] only applies to federal agencies, the short answer is _no_.
 ---
 

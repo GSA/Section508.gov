@@ -4,7 +4,7 @@ permalink: blog/technology-accessibility-playbook-workshop/
 type: article
 title: 'Technology Accessibility Playbook Workshop '
 created: 1485354129
-tas: Events
+tags: Events
 description: On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACOP) hosted a workshop on the [Technology Accessibility Playbook][1], which helps federal agencies create mature Section 508 programs.
 ---
 

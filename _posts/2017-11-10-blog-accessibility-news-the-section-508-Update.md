@@ -4,7 +4,7 @@ permalink: blog/accessibility-news-the-section-508-Update/
 type: article
 title: 'Accessibility News: The Section 508 Update'
 created: 1510319868
-tas: Policy
+tags: Policy-and-Management
 description: In January 2017, the [U.S. Access Board][1] published a [final rule][2] updating accessibility requirements for information and communication technology (ICT) covered by Section 508 of the [Rehabilitation Act of 1973][3].
 ---
 

@@ -4,7 +4,7 @@ permalink: blog/Global-Accessibility-Awareness-Day-2018/
 type: article
 title: 'Global Accessibility Awareness Day 2018'
 created: 1526588225
-tags: Announcements
+tags: Events
 description: Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities.
 ---
 
