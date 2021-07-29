@@ -14,7 +14,7 @@ description: Federal employees (and contractors with a government email address)
 
 This in-person Forum features inspirational keynote speakers such as Judy Brewer, Director of the Web Accessibility Initiative (WAI) from the World Wide Web Consortium (W3C), and Eve Hill, one of the nation's leading disability rights attorneys.
 
-<img alt="Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)" src="/sites/all/themes/508retheme/images/vendor.jpg" style="height:300px;" />  
+<img alt="Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)" src="https://assets.section508.gov/files/vendor.jpg" style="height:300px;" />  
 _Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)_
 
 <p dir="ltr">
@@ -28,5 +28,5 @@ _Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF
 **Advanced Registration has closed. Walk-in Registrations will be permitted. Looking forward to seeing you at the 2018 Interagency Accessibility Forum.**
 
 <p dir="ltr">
-  <strong>WHEN:</strong> Tuesday, October 9, 2018<br /><strong>WHERE:</strong> 1800 F Street, NW, Washington, DC 20405;<br />General Services Administration Conference Center, Rooms 1459, 1460, and 1461.<br />Note: This event is IN-PERSON only.<br /><strong>TIME:</strong> 8:30 am - 4:00 pm ET<br /><strong>WHO:</strong> Federal government employees, contractors, and industry technology and accessibility service providers<br /><strong>QUESTIONS:</strong> Contact <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a><br /><strong>IAAF Agenda:</strong>&nbsp;<a href="/sites/default/files/2008-IAAF-Agenda.pdf">Interagency Accessibility Forum (pdf)</a>
+  <strong>WHEN:</strong> Tuesday, October 9, 2018<br /><strong>WHERE:</strong> 1800 F Street, NW, Washington, DC 20405;<br />General Services Administration Conference Center, Rooms 1459, 1460, and 1461.<br />Note: This event is IN-PERSON only.<br /><strong>TIME:</strong> 8:30 am - 4:00 pm ET<br /><strong>WHO:</strong> Federal government employees, contractors, and industry technology and accessibility service providers<br /><strong>QUESTIONS:</strong> Contact <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a><br /><strong>IAAF Agenda:</strong>&nbsp;<a href="https://assets.section508.gov/files/2008-IAAF-Agenda.pdf">Interagency Accessibility Forum (pdf)</a>
 </p>

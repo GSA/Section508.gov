@@ -66,11 +66,11 @@ For more information, contact <section.508@gsa.gov>
  [1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
  [2]: https://www.recode.net/2017/9/1/16236506/tech-amazon-apple-gdp-spending-productivity
  [3]: ../index.php
- [4]: /buy/request-accessibility-information
- [5]: /sites/default/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
- [6]: /buy/define-accessibility-criteria
- [7]: /sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
- [8]: /buy/standards-exceptions
+ [4]: {{site.baseurl}}/buy/request-accessibility-information
+ [5]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
+ [6]: {{site.baseurl}}/buy/define-accessibility-criteria
+ [7]: https://assets.section508.gov/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
+ [8]: {{site.baseurl}}/buy/standards-exceptions
  [9]: https://www.peatworks.org/
  [10]: http://www.peatworks.org/Buy-IT
  [11]: http://www.peatworks.org/buy-IT/priorities
