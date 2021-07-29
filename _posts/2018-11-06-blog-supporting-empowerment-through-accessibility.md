@@ -9,7 +9,7 @@ description: In recognition of National Disability Employment Awareness Month (N
 ---
 
 <p style="margin:0in 0in 0.0001pt">
-  In recognition of <a href="https://www.dol.gov/odep/topics/ndeam/">National Disability Employment Awareness Month</a> (NDEAM), the U.S. General Services Administration (GSA) and the U.S. Department of Housing and Urban Development (HUD) hosted the fifth annual federal <a href="/blog/2018-interagency-accessibility-forum"> Interagency Accessibility Forum (IAAF) </a> on October 9, 2018. The U.S. Chief Information Officers Council Accessibility Community of Practice (<a href="https://www.cio.gov/about/accessibility-cop/">CIOC ACoP</a>) sponsored the forum, which mirrored this year&rsquo;s NDEAM theme of &ldquo;Empowerment Through Accessibility.&rdquo;
+  In recognition of <a href="https://www.dol.gov/odep/topics/ndeam/">National Disability Employment Awareness Month</a> (NDEAM), the U.S. General Services Administration (GSA) and the U.S. Department of Housing and Urban Development (HUD) hosted the fifth annual federal <a href="{{site.baseurl}}/blog/2018-interagency-accessibility-forum"> Interagency Accessibility Forum (IAAF) </a> on October 9, 2018. The U.S. Chief Information Officers Council Accessibility Community of Practice (<a href="https://www.cio.gov/about/accessibility-cop/">CIOC ACoP</a>) sponsored the forum, which mirrored this year&rsquo;s NDEAM theme of &ldquo;Empowerment Through Accessibility.&rdquo;
 </p>
 
 <p dir="ltr">
