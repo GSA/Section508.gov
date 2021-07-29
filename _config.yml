@@ -127,6 +127,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  events:
+    output: true
 
 permalink: pretty
 
