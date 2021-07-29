@@ -58,4 +58,4 @@ To learn more about Universal Design and how executives and agencies can benefit
  [12]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p6
  [13]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p7
  [14]: https://www.w3.org/WAI/intro/wcag
- [15]: /blog/universal-design-whats-in-it-for-me
+ [15]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me

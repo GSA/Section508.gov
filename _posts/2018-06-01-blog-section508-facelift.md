@@ -5,7 +5,7 @@ type: article
 title: 'Section508.gov Gets a Facelift!'
 created: 1527870039
 tags: Policy-and-Management
-description: The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.
+description: The newly redesigned <a href="{{site.baseurl}}/">Section508.gov website</a> is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel.
 ---
 
 The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.
@@ -19,7 +19,7 @@ The new design is intended to give you a better user experience. Changes include
 
 The redesigned homepage features clickable icons and tiles for top customer tasks. For example, the [Create Accessible Products][2] icon takes you to a robust overview of how to create and develop several types of accessible content, including documents, PDFs, websites and more.
 
-<img alt="Screenshot of Section508.gov homepage" src="/sites/default/files/section508-homepage.jpg" style="width:100%" /> 
+<img alt="Screenshot of Section508.gov homepage" src="https://assets.section508.gov/files/section508-homepage.jpg" style="width:100%" /> 
 
 Other top tasks and tiles include:
 
@@ -32,6 +32,6 @@ Other top tasks and tiles include:
 
 Keep in mind the new look and feel is an MVP (minimum viable product) version and we're relying on you for feedback. If you have thoughts about the redesign, we can't wait to hear from you. Please contact us at <section.508@gsa.gov> with questions or feedback.
 
- [1]: /
- [2]: /create
+ [1]: {{site.baseurl}}/
+ [2]: {{site.baseurl}}/create
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

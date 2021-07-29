@@ -30,11 +30,11 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <div>
-    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="/sites/default/files/field/image/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
+    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="https://assets.section508.gov/files/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
   </div>
   
   <p>
-    <a href="/sites/default/files/Universal%20Design%20Business%20Case%20Infographic.pdf">Click here to download a PDF version of the infographic</a>
+    <a href="https://assets.section508.gov/files/Universal%20Design%20Business%20Case%20Infographic.pdf">Click here to download a PDF version of the infographic</a>
   </p>
   
   <p>
@@ -45,40 +45,32 @@ description: Current trends in accessibility and technology promote universal de
     <li>
       <h4>
         Save Money
-      </h4>
-      
+      </h4>      
       <p>
         Universal Design costs less in the long term, as "unmet and unforeseen" user requirements can be captured in the beginning, instead of being tacked on later, often at additional expense.
-      </p>
-      
+      </p>      
       <p>
         <strong>Did you know?</strong> For every dollar spent on projects and programs, 5.1 percent is wasted due to poor requirements gathering. [1]
       </p>
-    </li>
-    
+    </li>    
     <li>
       <h4>
         Drive Innovation
-      </h4>
-      
+      </h4>      
       <p>
         Universal Design leads to better, innovative products, as multidisciplinary teams work together to address unique user requirements, creating solutions that are accessible for all.
-      </p>
-      
+      </p>      
       <p>
         <strong>Did you know?</strong> By 2021, early adopter brands that redesign their websites to support visual and voice search will increase digital commerce revenue by 30 percent. [2]
       </p>
-    </li>
-    
+    </li>    
     <li>
       <h4>
         Engage the Workforce
-      </h4>
-      
+      </h4>      
       <p>
         Universal Design empowers more employees to use and access content, making it easier to attract, retain and develop employees with and without disabilities.
-      </p>
-      
+      </p>      
       <p>
         <strong>Did you know?</strong> Emerging technologies will allow 350 million people with disabilities to enter the workplace over the next 10 years. [3]
       </p>
@@ -96,7 +88,7 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <p>
-    <a href="/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
+    <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="{{site.baseurl}}/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="{{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
   </p>
   
   <p>

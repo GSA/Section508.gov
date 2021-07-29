@@ -10,7 +10,7 @@ description: In celebration of National Disability Employment Awareness Month (N
 
 <div class="col-sm-12 col-xs-12 col-lg-6 pull-left">
   <p>
-    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="/sites/default/files/field/image/InteragencyForum_0.jpg" style="height:200px" padding:20px; /><br /> Photo: Vendor exhibition hall
+    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="https://assets.section508.gov/files/InteragencyForum_0.jpg" style="height:200px; padding:20px;" /><br> Photo: Vendor exhibition hall
   </p>
 </div>
 
@@ -32,4 +32,4 @@ Accessibility is something that benefits all users and encourages innovation. In
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: https://www.epolicyworks.org/
- [3]: /training/presentations-workshops
+ [3]: {{site.baseurl}}/training/presentations-workshops
