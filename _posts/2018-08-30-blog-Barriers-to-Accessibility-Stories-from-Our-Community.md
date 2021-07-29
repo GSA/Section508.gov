@@ -41,5 +41,5 @@ created: 1535656948
 </p>
 
 <p style="margin-bottom:.0001pt; margin:0in 0in 10pt;font-family: verdana,arial,sans-serif;font-size: 14px;line-height: 1.42857143;color: #333333;">
-  Visit <a href="https://section508.gov/">Section508.gov</a> to become a part of this change, and browse resources for creating, buying, and managing accessible products and services at your organization. Please contact us at <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to learn more.
+  Visit <a href="/">Section508.gov</a> to become a part of this change, and browse resources for creating, buying, and managing accessible products and services at your organization. Please contact us at <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to learn more.
 </p>

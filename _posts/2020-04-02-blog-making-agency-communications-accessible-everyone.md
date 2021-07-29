@@ -63,9 +63,9 @@ Please contact us at <Section.508@gsa.gov> if you have questions or need additio
 This guidance was developed by the Federal CIO Council&rsquo;s Interagency Accessibility Community of Practice Leadership Team, and GSA&rsquo;s Government-wide IT Accessibility Program.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [2]: http://www.section508.gov/create
- [3]: https://section508.gov/content/guide-accessible-web-design-development
+ [2]: /create
+ [3]: /content/guide-accessible-web-design-development
  [4]: https://designsystem.digital.gov/
  [5]: https://www.federalrelay.us/
  [6]: https://www.federalrelay.us/rcc
- [7]: https://section508.gov/create/video-social
+ [7]: /create/video-social

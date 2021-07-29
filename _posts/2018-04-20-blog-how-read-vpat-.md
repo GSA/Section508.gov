@@ -67,9 +67,9 @@ For more information, contact <section.508@gsa.gov>
  [2]: https://www.recode.net/2017/9/1/16236506/tech-amazon-apple-gdp-spending-productivity
  [3]: ../index.php
  [4]: /buy/request-accessibility-information
- [5]: /sites/default/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
+ [5]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
  [6]: /buy/define-accessibility-criteria
- [7]: /sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
+ [7]: https://assets.section508.gov/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
  [8]: /buy/standards-exceptions
  [9]: https://www.peatworks.org/
  [10]: http://www.peatworks.org/Buy-IT

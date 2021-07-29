@@ -42,14 +42,12 @@ Here are some updates on the **Section 508 Transition Activities** underway to c
       <p>
         Developed and finalized draft recommendations for revising the new <a href="https://www.itic.org/dotAsset/16a63f08-30ea-4f5d-997f-5c095aa3d345.docm">VPAT2&trade; Beta that is proposed by ITI</a>. Our goal is to ensure that agencies receive high quality responses and justifications as well as information on how the responses were derived.
       </p>
-    </li>
-    
+    </li>    
     <li>
       <p>
         Completed a Best Practices Guide on how to request information from vendors to get better responses.
       </p>
-    </li>
-    
+    </li>    
     <li>
       <p>
         Drafted a concise, plain language Accessibility Requirements Checklist to help guide CORS and Project Teams through determining whether the ICT they are buying, building, maintaining or using is covered by the new standards, whether the new exceptions apply, and if not what standards the ICT needs to conform to. Additional efforts have been started to provide best practice guidelines for identifying user needs, which is a new requirement in the standard.

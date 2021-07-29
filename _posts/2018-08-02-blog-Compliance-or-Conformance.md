@@ -29,7 +29,7 @@ Developed by the U.S. Access Board, the [Revised 508 Standards][3] apply to **al
 
 How can an improved understanding of these terms improve IT accessibility at your agency? Conformance with standards is required for legal compliance, so a good strategy is to tightly integrate standards conformance into the procurement and development processes at your agency.
 
-**Procurement** - Specifically address accessibility needs in procurement requirements documentation when making any purchase involving ICT. This will help vendors understand your accessibility requirements, so they can offer IT products and services that conform to the Revised 508 Standards. [Learn more about accessible p][4][rocurement][5].
+**Procurement** - Specifically address accessibility needs in procurement requirements documentation when making any purchase involving ICT. This will help vendors understand your accessibility requirements, so they can offer IT products and services that conform to the Revised 508 Standards. [Learn more about accessible procurement][5].
 
 **Development** - When developing IT systems in-house, determine and document accessibility requirements during initial project planning, and test for and address IT accessibility throughout development, to ensure your systems conform to the Revised 508 Standards. [Learn more about accessible development][6].
 
@@ -39,5 +39,5 @@ With good business processes in place to address conformance to accessibility st
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [4]: /buy
- [5]: https://section508.gov/buy
+ [5]: /buy
  [6]: /create/software-websites

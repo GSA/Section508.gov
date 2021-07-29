@@ -13,10 +13,10 @@ description: The federal government strives to deliver a level of service compar
 </p>
 
 <li dir="ltr">
-  <a href="https://section508.gov/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a>
+  <a href="/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a>
 </li>
 <li dir="ltr">
-  <a href="https://section508.gov/sites/default/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks">Executive Guide to IT Accessibility (PDF version)</a> (August 2018)
+  <a href="https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks">Executive Guide to IT Accessibility (PDF version)</a> (August 2018)
 </li>
 
 <h2 dir="ltr">
@@ -40,5 +40,5 @@ description: The federal government strives to deliver a level of service compar
 </p>
 
 <p dir="ltr">
-  IT accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff understands their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. <a href="https://section508.gov/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a> to learn more.
+  IT accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff understands their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. <a href="/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a> to learn more.
 </p>

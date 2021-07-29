@@ -46,7 +46,7 @@ We’re looking to conduct a mapping exercise to understand touchpoints for coll
 If you know of other initiatives in the federal government that focus on improving design, development or user experience, please let us know! Email GSA at <section.508@gsa.gov>
 
  [1]: https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-12.pdf
- [2]: https://section508.gov/create/universal-design
+ [2]: /create/universal-design
  [3]: https://www.congress.gov/bill/115th-congress/house-bill/2331/text
  [4]: https://digital.gov/communities/mobile/
  [5]: https://github.com/18F/accessibility/wiki/Accessibility-guild-vision-and-mission-statements
