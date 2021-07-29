@@ -42,9 +42,9 @@ Some things to note:
 
   * [Accessibility Testing for Electronic Content][4]
 
-Contact the DHS Accessibility Helpdesk at <accessibility@hq.dhs.gov> with questions.< br/>
+Contact the DHS Accessibility Helpdesk at <accessibility@hq.dhs.gov> with questions.  
 
  [1]: https://www.dhs.gov/trusted-tester
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [3]: http://www.w3.org/WAI/intro/wcag.php
- [4]: /test/web-software
+ [4]: {{site.baseurl}}/test/web-software

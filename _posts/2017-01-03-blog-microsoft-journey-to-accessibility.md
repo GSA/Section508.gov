@@ -34,21 +34,18 @@ The goal of Microsoft Engineering teams is to make Microsoft assistive technolog
   <div>
     <p>
       Learn more:
-    </p>
-    
+    </p>    
     <ul>
       <li>
         <div>
           <a href="https://www.microsoft.com/en-us/accessibility"><u>Microsoft&rsquo;s Accessibility Policy</u></a>
         </div>
-      </li>
-      
+      </li>      
       <li>
         <div>
           <a href="https://www.microsoft.com/en-us/design/inclusive"><u>Microsoft&rsquo;s vision of inclusive design</u></a>
         </div>
-      </li>
-      
+      </li>      
       <li>
         <div>
           <a href="https://developer.microsoft.com/en-us/windows/accessible-apps"><u>Microsoft&rsquo;s accessibility resources for developers</u></a>

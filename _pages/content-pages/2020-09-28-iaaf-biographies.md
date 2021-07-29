@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 sidenav: false
 permalink: iaaf/biographies/
 type: page
@@ -12,19 +12,19 @@ created: 1601325079
 </p>
 
 <p style="text-align:center;" id="top">
-  <a class="" href="#A">A <span class="sr-only"> Section</span></a> | <a class="" href="#B">B <span class="sr-only"> Section</span></a> | <a class="" href="#C">C <span class="sr-only"> Section</span></a> | <a href="#D">D <span class="sr-only"> Section</span></a> | <a href="#E">E <span class="sr-only"> Section</span></a> | <a class="" href="#F">F <span class="sr-only"> Section</span></a> | <a class="" href="#G">G <span class="sr-only"> Section</span></a> | <a class="" href="#H">H <span class="sr-only"> Section</span></a> | <a href="#J">J <span class="sr-only"> Section</span></a> | <a href="#K">K <span class="sr-only"> Section</span></a> | <a href="#L">L <span class="sr-only"> Section</span></a> | <a href="#M">M <span class="sr-only"> Section</span></a> | <a href="#N">N <span class="sr-only"> Section</span></a> | <a class="" href="#P">P <span class="sr-only"> Section</span></a> | <a class="" href="#R">R <span class="sr-only"> Section</span></a> | <a class="" href="#S">S <span class="sr-only"> Section</span></a> | <a class="" href="#T">T <span class="sr-only"> Section</span></a> | <a href="#U">U <span class="sr-only"> Section</span></a> | <a href="#V">V <span class="sr-only"> Section</span></a> | <a href="#W">W <span class="sr-only"> Section</span></a> | <a href="#Z">Z<span class="sr-only"> Section</span></a>
+  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
 </p>
-
+<div class="usa-graphic-list__row container">
 <h2 id="A">
   <strong>A</strong>
 </h2>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="aiken">
       <strong>Brooke Aiken</strong>
     </p>
@@ -58,8 +58,6 @@ created: 1601325079
   </div>
 </div>
 
-* * *
-
 <h2 id="B">
   <strong>B</strong>
 </h2>
@@ -68,12 +66,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="barrett">
       <strong>Stephanie Barrett</strong>
     </p>
@@ -89,14 +87,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="blakely-hill">
       <strong>Jocelyn Blakely-Hill</strong>
     </p>
@@ -112,14 +109,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bonitto">
       <strong>Toni Bonitto</strong>
     </p>
@@ -135,14 +131,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="briscoe">
       <strong>Paula Briscoe, PhD</strong>
     </p>
@@ -175,12 +170,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="clark">
       <strong>Hilary Clark</strong>
     </p>
@@ -196,14 +191,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="cooper">
       <strong>Darryl Cooper</strong>
     </p>
@@ -219,14 +213,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="creagan">
       <strong>Tim Creagan</strong>
     </p>
@@ -257,14 +250,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="crowell">
       <strong>Pierce Crowell</strong>
     </p>
@@ -280,14 +272,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="curtis-davidson">
       <strong>Bill Curtis-Davidson, MS</strong>
     </p>
@@ -311,12 +302,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="dhillon">
       <strong>Janet Dhillon</strong>
     </p>
@@ -346,12 +337,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="eng">
       <strong>Katherine Eng</strong>
     </p>
@@ -367,14 +358,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="evans">
       <strong>Samantha Evans</strong>
     </p>
@@ -398,12 +388,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="farraj-feijoo">
       <strong>Ammie Farraj-Feijoo</strong>
     </p>
@@ -419,14 +409,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fern">
       <strong>David Fern</strong>
     </p>
@@ -442,14 +431,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="francis">
       <strong>Camara Francis</strong>
     </p>
@@ -474,14 +462,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fuoco">
       <strong>Angie Fuoco</strong>
     </p>
@@ -497,14 +484,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="franks">
       <strong>Aaron Franks</strong>
     </p>
@@ -528,12 +514,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="garrett">
       <strong>Antoine Garrett</strong>
     </p>
@@ -549,14 +535,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gibson">
       <strong>Yvette Gibson</strong>
     </p>
@@ -580,12 +565,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="hailesselassie">
       <strong>Antonio Hailesselassie</strong>
     </p>
@@ -601,14 +586,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="harkin">
       <strong>Thomas Harkin</strong>
     </p>
@@ -630,14 +614,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="hays">
       <strong>Keith Hays</strong>
     </p>
@@ -653,14 +636,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="horton">
       <strong>Michael Horton</strong>
     </p>
@@ -676,14 +658,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="humphrey">
       <strong>Yolanda Humphrey</strong>
     </p>
@@ -707,12 +688,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="jacobs">
       <strong>Gretchen Jacobs</strong>
     </p>
@@ -742,12 +723,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kline">
       <strong>Jeff Kline</strong>
     </p>
@@ -763,14 +744,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kuk">
       <strong>Jennifer Kuk</strong>
     </p>
@@ -797,12 +777,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="langevin">
       <strong>Jim Langevin</strong>
     </p>
@@ -821,14 +801,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
       <strong>Susanna Laurin</strong>
     </p>
@@ -844,14 +823,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="leblois">
       <strong>Axel Leblois</strong>
     </p>
@@ -878,12 +856,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="malakhoff">
       <strong>Lawrence Malakhoff</strong>
     </p>
@@ -899,14 +877,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="manuel">
       <strong>Rayvn Manuel</strong>
     </p>
@@ -928,14 +905,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="moore">
       <strong>Rhonda Moore, PhD</strong>
     </p>
@@ -959,12 +935,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="nielson">
       <strong>Andrew Nielson</strong>
     </p>
@@ -988,12 +964,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="paschel">
       <strong>Shannon Paschel</strong>
     </p>
@@ -1009,14 +985,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="peters">
       <strong>David Peters</strong>
     </p>
@@ -1029,14 +1004,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pomeroy">
       <strong>Daniel Pomeroy</strong>
     </p>
@@ -1055,14 +1029,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="prabhakaran">
       <strong>Vinodkumar Prabhakaran, PhD</strong>
     </p>
@@ -1078,14 +1051,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pruitt">
       <strong>Cheryl Pruitt</strong>
     </p>
@@ -1109,12 +1081,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="robertson">
       <strong>Scott Robertson, PhD</strong>
     </p>
@@ -1130,14 +1102,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="ryan">
       <strong>Avis Ryan</strong>
     </p>
@@ -1161,12 +1132,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="salmoiraghi">
       <strong>Jessica Salmoiraghi, </strong>
     </p>
@@ -1188,14 +1159,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="schell">
       <strong>Will Schell</strong>
     </p>
@@ -1211,14 +1181,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="schweickhardt">
       <strong>Reynold Schweickhardt</strong>
     </p>
@@ -1234,14 +1203,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sharma">
       <strong>Siddhartha Sharma</strong>
     </p>
@@ -1257,14 +1225,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="singleton">
       <strong>Suzy Rosen Singleton</strong>
     </p>
@@ -1280,14 +1247,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sirk">
       <strong>Betsy Sirk</strong>
     </p>
@@ -1306,14 +1272,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="smith">
       <strong>Kevin Smith</strong>
     </p>
@@ -1347,14 +1312,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="willie-smith">
       <strong>Willie Smith</strong>
     </p>
@@ -1388,14 +1352,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
       <strong>John Sullivan</strong>
     </p>
@@ -1422,12 +1385,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="thurston">
       <strong>James Thurston</strong>
     </p>
@@ -1443,14 +1406,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="truesdell">
       <strong>Cammie Truesdell</strong>
     </p>
@@ -1474,12 +1436,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">
       <strong>Mark Urban</strong>
     </p>
@@ -1503,12 +1465,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="vanderheiden">
       <strong>Gregg Vanderheiden</strong>
     </p>
@@ -1538,12 +1500,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="whittington">
       <strong>David Whittington</strong>
     </p>
@@ -1562,14 +1524,13 @@ created: 1601325079
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="williams">
       <strong>Dan Williams</strong>
     </p>
@@ -1593,12 +1554,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="ziebarth">
       <strong>Beth Ziebarth</strong>
     </p>
@@ -1612,4 +1573,5 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
     </p>
   </div>
+</div>
 </div>

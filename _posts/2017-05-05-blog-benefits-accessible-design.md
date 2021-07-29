@@ -3,7 +3,7 @@ layout: post
 permalink: blog/benefits-accessible-design/
 type: article
 title: 'Benefits of Accessible Design'
-description: According to the World Bank, [approximately one billion people worldwide live with a disability][1], making up the **world's largest minority.** Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
+description: According to the World Bank, <a href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <b>world's largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities.
 tags: Design-and-Develop
 created: 1493993415
 ---

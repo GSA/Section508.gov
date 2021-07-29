@@ -38,6 +38,6 @@ With good business processes in place to address conformance to accessibility st
  [1]: https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [4]: /buy
- [5]: /buy
- [6]: /create/software-websites
+ [4]: {{site.baseurl}}/buy
+ [5]: {{site.baseurl}}/buy
+ [6]: {{site.baseurl}}/create/software-websites

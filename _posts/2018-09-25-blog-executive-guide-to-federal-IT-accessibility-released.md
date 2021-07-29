@@ -40,5 +40,5 @@ description: The federal government strives to deliver a level of service compar
 </p>
 
 <p dir="ltr">
-  IT accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff understands their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. <a href="/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a> to learn more.
+  IT accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff understands their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a> to learn more.
 </p>

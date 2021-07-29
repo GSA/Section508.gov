@@ -30,7 +30,7 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <div>
-    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="https://assets.section508.gov/files/field/image/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
+    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="https://assets.section508.gov/files/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
   </div>
   
   <p>
@@ -88,7 +88,7 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <p>
-    <a href="/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
+    <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="{{site.baseurl}}/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="{{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
   </p>
   
   <p>

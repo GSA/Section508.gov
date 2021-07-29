@@ -5,7 +5,7 @@ type: article
 title: 'Section508.gov Gets a Facelift!'
 created: 1527870039
 tags: Policy-and-Management
-description: The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.
+description: The newly redesigned <a href="{{site.baseurl}}/">Section508.gov website</a> is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel.
 ---
 
 The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.
@@ -32,6 +32,6 @@ Other top tasks and tiles include:
 
 Keep in mind the new look and feel is an MVP (minimum viable product) version and we're relying on you for feedback. If you have thoughts about the redesign, we can't wait to hear from you. Please contact us at <section.508@gsa.gov> with questions or feedback.
 
- [1]: /
- [2]: /create
+ [1]: {{site.baseurl}}/
+ [2]: {{site.baseurl}}/create
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

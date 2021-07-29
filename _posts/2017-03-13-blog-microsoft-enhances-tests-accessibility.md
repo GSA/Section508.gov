@@ -16,7 +16,7 @@ In a Microsoft blog post dated December 17, 2015, entitled [Microsoft leaders af
 
 Microsoft has stated that their vision is to create great products that are accessible to everyone - at home, in the workplace and in classrooms.
 
-For more information regarding Microsoft’s role in testing for accessibility, see their recent blog post [Supporting enterprise and government customers with accessibility standards conformance testing for Microsoft products][2].< br/>
+For more information regarding Microsoft’s role in testing for accessibility, see their recent blog post [Supporting enterprise and government customers with accessibility standards conformance testing for Microsoft products][2].  
 
  [1]: https://blogs.microsoft.com/firehose/2015/12/17/microsoft-leaders-reaffirm-commitment-to-accessibility/#sm.00001pz07mc8l1fcgs5he8uz422z7
  [2]: https://blogs.msdn.microsoft.com/accessibility/2017/02/20/supporting-enterprise-and-government-customers-with-accessibility-standards-conformance-testing-for-microsoft-products/
