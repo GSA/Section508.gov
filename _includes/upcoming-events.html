@@ -1,7 +1,7 @@
 {% assign today_date = 'now' | date:'%s' %}
 {% for events in site.events %}
 {% assign event_date = events.end-date | date: '%s' %}
-{% if event_date >= today_date %}
+{% if event_date >= today_date and events.event-type != "recuring-event" %}
 
 
   <div class="padding-bottom-3 margin-top-1">
@@ -15,7 +15,7 @@
       {{ events.end-date | date: '%a, %b %d, %Y' }}
     </p>
 
-    <p class="text-primary-darker font-serif-lg text-bold">
+    <p class="text-primary-darker font-serif-lg text-bold margin-top-1">
       {% if events.permalink %}
         <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
       {% else %}
@@ -23,7 +23,12 @@
       {% endif %}
     </p>
 
-    <p class="">{{ events.content | truncate: 200 }}
+    <p class="">
+      {% if events.description %}
+      {{ events.description }}
+      {% else %}
+      {{ events.content | strip_html | truncatewords:30 }}
+      {% endif %}
       {% if events.permalink %}
         <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read more about {{ events.title}}"> Read more</a>
       {% endif %}
