@@ -24,6 +24,12 @@
       {% endif %}
       </p>
 
+      {{ events.content | truncate: 200 }}
+      {% if events.permalink %}
+        <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read More about {{ events.title }}"> Read more</a>
+      {% endif %}
+      
+
   </div>
 
 {% endif %}
