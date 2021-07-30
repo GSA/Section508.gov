@@ -1,7 +1,7 @@
 {% assign sorted = site.events | sort: "date" | reverse %}
 {% for events in sorted %}
 {% assign event_date = events.end-date | date: '%s' %}
-{% if event_date < today_date %}
+{% if event_date < today_date  and events.event-type != 'recuring-event' %}
 
   <div class="padding-bottom-3 margin-top-1">
       <span>
@@ -16,7 +16,7 @@
         {{ events.end-date | date: '%a, %b %d, %Y' }}
       </p>
 
-       <p class="text-primary-darker font-serif-lg text-bold">
+       <p class="text-primary-darker font-serif-lg text-bold margin-top-1">
       {% if events.permalink %}
         <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
       {% else %}

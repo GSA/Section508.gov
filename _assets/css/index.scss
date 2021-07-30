@@ -27,7 +27,13 @@ $theme-show-notifications: false;
 /*
   Add your SASS/CSS here
 */
+.usa-section {
+  padding-top: 2rem;
+}
 
+a{
+  color: #2672de;
+}
 .card-tag {
     font-size: .9rem;
     margin-top: .2em;

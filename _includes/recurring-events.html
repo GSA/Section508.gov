@@ -1,12 +1,33 @@
-  <div class="padding-bottom-3 margin-top-1">
+{% assign sorted = site.events | sort: "date" | reverse %}
+{% for events in sorted %}
+{% assign event_date = events.end-date | date: '%s' %}
+{% if events.event-type == "recuring-event" %}
 
-    <!--<img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/events/cio-council-logo.jpg" alt="Chief Information Officer Council Logo" />-->
-    <p class="card-tag">October 12-14, 2021; from 12:00 PM - 4:00 PM ET</p>
-    <p class="text-primary-darker font-serif-lg text-bold">
-        <a class="text-no-underline" href="{{ site.baseurl }}/iaaf">Interagency Accessibility Forum (IAAF)</a>
-    </p>
-    <p>The 2020 Interagency Accessibility Forum celebrated the 75th observance of the National Disability Employment Awareness Month (NDEAM) and the 20th anniversary of Section 508 of the Rehabilitation Act becoming enforceable.
-      <a href="{{ site.baseurl }}/iaaf" aria-label="Read More about the IAAF">Read more</a>
-    </p>
+  <div class="padding-bottom-3 margin-top-1">
+      <span>
+      {% if events.image %}  
+      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/events/{{ events.image }}" alt="{{ events.img-alt }}" />
+      {% endif %}
+      </span>
+      <p class="card-tag">
+      {{ events.event-frequency }}
+      </p>
+
+       <p class="text-primary-darker font-serif-lg text-bold margin-top-1">
+      {% if events.permalink %}
+        <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
+      {% else %}
+      {{ events.title }}
+      {% endif %}
+      </p>
+
+      <p class="">{{ events.content | strip_html | truncatewords:30 }}
+      {% if events.permalink %}
+        <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read More about {{ events.title }}"> Read more</a>
+      {% endif %}
+      </p>
 
   </div>
+
+{% endif %}
+{% endfor %}
