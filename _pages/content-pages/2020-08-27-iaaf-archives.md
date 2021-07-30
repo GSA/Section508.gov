@@ -178,5 +178,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/agenda-2020">2020 IAAF Agenda
       </div>
     </div>
     <p>
-      <strong>Reviewed/Updated</strong>: October 2020
+      <strong>Reviewed/Updated</strong>: June 2021
     </p>

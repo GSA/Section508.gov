@@ -399,9 +399,6 @@ created: 1600981839
           <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#singleton">Suzy Rosen Singleton,</a></span> Federal Communications Commission (FCC)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#singleton">Suzy Rosen Singleton,</a></span> Federal Communications Commission (FCC)
-        </div>
-        <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx">IAAF 2020 - Twenty-First CVAA (PPT)</a>
           </span>
