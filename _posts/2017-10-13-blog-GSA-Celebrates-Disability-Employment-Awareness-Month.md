@@ -8,9 +8,9 @@ tags: Events
 description: In celebration of National Disability Employment Awareness Month (NDEAM), the U.S. General Services Administration (GSA) held its fourth annual Interagency Accessibility Forum on October 13, 2017.
 ---
 
-<div class="col-sm-12 col-xs-12 col-lg-6 pull-left">
-  <p>
-    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="https://assets.section508.gov/files/InteragencyForum_0.jpg" style="height:200px; padding:20px;" /><br> Photo: Vendor exhibition hall
+<div class="col-sm-12 col-xs-12 col-lg-6 float-left">
+  <p class="margin-bottom-0">
+    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="https://assets.section508.gov/files/InteragencyForum_0.jpg" style="height:200px; padding:20px;" /><br>   Photo: Vendor exhibition hall
   </p>
 </div>
 

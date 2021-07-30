@@ -129,6 +129,7 @@ collections:
     permalink: /:path/
   events:
     output: true
+    future: true
 
 permalink: pretty
 
