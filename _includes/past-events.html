@@ -4,10 +4,7 @@
 {% if event_date < today_date %}
 
   <div class="padding-bottom-3 margin-top-1">
-      {% if events.image %}
-      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="{{ site.baseurl }}/assets/images/events/{{ events.image }}" alt="{{ events.img-alt }}" />
-      {% endif %}
-
+    
       <p class="card-tag">
       {% if events.start-date %}
         {{ events.start-date | date: '%a, %b %d, %Y'}} -
@@ -25,7 +22,7 @@
 
       <p class="">{{ events.content | truncate: 200 }}
       {% if events.permalink %}
-        <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read more about {{ events.title}}"> Read more</a>
+        <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read More about {{ events.title }}"> Read more</a>
       {% endif %}
       </p>
 

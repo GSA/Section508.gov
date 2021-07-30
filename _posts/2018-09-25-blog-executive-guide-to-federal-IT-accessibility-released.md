@@ -13,7 +13,7 @@ description: The federal government strives to deliver a level of service compar
 </p>
 
 <li dir="ltr">
-  <a href="/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a>
+  <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Read the Executive Guide to IT Accessibility</a>
 </li>
 <li dir="ltr">
   <a href="https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks">Executive Guide to IT Accessibility (PDF version)</a> (August 2018)

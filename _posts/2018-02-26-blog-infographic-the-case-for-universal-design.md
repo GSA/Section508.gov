@@ -18,7 +18,7 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <p>
-    To help CIOs explain the benefits of universal design, we created an infographic that outlines three key benefits of universal design. We hope that CIOs, 508 Program Coordinators, and customer advocates throughout the federal government will find it helpful to build a case for universal design at their agencies. We recommend getting started by creating actionable digital goals that use universal design principles, as outlined in the recent article <a href="/blog/Universal-Design-What-is-it">Universal Design: What is it?</a>. Accessibility cannot be an afterthought. It must be a key component of IT strategy from the beginning.
+    To help CIOs explain the benefits of universal design, we created an infographic that outlines three key benefits of universal design. We hope that CIOs, 508 Program Coordinators, and customer advocates throughout the federal government will find it helpful to build a case for universal design at their agencies. We recommend getting started by creating actionable digital goals that use universal design principles, as outlined in the recent article <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a>. Accessibility cannot be an afterthought. It must be a key component of IT strategy from the beginning.
   </p>
   
   <h3>
@@ -88,7 +88,7 @@ description: Current trends in accessibility and technology promote universal de
   </p>
   
   <p>
-    <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="{{site.baseurl}}/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="{{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
+    <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a><br /><a href="{{site.baseurl}}/blog/universal-design-whats-in-it-for-me">Universal Design: What's in it for Me?</a><br /><a href="{{site.baseurl}}/blog/Building-Accessibility-into-your-Procurement-Process">Building Accessibility into Your Procurement Process</a><br /><a href="{{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible">5 Ways Universal Design Makes Products More Accessible</a>
   </p>
   
   <p>
