@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/how-read-vpat/
+permalink: blog/Building-Accessibility-into-your-Procurement-Process/
 type: article
 title: 'Building Accessibility into Your Procurement Process'
 created: 1524275406

@@ -136,7 +136,7 @@ According to the World Bank, [approximately one billion people worldwide live wi
     <h2>
       References
     </h2>    
-    <ul>
+    <ul style="overflow-wrap: break-word; word-wrap: break-word;">
       <li>
         <a href="https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct">https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct</a>
       </li>

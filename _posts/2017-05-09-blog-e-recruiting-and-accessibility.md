@@ -36,7 +36,7 @@ To learn more about the benefits of accessible e-Recruiting and the compelling b
       Finally, learn more with answers to <a href="http://www.peatworks.org/faq-page/109-0">frequently asked question from employers</a>
     </div>
 
-Employers and human resources professionals can also visit PEAT’s [TalentWorks][2] website for additional resources to make their e-Recruiting “technologies accessible to all job seekers--including those with disabilities.”< br/>
+Employers and human resources professionals can also visit PEAT’s [TalentWorks][2] website for additional resources to make their e-Recruiting “technologies accessible to all job seekers--including those with disabilities.”
 
  [1]: http://www.peatworks.org/
  [2]: http://www.peatworks.org/talentworks
