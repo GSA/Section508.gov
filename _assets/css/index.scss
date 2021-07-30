@@ -27,6 +27,12 @@ $theme-show-notifications: false;
 /*
   Add your SASS/CSS here
 */
+
+.dataTables_filter [type="search"]{
+  float: none;
+  border-right: 2px solid;
+}
+
 .usa-section {
   padding-top: 2rem;
 }
