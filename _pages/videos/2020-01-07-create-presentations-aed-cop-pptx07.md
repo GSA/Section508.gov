@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx07/
 type: training
 title: 'Module 7: Adding Alternative Text to Images and Other Objects'

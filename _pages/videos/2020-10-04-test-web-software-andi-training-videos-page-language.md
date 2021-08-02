@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/page-language/
 type: training
 title: 'Module 8: Page Language'

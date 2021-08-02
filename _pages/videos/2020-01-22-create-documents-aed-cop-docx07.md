@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx07/
 type: training
 title: 'Module 7: Create Unambiguous Names for Links'

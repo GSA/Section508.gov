@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/images/
 type: training
 title: 'Module 4: Images'

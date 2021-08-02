@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/pdfs/aed-cop-pdf03/
 type: training
 title: 'Module 3: Remediating PDFs for Accessibility'

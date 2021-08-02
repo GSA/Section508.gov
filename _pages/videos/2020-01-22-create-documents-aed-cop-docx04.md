@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx04/
 type: training
 title: 'Module 4: Use Built-in Features to Organize Content'

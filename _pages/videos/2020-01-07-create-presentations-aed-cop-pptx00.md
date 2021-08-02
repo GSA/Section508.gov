@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx00/
 type: training
 title: 'Module 0: Introduction & Background'

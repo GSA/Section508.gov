@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx08/
 type: training
 title: 'Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate'

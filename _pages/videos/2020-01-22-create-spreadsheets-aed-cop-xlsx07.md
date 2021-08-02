@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx07/
 type: training
 title: 'Module 7: Creating Links with Unique and Descriptive Names'

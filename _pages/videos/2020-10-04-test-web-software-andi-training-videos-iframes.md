@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/iframes/
 type: training
 title: 'Module 12: iFrames'

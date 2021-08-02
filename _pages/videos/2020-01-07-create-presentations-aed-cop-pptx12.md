@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx12/
 type: training
 title: 'Module 12: Excluding Flashing Objects'

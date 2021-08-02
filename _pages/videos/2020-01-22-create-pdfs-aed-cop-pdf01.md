@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/pdfs/aed-cop-pdf01/
 type: training
 title: 'Module 1: What is a PDF?'

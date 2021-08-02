@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx06/
 type: training
 title: 'Module 6: Identify Distinct Languages'

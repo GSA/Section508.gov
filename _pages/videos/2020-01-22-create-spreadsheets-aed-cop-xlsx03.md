@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx03/
 type: training
 title: 'Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text'

@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx09/
 type: training
 title: 'Module 9: Excluding Flashing Objects'

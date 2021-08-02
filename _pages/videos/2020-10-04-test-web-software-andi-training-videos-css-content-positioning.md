@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/css-content-positioning/
 type: training
 title: 'Module 17: CSS Content and Positioning'

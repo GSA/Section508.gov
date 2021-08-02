@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx13/
 type: training
 title: 'Module 13: Saving in the .pptx Format with a Descriptive Filename'

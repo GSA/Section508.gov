@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx05/
 type: training
 title: 'Module 5: Use Built-in Features to Create Layout and Data Tables'

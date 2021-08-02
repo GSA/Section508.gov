@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx09/
 type: training
 title: 'Module 9: Create Accessible Images and Other Objects'

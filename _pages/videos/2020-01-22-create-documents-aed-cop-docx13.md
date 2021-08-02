@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx13/
 type: training
 title: 'Module 13: Create Accessible Embedded Files'

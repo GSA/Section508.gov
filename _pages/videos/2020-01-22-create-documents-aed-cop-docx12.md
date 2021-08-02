@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx12/
 type: training
 title: 'Module 12: Create the Required Color Contrast'

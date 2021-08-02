@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx11/
 type: training
 title: 'Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate'

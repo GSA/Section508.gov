@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx10/
 type: training
 title: 'Module 10: Saving in the .pptx Format with a Descriptive Filename'

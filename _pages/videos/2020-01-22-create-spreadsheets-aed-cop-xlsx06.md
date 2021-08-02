@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx06/
 type: training
 title: 'Module 6: Adding Alternative Text to Images and Other Objects '

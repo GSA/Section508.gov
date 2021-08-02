@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/structure-lists/
 type: training
 title: 'Module 7: Structure Lists'

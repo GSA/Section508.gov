@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx05/
 type: training
 title: 'Module 5: Formatting Lists Properly'

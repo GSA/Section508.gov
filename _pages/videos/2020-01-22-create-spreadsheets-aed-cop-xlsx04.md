@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx04/
 type: training
 title: 'Module 4: Making Vital Background Information Accessible'

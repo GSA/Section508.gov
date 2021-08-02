@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx08/
 type: training
 title: 'Module 8: Creating Links with Unique and Descriptive Names'

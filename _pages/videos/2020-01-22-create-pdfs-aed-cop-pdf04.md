@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/pdfs/aed-cop-pdf04/
 type: training
 title: 'Module 4: Converting Scanned Documents into Section 508 Conformant PDFs'

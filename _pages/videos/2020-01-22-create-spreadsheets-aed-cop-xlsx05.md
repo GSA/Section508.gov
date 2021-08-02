@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx05/
 type: training
 title: 'Module 5: Using Built-In Features to Create Data Tables'

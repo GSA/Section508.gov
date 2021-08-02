@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: training/presentations-workshops/keynote-tony-coelho/
 type: training
 title: 'The Americans with Disabilities Act—Then and Now'

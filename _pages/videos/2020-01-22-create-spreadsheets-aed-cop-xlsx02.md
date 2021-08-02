@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx02/
 type: training
 title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient'

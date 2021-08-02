@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/aed-cop-xlsx01/
 type: training
 title: 'Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order'

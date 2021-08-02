@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx08/
 type: training
 title: 'Module 8: Duplicate Vital Information in Headers, Footers and Watermarks'

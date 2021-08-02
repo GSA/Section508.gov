@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/live-regions/
 type: training
 title: 'Module 18: Live Regions'

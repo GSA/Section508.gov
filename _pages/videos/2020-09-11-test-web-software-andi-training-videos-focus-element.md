@@ -1,6 +1,6 @@
 ---
  sidenav: true
- layout: page
+ layout: video
  permalink: test/web-software/andi-training-videos/focus-element/
  type: training
  title: 'Module 2: Focus Element'

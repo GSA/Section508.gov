@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx09/
 type: training
 title: 'Module 9: Making Vital Background Information Accessible'

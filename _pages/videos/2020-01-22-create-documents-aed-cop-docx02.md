@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx02/
 type: training
 title: 'Module 2: Use Styles to Create Headings'

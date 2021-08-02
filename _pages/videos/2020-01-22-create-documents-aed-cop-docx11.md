@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx11/
 type: training
 title: 'Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning'

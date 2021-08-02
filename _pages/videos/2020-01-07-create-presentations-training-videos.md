@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/training-videos/
 type: training
 title: 'Presentations Training Videos'

@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/layout-tables/
 type: training
 title: 'Module 16: Layout Tables'

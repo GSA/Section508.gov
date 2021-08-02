@@ -1,6 +1,6 @@
 ---
 sidenav: true 
-layout: page 
+layout: video 
 permalink: test/web-software/andi-training-videos/overview/ 
 type: training 
 title: 'Module 1:Overview of ANDI'

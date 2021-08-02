@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx01//
 type: training
 title: 'Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order'

@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/structure-headings/
 type: training
 title: 'Module 5: Structure Headings'

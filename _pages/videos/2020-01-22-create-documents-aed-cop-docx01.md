@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx01/
 type: training
 title: 'Module 1: Save as a Word Document (.docx) with a Descriptive Filename'

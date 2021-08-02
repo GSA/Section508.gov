@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/heading-levels/
 type: training
 title: 'Module 6: Heading Levels'

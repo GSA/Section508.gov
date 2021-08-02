@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/documents/aed-cop-docx10/
 type: training
 title: 'Module 10: Create Accessible Textboxes'

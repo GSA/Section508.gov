@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/spreadsheets/training-videos/
 type: training
 title: 'Spreadsheets Training Videos'

@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx06/
 type: training
 title: 'Module 6: Using Built-In Features to Create Data Tables'

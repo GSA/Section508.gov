@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/color-contrast/
 type: training
 title: 'Module 13: Color Contrast'

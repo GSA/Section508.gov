@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/anditraining-videos/data-tables/
 type: training
 title: 'Module 15: Data Tables'

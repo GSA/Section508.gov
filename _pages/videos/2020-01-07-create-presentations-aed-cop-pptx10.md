@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: create/presentations/aed-cop-pptx10/
 type: training
 title: 'Module 10: Formatting Text for the Intended Language'

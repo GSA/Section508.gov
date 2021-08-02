@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: page
+layout: video
 permalink: test/web-software/andi-training-videos/language-parts/
 type: training
 title: 'Module 9: Language of Parts'
