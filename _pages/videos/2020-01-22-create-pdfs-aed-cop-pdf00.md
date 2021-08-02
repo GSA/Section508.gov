@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/pdfs/aed-cop-pdf00
-type: page
+permalink: create/pdfs/aed-cop-pdf00/
+type: training
 title: 'Module 0: Introduction & Background'
 created: 1579721762
 ---
@@ -30,7 +30,6 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
 <div class="panel panel-default">
   <div class="panel-body">
     <strong>Before You Go</strong>
-    
     <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
@@ -39,6 +38,6 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
 
 **Updated**: January 2020
 
- [1]: /create/pdfs/aed-cop-pdf01
- [2]: /create/pdfs/aed-cop-pdf02
- [3]: /create/pdfs/aed-cop-pdf03
+ [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
+ [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
+ [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03

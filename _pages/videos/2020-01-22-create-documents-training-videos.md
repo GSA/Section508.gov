@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/documents/training-videos
-type: page
+permalink: create/documents/training-videos/
+type: training
 title: 'Documents Training Videos'
 created: 1579720537
 ---
@@ -341,6 +341,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 **Updated**: January 2020
 
- [1]: /create/pdfs/training-videos
- [2]: /create/presentations/training-videos
- [3]: /create/spreadsheets/training-videos
+ [1]: {{site.baseurl}}/create/pdfs/training-videos
+ [2]: {{site.baseurl}}/create/presentations/training-videos
+ [3]: {{site.baseurl}}/create/spreadsheets/training-videos

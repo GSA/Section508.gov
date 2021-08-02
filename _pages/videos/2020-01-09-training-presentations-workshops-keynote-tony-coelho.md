@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: training/presentations-workshops/keynote-tony-coelho
-type: page
+permalink: training/presentations-workshops/keynote-tony-coelho/
+type: training
 title: 'The Americans with Disabilities Act—Then and Now'
 created: 1578606586
 ---

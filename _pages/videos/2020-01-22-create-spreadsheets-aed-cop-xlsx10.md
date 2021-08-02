@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/spreadsheets/aed-cop-xlsx10
-type: page
+permalink: create/spreadsheets/aed-cop-xlsx10/
+type: training
 title: 'Module 10: Saving in the .pptx Format with a Descriptive Filename'
 created: 1579724106
 ---
@@ -45,13 +45,13 @@ Discover how a descriptive file name identifying the worksheet or its purpose he
 
 **Updated**: January 2020
 
- [1]: /create/spreadsheets/aed-cop-xlsx00
- [2]: /create/spreadsheets/aed-cop-xlsx01
- [3]: /create/spreadsheets/aed-cop-xlsx02
- [4]: /create/spreadsheets/aed-cop-xlsx03
- [5]: /create/spreadsheets/aed-cop-xlsx04
- [6]: /create/spreadsheets/aed-cop-xlsx05
- [7]: /create/spreadsheets/aed-cop-xlsx06
- [8]: /create/spreadsheets/aed-cop-xlsx07
- [9]: /create/spreadsheets/aed-cop-xlsx08
- [10]: /create/spreadsheets/aed-cop-xlsx09
+ [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04
+ [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
+ [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
+ [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
+ [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
+ [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09

@@ -6,10 +6,10 @@ manage:
   - name: Policy and Management home
     url: manage/
   - name: Management
-    url: manage/roles/
+    url: '#'
     children:
       - name: Manage a 508 Program
-        url: manage/roles/
+        url: '#'
         grandchildren:
           - name: Accessibility Roles
             url: manage/roles/
@@ -26,7 +26,7 @@ manage:
           - name: Revised 508 Standards Roadmap
             url: manage/program-roadmap/
       - name: Accessibility for IT Program & Project Manager
-        url: manage/program-management/
+        url: '#'
         grandchildren:
           - name: IT Accessibility Program Management
             url: manage/program-management/
@@ -41,7 +41,7 @@ manage:
       - name: Find you program manager
         url: tools/coordinator-listing/
       - name: Accessibility Reporting
-        url: manage/reporting/
+        url: '#'
         grandchildren:
           - name: Maturity Reporting
             url: manage/reporting/
@@ -56,7 +56,7 @@ manage:
           - name: OMB Reporting Questions
             url: manage/reporting/questions/
   - name: Law and Policy
-    url: manage/laws-and-policies/
+    url: '#'
     children:
       - name: IT Accessibility Laws and Policies Overview
         url: manage/laws-and-policies/

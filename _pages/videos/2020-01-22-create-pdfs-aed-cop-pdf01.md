@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/pdfs/aed-cop-pdf01
-type: page
+permalink: create/pdfs/aed-cop-pdf01/
+type: training
 title: 'Module 1: What is a PDF?'
 created: 1579721808
 ---
@@ -39,7 +39,7 @@ Learn about the elements of a PDF and PDF tag types, where you &nbsp;can downloa
 
 **Updated**: January 2020
 
- [1]: /create/pdfs/aed-cop-pdf00
- [2]: /create/pdfs/aed-cop-pdf02
- [3]: /create/pdfs/aed-cop-pdf03
- [4]: /create/pdfs/aed-cop-pdf04
+ [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
+ [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
+ [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf04

@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/documents/aed-cop-docx13
-type: page
+permalink: create/documents/aed-cop-docx13/
+type: training
 title: 'Module 13: Create Accessible Embedded Files'
 created: 1579721355
 ---
@@ -48,16 +48,16 @@ Learn how to embed audio-only, video-only or multimedia files into your document
 
 **Updated**: January 2020
 
- [1]: /create/documents/aed-cop-docx00
- [2]: /create/documents/aed-cop-docx01
- [3]: /create/documents/aed-cop-docx02
- [4]: /create/documents/aed-cop-docx03
- [5]: /create/documents/aed-cop-docx04
- [6]: /create/documents/aed-cop-docx05
- [7]: /create/documents/aed-cop-docx06
- [8]: /create/documents/aed-cop-docx07
- [9]: /create/documents/aed-cop-docx08
- [10]: /create/documents/aed-cop-docx09
- [11]: /create/documents/aed-cop-docx10
- [12]: /create/documents/aed-cop-docx11
- [13]: /create/documents/aed-cop-docx12
+ [1]: {{site.baseurl}}/create/documents/aed-cop-docx00
+ [2]: {{site.baseurl}}/create/documents/aed-cop-docx01
+ [3]: {{site.baseurl}}/create/documents/aed-cop-docx02
+ [4]: {{site.baseurl}}/create/documents/aed-cop-docx03
+ [5]: {{site.baseurl}}/create/documents/aed-cop-docx04
+ [6]: {{site.baseurl}}/create/documents/aed-cop-docx05
+ [7]: {{site.baseurl}}/create/documents/aed-cop-docx06
+ [8]: {{site.baseurl}}/create/documents/aed-cop-docx07
+ [9]: {{site.baseurl}}/create/documents/aed-cop-docx08
+ [10]: {{site.baseurl}}/create/documents/aed-cop-docx09
+ [11]: {{site.baseurl}}/create/documents/aed-cop-docx10
+ [12]: {{site.baseurl}}/create/documents/aed-cop-docx11
+ [13]: {{site.baseurl}}/create/documents/aed-cop-docx12

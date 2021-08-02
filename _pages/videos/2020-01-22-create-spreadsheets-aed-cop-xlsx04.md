@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/spreadsheets/aed-cop-xlsx04
-type: page
+permalink: create/spreadsheets/aed-cop-xlsx04/
+type: training
 title: 'Module 4: Making Vital Background Information Accessible'
 created: 1579723865
 ---
@@ -45,13 +45,13 @@ Learn how to ensure that vital information, created as a watermark or placed in 
 
 **Updated**: January 2020
 
- [1]: /create/spreadsheets/aed-cop-xlsx00
- [2]: /create/spreadsheets/aed-cop-xlsx01
- [3]: /create/spreadsheets/aed-cop-xlsx02
- [4]: /create/spreadsheets/aed-cop-xlsx03
- [5]: /create/spreadsheets/aed-cop-xlsx05
- [6]: /create/spreadsheets/aed-cop-xlsx06
- [7]: /create/spreadsheets/aed-cop-xlsx07
- [8]: /create/spreadsheets/aed-cop-xlsx08
- [9]: /create/spreadsheets/aed-cop-xlsx09
- [10]: /create/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
+ [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
+ [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
+ [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
+ [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09
+ [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10

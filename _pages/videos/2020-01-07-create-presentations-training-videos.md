@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/presentations/training-videos
-type: page
+permalink: create/presentations/training-videos/
+type: training
 title: 'Presentations Training Videos'
 created: 1578415169
 ---

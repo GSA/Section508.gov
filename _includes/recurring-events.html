@@ -1,3 +1,4 @@
+{% if site.events %}
 {% assign sorted = site.events | sort: "date" | reverse %}
 {% for events in sorted %}
 {% assign event_date = events.end-date | date: '%s' %}
@@ -31,3 +32,4 @@
 
 {% endif %}
 {% endfor %}
+{% endif %}

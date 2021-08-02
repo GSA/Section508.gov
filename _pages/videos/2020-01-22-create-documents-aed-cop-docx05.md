@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/documents/aed-cop-docx05
-type: page
+permalink: create/documents/aed-cop-docx05/
+type: training
 title: 'Module 5: Use Built-in Features to Create Layout and Data Tables'
 created: 1579720924
 ---
@@ -48,16 +48,16 @@ Learn how to use built-in features to create layout tables and both simple and c
 
 **Updated**: January 2020
 
- [1]: /create/documents/aed-cop-docx00
- [2]: /create/documents/aed-cop-docx01
- [3]: /create/documents/aed-cop-docx02
- [4]: /create/documents/aed-cop-docx03
- [5]: /create/documents/aed-cop-docx04
- [6]: /create/documents/aed-cop-docx06
- [7]: /create/documents/aed-cop-docx07
- [8]: /create/documents/aed-cop-docx08
- [9]: /create/documents/aed-cop-docx09
- [10]: /create/documents/aed-cop-docx10
- [11]: /create/documents/aed-cop-docx11
- [12]: /create/documents/aed-cop-docx12
- [13]: /create/documents/aed-cop-docx13
+ [1]: {{site.baseurl}}/create/documents/aed-cop-docx00
+ [2]: {{site.baseurl}}/create/documents/aed-cop-docx01
+ [3]: {{site.baseurl}}/create/documents/aed-cop-docx02
+ [4]: {{site.baseurl}}/create/documents/aed-cop-docx03
+ [5]: {{site.baseurl}}/create/documents/aed-cop-docx04
+ [6]: {{site.baseurl}}/create/documents/aed-cop-docx06
+ [7]: {{site.baseurl}}/create/documents/aed-cop-docx07
+ [8]: {{site.baseurl}}/create/documents/aed-cop-docx08
+ [9]: {{site.baseurl}}/create/documents/aed-cop-docx09
+ [10]: {{site.baseurl}}/create/documents/aed-cop-docx10
+ [11]: {{site.baseurl}}/create/documents/aed-cop-docx11
+ [12]: {{site.baseurl}}/create/documents/aed-cop-docx12
+ [13]: {{site.baseurl}}/create/documents/aed-cop-docx13

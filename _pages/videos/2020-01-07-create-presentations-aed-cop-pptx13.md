@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/presentations/aed-cop-pptx13
-type: video_presentation
+permalink: create/presentations/aed-cop-pptx13/
+type: training
 title: 'Module 13: Saving in the .pptx Format with a Descriptive Filename'
 created: 1578420105
 ---
@@ -48,16 +48,16 @@ Discover how a descriptive file name identifying the document or its purpose hel
 
 **Updated**: December&nbsp;2019
 
- [1]: /create/presentations/aed-cop-pptx00
- [2]: /create/presentations/aed-cop-pptx01
- [3]: /create/presentations/aed-cop-pptx02
- [4]: /create/presentations/aed-cop-pptx03
- [5]: /create/presentations/aed-cop-pptx04
- [6]: /create/presentations/aed-cop-pptx05
- [7]: /create/presentations/aed-cop-pptx06
- [8]: /create/presentations/aed-cop-pptx07
- [9]: /create/presentations/aed-cop-pptx08
- [10]: /create/presentations/aed-cop-pptx09
- [11]: /create/presentations/aed-cop-pptx10
- [12]: /create/presentations/aed-cop-pptx11
- [13]: /create/presentations/aed-cop-pptx12
+ [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00
+ [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01
+ [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02
+ [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03
+ [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04
+ [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx05
+ [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx06
+ [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx07
+ [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx08
+ [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx09
+ [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx10
+ [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx11
+ [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx12

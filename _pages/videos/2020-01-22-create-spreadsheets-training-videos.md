@@ -1,8 +1,8 @@
 ---
 sidenav: true
 layout: page
-permalink: create/spreadsheets/training-videos
-type: page
+permalink: create/spreadsheets/training-videos/
+type: training
 title: 'Spreadsheets Training Videos'
 created: 1579723548
 ---
@@ -275,6 +275,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 **Updated**: January 2020
 
- [1]: /create/documents/training-videos
- [2]: /create/pdfs/training-videos
- [3]: /create/presentations/training-videos
+ [1]: {{site.baseurl}}/create/documents/training-videos
+ [2]: {{site.baseurl}}/create/pdfs/training-videos
+ [3]: {{site.baseurl}}/create/presentations/training-videos

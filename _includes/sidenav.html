@@ -60,7 +60,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {% for link in links %}
             {% assign href = link.url %}
             {% assign current = false %}
-            {% if href == page.url or href == page.permalink %}
+            {% if href == page.url or href == page.permalink or currentGrandchild == 'true' %}
             {% assign current = true %}
             {% endif %}
             <li class="usa-sidenav__item">
