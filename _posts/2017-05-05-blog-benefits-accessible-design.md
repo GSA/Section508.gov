@@ -3,7 +3,7 @@ layout: post
 permalink: blog/benefits-accessible-design/
 type: article
 title: 'Benefits of Accessible Design'
-description: According to the World Bank, [approximately one billion people worldwide live with a disability][1], making up the **world's largest minority.** Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience.
+description: According to the World Bank, <a href="http://www.worldbank.org/en/topic/disability/overview">approximately one billion people worldwide live with a disability</a>, making up the <b>world's largest minority.</b> Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities.
 tags: Design-and-Develop
 created: 1493993415
 ---
@@ -22,111 +22,90 @@ According to the World Bank, [approximately one billion people worldwide live wi
   <div>
     <p>
       Accessible technology could make website navigation possible and/or easier for 57% of computer users. A <a href="https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/">study in the United Kingdom (UK)</a> found that<strong> 71% of web users with a disability will simply leave a website that is not accessible</strong>. With over 6.1 million people with disabilities in the UK, that represents a significant loss of traffic, customers, and audience. It also represents an opportunity for businesses and consumers to reach this untapped market online. Organizations in Europe indicated that implementation of accessible web design minimizes the rate at which users abandon a site and increases revenue.
-    </p>
-    
+    </p>    
     <div>
       <p>
         While the above survey represents UK respondents, the United States also has a significant population of people with disabilities. According to a <a href="https://www2.census.gov/library/publications/2012/demo/p70-131.pdf">2010 report from the U.S. Census Bureau</a>, <strong>around 18.7% of the U.S. population lives with a disability and, out of that number, 12.6% have a severe disability.</strong>
-      </p>
-      
+      </p>      
       <div>
         <p>
           The Census Bureau report also states that, of the 51 million people aged 15 and older with a disability:
-        </p>
-        
+        </p>        
         <div>
           <ul>
             <li>
               <div>
                 19.9 million have difficulty lifting or grasping, impacting use of a mouse or keyboard; and
               </div>
-            </li>
-            
+            </li>            
             <li>
               8.1 million have a visual disability; they might rely on a screen magnifier or a screen reader, or might have a form of color blindness.
             </li>
           </ul>
         </div>
       </div>
-    </div>
-    
+    </div>    
     <p>
       The Census Bureau also reports that 7.6 million have a hearing disability; they might rely on transcripts and/or captions for audio and video media.
-    </p>
-    
+    </p>    
     <div>
       <p>
         By making digital content accessible, your organization can reach more customers, increase customer satisfaction, and gain a competitive edge over those who don&rsquo;t include accessibility features<strong>.</strong>
-      </p>
-      
+      </p>      
       <div>
         <h2>
           Key Benefit 2: Cost Savings
-        </h2>
-        
+        </h2>        
         <div>
           <p>
             Many worry that designing for accessibility will cost more. But incorporating accessibility at the start of a website development or redesign process is significantly easier and less expensive than making improvements to an existing site later as a separate project.
-          </p>
-          
+          </p>          
           <div>
             <p>
               <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a href="https://www.forrester.com/Microsoft">Microsoft-Forrester</a> study stressed, &ldquo;<strong>Employees are likely to become disabled as they age.</strong> We&rsquo;ve invested in them; we want to preserve the investment. That&rsquo;s why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.&rdquo;
-            </p>
-            
+            </p>            
             <div>
               <p>
                 The above-mentioned Forrester Research study found that implementing accessible web design minimizes the rate at which users abandon websites, which results in an estimated additional <strong>$2.4 million</strong> in annual revenue.
-              </p>
-              
+              </p>              
               <div>
                 <p>
                   Using Universal Design principles and designing for accessibility also provides a measure of protection from litigation. For example, Target, a U.S.&shy;-based retailer, was sued by the National Federation for the Blind. This resulted in a settlement of $6 million for those who were denied access to the goods and services offered by the retailer. In addition to paying the fine, Target had to invest in a brand new website that was compliant with regulations, a costly process that could have been avoided if accessibility had been a priority from the start.
-                </p>
-                
+                </p>                
                 <div>
                   <p>
                     <em>&ldquo;It&rsquo;s not just doing the right thing, it&rsquo;s doing the smart thing&rdquo;</em>
-                  </p>
-                  
+                  </p>                  
                   <p>
                     <a href="https://blogs.microsoft.com/eupolicy/2016/06/28/accessibility-in-the-workplace-a-competitive-edge/"><em>Microsoft.</em></a>
-                  </p>
-                  
+                  </p>                  
                   <h2>
                     Key Benefit 3: Inclusion Inspires Innovation
-                  </h2>
-                  
+                  </h2>                  
                   <div>
                     <p>
                       Organizations across Europe have integrated accessible technologies and strategies within their organizations. Leaders of these organizations observed a number of benefits, including:
-                    </p>
-                    
+                    </p>                    
                     <div>
                       <p>
                         <strong>Increased Productivity</strong>: A 2016 survey by Forrester revealed that IT and communications workers are spending an increased amount of time working in public places, while traveling or at home. Interviewees indicated that providing accessible technologies helps both employees and employers as more work can be completed by all employees during typical business hours wherever they are, eliminating productivity losses.
-                      </p>
-                      
+                      </p>                      
                       <div>
                         <p>
                           <strong>Increased Diversity</strong>: Over 80% of organizations surveyed from both the private and public sectors agree that their accessibility strategies have helped them build a more diverse workforce from a broader talent pool, or retain employees who have become disabled.
-                        </p>
-                        
+                        </p>                        
                         <div>
                           <p>
                             <strong>Improved Corporate Image</strong>: 85% of private sector and 77% of public sector organizations cited the positive impact made by accessibility in helping them establish a social vision for their company.
-                          </p>
-                          
+                          </p>                          
                           <div>
                             <p>
                               Some organizations mistakenly believe that hiring individuals with disabilities will hinder their company&rsquo;s workplace environment.
-                            </p>
-                            
+                            </p>                            
                             <div>
                               <p>
                                 <em>&ldquo;A person with a disability has to be innovative just to get through the day, imagine how that mindset helps a team at a workplace.&rdquo;</em>
-                              </p>
-                              
+                              </p>                              
                               <p>
                                 <em>- Mark Wafer, Ontario Disability Employment Network.</em>
                               </p>
@@ -156,9 +135,8 @@ According to the World Bank, [approximately one billion people worldwide live wi
   <div>
     <h2>
       References
-    </h2>
-    
-    <ul>
+    </h2>    
+    <ul style="overflow-wrap: break-word; word-wrap: break-word;">
       <li>
         <a href="https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct">https://www.eeoc.gov/federal/qanda-employment-with-disabilities.cfm#conduct</a>
       </li>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wide
 sidenav: false
 permalink: training/presentations-workshops/
 type: page
@@ -110,9 +110,9 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
   * [Read the transcript for the Section 508 Federal Day event][42] (MS-Word, December 2017)
 
 <div class="border-base radius-lg border-1px">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <strong>Before You Go</strong> 
-<p dir="ltr">
+    <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>
@@ -120,7 +120,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
 
 **Reviewed/Updated**: April&nbsp;2021
 
- [1]: https://section508.gov/sites/default/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
+ [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
  [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
  [3]: https://assets.section508.gov/files/Get-Certified-ITACM%20-2021-02-09.pptx
  [4]: https://assets.section508.gov/files/Captioned-Text-(ITACM-FEB2021).docx
@@ -137,7 +137,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
  [15]: https://assets.section508.gov/files/Captioned-Text-%28APMM-JUN2020%29%20%282%29.docx
  [16]: https://assets.section508.gov/files/Best-Practices-for-Creating-a%20Position-Description-and-the-Importance-of-Updated-PDs-%28APMM-JUN2020%29.pptx
  [17]: https://assets.section508.gov/files/Writing-Position-Descriptions-%28APMM-JUN2020%29%20%282%29.pptx
- [18]: https://www.section508.gov/test/web-software
+ [18]: {{site.baseurl}}/test/web-software
  [19]: https://assets.section508.gov/files/APMM-2020-04-07-Captioned-Text.docx
  [20]: https://assets.section508.gov/files/APMM-2020-04-07-Event-Presentation.pptx
  [21]: https://assets.section508.gov/files/APMM-2020-04-07-A-508-Program-on-the-Move-(CMS).pptx

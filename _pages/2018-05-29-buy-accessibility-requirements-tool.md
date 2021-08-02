@@ -201,7 +201,7 @@ To start a new procurement, you&rsquo;ll need to know:
 &nbsp;&nbsp;
 
 <div class="border-base radius-lg border-1px">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <p>
       <strong>Before You Go</strong>
     </p>

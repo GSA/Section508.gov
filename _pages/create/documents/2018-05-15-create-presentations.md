@@ -64,7 +64,7 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Microsoft Accessibility][11] 
 
 <div class="border-base radius-lg border-1px">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <strong>Before You Go</strong> 
 <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.

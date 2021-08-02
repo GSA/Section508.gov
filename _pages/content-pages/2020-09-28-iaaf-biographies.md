@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: wide
 sidenav: false
-permalink: iaaf/biographies/
+permalink: iaaf/biographies-2020/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
 created: 1601325079
@@ -12,19 +12,19 @@ created: 1601325079
 </p>
 
 <p style="text-align:center;" id="top">
-  <a class="" href="#A">A <span class="sr-only"> Section</span></a> | <a class="" href="#B">B <span class="sr-only"> Section</span></a> | <a class="" href="#C">C <span class="sr-only"> Section</span></a> | <a href="#D">D <span class="sr-only"> Section</span></a> | <a href="#E">E <span class="sr-only"> Section</span></a> | <a class="" href="#F">F <span class="sr-only"> Section</span></a> | <a class="" href="#G">G <span class="sr-only"> Section</span></a> | <a class="" href="#H">H <span class="sr-only"> Section</span></a> | <a href="#J">J <span class="sr-only"> Section</span></a> | <a href="#K">K <span class="sr-only"> Section</span></a> | <a href="#L">L <span class="sr-only"> Section</span></a> | <a href="#M">M <span class="sr-only"> Section</span></a> | <a href="#N">N <span class="sr-only"> Section</span></a> | <a class="" href="#P">P <span class="sr-only"> Section</span></a> | <a class="" href="#R">R <span class="sr-only"> Section</span></a> | <a class="" href="#S">S <span class="sr-only"> Section</span></a> | <a class="" href="#T">T <span class="sr-only"> Section</span></a> | <a href="#U">U <span class="sr-only"> Section</span></a> | <a href="#V">V <span class="sr-only"> Section</span></a> | <a href="#W">W <span class="sr-only"> Section</span></a> | <a href="#Z">Z<span class="sr-only"> Section</span></a>
+  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
 </p>
-
+<div class="usa-graphic-list__row container">
 <h2 id="A">
   <strong>A</strong>
 </h2>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="aiken">
       <strong>Brooke Aiken</strong>
     </p>
@@ -53,12 +53,10 @@ created: 1601325079
       <span>Brooke holds a Bachelor’s degree in Human Environmental Services from the University of Alabama.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
     </p>
   </div>
 </div>
-
-* * *
 
 <h2 id="B">
   <strong>B</strong>
@@ -68,12 +66,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="https://assets.section508.gov/files/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="barrett">
       <strong>Stephanie Barrett</strong>
     </p>
@@ -84,19 +82,18 @@ created: 1601325079
       <span>Stephanie Barrett serves as Director of Policy, Product Regulatory at the Information Technology Industry Council (ITI). In this role, she co-leads ITI’s Accessibility Committee, which actively promotes international alignment of ICT procurement policies, technical requirements, and conformity assessment to create a seamless global approach to addressing the technology needs of people with disabilities and age-related limitations. Stephanie’s prior experience includes years working with industry and government agencies on compliance issues in the EU. Prior to her stint in the EU, Stephanie worked with a major international consulting firm on a variety of Federal US contracts on which she managed projects, budgets, and diverse project teams to ensure that agency needs were met on time and within allocated resources.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="blakely-hill">
       <strong>Jocelyn Blakely-Hill</strong>
     </p>
@@ -107,19 +104,18 @@ created: 1601325079
       <span>Ms. Jocelyn Blakely-Hill is a Computer Internet Specialist in the Office of Innovation and Digital Engagement at the National Archives and Records Administration. She has more than 20 years of progressively responsible experience in the field of information technology and web development with a special emphasis on web accessibility and usability. Previous to this, Jocelyn held various positions as Sr. Systems Analyst, Computer Training Specialist, and Information Analyst at various U.S. federal government agencies. As one of the Section 508 Coordinators for the National Archives and Records Administration Jocelyn has helped drive and execute many of the agency’s accessibility initiatives and strategy shifts. Jocelyn holds Bachelor of Science degrees from the University of Maryland and an MBA from Central Michigan University. She is an active member of the Section 508 Accessibility Professionals, HTML Writers Guild, DC Web Women, World Organization of Webmasters, and Toastmasters.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bonitto">
       <strong>Toni Bonitto</strong>
     </p>
@@ -130,19 +126,18 @@ created: 1601325079
       <span>A native New Yorker, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She currently serves as an Innovation Specialist in the Technology Transformation Services (TTS) at GSA's headquarters in DC. Her main role is as Digital.gov’s Content Lead and Editor where she writes articles and resource guides, and recruits and manages rotations of volunteer content writers via the Open Opportunities program and Communities of Practice. She also provides front-end development, social media, email marketing, analytics reporting, and customer service for the program. Toni is also a member of the TTS Digital Council and its Review Team, is a Level I Contracting Officer’s Representative (COR), has certifications in both Email Marketing and Social Media, and recently completed a year-plus term as the co-lead for the TTS Accessibility Guild, which included contributing to the development and teaching of an Accessibility 101 course as part of onboarding requirements for new hires.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="briscoe">
       <strong>Paula Briscoe, PhD</strong>
     </p>
@@ -162,7 +157,7 @@ created: 1601325079
       Dr. Briscoe received a Ph.D. in International Relations from the University of St. Andrews in Scotland, and B.Sc. in Political Science from Frostburg State University. She lives in Arlington, Virginia, enjoys sailing, running, and traveling to SCUBA dive, and is active in ocean conservation and other charitable work.
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d2k1"><em><span>Keynote Address</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2k1"><em><span>Keynote Address</span></em></a>
     </p>
   </div>
 </div>
@@ -175,12 +170,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="clark">
       <strong>Hilary Clark</strong>
     </p>
@@ -191,19 +186,18 @@ created: 1601325079
       <span>Hilary Clark started as a Community Involvement Coordinator with Region 9 EPA on March 1, 2020. Prior to working at EPA, she served as an Interpretation Park Ranger with the National Park Service at national monuments, seashores, and preserves in the Southwest and on the East Coast. She enjoys hiking, running, playing tennis, and is passionate about protecting wildlife and wild places.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="cooper">
       <strong>Darryl Cooper</strong>
     </p>
@@ -214,19 +208,18 @@ created: 1601325079
       <span>Darryl Cooper is an Attorney Advisor in the Disability Rights Office of the Federal Communications Commission. Darryl joined the FCC after the passage of the Telecommunications Act of 1996. In various capacities, he has worked on issues involving cable mergers, broadband Internet access, Voice over Internet Protocol, IP-Enabled Services, Communications Law Enforcement Act, the Emergency Alert System, Wireless Emergency Alerts, public safety wireless communications, consumer protection for the Telecommunications Relay Services fund, and disability access to new technologies. Darryl received a B.A. from Davidson College and a J.D. from Emory University. Darryl clerked for the Honorable James C. Hill, United States Court of Appeals for the Eleventh Circuit.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="creagan">
       <strong>Tim Creagan</strong>
     </p>
@@ -252,19 +245,18 @@ created: 1601325079
       <span>Mr. Creagan received his J.D. from the Catholic University of America, and his undergraduate degree from the University of Notre Dame.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="crowell">
       <strong>Pierce Crowell</strong>
     </p>
@@ -275,19 +267,18 @@ created: 1601325079
       <span>Pierce Crowell is the Section 508 Program Manager for the Social Security Administration. In this capacity, Mr. Crowell oversees Section 508 policies, governance, training, 508 procurement processes, and a group of accomplished accessibility testers providing services to authors and developers throughout the SSA. Pierce is also active in inter-agency efforts to address the Section 508 standards refresh, on how to modernize accessibility design and development, and his team developed and released the ANDI 508 testing tool to the open source community on GitHub.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="curtis-davidson">
       <strong>Bill Curtis-Davidson, MS</strong>
     </p>
@@ -298,7 +289,7 @@ created: 1601325079
       <span>Mr. Bill Curtis-Davidson is a Senior Consultant on Emerging Tech Accessibility at Wheelhouse Group, supporting the PEAT/FutureWorks initiative at the U.S. Department of Labor's Office of Disability Employment Policy. In this role, he works to advance the accessibility of emerging workplace technologies (e.g. extended reality, artificial intelligence, autonomous vehicles) to increase employment of people with disabilities. To do so, he partners with the disability community and a variety of public and private sector organizations to advocate for and advance the industry adoption of inclusive design and promising practices for technology accessibility.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -311,12 +302,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="dhillon">
       <strong>Janet Dhillon</strong>
     </p>
@@ -333,7 +324,7 @@ created: 1601325079
       <span>Dhillon began her legal career at the law firm of Skadden, Arps, Slate, Meagher & Flom LLP, where she practiced for 13 years. She is a graduate of Occidental College, magna cum laude, and the UCLA School of Law, where she ranked first in her class. A native of California, Dhillon currently lives in Virginia.</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d1k2"><em><span>Keynote Address</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1k2"><em><span>Keynote Address</span></em></a>
     </p>
   </div>
 </div>
@@ -346,12 +337,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="eng">
       <strong>Katherine Eng</strong>
     </p>
@@ -362,19 +353,18 @@ created: 1601325079
       <span>Kathy Eng is a Senior ICT Accessibility Specialist with the US Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focused on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="evans">
       <strong>Samantha Evans</strong>
     </p>
@@ -385,7 +375,7 @@ created: 1601325079
       <span>Samantha (Sam) Evans, CAE, MBA, is the Certification Manager at the </span><a href="http://www.accessibilityassociation.org/"><span>International Association of Accessibility Professionals</span></a><span> (IAAP), a division of G3ict, where she works with accessibility subject matter experts and professionals around the world to maintain, build and deliver accessibility certification programs. Working within international standards for certification and credentialing, Sam facilitates the work of IAAP and the accessibility community to establish benchmarks of knowledge, skills, and concepts for accessibility professionals. Sam is also an active accessibility and inclusion advocate, active in the association management and credentialing professions. Sam holds an MBA in International Business from Kennesaw State University and has recently earned the Certified Association Executive (CAE) credential from the American Society of Association Executives (ASAE).</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
     </p>
   </div>
 </div>
@@ -398,12 +388,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="farraj-feijoo">
       <strong>Ammie Farraj-Feijoo</strong>
     </p>
@@ -414,19 +404,18 @@ created: 1601325079
       <span>Ammie Farraj-Feijoo is the Implementation Lead for the 21st Century Integrated Digital Experience Act (21st Century IDEA) in the Technology Transformation Services within GSA. Since 2019, she has led the team that is championing the modernization of federal websites and digital services to include developing and publishing website standards for the U.S. government. Ammie previously served as the Deputy Director for Digital and Information Strategy at the Institute of Library and Museum Services and managed GSA’s Search.gov. She also worked as a librarian for the Congressional Research Service and Advocates for Youth earlier in her career. Ammie has a Master of Library Science from University of Maryland and bachelor’s degree from Penn State University in Sociology. She has received multiple awards for her work including Service to the Citizen, Federal 100, Government Big Data Solutions, and InformationWeek’s Government IT Innovator.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fern">
       <strong>David Fern</strong>
     </p>
@@ -437,19 +426,18 @@ created: 1601325079
       <span>David Fern is a Division Tech at the Social Security Administration in Baltimore, Maryland where he works in the Division of Agile Enterprise Services (DAES) focusing on the quality and testing of SSA applications ensuring that we can all apply for social security benefits online. Additionally, David with Jacob Parcell is Co-Leader of the MobileGov Community of Practice working across agencies to create anytime, anywhere government resources and solutions for today and tomorrow.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="francis">
       <strong>Camara Francis</strong>
     </p>
@@ -469,19 +457,18 @@ created: 1601325079
       <span>Camara earned an MPA from George Mason University, Fairfax, VA, and a Bachelor of Science from the University of Maryland Eastern Shore, Princess Anne, MD.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fuoco">
       <strong>Angie Fuoco</strong>
     </p>
@@ -492,19 +479,18 @@ created: 1601325079
       <span>Angie Fuoco, now a Community Involvement Coordinator in EPA’s San Francisco Office, has worked at four federal agencies over 33 years. She uses her multi-varied experience in public health, safety, environmental protection, and accessibility as a program coordinator and management advisor. She has a Master’s in Public Health, Bachelor of Science in Chemical Engineering, and certifications as ADA Coordinator, Associate Safety Professional, Hearing Loss Support Specialist, National Consumer Hearing Assistive Technology Trainer, and Competent Toastmaster. Most important, she loves to teach and empower people with disabilities to help them reach or regain their fullest potential at work and in life.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="franks">
       <strong>Aaron Franks</strong>
     </p>
@@ -515,7 +501,7 @@ created: 1601325079
       <span>Aaron Frank is the Director, Accessibility at Shared Services Canada (SSC). In this role, Aaron and his team are working to build an accessibility-confident SSC and public service. Their work supports the Government of Canada in building a sustainable, seamless approach to workplace adjustments, and is also helping to transform processes, products, tools, and services to realize a Government that is inclusive by design and accessible by default. Prior to SSC, Aaron worked as Director of Business Improvement Services and of Change Management at two other Government of Canada departments, and in the private sector (IT, telecommunications and investment banking) in Canada and several European countries.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
     </p>
   </div>
 </div>
@@ -528,12 +514,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="garrett">
       <strong>Antoine Garrett</strong>
     </p>
@@ -544,19 +530,18 @@ created: 1601325079
       <span>Antoine Garrett is the Section 508 Education Lead with the Centers for Medicare & Medicaid Services (CMS). Antoine has been with CMS since 2011, and brings 20 years of training & development knowledge to his role in accessibility. Antoine believes in helping others overcome obstacles to success, and his efforts in Section 508 Education and Awareness at CMS are an extension of his core beliefs.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gibson">
       <strong>Yvette Gibson</strong>
     </p>
@@ -567,7 +552,7 @@ created: 1601325079
       <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
     </p>
   </div>
 </div>
@@ -580,12 +565,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="hailesselassie">
       <strong>Antonio Hailesselassie</strong>
     </p>
@@ -596,19 +581,18 @@ created: 1601325079
       <span>Mr. Antonio Haileselassie is an Information Technology Accessibility Specialist supporting the NASA Solutions for Enterprise Wide Procurement (SEWP) Program and the Section 508 Program at the NASA Goddard Space Flight Center. With over 15 years in accessibility of information technology experience, Antonio lends his knowledge of IT accessibility and support throughout NASA and to the Section 508 community across the government serving on the CIO Council Accessibility Community of Practice Vendor Outreach Committee. He began his accessibility career as a software developer focused on accessible software design, development, and remediation for the Federal Aviation Administration and the National Guard. He then joined NASA Headquarters as a support contractor where he advanced the Agency’s Section 508 Compliance Program by developing Section 508 testing capabilities, managing NASA’s Section 508 Technical Help Desk, and providing training and guidance across NASA.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="harkin">
       <strong>Thomas Harkin</strong>
     </p>
@@ -625,19 +609,18 @@ created: 1601325079
       <span>The legislation changed the landscape of America by requiring buildings and transportation to be wheelchair accessible, and to provide workplace accommodations for people with disabilities. For his ongoing and dedicated work to people with disabilities around the world, Senator Harkin was twice nominated for the Nobel Peace Prize.</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d1k1"><em><span>Keynote Address</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1k1"><em><span>Keynote Address</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="hays">
       <strong>Keith Hays</strong>
     </p>
@@ -648,19 +631,18 @@ created: 1601325079
       <span>Keith is the new campus ADA IT Coordinator for the University of Illinois at Urbana-Champaign. While this role is new, he is no stranger to EIT accessibility. Over the last ten years, he has been a user interface designer and accessibility specialist in the Technology Services unit on campus. While there, Keith played a key role in IT accessibility efforts across the Illinois system; creating educational resources and training opportunities, consulting with units on the accessibility of their websites, working with software vendors to correct accessibility issues, helping craft campus policy, and more. Up until accepting his new role this September, Keith was a co-creator and instructor of the award-winning Information Accessibility Design and Policy professional certificate program, offered by Applied Health Sciences at Illinois; and he works with the Big Ten Academic Alliance CIO IT Accessibility Group to help determine best practices and shared approaches for all of the member institutions. Keith is a recognized subject matter expert in IT accessibility for persons with disabilities, and he brings his eclectic skillset to bear on creating a more inclusive culture on campus.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="horton">
       <strong>Michael Horton</strong>
     </p>
@@ -671,19 +653,18 @@ created: 1601325079
       <span>Michael Horton is an accessibility and technology professional with over 25 years of experience in website and web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and advocate who joined the General Services Administration, Office of Government-wide Policy’s IT Accessibility Program in August 2018 as an Accessible Design and Development Advisor supporting agencies in their efforts to ensure independence and the dignity of work for people with disabilities. Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and also enjoyed twelve years with America Online (AOL) as a software/web engineer, partner advocate, online community standards policy and compliance specialist, and creator of member education. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="humphrey">
       <strong>Yolanda Humphrey</strong>
     </p>
@@ -694,7 +675,7 @@ created: 1601325079
       <span>Yolonda is the Program Manager for the IRS Section 508 Program office, known as IRAP (Information Resources Accessibility Program). She has been in the position for about 10 years and in that time has worked relentlessly towards establishing a solid framework to integrate Section 508 as a core IT requirement across the breadth of the IRS’s development/configuration and purchase work streams.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
     </p>
   </div>
 </div>
@@ -707,12 +688,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="jacobs">
       <strong>Gretchen Jacobs</strong>
     </p>
@@ -729,7 +710,7 @@ created: 1601325079
       <span>Earlier in her federal career, Ms. Jacobs served as a law clerk to Judge Warren J. Ferguson of the United States Court of Appeals for the Ninth Circuit and as a judicial extern to then-Judge Ruth Bader Ginsburg during her term on the District of Columbia Circuit Court. Ms. Jacobs, a native of California, graduated from the University of California, Los Angeles Law School with honors (Order of the Coif) and earned a bachelor's degree in history with highest honors from the University of California at Berkeley. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
@@ -742,12 +723,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kline">
       <strong>Jeff Kline</strong>
     </p>
@@ -758,19 +739,18 @@ created: 1601325079
       <span>Jeff Kline is the author of "Strategic IT Accessibility: Enabling the Organization" and is a recognized subject matter expert in keys areas of IT accessibility that include policy, rulemaking, process integration, procurement and risk mitigation. He currently serves as Program Director of Statewide Electronic and Information Resources (EIR) Accessibility at the Texas Department of Information Resources, and consults on IT accessibility policy matters for federal agencies, NGOs, and accessibility certification bodies. Prior to his current position in public service, Mr. Kline managed IBM's Worldwide Accessibility Consulting and Business Transformation initiatives, and held other management positions in research and product development during his 26 year IBM career including industrial design, operating system UI development, and system usability.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kuk">
       <strong>Jennifer Kuk</strong>
     </p>
@@ -784,7 +764,7 @@ created: 1601325079
       <span>Ms. Kuk received her Bachelor of Arts (BA) degree in Political Science and Sociology from the University of California, Los Angeles and Masters of Public Administration (MPA) from the Maxwell School of Citizenship and Public Affairs at Syracuse University.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
@@ -797,12 +777,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="langevin">
       <strong>Jim Langevin</strong>
     </p>
@@ -816,19 +796,18 @@ created: 1601325079
       <span>Langevin was inspired to enter public service by the tremendous outpouring of support he received during the most challenging time of his life, after a gun accident paralyzed him at age 16 and left him a quadriplegic. He is driven by a belief that everyone deserves a fair opportunity to make the most of their talents. He co-founded and co-chairs the House Bipartisan Disabilities Caucus, which is dedicated to raising awareness of issues affecting people with disabilities. He is a strong advocate for inclusion and independence for people with disabilities, and helped pass the ADA Amendments Act that strengthened the protections of the Americans with Disabilities Act.</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d1k3"><em><span>Keynote Address</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1k3"><em><span>Keynote Address</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
       <strong>Susanna Laurin</strong>
     </p>
@@ -839,19 +818,18 @@ created: 1601325079
       <span>Susanna Laurin is the Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is assigned by the European Commission to lead the expert group supporting the Member States in transposing the Web Accessibility Directive and she is also appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="leblois">
       <strong>Axel Leblois</strong>
     </p>
@@ -865,7 +843,7 @@ created: 1601325079
       <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International. </span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
     </p>
   </div>
 </div>
@@ -878,12 +856,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="malakhoff">
       <strong>Lawrence Malakhoff</strong>
     </p>
@@ -894,19 +872,18 @@ created: 1601325079
       <span>In 2001, Mr. Malakhoff began working on Section 508 issues when it became a Federal law. As part of usability testing, he tested and documented accessibility problems in Web surveys, E-Learning courses, Web applications, Desktop applications, PDF and MS-Word documents based on requests from many Census Bureau Program areas. He also worked to identify accessibility issues with 2010 and 2020 Census Web applications.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="manuel">
       <strong>Rayvn Manuel</strong>
     </p>
@@ -923,19 +900,18 @@ created: 1601325079
       <span>Along with advising leadership about the state of App Development & DevOps best practices and tools, Rayvn is responsible for ensuring that the unit’s digital products are developed and delivered in compliance with established dev/op guidelines as well as unit-level and OCIO security protocols.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="moore">
       <strong>Rhonda Moore, PhD</strong>
     </p>
@@ -946,7 +922,7 @@ created: 1601325079
       <span>Dr. Rhonda Moore is a Medical Anthropologist and Social Scientist working at the Food and Drug Administration (FDA) in the U.S. Department of Health and Human Services. In that role, Dr. Moore serves as a social science reviewer performing reviews of consumer and clinical studies and research. Part of her current research focuses on the socio-technical and ethical implications of artificial intelligence (AI). For example, she examines how to use AI and machine learning to understand treatment differences in breast cancers and computational ethnography as a method to extend participatory approaches to better understand AI fairness for pain and disability use cases, etc.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -959,12 +935,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="nielson">
       <strong>Andrew Nielson</strong>
     </p>
@@ -975,7 +951,7 @@ created: 1601325079
       <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is a co-organizer of the annual ICT Accessibility Testing Symposium and continues to serve as a member of its event committee. The Symposium brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as the gold standard for accessibility testing.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
     </p>
   </div>
 </div>
@@ -988,12 +964,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="paschel">
       <strong>Shannon Paschel</strong>
     </p>
@@ -1004,19 +980,18 @@ created: 1601325079
       <span>Mrs. Paschel has served as DIA’s Information Technology Accessibility Program Manager since 2019. This position includes establishing and leading DIA’s IT accessibility program and serving as the Intelligence Community (IC) champion for improving information technology accessibility in the IC. Prior to this position, Mrs. Paschel served two years as DIA’s Deputy Chief Data Officer, and prior to that, served as an intelligence analyst for the FBI’s, Senior National Intelligence Officer for Intelligence Community Engagement, Bureau Intelligence Council. Mrs. Paschel has held and led various programs within DIA and the IC over her 13 years in the federal government.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="peters">
       <strong>David Peters</strong>
     </p>
@@ -1024,19 +999,18 @@ created: 1601325079
       <em><span>Chief of the Applications Development and Services Division, Office of the Chief Information Officer</span></em><br /><span>U.S. Census Bureau</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d2c"><em><span>Wrap-up and Thank You</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2c"><em><span>Wrap-up and Thank You</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pomeroy">
       <strong>Daniel Pomeroy</strong>
     </p>
@@ -1050,19 +1024,18 @@ created: 1601325079
       <span>Dan possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&M University, a Master of Science of Government Information Leadership from the National Defense University, and a Bachelor’s of Arts in Political Science from the University of Nevada, Las Vegas.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="prabhakaran">
       <strong>Vinodkumar Prabhakaran, PhD</strong>
     </p>
@@ -1073,19 +1046,18 @@ created: 1601325079
       <span>Dr. Vinodkumar Prabhakaran is a Research Scientist at Google working on issues around ethics, fairness, and transparency in machine learning and natural language processing. Prior to joining Google, he was a postdoctoral researcher at Stanford University, and attained his PhD in computer science at Columbia University. His prior research focused on building scalable ways to identify and address large-scale societal issues, such as racial disparities in policing, workplace incivility, and online abuse. He served as a Diversity and Inclusion co-chair for the Association for Computational Linguistics' 2020 Conference.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pruitt">
       <strong>Cheryl Pruitt</strong>
     </p>
@@ -1096,7 +1068,7 @@ created: 1601325079
       <span>Cheryl is the Director of the Accessible Technology Initiative (ATI) for the California State University (CSU) System. She leads the ATI implementation across the CSU 23 campus system. Cheryl has been involved with the ATI since its inception in 2007, first at the campus level, then at the system-wide level. Under her leadership the system has made significant progress towards implementing ATI process improvement in the areas of web accessibility, accessible procurement, and accessible instructional materials. She is currently managing several projects that are moving the initiative forward. They include: implementation of CSU Accessible Procurement Process; ATI reporting processes to measure the systemwide progress towards the ATI goals; creation of synergy projects resulting in system-wide shared services that are delivering cost savings; and a high level of cross-campus collaboration through the ATI Communities of Practice. Cheryl can be contacted at cpruitt@calstate.edu.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
     </p>
   </div>
 </div>
@@ -1109,12 +1081,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="robertson">
       <strong>Scott Robertson, PhD</strong>
     </p>
@@ -1125,19 +1097,18 @@ created: 1601325079
       <span>Dr. Scott Michael Robertson is a Senior Policy Advisor on the Employment-Related Supports (ERS) Policy Team in the U.S. Department of Labor’s (DOL) Office of Disability Employment Policy (ODEP). He spearheads the ERS Team's engagement on ODEP's $2 million Apprenticeship Inclusion Models (AIM) initiative to expand access to career pathways in information technology, healthcare, and advanced manufacturing. Dr. Robertson advises ODEP's $1.5 million FutureWorks initiative as a subject matter expert on accessible emerging technology, including artificial intelligence (AI). He also drives ODEP's activities to enhance national autism policy, support neurodiversity in the workplace, and increase access to gainful employment for people on the autism spectrum. Before joining DOL, Dr. Robertson served as the Founding Vice President of the Autistic Self Advocacy Network (ASAN), a national nonprofit organization based in Washington, DC. He then served as a Joseph P. Kennedy, Jr. Fellow in the U.S. Senate Committee on Health, Education, Labor, and Pensions (HELP). He completed his PhD in information sciences and technology at Penn State University and his master's degree in human-computer interaction at Carnegie Mellon University. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="ryan">
       <strong>Avis Ryan</strong>
     </p>
@@ -1148,7 +1119,7 @@ created: 1601325079
       <span>Avis is a Program Analyst for the Office of Government-wide Policy and GSA. Avis has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, manages the CRM, and serves as as a Contracting Officer Representative.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
     </p>
   </div>
 </div>
@@ -1161,12 +1132,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="salmoiraghi">
       <strong>Jessica Salmoiraghi, </strong>
     </p>
@@ -1183,19 +1154,18 @@ created: 1601325079
       <span>Jessica received her Bachelor of Arts from the University of Pennsylvania and her Juris Doctor from Catholic University.</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#welcome"><em><span>Welcome</span></em></a><em><span> (Day 1)</span></em>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#welcome"><em><span>Welcome</span></em></a><em><span> (Day 1)</span></em>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="schell">
       <strong>Will Schell</strong>
     </p>
@@ -1206,19 +1176,18 @@ created: 1601325079
       <span>Will Schell serves as an Attorney Advisor at the Disability Rights Office of the Federal Communications Commission where he assists in the consumer complaint process; drafts various guidance and orders; and engages in outreach with the disability community, among other efforts. Will also serves as the Designated Federal Officer of the Commission’s Disability Advisory Council, which provides advice and recommendations to the Commission on a wide array of disability issues within the FCC’s jurisdiction. Prior to working at the Disability Rights Office, Will was a Civil Rights Analyst at the Office for Civil Rights in the U.S. Department of Health and Human Services where he provided assistance and guidance on regional Olmstead cases; reviewed proposed regulations and other clearance documents; and coordinated systemic Olmstead compliance reviews. Will has also served as a staff attorney at Disability Rights California, California’s Protection and Advocacy agency where he represented students in special education hearings and participated in Olmstead class action cases in various stages of litigation.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="schweickhardt">
       <strong>Reynold Schweickhardt</strong>
     </p>
@@ -1229,19 +1198,18 @@ created: 1601325079
       <span>Reynold Schweickhardt comes to GSA from the U.S. House of Representatives where he had served as the Director of Technology Policy since 2011, providing oversight on all House IT programs and leading many cross-organizational initiatives. Previously, he had served at the U.S. Government Printing Office as the Chief Technology Officer, Chief Information Officer, and acting Chief of Staff.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1k3"><em><span>Keynote Address</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1k3"><em><span>Keynote Address</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sharma">
       <strong>Siddhartha Sharma</strong>
     </p>
@@ -1252,19 +1220,18 @@ created: 1601325079
       <span>Serves as the Department of the Interior’s Section 508 Program Manager. As Interior's Section 508 Program Manager, he manages and oversees the implementation of Section 508 of the Rehabilitation Act of 1973 and ensures all IT products and services developed, procured, maintained and used by Interior are accessible to individuals with disabilities.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="singleton">
       <strong>Suzy Rosen Singleton</strong>
     </p>
@@ -1275,19 +1242,18 @@ created: 1601325079
       <span>Suzy Rosen Singleton, a native user of American Sign Language, is the Chief of the Disability Rights Office of the Consumer and Governmental Affairs Bureau of the Federal Communications Commission (FCC). Since 2016, she has overseen rulemaking proceedings and stakeholder activities to ensure accessible emergency communications, modern communication technologies, and video programming for millions of individuals with disabilities. Since 1992, her disability policy expertise has involved work as a litigator for the California Center for Law and the Deaf, government affairs counsel of the National Association of the Deaf, special education law compliance officer of the U.S. Department of Education, the ombuds of Gallaudet University, and an attorney with the FCC. Suzy is a member of the bar of the District of Columbia and holds a Juris Doctor from the UCLA School of Law, and a Bachelor of Science in Political Science from the University of California, Berkeley.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sirk">
       <strong>Betsy Sirk</strong>
     </p>
@@ -1301,19 +1267,18 @@ created: 1601325079
       <span>Ms. Sirk is a leading expert in developing and acquiring accessible technology and has presented to diverse audiences in multiple venues. Ms. Sirk also leads government-wide strategic sourcing efforts for workstations and mobility solutions as the Strategic Sourcing Program Manager from the NASA Solutions for Enterprise-Wide Procurement (SEWP) Program. Ms. Sirk has received numerous NASA and federal awards for program management and leadership. She graduated Summa Cum Laude from the University of Maryland with a Bachelors degree in Psychology and holds a Masters Degree with Distinction in Computer Science and Management Information Systems from the George Washington University.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="smith">
       <strong>Kevin Smith</strong>
     </p>
@@ -1342,19 +1307,18 @@ created: 1601325079
       <span>Smith has a bachelor of science degree in computer engineering from the University of Florida.</span>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d2w"><em><span>Welcome</span></em></a><span> (Day 2)</span>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2w"><em><span>Welcome</span></em></a><span> (Day 2)</span>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="willie-smith">
       <strong>Willie Smith</strong>
     </p>
@@ -1383,19 +1347,18 @@ created: 1601325079
       He has received numerous performance and honor awards including the FHWA Administrator&rsquo;s Award for Superior Achievement, the Navy&rsquo;s Civilian Meritorious Service award, the Secretary of the Navy&rsquo;s Acquisition Reform award, and the Department of Defense Acquisition Excellence Award.
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
       <strong>John Sullivan</strong>
     </p>
@@ -1406,10 +1369,10 @@ created: 1601325079
       <span>John Sullivan is the Director of the Government-wide Digital Strategies team within GSA’s Office of Government-wide Policy, which includes serving as the Director of the Government-wide IT Accessibility Program. In this capacity, John leads the effort to provide technical assistance to federal agencies for implementing Section 508 of the Rehabilitation Act. In addition to accessibility, John oversees the DotGov Domain Registration Program for all levels of government and recently oversaw the federal Data Center and Cloud Strategy Optimization Initiative. John has 32 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
     </p>
 <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda#d2c"><em><span>Wrap-up and Thank You</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2c"><em><span>Wrap-up and Thank You</span></em></a>
     </p>
   </div>
 </div>
@@ -1422,12 +1385,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="thurston">
       <strong>James Thurston</strong>
     </p>
@@ -1438,19 +1401,18 @@ created: 1601325079
       <span>James Thurston is an international technology policy leader. As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges. He has led efforts ranging from using technology to promote the inclusion and human rights of people with disabilities around the world to using technology to increase the economic competitiveness of aging industrial centers in the United States. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government. Prior to joining G3ict, Mr. Thurston was Director of International Accessibility Policy at Microsoft, where he developed and executed a worldwide strategy to expand the company’s outreach on disability and technology issues to governments and NGOs around the world. He has also served as a standards leader for an international technology industry association, an economic and technology advisor to a U.S. senator and vice presidential candidate, and a senior manager for a national technology and economic development initiative of the U.S. government. Mr. Thurston holds both a Master of Public Administration and an M.A. in East European Studies from the University of Washington, as well as a B.A. in International Affairs from the University of Maine.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="truesdell">
       <strong>Cammie Truesdell</strong>
     </p>
@@ -1461,7 +1423,7 @@ created: 1601325079
       <span>Cammie has worked in the accessibility field for over 12 years and has been a part of activities ranging from evaluating compliance, training development, acquisition reviews, project management, and many tasks in between. She also has experience in process development, gathering business requirements, and quality assurance testing. As a relatively new federal employee, Cammie looks forward to collaborating with accessibility connoisseurs internally and externally to benefit her organization’s accessibility program and those throughout the government.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
     </p>
   </div>
 </div>
@@ -1474,12 +1436,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">
       <strong>Mark Urban</strong>
     </p>
@@ -1490,7 +1452,7 @@ created: 1601325079
       <span>Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control, and Co-Chair of the US Department of Health and Human Services Section 508 Program.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
   </div>
 </div>
@@ -1503,12 +1465,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="vanderheiden">
       <strong>Gregg Vanderheiden</strong>
     </p>
@@ -1525,7 +1487,7 @@ created: 1601325079
       <span>Dr. Vanderheiden served on the FCC's Technological Advisory Council, was a member of the Telecommunications Access Advisory committee and the Electronic Information Technology Access Advisory Committee for the US Access Board, and served on the steering committee for the National Research Council's Planning Group on "Every Citizen Interfaces," co-authoring the National Research Councils, More Than Screen Deep Report. He also served on the Institute of Medicine’s Committee on Disability in America, the National Task Force on Technology and Disability, and the National Academies’ IOM committee on the Future of Disability in America. He is a past President of RESNA - the Rehabilitation Engineering and Assistive Technology Society of North America, and a Founding Fellow of the American Institute of Medical & Biological Engineering (AIMBE).</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
     </p>
   </div>
 </div>
@@ -1538,12 +1500,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="whittington">
       <strong>David Whittington</strong>
     </p>
@@ -1554,22 +1516,21 @@ created: 1601325079
       <span>David Whittington currently works for the US Census Bureau in the Application Development and Services Division (ADSD) as a Section 508 Subject Matter Expert where he helps administer enterprise Section 508 governance and training for the Bureau. Prior to joining the agency, he worked for the Defense Information Systems Agency (DoD-DISA) where he was a Test Director, helping the US military develop, maintain and operate mission critical Information Systems for the warfighter. Before that, he served as a QA Manager for Northrop Grumman where he helped establish Agile development best practices.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
     </p>
   </div>
 </div>
 
-* * *
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="williams">
       <strong>Dan Williams</strong>
     </p>
@@ -1580,7 +1541,7 @@ created: 1601325079
       <span>Dan Williams is the Product Lead of the U.S. Web Design System. Previous to working on USWDS, he worked as a designer at 18F, and with both the Harvard Law Library and the Berkman Klein Center For Internet & Society. He lives with his family in Portland, Oregon.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
     </p>
   </div>
 </div>
@@ -1593,12 +1554,12 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="row border">
-  <div class="col-xs-12 col-md-2">
-    <img src="/sites/default/files/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
   </div>
   
-  <div class="col-xs-12 col-md-10">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="ziebarth">
       <strong>Beth Ziebarth</strong>
     </p>
@@ -1609,7 +1570,8 @@ created: 1601325079
       <span>Beth Ziebarth has a personal interest and professional responsibility in advocacy for people with disabilities. She currently serves as the Director of Access Smithsonian. In her position, Beth develops and implements accessibility policy and guidelines for the Institution’s 19 museums, the National Zoo, and nine research centers, ensuring that the Smithsonian’s 30 million annual visitors experience a welcoming environment that accommodates individuals of all ages and abilities. Her work includes staff training on accessibility and disability topics, facility and program technical assistance, direct accessibility services, outreach and collaboration, and five signature programs for people with disabilities. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
     </p>
   </div>
+</div>
 </div>

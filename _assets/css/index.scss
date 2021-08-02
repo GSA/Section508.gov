@@ -28,6 +28,87 @@ $theme-show-notifications: false;
   Add your SASS/CSS here
 */
 
+.dataTables_filter [type="search"]{
+  float: none;
+  border-right: 2px solid;
+}
+
+.usa-section {
+  padding-top: 2rem;
+}
+
+a{
+  color: #2672de;
+}
+.card-tag {
+    font-size: .9rem;
+    margin-top: .2em;
+    margin-bottom: .15em;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #323a45;
+}
+
+.navy {
+    background-color: #144571;
+}
+.ltblue {
+    background-color: #EBEFF2;
+}
+.brown {
+    background-color: #645359;
+}
+.tan {
+    background-color: #F6F2F1;
+}
+.tan-breakout {
+    background-color: #F2ECDC;
+}
+.dark {
+    background-color: #343C3F;
+}
+.olive {
+    background-color: #747A55;
+}
+.lt-olive {
+    background-color: #F0EFE8;
+}
+.brown-breakout {
+    background-color: #95763E;
+}
+.maroon {
+    background-color: #4c1130;
+}
+.text-highlight {
+    background-color: #747A55;
+    color: #fff;
+    display: inline-block;
+    padding: 0 3px;
+}
+.cell {
+    margin-bottom: .2rem;
+    color: #fff;
+}
+.agenda-description {
+    border-left: .2rem solid #fff;
+    color: #1b1b1b;
+}
+.brown-breakout-header {
+    background-color: #8f7241;
+    color: #fff;
+    font-weight: bold;
+    border: 2px solid white;
+    padding: 5px;
+    min-height: 80px;
+}
+
+.fade_line {
+  margin: 25px 0;
+  height: 2px;
+  background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, #a9aeb1));
+}
+
 .usa-sidenav__item_nolink {
     color: #565c65;
     display: block;

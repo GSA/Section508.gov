@@ -5,7 +5,7 @@ type: article
 title: 'Making Agency Communications Accessible to Everyone'
 created: 1585848520
 tags: Design-and-Develop
-description: During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp; The following tips will help you to create accessible digital content.
+description: During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
 ---
 
 During an emergency, it is more important than usual for all people to have equal and timely access to urgent communications. Emergencies often disproportionately impact individuals with disabilities, so take extra care to ensure that your digital content conforms to Section 508.&nbsp;
@@ -63,9 +63,9 @@ Please contact us at <Section.508@gsa.gov> if you have questions or need additio
 This guidance was developed by the Federal CIO Council&rsquo;s Interagency Accessibility Community of Practice Leadership Team, and GSA&rsquo;s Government-wide IT Accessibility Program.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [2]: http://www.section508.gov/create
- [3]: https://section508.gov/content/guide-accessible-web-design-development
+ [2]: {{site.baseurl}}/create
+ [3]: {{site.baseurl}}/content/guide-accessible-web-design-development
  [4]: https://designsystem.digital.gov/
  [5]: https://www.federalrelay.us/
  [6]: https://www.federalrelay.us/rcc
- [7]: https://section508.gov/create/video-social
+ [7]: {{site.baseurl}}/create/video-social

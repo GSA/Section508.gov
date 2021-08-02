@@ -1,8 +1,8 @@
 ---
 sidenav: true
-layout: page
-permalink: create/spreadsheets/aed-cop-xlsx04
-type: page
+layout: video
+permalink: create/spreadsheets/aed-cop-xlsx04/
+type: training
 title: 'Module 4: Making Vital Background Information Accessible'
 created: 1579723865
 ---
@@ -17,7 +17,7 @@ created: 1579723865
 
 Learn how to ensure that vital information, created as a watermark or placed in the Header or Footer of the slide, can be accessed by assistive technology.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/XLS/aed-cop-xls-m04.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m04.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 
@@ -33,25 +33,23 @@ Learn how to ensure that vital information, created as a watermark or placed in 
   * [Module 9: Excluding Flashing Objects][9]
   * [Module 10: Saving in the .][10][xlsx][10][&nbsp;Format with a Descriptive Filename][10]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="padding-1">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020
 
- [1]: /create/spreadsheets/aed-cop-xlsx00
- [2]: /create/spreadsheets/aed-cop-xlsx01
- [3]: /create/spreadsheets/aed-cop-xlsx02
- [4]: /create/spreadsheets/aed-cop-xlsx03
- [5]: /create/spreadsheets/aed-cop-xlsx05
- [6]: /create/spreadsheets/aed-cop-xlsx06
- [7]: /create/spreadsheets/aed-cop-xlsx07
- [8]: /create/spreadsheets/aed-cop-xlsx08
- [9]: /create/spreadsheets/aed-cop-xlsx09
- [10]: /create/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
+ [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
+ [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
+ [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
+ [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09
+ [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10

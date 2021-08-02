@@ -22,7 +22,7 @@ With nearly [1 in 8][4] people in the U.S. known to have a disability, there is 
 
 The solution? [Universal Design][5]! This approach ensures that the complete user experience is captured at every stage of the implementation process, and it&rsquo;s gaining widespread popularity in the private sector. The result is a solution designed with all users in mind.
 
-_<img src="https://lh5.googleusercontent.com/ajzgJj0-GdBRY2wDetdTOUq_0gJkmWjri-xTmFIGmAX6Ic5hfPnc8_Q-jXvDFq-eaFU6ukh3EGaJk3dut1e5kUlOKTLHLSEbKMXfecN9ZtS0zlPOo6v74wZJkzwj7DCbZ-31kaSO" style="max-width: 90%;" />_
+_<img alt="Universal Design is the design and composition of an environment so that it can be accessed, understood and used to the greatest extent possible by all people regardless of their age, size, ability or disability" src="https://lh5.googleusercontent.com/ajzgJj0-GdBRY2wDetdTOUq_0gJkmWjri-xTmFIGmAX6Ic5hfPnc8_Q-jXvDFq-eaFU6ukh3EGaJk3dut1e5kUlOKTLHLSEbKMXfecN9ZtS0zlPOo6v74wZJkzwj7DCbZ-31kaSO" style="max-width: 90%;" />_
 
 <div>
   While Universal Design can be applied to any product, whether that be a building, service or tool, solutions designed using this approach serve not only the needs of a single minority group, but create an environment that is accessible and convenient for all. <strong>All in all, Universal Design is a good design.</strong>
@@ -58,4 +58,4 @@ To learn more about Universal Design and how executives and agencies can benefit
  [12]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p6
  [13]: http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html#p7
  [14]: https://www.w3.org/WAI/intro/wcag
- [15]: /blog/universal-design-whats-in-it-for-me
+ [15]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
