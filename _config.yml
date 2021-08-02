@@ -87,7 +87,7 @@ primary_navigation:
   - name: Testing
     url: /document-with-sidenav/
   - name: Training & Tools
-    url: "#"
+    url: "/training/"
 
 
 secondary_navigation:
