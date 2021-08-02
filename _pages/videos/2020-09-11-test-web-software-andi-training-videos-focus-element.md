@@ -79,3 +79,11 @@ Learn how to use the ANDI _Focusable Elements_ modules to analyze all focusable 
       </li>
    </ul>
 </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
+</div>
+<p><strong>Updated:</strong> September 2020</p>
