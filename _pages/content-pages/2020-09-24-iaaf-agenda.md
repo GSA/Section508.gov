@@ -522,7 +522,7 @@ created: 1600981839
       </ul>
     </div>
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <p class="text-large"><strong>Thank you</strong></p>
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>

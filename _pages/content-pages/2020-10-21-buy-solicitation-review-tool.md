@@ -52,7 +52,7 @@ The SRT is available to agency procurement officials and Section 508 Program Man
 If you have questions while using the application or have tool improvement recommendations, use the Contact Us link at the top of the page to send a message to the system administrators.&nbsp;
 
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <strong>Before You Go</strong> 
 <p>
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.

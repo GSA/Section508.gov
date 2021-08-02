@@ -110,7 +110,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
   * [Read the transcript for the Section 508 Federal Day event][42] (MS-Word, December 2017)
 
 <div class="border-base radius-lg border-1px">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <strong>Before You Go</strong> 
     <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.

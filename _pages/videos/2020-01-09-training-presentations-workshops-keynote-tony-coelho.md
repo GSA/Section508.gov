@@ -20,7 +20,7 @@ Congressman Coelho shares his experience sponsoring the Americans with Disabilit
 &nbsp;
 
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="panel-body padding-3">
+<div class="padding-1">
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
 </a>.</p>

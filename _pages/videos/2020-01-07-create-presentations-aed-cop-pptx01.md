@@ -37,7 +37,7 @@ Discover how to use the slide layout, themes and customized master slides to est
   * [Module 13: Saving in the .pptx Format with a Descriptive Filename][13]
 
 <div class="border-base radius-lg border-1px" style="margin-top:1.5em;">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <strong>Before You Go</strong>
     <p dir="ltr">
       We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
