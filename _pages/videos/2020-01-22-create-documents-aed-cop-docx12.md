@@ -17,7 +17,7 @@ created: 1579721353
 
 When choosing the color palette for your document, ensure there is enough color contrast between the foreground and background. Discover how to download and use a tool to ensure your text meets or exceeds minimum allowable color contrast.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/DOCX/aed-cop-docx-m12.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m12.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 
@@ -36,14 +36,12 @@ When choosing the color palette for your document, ensure there is enough color 
   * **Module 12: Create the Required Color Contrast**
   * [Module 13: Create Accessible Embedded Files][13]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020

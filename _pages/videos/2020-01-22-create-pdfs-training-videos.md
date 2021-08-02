@@ -18,7 +18,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
     <div class="col-xs-12 col-md-3">
       <a href="/create/pdfs/aed-cop-pdf00"><img alt="Module 0: Introduction & Background" src="/sites/default/files/PDF/aed-cop-pdf-m00.png" style="width:100%" /></a>
     </div>
-    
     <div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="/create/pdfs/aed-cop-pdf00">Module 0: Introduction & Background</a>
@@ -131,14 +130,12 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Author and Test Microsoft PowerPoint Presentations for Accessibility][2]
   * [How to Author and Test Microsoft Excel Worksheets for Accessibility][3]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020

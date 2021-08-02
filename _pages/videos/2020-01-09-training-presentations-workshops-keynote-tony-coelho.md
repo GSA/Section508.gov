@@ -15,17 +15,16 @@ created: 1578606586
 
 Congressman Coelho shares his experience sponsoring the Americans with Disabilities Act of 1990 and how living with epilepsy fueled his passion for this legislation.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/2019-IAAF-Keynote-Tony-Coelho.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/2019-IAAF-Keynote-Tony-Coelho.mp4" type="video/mp4" /></video>
 
 &nbsp;
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Reviewed/Updated**: January 2020

@@ -17,7 +17,7 @@ created: 1579723645
 
 When choosing the color palette for your slide designs, close attention must be given to ensure there is a strong color contrast between the foreground and background. See examples of good and bad color contrast, and the how to use tools to determine if your spreadsheet has sufficient contrast.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/XLS/aed-cop-xls-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m02.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 
@@ -33,14 +33,12 @@ When choosing the color palette for your slide designs, close attention must be 
   * [Module 9: Excluding Flashing Objects][9]
   * [Module 10: Saving in the .][10][xlsx][10][&nbsp;Format with a Descriptive Filename][10]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020

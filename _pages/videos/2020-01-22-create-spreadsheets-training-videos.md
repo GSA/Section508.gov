@@ -18,16 +18,13 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
     <div class="col-xs-12 col-md-3">
       <a href="/create/spreadsheets/aed-cop-xlsx00"><img alt="Module 0: Introduction & Background" src="/sites/default/files/XLS/aed-cop-xls-m00.jpg" style="width:100%" /></a>
     </div>
-    
     <div class="col-xs-12 col-md-9">
       <p class="video-title">
         <a href="/create/spreadsheets/aed-cop-xlsx00">Module 0: Introduction & Background</a>
       </p>
-      
       <p>
         Learn the minimum steps needed to ensure your Microsoft Excel worksheet is Section 508 conformant.
       </p>
-      
       <p>
         0h 3:48m
       </p>
@@ -263,14 +260,12 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC][2]
   * [How to Author and Test Microsoft PowerPoint Presentations for Accessibility][3]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020

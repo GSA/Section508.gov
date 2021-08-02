@@ -17,7 +17,7 @@ created: 1579721841
 
 Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust the reading and tab order, add alternative text to images and objects, and set document&rsquo;s language properties.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/PDF/aed-cop-pdf-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m03.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 
@@ -27,14 +27,12 @@ Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust 
   * **Module 3: Remediating PDFs for Accessibility**
   * [Module 4: Converting Scanned Documents into Section 508 Conformant PDFs][4]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="panel-body padding-3">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020
