@@ -49,11 +49,11 @@ To identify and design for the user needs of people with disabilities, designers
   * Conduct user testing on systems or apps that the organization/agency already uses, to show IT staff how users interact with those systems;
   * Ask your agency’s Employees with Disabilities Resource Group for ideas on how to demonstrate IT user needs of employees with disabilities, and involve them in user testing;
   * Help IT developers, designers, and User Experience (UX) staff become familiar with accessibility testing. Here are some ideas:
-  * Invite them to view user testing of a familiar app or system;
-  * Provide instruction on how to address common accessibility issues;
-  * Ensure developers have access to accessibility development and testing tools;
-  * Establish a loan program for licenses of accessibility tools; or
-  * Share accessibility testing training resources with developers.
+    * Invite them to view user testing of a familiar app or system;
+    * Provide instruction on how to address common accessibility issues;
+    * Ensure developers have access to accessibility development and testing tools;
+    * Establish a loan program for licenses of accessibility tools; or
+    * Share accessibility testing training resources with developers.
 
 ## Update Policies
 
@@ -61,9 +61,9 @@ To identify and design for the user needs of people with disabilities, designers
 
   * Identify the needs of individuals with disabilities and incorporate them into all designs, acquisition plans, and development and modification activities.
   * If using an agile methodology:
-  * Build functionality requirements into individual development sprints;
-  * Monitor continuously; and
-  * Actively manage sprint backlogs of requirements to ensure user needs of people with disabilities are not forgotten or neglected.
+    * Build functionality requirements into individual development sprints;
+    * Monitor continuously; and
+    * Actively manage sprint backlogs of requirements to ensure user needs of people with disabilities are not forgotten or neglected.
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
@@ -73,5 +73,5 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
 **Reviewed/Updated:** March 2019
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality
- [2]: /create/universal-design
- [3]: /manage/laws-and-policies/update-agency-policies
+ [2]: {{site.baseurl}}/create/universal-design
+ [3]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies

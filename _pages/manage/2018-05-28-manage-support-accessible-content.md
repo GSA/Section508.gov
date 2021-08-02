@@ -16,17 +16,16 @@ The [Revised 508 Standards][1] clarify which electronic content must be accessib
   * [Publish Accessible Content][6]
   * [Track and Report Conformance][7]
 
-This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.< br/>
+This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
   
-
 
 **Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /manage/understand-scope-technical-requirements
- [3]: /manage/teach-staff-about-accessibility
- [4]: /create
- [5]: /test
- [6]: /manage/publish-accessible-content
- [7]: /manage/track-report-conformance
+ [2]: {{site.baseurl}}/manage/understand-scope-technical-requirements
+ [3]: {{site.baseurl}}/manage/teach-staff-about-accessibility
+ [4]: {{site.baseurl}}/create
+ [5]: {{site.baseurl}}/test
+ [6]: {{site.baseurl}}/manage/publish-accessible-content
+ [7]: {{site.baseurl}}/manage/track-report-conformance

@@ -11,7 +11,19 @@ created: 1527582783
 
 ## **The Questions**
 
-[What are the reporting requirements?][2] [Who is required to complete an assessment?][3] [How will the information be used?][4] [How should scores be calculated?][5] [What testing methodologies should be used?][6] [How should contractor Full Time Equivalents (FTEs) be estimated?][7] [What if the agency can&rsquo;t provide all the data?][8] 
+[What are the reporting requirements?][2] 
+
+[Who is required to complete an assessment?][3] 
+
+[How will the information be used?][4]
+
+[How should scores be calculated?][5] 
+
+[What testing methodologies should be used?][6]
+
+[How should contractor Full Time Equivalents (FTEs) be estimated?][7] 
+
+[What if the agency can&rsquo;t provide all the data?][8] 
 
 <h3 id="reporting requirements">
   <strong>What are the reporting requirements?</strong>
@@ -49,7 +61,7 @@ created: 1527582783
   <strong>What testing methodologies should be used?</strong>
 </h3>
 
-<span>There is no requirement for a specific testing methodology at this time, &nbsp;but the Accessibility Community of Practice encourages the use of robust and repeatable testing procedures such as the <a href="/test/trusted-tester">Trusted Tester Program</a>. Each agency should perform testing per their current processes and procedures and report accordingly.</span>
+<span>There is no requirement for a specific testing methodology at this time, &nbsp;but the Accessibility Community of Practice encourages the use of robust and repeatable testing procedures such as the <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Program</a>. Each agency should perform testing per their current processes and procedures and report accordingly.</span>
 
 <h3 id="FTEs">
   <strong>How should contractor Full Time Equivalents (FTEs) be estimated?</strong>
@@ -63,11 +75,8 @@ created: 1527582783
 
 <span>The default assumption for missing data, or null values, is zero. In other words, if you do not provide a number of FTEs, a number of items tested, or a pass rate percentage, the default assumption in any data analysis will be zero. Please enter zero whenever zero represents the true value.</span>
 
-&nbsp;
-
 <span>Visit the </span>[<span>Monitor and Report Progress</span>][11] <span>page to learn more about the OMB reporting process.</span>
 
-&nbsp;
 
 **Reviewed/Updated**<span>: February 2019</span>
 
@@ -81,4 +90,4 @@ created: 1527582783
  [8]: #if not provided
  [9]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
  [10]: mailto:Section.508@gsa.gov
- [11]: /manage/reporting/
+ [11]: {{site.baseurl}}manage/reporting/

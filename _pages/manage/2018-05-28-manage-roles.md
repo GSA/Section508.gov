@@ -17,8 +17,6 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 
 [Reporting][3]
 
-&nbsp;
-
 <table class="roles-table table table-responsive">
   <tbody>
     <tr>
