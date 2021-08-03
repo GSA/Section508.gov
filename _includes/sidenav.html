@@ -24,7 +24,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {% assign current = true %}
             {% endif %}
             <li class="usa-sidenav__item">
-                <a href="{{site.baseurl}}/{{ href }}" {% if current %} class="usa-current" {% endif %}>
+                <a href="{% if link.external %}{{ href }}{% else %} {{ href | prepend: site.baseurl }} {% endif %}" {% if current %} class="usa-current" {% endif %}>
                     {{ link.name }}
                 </a>
                 {% if link.children %}
@@ -35,7 +35,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                     {% assign currentChild = true %}
                     {% endif %}
                     <li class="usa-sidenav__item">
-                        <a href="{{site.baseurl}}/{{ children.url }}" {% if currentChild %} class="usa-current" {% endif %}>
+                        <a href="{% if children.external %}{{ children.url }}{% else %} {{ children.url | prepend: site.baseurl }} {% endif %}" {% if currentChild %} class="usa-current" {% endif %}>
                             {{ children.name }}
                         </a>
                         {% if children.grandchildren %}
@@ -46,7 +46,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                              {% assign currentGrandchild = true %}
                              {% endif %}
                            <li class="usa-sidenav__item">
-                             <a href="{{site.baseurl}}/{{ grandchildren.url }}" {% if currentGrandchild %} class="usa-current" {% endif %}>
+                             <a href="{% if grandchildren.external %}{{ grandchildren.url }}{% else %} {{ grandchildren.url | prepend: site.baseurl }} {% endif %}" {% if currentGrandchild %} class="usa-current" {% endif %}>
                                {{ grandchildren.name }}
                              </a>
                            </li>

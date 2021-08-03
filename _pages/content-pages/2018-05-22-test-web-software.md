@@ -31,12 +31,12 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
 <div class="clearfix">
   <div class="col-md-3 col-xs-12">
-    <a href="/test/web-software/andi-training-videos"><img alt="Accessible Name & Description Inspector (ANDI) Tool Overview" class="img-responsive" src="/sites/default/files/andi-00-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
+    <a href="{{site.baseurl}}/test/web-software/andi-training-videos"><img alt="Accessible Name & Description Inspector (ANDI) Tool Overview" class="img-responsive" src="/sites/default/files/andi-00-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
   </div>
   
   <div class="col-md-9 col-xs-12">
     <p>
-      <a href="/test/web-software/andi-training-videos"><strong>Accessible Name & Description Inspector (ANDI) Tool Overview</strong></a>
+      <a href="{{site.baseurl}}/test/web-software/andi-training-videos"><strong>Accessible Name & Description Inspector (ANDI) Tool Overview</strong></a>
     </p>
 <p>
       Get a basic overview on how to use the Accessible Name & Description Inspector tool (ANDI) used to test websites and web-based applications for accessibility. ANDI is a free tool developed by the Social Security Administration.
@@ -51,12 +51,12 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
 <div class="clearfix">
   <div class="col-md-3 col-xs-12">
-    <a href="/test/web-software/andi-training-videos/color-contrast-analyzer"><img alt="How to Test Color Contrast using the Color Contrast Analyser" class="img-responsive" src="/sites/default/files/styles/medium/public/andi-14-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
+    <a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer"><img alt="How to Test Color Contrast using the Color Contrast Analyser" class="img-responsive" src="/sites/default/files/styles/medium/public/andi-14-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
   </div>
   
   <div class="col-md-9 col-xs-12">
     <p>
-      <a href="/test/web-software/andi-training-videos/color-contrast-analyzer"><strong>How to Test Color Contrast using the Color Contrast Analyser</strong></a>
+      <a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer"><strong>How to Test Color Contrast using the Color Contrast Analyser</strong></a>
     </p>
 <p>
       Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI.
@@ -97,7 +97,7 @@ The resources on this page were created through interagency collaborative effort
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: http://www.w3.org/WAI/intro/wcag.php
- [3]: /test/trusted-tester
+ [3]: {{site.baseurl}}/test/trusted-tester
  [4]: https://section508coordinators.github.io/ICTTestingBaseline/
  [5]: https://www.ssa.gov/accessibility/andi/help/install.html
  [6]: https://github.com/ThePacielloGroup/CCA-Win/releases/tag/2.5.0
@@ -106,11 +106,11 @@ The resources on this page were created through interagency collaborative effort
  [9]: https://www.w3.org/WAI/perspectives/
  [10]: https://www.w3.org/WAI/mobile/overlap.html
  [11]: https://www.w3.org/WAI/Tools/
- [12]: /create/universal-design
+ [12]: {{site.baseurl}}/create/universal-design
  [13]: https://pages.18f.gov/accessibility/
  [14]: http://www.digitalgov.gov/services/mobile-application-testing-program/
  [15]: http://www.ssa.gov/accessibility/bpl/default.htm
  [16]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
- [17]: /test
- [18]: /test/about-testing-tools
+ [17]: {{site.baseurl}}/test
+ [18]: {{site.baseurl}}/test/about-testing-tools
  [19]: https://www.cio.gov/about/accessibility-cop/

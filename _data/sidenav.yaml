@@ -78,16 +78,22 @@ training:
     children:
       - name: Section 508 Awareness
         url: "https://s3.amazonaws.com/training.section508.gov/508-training/courses/new/index.html"
+        external: true
       - name: 'Accessibility of ICT: An Overview for Government Executives'
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/exec-overview/index.html'
+        external: true
       - name: "Section 508: What It Is and Why It's Important?"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/508-basics/index.html'
+        external: true
       - name: Micro-Purchases and Section 508 Requirements
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
+        external: true
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/playbook/index.html'
+        external: true
       - name: "Procuring Section 508 Conformant ICT Products and Services"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/procurement-new/index.html'
+        external: true
       - name: "Training via FAI"
         url: 'training#FAI'
   - name: Video Training
@@ -182,6 +188,19 @@ training:
             url: create/spreadsheets/aed-cop-xlsx09
           - name: "Module 10: Saving in the .xlsx Format with a Descriptive Filename"
             url: create/spreadsheets/aed-cop-xlsx10
+      - name: PDFs
+        url: '#'
+        grandchildren:
+          - name: "Module 0: Introduction & Background"
+            url: 'create/pdfs/aed-cop-pdf00'
+          - name: "Module 1: What is a PDF?"
+            url: 'create/pdfs/aed-cop-pdf01'
+          - name: "Module 2: Testing a PDF for Accessibility"
+            url: 'create/pdfs/aed-cop-pdf02'
+          - name: "Module 3: Remediating PDFs for Accessibility"
+            url: 'create/pdfs/aed-cop-pdf03'
+          - name: "Module 4: Converting Scanned Documents into Section 508 Conformant PDFs"
+            url: 'create/pdfs/aed-cop-pdf04'
       - name: ANDI
         url: '#'
         grandchildren:
@@ -228,12 +247,16 @@ training:
         grandchildren:
           - name: "An Introduction to Universal Design for Content Creators"
             url: 'https://www.youtube.com/watch?v=acKd-q2I3f0'
+            external: true
           - name: "An Introduction to Universal Design for Developers"
             url: 'https://www.youtube.com/watch?v=ryfd3fmZHCY'
+            external: true
           - name: "An Introduction to Universal Design for Managers"
             url: 'https://www.youtube.com/watch?v=d1X5XSEErdY'
+            external: true
           - name: "An Introduction to Universal Design for Procurement Professionals"
             url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
+            external: true
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media'
   - name: Events home
