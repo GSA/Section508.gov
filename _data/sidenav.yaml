@@ -78,16 +78,22 @@ training:
     children:
       - name: Section 508 Awareness
         url: "https://s3.amazonaws.com/training.section508.gov/508-training/courses/new/index.html"
+        external: true
       - name: 'Accessibility of ICT: An Overview for Government Executives'
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/exec-overview/index.html'
+        external: true
       - name: "Section 508: What It Is and Why It's Important?"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/508-basics/index.html'
+        external: true
       - name: Micro-Purchases and Section 508 Requirements
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
+        external: true
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/playbook/index.html'
+        external: true
       - name: "Procuring Section 508 Conformant ICT Products and Services"
         url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/procurement-new/index.html'
+        external: true
       - name: "Training via FAI"
         url: 'training#FAI'
   - name: Video Training
@@ -128,139 +134,156 @@ training:
         url: '#'
         grandchildren:
           - name: "Module 0: Introduction & Background"
-            url: create/presentations/aed-cop-pptx00
+            url: create/presentations/aed-cop-pptx00/
           - name: "Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order"
-            url: create/presentations/aed-cop-pptx01
+            url: create/presentations/aed-cop-pptx01/
           - name: "Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient"
-            url: create/presentations/aed-cop-pptx02
+            url: create/presentations/aed-cop-pptx02/
           - name: "Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text"
-            url: create/presentations/aed-cop-pptx03
+            url: create/presentations/aed-cop-pptx03/
           - name: "Module 4: Formatting Columns Correctly"
-            url: create/presentations/aed-cop-pptx04
+            url: create/presentations/aed-cop-pptx04/
           - name: "Module 5: Formatting Lists Properly"
-            url: create/presentations/aed-cop-pptx05
+            url: create/presentations/aed-cop-pptx05/
           - name: "Module 6: Using Built-In Features to Create Data Tables"
-            url: create/presentations/aed-cop-pptx06
+            url: create/presentations/aed-cop-pptx06/
           - name: "Module 7: Adding Alternative Text to Images and Other Objects"
-            url: create/presentations/aed-cop-pptx07
+            url: create/presentations/aed-cop-pptx07/
           - name: "Module 8: Creating Links with Unique and Descriptive Names"
-            url: create/presentations/aed-cop-pptx08
+            url: create/presentations/aed-cop-pptx08/
           - name: "Module 9: Making Vital Background Information Accessible"
-            url: create/presentations/aed-cop-pptx09
+            url: create/presentations/aed-cop-pptx09/
           - name: "Module 10: Formatting Text for the Intended Language"
-            url: create/presentations/aed-cop-pptx10
+            url: create/presentations/aed-cop-pptx10/
           - name: "Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate"
-            url: create/presentations/aed-cop-pptx11
+            url: create/presentations/aed-cop-pptx11/
           - name: "Module 12: Excluding Flashing Objects"
-            url: create/presentations/aed-cop-pptx12
+            url: create/presentations/aed-cop-pptx12/
           - name: "Module 13: Saving in the .pptx Format with a Descriptive Filename"
-            url: create/presentations/aed-cop-pptx13
+            url: create/presentations/aed-cop-pptx13/
       - name: Spreadsheet
         url: '#'
         grandchildren:
           - name: "Creating PowerPoint Templates"
-            url: create/presentations/creating-powerpoint-templates
+            url: create/presentations/creating-powerpoint-templates/
           - name: "Module 0: Introduction & Background"
-            url: create/spreadsheets/aed-cop-xlsx00
+            url: create/spreadsheets/aed-cop-xlsx00/
           - name: "Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order"
-            url: create/spreadsheets/aed-cop-xlsx01
+            url: create/spreadsheets/aed-cop-xlsx01/
           - name: "Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient"
-            url: create/spreadsheets/aed-cop-xlsx02
+            url: create/spreadsheets/aed-cop-xlsx02/
           - name: "Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text"
-            url: create/spreadsheets/aed-cop-xlsx03
+            url: create/spreadsheets/aed-cop-xlsx03/
           - name: "Module 4: Making Vital Background Information Accessible"
-            url: create/spreadsheets/aed-cop-xlsx04
+            url: create/spreadsheets/aed-cop-xlsx04/
           - name: "Module 5: Using Built-In Features to Create Data Tables"
-            url: create/spreadsheets/aed-cop-xlsx05
+            url: create/spreadsheets/aed-cop-xlsx05/
           - name: "Module 6: Adding Alternative Text to Images and Other Objects"
-            url: create/spreadsheets/aed-cop-xlsx06
+            url: create/spreadsheets/aed-cop-xlsx06/
           - name: "Module 7: Creating Links with Unique and Descriptive Names"
-            url: create/spreadsheets/aed-cop-xlsx07
+            url: create/spreadsheets/aed-cop-xlsx07/
           - name: "Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate"
-            url: create/spreadsheets/aed-cop-xlsx08
+            url: create/spreadsheets/aed-cop-xlsx08/
           - name: "Module 9: Excluding Flashing Objects"
-            url: create/spreadsheets/aed-cop-xlsx09
+            url: create/spreadsheets/aed-cop-xlsx09/
           - name: "Module 10: Saving in the .xlsx Format with a Descriptive Filename"
-            url: create/spreadsheets/aed-cop-xlsx10
+            url: create/spreadsheets/aed-cop-xlsx10/
+      - name: PDFs
+        url: '#'
+        grandchildren:
+          - name: "Module 0: Introduction & Background"
+            url: 'create/pdfs/aed-cop-pdf00/'
+          - name: "Module 1: What is a PDF?"
+            url: 'create/pdfs/aed-cop-pdf01/'
+          - name: "Module 2: Testing a PDF for Accessibility"
+            url: 'create/pdfs/aed-cop-pdf02/'
+          - name: "Module 3: Remediating PDFs for Accessibility"
+            url: 'create/pdfs/aed-cop-pdf03/'
+          - name: "Module 4: Converting Scanned Documents into Section 508 Conformant PDFs"
+            url: 'create/pdfs/aed-cop-pdf04/'
       - name: ANDI
         url: '#'
         grandchildren:
           - name: "Module 1: Overview of ANDI"
-            url: test/web-software/andi-training-videos/overview
+            url: test/web-software/andi-training-videos/overview/
           - name: "Module 2: Focus Element"
-            url: test/web-software/andi-training-videos/focus-element
+            url: test/web-software/andi-training-videos/focus-element/
           - name: "Module 3: Links & Buttons"
-            url: test/web-software/andi-training-videos/links-buttons
+            url: test/web-software/andi-training-videos/links-buttons/
           - name: "Module 4: Images"
-            url: test/web-software/andi-training-videos/images
+            url: test/web-software/andi-training-videos/images/
           - name: "Module 5: Structure Headings"
-            url: test/web-software/andi-training-videos/structure-headings
+            url: test/web-software/andi-training-videos/structure-headings/
           - name: "Module 6: Heading Levels"
-            url: test/web-software/andi-training-videos/heading-levels
+            url: test/web-software/andi-training-videos/heading-levels/
           - name: "Module 7: Structure Lists"
-            url: test/web-software/andi-training-videos/structure-lists
+            url: test/web-software/andi-training-videos/structure-lists/
           - name: "Module 8: Page Language"
-            url: test/web-software/andi-training-videos/page-language
+            url: test/web-software/andi-training-videos/page-language/
           - name: "Module 9: Language of Parts"
-            url: test/web-software/andi-training-videos/language-parts
+            url: test/web-software/andi-training-videos/language-parts/
           - name: "Module 10: Page Title"
-            url: test/web-software/andi-training-videos/andi-page-title
+            url: test/web-software/andi-training-videos/andi-page-title/
           - name: "Module 11: Frames"
-            url: test/web-software/andi-training-videos/frames
+            url: test/web-software/andi-training-videos/frames/
           - name: "Module 12: iFrames"
-            url: test/web-software/andi-training-videos/iframes
+            url: test/web-software/andi-training-videos/iframes/
           - name: "Module 13: Color Contrast"
-            url: test/web-software/andi-training-videos/color-contrast
+            url: test/web-software/andi-training-videos/color-contrast/
           - name: "Module 14: Color Contrast Analyzer"
-            url: test/web-software/andi-training-videos/color-contrast-analyzer
+            url: test/web-software/andi-training-videos/color-contrast-analyzer/
           - name: "Module 15: Data Tables"
-            url: test/web-software/anditraining-videos/data-tables
+            url: test/web-software/anditraining-videos/data-tables/
           - name: "Module 16: Layout Tables"
-            url: test/web-software/andi-training-videos/layout-tables
+            url: test/web-software/andi-training-videos/layout-tables/
           - name: "Module 17: CSS Content and Positioning"
-            url: test/web-software/andi-training-videos/css-content-positioning
+            url: test/web-software/andi-training-videos/css-content-positioning/
           - name: "Module 18: Live Regions"
-            url: test/web-software/andi-training-videos/live-regions
+            url: test/web-software/andi-training-videos/live-regions/
       - name: Color Contrast Analyzer
-        url: 'test/web-software/andi-training-videos/color-contrast-analyzer'
+        url: 'test/web-software/andi-training-videos/color-contrast-analyzer/'
       - name: Universal Design
         url: '#'
         grandchildren:
           - name: "An Introduction to Universal Design for Content Creators"
             url: 'https://www.youtube.com/watch?v=acKd-q2I3f0'
+            external: true
           - name: "An Introduction to Universal Design for Developers"
             url: 'https://www.youtube.com/watch?v=ryfd3fmZHCY'
+            external: true
           - name: "An Introduction to Universal Design for Managers"
             url: 'https://www.youtube.com/watch?v=d1X5XSEErdY'
+            external: true
           - name: "An Introduction to Universal Design for Procurement Professionals"
             url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
+            external: true
       - name: Creating Accessible Media
-        url: 'create/synchronized-media/creating-accessible-media'
+        url: 'create/synchronized-media/creating-accessible-media/'
   - name: Events home
-    url: 'event-calendar'
+    url: 'event-calendar/'
   - name: Recurring Events
     url: '#'
     children:
       - name: IAAF
-        url: 'iaaf'
+        url: 'iaaf/'
       - name: IAAF archives
         url: '#'
       - name: Presentations and Workshop Materials
-        url: 'training/presentations-workshops'
+        url: 'training/presentations-workshops/'
   - name: Section 508 Tools
     url: '#'
     children:
       - name: Tools Home
-        url: 'tools'
+        url: 'tools/'
       - name: Testing Tools for Web
-        url: 'test/web-software'
+        url: 'test/web-software/'
       - name: Accessibility Requirements Tool (ART)
-        url: 'art'
+        url: 'art/'
       - name: Solicitation Review Tool (SRT)
-        url: 'buy/solicitation-review-tool'
+        url: 'buy/solicitation-review-tool/'
       - name: Find Your 508 Coordinator
-        url: 'tools/coordinator-listing'
+        url: 'tools/coordinator-listing/'
       - name: View a Playbook
-        url: 'tools/playbooks'
+        url: 'tools/playbooks/'
       - name: Glossary of Terms
-        url: 'content/glossary'
+        url: 'content/glossary/'

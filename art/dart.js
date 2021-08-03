@@ -93,7 +93,7 @@ function ICTSolicationsExample()
   var h1nstart = ICTSolicationExampleHTML.search("<h1>");
   var h1nend = ICTSolicationExampleHTML.search("</h1>");
   var titlename = ICTSolicationExampleHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
 detailsWindow.document.close();
 }
 function DARTFAQS()
@@ -119,7 +119,7 @@ function SolicitationLanguageOverview()
     var h1nstart = SolicitationLanguageOverviewHTML.search("<h1>");
   var h1nend = SolicitationLanguageOverviewHTML.search("</h1>");
   var titlename = SolicitationLanguageOverviewHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
 detailsWindow.document.close();
 }
 function UpdateLog()
@@ -136,7 +136,7 @@ function Requirements508Info()
     var h1nstart = Requirements508InfoHTML.search("<h1>");
   var h1nend = Requirements508InfoHTML.search("</h1>");
   var titlename = Requirements508InfoHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | When do I need to include Section 508 requirements in my solicitation?";
+  detailsWindow.document.title = "ART | When do I need to include Section 508 requirements in my solicitation?";
 detailsWindow.document.close();
 }
 function Requirement508OverviewPage()
@@ -147,7 +147,7 @@ function Requirement508OverviewPage()
     var h1nstart = Requirement508OverviewPageHTML.search("<h1>");
   var h1nend = Requirement508OverviewPageHTML.search("</h1>");
   var titlename = Requirement508OverviewPageHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | "+ titlename;
+  detailsWindow.document.title = "ART | "+ titlename;
 detailsWindow.document.close();
 }
 
@@ -753,7 +753,7 @@ function goStep5()
           $("#body").steps("setStep", 4);
           document.getElementById('nav').innerHTML = "";
           document.getElementById('step4question7').style.backgroundColor = "";
-          document.getElementById('body-p-4').innerHTML = "<hr><h2>Generate Applicable Section 508 Standards Report</h2><p>This list of applicable 508 standards is only provided to assist with project planning, market research, and alternatives analysis.  By selecting ok, you acknowledge that this language will not be used for solicitation purposes.</p><p><button onclick='write508Standards()'>Generate Applicable Section 508 Standards Report</button></p><hr><p />Thank you for using the DART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
+          document.getElementById('body-p-4').innerHTML = "<hr><h2>Generate Applicable Section 508 Standards Report</h2><p>This list of applicable 508 standards is only provided to assist with project planning, market research, and alternatives analysis.  By selecting ok, you acknowledge that this language will not be used for solicitation purposes.</p><p><button onclick='write508Standards()'>Generate Applicable Section 508 Standards Report</button></p><hr><p />Thank you for using the ART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
           document.getElementById('nav').innerHTML = "";
         }
         else if(currentselection == 'marketresearch')
@@ -761,7 +761,7 @@ function goStep5()
           $("#body").steps("setStep", 4);
           document.getElementById('nav').innerHTML = "";
           document.getElementById('step4question7').style.backgroundColor = "";
-          document.getElementById('body-p-4').innerHTML = "<hr><h2>Generate list of applicable Section 508 Standards for commercially available products</h2><p>Use this resource to help determine what Section 508 standards apply to commercially available technology products.&nbsp; This information can be helpful with evaluating Accessibility Conformance Reports (ACRs) provided by vendors.</p><p>This information can also be helpful with</p><ul><li>Developing user stories</li><li>Developing test plans</li><li>Selecting Section 508 testing tools</li></ul><button id='508standardsbutton' onclick='write508Standards()'>Generate Applicable Section 508 Standards</button><p><hr><p />Thank you for using the DART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
+          document.getElementById('body-p-4').innerHTML = "<hr><h2>Generate list of applicable Section 508 Standards for commercially available products</h2><p>Use this resource to help determine what Section 508 standards apply to commercially available technology products.&nbsp; This information can be helpful with evaluating Accessibility Conformance Reports (ACRs) provided by vendors.</p><p>This information can also be helpful with</p><ul><li>Developing user stories</li><li>Developing test plans</li><li>Selecting Section 508 testing tools</li></ul><button id='508standardsbutton' onclick='write508Standards()'>Generate Applicable Section 508 Standards</button><p><hr><p />Thank you for using the ART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
           document.getElementById('nav').innerHTML = "";
         }
         else if(currentselection == 'RFI')
@@ -769,7 +769,7 @@ function goStep5()
           $("#body").steps("setStep", 4);
           document.getElementById('nav').innerHTML = "";
           document.getElementById('step4question7').style.backgroundColor = "";
-          document.getElementById('body-p-4').innerHTML = "<hr><p><h2>Generate Section 508 Language for Requests for Information (RFI)</h2><p>Use this resource to help with obtaining Section 508 information on technology products and services from potential offerors.</p><button id='508RFIbutton' onclick='write508RFI()'>Generate Section 508 RFI Language</button><hr><p />Thank you for using the DART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
+          document.getElementById('body-p-4').innerHTML = "<hr><p><h2>Generate Section 508 Language for Requests for Information (RFI)</h2><p>Use this resource to help with obtaining Section 508 information on technology products and services from potential offerors.</p><button id='508RFIbutton' onclick='write508RFI()'>Generate Section 508 RFI Language</button><hr><p />Thank you for using the ART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
           // <button onclick='writeRequirements()'>Generate Section 508 Requirements List</button>
           document.getElementById('nav').innerHTML = "";
         }
@@ -778,7 +778,7 @@ function goStep5()
           $("#body").steps("setStep", 4);
           document.getElementById('nav').innerHTML = "";
           document.getElementById('step4question7').style.backgroundColor = "";
-          document.getElementById('body-p-4').innerHTML = "<hr><h2>Section 508 Requirements for Your Solicitation</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ol><li>Ensure this entire DART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by DART.</li><li>Include the Section 508 requirements generated by DART in your Statement of Work, Performance Work Statement, or Statement of Objectives.These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements.If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ol><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology products required to be offered by the vendor in their proposals, as well as requirements to ensure technology services provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><button id='508contractbutton' onclick='writeContractLanguage()'>Generate Section 508 Requirements</button><hr><p />Thank you for using the DART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
+          document.getElementById('body-p-4').innerHTML = "<hr><h2>Section 508 Requirements for Your Solicitation</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ol><li>Ensure this entire ART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART.</li><li>Include the Section 508 requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives.These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements.If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ol><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology products required to be offered by the vendor in their proposals, as well as requirements to ensure technology services provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><button id='508contractbutton' onclick='writeContractLanguage()'>Generate Section 508 Requirements</button><hr><p />Thank you for using the ART tool.<p />For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='#'>accessibility@hq.dhs.gov</a><p /><p /><button onclick='location.reload()'>Exit</button>";
 
           document.getElementById('nav').innerHTML = "";
         }
@@ -2208,7 +2208,7 @@ function OfficialCommunicationsExample()
   var h1nstart = OfficialCommunicationsExamplesHTML.search("<h1>");
   var h1nend = OfficialCommunicationsExamplesHTML.search("</h1>");
   var titlename = OfficialCommunicationsExamplesHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
 detailsWindow.document.close();
 }
 function ApplyAll(string)
@@ -2355,7 +2355,7 @@ function startDART()
 // }
 function DARTUserGuide()
 {
-   window.location.href='DART User Guide.docx';
+   window.location.href='ART User Guide.docx';
 }
 function move(number)
 {
@@ -2387,7 +2387,7 @@ function startQuestionnare()
   window.onbeforeunload = function() {
     return "This page is asking you to confirm that you want to leave - data you have entered may not be saved.";
 };
-  document.title = "DART 2.1 | Identify Products and Services";
+  document.title = "ART 2.1 | Identify Products and Services";
   document.getElementById('body').innerHTML = "";
 	document.getElementById('nav').innerHTML = "";
 	move(3);
@@ -2407,31 +2407,31 @@ $(function ()
         if(currentIndex === 0)
         {
           goStep1();
-          document.title = "DART 2.1 | Identify Products and Services";
+          document.title = "ART 2.1 | Identify Products and Services";
           navButtons(null, "goStep2Question2()")
         }
         else if(currentIndex === 1)
         {
         //   goStep2Exceptions();
-          document.title = "DART 2.1 | Section 508 Applicability";
+          document.title = "ART 2.1 | Section 508 Applicability";
           document.getElementById("nav").innerHTML = '<div class="prevButton"><button onclick="goStep1()">Return to Step 1</button></div><div class="nextButton"><button class="nextButton" onclick="validateStep2()">Next</button></div>';
         }
         else if(currentIndex === 2)
         {
         //   goStep3();
-          document.title = "DART 2.1 | Service Requirements";
+          document.title = "ART 2.1 | Service Requirements";
           navButtons("goStep2Exceptions()", "goStep4()");
         }
         else if(currentIndex === 3)
         {
         //   goStep4();
-          document.title = "DART 2.1 | Project Accessibility Risk";
+          document.title = "ART 2.1 | Project Accessibility Risk";
           navButtons("goStep3()", "goStep5()");
         }
         else if(currentIndex === 4)
         {
             // goStep5();
-            document.title = "DART 2.1 | Output";
+            document.title = "ART 2.1 | Output";
         }
       }
 		});
@@ -2452,7 +2452,7 @@ $(function ()
       var h1nstart = OutputHTML.search("<h1>");
   var h1nend = OutputHTML.search("</h1>");
   var titlename = OutputHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | Section 508 Solicitation Language Output";
+  detailsWindow.document.title = "ART | Section 508 Solicitation Language Output";
 detailsWindow.document.close();
    }
    function writeRequirements()
@@ -2477,7 +2477,7 @@ detailsWindow.document.close();
 
            //export to doc 
       OutputHTML += '<script>function getFormattedTime() {    var today = new Date();    var y = today.getFullYear();    var m = today.getMonth() + 1;    var d = today.getDate();    var h = today.getHours();    var mi = today.getMinutes();    var s = today.getSeconds();    return y + "-" + m + "-" + d + "-" + h + "-" + mi + "-" + s;}<\/script>';
-      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'DART 508 Standards Applicability Report.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
+      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'ART 508 Standards Applicability Report.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
 
       var detailsWindow = window.open('', '');
       detailsWindow.document.write(DisclaimerHTML);
@@ -2488,7 +2488,7 @@ detailsWindow.document.close();
       var h1nstart = OutputHTML.search("<h1>");
   var h1nend = OutputHTML.search("</h1>");
   var titlename = OutputHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
       detailsWindow.document.close(); 
 } else {
     
@@ -2503,7 +2503,7 @@ detailsWindow.document.close();
     {
       generateGoBackButton();
       OutputHTML += "<button onclick='SelectAllandCopy()'>Select all and copy</button><button onclick='Export2Doc(\"ABC123\");'>Export this report as .doc</button>";
-      OutputHTML += "<div id='ABC123'><p /><h1>Section 508 Standards Applicability Report</h1><p>This Section 508 Standards Applicability Report is provided to help you identify, early in your project or acquisition, what Section 508 standards may apply to your technology products and service deliverables.&nbsp; This report can be included in an overall list of project requirements and can be used to inform user story development.</p><p>Section 508 of the Rehabilitation Act (classified to <a id='nocss' href='https://uscode.house.gov/view.xhtml?req=(title:29%20section:794d%20edition:prelim)%20OR%20(granuleid:USC-prelim-title29-section794d)&amp;f=treesort&amp;edition=prelim&amp;num=0&amp;jumpTo=true' target='_blank'>29 U.S.C. &sect; 794d</a>) requires that when Federal agencies develop, procure, maintain, or use information and communications technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public with disabilities must be afforded access to and use of information and data comparable to that of Federal employees and members of the public without disabilities.</p><p>The Section 508 standards are defined in 36&nbsp;C.F.R.&nbsp;&sect;&nbsp;1194.1 &amp; Appendixes A, C &amp; D, and available at <a id='nocss' href='https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5' target='_blank'>https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5</a>. &nbsp;&nbsp;</p><p>The applicable standards listed below are based on the answers you provided in the DHS Accessibility Requirements Tool (DART).&nbsp; They are a subset of all the standards defined in the Section 508 regulations.</p><p><span style='color:red;''>CAUTION:&nbsp; This report should not be used in a solicitation.</span>&nbsp; Use the Solicitation Development section of DART Home page to obtain solicitation language.</p><hr>";
+      OutputHTML += "<div id='ABC123'><p /><h1>Section 508 Standards Applicability Report</h1><p>This Section 508 Standards Applicability Report is provided to help you identify, early in your project or acquisition, what Section 508 standards may apply to your technology products and service deliverables.&nbsp; This report can be included in an overall list of project requirements and can be used to inform user story development.</p><p>Section 508 of the Rehabilitation Act (classified to <a id='nocss' href='https://uscode.house.gov/view.xhtml?req=(title:29%20section:794d%20edition:prelim)%20OR%20(granuleid:USC-prelim-title29-section794d)&amp;f=treesort&amp;edition=prelim&amp;num=0&amp;jumpTo=true' target='_blank'>29 U.S.C. &sect; 794d</a>) requires that when Federal agencies develop, procure, maintain, or use information and communications technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public with disabilities must be afforded access to and use of information and data comparable to that of Federal employees and members of the public without disabilities.</p><p>The Section 508 standards are defined in 36&nbsp;C.F.R.&nbsp;&sect;&nbsp;1194.1 &amp; Appendixes A, C &amp; D, and available at <a id='nocss' href='https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5' target='_blank'>https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5</a>. &nbsp;&nbsp;</p><p>The applicable standards listed below are based on the answers you provided in the DHS Accessibility Requirements Tool (ART).&nbsp; They are a subset of all the standards defined in the Section 508 regulations.</p><p><span style='color:red;''>CAUTION:&nbsp; This report should not be used in a solicitation.</span>&nbsp; Use the Solicitation Development section of ART Home page to obtain solicitation language.</p><hr>";
       generate508Standards();
       OutputHTML += '</div>';
       OutputHTML += '<script> function SelectAllandCopy(){ var x = document.getElementById("ABC123").innerText;  var range = document.createRange(); range.selectNode(document.getElementById("ABC123"));   window.getSelection().addRange(range);    document.execCommand("copy");     alert("text copied, go ahead and paste!") }  <\/script>';
@@ -2511,7 +2511,7 @@ detailsWindow.document.close();
                 OutputHTML += '<script>function getFormattedTime() {    var today = new Date();    var y = today.getFullYear();    var m = today.getMonth() + 1;    var d = today.getDate();    var h = today.getHours();    var mi = today.getMinutes();    var s = today.getSeconds();    return y + "-" + m + "-" + d + "-" + h + "-" + mi + "-" + s;}<\/script>';
                       //print instructions only
       OutputHTML += '<script> function printDiv(divName) {     var printContents = document.getElementById(divName).innerHTML;     var originalContents = document.body.innerHTML;     document.body.innerHTML = printContents;     window.print();     document.body.innerHTML = originalContents;}  <\/script>';
-      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'DART Section 508 Standards Applicability Report.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
+      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'ART Section 508 Standards Applicability Report.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
 
       var detailsWindow = window.open('', '');
       detailsWindow.document.write(DisclaimerHTML);
@@ -2522,7 +2522,7 @@ detailsWindow.document.close();
       var h1nstart = OutputHTML.search("<h1>");
   var h1nend = OutputHTML.search("</h1>");
   var titlename = OutputHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
       detailsWindow.document.close(); 
     } else  {}     
   }
@@ -2558,7 +2558,7 @@ detailsWindow.document.close();
 
         //export to doc 
         OutputHTML += '<script>function getFormattedTime() {    var today = new Date();    var y = today.getFullYear();    var m = today.getMonth() + 1;    var d = today.getDate();    var h = today.getHours();    var mi = today.getMinutes();    var s = today.getSeconds();    return y + "-" + m + "-" + d + "-" + h + "-" + mi + "-" + s;}<\/script>';
-      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'DART 508 RFI Language.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
+      OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'ART 508 RFI Language.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
 
       var detailsWindow = window.open('', '');
       // detailsWindow.document.write(DisclaimerHTML);
@@ -2569,7 +2569,7 @@ detailsWindow.document.close();
       var h1nstart = OutputHTML.search("<h1>");
   var h1nend = OutputHTML.search("</h1>");
   var titlename = OutputHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | Recommended language for inclusion in a Request for Information (RFI)";
+  detailsWindow.document.title = "ART | Recommended language for inclusion in a Request for Information (RFI)";
 detailsWindow.document.close(); 
 } else {
     
@@ -3347,7 +3347,7 @@ detailsWindow.document.close();
     OutputHTML += "<button onclick='SelectAllandCopy()'>Select all solicitation language and copy</button><button onclick='Export2Doc(\"ABC123\");'>Export Solicitation language as .doc</button><button onclick='printDiv(\"noselect\")'>Print Instructions</button>";
     
     OutputHTML += '<style>#noselect{ -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-color:lightyellow;  padding-left: 20px; padding-right: 20px; margin-top: 15px;} </style>';
-    OutputHTML += "<div id='noselect'><h2>Instructions to Procurement Officials</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ul><li>Ensure this entire DART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by DART.</li><li>Include the Section 508 requirements generated by DART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements. If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ul><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology producxts offered in the solicitation, as well as requirements to ensure technology services <provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><p>Thank you for using the DART tool.</p><p>For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='mailto:accessibility@hq.dhs.gov'>accessibility@hq.dhs.gov</a></p></div>";
+    OutputHTML += "<div id='noselect'><h2>Instructions to Procurement Officials</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ul><li>Ensure this entire ART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART.</li><li>Include the Section 508 requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements. If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ul><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology producxts offered in the solicitation, as well as requirements to ensure technology services <provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><p>Thank you for using the ART tool.</p><p>For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='mailto:accessibility@hq.dhs.gov'>accessibility@hq.dhs.gov</a></p></div>";
     
     OutputHTML += "<div id='ABC123'><h1><strong>1.&nbsp;Section 508 Requirements (include in the SOW, PWS, or SOO)</strong></h1><p>Section 508 of the Rehabilitation Act (classified to <a id='nocss' href='https://uscode.house.gov/view.xhtml?req=(title:29%20section:794d%20edition:prelim)%20OR%20(granuleid:USC-prelim-title29-section794d)&amp;f=treesort&amp;edition=prelim&amp;num=0&amp;jumpTo=true' target='_blank'>29 U.S.C. &sect; 794d</a>) requires that when Federal agencies develop, procure, maintain, or use information and communications technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public with disabilities must be afforded access to and use of information and data comparable to that of Federal employees and members of the public without disabilities.</p><p>All products, platforms and services delivered as part of this work statement that, by definition, are deemed ICT shall conform to the revised regulatory implementation of Section 508 Standards, which are located at 36&nbsp;C.F.R.&nbsp;&sect;&nbsp;1194.1 &amp; Appendixes A, C &amp; D, and available at <a href='https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5' target='_blank'>https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5</a>. In the revised regulation, ICT replaced the term electronic and information technology (EIT) used in the original 508 standards.&nbsp; ICT includes IT and other equipment.</p><p>Exceptions for this work statement have been determined by DHS and only the exceptions described herein may be applied. Any request for additional exceptions shall be sent to the Contracting Officer and a determination will be made according to DHS Directive 139-05, Office of Accessible Systems and Technology, dated November 12, 2018 and DHS Instruction 139-05-001, Managing the Accessible Systems and Technology Program, dated November 20, 2018, or any successor publication.</p>";
 
@@ -4346,7 +4346,7 @@ detailsWindow.document.close();
       OutputHTML += '<script> function printDiv(divName) {     var printContents = document.getElementById(divName).innerHTML;     var originalContents = document.body.innerHTML;     document.body.innerHTML = printContents;     window.print();     document.body.innerHTML = originalContents;}  <\/script>';
         //export to doc 
         OutputHTML += '<script>function getFormattedTime() {    var today = new Date();    var y = today.getFullYear();    var m = today.getMonth() + 1;    var d = today.getDate();    var h = today.getHours();    var mi = today.getMinutes();    var s = today.getSeconds();    return y + "-" + m + "-" + d + "-" + h + "-" + mi + "-" + s;}<\/script>';
-        OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'DART 508 Solicitation Language.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
+        OutputHTML += '<script> function Export2Doc(element, filename = ""){    var preHtml = "<html xmlns:o=\'urn:schemas-microsoft-com:office:office\' xmlns:w=\'urn:schemas-microsoft-com:office:word\' xmlns=\'http://www.w3.org/TR/REC-html40\'><head><meta charset=\'utf-8\'><title>Export HTML To Doc</title></head><body>";    var postHtml = "</body></html>";    var html = preHtml+document.getElementById("ABC123").innerHTML+postHtml;     var blob = new Blob([\'ufeff\', html], {        type: \'application/msword\'    });         var url = \'data:application/vnd.ms-word;charset=utf-8,\' + encodeURIComponent(html); filename = filename?filename+\'.doc\':\'ART 508 Solicitation Language.doc\'; var downloadLink = document.createElement("a");   document.body.appendChild(downloadLink);     if(navigator.msSaveOrOpenBlob ){        navigator.msSaveOrOpenBlob(blob, filename);    }else{ downloadLink.href = url;        downloadLink.download = filename;        downloadLink.click();    }   document.body.removeChild(downloadLink);} <\/script>';
    } // end of function generateContractHTML
    function showModal()
    {
