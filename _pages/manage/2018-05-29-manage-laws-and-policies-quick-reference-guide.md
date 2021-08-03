@@ -155,11 +155,11 @@ Questions? Email us at <section.508@gsa.gov>.
 &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: {{site.baseurl}}/#changes
- [3]: {{site.baseurl}}/#policies
- [4]: {{site.baseurl}}/#requirements
- [5]: {{site.baseurl}}/#language
- [6]: {{site.baseurl}}/#develop
+ [2]: #changes
+ [3]: #policies
+ [4]: #requirements
+ [5]: #language
+ [6]: #develop
  [7]: http://www.w3.org/TR/WCAG20/
  [8]: {{site.baseurl}}/manage/program-roadmap
  [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
