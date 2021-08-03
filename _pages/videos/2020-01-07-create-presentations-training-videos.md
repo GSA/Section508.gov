@@ -280,7 +280,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   </div>
   
   <hr />
-</div>
 
 ## Related Training Videos
 
