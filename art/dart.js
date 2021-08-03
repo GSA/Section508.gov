@@ -106,7 +106,7 @@ function DARTFAQS()
     var h1nstart = DARTFAQSHTML.search("<h1>");
   var h1nend = DARTFAQSHTML.search("</h1>");
   var titlename = DARTFAQSHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "DART | " + titlename;
+  detailsWindow.document.title = "ART | " + titlename;
 detailsWindow.document.close();
 }
 function SolicitationLanguageOverview()
@@ -141,6 +141,7 @@ detailsWindow.document.close();
 }
 function Requirement508OverviewPage()
 {
+  var detailsWindow = window.open ('', '');
   detailsWindow.document.write(Requirement508OverviewPageHTML);
     detailsWindow.focus();
     detailsWindow.document.documentElement.setAttribute('lang','en');
@@ -2298,7 +2299,7 @@ function goHome()
 {
   // document.getElementById("myBar").innerHTML = '0%';
   // document.getElementById("body").innerHTML = '<iframe src ="homepage.html" title="DART Home Page" width="100%" height="100%" style="border:none;"></iframe>';
-  document.getElementById("body").innerHTML = '<div class="dart"></div><div class="row">  <div class="column" style="border-right: 5px solid white;"><h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">What to Expect</h2><ul><li> ART will ask you a few simple questions about what IT products and services you are buying or building. No knowledge of Section 508 or accessibility is required.</li><li>After you answer the questions, ART will determine how the Section 508 standards apply to the activity you are performing, and provide you with tailored language along with instructions.</li><li>On the output page, ART will provide you the option to copy the language or export it to a Microsoft Word document.</li></ul></div>     <div class="column" style=""> <h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">Resources</h2><ul><li><a href="javascript:UpdateLog()">What’s New in ART?</a></li><li><a href="http://section508testing.org/playbook/resources/dart-guide/DART%202.1%20Orientation%20Guide.pptm">ART User Guide</a></li><li><a href="javascript:Requirements508Info()">When do I need to include Section 508 requirements in my solicitation?</a></li><li><a href="javascript:ICTSolicationsExample()">What is information and communications technology (ICT)?</a></li><li><a href="JavaScript:Requirement508OverviewPage()">Section 508 Solicitation Language Overview</a></li><li><a href="javascript:DARTFAQS()">Frequently Asked Questions</a></li></ul></div>     <div class="column" style="border-left: 5px solid white;">    <h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">Get Help</h2><div id="gethelp"><p><strong>For help using ART</strong> Section.508@gsa.gov <br /><p><strong>For help understanding the Section 508 requirements </strong><br />contact your <a href="https://www.section508.gov/tools/coordinator-listing#usdhs" target="_blank"><u> Section 508 Program Manager</p></u></a></p></div></div></div><hr>';
+  document.getElementById("body").innerHTML = '<div class="dart"></div><div class="row">  <div class="column" style="border-right: 5px solid white;"><h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">What to Expect</h2><ul><li> ART will ask you a few simple questions about what IT products and services you are buying or building. No knowledge of Section 508 or accessibility is required.</li><li>After you answer the questions, ART will determine how the Section 508 standards apply to the activity you are performing, and provide you with tailored language along with instructions.</li><li>On the output page, ART will provide you the option to copy the language or export it to a Microsoft Word document.</li></ul></div>     <div class="column" style=""> <h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">Resources</h2><ul><li><a href="javascript:UpdateLog()">What’s New in ART?</a></li><li><a href="http://section508testing.org/playbook/resources/dart-guide/DART%202.1%20Orientation%20Guide.pptm">ART User Guide</a></li><li><a href="javascript:Requirements508Info()">When do I need to include Section 508 requirements in my solicitation?</a></li><li><a href="javascript:ICTSolicationsExample()">What is information and communications technology (ICT)?</a></li><li><a href="JavaScript:Requirement508OverviewPage()">Section 508 Solicitation Language Overview</a></li><li><a href="javascript:DARTFAQS()">Frequently Asked Questions</a></li></ul></div>     <div class="column" style="border-left: 5px solid white;">    <h2 style="padding-bottom:10px; background-color: #02356a;color: white;text-align: center;padding: 5px; margin-top: 0px;">Get Help</h2><div id="gethelp"><p><strong>For help using ART</strong> Section.508@gsa.gov <br /><p><strong>For help understanding the Section 508 requirements </strong><br />contact your <a href="{{site.baseurl}}/tools/coordinator-listing#usdhs" target="_blank"><u> Section 508 Program Manager</p></u></a></p></div></div></div><hr>';
   document.getElementById("body").innerHTML += '<div class="dart"> <fieldset> <legend><h1>How can ART help you?</h1></legend>Click one of the options below and then click the [START] button.<section> <div class="radio-wrapper"> <input type="radio" id="control_01" name="select" value="requirements"> <label for="control_01"> <h2>Project Planning</h2> <p>I want to identify the applicable Section 508 standards I need to address during project planning.</p> </label></div><div class="radio-wrapper"> <input type="radio" id="control_03" name="select" value="RFI"> <label for="control_03"> <h2>Market Research</h2> <p>I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for Information (RFI).</p> </label></div><div class="radio-wrapper"> <input type="radio" id="control_05" name="select" value="solication"> <label for="control_05"> <h2>Solicitation Development</h2> <p>I want to obtain Section 508 requirements to include in my statement of work.</p> </label></div></section> <div class="startButton"><button onclick="startDART()">Start</button></fieldset></div> ';
   // <li><a href="http://section508testing.org/playbook/conduct_market_research.html" target="_blank">View Market Research Guidelines</a></li><li><a href="javascript:DARTUserGuide()">User Guide</a></li>
 
@@ -2387,7 +2388,7 @@ function startQuestionnare()
   window.onbeforeunload = function() {
     return "This page is asking you to confirm that you want to leave - data you have entered may not be saved.";
 };
-  document.title = "ART 2.1 | Identify Products and Services";
+  document.title = "ART | Identify Products and Services";
   document.getElementById('body').innerHTML = "";
 	document.getElementById('nav').innerHTML = "";
 	move(3);
@@ -2407,31 +2408,31 @@ $(function ()
         if(currentIndex === 0)
         {
           goStep1();
-          document.title = "ART 2.1 | Identify Products and Services";
+          document.title = "ART  | Identify Products and Services";
           navButtons(null, "goStep2Question2()")
         }
         else if(currentIndex === 1)
         {
         //   goStep2Exceptions();
-          document.title = "ART 2.1 | Section 508 Applicability";
+          document.title = "ART | Section 508 Applicability";
           document.getElementById("nav").innerHTML = '<div class="prevButton"><button onclick="goStep1()">Return to Step 1</button></div><div class="nextButton"><button class="nextButton" onclick="validateStep2()">Next</button></div>';
         }
         else if(currentIndex === 2)
         {
         //   goStep3();
-          document.title = "ART 2.1 | Service Requirements";
+          document.title = "ART  | Service Requirements";
           navButtons("goStep2Exceptions()", "goStep4()");
         }
         else if(currentIndex === 3)
         {
         //   goStep4();
-          document.title = "ART 2.1 | Project Accessibility Risk";
+          document.title = "ART  | Project Accessibility Risk";
           navButtons("goStep3()", "goStep5()");
         }
         else if(currentIndex === 4)
         {
             // goStep5();
-            document.title = "ART 2.1 | Output";
+            document.title = "ART | Output";
         }
       }
 		});
@@ -3347,7 +3348,7 @@ detailsWindow.document.close();
     OutputHTML += "<button onclick='SelectAllandCopy()'>Select all solicitation language and copy</button><button onclick='Export2Doc(\"ABC123\");'>Export Solicitation language as .doc</button><button onclick='printDiv(\"noselect\")'>Print Instructions</button>";
     
     OutputHTML += '<style>#noselect{ -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; background-color:lightyellow;  padding-left: 20px; padding-right: 20px; margin-top: 15px;} </style>';
-    OutputHTML += "<div id='noselect'><h2>Instructions to Procurement Officials</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ul><li>Ensure this entire ART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART.</li><li>Include the Section 508 requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements. If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ul><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology producxts offered in the solicitation, as well as requirements to ensure technology services <provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><p>Thank you for using the ART tool.</p><p>For questions or assistance, please contact the DHS Accessibility Help Desk at:<br />202-447-0440 (voice)<br />202-447-0582 (fax)<br /><a href='mailto:accessibility@hq.dhs.gov'>accessibility@hq.dhs.gov</a></p></div>";
+    OutputHTML += "<div id='noselect'><h2>Instructions to Procurement Officials</h2><p>For help with understanding these requirements, refer to the <a href='http://section508testing.org/playbook/resources/dart-guide/' target='_blank'>Section 508 Solicitation Language Overview.</a></p><p><strong><u>Instructions</u></strong></p><ul><li>Ensure this entire ART output is shared with the Contracting Official.</li><li>If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART.</li><li>Include the Section 508 requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying.&nbsp;&nbsp; (<em>do not copy the instructions into the solicitation</em>).</li><li>Review the Section 508 requirements. If you have any questions about the requirements, contact the DHS Accessibility Help Desk.</li></ul><p><strong><u>Why is this important?</u></strong></p><p>By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology producxts offered in the solicitation, as well as requirements to ensure technology services <provided will support the agency&rsquo;s ability to comply with the Section 508 law.</p><p><strong>For help using ART</strong> Section.508@gsa.gov <br /><p><strong>For help understanding the Section 508 requirements </strong><br />contact your <a href="{{site.baseurl}}/tools/coordinator-listing#usdhs" target="_blank"><u> Section 508 Program Manager</p></div>";
     
     OutputHTML += "<div id='ABC123'><h1><strong>1.&nbsp;Section 508 Requirements (include in the SOW, PWS, or SOO)</strong></h1><p>Section 508 of the Rehabilitation Act (classified to <a id='nocss' href='https://uscode.house.gov/view.xhtml?req=(title:29%20section:794d%20edition:prelim)%20OR%20(granuleid:USC-prelim-title29-section794d)&amp;f=treesort&amp;edition=prelim&amp;num=0&amp;jumpTo=true' target='_blank'>29 U.S.C. &sect; 794d</a>) requires that when Federal agencies develop, procure, maintain, or use information and communications technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public with disabilities must be afforded access to and use of information and data comparable to that of Federal employees and members of the public without disabilities.</p><p>All products, platforms and services delivered as part of this work statement that, by definition, are deemed ICT shall conform to the revised regulatory implementation of Section 508 Standards, which are located at 36&nbsp;C.F.R.&nbsp;&sect;&nbsp;1194.1 &amp; Appendixes A, C &amp; D, and available at <a href='https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5' target='_blank'>https://www.ecfr.gov/cgi-bin/text-idx?SID=e1c6735e25593339a9db63534259d8ec&mc=true&node=pt36.3.1194&rgn=div5</a>. In the revised regulation, ICT replaced the term electronic and information technology (EIT) used in the original 508 standards.&nbsp; ICT includes IT and other equipment.</p><p>Exceptions for this work statement have been determined by DHS and only the exceptions described herein may be applied. Any request for additional exceptions shall be sent to the Contracting Officer and a determination will be made according to DHS Directive 139-05, Office of Accessible Systems and Technology, dated November 12, 2018 and DHS Instruction 139-05-001, Managing the Accessible Systems and Technology Program, dated November 20, 2018, or any successor publication.</p>";
 
