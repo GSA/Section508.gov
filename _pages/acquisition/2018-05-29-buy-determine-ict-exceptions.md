@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/determine-ict-exceptions/
-type: page
+type: acquisition
 title: 'Step 2: Determine ICT Exceptions'
 created: 1527569078
 ---

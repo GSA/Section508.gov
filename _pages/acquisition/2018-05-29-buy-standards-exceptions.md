@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/standards-exceptions/
-type: page
+type: acquisition
 title: '508 Standards and Exceptions Chart & Examples'
 created: 1527568596
 ---

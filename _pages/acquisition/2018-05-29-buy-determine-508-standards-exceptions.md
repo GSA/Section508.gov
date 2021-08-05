@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/determine-508-standards-exceptions/
-type: page
+type: acquisition
 title: 'Determine 508 Standards and Exceptions'
 created: 1527568791
 ---

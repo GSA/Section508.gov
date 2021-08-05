@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/determine-ict-standards/
-type: page
+type: acquisition
 title: 'Step 3: Determine Which Standards Apply'
 created: 1527569242
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/inventory-your-ict/
-type: page
+type: acquisition
 title: 'Step 1: Inventory Your ICT'
 created: 1527568977
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/request-accessibility-information/
-type: page
+type: acquisition
 title: 'Request Accessibility Information from Vendors & Contractors'
 created: 1527567946
 ---

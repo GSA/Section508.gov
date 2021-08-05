@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/accessibility-requirements-tool/webinar/
-type: page
+type: acquisition
 title: 'Accessibility Requirements Tool (ART) Webinar'
 created: 1586283223
 ---

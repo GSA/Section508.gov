@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/define-accessibility-criteria/
-type: page
+type: acquisition
 title: 'Define Accessibility Criteria in Contracts'
 created: 1527181796
 ---

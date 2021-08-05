@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: buy/solicitation-review-tool/
-type: page
+type: acquisition
 title: 'Solicitation Review Tool (SRT)'
 created: 1603286031
 ---
