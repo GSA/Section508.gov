@@ -375,10 +375,10 @@ create:
       - name: Create Accessible Documents
         url: 'create/documents/'
       - name: Authoring Guides
-        url: 'https://assets.section508.gov/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx/'
+        url: 'https://assets.section508.gov/files/MS+Word+2013+Basic+Authoring+and+Testing+Guide.docx'
         external: 'true'
       - name: Checklist
-        url: 'https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx/'
+        url: 'https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx'
         external: 'true'
       - name: Video Training
         url: 'create/documents/aed-cop-docx00/'
