@@ -43,16 +43,15 @@ The best practices in this section are supported by peer review and consensus am
   
 **Reviewed/Updated:** July 2018
 
-&nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /create/applicability-conformance
- [3]: /create/testing-for-developers
- [4]: /create/authoring-tools
- [5]: /create/developer-training
- [6]: /create/web-content
- [7]: /content/guide-accessible-web-design-development
- [8]: https://section508.gov/create/universal-design
+ [2]: {{site.baseurl}}/create/applicability-conformance
+ [3]: {{site.baseurl}}/create/testing-for-developers
+ [4]: {{site.baseurl}}/create/authoring-tools
+ [5]: {{site.baseurl}}/create/developer-training
+ [6]: {{site.baseurl}}/create/web-content
+ [7]: {{site.baseurl}}/content/guide-accessible-web-design-development
+ [8]: {{site.baseurl}}/create/universal-design
  [9]: https://accessibility.digital.gov/
  [10]: https://designsystem.digital.gov/
- [11]: /contact-us
+ [11]: {{site.baseurl}}/contact-us
