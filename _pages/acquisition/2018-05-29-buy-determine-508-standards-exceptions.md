@@ -17,13 +17,9 @@ Follow the steps below to determine how the standards apply to IT procurement an
   * [Step 2: Determine ICT Exceptions][3]
   * [Step 3: Determine Which Standards Apply][4]
 
-  
-  
-
-
 **Reviewed/Updated**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /buy/inventory-your-ict
- [3]: /buy/determine-ict-exceptions
- [4]: /buy/determine-ict-standards
+ [2]: {{site.baseurl}}/buy/inventory-your-ict
+ [3]: {{site.baseurl}}/buy/determine-ict-exceptions
+ [4]: {{site.baseurl}}/buy/determine-ict-standards

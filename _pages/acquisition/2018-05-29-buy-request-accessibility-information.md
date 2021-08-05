@@ -150,10 +150,10 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
 # &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /content/files/508-standards-applicability-checklist.docx
- [3]: /buy/determine-508-standards-exceptions
- [4]: /content/files/standards-exceptions-chart.docx
- [5]: /buy/standards-exceptions
- [6]: /sell/vpat
- [7]: /buy
- [8]: /buy/accessibility-requirements-tool
+ [2]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
+ [3]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+ [4]: https://assets.section508.gov/files/standards-exceptions-chart.docx
+ [5]: {{site.baseurl}}/buy/standards-exceptions
+ [6]: {{site.baseurl}}/sell/vpat
+ [7]: {{site.baseurl}}/buy
+ [8]: {{site.baseurl}}/buy/accessibility-requirements-tool

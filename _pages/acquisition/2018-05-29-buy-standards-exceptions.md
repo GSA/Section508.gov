@@ -23,25 +23,21 @@ The following examples show how to complete the chart for different ICT items.
 
 ### **Website Example** 
 
-<table class="table table-responsive">
-  <tbody>
+<table class="usa-table usa-table--borderless">
+ <thead>
     <tr>
-      <td>
-        <p>
-          <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What applies?</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What functionality is covered?</strong>
-        </p>
-      </td>
+      <th>
+        Exceptions, Functional Performance Criteria and Technical Requirements
+      </th>
+    <th>
+        What applies?
+      </th>
+    <th>
+       What functionality is covered?
+      </th>
     </tr>
+</thead>
+  <tbody>
 <tr>
       <td>
         <p>
@@ -147,28 +143,23 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-### **  
-Software Example**
+### **Software Example**
 
-<table class="table table table-responsive">
-  <tbody>
+<table class="usa-table usa-table--borderless">
+<thead>
     <tr>
-      <td>
-        <p>
-          <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What applies?</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What functionality is covered?</strong>
-        </p>
-      </td>
+      <th>
+        Exceptions, Functional Performance Criteria and Technical Requirements
+      </th>
+    <th>
+        What applies?
+      </th>
+    <th>
+       What functionality is covered?
+      </th>
     </tr>
+</thead>  
+<tbody>
 <tr>
       <td>
         <p>
@@ -289,28 +280,23 @@ Software Example**
   </tbody>
 </table>
 
-### **  
-Kiosk (Complex) Example**
+### **Kiosk (Complex) Example**
 
-<table class="table table-responsive">
-  <tbody>
+<table class="usa-table usa-table--borderless">
+  <thead>
     <tr>
-      <td>
-        <p>
-          <strong>Exceptions, Functional Performance Criteria and Technical Requirements</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What applies?</strong>
-        </p>
-      </td>
-    <td>
-        <p>
-          <strong>What functionality is covered?</strong>
-        </p>
-      </td>
+      <th>
+        Exceptions, Functional Performance Criteria and Technical Requirements
+      </th>
+    <th>
+        What applies?
+      </th>
+    <th>
+       What functionality is covered?
+      </th>
     </tr>
+</thead>
+<tbody>
 <tr>
       <td>
         <p>
@@ -443,11 +429,11 @@ Kiosk (Complex) Example**
   </tbody>
 </table>
 
-</br></br>See [Request Accessibility Information from Vendors and Contractors][3] to learn more about standards and exceptions for ICT items.</br>
+See [Request Accessibility Information from Vendors and Contractors][3] to learn more about standards and exceptions for ICT items.
 
-_These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._</br>
+_These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._
 
-**Reviewed/Updated**: May 2018</br></br>
+**Reviewed/Updated**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: /content/files/standards-exceptions-chart.docx

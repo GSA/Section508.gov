@@ -224,7 +224,7 @@ Contact your agency’s [Section 508 Coordinator][15] or email us at <section.50
 **Updated/Reviewed**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /content/files/508-standards-applicability-checklist.docx
+ [2]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
  [3]: #0
  [4]: #1
  [5]: #2
@@ -233,8 +233,8 @@ Contact your agency’s [Section 508 Coordinator][15] or email us at <section.50
  [8]: #5
  [9]: #6
  [10]: #7
- [11]: /buy/accessibility-requirements-tool
- [12]: /buy/determine-508-standards-exceptions
- [13]: /buy/determine-ict-exceptions
- [14]: /buy/determine-ict-standards
- [15]: /tools/coordinator-listing
+ [11]: {{site.baseurl}}/buy/accessibility-requirements-tool
+ [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+ [13]: {{site.baseurl}}/buy/determine-ict-exceptions
+ [14]: {{site.baseurl}}/buy/determine-ict-standards
+ [15]: {{site.baseurl}}/tools/coordinator-listing

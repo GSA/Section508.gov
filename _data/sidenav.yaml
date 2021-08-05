@@ -355,7 +355,7 @@ acquisition:
             url: 'buy/determine-ict-standards/'
       - name: Request Accessibility Information from Vendors & Contractors
         url: 'buy/request-accessibility-information/'
-      - name: Solicitation Review Tool (SRT)
+      - name: 'Solicitation Review Tool (SRT)'
         url: 'buy/solicitation-review-tool/'
       - name: 508 Standards and Exceptions Chart & Examples
         url: 'buy/standards-exceptions/'

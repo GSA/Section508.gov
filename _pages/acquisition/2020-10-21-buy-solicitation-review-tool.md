@@ -7,14 +7,9 @@ title: 'Solicitation Review Tool (SRT)'
 created: 1603286031
 ---
 
-<div>
-  <div class="col-xs-12 col-md-9">
-    <h1 class="main">
-      Solicitation Review Tool (SRT)
-    </h1>
-  </div>
-  
-  <div class="col-xs-12 col-md-3 start-button">
+<div class="grid-row">
+
+  <div class="desktop:grid-col-4 start-button">
     <a href="https://srt-client-dev.app.cloud.gov/"><img alt="start using srt" class="img-responsive" src="https://assets.section508.gov/files/start-using-srt.png" title="Start using SRT" /></a>
   </div>
 </div>
@@ -54,8 +49,7 @@ If you have questions while using the application or have tool improvement recom
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
   <div class="padding-1">
     <strong>Before You Go</strong> 
-<p>
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
     </p>
   </div>
 </div>

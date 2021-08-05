@@ -195,17 +195,14 @@ See the other steps in this process:
 
 Contact your agency’s [Section 508 Coordinator][9] or email us at <section.508@gsa.gov> with questions.
 
-  
-
-
 **Updated/Reviewed**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /buy/determine-508-standards-exceptions
- [3]: /content/files/508-standards-applicability-checklist.docx
- [4]: determine-ict-exceptions
+ [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions
+ [3]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
+ [4]: {{site.baseurl}}/buy/determine-ict-exceptions
  [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
- [6]: /buy/inventory-your-ict
- [7]: /buy/determine-ict-exceptions
- [8]: /buy/accessibility-requirements-tool
- [9]: /tools/coordinator-listing
+ [6]: {{site.baseurl}}/buy/inventory-your-ict
+ [7]: {{site.baseurl}}/buy/determine-ict-exceptions
+ [8]: {{site.baseurl}}/buy/accessibility-requirements-tool
+ [9]: {{site.baseurl}}/tools/coordinator-listing
