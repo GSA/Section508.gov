@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: test/about-testing-tools/
-type: page
+type: test
 title: 'About Testing Tools'
 created: 1527032627
 ---
@@ -48,13 +48,9 @@ Note, the AED COP Committee includes representatives from the Departments of Def
 
   * [Test for Accessibility][4]
 
-&nbsp;
-
 **Reviewed/Updated:** May 2018
 
-&nbsp;
-
- [1]: https://section508.gov/test
+ [1]: {{site.baseurl}}/test
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [3]: /contact-us
- [4]: /test
+ [3]: {{site.baseurl}}/contact-us
+ [4]: {{site.baseurl}}/test

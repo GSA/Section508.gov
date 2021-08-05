@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: test/documents/
-type: page
+type: test
 title: 'Accessibility Testing for Electronic Documents'
 created: 1527027750
 ---
@@ -24,18 +24,15 @@ Incorporate accessibility up-front, and learn how to create accessible content a
   * [Test for Accessibility][9]
   * [About AED COP Testing Tools][10]
 
-  
-
-
 **Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /create/documents
- [3]: /create/pdfs
- [4]: /create/presentations
- [5]: /create/spreadsheets
- [6]: /create/video-social
- [7]: /create/software-websites
- [8]: /create
- [9]: /test
- [10]: /test/about-testing-tools
+ [2]: {{site.baseurl}}/create/documents
+ [3]: {{site.baseurl}}/create/pdfs
+ [4]: {{site.baseurl}}/create/presentations
+ [5]: {{site.baseurl}}/create/spreadsheets
+ [6]: {{site.baseurl}}/create/video-social
+ [7]: {{site.baseurl}}/create/software-websites
+ [8]: {{site.baseurl}}/create
+ [9]: {{site.baseurl}}/test
+ [10]: {{site.baseurl}}/test/about-testing-tools

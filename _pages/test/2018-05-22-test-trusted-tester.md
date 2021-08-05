@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: test/trusted-tester/
-type: page
+type: test
 title: 'Trusted Tester and ICT Testing Baseline'
 created: 1527031851
 ---
@@ -36,11 +36,7 @@ Note that DHS no longer provides training and certification on Trusted Tester v4
 
 The resources on this page were created through interagency collaborative efforts sponsored under the  [Accessibility Community of Practice (ACoP)][9], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards.][2]
 
-&nbsp;
-
 **Reviewed/Updated:** August 2019
-
-&nbsp;
 
  [1]: https://section508coordinators.github.io/ICTTestingBaseline/introduction.html
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
@@ -48,6 +44,6 @@ The resources on this page were created through interagency collaborative effort
  [4]: https://section508coordinators.github.io/TrustedTester/
  [5]: https://www.dhs.gov/news/2018/07/13/trusted-tester-v5-testing-tools
  [6]: https://www.dhs.gov/compliance-test-processes
- [7]: /test
- [8]: /test/about-testing-tools
+ [7]: {{site.baseurl}}/test
+ [8]: {{site.baseurl}}/test/about-testing-tools
  [9]: https://www.cio.gov/about/accessibility-cop/
