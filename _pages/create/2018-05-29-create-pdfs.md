@@ -15,14 +15,11 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 ### Training Videos
 
-<div class="row">
-  <hr />
-  
-  <div class="clearfix">
-    <div class="col-xs-12 col-md-3">
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
       <a href="https://www.section508.gov/create/pdfs/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" /></a>
     </div>
-<div class="col-xs-12 col-md-9">
+<div class="desktop:grid-col-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/pdfs/training-videos">How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC</a>
       </p>
@@ -34,7 +31,7 @@ The resources in this section were developed by the Accessible Electronic Docume
       </p>
     </div>
   </div>
-</div>
+
 
 * * *
 
@@ -78,8 +75,8 @@ The resources in this section were developed by Federal agencies, and shared her
   </div>
 </div>
 
-<span><b>Reviewed/Updated: </b>February 2021</span>  
-&nbsp;
+<p><b>Reviewed/Updated: </b>February 2021</p>  
+
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx

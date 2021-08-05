@@ -18,14 +18,11 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 
 ### Training Videos
 
-<div class="row">
-  <hr />
-  
-  <div class="clearfix">
-    <div class="col-xs-12 col-md-3">
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
       <a href="https://www.section508.gov/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" /></a>
     </div>
-<div class="col-xs-12 col-md-9">
+    <div class="desktop:grid-col-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a>
       </p>
@@ -37,7 +34,6 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
       </p>
     </div>
   </div>
-</div>
 
 * * *
 
@@ -54,12 +50,8 @@ The resources in this section were developed by Federal agencies, and shared her
 
   * [Create Accessible Digital Products][8] 
   * [How to Make Presentations Accessible to All][9] - Guidance from the World Wide Web Consortium (W3C)
-<li dir="ltr">
-  <a href="http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf">Alternate Text For Images</a> (PDF, July 2011) - Developed by SSA
-</li>
-<li dir="ltr">
-  Review <a href="https://webaim.org/techniques/alttext/">WebAIM Alternative Text</a> for appropriate use of alternative text.
-</li>
+  * [Alternate Text For Images][12] (PDF, July 2011) - Developed by SSA
+  * Review [WebAIM Alternative Text][13] for appropriate use of alternative text.
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
   * [Microsoft Accessibility][11] 
 
@@ -85,3 +77,5 @@ The resources in this section were developed by Federal agencies, and shared her
  [9]: https://www.w3.org/WAI/training/accessible.php
  [10]: https://www.w3.org/WAI/tutorials/images/decision-tree/
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
+ [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
+ [13]: https://webaim.org/techniques/alttext/

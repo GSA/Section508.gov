@@ -91,7 +91,7 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
 <h2 dir="ltr">
   Audio
 </h2>
-
+<ul>
 <li>
     <a href="http://acb.org/adp/">The Audio Description Project</a> - American Council of the Blind
 </li>
@@ -99,7 +99,7 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
 <li>
     Harpers Ferry Center of the National Park Service offers <a href="https://www.nps.gov/subjects/hfc/accessibility.htm">guidance on audio descriptions</a>
 </li>
-
+</ul>
 ## **Virtual Meetings and Collaboration&nbsp;**
 
 Instructions and techniques on how to provide accessibility for virtual collaboration.
@@ -158,11 +158,8 @@ Instructions and techniques on how to provide accessibility for virtual collabor
 
   * [Create Accessible Digital Products][10]
 
-&nbsp;
-
 **Reviewed/Updated:** April 2020
 
-&nbsp;
 
  [1]: #social-media
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
@@ -173,4 +170,4 @@ Instructions and techniques on how to provide accessibility for virtual collabor
  [7]: https://blogs.adobe.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/
  [8]: https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions
  [9]: https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning
- [10]: /create
+ [10]: {{site.baseurl}}/create

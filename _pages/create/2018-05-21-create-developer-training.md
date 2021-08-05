@@ -61,7 +61,7 @@ More modern resources include:
 **Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /training/508-training
+ [2]: {{site.baseurl}}/training/508-training
  [3]: http://www.accessibilityassociation.org/
  [4]: http://www.accessibilityassociation.org/cpacccertification
  [5]: http://www.accessibilityassociation.org/wascertification

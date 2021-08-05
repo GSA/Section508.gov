@@ -298,6 +298,6 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 **Updated**: December&nbsp;2019
 
- [1]: https://section508.gov/create/documents/training-videos
- [2]: https://section508.gov/create/pdfs/training-videos
- [3]: https://section508.gov/create/spreadsheets/training-videos
+ [1]: {{site.baseurl}}/create/documents/training-videos
+ [2]: {{site.baseurl}}/create/pdfs/training-videos
+ [3]: {{site.baseurl}}/create/spreadsheets/training-videos

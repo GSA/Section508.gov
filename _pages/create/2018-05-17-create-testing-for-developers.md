@@ -41,13 +41,11 @@ For example, automated tools can easily identify if an image element has an alt 
 
 You may need to revalidate your testing results, since the WCAG 2.0 Level AA algorithms used by automated testing tools differ somewhat from those used for the Original 508 Standards (which were largely based on WCAG 1.0). If you use automated evaluation tools for Microsoft SharePoint sites, consider how Microsoft SharePoint works, and how the automated rules work in conjunction, to avoid false negative or positive results.
 
-&nbsp;
 
 **Reviewed/Updated:** November 2018
 
-&nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: /test
+ [2]: {{site.baseurl}}/test
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version#E205-content
  [4]: https://www.w3.org/WAI/ER/tools/

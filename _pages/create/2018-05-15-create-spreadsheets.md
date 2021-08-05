@@ -15,14 +15,11 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 ### Training Videos
 
-<div class="row">
-  <hr />
-  
-  <div class="clearfix">
-    <div class="col-xs-12 col-md-3">
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
       <a href="https://www.section508.gov/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" /></a>
     </div>
-<div class="col-xs-12 col-md-9">
+<div class="desktop:grid-col-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a>
       </p>
@@ -34,7 +31,6 @@ The resources in this section were developed by the Accessible Electronic Docume
       </p>
     </div>
   </div>
-</div>
 
 * * *
 
@@ -72,8 +68,6 @@ The resources in this section were developed by Federal agencies, and shared her
 </div>
 
 **Reviewed/Updated:**&nbsp;February&nbsp;2021
-
-&nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx

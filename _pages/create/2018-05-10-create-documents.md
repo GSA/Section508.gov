@@ -14,15 +14,12 @@ Learn how to create accessible Microsoft Word documents that conform to the [Rev
 Guidance developed by the Accessible Electronic Documents Community of Practice (AED COP).
 
 ### Training Videos
-
-<div class="row">
-  <hr />
-  
-  <div class="clearfix">
-    <div class="col-xs-12 col-md-3">
+* * *
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
       <a href="https://www.section508.gov/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
     </div>
-<div class="col-xs-12 col-md-9">
+<div class="desktop:grid-col-9">
       <p class="video-title">
         <a href="https://www.section508.gov/create/documents/training-videos">How to Make an Accessible Document in Microsoft Word</a>
       </p>
@@ -34,7 +31,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
       </p>
     </div>
   </div>
-</div>
+
 
 * * *
 
@@ -105,7 +102,7 @@ The resources in this section were developed by federal agencies and shared here
  [10]: https://assets.section508.gov/files/Baseline_Tests_for_Docs_MS_Word_2010_accessibility_v%20%201.0%202.1.2015%20FINAL.docx
  [11]: https://www.ssa.gov/accessibility/developer_resources.html
  [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
- [13]: /create
+ [13]: {{site.baseurl}}/create
  [14]: https://www.w3.org/WAI/train
  [15]: https://webaim.org/techniques/alttext/
  [16]: https://www.w3.org/WAI/tutorials/images/decision-tree/
