@@ -366,7 +366,7 @@ acquisition:
         url: sell/
       - name: Voluntary Product Accessibility Template (VPAT)
         url: sell/vpat/
-Create:
+create:
   - name: Content Creation
     url: 'create/'
   - name: Create a Document
