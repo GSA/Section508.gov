@@ -148,7 +148,7 @@ function Requirement508OverviewPage()
     var h1nstart = Requirement508OverviewPageHTML.search("<h1>");
   var h1nend = Requirement508OverviewPageHTML.search("</h1>");
   var titlename = Requirement508OverviewPageHTML.substring(h1nstart+4,h1nend);
-  detailsWindow.document.title = "ART | "+ titlename;
+  detailsWindow.document.title = "ART | + Section 508 Solicitation Language Overview";
 detailsWindow.document.close();
 }
 
