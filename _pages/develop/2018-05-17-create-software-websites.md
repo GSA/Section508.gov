@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/software-websites/
-type: create
+type: develop
 title: 'Create Accessible Software & Websites'
 created: 1526572632
 ---

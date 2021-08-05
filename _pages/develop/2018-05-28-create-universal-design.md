@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/universal-design/
-type: create
+type: develop
 title: 'Universal Design and Accessibility'
 created: 1527530633
 ---

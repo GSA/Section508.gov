@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/web-content/
-type: create
+type: develop
 title: 'Developing Accessible Web Content'
 created: 1526946893
 ---

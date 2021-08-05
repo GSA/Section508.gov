@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: create/applicability-conformance/
-type: create
+type: develop
 title: 'Applicability & Conformance Requirements '
 created: 1526574510
 ---

@@ -79,13 +79,13 @@ primary_navigation:
   - name: Policy & Management
     url: /manage/
   - name: Acquisition
-    url: "#"
+    url: /buy-sell/
   - name: Content Creation
-    url: "#"
+    url: "/create/"
   - name: Design & Develop
-    url: /document/
+    url: /create/universal-design/
   - name: Testing
-    url: /document-with-sidenav/
+    url: /test/
   - name: Training & Tools
     url: "/training/"
 

@@ -3,16 +3,25 @@ The sidenav is not loaded by default on the main pages. To include this navigati
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
 {% endcomment %}
 
-
-{% if page.type == 'create' %}
-
-{% endif %}
 {% if page.type == 'manage' %}
-{% assign links = site.data.sidenav.manage %}
+    {% assign links = site.data.sidenav.manage %}
 {% endif %}
 {% if page.type == 'training' %}
-{% assign links = site.data.sidenav.training %}
+    {% assign links = site.data.sidenav.training %}
 {% endif %}
+{% if page.type == 'develop' %}
+    {% assign links = site.data.sidenav.develop %}
+{% endif %}
+{% if page.type == 'test' %}
+    {% assign links = site.data.sidenav.test %}
+{% endif %}
+{% if page.type == 'acquisition' %}
+    {% assign links = site.data.sidenav.acquisition %}
+{% endif %}
+{% if page.type == 'create' %}
+    {% assign links = site.data.sidenav.create %}
+{% endif %}
+
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
     <nav>
         <ul class="usa-sidenav menu">
