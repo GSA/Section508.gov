@@ -260,7 +260,7 @@ training:
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
   - name: Events home
-    url: 'blog/events/'
+    url: 'events/'
   - name: Recurring Events
     url: '#'
     children:
@@ -287,3 +287,145 @@ training:
         url: 'tools/playbooks/'
       - name: Glossary of Terms
         url: 'content/glossary/'
+develop:
+  - name: Design and Develop
+    url: '#'
+  - name: Design
+    url: '#'
+    children:
+      - name: Universal Design
+        url: 'create/universal-design/'
+  - name: Develop
+    url: '#'
+    children:
+      - name: Develop Software and Websites
+        url: create/software-websites/
+      - name: Applicability and Conformance Requirements for Developers
+        url: create/applicability-conformance/
+      - name: Develop Web Content
+        url: create/web-content/
+test:
+  - name: Testing Home
+    url: 'test/'
+  - name: Testing Methods
+    url: '#'
+    children:
+      - name: Learn About Testing Methods
+        url: 'test/testing-overview/'
+      - name: Trusted Tester and ICT Testing Baseline
+        url: 'test/trusted-tester/'
+  - name: Electronic Documents
+    url: '#'
+    children:
+      - name: Test Electronic Documents
+        url: test/documents/
+      - name: About Electonic Document Testing Tools
+        url: test/about-testing-tools/
+  - name: Software and Website
+    url: '#'
+    children:
+      - name: Test Websites & Software
+        url: test/web-software/
+      - name: Testing Guidance for Developers
+        url: create/testing-for-developers/
+acquisition:
+  - name: Acquisition
+    url: 'buy-sell/'
+  - name: Buy
+    url: '#'
+    children:
+      - name: Buy Accessible ICT
+        url: 'buy/'
+      - name: Accessibility Requirement Tool (ART)
+        url: 'art/'
+      - name: ART Webinar
+        url: 'buy/accessibility-requirements-tool/webinar/'
+      - name: Define Accessibility Criteria in Contracts
+        url: 'buy/define-accessibility-criteria/'
+      - name: Determine 508 Standards and Exceptions
+        url: '#'
+        grandchildren:
+          - name: "Process Overview"
+            url: 'buy/determine-508-standards-exceptions/'
+          - name: "Step 1: Inventory Your ICT"
+            url: 'buy/inventory-your-ict/'
+          - name: "Step 2: Determine ICT Exceptions"
+            url: 'buy/determine-ict-exceptions/'
+          - name: "Step 3: Determine Which Standards Apply"
+            url: 'buy/determine-ict-standards/'
+      - name: Request Accessibility Information from Vendors & Contractors
+        url: 'buy/request-accessibility-information/'
+      - name: 'Solicitation Review Tool (SRT)'
+        url: 'buy/solicitation-review-tool/'
+      - name: 508 Standards and Exceptions Chart & Examples
+        url: 'buy/standards-exceptions/'
+  - name: Sell
+    url: '#'
+    children:
+      - name: Sell Accessible Products and Services
+        url: sell/
+      - name: Voluntary Product Accessibility Template (VPAT)
+        url: sell/vpat/
+create:
+  - name: Content Creation
+    url: 'create/'
+  - name: Create a Document
+    url: '#'
+    children:
+      - name: Create Accessible Documents
+        url: 'create/documents/'
+      - name: Authoring Guides
+        url: 'https://assets.section508.gov/files/MS+Word+2013+Basic+Authoring+and+Testing+Guide.docx'
+        external: 'true'
+      - name: Checklist
+        url: 'https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx'
+        external: 'true'
+      - name: Video Training
+        url: 'create/documents/aed-cop-docx00/'
+      - name: Tips and Tricks
+        url: 'create/documents#tips'
+  - name: Create a Presentation
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: create/presentations/
+      - name: Checklist
+        url: 'https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html'
+        external: 'true'
+      - name: Video Training
+        url: create/presentations/training-videos/
+      - name: Tips and Tricks
+        url: create/presentations/
+  - name: Create a Spreadsheet
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: 'https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf'
+        external: 'true'
+      - name: Checklist
+        url: 'http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html'
+        external: 'true'
+      - name: Video Training
+        url: create/spreadsheets/training-videos/
+      - name: Tips and Tricks
+        url: create/spreadsheets/
+  - name: Create a PDFs
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: create/pdfs/
+      - name: Checklist
+        url: 'https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx'
+        external: 'true'
+      - name: Video Training
+        url: create/pdfs/aed-cop-pdf00/
+      - name: Tips and Tricks
+        url: 'create/pdfs#tips'
+  - name: Create Accessible meetings
+    url: 'create/accessible-meetings/'
+  - name: Synchronized Media
+    url: 'create/synchronized-media#training-videos'
+  - name: Video, Audio, Social
+    url: 'create/video-social/'
+  - name: Electronic Signature
+    url: 'create/electronic-signatures/'

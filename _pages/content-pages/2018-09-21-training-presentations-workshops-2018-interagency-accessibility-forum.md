@@ -13,7 +13,7 @@ created: 1537561274
 
 This in-person Forum features inspirational keynote speakers such as Judy Brewer, Director of the Web Accessibility Initiative (WAI) from the World Wide Web Consortium (W3C), and Eve Hill, one of the nation's leading disability rights attorneys.
 
-<img alt="Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)" src="/sites/all/themes/508retheme/images/vendor.jpg" style="height:300px;" />  
+<img alt="Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)" src="https://assets.section508.gov/files/images/vendor.jpg" style="height:300px;" />  
 _Photo: Vendor exhibition hall at the 2017 Interagency Accessibility Forum (IAAF)_
 
 <p dir="ltr">
