@@ -159,7 +159,7 @@ Questions? Email us at <section.508@gsa.gov>.
  [3]: #policies
  [4]: #requirements
  [5]: #language
- [6]: #develop
+ [6]:  #develop
  [7]: http://www.w3.org/TR/WCAG20/
  [8]: {{site.baseurl}}/manage/program-roadmap
  [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
