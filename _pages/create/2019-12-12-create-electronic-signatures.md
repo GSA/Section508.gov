@@ -10,7 +10,7 @@ created: 1576174077
 <p dir="ltr">
   Electronic signatures are used to digitally validate or acknowledge such things as PDF documents, online forms, or specialized e-signature software. As more government services move online, it's our responsibility to ensure that everyone can independently access and use electronic signature solutions, including:
 </p>
-
+<ul>
 <li>
     <a href="#pdf-form">PDF form documents</a> - Electronic documents containing signatures, or signature form fields;
 </li>
@@ -22,7 +22,7 @@ created: 1576174077
 <li>
     <a href="#esig">E-signature software</a> - Software to automate workflows.
 </li>
-
+</ul>
 <h2 dir="ltr" id="pdf-form">
   PDF Form Documents
 </h2>

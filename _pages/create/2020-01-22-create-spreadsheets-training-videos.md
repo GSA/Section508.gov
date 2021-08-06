@@ -2,7 +2,7 @@
 sidenav: true
 layout: video
 permalink: create/spreadsheets/training-videos/
-type: training
+type: create
 title: 'Spreadsheets Training Videos'
 created: 1579723548
 ---
