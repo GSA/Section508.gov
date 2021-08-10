@@ -93,10 +93,10 @@ primary_navigation:
 secondary_navigation:
   - name: News & Updates
     url: /blog/
-  - name: "My Agency’s 508 PM"
+  - name: My Agency’s 508 PM
     url: /
   - name: About Us
-    url: "#"
+    url: "/content/about-us/"
 
 
 # Search.gov configuration
