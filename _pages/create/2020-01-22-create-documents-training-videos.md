@@ -2,7 +2,7 @@
 sidenav: true
 layout: video
 permalink: create/documents/training-videos/
-type: training
+type: create
 title: 'Documents Training Videos'
 created: 1579720537
 ---
