@@ -20,11 +20,11 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3">
-      <a href="https://www.section508.gov/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="https://www.section508.gov/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a>
+        <a href="{{site.baseurl}}/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a>
       </p>
     <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
