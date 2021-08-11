@@ -381,9 +381,9 @@ create:
         url: 'https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx'
         external: 'true'
       - name: Video Training
-        url: 'create/documents/aed-cop-docx00/'
+        url: 'create/documents/training-videos/'
       - name: Tips and Tricks
-        url: 'create/documents#tips'
+        url: 'create/documents/#tips'
   - name: Create a Presentation
     url: '#'
     children:
@@ -418,13 +418,13 @@ create:
         url: 'https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx'
         external: 'true'
       - name: Video Training
-        url: create/pdfs/aed-cop-pdf00/
+        url: create/pdfs/training-videos/
       - name: Tips and Tricks
         url: 'create/pdfs#tips'
   - name: Create Accessible meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
-    url: 'create/synchronized-media#training-videos'
+    url: 'create/synchronized-media/'
   - name: Video, Audio, Social
     url: 'create/video-social/'
   - name: Electronic Signature
