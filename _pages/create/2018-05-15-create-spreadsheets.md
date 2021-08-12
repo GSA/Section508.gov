@@ -17,11 +17,11 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3">
-      <a href="https://www.section508.gov/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="https://www.section508.gov/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a>
+        <a href="{{site.baseurl}}/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a>
       </p>
     <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Excel spreadsheet is Section 508 conformant.

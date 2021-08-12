@@ -17,11 +17,11 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 * * *
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3">
-      <a href="https://www.section508.gov/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="https://www.section508.gov/create/documents/training-videos">How to Make an Accessible Document in Microsoft Word</a>
+        <a href="{{site.baseurl}}/create/documents/training-videos">How to Make an Accessible Document in Microsoft Word</a>
       </p>
     <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Word document is Section 508 conformant.
