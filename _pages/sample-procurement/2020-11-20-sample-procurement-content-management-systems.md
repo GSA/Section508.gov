@@ -137,7 +137,7 @@ Where support documentation is only provided in non-electronic formats, alternat
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][13]) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][13]){:.word-wrap: break-word;} for further information on the procurement process.
 
  [1]: /ict-accessibility#e205_1_general
  [2]: /ict-accessibility#e205_2_public_facing
