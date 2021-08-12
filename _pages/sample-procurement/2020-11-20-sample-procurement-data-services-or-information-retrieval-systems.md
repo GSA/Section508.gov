@@ -79,7 +79,7 @@ Where Web applications do not have access to platform accessibility services and
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][8]) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<a href="{{site.baseurl}}/manage/program-roadmap">https://section508.gov/manage/program-roadmap</a>) for further information on the procurement process.
 
  [1]: /ict-accessibility#e205_1_general
  [2]: /ict-accessibility#e205_2_public_facing
@@ -88,4 +88,3 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [5]: /ict-accessibility#e501_1_scope_exception
  [6]: /ict-accessibility#e301_1
  [7]: /ict-accessibility#e302_1
- [8]: /manage/program-roadmap
