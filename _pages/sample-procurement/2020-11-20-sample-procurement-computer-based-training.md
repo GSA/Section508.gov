@@ -249,7 +249,7 @@ mode of operation that does not require user hearing.
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([{{site.baseurl}}/manage/program-roadmap][10])  for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<a href="{{site.baseurl}}/manage/program-roadmap">https://section508.gov/manage/program-roadmap</a>)  for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e205_1_general
  [2]: {{site.baseurl}}/ict-accessibility#e205_3__e205_4__e205_4_1
@@ -260,4 +260,3 @@ The Accessibility Requirements Report should be incorporated into the solicitati
  [7]: {{site.baseurl}}/ict-accessibility#e603_1__e603_2__e603_3
  [8]: {{site.baseurl}}/ict-accessibility#e301_1
  [9]: {{site.baseurl}}/ict-accessibility#e302_1
-[10]: {{site.baseurl}}/manage/program-roadmap
