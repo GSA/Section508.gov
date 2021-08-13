@@ -43,7 +43,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 ### Microsoft Word 2013
 
   * [Baseline Test Process][4] (MS Word, September 2017)
-  * [Basic Authoring and Testing Guide][5] (MS Word, September 2017)
+  * <a aria-label="MS Word, September 2017" href="https://assets.section508.gov/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx">Basic Authoring and Testing Guide</a> (MS Word, September 2017)
   * [Detailed Checklist][6] (MS Word, September 2017)
   * [Printable Checklist][7] (MS Word, September 2017)
 
