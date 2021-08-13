@@ -64,4 +64,4 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
  [2]: https://www.access-board.gov/contact-us
- [3]: /manage/support-accessible-content
+ [3]: {{site.baseurl}}/manage/support-accessible-content

@@ -77,7 +77,7 @@ Prepare accessibility requirements for in-house procurement of customized and of
   * [How to Request Accessibility Information from Vendors and Contractors][18] (NEW) - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility, Clauses, and Acceptance Criteria][20] (NEW) - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  * [Revised 508 Standards Applicability Checklist][13] (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
+  *  <a href = "https://assets.section508.gov/files/standards-exceptions-chart.docx" aria-label =" Downloads applicability documensts"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
   * [Determine 508 Standards and Exceptions][14] - Step-by-step guidance on how to complete the Standards Applicability Checklist
 
 ### Online Training
@@ -101,7 +101,7 @@ Validate that accessibility requirements and contract language are developed bas
 ### Tools & Technical Assistance
 
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  * [Revised 508 Standards Applicability Checklist][26] (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
+  *  <a href = "https://assets.section508.gov/files/standards-exceptions-chart.docx" aria-label =" Downloads word chart document"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
   * [Determine 508 Standards and Exceptions][14] - Step-by-step guidance on how to complete the Standards Applicability Checklist
   * [How to Request Accessibility Information from Vendors and Contractors][18] - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility Provisions, Clauses, and Acceptance Criteria][20] - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
@@ -159,27 +159,27 @@ Questions? Email us at <section.508@gsa.gov>.
  [3]: #policies
  [4]: #requirements
  [5]: #language
- [6]: #develop
+ [6]:  #develop
  [7]: http://www.w3.org/TR/WCAG20/
- [8]: /manage/program-roadmap
- [9]: /manage/laws-and-policies/update-agency-policies
- [10]: /manage/identify-user-needs
- [11]: /manage/support-accessible-content
+ [8]: {{site.baseurl}}/manage/program-roadmap
+ [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
+ [10]: {{site.baseurl}}/manage/identify-user-needs
+ [11]: {{site.baseurl}}/manage/support-accessible-content
  [12]: https://app.buyaccessible.gov/home
- [13]: /content/files/508-standards-applicability-checklist.docx
- [14]: /buy/determine-508-standards-exceptions
+ [13]: {{site.baseurl}}/content/files/508-standards-applicability-checklist.docx
+ [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907
  [17]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376906
- [18]: /buy/request-accessibility-information
+ [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
- [20]: /buy/define-accessibility-criteria
- [21]: /508-training/courses/exec-overview
- [22]: /508-training/courses/508-basics
- [23]: /508-training/courses/micro-purchase/lesson1
- [24]: /508-training/courses/playbook
- [25]: /508-training/courses/procurement
- [26]: /content/files/standards-exceptions-chart.docx
- [27]: /create/software-websites
- [28]: /test/documents
- [29]: /508-training/courses/508-basics/
+ [20]: {{site.baseurl}}/buy/define-accessibility-criteria
+ [21]: {{site.baseurl}}/508-training/courses/exec-overview
+ [22]: {{site.baseurl}}/508-training/courses/508-basics
+ [23]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1
+ [24]: {{site.baseurl}}/508-training/courses/playbook
+ [25]: {{site.baseurl}}/508-training/courses/procurement
+ [26]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx 
+ [27]: {{site.baseurl}}/create/software-websites
+ [28]: {{site.baseurl}}/test/documents
+ [29]: {{site.baseurl}}/508-training/courses/508-basics/

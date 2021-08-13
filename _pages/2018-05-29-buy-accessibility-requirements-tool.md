@@ -8,12 +8,12 @@ sidenav: false
 ---
 
  
-
+<!-- 
 <h1 class="main">
   Accessibility Requirements Tool (ART)
 </h1>
 
-&nbsp;
+&nbsp; -->
 
 <p class="first-par">
   The <a href="/art/home">Accessibility Requirements Tool (ART)</a> is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as in-house IT development. GSA&rsquo;s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href="/manage/laws-and-policies">Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that&rsquo;s accessible to all.
@@ -201,7 +201,7 @@ To start a new procurement, you&rsquo;ll need to know:
 &nbsp;&nbsp;
 
 <div class="border-base radius-lg border-1px">
-  <div class="panel-body padding-3">
+  <div class="padding-1">
     <p>
       <strong>Before You Go</strong>
     </p>

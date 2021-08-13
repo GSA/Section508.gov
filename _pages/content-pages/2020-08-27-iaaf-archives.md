@@ -170,7 +170,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/agenda-2020">2020 IAAF Agenda
       </li>
     </ul>
     <div class="border-base radius-lg border-1px">
-      <div class="panel-body padding-3">
+      <div class="padding-1">
         <strong>Before You Go</strong>
         <p dir="ltr">
           We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
@@ -178,5 +178,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/agenda-2020">2020 IAAF Agenda
       </div>
     </div>
     <p>
-      <strong>Reviewed/Updated</strong>: October 2020
+      <strong>Reviewed/Updated</strong>: June 2021
     </p>

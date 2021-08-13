@@ -1,8 +1,8 @@
 ---
 sidenav: true
-layout: page
-permalink: create/pdfs/aed-cop-pdf02
-type: page
+layout: video
+permalink: create/pdfs/aed-cop-pdf02/
+type: training
 title: 'Module 2: Testing a PDF for Accessibility'
 created: 1579721831
 ---
@@ -17,7 +17,7 @@ created: 1579721831
 
 Discover how set up a document&rsquo;s properties, evaluate the accessibility of a document&rsquo;s content, and how to use Acrobat&rsquo;s Accessibility Full Check tool.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/PDF/aed-cop-pdf-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m02.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 
@@ -27,19 +27,17 @@ Discover how set up a document&rsquo;s properties, evaluate the accessibility of
   * [Module 3: Remediating PDFs for Accessibility][3]
   * [Module 4: Converting Scanned Documents into Section 508 Conformant PDFs][4]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="padding-1">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020
 
- [1]: /create/pdfs/aed-cop-pdf00
- [2]: /create/pdfs/aed-cop-pdf01
- [3]: /create/pdfs/aed-cop-pdf03
- [4]: /create/pdfs/aed-cop-pdf04
+ [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
+ [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
+ [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf04

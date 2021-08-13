@@ -16,7 +16,7 @@ site, this is the place to do it.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Title and meta description
     ================================================== -->
-  <title>{{site.title}}</title>
+  <title>{{page.title}} | {{site.title}}</title>
   <meta property="og:title" content="{{site.title}}">
   <meta name="description" content="{{site.description}}">
   <meta property="og:description" content="{{site.description}}">
@@ -49,4 +49,5 @@ site, this is the place to do it.
   <!-- CSS
     ================================================== -->
   {% asset index.scss %}
+  <script src="{{site.baseurl}}/art/jquery-1.9.1.min.js"></script>
 </head>

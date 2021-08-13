@@ -79,24 +79,24 @@ primary_navigation:
   - name: Policy & Management
     url: /manage/
   - name: Acquisition
-    url: "#"
+    url: /buy-sell/
   - name: Content Creation
-    url: "#"
+    url: "/create/"
   - name: Design & Develop
-    url: /document/
+    url: /create/universal-design/
   - name: Testing
-    url: /document-with-sidenav/
+    url: /test/
   - name: Training & Tools
-    url: "#"
+    url: "/training/"
 
 
 secondary_navigation:
   - name: News & Updates
     url: /blog/
-  - name: "My Agency’s 508 PM"
-    url: /
+  - name: My Agency’s 508 PM
+    url: /master/tools/coordinator-listing/
   - name: About Us
-    url: "#"
+    url: /content/about-us/
 
 
 # Search.gov configuration
@@ -116,7 +116,7 @@ searchgov:
   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  inline: false
 
 ##########################################################################################
 # The values below here are more advanced and should only be

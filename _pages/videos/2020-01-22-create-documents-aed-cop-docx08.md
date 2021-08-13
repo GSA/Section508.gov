@@ -1,8 +1,8 @@
 ---
 sidenav: true
-layout: page
-permalink: create/documents/aed-cop-docx08
-type: page
+layout: video
+permalink: create/documents/aed-cop-docx08/
+type: training
 title: 'Module 8: Duplicate Vital Information in Headers, Footers and Watermarks'
 created: 1579721137
 ---
@@ -17,7 +17,7 @@ created: 1579721137
 
 Learn how to ensure that vital information, created as a watermark or placed in the header of footer of the slide, can be accessed by assistive technology.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/DOCX/aed-cop-docx-m08.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m08.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 
@@ -36,28 +36,26 @@ Learn how to ensure that vital information, created as a watermark or placed in 
   * [Module 12: Create the Required Color Contrast][12]
   * [Module 13: Create Accessible Embedded Files][13]
 
-<div class="panel panel-default">
-  <div class="panel-body">
-    <strong>Before You Go</strong>
-    
-    <p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
+<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="padding-1">
+<p class="text-large"><strong>Before You Go</strong></p>
+<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
+</a>.</p>
+</div>
 </div>
 
 **Updated**: January 2020
 
- [1]: /create/documents/aed-cop-docx00
- [2]: /create/documents/aed-cop-docx01
- [3]: /create/documents/aed-cop-docx02
- [4]: /create/documents/aed-cop-docx03
- [5]: /create/documents/aed-cop-docx04
- [6]: /create/documents/aed-cop-docx05
- [7]: /create/documents/aed-cop-docx06
- [8]: /create/documents/aed-cop-docx07
- [9]: /create/documents/aed-cop-docx09
- [10]: /create/documents/aed-cop-docx10
- [11]: /create/documents/aed-cop-docx11
- [12]: /create/documents/aed-cop-docx12
- [13]: /create/documents/aed-cop-docx13
+ [1]: {{site.baseurl}}/create/documents/aed-cop-docx00
+ [2]: {{site.baseurl}}/create/documents/aed-cop-docx01
+ [3]: {{site.baseurl}}/create/documents/aed-cop-docx02
+ [4]: {{site.baseurl}}/create/documents/aed-cop-docx03
+ [5]: {{site.baseurl}}/create/documents/aed-cop-docx04
+ [6]: {{site.baseurl}}/create/documents/aed-cop-docx05
+ [7]: {{site.baseurl}}/create/documents/aed-cop-docx06
+ [8]: {{site.baseurl}}/create/documents/aed-cop-docx07
+ [9]: {{site.baseurl}}/create/documents/aed-cop-docx09
+ [10]: {{site.baseurl}}/create/documents/aed-cop-docx10
+ [11]: {{site.baseurl}}/create/documents/aed-cop-docx11
+ [12]: {{site.baseurl}}/create/documents/aed-cop-docx12
+ [13]: {{site.baseurl}}/create/documents/aed-cop-docx13

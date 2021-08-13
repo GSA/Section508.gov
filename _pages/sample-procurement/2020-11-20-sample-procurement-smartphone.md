@@ -271,7 +271,7 @@ CT shall provide features making its use by individuals with limited cognitive, 
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;([{{site.baseurl}}/manage/program-roadmap][34])  for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit&nbsp;([https://section508.gov/refresh-toolkit][34]) for further information on the procurement process.
 
  [1]: {{site.baseurl}}/ict-accessibility#e206_1
  [2]: {{site.baseurl}}/ict-accessibility#e402_1_general

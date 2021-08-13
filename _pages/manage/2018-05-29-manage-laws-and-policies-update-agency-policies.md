@@ -88,9 +88,6 @@ Update your agency policy to cover electronic content. Recommended language for 
 XXX Agency will ensure that all electronic content that is made available to the public on or after January 18, 2018, such as web pages, blogs and social media, conforms to the Section 508 standards.
 
 XXX Agency will ensure that electronic content used for official agency communications on or after January 18, 2018, including such content posted to the agency Intranet, conforms to the applicable Section 508 standards. This requirement applies to the following types of official agency communications:
-
-&nbsp;
-
 A. An emergency notification;
 
 B. An initial or final decision adjudicating an administrative claim or proceeding;
@@ -108,8 +105,6 @@ G. A template or form;
 H. Educational or training materials; or
 
 I. Intranet content designed as a Web page.
-
-&nbsp;
 
 [back to top][11]
 
