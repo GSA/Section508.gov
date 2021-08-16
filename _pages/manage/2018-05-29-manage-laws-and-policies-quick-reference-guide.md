@@ -174,7 +174,7 @@ Questions? Email us at <section.508@gsa.gov>.
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
- [21]: {{site.baseurl}}/508-training/courses/exec-overview
+ [21]: /training/508-training/courses/exec-overview/index.html
  [22]: {{site.baseurl}}/508-training/courses/508-basics
  [23]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1
  [24]: {{site.baseurl}}/508-training/courses/playbook

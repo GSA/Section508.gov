@@ -30,7 +30,25 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
       </p>
     <p>
-        Duration 43m 54s | 14-part Video Tutorial
+        Duration 43m 54s | 14-Part Video Tutorial
+      </p>
+    </div>
+  </div>
+
+
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
+      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://section508.gov/sites/default/files/thumb-create-accessible-ppt-template.png" style="width:100%" /></a>
+    </div>
+    <div class="desktop:grid-col-9">
+      <p class="video-title">
+        <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a>
+      </p>
+    <p>
+      Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
+      </p>
+    <p>
+        Duration: 8m 18s | 1-Part Video Tutorial
       </p>
     </div>
   </div>
@@ -64,7 +82,7 @@ The resources in this section were developed by Federal agencies, and shared her
   </div>
 </div>
 
-**Reviewed/Updated**: February&nbsp;2021
+**Reviewed/Updated**: June&nbsp;2021
 
  [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
  [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx

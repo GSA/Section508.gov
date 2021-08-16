@@ -69,7 +69,7 @@ manage:
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
 training:
-  - name: Training-Tools-Events
+  - name: Training,Tools & Events
     url: '#'
   - name: Training home
     url: 'training/'
