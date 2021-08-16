@@ -79,12 +79,13 @@ Where Web applications do not have access to platform accessibility services and
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit (<a href="{{site.baseurl}}/manage/program-roadmap">https://section508.gov/manage/program-roadmap</a>) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit ([https://section508.gov/manage/program-roadmap][8]) for further information on the procurement process.
 
- [1]: /ict-accessibility#e205_1_general
- [2]: /ict-accessibility#e205_2_public_facing
- [3]: /ict-accessibility#602__603__302
- [4]: /ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
- [5]: /ict-accessibility#e501_1_scope_exception
- [6]: /ict-accessibility#e301_1
- [7]: /ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e205_1_general
+ [2]: {{site.baseurl}}/ict-accessibility#e205_2_public_facing
+ [3]: {{site.baseurl}}/ict-accessibility#602__603__302
+ [4]: {{site.baseurl}}/ict-accessibility#e207_1__e207_2__e207_2_1__e207_3
+ [5]: {{site.baseurl}}/ict-accessibility#e501_1_scope_exception
+ [6]: {{site.baseurl}}/ict-accessibility#e301_1
+ [7]: {{site.baseurl}}/ict-accessibility#e302_1
+ [8]: {{site.baseurl}}/manage/program-roadmap
