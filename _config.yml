@@ -94,7 +94,7 @@ secondary_navigation:
   - name: News & Updates
     url: /blog/
   - name: My Agency’s 508 PM
-    url: /master/tools/coordinator-listing/
+    url: /tools/coordinator-listing/
   - name: About Us
     url: /content/about-us/
 

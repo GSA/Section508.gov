@@ -30,7 +30,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
       </p>
     <p>
-        Duration 43m 54s | 14-part Video Tutorial
+        Duration 43m 54s | 14-Part Video Tutorial
       </p>
     </div>
   </div>
@@ -82,7 +82,7 @@ The resources in this section were developed by Federal agencies, and shared her
   </div>
 </div>
 
-**Reviewed/Updated**: February&nbsp;2021
+**Reviewed/Updated**: June&nbsp;2021
 
  [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
  [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx

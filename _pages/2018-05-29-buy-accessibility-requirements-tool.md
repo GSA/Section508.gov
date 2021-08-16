@@ -8,15 +8,14 @@ sidenav: false
 ---
 
  
-<!-- 
-<h1 class="main">
-  Accessibility Requirements Tool (ART)
-</h1>
 
+<!-- <h1 class="main">
+<a href="{{site.baseurl}}/art/home"><img alt="start using art" class="img-responsive" src="/sites/default/files/start-using-art_1.gif" style="width: 255px; height: 35px; float: right;" title="Start using ART "></a>
+</h1>
 &nbsp; -->
 
 <p class="first-par">
-  The <a href="/art/home">Accessibility Requirements Tool (ART)</a> is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as in-house IT development. GSA&rsquo;s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href="/manage/laws-and-policies">Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that&rsquo;s accessible to all.
+  The <a href="{{site.baseurl}}/art/home">Accessibility Requirements Tool (ART)</a> is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as in-house IT development. GSA&rsquo;s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href="{{site.baseurl}}/manage/laws-and-policies">Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that&rsquo;s accessible to all.
 </p>
 
 To start a new procurement, you&rsquo;ll need to know:
@@ -27,7 +26,25 @@ To start a new procurement, you&rsquo;ll need to know:
   * The estimated total value of your acquisition
   * What you are procuring (e.g., hardware, software, support documentation, etc.)
 
-
+## Training Videos
+<hr>
+  <div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
+      <a href="{{site.baseurl}}/buy/accessibility-requirements-tool/webinar"><img alt="Accessibility Requirements Tool (ART) Webinar" src="https://section508.gov/sites/default/files/art-webinar-thumb_0.png" style="width:100%" /></a>
+    </div>
+<div class="desktop:grid-col-9">
+      <p class="video-title">
+        <a href="{{site.baseurl}}/buy/accessibility-requirements-tool/webinar">Accessibility Requirements Tool (ART) Webinar</a>
+      </p>
+    <p>
+        Learn how to define the accessible requirements for ICT solicitations using the Accessibility Requirements Tool (ART). Explore ART, and get an overview of ART&apos;s purpose, interface design and key features, and the benefits you gain from using the tool in the acquisition and procurement process.
+      </p>
+    <p>
+        Duration 14m 49s | 1-Part Video Tutorial
+      </p>
+    </div>
+  </div>
+  <hr>
 
 <div id="target" style="background-color: #f5f9fc; padding:10px 20px 20px 20px">
   <h2>
