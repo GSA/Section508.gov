@@ -173,24 +173,24 @@ mode of operation that does not require user hearing.
 
 **Instructions**
 
-The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit  ([/manage/program-roadmap][19]) for further information on the procurement process.
+The Accessibility Requirements Report should be incorporated into the solicitation requirements document (SOO, SOW, PWS, etc.). Please go to the Revised 508 Standards Toolkit  ([{{site.baseurl}}/manage/program-roadmap][19]) for further information on the procurement process.
 
- [1]: /ict-accessibility#e206_1
- [2]: /ict-accessibility#e405_1
- [3]: /ict-accessibility#e406_1
- [4]: /ict-accessibility#407_8__407_8_1__407_8_1_1
- [5]: /ict-accessibility#407_8_1_2__407_8_2__407_8_2_1__407_8_2_2
- [6]: /ict-accessibility#407_8_3__407_8_3_1__407_8_3_2
- [7]: /ict-accessibility#407_8_3_2_1
- [8]: /ict-accessibility#407_8_3_2_2
- [9]: /ict-accessibility#e408_2
- [10]: /ict-accessibility#e411_1
- [11]: /ict-accessibility#e413_1__e413_1_1__e413_1_2
- [12]: /ict-accessibility#e414_1__e414_1_1__e414_1_2
- [13]: /ict-accessibility#e401_1
- [14]: /ict-accessibility#e208_1_general
- [15]: /ict-accessibility#e602_1_general
- [16]: /ict-accessibility#e602_3__e602_4
- [17]: /ict-accessibility#e301_1
- [18]: /ict-accessibility#e302_1
+ [1]: {{site.baseurl}}/ict-accessibility#e206_1
+ [2]: {{site.baseurl}}/ict-accessibility#e405_1
+ [3]: {{site.baseurl}}/ict-accessibility#e406_1
+ [4]: {{site.baseurl}}/ict-accessibility#407_8__407_8_1__407_8_1_1
+ [5]: {{site.baseurl}}/ict-accessibility#407_8_1_2__407_8_2__407_8_2_1__407_8_2_2
+ [6]: {{site.baseurl}}/ict-accessibility#407_8_3__407_8_3_1__407_8_3_2
+ [7]: {{site.baseurl}}/ict-accessibility#407_8_3_2_1
+ [8]: {{site.baseurl}}/ict-accessibility#407_8_3_2_2
+ [9]: {{site.baseurl}}/ict-accessibility#e408_2
+ [10]: {{site.baseurl}}/ict-accessibility#e411_1
+ [11]: {{site.baseurl}}/ict-accessibility#e413_1__e413_1_1__e413_1_2
+ [12]: {{site.baseurl}}/ict-accessibility#e414_1__e414_1_1__e414_1_2
+ [13]: {{site.baseurl}}/ict-accessibility#e401_1
+ [14]: {{site.baseurl}}/ict-accessibility#e208_1_general
+ [15]: {{site.baseurl}}/ict-accessibility#e602_1_general
+ [16]: {{site.baseurl}}/ict-accessibility#e602_3__e602_4
+ [17]: {{site.baseurl}}/ict-accessibility#e301_1
+ [18]: {{site.baseurl}}/ict-accessibility#e302_1
  [19]: {{site.baseurl}}/manage/program-roadmap

@@ -35,6 +35,24 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
     </div>
   </div>
 
+
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3">
+      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://section508.gov/sites/default/files/thumb-create-accessible-ppt-template.png" style="width:100%" /></a>
+    </div>
+    <div class="desktop:grid-col-9">
+      <p class="video-title">
+        <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a>
+      </p>
+    <p>
+      Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
+      </p>
+    <p>
+        Duration: 8m 18s | 1-Part Video Tutorial
+      </p>
+    </div>
+  </div>
+
 * * *
 
 ## Older versions of Microsoft PowerPoint

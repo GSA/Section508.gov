@@ -390,7 +390,7 @@ created: 1527574221
 </h3>
 <ul>
  <li dir="ltr">
-  <a href="/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
+  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
  </li>
 </ul>
 
@@ -402,7 +402,7 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
+  <a href="{{site.baseurl}}/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
 </li>
 </ul>
 
@@ -554,7 +554,8 @@ created: 1527574221
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: {{site.baseurl}}/508-training/courses/exec-overview
+ [4]: {{site.baseurl}}/508-training/courses/exec-overview/
+ /508-training/courses/exec-overview/
  [5]: {{site.baseurl}}/508-training/courses/508-basics
  [6]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1/
  [7]: {{site.baseurl}}/508-training/courses/playbook
