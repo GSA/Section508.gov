@@ -21,7 +21,7 @@ created: 1600981839
       9:30 A.M. – 9:45 A.M.<br><span class="session-type">Welcome</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#salmoiraghi">Jessica Salmoiraghi</a></span>, Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#salmoiraghi">Jessica Salmoiraghi</a></b></span>, Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
     </div>
   </div>
   
@@ -30,7 +30,7 @@ created: 1600981839
       9:45 A.M. – 10:15 A.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020/#harkin">The Honorable Thomas Harkin</a></span>, Former Senator and author of the Americans with Disabilities Act (ADA)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020/#harkin">The Honorable Thomas Harkin</a></b></span>, Former Senator and author of the Americans with Disabilities Act (ADA)
     </div>
   </div>
   
@@ -45,7 +45,7 @@ created: 1600981839
       10:30 A.M. – 11:00 A.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#dhillon">Janet Dhillon</a></span>, Chair of the Equal Employment Opportunity Commission (EEOC)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#dhillon">Janet Dhillon</a></b></span>, Chair of the Equal Employment Opportunity Commission (EEOC)
     </div>
   </div>
   
@@ -88,7 +88,7 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1" id="d1k3">12:15 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#langevin">The Honorable Congressman Jim Langevin,</a></span> U.S House of Representatives, Rhode Island’s 2nd Congressional District 
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#langevin">The Honorable Congressman Jim Langevin,</a></b></span> U.S House of Representatives, Rhode Island’s 2nd Congressional District 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#schweickhardt">Reynold Schweickhardt,</a></b> </span>General Services Administration (GSA)
@@ -115,7 +115,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#clark">Hilary Clark,</a></b> </span>Environmental Protection Agency (EPA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#fuoco">Angie L. Fuoco,</a></span>Environmental Protection Agency (EPA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#fuoco">Angie L. Fuoco,</a></b></span>Environmental Protection Agency (EPA)
       </div>
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d1bs1b">
@@ -130,10 +130,10 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#crowell">Pierce Crowell,</a></b> </span>Social Security Administration (SSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#urban">Mark Urban,</a> </span>Centers for Disease Control and Prevention (CDC)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#urban">Mark Urban,</a> </b></span>Centers for Disease Control and Prevention (CDC)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#whittington">Dave Whittington,</a> </span>U.S. Census Bureau
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#whittington">Dave Whittington,</a> </b></span>U.S. Census Bureau
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
@@ -152,10 +152,10 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#moore">Rhonda Moore, PhD</a></b> </span>Department of Health and Human Services (HHS)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#robertson">Scott Robertson, PhD</a> </span>Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#robertson">Scott Robertson, PhD</a> </b> </span>Department of Labor (DOL)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#prabhakaran">Vinodkumar Prabhakaran, PhD</a> </span>Google
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#prabhakaran">Vinodkumar Prabhakaran, PhD</a> </b></span>Google
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
@@ -188,7 +188,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#farraj-feijoo">Ammie Farraj-Feijoo,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#williams">Dan Williams,</a> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2020#williams">Dan Williams,</a> </b> </span>General Services Administration (GSA)
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -205,10 +205,10 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#blakely-hill">Jocelyn Blakely-Hill,</a></b> </span>National Archives and Records Administration (NARA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#gibson">Yvette Gibson,</a> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2020#gibson">Yvette Gibson,</a> </b> </span>General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#paschel">Shannon Paschel,</a> </span>Defence Intelligence Agency (DIA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#paschel">Shannon Paschel,</a> </b> </span>Defence Intelligence Agency (DIA)
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf">IAAF 2020 - Welcome New PMs Breakout Session Presentation (PDF)</a></span>
         </div>
@@ -227,7 +227,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#fern">David Fern,</a></b> </span>Social Security Administration (SSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#bonitto">Toni Bonitto,</a> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#bonitto">Toni Bonitto,</a> </b> </span>General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
@@ -259,10 +259,10 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#eng">Kathy Eng,</a></b> </span>U.S. Access Board (USAB)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#horton">Michael Horton,</a> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#horton">Michael Horton,</a> </b> </span>General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#nielson"> Andrew Nielson,</a></span> General Services Administration (GSA)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2020#nielson"> Andrew Nielson,</a> </b> </span> General Services Administration (GSA)
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -279,13 +279,13 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#francis">Camara Francis,</a></b> </span> General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#creagan">Tim Creagan,</a></span> U.S. Access Board (USAB)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#creagan">Tim Creagan,</a> </b> </span> U.S. Access Board (USAB)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#kuk">Jennifer Kuk,</a></span> Office of Management and Budget (OMB)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#kuk">Jennifer Kuk,</a> </b> </span> Office of Management and Budget (OMB)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#willie-smith">Willie Smith,</a></span> Department of Transportation (DOT)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#willie-smith">Willie Smith,</a> </b> </span> Department of Transportation (DOT)
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -302,10 +302,10 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#hays">Keith Hays,</a></b> </span> University of Illinois
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#pruitt">Cheryl Pruitt,</a></span> California State University (CSU)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#pruitt">Cheryl Pruitt,</a></b></span> California State University (CSU)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#vanderheiden">Gregg Vanderheiden,</a></span> University of Maryland Trace Center
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#vanderheiden">Gregg Vanderheiden,</a> </b> </span> University of Maryland Trace Center
         </div>
       </div> 
     </div> 
@@ -339,7 +339,7 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">9:45 A.M. – 10:15 A.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#briscoe">Paula Briscoe, PhD,</a></span> Deputy Director, Intelligence Community Equal Employment and Diversity, Office of the Director of National Intelligence
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#briscoe">Paula Briscoe, PhD,</a></b></span> Deputy Director, Intelligence Community Equal Employment and Diversity, Office of the Director of National Intelligence
       </div>
     </div>
     <div class="grid-row break">
@@ -360,10 +360,10 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#franks">Aaron Frank, </a></b> </span> Shared Service Canada (SSC)
         </div> 
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#laurin">Susanna Laurin,</a></span> Global Leadership Council, International Association of Accessibility Professionals (IAAP)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#laurin">Susanna Laurin,</a></b></span> Global Leadership Council, International Association of Accessibility Professionals (IAAP)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#thurston">James Thurston,</a></span> Global Initiative for Inclusive ICTs (G3ICT)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#thurston">James Thurston,</a> </b> </span> Global Initiative for Inclusive ICTs (G3ICT)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
@@ -393,14 +393,14 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#cooper">Darryl Cooper,</a></b> </span> Federal Communications Commission (FCC)
         </div> 
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#schell">Will Schell,</a></span> Federal Communications Commission (FCC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#schell">Will Schell,</a></b></span> Federal Communications Commission (FCC)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#singleton">Suzy Rosen Singleton,</a></span> Federal Communications Commission (FCC)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2020#singleton">Suzy Rosen Singleton,</a> </b> </span> Federal Communications Commission (FCC)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx">IAAF 2020 - Twenty-First CVAA (PPT)</a>
+          <span class="speaker-name"> <b> <a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx">IAAF 2020 - Twenty-First CVAA (PPT)</a> </b>
           </span>
         </div>
       </div> 
@@ -421,7 +421,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#manuel">Rayvn Manuel,</a></b> </span> National Museum of African American History & Culture
         </div>
         <div class="speaker-info padding-top-1">                                                                                                        
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#ziebarth">Beth Ziebarth,</a></span> Accessibility at the Smithsonian Institute Accessibility Program
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#ziebarth">Beth Ziebarth,</a></b></span> Accessibility at the Smithsonian Institute Accessibility Program
         </div>
       </div> 
     </div>
@@ -430,9 +430,9 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:30 P.M. – 3:45 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#peters">David Peters,</a></span> Chief of the Applications Development and Services Division, Office of the Chief Information Officer, U.S. Census Bureau
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#peters">David Peters,</a></b></span> Chief of the Applications Development and Services Division, Office of the Chief Information Officer, U.S. Census Bureau
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><a href="{{site.baseurl}}/iaaf/biographies-2020#sullivan">John Sullivan,</a></span> Director of the Government-wide IT Accessibility Program, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2020#sullivan">John Sullivan,</a></b></span> Director of the Government-wide IT Accessibility Program, General Services Administration
         </div>
       </div>
     </div>
