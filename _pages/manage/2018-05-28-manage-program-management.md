@@ -68,9 +68,9 @@ Federal agencies are required to follow Section 508 and related laws and policie
 &nbsp;
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
-[2]: https://section508.gov/tools/playbooks/
+[2]: {{site.baseurl}}/tools/playbooks/
 [3]: {{site.baseurl}}/manage/roles
-[4]: http://section508.gov/manage/program-manager-responsibilities
+[4]: {{site.baseurl}}/manage/program-manager-responsibilities
 [5]: {{site.baseurl}}/manage/identify-user-needs
 [6]: {{site.baseurl}}/create/universal-design
 [7]: {{site.baseurl}}/manage/support-accessible-content

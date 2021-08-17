@@ -420,8 +420,8 @@ create:
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
-        url: 'create/pdfs#tips'
-  - name: Create Accessible meetings
+        url: create/pdfs#tips
+  - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
     url: 'create/synchronized-media/'

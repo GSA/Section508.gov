@@ -81,6 +81,7 @@ Rick Coleman - 202-692-0228 - <rick.coleman@wdc.usda.gov>
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - [jjessup@doc.gov][41]
 ### National Institute of Standards and Technology (NIST)
+
 Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
 ### National Oceanic and Atmospheric Administration (NOAA)
 
@@ -95,6 +96,7 @@ Patricia Kless - 703-756-1977 - [patricia.Kless@uspto.gov][43]
 
 ## <a id="usdod" name="usdod"></a>Department of Defense
 ### Department-wide
+
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - [susan.j.haggerty2.civ@mail.mil][44]
 ### Air Force
 Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
@@ -104,6 +106,7 @@ Claude Tanoe - 240-612-8038 - <claude.b.tanoe.civ@mail.mil>
 Victor Rivers - 301-844-9127 - <victor.m.rivers.civ@mail.mil>
   * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
   * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
+
 ### Center for Development of Security Excellence (CDSE)
 Sujata (Susie) Buckley - 410-689-1339- [sujata.b.buckley.civ@mail.mil][45]
 ### Computer/Electronic Accommodations Program (CAP)
@@ -128,8 +131,10 @@ Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
 Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
 
-  * **Project Management Branch** - Marji Patel (Acting) - 703-474-3691 - <marji.patel.civ@mail.mil>
+   * **Project Management Branch** - Marji Patel (Acting) - 703-474-3691 - <marji.patel.civ@mail.mil>
+
 ### Defense Intelligence Agency (DIA)
+Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
 DIA IT Accessibility Program Office - <508AccessibilityTeam@dodiis.mil>
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
@@ -160,11 +165,12 @@ Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
 Christopher Julka - 703-697-0031 -&nbsp;<christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** - Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
-  * **Bureau of Navy Personnel** - Mitchell E. Kilgore - 901-874-4748 - <mitch.kilgore@navy.mil>
+  * **Bureau of Naval Personnel** - Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
   * **Naval Air Systems Command** - Arnetta White - 301-757-7389 - [arnetta.white@navy.mil][50]
   * **Naval Information Warfare Systems Command** - Tyler McLean - 619-810-7821 - <tyler.mclean@navy.mil>
   * **Navy Reserve Forces Command** - Clint Wadsworth - 757-322-6643 - <clinton.wadsworth@navy.mil>
   * **Office of Naval Research** - Curtis Pelzer - 703-696-4118 - <pelzerc@onr.navy.mil>
+
 ### U.S. European Command (EUCOM)
 Dawson Simpson - 314-430-6780 - <dawson.w.simpson.mil@mail.mil>
 ### U.S. Northern Command (USNORTHCOM)
@@ -241,9 +247,10 @@ Janice Fenlason - 202-212-4324 - <janice.fenlason@fema.dhs.gov>
 ### FEMA Emergency Management Institute (EMI)
 Thonya Cook - 301-447-1512 - [thonya.cook@fema.dhs.gov][56]  
 Justin Peterson (BACKUP) - 301-447-1163 - [justin.peterson@fema.dhs.gov][57]
-### **FEMA U.S. Fire Administration (USFA)**
+###  **FEMA U.S. Fire Administration (USFA)**
 Mark Magers - 301-447-7689 - [mark.magers@fema.dhs.gov][58]  
 Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
+
 ### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
@@ -324,6 +331,7 @@ Eileen Yorke - 202.648.7535&nbsp;- <a href="mailto:Eileen.M.Yorke@usdoj.gov" tar
 Thomas Hill -&nbsp;202.648.7053 -&nbsp;<a href="mailto:Thomas.D.Hill@usdoj.gov" target="_blank">thomas.D.Hill@usdoj.gov</a>
 
   * National Laboratory Center - Kristin A. Gerber - 202-648-6113-&nbsp;<a href="mailto:Kristin.A.Gerber@usdoj.gov" target="_blank">kristin.A.Gerber@usdoj.gov</a>
+
 ### Civil Division
 Doug McManus - 202-616-0325 - [doug.McManus@usdoj.gov][68]
 ### Civil Rights Division

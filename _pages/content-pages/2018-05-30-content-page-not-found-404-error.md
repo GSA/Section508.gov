@@ -18,6 +18,6 @@ We&rsquo;ve recently redesigned this website, and it looks like the page you wan
   * <a href=“/manage”>Find information for IT Accessibility program managers</a>
   * <a href=“/sell/vpat”>Learn about VPATs&trade;</a>
 
-If none of these options seem to fit, please try our site search, visit the <a href=“https://section508.gov”>Section508.gov homepage</a>, or <a href=“mailto:section.508@gsa.gov”>email us with your question</a>.
+If none of these options seem to fit, please try our site search, visit the <a href=“{{site.baseurl}}”>Section508.gov homepage</a>, or <a href=“mailto:section.508@gsa.gov”>email us with your question</a>.
 
 **Reviewed/Updated:** May 2018
