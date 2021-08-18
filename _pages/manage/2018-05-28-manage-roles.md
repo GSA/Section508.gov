@@ -20,7 +20,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 <table class="roles-table table table-responsive">
   <tbody>
     <tr>
-      <th colspan="2">
+      <th colspan="2" scope="col">
         <div id="management">
           <h2>
             Agency Program Management
@@ -29,17 +29,17 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
       </th>
     </tr>
     
-    <tr bgcolor="E7E7E7">
-      <td>
+<tr bgcolor="E7E7E7">
+      <th scope="col">
         <b>Role</b>
-      </td>
+      </th>
       
-      <td>
+ <th scope="col">
         <b>Responsibilities</b>
-      </td>
+      </th>
     </tr>
     
-    <tr>
+<tr>
       <td>
         <a href="{{site.baseurl}}/tools/coordinator-listing">Agency Section 508 Program Manager</a>
       </td>
@@ -149,14 +149,14 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
       </th>
     </tr>
     
-    <tr bgcolor="E7E7E7">
-      <td>
+   <tr bgcolor="E7E7E7">
+      <th scope="col">
         <b>Role</b>
-      </td>
+      </th>
       
-      <td>
+   <th scope="col">
         <b>Responsibilities</b>
-      </td>
+      </th>
     </tr>
     
     <tr>
@@ -238,14 +238,14 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
       </th>
     </tr>
     
-    <tr bgcolor="E7E7E7">
-      <td>
+<tr bgcolor="E7E7E7">
+      <th scope="col">
         <b>Role</b>
-      </td>
+      </th>
       
-      <td>
+<th scope="col">
         <b>Responsibilities</b>
-      </td>
+      </th>
     </tr>
     
     <tr>
