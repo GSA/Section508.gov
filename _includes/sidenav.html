@@ -32,8 +32,8 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {%- assign current = true -%}
             {%- endif -%}
             {%- if link.children -%}
-            <li class="usa-sidenav__item list {%- if current -%} active usa-current{%- endif -%}">
-                <a href="#" class="header-menu-text">{{ link.name }}</a>
+            <li class="usa-sidenav__item list {% if current %} active usa-current{% endif %}">
+                <a href="#" class="header-menu-text">{{- link.name -}}</a>
                 <ul class="usa-sidenav__sublist items">
                     {%- for children in link.children -%}
                     {%- assign currentChild = false -%}
@@ -41,26 +41,26 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                     {%- assign currentChild = true -%}
                     {%- endif -%}
                     {%- if children.grandchildren -%}
-                    <li class="usa-sidenav__item list {%- if currentChild -%} active usa-current {%- endif -%}">
-                            <a href="#">{{ children.name }}</a>
+                    <li class="usa-sidenav__item list {% if currentChild %} active usa-current {% endif %}">
+                            <a href="#">{{- children.name -}}</a>
                          <ul class="usa-sidenav__sublist items">
                           {%- for grandchildren in children.grandchildren -%}
                              {%- assign currentGrandchild = false -%}
                              {%- if page.url == grandchildren.url or page.permalink == grandchildren.url -%}
                              {%- assign currentGrandchild = true -%}
                              {%- endif -%}
-                           <li class="usa-sidenav__item {%- if currentGrandchild -%} active usa-current {%- endif -%}">
+                           <li class="usa-sidenav__item {% if currentGrandchild %} active usa-current {% endif %}">
                              <a href="{%- if grandchildren.external -%}{{ grandchildren.url }}{%- else -%} {{ site.baseurl }}/{{ grandchildren.url  }} {%- endif -%}">
-                               {{ grandchildren.name }}
+                               {{- grandchildren.name -}}
                              </a>
                            </li>
                            {%- endfor -%}
                          </ul>
                     </li>
                     {%- else -%}
-                    <li class="usa-sidenav__item {%- if currentChild -%} active usa-current {%- endif -%}">
+                    <li class="usa-sidenav__item {% if currentChild %} active usa-current {% endif %}">
                         <a href="{%- if children.external -%}{{ children.url }}{%- else -%} {{ site.baseurl }}/{{ children.url }} {%- endif -%}">
-                            {{ children.name }}
+                            {{- children.name -}}
                         </a>
                     </li>
                     {%- endif -%}
@@ -69,8 +69,8 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             </li>
             {%- else -%}
             <li class="usa-sidenav__item">
-                <a href="{%- if link.external -%}{{ href }}{%- else -%} {{ site.baseurl }}/{{ href }} {%- endif -%}" {%- if current -%} class="active usa-current" {%- endif -%}>
-                    {{ link.name }}
+                <a href="{%- if link.external -%}{{ href }}{%- else -%} {{ site.baseurl }}/{{ href }} {%- endif -%}" {% if current %} class="active usa-current" {% endif %}>
+                    {{- link.name -}}
                 </a>
             </li>
             {%- endif -%}
