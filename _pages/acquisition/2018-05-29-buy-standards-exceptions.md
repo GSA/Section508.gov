@@ -26,13 +26,13 @@ The following examples show how to complete the chart for different ICT items.
 <table class="usa-table usa-table--borderless">
  <thead>
     <tr>
-      <th>
+      <th scope="col">
         Exceptions, Functional Performance Criteria and Technical Requirements
       </th>
-    <th>
+    <th scope="col">
         What applies?
       </th>
-    <th>
+    <th scope="col">
        What functionality is covered?
       </th>
     </tr>
