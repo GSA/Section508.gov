@@ -88,7 +88,7 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 
 <ol>
   <li>
-    Sign into <a href="http://digitaldashboard.gov/">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/">MAX.gov</a> account </li>
+    Sign into <a href="http://digitaldashboard.gov/" aria-label="DigitalDashboard">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/">MAX.gov</a> account </li>
     <li>
       Select the &ldquo;Accessibility&rdquo; module link, and review the data for your agency.
     </li>
