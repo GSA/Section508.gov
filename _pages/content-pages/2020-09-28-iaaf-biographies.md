@@ -1,7 +1,7 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/biographies-2020/
+permalink: iaaf/archives/biographies-2020/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
 created: 1601325079

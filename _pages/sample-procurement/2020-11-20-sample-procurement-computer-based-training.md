@@ -239,8 +239,8 @@ mode of operation that does not require user hearing.
 
 [302.5 With Limited Hearing -][9] Where an audible mode of operation is provided, ICT shall provide at least one mode of operation that enables users to make use of limited hearing.
 
-[302.6 Without Speech -][9] Where speech is used for input, control, or operation, ICT shall <u>provide at least one mode of operation</u><u>that does not require user speech.</u>
-
+[302.6 Without Speech -][9] Where speech is used for input, control, or operation, ICT shall < provide at least one mode of operation that does not require user speech.
+ 
 [302.7 With Limited Manipulation -][9] Where a manual mode of operation is provided, ICT shall provide at least one mode of operation that does not require fine motor control or simultaneous manual operations.
 
 [302.8 With Limited Reach and Strength -][9] Where a manual mode of operation is provided, ICT shall provide at least one mode of operation that is operable with limited reach and limited strength.

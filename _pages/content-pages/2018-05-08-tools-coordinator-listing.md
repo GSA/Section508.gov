@@ -42,7 +42,7 @@ If your agency doesn't have a designated 508 PM, contact your agency CIO office 
 [Social Security Administration][24]
 ## Small and Independent Agencies
 Navigate to Agencies starting with: <a id="topA" name="top"></a> |[A][25]|<a id="topC" name="top"></a>|[C][26]| <a id="topD" name="top"></a>|[D][27]| <a id="topE" name="top"></a>|[E][28]| <a id="topF" name="top"></a>|[F][29]| <a id="topG" name="top"></a>|[G][30]| [I][31]| <a id="topM" name="top"></a>|[M][32]| <a id="topN" name="top"></a>|[N][33]| <a id="topO" name="top"></a>|[O][34]| <a id="topP" name="top"></a>|[P][35]| <a id="topR" name="top"></a>|[R][36]| <a id="topS" name="top"></a>|[S][37]| <a id="topT" name="top"></a>|[T][38]| <a id="topU" name="top"></a>|[U][39]|
-\- - - - -  
+
 ## <a id="usaid" name="usaid"></a>Agency for International Development (USAID)
 
 William Morgan - <wmorgan@usaid.gov>
