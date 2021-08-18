@@ -20,13 +20,13 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 <table class="roles-table table table-responsive">
   <tbody>
     <tr>
-      <th colspan="2" scope="col">
         <div id="management">
+        <caption>
           <h2>
             Agency Program Management
           </h2>
+          </caption>
         </div>
-      </th>
     </tr>
     
 <tr bgcolor="E7E7E7">
@@ -140,13 +140,13 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 <table class="roles-table table table-responsive">
   <tbody>
     <tr>
-      <th colspan="2">
         <div id="implementation">
+        <caption>
           <h2>
             Government-wide Implementation Guidance
           </h2>
+          </caption>
         </div>
-      </th>
     </tr>
     
    <tr bgcolor="E7E7E7">
@@ -229,13 +229,13 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 <table class="roles-table table table-responsive">
   <tbody>
     <tr>
-      <th colspan="2">
         <div id="reporting">
+        <caption>
           <h2>
             Reporting
           </h2>
+          </caption>
         </div>
-      </th>
     </tr>
     
 <tr bgcolor="E7E7E7">
