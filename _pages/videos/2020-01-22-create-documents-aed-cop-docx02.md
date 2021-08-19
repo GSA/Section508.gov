@@ -17,7 +17,7 @@ created: 1579720804
 
 Learn how to add headings and formatting to a document so assistive technology can infer meaning from the document structure and formatted characters using built-in styles.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source alt= "module2 video" src="https://assets.section508.gov/files/aed-cop-docx-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source aria-label= "module2 video" src="https://assets.section508.gov/files/aed-cop-docx-m02.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 
