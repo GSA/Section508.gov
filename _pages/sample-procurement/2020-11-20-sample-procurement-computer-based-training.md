@@ -139,7 +139,7 @@ Electronic content that is not public facing shall conform to the accessibility 
 
 [E205.4.1 Word Substitution when Applying WCAG to non-Web Documents][2] -
 
-For non-Web documents, wherever the term "Web page" or "page" appears in WCAG 2.0 Level A and AA Success Criteria and Conformance Requirements, the term "document" shall be substituted for the terms "Web page" and "page". In addition, in Success Criterion in 1.4.2, the phrase "in a document" shall be substituted for the phrase "on a Web page"..
+For non-Web documents, wherever the term "Web page" or "page" appears in WCAG 2.0 Level A and AA Success Criteria and Conformance Requirements, the term "document" shall be substituted for the terms "Web page" and "page". In addition, in Success Criterion in 1.4.2, the phrase "in a document" shall be substituted for the phrase "on a Web page".
 
 **The following standards are applicable:**
 
