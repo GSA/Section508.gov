@@ -203,7 +203,7 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <li dir="ltr">
-  <a href="{{site.baseurl}}/art/home">Accessibility Requirements Tool (ART)</a> <ul>
+  <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> <ul>
     <li dir="ltr">
       Use ART to determine if accessibility requirements apply when you purchase IT products and services
     </li>
