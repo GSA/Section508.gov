@@ -41,7 +41,10 @@ If your agency doesn't have a designated 508 PM, contact your agency CIO office 
 [Small Business Administration][23]  
 [Social Security Administration][24]
 ## Small and Independent Agencies
-Navigate to Agencies starting with: <a id="topA" name="top"></a> |[A][25]|<a id="topC" name="top"></a>|[C][26]| <a id="topD" name="top"></a>|[D][27]| <a id="topE" name="top"></a>|[E][28]| <a id="topF" name="top"></a>|[F][29]| <a id="topG" name="top"></a>|[G][30]| [I][31]| <a id="topM" name="top"></a>|[M][32]| <a id="topN" name="top"></a>|[N][33]| <a id="topO" name="top"></a>|[O][34]| <a id="topP" name="top"></a>|[P][35]| <a id="topR" name="top"></a>|[R][36]| <a id="topS" name="top"></a>|[S][37]| <a id="topT" name="top"></a>|[T][38]| <a id="topU" name="top"></a>|[U][39]|
+Navigate to Agencies starting with: <span id="topA" ></span> |[A][25]| <span id="topC" id="top"></span> |[C][26]| <span id="topD" id="top"></span> |[D][27]|  <span id="topE" id="top"></span> |[E][28]|  <span id="topF" id="top"></span>|[F][29]| <span id="topG" id="top"></span> |[G][30]| |[I][31]| <span id="topM" id="top"></span> |[M][32]| <span id="topN" id="top"></span> |[N][33]| <span id="topO" id="top"></span> |[O][34]| <span id="topP" id="top"></span> |[P][35]| <span id="topR" id="top"></span> |[R][36]| <span id="topS" id="top"></span> |[S][37]| <span id="topT" id="top"></span> |[T][38]| <span id="topU" id="top"></span> |[U][39]|
+
+- - - - -
+
 
 ## <a id="usaid" name="usaid"></a>Agency for International Development (USAID)
 
@@ -158,7 +161,7 @@ Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>
 ### National Geospatial Intelligence Agency
-Andrew Kohler - 571-557-2453 - [andrew.S.Kohler@nga.mil][49]
+Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
 ### National Reconnaissance Office
 Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
 ### Navy
@@ -181,7 +184,8 @@ Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
 Matthew Mihelcic - 618-220-3982 DSN -770-4334 - <matthew.m.mihelcic.civ@mail.mil>
 ### Washington Headquarters Service (WHS)
-Vacant
+Vacant 
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
 <a id="usdoe" name="usdoe"></a>
 ## Department of Education
@@ -225,6 +229,7 @@ Lisa Sneed Tucker - 301-594-0545 - <lisa.sneed2@psc.hhs.gov>
 
 Mark Siegal - 240-276-2141 - [mark.Siegal@samhsa.hhs.gov][53]  
 Erin Washington - 240-276-0571 - [erin.Washington@samhsa.hhs.gov][54]
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
 <a id="usdhs" name="usdhs"></a>
 
@@ -240,7 +245,7 @@ Dester Njike - 240-705-0921 - <dester.njike@associates.hq.dhs.gov>
 Timothy Monaghan - 571-468-6684 - <timothy.monaghan@cbp.dhs.gov>  
 Amanda C. Haney&nbsp;(BACKUP) - 571-468-6497 - <amanda.c.haney@cbp.dhs.gov>
 ### **Cybersecurity & Infrastructure Security Agency (CISA)**
-Stan Lavery - 202-875-2587 - <stan.lavery@cisa.dhs.gov>
+Stan Lavery - 202-875-2587 - <stan.lavery@cisa.dhs.gov>    
 Della Alvarado - 202-805-3425- <della.alvarado@cisa.dhs.gov>
 ### Federal Emergency Management Agency (FEMA)
 Janice Fenlason - 202-212-4324 - <janice.fenlason@fema.dhs.gov>
@@ -280,7 +285,9 @@ Eleanor E. Thompson - 202-372-2673 - [eleanor.e.thompson@uscg.mil][63]
 Deborah A. Johnson-Hood -&nbsp;202-475-3576 -&nbsp;[deborah.a.johnson-hood@uscg.mil][64]
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - [leonard.dorrian@usss.dhs.gov][65]
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
+
 <a id="usdhud" name="usdhud"></a>
 
 ## Department of Housing and Urban Development
@@ -316,7 +323,8 @@ Brenda Wright - 202-208-7920 - <brenda.wright@sol.doi.gov>
 Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
 ### U.S. Geological Survey (USGS)
 Christina Bartlett -&nbsp;703-648-7197 - <cbartlett@usgs.gov>  
-Larry Reedy -&nbsp;<lreedy@usgs.gov>
+Larry Reedy -&nbsp;<lreedy@usgs.gov>   
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
 <a id="usdoj" name="usdoj"></a>
 
@@ -376,7 +384,8 @@ Jacques Brown - 202-616-0530 - [jacques.V.Brown@usdoj.gov][88]
 ### Tax Division
 Christopher Egan - 202-514-9838 - [christopher.R.Egan@usdoj.gov][89]
 ### United States Marshals Service
-Carmen Carpenter - 703-740-0860 - [carmen.Carpenter@usdoj.gov][90]
+Carmen Carpenter - 703-740-0860 - [carmen.Carpenter@usdoj.gov][90] 
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
 <a id="usdol" name="usdol"></a>
 
@@ -429,6 +438,7 @@ Jerry Kim - 202-657-7727 - <jerry.kim@tigta.treas.gov>
 ### U.S. Mint
 James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody - (BACKUP) 202-354-7791 - [rodney.dunwoody@usmint.treas.gov][97]
+
 <a href="#top" name="top" title="Return to top">Return to Top</a>
 <a id="usdova" name="usdova"></a>
 
@@ -676,7 +686,7 @@ Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
  [46]: mailto:Rosemary.Salak.civ@mail.mil
  [47]: mailto:Robert.r.bleck.civ@mail.mil
  [48]: mailto:Kelley.hughes@usmc.mil
- [49]: mailto:Andrew.S.Kohler@nga.mil
+ <!-- [49]: mailto:Andrew.S.Kohler@nga.mil -->
  [50]: mailto:Arnetta.white@navy.mil
  [51]: mailto:Kate.Maynor@hhs.gov
  [52]: mailto:ltaylor1@hrsa.gov
