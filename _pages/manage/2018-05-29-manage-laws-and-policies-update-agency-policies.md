@@ -16,15 +16,22 @@ Your accessibility policies should explain that your agency is obligated to:
 
 These policies should acknowledge that failing to meet these obligations could result in unlawful discrimination against people with disabilities, and put the agency at risk.
 
-  * [User Needs][1]
-  * [Electronic Content &ndash; Public Facing and Official Agency Communications][2]
-  * [Legacy ICT General Exception][3]
-  * [Maintenance/Monitoring Spaces General Exception][4]
-  * [Undue Burden General Exception][5]
-  * [Fundamental Alteration General Exception][6]
-  * [National Security Systems General Exception][7]
-  * [Alternative Means][8]
-  * [Rehabilitation Act of 1973][9]
+<div class="grid-row">
+  <div class="grid-col-auto jump-links">
+    <strong>Jump to a Topic:</strong>
+    <ul style="list-style-type:none; padding-left: 10px">
+      <li><a href="#user">User Needs</a></li>
+      <li><a href="#electronic">Electronic Content &ndash; Public Facing and Official Agency Communications</a></li>
+      <li><a href="#legacy">Legacy ICT General Exception</a></li>
+      <li><a href="#maintenance">Maintenance/Monitoring Spaces General Exception</a></li>
+      <li><a href="#undue">Undue Burden General Exception</a></li>
+      <li><a href="#fundamental">Fundamental Alteration General Exception</a></li>
+      <li><a href="#national">National Security Systems General Exception</a></li>
+      <li><a href="#alternative">Alternative Means</a></li>
+      <li><a href="#rehab">Rehabilitation Act of 1973</a></li>
+    </ul>
+  </div>
+</div>
 
 <h2 id="user">
   User Needs
