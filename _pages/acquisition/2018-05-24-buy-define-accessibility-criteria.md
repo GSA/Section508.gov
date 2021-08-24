@@ -56,7 +56,7 @@ Navigate through the sections below to find sample language you can cut and past
   </li>
 </ul>
 
-&nbsp;
+
 
 <div id="provisions">
   <h2>
@@ -64,7 +64,7 @@ Navigate through the sections below to find sample language you can cut and past
   </h2>
 </div>
 
-&nbsp;
+
 
 <div id="custom-ict">
   <h3>
@@ -188,7 +188,7 @@ Use for ICT items that are developed, updated, configured for the agency, and wh
 
 **Sample language:**
 
-Before acceptance, the contractor shall provide an **Accessibility Conformance Report (ACR)** for each ICT item that is developed, updated, configured for the agency, and when product substitutions are offered. The ACR should be based on the latest version of the [Voluntary Product Accessibility Template (VPAT&trade;)][3] provided by the [Industry Technology Industry Council (ITIC)][4]. To be considered for award, an ACR must be submitted for each ICT Item, and must be completed according to the instructions provided by ITIC.
+Before acceptance, the contractor shall provide an **Accessibility Conformance Report (ACR)** for each ICT item that is developed, updated, configured for the agency, and when product substitutions are offered. The ACR should be based on the latest version of the [Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)][3]provided by the [Industry Technology Industry Council (ITIC)][4]. To be considered for award, an ACR must be submitted for each ICT Item, and must be completed according to the instructions provided by ITIC.
 
 Before acceptance, when the contractor is required to perform testing to validate conformance to the agency's accessibility requirements, the vendor shall provide a **Supplemental Accessibility Conformance Report (SAR)** that contains the following information:
 
@@ -217,7 +217,6 @@ Before final acceptance of any ICT item, including updates and replacements, if 
 
 
 **Reviewed/Updated:** May 2018
-
 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule

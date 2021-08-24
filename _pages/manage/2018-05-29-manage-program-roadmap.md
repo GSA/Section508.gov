@@ -58,7 +58,7 @@ created: 1527574221
   </li>
   </ul>
 
-<h2 dir="ltr" id="build">
+<h2>
   Build Awareness & Support
 </h2>
 
@@ -107,20 +107,21 @@ created: 1527574221
 <h3 dir="ltr">
   Revised 508 Standards
 </h3>
-<ul>
+  <ul>
+    <li dir="ltr">
+      <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
+   </li>
   <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
+     <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
   </li>
-  <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
-  </li>
-  <li dir="ltr">
-  <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
-  </li>
-</ul>
-
- * [WCAG 2.0 Level A and Level AA Success Criteria][2] - Comparison to Original 508 Standards
- * [Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)][3]
+    <li dir="ltr">
+    <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
+  </li> 
+  <li dir ="ltr">
+  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a> </li>
+   <li dir ="ltr">
+   <a hred = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
+  </ul>
 
 <h3 dir="ltr">
   Webinars
@@ -183,7 +184,7 @@ created: 1527574221
 
 [Back to top][9]
 
-<h2 dir="ltr">
+<h2 dir="ltr"  id="design">
   Practice Universal Design
 </h2>
 
@@ -231,9 +232,10 @@ created: 1527574221
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
-</ul>
- 
-   * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
+<li dir="ltr">
+  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
+ </li>
+ </ul>
 
 ### Testing Guidelines
 
@@ -309,9 +311,10 @@ created: 1527574221
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
+<li dir="ltr">
+  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
+  </li>
 </ul>
-
-   * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
@@ -390,12 +393,8 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-<ul>
- <li dir="ltr">
-  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
- </li>
-</ul>
 
+  * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
   * [Define Accessibility Criteria][18] - Learn how to prepare solicitations, statements of work, or other procurement documents _(NEW)_
   * [Request Accessibility Information From Vendors and Contractors][19] - Learn how to communicate accessibility requirements and contract provisions to vendors _(NEW)_; includes guidance on the Voluntary Product Accessibility Template, which is used by vendors to create Accessibility Conformance Reports (ACRs) _(Updated)_
 
@@ -470,12 +469,8 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-<ul>
-<li dir="ltr">
-  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
-</li>
-</ul>
 
+  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
 
 ### Technology Accessibility Playbook

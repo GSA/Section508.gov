@@ -17,9 +17,9 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 
 [Reporting][3]
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
-    <tr>
+    <tr> 
         <div id="management">
         <caption>
           <h2>
@@ -29,7 +29,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </div>
     </tr>
     
-<tr bgcolor="E7E7E7">
+<tr style="background-color:#ccc">
       <th scope="col">
         <b>Role</b>
       </th>
@@ -38,8 +38,9 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         <b>Responsibilities</b>
       </th>
     </tr>
+
     
-<tr>
+<tr >
       <td>
         <a href="{{site.baseurl}}/tools/coordinator-listing">Agency Section 508 Program Manager</a>
       </td>
@@ -52,7 +53,9 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
+
+
+
     <tr>
       <td>
         Agency Employees (developers, content creators, procurement professionals)
@@ -137,7 +140,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
   </tbody>
 </table>
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
         <div id="implementation">
@@ -226,7 +229,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
   </tbody>
 </table>
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
         <div id="reporting">
