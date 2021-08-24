@@ -14,9 +14,9 @@ created: 1527530633
     </p>
   </div>
   
-  <aside class="desktop:grid-col-4">
-    <p><small><strong>Universal design</strong> is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.</small></p>
-  </aside>
+  <div class="desktop:grid-col-4" style="margin-bottom: 15px;">
+    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;">
+  </div>
 </div>
 
 <p>
