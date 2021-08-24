@@ -13,10 +13,10 @@ Identify which Standards apply to each ICT item:
 
   * Select the type of ICT, then answer the questions
   * If your ICT item falls under a single category:
-  * Select the category that best fits, and only answer those questions
+     * Select the category that best fits, and only answer those questions
 
   * If your ICT item spans multiple categories (e.g., a VOIP IP solution that includes both hardware and software):
-  * Answer the questions under each relevant category
+     * Answer the questions under each relevant category
 
   * Record your responses in the [Revised 508 Standards Applicability Checklist][3] (MS-Word, April 2018)
 
@@ -43,7 +43,7 @@ Note, this step is not required if your entire ICT item is eligible for any of t
 **Question 1** - Is the content comprised of records maintained by the National Archives and Records Administration (NARA) pursuant to Federal recordkeeping statutes?
 
   * If Yes, the electronic content component of the ICT item does not have to conform to the Revised 508 Standards.
-  * If the ICT contains hardware or software components, proceed below to those sections, below.
+    * If the ICT contains hardware or software components, proceed below to those sections, below.
 
   * If No, proceed to Question 2
 
@@ -58,7 +58,7 @@ All public facing electronic content must be accessible. The standards define �
 
   * If Yes, proceed to Question 4
   * If No, the electronic content component of the ICT item does not have to conform to the Revised 508 Standards.
-  * If the ICT contains hardware or software components, proceed below to those sections.
+    * If the ICT contains hardware or software components, proceed below to those sections.
 
 Electronic content that is not public facing but is official business, and is communicated through one or more of the nine categories below is an ”agency official communication” and must be accessible. The content might be broadly disseminated or sent to individual agency employees or members of the public. The method of delivery does not determine whether electronic content is ”agency official communication.” Such content may be disseminated via an internal agency website or intranet, or by other delivery modes. Common transmittal means include, but are not limited to: emails, text messages, phone alerts, storage media, and downloadable documents.
 
@@ -79,18 +79,18 @@ NOTE: An exception provides that NARA is not responsible for remediating records
 **Question 4** - Will the electronic content be web-based?
 
   * If Yes, the following Standards apply:
-  * 602 Support Documentation
-  * 603 Support Services
-  * All WCAG A & AA Success Criteria
+    * 602 Support Documentation
+    * 603 Support Services
+    * All WCAG A & AA Success Criteria
 
   * If No, the following Standards apply:
-  * 602 Support Documentation
-  * 603 Support Services
-  * All WCAG A & AA Success Criteria apply **_except:_**
-  * 2.4.1 Bypass Blocks
-  * 2.4.5 Multiple Ways
-  * 3.2.3 Consistent Navigation
-  * 3.2.4 Consistent Identification
+    * 602 Support Documentation
+    * 603 Support Services
+    * All WCAG A & AA Success Criteria apply **_except:_**
+      * 2.4.1 Bypass Blocks
+      * 2.4.5 Multiple Ways
+      * 3.2.3 Consistent Navigation
+      * 3.2.4 Consistent Identification
 
 <h2 id="1">
   <strong>Software</strong>
@@ -99,46 +99,46 @@ NOTE: An exception provides that NARA is not responsible for remediating records
 **Question 1** - Is the software assistive technology (i.e., any item, piece of equipment, or product system used to increase, maintain, or improve functional capabilities of individuals with disabilities)?
 
   * If Yes, the software component of the ICT item does not have to conform to the Revised 508 Standards.
-  * If the ICT contains hardware components, proceed below to that section.
+    * If the ICT contains hardware components, proceed below to that section.
 
   * If No, proceed to Question 2
 
 **Question 2** - Will the software be web-based?
 
   * If Yes, the following Standards apply:
-  * All WCAG A & AA Success Criteria
-  * 502 Interoperability with Assistive Technology
-  * 503 Application
-  * 602 Support Documentation
-  * 603 Support Services
-  * 302 All Functional Performance Criteria
+    * All WCAG A & AA Success Criteria
+    * 502 Interoperability with Assistive Technology
+    * 503 Application
+    * 602 Support Documentation
+    * 603 Support Services
+    * 302 All Functional Performance Criteria
   1. Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
 
   * Proceed to Question 3
 
-  * If No, the following Standards apply:
-  * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
-  * 2.4.1 Bypass Blocks
-  * 2.4.5 Multiple Ways
-  * 3.2.3.Consistent Navigation
-  * 3.2.4 Consistent Identification
+   * If No, the following Standards apply:
+     * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
+     * 2.4.1 Bypass Blocks
+     * 2.4.5 Multiple Ways
+     * 3.2.3.Consistent Navigation
+     * 3.2.4 Consistent Identification
 
-  * 502 Interoperability with Assistive Technology
-  * 503 Application
-  * 602 Support Documentation
-  * 603 Support Services
-  * 302 All Functional Performance Criteria
-  * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
+   * 502 Interoperability with Assistive Technology
+   * 503 Application
+   * 602 Support Documentation
+   * 603 Support Services
+   * 302 All Functional Performance Criteria
+     * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
 
   * Proceed to Question 3
 
 **Question 3** - Is the software also an authoring tool?
 
   * If Yes, the following additional Standards apply:
-  * 504 Authoring Tools
+    * 504 Authoring Tools
 
   * If No, stop. No additional Standards for software apply.
-  * If the ICT contains hardware components, proceed to the next section.
+    * If the ICT contains hardware components, proceed to the next section.
 
 <h2 id="2">
   <strong>Hardware</strong>
@@ -157,26 +157,26 @@ Include the following:
   * 603 Support Services
   * 302 All Functional Performance Criteria
   * If the ICT contains hardware components, proceed below to this section.
-  * Note: Applies only when Chapter 4 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2))
+     * Note: Applies only when Chapter 4 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2))
 
 Also include the following, when applicable:
 
   * If the solution can only be accessed directly through the hardware (e.g., a kiosk), include:
-  * 402 Closed Functionality
+    * 402 Closed Functionality
 
   * If the hardware support biometrics, include:
-  * 403 Biometrics
+    * 403 Biometrics
 
   * If the hardware is required (or likely to) have display or touch screens, include:
-  * 408 Display Screens
+    * 408 Display Screens
 
   * If the hardware is required to support two-way voice communications, include:
-  * 412 ICT with Two Way Voice Communications
+    * 412 ICT with Two Way Voice Communications
 
   * If the hardware is required to display multimedia content, include:
-  * 413 Closed Caption Processing Technologies
-  * 414 Audio Description Processing Technologies
-  * 415 User Controls for Captions and Audio Descriptions
+    * 413 Closed Caption Processing Technologies
+    * 414 Audio Description Processing Technologies
+    * 415 User Controls for Captions and Audio Descriptions
 
 ## **What’s Next?**
 

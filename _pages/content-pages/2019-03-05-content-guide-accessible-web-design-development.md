@@ -7,12 +7,10 @@ title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
 ---
 
-Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1] requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
+Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
 
 If you are a developer, designer, or content manager, keep reading! Bookmark this guide and refer to it whenever you’re developing new content, websites or digital tools.
-
 ## How To Use This Guide
-
 Major topics are listed below in alphabetical order. Click on a topic name to jump to that topic for an explanation of the [WCAG][1] requirements (also known as Success Criteria) related to that topic.
 
 <ul style="list-style-type:none;">
@@ -1171,15 +1169,12 @@ In addition, the following success criteria apply to all content on the page, in
 
   * [Accessible Name and Description Inspector (ANDI) Developer Tips][39]
 
-&nbsp;
+
 
 Created by the CIO Council’s [Accessibility Community of Practice][40], this information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
 
-&nbsp;
-
 **Reviewed/Updated**: March 2019
 
-# &nbsp;
 
  [1]: https://www.w3.org/TR/WCAG20/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
