@@ -358,3 +358,22 @@ ul.menu{
 a {
     color: #1e6ad6;
 }
+
+.landing-page-banner {
+  background-color: #162E51;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+    background-color: #00A91C;
+  }
+  .usa-nav__primary > .usa-nav__primary-item > a:hover {
+    color: #00A91C;
+  }
+}
+
+.banner-title-color {
+  color: #9DDFEB;
+}
