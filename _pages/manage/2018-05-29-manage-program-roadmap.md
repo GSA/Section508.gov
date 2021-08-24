@@ -18,10 +18,11 @@ created: 1527574221
 <p dir="ltr">
   If your agency already has a mature 508 Program, this guide explains how the revisions to the 508 standards impact you.
 </p>
-
+<ul>
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/laws-and-policies/quick-reference-guide">Revised 508 Standards Transition Guide</a>
 </li>
+</ul>
 
 <h2 dir="ltr">
   How to Incorporate the Standards
@@ -38,10 +39,10 @@ created: 1527574221
 </p>
   <ul>
   <li dir="ltr">
-    <a href="{{site.baseurl}}/#build">Build Awareness & Support</a>
+    <a href="#build">Build Awareness & Support</a>
   </li>
   <li dir="ltr">
-    <a href="{{site.baseurl}}/#design">Practice Universal Design</a>
+    <a href="#design">Practice Universal Design</a>
   </li>
   <li dir="ltr">
     <a href="#policies">Update Agency Policies</a>
@@ -179,6 +180,7 @@ created: 1527574221
 </li>
 </ul>
 
+
 [Back to top][9]
 
 <h2 dir="ltr">
@@ -242,7 +244,7 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
 </li>
 </ul>
 
@@ -302,10 +304,10 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
+  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
 </li>
 <li dir="ltr">
-  <a href="/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
+  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
 </ul>
 
@@ -390,7 +392,7 @@ created: 1527574221
 </h3>
 <ul>
  <li dir="ltr">
-  <a href="/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
+  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
  </li>
 </ul>
 
@@ -402,7 +404,7 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
+  <a href="{{site.baseurl}}/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
 </li>
 </ul>
 
@@ -554,7 +556,7 @@ created: 1527574221
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: {{site.baseurl}}/508-training/courses/exec-overview
+ [4]: {{site.baseurl}}/508-training/courses/exec-overview/
  [5]: {{site.baseurl}}/508-training/courses/508-basics
  [6]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1/
  [7]: {{site.baseurl}}/508-training/courses/playbook

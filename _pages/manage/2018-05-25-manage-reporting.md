@@ -60,16 +60,16 @@ created: 1527274672
 </p>
 
 <li dir="ltr">
-  <a href="https://www.section508.gov/manage/reporting/guidelines-program-maturity">Assessing Program Maturity</a>
+  <a href="{{site.baseurl}}/manage/reporting/guidelines-program-maturity">Assessing Program Maturity</a>
 </li>
 <li dir="ltr">
-  <a href="https://www.section508.gov/manage/reporting/guidelines-roll-up-metrics">Rolling Up Metrics</a>
+  <a href="{{site.baseurl}}/manage/reporting/guidelines-roll-up-metrics">Rolling Up Metrics</a>
 </li>
 <li dir="ltr">
-  <a href="https://www.section508.gov/manage/reporting/guidelines-conformance">Measuring Website Conformance</a>
+  <a href="{{site.baseurl}}/manage/reporting/guidelines-conformance">Measuring Website Conformance</a>
 </li>
 <li dir="ltr">
-  Review the <a href="https://www.section508.gov/manage/reporting/questions" aria-label ="OMB reporting questions">OMB Reporting Questions</a>
+  Review the <a href="{{site.baseurl}}/manage/reporting/questions" aria-label ="OMB reporting questions">OMB Reporting Questions</a>
 </li>
 </ul>
 
@@ -96,10 +96,10 @@ If your agency has not received login information, and you wish to submit a repo
 </p>
 <ul>
 <li dir="ltr">
-  <a href="https://www.section508.gov/manage/reporting/faq">Frequently Asked Questions</a> about OMB reporting
+  <a href="{{site.baseurl}}/manage/reporting/faq">Frequently Asked Questions</a> about OMB reporting
 </li>
 <li dir="ltr">
-  <a href="https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess Maturity of Your Agency’s 508 Program</a> - Play 2 from the <a href="https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess Maturity of Your Agency’s 508 Program</a> - Play 2 from the <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a>
 </li>
 </ul>
 <p dir="ltr">
