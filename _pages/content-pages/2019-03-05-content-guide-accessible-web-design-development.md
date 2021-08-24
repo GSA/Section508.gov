@@ -6,6 +6,7 @@ type: page
 title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
 ---
+{% raw %}
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
 
@@ -596,7 +597,15 @@ Identify the default lang attribute on the HTML element:
 
 <ul style="list-style-type:none;">
   <li>
-    <!DOCTYPE html><br /> <strong><html lang="en"></strong><br /> <head><br /> &nbsp;<meta charset="utf-8"><br /> &nbsp;<title>WAI application shell</title><br /> &nbsp;<meta http-equiv="X-UA-Compatible" content="IE=edge"><br /> &nbsp;<meta name="viewport" content="width=device-width, initial-scale=1.0"><br /> &nbsp;<link rel="stylesheet" type="text/css" href="styles/style.css"><br /> </head>
+    <!DOCTYPE html><br />
+     <strong><html lang="en"></strong><br />
+     <head><br />
+     <meta charset="utf-8"><br />
+     <title>WAI application shell</title><br />
+     <meta http-equiv="X-UA-Compatible" content="IE=edge"><br />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"><br />
+     <link rel="stylesheet" type="text/css" href="styles/style.css"><br />
+	 </head>
   </li>
 </ul>
 
@@ -1217,3 +1226,5 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [39]: https://www.ssa.gov/accessibility/andi/help/developerguide.html
  [40]: https://www.cio.gov/about/accessibility-cop/
  [41]: https://www.dhs.gov/trusted-tester
+
+{% endraw %}

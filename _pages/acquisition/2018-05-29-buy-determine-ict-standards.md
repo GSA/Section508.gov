@@ -112,9 +112,10 @@ NOTE: An exception provides that NARA is not responsible for remediating records
     * 602 Support Documentation
     * 603 Support Services
     * 302 All Functional Performance Criteria
+
   1. Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
 
-  * Proceed to Question 3
+   * Proceed to Question 3
 
    * If No, the following Standards apply:
      * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
