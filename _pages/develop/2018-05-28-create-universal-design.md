@@ -14,10 +14,11 @@ created: 1527530633
     </p>
   </div>
   
-  <div class="desktop:grid-col-4" style="margin-bottom: 15px;">
-    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;" />
-  </div>
+  <aside class="desktop:grid-col-4">
+    <p><small><strong>Universal design</strong> is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.</small></p>
+  </aside>
 </div>
+
 <p>
       Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
     </p>
