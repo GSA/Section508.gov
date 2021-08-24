@@ -75,8 +75,6 @@ created: 1527574221
 <li dir="ltr">
   Assess the maturity of your agency's 508 program, and take steps to improve accessibility of agency technology.
 </li>
-</ul>
-<ul>
 <li dir="ltr">
   Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:
   <ul>
@@ -118,9 +116,9 @@ created: 1527574221
     <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
   </li> 
   <li dir ="ltr">
-  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a> </li>
+  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
    <li dir ="ltr">
-   <a hred = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
+   <a href = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
   </ul>
 
 <h3 dir="ltr">

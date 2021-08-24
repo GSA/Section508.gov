@@ -5,7 +5,7 @@ type: article
 title: 'Mapping of WCAG 2.0 to Functional Performance Criteria'
 created: 1541532205
 tags:
-description: The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://www.access-board.gov/ict/">Revised Section 508 Standards</a> share the same objective to make <a href="{{ site.baseurl }}/content/glossary#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities.
+description: The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://www.access-board.gov/ict/">Revised Section 508 Standards</a> share the same objective to make <a href="/content/glossary/#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities.
 ---
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
