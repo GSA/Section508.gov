@@ -1,0 +1,39 @@
+{%- comment -%}
+This banner is located under menu navigation bar, to display the title of each landing page.
+{%- endcomment -%}
+
+{%- if page.type == 'manage' -%}
+{%- assign header = 'Policy & Management' -%}
+{%- endif -%}
+{%- if page.type == 'training' -%}
+{%- assign header = 'Training, Tool & Events' -%}
+{%- endif -%}
+{%- if page.type == 'develop' -%}
+{%- assign header = 'Design & Develop' -%}
+{%- endif -%}
+{%- if page.type == 'test' -%}
+{%- assign header = 'Testing' -%}
+{%- endif -%}
+{%- if page.type == 'acquisition' -%}
+{%- assign header = 'Acquisition' -%}
+{%- endif -%}
+{%- if page.type == 'create' -%}
+{%- assign header = 'Content Creation' -%}
+{%- endif -%}
+
+<section class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+            <div class="tablet: grid-col">
+                <span class="text-accent-cool-light font-sans-lg margin-bottom-0">
+                    {{header}}
+                </span>
+                <br />
+                <span class="text-white font-sans-xl margin-top-0 margin-bottom-0">
+                    {{page.title}}
+                </span>
+            </div>
+        </div>
+    </div>
+</section>
+
