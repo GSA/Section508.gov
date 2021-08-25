@@ -15,12 +15,19 @@ This template is for a single page that does not have a date associated with it.
     <div class="grid-row grid-gap">
       {% if page.sidenav == true %}
       {% include sidenav.html %}
-      {% endif %}
+
       <main class="usa-layout-docs__main desktop:grid-col-9">
         <div class="usa-graphic-list">
             {{ content }}
         </div>
       </main>
+      {% else %}
+      <main class="usa-layout-docs__main">
+        <div class="usa-graphic-list">
+          {{ content }}
+        </div>
+      </main>
+      {% endif %}
     </div>
   </div>
 </div>
