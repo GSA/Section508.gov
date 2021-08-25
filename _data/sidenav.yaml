@@ -77,22 +77,22 @@ training:
     url: '#'
     children:
       - name: Section 508 Awareness
-        url: "https://s3.amazonaws.com/training.section508.gov/508-training/courses/new/index.html"
+        url: "https://training.section508.gov/508-training/courses/new/index.html"
         external: true
       - name: 'Accessibility of ICT: An Overview for Government Executives'
-        url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/exec-overview/index.html'
+        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
         external: true
       - name: "Section 508: What It Is and Why It's Important?"
-        url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/508-basics/index.html'
+        url: 'https://training.section508.gov/508-training/courses/508-basics/index.html'
         external: true
       - name: Micro-Purchases and Section 508 Requirements
-        url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
+        url: 'https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
         external: true
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
-        url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/playbook/index.html'
+        url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
         external: true
       - name: "Procuring Section 508 Conformant ICT Products and Services"
-        url: 'https://s3.amazonaws.com/training.section508.gov/508-training/courses/procurement-new/index.html'
+        url: 'https://training.section508.gov/508-training/courses/procurement-new/index.html'
         external: true
       - name: "Training via FAI"
         url: 'training#FAI'
@@ -134,7 +134,7 @@ training:
         url: '#'
         grandchildren:
           - name: "Module 0: Introduction & Background"
-            url: create/presentations/aed-cop-pptx00/
+            url: training/presentations/aed-cop-pptx00/
           - name: "Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order"
             url: create/presentations/aed-cop-pptx01/
           - name: "Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient"
