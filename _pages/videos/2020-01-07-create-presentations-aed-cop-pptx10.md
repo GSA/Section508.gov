@@ -46,16 +46,16 @@ Discover how to use the language tool to programmatically set the presentation l
 
 **Updated**: December 2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx05
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx06
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx07
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx08
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx09
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13
+ [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01/
+ [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02/
+ [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03/
+ [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04/
+ [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx05/
+ [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx06/
+ [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx07/
+ [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx08/
+ [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx09/
+ [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11/
+ [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12/
+ [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13/
