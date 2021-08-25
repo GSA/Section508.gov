@@ -7,6 +7,12 @@ title: 'Module 4: Images'
 created: 1599836168
 ---
 
+<h1> Module 4: Images </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
+
 Discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-04-images-cc.mp4" type="video/mp4"></video>
 <div class="item-list">

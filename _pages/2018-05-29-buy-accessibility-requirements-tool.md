@@ -6,7 +6,7 @@ created: 1527569449
 layout: wide
 sidenav: false
 ---
-<!-- <a href="{{site.baseurl}}/art/"> {% asset start-using-art_1.gif class="artlogo" alt="Section508" style="width: 255px; height: 35px; float: right;"%} </a> -->
+
 <div class="grid-row">
   <!-- <div class="desktop:grid-col-4 start-button"> -->
     <a href="{{site.baseurl}}/art/"><img alt="start using art" class="img-responsive" src="https://assets.section508.gov/files/start-using-art_1.gif" style="width: 255px; height: 35px; float: right;" title="Start using ART"></a>
