@@ -6,7 +6,11 @@ type: training
 title: 'Module 18: Live Regions'
 created: 1601870389
 ---
+<h1>Module 18: Live Regions </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
 
+------------------
 Understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-18-live-regions-cc.mp4" type="video/mp4"></video>
 <div class="item-list">

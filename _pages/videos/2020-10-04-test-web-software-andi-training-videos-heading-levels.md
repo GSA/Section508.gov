@@ -6,6 +6,11 @@ type: training
 title: 'Module 6: Heading Levels'
 created: 1601866444
 ---
+<h1>Module 6: Heading Levels </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 
 Understand how to use the ANDI _Structures_ module to verify that the page content contains logical heading levels and the heading levels are programmed accurately, and to provide descriptive headings for content structure.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-06-heading-levels-cc.mp4" type="video/mp4"></video>

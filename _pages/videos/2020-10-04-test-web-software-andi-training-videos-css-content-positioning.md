@@ -7,6 +7,12 @@ title: 'Module 17: CSS Content and Positioning'
 created: 1601870113
 ---
 
+<h1>Module 17: CSS Content and Positioning </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
+
 Learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-17-css-position-cc.mp4" type="video/mp4"></video>
 <div class="item-list">

@@ -6,8 +6,15 @@ type: training
 title: 'Module 11: Frames'
 created: 1601868047
 ---
+<h1>Module 11: Frames </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 
 Learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
+
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-11-frames-cc.mp4" type="video/mp4"></video>
 <div class="item-list">
    <ul>
       <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -55,28 +62,28 @@ Learn how to use the ANDI _Frames_ module to detect and verify that all [frames]
          <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
       </li>
       <li class="views-row views-row-12 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
       </li>
       <li class="views-row views-row-13 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-17 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></span> </div>
       </li>
       <li class="views-row views-row-18 views-row-even views-row-last">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></span>  </div>
+         <div class="views-field views-field-title"> <span class="field-content"><a href="{{site.baseurl}}/test/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></span>  </div>
       </li>
    </ul>
 </div>

@@ -7,6 +7,11 @@ title: 'Module 9: Language of Parts'
 created: 1601867101
 ---
 
+<h1> Module 9: Language of Parts</h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 Understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-09-language-parts-cc.mp4" type="video/mp4"></video>
 <div class="item-list">

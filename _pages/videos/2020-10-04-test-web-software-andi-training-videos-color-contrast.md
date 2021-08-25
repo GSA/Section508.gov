@@ -7,6 +7,11 @@ title: 'Module 13: Color Contrast'
 created: 1601869147
 ---
 
+<h1>Module 13: Color Contrast </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 Discover how to use the ANDI _Color Contrast_ module to ensure that text has sufficient contrast with its background so that it can be read by people with moderately low vision (i.e. those who generally do not use contrast-enhancing assistive technology).
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-13-color-contrast-cc.mp4" type="video/mp4"></video>
 <div class="item-list">
