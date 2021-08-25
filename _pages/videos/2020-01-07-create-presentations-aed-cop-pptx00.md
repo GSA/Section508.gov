@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx00/
+permalink: training/presentations/aed-cop-pptx00/
 type: training
 title: 'Module 0: Introduction & Background'
 created: 1578418855
+redirect_from:
+   - create/presentations/aed-cop-pptx00/
 ---
 
 # Module 0: Introduction & Background
