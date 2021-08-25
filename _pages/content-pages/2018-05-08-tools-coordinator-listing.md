@@ -136,7 +136,7 @@ Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
 
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
-DIA IT Accessibility Program Office - <508AccessibilityTeam@dodiis.mil>
+DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 Helpdesk - <508compliance@dla.mil>
