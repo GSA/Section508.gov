@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/software-websites/
+permalink: design-develop/software-websites/
 type: develop
 title: 'Create Accessible Software & Websites'
 created: 1526572632

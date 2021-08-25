@@ -1,9 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: create/applicability-conformance/
+permalink: design-develop/applicability-conformance/
 type: develop
-title: 'Applicability & Conformance Requirements '
+title: 'Applicability & Conformance Requirements'
 created: 1526574510
 ---
 
