@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: training
-permalink: /events/
+permalink: events/
 title: Events
 ---
 <h2 class="margin-top-3">Current and Upcoming Events</h2>
