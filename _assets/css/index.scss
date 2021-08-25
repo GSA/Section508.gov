@@ -373,16 +373,20 @@ a {
 }
 
 .landing-page-banner {
-  background-color: rgba(17, 47, 78, 0.93);
+  background-color: #162E51;
   padding-top: 32px;
   padding-bottom: 32px;
 }
 
 @media (min-width: 64em) {
   .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
-    background-color: #00A871;
+    background-color: #00A91C;
   }
   .usa-nav__primary > .usa-nav__primary-item > a:hover {
-    color: #00A871;
+    color: #00A91C;
   }
+}
+
+.banner-title-color {
+  color: #9DDFEB;
 }
