@@ -44,29 +44,68 @@ Electronic content shall comply with E205.
 
 Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:
 
-  * An emergency notification;
-  * An initial or final decision adjudicating an administrative claim or proceeding;
-  * An internal or external program or policy announcement;
-  * A notice of benefits, program eligibility, employment opportunity, or personnel action;
-  * A formal acknowledgement of receipt;
-  * A survey questionnaire;
-  * A template or form;
-  * Educational or training materials; or
-  * Intranet content designed as a Web page.
+  <ol style="list-style-type:upper-alpha">
+  <li>
+    An emergency notification;
+  </li>
+  <li>
+    An initial or final decision adjudicating an administrative claim or proceeding;
+  </li>
+  <li>
+    An internal or external program or policy announcement;
+  </li>
+  <li>
+    A notice of benefits, program eligibility, employment opportunity, or personnel action;
+  </li>
+  <li>
+    A formal acknowledgement of receipt;
+  </li>
+  <li>
+    A survey questionnaire;
+  </li>
+  <li>
+    A template or form;
+  </li>
+  <li>
+    Educational or training materials; or
+  </li>
+  <li>
+    Intranet content designed as a Web page.
+  </li>
+</ol>
 
 [E205.4 Accessibility Standard (WCAG 2.0) -][3]
 
 Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4 when such content constitutes official business and is communicated by an agency through one or more of the following:
-
-  * An emergency notification;
-  * An initial or final decision adjudicating an administrative claim or proceeding;
-  * An internal or external program or policy announcement;
-  * A notice of benefits, program eligibility, employment opportunity, or personnel action;
-  * A formal acknowledgement of receipt;
-  * A survey questionnaire;
-  * A template or form;
-  * Educational or training materials; or
-  * Intranet content designed as a Web page.
+<ol style="list-style-type:upper-alpha">
+  <li>
+    An emergency notification;
+  </li>
+  <li>
+    An initial or final decision adjudicating an administrative claim or proceeding;
+  </li>
+  <li>
+    An internal or external program or policy announcement;
+  </li>
+  <li>
+    A notice of benefits, program eligibility, employment opportunity, or personnel action;
+  </li>
+  <li>
+    A formal acknowledgement of receipt;
+  </li>
+  <li>
+    A survey questionnaire;
+  </li>
+  <li>
+    A template or form;
+  </li>
+  <li>
+    Educational or training materials; or
+  </li>
+  <li>
+    Intranet content designed as a Web page.
+  </li>
+</ol>
 
 [E205.4.1 Word Substitution when Applying WCAG to non-Web Documents -][3]
 
@@ -82,11 +121,10 @@ For non-Web documents, wherever the term "Web page" or "page" appears in WCAG 2.
 **The following standards are applicable:**
 
   * All WCAG A & AA Success Criteria - except
-  * 2.4.1 Bypass Blocks
-  * 2.4.5 Multiple Ways
-  * 3.2.3 Consistent Navigation
-  * 3.2.4 Consistent Identification
-
+    * 2.4.1 Bypass Blocks
+    * 2.4.5 Multiple Ways
+    * 3.2.3 Consistent Navigation
+    * 3.2.4 Consistent Identification
   * 602 Support Documentation
   * 603 Support Services
   * 302 Functional Performance Criteria

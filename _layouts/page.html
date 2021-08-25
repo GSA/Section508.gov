@@ -6,6 +6,8 @@ layout: base
 This template is for a single page that does not have a date associated with it. For example, an about page.
 {% endcomment %}
 
+{% include banner.html %}
+
 <div id="main-content" class="usa-layout-docs usa-section">
 
   <div class="grid-container">
@@ -16,7 +18,6 @@ This template is for a single page that does not have a date associated with it.
       {% endif %}
       <main class="usa-layout-docs__main desktop:grid-col-9">
         <div class="usa-graphic-list">
-          <h1>{{page.title}}</h1>
             {{ content }}
         </div>
       </main>

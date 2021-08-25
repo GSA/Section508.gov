@@ -244,12 +244,12 @@ ul.menu{
     clear: both;
     background-image: url(../img/plus.svg), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
-    background-position: right 0.5rem center;
+    background-position: right 0rem center;
     background-size: 0.75rem;
     &.active{
       background-image: url(../img/minus.svg), linear-gradient(transparent, transparent);
       background-repeat: no-repeat;
-      background-position: right 0.5rem center;
+      background-position: right 0rem center;
       background-size: 0.75rem;
     }
     a{
@@ -370,4 +370,19 @@ ul.menu{
 
 a {
     color: #1e6ad6;
+}
+
+.landing-page-banner {
+  background-color: rgba(17, 47, 78, 0.93);
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+    background-color: #00A871;
+  }
+  .usa-nav__primary > .usa-nav__primary-item > a:hover {
+    color: #00A871;
+  }
 }

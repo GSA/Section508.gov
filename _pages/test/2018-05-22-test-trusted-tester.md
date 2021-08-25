@@ -28,10 +28,11 @@ The DHS Trusted Tester Process is a manual test approach that aligns with the IC
 
 Note that DHS no longer provides training and certification on Trusted Tester v4.0.
 
-  * [DHS Section 508 Compliance Test Processes for TTv4][6]
+   * [DHS Section 508 Compliance Test Processes for TTv4][6]
+   
 ## On-Demand Webinars
 
-  * [Trusted Tester Awareness Webinar][10] - Overview of the purpose, benefits, and components of the Trusted Tester certification program
+   * [Trusted Tester Awareness Webinar][10] - Overview of the purpose, benefits, and components of the Trusted Tester certification program
 
 ## Related Resources
 
