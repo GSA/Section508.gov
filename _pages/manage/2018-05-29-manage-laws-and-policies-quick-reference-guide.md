@@ -186,7 +186,7 @@ Questions? Email us at <section.508@gsa.gov>.
 =======
  [21]: https://training.section508.gov/508-training/courses/exec-overview/index.html
  [22]: https://training.section508.gov/508-training/courses/508-basics/index.html
- [23]: https://training.section508.gov/508-training/courses/micro-purchase/lesson1/index.html
+ [23]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
  [24]: https://training.section508.gov/508-training/courses/playbook/index.html
  [25]: https://training.section508.gov/508-training/courses/procurement/index.html
 >>>>>>> origin/master

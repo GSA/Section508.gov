@@ -551,7 +551,7 @@ created: 1527574221
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
  [4]: https://training.section508.gov/508-training/courses/exec-overview/index.html
  [5]: https://training.section508.gov/508-training/courses/508-basics/index.html
- [6]: https://training.section508.gov/508-training/courses/micro-purchase/lesson1/index.html
+ [6]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
  [7]: https://training.section508.gov/508-training/courses/playbook/index.html
  [8]: https://training.section508.gov/508-training/courses/procurement/index.html
  [9]: #main-content

@@ -19,7 +19,7 @@ redirect_from:
 
 Discover how a descriptive file name identifying the worksheet or its purpose helps everyone, including people with disabilities, locate, open, and switch between documents.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/XLS/aed-cop-xls-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m10.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 
