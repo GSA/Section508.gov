@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/spreadsheets/aed-cop-xlsx00/
+permalink: training/spreadsheets/aed-cop-xlsx00/
 type: training
 title: 'Module 0: Introduction & Background'
 created: 1579723598
+redirect_from:
+  - create/spreadsheets/aed-cop-xlsx00/
 ---
 
 # Module 0: Introduction & Background
@@ -43,13 +45,13 @@ Learn the minimum steps needed to ensure your Microsoft Excel worksheet is Secti
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
- [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
- [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
- [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04
- [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
- [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
- [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
- [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
- [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09
- [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01
+ [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02
+ [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03
+ [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04
+ [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05
+ [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06
+ [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07
+ [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08
+ [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09
+ [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10

@@ -16,7 +16,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00"><img alt="Module 0: Introduction & Background" src="/sites/default/files/XLS/aed-cop-xls-m00.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00"><img alt="Module 0: Introduction & Background" src="/sites/default/files/XLS/aed-cop-xls-m00.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="col-xs-12 col-md-9">
       <p class="video-title">
@@ -35,7 +35,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="/sites/default/files/XLS/aed-cop-xls-m01.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="/sites/default/files/XLS/aed-cop-xls-m01.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -57,7 +57,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="/sites/default/files/XLS/aed-cop-xls-m02.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="/sites/default/files/XLS/aed-cop-xls-m02.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -79,7 +79,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="/sites/default/files/XLS/aed-cop-xls-m03.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="/sites/default/files/XLS/aed-cop-xls-m03.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -101,7 +101,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04"><img alt="Module 4: Formatting Columns Correctly" src="/sites/default/files/XLS/aed-cop-xls-m04.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04"><img alt="Module 4: Formatting Columns Correctly" src="/sites/default/files/XLS/aed-cop-xls-m04.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -123,7 +123,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05"><img alt="Module 5: Formatting Lists Properly" src="/sites/default/files/XLS/aed-cop-xls-m05.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05"><img alt="Module 5: Formatting Lists Properly" src="/sites/default/files/XLS/aed-cop-xls-m05.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -145,7 +145,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="/sites/default/files/XLS/aed-cop-xls-m06.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="/sites/default/files/XLS/aed-cop-xls-m06.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -167,7 +167,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="/sites/default/files/XLS/aed-cop-xls-m07.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="/sites/default/files/XLS/aed-cop-xls-m07.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -189,7 +189,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="/sites/default/files/XLS/aed-cop-xls-m08.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="/sites/default/files/XLS/aed-cop-xls-m08.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -211,7 +211,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09"><img alt="Module 9: Making Vital Background Information Accessible" src="/sites/default/files/XLS/aed-cop-xls-m09.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09"><img alt="Module 9: Making Vital Background Information Accessible" src="/sites/default/files/XLS/aed-cop-xls-m09.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">
@@ -233,7 +233,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="clearfix">
     <div class="col-xs-12 col-md-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10"><img alt="Module 10: Formatting Text for the Intended Language" src="/sites/default/files/XLS/aed-cop-xls-m10.jpg" style="width:100%" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10"><img alt="Module 10: Formatting Text for the Intended Language" src="/sites/default/files/XLS/aed-cop-xls-m10.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     
     <div class="col-xs-12 col-md-9">

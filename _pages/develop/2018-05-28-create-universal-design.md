@@ -43,7 +43,7 @@ Invest in universal design to transform the way your agency serves citizens, reg
 * * *
 
 <div class="grid-row grid-gap">
-  <div class="desktop:grid-col-3" style="margin-bottom: 15px;">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
     <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="https://assets.section508.gov/files/ui-series.png" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   

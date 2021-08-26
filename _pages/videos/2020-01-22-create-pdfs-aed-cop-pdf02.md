@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/pdfs/aed-cop-pdf02/
+permalink: training/pdfs/aed-cop-pdf02/
 type: training
 title: 'Module 2: Testing a PDF for Accessibility'
 created: 1579721831
+redirect_from:
+- create/pdfs/aed-cop-pdf02/
 ---
 
 # Module 2: Testing a PDF for Accessibility
@@ -37,7 +39,7 @@ Discover how set up a document&rsquo;s properties, evaluate the accessibility of
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
- [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
- [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf04
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04

@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/spreadsheets/aed-cop-xlsx05/
+permalink: training/spreadsheets/aed-cop-xlsx05/
 type: training
 title: 'Module 5: Using Built-In Features to Create Data Tables'
 created: 1579723887
+redirect_from:
+- create/spreadsheets/aed-cop-xlsx05/
 ---
 
 # Module 5: Using Built-In Features to Create Data Tables
@@ -43,13 +45,13 @@ Discover how to use the built-in table features so assistive technology can read
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
- [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
- [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
- [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
- [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04
- [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
- [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
- [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
- [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09
- [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04
+ [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06
+ [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07
+ [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08
+ [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09
+ [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10

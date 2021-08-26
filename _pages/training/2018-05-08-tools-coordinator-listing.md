@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: tools/coordinator-listing/
-type: page
+type: training
 title: 'Find Your 508 Program Manager'
 created: 1525805876
 ---

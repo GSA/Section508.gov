@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx09/
+permalink: training/presentations/aed-cop-pptx09/
 type: training
 title: 'Module 9: Making Vital Background Information Accessible'
 created: 1578419942
+redirect_from:
+ - create/presentations/aed-cop-pptx09/
 ---
 
 # Module 9: Making Vital Background Information Accessible
@@ -46,16 +48,16 @@ Learn how to ensure that vital information, created as a watermark or placed in 
 
 **Updated**: December 2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00/
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01/
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02/
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03/
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04/
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx05/
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx06/
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx07/
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx08/
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx10/
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11/
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12/
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13/
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx05/
+ [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
+ [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
+ [9]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/
+ [10]: {{site.baseurl}}/training/presentations/aed-cop-pptx10/
+ [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
+ [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/
+ [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx13/

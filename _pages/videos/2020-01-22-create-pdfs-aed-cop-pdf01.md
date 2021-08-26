@@ -5,6 +5,8 @@ permalink: create/pdfs/aed-cop-pdf01/
 type: training
 title: 'Module 1: What is a PDF?'
 created: 1579721808
+redirect_from:
+- create/pdfs/aed-cop-pdf01/
 ---
 
 # Module 1: What is a PDF?
@@ -37,7 +39,7 @@ Learn about the elements of a PDF and PDF tag types, where you &nbsp;can downloa
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
- [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
- [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf04
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04
