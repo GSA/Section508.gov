@@ -8,13 +8,13 @@ created: 1525805876
 ---
 
 
-<a id="top" name="top"></a>
+<a name="top"></a>
 
 Agency 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated 508 PM below.
 
 If your agency doesn't have a designated 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
 
-<a id="top" name="top"></a>
+<a name="top"></a>
 ## Departments and CFO Act Agencies
 
 [Agency for International Development][1]  
@@ -42,7 +42,7 @@ If your agency doesn't have a designated 508 PM, contact your agency CIO office 
 [Small Business Administration][23]  
 [Social Security Administration][24]
 ## Small and Independent Agencies
-Navigate to Agencies starting with: <span id="topA" ></span> |[A][25]| <span id="topC" id="top"></span> |[C][26]| <span id="topD" id="top"></span> |[D][27]|  <span id="topE" id="top"></span> |[E][28]|  <span id="topF" id="top"></span>|[F][29]| <span id="topG" id="top"></span> |[G][30]| |[I][31]| <span id="topM" id="top"></span> |[M][32]| <span id="topN" id="top"></span> |[N][33]| <span id="topO" id="top"></span> |[O][34]| <span id="topP" id="top"></span> |[P][35]| <span id="topR" id="top"></span> |[R][36]| <span id="topS" id="top"></span> |[S][37]| <span id="topT" id="top"></span> |[T][38]| <span id="topU" id="top"></span> |[U][39]|
+Navigate to Agencies starting with: <span id="topA" ></span> |[A][25]| <span id="topC" ></span> |[C][26]| <span id="topD" ></span> |[D][27]|  <span id="topE" ></span> |[E][28]|  <span id="topF" ></span>|[F][29]| <span id="topG" ></span> |[G][30]| |[I][31]| <span id="topM" ></span> |[M][32]| <span id="topN" ></span> |[N][33]| <span id="topO" ></span> |[O][34]| <span id="topP" ></span> |[P][35]| <span id="topR" ></span> |[R][36]| <span id="topS" ></span> |[S][37]| <span id="topT" ></span> |[T][38]| <span id="topU" ></span> |[U][39]|
 
 \- - - - - 
 ## <a id="usaid" name="usaid"></a>Agency for International Development (USAID)
