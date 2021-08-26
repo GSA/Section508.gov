@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx13/
+permalink: training/presentations/aed-cop-pptx13/
 type: training
 title: 'Module 13: Saving in the .pptx Format with a Descriptive Filename'
 created: 1578420105
+redirect_from:
+ - create/presentations/aed-cop-pptx13/
 ---
 
 # Module 13: Saving in the .pptx Format with a Descriptive Filename
@@ -46,16 +48,16 @@ Discover how a descriptive file name identifying the document or its purpose hel
 
 **Updated**: December&nbsp;2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00/
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01/
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02/
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03/
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04/
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx05/
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx06/
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx07/
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx08/
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx09/
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx10/
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx11/
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx12/
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx05/
+ [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
+ [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
+ [9]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/
+ [10]: {{site.baseurl}}/training/presentations/aed-cop-pptx09/
+ [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx10/
+ [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
+ [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/

@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/documents/aed-cop-docx12/
+permalink: training/documents/aed-cop-docx12/
 type: training
 title: 'Module 12: Create the Required Color Contrast'
 created: 1579721353
+redirect_from:
+ - create/documents/aed-cop-docx12/
 ---
 
 # Module 12: Create the Required Color Contrast
@@ -46,16 +48,16 @@ When choosing the color palette for your document, ensure there is enough color 
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/documents/aed-cop-docx00
- [2]: {{site.baseurl}}/create/documents/aed-cop-docx01
- [3]: {{site.baseurl}}/create/documents/aed-cop-docx02
- [4]: {{site.baseurl}}/create/documents/aed-cop-docx03
- [5]: {{site.baseurl}}/create/documents/aed-cop-docx04
- [6]: {{site.baseurl}}/create/documents/aed-cop-docx05
- [7]: {{site.baseurl}}/create/documents/aed-cop-docx06
- [8]: {{site.baseurl}}/create/documents/aed-cop-docx07
- [9]: {{site.baseurl}}/create/documents/aed-cop-docx08
- [10]: {{site.baseurl}}/create/documents/aed-cop-docx09
- [11]: {{site.baseurl}}/create/documents/aed-cop-docx10
- [12]: {{site.baseurl}}/create/documents/aed-cop-docx11
- [13]: {{site.baseurl}}/create/documents/aed-cop-docx13
+ [1]: {{site.baseurl}}/training/documents/aed-cop-docx00
+ [2]: {{site.baseurl}}/training/documents/aed-cop-docx01
+ [3]: {{site.baseurl}}/training/documents/aed-cop-docx02
+ [4]: {{site.baseurl}}/training/documents/aed-cop-docx03
+ [5]: {{site.baseurl}}/training/documents/aed-cop-docx04
+ [6]: {{site.baseurl}}/training/documents/aed-cop-docx05
+ [7]: {{site.baseurl}}/training/documents/aed-cop-docx06
+ [8]: {{site.baseurl}}/training/documents/aed-cop-docx07
+ [9]: {{site.baseurl}}/training/documents/aed-cop-docx08
+ [10]: {{site.baseurl}}/training/documents/aed-cop-docx09
+ [11]: {{site.baseurl}}/training/documents/aed-cop-docx10
+ [12]: {{site.baseurl}}/training/documents/aed-cop-docx11
+ [13]: {{site.baseurl}}/training/documents/aed-cop-docx13

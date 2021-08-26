@@ -5,6 +5,8 @@ permalink: create/pdfs/aed-cop-pdf00/
 type: training
 title: 'Module 0: Introduction & Background'
 created: 1579721762
+redirect_from:
+ - create/pdfs/aed-cop-pdf00/
 ---
 
 # Module 0: Introduction & Background
@@ -37,6 +39,6 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
- [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
- [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03

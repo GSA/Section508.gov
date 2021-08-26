@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx01/
+permalink: training/presentations/aed-cop-pptx01/
 type: training
 title: 'Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order'
 created: 1578419219
+redirect_from:
+ - create/presentations/aed-cop-pptx01/
 ---
 
 # Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order
@@ -47,16 +49,16 @@ Discover how to use the slide layout, themes and customized master slides to est
 
 **Updated**: December 2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00/
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx02/
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx03/
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx04/
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx05/
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx06/
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx07/
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx08/
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx09/
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx10/
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11/
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12/
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13/
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx05/
+ [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
+ [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
+ [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/
+ [9]: {{site.baseurl}}/training/presentations/aed-cop-pptx09/
+ [10]: {{site.baseurl}}/training/presentations/aed-cop-pptx10/
+ [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
+ [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/
+ [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx13/
