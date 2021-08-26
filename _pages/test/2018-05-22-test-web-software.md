@@ -83,7 +83,6 @@ A collection of tools and training from the World Wide Web Consortium (W3C).
   * [Universal Design][12] - Incorporate accessibility from the start
   * [18F Accessibility Guide][13] - An evolving collection of web accessibility resources
   * [Federal CrowdSource Mobile Testing Program][14] - Free compatibility testing service for devices, operating systems, and mobile browsers
-  * [SSA Accessibility Best Practices Library][15]- Guidance on HTML coding techniques
   * [SSA Guide: Alternate Text For Images][16] (PDF)
 
 ## Related Resources
