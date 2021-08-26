@@ -1,80 +1,80 @@
-{%- comment -%}
+{% comment %}
 The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
-{%- endcomment -%}
+{% endcomment %}
 
-{%- if page.type == 'manage' -%}
-    {%- assign links = site.data.sidenav.manage -%}
-{%- endif -%}
-{%- if page.type == 'training' -%}
-    {%- assign links = site.data.sidenav.training -%}
-{%- endif -%}
-{%- if page.type == 'develop' -%}
-    {%- assign links = site.data.sidenav.develop -%}
-{%- endif -%}
-{%- if page.type == 'test' -%}
-    {%- assign links = site.data.sidenav.test -%}
-{%- endif -%}
-{%- if page.type == 'acquisition' -%}
-    {%- assign links = site.data.sidenav.acquisition -%}
-{%- endif -%}
-{%- if page.type == 'create' -%}
-    {%- assign links = site.data.sidenav.create -%}
-{%- endif -%}
+{% if page.type == 'manage' %}
+    {% assign links = site.data.sidenav.manage %}
+{% endif %}
+{% if page.type == 'training' %}
+    {% assign links = site.data.sidenav.training %}
+{% endif %}
+{% if page.type == 'develop' %}
+    {% assign links = site.data.sidenav.develop %}
+{% endif %}
+{% if page.type == 'test' %}
+    {% assign links = site.data.sidenav.test %}
+{% endif %}
+{% if page.type == 'acquisition' %}
+    {% assign links = site.data.sidenav.acquisition %}
+{% endif %}
+{% if page.type == 'create' %}
+    {% assign links = site.data.sidenav.create %}
+{% endif %}
 
 <aside class="usa-layout-docs__sidenav desktop:grid-col-3 padding-bottom-4">
     <nav>
         <ul class="usa-sidenav menu">
-            {%- for link in links -%}
-            {%- assign href = link.url -%}
-            {%- assign current = false -%}
-            {%- if href == page.url or href == page.permalink or currentGrandchild == 'true' -%}
-            {%- assign current = true -%}
-            {%- endif -%}
-            {%- if link.children -%}
+            {% for link in links %}
+            {% assign href = link.url %}
+            {% assign current = false %}
+            {% if href == page.url or href == page.permalink or currentGrandchild == 'true' %}
+            {% assign current = true %}
+            {% endif %}
+            {% if link.children %}
             <li class="usa-sidenav__item list {% if current %} active usa-current{% endif %}">
-                <a href="#" class="header-menu-text">{{- link.name -}}</a>
+                <a href="#" aria-label="side navigation" class="header-menu-text">{{ link.name }}</a>
                 <ul class="usa-sidenav__sublist items">
-                    {%- for children in link.children -%}
-                    {%- assign currentChild = false -%}
-                    {%- if page.url == children.url or page.permalink == children.url -%}
-                    {%- assign currentChild = true -%}
-                    {%- endif -%}
-                    {%- if children.grandchildren -%}
+                    {% for children in link.children %}
+                    {% assign currentChild = false %}
+                    {% if page.url == children.url or page.permalink == children.url %}
+                    {% assign currentChild = true %}
+                    {% endif %}
+                    {% if children.grandchildren %}
                     <li class="usa-sidenav__item list {% if currentChild %} active usa-current {% endif %}">
-                            <a href="#">{{- children.name -}}</a>
+                            <a href="#">{{ children.name }}</a>
                          <ul class="usa-sidenav__sublist items">
-                          {%- for grandchildren in children.grandchildren -%}
-                             {%- assign currentGrandchild = false -%}
-                             {%- if page.url == grandchildren.url or page.permalink == grandchildren.url -%}
-                             {%- assign currentGrandchild = true -%}
-                             {%- endif -%}
+                          {% for grandchildren in children.grandchildren %}
+                             {% assign currentGrandchild = false %}
+                             {% if page.url == grandchildren.url or page.permalink == grandchildren.url %}
+                             {% assign currentGrandchild = true %}
+                             {% endif %}
                            <li class="usa-sidenav__item {% if currentGrandchild %} active usa-current {% endif %}">
-                             <a href="{%- if grandchildren.external -%}{{ grandchildren.url }}{%- else -%} {{ site.baseurl }}/{{ grandchildren.url  }} {%- endif -%}">
-                               {{- grandchildren.name -}}
+                             <a href="{% if grandchildren.external %}{{ grandchildren.url }}{% else %} {{ site.baseurl }}/{{ grandchildren.url  }} {% endif %}">
+                               {{ grandchildren.name }}
                              </a>
                            </li>
-                           {%- endfor -%}
+                           {% endfor %}
                          </ul>
                     </li>
-                    {%- else -%}
+                    {% else %}
                     <li class="usa-sidenav__item {% if currentChild %} active usa-current {% endif %}">
-                        <a href="{%- if children.external -%}{{ children.url }}{%- else -%} {{ site.baseurl }}/{{ children.url }} {%- endif -%}">
-                            {{- children.name -}}
+                        <a href="{% if children.external %}{{ children.url }}{% else %} {{ site.baseurl }}/{{ children.url }} {% endif %}">
+                            {{ children.name }}
                         </a>
                     </li>
-                    {%- endif -%}
-                    {%- endfor -%}
+                    {% endif %}
+                    {% endfor %}
                 </ul>
             </li>
-            {%- else -%}
+            {% else %}
             <li class="usa-sidenav__item">
-                <a href="{%- if link.external -%}{{ href }}{%- else -%} {{ site.baseurl }}/{{ href }} {%- endif -%}" {% if current %} class="active usa-current" {% endif %}>
-                    {{- link.name -}}
+                <a href="{% if link.external %}{{ href }}{% else %} {{ site.baseurl }}/{{ href }} {% endif %}" {% if current %} class="active usa-current" {% endif %}>
+                    {{ link.name }}
                 </a>
             </li>
-            {%- endif -%}
-            {%- endfor -%}
+            {% endif %}
+            {% endfor %}
         </ul>
     </nav>
 </aside>

@@ -150,8 +150,8 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [29]: /sites/default/files/Memo_Safavian-Evans.doc
  [30]: http://www.eeoc.gov/policy/docs/accommodation_procedures.html
  [31]: http://www.eeoc.gov/eeoc/internal/reasonable_accommodation.cfm
- [32]: {{site.baseurl}}/manage/laws-and-policies/state
- [33]: {{site.baseurl}}/manage/laws-and-policies/international
+ [32]: /manage/laws-and-policies/state
+ [33]: /manage/laws-and-policies/international
  [34]: https://www.w3.org/WAI/policies/
  [35]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
  [36]: https://www.ssa.gov/accessibility/508_overview.html
