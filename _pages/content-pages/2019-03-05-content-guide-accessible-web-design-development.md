@@ -6,7 +6,6 @@ type: page
 title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
 ---
-{% raw %}
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
 
@@ -1226,5 +1225,3 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [39]: https://www.ssa.gov/accessibility/andi/help/developerguide.html
  [40]: https://www.cio.gov/about/accessibility-cop/
  [41]: https://www.dhs.gov/trusted-tester
-
-{% endraw %}
