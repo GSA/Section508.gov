@@ -17,7 +17,7 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="https://www.section508.gov/create/pdfs/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" /></a>
+      <a href="https://www.section508.gov/create/pdfs/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
