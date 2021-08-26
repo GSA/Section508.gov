@@ -16,7 +16,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 ### Training Videos
 * * *
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
       <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
     </div>
 <div class="desktop:grid-col-9">

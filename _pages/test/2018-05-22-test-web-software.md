@@ -30,7 +30,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 * * *
 
 <div class="grid-row grid-gap">
-  <div class="desktop:grid-col-3">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/test/web-software/andi-training-videos"><img alt="Accessible Name & Description Inspector (ANDI) Tool Overview" class="img-responsive" src="https://assets.section508.gov/files/andi-00-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
   </div>
   
@@ -50,7 +50,7 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 * * *
 
 <div class="grid-row grid-gap">
-  <div class="desktop:grid-col-3">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer"><img alt="How to Test Color Contrast using the Color Contrast Analyser" class="img-responsive" src="https://assets.section508.gov/files/andi-14-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
   </div>
   

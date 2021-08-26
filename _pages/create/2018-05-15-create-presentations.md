@@ -19,7 +19,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 ### Training Videos
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
       <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">
@@ -37,7 +37,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
       <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://section508.gov/sites/default/files/thumb-create-accessible-ppt-template.png" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">

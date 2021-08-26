@@ -20,7 +20,7 @@ title: 'Create Accessible Synchronized Media Content'
 <h2 id="training-videos">Training Videos</h2>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3"><a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media"><img style="width: 100%;" src="https://assets.section508.gov/files/thumb-create-accessible-media.png" alt="Creating Accessible Media" /></a></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media"><img style="width: 100%;" src="https://assets.section508.gov/files/thumb-create-accessible-media.png" alt="Creating Accessible Media" /></a></div>
 <div class="desktop:grid-col-9">
 <p class="video-title"><a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media">Creating Accessible Media</a></p>
 <p>Get a brief overview on how to develop high quality audio, video, and multimedia that is accessible to users who cannot see visual information, or hear information conveyed using sound. Learn about text-based equivalents, captions and synchronized audio descriptions.</p>
@@ -41,7 +41,7 @@ title: 'Create Accessible Synchronized Media Content'
 <h3 dir="ltr"><strong>Examples of Captioned Media</strong></h3>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=9lW8cTgNfXI"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh5.googleusercontent.com/W09A4He_KfNNSfP9yHB2byQlk38QZ0lNxMMpQRrWk9IMkIGznCxWUcroobhXDvCszvVBixFR-HAwe7ns8vd0Jf-eInitH04Zy1IR8Kje2gKE4bRgioKx7SqaKK5YaxJ2VQQWjWwG" alt="Kathy&rsquo;s Flood Story (Captioned)" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=9lW8cTgNfXI"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh5.googleusercontent.com/W09A4He_KfNNSfP9yHB2byQlk38QZ0lNxMMpQRrWk9IMkIGznCxWUcroobhXDvCszvVBixFR-HAwe7ns8vd0Jf-eInitH04Zy1IR8Kje2gKE4bRgioKx7SqaKK5YaxJ2VQQWjWwG" alt="Kathy&rsquo;s Flood Story (Captioned)" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=9lW8cTgNfXI">Kathy&rsquo;s Flood Story (Captioned)</a></strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
@@ -93,7 +93,7 @@ title: 'Create Accessible Synchronized Media Content'
 <h3 dir="ltr"><strong>Examples of Audio Described Media</strong></h3>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=fdpcYTIkvkI"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh3.googleusercontent.com/_O_h7RdLQzAVwm_h5Tcfo5pVedcu-USNz7sPa64XzibuWxswCd097o8anVALbB3S5QJvh3DBhVD0020hffYkvVsoLZ3zXMBoZN67OpkkNJa4gyd-7PgnGP4XOvYteeBVmlVOiaLA" alt="Kathy's Flood Story (Audio Described)" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=fdpcYTIkvkI"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh3.googleusercontent.com/_O_h7RdLQzAVwm_h5Tcfo5pVedcu-USNz7sPa64XzibuWxswCd097o8anVALbB3S5QJvh3DBhVD0020hffYkvVsoLZ3zXMBoZN67OpkkNJa4gyd-7PgnGP4XOvYteeBVmlVOiaLA" alt="Kathy's Flood Story (Audio Described)" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=fdpcYTIkvkI">Kathy&rsquo;s Flood Story (Audio Described)</a></strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
@@ -103,7 +103,7 @@ title: 'Create Accessible Synchronized Media Content'
 </div>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh3.googleusercontent.com/tGzPiLF2atuD2nKbCPVVyG-J-Paf2Vt_BxzylkEEcSGK87FZQ_dvcgzOXQoxV0sR5aG5DRVR6NI7lE8ApH2wfexW2K4WVG9IbKQhVDnUW9WiE5lSpIPU_ub9ConAAHhrbTS-FOkV" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh3.googleusercontent.com/tGzPiLF2atuD2nKbCPVVyG-J-Paf2Vt_BxzylkEEcSGK87FZQ_dvcgzOXQoxV0sR5aG5DRVR6NI7lE8ApH2wfexW2K4WVG9IbKQhVDnUW9WiE5lSpIPU_ub9ConAAHhrbTS-FOkV" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=wsJDV1iXV0Q">Vintage Commercial for Paper Towels </a></strong></p>
 <p dir="ltr">In this example, the audio description was not planned for originally, and has been inserted into the media afterwards by stopping the motion of the video and allowing time for a secondary audio track description of meaningful information.</p>
@@ -195,7 +195,7 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3" style="margin-bottom: 15px;"><strong><a href="https://www.doi.gov/video/restoring-our-national-parks"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh4.googleusercontent.com/mTxdAUaXXOIYTvHUwT0cY4HGGWSyGyxn7Muw-rmk0pAiuRuq2AGHbXVC4fv-ex0EQQ6zBaQ9NsGe1IYr8n2LC3ORzisKdTFq2nDTwtpHeQVFEFoONMid5F0RQDZOicXX6wKgW4td" alt="Restoring our National Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.doi.gov/video/restoring-our-national-parks"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh4.googleusercontent.com/mTxdAUaXXOIYTvHUwT0cY4HGGWSyGyxn7Muw-rmk0pAiuRuq2AGHbXVC4fv-ex0EQQ6zBaQ9NsGe1IYr8n2LC3ORzisKdTFq2nDTwtpHeQVFEFoONMid5F0RQDZOicXX6wKgW4td" alt="Restoring our National Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.doi.gov/video/restoring-our-national-parks">Restoring our National Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>
