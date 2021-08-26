@@ -29,7 +29,7 @@ For additional information on Section 508 standards, laws and associated require
 <ul>
 <li><a href="{{site.baseurl}}/manage/laws-and-policies">Section 508 laws and Policies</a> | Section508.gov
 </li>
-<li><a href="{{site.baseurl}}/test/web-software" aria-label="Accessibility">Accessibility Testing for Software and Websites</a> | Section508.gov</li>
+<li><a href="{{site.baseurl}}/test/web-software">Accessibility Testing for Software and Websites</a> | Section508.gov</li>
 <li><a href="{{site.baseurl}}/content/guide-accessible-web-design-development">Guide to Accessible Design and Development</a> | Section508.gov</li>
 <li><a href="{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria</a> | Section508.gov</li>
 <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh">U.S. Access Board</a> | Access-Board.gov</li>
@@ -50,14 +50,16 @@ While we selected Pa11y to scan for accessibility issues presented by the Access
 
 The Digital Dashboard&rsquo;s Accessibility module scans for certain common accessibility issues across all publicly accessible <span style="font-style: italic;">.gov executive branch agency websites. Website domains that simply redirect to other websites are not measured. The Accessibility module scans second-level federal <span style="font-style: italic;">.gov websites (e.g., <span style="font-style: italic;">agency.gov). Note that third-level federal websites, such as <span style="font-style: italic;">program.agency.gov, <span style="font-style: italic;">.mil,<span style="font-style: italic;"> .edu,<span style="font-style: italic;"> .us, and state, local, and Native Sovereign Nation (NSN) are <span style="font-weight: bold;">not currently scanned by the Accessibility module.
 
-The Accessibility Module performs spot checks, informed by the current Section 508 standards. The checks use the WCAG 2.0 success criteria associated with each standard to inform the testing approach. For test rule details, visit [Digital Dashboard Accessibility Guidance][18].
+<p>
+  The Accessibility Module performs the following spot checks, informed by the current Section 508 standards. The checks use the WCAG 2.0 success criteria associated with each standard to inform the testing approach. For additional testing guidance, visit <a href="{{site.baseurl}}/test/web-software">Accessibility Testing for Software and Websites.</a>
+</p>
 
 <h2 id="limits">
   Limitations of Automated Testing
 </h2>
 
 <p>
-  All automated testing, including that performed by the Digital Dashboard&rsquo;s Accessibility module, is limited to programmatic conformance testing. Automation can test some, but not all, of the technical requirements. For example, while automated tools may be able to identify whether or not an image has an ALT attribute (and whether that attribute is blank or has a text value), they are currently unable to determine if that ALT text is a meaningful or equivalent description of the image. As such, the Accessibility module reports <strong>do not</strong> constitute a complete accessibility evaluation and must be accompanied by manual inspection. Agencies should use both automated and manual testing (conducted by a certified tester) to fully assess whether their website is accessible. For additional testing guidance, visit <a href="{{site.baseurl}}/test/web-software" aria-lebel ="Accesibility testing" >Accessibility Testing for Software and Websites</a>.&nbsp;
+  All automated testing, including that performed by the Digital Dashboard&rsquo;s Accessibility module, is limited to programmatic conformance testing. Automation can test some, but not all, of the technical requirements. For example, while automated tools may be able to identify whether or not an image has an ALT attribute (and whether that attribute is blank or has a text value), they are currently unable to determine if that ALT text is a meaningful or equivalent description of the image. As such, the Accessibility module reports <strong>do not</strong> constitute a complete accessibility evaluation and must be accompanied by manual inspection. Agencies should use both automated and manual testing (conducted by a certified tester) to fully assess whether their website is accessible. For additional testing guidance, visit <a href="/test/web-software">Accessibility Testing for Software and Websites</a>.&nbsp;
 </p>
 
 <h2 id="fix">
@@ -72,8 +74,34 @@ The Accessibility Module performs spot checks, informed by the current Section 5
   Technical Guidance:
 </p>
 
-  * [Guide to Accessible Web Design & Development][11] - A guide on relevant Web Content Accessibility Guidelines (WCAG) requirements with specific considerations for content, design, and development.
-  * [How to Meet WCAG (Quick Reference)][15] - A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2.0 requirements (success criteria) and techniques.
+<ul>
+  <li>
+    A website uses an image to convey information without including a descriptive alt text attribute. This issue would make it impossible for the visually impaired to access the information conveyed by the image.
+  </li>
+  <li>
+    The text on a page has poor contrast with the background color (for instance, light green text on a dark green background). This makes it difficult or impossible for those with some visual impairments (such as color blindness) to use the information.
+  </li>
+  <li>
+    When the web page includes custom controls where the name, role and value cannot be programmatically determined, it could be difficult or impossible for people with visual impairments to know the controls exist, what types of controls they are, and in some cases what value is associated with the control (for example - a missing link or skip to main content that is not working).&nbsp;
+  </li>
+</ul>
+
+<p>
+  See below for information on how to resolve the issues mentioned above:&nbsp;
+</p>
+
+<ul>
+  <li>
+    <a href="https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf">How to fix images with missing descriptions</a>
+  </li>
+  <li>
+    <a href="https://accessibility.huit.harvard.edu/use-sufficient-color-contrast">How to fix color contrast issues</a>
+  </li>
+  <li>
+    <a href="https://accessibility.huit.harvard.edu/provide-name-role-and-value-information">How to fix name, role, value issues</a>
+  </li>
+</ul>
+
 <p>
   If you need help fixing issues identified in the Accessibility module, contact your agency&rsquo;s Section 508 Program Manager, or our team at <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a>.
 </p>
@@ -88,7 +116,7 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 
 <ol>
   <li>
-    Sign into <a href="http://digitaldashboard.gov/" aria-label="DigitalDashboard">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/">MAX.gov</a> account </li>
+    Sign into <a href="http://digitaldashboard.gov/">DigitalDashboard.gov</a> using your <a href="https://www.max.gov/">MAX.gov</a> account </li>
     <li>
       Select the &ldquo;Accessibility&rdquo; module link, and review the data for your agency.
     </li>
@@ -100,7 +128,7 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 
 <h2 id = "resources"> Related Resources </h2>
 <ul>
- <li><a href="/sites/default/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar_0layout: sampleProcurement">Digital Dashboard Accessibility Module Webinar </a>
+ <li><a href="/sites/default/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar_0layout: sampleProcurement">Digital Dashboard </a>
   - Overview of the purpose, uses, and function of the Digital Dashboard Accessibility module.
  </li>
 </ul>
@@ -130,4 +158,3 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 [15]: https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#principle1
 [16]: https://pa11y.org/
 [17]: https://section508coordinators.github.io/ICTTestingBaseline/
-[18]: https://www.digitaldashboard.gov/content/accessibility-guidance

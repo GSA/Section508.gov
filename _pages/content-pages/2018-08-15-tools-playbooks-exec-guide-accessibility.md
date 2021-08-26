@@ -84,7 +84,7 @@ Better accessibility supports many areas of information assurance, including sec
 </p>
 
 <li dir="ltr">
-  <a href="{{site.baseurl}}/508-training/courses/exec-overview">IT Accessibility: An Overview for Government Executives</a>
+  <a href="https://section508.gov/508-training/courses/exec-overview">IT Accessibility: An Overview for Government Executives</a>
 </li>
 
 <h3 id="policy">
@@ -108,7 +108,7 @@ Better accessibility supports many areas of information assurance, including sec
   Develop a roadmap to increase transparency, strengthen accountability, and improve collaboration around accessible technology at your agency.
 </li>
 <li dir="ltr">
-  Review the <a href="{{site.baseurl}}/sites/default/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
+  Review the <a href="https://www.section508.govhttps://assets.section508.gov/filesstrategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
 </li>
 
 <h4 dir="ltr">
@@ -195,7 +195,7 @@ Better accessibility supports many areas of information assurance, including sec
   If contract support is needed, ensure contractors are skilled at both assessing and supporting Section 508 compliance activities.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/roles">Roles and Responsibilities</a>
+  <a href="https://section508.gov/manage/roles">Roles and Responsibilities</a>
 </li>
 
 <h3 id="training">
@@ -210,10 +210,10 @@ Better accessibility supports many areas of information assurance, including sec
   Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/training/508-training">Government-wide IT Accessibility Training</a>
+  <a href="https://section508.gov/training/508-training">Government-wide IT Accessibility Training</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
+  <a href="https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
 </li>
 
 <h3 id="reporting">
@@ -225,10 +225,10 @@ Better accessibility supports many areas of information assurance, including sec
 </p>
 
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/reporting/guidelines-program-maturity">Guideline for assessing program maturity</a>
+  <a href="https://section508.gov/manage/reporting/guidelines-program-maturity">Guideline for assessing program maturity</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/reporting">Monitor and report progress to OMB</a>
+  <a href="https://section508.gov/manage/reporting">Monitor and report progress to OMB</a>
 </li>
 
 <h3 id="collaboration">
@@ -251,7 +251,7 @@ Better accessibility supports many areas of information assurance, including sec
 </li>
 
 <li dir="ltr">
-  Use standardized testing methodologies such as the Trusted Tester Process, and participate in the <a href="{{site.baseurl}}/test/trusted-tester">Interagency Trusted Tester Program</a>, to ensure conformance to the Revised 508 Standards.
+  Use standardized testing methodologies such as the Trusted Tester Process, and participate in the <a href="https://section508.gov/test/trusted-tester">Interagency Trusted Tester Program</a>, to ensure conformance to the Revised 508 Standards.
 </li>
 <li dir="ltr">
   Conduct an accessibility review of all IT-related acquisitions, policies and directives.
@@ -262,7 +262,7 @@ Better accessibility supports many areas of information assurance, including sec
 </h2>
 
 <p dir="ltr">
-  Following the lead of innovative technology companies, adopt <a href="{{site.baseurl}}/create/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
+  Following the lead of innovative technology companies, adopt <a href="https://section508.gov/create/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
 </p>
 
 <li dir="ltr">
@@ -272,7 +272,7 @@ Better accessibility supports many areas of information assurance, including sec
   Encourage collaboration between developers, usability professionals, and requirements analysts.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/create">Create accessible digital products</a> including software, websites and documents.
+  <a href="https://section508.gov/create">Create accessible digital products</a> including software, websites and documents.
 </li>
 
 <h2 id="testing">
@@ -296,7 +296,7 @@ Better accessibility supports many areas of information assurance, including sec
   Ensure successful conformance to the Revised 508 Standards is a core requirement for any agency purchase that has a technology component.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/test">Test for accessibility</a>
+  <a href="https://section508.gov/test">Test for accessibility</a>
 </li>
 
 <h2 id="procurement">
@@ -317,7 +317,7 @@ Better accessibility supports many areas of information assurance, including sec
   Create a governance process to ensure Section 508 conformance is addressed in award decisions.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/buy">Buy accessible IT products and services</a>
+  <a href="https://section508.gov/buy">Buy accessible IT products and services</a>
 </li>
 
 <h2 id="legal">
@@ -341,7 +341,7 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview of the Rule</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/laws-and-policies">IT Accessibility Laws and Policies</a>
+  <a href="https://section508.gov/manage/laws-and-policies">IT Accessibility Laws and Policies</a>
 </li>
 
 <h2 id="conclusion">
@@ -350,9 +350,9 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 
 IT Accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff will understand their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. Visit [Section508.gov][5] and the [IT Accessibility/508 Program Manager Playbook][6] to learn more.
 
- [1]: {{site.baseurl}}/blog/benefits-accessible-design
+ [1]: https://section508.gov/blog/benefits-accessible-design
  [2]: https://www.deque.com/accessible-design
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [5]: https://www.section508.gov/
- [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro
+ [6]: https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro

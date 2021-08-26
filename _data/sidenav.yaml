@@ -38,7 +38,7 @@ manage:
             url: manage/understand-scope-technical-requirements/
       - name: Join the 508 community
         url: manage/join-the-508-community/
-      - name: Find your Program Manager
+      - name: Find you program manager
         url: tools/coordinator-listing/
       - name: Accessibility Reporting
         url: '#'
@@ -69,7 +69,7 @@ manage:
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
 training:
-  - name: Training, Tools & Events
+  - name: Training-Tools-Events
     url: '#'
   - name: Training home
     url: 'training/'
@@ -420,8 +420,8 @@ create:
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
-        url: create/pdfs#tips
-  - name: Create Accessible Meetings
+        url: 'create/pdfs#tips'
+  - name: Create Accessible meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
     url: 'create/synchronized-media/'

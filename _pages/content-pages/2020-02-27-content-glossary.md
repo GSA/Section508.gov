@@ -21,13 +21,13 @@ created: 1582828796
       <strong><span id="access-board">Access Board</span>:</strong> see <a href="#us-access-board">U.S. Access Board</a>
     </li>
     <li>
-      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT™)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
+      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="https://www.section508.gov/sell/vpat">Voluntary Product Accessibility Template (VPAT™)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
     </li>
     <li>
       <strong><span id="art">Accessibility Requirements Tool (ART)</span>:</strong> A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.
     </li>
     <li>
-      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in 44 U.S.C. 3502, and the United States Postal Service. {Section 508, E103.4}
+      <strong><span id="agency">Agency</span>:</strong> Any Federal department or agency, including the United States Postal Service {Section 508, Subpart A, 1194.4 Definitions}.
     </li>
     <li>
       <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content which is not public facing, constitutes official business, and is communicated by an agency through one or more of the criteria set forth in E205.3.
@@ -92,7 +92,7 @@ created: 1582828796
       <strong><span id="caret">Caret</span>:</strong> An on-screen indication of the text input focus in a text edit field.
     </li>
     <li>
-      <strong><span id= "css">Cascading Style Sheets (CSS)</span>:</strong>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;
+      <strong><span id= "css">Cascading Style Sheets (CSS)</span>:</strong>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="https://www.section508.gov/content/glossary#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="https://www.section508.gov/content/glossary#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="https://www.section508.gov/content/glossary#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;
     </li>
     <li>
       <strong><span id="client-side-image-map">Client-side image map</span>:</strong> Each "active region" in a picture can be assigned its own "link" (called a URL or "Uniform Resource Locator") that specifies what&nbsp; to retrieve when a portion of the picture is selected. HyperText Markup Language (HTML) allows each active region to have its own alternative text, just like a picture can have alternative text.
@@ -148,7 +148,7 @@ created: 1582828796
       <strong><span id="existing-ict">Existing ICT</span>:</strong> ICT that was procured, maintained or used on or before January 18, 2018.
     </li>
     <li>
-      <strong><span id="eit"> Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
+      <strong<span id="eit">Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
     </li>
   </ul>
   
@@ -272,7 +272,7 @@ created: 1582828796
       <strong><span id="label">Label</span>:</strong> Text, or a component with a text alternative, that is presented to a user to identify content. A label is presented to all users, whereas a name may be hidden and only exposed by assistive technology. In many cases, the name and the label are the same.
     </li>
     <li>
-      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/content/glossary#assistive-technology">assistive technology.</a> (See also <a href="{{site.baseurl}}/content/glossary#data-table">Data table</a>)
+      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="https://section508.gov/content/glossary#assistive-technology">assistive technology.</a> (See also <a href="https://section508.gov/content/glossary#data-table">Data table</a>)
     </li>
     <li>
       <strong><span id="listserv">Listserv</span>:</strong> An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/">manage your listserv subscription</a>.
@@ -387,7 +387,7 @@ created: 1582828796
       <strong><span id="script">Script</span>:</strong> A series of commands programmed in a non-HTML scripting language that displays content or performs a function. The content and function activated by scripts must be identified and accessible to assistive technology.
     </li>
     <li>
-      <strong><span id="scope-attribute">Scope attribute</span>:</strong> A method of identifying row and column headers for HTML tables. Consider using the <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.
+      <strong><span id="scope-attribute">Scope attribute</span>:</strong> A method of identifying row and column headers for HTML tables. Consider using the <a href="https://www.section508.gov/content/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.
     </li>
     <li>
       <strong><span id="seo">Search Engine Optimization (SEO)</span>:</strong> The practice of writing and structuring content to improve findability through organic search engine results.
@@ -463,7 +463,7 @@ created: 1582828796
       <strong><span id="transcript">Transcript</span>:</strong> The conversion of the spoken language of an audio file into a text format.
     </li>
     <li>
-      <strong><span id="trusted-tester">Trusted Tester</span>:</strong> The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
+      <strong><span id="trusted-tester">Trusted Tester</span>:</strong> The <a href="https://www.section508.gov/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
     </li>
     <li>
       <strong><span id="tty">TTY</span>:</strong> Equipment that enables interactive text based communications through the transmission of frequency-shift-keying audio tones across the public switched telephone network, such as a computer with TTY emulating software and modem. TTYs include devices for real-time text communications and voice, and text intermixed communications, such as voice or hearing carry-over.
@@ -491,7 +491,7 @@ created: 1582828796
       <strong><span id="url">Uniform Resource Locator (URL)</span>:</strong> What a user types into a browser to find the location of a resource on the web.
     </li>
     <li>
-      <strong><span id="universal-design">Universal design</span>:</strong> The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/create/universal-design">Universal design</a> is also referred to as inclusive design.
+      <strong><span id="universal-design">Universal design</span>:</strong> The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="https://www.section508.gov/create/universal-design">Universal design</a> is also referred to as inclusive design.
     </li>
   </ul>
   
