@@ -129,7 +129,20 @@ a{
 .usa-hero__callout {
   background-color: rgba(255, 255, 255, 0.8);
 }
-
+.usa-card__container {
+  border-top: 0.25rem solid #162E51 ;
+  border-bottom: 1px solid #dfe1e2;
+  border-left: 1px solid #dfe1e2;
+  border-right: 1px solid #dfe1e2;
+  .usa-card__body {
+    ul {
+      margin-left: 0.65em;
+    }
+    li {
+      margin-top: 0.5em;
+    }
+  }
+}
 .h2color{
   color:#235EBC;
 }
@@ -358,4 +371,23 @@ ul.menu{
 
 a {
     color: #1e6ad6;
+}
+
+.landing-page-banner {
+  background-color: #162E51;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+@media (min-width: 64em) {
+  .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+    background-color: #00A91C;
+  }
+  .usa-nav__primary > .usa-nav__primary-item > a:hover {
+    color: #00A91C;
+  }
+}
+
+.banner-title-color {
+  color: #9DDFEB;
 }
