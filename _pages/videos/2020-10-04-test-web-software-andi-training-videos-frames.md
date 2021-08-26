@@ -8,8 +8,15 @@ created: 1601868047
 redirect_from:
 - test/web-software/andi-training-videos/frames/
 ---
+<h1>Module 11: Frames </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 
 Learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
+
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-11-frames-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>

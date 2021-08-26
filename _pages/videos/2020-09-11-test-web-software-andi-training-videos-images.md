@@ -9,6 +9,12 @@ redirect_from:
 - test/web-software/andi-training-videos/images/
 ---
 
+<h1> Module 4: Images </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
+
 Discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-04-images-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>

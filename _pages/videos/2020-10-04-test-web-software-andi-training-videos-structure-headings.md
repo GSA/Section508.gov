@@ -9,6 +9,12 @@ redirect_from:
 - test/web-software/andi-training-videos/structure-headings/
 ---
 
+<h1>Module 5: Structure Headings </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
+
 Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-05-structure-headings-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>

@@ -9,7 +9,14 @@ redirect_from:
 - test/web-software/andi-training-videos/andi-page-title/
 ---
 
-Discover how to use the ANDI _Structures_ module to ensure that every web page contains a <title> element that will identify the purpose of the page to ensure it is distinguishable from other web pages.
+<h1>Module 10: Page Title </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
+<div class="field-item even" property="content:encoded"><p>Discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.</p>
+</div>
+
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-10-page-title-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">

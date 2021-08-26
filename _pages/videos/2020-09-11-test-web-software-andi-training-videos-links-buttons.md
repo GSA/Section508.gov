@@ -9,6 +9,11 @@ redirect_from:
 - test/web-software/andi-training-videos/links-buttons/
 ---
 
+<h1 class="page-header">Module 3: Links & Buttons </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+--------------------------------------
+
 Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1] links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-03-link-buttons-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -93,4 +98,4 @@ Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: /content/glossary#interactive-element
+ [1]: {{site.baseurl}}/content/glossary#interactive-element

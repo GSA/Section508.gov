@@ -8,7 +8,11 @@ created: 1601866613
 redirect_from:
 - test/web-software/andi-training-videos/structure-lists/
 ---
+<h1>Module 7: Structure Lists </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
 
+------------------
 Discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-07-structure-list-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>

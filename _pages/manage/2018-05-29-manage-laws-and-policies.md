@@ -144,10 +144,10 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [23]: https://policy.cio.gov/open-data/
  [24]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/improving-accessibility-government-information_07-19-2010.pdf
  [25]: https://obamawhitehouse.archives.gov/omb/procurement_index_508/
- [26]: {{site.baseurl}}/sites/default/files/ombNews_February_2011.doc
- [27]: /sites/default/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
- [28]: /sites/default/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
- [29]: /sites/default/files/Memo_Safavian-Evans.doc
+ [26]: https://section508.gov/sites/default/files/ombNews_February_2011.doc
+ [27]: https://section508.gov/sites/default/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
+ [28]: https://section508.gov/sites/default/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
+ [29]: https://section508.gov/sites/default/files/Memo_Safavian-Evans.doc
  [30]: http://www.eeoc.gov/policy/docs/accommodation_procedures.html
  [31]: http://www.eeoc.gov/eeoc/internal/reasonable_accommodation.cfm
  [32]: {{site.baseurl}}/manage/laws-and-policies/state

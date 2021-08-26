@@ -8,6 +8,11 @@ created: 1601866940
 redirect_from:
 - test/web-software/andi-training-videos/page-language/
 ---
+<h1>Module 8: Page Language </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
+
+------------------
 
 Learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-08-page-language-cc.mp4" type="video/mp4"></video>

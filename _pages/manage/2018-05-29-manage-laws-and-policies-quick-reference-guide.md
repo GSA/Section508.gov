@@ -164,7 +164,11 @@ Questions? Email us at <section.508@gsa.gov>.
  [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
+<<<<<<< HEAD
+ [12]: {{site.baseurl}}/art/
+=======
  [12]: {{site.baseurl}}/art
+>>>>>>> origin/master
  [13]: {{site.baseurl}}/content/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
@@ -173,11 +177,19 @@ Questions? Email us at <section.508@gsa.gov>.
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
+<<<<<<< HEAD
+ [21]: {{site.baseurl}}/training/508-training/courses/exec-overview/
+ [22]: {{site.baseurl}}/508-training/courses/508-basics
+ [23]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1
+ [24]: {{site.baseurl}}/508-training/courses/playbook
+ [25]: {{site.baseurl}}/508-training/courses/procurement
+=======
  [21]: https://training.section508.gov/508-training/courses/exec-overview/index.html
  [22]: https://training.section508.gov/508-training/courses/508-basics/index.html
  [23]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
  [24]: https://training.section508.gov/508-training/courses/playbook/index.html
  [25]: https://training.section508.gov/508-training/courses/procurement/index.html
+>>>>>>> origin/master
  [26]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx 
  [27]: {{site.baseurl}}/create/software-websites
  [28]: {{site.baseurl}}/test/documents

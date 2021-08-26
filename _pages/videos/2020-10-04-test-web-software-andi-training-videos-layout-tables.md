@@ -8,7 +8,11 @@ created: 1601869941
 redirect_from:
 - test/web-software/andi-training-videos/layout-tables/
 ---
+<h1>Module 16: Layout Tables </h1>
+<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
+</div>
 
+------------------
 Discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-16-layout-tabes-cc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
