@@ -82,5 +82,5 @@ The following play identifies how to ensure accessibility needs are identified a
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
  [3]: /index.php
  [4]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [5]: /sites/default/files/guidance-on-508-compliant-solicitations-20150921.docx
- [6]: /sites/default/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
+ [5]: https://assets.section508.gov/files/guidance-on-508-compliant-solicitations-20150921.docx
+ [6]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx

@@ -40,4 +40,4 @@ A successful 508 Section Program should not be established in isolation. Active 
 &nbsp;
 
  [1]: https://cio.gov/about/groups/accessibility-cop/
- [2]: /sites/default/files/strategic-plan-508-compliance.pdf
+ [2]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

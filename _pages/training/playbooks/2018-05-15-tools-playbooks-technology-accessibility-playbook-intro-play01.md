@@ -65,5 +65,5 @@ Achieving Section 508 compliance requires a comprehensive, programmatic approach
   * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][3]
 
  [1]: #Footnote1
- [2]: /sites/default/files/508_Leadership_Core_Competency_Model.pdf
- [3]: /sites/default/files/strategic-plan-508-compliance.pdf
+ [2]: https://assets.section508.gov/files/508_Leadership_Core_Competency_Model.pdf
+ [3]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

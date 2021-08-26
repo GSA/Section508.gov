@@ -48,7 +48,7 @@ An understanding of accessibility and Section 508 compliance should be an essent
 
 &nbsp;
 
- [1]: /tools
+ [1]: {{site.baseurl}}/tools
  [2]: https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592
  [3]: http://developer.apple.com/library/mac/documentation/Accessibility/Conceptual/AccessibilityMacOSX/
  [4]: http://www.nuance.com/ucmprod/groups/healthcare/documents/webasset/nd_004978.pdf

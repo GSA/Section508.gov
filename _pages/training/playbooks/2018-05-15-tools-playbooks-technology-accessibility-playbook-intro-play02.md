@@ -88,10 +88,10 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
 &nbsp;
 
- [1]: /sites/default/files/strategic-plan-508-compliance.pdf
- [2]: /sites/default/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
- [3]: /sites/default/files/S508TEMPLATE120816EXT2_1.pdf
- [4]: /manage/reporting
+ [1]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf
+ [2]: https://assets.section508.gov/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
+ [3]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf
+ [4]: {{site.baseurl}}/manage/reporting
  [5]: https://www.challenge.gov/challenge/digital-service-contracting-professional-training-and-development-program-challenge-2/
  [6]: https://itdashboard.gov/
  [7]: https://www.youtube.com/watch?list=PLQzq_ylfBVzKM1ZC_900nvea6uxkeAOVS&v=Wp92Vq3yTrU

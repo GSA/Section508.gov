@@ -53,4 +53,4 @@ An effective agency Section 508 program can identify and manage risks, gain mana
 
 &nbsp;
 
- [1]: /sites/default/files/S508TEMPLATE120816EXT2_1.pdf
+ [1]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf
