@@ -165,7 +165,7 @@ Questions? Email us at <section.508@gsa.gov>.
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
  [12]: {{site.baseurl}}/art
- [13]: {{site.baseurl}}/content/files/508-standards-applicability-checklist.docx
+ [13]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907
