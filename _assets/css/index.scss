@@ -245,12 +245,12 @@ ul.menu{
     clear: both;
     background-image: url(../img/plus.svg), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
-    background-position: right 0.5rem center;
+    background-position: right 0rem center;
     background-size: 0.75rem;
     &.active{
       background-image: url(../img/minus.svg), linear-gradient(transparent, transparent);
       background-repeat: no-repeat;
-      background-position: right 0.5rem center;
+      background-position: right 0rem center;
       background-size: 0.75rem;
     }
     a{
