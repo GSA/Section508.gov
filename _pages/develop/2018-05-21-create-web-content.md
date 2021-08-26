@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/web-content/
+permalink: design-develop/web-content/
 type: develop
 title: 'Developing Accessible Web Content'
 created: 1526946893

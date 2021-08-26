@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/universal-design/
+permalink: design-develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
 created: 1527530633

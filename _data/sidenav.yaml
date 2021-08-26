@@ -69,9 +69,9 @@ manage:
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
 training:
-  - name: Training, Tools & Events
-    url: '#'
-  - name: Training home
+  - name: Training, Tools and Events
+    url: 'training-tools-events/'
+  - name: Training
     url: 'training/'
   - name: Online Training Courses
     url: '#'
@@ -259,7 +259,7 @@ training:
             external: true
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
-  - name: Events home
+  - name: Events
     url: 'events/'
   - name: Recurring Events
     url: '#'
@@ -273,8 +273,6 @@ training:
   - name: Section 508 Tools
     url: '#'
     children:
-      - name: Tools Home
-        url: 'tools/'
       - name: Testing Tools for Web
         url: 'test/web-software/'
       - name: Accessibility Requirements Tool (ART)
@@ -289,21 +287,21 @@ training:
         url: 'content/glossary/'
 develop:
   - name: Design and Develop
-    url: '#'
+    url: 'design-develop/'
   - name: Design
     url: '#'
     children:
       - name: Universal Design
-        url: 'create/universal-design/'
+        url: 'design-develop/universal-design/'
   - name: Develop
     url: '#'
     children:
       - name: Develop Software and Websites
-        url: create/software-websites/
+        url: design-develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
-        url: create/applicability-conformance/
+        url: design-develop/applicability-conformance/
       - name: Develop Web Content
-        url: create/web-content/
+        url: design-develop/web-content/
 test:
   - name: Testing Home
     url: 'test/'
