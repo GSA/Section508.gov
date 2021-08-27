@@ -255,21 +255,34 @@ Information, structure, and relationships conveyed through presentation can be p
 
 **Development Considerations**
 
-  * To hide the border around fieldset elements, put in the <b style="monospace"><head></head></b> or in a CSS file  
+  * To hide the border around fieldset elements, put in the <b style="monospace"><head></head></b> or in a CSS file
+    {% highlight ruby %}
+    {% raw %}
     <style>  
-    &nbsp;&nbsp;&nbsp;fieldset {  
-    &nbsp;&nbsp;&nbsp;border: 0 none;  
-    &nbsp;&nbsp;}  
+    fieldset {  
+    border: 0 none;  
+    }  
     </style>
-
+    {% endraw %}
+    {% endhighlight %}
   * Grouping related form controls: 
       * Refer to [ARIA (radio buttons, segmented inputs)][5]
-  * Fieldset/Legend and Label/ID (see also [WCAG H44][6] and [WCAG H71][7]) <ul style="list-style-type:none;">
-          <li>
-            &nbsp;&nbsp;&nbsp;<fieldset><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<legend>Your Name</legend><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="title">Title (optional)</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="title" type="text"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="first-name">First name*</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="first-name" name="first-name" type="text" aria-required="true"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="middle-name">Middle name (optional)</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="middle-name" type="text"><br /> <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<label for="last-name">Last name*</label><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input id="last-name" name="last-name" type="text" aria-required="true"><br /> <br /> &nbsp;&nbsp;&nbsp;</fieldset><br /> &nbsp;</form>
-          </li>
-        </ul>
-
+  * Fieldset/Legend and Label/ID (see also [WCAG H44][6] and [WCAG H71][7])
+    {% highlight ruby %}
+    {% raw %}
+    <fieldset>
+     <legend>Your Name</legend>
+     <label for="title">Title (optional)</label>
+     <input id="title" type="text">
+     <label for="first-name">First name*</label>
+     <input id="first-name" name="first-name" type="text" aria-required="true">
+    <label for="middle-name">Middle name (optional)</label>
+    <input id="middle-name" type="text">
+    <label for="last-name">Last name*</label>
+    <input id="last-name" name="last-name" type="text" aria-required="true">
+   </fieldset>
+    {% endraw %}
+    {% endhighlight %}
   * Techniques for WCAG Success Criteria: 
       * [H44: Using label elements to associate text labels with form controls][6]
   * [H71: Providing a description for groups of form controls using fieldset and legend elements][7])
