@@ -98,10 +98,10 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
 
 ### Sample Policies
 
-  *<a href="https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc" target="_blank">Example: Department of Homeland Security Section 508 Directive</a>&nbsp;
-  *<a href="https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf" target="_blank">Example: Veterans Administration Accessibility Policy</a>
-  *<a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
-  *<a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
+  * <a href="https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc" target="_blank">Example: Department of Homeland Security Section 508 Directive</a>&nbsp;
+  * <a href="https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf" target="_blank">Example: Veterans Administration Accessibility Policy</a>
+  * <a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
+  * <a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
 
 ### Sample Accessibility Statements
 
