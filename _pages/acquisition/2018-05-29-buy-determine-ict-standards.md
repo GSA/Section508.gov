@@ -14,14 +14,11 @@ Identify which Standards apply to each ICT item:
   * Select the type of ICT, then answer the questions
   * If your ICT item falls under a single category:
      * Select the category that best fits, and only answer those questions
-
   * If your ICT item spans multiple categories (e.g., a VOIP IP solution that includes both hardware and software):
      * Answer the questions under each relevant category
-
   * Record your responses in the [Revised 508 Standards Applicability Checklist][3] (MS-Word, April 2018)
 
 Note, this step is not required if your entire ICT item is eligible for any of the exceptions (which you should have [determined in Step 2][4]), except the Best Meets exception. If only some components of the ICT item qualify for an exception, you must determine which Standards apply to the remaining components.
-
 ## **ICT Types**
 
 <ul style="list-style-type:none">
@@ -114,23 +111,19 @@ NOTE: An exception provides that NARA is not responsible for remediating records
     * 302 All Functional Performance Criteria
 
   1. Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
-
    * Proceed to Question 3
-
    * If No, the following Standards apply:
      * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
-     * 2.4.1 Bypass Blocks
-     * 2.4.5 Multiple Ways
-     * 3.2.3.Consistent Navigation
-     * 3.2.4 Consistent Identification
-
-   * 502 Interoperability with Assistive Technology
-   * 503 Application
-   * 602 Support Documentation
-   * 603 Support Services
-   * 302 All Functional Performance Criteria
-     * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
-
+        * 2.4.1 Bypass Blocks
+        * 2.4.5 Multiple Ways
+        * 3.2.3.Consistent Navigation
+        * 3.2.4 Consistent Identification
+     * 502 Interoperability with Assistive Technology
+     * 503 Application
+     * 602 Support Documentation
+     * 603 Support Services
+     * 302 All Functional Performance Criteria
+        * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
   * Proceed to Question 3
 
 **Question 3** - Is the software also an authoring tool?
