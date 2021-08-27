@@ -70,9 +70,9 @@ manage:
         url: manage/laws-and-policies/update-agency-policies/
 training:
   - name: Training, Tools and Events
-    url: 'training-tools-events/'
-  - name: Training
     url: 'training/'
+  - name: Training
+    url: 'training-home/'
   - name: Online Training Courses
     url: '#'
     children:
