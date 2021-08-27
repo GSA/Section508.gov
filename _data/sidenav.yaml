@@ -133,6 +133,8 @@ training:
       - name: Presentation
         url: '#'
         grandchildren:
+          - name: "Creating PowerPoint Templates"
+            url: training/presentations/creating-powerpoint-templates/
           - name: "Module 0: Introduction & Background"
             url: training/presentations/aed-cop-pptx00/
           - name: "Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order"
@@ -164,8 +166,6 @@ training:
       - name: Spreadsheet
         url: '#'
         grandchildren:
-          - name: "Creating PowerPoint Templates"
-            url: training/presentations/creating-powerpoint-templates/
           - name: "Module 0: Introduction & Background"
             url: training/spreadsheets/aed-cop-xlsx00/
           - name: "Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order"
