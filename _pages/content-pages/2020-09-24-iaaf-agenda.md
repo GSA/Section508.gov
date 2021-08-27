@@ -332,7 +332,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">9:30 A.M. – 9:45 A.M. <br><span class="session-type">Welcome</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d2w"><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#smith">Kevin Smith,</a></span> Chief Information Officer, U.S. Census Bureau
+        <span class="speaker-name" id="d2w"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#smith">Kevin Smith,</a></b></span> Chief Information Officer, U.S. Census Bureau
       </div>
     </div>
     <div class="grid-row keynote" id="d2k1">

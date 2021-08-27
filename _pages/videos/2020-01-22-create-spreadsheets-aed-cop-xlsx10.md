@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/spreadsheets/aed-cop-xlsx10/
+permalink: training/spreadsheets/aed-cop-xlsx10/
 type: training
 title: 'Module 10: Saving in the .pptx Format with a Descriptive Filename'
 created: 1579724106
+redirect_from:
+- create/spreadsheets/aed-cop-xlsx10/
 ---
 
 # Module 10: Saving in the .xlsx Format with a Descriptive Filename
@@ -17,7 +19,7 @@ created: 1579724106
 
 Discover how a descriptive file name identifying the worksheet or its purpose helps everyone, including people with disabilities, locate, open, and switch between documents.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="/sites/default/files/XLS/aed-cop-xls-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m10.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 
@@ -43,13 +45,13 @@ Discover how a descriptive file name identifying the worksheet or its purpose he
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
- [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
- [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
- [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
- [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04
- [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
- [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
- [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
- [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
- [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx09
+ [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04
+ [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05
+ [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06
+ [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07
+ [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08
+ [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09

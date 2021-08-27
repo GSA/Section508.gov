@@ -1,8 +1,8 @@
 ---
-layout: wide
-sidenav: false
+layout: page
+sidenav: true
 permalink: iaaf/archives/
-type: page
+type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
 --- 

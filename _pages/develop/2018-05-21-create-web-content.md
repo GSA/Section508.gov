@@ -1,22 +1,24 @@
 ---
 layout: page
 sidenav: true
-permalink: design-develop/web-content/
+permalink: develop/web-content/
 type: develop
 title: 'Developing Accessible Web Content'
 created: 1526946893
+redirect_from:
+- create/web-content/
 ---
 <p>Learn how to build digital tools that conform to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. Review the W3C’s Sufficient Techniques for examples of how to meet Success Criteria using specific technologies (relevant to HTML, CSS, server-side scripting, Flash, ARIA, etc.).</p>
-<ul>
-<li><a href="https://www.w3.org/WAI/WCAG20/quickref/" class="ext">How to Meet WCAG 2.0</a> - quick reference guide </li>
-<ul>
-<li><a href="https://www.w3.org/TR/WCAG20-TECHS/" class="ext">Full list of sufficient techniques and common failures</a></li>
+<ul role="list">
+<li role="listitem"><a href="https://www.w3.org/WAI/WCAG20/quickref/" class="ext">How to Meet WCAG 2.0</a> - quick reference guide </li>
+<ul role="list">
+<li role="listitem"><a href="https://www.w3.org/TR/WCAG20-TECHS/" class="ext">Full list of sufficient techniques and common failures</a></li>
 </ul>
-<li><a href="http://www.w3.org/WAI/gettingstarted/" class="ext">Getting started with web accessibility</a></li>
-<li><a href="http://www.w3.org/WAI/users/" class="ext">Designing for inclusion</a></li>
-<li><a href="http://www.w3.org/WAI/eval/selectingtools" class="ext">Selecting web accessibility evaluation tools</a></li>
-<li><a href="http://www.w3.org/TR/wcag2ict/" class="ext">Applying WCAG 2.0 to non-web content</a></li>
-<li><a href="http://www.w3.org/WAI/train" class="ext">WCAG tutorials</a></li>
+<li role="listitem"><a href="http://www.w3.org/WAI/gettingstarted/" class="ext">Getting started with web accessibility</a></li>
+<li role="listitem"><a href="http://www.w3.org/WAI/users/" class="ext">Designing for inclusion</a></li>
+<li role="listitem"><a href="http://www.w3.org/WAI/eval/selectingtools" class="ext">Selecting web accessibility evaluation tools</a></li>
+<li role="listitem"><a href="http://www.w3.org/TR/wcag2ict/" class="ext">Applying WCAG 2.0 to non-web content</a></li>
+<li role="listitem"><a href="http://www.w3.org/WAI/train" class="ext">WCAG tutorials</a></li>
 </ul>
 <h2>Content Authoring Guidelines</h2>
 <ul>

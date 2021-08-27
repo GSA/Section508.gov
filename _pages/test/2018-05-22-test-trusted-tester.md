@@ -15,8 +15,6 @@ The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the 
 
 Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <Accessibility@HQ.DHS.GOV> with questions.
 
-  * [ICT Testing Baseline][1]
-
 ## DHS Trusted Tester Process & Certification Program
 
 The DHS Trusted Tester Process is a manual test approach that aligns with the ICT Testing Baseline, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
@@ -43,7 +41,7 @@ The resources on this page were created through interagency collaborative effort
 
 **Reviewed/Updated:** June 2021
 
- [1]: https://section508coordinators.github.io/ICTTestingBaseline/introduction.html
+ [1]: https://ictbaseline.access-board.gov/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [3]: https://www.dhs.gov/508-testing
  [4]: https://section508coordinators.github.io/TrustedTester/
@@ -52,5 +50,5 @@ The resources on this page were created through interagency collaborative effort
  [7]: {{site.baseurl}}/test
  [8]: {{site.baseurl}}/test/about-testing-tools
  [9]: https://www.cio.gov/about/accessibility-cop/
- [10]: {{site.baseurl}}/sites/default/files/Trusted%20Tester%20Awareness%20Webinar_0.pptx
+ [10]: https://assets.section508.gov/files/Trusted%20Tester%20Awareness%20Webinar_0.pptx
  [11]: https://training.section508testing.net/

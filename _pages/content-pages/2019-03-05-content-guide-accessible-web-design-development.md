@@ -596,7 +596,15 @@ Identify the default lang attribute on the HTML element:
 
 <ul style="list-style-type:none;">
   <li>
-    <!DOCTYPE html><br /> <strong><html lang="en"></strong><br /> <head><br /> &nbsp;<meta charset="utf-8"><br /> &nbsp;<title>WAI application shell</title><br /> &nbsp;<meta http-equiv="X-UA-Compatible" content="IE=edge"><br /> &nbsp;<meta name="viewport" content="width=device-width, initial-scale=1.0"><br /> &nbsp;<link rel="stylesheet" type="text/css" href="styles/style.css"><br /> </head>
+    <!DOCTYPE html><br />
+     <strong><html lang="en"></strong><br />
+     <head><br />
+     <meta charset="utf-8"><br />
+     <title>WAI application shell</title><br />
+     <meta http-equiv="X-UA-Compatible" content="IE=edge"><br />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"><br />
+     <link rel="stylesheet" type="text/css" href="styles/style.css"><br />
+	 </head>
   </li>
 </ul>
 

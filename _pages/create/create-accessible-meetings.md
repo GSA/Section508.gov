@@ -275,7 +275,7 @@ Fine tune your video
 <p class="rteright"><a href="#top">Back to top</a></p>
 
 <h2 dir="ltr" id="publishing-recording-live-meeting">Publishing a Recording of a Live Meeting</h2>
-<p dir="ltr">Many individuals and organizations record meetings and events, posting them online as on-demand training for others to watch. While this is perfectly acceptable, understand that the accessibility standards for live video and pre-recorded video (technically referred to as <a href="/content/glossary#synchronized-media">synchronized media</a>) differ in that:</p>
+<p dir="ltr">Many individuals and organizations record meetings and events, posting them online as on-demand training for others to watch. While this is perfectly acceptable, understand that the accessibility standards for live video and pre-recorded video (technically referred to as <a href="{{site.baseurl}}/content/glossary#synchronized-media">synchronized media</a>) differ in that:</p>
 <ul>
 <li dir="ltr">Captioning needs to meet the higher standards of pre-recorded media, and</li>
 <li dir="ltr">Audio descriptions are required for visual content</li>

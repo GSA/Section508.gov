@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/documents/aed-cop-docx01/
+permalink: training/documents/aed-cop-docx01/
 type: training
 title: 'Module 1: Save as a Word Document (.docx) with a Descriptive Filename'
 created: 1579720714
+redirect_from:
+- create/documents/aed-cop-docx01/
 ---
 
 # Module 1: **Save as a Word Document (.docx) with a Descriptive Filename**
@@ -46,16 +48,16 @@ Discover how a descriptive file name that identifies the document or its purpose
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/documents/aed-cop-docx00
- [2]: {{site.baseurl}}/create/documents/aed-cop-docx02
- [3]: {{site.baseurl}}/create/documents/aed-cop-docx03
- [4]: {{site.baseurl}}/create/documents/aed-cop-docx04
- [5]: {{site.baseurl}}/create/documents/aed-cop-docx05
- [6]: {{site.baseurl}}/create/documents/aed-cop-docx06
- [7]: {{site.baseurl}}/create/documents/aed-cop-docx07
- [8]: {{site.baseurl}}/create/documents/aed-cop-docx08
- [9]: {{site.baseurl}}/create/documents/aed-cop-docx09
- [10]: {{site.baseurl}}/create/documents/aed-cop-docx10
- [11]: {{site.baseurl}}/create/documents/aed-cop-docx11
- [12]: {{site.baseurl}}/create/documents/aed-cop-docx12
- [13]: {{site.baseurl}}/create/documents/aed-cop-docx13
+ [1]: {{site.baseurl}}/training/documents/aed-cop-docx00
+ [2]: {{site.baseurl}}/training/documents/aed-cop-docx02
+ [3]: {{site.baseurl}}/training/documents/aed-cop-docx03
+ [4]: {{site.baseurl}}/training/documents/aed-cop-docx04
+ [5]: {{site.baseurl}}/training/documents/aed-cop-docx05
+ [6]: {{site.baseurl}}/training/documents/aed-cop-docx06
+ [7]: {{site.baseurl}}/training/documents/aed-cop-docx07
+ [8]: {{site.baseurl}}/training/documents/aed-cop-docx08
+ [9]: {{site.baseurl}}/training/documents/aed-cop-docx09
+ [10]: {{site.baseurl}}/training/documents/aed-cop-docx10
+ [11]: {{site.baseurl}}/training/documents/aed-cop-docx11
+ [12]: {{site.baseurl}}/training/documents/aed-cop-docx12
+ [13]: {{site.baseurl}}/training/documents/aed-cop-docx13

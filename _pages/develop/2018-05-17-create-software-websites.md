@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: design-develop/software-websites/
+permalink: develop/software-websites/
 type: develop
 title: 'Create Accessible Software & Websites'
 created: 1526572632
+redirect_from:
+- create/software-websites/
 ---
 
 If you’re an author or developer of electronic documents, software applications, web content, operating systems, accessibility platforms, assistive technology, mobile environments, and modern development frameworks, you need to understand how the [Revised 508 Standards][1] (36 C.F.R. Part 1194) apply to your work.

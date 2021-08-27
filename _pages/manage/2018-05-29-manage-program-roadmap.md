@@ -75,8 +75,6 @@ created: 1527574221
 <li dir="ltr">
   Assess the maturity of your agency's 508 program, and take steps to improve accessibility of agency technology.
 </li>
-</ul>
-<ul>
 <li dir="ltr">
   Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:
   <ul>
@@ -118,9 +116,9 @@ created: 1527574221
     <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
   </li> 
   <li dir ="ltr">
-  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a> </li>
+  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
    <li dir ="ltr">
-   <a hred = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
+   <a href = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
   </ul>
 
 <h3 dir="ltr">
@@ -551,16 +549,16 @@ created: 1527574221
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: {{site.baseurl}}/508-training/courses/exec-overview/
- [5]: {{site.baseurl}}/508-training/courses/508-basics
- [6]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1/
- [7]: {{site.baseurl}}/508-training/courses/playbook
- [8]: {{site.baseurl}}/508-training/courses/procurement
+ [4]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [5]: https://training.section508.gov/508-training/courses/508-basics/index.html
+ [6]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
+ [7]: https://training.section508.gov/508-training/courses/playbook/index.html
+ [8]: https://training.section508.gov/508-training/courses/procurement/index.html
  [9]: #main-content
  [10]: https://standards.usa.gov/
  [11]: https://section508.gov/sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [13]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx
+ [13]: https://assets.section508.gov/files/standards-exceptions-chart.docx
  [14]: {{site.baseurl}}/create/software-websites
  [15]: {{site.baseurl}}/test
  [16]: {{site.baseurl}}/buy/accessibility-requirements-tool

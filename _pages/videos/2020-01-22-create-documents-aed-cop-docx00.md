@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/documents/aed-cop-docx00/
+permalink: training/documents/aed-cop-docx00/
 type: training
 title: 'Module 0: Introduction & Background'
 created: 1579720633
+redirect_from:
+ - create/documents/aed-cop-docx00/
 ---
 
 # Module 0: Introduction & Background
@@ -46,16 +48,16 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/documents/aed-cop-docx01
- [2]: {{site.baseurl}}/create/documents/aed-cop-docx02
- [3]: {{site.baseurl}}/create/documents/aed-cop-docx03
- [4]: {{site.baseurl}}/create/documents/aed-cop-docx04
- [5]: {{site.baseurl}}/create/documents/aed-cop-docx05
- [6]: {{site.baseurl}}/create/documents/aed-cop-docx06
- [7]: {{site.baseurl}}/create/documents/aed-cop-docx07
- [8]: {{site.baseurl}}/create/documents/aed-cop-docx08
- [9]: {{site.baseurl}}/create/documents/aed-cop-docx09
- [10]: {{site.baseurl}}/create/documents/aed-cop-docx10
- [11]: {{site.baseurl}}/create/documents/aed-cop-docx11
- [12]: {{site.baseurl}}/create/documents/aed-cop-docx12
- [13]: {{site.baseurl}}/create/documents/aed-cop-docx13
+ [1]: {{site.baseurl}}/training/documents/aed-cop-docx01
+ [2]: {{site.baseurl}}/training/documents/aed-cop-docx02
+ [3]: {{site.baseurl}}/training/documents/aed-cop-docx03
+ [4]: {{site.baseurl}}/training/documents/aed-cop-docx04
+ [5]: {{site.baseurl}}/training/documents/aed-cop-docx05
+ [6]: {{site.baseurl}}/training/documents/aed-cop-docx06
+ [7]: {{site.baseurl}}/training/documents/aed-cop-docx07
+ [8]: {{site.baseurl}}/training/documents/aed-cop-docx08
+ [9]: {{site.baseurl}}/training/documents/aed-cop-docx09
+ [10]: {{site.baseurl}}/training/documents/aed-cop-docx10
+ [11]: {{site.baseurl}}/training/documents/aed-cop-docx11
+ [12]: {{site.baseurl}}/training/documents/aed-cop-docx12
+ [13]: {{site.baseurl}}/training/documents/aed-cop-docx13

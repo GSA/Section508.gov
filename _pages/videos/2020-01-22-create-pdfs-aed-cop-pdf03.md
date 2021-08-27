@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/pdfs/aed-cop-pdf03/
+permalink: training/pdfs/aed-cop-pdf03/
 type: training
 title: 'Module 3: Remediating PDFs for Accessibility'
 created: 1579721841
+redirect_from:
+- create/pdfs/aed-cop-pdf03/
 ---
 
 # Module 3: Remediating PDFs for Accessibility
@@ -37,7 +39,7 @@ Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust 
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
- [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
- [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf04
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04

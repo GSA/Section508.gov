@@ -24,8 +24,8 @@ To start a new procurement, you&rsquo;ll need to know:
 ## Training Videos
 <hr>
   <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
-      <a href="{{site.baseurl}}/buy/accessibility-requirements-tool/webinar"><img alt="Accessibility Requirements Tool (ART) Webinar" src="https://section508.gov/sites/default/files/art-webinar-thumb_0.png" style="width:100%" /></a>
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/buy/accessibility-requirements-tool/webinar"><img alt="Accessibility Requirements Tool (ART) Webinar" src="https://section508.gov/sites/default/files/art-webinar-thumb_0.png" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -97,7 +97,7 @@ To start a new procurement, you&rsquo;ll need to know:
           <a href="{{site.baseurl}}/sample-procurement/desktop-or-portable-computer-maintenance">Desktop or Portable Computer Maintenance</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/sample-procurement/Digital-Camera">Digital Camera</a>
+          <a href="{{site.baseurl}}/sample-procurement/digital-camera">Digital Camera</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/sample-procurement/ebooks">eBooks</a>
