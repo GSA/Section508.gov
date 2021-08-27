@@ -1,7 +1,7 @@
 ---
 sidenav: true
 layout: video
-permalink: create/pdfs/aed-cop-pdf01/
+permalink: training/pdfs/aed-cop-pdf01/
 type: training
 title: 'Module 1: What is a PDF?'
 created: 1579721808

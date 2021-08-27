@@ -27,7 +27,7 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
   * [Module 1: What is a PDF?][1]
   * [Module 2: Testing a PDF for Accessibility][2]
   * [Module 3: Remediating PDFs for Accessibility][3]
-  * <a href="/create/pdfs/aed-cop-pdf04" t>Module 4: Converting Scanned Documents into Section 508 Conformant PDFs</a>
+  * <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf04">Module 4: Converting Scanned Documents into Section 508 Conformant PDFs</a>
 
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
 <div class="padding-1">
