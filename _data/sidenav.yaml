@@ -294,16 +294,16 @@ develop:
     url: '#'
     children:
       - name: Universal Design
-        url: 'create/universal-design/'
+        url: 'develop/universal-design/'
   - name: Develop
     url: '#'
     children:
       - name: Develop Software and Websites
-        url: create/software-websites/
+        url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
-        url: create/applicability-conformance/
+        url: develop/applicability-conformance/
       - name: Develop Web Content
-        url: create/web-content/
+        url: develop/web-content/
 test:
   - name: Testing Home
     url: 'test/'
