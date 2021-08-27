@@ -77,6 +77,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
   You are likely familiar with having to agree to an end-user license agreement (EULA) in order to use a software tool. By selecting the checkbox agreeing to the terms of the EULA, you have electronically signed a legal, valid, and enforceable agreement. The example below (Figure 3) shows two items the user could agree to upon selecting &ldquo;Sign up&rdquo;:
 </p>
 
+<ul>
 <li>
     The website's &ldquo;terms of service, privacy policy and cookie policy&rdquo;.&nbsp;
 </li>
@@ -84,6 +85,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 <li>
     To "receive occasional product updates, user research invitations, company announcements, and digests&rdquo; - if they select the little checkbox.&nbsp;
 </li>
+</ul>
 
 <p dir="ltr" style="text-align: center;">
   <img alt="Website login screen with a checkbox to opt into receiving occasional announcements, and notice that you are agreeing to website policies upon selecting &quot;Sign Up&quot;" src="https://assets.section508.gov/files/signature-web-form.jpg" style="width: 795px; height: 184px;" /><br />Figure 3: Example of website login screen with a checkbox to opt in, and notice that you agree to website policies upon signing up

@@ -9,11 +9,18 @@ created: 1527608498
 
 This guide highlights the changes you need to make to your agency&rsquo;s 508 Program, to transition to the [Revised 508 Standards][1]. Federal agencies are required to comply with the revised standards as of January 18, 2018.
 
-  * [Major Changes][2]
-  * [Task 1 - Update Agency Policies][3]
-  * [Task 2 - Define Accessibility Requirements][4]
-  * [Task 3 - Update Solicitation Language][5]
-  * [Task 4 - Develop & Test for Conformance][6]
+<div class="grid-row">
+  <div class="grid-col-auto jump-links">
+    <strong>Jump to a Topic:</strong>
+    <ul style="list-style-type:none; padding-left: 10px">
+      <li><a href="#changes">Major Changes</a></li>
+      <li><a href="#policies">Task 1 - Update Agency Policies</a></li>
+      <li><a href="#requirements">Task 2 - Define Accessibility Requirements</a></li>
+      <li><a href="#language">Task 3 - Update Solicitation Language</a></li>
+      <li><a href="#develop">Task 4 - Develop & Test for Conformance</a></li>
+    </ul>
+  </div>
+</div>
 
 <h2 id="changes">
   Major Changes
@@ -165,7 +172,7 @@ Questions? Email us at <section.508@gsa.gov>.
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
  [12]: {{site.baseurl}}/art
- [13]: {{site.baseurl}}/content/files/508-standards-applicability-checklist.docx
+ [13]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907

@@ -6,7 +6,7 @@ type: manage
 title: 'State Policy'
 created: 1527605841
 ---
-<p id="top" name="top"> </p> 
+<p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Electronic and Information technology (EIT) also know as Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. Your state not listed? [Send us][1] your policy or site information and we'll display it here.
 
 
