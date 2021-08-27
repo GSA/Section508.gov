@@ -100,7 +100,7 @@ To start a new procurement, you&rsquo;ll need to know:
           <a href="{{site.baseurl}}/sample-procurement/desktop-or-portable-computer-maintenance">Desktop or Portable Computer Maintenance</a>
         </li>
         <li>
-          <a href="{{site.baseurl}}/sample-procurement/Digital-Camera">Digital Camera</a>
+          <a href="{{site.baseurl}}/sample-procurement/digital-camera">Digital Camera</a>
         </li>
         <li>
           <a href="{{site.baseurl}}/sample-procurement/ebooks">eBooks</a>
