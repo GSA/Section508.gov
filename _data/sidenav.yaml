@@ -289,7 +289,7 @@ training:
         url: 'content/glossary/'
 develop:
   - name: Design and Develop
-    url: 'design-develop/'
+    url: 'develop/'
   - name: Design
     url: '#'
     children:
