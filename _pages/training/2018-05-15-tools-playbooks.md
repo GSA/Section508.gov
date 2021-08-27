@@ -41,7 +41,7 @@ The following guidance was developed to help agencies navigate the 2018 refresh 
 
  [1]: {{site.baseurl}}/tools/playbooks/exec-guide-accessibility
  [2]: https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks
- [3]: /508-training/courses/exec-overview
+ [3]: https://training.section508.gov/508-training/courses/exec-overview/index.html
  [4]: {{site.baseurl}}/tools/playbooks/accessibility-playbook-quick-guide
  [5]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro
  [6]: https://assets.section508.gov/files/Technology-Accessibility-Playbook-2018-Update.docx

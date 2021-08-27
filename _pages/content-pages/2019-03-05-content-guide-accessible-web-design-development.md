@@ -169,7 +169,6 @@ For all user interface components (including, but not limited to, form elements,
 **Development Considerations**
 
   * Provide the name, role, state, value of all components.
-
   * For each element a user encounters, they need to know:
   * Name (e.g., the label)
   * State (e.g., checked/unchecked, expanded/collapsed, selected/unselected)
@@ -181,7 +180,6 @@ For all user interface components (including, but not limited to, form elements,
 For moving, blinking, scrolling, or auto-updating information, ALL of the following are true:
 
   * Moving, blinking, scrolling: For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it, unless the movement, blinking, or scrolling is part of an activity where it is essential; and
-
   * Auto-updating: For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it, or to control the frequency of the update, unless the auto-updating is part of an activity where it is essential.
 
 Failure to meet this requirement could interfere with any use of the page. Refer to [Requirement 5 - Non-Interference][3] to learn more.
@@ -250,7 +248,6 @@ Information, structure, and relationships conveyed through presentation can be p
 **Content/Design Considerations**
 
   * The border around the grouped fields can be hidden programmatically if it conflicts with the design.
-
   * Best Practice: Put form instructions at the top of the form, instead of the middle.
 
 **Development Considerations**
