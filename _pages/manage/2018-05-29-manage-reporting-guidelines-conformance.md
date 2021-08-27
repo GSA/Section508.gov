@@ -33,15 +33,15 @@ created: 1527574911
 
 OR
 
-<ol start="2">
-  <li>
+<ol role='list' start="2">
+  <li role='listitem'>
     <span>As a percentage of the web pages that do (vs. do not) fully support the applicable 508 standards for all technology tested within the category (i.e., pass/fail). Follow the formula below and record the total percentage:</span>
   </li>
-  <ul style="padding-left: 80px;">
-    <li>
+  <ul role='list' style="padding-left: 80px;">
+    <li role='listitem'>
       <span>Calculate whether each web page or website tested &ldquo;passes&rdquo; or &ldquo;fails&rdquo; Section 508 compliance. &nbsp;&ldquo;Pass&rdquo; means the product/deliverable meets all applicable Section 508 standards.</span>
     </li>
-    <li>
+    <li role='listitem'>
       <span>Total Percentage = total number of passes vs. total number of fails for all products/deliverables tested in the category.</span>
     </li>
   </ul>
