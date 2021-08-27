@@ -261,15 +261,10 @@ training:
         url: 'create/synchronized-media/creating-accessible-media/'
   - name: Events
     url: 'events/'
-  - name: Recurring Events
-    url: '#'
-    children:
-      - name: IAAF
-        url: 'iaaf/'
-      - name: IAAF archives
-        url: 'iaaf/archives/'
-      - name: Presentations and Workshop Materials
-        url: 'training/presentations-workshops/'
+  - name: IAAF archives
+    url: 'iaaf/archives/'
+  - name: Presentations and Workshop Materials
+    url: 'training/presentations-workshops/'
   - name: Section 508 Tools
     url: '#'
     children:
