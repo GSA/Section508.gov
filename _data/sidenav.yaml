@@ -395,7 +395,7 @@ create:
       - name: Video Training
         url: create/presentations/training-videos/
       - name: Tips and Tricks
-        url: create/presentations/
+        url: create/presentations#tips
   - name: Create a Spreadsheet
     url: '#'
     children:
