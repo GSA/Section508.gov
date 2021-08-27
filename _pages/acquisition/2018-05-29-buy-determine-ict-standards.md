@@ -111,20 +111,21 @@ NOTE: An exception provides that NARA is not responsible for remediating records
     * 302 All Functional Performance Criteria
 
   1. Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
-   * Proceed to Question 3
-   * If No, the following Standards apply:
-     * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
-        * 2.4.1 Bypass Blocks
-        * 2.4.5 Multiple Ways
-        * 3.2.3.Consistent Navigation
-        * 3.2.4 Consistent Identification
-     * 502 Interoperability with Assistive Technology
-     * 503 Application
-     * 602 Support Documentation
-     * 603 Support Services
-     * 302 All Functional Performance Criteria
-        * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
-  * Proceed to Question 3
+
+* Proceed to Question 3
+* If No, the following Standards apply:
+    * All WCAG A & AA Success Criteria apply &ndash; **EXCEPT the following:**
+       * 2.4.1 Bypass Blocks
+       * 2.4.5 Multiple Ways
+       * 3.2.3.Consistent Navigation
+       * 3.2.4 Consistent Identification
+    * 502 Interoperability with Assistive Technology
+    * 503 Application
+    * 602 Support Documentation
+    * 603 Support Services
+    * 302 All Functional Performance Criteria
+       * Note: Applies when Chapter 5 does not address one or more functions of ICT (E204), or when an agency invokes ”equivalent facilitation” (E101.2)
+* Proceed to Question 3
 
 **Question 3** - Is the software also an authoring tool?
 
