@@ -13,7 +13,7 @@ created: 1527019072
 
 <p>June 8, 2021 - In this session, Brandon Jular (Department of Labor) shared his journey from a new leader with no accessibility experience to becoming a ‘508 Evangelist,’ and began fundamentally changing how an organization thought about and approached accessibility. </p>
 <ul>
-<li><a href="https://assets.section508.gov/sites/default/files/Captioned-Text-%28ITACM-JUN2021%29.docx">Getting the Support You Need: Strategically leveraging high-level support</a></li>
+<li><a href="https://assets.section508.gov/files/Captioned-Text-%28ITACM-JUN2021%29.docx">Getting the Support You Need: Strategically leveraging high-level support</a></li>
 <li><a href="https://assets.section508.gov/files/GSA-Accessibility-Community-Meeting-08JUN2021.pptx">Transcript (DOC, JUN 2021)</a></li>
 </ul>
 April 6, 2021 - Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.

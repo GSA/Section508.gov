@@ -1,7 +1,7 @@
 ---
 sidenav: true
 layout: video
-permalink: create/pdfs/aed-cop-pdf00/
+permalink: training/pdfs/aed-cop-pdf00/
 type: training
 title: 'Module 0: Introduction & Background'
 created: 1579721762

@@ -98,13 +98,10 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
 
 ### Sample Policies
 
-  * <a data-saferedirecturl="https://section508.gov/sites/default/files/Directive_139.2_Final_10-28-2008.doc&" href="https://section508.gov/sites/default/files/Directive_139.2_Final_10-28-2008.doc" target="_blank">Example: Department of Homeland Security Section 508 Directive</a>&nbsp;
-
-  * <a data-saferedirecturl="https://section508.gov/sites/default/files/VA508Directive6221_12_2008.pdf&" href="https://section508.gov/sites/default/files/VA508Directive6221_12_2008.pdf" target="_blank">Example: Veterans Administration Accessibility Policy</a>
-
-  * <a data-saferedirecturl="https://section508.gov/sites/default/files/SSA_Internet_Accessibility_Policy.pdf&" href="https://section508.gov/sites/default/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
-
-  * <a data-saferedirecturl="https://section508.gov/sites/default/files/DOJ%2520Section%2520508%2520Model%2520Complaint%2520Process.doc&" href="https://section508.gov/sites/default/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
+  * <a href="https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc" target="_blank">Example: Department of Homeland Security Section 508 Directive</a>&nbsp;
+  * <a href="https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf" target="_blank">Example: Veterans Administration Accessibility Policy</a>
+  * <a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
+  * <a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
 
 ### Sample Accessibility Statements
 
@@ -129,7 +126,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [8]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [9]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule
  [10]: {{site.baseurl}}/manage/laws-and-policies/quick-reference-guide
- [11]: https://section508.gov/sites/default/files/rehabilitation-act-of-1973-amended-by-wioa.pdf
+ [11]: https://assets.section508.gov/files/rehabilitation-act-of-1973-amended-by-wioa.pdf
  [12]: http://www.eeoc.gov/laws/statutes/rehab.cfm
  [13]: http://www.dol.gov/ofccp/regs/compliance/sec503.htm
  [14]: https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf
@@ -144,10 +141,10 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [23]: https://policy.cio.gov/open-data/
  [24]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/improving-accessibility-government-information_07-19-2010.pdf
  [25]: https://obamawhitehouse.archives.gov/omb/procurement_index_508/
- [26]: https://section508.gov/sites/default/files/ombNews_February_2011.doc
- [27]: https://section508.gov/sites/default/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
- [28]: https://section508.gov/sites/default/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
- [29]: https://section508.gov/sites/default/files/Memo_Safavian-Evans.doc
+ [26]: https://assets.section508.gov/files/ombNews_February_2011.doc
+ [27]: https://assets.section508.gov/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
+ [28]: https://assets.section508.gov/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
+ [29]: https://assets.section508.gov/files/Memo_Safavian-Evans.doc
  [30]: http://www.eeoc.gov/policy/docs/accommodation_procedures.html
  [31]: http://www.eeoc.gov/eeoc/internal/reasonable_accommodation.cfm
  [32]: {{site.baseurl}}/manage/laws-and-policies/state
