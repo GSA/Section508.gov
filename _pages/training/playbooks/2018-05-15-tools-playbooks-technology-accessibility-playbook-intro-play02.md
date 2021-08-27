@@ -17,36 +17,36 @@ Some agencies have not established a formal Section 508 compliance program. Othe
 
 In the Government-wide Section 508 Strategic Plan, OMB requires agencies to assess their Section 508 program maturity using the following criteria:
 
-  * Ad Hoc: No formal policies, processes, or procedures defined.<p class="rteindent1">
-      Your agency has not established a framework for the consistent management of Section 508 compliance requirements for the technology it buys, builds maintains and uses.
+  * Ad Hoc: No formal policies, processes, or procedures defined.
+    <blockquote>Your agency has not established a framework for the consistent management of Section 508 compliance requirements for the technology it buys, builds maintains and uses.</blockquote>
 
-  * Planned: Policies, processes, and procedures defined and communicated.<p class="rteindent1">
-      Your agency&rsquo;s approach to ensuring technology is Section 508 compliant is defined and integrated into its policies and procedures. Section 508 policies and procedures sufficiently address all technology your agency buys, builds maintains and uses, as scoped by the Section 508 standards.
+  * Planned: Policies, processes, and procedures defined and communicated.
+    <blockquote>Your agency&rsquo;s approach to ensuring technology is Section 508 compliant is defined and integrated into its policies and procedures. Section 508 policies and procedures sufficiently address all technology your agency buys, builds maintains and uses, as scoped by the Section 508 standards.</blockquote>
 
-  * Resourced: Resources committed and/or staff trained to implement policies, processes, and procedures.<p class="rteindent1">
-      Your agency&rsquo;s leadership and staff understand and support the Section 508 policies and procedures, and know how to implement them. Your agency has dedicated sufficient resources to implement your Section 508 policies and procedures.
+  * Resourced: Resources committed and/or staff trained to implement policies, processes, and procedures.
+    <blockquote>Your agency&rsquo;s leadership and staff understand and support the Section 508 policies and procedures, and know how to implement them. Your agency has dedicated sufficient resources to implement your Section 508 policies and procedures.</blockquote>
 
-  * Measured: Validation is performed; results are measured and tracked.<p class="rteindent1">
-      Your agency tests and validates agency digital services and technology solutions to ensure they conform to the Section 508 standards. You are able to determine whether your policies and procedures are actually being followed. You measure the effectiveness of your Section 508 policies and procedures, and are able to use your measures to manage risk and prioritize opportunities for improving your compliance program.
+  * Measured: Validation is performed; results are measured and tracked.
+       <blockquote>Your agency tests and validates agency digital services and technology solutions to ensure they conform to the Section 508 standards. You are able to determine whether your policies and procedures are actually being followed. You measure the effectiveness of your Section 508 policies and procedures, and are able to use your measures to manage risk and prioritize opportunities for improving your compliance program.</blockquote>
 
 ## Section 508 Program Maturity Domains
 
 In the Government-wide Section 508 Strategic Plan, OMB requires agencies to assess their Section 508 program maturity in each of the following domains:
 
-  * Acquisition: Conduct validation of procurement solicitations to ensure incorporation of Section 508 contract language into Statements of Work and Performance Work Statements.<p class="rteindent1">
-      When purchasing technology, you must ensure the acquisition process addresses section 508 requirements. &nbsp;Solicitation language must clearly state what standards apply to the digital service or technology solution, and require potential vendors to demonstrate they can meet the requirements.
+  * Acquisition: Conduct validation of procurement solicitations to ensure incorporation of Section 508 contract language into Statements of Work and Performance Work Statements.
+      <blockquote>When purchasing technology, you must ensure the acquisition process addresses section 508 requirements. &nbsp;Solicitation language must clearly state what standards apply to the digital service or technology solution, and require potential vendors to demonstrate they can meet the requirements.</blockquote>
 
-  * Agency technology life cycles: Conduct validation of Section 508 requirements to ensure incorporation into agency life cycle activities, including enterprise architecture, design, development, testing, deployment, and ongoing maintenance activities.<p class="rteindent1">
-      Enterprise life cycles are used to define the end-to-end approach to approving, building, deploying, and supporting agency technology. The <u>least effective</u> and <u>most expensive</u> approach to supporting compliance is to treat Section 508 requirements as an afterthought in response to test results, or worse in response to complaints from people with disabilities. The <u>most effective</u> and <u>least expensive</u> approach is to consider Section 508 requirements at all stages of the enterprise life cycle. This is analogous to the saying &ldquo;it&rsquo;s cheaper and easier to use an eraser to modify an architectural drawing than a sledgehammer to tear down a wall.&rdquo;
+  * Agency technology life cycles: Conduct validation of Section 508 requirements to ensure incorporation into agency life cycle activities, including enterprise architecture, design, development, testing, deployment, and ongoing maintenance activities.
+      <blockquote>Enterprise life cycles are used to define the end-to-end approach to approving, building, deploying, and supporting agency technology. The <u>least effective</u> and <u>most expensive</u> approach to supporting compliance is to treat Section 508 requirements as an afterthought in response to test results, or worse in response to complaints from people with disabilities. The <u>most effective</u> and <u>least expensive</u> approach is to consider Section 508 requirements at all stages of the enterprise life cycle. This is analogous to the saying &ldquo;it&rsquo;s cheaper and easier to use an eraser to modify an architectural drawing than a sledgehammer to tear down a wall.&rdquo;</blockquote>
 
-  * Testing and Validation: Testing and validation of Section 508 conformance claims.<p class="rteindent1">
-      While a review of Voluntary Product Accessibility Templates (VPAT&trade;) provided by a vendor or contractor is a starting point, sometimes testing may be required to validate assertions of Section 508 compliance, to inform remediation planning, and to monitor agency progress with achieving Section 508 compliance. In addition, testing may be required on an ongoing basis to validate the technology developed, maintained, and used by an agency is compliant with the applicable 508 standards as components are updated or replaced.
+  * Testing and Validation: Testing and validation of Section 508 conformance claims.
+      <blockquote>While a review of Voluntary Product Accessibility Templates (VPAT&trade;) provided by a vendor or contractor is a starting point, sometimes testing may be required to validate assertions of Section 508 compliance, to inform remediation planning, and to monitor agency progress with achieving Section 508 compliance. In addition, testing may be required on an ongoing basis to validate the technology developed, maintained, and used by an agency is compliant with the applicable 508 standards as components are updated or replaced.</blockquote>
 
-  * Complaint Management: Track and resolve incoming Section 508 complaints.<p class="rteindent1">
-      A clear process for addressing and tracking Section 508 complaints is necessary to provide for effective communication with complainants, to validate Section 508 non-compliance claims, to support an appropriate agency response aimed at minimizing legal exposure, costs, and loss of administrative time, and to serve as input into decisions related to resource and work planning.
+  * Complaint Management: Track and resolve incoming Section 508 complaints.
+      <blockquote>A clear process for addressing and tracking Section 508 complaints is necessary to provide for effective communication with complainants, to validate Section 508 non-compliance claims, to support an appropriate agency response aimed at minimizing legal exposure, costs, and loss of administrative time, and to serve as input into decisions related to resource and work planning.</blockquote>
 
-  * Training: Training for stakeholders on roles and responsibilities related to Section 508 compliance.<p class="rteindent1">
-      Successful Section 508 programs rely on personnel with skills and expertise. Relevant resources need to be identified and trained. Mandatory training needs to be established and tracked. This includes, but is not limited to, training for web and software developers, acquisition professionals, human resource employees and communications specialists.
+  * Training: Training for stakeholders on roles and responsibilities related to Section 508 compliance.
+      <blockquote>Successful Section 508 programs rely on personnel with skills and expertise. Relevant resources need to be identified and trained. Mandatory training needs to be established and tracked. This includes, but is not limited to, training for web and software developers, acquisition professionals, human resource employees and communications specialists.</blockquote>
 
 ## Basic Checklist
 
