@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/presentations/creating-powerpoint-templates/
+permalink: training/presentations/creating-powerpoint-templates/
 type: create
 title: 'Creating PowerPoint Templates'
 created: 1526359269
