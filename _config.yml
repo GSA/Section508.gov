@@ -83,11 +83,11 @@ primary_navigation:
   - name: Content Creation
     url: /create/
   - name: Design & Develop
-    url: /design-develop/
+    url: /design/
   - name: Testing
     url: /test/
   - name: Training, Tools & Events
-    url: /training-tools-events/
+    url: /training/
 
 
 secondary_navigation:

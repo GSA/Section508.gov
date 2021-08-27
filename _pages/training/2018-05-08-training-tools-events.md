@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: training-tools-events/
+permalink: training/
 type: training
 title: 'Accessibilty Training, Tools, and Events'
 created: 1525805876
