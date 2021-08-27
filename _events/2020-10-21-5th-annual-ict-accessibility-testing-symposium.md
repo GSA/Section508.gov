@@ -1,6 +1,6 @@
 ---
 title: The 5th Annual ICT Accessibility Testing Symposium
-layout: wide
+layout: wide_events
 start-date: Wednesday, Oct 21 2020 10:00 #only fill in start date if the events spans multiple days
 end-date: Friday, Oct 23 2020 20:00 #otherwise use end-date 
 image:

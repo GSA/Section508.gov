@@ -122,7 +122,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
 
 Use the chart below to figure out which ICT items will need a checklist, for solicitations that include multiple ICT products, services, or components. Note, the [Accessibility Requirements Tool (ART)][11] will generate a list of accessibility requirements for each ICT item, and compile them into one requirements listing, broken out by ICT Item.
 
-<table class="table table-responsive usa-table usa-table--borderless usa-table--striped">
+<table role="presentation" class="table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
       <td>

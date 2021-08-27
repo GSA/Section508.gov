@@ -1,6 +1,6 @@
 ---
 title: M-Enabling Summit
-layout: wide
+layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Monday, Jun 21 2021 17:00 #otherwise use end-date
 overview: 

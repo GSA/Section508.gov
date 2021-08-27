@@ -1,6 +1,6 @@
 ---
 title: Managing projects to ensure accessibility
-layout: wide
+layout: wide_events
 start-date: Tuesday, Sep 29 2020 13:00 #only fill in start date if the events spans multiple days
 end-date: Tuesday, Sep 29 2020 14:30 #otherwise use end-date
 image:

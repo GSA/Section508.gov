@@ -1,6 +1,6 @@
 ---
 title: The 3rd Annual Digital Accessibility Summit
-layout: wide
+layout: wide_events
 start-date: Thursday, Jun 24 2021 13:00 #only fill in start date if the events spans multiple days
 end-date: Friday, Jun 25 2021 13:30 #otherwise use end-date
 image:

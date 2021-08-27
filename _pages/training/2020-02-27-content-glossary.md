@@ -393,7 +393,7 @@ created: 1582828796
       <strong><span id="seo">Search Engine Optimization (SEO)</span>:</strong> The practice of writing and structuring content to improve findability through organic search engine results.
     </li>
     <li>
-      <strong><span id="501-rehabilitation-act">Section 501 of the Rehabilitation Act</span>:</strong> Prohibits discrimination in federal government hiring practices, and requires the development of affirmative action plans to increase the hiring, placement, and advancement of qualified people with disabilities.
+      <strong><span>Section 501 of the Rehabilitation Act</span>:</strong> Prohibits discrimination in federal government hiring practices, and requires the development of affirmative action plans to increase the hiring, placement, and advancement of qualified people with disabilities.
     </li>
     <li>
       <strong><span id="504-rehabilitation-act">Section 504 of the Rehabilitation Act</span>:</strong> Prohibits discrimination against persons with disabilities in any federally-funded programs or activities, and requires such programs to be accessible to people with disabilities. Section 504 also prohibits disability-based job discrimination of any kind, and requires that employers make reasonable accommodation for employees with disabilities.
@@ -402,7 +402,7 @@ created: 1582828796
       <strong><span id="self-contained-closed-products">Self contained, closed products</span>:</strong> ICT products that generally contain embedded software, and are commonly designed so that a user cannot easily attach or install assistive technology. These products include, but are not limited to, information kiosks and information transaction machines, copiers, printers, calculators, fax machines, and other similar products (superseded in the Revised 508 Standards by <a href="#closed-functionality">closed functionality</a>).
     </li>
     <li>
-      <strong><span id="501-rehabilitation-act">Sensory characteristics</span>:</strong> Instructions for understanding and using content that don’t rely solely on the sensory characteristics of components, such as shape, size, visual location, orientation, or sound.
+      <strong><span>Sensory characteristics</span>:</strong> Instructions for understanding and using content that don’t rely solely on the sensory characteristics of components, such as shape, size, visual location, orientation, or sound.
     </li>
     <li>
       <strong><span id="server-side-image-map">Server-side image map</span>:</strong>&nbsp;A clickable image for which the link information resides on the server. When a user clicks on a server-side image map with a mouse, the web browser attaches the pixel coordinates (x,y) of the click to a given server link. The server interprets the coordinates and performs some action. Server-side image maps cannot be used by keyboard.

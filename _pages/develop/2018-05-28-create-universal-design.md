@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: create/universal-design/
+permalink: develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
 created: 1527530633
+redirect_from:
+- create/universal-design/
 ---
 
 <div class="grid-row grid-gap">

@@ -6,6 +6,17 @@ pagination:
   enabled: true
 
 ---
+
+<section class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
+        Blog & Updates
+      </h1>
+    </div>
+  </div>
+</section>
+
 <div class="usa-layout-docs usa-section">
 <div class="grid-container">
   <div class="grid-row grid-gap">
@@ -14,7 +25,7 @@ pagination:
     </aside>
     <div class="desktop:grid-col-9 usa-graphic-list padding-bottom-4">
       <!-- This loops through the paginated posts -->
-      <h1 class="margin-top-0">Blog & Updates</h1>
+      <!--<h1 class="margin-top-0">Blog & Updates</h1>-->
       {% for post in paginator.posts %}
       <div class="padding-bottom-5 margin-top-4 border-bottom-05 border-base-lightest">
         <h2 class="title">

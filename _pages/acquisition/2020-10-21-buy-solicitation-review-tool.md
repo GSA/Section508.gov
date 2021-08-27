@@ -7,12 +7,7 @@ title: 'Solicitation Review Tool (SRT)'
 created: 1603286031
 ---
 
-<div class="grid-row">
-
-  <div class="desktop:grid-col-4 start-button">
-    <a href="https://srt-client-dev.app.cloud.gov/"><img alt="start using srt" class="img-responsive" src="https://assets.section508.gov/files/start-using-srt.png" title="Start using SRT" /></a>
-  </div>
-</div>
+<a href="https://srt-client-dev.app.cloud.gov/auth" class="usa-button usa-button--accent-warm">Start Using SRT</a>
 
 <p class="intro" style="clear: both;">
   The <a href="https://srt-client-dev.app.cloud.gov/">Solicitation Review Tool</a> (SRT) was created to help agencies evaluate and improve the overall solicitation compliance with respect to accessibility, and in the future - cyber security, and other regulations and requirements.
