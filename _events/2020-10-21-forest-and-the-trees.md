@@ -1,6 +1,6 @@
 ---
 title: The Forest and the Trees - Scaling for Enterprise-Level Digital Accessibility
-layout: wide
+layout: wide_events
 start-date: Wednesday, Oct 21 2020 11:00 #only fill in start date if the events spans multiple days
 end-date: Wednesday, Oct 21 2020 12:30 #otherwise use end-date
 image:
