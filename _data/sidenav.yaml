@@ -70,9 +70,9 @@ manage:
         url: manage/laws-and-policies/update-agency-policies/
 training:
   - name: Training, Tools and Events
-    url: 'training-tools-events/'
-  - name: Training
     url: 'training/'
+  - name: Training
+    url: 'training-home/'
   - name: Online Training Courses
     url: '#'
     children:
@@ -273,6 +273,8 @@ training:
   - name: Section 508 Tools
     url: '#'
     children:
+      - name: Tools Overview
+        url: 'tools/'
       - name: Testing Tools for Web
         url: 'test/web-software/'
       - name: Accessibility Requirements Tool (ART)

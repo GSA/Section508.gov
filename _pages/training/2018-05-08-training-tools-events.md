@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: training-tools-events/
+permalink: training/
 type: training
 title: 'Accessibilty Training, Tools, and Events'
 created: 1525805876
@@ -12,7 +12,7 @@ created: 1525805876
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training">Online Training Courses</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Onlinetraining">Online Training Courses</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Courses that cover various aspect of Section 508 compliance and best practices.</p>
@@ -22,7 +22,7 @@ created: 1525805876
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="#">Video Training</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Trainingvideos">Video Training</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Watch video modules that cover Section 508 compliance for documents, presentations, PDFs, and more.</p>
@@ -44,7 +44,7 @@ created: 1525805876
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="#">Section 508 Tools</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools">Section 508 Tools</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Tools and testing guidance for making sure digital products are accessible and following Section 508 guidelines.</p>
