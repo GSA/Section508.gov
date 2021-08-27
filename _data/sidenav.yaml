@@ -69,10 +69,10 @@ manage:
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
 training:
-  - name: Training, Tools & Events
-    url: '#'
-  - name: Training home
+  - name: Training, Tools and Events
     url: 'training/'
+  - name: Training
+    url: 'training-home/'
   - name: Online Training Courses
     url: '#'
     children:
@@ -259,7 +259,7 @@ training:
             external: true
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
-  - name: Events home
+  - name: Events
     url: 'events/'
   - name: Recurring Events
     url: '#'
@@ -273,7 +273,7 @@ training:
   - name: Section 508 Tools
     url: '#'
     children:
-      - name: Tools Home
+      - name: Tools Overview
         url: 'tools/'
       - name: Testing Tools for Web
         url: 'test/web-software/'
@@ -289,7 +289,7 @@ training:
         url: 'content/glossary/'
 develop:
   - name: Design and Develop
-    url: '#'
+    url: 'design-develop/'
   - name: Design
     url: '#'
     children:

@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: develop/applicability-conformance/
 type: develop
-title: 'Applicability & Conformance Requirements '
+title: 'Applicability & Conformance Requirements'
 created: 1526574510
 redirect_from:
 - create/applicability-conformance/
