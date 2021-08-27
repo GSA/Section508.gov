@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: post
 permalink: content/mapping-wcag-to-fpc/
 type: article
 title: 'Mapping of WCAG 2.0 to Functional Performance Criteria'

@@ -6,6 +6,8 @@ layout: default
 This is used in blog posts. The index page can be found at blog/index.html
 {% endcomment %}
 
+{% include banner.html %}
+
 <div class="usa-layout-docs usa-section">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -13,7 +15,7 @@ This is used in blog posts. The index page can be found at blog/index.html
         {% include blog-sidenav.html %}
       </aside>
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-graphic-list">
-        <h1 class="title margin-top-0">{{page.title}}</h1>
+<!--        <h1 class="title margin-top-0">{{page.title}}</h1>-->
         {{ content }}
       </div>
     </div>

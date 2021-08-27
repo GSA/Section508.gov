@@ -1,6 +1,23 @@
 ---
 layout: default
 ---
+
+<section class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+            <div class="tablet: grid-col">
+                <span class="banner-title-color font-sans-lg margin-bottom-0">
+                    News & Updates
+                </span>
+                <br />
+                <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
+                    {{ page.tag | replace: "-"," " }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+
 <div class="usa-layout-docs usa-section">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -8,7 +25,7 @@ layout: default
         {% include blog-sidenav.html %}
       </aside>
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-graphic-list">
-        <h1 class="margin-top-0">{{ page.tag | replace: "-"," " }}</h1>
+<!--        <h1 class="margin-top-0">{{ page.tag | replace: "-"," " }}</h1>-->
          {% for post in site.tags[page.tag] %}
         <div class="text-base margin-bottom-2" style="clear:both;">
           <h2><a class="text-no-underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>

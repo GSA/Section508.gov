@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: video
+layout: page
 permalink: create/pdfs/training-videos/
 type: create
 title: 'PDF Training Videos'
