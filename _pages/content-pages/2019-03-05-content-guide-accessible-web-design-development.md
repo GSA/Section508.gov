@@ -91,13 +91,11 @@ Major topics are listed below in alphabetical order. Click on a topic name to ju
 For prerecorded audio-only and prerecorded video-only media, the following are true, except when the audio or video is a media alternative for text and is clearly labeled as such:
 
   * Prerecorded Audio-only: An alternative for time-based media is provided that presents equivalent information for prerecorded audio-only content.
-
   * Prerecorded Video-only: Either an alternative for time-based media or an audio track is provided that presents equivalent information for prerecorded video-only content.
 
 **Content/Design Considerations**
 
   * Audio-Only: Provide a text transcript for audio-only content.
-
   * Video-Only or Silent Animation: Provide a text transcript or an audio track for video-only (without sound) content.
 
 **Development Considerations**
@@ -123,7 +121,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 For moving, blinking, scrolling, or auto-updating information, ALL of the following are true:
 
   * Moving, blinking, scrolling: For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it, unless the movement, blinking, or scrolling is part of an activity where it is essential; and
-
   * Auto-updating: For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it, or to control the frequency of the update, unless the auto-updating is part of an activity where it is essential.
 
 Failure to meet this requirement could interfere with any use of the page. Refer to [Requirement 5 - Non-Interference][3] to learn more.
@@ -131,7 +128,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 **Content/Design Considerations**
 
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
-
   * User must be able to configure auto-updates to content.
 
 <p dir="rtl">
@@ -170,10 +166,10 @@ For all user interface components (including, but not limited to, form elements,
 
   * Provide the name, role, state, value of all components.
   * For each element a user encounters, they need to know:
-  * Name (e.g., the label)
-  * State (e.g., checked/unchecked, expanded/collapsed, selected/unselected)
-  * Role (e.g., input type)
-  * Value
+    * Name (e.g., the label)
+    * State (e.g., checked/unchecked, expanded/collapsed, selected/unselected)
+    * Role (e.g., input type)
+    * Value
 
 ### 2.2.2 Pause, Stop, Hide
 
@@ -187,7 +183,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 **Content/Design Considerations**
 
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
-
   * User must be able to configure auto-updates to content.
 
 <p dir="rtl">
@@ -209,12 +204,11 @@ The visual presentation of text and images of text has a contrast ratio of at le
 **Content/Design Considerations**
 
   * Select colors for text and background that exceed the contrast requirement.
-  * Large Text is at least 18 point text or at least 14 point for bold text.
-  * If using colors that have a gradient, use the lightest color in the gradient for the contrast ratio test.
-  * Note: The default red color in CSS does not provide enough contrast against white if it's not large text. Use a slightly darker red, like #E60000 for standard font sizes.
+    * Large Text is at least 18 point text or at least 14 point for bold text.
+    * If using colors that have a gradient, use the lightest color in the gradient for the contrast ratio test.
+    * Note: The default red color in CSS does not provide enough contrast against white if it's not large text. Use a slightly darker red, like #E60000 for standard font sizes.
 
   * Test color contrast with the [WebAIM color contrast checker][4]
-
   * Ensure style guidelines for your organization meet the minimum contrast requirements.
 
 <p dir="rtl">
@@ -253,20 +247,17 @@ Information, structure, and relationships conveyed through presentation can be p
 **Development Considerations**
 
   * To hide the border around fieldset elements, put in the <b style="monospace"><head></head></b> or in a CSS file
-    {% highlight ruby %}
-    {% raw %}
+    {% highlight ruby %}{% raw %}
     <style>  
     fieldset {  
     border: 0 none;  
     }  
     </style>
-    {% endraw %}
-    {% endhighlight %}
+    {% endraw %}{% endhighlight %}
   * Grouping related form controls: 
       * Refer to [ARIA (radio buttons, segmented inputs)][5]
   * Fieldset/Legend and Label/ID (see also [WCAG H44][6] and [WCAG H71][7])
-    {% highlight ruby %}
-    {% raw %}
+    {% highlight ruby %}{% raw %}
     <fieldset>
      <legend>Your Name</legend>
      <label for="title">Title (optional)</label>
@@ -278,28 +269,24 @@ Information, structure, and relationships conveyed through presentation can be p
     <label for="last-name">Last name*</label>
     <input id="last-name" name="last-name" type="text" aria-required="true">
    </fieldset>
-    {% endraw %}
-    {% endhighlight %}
+   {% endraw %}{% endhighlight %}
   * Techniques for WCAG Success Criteria: 
-      * [H44: Using label elements to associate text labels with form controls][6]
-  * [H71: Providing a description for groups of form controls using fieldset and legend elements][7])
-  * [H85: Using OPTGROUP to group OPTION elements inside a SELECT][8]
+    * [H44: Using label elements to associate text labels with form controls][6]
+    * [H71: Providing a description for groups of form controls using fieldset and legend elements][7])
+    * [H85: Using OPTGROUP to group OPTION elements inside a SELECT][8]
 
   * ARIA techniques: 
-      * [aria-labelledby][9] - Reference ID(s) that have been assigned to the form instruction(s); useful if the instructions are on the page but not together or next to the input form
-  * [aria-label][10] - useful if the form instruction is not visible on the page
-  * [aria-describedby][11] - reference ID(s) that have been assigned to information on the page that supports the form instruction
+    * [aria-labelledby][9] - Reference ID(s) that have been assigned to the form instruction(s); useful if the instructions are on the page but not together or next to the input form
+    * [aria-label][10] - useful if the form instruction is not visible on the page
+    * [aria-describedby][11] - reference ID(s) that have been assigned to information on the page that supports the form instruction
 
 ### 3.2.2 On Input
 
 Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component. Examples of changes in context are:
 
   1. Opening a new window
-
   2. Moving focus to a different component
-
   3. Going to a new page (or anything that would look to a user as if they had moved to a new page)
-
   4. Significantly re-arranging the content of a page
 
 **Content/Design Considerations**
@@ -317,33 +304,25 @@ If an input error is automatically detected, the item that is in error is identi
 **Content/Design Considerations**
 
   * Provide a description of the error that includes the location of the error.
-
   * Do not use ONLY color to indicate errors, such as a red outline around the field.
 
 **Development Considerations**
 
   * Identify input errors by describing the errors. (Including only a mark without further explanation on a form field error is not adequate.)
-
   * If error is detected immediately when exiting the form, ensure the error notification is keyboard accessible.
 
 Best Practices:
 
   1. Move focus to error/success message.
-
   2. Set error/success message container to tabindex="-1". Otherwise, focus cannot be set successfully on the message.
-
   3. Provide a count of errors.
-
   4. Associate error descriptions with form fields using aria-describedby so that screen reader users know how to fix the problem.
-
   5. Make error messages visible so that sighted users know how to fix the problems.
-
   6. Place error messages adjacent to the inputs so that screen magnification users can easily see which messages belong to which fields.
 
 Tip: How to use “Alert” versus “Alert Dialog”
 
   1. An alert (role="alert") does not require a user action. It does not move the keyboard focus. No part of the page is hidden or obscured or made unavailable at any time.
-
   2. An alert dialog (role="alertdialog") requires a user action. It acts like a regular dialog, but it is supposed to convey more of a sense of urgency. Screen readers typically say "Alert dialog" when an alert dialog pops up. The focus moves to the dialog and the user is required to take action. Usually this means clicking a button, even if it may just be an "OK" button or a "Close" button. The user cannot navigate out of the dialog by just tabbing, and screen reader users cannot use keyboard shortcuts to access semantic elements (headings, landmarks, form elements, etc.) that are outside of the dialog.
 
 ### 3.3.2 Labels or Instructions
@@ -353,7 +332,6 @@ Labels or instructions are provided when content requires user input.
 **Content/Design Considerations**
 
   * Provide adequate labels and instructions to help users accurately complete form fields.
-
   * Make all of the instructions easy to find.
 
 ### 3.3.3 Error Suggestion
@@ -373,9 +351,7 @@ If an input error is automatically detected and suggestions for correction are k
 For web pages that cause legal commitments or financial transactions for the user to occur, that modify or delete user-controllable data in data storage systems, or that submit user test responses, at least one of the following is true:
 
   * Reversible: Submissions are reversible.
-
   * Checked: Data entered by the user is checked for input errors and the user is provided an opportunity to correct them.
-
   * Confirmed: A mechanism is available for reviewing, confirming, and correcting information before finalizing the submission.
 
 **Content/Design Considerations**
@@ -402,9 +378,9 @@ A mechanism is available to bypass blocks of content that are repeated on multip
 
 **Development Considerations**
 
-  * Frames - Add a title attribute that describes its content for each <frame> 
+  * Frames - Add a title attribute that describes its content for each &lt;frame&gt;
       * [H64: Using the title attribute of the frame and iframe elements][13]
-  * iFrames - Provide [accessible name/accessible description][14] for each <iframe>
+  * iFrames - Provide [accessible name/accessible description][14] for each &lt;iframe&gt;
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -432,7 +408,6 @@ Information, structure, and relationships conveyed through presentation can be p
 
   * Assign headings structure and heading levels to headings. 
       * Best Practice: Do not skip heading levels or go out of sequence. If the default size of the headings is too big for the look you have in mind, use styles to change the size, rather than jumping down to a lower heading level.
-
   * Do not use heading tags <h1> through <h6> for non-heading content
 
 <p dir="rtl">
@@ -450,7 +425,6 @@ All non-text content that is presented to the user has a text alternative that s
 Content owners are the best resource for text descriptions since they know what information they want the image to convey. Determine alt text by asking, "What text would I put here instead of this picture?"
 
   * Review [WebAIM Alternative Text][16] for appropriate use of alternative text.
-
   * Review [W3C's Alt Decision Tree][17] for guidance on how to describe images.
 
 **Content/Design Considerations**
@@ -460,25 +434,24 @@ Content owners are the best resource for text descriptions since they know what 
 **Development Considerations**
 
   * ALL images must have the alt attribute (even decorative images should be tagged alt=""). IMG must have an alt attribute for valid HTML5.
-
   * The Accessible Name and Accessible Description for images is computed per [W3C’s HTML Accessibility API Mappings (HTML-AAM) for images][18]  
     **Examples** 
       * [alt][19]  
-        <img src="/whitehouse.jpg" alt="White House south entrance">
+        &lt;img src="/whitehouse.jpg" alt="White House south entrance"&gt;
       * [aria-labelledby][9] (must reference the ID of the image description)  
-        <img aria-labelledby="steps" src="white-house-steps.jpg">  
+        &lt;img aria-labelledby="steps" src="white-house-steps.jpg"&gt;  
         ...  
-        <p id="steps">The President waited on the White House front steps for the ambassador to arrive.</p>
+        &lt;p id="steps"&gt;The President waited on the White House front steps for the ambassador to arrive.&lt;/p&gt;
       * [aria-label][10] (contains the description)  
-        <img aria-label="home" src="/whitehouse.png">
+        &lt;img aria-label="home" src="/whitehouse.png"&gt;
       * [aria-describedby][11] (must reference the ID of supporting information for the image description)  
-        <img src="/plus.png" aria-label="close or open branch" aria-describedby="plus-expand">  
+        &lt;img src="/plus.png" aria-label="close or open branch" aria-describedby="plus-expand"&gt;  
         ...  
-        <p id="plus-expand">Use the right arrow key to expand and the left arrow key to collapse. </p>
+        &lt;p id="plus-expand"&gt;Use the right arrow key to expand and the left arrow key to collapse. &lt;/p&gt;
       * [title][20]  
-        <img src="/whitehouse.jpg" title="White House south entrance"> 
+        &lt;img src="/whitehouse.jpg" title="White House south entrance"&gt; 
           * When title is provided with alt, aria-labelledby, or aria-label, the value of title is computed as the accessible description.  
-            <img src="/whitehouse.jpg" alt="White House south entrance" title="view from south lawn">
+            &lt;img src="/whitehouse.jpg" alt="White House south entrance" title="view from south lawn"&gt;
           * If title and aria-describedby are both provided, aria-describedby is the accessible description and title is ignored.
 
 ### 1.1.1 Non-Text Content - Decorative Images
@@ -493,9 +466,9 @@ All non-text content that is presented to the user should have a text alternativ
 
   * Tag decorative images with a blank alt tag. 
       * [alt][19]=""  
-        &nbsp;&nbsp; <img src="decorative_1.gif" alt="">
+        &lt;img src="decorative_1.gif" alt=""&gt;
       * [role][21] ="presentation" (not as widely supported)  
-        &nbsp;&nbsp; <img src="border.png" role="presentation">
+        &lt;img src="border.png" role="presentation"&gt;
 
 ### 1.4.5 Images of Text
 
@@ -503,7 +476,7 @@ If the technologies being used can achieve the visual presentation, text is used
 
   * Customizable: The image of text can be visually customized to the user's requirements;
   * Essential: A particular presentation of text is essential to the information being conveyed. 
-      * Logotypes (text that is part of a logo or brand name) are considered essential. &nbsp;&nbsp;
+      * Logotypes (text that is part of a logo or brand name) are considered essential. 
 
 Avoid using images of text. Use text instead.
 
@@ -536,7 +509,6 @@ All functionality of the content is operable through a keyboard interface withou
   * Do not remove standard keyboard accessibility behavior from native HTML interface elements (such as links, buttons, form elements).
   * Add keyboard accessibility to custom developed interface elements. 
       * Use the proper [ARIA][22] attributes, and javascript event handling.
-
   * Make tooltips mouse and keyboard accessible. Review [ARIA tooltip example][23].
 
 ### 2.1.2 No Keyboard Trap
@@ -556,7 +528,6 @@ Any keyboard operable user interface has a mode of operation where the keyboard 
 **Development Considerations**
 
   * Do not intentionally remove the outline or other visual indicators on interactive, focusable element.
-
   * After deactivating the element currently in focus, set the focus to a specific location. Otherwise, the focus will be lost, effectively sending the focus back to the top of the Document Object Model (DOM).
 
 ### 2.4.3 Focus Order
@@ -566,10 +537,9 @@ If a web page can be navigated sequentially and the navigation sequences affect 
 **Development Considerations**
 
   * Code content so elements are tabbed to in a sequential order that matches visual presentation of content (left to right, top to bottom).
-
   * When adding an element to the keyboard tab order, use tabindex="0"
-  * tabindex="-1": Makes the element focusable but **not** part of the (DOM) Tab sequence.
-  * tabindex="0": Makes the element focusable **and** includes it in the (DOM) Tab sequence.
+    * tabindex="-1": Makes the element focusable but **not** part of the (DOM) Tab sequence.
+    * tabindex="0": Makes the element focusable **and** includes it in the (DOM) Tab sequence.
 
 ### 3.2.1 On Focus
 
@@ -603,20 +573,17 @@ The default human language of each web page can be programmatically determined.
 
 **Development Considerations**  
 Identify the default lang attribute on the HTML element:
-
-<ul style="list-style-type:none;">
-  <li>
-    <!DOCTYPE html><br />
-     <strong><html lang="en"></strong><br />
-     <head><br />
-     <meta charset="utf-8"><br />
-     <title>WAI application shell</title><br />
-     <meta http-equiv="X-UA-Compatible" content="IE=edge"><br />
-     <meta name="viewport" content="width=device-width, initial-scale=1.0"><br />
-     <link rel="stylesheet" type="text/css" href="styles/style.css"><br />
-	 </head>
-  </li>
-</ul>
+{% highlight ruby %}{% raw %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>WAI application shell</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+</head>
+{% endraw %}{% endhighlight %}
 
 Review [list of lang values][24].
 
@@ -651,17 +618,15 @@ This requirement covers both links and buttons.
 **Content/Design Considerations**
 
   * Give links a descriptive name so users will know where the link will take them if selected.
-
   * Similarly, label buttons so that their function is clear.
 
 **Development Considerations**
 
   * The destination or function of each link/button should be clearly explained in the link/button text or programmatically-determined link context.
-
   * Tip: ARIA Links
-  * Use HTML <a> element to create links whenever possible.
-  * ARIA links do not have any native styling or functionality, so you will need to add things like keyboard support, underline and color.
-  * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
+    * Use HTML <a> element to create links whenever possible.
+    * ARIA links do not have any native styling or functionality, so you will need to add things like keyboard support, underline and color.
+    * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -678,13 +643,12 @@ More than one way is available to locate a web page within a set of web pages ex
 **Content/Design Considerations**
 
   * Plan for a site map or other ways for a user to reach a page in more than one way.
-
   * Examples:
-  * Links to navigate to related web pages
-  * A site map
-  * A search function to help users find content
-  * A list of links to all other web pages
-  * Linking to all of the pages on the site from the home page
+    * Links to navigate to related web pages
+    * A site map
+    * A search function to help users find content
+    * A list of links to all other web pages
+    * Linking to all of the pages on the site from the home page
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -701,25 +665,26 @@ Web pages have titles that describe topic or purpose.
 **Content/Design Considerations**
 
   * Provide a descriptive title for each page or screen.
-
   * If the page is a result of a user action or scripted change of context, the TITLE should describe the result of change of context.
 
 **Development Considerations**
 
   * Code the TITLE for the page. 
-      * Child of <head>
+      * Child of &lt;head&gt;
       * Only one TITLE per page
   * Example:  
+    {% highlight ruby %}{% raw %}
     <!DOCTYPE html>  
     <html>  
     <head>  
-    &nbsp;<meta charset="utf-8">  
-    **&nbsp;<title>WAI help for page title</title>**  
-    &nbsp;<link rel="manifest" href="/manifest.json">  
-    &nbsp;<meta http-equiv="X-UA-Compatible" content="IE=edge">  
-    &nbsp;<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    &nbsp;<link rel="stylesheet" type="text/css" href="styles/style.css">  
+    <meta charset="utf-8">  
+    **<title>WAI help for page title</title>**  
+    <link rel="manifest" href="/manifest.json">  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="stylesheet" type="text/css" href="styles/style.css">  
     </head>
+    {% endraw %}{% endhighlight %}
 
 <p dir="rtl">
   <a href="#">Back to Top</a>
@@ -738,9 +703,7 @@ Note: Start and end tags that are missing a critical character in their formatio
 **Development Considerations**
 
   * Validate code meets requirements
-
   * Start and end tags that are missing a critical character in their formation, such as a closing angle bracket, or a mismatched attribute value quotation mark, are not complete.
-
   * IDs MUST be unique.
 
 <p dir="rtl">
@@ -758,9 +721,7 @@ A mechanism is available to bypass blocks of content that are repeated on multip
 **Content/Design Considerations**
 
   * Identify the repetitive content on pages and the location of where a skip mechanism should land.
-
   * If there are multiple repeated blocks of content, provide a mechanism to bypass each block.
-
   * The link can be made invisible until it gets focus so that sighted keyboard users can also use it.
 
 **Development Considerations**
@@ -774,7 +735,6 @@ Navigational mechanisms that are repeated on multiple web pages within a set of 
 **Content/Design Considerations**
 
   * Repeated content on multiple pages must be in a consistent order across the pages.
-
   * Navigation mechanisms can be any repeated information on pages and are not limited to links and menus.
 
 **Development Considerations**
@@ -808,7 +768,6 @@ Except for captions and images of text, text can be resized without assistive te
 **Development Considerations**
 
   * Web pages should be designed to be "responsive" to the size of the display on which they are viewed. Performing a 200% zoom should not affect the content or functionality of the page.
-
   * If you need to specify height and width, using em units in padding can help keep things in proportion because em units are relative to font size.
 
 <p dir="rtl">
@@ -854,7 +813,6 @@ All non-text content that is presented to the user has a text alternative that s
 **Development Considerations**
 
   * Insert a meaningful image with <img> instead of background image.
-
   * Meaningful background images must be supplemented with a text equivalent on the page.
 
 ### 1.3.1 Info and Relationships
@@ -919,7 +877,6 @@ Audio description is provided for all prerecorded video content in synchronized 
 **Content/Design Considerations**
 
   * Provide audio description track for time-based media.
-
   * [Audio descriptions][28] are not necessary if all visual descriptions are provided with the sound track narration.
 
 **Development Considerations**
@@ -945,7 +902,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 For moving, blinking, scrolling, or auto-updating information, ALL of the following are true:
 
   * Moving, blinking, scrolling: For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it unless the movement, blinking, or scrolling is part of an activity where it is essential; and
-
   * Auto-updating: For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it or to control the frequency of the update unless the auto-updating is part of an activity where it is essential.
 
 Failure to meet this requirement could interfere with any use of the page. Refer to [Requirement 5 - Non-Interference][3] to learn more.
@@ -953,7 +909,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 **Content/Design Considerations**
 
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
-
   * Auto-updates to content must be user configurable.
 
 ### Section 508 Requirements for Synchronized Media
@@ -1000,15 +955,32 @@ Information, structure, and relationships conveyed through presentation can be p
 **Development Considerations**
 
   * If tables are used for layout purposes, add role="presentation" and do not use structural elements like <th> and table summaries.
-
   * [Table cell association to headers][29]
-
-  * Note: <td scope> is not supported in HTML5. Use <th scope> instead. <ul style="list-style-type:none;">
-      <li>
-        &nbsp;<table><br /> &nbsp;&nbsp;&nbsp;<caption>Bordered table</caption><br /> &nbsp;&nbsp;&nbsp;<thead><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tr><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<th scope="col">Document title</th><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<th scope="col">Description</th><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<th scope="col">Year</th><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tr><br /> &nbsp;&nbsp;&nbsp;</thead><br /> &nbsp;&nbsp;&nbsp;<tbody><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tr><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<th scope="row">Declaration of Independence</th><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>Statement adopted by the Continental Congress declaring independence from the British Empire.</td><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>1776</td><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tr><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<tr><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<th scope="row">Bill of Rights</th><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms.</td><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td>1791</td><br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tr><br /> &nbsp;&nbsp;&nbsp;&nbsp;</tbody><br /> &nbsp;</table>
-      </li>
-    </ul>
-
+  * Note: <td scope> is not supported in HTML5. Use <th scope> instead. 
+    {% highlight ruby %}{% raw %}
+    <table>
+      <caption>Bordered table</caption>
+      <thead>
+        <tr>
+          <th scope="col">Document title</th>
+          <th scope="col">Description</th>
+          <th scope="col">Year</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Declaration of Independence</th>
+          <td>Statement adopted by the Continental Congress declaring independence from the British Empire.</td>
+          <td>1776</td>
+        </tr>
+        <tr>
+          <th scope="row">Bill of Rights</th>
+          <td>The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms.</td>
+          <td>1791</td>
+        </tr>
+        </tbody>
+    </table>
+    {% endraw %}{% endhighlight %}
 <p dir="rtl">
   <a href="#">Back to Top</a>
 </p>
@@ -1022,15 +994,10 @@ Information, structure, and relationships conveyed through presentation can be p
 For each time limit that is set by the content, at least ONE of the following is true:
 
   * Turn off: The user is allowed to turn off the time limit before encountering it; or
-
   * Adjust: The user is allowed to adjust the time limit before encountering it over a wide range that is at least ten times the length of the default setting; or
-
   * Extend: The user is warned before time expires and given at least 20 seconds to extend the time limit with a simple action (for example, "press the space bar"), and the user is allowed to extend the time limit at least ten times; or
-
   * Real-time Exception: The time limit is a required part of a real-time event (for example, an auction), and no alternative to the time limit is possible; or
-
   * Essential Exception: The time limit is essential and extending it would invalidate the activity; or
-
   * 20 Hour Exception: The time limit is longer than 20 hours.
 
 **Content/Design Considerations**
@@ -1042,7 +1009,6 @@ For each time limit that is set by the content, at least ONE of the following is
 For moving, blinking, scrolling, or auto-updating information, ALL of the following are true:
 
   * Moving, blinking, scrolling: For any moving, blinking or scrolling information that (1) starts automatically, (2) lasts more than five seconds, and (3) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it unless the movement, blinking, or scrolling is part of an activity where it is essential; and
-
   * Auto-updating: For any auto-updating information that (1) starts automatically and (2) is presented in parallel with other content, there is a mechanism for the user to pause, stop, or hide it or to control the frequency of the update unless the auto-updating is part of an activity where it is essential.
 
 Failure to meet this requirement could interfere with any use of the page. Refer to [Requirement 5 - Non-Interference][3] to learn more.
@@ -1050,7 +1016,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 **Content/Design Considerations**
 
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
-
   * Auto-updates to content must be user configurable.
 
 ### 1.4.2 Audio Control
@@ -1081,30 +1046,25 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 
 To meet the requirements of a conforming alternate version, it must:
 
-  1. Conform to all Level A and AA criteria, and
-
-  2. Provide all of the same information and [functionality][30] in the same [human language][31], and
-
-  3. Be as up to date as the non-conforming content, and
-
-  4. At least one of the following is true:
-<ol type="a">
+<ol type="1">
+  <li>Conform to all Level A and AA criteria, and</li>
+  <li>Provide all of the same information and <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#functiondef">functionality</a> in the same <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#human-langdef">human language</a>, and</li>
+  <li>Be as up to date as the non-conforming content, and</li>
+  <li>
+    At least one of the following is true:
+    <ol type="a">
       <li>
-        <p>
           The conforming version can be reached from the non-conforming page via an <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#accessibility-supporteddef">accessibility-supported</a> <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#mechanismdef">mechanism</a>, or
-        </p>
       </li>
-    <li>
-        <p>
-          The non-conforming version can only be reached from the conforming version, or
-        </p>
-      </li>
-    <li>
-        <p>
+      <li>
+            The non-conforming version can only be reached from the conforming version, or
+        </li>
+      <li>
           The non-conforming version can only be reached from a conforming page that also provides a mechanism to reach the conforming version.
-        </p>
       </li>
     </ol>
+  </li>
+</ol>
 
 Note 1: In this definition, "can only be reached" means that there is some mechanism, such as a conditional redirect, that prevents a user from "reaching" (loading) the non-conforming page unless the user had just come from the conforming version.
 
@@ -1147,9 +1107,7 @@ Only accessibility-supported ways of using technologies are relied upon to satis
 If technologies are used in a way that is not accessibility supported, or if they are used in a non-conforming way, then they do not block the ability of users to access the rest of the page. In addition, the web page as a whole continues to meet the conformance requirements under each of the following conditions:
 
   1. When any technology that is not relied upon is turned on in a user agent,
-
   2. When any technology that is not relied upon is turned off in a user agent, and
-
   3. When any technology that is not relied upon is not supported by a user agent
 
 In addition, the following success criteria apply to all content on the page, including content that is not otherwise relied upon to meet conformance, because failure to meet them could interfere with any use of the page:
@@ -1178,16 +1136,10 @@ In addition, the following success criteria apply to all content on the page, in
 </h2>
 
   * [Understanding Conformance][35] - W3C
-
   * [US Web Design System][36] - User Interface (UI) Components
-
   * [WebAIM][37]
-
   * [ARIA is Spackle, Not Rebar][38]
-
   * [Accessible Name and Description Inspector (ANDI) Developer Tips][39]
-
-
 
 Created by the CIO Council’s [Accessibility Community of Practice][40], this information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
 
