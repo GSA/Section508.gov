@@ -33,7 +33,8 @@ _[California Office of Statewide Health Planning and Development OSHPD Accessibi
 
 [**Connecticut**][16]  
 _State of Connecticut Universal Web Site Accessibility Policy for State Web Sites_  
-This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues. Additional references can be found on the State of Connecticut Accessibility Web Site at <a href = "http://www.access.state.ct.us/policies/accesspolicy40.html">http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
+This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues. Additional references can be found on the State of Connecticut Accessibility Web Site at <a href = "http://www.access.state.ct.us/policies/accesspolicy40.html" style="word-wrap: break-word;">
+http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
 
 <p id="I" name="I"></p>
 

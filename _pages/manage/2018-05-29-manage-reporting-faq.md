@@ -90,4 +90,4 @@ created: 1527582783
  [8]: #if not provided
  [9]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
  [10]: mailto:Section.508@gsa.gov
- [11]: {{site.baseurl}}manage/reporting/
+ [11]: {{site.baseurl}}/manage/reporting/
