@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: test/testing-for-developers/
-type: create
+type: test
 title: 'Testing Guidance for Developers'
 created: 1526587845
 redirect_from:
