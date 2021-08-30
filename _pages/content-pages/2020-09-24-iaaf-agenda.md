@@ -13,7 +13,7 @@ created: 1600981839
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 6th | <a href="#progday2" title="Skip to Day 2 program">Day 2/Wednesday, October 7th</a></b>
 </div>
 
-<div class="usa-graphic-list__row container" id="day1" style="font-size:14px;">
+<div class="usa-graphic-list__row container" id="day1">
   <!-- start agenda -->
   
   <div class="grid-row welcome" id="welcome">
