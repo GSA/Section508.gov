@@ -42,5 +42,5 @@ created: 1530040376
 </p>
 
 <p dir="ltr">
-  <a href="/contact-us">Contact us</a> with questions.
+  <a href="{{site.baseurl}}/contact-us">Contact us</a> with questions.
 </p>
