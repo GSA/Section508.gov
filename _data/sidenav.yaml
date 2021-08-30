@@ -383,7 +383,7 @@ create:
       - name: Video Training
         url: create/presentations/training-videos/
       - name: Tips and Tricks
-        url: create/presentations#tips
+        url: create/presentations/
   - name: Create a Spreadsheet
     url: '#'
     children:
@@ -401,7 +401,7 @@ create:
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
-        url: create/pdfs#tips
+        url: create/pdfs
   - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
