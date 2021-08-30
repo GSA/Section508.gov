@@ -401,7 +401,7 @@ create:
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
-        url: create/pdfs
+        url: create/pdfs/
   - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
