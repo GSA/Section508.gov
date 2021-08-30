@@ -9,13 +9,6 @@ created: 1526359269
 
 How to create accessible Microsoft PowerPoint presentations.
 
-## Microsoft PowerPoint 2016
-
-Guidance developed by the Accessible Electronic Documents Community of Practice (AED COP).
-
-  * [Microsoft PowerPoint 2016 Authoring and Testing Guide][1] (MS Word, March 2019)
-  * [Microsoft PowerPoint 2016 Testing Checklist][2] (MS Word, March 2019)
-
 ### Training Videos
 
 <div class="grid-row grid-gap">
@@ -54,15 +47,6 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
   </div>
 
 * * *
-
-## Older versions of Microsoft PowerPoint
-
-The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards.][3]
-
-  * [PowerPoint 2013 Accessibility Checklist][4] - Developed by SSA
-  * [How to Make Your PowerPoint 2010 Presentations 508-Compliant][5] (PDF, December 2014) - Developed by HHS/CMS
-  * [Section 508 Quick Reference Guide – MS PowerPoint 2010][6] (PDF, November 2013) - Developed by HHS/CMS
-  * [PowerPoint Document 508 Checklist][7] (March 2013) - Developed by HHS
 
 ## Related Resources
 

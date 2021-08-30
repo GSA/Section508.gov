@@ -34,17 +34,6 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 * * *
 
-### Microsoft Excel 2016
-
-  * [Microsoft Excel 2016 Basic Authoring and Testing Guide][2] (MS Word, March 2019)
-  * [Microsoft Excel 2016 Printable Accessible Testing Checklist][3] (MS Word, March 2019)
-
-### Microsoft Excel 2010
-
-  * [Microsoft Excel 2010 Basic Authoring Guide][4] (MS Word, December 2015)
-  * [Microsoft Excel 2010 Basic Testing Checklist][5] (MS Word, January 2015)
-  * [Microsoft Excel 2010 Baseline Tests for Accessible Electronic Documents][6] (MS Word, December 2015)
-
 ## Agency-Developed Guidance
 
 The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].

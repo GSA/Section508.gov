@@ -261,7 +261,7 @@ training:
         url: 'create/synchronized-media/creating-accessible-media/'
   - name: Events
     url: 'events/'
-  - name: IAAF archives
+  - name: IAAF Archives
     url: 'iaaf/archives/'
   - name: Presentations and Workshop Materials
     url: 'training/presentations-workshops/'
@@ -322,7 +322,7 @@ test:
       - name: Test Websites & Software
         url: test/web-software/
       - name: Testing Guidance for Developers
-        url: create/testing-for-developers/
+        url: test/testing-for-developers/
 acquisition:
   - name: Acquisition
     url: 'buy-sell/'
@@ -370,11 +370,7 @@ create:
       - name: Create Accessible Documents
         url: 'create/documents/'
       - name: Authoring Guides
-        url: 'https://assets.section508.gov/files/MS+Word+2013+Basic+Authoring+and+Testing+Guide.docx'
-        external: 'true'
-      - name: Checklist
-        url: 'https://assets.section508.gov/files/MS%20Word%202013%20Printable%20Checklist.docx'
-        external: 'true'
+        url: create/documents/authoring-guides
       - name: Video Training
         url: 'create/documents/training-videos/'
       - name: Tips and Tricks
@@ -383,10 +379,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: create/presentations/
-      - name: Checklist
-        url: 'https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html'
-        external: 'true'
+        url: create/presentations/authoring-guides
       - name: Video Training
         url: create/presentations/training-videos/
       - name: Tips and Tricks
@@ -395,11 +388,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: 'https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf'
-        external: 'true'
-      - name: Checklist
-        url: 'http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html'
-        external: 'true'
+        url: create/spreadsheets/authoring-guides
       - name: Video Training
         url: create/spreadsheets/training-videos/
       - name: Tips and Tricks
@@ -408,10 +397,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: create/pdfs/
-      - name: Checklist
-        url: 'https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx'
-        external: 'true'
+        url: create/pdfs/authoring-guides
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
