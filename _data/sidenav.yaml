@@ -95,7 +95,7 @@ training:
         url: 'https://training.section508.gov/508-training/courses/procurement-new/index.html'
         external: true
       - name: "Training via FAI"
-        url: 'training#FAI'
+        url: 'training-home#FAI'
   - name: Video Training
     url: '#'
     children:

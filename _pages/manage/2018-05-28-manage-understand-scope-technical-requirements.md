@@ -45,7 +45,7 @@ Categories of agency official communication (with examples) are listed below. Th
 
   * **Educational or training materials.** Examples: Interactive online training courses; self-paced training courses; educational webinars; other educational presentation formats; and support materials for such activities, including electronic worksheets, training manuals, and tests.
 
-  * **Intranet content designed as a web page.** Examples: An intranet page listing files for downloading; shared calendars; an internal employee locator; or other HTML web pages distributed internally via an agency intranet. This category does not include files distributed via the agency intranet that are not in one or more of the eight categories above.</p></ol> 
+  * **Intranet content designed as a web page.** Examples: An intranet page listing files for downloading; shared calendars; an internal employee locator; or other HTML web pages distributed internally via an agency intranet. This category does not include files distributed via the agency intranet that are not in one or more of the eight categories above.
 
 NOTE: An exception provides that NARA is not responsible for remediating records sent to them by other agencies.
 
