@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/spreadsheets/authoring-guides
+permalink: create/spreadsheets/authoring-guides/
 type: create
 title: 'Spreadsheets Authoring Guides'
 ---

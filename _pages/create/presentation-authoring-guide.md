@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/presentations/authoring-guides
+permalink: create/presentations/authoring-guides/
 type: create
 title: 'Presentations Authoring Guides'
 ---

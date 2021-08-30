@@ -370,7 +370,7 @@ create:
       - name: Create Accessible Documents
         url: 'create/documents/'
       - name: Authoring Guides
-        url: create/documents/authoring-guides
+        url: create/documents/authoring-guides/
       - name: Video Training
         url: 'create/documents/training-videos/'
       - name: Tips and Tricks
@@ -379,7 +379,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: create/presentations/authoring-guides
+        url: create/presentations/authoring-guides/
       - name: Video Training
         url: create/presentations/training-videos/
       - name: Tips and Tricks
@@ -388,7 +388,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: create/spreadsheets/authoring-guides
+        url: create/spreadsheets/authoring-guides/
       - name: Video Training
         url: create/spreadsheets/training-videos/
       - name: Tips and Tricks
@@ -397,7 +397,7 @@ create:
     url: '#'
     children:
       - name: Authoring Guides
-        url: create/pdfs/authoring-guides
+        url: create/pdfs/authoring-guides/
       - name: Video Training
         url: create/pdfs/training-videos/
       - name: Tips and Tricks

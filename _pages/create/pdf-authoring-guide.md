@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: create/pdfs/authoring-guides
+permalink: create/pdfs/authoring-guides/
 type: create
 title: 'PDFs Authoring Guides'
 ---
