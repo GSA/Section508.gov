@@ -31,7 +31,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://section508.gov/sites/default/files/thumb-create-accessible-ppt-template.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/files/thumb-create-accessible-ppt-template.png" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
