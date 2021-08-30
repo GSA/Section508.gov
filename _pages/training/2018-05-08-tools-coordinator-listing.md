@@ -7,9 +7,6 @@ title: 'Find Your 508 Program Manager'
 created: 1525805876
 ---
 
-
-
-
 Agency 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated 508 PM below.
 
 If your agency doesn't have a designated 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
@@ -78,7 +75,7 @@ Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
 
 Rick Coleman - 202-692-0228 - <rick.coleman@wdc.usda.gov>
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 ## <a id="usdoc"></a>Department of Commerce
 
 ### Department-wide
@@ -95,7 +92,7 @@ Mark Reumann - 571-272-6473 - <a class="mailto" href="mailto: Mark.reumann@uspto
 Maureen Brown - 703-756-1788 - [maureen.Brown@uspto.gov][42]  
 Patricia Kless - 703-756-1977 - [patricia.Kless@uspto.gov][43]
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 
 ## <a id="usdod" ></a>Department of Defense
 ### Department-wide
@@ -186,7 +183,7 @@ Matthew Mihelcic - 618-220-3982 DSN -770-4334 - <matthew.m.mihelcic.civ@mail.mil
 ### Washington Headquarters Service (WHS)
 Vacant 
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdoe" ></a>
 ## Department of Education
 
@@ -232,7 +229,7 @@ Lisa Sneed Tucker - 301-594-0545 - <lisa.sneed2@psc.hhs.gov>
 Mark Siegal - 240-276-2141 - [mark.Siegal@samhsa.hhs.gov][53]  
 Erin Washington - 240-276-0571 - [erin.Washington@samhsa.hhs.gov][54]
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdhs" ></a>
 
 ## Department of Homeland Security
@@ -288,7 +285,7 @@ Deborah A. Johnson-Hood -&nbsp;202-475-3576 -&nbsp;[deborah.a.johnson-hood@uscg.
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - [leonard.dorrian@usss.dhs.gov][65]
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 
 <a id="usdhud" ></a>
 
@@ -327,7 +324,7 @@ Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
 Christina Bartlett -&nbsp;703-648-7197 - <cbartlett@usgs.gov>  
 Larry Reedy -&nbsp;<lreedy@usgs.gov>   
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdoj" ></a>
 
 ## Department of Justice
@@ -388,7 +385,7 @@ Christopher Egan - 202-514-9838 - [christopher.R.Egan@usdoj.gov][89]
 ### United States Marshals Service
 Carmen Carpenter - 703-740-0860 - [carmen.Carpenter@usdoj.gov][90] 
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdol" ></a>
 
 ## Department of Labor
@@ -407,7 +404,7 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdott" ></a>
 
 ## Department of the Treasury
@@ -442,7 +439,7 @@ Jerry Kim - 202-657-7727 - <jerry.kim@tigta.treas.gov>
 James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody - (BACKUP) 202-354-7791 - [rodney.dunwoody@usmint.treas.gov][97]
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 <a id="usdova" ></a>
 
 ## Department of Veterans Affairs
@@ -491,7 +488,7 @@ Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
 Mike Fratkin (Back-up) - 410-966-5902 - <mike.fratkin@ssa.gov>
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 
 ## Small and Independent Agencies
 <a id="A" ></a>
@@ -634,7 +631,7 @@ Carrin Brown&nbsp;- 202-205-2233 - <carrin.brown@usitc.gov>
 Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
 
 
-<a href="#top"  title="Return to top">Return to Top</a>
+
 
 <div>
   <p>
