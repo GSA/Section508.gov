@@ -21,9 +21,9 @@ The following examples show how to complete the chart for different ICT items.
   * Software
   * Kiosk (complex)
 
-### **Website Example** 
 
 <table class="usa-table usa-table--borderless">
+<caption id="website-example" style="font-size: 1.2em ; font-weight: bolder"> Website Example</caption>
  <thead>
     <tr>
       <th scope="col">
@@ -143,9 +143,8 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-### **Software Example**
-
 <table class="usa-table usa-table--borderless">
+<caption id="software-example" style="font-size: 1.2em ; font-weight: bolder"> Software Example</caption>
 <thead>
     <tr>
       <th scope="col">
@@ -280,9 +279,10 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-### **Kiosk (Complex) Example**
+
 
 <table class="usa-table usa-table--borderless">
+<caption id="kiosk-complex-example" style="font-size: 1.2em ; font-weight: bolder"> Kiosk (Complex) Example</caption>
   <thead>
     <tr>
       <th scope="col">
