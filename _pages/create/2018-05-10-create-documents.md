@@ -27,7 +27,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Word document is Section 508 conformant.
       </p>
     <p>
-        Duration 59m 21s | 14-part Video Series
+        Duration 59m 21s | 14-Part Video Series
       </p>
     </div>
   </div>

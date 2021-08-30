@@ -96,7 +96,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  Learn more about specific considerations for <a href="https://www.section508.gov/content/guide-accessible-web-design-development#forms">website forms</a> design, development, and testing.&nbsp;
+  Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#forms">website forms</a> design, development, and testing.&nbsp;
 </p>
 
 <h2 dir="ltr" id="esig">
@@ -124,7 +124,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  Learn more about specific considerations for <a href="https://www.section508.gov/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
+  Learn more about specific considerations for <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#captcha">CAPTCHA</a> content, design, and development.
 </p>
 
 <div class="border-base radius-lg border-1px">

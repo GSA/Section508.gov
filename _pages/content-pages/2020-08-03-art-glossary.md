@@ -1739,7 +1739,7 @@ A virtual program (or a virtual course of studies) is a study program in which a
 
 <div class="link-top">
   <a href="#top">Top</a>
-</div></tbody> </table>
+</div>
 
  [1]: http://en.wikipedia.org/wiki/Computer-based_training#Computer-Based_Training
  [2]: http://en.wikipedia.org/wiki/Comparison_of_e-book_readers

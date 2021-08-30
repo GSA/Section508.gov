@@ -66,4 +66,4 @@ To address these needs across the agency, the PM must be a champion for accessib
 **Reviewed/Updated:** August 2018
 
  [1]: https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm
- [2]: https://section508.gov/manage/laws-and-policies
+ [2]: {{site.baseurl}}/manage/laws-and-policies

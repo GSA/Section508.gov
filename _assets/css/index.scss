@@ -308,13 +308,15 @@ ul.menu{
 }
 .banner-title-color {
   color: #9DDFEB;
-  // jump links
-  .jump-links {
-    border-bottom: 3px solid #005ea2;
-    border-top: 3px solid #005ea2;
-    padding: 10px;
-  }
 }
+
+// jump links
+.jump-links {
+  border-bottom: 3px solid #005ea2;
+  border-top: 3px solid #005ea2;
+  padding: 10px;
+}
+
 #backtotop {
   position: fixed;
   bottom: 20px;

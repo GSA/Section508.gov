@@ -76,8 +76,6 @@ http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
 
 [**Web Accessibility and Disability Resources in Spanish and Portuguese**][26]
 
-[« Back to Top][27]
-
  [1]: {{site.baseurl}}/contact-us
  [2]: #A "Go to States beginning with A"
  [3]: #C "Go to States beginning with C"
