@@ -1,6 +1,6 @@
 ---
 sidenav: true
-layout: video
+layout:  page
 permalink: training/web-software/andi-training-videos/
 type: training
 title: 'Accessible Name & Description Inspector (ANDI) Tool Overview'

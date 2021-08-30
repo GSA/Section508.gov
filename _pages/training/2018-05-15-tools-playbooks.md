@@ -1,8 +1,8 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 permalink: tools/playbooks/
-type: page
+type: training
 title: 'Playbooks'
 created: 1526407922
 ---
