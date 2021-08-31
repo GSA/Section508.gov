@@ -3363,7 +3363,7 @@ detailsWindow.document.close();
         // Section 508 Requirements for Technology Products
         OutputHTML +="<h2>1."+numbering+"&nbsp;Section 508 Requirements for Technology Products (include in the SOW, PWS, or SOO)</h2>";
         numbering++;
-         OutputHTML += "<p id='ictitemssection' style='margin-left: 40px;'><strong>Section 508 applicability to Information and Communications Technology (ICT):</strong> "+ unique_array[i-1]+"</p>";
+        //  OutputHTML += "<p id='ictitemssection' style='margin-left: 40px;'><strong>Section 508 applicability to Information and Communications Technology (ICT):</strong> "+ unique_array[i-1]+"</p>";
          //OutputHTML += "<ul>";
 
          //------------------------------------------------------------
@@ -3419,7 +3419,8 @@ detailsWindow.document.close();
                }
                break;
          }
-         OutputHTML += "<p id='ict1itemssection' style='margin-left: 60px;'><strong>Applicable Exception:</strong> " + exceptionname + " &emsp; <strong>Authorization #: </strong>" + exceptionnbr + "</p>";
+         OutputHTML += "";
+        //  OutputHTML += "<p id='ict1itemssection' style='margin-left: 60px;'><strong>Applicable Exception:</strong> " + exceptionname + " &emsp; <strong>Authorization #: </strong>" + exceptionnbr + "</p>";
 
          //------------------------------------------------------------
          //       FUNCTIONAL PERFORMANCE CRITERIA
