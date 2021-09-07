@@ -225,5 +225,5 @@ To start a new procurement, you&rsquo;ll need to know:
 
 <span class="bold"><strong>Reviewed/Updated:</strong>&nbsp;December 2020 </span>
 
-* * *
+
 
