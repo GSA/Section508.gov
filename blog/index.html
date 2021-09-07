@@ -11,7 +11,7 @@ pagination:
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
-        Blog & Updates
+        Blogs & Updates
       </h1>
     </div>
   </div>
@@ -36,8 +36,9 @@ pagination:
           >
         </h2>
         <div class="text-base margin-bottom-2">
-          <div class="margin-top-neg-105">
-            {{ post.date | date: '%B %d, %Y' }}
+          <div class="margin-top-neg-105">{% if post.author %}
+            By <span class="text-bold">{{ post.author }}</span> ·{% endif %} {{ post.date |
+            date: '%B %d, %Y' }}
           </div>
         </div>
         <div>
