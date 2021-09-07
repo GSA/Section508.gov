@@ -246,6 +246,10 @@ a{
     list-style: none;
     padding: 0;
   }
+
+  .grid-row {
+    flex-wrap: nowrap;
+  }
 }
 ul.menu{
   padding: 0;

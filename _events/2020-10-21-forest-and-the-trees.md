@@ -18,4 +18,4 @@ The increase in virtual course content, combined with the recent lawsuits at Har
 **This class or event is (select all that apply):** Webinar  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://www.accessibilityassociation.org/s/archived-webinar-details?id=a0A3p000014wdWuEAI" aria-label="Event Registration Link (opens in a new window)">Register</a>
+**Registration Link:** <a href="https://www.accessibilityassociation.org/s/archived-webinar-details?id=a0A3p000014wdWuEAI" aria-label="Event Registration Link (opens in a new window)" target="_blank">Register</a>

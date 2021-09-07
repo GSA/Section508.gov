@@ -372,7 +372,7 @@ created: 1601325079
       <em><span>Certification Manager</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
 <p>
-      <span>Samantha (Sam) Evans, CAE, MBA, is the Certification Manager at the </span><a href="http://www.accessibilityassociation.org/"><span>International Association of Accessibility Professionals</span></a><span> (IAAP), a division of G3ict, where she works with accessibility subject matter experts and professionals around the world to maintain, build and deliver accessibility certification programs. Working within international standards for certification and credentialing, Sam facilitates the work of IAAP and the accessibility community to establish benchmarks of knowledge, skills, and concepts for accessibility professionals. Sam is also an active accessibility and inclusion advocate, active in the association management and credentialing professions. Sam holds an MBA in International Business from Kennesaw State University and has recently earned the Certified Association Executive (CAE) credential from the American Society of Association Executives (ASAE).</span>
+      <span>Samantha (Sam) Evans, CAE, MBA, is the Certification Manager at the </span><a href="http://www.accessibilityassociation.org/" target="_blank"><span>International Association of Accessibility Professionals</span></a><span> (IAAP), a division of G3ict, where she works with accessibility subject matter experts and professionals around the world to maintain, build and deliver accessibility certification programs. Working within international standards for certification and credentialing, Sam facilitates the work of IAAP and the accessibility community to establish benchmarks of knowledge, skills, and concepts for accessibility professionals. Sam is also an active accessibility and inclusion advocate, active in the association management and credentialing professions. Sam holds an MBA in International Business from Kennesaw State University and has recently earned the Certified Association Executive (CAE) credential from the American Society of Association Executives (ASAE).</span>
     </p>
 <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
@@ -597,7 +597,7 @@ created: 1601325079
       <strong>Thomas Harkin</strong>
     </p>
 <p>
-      <span>Former </span><a href="https://en.wikipedia.org/wiki/United_States_Senate"><span>United States Senator</span></a><span> (1985 - 2015), and member of the U.S. House of Representatives from Iowa's 5th district (1975 – 1985)</span>
+      <span>Former </span><a href="https://en.wikipedia.org/wiki/United_States_Senate" target="_blank"><span>United States Senator</span></a><span> (1985 - 2015), and member of the U.S. House of Representatives from Iowa's 5th district (1975 – 1985)</span>
     </p>
 <p>
       <span>In 1974, Tom Harkin was elected to Congress from Iowa's Fifth Congressional District. In 1984, after serving 10 years in the U.S. House of Representatives, Senator Harkin challenged an incumbent senator and won. Iowans returned him to the Senate in 1990, 1996, 2002, and 2008. He retired from the United States Senate in January 2015. </span>
