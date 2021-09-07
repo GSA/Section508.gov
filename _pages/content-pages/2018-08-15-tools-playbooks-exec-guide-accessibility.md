@@ -262,7 +262,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul role="list">
 <li role="listitem" dir="ltr">
-  Participate in the <a href="https://www.cio.gov/about/accessibility-cop/" target="_blank">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
+  Participate in the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
   <ul role="list">
     <li role="listitem"  dir="ltr">
       Assign at least one agency representative to the ACOP (preferably a senior-level government manager).
