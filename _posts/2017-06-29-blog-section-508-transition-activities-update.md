@@ -8,7 +8,7 @@ tags: Policy-and-Management
 description: Here are some updates on the <b>Section 508 Transition Activities</b> underway to centralize guidance, avoid duplication, and streamline the transition to the revised standards.
 ---
 
-Here are some updates on the **Section 508 Transition Activities** underway to centralize guidance, avoid duplication, and streamline the transition to the revised standards. The Access Board, the ACoP, GSA&rsquo;s Government-wide Section 508 Team, and many of you who are working to help make this transition happen as smoothly as possible.
+June 29, 2017 - Here are some updates on the **Section 508 Transition Activities** underway to centralize guidance, avoid duplication, and streamline the transition to the revised standards. The Access Board, the ACoP, GSA&rsquo;s Government-wide Section 508 Team, and many of you who are working to help make this transition happen as smoothly as possible.
 
 **The Policy and LifeCycle Subgroup** is preparing guidance to help agencies update their Section 508/Accessibility policy to reflect the new regulations. Topics include:
 

@@ -53,7 +53,7 @@ To start a new procurement, you&rsquo;ll need to know:
   <ol style="font-weight: bold;">
     <li>
       <p>
-        <strong>Download</strong> the <a href="https://assets.section508.gov/files/ART%20Contract%20Language%20Template.pdf " style="font-weight: normal;"> ART Contract Language Template </a>
+        <strong>Download</strong> the <a target="_blank" href="https://assets.section508.gov/files/ART%20Contract%20Language%20Template.pdf " style="font-weight: normal;"> ART Contract Language Template </a>
       </p>
     </li>
 <li>
@@ -224,6 +224,5 @@ To start a new procurement, you&rsquo;ll need to know:
 </div>
 
 <span class="bold"><strong>Reviewed/Updated:</strong>&nbsp;December 2020 </span>
-
 
 

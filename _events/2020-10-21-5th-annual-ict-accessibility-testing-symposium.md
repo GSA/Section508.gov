@@ -16,4 +16,4 @@ Our annual symposium has traditionally been a place for in-person knowledge shar
 **This class or event is (select all that apply):** Web Conference  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://www.ictaccessibilitytesting.org/" aria-label="Event Registration Link (opens in a new window)">Register</a>
+**Registration Link:** <a href="https://www.ictaccessibilitytesting.org/" target="_blank" aria-label="Event Registration Link (opens in a new window)">Register</a>

@@ -17,4 +17,4 @@ We bring together experts from the fields of accessibility and legal to discuss 
 **This class or event is (select all that apply):** Web Conference  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://accessibility.legal/" aria-label="Event Registration Link (opens in a new window)">Register</a>
+**Registration Link:** <a href="https://accessibility.legal/" target="_blank" aria-label="Event Registration Link (opens in a new window)">Register</a>

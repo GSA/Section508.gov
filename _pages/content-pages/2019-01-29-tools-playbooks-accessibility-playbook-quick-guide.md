@@ -54,7 +54,7 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  Federal agencies have a responsibility to ensure equitable access to information and communication technology (ICT) for people with disabilities. Several laws and policies cover accessibility-related activities, but the two with which you should be most familiar are the &nbsp;<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> and the <a href="https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 law</a>.
+  Federal agencies have a responsibility to ensure equitable access to information and communication technology (ICT) for people with disabilities. Several laws and policies cover accessibility-related activities, but the two with which you should be most familiar are the &nbsp;<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank">Revised 508 Standards</a> and the <a href="https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 law</a>.
 </p>
 
 <li>
@@ -62,23 +62,23 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <li dir="ltr">
-  Agencies must comply with <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 of the Rehabilitation Act of 1973</a> (29 U.S.C § 794 (d)) (as amended), as well as other related laws and policies, including: <ul>
+  Agencies must comply with <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 of the Rehabilitation Act of 1973</a> (29 U.S.C § 794 (d)) (as amended), as well as other related laws and policies, including: <ul>
     <li>
-        Other sections of the Rehabilitation Act of 1973 (<a href="https://www.dol.gov/oasam/regs/statutes/sec504.htm">504</a>, <a href="https://www.eeoc.gov/laws/statutes/rehab.cfm">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm">503</a>)
+        Other sections of the Rehabilitation Act of 1973 (<a href="https://www.dol.gov/oasam/regs/statutes/sec504.htm" target="_blank">504</a>, <a href="https://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm" target="_blank">503</a>)
     </li>
     <li>
-        <a href="https://www.acquisition.gov/browse/index/far">Federal Acquisition Regulation (FAR)</a>
+        <a href="https://www.acquisition.gov/browse/index/far" target="_blank">Federal Acquisition Regulation (FAR)</a>
     </li>
     <li dir="ltr">
       OMB mandates, including: <ul>
         <li>
-            <a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148%5D">Federal Information Technology Acquisition Reform Act (FITARA)</a>
+            <a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148%5D" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
         </li>
         <li>
-            <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
+            <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
         </li>
         <li>
-            <a href="https://policy.cio.gov/web-policy/">Policies for Federal Agency Public Websites and Digital Services</a>
+            <a href="https://policy.cio.gov/web-policy/" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
         </li>
       </ul>
     </li>
@@ -259,7 +259,7 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  IT products and services must conform to the Revised 508 Standards. Websites and digital tools must also conform to the <a href="http://www.w3.org/WAI/intro/wcag.php">W3C Web Content Accessibility Guidelines (WCAG)</a> 2.0 Level AA.
+  IT products and services must conform to the Revised 508 Standards. Websites and digital tools must also conform to the <a href="http://www.w3.org/WAI/intro/wcag.php" target="_blank">W3C Web Content Accessibility Guidelines (WCAG)</a> 2.0 Level AA.
 </p>
 
 <li>
@@ -267,7 +267,7 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <li>
-    <a href="https://www.dhs.gov/compliance-test-processes">Interagency Trusted Tester Program (ITTP) compliance test process</a>
+    <a href="https://www.dhs.gov/compliance-test-processes" target="_blank">Interagency Trusted Tester Program (ITTP) compliance test process</a>
 </li>
 
 <p dir="ltr">
@@ -331,7 +331,7 @@ agency buys, builds, and uses, is accessible for all.
 <li dir="ltr">
   QA/Testers <ul>
     <li>
-        <a href="https://www.dhs.gov/interagency-trusted-tester-program">Interagency Trusted Tester Program (ITTP)</a>
+        <a href="https://www.dhs.gov/interagency-trusted-tester-program" target="_blank">Interagency Trusted Tester Program (ITTP)</a>
     </li>
   </ul>
 </li>
@@ -361,7 +361,7 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <p dir="ltr">
-  This guide is a companion to the <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a>, and aligns with the <a href="https://designsystem.digital.gov/">U.S. Web Design System</a>, the <a href="https://playbook.cio.gov/">Digital Services Playbook</a>, and the <a href="https://techfarhub.cio.gov/handbook/">TechFAR Handbook</a>.
+  This guide is a companion to the <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a>, and aligns with the <a href="https://designsystem.digital.gov/" target="_blank">U.S. Web Design System</a>, the <a href="https://playbook.cio.gov/" target="_blank">Digital Services Playbook</a>, and the <a href="https://techfarhub.cio.gov/handbook/" target="_blank">TechFAR Handbook</a>.
 </p>
 
 <p dir="ltr">

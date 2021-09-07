@@ -137,7 +137,7 @@ created: 1600981839
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx">IAAF 2020 - Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</a></span>
+        <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx" target="_blank">IAAF 2020 - Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</a></span>
       </div>
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1c">
@@ -451,73 +451,73 @@ created: 1600981839
             </p>
           <ul id="exhibitors">
         <li>
-          <a href="https://www.247accessibledocuments.com/"><strong>247 Accessible Documents:</strong></a> Simplifying Document Accessibility - Your trusted partner to remediate PDFs & PDF forms and Word & PowerPoint Documents. We support you to meet Section 508 and ADA compliance.
+          <a href="https://www.247accessibledocuments.com/" target="_blank"><strong>247 Accessible Documents:</strong></a> Simplifying Document Accessibility - Your trusted partner to remediate PDFs & PDF forms and Word & PowerPoint Documents. We support you to meet Section 508 and ADA compliance.
         </li>
         <li>
-          <a href="https://www.accessibilityshield.com/"><strong>Accessibility Shield</strong></a>: We will demonstrate how our platform makes accessibility work more efficient and how including professional testers who are living with a disability has changed the accessibility conversation.
+          <a href="https://www.accessibilityshield.com/" target="_blank"><strong>Accessibility Shield</strong></a>: We will demonstrate how our platform makes accessibility work more efficient and how including professional testers who are living with a disability has changed the accessibility conversation.
         </li>
         <li>
-          <a href="https://www.accessibilitytrack.com/"><strong>Accessibility Track</strong></a>: Invitation to join the 5th Annual ICT Accessibility Testing Symposium, taking place later in October; and highlighting the annual Digital Accessibility Legal Summit resources from 2019/20 & 2021 events.
+          <a href="https://www.accessibilitytrack.com/" target="_blank"><strong>Accessibility Track</strong></a>: Invitation to join the 5th Annual ICT Accessibility Testing Symposium, taking place later in October; and highlighting the annual Digital Accessibility Legal Summit resources from 2019/20 & 2021 events.
         </li>
         <li>
-          <a href="https://www.accessibilityoz.com/"><strong>AccessibilityOz</strong></a>: AccessibilityOz will demonstrate three accessibility tools: <em>OzART</em>, our automated accessibility testing tool; <em>OzPlayer</em>, our accessible video player; and <em>OzWiki</em>, our database of accessibility errors and solutions.
+          <a href="https://www.accessibilityoz.com/" target="_blank"><strong>AccessibilityOz</strong></a>: AccessibilityOz will demonstrate three accessibility tools: <em>OzART</em>, our automated accessibility testing tool; <em>OzPlayer</em>, our accessible video player; and <em>OzWiki</em>, our database of accessibility errors and solutions.
         </li>
         <li>
-          <a href="https://www.barrierbreak.com/"><strong>BarrierBreak</strong></a>: BarrierBreak are leaders in offshore accessibility testing. We adopt the People First approach where people with disabilities are a part of your accessibility testing and consulting process.
+          <a href="https://www.barrierbreak.com/" target="_blank"><strong>BarrierBreak</strong></a>: BarrierBreak are leaders in offshore accessibility testing. We adopt the People First approach where people with disabilities are a part of your accessibility testing and consulting process.
         </li>
         <li>
-          <a href="https://www.automaticsync.com/"><strong>CaptionSync by Automatic Sync Technologies</strong></a>: AST leverages smart automation and professional transcribers and audio describers to power its CaptionSync video accessibility services.
+          <a href="https://www.automaticsync.com/" target="_blank"><strong>CaptionSync by Automatic Sync Technologies</strong></a>: AST leverages smart automation and professional transcribers and audio describers to power its CaptionSync video accessibility services.
         </li>
         <li>
-          <a href="https://www.civicactions.com/"><strong>CivicActions, Inc.</strong></a>: Prototypes for design pages, created in Drupal, Wordpress, Adobe XD, or similar design applications; wireframes; and mockups. Creative redesign using non-traditional improvements that maximize user experience.&nbsp;
+          <a href="https://www.civicactions.com/" target="_blank"><strong>CivicActions, Inc.</strong></a>: Prototypes for design pages, created in Drupal, Wordpress, Adobe XD, or similar design applications; wireframes; and mockups. Creative redesign using non-traditional improvements that maximize user experience.&nbsp;
         </li>
         <li>
-          <a href="https://www.codemantra.com"><strong>Codemantra</strong></a>: Codemantra will present its Artificial Intelligence and Machine Learning based approach for helping to automate the remediation of digital documents to exceed both Section 508 and WCAG 2.1 standards.
+          <a href="https://www.codemantra.com" target="_blank"><strong>Codemantra</strong></a>: Codemantra will present its Artificial Intelligence and Machine Learning based approach for helping to automate the remediation of digital documents to exceed both Section 508 and WCAG 2.1 standards.
         </li>
         <li>
-          <a href="https://www.commonlook.com/"><strong>CommonLook</strong></a>: We will give a quick overview of CommonLook showcasing the solutions and services we have to offer. This includes our 100% Guaranteed Remediation and PDF + Office remediation software.
+          <a href="https://www.commonlook.com/" target="_blank"><strong>CommonLook</strong></a>: We will give a quick overview of CommonLook showcasing the solutions and services we have to offer. This includes our 100% Guaranteed Remediation and PDF + Office remediation software.
         </li>
         <li>
-          <a href="https://www.e-508.com"><strong>E-GovMarket, LLC</strong></a>: E-508.com is a one-stop shop for Section 508 Document remediation pricing and tracking. We have a new marketplace of vendors searchable by socioeconomic status, GSA Schedules and BPAs.
+          <a href="https://www.e-508.com" target="_blank"><strong>E-GovMarket, LLC</strong></a>: E-508.com is a one-stop shop for Section 508 Document remediation pricing and tracking. We have a new marketplace of vendors searchable by socioeconomic status, GSA Schedules and BPAs.
         </li>
         <li>
-          <a href="https://www.equidox.co/"><strong>Equidox by Onix</strong></a>: Remediate a PDF document 80% quicker than with Acrobat. Utilizing AI & Machine Learning we're able to automate the most arduous processes like auto-tagging tables and nested lists.
+          <a href="https://www.equidox.co/" target="_blank"><strong>Equidox by Onix</strong></a>: Remediate a PDF document 80% quicker than with Acrobat. Utilizing AI & Machine Learning we're able to automate the most arduous processes like auto-tagging tables and nested lists.
         </li>
         <li>
-          <a href="https://www.foxitsoftware.com/solution/accessibility/"><strong>Foxit Software</strong></a>: Foxit software provides a full set of PDF editing capabilities, including remediation and compliance checker for document accessibility.
+          <a href="https://www.foxitsoftware.com/solution/accessibility/" target="_blank"><strong>Foxit Software</strong></a>: Foxit software provides a full set of PDF editing capabilities, including remediation and compliance checker for document accessibility.
         </li>
         <li>
-          <a href="https://www.gabisolutions.com"><strong>Gabi Solutions, Inc.</strong></a>: Gabi provides a safe, secure and accessible touchless solution for any Xerox Multifunction Printer through verbal commands from employees with and without disabilities being 508 compliant.
+          <a href="https://www.gabisolutions.com" target="_blank"><strong>Gabi Solutions, Inc.</strong></a>: Gabi provides a safe, secure and accessible touchless solution for any Xerox Multifunction Printer through verbal commands from employees with and without disabilities being 508 compliant.
         </li>
         <li>
-          <a href="http://www.inclusivedocs.com"><strong>Inclusive Docs</strong></a>: Inclusive Docs have developed Software that ingests all types of Documents and our system reflows the content into HTML5 as well as EPUB3, producing an accessible WCAG2.1AA document.
+          <a href="http://www.inclusivedocs.com" target="_blank"><strong>Inclusive Docs</strong></a>: Inclusive Docs have developed Software that ingests all types of Documents and our system reflows the content into HTML5 as well as EPUB3, producing an accessible WCAG2.1AA document.
         </li>
         <li>
-          <a href="https://www.microassist.com/"><strong>Microassist</strong></a>: Microassist is a minority-owned, small business providing digital accessibility testing and remediation services, and custom curriculum development and delivery that is compliant with Section 508, WCAG 2.0, and other recognized standards.
+          <a href="https://www.microassist.com/" target="_blank"><strong>Microassist</strong></a>: Microassist is a minority-owned, small business providing digital accessibility testing and remediation services, and custom curriculum development and delivery that is compliant with Section 508, WCAG 2.0, and other recognized standards.
         </li>
         <li>
-          <a href="https://neweditions.net/services/accessibility-services"><strong>New Editions Consulting</strong></a>: We will describe New Editions accessibility service offerings.
+          <a href="https://neweditions.net/services/accessibility-services" target="_blank"><strong>New Editions Consulting</strong></a>: We will describe New Editions accessibility service offerings.
         </li>
         <li>
-          <a href="https://www.openaccesstech.com/"><strong>Open Access Technologies, Inc.</strong></a>: OAT will present our new product DocMD. DocMD uses efficient, cost effective web-crawling technology where clients can make user queries, assess and report on a repository of web-based documents.
+          <a href="https://www.openaccesstech.com/" target="_blank"><strong>Open Access Technologies, Inc.</strong></a>: OAT will present our new product DocMD. DocMD uses efficient, cost effective web-crawling technology where clients can make user queries, assess and report on a repository of web-based documents.
         </li>
         <li>
-          <a href="https://iaccessible.com/"><strong>Optimal Solutions Group</strong></a>: iAccessible is an online platform powered by Revelo that automates website accessibility testing, monitoring and reporting.
+          <a href="https://iaccessible.com/" target="_blank"><strong>Optimal Solutions Group</strong></a>: iAccessible is an online platform powered by Revelo that automates website accessibility testing, monitoring and reporting.
         </li>
         <li>
-          <a href="http://www.pneumasolutions.com/"><strong>Pneuma Solutions</strong></a>: You need equal access to a wide range of document types and images. Come learn how we can leverage machine learning algorithms to bring fast, affordable, and intuitive document remediation to you.&nbsp;
+          <a href="http://www.pneumasolutions.com/" target="_blank"><strong>Pneuma Solutions</strong></a>: You need equal access to a wide range of document types and images. Come learn how we can leverage machine learning algorithms to bring fast, affordable, and intuitive document remediation to you.&nbsp;
         </li>
         <li>
-          <a href="https://www.tcsaccess.com/"><strong>TCSAccess</strong></a>: TCSAccess is a full service, assistive technology (AT) solutions provider. Our time will be used to discuss the services and product lines that we offer, which includes AT Training, Document Remediation, & Reader Services&nbsp;
+          <a href="https://www.tcsaccess.com/" target="_blank"><strong>TCSAccess</strong></a>: TCSAccess is a full service, assistive technology (AT) solutions provider. Our time will be used to discuss the services and product lines that we offer, which includes AT Training, Document Remediation, & Reader Services&nbsp;
         </li>
         <li>
-          <a href="https://www.tenon.io"><strong>Tenon.io</strong></a>: Tenon is an API-first, automated accessibility testing tool which integrates easily into your development pipeline.
+          <a href="https://www.tenon.io" target="_blank"><strong>Tenon.io</strong></a>: Tenon is an API-first, automated accessibility testing tool which integrates easily into your development pipeline.
         </li>
         <li>
-          <a href="https://www.paciellogroup.com/interagency-accessibility-forum-iaaf/"><strong>The Paciello Group</strong></a>: This exhibit will showcase TPG's testing and monitoring tools, ARC Monitoring and JAWS Inspect, used to conduct automated and manual evaluations of your web applications.
+          <a href="https://www.paciellogroup.com/interagency-accessibility-forum-iaaf/" target="_blank"><strong>The Paciello Group</strong></a>: This exhibit will showcase TPG's testing and monitoring tools, ARC Monitoring and JAWS Inspect, used to conduct automated and manual evaluations of your web applications.
         </li>
         <li>
-          <a href="https://www.uipath.com"><strong>UiPath</strong></a>: Check for 508 compliance of Word, PDF, PowerPoint, and Excel documents using UiPath robots. Pilots at NIH have shown 40 hours of manual reviews is reduced to 3 hours with no errors.
+          <a href="https://www.uipath.com" target="_blank"><strong>UiPath</strong></a>: Check for 508 compliance of Word, PDF, PowerPoint, and Excel documents using UiPath robots. Pilots at NIH have shown 40 hours of manual reviews is reduced to 3 hours with no errors.
         </li>
       </ul>
     </div>

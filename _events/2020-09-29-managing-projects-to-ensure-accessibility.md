@@ -18,4 +18,4 @@ Ensuring that accessibility is accounted for and managed throughout the various 
 **This class or event is (select all that apply):** Webinar  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://www.accessibilityonline.org/cioc-508/session/?id=110849" aria-label="Event Registration Link (opens in a new window)">Register</a>
+**Registration Link:** <a href="https://www.accessibilityonline.org/cioc-508/session/?id=110849" aria-label="Event Registration Link (opens in a new window)" target="_blank">Register</a>
