@@ -112,4 +112,4 @@ The resources on this page were created through interagency collaborative effort
  [16]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [17]: {{site.baseurl}}/test
  [18]: {{site.baseurl}}/test/about-testing-tools
- [19]: https://www.cio.gov/about/accessibility-cop/
+ [19]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/

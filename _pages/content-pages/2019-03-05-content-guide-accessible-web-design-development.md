@@ -1185,5 +1185,5 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [37]: https://webaim.org/
  [38]: https://css-tricks.com/aria-spackle-not-rebar/
  [39]: https://www.ssa.gov/accessibility/andi/help/developerguide.html
- [40]: https://www.cio.gov/about/accessibility-cop/
+ [40]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [41]: https://www.dhs.gov/trusted-tester

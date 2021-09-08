@@ -80,4 +80,4 @@ June 29, 2017 - Here are some updates on the **Section 508 Transition Activities
 
 To review initial guidance on the new standards, visit the Section 508 Standards Refresh page. Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with questions or to contribute input to a subgroup.
 
- [1]: https://www.cio.gov/about/accessibility-cop/
+ [1]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
