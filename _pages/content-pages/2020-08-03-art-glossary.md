@@ -7,7 +7,9 @@ title: 'ART - Glossary'
 created: 1596488250
 ---
 
-## Glossary Instructions The Glossary items correspond to titles of available Quick Links. You can search the Glossary by using your internet browser's "Find on this Page" function. If you find a glossary item that matches your needs, choose select at the bottom of the term to select that EIT deliverable and return Home to get a Quick Link. 
+## Glossary Instructions 
+
+The Glossary items correspond to titles of available Quick Links. You can search the Glossary by using your internet browser's "Find on this Page" function. If you find a glossary item that matches your needs, choose select at the bottom of the term to select that EIT deliverable and return Home to get a Quick Link. 
 
 ## Please select the first letter of the glossary term
 
