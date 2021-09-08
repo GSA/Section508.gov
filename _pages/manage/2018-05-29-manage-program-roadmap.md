@@ -20,7 +20,7 @@ created: 1527574221
 </p>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/laws-and-policies/quick-reference-guide">Revised 508 Standards Transition Guide</a>
+  <a href="{{site.baseurl}}/manage/laws-and-policies/quick-reference-guide">Laws and Policy Quick Reference Guide</a>
 </li>
 </ul>
 

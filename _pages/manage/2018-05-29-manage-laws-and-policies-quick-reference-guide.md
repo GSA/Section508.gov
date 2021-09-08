@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/laws-and-policies/quick-reference-guide/
 type: manage
-title: 'Revised 508 Standards Transition Guide'
+title: 'Laws and Policy Quick Reference Guide'
 created: 1527608498
 ---
 

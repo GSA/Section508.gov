@@ -7,7 +7,7 @@ title: 'Accessibilty Training, Tools, and Events'
 created: 1525805876
 ---
 
-<section class="usa-section">
+<section class="usa-section training-tool-events">
 <ul class="usa-card-group">
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">

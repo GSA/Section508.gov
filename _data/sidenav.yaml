@@ -300,7 +300,7 @@ develop:
       - name: Develop Web Content
         url: develop/web-content/
 test:
-  - name: Testing Home
+  - name: Testing
     url: 'test/'
   - name: Testing Methods
     url: '#'
