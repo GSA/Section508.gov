@@ -104,7 +104,7 @@ On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACO
           </li>          
           <li>
             <div>
-              <a href="https://www.cio.gov/about/accessibility-cop/">Accessibility Community of Practice</a>
+              <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/">Accessibility Community of Practice</a>
             </div>
           </li>          
           <li>
