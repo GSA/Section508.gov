@@ -1439,13 +1439,18 @@ The other components required for a VTC system include:
       * Audio input: microphones, DVD player, cassette player, or any other source of PreAmp audio outlet.
       * Audio output: usually loudspeakers associated with the display device or telephone
       * Data transfer: analog or digital telephone network, LAN or Internet
+
 There are basically two kinds of VTC systems:
-  1. Dedicated systems have all required components packaged into a single piece of equipment, usually a console with a high quality remote controlled video camera. These cameras can be controlled at a distance to pan left and right, tilt up and down, and zoom. They became known as PTZ cameras. The console contains all electrical interfaces, the control computer, and the software or hardware-based codec. Omnidirectional microphones are connected to the console, as well as a TV monitor with loudspeakers and/or a video projector. There are several types of dedicated VTC devices: 
-          1. Large group VTC are non-portable, large, more expensive devices used for large rooms and auditoriums.
-          2. Small group VTC are non-portable or portable, smaller, less expensive devices used for small meeting rooms.
-          3. Individual VTC are usually portable devices, meant for single users, have fixed cameras, microphones and loudspeakers integrated into the console.
-      2. Desktop systems are add-ons (hardware boards, usually) to normal PCs, transforming them into VTC devices. A range of different cameras and microphones can be used with the board, which contains the necessary codec and transmission interfaces. Most of the desktops systems work with the H.323 standard. Videoconferences carried out via dispersed PCs are also known as e-meetings."
-Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.
+<ol>
+<li>Dedicated systems have all required components packaged into a single piece of equipment, usually a console with a high quality remote controlled video camera. These cameras can be controlled at a distance to pan left and right, tilt up and down, and zoom. They became known as PTZ cameras. The console contains all electrical interfaces, the control computer, and the software or hardware-based codec. Omnidirectional microphones are connected to the console, as well as a TV monitor with loudspeakers and/or a video projector. There are several types of dedicated VTC devices: 
+<ol>
+<li>Large group VTC are non-portable, large, more expensive devices used for large rooms and auditoriums.</li>
+<li>Small group VTC are non-portable or portable, smaller, less expensive devices used for small meeting rooms.</li>
+<li>Individual VTC are usually portable devices, meant for single users, have fixed cameras, microphones and loudspeakers integrated into the console.</li>
+</ol></li>
+<li>Desktop systems are add-ons (hardware boards, usually) to normal PCs, transforming them into VTC devices. A range of different cameras and microphones can be used with the board, which contains the necessary codec and transmission interfaces. Most of the desktops systems work with the H.323 standard. Videoconferences carried out via dispersed PCs are also known as e-meetings."
+Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.</li>
+</ol>
 
 <div class="link-top">
   <a href="#top">Top</a>
