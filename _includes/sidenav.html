@@ -33,7 +33,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {%- endif -%}
             {%- if link.children -%}
             <li class="usa-sidenav__item list {% if current %} active usa-current{% endif %}">
-                <a href="#" class="header-menu-text">{{- link.name -}}</a>
+                <a href="javascript:void(0);" class="header-menu-text" aria-label="{{ link.name }} - Submenu">{{- link.name -}}</a>
                 <ul class="usa-sidenav__sublist items">
                     {%- for children in link.children -%}
                     {%- assign currentChild = false -%}
@@ -42,7 +42,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                     {%- endif -%}
                     {%- if children.grandchildren -%}
                     <li class="usa-sidenav__item list {% if currentChild %} active usa-current {% endif %}">
-                            <a href="#">{{- children.name -}}</a>
+                            <a href="javascript:void(0);" aria-label="{{ children.name }} - Submenu">{{- children.name -}}</a>
                          <ul class="usa-sidenav__sublist items">
                           {%- for grandchildren in children.grandchildren -%}
                              {%- assign currentGrandchild = false -%}
