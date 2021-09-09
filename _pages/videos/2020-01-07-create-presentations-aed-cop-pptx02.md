@@ -1,7 +1,7 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx02/
+permalink: training/presentations/aed-cop-pptx02/
 type: training
 title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient'
 created: 1578419471
