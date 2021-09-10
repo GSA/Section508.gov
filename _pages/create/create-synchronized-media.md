@@ -199,7 +199,7 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img class="img-border" style="height: 145px; width: 259px;" src="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" alt="Restoring our Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img class="img-border" style="height: 145px; width: 259px;     border-radius: 8px;" src="https://lh4.googleusercontent.com/mTxdAUaXXOIYTvHUwT0cY4HGGWSyGyxn7Muw-rmk0pAiuRuq2AGHbXVC4fv-ex0EQQ6zBaQ9NsGe1IYr8n2LC3ORzisKdTFq2nDTwtpHeQVFEFoONMid5F0RQDZOicXX6wKgW4td" alt="Restoring our Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" target="_blank">Restoring our Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>
