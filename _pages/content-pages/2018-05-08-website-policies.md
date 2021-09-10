@@ -103,13 +103,14 @@ Where we manage a presence on social media sites to share government information
  [2]: #_p7y1e21sfeed
  [3]: #_64zwi3gkjmqj
  [4]: #_hy4mt5xqgk6h
- [5]: /manage/laws-and-policies
+ [5]: {{site.baseurl}}/manage/laws-and-policies
  [6]: mailto:section.508@gsa.gov
  [7]: https://www.gsa.gov/website-information/accessibility-aids
  [8]: https://www.gsa.gov/privacy
- [9]: /privacy-policy
+ [9]: {{site.baseurl}}/privacy-policy
  [10]: http://www.gsa.gov/portal/category/21546
  [11]: http://www.gsa.gov/portal/directives
  [12]: http://www.gsa.gov/portal/content/105305
  [13]: http://www.gsa.gov/portal/content/101344
  [14]: http://www.gsa.gov/portal/category/21544
+ 

@@ -3,7 +3,7 @@
 # Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it 
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 manage:
-  - name: Policy and Management home
+  - name: Policy and Management 
     url: manage/
   - name: Management
     url: '#'
@@ -69,7 +69,7 @@ manage:
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
 training:
-  - name: Training, Tools and Events
+  - name: Training, Tools & Events
     url: 'training/'
   - name: Training
     url: 'training-home/'
@@ -242,7 +242,7 @@ training:
             url: training/web-software/andi-training-videos/live-regions/
       - name: Color Contrast Analyzer
         url: 'training/web-software/andi-training-videos/color-contrast-analyzer/'
-      - name: Universal Design
+      - name:  Universal Design and Accessibility
         url: '#'
         grandchildren:
           - name: "An Introduction to Universal Design for Content Creators"
@@ -276,14 +276,14 @@ training:
         url: 'art/'
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
-      - name: Find Your 508 Coordinator
+      - name: Find Your 508 Program Manager
         url: 'tools/coordinator-listing/'
       - name: View a Playbook
         url: 'tools/playbooks/'
       - name: Glossary of Terms
         url: 'content/glossary/'
 develop:
-  - name: Design and Develop
+  - name: Design & Develop
     url: 'develop/'
   - name: Design
     url: '#'
@@ -316,7 +316,7 @@ test:
         url: test/documents/
       - name: About Electonic Document Testing Tools
         url: test/about-testing-tools/
-  - name: Software and Website
+  - name: Software & Website
     url: '#'
     children:
       - name: Test Websites & Software
