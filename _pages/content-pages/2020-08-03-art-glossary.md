@@ -562,7 +562,7 @@ The EIT-related service deliverables included in this Quick Link are contractor 
 
 According to Wikipedia ([http://en.wikipedia.org/wiki/Management\_information\_systems][7])
 
-"An MIS is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities that were planned and executed."**** 
+"An MIS is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities that were planned and executed."
 
 <div class="link-top">
   <a href="#top">Top</a>
@@ -576,7 +576,7 @@ According to Wikipedia ([http://en.wikipedia.org/wiki/Management\_information\_s
 
 Definition of Deliverable
 
-A mobile app is a computer program designed to run on smartphones, tablet computers and other mobile devices. Apps are usually available through application distribution platforms, which began appearing in 2008 and are typically operated by the owner of the mobile operating system, such as the Apple App Store, Google Play, Windows Phone Store, and BlackBerry App World. Some apps are free, while others must be bought. Usually, they are downloaded from the platform to a target device, such as an iPhone, BlackBerry, Android phone or Windows Phone, but sometimes they can be downloaded to laptops or desktop computers. For apps with a price, generally a percentage, 20-30%, goes to the distribution provider (such as iTunes), and the rest goes to the producer of the app.[1] The same app can therefore cost the average Smartphone user a different price depending on whether they use iPhone, Android, or BlackBerry 10 devices.
+A mobile app is a computer program designed to run on smartphones, tablet computers and other mobile devices. Apps are usually available through application distribution platforms, which began appearing in 2008 and are typically operated by the owner of the mobile operating system, such as the Apple App Store, Google Play, Windows Phone Store, and BlackBerry App World. Some apps are free, while others must be bought. Usually, they are downloaded from the platform to a target device, such as an iPhone, BlackBerry, Android phone or Windows Phone, but sometimes they can be downloaded to laptops or desktop computers. For apps with a price, generally a percentage, 20-30%, goes to the distribution provider (such as iTunes), and the rest goes to the producer of the app. 1 The same app can therefore cost the average Smartphone user a different price depending on whether they use iPhone, Android, or BlackBerry 10 devices.
 
 The term "app" is a shortening of the term "application software". (<http://en.wikipedia.org/wiki/Mobile_app>)
 
@@ -1220,11 +1220,15 @@ UNSPSC Code:
         o 43233701 Enterprise system management software  
         o 55111600 Electronic software reference material  
         o 55111601 Electronic software documentation or user manuals
+
 Definition of Deliverable
+
 "Application software, also known as an application or an app, is computer software designed to help the user to perform specific tasks. Examples include enterprise software, accounting software, office suites, graphics software and media players. Many application programs deal principally with documents. Applications may be bundled with the computer and its system software, or may be published separately. In recent years, the abbreviation "app" has specifically come to mean application software written for mobile devices, with the abbreviation in particular representing both the smaller size and smaller scope of the software (i.e. an app whose sole purpose is to display an image representation of the current weather). Application software is contrasted with system software and middleware, which manage and integrate a computer's capabilities, but typically do not directly apply in the performance of tasks that benefit the user. The system software serves the application, which in turn serves the user."  
-    (<http://en.wikipedia.org/wiki/Application_software>)
+(<http://en.wikipedia.org/wiki/Application_software>)
+
 "An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs. The operating system is a vital component of the system software in a computer system. Application programs usually require an operating system to function."  
-    (<http://en.wikipedia.org/wiki/Operating_system>)
+(<http://en.wikipedia.org/wiki/Operating_system>)
+
 The accessibility requirements for either application software or operating system software are the same.
 
 <div class="link-top">
@@ -1430,11 +1434,17 @@ UNSPSC Code:
   * 45111900 Phone and video teleconference equipment and hardware and controllers 
       * 45111901 Audioconferencing systems
       * 45111902 Videoconferencing systems
+
 Definition of Deliverable
+
 According to Wikipedia (<http://en.wikipedia.org/wiki/Videoconferencing#Standards>) video teleconferencing typically includes both audio and video teleconferencing systems:
+
 "A videoconference or video teleconference (also known as a videoteleconference) is a set of interactive telecommunication technologies which allow two or more locations to interact via two-way video and audio transmissions simultaneously. It has also been called 'visual collaboration' and is a type of groupware.
+
 Videoconferencing differs from a videophone calls in that its designed to serve a conference rather than individuals. It is an intermediate form of videotelephony, first deployed commercially by AT&T during the early 1970s using their Picturephone technology. …
+
 The core technology used in a videoteleconference (VTC) system is digital compression of audio and video streams in real time. The hardware or software that performs compression is called a codec (coder/decoder). Compression rates of up to 1:500 can be achieved. The resulting digital stream of 1s and 0s is subdivided into labelled packets, which are then transmitted through a digital network of some kind (usually ISDN or IP). The use of audio modems in the transmission line allow for the use of POTS, or the Plain Old Telephone System, in some low-speed applications, such as videotelephony, because they convert the digital pulses to/from analog waves in the audio spectrum range.
+
 The other components required for a VTC system include:
   * Video input : video camera or webcam
       * Video output: computer monitor, television or projector
@@ -1451,8 +1461,10 @@ There are basically two kinds of VTC systems:
 <li>Individual VTC are usually portable devices, meant for single users, have fixed cameras, microphones and loudspeakers integrated into the console.</li>
 </ol></li>
 <li>Desktop systems are add-ons (hardware boards, usually) to normal PCs, transforming them into VTC devices. A range of different cameras and microphones can be used with the board, which contains the necessary codec and transmission interfaces. Most of the desktops systems work with the H.323 standard. Videoconferences carried out via dispersed PCs are also known as e-meetings."
-Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.</li>
+</li>
 </ol>
+
+Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.
 
 <div class="link-top">
   <a href="#top">Top</a>
