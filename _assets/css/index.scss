@@ -299,6 +299,15 @@ ul.menu{
     }
   }
 }
+
+.usa-menu-btn {
+  height: 4rem;
+}
+
+.usa-navbar {
+  height: 4rem;
+}
+
 .usa-sidenav__item {
   clear: both;
   span {
@@ -418,6 +427,10 @@ div[role=rowheader] {
     .tools-list ul {
       margin: 10px 0 0 10px;
     }
+  }
+  .usa-header--extended .usa-logo {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
   }
 }
 @media (min-width: 40em) {
