@@ -20,10 +20,6 @@ $theme-show-notifications: false;
   //  background-position: 50%;
   //  background-size: cover;
 }
-.misson__callout{
-  background: rgba(17, 47, 78, 0.93) 0% 0% no-repeat padding-box;
-  box-shadow: 0px 0px 80px #00000012;
-}
 /*
   Add your SASS/CSS here
 */
@@ -127,7 +123,7 @@ a{
   display: hidden;
 }
 .usa-hero__callout {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
 }
 .usa-card__container {
   border-top: 0.25rem solid #162E51 ;
@@ -149,6 +145,16 @@ a{
 .mission h3{
   font-size:26px;
 }
+.mission__callout {
+  background-color: #112f4e;
+  a {
+    color: #6CA3EF;
+  }
+  a.usa-button {
+    color: white;
+  }
+}
+
 .secondary-background-color{
   background-color: #00a871 ;
 }
@@ -293,6 +299,15 @@ ul.menu{
     }
   }
 }
+
+.usa-menu-btn {
+  height: 4rem;
+}
+
+.usa-navbar {
+  height: 4rem;
+}
+
 .usa-sidenav__item {
   clear: both;
   span {
@@ -412,6 +427,10 @@ div[role=rowheader] {
     .tools-list ul {
       margin: 10px 0 0 10px;
     }
+  }
+  .usa-header--extended .usa-logo {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
   }
 }
 @media (min-width: 40em) {

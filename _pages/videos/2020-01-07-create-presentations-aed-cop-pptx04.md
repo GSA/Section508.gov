@@ -1,7 +1,7 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx04/
+permalink: training/presentations/aed-cop-pptx04/
 type: training
 title: 'Module 4: Formatting Columns Correctly'
 created: 1578419664

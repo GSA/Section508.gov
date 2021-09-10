@@ -28,7 +28,7 @@ Other top tasks and tiles include:
   * **View Policy** - Overview of Section 508 and related IT accessibility laws and policies.
   * **Buy & Sell** - Guidance for information and communication technology (ICT) vendors, and Federal employees purchasing ICT products and services.
   * **Tools & Training** - Training, playbooks, and support.
-  * **Blog** - News and updates.
+  * **Blog** - Blogs & updates.
 
 Keep in mind the new look and feel is an MVP (minimum viable product) version and we're relying on you for feedback. If you have thoughts about the redesign, we can't wait to hear from you. Please contact us at <section.508@gsa.gov> with questions or feedback.
 

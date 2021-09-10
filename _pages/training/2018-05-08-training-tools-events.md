@@ -34,7 +34,7 @@ created: 1525805876
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/events">Events</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/events/">Events</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Attend current, upcoming, and view our recurring events.</p>
@@ -44,7 +44,7 @@ created: 1525805876
   <li class="tablet:grid-col-6 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools">Section 508 Tools</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/">Section 508 Tools</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Tools and testing guidance for making sure digital products are accessible and following Section 508 guidelines.</p>
