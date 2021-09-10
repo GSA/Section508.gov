@@ -562,7 +562,7 @@ The EIT-related service deliverables included in this Quick Link are contractor 
 
 According to Wikipedia ([http://en.wikipedia.org/wiki/Management\_information\_systems][7])
 
-"An **MIS **is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities that were planned and executed."**** 
+"An MIS is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities that were planned and executed."**** 
 
 <div class="link-top">
   <a href="#top">Top</a>
