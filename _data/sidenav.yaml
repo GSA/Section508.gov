@@ -316,7 +316,7 @@ test:
         url: test/documents/
       - name: About Electonic Document Testing Tools
         url: test/about-testing-tools/
-  - name: Software & Website
+  - name: Software & Websites
     url: '#'
     children:
       - name: Test Websites & Software
