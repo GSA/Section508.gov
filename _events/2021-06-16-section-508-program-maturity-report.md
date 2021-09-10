@@ -16,9 +16,8 @@ decription: Section508.gov Event Announcement | The Section 508 Program Maturity
 Federal agencies are required to report to the Office of Management and Budget (OMB) twice per year on their IT accessibility/Section 508 program maturity and effectiveness. The CIO Council’s Accessibility Community of Practice (ACOP) and GSA’s Government-wide IT Accessibility Program analyze these reports to find ways to improve collaboration across agencies, reduce redundancies, and develop solutions to improve the management of government accessibility programs.
 
 **Target Audience:** Section 508 Program Managers  
-**Reporting Periods:** Reports are due twice per year, in February and August
-**Information and Dates:** Monitor and Report Progress
-  
+**Reporting Periods:** Reports are due twice per year, in February and August  
+**Information and Dates:** Monitor and Report Progress  
 
 **Reviewed/Updated:** September 2021
 

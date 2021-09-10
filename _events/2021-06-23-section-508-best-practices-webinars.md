@@ -17,10 +17,10 @@ Participants may earn attendance credits for registering and attending the live 
 Webinars are recorded, and past sessions are available in the portal’s archives.
 
 
-**Date of Event:** Every other month from 1:00 PM - 2:30 PM Eastern Time Zone
-**Location:** Zoom Platform
-**Topic Area:** Digital Accessibility
-**Available to:** Federal Employees and members of the public 
-**Registration:** <a href="https://www.accessibilityonline.org/cioc-508/scheduleSection" target="_blank" aria-label="Event Registration Link (opens in a new window)"> 508 Best Practices Webinar Series </a>
+**Date of Event:** Every other month from 1:00 PM - 2:30 PM Eastern Time Zone    
+**Location:** Zoom Platform     
+**Topic Area:** Digital Accessibility    
+**Available to:** Federal Employees and members of the public    
+**Registration:** <a href="https://www.accessibilityonline.org/cioc-508/scheduleSection" target="_blank" aria-label="Event Registration Link (opens in a new window)"> 508 Best Practices Webinar Series </a>  
 
  **Reviewed/Updated:** September 2021
