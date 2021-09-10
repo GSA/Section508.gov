@@ -254,7 +254,7 @@ a{
   }
 
   .grid-row {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
 }
 ul.menu{
@@ -436,6 +436,12 @@ div[role=rowheader] {
 @media (min-width: 40em) {
   .usa-hero__callout {
     max-width: 24rem;
+  }
+
+  .topics {
+    .grid-row {
+      flex-wrap: nowrap;
+    }
   }
 
   .usa-sidenav__sublist .usa-current::after {

@@ -27,10 +27,10 @@ Incorporate accessibility up-front, and learn how to create accessible content a
 **Reviewed/Updated:** May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: {{site.baseurl}}/create/documents
- [3]: {{site.baseurl}}/create/pdfs
- [4]: {{site.baseurl}}/create/presentations
- [5]: {{site.baseurl}}/create/spreadsheets
+ [2]: {{site.baseurl}}/create/documents/authoring-guides/
+ [3]: {{site.baseurl}}/create/pdfs/authoring-guides/
+ [4]: {{site.baseurl}}/create/presentations/authoring-guides/
+ [5]: {{site.baseurl}}/create/spreadsheets/authoring-guides/
  [6]: {{site.baseurl}}/create/video-social
  [7]: {{site.baseurl}}/create/software-websites
  [8]: {{site.baseurl}}/create
