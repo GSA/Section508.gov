@@ -1,7 +1,7 @@
 ---
 sidenav: true
 layout: video
-permalink: create/presentations/aed-cop-pptx03/
+permalink: training/presentations/aed-cop-pptx03/
 type: training
 title: 'Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text'
 created: 1578419581
