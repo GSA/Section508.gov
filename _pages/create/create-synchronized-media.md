@@ -134,19 +134,19 @@ title: 'Create Accessible Synchronized Media Content'
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;">
 <h3 dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
 <ul>
-<li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
+<li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp" target="_blank">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
 <li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/624">The Description Key</a> - The Described and Captioned Media Program
 <ul>
-<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/619">Preparation</a></li>
-<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/618">What to Describe</a></li>
-<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/617">How to Describe</a></li>
+<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/619" target="_blank">Preparation</a></li>
+<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/618" target="_blank">What to Describe</a></li>
+<li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/617" target="_blank">How to Describe</a></li>
 </ul>
 </li>
 <li dir="ltr"><a class="ext" href="http://acb.org/adp/">The Audio Description Project</a> - American Council of the Blind</li>
-<li dir="ltr"><a href="https://www.nps.gov/subjects/hfc/upload/ADCoreConcepts20MAR2018.pdf">Audio Description Core Concepts</a> (PDF) - Harpers Ferry Center of the National Park Service</li>
-<li dir="ltr"><a class="ext" href="https://www.3playmedia.com/blog/transcription-vs-captioning/">Transcription vs. Captioning &ndash; What&rsquo;s the Difference?</a> - 3PlayMedia</li>
+<li dir="ltr"><a href="https://www.nps.gov/subjects/hfc/upload/ADCoreConcepts20MAR2018.pdf" target="_blank">Audio Description Core Concepts</a> (PDF) - Harpers Ferry Center of the National Park Service</li>
+<li dir="ltr"><a class="ext" href="https://www.3playmedia.com/blog/transcription-vs-captioning/" target="_blank">Transcription vs. Captioning &ndash; What&rsquo;s the Difference?</a> - 3PlayMedia</li>
 <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/">508 Accessible Videos &ndash; How to Make Audio Descriptions</a> - Digital.gov</li>
+<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/" target="_blank">508 Accessible Videos &ndash; How to Make Audio Descriptions</a> - Digital.gov</li>
 </ul>
 </div>
 <br />
@@ -199,9 +199,9 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.doi.gov/video/restoring-our-national-parks"><img class="img-border" style="height: 145px; width: 259px;" src="https://lh4.googleusercontent.com/mTxdAUaXXOIYTvHUwT0cY4HGGWSyGyxn7Muw-rmk0pAiuRuq2AGHbXVC4fv-ex0EQQ6zBaQ9NsGe1IYr8n2LC3ORzisKdTFq2nDTwtpHeQVFEFoONMid5F0RQDZOicXX6wKgW4td" alt="Restoring our National Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img class="img-border" style="height: 145px; width: 259px;" src="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" alt="Restoring our Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
-<p dir="ltr"><strong><a href="https://www.doi.gov/video/restoring-our-national-parks">Restoring our National Parks</a></strong></p>
+<p dir="ltr"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" target="_blank">Restoring our Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>
 <br />
 <p dir="ltr">Duration: 0h 3:07m</p>
@@ -212,7 +212,7 @@ title: 'Create Accessible Synchronized Media Content'
 <h3 dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/DOIOSS/doi_gov_video">media player</a> is available on GitHub</li>
-<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
+<li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" target="_blank">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
 </div>
 <br />
