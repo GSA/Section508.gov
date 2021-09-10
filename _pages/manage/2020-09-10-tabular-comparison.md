@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: manage/laws-and-policies/far-update-comparison
+permalink: manage/laws-and-policies/far-update-comparison/
 type: manage
 title: 'Tabular Comparison of the Previous FAR Text Against the 2021 Update'
 created: September 22, 2020
