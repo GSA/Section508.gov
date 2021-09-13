@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/live-regions/
-type: training
+type: ANDI training
 title: 'Module 18: Live Regions'
 created: 1601870389
 redirect_from:
 - test/web-software/andi-training-videos/live-regions/
 ---
-<h1>Module 18: Live Regions </h1>
+
+[comment]: <> (<h1>Module 18: Live Regions </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

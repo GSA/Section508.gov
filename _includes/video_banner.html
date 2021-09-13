@@ -14,7 +14,9 @@ This banner is located under menu navigation bar, to display the title of each l
 {%- if page.type == 'pdfs training' -%}
 {%- assign header = 'PDF Video Training' -%}
 {%- endif -%}
-
+{%- if page.type == 'ANDI training' -%}
+{%- assign header = 'ANDI Video Training' -%}
+{%- endif -%}
 
 <section class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
   <div class="grid-container">

@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/anditraining-videos/data-tables/
-type: training
+type: ANDI training
 title: 'Module 15: Data Tables'
 created: 1601869602
 redirect_from:
 - test/web-software/andi-training-videos/data-tables/
 ---
-<h1>Module 15: Data tables </h1>
+
+[comment]: <> (<h1>Module 15: Data tables </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
