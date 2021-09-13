@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx04/
-type: training
+type: spreadsheet training
 title: 'Module 4: Making Vital Background Information Accessible'
 created: 1579723865
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx04/
 ---
 
-# Module 4: Making Vital Background Information Accessible
+[comment]: <> (# Module 4: Making Vital Background Information Accessible)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

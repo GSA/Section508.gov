@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx04/
-type: training
+type: presentation training
 title: 'Module 4: Formatting Columns Correctly'
 created: 1578419664
 redirect_from:
  - create/presentations/aed-cop-pptx04/
 ---
 
-# Module 4: Formatting Columns Correctly
+[comment]: <> (# Module 4: Formatting Columns Correctly)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

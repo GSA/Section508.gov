@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx00/
-type: training
+type: presentation training
 title: 'Module 0: Introduction & Background'
 created: 1578418855
 redirect_from:
    - create/presentations/aed-cop-pptx00/
 ---
 
-# Module 0: Introduction & Background
+[comment]: <> (# Module 0: Introduction & Background)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: video
 sidenav: true
 permalink: training/presentations/creating-powerpoint-templates/
-type: training
+type: presentation training
 title: 'Creating PowerPoint Templates'
 created: 1526359269
 redirect_from:

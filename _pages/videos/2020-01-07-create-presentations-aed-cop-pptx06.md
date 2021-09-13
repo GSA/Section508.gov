@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx06/
-type: training
+type: presentation training
 title: 'Module 6: Using Built-In Features to Create Data Tables'
 created: 1578419777
 redirect_from:
  - create/presentations/aed-cop-pptx06/
 ---
 
-# Module 6: Using Built-In Features to Create Data Tables
+[comment]: <> (# Module 6: Using Built-In Features to Create Data Tables)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx08/
-type: training
+type: spreadsheet training
 title: 'Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate'
 created: 1579723988
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx08/
 ---
 
-# Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate
+[comment]: <> (# Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility
