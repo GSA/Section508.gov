@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx02/
-type: training
+type: spreadsheet training
 title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient'
 created: 1579723645
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx02/
 ---
 
-# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient
+[comment]: <> (# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

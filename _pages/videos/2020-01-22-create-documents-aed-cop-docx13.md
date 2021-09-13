@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx13/
-type: training
+type: document training
 title: 'Module 13: Create Accessible Embedded Files'
 created: 1579721355
 redirect_from:
  - create/documents/aed-cop-docx13/
 ---
 
-# Module 13: Create Accessible Embedded Files
+[comment]: <> (# Module 13: Create Accessible Embedded Files)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

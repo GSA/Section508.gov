@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/pdfs/aed-cop-pdf01/
-type: training
+type: pdfs training
 title: 'Module 1: What is a PDF?'
 created: 1579721808
 redirect_from:
 - create/pdfs/aed-cop-pdf01/
 ---
 
-# Module 1: What is a PDF?
+[comment]: <> (# Module 1: What is a PDF?)
 
 <p style="font-size:115%">
   From: How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC

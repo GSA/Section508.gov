@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx13/
-type: training
+type: presentation training
 title: 'Module 13: Saving in the .pptx Format with a Descriptive Filename'
 created: 1578420105
 redirect_from:
  - create/presentations/aed-cop-pptx13/
 ---
 
-# Module 13: Saving in the .pptx Format with a Descriptive Filename
+[comment]: <> (# Module 13: Saving in the .pptx Format with a Descriptive Filename)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

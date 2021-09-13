@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx12/
-type: training
+type: presentation training
 title: 'Module 12: Excluding Flashing Objects'
 created: 1578420068
 redirect_from:
  - create/presentations/aed-cop-pptx12/
 ---
 
-# Module 12: Excluding Flashing Objects
+[comment]: <> (# Module 12: Excluding Flashing Objects)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

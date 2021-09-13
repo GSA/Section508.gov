@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx03/
-type: training
+type: spreadsheet training
 title: 'Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text'
 created: 1579723678
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx03/
 ---
 
-# Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text
+[comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

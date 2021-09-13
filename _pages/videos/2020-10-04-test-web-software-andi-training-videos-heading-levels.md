@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/heading-levels/
-type: training
+type: ANDI training
 title: 'Module 6: Heading Levels'
 created: 1601866444
 redirect_from:
 - test/web-software/andi-training-videos/heading-levels/
 ---
-<h1>Module 6: Heading Levels </h1>
+
+[comment]: <> (<h1>Module 6: Heading Levels </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

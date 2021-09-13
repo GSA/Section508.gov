@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx02/
-type: training
+type: presentation training
 title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient'
 created: 1578419471
 redirect_from:
  - create/presentations/aed-cop-pptx02/
 ---
 
-# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient
+[comment]: <> (# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

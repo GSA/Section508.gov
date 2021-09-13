@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/structure-lists/
-type: training
+type: ANDI training
 title: 'Module 7: Structure Lists'
 created: 1601866613
 redirect_from:
 - test/web-software/andi-training-videos/structure-lists/
 ---
-<h1>Module 7: Structure Lists </h1>
+
+[comment]: <> (<h1>Module 7: Structure Lists </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

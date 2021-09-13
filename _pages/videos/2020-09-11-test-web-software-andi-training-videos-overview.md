@@ -2,14 +2,14 @@
 sidenav: true 
 layout: video 
 permalink: training/web-software/andi-training-videos/overview/ 
-type: training 
+type: ANDI training 
 title: 'Module 1:Overview of ANDI'
 created: 1599834768
 redirect_from:
 - test/web-software/andi-training-videos/overview/
 ---
 
-<h1 class="page-header">Module 1: Overview of ANDI</h1>
+[comment]: <> (<h1 class="page-header">Module 1: Overview of ANDI</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 ----------------------------

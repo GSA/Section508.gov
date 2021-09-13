@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/language-parts/
-type: training
+type: ANDI training
 title: 'Module 9: Language of Parts'
 created: 1601867101
 redirect_from:
 - test/web-software/andi-training-videos/language-parts/
 ---
 
-<h1> Module 9: Language of Parts</h1>
+[comment]: <> (<h1> Module 9: Language of Parts</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

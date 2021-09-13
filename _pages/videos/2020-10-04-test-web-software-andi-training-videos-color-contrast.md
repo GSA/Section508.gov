@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/color-contrast/
-type: training
+type: ANDI training
 title: 'Module 13: Color Contrast'
 created: 1601869147
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast/
 ---
 
-<h1>Module 13: Color Contrast </h1>
+[comment]: <> (<h1>Module 13: Color Contrast </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

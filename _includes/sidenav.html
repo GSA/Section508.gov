@@ -9,6 +9,21 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 {%- if page.type == 'training' -%}
     {%- assign links = site.data.sidenav.training -%}
 {%- endif -%}
+{%- if page.type == 'document training' -%}
+    {%- assign links = site.data.sidenav.training -%}
+{%- endif -%}
+{%- if page.type == 'presentation training' -%}
+    {%- assign links = site.data.sidenav.training -%}
+{%- endif -%}
+{%- if page.type == 'spreadsheet training' -%}
+    {%- assign links = site.data.sidenav.training -%}
+{%- endif -%}
+{%- if page.type == 'pdfs training' -%}
+    {%- assign links = site.data.sidenav.training -%}
+{%- endif -%}
+{%- if page.type == 'ANDI training' -%}
+    {%- assign links = site.data.sidenav.training -%}
+{%- endif -%}
 {%- if page.type == 'develop' -%}
     {%- assign links = site.data.sidenav.develop -%}
 {%- endif -%}

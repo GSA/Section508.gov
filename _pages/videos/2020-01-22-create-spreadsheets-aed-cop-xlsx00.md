@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx00/
-type: training
+type: spreadsheet training
 title: 'Module 0: Introduction & Background'
 created: 1579723598
 redirect_from:
   - create/spreadsheets/aed-cop-xlsx00/
 ---
 
-# Module 0: Introduction & Background
+[comment]: <> (# Module 0: Introduction & Background)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

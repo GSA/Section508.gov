@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx04/
-type: training
+type: document training
 title: 'Module 4: Use Built-in Features to Organize Content'
 created: 1579720884
 redirect_from:
  - create/documents/aed-cop-docx04/
 ---
 
-# Module 4: Use Built-in Features to Organize Content
+[comment]: <> (# Module 4: Use Built-in Features to Organize Content)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

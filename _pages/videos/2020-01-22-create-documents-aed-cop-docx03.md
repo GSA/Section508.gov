@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx03/
-type: training
+type: document training
 title: 'Module 3: Use Built-in Features to Create Lists'
 created: 1579720852
 redirect_from:
  - create/documents/aed-cop-docx03/
 ---
 
-# Module 3: Use Built-in Features to Create Lists
+[comment]: <> (# Module 3: Use Built-in Features to Create Lists)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

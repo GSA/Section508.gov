@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
-type: training
+type: ANDI training
 title: 'Module 14: Color Contrast Analyzer'
 created: 1601869280
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast-analyzer/
 ---
 
-<h1>Module 14: Color Contrast Analyzer</h1>
+[comment]: <> (<h1>Module 14: Color Contrast Analyzer</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
