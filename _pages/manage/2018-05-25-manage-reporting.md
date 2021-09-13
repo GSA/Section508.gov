@@ -47,18 +47,22 @@ created: 1527274672
 <p dir="ltr">
   <strong>How do I prepare the report?</strong>
 </p>
-<ul>
+
+<ol>
 <li dir="ltr">
   Complete the Mandatory 508 Program Maturity Metrics section for each of the five reporting requirements
 </li>
 <li dir="ltr">
   Complete the Website Compliance Metric per your existing testing processes
 </li>
+</ol>
 
-<p dir="ltr">
+
+
+<p dir = "ltr">
   Review the links below for guidance and reporting questions to help you complete your report.
 </p>
-
+<ul>
 <li dir="ltr">
   <a href="https://www.section508.gov/manage/reporting/guidelines-program-maturity">Assessing Program Maturity</a>
 </li>

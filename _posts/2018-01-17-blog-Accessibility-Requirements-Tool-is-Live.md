@@ -30,4 +30,4 @@ Please email us at <section.508@gsa.gov> with comments, questions and feedback a
 
  [1]: {{site.baseurl}}/art/home
  [2]: {{site.baseurl}}/manage/laws-and-policies
- [3]: https://registration.section508.gov/
+ [3]: {{site.baseurl}}/

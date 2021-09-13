@@ -21,18 +21,18 @@ The following examples show how to complete the chart for different ICT items.
   * Software
   * Kiosk (complex)
 
-### **Website Example** 
 
 <table class="usa-table usa-table--borderless">
+<caption id="website-example" style="font-size: 1.2em ; font-weight: bolder"> Website Example</caption>
  <thead>
     <tr>
-      <th>
+      <th scope="col">
         Exceptions, Functional Performance Criteria and Technical Requirements
       </th>
-    <th>
+    <th scope="col">
         What applies?
       </th>
-    <th>
+    <th scope="col">
        What functionality is covered?
       </th>
     </tr>
@@ -143,18 +143,17 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-### **Software Example**
-
 <table class="usa-table usa-table--borderless">
+<caption id="software-example" style="font-size: 1.2em ; font-weight: bolder"> Software Example</caption>
 <thead>
     <tr>
-      <th>
+      <th scope="col">
         Exceptions, Functional Performance Criteria and Technical Requirements
       </th>
-    <th>
+    <th scope="col">
         What applies?
       </th>
-    <th>
+    <th scope="col">
        What functionality is covered?
       </th>
     </tr>
@@ -280,18 +279,19 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-### **Kiosk (Complex) Example**
+
 
 <table class="usa-table usa-table--borderless">
+<caption id="kiosk-complex-example" style="font-size: 1.2em ; font-weight: bolder"> Kiosk (Complex) Example</caption>
   <thead>
     <tr>
-      <th>
+      <th scope="col">
         Exceptions, Functional Performance Criteria and Technical Requirements
       </th>
-    <th>
+    <th scope="col">
         What applies?
       </th>
-    <th>
+    <th scope="col">
        What functionality is covered?
       </th>
     </tr>
@@ -436,5 +436,5 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
 **Reviewed/Updated**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: /content/files/standards-exceptions-chart.docx
- [3]: /buy/request-accessibility-information
+ [2]: https://assets.section508.gov/files/standards-exceptions-chart.docx
+ [3]: {{site.baseurl}}/buy/request-accessibility-information

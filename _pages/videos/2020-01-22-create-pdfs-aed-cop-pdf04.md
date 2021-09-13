@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/pdfs/aed-cop-pdf04/
+permalink: training/pdfs/aed-cop-pdf04/
 type: training
 title: 'Module 4: Converting Scanned Documents into Section 508 Conformant PDFs'
 created: 1579721661
+redirect_from:
+- create/pdfs/aed-cop-pdf04/
 ---
 
 # Module 4: Converting Scanned Documents into Section 508 Conformant PDFs
@@ -37,7 +39,7 @@ Learn about the techniques used by advanced users to identify and correct text f
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/create/pdfs/aed-cop-pdf01
- [3]: {{site.baseurl}}/create/pdfs/aed-cop-pdf02
- [4]: {{site.baseurl}}/create/pdfs/aed-cop-pdf03
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03

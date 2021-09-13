@@ -18,10 +18,11 @@ created: 1527574221
 <p dir="ltr">
   If your agency already has a mature 508 Program, this guide explains how the revisions to the 508 standards impact you.
 </p>
-
+<ul>
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/laws-and-policies/quick-reference-guide">Revised 508 Standards Transition Guide</a>
 </li>
+</ul>
 
 <h2 dir="ltr">
   How to Incorporate the Standards
@@ -38,10 +39,10 @@ created: 1527574221
 </p>
   <ul>
   <li dir="ltr">
-    <a href="{{site.baseurl}}/#build">Build Awareness & Support</a>
+    <a href="#build">Build Awareness & Support</a>
   </li>
   <li dir="ltr">
-    <a href="{{site.baseurl}}/#design">Practice Universal Design</a>
+    <a href="#design">Practice Universal Design</a>
   </li>
   <li dir="ltr">
     <a href="#policies">Update Agency Policies</a>
@@ -57,7 +58,7 @@ created: 1527574221
   </li>
   </ul>
 
-<h2 dir="ltr" id="build">
+<h2>
   Build Awareness & Support
 </h2>
 
@@ -74,8 +75,6 @@ created: 1527574221
 <li dir="ltr">
   Assess the maturity of your agency's 508 program, and take steps to improve accessibility of agency technology.
 </li>
-</ul>
-<ul>
 <li dir="ltr">
   Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:
   <ul>
@@ -106,20 +105,21 @@ created: 1527574221
 <h3 dir="ltr">
   Revised 508 Standards
 </h3>
-<ul>
+  <ul>
+    <li dir="ltr">
+      <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
+   </li>
   <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
+     <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
   </li>
-  <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
-  </li>
-  <li dir="ltr">
-  <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
-  </li>
-</ul>
-
- * [WCAG 2.0 Level A and Level AA Success Criteria][2] - Comparison to Original 508 Standards
- * [Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)][3]
+    <li dir="ltr">
+    <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
+  </li> 
+  <li dir ="ltr">
+  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
+   <li dir ="ltr">
+   <a href = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
+  </ul>
 
 <h3 dir="ltr">
   Webinars
@@ -179,9 +179,10 @@ created: 1527574221
 </li>
 </ul>
 
+
 [Back to top][9]
 
-<h2 dir="ltr">
+<h2 dir="ltr"  id="design">
   Practice Universal Design
 </h2>
 
@@ -229,9 +230,10 @@ created: 1527574221
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
-</ul>
- 
-   * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
+<li dir="ltr">
+  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
+ </li>
+ </ul>
 
 ### Testing Guidelines
 
@@ -242,7 +244,7 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
+  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
 </li>
 </ul>
 
@@ -302,14 +304,15 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
+  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
 </li>
 <li dir="ltr">
-  <a href="/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
+  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
 </li>
+<li dir="ltr">
+  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
+  </li>
 </ul>
-
-   * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
@@ -388,12 +391,8 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-<ul>
- <li dir="ltr">
-  <a href="/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
- </li>
-</ul>
 
+  * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
   * [Define Accessibility Criteria][18] - Learn how to prepare solicitations, statements of work, or other procurement documents _(NEW)_
   * [Request Accessibility Information From Vendors and Contractors][19] - Learn how to communicate accessibility requirements and contract provisions to vendors _(NEW)_; includes guidance on the Voluntary Product Accessibility Template, which is used by vendors to create Accessibility Conformance Reports (ACRs) _(Updated)_
 
@@ -402,7 +401,7 @@ created: 1527574221
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
+  <a href="{{site.baseurl}}/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
 </li>
 </ul>
 
@@ -468,12 +467,8 @@ created: 1527574221
 <h3 dir="ltr">
   Best Practices
 </h3>
-<ul>
-<li dir="ltr">
-  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
-</li>
-</ul>
 
+  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
 
 ### Technology Accessibility Playbook
@@ -554,16 +549,16 @@ created: 1527574221
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: {{site.baseurl}}/508-training/courses/exec-overview
- [5]: {{site.baseurl}}/508-training/courses/508-basics
- [6]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1/
- [7]: {{site.baseurl}}/508-training/courses/playbook
- [8]: {{site.baseurl}}/508-training/courses/procurement
+ [4]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [5]: https://training.section508.gov/508-training/courses/508-basics/index.html
+ [6]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
+ [7]: https://training.section508.gov/508-training/courses/playbook/index.html
+ [8]: https://training.section508.gov/508-training/courses/procurement/index.html
  [9]: #main-content
  [10]: https://standards.usa.gov/
  [11]: https://section508.gov/sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [13]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx
+ [13]: https://assets.section508.gov/files/standards-exceptions-chart.docx
  [14]: {{site.baseurl}}/create/software-websites
  [15]: {{site.baseurl}}/test
  [16]: {{site.baseurl}}/buy/accessibility-requirements-tool

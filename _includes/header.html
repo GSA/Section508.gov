@@ -3,7 +3,13 @@ This appears at the top of the page letting the user know it's an official gover
 {% endcomment %}
 
 <div class="page-landing-page layout-demo ">
+  {% if page.sidenav == true %}
+  <a class="usa-skipnav" href="#main-content">Skip to secondary navigation</a>
+  <a class="usa-skipnav" href="#content-section">Skip to main content</a>
+  {% else %}
   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  {% endif %}
+
   <div class="usa-banner">
     <div class="usa-accordion">
       <header class="usa-banner__header">

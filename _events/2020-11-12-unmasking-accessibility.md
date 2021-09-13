@@ -1,6 +1,6 @@
 ---
 title: Unmasking Accessibility - Moving Beyond a Band-Aid Solution
-layout: wide
+layout: wide_events
 start-date: Thursday, Nov 12 2020 11:00 #only fill in start date if the events spans multiple days
 end-date: Thursday, Nov 12 2020 12:30 #otherwise use end-date
 image:

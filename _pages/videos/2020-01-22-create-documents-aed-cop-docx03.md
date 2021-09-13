@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/documents/aed-cop-docx03/
+permalink: training/documents/aed-cop-docx03/
 type: training
 title: 'Module 3: Use Built-in Features to Create Lists'
 created: 1579720852
+redirect_from:
+ - create/documents/aed-cop-docx03/
 ---
 
 # Module 3: Use Built-in Features to Create Lists

@@ -16,8 +16,8 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 ### Training Videos
 * * *
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
-      <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" /></a>
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh4.googleusercontent.com/WNG2NdVTWE41ezbjw4skWuewWvbvLtaQVt1Cwfq-UfCDbQTV8mHckbvZDI9_ZIlp8UDMZ9x01NNdA28T4rSDnH29jeATfZl8eNxL8WGGI1Cnzhw9PRG3ZOWNL5Xw918glfV9KCWf" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -27,31 +27,13 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Word document is Section 508 conformant.
       </p>
     <p>
-        Duration 59m 21s | 14-part Video Series
+        Duration 59m 21s | 14-Part Video Series
       </p>
     </div>
   </div>
 
 
 * * *
-
-### Microsoft Word 2016
-
-  * [DRAFT Microsoft Word 2016 Basic Authoring and Testing Guide][2] (MS Word, March 2019)
-  * [Microsoft Word 2016 Printable Accessible Testing][3]&nbsp;(MS Word, June 2019)
-
-### Microsoft Word 2013
-
-  * [Baseline Test Process][4] (MS Word, September 2017)
-  * <a aria-label="MS Word, September 2017" href="https://assets.section508.gov/files/MS%20Word%202013%20Basic%20Authoring%20and%20Testing%20Guide.docx">Basic Authoring and Testing Guide</a> (MS Word, September 2017)
-  * [Detailed Checklist][6] (MS Word, September 2017)
-  * [Printable Checklist][7] (MS Word, September 2017)
-
-### Microsoft Word 2010
-
-  * [Basic Authoring and Testing Guide][8] (MS Word, January 2015)
-  * [Basic Authoring and Testing Checklist][9] (MS Word, January 2015)
-  * [Baseline Tests for Accessible Electronic Documents][10] (MS Word, January 2015)
 
 ### Tips
 

@@ -2,7 +2,7 @@
 title: Section 508 Best Practices Webinars
 event-type: recuring-event
 event-frequency: bimonthly (once every two months)
-layout: wide
+layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Thursday, Sep 23 2021 #otherwise use end-date
 overview: 

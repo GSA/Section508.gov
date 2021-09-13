@@ -5,7 +5,7 @@ type: article
 title: 'Section508.gov Gets a Facelift!'
 created: 1527870039
 tags: Policy-and-Management
-description: The newly redesigned <a href="{{site.baseurl}}/">Section508.gov website</a> is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel.
+description: The newly redesigned <a href="https://section508.gov/">Section508.gov website</a> is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel.
 ---
 
 The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.

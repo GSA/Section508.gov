@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: create/universal-design/
+permalink: develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
 created: 1527530633
+redirect_from:
+- create/universal-design/
 ---
 
 <div class="grid-row grid-gap">
@@ -15,9 +17,10 @@ created: 1527530633
   </div>
   
   <div class="desktop:grid-col-4" style="margin-bottom: 15px;">
-    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;" />
+    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;">
   </div>
 </div>
+
 <p>
       Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
     </p>
@@ -42,7 +45,7 @@ Invest in universal design to transform the way your agency serves citizens, reg
 * * *
 
 <div class="grid-row grid-gap">
-  <div class="desktop:grid-col-3" style="margin-bottom: 15px;">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
     <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="https://assets.section508.gov/files/ui-series.png" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
@@ -95,7 +98,7 @@ If you have questions or want to share your experiences using universal design, 
  [3]: {{site.baseurl}}/blog/Building-Accessibility-into-your-Procurement-Process
  [4]: {{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible
  [5]: {{site.baseurl}}/blog/infographic-the-case-for-universal-design
- [6]: https:/sites/default/files/Copy%20of%20Universal_Design_%20White%20Paper_vFinal_0.pdf
+ [6]: https://assets.section508.gov/files/Copy%20of%20Universal_Design_%20White%20Paper_vFinal_0.pdf
  [7]: https://www.youtube.com/watch?v=ryfd3fmZHCY
  [8]: https://g3ict.org/publication/the-benefit-of-designing-for-everyone-a-research-report-on-the-importance-of-inclusive-design
  [9]: {{site.baseurl}}/contact-us

@@ -12,17 +12,15 @@ Determining how the [Revised 508 Standards][1] apply to Federal IT procurement a
 First, review the business requirements of your project or acquisition to identify which major components contain information and communication technology (ICT). ICT items include such things as software, hardware, electronic content, support documentation & services. When conducting a procurement, review the [Revised 508 Standards Applicability Checklist][2] for each ICT item.
 
   * ICT items may be comprised of:
-  * Commercial-off-the shelf (COTS)
-  * Government-off-the shelf (GOTS)
-  * Custom-developed products
-  * Configuration, installation, integration, maintenance, and hosting services for COTS, GOTS, and custom-developed products
-
+    * Commercial-off-the shelf (COTS)
+    * Government-off-the shelf (GOTS)
+    * Custom-developed products
+    * Configuration, installation, integration, maintenance, and hosting services for COTS, GOTS, and custom-developed products
   * Each ICT item will fall under at least one of four categories:
-  * Electronic Content
-  * Software
-  * Hardware
-  * Support Documentation & Services
-
+    * Electronic Content
+    * Software
+    * Hardware
+    * Support Documentation & Services
   * In some cases, an ICT item may fall under more than one category (e.g., products and services that have multiple ICT features and functions combined into one solution).
 
 Use the [Revised 508 Standards Applicability Checklist][2] (MS-Word, April 2018) to document your accessibility requirements for ICT items.
@@ -124,7 +122,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
 
 Use the chart below to figure out which ICT items will need a checklist, for solicitations that include multiple ICT products, services, or components. Note, the [Accessibility Requirements Tool (ART)][11] will generate a list of accessibility requirements for each ICT item, and compile them into one requirements listing, broken out by ICT Item.
 
-<table class="table table-responsive">
+<table role="presentation" class="table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
       <td>
@@ -199,7 +197,10 @@ Use the chart below to figure out which ICT items will need a checklist, for sol
       </td>
     </tr>
   </tbody>
-</table>
+</table> 
+
+
+
 
 ## **What’s Next?**
 

@@ -17,29 +17,30 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
 
 [Reporting][3]
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
-    <tr>
-      <th colspan="2">
+    <tr> 
         <div id="management">
+        <caption>
           <h2>
             Agency Program Management
           </h2>
+          </caption>
         </div>
+    </tr>
+    
+<tr style="background-color:#ccc">
+      <th scope="col">
+        <b>Role</b>
+      </th>
+      
+ <th scope="col">
+        <b>Responsibilities</b>
       </th>
     </tr>
+
     
-    <tr bgcolor="E7E7E7">
-      <td>
-        <b>Role</b>
-      </td>
-      
-      <td>
-        <b>Responsibilities</b>
-      </td>
-    </tr>
-    
-    <tr>
+<tr >
       <td>
         <a href="{{site.baseurl}}/tools/coordinator-listing">Agency Section 508 Program Manager</a>
       </td>
@@ -52,7 +53,9 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
         </ul>
       </td>
     </tr>
-    
+
+
+
     <tr>
       <td>
         Agency Employees (developers, content creators, procurement professionals)
@@ -137,26 +140,26 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
   </tbody>
 </table>
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
-      <th colspan="2">
         <div id="implementation">
+        <caption>
           <h2>
             Government-wide Implementation Guidance
           </h2>
+          </caption>
         </div>
-      </th>
     </tr>
     
-    <tr bgcolor="E7E7E7">
-      <td>
+   <tr bgcolor="E7E7E7">
+      <th scope="col">
         <b>Role</b>
-      </td>
+      </th>
       
-      <td>
+   <th scope="col">
         <b>Responsibilities</b>
-      </td>
+      </th>
     </tr>
     
     <tr>
@@ -170,7 +173,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
             In collaboration with the Access Board, provide Section 508 technical assistance, tools, and workforce development support to Federal agencies.
           </li>
           <li>
-            Lead development and management of tools, such as <a href="https://www.section508.gov">Section508.gov</a> and the <a href="{{site.baseurl}}/buy/accessibility-requirements-tool"> Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities.
+            Lead development and management of tools, such as <a href="{{site.baseurl}}">Section508.gov</a> and the <a href="{{site.baseurl}}/buy/accessibility-requirements-tool"> Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities.
           </li>
         </ul>
       </td>
@@ -226,26 +229,26 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
   </tbody>
 </table>
 
-<table class="roles-table table table-responsive">
+<table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
-      <th colspan="2">
         <div id="reporting">
+        <caption>
           <h2>
             Reporting
           </h2>
+          </caption>
         </div>
-      </th>
     </tr>
     
-    <tr bgcolor="E7E7E7">
-      <td>
+<tr bgcolor="E7E7E7">
+      <th scope="col">
         <b>Role</b>
-      </td>
+      </th>
       
-      <td>
+<th scope="col">
         <b>Responsibilities</b>
-      </td>
+      </th>
     </tr>
     
     <tr>

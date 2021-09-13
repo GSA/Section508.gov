@@ -16,8 +16,8 @@ The resources in this section were developed by the Accessible Electronic Docume
 ### Training Videos
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
-      <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" /></a>
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://lh4.googleusercontent.com/1SdBGRhQeVzPn2SNFBXev-nqGuXdpIUF04Ft9berdm8on5dQDHSVqvbLtvosD5k2HJv2Ts-boN8LJBDZ4TbBuVWBkp1aCEDUWix2oDA0FKFxebsisQq5xHZP76tL55iHFLkf6TGp" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -33,17 +33,6 @@ The resources in this section were developed by the Accessible Electronic Docume
   </div>
 
 * * *
-
-### Microsoft Excel 2016
-
-  * [Microsoft Excel 2016 Basic Authoring and Testing Guide][2] (MS Word, March 2019)
-  * [Microsoft Excel 2016 Printable Accessible Testing Checklist][3] (MS Word, March 2019)
-
-### Microsoft Excel 2010
-
-  * [Microsoft Excel 2010 Basic Authoring Guide][4] (MS Word, December 2015)
-  * [Microsoft Excel 2010 Basic Testing Checklist][5] (MS Word, January 2015)
-  * [Microsoft Excel 2010 Baseline Tests for Accessible Electronic Documents][6] (MS Word, December 2015)
 
 ## Agency-Developed Guidance
 

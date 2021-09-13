@@ -3,20 +3,19 @@ layout: page
 sidenav: true
 permalink: create/universal-design-video-series/
 type: create
-title: 'An Introduction to Universal Design'
+title: "An Introduction to Universal Design"
 created: 1604066026
 ---
 
 This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
 
-* * *
+---
 
-<div class="row video-container clearfix" style="margin-bottom: 2em;">
-  <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=acKd-q2I3f0"><img src="https://assets.section508.gov/files/ui-content.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Content Creators" /></a>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="https://www.youtube.com/watch?v=acKd-q2I3f0"><img src="https://assets.section508.gov/files/ui-content.png"  alt="An Introduction to Universal Design for Content Creators" /></a>
   </div>
-  
-  <div class="col-xs-12 col-md-9">
+  <div class="desktop:grid-col-9">
     <p>
       <a href="https://www.youtube.com/watch?v=acKd-q2I3f0"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
@@ -29,14 +28,14 @@ This four-part video series provides an introduction to Universal Design for con
   </div>
 </div>
 
-* * *
+---
 
-<div class="row video-container clearfix" style="margin-bottom: 2em;">
-  <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=ryfd3fmZHCY"><img src="https://assets.section508.gov/files/ui-developers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Developers" /></a>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="https://www.youtube.com/watch?v=ryfd3fmZHCY"><img src="https://assets.section508.gov/files/ui-developers.png"  alt="An Introduction to Universal Design for Developers" /></a>
   </div>
   
-  <div class="col-xs-12 col-md-9">
+  <div class="desktop:grid-col-9">
     <p>
       <a href="https://www.youtube.com/watch?v=ryfd3fmZHCY"><strong>An Introduction to Universal Design for Developers</strong></a>
     </p>
@@ -49,14 +48,14 @@ This four-part video series provides an introduction to Universal Design for con
   </div>
 </div>
 
-* * *
+---
 
-<div class="row video-container clearfix" style="margin-bottom: 2em;">
-  <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=d1X5XSEErdY"><img src="https://assets.section508.gov/files/ui-managers.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Managers" /></a>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="https://www.youtube.com/watch?v=d1X5XSEErdY"><img src="https://assets.section508.gov/files/ui-managers.png"  alt="An Introduction to Universal Design for Managers" /></a>
   </div>
   
-  <div class="col-xs-12 col-md-9">
+  <div class="desktop:grid-col-9">
     <p>
       <a href="https://www.youtube.com/watch?v=d1X5XSEErdY"><strong>An Introduction to Universal Design for Managers</strong></a>
     </p>
@@ -69,14 +68,15 @@ This four-part video series provides an introduction to Universal Design for con
   </div>
 </div>
 
-* * *
+---
 
-<div class="row video-container clearfix" style="margin-bottom: 2em;">
-  <div class="col-xs-12 col-md-3" style="margin-bottom: 15px;">
-    <a href="https://www.youtube.com/watch?v=MD0XrzqML8Y"><img src="https://assets.section508.gov/files/ui-procurement.png" style="max-width: 230px;" alt="An Introduction to Universal Design for Procurement Professionals" /></a>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="https://www.youtube.com/watch?v=MD0XrzqML8Y">
+<img src="https://assets.section508.gov/files/ui-procurement.png" alt="An Introduction to Universal Design for Procurement Professionals" /></a>
   </div>
   
-  <div class="col-xs-12 col-md-9">
+  <div class="desktop:grid-col-9">
     <p>
       <a href="https://www.youtube.com/watch?v=MD0XrzqML8Y"><strong>An Introduction to Universal Design for Procurement Professionals</strong></a>
     </p>
@@ -98,4 +98,4 @@ This four-part video series provides an introduction to Universal Design for con
   </div>
 </div>
 
-**Reviewed/Updated:** October 2020</p>
+**Reviewed/Updated:** October 2020

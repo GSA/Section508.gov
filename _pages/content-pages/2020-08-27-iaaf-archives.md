@@ -1,8 +1,8 @@
 ---
-layout: wide
-sidenav: false
+layout: page
+sidenav: true
 permalink: iaaf/archives/
-type: page
+type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
 --- 
@@ -18,9 +18,8 @@ The 2020 IAAF was attended by accessibility professionals across 42 U.S. states 
 ### Event Agenda & Speaker and Presenter Biographies  
 The 2020 IAAF had a full, two-day agenda, with featured speakers, keynote addresses, and breakout sessions and discussions led by those on the forefront of accessibility in the federal, private, academic, and nonprofit sectors.
 
-For details, visit: <a href="{{site.baseurl}}/iaaf/agenda-2020">2020 IAAF Agenda</a> and <a href="{{site.baseurl}}/iaaf/biographies-2020">Speaker and Presenter Biographies</a>.
-
-
+For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 IAAF Agenda</a> and
+ <a href="{{site.baseurl}}/iaaf/archives/biographies-2020">Speaker and Presenter Biographies</a>.
 
 <div id="event-agenda">
     <h3>

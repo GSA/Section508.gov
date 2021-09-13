@@ -1,6 +1,6 @@
 ---
 title: Reporting Accessibility with VPAT 2 - A Guide for Vendors
-layout: wide
+layout: wide_events
 start-date: Tuesday, Sep 22 2020 11:00 #only fill in start date if the events spans multiple days
 end-date: Tuesday, Sep 22 2020 12:30 #otherwise use end-date
 overview: 

@@ -154,19 +154,12 @@ For non-Web documents, wherever the term "Web page" or "page" appears in WCAG 2.
 **The following standards are applicable:**
 
   * All WCAG A & AA Success Criteria - except
-    
       * 2.4.1 Bypass Blocks
-    
       * 2.4.5 Multiple Ways
-    
       * 3.2.3 Consistent Navigation
-    
       * 3.2.4 Consistent Identification
-
   * 602 Support Documentation
-
   * 603 Support Services
-
   * 302 Functional Performance Criteria
 
 [602 Support Documentation][3]

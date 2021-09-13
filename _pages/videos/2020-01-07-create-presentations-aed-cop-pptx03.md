@@ -5,6 +5,8 @@ permalink: create/presentations/aed-cop-pptx03/
 type: training
 title: 'Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text'
 created: 1578419581
+redirect_from:
+ - create/presentations/aed-cop-pptx03/
 ---
 
 # Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text
@@ -46,16 +48,16 @@ Discover how to consider color and other visual characteristics, such as size, s
 
 **Updated**: December 2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx04
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx05
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx06
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx07
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx08
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx09
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx10
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx05/
+ [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
+ [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
+ [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/
+ [9]: {{site.baseurl}}/training/presentations/aed-cop-pptx09/
+ [10]: {{site.baseurl}}/training/presentations/aed-cop-pptx10/
+ [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
+ [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/
+ [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx13/

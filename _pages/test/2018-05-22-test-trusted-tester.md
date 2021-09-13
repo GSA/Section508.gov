@@ -15,19 +15,22 @@ The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the 
 
 Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <Accessibility@HQ.DHS.GOV> with questions.
 
-  * [ICT Testing Baseline][1]
-
 ## DHS Trusted Tester Process & Certification Program
 
 The DHS Trusted Tester Process is a manual test approach that aligns with the ICT Testing Baseline, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
 
   * [DHS Trusted Tester Process and Certification Program][3]
+  * [DHS Trusted Tester Training Self-Enrollment Portal][11]
   * [Trusted Tester][4] - Section 508 Conformance Test Process for Web
   * [Trusted Tester V5 Testing Tools][5]
 
 Note that DHS no longer provides training and certification on Trusted Tester v4.0.
 
-  * [DHS Section 508 Compliance Test Processes for TTv4][6]
+   * [DHS Section 508 Compliance Test Processes for TTv4][6]
+   
+## On-Demand Webinars
+
+   * [Trusted Tester Awareness Webinar][10] - Overview of the purpose, benefits, and components of the Trusted Tester certification program
 
 ## Related Resources
 
@@ -36,9 +39,9 @@ Note that DHS no longer provides training and certification on Trusted Tester v4
 
 The resources on this page were created through interagency collaborative efforts sponsored under the  [Accessibility Community of Practice (ACoP)][9], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards.][2]
 
-**Reviewed/Updated:** August 2019
+**Reviewed/Updated:** June 2021
 
- [1]: https://section508coordinators.github.io/ICTTestingBaseline/introduction.html
+ [1]: https://ictbaseline.access-board.gov/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [3]: https://www.dhs.gov/508-testing
  [4]: https://section508coordinators.github.io/TrustedTester/
@@ -47,3 +50,5 @@ The resources on this page were created through interagency collaborative effort
  [7]: {{site.baseurl}}/test
  [8]: {{site.baseurl}}/test/about-testing-tools
  [9]: https://www.cio.gov/about/accessibility-cop/
+ [10]: https://assets.section508.gov/files/Trusted%20Tester%20Awareness%20Webinar_0.pptx
+ [11]: https://training.section508testing.net/

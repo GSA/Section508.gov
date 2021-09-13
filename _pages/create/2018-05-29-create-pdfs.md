@@ -16,12 +16,12 @@ The resources in this section were developed by the Accessible Electronic Docume
 ### Training Videos
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
-      <a href="https://www.section508.gov/create/pdfs/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" /></a>
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/create/pdfs/training-videos/"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://lh3.googleusercontent.com/zLhufg2Qx5fxl5htwdDMFHV2zLVjB7FSI8-Ea1u2pkj6KpBmF-Ohrfb7-PUb4Jj_1oTg-mRKutOCeJb3yxYMBpi89hzoyRyRMe5kF5cNZJzR0DWb9-08JIKx2_sWam8Hh7wi5Yc8" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="https://www.section508.gov/create/pdfs/training-videos">How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC</a>
+        <a href="{{site.baseurl}}/create/pdfs/training-videos/">How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC</a>
       </p>
     <p>
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your PDF is Section 508 conformant.
@@ -34,17 +34,6 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 
 * * *
-
-### Adobe Acrobat DC Portable Document Format (PDF)
-
-  * [PDF Testing and Remediation Guide][2] (MS Word, March 2019)
-  * [PDF Testing Checklist][3] (MS Word, June 2019)
-
-### Adobe Acrobat Pro (Older Versions)
-
-  * [PDF Baseline Test Process][4] (MS Word, September 2017)
-  * [PDF Detailed Checklist][5] (MS Word, September 2017)
-  * [PDF Printable Checklist][6] (MS Word, September 2017)
 
 ### Other Tips
 

@@ -81,20 +81,20 @@ primary_navigation:
   - name: Acquisition
     url: /buy-sell/
   - name: Content Creation
-    url: "/create/"
+    url: /create/
   - name: Design & Develop
-    url: /create/universal-design/
+    url: /develop/
   - name: Testing
     url: /test/
-  - name: Training & Tools
-    url: "/training/"
+  - name: Training, Tools & Events
+    url: /training/
 
 
 secondary_navigation:
   - name: News & Updates
     url: /blog/
   - name: My Agency’s 508 PM
-    url: /master/tools/coordinator-listing/
+    url: /tools/coordinator-listing/
   - name: About Us
     url: /content/about-us/
 
@@ -202,4 +202,3 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
-    

@@ -33,4 +33,4 @@ If you have general questions or feedback related to GSA's commitment to Section
  [1]: https://www.access-board.gov
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
- [4]: /contact-us
+ [4]: {{site.baseurl}}/contact-us

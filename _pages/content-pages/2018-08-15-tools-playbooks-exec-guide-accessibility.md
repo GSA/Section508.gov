@@ -83,9 +83,11 @@ Better accessibility supports many areas of information assurance, including sec
   Strong executive support for IT accessibility, and clear policies that drive action, will increase compliance and expand access to government services for citizens with disabilities.
 </p>
 
+<ul>
 <li dir="ltr">
   <a href="https://section508.gov/508-training/courses/exec-overview">IT Accessibility: An Overview for Government Executives</a>
 </li>
+</ul>
 
 <h3 id="policy">
   Policy
@@ -95,6 +97,7 @@ Better accessibility supports many areas of information assurance, including sec
   Establish a policy that identifies how your agency will manage accessibility compliance, agency-wide.
 </p>
 
+<ul>
 <li dir="ltr">
   Incorporate Section 508 compliance activities into agency-wide policies and procedures, particularly in the areas of acquisition, software development, content management, cloud, human resources and civil rights complaints.
 </li>
@@ -110,11 +113,14 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   Review the <a href="https://www.section508.govhttps://assets.section508.gov/filesstrategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
 </li>
+</ul>
+
 
 <h4 dir="ltr">
   Sample Accessibility Statements and Website Policies
 </h4>
 
+<ul>
 <li dir="ltr">
   <a href="https://www.ssa.gov/accessibility/508_overview.html">Accessibility Help</a> - SSA
 </li>
@@ -127,6 +133,7 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://www.usa.gov/policies#item-211457">Website accessibility</a> - USA.gov
 </li>
+</ul>
 
 <h3 id="governance">
   Governance
@@ -136,13 +143,14 @@ Better accessibility supports many areas of information assurance, including sec
   Ensure systems are in place across your agency to monitor conformance to the Revised 508 Standards. These monitoring systems should follow the entire software development lifecycle, including enterprise architecture reviews, IT program reviews, acquisition, design, development, production release reviews, and change control.
 </p>
 
+<ul>
 <li dir="ltr">
   The IT Accessibility/508 Program Office will be most effective as part of the Agency Chief Information Officer (CIO) Team.
 </li>
 <li dir="ltr">
   The 508 Program Manager should report directly to the Agency CIO, Deputy CIO, or Agency CTO.
 </li>
-
+</ul>
 <h3 id="reportingstructure">
   Staffing
 </h3>
@@ -151,43 +159,50 @@ Better accessibility supports many areas of information assurance, including sec
   Stand up an agency-wide IT Accessibility/508 Program, and resource appropriately.
 </p>
 
+<ul>
 <li dir="ltr">
-  Appoint an IT Accessibility/508 Program Manager (508 PM)<ul>
+  Appoint an IT Accessibility/508 Program Manager (508 PM)</li>
     <li dir="ltr">
       Delegate proper authority for your 508 PM to serve as the principal agency authority on Section 508 compliance matters, and to manage legal compliance risk on behalf of the agency.
     </li>
-  </ul>
-</li>
 
-<li dir="ltr">
-  Adequately staff the accessibility function across your agency. Include staff with skills and expertise in:<ul>
-    <li dir="ltr">
+</ul>
+
+<ul role="list">
+<li role="listitem" dir="ltr">
+  Adequately staff the accessibility function across your agency. Include staff with skills and expertise in:
+  
+  <ul role="list">
+    <li role="listitem" dir="ltr">
       Project management;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       IT governance;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       IT acquisition;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       Accessibility testing and validation;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       Use of assistive technology;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       Compliance analysis;
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       Training; and
     </li>
-    <li dir="ltr">
+    <li role="listitem" dir="ltr">
       Communications.
     </li>
   </ul>
+  
 </li>
+</ul>
 
+<ul>
 <li dir="ltr">
   Encourage program offices to develop internal IT accessibility expertise, particularly when buying or building technology.
 </li>
@@ -197,6 +212,8 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://section508.gov/manage/roles">Roles and Responsibilities</a>
 </li>
+</ul>
+
 
 <h3 id="training">
   Training
@@ -206,6 +223,7 @@ Better accessibility supports many areas of information assurance, including sec
   Support efforts to train staff on their responsibilities under Section 508, to ensure your agency buys and builds accessible content and products.
 </p>
 
+<ul>
 <li dir="ltr">
   Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
 </li>
@@ -215,6 +233,7 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
 </li>
+</ul>
 
 <h3 id="reporting">
   OMB Reporting
@@ -224,12 +243,14 @@ Better accessibility supports many areas of information assurance, including sec
   Oversee submission of required reports on 508 program maturity and compliance to OMB twice per year (every February and August). These bi-annual reports are required for all CFO Act Agencies (as part of regular integrated data collection (IDC) reporting),&nbsp;and recommended for all Federal agencies.
 </p>
 
+<ul>
 <li dir="ltr">
   <a href="https://section508.gov/manage/reporting/guidelines-program-maturity">Guideline for assessing program maturity</a>
 </li>
 <li dir="ltr">
   <a href="https://section508.gov/manage/reporting">Monitor and report progress to OMB</a>
 </li>
+</ul>
 
 <h3 id="collaboration">
   Collaboration
@@ -239,23 +260,28 @@ Better accessibility supports many areas of information assurance, including sec
   Collaborate within and across agencies to accurately baseline your IT Accessibility/508 program and leverage existing best practices and resources.
 </p>
 
-<li dir="ltr">
-  Participate in the <a href="https://www.cio.gov/about/accessibility-cop/">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.<ul>
-    <li dir="ltr">
+<ul role="list">
+<li role="listitem" dir="ltr">
+  Participate in the <a href="https://www.cio.gov/about/accessibility-cop/">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
+  <ul role="list">
+    <li role="listitem"  dir="ltr">
       Assign at least one agency representative to the ACOP (preferably a senior-level government manager).
     </li>
-    <li dir="ltr">
+    <li role="listitem"  dir="ltr">
       Assign representatives to each of the ACOP&rsquo;s subcommittees, and contribute to the development of tools, training and best practices to help agencies improve accessibility.
     </li>
   </ul>
 </li>
+</ul>
 
+<ul>
 <li dir="ltr">
   Use standardized testing methodologies such as the Trusted Tester Process, and participate in the <a href="https://section508.gov/test/trusted-tester">Interagency Trusted Tester Program</a>, to ensure conformance to the Revised 508 Standards.
 </li>
 <li dir="ltr">
   Conduct an accessibility review of all IT-related acquisitions, policies and directives.
 </li>
+</ul>
 
 <h2 id="design">
   Design and Development
@@ -265,6 +291,7 @@ Better accessibility supports many areas of information assurance, including sec
   Following the lead of innovative technology companies, adopt <a href="https://section508.gov/create/universal-design">universal design</a> as a core development principle. Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design.
 </p>
 
+<ul>
 <li dir="ltr">
   Ensure developers and designers understand their responsibilities under Section 508, and know how to incorporate accessibility as a core requirement for all IT projects.
 </li>
@@ -274,6 +301,7 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://section508.gov/create">Create accessible digital products</a> including software, websites and documents.
 </li>
+</ul>
 
 <h2 id="testing">
   Testing
@@ -283,6 +311,7 @@ Better accessibility supports many areas of information assurance, including sec
   Ensure accessibility testing is incorporated into your agency&rsquo;s standard software development lifecycle.
 </p>
 
+<ul>
 <li dir="ltr">
   Support establishment of agency policies and processes to conduct accessibility testing throughout the standard software development lifecycle.
 </li>
@@ -298,6 +327,8 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://section508.gov/test">Test for accessibility</a>
 </li>
+</ul>
+
 
 <h2 id="procurement">
   Procurement
@@ -307,6 +338,7 @@ Better accessibility supports many areas of information assurance, including sec
   Implement policies and practices to ensure accessibility is identified as a core requirement for all IT-related procurements at your agency.
 </p>
 
+<ul>
 <li dir="ltr">
   Collaborate with your agency&rsquo;s Contracting/Procurement Office to ensure all IT-related solicitations identify and address Section 508 conformance requirements and acceptance criteria.
 </li>
@@ -319,6 +351,7 @@ Better accessibility supports many areas of information assurance, including sec
 <li dir="ltr">
   <a href="https://section508.gov/buy">Buy accessible IT products and services</a>
 </li>
+</ul>
 
 <h2 id="legal">
   Legal Considerations
@@ -334,6 +367,7 @@ Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended in 1998, is a
 
 The Information and Communication Technology (ICT) Final Standards and Guidelines (also known as the [Revised 508 Standards][4]) are the technical requirements and criteria used to measure conformance with Section 508. Non-compliance can result in time-consuming and costly lawsuits, delayed implementation of key IT investment priorities, and damage to public mission or image.
 
+<ul>
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">The Revised 508 Standards</a>
 </li>
@@ -343,6 +377,7 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 <li dir="ltr">
   <a href="https://section508.gov/manage/laws-and-policies">IT Accessibility Laws and Policies</a>
 </li>
+</ul>
 
 <h2 id="conclusion">
   Conclusion

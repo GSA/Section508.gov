@@ -6,7 +6,7 @@ type: manage
 title: 'State Policy'
 created: 1527605841
 ---
-<p id="top" name="top"> </p> 
+<p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Electronic and Information technology (EIT) also know as Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. Your state not listed? [Send us][1] your policy or site information and we'll display it here.
 
 
@@ -33,7 +33,8 @@ _[California Office of Statewide Health Planning and Development OSHPD Accessibi
 
 [**Connecticut**][16]  
 _State of Connecticut Universal Web Site Accessibility Policy for State Web Sites_  
-This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues. Additional references can be found on the State of Connecticut Accessibility Web Site at <http://www.access.state.ct.us/policies/accesspolicy40.html>.
+This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues. Additional references can be found on the State of Connecticut Accessibility Web Site at <a href = "http://www.access.state.ct.us/policies/accesspolicy40.html" style="word-wrap: break-word;">
+http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
 
 <p id="I" name="I"></p>
 
@@ -75,9 +76,7 @@ This policy provides a set of established guidelines adopted by the the State of
 
 [**Web Accessibility and Disability Resources in Spanish and Portuguese**][26]
 
-[« Back to Top][27]
-
- [1]: {{site.baseurl}}/content/contact-us
+ [1]: {{site.baseurl}}/contact-us
  [2]: #A "Go to States beginning with A"
  [3]: #C "Go to States beginning with C"
  [4]: #I "Go to States beginning with I"

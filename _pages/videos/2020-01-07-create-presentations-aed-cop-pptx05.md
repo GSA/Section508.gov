@@ -5,6 +5,8 @@ permalink: create/presentations/aed-cop-pptx05/
 type: training
 title: 'Module 5: Formatting Lists Properly'
 created: 1578419714
+redirect_from:
+ - create/presentations/aed-cop-pptx05/
 ---
 
 # Module 5: Formatting Lists Properly
@@ -46,16 +48,16 @@ Discover how to use lists to organize and structure content so that assistive te
 
 **Updated**: December 2019
 
- [1]: {{site.baseurl}}/create/presentations/aed-cop-pptx00
- [2]: {{site.baseurl}}/create/presentations/aed-cop-pptx01
- [3]: {{site.baseurl}}/create/presentations/aed-cop-pptx02
- [4]: {{site.baseurl}}/create/presentations/aed-cop-pptx03
- [5]: {{site.baseurl}}/create/presentations/aed-cop-pptx04
- [6]: {{site.baseurl}}/create/presentations/aed-cop-pptx06
- [7]: {{site.baseurl}}/create/presentations/aed-cop-pptx07
- [8]: {{site.baseurl}}/create/presentations/aed-cop-pptx08
- [9]: {{site.baseurl}}/create/presentations/aed-cop-pptx09
- [10]: {{site.baseurl}}/create/presentations/aed-cop-pptx10
- [11]: {{site.baseurl}}/create/presentations/aed-cop-pptx11
- [12]: {{site.baseurl}}/create/presentations/aed-cop-pptx12
- [13]: {{site.baseurl}}/create/presentations/aed-cop-pptx13
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
+ [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
+ [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/
+ [9]: {{site.baseurl}}/training/presentations/aed-cop-pptx09/
+ [10]: {{site.baseurl}}/training/presentations/aed-cop-pptx10/
+ [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
+ [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/
+ [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx13/

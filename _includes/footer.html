@@ -1,7 +1,4 @@
 <footer class="usa-footer usa-footer--big">
-    <div class="grid-container margin-top-2 margin-bottom-2">
-        <a href="#" class="usa-button usa-button--outline border-0">Return to top</a>
-    </div>
     <div class="usa-footer__primary-section">
         <div class="grid-container">
 
@@ -9,18 +6,17 @@
                 <div class="desktop:grid-col-4">
                     <p class="text-bold">Government-wide Initiatives</p>
                     <ul class="add-list-reset line-height-sans-6">
-                        <li><a href="{{site.baseurl}}/manage/laws-and-policies">IT Accessibility Laws and Policies</a></li>
                         <li> <a href ="https://www.gsa.gov/technology/government-it-initiatives/digital-strategy">Digital Strategy</a></li>
                         <li> <a href ="https://www.plainlanguage.gov/">Plain Language </a></li>
                         <li> <a href ="https://designsystem.digital.gov/"> US Web Design System </a></li>
                         <li> <a href ="https://www.cio.gov/about/members-and-leadership/accessibility-cop/"> CIO Council Accessibility Community of Practice (ACOP)</a></li>
                     </ul>
                 </div>
-                <div class="desktop:grid-col-3">
+                <div class="desktop:grid-col-2">
                     <p class="text-bold">Organization</p>
                     <ul class="add-list-reset line-height-sans-6">
-                        <li> <a href ="{{site.baseurl}}/content/about-us/" aria-label="About us page in Organization"> About Us</a></li>
-                        <li> <a href ="{{site.baseurl}}/contact-us/"> Contact Us</a></li>
+                        <li> <a href ="{{site.baseurl}}/content/about-us/" aria-label="About Us in Organization"> About Us</a></li>
+                        <li> <a aria-label="Contact Us details" href ="{{site.baseurl}}/contact-us/"> Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="desktop:grid-col-3">
@@ -28,12 +24,12 @@
                     <ul class="add-list-reset line-height-sans-6">
                         <li> <a href ="{{site.baseurl}}/art/"> ART</a></li>
                         <li> <a href ="{{site.baseurl}}/buy/solicitation-review-tool"> SRT</a></li>
-                        <li> <a href ="{{site.baseurl}}/tools/coordinator-listing/"> Developer Guide</a></li>
+                        <li> <a href ="{{site.baseurl}}/content/guide-accessible-web-design-development"> Developer Guide</a></li>
                         <li> <a href ="https://digitaldashboard.gov/"> DigitalDashboard.gov</a></li>
                         <li> <a href ="https://analytics.usa.gov/"> Analytics.usa.gov</a></li>
                     </ul>
                 </div>
-                <div class="desktop:grid-col-2">
+                <div class="desktop:grid-col-3">
                     <p class="text-bold">Resources</p>
                     <ul class="add-list-reset line-height-sans-6">
                         <li> <a href ="" >Content Index</a></li>
@@ -49,29 +45,21 @@
     <div class="usa-footer__secondary-section">
         <div class="grid-container">
             <div class="grid-row grid-gap">
-                <div class="usa-footer__logo grid-row mobile-lg:grid-col-12">
-                    <div class="mobile-lg:grid-col-4">
+                <div class="usa-footer__logo grid-row tablet:grid-col-12">
+                    <div class="tablet:grid-col-3 desktop:grid-col-4 margin-y-1">
+                        <a href="https://www.gsa.gov/" aria-label="GSA admin main page">
                         {% asset logos/gsa-logo.png alt="General Service Administration Logo"
-                        class="usa-footer__logo-img margin-right-1" width="42" valign="middle" %}
-                        General Services Administration
+                        class="usa-footer__logo-img margin-right-1" width="42" valign="middle" %}General Services Administration </a>
                     </div>
-                    <div class="mobile-lg:grid-col-4">
+                    <div class="tablet:grid-col-3 margin-y-1">
+                        <a href="https://www.access-board.gov/" aria-label="Us access board">
                         {% asset logos/usaccess.png alt="US Access Board"
-                        class="usa-footer__logo-img " width="70" valign="middle" %}
-                        US Access Board 
+                        class="usa-footer__logo-img margin-right-1" width="42" valign="middle" %}US Access Board </a>
                     </div>
-                    <!-- <div class="mobile-lg:grid-col-3 text-center">
-                        Join the Community
-                    </div> -->
-                    <!-- <div class="mobile-lg:grid-col-1 text-right">
-                        {% asset icons/youtube-brands.png alt="Youtube Playlist"
-                        class="usa-footer__logo-img" width="42" valign="middle" %}
-                    </div> -->
-                    <div class="mobile-lg:grid-col-4">
-                        {% asset icons/youtube-brands.png alt="Youtube Playlist"
-                        class="usa-footer__logo-img margin-right-1" width="42" valign="middle" %}
-                        Join the Community 
-                    </div>
+                    <div class="tablet:grid-col-3 margin-y-1">
+                        <a href="" aria-label="Joining listserv">
+                        Join the Community(Listserv)</a>
+                    </div> 
                 </div>
             </div>
         </div>

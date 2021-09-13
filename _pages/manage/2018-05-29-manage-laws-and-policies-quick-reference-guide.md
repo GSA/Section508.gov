@@ -9,11 +9,18 @@ created: 1527608498
 
 This guide highlights the changes you need to make to your agency&rsquo;s 508 Program, to transition to the [Revised 508 Standards][1]. Federal agencies are required to comply with the revised standards as of January 18, 2018.
 
-  * [Major Changes][2]
-  * [Task 1 - Update Agency Policies][3]
-  * [Task 2 - Define Accessibility Requirements][4]
-  * [Task 3 - Update Solicitation Language][5]
-  * [Task 4 - Develop & Test for Conformance][6]
+<div class="grid-row">
+  <div class="grid-col-auto jump-links">
+    <strong>Jump to a Topic:</strong>
+    <ul style="list-style-type:none; padding-left: 10px">
+      <li><a href="#changes">Major Changes</a></li>
+      <li><a href="#policies">Task 1 - Update Agency Policies</a></li>
+      <li><a href="#requirements">Task 2 - Define Accessibility Requirements</a></li>
+      <li><a href="#language">Task 3 - Update Solicitation Language</a></li>
+      <li><a href="#develop">Task 4 - Develop & Test for Conformance</a></li>
+    </ul>
+  </div>
+</div>
 
 <h2 id="changes">
   Major Changes
@@ -148,7 +155,6 @@ Incorporate the standards into agency life-cycle development activities for elec
 
 Questions? Email us at <section.508@gsa.gov>.
 
-&nbsp;
 
 **Page Reviewed/Updated**: January 2018
 
@@ -165,8 +171,8 @@ Questions? Email us at <section.508@gsa.gov>.
  [9]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
- [12]: https://app.buyaccessible.gov/home
- [13]: {{site.baseurl}}/content/files/508-standards-applicability-checklist.docx
+ [12]: {{site.baseurl}}/art
+ [13]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907
@@ -174,12 +180,12 @@ Questions? Email us at <section.508@gsa.gov>.
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
- [21]: {{site.baseurl}}/508-training/courses/exec-overview
- [22]: {{site.baseurl}}/508-training/courses/508-basics
- [23]: {{site.baseurl}}/508-training/courses/micro-purchase/lesson1
- [24]: {{site.baseurl}}/508-training/courses/playbook
- [25]: {{site.baseurl}}/508-training/courses/procurement
+ [21]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [22]: https://training.section508.gov/508-training/courses/508-basics/index.html
+ [23]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
+ [24]: https://training.section508.gov/508-training/courses/playbook/index.html
+ [25]: https://training.section508.gov/508-training/courses/procurement/index.html
  [26]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx 
  [27]: {{site.baseurl}}/create/software-websites
  [28]: {{site.baseurl}}/test/documents
- [29]: {{site.baseurl}}/508-training/courses/508-basics/
+ [29]: https://training.section508.gov/508-training/courses/508-basics/index.html

@@ -1,6 +1,6 @@
 ---
 title: Federal Exchange on Employment and Disability (FEED) meeting
-layout: wide
+layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Thursday, Sep 10 2020 14:30 #otherwise use end-date
 image:

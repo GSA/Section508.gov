@@ -1,10 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: create/spreadsheets/aed-cop-xlsx09/
+permalink: training/spreadsheets/aed-cop-xlsx09/
 type: training
 title: 'Module 9: Excluding Flashing Objects'
 created: 1579724090
+redirect_from:
+- create/spreadsheets/aed-cop-xlsx09/
 ---
 
 # Module 9: Excluding Flashing Objects
@@ -43,13 +45,13 @@ Flashing objects cannot be considered accessible because they can cause seizures
 
 **Updated**: January 2020
 
- [1]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx00
- [2]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx01
- [3]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02
- [4]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx03
- [5]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx04
- [6]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx05
- [7]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx06
- [8]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx07
- [9]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx08
- [10]: {{site.baseurl}}/create/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00
+ [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01
+ [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02
+ [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03
+ [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04
+ [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05
+ [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06
+ [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07
+ [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08
+ [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10

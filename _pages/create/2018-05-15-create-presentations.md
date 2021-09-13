@@ -9,18 +9,11 @@ created: 1526359269
 
 How to create accessible Microsoft PowerPoint presentations.
 
-## Microsoft PowerPoint 2016
-
-Guidance developed by the Accessible Electronic Documents Community of Practice (AED COP).
-
-  * [Microsoft PowerPoint 2016 Authoring and Testing Guide][1] (MS Word, March 2019)
-  * [Microsoft PowerPoint 2016 Testing Checklist][2] (MS Word, March 2019)
-
 ### Training Videos
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3">
-      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" /></a>
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -30,21 +23,30 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
         The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
       </p>
     <p>
-        Duration 43m 54s | 14-part Video Tutorial
+        Duration 43m 54s | 14-Part Video Tutorial
+      </p>
+    </div>
+  </div>
+
+
+<div class="grid-row grid-gap">
+    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/files/thumb-create-accessible-ppt-template.png" style="width:100%" class="radius-lg" /></a>
+    </div>
+    <div class="desktop:grid-col-9">
+      <p class="video-title">
+        <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a>
+      </p>
+    <p>
+      Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
+      </p>
+    <p>
+        Duration: 8m 18s | 1-Part Video Tutorial
       </p>
     </div>
   </div>
 
 * * *
-
-## Older versions of Microsoft PowerPoint
-
-The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards.][3]
-
-  * [PowerPoint 2013 Accessibility Checklist][4] - Developed by SSA
-  * [How to Make Your PowerPoint 2010 Presentations 508-Compliant][5] (PDF, December 2014) - Developed by HHS/CMS
-  * [Section 508 Quick Reference Guide – MS PowerPoint 2010][6] (PDF, November 2013) - Developed by HHS/CMS
-  * [PowerPoint Document 508 Checklist][7] (March 2013) - Developed by HHS
 
 ## Related Resources
 
@@ -64,7 +66,7 @@ The resources in this section were developed by Federal agencies, and shared her
   </div>
 </div>
 
-**Reviewed/Updated**: February&nbsp;2021
+**Reviewed/Updated**: June&nbsp;2021
 
  [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
  [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
