@@ -263,7 +263,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions"><img typeof="foaf:Image" class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-m18.png?itok=ttVOjSQy" width="220" height="124" alt="Module 18: Live Regions" title="Module 18: Live Regions"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions"><img typeof="foaf:Image" class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-m18.png?itok=ttVOjSQy" width="220" height="124" alt="Module 18: Live Regions" title="Module 18: Live Regions"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></p>
                <p></p>
