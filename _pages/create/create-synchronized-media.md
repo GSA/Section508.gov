@@ -22,7 +22,7 @@ title: 'Create Accessible Synchronized Media Content'
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
         <a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media">
-            <img alt="Creating Accessible Media" src="https://assets.section508.gov/files/thumb-create-accessible-media.png" style="width:100%" class="radius-lg">
+            <img alt="Creating Accessible Media" src="https://assets.section508.gov/files/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
         </a>
     </div>
 <div class="desktop:grid-col-9">
