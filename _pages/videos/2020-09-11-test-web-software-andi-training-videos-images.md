@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/images/
-type: training
+type: ANDI training
 title: 'Module 4: Images'
 created: 1599836168
 redirect_from:
 - test/web-software/andi-training-videos/images/
 ---
 
-<h1> Module 4: Images </h1>
+[comment]: <> (<h1> Module 4: Images </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

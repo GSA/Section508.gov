@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx01/
-type: training
+type: presentation training
 title: 'Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order'
 created: 1578419219
 redirect_from:
  - create/presentations/aed-cop-pptx01/
 ---
 
-# Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order
+[comment]: <> (# Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

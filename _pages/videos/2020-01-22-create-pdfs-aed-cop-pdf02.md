@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/pdfs/aed-cop-pdf02/
-type: training
+type: pdfs training
 title: 'Module 2: Testing a PDF for Accessibility'
 created: 1579721831
 redirect_from:
 - create/pdfs/aed-cop-pdf02/
 ---
 
-# Module 2: Testing a PDF for Accessibility
+[comment]: <> (# Module 2: Testing a PDF for Accessibility)
 
 <p style="font-size:115%">
   From: How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC

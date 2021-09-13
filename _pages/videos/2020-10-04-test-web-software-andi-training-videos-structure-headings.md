@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/structure-headings/
-type: training
+type: ANDI training
 title: 'Module 5: Structure Headings'
 created: 1601856900
 redirect_from:
 - test/web-software/andi-training-videos/structure-headings/
 ---
 
-<h1>Module 5: Structure Headings </h1>
+[comment]: <> (<h1>Module 5: Structure Headings </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

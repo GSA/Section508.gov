@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx12/
-type: training
+type: document training
 title: 'Module 12: Create the Required Color Contrast'
 created: 1579721353
 redirect_from:
  - create/documents/aed-cop-docx12/
 ---
 
-# Module 12: Create the Required Color Contrast
+[comment]: <> (# Module 12: Create the Required Color Contrast)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

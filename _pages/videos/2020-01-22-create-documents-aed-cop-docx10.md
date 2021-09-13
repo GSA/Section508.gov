@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx10/
-type: training
+type: document training
 title: 'Module 10: Create Accessible Textboxes'
 created: 1579721141
 redirect_from:
  - create/documents/aed-cop-docx10/
 ---
 
-# Module 10: Create Accessible Textboxes
+[comment]: <> (# Module 10: Create Accessible Textboxes)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

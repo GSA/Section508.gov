@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx02/
-type: training
+type: document training
 title: 'Module 2: Use Styles to Create Headings'
 created: 1579720804
 redirect_from:
 - create/documents/aed-cop-docx02/
 ---
 
-# Module 2: Use Styles to Create Headings
+[comment]: <> (# Module 2: Use Styles to Create Headings)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

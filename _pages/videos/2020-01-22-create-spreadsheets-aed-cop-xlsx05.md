@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx05/
-type: training
+type: spreadsheet training
 title: 'Module 5: Using Built-In Features to Create Data Tables'
 created: 1579723887
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx05/
 ---
 
-# Module 5: Using Built-In Features to Create Data Tables
+[comment]: <> (# Module 5: Using Built-In Features to Create Data Tables)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

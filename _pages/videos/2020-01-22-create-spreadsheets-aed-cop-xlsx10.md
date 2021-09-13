@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx10/
-type: training
+type: spreadsheet training
 title: 'Module 10: Saving in the .pptx Format with a Descriptive Filename'
 created: 1579724106
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx10/
 ---
 
-# Module 10: Saving in the .xlsx Format with a Descriptive Filename
+[comment]: <> (# Module 10: Saving in the .xlsx Format with a Descriptive Filename)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

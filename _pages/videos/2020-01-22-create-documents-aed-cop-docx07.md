@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx07/
-type: training
+type: document training
 title: 'Module 7: Create Unambiguous Names for Links'
 created: 1579721135
 redirect_from:
  - create/documents/aed-cop-docx07/
 ---
 
-# Module 7: Create Unambiguous Names for Links
+[comment]: <> (# Module 7: Create Unambiguous Names for Links)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

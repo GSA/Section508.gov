@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/iframes/
-type: training
+type: ANDI training
 title: 'Module 12: iFrames'
 created: 1601868640
 redirect_from:
 - test/web-software/andi-training-videos/iframes/
 ---
 
-<h1>Module 12: iFrames </h1>
+[comment]: <> (<h1>Module 12: iFrames </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

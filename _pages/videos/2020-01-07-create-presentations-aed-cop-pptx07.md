@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx07/
-type: training
+type: presentation training
 title: 'Module 7: Adding Alternative Text to Images and Other Objects'
 created: 1578419831
 redirect_from:
  - create/presentations/aed-cop-pptx07/
 ---
 
-# Module 7: Adding Alternative Text to Images and Other Objects
+[comment]: <> (# Module 7: Adding Alternative Text to Images and Other Objects)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

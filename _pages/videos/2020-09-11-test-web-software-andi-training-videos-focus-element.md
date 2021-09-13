@@ -2,14 +2,14 @@
  sidenav: true
  layout: video
  permalink: training/web-software/andi-training-videos/focus-element/
- type: training
+ type: ANDI training
  title: 'Module 2: Focus Element'
  created: 1599835452 
  redirect_from:
  - test/web-software/andi-training-videos/focus-element/
 ---
 
-<h1>Module 2: Focus Element</h1>
+[comment]: <> (<h1>Module 2: Focus Element</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

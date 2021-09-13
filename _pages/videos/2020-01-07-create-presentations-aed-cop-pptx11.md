@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx11/
-type: training
+type: presentation training
 title: 'Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate'
 created: 1578420022
 redirect_from:
  - create/presentations/aed-cop-pptx11/
 ---
 
-# Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate
+[comment]: <> (# Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility
