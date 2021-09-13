@@ -18,7 +18,7 @@ created: 1527274672
 </p>
 
 <p dir="ltr">
-  <strong>Who needs to submit a report?</strong><br /> Reports are required from all CFO Act Agencies, and recommended for all federal agencies.
+  <strong>Who needs to submit a report?</strong><br /> Reports are required from all <a href="{{site.baseurl}}/content/glossary#agency">CFO Act Agencies</a>, and recommended for all federal agencies.
 </p>
 
 <p dir="ltr">
