@@ -1,5 +1,5 @@
 ---
-title: Section 508 Program Maturity Report
+title: Biannual Section 508 Program Maturity Report
 event-type: recuring-event
 event-frequency: semiannual (twice annually)
 layout: wide_events
