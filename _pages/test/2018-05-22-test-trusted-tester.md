@@ -49,6 +49,6 @@ The resources on this page were created through interagency collaborative effort
  [6]: https://www.dhs.gov/compliance-test-processes
  [7]: {{site.baseurl}}/test
  [8]: {{site.baseurl}}/test/about-testing-tools
- [9]: https://www.cio.gov/about/accessibility-cop/
+ [9]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [10]: https://assets.section508.gov/files/Trusted%20Tester%20Awareness%20Webinar_0.pptx
  [11]: https://training.section508testing.net/

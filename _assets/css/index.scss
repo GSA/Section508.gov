@@ -20,10 +20,6 @@ $theme-show-notifications: false;
   //  background-position: 50%;
   //  background-size: cover;
 }
-.misson__callout{
-  background: rgba(17, 47, 78, 0.93) 0% 0% no-repeat padding-box;
-  box-shadow: 0px 0px 80px #00000012;
-}
 /*
   Add your SASS/CSS here
 */
@@ -127,7 +123,7 @@ a{
   display: hidden;
 }
 .usa-hero__callout {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
 }
 .usa-card__container {
   border-top: 0.25rem solid #162E51 ;
@@ -149,6 +145,16 @@ a{
 .mission h3{
   font-size:26px;
 }
+.mission__callout {
+  background-color: #112f4e;
+  a {
+    color: #6CA3EF;
+  }
+  a.usa-button {
+    color: white;
+  }
+}
+
 .secondary-background-color{
   background-color: #00a871 ;
 }
@@ -200,32 +206,32 @@ a{
 .buy-content{
   background-image: asset_url("rupixen.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .design-content{
   background-image: asset_url("design.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .test-content{
   background-image: asset_url("test.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .training-content{
   background-image: asset_url("training.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .news-content{
   background-image: asset_url("markus.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .tools-content{
   background-image: asset_url("jo-szczepanska.png");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
 }
 .topics {
   li {
@@ -245,6 +251,10 @@ a{
     border-left: 6px solid #DBF6ED;
     list-style: none;
     padding: 0;
+  }
+
+  .grid-row {
+    flex-wrap: wrap;
   }
 }
 ul.menu{
@@ -289,6 +299,15 @@ ul.menu{
     }
   }
 }
+
+.usa-menu-btn {
+  height: 4rem;
+}
+
+.usa-navbar {
+  height: 4rem;
+}
+
 .usa-sidenav__item {
   clear: both;
   span {
@@ -347,6 +366,12 @@ a {
 .agenda-description a{
   color: #1C62C4;
 }
+div[role=rowheader] {
+  background-color: #1c5295;
+  font-weight: bold;
+  padding-left: .2em;
+  color: white;
+}
 @media screen and (min-width: 640px) {
   .tablet\:width-1\/3 {
     width: 33%;
@@ -403,10 +428,20 @@ a {
       margin: 10px 0 0 10px;
     }
   }
+  .usa-header--extended .usa-logo {
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
 }
 @media (min-width: 40em) {
   .usa-hero__callout {
     max-width: 24rem;
+  }
+
+  .topics {
+    .grid-row {
+      flex-wrap: nowrap;
+    }
   }
 
   .usa-sidenav__sublist .usa-current::after {
@@ -423,9 +458,9 @@ a {
 }
 @media (min-width: 64em) {
   .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
-    background-color: #00A91C;
+    background-color: #098850;
   }
   .usa-nav__primary > .usa-nav__primary-item > a:hover {
-    color: #00A91C;
+    color: #098850;
   }
 }

@@ -21,13 +21,13 @@ created: 1582828796
       <strong><span id="access-board">Access Board</span>:</strong> see <a href="#us-access-board">U.S. Access Board</a>
     </li>
     <li>
-      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="https://www.section508.gov/sell/vpat">Voluntary Product Accessibility Template (VPAT™)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
+      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT™)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
     </li>
     <li>
       <strong><span id="art">Accessibility Requirements Tool (ART)</span>:</strong> A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.
     </li>
     <li>
-      <strong><span id="agency">Agency</span>:</strong> Any Federal department or agency, including the United States Postal Service {Section 508, Subpart A, 1194.4 Definitions}.
+      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in 44 U.S.C. 3502, and the United States Postal Service. {Section 508, E103.4}
     </li>
     <li>
       <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content which is not public facing, constitutes official business, and is communicated by an agency through one or more of the criteria set forth in E205.3.
@@ -92,7 +92,7 @@ created: 1582828796
       <strong><span id="caret">Caret</span>:</strong> An on-screen indication of the text input focus in a text edit field.
     </li>
     <li>
-      <strong><span id= "css">Cascading Style Sheets (CSS)</span>:</strong>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="https://www.section508.gov/content/glossary#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="https://www.section508.gov/content/glossary#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="https://www.section508.gov/content/glossary#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;
+      <strong><span id= "css">Cascading Style Sheets (CSS)</span>:</strong>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;
     </li>
     <li>
       <strong><span id="client-side-image-map">Client-side image map</span>:</strong> Each "active region" in a picture can be assigned its own "link" (called a URL or "Uniform Resource Locator") that specifies what&nbsp; to retrieve when a portion of the picture is selected. HyperText Markup Language (HTML) allows each active region to have its own alternative text, just like a picture can have alternative text.
@@ -148,7 +148,7 @@ created: 1582828796
       <strong><span id="existing-ict">Existing ICT</span>:</strong> ICT that was procured, maintained or used on or before January 18, 2018.
     </li>
     <li>
-      <strong<span id="eit">Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
+      <strong><span id="eit"> Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
     </li>
   </ul>
   
@@ -161,7 +161,7 @@ created: 1582828796
       <strong><span id="far">Federal Acquisition Regulation (FAR)</span>:</strong> Principal set of rules in the Federal Acquisition Regulations System regarding&nbsp; United States government procurement.
     </li>
     <li>
-      <strong><span id="fedrelay">FedRelay</span>:</strong>&nbsp;<a href="https://www.federalrelay.us">FedRelay</a> provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities.
+      <strong><span id="fedrelay">FedRelay</span>:</strong>&nbsp;<a href="https://www.federalrelay.us" target="_blank">FedRelay</a> provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities.
     </li>
     <li>
       <strong><span id="focus">Focus</span>:</strong> In a graphical user interface, a window (e.g., a button) or a location within a window (e.g., position of a text cursor or mouse pointer), to which the operating system will direct user input. Users can set the focus by using the keyboard, the mouse, or other input devices.
@@ -180,7 +180,7 @@ created: 1582828796
   
   <ul>
     <li>
-      <strong><span id="general-exceptions">General exceptions</span>:</strong> <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.
+      <strong><span id="general-exceptions">General exceptions</span>:</strong> <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.
     </li>
   </ul>
   
@@ -215,7 +215,7 @@ created: 1582828796
   
   <ul>
     <li>
-      <strong><span id="ict-testing-baseline">ICT Testing Baseline</span>:</strong> The <a href="https://section508coordinators.github.io/ICTTestingBaseline/">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.
+      <strong><span id="ict-testing-baseline">ICT Testing Baseline</span>:</strong> The <a href="https://section508coordinators.github.io/ICTTestingBaseline/" target="_blank">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.
     </li>
     <li>
       <strong><span id="iframe">iFrame (Inline Frame)</span>:</strong> An HTML structure that allows another HTML document to be inserted into an HTML page. Unlike the regular HTML frames function, which is used to divide the screen into multiple windows, the iFrame is typically used to insert an ad or small amount of text in the middle of a page (see also <a href="#frames">Frames</a>).
@@ -230,7 +230,7 @@ created: 1582828796
       <strong><span id="ict">Information and Communication Technology (ICT)</span>:</strong> Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents {Section 508, E103.4 Defined Terms}.
     </li>
     <li>
-      <strong><span id="it">Information Technology (IT)</span>:</strong> Has the same meaning as the term “information technology” set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm">40 U.S.C. 11101(6)</a>.
+      <strong><span id="it">Information Technology (IT)</span>:</strong> Has the same meaning as the term “information technology” set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank">40 U.S.C. 11101(6)</a>.
     </li>
     <li>
       <strong><span id="interactive-element">Interactive element</span>:</strong> Application content that a user may modify, activate, or use to input data.
@@ -272,10 +272,10 @@ created: 1582828796
       <strong><span id="label">Label</span>:</strong> Text, or a component with a text alternative, that is presented to a user to identify content. A label is presented to all users, whereas a name may be hidden and only exposed by assistive technology. In many cases, the name and the label are the same.
     </li>
     <li>
-      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="https://section508.gov/content/glossary#assistive-technology">assistive technology.</a> (See also <a href="https://section508.gov/content/glossary#data-table">Data table</a>)
+      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/content/glossary#assistive-technology">assistive technology.</a> (See also <a href="{{site.baseurl}}/content/glossary#data-table">Data table</a>)
     </li>
     <li>
-      <strong><span id="listserv">Listserv</span>:</strong> An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/">manage your listserv subscription</a>.
+      <strong><span id="listserv">Listserv</span>:</strong> An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank">manage your listserv subscription</a>.
     </li>
   </ul>
   
@@ -387,7 +387,7 @@ created: 1582828796
       <strong><span id="script">Script</span>:</strong> A series of commands programmed in a non-HTML scripting language that displays content or performs a function. The content and function activated by scripts must be identified and accessible to assistive technology.
     </li>
     <li>
-      <strong><span id="scope-attribute">Scope attribute</span>:</strong> A method of identifying row and column headers for HTML tables. Consider using the <a href="https://www.section508.gov/content/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.
+      <strong><span id="scope-attribute">Scope attribute</span>:</strong> A method of identifying row and column headers for HTML tables. Consider using the <a href="{{site.baseurl}}/content/guide-accessible-web-design-development#tables">scope attribute for data tables</a> with one- or two-levels of headers.
     </li>
     <li>
       <strong><span id="seo">Search Engine Optimization (SEO)</span>:</strong> The practice of writing and structuring content to improve findability through organic search engine results.
@@ -463,7 +463,7 @@ created: 1582828796
       <strong><span id="transcript">Transcript</span>:</strong> The conversion of the spoken language of an audio file into a text format.
     </li>
     <li>
-      <strong><span id="trusted-tester">Trusted Tester</span>:</strong> The <a href="https://www.section508.gov/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
+      <strong><span id="trusted-tester">Trusted Tester</span>:</strong> The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html" target="_blank">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.
     </li>
     <li>
       <strong><span id="tty">TTY</span>:</strong> Equipment that enables interactive text based communications through the transmission of frequency-shift-keying audio tones across the public switched telephone network, such as a computer with TTY emulating software and modem. TTYs include devices for real-time text communications and voice, and text intermixed communications, such as voice or hearing carry-over.
@@ -476,7 +476,7 @@ created: 1582828796
   
   <ul>
     <li>
-      <strong><span id="us-access-board">U.S. Access Board</span>:</strong> The <a href="https://www.access-board.gov/">U.S. Access Board</a> is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology (<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule">Section 508</a>).
+      <strong><span id="us-access-board">U.S. Access Board</span>:</strong> The <a href="https://www.access-board.gov/" target="_blank">U.S. Access Board</a> is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology (<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule" target="_blank">Section 508</a>).
     </li>
     <li>
       <strong><span id="undue-burden">Undue burden</span>:</strong> An action that requires significant difficulty or expense. In determining whether an action would result in an undue burden, an agency shall consider all agency resources available to the program or component for which the product is being developed, procured, maintained, or used.
@@ -491,7 +491,7 @@ created: 1582828796
       <strong><span id="url">Uniform Resource Locator (URL)</span>:</strong> What a user types into a browser to find the location of a resource on the web.
     </li>
     <li>
-      <strong><span id="universal-design">Universal design</span>:</strong> The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="https://www.section508.gov/create/universal-design">Universal design</a> is also referred to as inclusive design.
+      <strong><span id="universal-design">Universal design</span>:</strong> The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/create/universal-design">Universal design</a> is also referred to as inclusive design.
     </li>
   </ul>
   
@@ -520,7 +520,7 @@ created: 1582828796
   
   <ul>
     <li>
-      <strong><span id="wcag">Web Content Accessibility Guidelines (WCAG)</span>:</strong>&nbsp;<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Guidelines</a> established by the <a href="https://www.w3.org/">World Wide Web Consortium</a> (W3C) under their <a href="https://www.w3.org/WAI/about/">Web Accessibility Initiative</a> (WAI). The revised Section 508 standards harmonize with <a href="https://www.w3.org/TR/WCAG20/">WCAG version 2.0 A & AA</a>.&nbsp;
+      <strong><span id="wcag">Web Content Accessibility Guidelines (WCAG)</span>:</strong>&nbsp;<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Guidelines</a> established by the <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a> (W3C) under their <a href="https://www.w3.org/WAI/about/" target="_blank">Web Accessibility Initiative</a> (WAI). The revised Section 508 standards harmonize with <a href="https://www.w3.org/TR/WCAG20/" target="_blank">WCAG version 2.0 A & AA</a>.&nbsp;
     </li>
     <li>
       <strong><span id="webpage">Webpage</span>:</strong> A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.

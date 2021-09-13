@@ -18,4 +18,4 @@ Accessibility tools shouldn't be like the duct tape the plumber slaps on your pi
 **This class or event is (select all that apply):** Webinar  
 **Is this available to all Federal employees?:** Yes  
 **Is this available to the public?:** Yes  
-**Registration Link:** <a href="https://www.accessibilityassociation.org/content.asp?admin=Y&amp;contentid=631" aria-label="Event Registration Link (opens in a new window)">Register</a>
+**Registration Link:** <a href="https://www.accessibilityassociation.org/content.asp?admin=Y&amp;contentid=631" aria-label="Event Registration Link (opens in a new window)" target="_blank">Register</a>

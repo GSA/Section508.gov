@@ -122,16 +122,16 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul>
 <li dir="ltr">
-  <a href="https://www.ssa.gov/accessibility/508_overview.html">Accessibility Help</a> - SSA
+  <a href="https://www.ssa.gov/accessibility/508_overview.html" target="_blank">Accessibility Help</a> - SSA
 </li>
 <li dir="ltr">
-  <a href="https://www.dhs.gov/accessibility">Accessibility</a> - DHS
+  <a href="https://www.dhs.gov/accessibility" target="_blank">Accessibility</a> - DHS
 </li>
 <li dir="ltr">
-  <a href="https://www.va.gov/web/standards/accessibility.cfm">Web Governance - Accessibility</a> - VA
+  <a href="https://www.va.gov/web/standards/accessibility.cfm" target="_blank">Web Governance - Accessibility</a> - VA
 </li>
 <li dir="ltr">
-  <a href="https://www.usa.gov/policies#item-211457">Website accessibility</a> - USA.gov
+  <a href="https://www.usa.gov/policies#item-211457" target="_blank">Website accessibility</a> - USA.gov
 </li>
 </ul>
 
@@ -262,7 +262,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul role="list">
 <li role="listitem" dir="ltr">
-  Participate in the <a href="https://www.cio.gov/about/accessibility-cop/">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
+  Participate in the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
   <ul role="list">
     <li role="listitem"  dir="ltr">
       Assign at least one agency representative to the ACOP (preferably a senior-level government manager).
@@ -369,10 +369,10 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 
 <ul>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">The Revised 508 Standards</a>
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank">The Revised 508 Standards</a>
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview of the Rule</a>
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" target="_blank">Overview of the Rule</a>
 </li>
 <li dir="ltr">
   <a href="https://section508.gov/manage/laws-and-policies">IT Accessibility Laws and Policies</a>

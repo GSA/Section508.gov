@@ -55,4 +55,4 @@ To learn more about how we manage this website, view [accessibility, linking, an
 &nbsp;
 
  [1]: https://www.usa.gov/optout-instructions
- [2]: /website-policies
+ [2]: {{site.baseurl}}/website-policies

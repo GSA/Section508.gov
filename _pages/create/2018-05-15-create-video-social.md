@@ -41,23 +41,6 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
   </ul>
   
   <h3>
-    Agency-Developed Guidance
-  </h3>
-  
-  <p>
-    The resources in this section were developed by Federal agencies, and shared here for your convenience.
-  </p>
-  
-  <ul>
-    <li>
-      <a href="http://www.hhs.gov/web/508/accessiblefiles/accessible-audio-description.html">Provisional Guidance for Audio Description (AD)</a>&nbsp;- Developed by HHS
-    </li>
-    <li>
-      <a href="http://www.hhs.gov/web/508/accessiblefiles/checklistmulti.html">Multimedia File 508 Checklist</a>&nbsp;- Developed by HHS
-    </li>
-  </ul>
-  
-  <h3>
     Other Tips
   </h3>
   

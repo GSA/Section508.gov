@@ -14,7 +14,7 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  Follow the steps below to navigate the <a href="/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a> (the Playbook). You’ll learn what’s required of a federal IT Accessibility Program Manager, and gain insights that will improve IT accessibility at your agency.
+  Follow the steps below to navigate the <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a> (the Playbook). You’ll learn what’s required of a federal IT Accessibility Program Manager, and gain insights that will improve IT accessibility at your agency.
 </p>
 
 <p dir="ltr">
@@ -54,7 +54,7 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  Federal agencies have a responsibility to ensure equitable access to information and communication technology (ICT) for people with disabilities. Several laws and policies cover accessibility-related activities, but the two with which you should be most familiar are the &nbsp;<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a> and the <a href="https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 law</a>.
+  Federal agencies have a responsibility to ensure equitable access to information and communication technology (ICT) for people with disabilities. Several laws and policies cover accessibility-related activities, but the two with which you should be most familiar are the &nbsp;<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank">Revised 508 Standards</a> and the <a href="https://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 law</a>.
 </p>
 
 <li>
@@ -62,23 +62,23 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <li dir="ltr">
-  Agencies must comply with <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 of the Rehabilitation Act of 1973</a> (29 U.S.C § 794 (d)) (as amended), as well as other related laws and policies, including: <ul>
+  Agencies must comply with <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 of the Rehabilitation Act of 1973</a> (29 U.S.C § 794 (d)) (as amended), as well as other related laws and policies, including: <ul>
     <li>
-        Other sections of the Rehabilitation Act of 1973 (<a href="https://www.dol.gov/oasam/regs/statutes/sec504.htm">504</a>, <a href="https://www.eeoc.gov/laws/statutes/rehab.cfm">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm">503</a>)
+        Other sections of the Rehabilitation Act of 1973 (<a href="https://www.dol.gov/oasam/regs/statutes/sec504.htm" target="_blank">504</a>, <a href="https://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm" target="_blank">503</a>)
     </li>
     <li>
-        <a href="https://www.acquisition.gov/browse/index/far">Federal Acquisition Regulation (FAR)</a>
+        <a href="https://www.acquisition.gov/browse/index/far" target="_blank">Federal Acquisition Regulation (FAR)</a>
     </li>
     <li dir="ltr">
       OMB mandates, including: <ul>
         <li>
-            <a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148%5D">Federal Information Technology Acquisition Reform Act (FITARA)</a>
+            <a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148%5D" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
         </li>
         <li>
-            <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
+            <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
         </li>
         <li>
-            <a href="https://policy.cio.gov/web-policy/">Policies for Federal Agency Public Websites and Digital Services</a>
+            <a href="https://policy.cio.gov/web-policy/" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
         </li>
       </ul>
     </li>
@@ -87,7 +87,7 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <p dir="ltr">
-  Learn more about <a href="/manage/laws-and-policies">IT accessibility laws and policies</a>.
+  Learn more about <a href="{{site.baseurl}}/manage/laws-and-policies">IT accessibility laws and policies</a>.
 </p>
 
 <h3 dir="ltr">
@@ -95,11 +95,11 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play01">Appoint a program manager</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play01">Appoint a program manager</a>
 </li>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play04">Establish agency policy</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play04">Establish agency policy</a>
 </li>
 
 <h2 id="step2" dir="ltr">
@@ -111,7 +111,7 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li>
-    <a href="/manage/reporting">Monitor and report progress</a>
+    <a href="{{site.baseurl}}/manage/reporting">Monitor and report progress</a>
 </li>
 
 <p dir="ltr">
@@ -127,7 +127,7 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess program maturity</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess program maturity</a>
 </li>
 
 <h2 id="step3" dir="ltr">
@@ -139,11 +139,11 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li>
-    <a href="/manage/roles">Organizational roles and responsibilities</a>
+    <a href="{{site.baseurl}}/manage/roles">Organizational roles and responsibilities</a>
 </li>
 
 <li>
-    <a href="/manage/laws-and-policies#agency-policies">Sample agency policies</a>
+    <a href="{{site.baseurl}}/manage/laws-and-policies#agency-policies">Sample agency policies</a>
 </li>
 
 <h3 dir="ltr">
@@ -151,7 +151,7 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play03">Develop a roadmap</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play03">Develop a roadmap</a>
 </li>
 
 <h2 id="step4" dir="ltr">
@@ -163,7 +163,7 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li dir="ltr">
-  <a href="/manage/program-manager-responsibilities">IT Accessibility Program Manager roles and responsibilities</a> <ul>
+  <a href="{{site.baseurl}}/manage/program-manager-responsibilities">IT Accessibility Program Manager roles and responsibilities</a> <ul>
     <li>
         Identify and define additional roles and responsibilities (including Certified Trusted Testers)
     </li>
@@ -171,11 +171,11 @@ agency buys, builds, and uses, is accessible for all.
 </li>
 
 <li>
-    <a href="/manage/join-the-508-community">Join the IT Accessibility Community of Practice</a>
+    <a href="{{site.baseurl}}/manage/join-the-508-community">Join the IT Accessibility Community of Practice</a>
 </li>
 
 <li>
-    Share the <a href="/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a> with your management team
+    Share the <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a> with your management team
 </li>
 
 <h3 dir="ltr">
@@ -183,11 +183,11 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play05">Cultivate a team</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play05">Cultivate a team</a>
 </li>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play06">Engage with the community</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play06">Engage with the community</a>
 </li>
 
 <h2 id="step5" dir="ltr">
@@ -199,11 +199,11 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li>
-    <a href="/buy">Buy accessible products and services</a>
+    <a href="{{site.baseurl}}/buy">Buy accessible products and services</a>
 </li>
 
 <li dir="ltr">
-  <a href="/art/home">Accessibility Requirements Tool (ART)</a> <ul>
+  <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> <ul>
     <li dir="ltr">
       Use ART to determine if accessibility requirements apply when you purchase IT products and services
     </li>
@@ -215,11 +215,11 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
 </li>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play08">Buy accessible</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play08">Buy accessible</a>
 </li>
 
 <h2 id="step6" dir="ltr">
@@ -231,11 +231,11 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li>
-    <a href="/create">Create accessible digital content & products</a>
+    <a href="{{site.baseurl}}/create">Create accessible digital content & products</a>
 </li>
 
 <li>
-    <a href="/create/universal-design">Universal Design</a>
+    <a href="{{site.baseurl}}/create/universal-design">Universal Design</a>
 </li>
 
 <li>
@@ -247,11 +247,11 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
 </li>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play09">Build accessible</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Build accessible</a>
 </li>
 
 <h2 id="step7" dir="ltr">
@@ -259,15 +259,15 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  IT products and services must conform to the Revised 508 Standards. Websites and digital tools must also conform to the <a href="http://www.w3.org/WAI/intro/wcag.php">W3C Web Content Accessibility Guidelines (WCAG)</a> 2.0 Level AA.
+  IT products and services must conform to the Revised 508 Standards. Websites and digital tools must also conform to the <a href="http://www.w3.org/WAI/intro/wcag.php" target="_blank">W3C Web Content Accessibility Guidelines (WCAG)</a> 2.0 Level AA.
 </p>
 
 <li>
-    <a href="/test">Use testing to validate for conformance to standards</a>
+    <a href="{{site.baseurl}}/test">Use testing to validate for conformance to standards</a>
 </li>
 
 <li>
-    <a href="https://www.dhs.gov/compliance-test-processes">Interagency Trusted Tester Program (ITTP) compliance test process</a>
+    <a href="https://www.dhs.gov/compliance-test-processes" target="_blank">Interagency Trusted Tester Program (ITTP) compliance test process</a>
 </li>
 
 <p dir="ltr">
@@ -287,11 +287,11 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play10">Test for accessibility</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Test for accessibility</a>
 </li>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play11">Track and resolve issues</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Track and resolve issues</a>
 </li>
 
 <h2 id="step8" dir="ltr">
@@ -306,7 +306,7 @@ agency buys, builds, and uses, is accessible for all.
   Content creators 
 <ul>
     <li>
-        <a href="/create">Create accessible digital content</a> through use of style sheets, ALT tags, captions, descriptive link language, etc.
+        <a href="{{site.baseurl}}/create">Create accessible digital content</a> through use of style sheets, ALT tags, captions, descriptive link language, etc.
     </li>
   </ul>
 </li>
@@ -315,7 +315,7 @@ agency buys, builds, and uses, is accessible for all.
   Procurement professionals 
 <ul>
     <li>
-        <a href="/buy">Document accessibility needs</a> when purchasing technology (hardware, software, systems, etc.)
+        <a href="{{site.baseurl}}/buy">Document accessibility needs</a> when purchasing technology (hardware, software, systems, etc.)
     </li>
   </ul>
 </li>
@@ -323,7 +323,7 @@ agency buys, builds, and uses, is accessible for all.
 <li dir="ltr">
   Developers <ul>
     <li>
-        <a href="/create/universal-design">Adopt universal design</a> to <a href="/create/software-websites">create software & websites</a> that are accessible to all
+        <a href="{{site.baseurl}}/create/universal-design">Adopt universal design</a> to  <a href="{{site.baseurl}}/create/software-websites">create software & websites</a> that are accessible to all
     </li>
   </ul>
 </li>
@@ -331,7 +331,7 @@ agency buys, builds, and uses, is accessible for all.
 <li dir="ltr">
   QA/Testers <ul>
     <li>
-        <a href="https://www.dhs.gov/interagency-trusted-tester-program">Interagency Trusted Tester Program (ITTP)</a>
+        <a href="https://www.dhs.gov/interagency-trusted-tester-program" target="_blank">Interagency Trusted Tester Program (ITTP)</a>
     </li>
   </ul>
 </li>
@@ -341,7 +341,7 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <li>
-    <a href="/training">Accessibility training</a>
+    <a href="{{site.baseurl}}/training">Accessibility training</a>
 </li>
 
 <h3 dir="ltr">
@@ -349,7 +349,7 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 
 <li>
-    <a href="/tools/playbooks/technology-accessibility-playbook-intro/play12">Train employees</a>
+    <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play12">Train employees</a>
 </li>
 
 <h2 dir="ltr">
@@ -357,11 +357,11 @@ agency buys, builds, and uses, is accessible for all.
 </h2>
 
 <p dir="ltr">
-  This guidance is intended to help agencies navigate the <a href="/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a> and operate an effective IT accessibility program. Adoption of these strategies will help your agency expand access to government digital services, spur greater use of inclusive technology to increase diversity of the federal workforce, and improve accessibility for all.
+  This guidance is intended to help agencies navigate the <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a> and operate an effective IT accessibility program. Adoption of these strategies will help your agency expand access to government digital services, spur greater use of inclusive technology to increase diversity of the federal workforce, and improve accessibility for all.
 </p>
 
 <p dir="ltr">
-  This guide is a companion to the <a href="/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a>, and aligns with the <a href="https://designsystem.digital.gov/">U.S. Web Design System</a>, the <a href="https://playbook.cio.gov/">Digital Services Playbook</a>, and the <a href="https://techfarhub.cio.gov/handbook/">TechFAR Handbook</a>.
+  This guide is a companion to the <a href="{{site.baseurl}}/tools/playbooks/exec-guide-accessibility">Executive Guide to IT Accessibility</a>, and aligns with the <a href="https://designsystem.digital.gov/" target="_blank">U.S. Web Design System</a>, the <a href="https://playbook.cio.gov/" target="_blank">Digital Services Playbook</a>, and the <a href="https://techfarhub.cio.gov/handbook/" target="_blank">TechFAR Handbook</a>.
 </p>
 
 <p dir="ltr">

@@ -31,6 +31,10 @@ The rule updated and reorganized the Section 508 Standards and Section 255 Guide
   * [About the Update of the Section 508 Standards and Section 255 Guidelines for Information and Communication Technology][9] - High-level overview
   * [Revised 508 Standards Transition Guide][10] - An overview of changes your agency needs to make to transition to the Revised 508 Standards.
 
+### Revised Federal Acquisition Regulation (FAR)
+  * [Federal Acquisition Regulation: Section 508-Based Standards in Information and Communication Technology][40] as published August 11, 2021
+  * [Tabular Comparison of the Previous FAR text against the 2021 Update][41]
+
 <div id="laws">
   <h2>
     Related Laws
@@ -155,3 +159,5 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [37]: https://www.dhs.gov/accessibility
  [38]: https://www.va.gov/web/standards/accessibility.cfm
  [39]: https://www.usa.gov/policies#item-211457
+ [40]: https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication
+ [41]: {{ site.baseurl}}/manage/laws-and-policies/far-update-comparison

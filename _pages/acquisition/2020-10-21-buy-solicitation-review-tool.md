@@ -10,7 +10,7 @@ created: 1603286031
 <a href="https://srt-client-dev.app.cloud.gov/auth" class="usa-button usa-button--accent-warm">Start Using SRT</a>
 
 <p class="intro" style="clear: both;">
-  The <a href="https://srt-client-dev.app.cloud.gov/">Solicitation Review Tool</a> (SRT) was created to help agencies evaluate and improve the overall solicitation compliance with respect to accessibility, and in the future - cyber security, and other regulations and requirements.
+  The <a href="https://srt-client-dev.app.cloud.gov/" target="_blank">Solicitation Review Tool</a> (SRT) was created to help agencies evaluate and improve the overall solicitation compliance with respect to accessibility, and in the future - cyber security, and other regulations and requirements.
 </p>
 
 The SRT was built using open source technology, uses artificial intelligence (AI), natural language processing, text mining, and machine learning algorithms to automatically identify whether new solicitations posted to &ldquo;Contracting Opportunities&rdquo; ([beta.SAM.gov)][1] are solicitations for Information and Communication Technology (ICT). For those that are considered ICT SRT tests if they contain sufficient compliance requirements for Section 508 Technical Requirements that will improve accessibility of federal IT.

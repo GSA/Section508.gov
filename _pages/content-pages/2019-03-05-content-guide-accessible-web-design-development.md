@@ -1048,13 +1048,13 @@ To meet the requirements of a conforming alternate version, it must:
 
 <ol type="1">
   <li>Conform to all Level A and AA criteria, and</li>
-  <li>Provide all of the same information and <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#functiondef">functionality</a> in the same <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#human-langdef">human language</a>, and</li>
+  <li>Provide all of the same information and <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#functiondef" target="_blank">functionality</a> in the same <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#human-langdef" target="_blank">human language</a>, and</li>
   <li>Be as up to date as the non-conforming content, and</li>
   <li>
     At least one of the following is true:
     <ol type="a">
       <li>
-          The conforming version can be reached from the non-conforming page via an <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#accessibility-supporteddef">accessibility-supported</a> <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#mechanismdef">mechanism</a>, or
+          The conforming version can be reached from the non-conforming page via an <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#accessibility-supporteddef" target="_blank">accessibility-supported</a> <a href="https://www.w3.org/TR/2008/REC-WCAG20-20081211/#mechanismdef" target="_blank">mechanism</a>, or
       </li>
       <li>
             The non-conforming version can only be reached from the conforming version, or
@@ -1185,5 +1185,5 @@ Created by the CIO Council’s [Accessibility Community of Practice][40], this i
  [37]: https://webaim.org/
  [38]: https://css-tricks.com/aria-spackle-not-rebar/
  [39]: https://www.ssa.gov/accessibility/andi/help/developerguide.html
- [40]: https://www.cio.gov/about/accessibility-cop/
+ [40]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [41]: https://www.dhs.gov/trusted-tester

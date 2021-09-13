@@ -207,7 +207,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
       <td>
         <ul>
           <li>
-            Serve as the principal interagency forum to improve the implementation of Section 508. Visit the <a href="https://www.cio.gov/about/accessibility-cop/">Accessibility CoP page on CIO.gov</a> to learn more.
+            Serve as the principal interagency forum to improve the implementation of Section 508. Visit the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/">Accessibility CoP page on CIO.gov</a> to learn more.
           </li>
         </ul>
       </td>
