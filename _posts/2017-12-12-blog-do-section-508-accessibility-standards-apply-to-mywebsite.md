@@ -35,7 +35,7 @@ If you’re working to make your website accessible, you may want to consult the
 Section 508 may not apply to your website, but other laws likely do, so your website should be accessible. Most accessibility standards are moving toward WCAG 2.0 standards to best meet the needs of people with disabilities. Regardless of whether or not federal regulations apply to your website, designing for all users is a best practice, and will help your organization more effectively meet the needs of all your customers.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards
+ [2]: https://www.govinfo.gov/content/pkg/FR-1998-02-03/pdf/98-2414.pdf
  [3]: https://www.ada.gov/regs2016/sanprm.html
  [4]: https://www.ada.gov/regs2010/titleII_2010/titleII_2010_regulations.htm
  [5]: https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm

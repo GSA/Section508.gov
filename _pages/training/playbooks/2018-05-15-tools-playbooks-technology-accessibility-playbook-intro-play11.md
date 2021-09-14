@@ -54,4 +54,4 @@ Play 10 describes how to test and validate Section 508 conformance. Testing will
 &nbsp;
 
  [1]: http://www.freedomscientific.com/Support
- [2]: http://zoomtext.zendesk.com/hc/en-us
+ [2]: https://support.zendesk.com/hc/en-us?_ga=2.218071126.1124779054.1631404887-836831031.1631404887

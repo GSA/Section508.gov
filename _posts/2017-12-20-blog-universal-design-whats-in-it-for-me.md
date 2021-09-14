@@ -48,7 +48,7 @@ To learn more about Universal Design, check out part one of the series: **[Unive
 
 &nbsp;
 
- [1]: https://www.nascio.org/Portals/0/Publications/Documents/2017/NASCIO_2017_State_CIO_Survey.pdf?ver=2017-10-25-174540-510
+ [1]: https://www.nascio.org/resource-center/resources/2017-state-cio-survey/
  [2]: https://www.peatworks.org/
- [3]: https://www.peatworks.org/buy-IT/priorities
+ [3]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/
  [4]: {{site.baseurl}}/blog/Universal-Design-What-is-it

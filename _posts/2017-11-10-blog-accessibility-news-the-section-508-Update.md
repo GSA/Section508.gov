@@ -54,9 +54,6 @@ GSA is developing the Accessibility Requirements Tool (ART), (formerly known as 
 Learn more about the changes in the Revised 508 Standards.
 
   * [Table A-1. WCAG 2.0 Level A and Level AA Success Criteria][8]
-  * [Table A-2. Final Rule Requirements for Software][9]
-  * [Table A-3. Final Rule Requirements for Hardware and Telecommunications Equipment][10]
-  * [Table A-4. Final Rule Accessibility Requirements for Support Documentation and Services][11]
 
 Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with questions.
 
@@ -68,6 +65,3 @@ Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with que
  [6]: https://gsa.gov/portal/content/104550
  [7]: {{site.baseurl}}/tools/coordinator-listing
  [8]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376905
- [9]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376906
- [10]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907
- [11]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376908

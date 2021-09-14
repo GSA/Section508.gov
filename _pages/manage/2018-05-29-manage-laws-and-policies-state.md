@@ -96,7 +96,7 @@ http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
  [18]: http://www.in.gov/core/accessibility.html "Go to Indiana's site"
  [19]: https://ebit.ks.gov/itec/resources/policies/policy-1210 "Go to Kansas's site"
  [20]: http://www.louisiana.gov/Government/Policies/#webaccessibility "Go to Louisiana's site"
- [21]: http://www.starprogram.state.mn.us/Accessibility_Usability.htm "Go to Minnesota's site"
+ [21]: https://mn.gov/portal/about-minnesota/accessibility-issues/ "Go to Minnesota's site"
  [22]: http://at.mo.gov/it-access/ "Go to Missouri's site"
  [23]: http://www.nysforum.org/accessibility/resources/nyspolicy/nys_508/nys_508.html "Go to New York's site"
  [24]: http://www.ok.gov/accessibility "Go to Oklahoma's site"
