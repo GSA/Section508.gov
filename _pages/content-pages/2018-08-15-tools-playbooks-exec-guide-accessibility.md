@@ -85,7 +85,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/508-training/courses/exec-overview">IT Accessibility: An Overview for Government Executives</a>
+  <a href="https://training.section508.gov/508-training/courses/exec-overview/index.html">IT Accessibility: An Overview for Government Executives</a>
 </li>
 </ul>
 
@@ -111,7 +111,7 @@ Better accessibility supports many areas of information assurance, including sec
   Develop a roadmap to increase transparency, strengthen accountability, and improve collaboration around accessible technology at your agency.
 </li>
 <li dir="ltr">
-  Review the <a href="{{site.baseurl}}/sites/default/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
+  Review the <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> - OMB (PDF, January 2013)
 </li>
 </ul>
 
@@ -228,7 +228,7 @@ Better accessibility supports many areas of information assurance, including sec
   Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/training/508-training">Government-wide IT Accessibility Training</a>
+  <a href="https://training.section508.gov/508-training/courses/new/index.html">Government-wide IT Accessibility Training</a>
 </li>
 <li dir="ltr">
   <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
