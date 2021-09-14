@@ -43,7 +43,7 @@ The resources on this page were created through interagency collaborative effort
 
  [1]: https://ictbaseline.access-board.gov/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [3]: https://www.dhs.gov/508-testing
+ [3]: https://www.dhs.gov/trusted-tester
  [4]: https://section508coordinators.github.io/TrustedTester/
  [5]: https://www.dhs.gov/news/2018/07/13/trusted-tester-v5-testing-tools
  [6]: https://www.dhs.gov/compliance-test-processes

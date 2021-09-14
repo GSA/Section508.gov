@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx09/
-type: training
+type: presentation training
 title: 'Module 9: Making Vital Background Information Accessible'
 created: 1578419942
 redirect_from:
  - create/presentations/aed-cop-pptx09/
 ---
 
-# Module 9: Making Vital Background Information Accessible
+[comment]: <> (# Module 9: Making Vital Background Information Accessible)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

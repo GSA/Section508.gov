@@ -266,7 +266,7 @@ Contact your agency&rsquo;s [Section 508 Coordinator][10] or email us at <sectio
  [2]: {{site.baseurl}}/buy/inventory-your-ict
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions
  [4]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
- [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [5]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [6]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E101-general
  [7]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [8]: {{site.baseurl}}/buy/determine-ict-standards

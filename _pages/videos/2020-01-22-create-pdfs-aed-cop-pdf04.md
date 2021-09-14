@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/pdfs/aed-cop-pdf04/
-type: training
+type: pdfs training
 title: 'Module 4: Converting Scanned Documents into Section 508 Conformant PDFs'
 created: 1579721661
 redirect_from:
 - create/pdfs/aed-cop-pdf04/
 ---
 
-# Module 4: Converting Scanned Documents into Section 508 Conformant PDFs
+[comment]: <> (# Module 4: Converting Scanned Documents into Section 508 Conformant PDFs)
 
 <p style="font-size:115%">
   From: How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC

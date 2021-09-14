@@ -52,9 +52,9 @@ http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
 
 <p id="M" name="M"></p>
 
-<p dir="ltr">
-  <a href="http://www.mass.gov/portal/massgov-web-accessibility-statement.html"><strong>Massachusetts</strong></a>. Mass.Gov is committed to achieving meaningful accessibility to this online environment for all users, including users with disabilities. We follow specific <a href="http://www.mass.gov/anf/research-and-tech/policies-legal-and-technical-guidance/tech-guidance/accessibility-guidance/web-accessibility-standards.html">Commonwealth enterprise standards</a> designed to meet the needs of our citizens with disabilities. The Commonwealth enterprise standards are generally based on standards used by the Federal government for technology accessibility for people with disabilities, and web content accessibility guidelines developed by the World Wide Web Consortium (W3C). The Mass.Gov web site is regularly tested using leading web accessibility technologies and reviewed by users to verify that this web site is compliant with applicable standards.
-</p>
+<p dir="ltr"></p>
+
+[**Massachusetts**][28] The purpose of this policy is to ensure that Massachusetts information technology (IT) solutions are usable by people with disabilities, as required by state and federal law.  This includes both Commonwealth employees and members of the general public. Agencies are responsible for ensuring that all IT solutions and content are in full compliance with accessibility standards, whether developed in-house or acquired from a third-party.
 
 [**Minnesota**][21] _STAR Program Accessible Technology Bill_ Governor Pawlenty signed the accessible technology bill on May 22, 2009. This new law requires the state to adopt Section 508 standards and Web Content Accessibility Guidelines 2.0 (WCAG 2.0) to develop and maintain accessible statewide information and telecommunications technology systems and services.
 
@@ -96,10 +96,11 @@ http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
  [18]: http://www.in.gov/core/accessibility.html "Go to Indiana's site"
  [19]: https://ebit.ks.gov/itec/resources/policies/policy-1210 "Go to Kansas's site"
  [20]: http://www.louisiana.gov/Government/Policies/#webaccessibility "Go to Louisiana's site"
- [21]: http://www.starprogram.state.mn.us/Accessibility_Usability.htm "Go to Minnesota's site"
+ [21]: https://mn.gov/portal/about-minnesota/accessibility-issues/ "Go to Minnesota's site"
  [22]: http://at.mo.gov/it-access/ "Go to Missouri's site"
- [23]: http://www.nysforum.org/accessibility/resources/nyspolicy/nys_508/nys_508.html "Go to New York's site"
+ [23]: https://its.ny.gov/document/accessibility-web-based-information-and-applications-compliance-reporting "Go to New York's site"
  [24]: http://www.ok.gov/accessibility "Go to Oklahoma's site"
  [25]: http://www.vita.virginia.gov "Go to Virginia Information Technologies Agency (VITA)'s site"
  [26]: http://www.icdri.org/hispanic/Hispanic.htm "Go to Web Accessibility and Disability Resources in Spanish and Portuguese's site"
  [27]: #top
+ [28]: https://www.mass.gov/policy-advisory/enterprise-information-technology-accessibility-policy

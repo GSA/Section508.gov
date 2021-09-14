@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx10/
-type: training
+type: presentation training
 title: 'Module 10: Formatting Text for the Intended Language'
 created: 1578419985
 redirect_from:
  - create/presentations/aed-cop-pptx10/
 ---
 
-# Module 10: Formatting Text for the Intended Language
+[comment]: <> (# Module 10: Formatting Text for the Intended Language)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

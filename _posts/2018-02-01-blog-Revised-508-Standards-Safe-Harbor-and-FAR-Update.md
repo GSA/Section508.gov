@@ -26,4 +26,4 @@ The IT Accessibility Team at GSA, in cooperation with the U.S. Access Board, is 
 Please refer any questions to the [Access Board][2]. You can also find an extensive list of resources on our Revised 508 Standards Refresh Toolkit.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.access-board.gov/contact-us
+ [2]: https://www.access-board.gov/contact/

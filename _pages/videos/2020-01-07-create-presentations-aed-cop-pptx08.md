@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx08/
-type: training
+type: presentation training
 title: 'Module 8: Creating Links with Unique and Descriptive Names'
 created: 1578419887
 redirect_from:
  - create/presentations/aed-cop-pptx08/
 ---
 
-# Module 8: Creating Links with Unique and Descriptive Names
+[comment]: <> (# Module 8: Creating Links with Unique and Descriptive Names)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

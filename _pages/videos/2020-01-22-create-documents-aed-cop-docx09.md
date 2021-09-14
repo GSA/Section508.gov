@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx09/
-type: training
+type: document training
 title: 'Module 9: Create Accessible Images and Other Objects'
 created: 1579721138
 redirect_from:
  - create/documents/aed-cop-docx09/
 ---
 
-# Module 9: Create Accessible Images and Other Objects
+[comment]: <> (# Module 9: Create Accessible Images and Other Objects)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

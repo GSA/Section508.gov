@@ -13,7 +13,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://lh5.googleusercontent.com/otuZrlPZXiTEIc6n2GfZrjC4pYJSUyAV4OwQeP0dnDGJ4hezKPGaVCiGPe1MC8In0HBR6gtxZGhicxTuIIH8rihtiID4Mgjg3Niip2aVIiaNx24GflbZxgi5GJh6_cfCTMhVYleN" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://assets.section508.gov/files/thumbnails/training-video-powerpoint-thumb.png" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">

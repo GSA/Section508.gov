@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx06/
-type: training
+type: spreadsheet training
 title: 'Module 6: Adding Alternative Text to Images and Other Objects '
 created: 1579723919
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx06/
 ---
 
-# Module 6: Adding Alternative Text to Images and Other Objects
+[comment]: <> (# Module 6: Adding Alternative Text to Images and Other Objects)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

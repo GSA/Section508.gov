@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx08/
-type: training
+type: document training
 title: 'Module 8: Duplicate Vital Information in Headers, Footers and Watermarks'
 created: 1579721137
 redirect_from:
  - create/documents/aed-cop-docx08/
 ---
 
-# Module 8: Duplicate Vital Information in Headers, Footers and Watermarks
+[comment]: <> (# Module 8: Duplicate Vital Information in Headers, Footers and Watermarks)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

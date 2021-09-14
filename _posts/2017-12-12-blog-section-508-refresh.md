@@ -35,4 +35,4 @@ Contact the Government-wide Accessibility Team at [section.508@gsa.gov][5] with 
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [3]: https://assets.section508.gov/files/2017_508-Refresh-Fact-sheet-updated.pdf
  [4]: {{site.baseurl}}/buy
- [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376908
+ [5]: mailto:section.508@gsa.gov

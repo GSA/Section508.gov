@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/pdfs/aed-cop-pdf03/
-type: training
+type: pdfs training
 title: 'Module 3: Remediating PDFs for Accessibility'
 created: 1579721841
 redirect_from:
 - create/pdfs/aed-cop-pdf03/
 ---
 
-# Module 3: Remediating PDFs for Accessibility
+[comment]: <> (# Module 3: Remediating PDFs for Accessibility)
 
 <p style="font-size:115%">
   From: How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC
