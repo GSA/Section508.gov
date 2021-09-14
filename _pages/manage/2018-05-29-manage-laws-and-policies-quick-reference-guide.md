@@ -79,7 +79,6 @@ Prepare accessibility requirements for in-house procurement of customized and of
 
   * Cross Reference Tables - Compares the original and revised standards related to electronic content, software, and hardware. (NEW)
       * [WCAG 2.0 Level A and Level AA Success Criteria][15]
-   
   * [How to Request Accessibility Information from Vendors and Contractors][18] (NEW) - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility, Clauses, and Acceptance Criteria][20] (NEW) - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)

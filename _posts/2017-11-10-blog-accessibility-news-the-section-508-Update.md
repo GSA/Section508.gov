@@ -53,7 +53,7 @@ GSA is developing the Accessibility Requirements Tool (ART), (formerly known as 
 
 Learn more about the changes in the Revised 508 Standards.
 
-  * [Table A-1. WCAG 2.0 Level A and Level AA Success Criteria][8]
+  * [Comparison Table of WCAG 2.0 to Original 508 Standards][8]
 
 Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with questions.
 
@@ -64,4 +64,4 @@ Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with que
  [5]: http://www.w3.org/TR/WCAG20/
  [6]: https://gsa.gov/portal/content/104550
  [7]: {{site.baseurl}}/tools/coordinator-listing
- [8]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376905
+ [8]: https://www.access-board.gov/ict/wcag2ict.html

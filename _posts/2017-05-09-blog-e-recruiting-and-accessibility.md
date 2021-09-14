@@ -17,23 +17,23 @@ To learn more about the benefits of accessible e-Recruiting and the compelling b
     </div>
 
   * <div>
-      Learn about <a href="http://www.peatworks.org/talentworks/erecruiting-accessibility/roi" target="_blank">the benefits of investing in accessible e-Recruiting technology</a> and how it has the potential to increase your return on investment through e-Recruiting
+      Learn about <a href="https://www.peatworks.org/digital-accessibility-toolkits/talentworks/erecruiting-and-accessibility/the-roi-of-accessible-erecruiting/" target="_blank">the benefits of investing in accessible e-Recruiting technology</a> and how it has the potential to increase your return on investment through e-Recruiting
     </div>
 
   * <div>
-      Learn how to make the business case for an accessible workplace with <a href="http://www.peatworks.org/content/accessibility-making-business-case-employers" target="_blank">How to Make the Business Case for Employing People with Disabilities</a>
+      Learn how to make the business case for an accessible workplace with <a href="https://www.peatworks.org/digital-accessibility-toolkits/staff-training-resources/accessibility-making-the-business-case-for-employers/" target="_blank">How to Make the Business Case for Employing People with Disabilities</a>
     </div>
 
   * <div>
-      Learn <a href="http://www.peatworks.org/blog/2016/feb/rethinking-how-you-connect-talented-candidates">how to connect with talented candidates</a> -- factoring in accessibility for all can increase your talent pool
+      Learn <a href="https://www.peatworks.org/rethinking-how-you-connect-with-talented-candidates/">how to connect with talented candidates</a> -- factoring in accessibility for all can increase your talent pool
     </div>
 
   * <div>
-      Learn how to <a href="http://www.peatworks.org/action-steps/build-your-initiative" target="_blank">create an accessibility initiative</a> or update your current one
+      Learn how to <a href="https://www.peatworks.org/accessible-technology-action-steps-a-guide-for-employers/" target="_blank">create an accessibility initiative</a> or update your current one
     </div>
 
   * <div>
-      Finally, learn more with answers to <a href="http://www.peatworks.org/faq-page/109-0" target="_blank">frequently asked question from employers</a>
+      Finally, learn more with answers to <a href="https://www.peatworks.org/webinar-transcript-employers-accessible-technology-the-what-why-and-how/" target="_blank">frequently asked question from employers</a>
     </div>
 
 Employers and human resources professionals can also visit PEAT’s [TalentWorks][2] website for additional resources to make their e-Recruiting “technologies accessible to all job seekers--including those with disabilities.”
