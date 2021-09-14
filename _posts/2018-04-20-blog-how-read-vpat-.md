@@ -73,13 +73,12 @@ For more information, contact <section.508@gsa.gov>
  [8]: {{site.baseurl}}/buy/standards-exceptions
  [9]: https://www.peatworks.org/
  [10]: http://www.peatworks.org/Buy-IT
- [11]: http://www.peatworks.org/buy-IT/priorities
- [12]: http://www.peatworks.org/buy-IT/preparing
- [13]: http://www.peatworks.org/buy-IT/solicitation
- [14]: http://www.peatworks.org/buy-IT/evaluating
- [15]: http://www.peatworks.org/buy-IT/negotiating
- [16]: http://www.peatworks.org/buy-IT/testing
- [17]: http://www.peatworks.org/buy-IT/relationships
- [18]: http://www.peatworks.org/buy-IT/learning
- [19]: https://www.peatworks.org/communication-matters-how-to-talk-to-technology-providers-about-accessibility/
- 
+ [11]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-1-setting-procurement-priorities/
+ [12]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-2-preparing-to-buy/
+ [13]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-3-issuing-your-solicitation/
+ [14]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-4-evaluating-proposals-vpats/
+ [15]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-5-negotiating-contracts/
+ [16]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-6-testing-validation/
+ [17]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-7-managing-performance-relationships/
+ [18]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-8-reviewing-learning/
+ [19]: https://www.peatworks.org/content/communication-matters-how-talk-technology-providers-about-accessibility
