@@ -3822,7 +3822,7 @@ detailsWindow.document.close();
           OutputHTML = OutputHTML.replace("<div id='techservices'></div>", "<div id='techservices'><h2>1."+numbering+"&nbsp;Section 508 Requirements for Technology Services (include in the SOW, PWS, or SOO)</h2></div>");
         }
         OutputHTML += '<li>When providing cloud hosting services (Infrastructure as a Service, Platform as a Service, Software as a Service, etc.) the Contractor shall ensure user administrative screens, dashboards and portals used to configure, and monitor cloud services conform to the Section 508 standards.</li>';
-        OutputHTML += '<li>The Contractor shall ensure cloud hosting services shall not reduce the level of Section 508 conformance for ICT migrated by DHS to the cloud hosting environment. </li>'; 
+        OutputHTML += '<li>The Contractor shall ensure cloud hosting services shall not reduce the level of Section 508 conformance for ICT migrated to the cloud hosting environment. </li>'; 
        }
        if(document.getElementById("step3q6-0").checked || document.getElementById("step3q6-11").checked || document.getElementById("step3q6-1").checked || document.getElementById("step3q6-2").checked || document.getElementById("step3q6-10").checked) // Appears if web-based content, software, electronic docs, technology, or hardware are checked
        {

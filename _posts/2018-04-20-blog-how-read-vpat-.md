@@ -81,4 +81,4 @@ For more information, contact <section.508@gsa.gov>
  [16]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-6-testing-validation/
  [17]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-7-managing-performance-relationships/
  [18]: https://www.peatworks.org/digital-accessibility-toolkits/buy-it/step-8-reviewing-learning/
- [19]: https://www.peatworks.org/content/communication-matters-how-talk-technology-providers-about-accessibility
+ [19]: https://www.peatworks.org/communication-matters-how-to-talk-to-technology-providers-about-accessibility/
