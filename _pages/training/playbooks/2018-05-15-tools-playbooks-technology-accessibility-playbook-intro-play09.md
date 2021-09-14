@@ -51,5 +51,5 @@ Regardless of whether you use contractors or agency staff to develop digital ser
   * [Best Practice &ndash; Integrating Section 508 into the IT Development Life Cycle][3]
 
  [1]: {{site.baseurl}}/test
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [3]: https://cio.gov/software-development-life-cycle/

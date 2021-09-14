@@ -81,4 +81,5 @@ For more information, contact <section.508@gsa.gov>
  [16]: http://www.peatworks.org/buy-IT/testing
  [17]: http://www.peatworks.org/buy-IT/relationships
  [18]: http://www.peatworks.org/buy-IT/learning
- [19]: https://www.peatworks.org/content/communication-matters-how-talk-technology-providers-about-accessibility
+ [19]: https://www.peatworks.org/communication-matters-how-to-talk-to-technology-providers-about-accessibility/
+ 

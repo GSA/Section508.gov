@@ -24,6 +24,6 @@ In addition to a role in acquisition of government supplies and services, GSA ha
 
 National and international harmonization depends on GSA maintaining its leadership position in ICT accessibility standards and tools and methods for conformance. GSA will continue its work with the Access Board and US standards bodies, including NIST, to harmonize accessibility standards with other nations, to increase the impact of these standards on industry decision-making about how they develop and market their products/services. If realized, harmonization would eliminate the possibility of fragmented and conflicting sets of accessibility requirements coming from different nations or states, thus establishing a strong, coordinated international industry segment with sufficient magnitude to entice the ICT industry to address our accessibility requirements as key needs as they develop and market ICT.
 
- [1]: http://mandate376.standards.eu/standard
+ [1]: https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf
  [2]: http://www.etsi.org/WebSite/document/aboutETSI/EC_Mandates/m376en.pdf
  [3]: http://www.w3.org/WAI/Policy/

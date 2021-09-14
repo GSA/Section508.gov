@@ -79,7 +79,7 @@ The following play identifies how to ensure accessibility needs are identified a
 </div>
 
  [1]: #Footnote2
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [3]: /index.php
  [4]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
  [5]: https://assets.section508.gov/files/guidance-on-508-compliant-solicitations-20150921.docx

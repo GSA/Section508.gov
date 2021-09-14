@@ -116,7 +116,7 @@ created: 1527574221
     <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
   </li> 
   <li dir ="ltr">
-  <a href = "https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
+  <a href = "https://www.access-board.gov/ict/wcag2ict.html"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
    <li dir ="ltr">
    <a href = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
   </ul>
