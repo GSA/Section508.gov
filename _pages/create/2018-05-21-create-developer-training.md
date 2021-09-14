@@ -50,8 +50,8 @@ A number of organizations offer training based on the Original 508 Standards. Th
 More modern resources include:
 
   * Rob Dodson from Google has a [great introductory talk][13]
-  * Google’s[Introduction to Web Accessibility][14] introduces tools and techniques for web developers to easily ensure that websites are more accessible
-  * [Web Accessibility | Udacity][15] offers hands-on experience to make web applications accessible
+  * Google’s [Udacity course on Web Accessibility][14] introduces tools and techniques for web developers to easily ensure that websites are more accessible
+  * [Web Accessibility Udacity][15] offers hands-on experience to make web applications accessible
   * [The Code4Lib Journal][16] – A Practical Guide on Developing Accessible Websites
   * [Making Microsoft Office Documents Accessible][17]
 
@@ -73,7 +73,7 @@ More modern resources include:
  [11]: http://teachaccess.org/initiatives/tutorial/
  [12]: https://www.dhs.gov/publication/trusted-tester-resources
  [13]: https://www.youtube.com/watch?v=A5XzoDT37iM
- [14]: https://webaccessibility.withgoogle.com/
+ [14]: https://www.udacity.com/course/web-accessibility--ud891
  [15]: https://www.udacity.com/course/web-accessibility--ud891
  [16]: http://journal.code4lib.org/articles/12697
  [17]: https://support.office.com/en-us/article/Make-your-Word-documents-accessible-d9bf3683-87ac-47ea-b91a-78dcacb3c66d

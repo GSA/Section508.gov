@@ -134,7 +134,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [12]: http://www.eeoc.gov/laws/statutes/rehab.cfm
  [13]: http://www.dol.gov/ofccp/regs/compliance/sec503.htm
  [14]: https://www.govinfo.gov/content/pkg/USCODE-2018-title29/pdf/USCODE-2018-title29-chap16-subchapV-sec794.pdf
- [15]: http://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines
+ [15]: https://www.access-board.gov/ict/
  [16]: http://www.ada.gov/pubs/ada.htm
  [17]: https://www.congress.gov/bill/105th-congress/senate-bill/2432
  [18]: http://www.eac.gov/about_the_eac/help_america_vote_act.aspx
@@ -150,7 +150,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [28]: https://assets.section508.gov/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc
  [29]: https://assets.section508.gov/files/Memo_Safavian-Evans.doc
  [30]: http://www.eeoc.gov/policy/docs/accommodation_procedures.html
- [31]: http://www.eeoc.gov/eeoc/internal/reasonable_accommodation.cfm
+ [31]: https://www.eeoc.gov/laws/guidance/practical-advice-drafting-and-implementing-reasonable-accommodation-procedures-under
  [32]: {{site.baseurl}}/manage/laws-and-policies/state
  [33]: {{site.baseurl}}/manage/laws-and-policies/international
  [34]: https://www.w3.org/WAI/policies/

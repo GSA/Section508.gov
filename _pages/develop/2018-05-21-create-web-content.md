@@ -45,7 +45,7 @@ redirect_from:
 </ul>
 <h2>Mobile</h2>
 <ul>
-<!-- <li><a href="http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile_access.shtml" class="ext">BBC Mobile Accessibility Guidelines</a></li> -->
+<li><a href="https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/" class="ext">BBC Mobile Accessibility Guidelines</a></li>
 <li><a href="https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html" class="ext">Apple Accessibility Programing Guide for IOS</a></li>
 <li><a href="https://developer.android.com/guide/topics/ui/accessibility/index.html" class="ext">Google Accessibility for Android Developers</a></li>
 </ul>

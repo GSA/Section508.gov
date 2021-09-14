@@ -79,8 +79,6 @@ Prepare accessibility requirements for in-house procurement of customized and of
 
   * Cross Reference Tables - Compares the original and revised standards related to electronic content, software, and hardware. (NEW)
       * [WCAG 2.0 Level A and Level AA Success Criteria][15]
-      * [Original Hardware Requirements to New Hardware Requirements][16]
-      * [Original Software Requirements to New Software Requirements][17]
   * [How to Request Accessibility Information from Vendors and Contractors][18] (NEW) - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility, Clauses, and Acceptance Criteria][20] (NEW) - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
@@ -174,9 +172,7 @@ Questions? Email us at <section.508@gsa.gov>.
  [12]: {{site.baseurl}}/art
  [13]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [15]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
- [16]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376907
- [17]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc471376906
+ [15]: https://www.access-board.gov/ict/wcag2ict.html
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
