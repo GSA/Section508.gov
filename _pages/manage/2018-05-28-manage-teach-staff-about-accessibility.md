@@ -42,7 +42,7 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content
  [3]: {{site.baseurl}}/blog/infographic-the-case-for-universal-design
- [4]: {{site.baseurl}}/training/
+ [4]: {{site.baseurl}}/training/508-training
  [5]: {{site.baseurl}}/test
  [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook/play07
  [7]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook/play09
