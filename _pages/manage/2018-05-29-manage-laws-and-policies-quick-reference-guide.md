@@ -151,7 +151,7 @@ Incorporate the standards into agency life-cycle development activities for elec
   * [Technology Accessibility Playbook: How to Build an Effective Section 508 Program][24] &ndash; Describes the 12 plays to integrate strategic, business and technology management into a successful Section 508 program, to ensure Federal ICT is accessible to persons with disabilities
   * How to Author and Validate Microsoft Word and PDF Documents for Accessibility - AED ACOP Training Video (Updated)
 
-Questions? Email us at <section.508@gsa.gov>.
+Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 
 
 
 **Page Reviewed/Updated**: January 2018

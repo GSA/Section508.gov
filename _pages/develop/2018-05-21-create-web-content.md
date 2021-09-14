@@ -84,7 +84,7 @@ redirect_from:
 <h3>Legislation and Standards</h3>
 <ul>
 <li><a href="https://www.govinfo.gov/app/details/USCODE-2011-title29/USCODE-2011-title29-chap16-subchapV-sec794d">Section 508 of the Rehabilitation Act</a> (29 U.S.C. § 794d), as amended by the Workforce Investment Act of 1998 (P.L. 105-220)</li>
-<li><a href=" https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards">Original Section 508 Standards</a></li>
+<li><a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards">Original Section 508 Standards</a></li>
 <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version">Revised 508 Standards</a> (revised January 2017, effective January 2018)</li>
 <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E204-functional-performance-criteria">Revised 508 Standards Functional Performance Criteria</a></li>
 </ul>
