@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx01/
-type: training
+type: document training
 title: 'Module 1: Save as a Word Document (.docx) with a Descriptive Filename'
 created: 1579720714
 redirect_from:
 - create/documents/aed-cop-docx01/
 ---
 
-# Module 1: **Save as a Word Document (.docx) with a Descriptive Filename**
+[comment]: <> (# Module 1: **Save as a Word Document &#40;.docx&#41; with a Descriptive Filename**)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx01/
-type: training
+type: spreadsheet training
 title: 'Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order'
 created: 1579723625
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx01/
 ---
 
-# Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order
+[comment]: <> (# Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

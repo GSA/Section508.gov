@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/pdfs/aed-cop-pdf00/
-type: training
+type: pdfs training
 title: 'Module 0: Introduction & Background'
 created: 1579721762
 redirect_from:
  - create/pdfs/aed-cop-pdf00/
 ---
 
-# Module 0: Introduction & Background
+[comment]: <> (# Module 0: Introduction & Background)
 
 <p style="font-size:115%">
   From: How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC

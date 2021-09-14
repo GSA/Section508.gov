@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx03/
-type: training
+type: presentation training
 title: 'Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text'
 created: 1578419581
 redirect_from:
  - create/presentations/aed-cop-pptx03/
 ---
 
-# Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text
+[comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

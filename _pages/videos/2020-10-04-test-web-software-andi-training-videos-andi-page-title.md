@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/andi-page-title/
-type: training
+type: ANDI training
 title: 'Module 10: Page Title'
 created: 1601867925
 redirect_from:
 - test/web-software/andi-training-videos/andi-page-title/
 ---
 
-<h1>Module 10: Page Title </h1>
+[comment]: <> (<h1>Module 10: Page Title </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

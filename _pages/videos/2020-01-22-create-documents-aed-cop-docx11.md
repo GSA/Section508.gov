@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx11/
-type: training
+type: document training
 title: 'Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning'
 created: 1579721351
 redirect_from:
 - create/documents/aed-cop-docx11/
 ---
 
-# Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning
+[comment]: <> (# Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx09/
-type: training
+type: spreadsheet training
 title: 'Module 9: Excluding Flashing Objects'
 created: 1579724090
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx09/
 ---
 
-# Module 9: Excluding Flashing Objects
+[comment]: <> (# Module 9: Excluding Flashing Objects)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

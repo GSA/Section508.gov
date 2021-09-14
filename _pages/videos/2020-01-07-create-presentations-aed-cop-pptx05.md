@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/presentations/aed-cop-pptx05/
-type: training
+type: presentation training
 title: 'Module 5: Formatting Lists Properly'
 created: 1578419714
 redirect_from:
  - create/presentations/aed-cop-pptx05/
 ---
 
-# Module 5: Formatting Lists Properly
+[comment]: <> (# Module 5: Formatting Lists Properly)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft PowerPoint Presentations for Accessibility

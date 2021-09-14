@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx06/
-type: training
+type: document training
 title: 'Module 6: Identify Distinct Languages'
 created: 1579721019
 redirect_from:
  - create/documents/aed-cop-docx06/
 ---
 
-# **Module 6: Identify Distinct Languages**
+[comment]: <> (# **Module 6: Identify Distinct Languages**)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

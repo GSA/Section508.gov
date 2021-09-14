@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/links-buttons/
-type: training
+type: ANDI training
 title: 'Module 3: Links & Buttons'
 created: 1599835706
 redirect_from:
 - test/web-software/andi-training-videos/links-buttons/
 ---
 
-<h1 class="page-header">Module 3: Links & Buttons </h1>
+[comment]: <> (<h1 class="page-header">Module 3: Links & Buttons </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 --------------------------------------

@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/documents/aed-cop-docx05/
-type: training
+type: document training
 title: 'Module 5: Use Built-in Features to Create Layout and Data Tables'
 created: 1579720924
 redirect_from:
  - create/documents/aed-cop-docx05/
 ---
 
-# **Module 5: Use Built-in Features to Create Layout and Data Tables**
+[comment]: <> (# **Module 5: Use Built-in Features to Create Layout and Data Tables**)
 
 <p style="font-size:115%">
   From: How to Make an Accessible Document in Microsoft Word

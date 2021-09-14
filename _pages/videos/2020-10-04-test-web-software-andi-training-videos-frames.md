@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/frames/
-type: training
+type: ANDI training
 title: 'Module 11: Frames'
 created: 1601868047
 redirect_from:
 - test/web-software/andi-training-videos/frames/
 ---
-<h1>Module 11: Frames </h1>
+
+[comment]: <> (<h1>Module 11: Frames </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 

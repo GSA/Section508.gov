@@ -2,14 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/spreadsheets/aed-cop-xlsx07/
-type: training
+type: spreadsheet training
 title: 'Module 7: Creating Links with Unique and Descriptive Names'
 created: 1579723939
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx07/
 ---
 
-# Module 7: Creating Links with Unique and Descriptive Names
+[comment]: <> (# Module 7: Creating Links with Unique and Descriptive Names)
 
 <p style="font-size:115%">
   From: How to Author and Test Microsoft Excel Worksheets for Accessibility

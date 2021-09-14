@@ -2,13 +2,14 @@
 sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/page-language/
-type: training
+type: ANDI training
 title: 'Module 8: Page Language'
 created: 1601866940
 redirect_from:
 - test/web-software/andi-training-videos/page-language/
 ---
-<h1>Module 8: Page Language </h1>
+
+[comment]: <> (<h1>Module 8: Page Language </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
