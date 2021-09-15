@@ -50,4 +50,4 @@ Regardless of whether you use contractors or agency staff to develop digital ser
   * [Section 508 Standards][2]
 
  [1]: {{site.baseurl}}/test
- [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
