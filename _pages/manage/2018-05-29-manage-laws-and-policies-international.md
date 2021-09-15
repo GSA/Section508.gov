@@ -9,8 +9,8 @@ created: 1527606769
 
 The Law enacting Section 508 (29 U.S.C. 794d) directed the Access Board to develop a standard for accessibility of EIT. That standard is the only standard in the US that federal agencies must follow when they develop, procure, maintain or use electronic and information technology. However, there are several government-supported efforts around the world working on a "standards approach" to ensuring accessibility of EIT (or ICT - Information and Communications Technology, a commonly used term worldwide) for people with disabilities. No single worldwide standard has been developed, and to date there is no plan to develop a single standard. Other efforts include:
 
-  * [Standard - EN 301 549][1]: European Standard on "Accessibility requirements suitable for public procurement of ICT products and services in Europe". The Standard EN 301 549 was produced in 2014 by the three European Standardization Organizations CEN, CENELEC and ETSI in response to a request from the European Commission ([Mandate 376][2]).
-  * [International Policies Relating to Web Accessibility][3] (W3C): links to information on government policies relating to Web accessibility in different countries around the world.
+  * [Standard - EN 301 549][1]: European Standard on "Accessibility requirements suitable for public procurement of ICT products and services in Europe". The Standard EN 301 549 was produced in 2014 by the three European Standardization Organizations CEN, CENELEC and ETSI in response to a request from the European Commission (Mandate 376).
+  * [International Policies Relating to Web Accessibility][2] (W3C): links to information on government policies relating to Web accessibility in different countries around the world.
 
 ## Standard Harmonization
 
@@ -24,6 +24,5 @@ In addition to a role in acquisition of government supplies and services, GSA ha
 
 National and international harmonization depends on GSA maintaining its leadership position in ICT accessibility standards and tools and methods for conformance. GSA will continue its work with the Access Board and US standards bodies, including NIST, to harmonize accessibility standards with other nations, to increase the impact of these standards on industry decision-making about how they develop and market their products/services. If realized, harmonization would eliminate the possibility of fragmented and conflicting sets of accessibility requirements coming from different nations or states, thus establishing a strong, coordinated international industry segment with sufficient magnitude to entice the ICT industry to address our accessibility requirements as key needs as they develop and market ICT.
 
- [1]: https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf
- [2]: http://www.etsi.org/WebSite/document/aboutETSI/EC_Mandates/m376en.pdf
- [3]: http://www.w3.org/WAI/Policy/
+ [1]: https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf
+ [2]: http://www.w3.org/WAI/Policy/

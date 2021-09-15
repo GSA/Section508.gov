@@ -77,7 +77,7 @@ Additional related laws include:
 ### Equal Employment Opportunity Commission (EEOC)
 
   * [EEOC Policy Guidance On Executive Order 13164: Establishing Procedures To Facilitate The Provision Of Reasonable Accommodation][30] - October 2000
-  * [EEOC Procedures for Providing Reasonable Accommodation for Individuals With Disabilities][31] - February 2001
+  * [Practical Advice for Drafting and Implementing Reasonable Accommodation Procedures Under Executive Order 13164][31] - July 2005
 
 ### State and International
 
