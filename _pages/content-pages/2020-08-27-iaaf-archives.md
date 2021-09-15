@@ -7,18 +7,18 @@ title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
 --- 
 
-## 2021 Interagency Accessibility Forum
+## 2020 Interagency Accessibility Forum
 
-The seventh annual Interagency Accessibility Forum, October 6-7, 2021 was co-hosted by the General Services Administration (GSA) and the U.S. Census Bureau. The 2021 Interagency Accessibility Forum celebrated the 75th observance of the National Disability Employment Awareness Month (NDEAM) and the 30th anniversary of the Americans with Disability Act (ADA).
+The seventh annual Interagency Accessibility Forum, October 6-7, 2020 was co-hosted by the General Services Administration (GSA) and the U.S. Census Bureau. The 2020 Interagency Accessibility Forum celebrated the 75th observance of the National Disability Employment Awareness Month (NDEAM) and the 30th anniversary of the Americans with Disability Act (ADA).
 
 The event, with a theme of “Enabling Missions Accessible Technology - Leaving No One Behind,” featured keynote addresses by four fabulous speakers, four panel discussions, and nine breakout sessions across a range of topics. Presentation files, videos and transcripts will be posted as they become available.
 
-The 2021 IAAF was attended by accessibility professionals across 42 U.S. states and territories, and 8 countries including Australia, Canada, France, India, Mexico, Morocco, South Africa, and Sweden.
+The 2020 IAAF was attended by accessibility professionals across 42 U.S. states and territories, and 8 countries including Australia, Canada, France, India, Mexico, Morocco, South Africa, and Sweden.
 
 ### Event Agenda & Speaker and Presenter Biographies  
-The 2021 IAAF had a full, two-day agenda, with featured speakers, keynote addresses, and breakout sessions and discussions led by those on the forefront of accessibility in the federal, private, academic, and nonprofit sectors.
+The 2020 IAAF had a full, two-day agenda, with featured speakers, keynote addresses, and breakout sessions and discussions led by those on the forefront of accessibility in the federal, private, academic, and nonprofit sectors.
 
-For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2021 IAAF Agenda</a> and
+For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 IAAF Agenda</a> and
  <a href="{{site.baseurl}}/iaaf/archives/biographies-2020">Speaker and Presenter Biographies</a>.
 
 <div id="event-agenda">
@@ -177,5 +177,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2021 I
       </div>
     </div>
     <p>
-      <strong>Reviewed/Updated</strong>: June 2021
+      <strong>Reviewed/Updated</strong>: June 2020
     </p>
