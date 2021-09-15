@@ -168,7 +168,7 @@ According to the World Bank, [approximately one billion people worldwide live wi
         <a href="https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/">https://disability-smart.com/2017/01/10/is-there-really-a-business-case-for-website-accessibility/</a>
       </li>
       <li>
-        <a href="../index.php">https://section508.gov/</a>
+        <a href="{{site.baseurl}}/">https://section508.gov/</a>
       </li>
     </ul>
   </div>
