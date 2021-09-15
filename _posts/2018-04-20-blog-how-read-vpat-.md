@@ -65,7 +65,7 @@ For more information, contact <section.508@gsa.gov>
 
  [1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
  [2]: https://www.recode.net/2017/9/1/16236506/tech-amazon-apple-gdp-spending-productivity
- [3]: ../index.php
+ [3]: {{site.baseurl}}/
  [4]: {{site.baseurl}}/buy/request-accessibility-information
  [5]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
  [6]: {{site.baseurl}}/buy/define-accessibility-criteria

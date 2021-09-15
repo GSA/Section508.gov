@@ -228,7 +228,7 @@ Better accessibility supports many areas of information assurance, including sec
   Support and encourage accessibility training for acquisition professionals, IT project managers, communications staff, web managers, software developers, authors of digital content, help desk support staff, and civil rights staff.
 </li>
 <li dir="ltr">
-  <a href="https://training.section508.gov/508-training/courses/new/index.html">Government-wide IT Accessibility Training</a>
+  <a href="{{site.baseurl}}/training-home/">Government-wide IT Accessibility Training</a>
 </li>
 <li dir="ltr">
   <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro">IT Accessibility/508 Program Manager Playbook</a>
