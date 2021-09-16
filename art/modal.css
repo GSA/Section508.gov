@@ -804,10 +804,7 @@
       flex-direction: column;
     }
   }
-#ExceptionInputQuestionfor-test {
-    display: none;
-}
 
-#exceptioninputnumbertest {
+[id*="exceptioninputnumber"],[id*="ExceptionInputQuestionfor"]{
     display: none;
 }
