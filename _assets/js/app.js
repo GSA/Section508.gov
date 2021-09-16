@@ -24,7 +24,7 @@ jQuery('.active').parent().parent().addClass('active');
 
 
 $(document).ready(function (e) {
-    
+
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 var topButton= $("#backtotop");
