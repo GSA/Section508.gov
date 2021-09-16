@@ -804,4 +804,10 @@
       flex-direction: column;
     }
   }
-  
+#ExceptionInputQuestionfor-test {
+    display: none;
+}
+
+#exceptioninputnumbertest {
+    display: none;
+}
