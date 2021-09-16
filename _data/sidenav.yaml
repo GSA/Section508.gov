@@ -290,6 +290,8 @@ develop:
     children:
       - name: Universal Design
         url: 'develop/universal-design/'
+      - name: Video Training
+        url: 'develop/universal-design-video-series/'
   - name: Develop
     url: '#'
     children:
