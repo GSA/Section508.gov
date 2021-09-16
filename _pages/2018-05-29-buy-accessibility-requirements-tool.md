@@ -21,7 +21,9 @@ To start a new procurement, you&rsquo;ll need to know:
   * The estimated total value of your acquisition
   * What you are procuring (e.g., hardware, software, support documentation, etc.)
 
-## Training Videos
+  <hr>
+
+<!-- ## Training Videos
 <hr>
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
@@ -39,7 +41,7 @@ To start a new procurement, you&rsquo;ll need to know:
       </p>
     </div>
   </div>
-  <hr>
+  <hr> -->
 
 <div id="target" style="background-color: #f5f9fc; padding:10px 20px 20px 20px">
   <h2>
