@@ -43,10 +43,10 @@ If your agency doesn't have a designated 508 PM, contact your agency CIO office 
 Navigate to Agencies starting with: <span id="topA" ></span> |[A][25]| <span id="topC" ></span> |[C][26]| <span id="topD" ></span> |[D][27]|  <span id="topE" ></span> |[E][28]|  <span id="topF" ></span>|[F][29]| <span id="topG" ></span> |[G][30]| |[I][31]| <span id="topM" ></span> |[M][32]| <span id="topN" ></span> |[N][33]| <span id="topO" ></span> |[O][34]| <span id="topP" ></span> |[P][35]| <span id="topR" ></span> |[R][36]| <span id="topS" ></span> |[S][37]| <span id="topT" ></span> |[T][38]| <span id="topU" ></span> |[U][39]|
 
 \- - - - - 
-## <a id="usaid" ></a>Agency for International Development (USAID)
+## <span id="usaid" ></span>Agency for International Development (USAID)
 
 William Morgan - <wmorgan@usaid.gov>
-## <a id="usda" ></a>Department of Agriculture (USDA)
+## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Department-wide
 
 Angela Williams - 202-720-8657 - <angela.williams@ocio.usda.gov>
@@ -76,7 +76,7 @@ Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
 Rick Coleman - 202-692-0228 - <rick.coleman@wdc.usda.gov>
 
 
-## <a id="usdoc"></a>Department of Commerce
+## <span id="usdoc"></span>Department of Commerce
 
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - [jjessup@doc.gov][41]
@@ -94,7 +94,7 @@ Patricia Kless - 703-756-1977 - [patricia.Kless@uspto.gov][43]
 
 
 
-## <a id="usdod" ></a>Department of Defense
+## <span id ="usdod" ></span>Department of Defense
 ### Department-wide
 
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - [susan.j.haggerty2.civ@mail.mil][44]
@@ -184,18 +184,18 @@ Matthew Mihelcic - 618-220-3982 DSN -770-4334 - <matthew.m.mihelcic.civ@mail.mil
 Vacant 
 
 
-<a id="usdoe" ></a>
+<span id="usdoe" ></span>
 ## Department of Education
 
 Denise McGland -&nbsp;202-245-6606 -&nbsp;<a href="mailto:denise.mcgland@ed.gov" target="_blank">denise.mcgland@ed.gov</a>  
 Jason Lautenbacher - 202-245-7303 -&nbsp;<a href="mailto:Jason.Lautenbacher@ed.gov" target="_blank">jason.Lautenbacher@ed.gov</a>
 
-<a id="usdoen" ></a>
+<span id="usdoen" ></span>
 ## Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
 Denise Hill (BACKUP)
 
-<a id="usdohhs" ></a>
+<span id="usdohhs" ></span>
 
 ## Department of Health and Human Services
 ### Department-wide
@@ -230,7 +230,7 @@ Mark Siegal - 240-276-2141 - [mark.Siegal@samhsa.hhs.gov][53]
 Erin Washington - 240-276-0571 - [erin.Washington@samhsa.hhs.gov][54]
 
 
-<a id="usdhs" ></a>
+<span id="usdhs" ></span>
 
 ## Department of Homeland Security
 ### Department-wide
@@ -287,11 +287,11 @@ Leonard Dorrian - 202-406- 9761 - [leonard.dorrian@usss.dhs.gov][65]
 
 
 
-<a id="usdhud" ></a>
+<span id="usdhud" ></span>
 
 ## Department of Housing and Urban Development
 Jeffrey Salit - 202-402-7507 - <jeffrey.l.salit@hud.gov>
-<a id="usdoi" ></a>
+<span id="usdoi" ></span>
 
 ## Department of the Interior
 ### Department-wide
@@ -325,7 +325,7 @@ Christina Bartlett -&nbsp;703-648-7197 - <cbartlett@usgs.gov>
 Larry Reedy -&nbsp;<lreedy@usgs.gov>   
 
 
-<a id="usdoj" ></a>
+<span id="usdoj" ></span>
 
 ## Department of Justice
 ### Department-wide
@@ -386,15 +386,15 @@ Christopher Egan - 202-514-9838 - [christopher.R.Egan@usdoj.gov][89]
 Carmen Carpenter - 703-740-0860 - [carmen.Carpenter@usdoj.gov][90] 
 
 
-<a id="usdol" ></a>
+<span id="usdol" ></span>
 
 ## Department of Labor
 Brandon Jubar - 202.693.4289 - [jubar.Brandon.T@dol.gov][91]
-<a id="usdos" ></a>
+<span id="usdos" ></span>
 
 ## Department of State
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
-<a id="usdot" ></a>
+<span id="usdot" ></span>
 
 ## Department of Transportation
 ### Department-wide
@@ -405,7 +405,7 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
 
-<a id="usdott" ></a>
+<span id="usdott" ></span>
 
 ## Department of the Treasury
 
@@ -440,48 +440,48 @@ James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>
 Rodney Dunwoody - (BACKUP) 202-354-7791 - [rodney.dunwoody@usmint.treas.gov][97]
 
 
-<a id="usdova" ></a>
+<span id="usdova" ></span>
 
 ## Department of Veterans Affairs
 Pat Sheehan - 202-461-5207 - <pat.sheehan@va.gov>
-<a id="usepa" ></a>
+<span id="usepa" ></span>
 
 ## Environmental Protection Agency
 Giselle Jasmin&nbsp;- 202-564-2056&nbsp;-&nbsp;<a href="mailto:Jasmin.Giselle@epa.gov" target="_blank">jasmin.Giselle@epa.gov</a>  
 Sarah Sorathia (BACKUP) - 202-564-1204 -&nbsp;[sorathia.Sarah@epa.gov][98]
-<a id="usgsa" ></a>
+<span id="usgsa" ></span>
 
 ## General Services Administration
 Dan Perkins - 816-823-1717 - <dan.perkins@gsa.gov>
 
-<a id="usnasa" ></a>
+<span id="usnasa" ></span>
 ## National Aeronautics and&nbsp;Space Administration
 
 Lori Parker - 202-358-1351 -&nbsp;<a href="mailto:lori.parker@nasa.gov" target="_blank">lori.parker@nasa.gov</a>
 
 
-<a id="usgsfc" ></a>
+<span id="usgsfc" ></span>
 ## Goddard Space Flight Center
 
 Betsy Sirk - 301-286-0150 - <betsy.sirk-1@nasa.gov>
 
-<a id="usnsf" ></a>
+<span id="usnsf" ></span>
 ## National Science Foundation
 Katherine Otts - 703-292-7552 - <kotts@nsf.gov>
-<a id="usnrc" ></a>
+<span id="usnrc" ></span>
 
 ## Nuclear Regulatory Commission
 John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
-<a id="usopm" ></a>
+<span id="usopm" ></span>
 
 ## Office of Personnel Management
 Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
-<a id="ussba" ></a>
+<span id="ussba" ></span>
 
 ## Small Business Administration
 Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
-<a id="usssn" ></a>
+<span id="usssn" ></span>
 
 ## Social Security Administration
 
@@ -491,11 +491,11 @@ Mike Fratkin (Back-up) - 410-966-5902 - <mike.fratkin@ssa.gov>
 
 
 ## Small and Independent Agencies
-<a id="A" ></a>
+<span id="A" ></span>
 
 ### Access Board
 Bruce Bailey - 202-272-0024 - (TTY) 202-272-0070 - <bailey@access-board.gov>
-<a id="C" ></a>
+<span id="C" ></span>
 
 ### Committee for Purchase from People Who Are Blind or Severely Disabled (CPPBSD)
 Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
@@ -504,11 +504,11 @@ Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
 ### Corporation for National & Community Service (CNS)
 Shar’ron A. Tendai - 202-606-3904 - [stendai@cns.gov][99]
-<a id="D" ></a>
+<span id="D" ></span>
 
 ### Defense Nuclear Facilities Safety Board
 Jeremy Bingham - <jeremyb@dnfsb.gov>
-<a id="E" ></a>
+<span id="E" ></span>
 
 ### Equal Employment Opportunity Commission (EEOC)
 Pierrette McIntire - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
@@ -517,7 +517,7 @@ Deanna Scott - 202-540-9189 - (Video Phone) - <deanna.scott@eeoc.gov>
 Patrick Leahy - 202-566-1675 - <pleahy@eac.gov>
 ### Executive Office of the President (EOP)
 Craig Guyton - 202-395-0826 - <craig.guyton@oa.eop.gov>
-<a id="F" ></a>
+<span id="F" ></span>
 
 ### Farm Credit Administration (FCA)
 Tom Wild - 703-851-2509 - <wildt@fca.gov>
@@ -552,25 +552,25 @@ Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 Kristin Bishop - 202-736-5628 - <kristin.l.bishop@frb.gov>
 
-<a id="G" ></a>
+<span id="G" ></span>
 
 ### Government Accountability Office (GAO)
 
 Leo Barbour - 202-512-3992 - <barbourl@gao.gov>
 
-<a id="I" ></a>
+<span id="I" ></span>
 
 ### Institute of Museum and Library Services
 
 Damishia King - 202-653-4686 - <dking@imls.gov>
 
-<a id="M" ></a>
+<span id="M" ></span>
 
 ### Merit Systems Protection Board (MSPB)
 
 Dennis Oden&nbsp;- 202-254-4723 -&nbsp;<a href="mailto:Dennis.Oden@mspb.gov" target="_blank">dennis.oden@mspb.gov</a>
 
-<a id="N" ></a>
+<span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
 Eric Chaskes - 301-837-1586 - <eric.chaskes@nara.gov>  
@@ -586,36 +586,36 @@ Tayna Peltz - 202-606-8399 - <tpeltz@neh.gov>
 Daniel Hetrick -&nbsp;<a href="mailto:drhetri@radium.ncsc.mil" target="_blank">drhetri@radium.ncsc.mil</a>  
 Illene Schilling (Backup)
 
-<a id="O" ></a>
+<span id ="O" ></span>
 
 ### Office of Special&nbsp;Counsel
 
 Wing Leung - 202-653-5822 - <wleung@osc.gov>
 
-<a id="P" ></a>
+<span id="P"></span>
 
 ### Peace Corps
 
 Rachel Gardell - 202-692-1392 - <rgardell@peacecorps.gov>
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - 202-326-4100, ext. 3181 - [watkins.angela@pbgc.gov][102]
-<a id="R" ></a>
+<span id="R" ></span>
 
 ### Railroad Retirement Board
 
 Robert LaBerry - 312-751-7153&nbsp;- <a href="mailto:robert.laberry@rrb.gov" target="_blank">robert.laberry@rrb.gov</a>
 
-<a id="S" ></a>
+<span id="S" ></span>
 
 ### Securities and Exchange Commission (SEC)
 
 Sharvon Jones - 202-551-5251 -&nbsp;<jonessh@sec.gov>
 
-<a id="T" ></a>
+<span id="T" ></span>
 
 ### Tennessee Valley Authority
 Vacant
-<a id="U" ></a>
+<span id="U" ></span>
 
 ### U.S. Agency for Global Media (USAGM)
 Vacant
