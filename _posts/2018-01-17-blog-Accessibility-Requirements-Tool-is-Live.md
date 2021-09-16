@@ -28,6 +28,6 @@ We’re hosting an **in-person** “Introduction to ART” event at GSA Headquar
 Please email us at <section.508@gsa.gov> with comments, questions and feedback about ART.
 
 
- [1]: {{site.baseurl}}/art/home
+ [1]: {{site.baseurl}}/art/
  [2]: {{site.baseurl}}/manage/laws-and-policies
  [3]: {{site.baseurl}}/

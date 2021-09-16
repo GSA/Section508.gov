@@ -1019,7 +1019,7 @@ sidenav: false
     <strong>602.3 Electronic Support Documentation. </strong>Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
   </p>
   
-  <p>
+  <p aria-label="602.4 Alternate Formats for Non-Electronic Support Documentation. 1">
     <strong>602.4 Alternate Formats for Non-Electronic Support Documentation. </strong>Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.
   </p>
 </div>

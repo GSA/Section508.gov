@@ -14,6 +14,7 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
   * [Hybrid][4] - A combination of automated and manual testing.
 
 <div id="Automated">
+<h2>Automated Testing</h2>
 <p>Take advantage of high volume (automated) 508 compliance scanning tools, but be aware of their limitations.</p>
 
 
@@ -93,7 +94,7 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
 </div>
 <div id="Manual">
 <h2>Manual Testing</h2>
-<p>Follow the instructions outlined in <a href="/test"> Test for Accessibility</a>, endorsed by the Federal CIO Council&rsquo;s Accessibility Community of Practice.</p>
+<p>Follow the instructions outlined in <a href="{{site.baseurl}}/test"> Test for Accessibility</a>, endorsed by the Federal CIO Council&rsquo;s Accessibility Community of Practice.</p>
 </div>
 <div id="Hybrid">
 <h2>Hybrid Testing</h2>
@@ -114,7 +115,7 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
 </div>
 <h2>Related Resources</h2>
 <ul>
-<li><a href="/manage/support-accessible-content">Build Support for Accessible Content</a> - Follow the stages of content production to ensure your organization publishes accessible content.</li>
+<li><a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Follow the stages of content production to ensure your organization publishes accessible content.</li>
 </ul>
 <p><br />This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.</p>
 <p><strong>Reviewed/Updated: </strong>May 2018</p>

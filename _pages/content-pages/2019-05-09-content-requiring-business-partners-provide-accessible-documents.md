@@ -68,9 +68,9 @@ Vendors and individuals testing for accessibility may be interested in the [DHS 
 
 Learn more about [buying accessible products and services][6]. Contact Norman Robinson, IT Change Control Board Manager, US Department of State, at <RobinsonN@state.gov> with questions about this article.
 
- [1]: /art/home
+ [1]: {{site.baseurl}}/art/
  [2]: http://www.dhs.gov/compliance-test-processes
  [3]: http://www.w3.org/WAI/WCAG20/quickref/
  [4]: http://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973
  [5]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [6]: /buy
+ [6]: {{site.baseurl}}/buy
