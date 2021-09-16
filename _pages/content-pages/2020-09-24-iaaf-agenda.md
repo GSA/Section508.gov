@@ -5,6 +5,9 @@ permalink: iaaf/archives/agenda-2020/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2020'
 created: 1600981839
+redirect_from:
+- iaaf/agenda-2020/
+
 ---
 
 <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" />
