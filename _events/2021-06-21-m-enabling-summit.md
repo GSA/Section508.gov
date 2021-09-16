@@ -9,9 +9,9 @@ image-alt:
 permalink: /event/m-enabling-summit/ 
 ---
 
-The M-Enabling Summit Conference and Showcase is dedicated to promoting accessible and assistive technology for senior citizens and users of all abilities. It is an annual meeting place for all who implement digital accessibility strategies or develop enabling ICT products, services for workplaces, learning environments or consumer markets.  With its theme of "Digital Inclusion Strategies: A Catalyst for Action", the 2021 M-Enabling Summit will highlight how organizations can successfully leverage innovative enabling technologies to make their digital workplaces, learning environments and product and services accessible to users of all abilities.
+The M-Enabling Summit Conference and Showcase is dedicated to promoting digital environments and assistive technologies for senior citizens and users of all abilities. It is an annual meeting place for all who implement digital inclusion strategies or develop assistive solutions and accessible digital content and services for workplaces, learning environments or consumer markets. With its theme of “Strategies for Inclusive Digital Transformations,” the 2021 M-Enabling Summit will highlight the major shifts in business, government and education driven by the pandemic that will affect anyone involved in inclusion, accessibility, services to Persons with Disabilities or compliance matters. A rich sharing of experience and interactions among advocates, business leaders and technology providers will provide insights on how to best meet the imperative to ensure that Persons with Disabilities have full access to critical digital content and services.
 
-**Monday, Jun 21 2021 17:00**     
+**Monday, Oct 4-5, 2021**     
 **Topic Area:** Digital Accessibility  
 **Target Audience:** All audiences  
 **Provider:** G3ict  

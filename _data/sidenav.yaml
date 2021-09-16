@@ -290,6 +290,8 @@ develop:
     children:
       - name: Universal Design
         url: 'develop/universal-design/'
+      - name: Video Training
+        url: 'develop/universal-design-video-series/'
   - name: Develop
     url: '#'
     children:
@@ -333,8 +335,6 @@ acquisition:
         url: 'buy/'
       - name: Accessibility Requirement Tool (ART)
         url: 'art/'
-      - name: ART Webinar
-        url: 'buy/accessibility-requirements-tool/webinar/'
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
       - name: Determine 508 Standards and Exceptions
