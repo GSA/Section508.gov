@@ -25,7 +25,7 @@ When choosing the color palette for your slide&rsquo;s design, close attention m
 
   * [Module 0: Introduction & Background][1]
   * [Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order][2]
-  * **Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient[3]**
+  * **Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient**
   * [Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text][4]
   * [Module 4: Formatting Columns Correctly][5]
   * [Module 5: Formatting Lists Properly][6]
