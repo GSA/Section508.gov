@@ -29,7 +29,7 @@ url: "https://section508.gov" # the base hostname & protocol for your site, e.g.
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+#twitter: 18F
 
 #################################################################
 #
@@ -65,7 +65,7 @@ twitter: 18F
 #
 #################################################################
 dap:
-  # agency: your-agency
+   agency: gsa
 
   # Optional
   # subagency: your-subagency
