@@ -109,7 +109,7 @@ On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACO
           </li>          
           <li>
             <div>
-              <a href="{{site.baseurl}}">GSA&rsquo;s Governmentwide Section 508 Program</a>
+              <a href="{{site.baseurl}}/content/about-us/">GSA&rsquo;s Governmentwide Section 508 Program</a>
             </div>
           </li>
         </ul>

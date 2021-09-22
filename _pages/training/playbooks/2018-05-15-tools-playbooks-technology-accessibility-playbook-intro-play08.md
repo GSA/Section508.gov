@@ -62,7 +62,6 @@ The following play identifies how to ensure accessibility needs are identified a
 ## Resources
 
   * [Section 508 Standards][2]
-  * [Federal Government Section 508 Portal][3]
   * [OMB Government-wide Section 508 Strategic Plan][4]
   * Section 508 and the Federal Acquisition Regulations (FAR)
   * [GSA&rsquo;s Guidance on Creating Section 508 Compliant Solicitations][5]

@@ -176,6 +176,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         </p>
       </div>
     </div>
-    <p>
-      <strong>Reviewed/Updated</strong>: June 2020
-    </p>
+    <p><strong>Reviewed/Updated</strong>: June 2020</p>
+</div>
