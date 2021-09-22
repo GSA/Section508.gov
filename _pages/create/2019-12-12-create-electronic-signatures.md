@@ -66,7 +66,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr">
-  Learn more about specific considerations for hand-written signatures on page 25 of the <a href="https://www.section508.gov/sites/default/files/PDF%20Testing%20and%20Remediation%20Guide-Adobe%20Acrobat%20DC%20Pro-AED%20COP.docx">PDF Testing and Remediation Guide</a>.
+  Learn more about specific considerations for hand-written signatures on page 25 of the <a href="https://assets.section508.gov/files/PDF%20Testing%20and%20Remediation%20Guide-Adobe%20Acrobat%20DC%20Pro-AED%20COP.docx">PDF Testing and Remediation Guide</a>.
 </p>
 
 <h2 dir="ltr" id="web-based">
