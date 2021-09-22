@@ -45,5 +45,5 @@ We need talented people working in government who have expertise creating and de
 
 &nbsp;
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [1]: https://www.access-board.gov/ict/
  [2]: https://www.dhs.gov/trusted-tester

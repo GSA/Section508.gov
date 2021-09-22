@@ -517,7 +517,7 @@ redirect_from:
           <a href="https://www.tenon.io" target="_blank"><strong>Tenon.io</strong></a>: Tenon is an API-first, automated accessibility testing tool which integrates easily into your development pipeline.
         </li>
         <li>
-          <a href="https://www.tpgi.com/interagency-accessibility-forum-iaaf/" target="_blank"><strong>The Paciello Group</strong></a>: This exhibit will showcase TPG's testing and monitoring tools, ARC Monitoring and JAWS Inspect, used to conduct automated and manual evaluations of your web applications.
+          <a href="https://www.tpgi.com/" target="_blank"><strong>The Paciello Group</strong></a>: This exhibit will showcase TPG's testing and monitoring tools, ARC Monitoring and JAWS Inspect, used to conduct automated and manual evaluations of your web applications.
         </li>
         <li>
           <a href="https://www.uipath.com" target="_blank"><strong>UiPath</strong></a>: Check for 508 compliance of Word, PDF, PowerPoint, and Excel documents using UiPath robots. Pilots at NIH have shown 40 hours of manual reviews is reduced to 3 hours with no errors.
