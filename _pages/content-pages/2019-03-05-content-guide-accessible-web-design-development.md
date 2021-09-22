@@ -812,7 +812,7 @@ All non-text content that is presented to the user has a text alternative that s
 
 **Development Considerations**
 
-  * Insert a meaningful image with <img> instead of background image.
+  * Insert a meaningful image with `<img>` instead of background image.
   * Meaningful background images must be supplemented with a text equivalent on the page.
 
 ### 1.3.1 Info and Relationships
