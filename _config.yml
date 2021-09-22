@@ -65,7 +65,7 @@ url: "https://section508.gov" # the base hostname & protocol for your site, e.g.
 #
 #################################################################
 dap:
-   agency: gsa
+   agency: GSA
 
   # Optional
   # subagency: your-subagency
