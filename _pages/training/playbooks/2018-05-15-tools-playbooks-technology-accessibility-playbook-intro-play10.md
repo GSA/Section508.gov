@@ -57,6 +57,6 @@ Many individuals who are interested in testing to validate the conformance of a 
 
 &nbsp;
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards
+ [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [2]: http://www.agilemanifesto.org/
  [3]: http://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/
