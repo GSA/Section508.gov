@@ -100,7 +100,7 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 
 <h2 id = "resources"> Related Resources </h2>
 <ul>
- <li><a href="https://section508.gov/sites/default/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar_0.pptx">Digital Dashboard Accessibility Module Webinar </a>
+ <li><a href="https://assets.section508.gov/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar_0.pptx">Digital Dashboard Accessibility Module Webinar </a>
   - Overview of the purpose, uses, and function of the Digital Dashboard Accessibility module.
  </li>
 </ul>
