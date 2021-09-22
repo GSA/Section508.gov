@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: false
-permalink: content/about-us/
+permalink: about-us/
 type: page
 title: 'About Us'
 created: 1525805230
+redirect_from:
+- content/about-us/
 ---
 
 On January 18, 2017, the [U.S. Access Board][1] published a [final rule][2] updating accessibility requirements for information and communication technology (ICT) covered by [Section 508 of the Rehabilitation Act][3] and Section 255 of the Communications Act.
