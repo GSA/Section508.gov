@@ -71,11 +71,8 @@ The Section 508 law is broad in scope, applying to all technology the federal go
 
 [Play 12: Educate the workforce][16]
 
-&nbsp;
 
 **Reviewed/Updated**: June 2016
-
-&nbsp;
 
  [1]: https://playbook.cio.gov/
  [2]: https://standards.usa.gov/
