@@ -556,7 +556,7 @@ created: 1527574221
  [8]: https://training.section508.gov/508-training/courses/procurement/index.html
  [9]: #main-content
  [10]: https://standards.usa.gov/
- [11]: https://section508.gov/sites/default/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
+ [11]: https://assets.section508.gov/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [13]: https://assets.section508.gov/files/standards-exceptions-chart.docx
  [14]: {{site.baseurl}}/create/software-websites
