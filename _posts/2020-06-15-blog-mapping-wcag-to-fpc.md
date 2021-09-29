@@ -8,12 +8,9 @@ tags:
 description: The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://www.access-board.gov/ict/">Revised Section 508 Standards</a> share the same objective to make <a href="https://section508.gov/content/glossary/#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities.
 ---
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css">
-<script src="//cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.7/css/responsive.dataTables.css">
-<script src="https://cdn.datatables.net/responsive/2.2.7/js/dataTables.responsive.min.js"></script>
-<script class="init">
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+<script src="//cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
 jQuery(document).ready(function() {
 jQuery('#example').dataTable( {
      columnDefs: [
