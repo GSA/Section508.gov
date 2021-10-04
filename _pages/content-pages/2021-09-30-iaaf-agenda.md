@@ -26,7 +26,8 @@ created: 1600981839
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
     </div>
   </div>
-  
+
+  <!-- BEGIN DAY 1 KEYNOTE -->
   <div class="grid-row keynote">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1" id="d1k1">
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
@@ -39,33 +40,19 @@ created: 1600981839
       </div>
     </div>
   </div>
+  
+  <!-- BEGIN BREAK -->
   <div class="grid-row break">
     <div class="grid-col-12 cell dark padding-1">12:45 P.M. – 12:50 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
   </div>
-  
-  <!--
-  <div class="grid-row keynote">
-    <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1" id="d1k2">
-      10:30 A.M. – 11:00 A.M. <br><span class="session-type">Keynote Address</span>
-    </div>
-    <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#dhillon">Janet Dhillon</a></b></span>, Chair of the Equal Employment Opportunity Commission (EEOC)
-    </div>
-  </div>
 
-  <div class="grid-row break">
-    <div class="grid-col-12 cell dark padding-1">
-      11:00 A.M. – 11:15 A.M.<br><span class="session-type">Break</span>
-    </div>
-  </div>
-  -->
-  
+  <!-- BEGIN DAY 1 GENERAL SESSION --> 
   <div class="grid-row session">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d1gs1">
       12:50 P.M. – 1:35 P.M. <br><span class="session-type">General Session</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-      <span class="session-type">Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description">Ensuring that accessibility is accounted for and managed throughout the various steps of the federal information technology acquisition lifecycle can be challenging. When planning and managing an acquisition of Information and Communication Technology (ICT), federal agencies follow an acquisition lifecycle. While agencies vary in how they conduct their acquisition planning depending on the specific ICT being procured, there are key acquisition lifecycle stages and processes that most agencies follow. Government and industry panelists share best practices on incorporating and managing ICT accessibility requirements.</span> 
+      <span class="session-type" style="font-weight:bold">Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle</span><span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oden">Denis Oden,</a></b></span>Department of Labor (DOL)
