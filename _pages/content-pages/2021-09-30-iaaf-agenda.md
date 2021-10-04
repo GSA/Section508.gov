@@ -73,17 +73,16 @@ created: 1600981839
   <!-- close cell -->
 
   <div class="grid-row">
-
-
-  <!-- start breakout row -->
+  <!-- START BREAKOUT ROW -->
   <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown-breakout padding-1 black">1:35 P.M. - 2:20 P.M. <br><span class="session-type black" id="d1bs1">Breakout Sessions</span>
     </div>
+    <!-- BEGIN DAY 1 SESSION 1 TRACK A --> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
-      <div class="brown-breakout-header">Track A: Customer Experiences & Content Creation</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm" id="d1bs1a">COVID-19 Creates the Case for 508 Compliance and Best Practices</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Community Involvement Coordinators, Angie Fuoco and Hilary Clark, reported to EPA’s San Francisco office in March, as COVID-19 forced a shift to virtual working environments. Section 508 requirements and accessibility best practices became a focal point in their now virtual community involvement resulting from the pandemic. Angie and Hilary describe the best practices they developed for virtual community meetings and their plans to take “total access planning” on the road and into communities once in-person meetings become possible again.</span> 
+      <div class="brown-breakout-header">Track A: Lead Our Agencies Towards Access</div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm" id="d1bs1a">Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn the steps to the accessibility dance.  Experts from Civil Rights, 508, IT, procurement and Reasonable accommodations will lead a discussion of the importance of collaboration and networking across disciplines to ensure accessibility for all.  Successes and challenges for filling your agency’s accessibility dance card will be shared. You will leave with tips on when to tap, clog, waltz, and do a little shimmy to make your agency the hip-hopping accessibility place to work.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#truesdell">Cammie Truesdell,</a></b> </span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">PENDING</a></b></span>, General Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
@@ -92,10 +91,11 @@ created: 1600981839
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie L. Fuoco,</a></b></span>Environmental Protection Agency (EPA)
       </div>
-    </div> 
+    </div>
+    <!-- BEGIN DAY 1 SESSION 1 TRACK B -->  
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d1bs1b">
-      <div class="brown-breakout-header">Track B: Acquisition & Program Management</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn about the acquisition processes used at the U. S. Census Bureau, Centers for Disease Control and Prevention, and the Social Security Administration. Panelists share their experiences, detailing efforts to procure and maintain products that conform to Section 508 regulations at their respective agencies. Topics covered include: defining business needs and requirements, conducting market research, solicitation, acquisition, and contract management in the acquisition lifecycle. Hear about what works well and ways to mitigate accessibility risks from panelists with real-world experience. This session also provides resources and guidance for attendees to optimize the accessibility component of procurement in the acquisition lifecycle at their agency or company.</span> 
+      <div class="brown-breakout-header">Track B: Create Amazing Content<br></div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility First: Creating a Native Mobile App for Veterans</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The VA Office of the CTO, along with its partners Ad Hoc and Digital Foundry, created a native mobile flagship app. This app makes it easy for Veterans to check the status of their benefits and complete simple, transactional interactions. The app was designed and developed with an “accessibility first” mindset, and we will talk in detail about how we built in accessibility every day during our design and development process.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#malakhoff">Larry Malakhoff,</a></b> </span>U.S. Census Bureau
@@ -115,10 +115,10 @@ created: 1600981839
         <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx" target="_blank">IAAF 2020 - Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</a></span>
       </div>
     </div>
-    <!-- BEGIN DAY 1 TRACK C --> 
+    <!-- BEGIN DAY 1 SESSION 1 TRACK C --> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1c">
-      <div class="brown-breakout-header">Track C: Innovation<br /></div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The innovation track will cover current efforts to enhance accessibility for people with disabilities in the workplace using technology powered by artificial intelligence (AI). Panelists share an overview of current and emerging use of AI tools and technologies in the modern workplace (virtual and physical) in both the private and public sectors. Concerns around AI bias against people with disabilities for candidate screenings, job interviews, and automation of work tasks will be highlighted, as well as how AI can benefit efforts to increase employment for people with disabilities and enhance accessibility by fostering new solutions to provide workplace accommodations and address systemic work barriers.</span> 
+      <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for Federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both Federal Agencies and Industry will be shared.</span> 
      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#curtis-davidson">Bill Curtis-Davidson,</a></b> </span>Department of Labor (DOL)
