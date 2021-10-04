@@ -90,7 +90,7 @@ created: 1600981839
       </div> 
       <!-- 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie L. Fuoco,</a></b></span>Environmental Protection Agency (EPA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie L. Fuoco</a></b>, </span>Environmental Protection Agency (EPA)
       </div> 
       -->
     </div>
@@ -100,22 +100,24 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility First: Creating a Native Mobile App for Veterans</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The VA Office of the CTO, along with its partners Ad Hoc and Digital Foundry, created a native mobile flagship app. This app makes it easy for Veterans to check the status of their benefits and complete simple, transactional interactions. The app was designed and developed with an “accessibility first” mindset, and we will talk in detail about how we built in accessibility every day during our design and development process.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#malakhoff">Larry Malakhoff,</a></b> </span>U.S. Census Bureau
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">PENDING</a></b>, </span> General Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#crowell">Pierce Crowell,</a></b> </span>Social Security Administration (SSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#wilkes">Martha Wilkes</a></b>, </span>U.S. Digital Service
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban,</a> </b></span>Centers for Disease Control and Prevention (CDC)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#green">Bess Green</a></b>, </span>Digital Foundry
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">Dave Whittington,</a> </b></span>U.S. Census Bureau
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#manak">Meli S. Manek</a></b>, </span>Ad Hoc
       </div>
+      <!-- HIDE DOWNLOAD
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
         <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx" target="_blank">IAAF 2020 - Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</a></span>
       </div>
+      -->
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK C --> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1c">
