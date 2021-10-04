@@ -7,9 +7,9 @@ title: 'Find Your 508 Program Manager'
 created: 1525805876
 ---
 
-Agency 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated 508 PM below.
+Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated Section 508 PM below.
 
-If your agency doesn't have a designated 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
+If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
 
 
 ## Departments and CFO Act Agencies
@@ -61,7 +61,7 @@ Steve Meacham - 816-926-1942 - <steve.meacham@kcc.usda.gov>
 Mitch Ringer - 505-563-7153 - <mringer@fs.fed.us>
 ### Information Management Services Branch
 
-Steven Beauford - 202-720-0113 - [steven.Beauford@wdc.usda.gov][40]
+Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
 ### National Agricultural Statistics Service
 
 Rich Holcomb - 202-720-3400 - <rich.holcomb@nass.usda.gov>
@@ -679,7 +679,6 @@ Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
  [37]: #S "Go to agencies beginning with S"
  [38]: #T "Go to agencies beginning with T"
  [39]: #U "Go to agencies beginning with U"
- [40]: mailto:Steven.Beauford@wdc.usda.gov
  [41]: mailto:JJessup@doc.gov
  [42]: mailto:Maureen.Brown@uspto.gov
  [43]: mailto:Patricia.Kless@uspto.gov
