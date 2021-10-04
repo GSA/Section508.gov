@@ -53,7 +53,7 @@ created: 1600981839
       12:50 P.M. – 1:35 P.M. <br><span class="session-type">General Session</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-      <span class="session-type" style="font-weight:bold">Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle</span><span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span> 
+      <span class="session-type">Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle</span><span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Denis Oden,</a></b></span>Department of Labor (DOL)
