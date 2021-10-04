@@ -88,11 +88,6 @@ created: 1600981839
         <span class="session-type text-highlight">Panelists:</span><br> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#carr">Annette Carr</a></b>, </span>Department of Transportation (DOT)
       </div> 
-      <!-- 
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie L. Fuoco</a></b>, </span>Environmental Protection Agency (EPA)
-      </div> 
-      -->
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK B -->  
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d1bs1b">
@@ -178,10 +173,12 @@ created: 1600981839
           <span class="session-type text-highlight">Panelists:</span><br> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#montgomery">Dr. Rachel Bradley Montgomery,</a></b> </span>Library of Congress
         </div> 
+        <!-- HIDE DOWNLOAD
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf">IAAF 2020 - Welcome New PMs Breakout Session Presentation (PDF)</a></span>
         </div>
+        -->
       </div>
       <!-- BEGIN DAY 1 SESSION 2 TRACK C -->  
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
