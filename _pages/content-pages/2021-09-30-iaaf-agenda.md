@@ -125,22 +125,18 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for Federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both Federal Agencies and Industry will be shared.</span> 
      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#curtis-davidson">Bill Curtis-Davidson,</a></b> </span>Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">PENDING</a></b>, </span> General Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore, PhD</a></b> </span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk</a></b>, </span>National Aeronautics and Space Administration (NASA)
       </div> 
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#robertson">Scott Robertson, PhD</a> </b> </span>Department of Labor (DOL)
-      </div>
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#prabhakaran">Vinodkumar Prabhakaran, PhD</a> </b></span>Google
-      </div>
+      <!-- HIDE DOWNLOAD
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
         <span class="speaker-name"><p><a href="https://assets.section508.gov/files/IAAF_2020_Artificial_Intelligence_Emerging_Workplace.pptx">IAAF 2020 - Artificial Intelligence and the Emerging Workplace (PPT)</a></p></span>
       </div>
+      -->
     </div> 
   </div> 
   <!-- end breakout row -->
