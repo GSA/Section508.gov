@@ -642,7 +642,7 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hetrick.png" alt="Daniel Hetrick" />
   </div>
@@ -662,7 +662,7 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
-</div>
+</div> -->
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -674,7 +674,7 @@ created: 1601325079
       <strong>Judith E. Heumann</strong>
     </p>
     <p>
-      <em><span>International Disability Rights Activists</span></em><br /><span>Judith Heumann, LLC</span>
+      <em><span>International Disability Rights Activists</span></em><br /><span>Judith Heumann, LLC<br />Former Special Advisor for International Disability Rights, Department of State (2010-2017)</span>
     </p>
     <p>
       <span>Judith (Judy) Heumann is a lifelong advocate for the rights of disabled people. She contracted polio in 1949 in Brooklyn, New York and began to use a wheelchair for her mobility. She was denied the right to attend school because she was considered a "fire hazard" at the age of five. Her parents played a strong role in fighting for her rights as a child, but Judy soon determined that she, working in collaboration with other disabled people, had to play an advocacy role due to continuous discrimination.</span>
@@ -683,7 +683,7 @@ created: 1601325079
       <span>She is now an internationally recognized leader in the disability rights community. Her memoir, authored with Kristen Joiner, of <a href="https://www.amazon.com/Being-Heumann-Unrepentant-Disability-Activist/dp/0807019291" class="session-link"><em>Being Heumann</em>“Being Heumann: An Unrepentant Memoir of a Disability Rights Activist</a>,” published by Beacon Press and audio recorded by Ali Stroker, who is the first wheelchair actor to perform on Broadway. Judy was featured on the <a href="https://www.youtube.com/watch?v=ybcQbpSVo3c" class="session-link">Daily Show with Trevor Noah</a>. Judy is featured in <a href="https://www.youtube.com/watch?v=Fs0VRfOg7Wo&t=8s" class="session-link">Crip Camp: A Disability Revolution</a> is a 2020 American award winning documentary film, directed by James LeBrecht and Nicole Newnham, produced by the Obama Higher Ground Production and is available on Netflix. She also produces a podcast called <a href="https://open.spotify.com/show/0CYpP8LB2wZ8vUM93DnINF?si=wXgpTq8lT6OXxSkkEINhbA" class="session-link">The Heumann Perspective</a>, which features a variety of members from the disability community.</span>
     </p>
     <p>
-      <span>She has been featured in numerous documentaries including on the history of the disability rights movement, including <a href="https://www.pbs.org/independentlens/films/lives-worth-living/" class="session-link">Lives Worth Living</a> and the Power of 504 and delivered a TED talk in the fall of 2016, <a href="https://www.ted.com/talks/judith_heumann_our_fight_for_disability_rights_and_why_we_re_not_done_yet?language=en" session-link">“Our Fight for Disability Rights- and Why We’re Not Done Yet”</a>. Her story was also told on Comedy Central’s Drunk History in early 2018, in which she was portrayed by Ali Stroker. As <a href="https://www.fordfoundation.org/media/4276/judyheumann_report_2019_final.pdf" class="session-link">Senior Fellow at the Ford Foundation (2017-2019)</a>, she wrote <em>“Road Map for Inclusion: Changing the Face of Disability in Media”</em>. She also currently serves on a number of non-profit boards, including the American Association of People with Disabilities, the Disability Rights Education and Defense Fund, Humanity and Inclusion, as well as the Human Rights Watch board.</span>
+      <span>She has been featured in numerous documentaries including on the history of the disability rights movement, including <a href="https://www.pbs.org/independentlens/films/lives-worth-living/" class="session-link">Lives Worth Living</a> and the Power of 504 and delivered a TED talk in the fall of 2016, <a href="https://www.ted.com/talks/judith_heumann_our_fight_for_disability_rights_and_why_we_re_not_done_yet?language=en" class="session-link">“Our Fight for Disability Rights- and Why We’re Not Done Yet”</a>. Her story was also told on Comedy Central’s Drunk History in early 2018, in which she was portrayed by Ali Stroker. As <a href="https://www.fordfoundation.org/media/4276/judyheumann_report_2019_final.pdf" class="session-link">Senior Fellow at the Ford Foundation (2017-2019)</a>, she wrote <em>“Road Map for Inclusion: Changing the Face of Disability in Media”</em>. She also currently serves on a number of non-profit boards, including the American Association of People with Disabilities, the Disability Rights Education and Defense Fund, Humanity and Inclusion, as well as the Human Rights Watch board.</span>
     </p>
     <p>
       <span>Judy was a founding member of the Berkeley Center for Independent Living which was the first grassroots center in the United States and helped to launch the Independent Living Movement both nationally and globally.</span>
@@ -737,7 +737,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.png" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
