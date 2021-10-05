@@ -504,22 +504,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-golstein.png" alt="Linday Goldstein" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="goldstein">
+      <strong>Linday Goldstein</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Program Analyst</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue in the Department of the Interior. An economist by training, she made her way over to civic tech a few years ago and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
@@ -527,22 +525,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gordy.png" alt="John Gordy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="gordy">
+      <strong>John Gordy</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Digital Projects</span></em><br /><span>National Gallery of Art</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to the customers. These tools help multiple audiences connect to the artwork in the museum.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1b3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -550,45 +546,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-green.png" alt="Bess Green" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="green">
+      <strong>Bess Green</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Product Manager</span></em><br /><span>Digital Foundry</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>As a product manager and digital strategist, Bess has experience running software projects at every stage of the product development lifecycle, from vision and concept development to launch and commercialization. She has led engagements with global and Fortune 500 companies across various industries - including healthcare, finance, manufacturing, and government - to deliver feasible, actionable solutions using an adapted Agile methodology. She is passionate about working with organizations to deliver user-centric solutions that have real-world impact, and she is proud to have taken multiple digital products to market.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
-    </p>
-  </div>
-</div>
-
-<!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
-    </p>
-    <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
-    </p>
-    <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
     </p>
   </div>
 </div>
@@ -603,6 +574,28 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-haileselassie.png" alt="Antonio Haileselassie" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="haileselassie">
+      <strong>Antonio Haileselassie</strong>
+    </p>
+    <p>
+      <em><span>Information Technology Accessibility Specialist</span></em><br /><span>National Aeronautics and Space Administration (NASA)</span>
+    </p>
+    <p>
+      <span>Mr. Antonio Haileselassie is an Information Technology Accessibility Specialist supporting NASA’s Information and Communication Technology (ICT) Accessibility/Section 508 Program. He applies his expert knowledge of ICT accessibility by providing support and technical guidance throughout the NASA community, across the government, and to industry by serving on the CIO Council Accessibility Community of Practice Industry Outreach Committee. He began his accessibility career as a software developer focused on accessible software design, development, and remediation for the Federal Aviation Administration and the National Guard. He then joined NASA Headquarters as a support contractor where he advanced the Agency’s Section 508 Compliance Program by developing Section 508 testing capabilities, managing NASA’s Section 508 Technical Help Desk, and providing training and guidance across NASA.</span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
