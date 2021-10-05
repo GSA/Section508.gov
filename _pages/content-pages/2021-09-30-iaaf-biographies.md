@@ -183,7 +183,7 @@ created: 1601325079
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
     </p>    
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></a> on Day 1</em>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></em> on Day 1...</a>
     </p>
   </div>
 </div>
