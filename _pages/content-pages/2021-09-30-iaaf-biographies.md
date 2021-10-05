@@ -596,13 +596,13 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="Bridget Hapner" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hapner.png" alt="Bridget Hapner" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="hapner">
+      <strong>Bridget Hapner</strong>
     </p>
     <p>
       <em><span>TITLE</span></em><br /><span>AGENCY</span>
@@ -616,7 +616,7 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
-</div>
+</div> -->
 
 <!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -722,10 +722,10 @@ created: 1601325079
     <p id="horton">
       <strong>Michael Horton</strong>
     </p>
-<p>
+    <p>
       <em><span>Senior ICT Accessibility Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>Michael Horton is an accessibility and technology professional with over 25 years of experience in website and web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and advocate who joined the General Services Administration, Office of Government-wide Policy’s IT Accessibility Program in August 2018 as an Accessible Design and Development Advisor supporting agencies in their efforts to ensure independence and the dignity of work for people with disabilities. Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and also enjoyed twelve years with America Online (AOL) as a software/web engineer, partner advocate, online community standards policy and compliance specialist, and creator of member education. </span>
     </p>
 <p>
@@ -744,13 +744,13 @@ created: 1601325079
     <p id="humphrey">
       <strong>Yolanda Humphrey</strong>
     </p>
-<p>
+    <p>
       <em><span>Section 508 Program Manager</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
-<p>
+    <p>
       <span>Yolonda is the program manager for the IRS 508 program office, known as the Information Resources Accessibility Program (IRAP). She has been a ready advocate for accessibility for more than a decade and worked relentlessly towards establishing Section 508 as a core IT requirement within the IRS.</span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
@@ -766,34 +766,53 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-<div class="grid-row border-bottom-1px border-base-lighter ">
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-johnston.jpg" alt="Esubalew (Ethan) Johnston" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="jacobs">
-      <strong>Gretchen Jacobs</strong>
+    <p id="johnston">
+      <strong>Esubalew (Ethan) Johnston</strong>
     </p>
 <p>
-      <em><span>General Counsel, Executive Director (Acting)</span></em><br /><span>U.S. Access Board</span>
+      <em><span>TITLEGOESHERE</span></em><br /><span>Social Security Administration (SSA)</span>
     </p>
 <p>
-      <span>Gretchen Jacobs has over 30 years of experience as a federal litigator and regulatory practitioner, with expertise in disability rights, administrative law, regulatory processes, and cost-benefit analyses. She joined the U.S. Access Board as General Counsel in 2014 and also currently serves as the agency’s Interim Executive Director. As General Counsel, Ms. Jacobs played a key role in the Access Board’s regulatory efforts that culminated in publication of Revised 508 Standards in January 2017.</span>
+      <span>BIOGOESHERE</span>
     </p>
-<p>
-      <span>Prior to coming to the Access Board, Ms. Jacobs served for several years as Research Director at the Administrative Conference of the United States. This followed a distinguished, two-decade career at the U.S. Department of Justice (DOJ). As a trial attorney with DOJ's Disability Rights Section, she litigated enforcement actions under the Americans with Disabilities Act (ADA), including as lead counsel in a series of major cases concerning access to stadium-style movie theaters. She also served as a senior regulatory advisor on ADA implementation efforts, where her responsibilities included conducting cost-benefit analyses, advising senior DOJ officials, and representing DOJ in discussions with other federal entities on regulatory matters. She was active in DOJ's development of updated ADA standards, regulatory initiatives concerning Next Generation 9-1-1, and website accessibility. Ms. Jacobs joined the DOJ as an Honors Program trial attorney at the Federal Programs Branch of the Civil Division and served as lead counsel in over 30 federal district and appellate cases nationwide. She received numerous awards throughout her tenure at DOJ, including the Civil Rights Division's highest awards for her leadership on ADA regulations and related cost-benefit analyses.</span>
-    </p>
-<p>
-      <span>Earlier in her federal career, Ms. Jacobs served as a law clerk to Judge Warren J. Ferguson of the United States Court of Appeals for the Ninth Circuit and as a judicial extern to then-Judge Ruth Bader Ginsburg during her term on the District of Columbia Circuit Court. Ms. Jacobs, a native of California, graduated from the University of California, Los Angeles Law School with honors (Order of the Coif) and earned a bachelor's degree in history with highest honors from the University of California at Berkeley. </span>
-    </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
-</div>
+</div> -->
 
-<h2 id="K"><!--- ------------------------------------------------------------------------ KKKKK --->
+<!-- NEW BIO -->
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jubar.png" alt="Brandon Jubar" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="jubar">
+      <strong>Brandon Jubar</strong>
+    </p>
+    <p>
+      <em><span>Branch Chief, Quality Management</span></em><br /><span>Department of Labor (DOL)</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
+    </p>
+  </div>
+</div> -->
+
+<!-- KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK -->
+
+<h2 id="K">
   <strong>K</strong>
 </h2>
 
@@ -801,53 +820,56 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kim.png" alt="Sonna Kim" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="kline">
-      <strong>Jeff Kline</strong>
+    <p id="kim">
+      <strong>Sonna Kim</strong>
     </p>
-<p>
-      <em><span>Program Director, Electronic and Information Resources (EIR) Accessibility</span></em><br /><span>Texas Department of Information Resources</span>
+    <p>
+      <em><span>Senior UX Designer</span></em><br /><span>Consumer Financial Protection Bureau (CFPB)</span>
     </p>
-<p>
-      <span>Jeff Kline is the author of "Strategic IT Accessibility: Enabling the Organization" and is a recognized subject matter expert in keys areas of IT accessibility that include policy, rulemaking, process integration, procurement and risk mitigation. He currently serves as Program Director of Statewide Electronic and Information Resources (EIR) Accessibility at the Texas Department of Information Resources, and consults on IT accessibility policy matters for federal agencies, NGOs, and accessibility certification bodies. Prior to his current position in public service, Mr. Kline managed IBM's Worldwide Accessibility Consulting and Business Transformation initiatives, and held other management positions in research and product development during his 26 year IBM career including industrial design, operating system UI development, and system usability.</span>
+    <p>
+      <span>Sonna Kim is a senior user experience designer at the Consumer Financial Protection Bureau (CFPB), where she has worked as part of the Design and Development team since 2015 to create accessible, user-friendly tools and resources to help educate and empower consumers. Prior to joining the CFPB, she worked as a designer in the private sector for a variety of industries, including financial services, children's publishing, media, consumer electronics, and more. She resides in New York City.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Accessibility Testing at the CFPB: A Case Study</span></em></a>
     </p>
   </div>
 </div>
 
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-king.png" alt="Jacob King" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="kuk">
-      <strong>Jennifer Kuk</strong>
+    <p id="king">
+      <strong>Jacob King</strong>
     </p>
-<p>
-      <em><span>IT Category Management Specialist</span></em><br /><span>Office of Management and Budget (OMB) </span>
+    <p>
+      <em><span>Program Analyst</span></em><br /><span>Health and Human Services (HHS)</span>
     </p>
-<p>
-      <span>Jennifer Kuk is the IT Category Management Specialist in the Office of Federal Procurement Policy, Office of Management and Budget. In this role, Ms. Kuk supports the government-wide IT Category Management activities for the nearly $50 billion in IT spending, including subcategories such as hardware, software, telecommunications, and related goods and services with the goals of improving coordination across federal agencies, streamlining the IT acquisition process, and achieving significant efficiencies and cost savings. Ms. Kuk also supports the implementation of the Federal Information Technology Acquisition Reform (FITARA), which gives agency Chief Information Officers (CIOs) more authority over the budget, governance, and personnel processes for agency IT investments and provides areas of opportunity for greater collaboration and reduction of duplication.</span>
+    <p>
+      <span>Jacob King began his career in disability services as a sign language interpreter, having learned the language at a young age from d/Deaf friends and receiving a degree in interpretation from Gallaudet university.</span>
     </p>
-<p>
-      <span>Ms. Kuk received her Bachelor of Arts (BA) degree in Political Science and Sociology from the University of California, Los Angeles and Masters of Public Administration (MPA) from the Maxwell School of Citizenship and Public Affairs at Syracuse University.</span>
+    <p>
+      <span>After 5 years of freelance work, he entered the Federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr King works in IT governance with a focus on data analytics and coordinates heavily with the 508 accessibility governance program.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="L"><!--- ------------------------------------------------------------------------ LLLLL --->
+<!-- LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL - LLLLL -->
+
+<h2 id="L">
   <strong>L</strong>
 </h2>
 
