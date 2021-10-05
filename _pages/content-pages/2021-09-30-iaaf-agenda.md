@@ -22,9 +22,7 @@ created: 1600981839
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield</a></b></span>, Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
-      <br><br>
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
     </div>
   </div>
 
@@ -34,11 +32,11 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design<br>
-      <div class="speaker-info padding-top-1">
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design<br><br>
+      <!--<div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span>
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-      </div>
+      </div>-->
     </div>
   </div>
   
