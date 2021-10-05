@@ -213,16 +213,16 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs3a">Track A: Lead Our Agencies Towards Access</div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">User research is meant to surface and advocate for the voice of the user. But how do you ensure you’re hearing from those not in the majority? IRS’s Office of Online Services is exploring how to broaden user research capabilities for greater inclusivity, especially in accessibility and language proficiency. We’ll share our accessibility-beyond-compliance mindset and rationales; roadmap for creating inclusive user research practice; early-stage practical tips; and suggestions for measuring progress. Audience discussion welcome.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brink">Ronna ten Brink,</a></b> </span>Internal Revenue Service (IRS)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#tenbrink">Ronna ten Brink,</a></b> </span>Internal Revenue Service (IRS)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kim">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
         </div>
       </div> 
       <!-- BEGIN DAY 1 SESSION 3 TRACK B -->
@@ -258,7 +258,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d2w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deupaty Associate Administrator
+        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deupaty Associate Administrator
       </div>
     </div> 
   </div> 

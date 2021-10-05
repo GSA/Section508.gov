@@ -90,7 +90,7 @@ created: 1601325079
       <strong>Syed Azeem</strong>
     </p>
     <p>
-      <em><span>Forms.gov Product Manager</span></em><br /><span>Technology Transformation Services, General Services Administration</span>
+      <em><span>Forms.gov Product Manager, Technology Transformation Services</span></em><br /><span>General Services Administration</span>
     </p>
     <p>
       <span>
@@ -129,7 +129,7 @@ created: 1601325079
       <span>Lorena Bradford develops and runs accessible programs in the Education Division of the National Gallery of Art in Washington, DC. She has developed and oversees programs for and projects geared toward people with hearing and vision loss, people with memory loss and their care partners, families shaped by sensory processing disorders, healthcare students and professionals, and others. She has consulted and offered training on best practices for other museums and institutions in Washington, DC, across the nation, and abroad.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1b3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -138,7 +138,7 @@ created: 1601325079
 <!--
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bradley.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bradley.png" alt="Rachel Bradley" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bradley">
@@ -180,7 +180,7 @@ created: 1601325079
       <span>Prior to joining CAG, Krystal was the President & Chief Executive Officer (CEO) of the Airport Minority Advisory Council (AMAC), a national trade association that represents thousands of airports, corporations, and small businesses in the aviation and aerospace industries. She was recognized for driving growth and innovation at AMAC and was named in the top 25 of “Women in Power Impacting Diversity” by DiversityPlus Magazine in 2018 as well as awarded “Outstanding Woman in Law” by Hofstra University School of Law in 2019.</span>
     </p>
     <p>
-      <span>Her additional professional experiences include Vice President & Chief Operating Officer of the DC Chamber of Commerce, Tax & Procurement Counsel for the U.S. Senate Committee on Small Business and Entrepreneurship, Visiting Instructor for the International Law Institute African Centre for Legal Excellence and Sales & Use Tax Attorney for the Louisiana Department of Revenue.</span>
+      <span>Her additional professional experiences include Vice President & Chief Operating Officer of the DC Chamber of Commerce, Tax & Procurement Counsel for the U.S. Senate Committee on Small Business and Entrepreneurship, Visiting Instructor for the International Law Institute African Centre for Legal Excellence, and Sales & Use Tax Attorney for the Louisiana Department of Revenue.</span>
     </p>
     <p>
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
@@ -360,7 +360,7 @@ created: 1601325079
       <span>U.S.Senator Tammy Duckworth is an Iraq War Veteran, Purple Heart recipient and former Assistant Secretary of the U.S. Department of Veterans Affairs who was among the first handful of Army women to fly combat missions during Operation Iraqi Freedom. Duckworth served in the Reserve Forces for 23 years before retiring at the rank of Lieutenant Colonel in 2014. She was elected to the U.S. Senate in 2016 after representing Illinois’s Eighth Congressional District in the U.S. House of Representatives for two terms. Read <a href="https://www.duckworth.senate.gov/about-tammy/biography" class="session-link">Senator Duckworth's full biography</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></em></a> on Day 2
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em> on Day 2</a>
     </p>
   </div>
 </div>
@@ -388,7 +388,7 @@ created: 1601325079
       <em><span>Senior ICT Accessibility Specialist</span></em><br /><span>U.S. Access Board</span>
     </p>
     <p>
-      <span>Kathy Eng is a Senior ICT Accessibility Specialist with the US Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focused on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
+      <span>Kathy Eng is a Senior ICT Accessibility Specialist with the US Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focus on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
@@ -419,7 +419,7 @@ created: 1601325079
       <em><span>Supervisory Digital Services Specialist</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
     </p>
   <p>
-      <span>Maroya Faied has a Master's degree in Minerals and Energy Economics. She has worked for the Office of Natural Resources Revenue for over 10 years. She currently manages a team responsible for the agency's public websites and committed to providing open and transparent federal data and information to the public.</span>
+      <span>Mayora Faied has a Master's degree in Minerals and Energy Economics. She has worked for the Office of Natural Resources Revenue for over 10 years. She currently manages a team responsible for the agency's public websites and is committed to providing open and transparent federal data and information to the public.</span>
     </p>
   <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
@@ -1448,7 +1448,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
@@ -1551,13 +1551,15 @@ created: 1601325079
     <p>
       <span>Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control, and Co-Chair of the US Department of Health and Human Services Section 508 Program.</span>
     </p>
-    <p>
+    <!-- <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
-    </p>
+    </p>-->
   </div>
 </div>
 
-<h2 id="V"><!--- ------------------------------------------------------------------------ VVVVV --->
+<!-- VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV - VVVVV -->
+
+<h2 id="V">
   <strong>V</strong>
 </h2>
 
@@ -1565,34 +1567,39 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-valeur.png" alt="Charolette Valeur" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="vanderheiden">
-      <strong>Gregg Vanderheiden</strong>
+    <p id="valeur">
+      <strong>Charolette Valeur</strong>
     </p>
-<p>
-      <em><span>Professor and Director of the Trace R&D Center</span></em><br /><span>University of Maryland Trace Center</span>
+    <p>
+      <em><span>Chair</span></em><br /><span>Institute of Neurodiversity (ION)</span>
     </p>
-<p>
-      <span>Gregg Vanderheiden is a Professor in the School of Information Studies (iSchool) at the University of Maryland, College Park, and Director of the Trace Research & Development Center at the University of Maryland. Dr. Vanderheiden is the principal investigator of the Rehabilitation Engineering Research Center on Information Technology Access, and a co-principal investigator for the RERC on Telecom Access funded by the National Institute on Disability and Rehabilitation Research. Dr. Vanderheiden has been working in the area of access to technology for over 47 years. He was a pioneer in the field of Augmentative Communication (a term taken from his writings in 1979). He then worked with the computer industry in getting them to build disability access features directly into their standard products. For example, access features developed by Dr. Vanderheiden and his team have been built into the Apple’s Macintosh OS since 1987, IBM’s OS/2 and the UNIX X Window system since 1993. 9 of the first 10 access features built into Windows 95 (and subsequently 98, NT, 2000, Vista, Windows 7, 8, and 10) were licensed (royalty free) from Dr. Vanderheiden and his team.</span>
+    <p>
+      <span>Charlotte Valeur has over 35 years of experience in finance, primarily as an investment banker in Denmark and UK. She is an experienced FTSE Chair, Non-Executive Director and corporate governance expert, serving on a variety of boards – as well as delivering training and advising boards in corporate governance through her company Global Governance Group.</span>
     </p>
-<p>
-      <span>With the explosion in information and telecommunication technologies, and their increased importance in employment, education, and daily living, Dr. Vanderheiden and the Trace Center focused on building access into public information technologies. Recent achievements include co-chairing and co-authoring the W3C's Web Content Accessibility Guidelines 2.0, and development of the EZ™ Access techniques for providing cross-disability access in electronic products of all types. He has worked with over 50 companies, and his work is reflected in phones, computers, over 80,000 accessible ATMs, 60,000 Point of Sale terminals, and 20,000+ cross-disability accessible Automated Postal Stations of the USPS, the Amtrak ticket machines, and kiosks in memorials, museums and airline terminals. </span>
+    <p>
+      <span>Charlotte has been a director of 8 public companies and also has board experience with a range of unlisted companies including international engineering firm Laing O’Rourke, BT Pension Fund and Chair of Institute of Directors U.K.</span>
     </p>
-<p>
-      <span>Dr. Vanderheiden served on the FCC's Technological Advisory Council, was a member of the Telecommunications Access Advisory committee and the Electronic Information Technology Access Advisory Committee for the US Access Board, and served on the steering committee for the National Research Council's Planning Group on "Every Citizen Interfaces," co-authoring the National Research Councils, More Than Screen Deep Report. He also served on the Institute of Medicine’s Committee on Disability in America, the National Task Force on Technology and Disability, and the National Academies’ IOM committee on the Future of Disability in America. He is a past President of RESNA - the Rehabilitation Engineering and Assistive Technology Society of North America, and a Founding Fellow of the American Institute of Medical & Biological Engineering (AIMBE).</span>
+    <p>
+      <span>She is an author and visiting Professor in governance and leadership at University of Strathclyde.</span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+    <p>
+      <span>Charlotte is an advocate for equality underpinning this with action by founding Not for profit Board Apprentice and the Institute of Neurodiversity.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="W"><!--- ------------------------------------------------------------------------ WWWWW --->
+<!-- WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW - WWWWW -->
+
+<h2 id="W">
   <strong>W</strong>
 </h2>
 
@@ -1600,48 +1607,95 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-walden.png" alt="Alcora Walden" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="walden">
+      <strong>Alcora Walden</strong>
+    </p>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div> -->
+
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-watkins.png" alt="Angela Watkins" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="whittington">
-      <strong>David Whittington</strong>
+    <p id="watkins">
+      <strong>Angela Watkins</strong>
     </p>
-<p>
-      <em><span>Section 508 Subject Matter Expert</span></em><br /><span>U.S. Census Bureau</span>
+    <p>
+      <em><span>Section 508 Program Manager</span></em><br /><span>Pension Benefit Guaranty Corporation (PBGC)</span>
     </p>
-<p>
-      <span>David Whittington currently works for the US Census Bureau in the Application Development and Services Division (ADSD) as a Section 508 Subject Matter Expert where he helps administer enterprise Section 508 governance and training for the Bureau. Prior to joining the agency, he worked for the Defense Information Systems Agency (DoD-DISA) where he was a Test Director, helping the US military develop, maintain and operate mission critical Information Systems for the warfighter. Before that, he served as a QA Manager for Northrop Grumman where he helped establish Agile development best practices.</span>
+    <p>
+      <span>Angela Watkins, a certified Project Manager, has served as the Section 508 Program Manager for Pension Benefit Guaranty Corporation since January 2018. She’s been aware of the goals of accessibility since serving on agency wide team in 2001. Prior to her current role she’s had experience as a Business Representative, Service Desk Manager, Procurement Support, and a Contracting Officer Representative ensuring that products and deliverables she was responsible included Section 508 compliance as a requirement. She serves as the chair of the Section 508 Intra-Agency team comprised of representatives from the agency’s communications, training, human resources, legal, EEO, IT and procurement departments. She and her team have been effective in promoting the message that “Accessibility is Everyone’s Responsibility” in her agency.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities </span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-wilkes.png" alt="Martha Wilkes" />
   </div>
-  
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="wilkes">
+      <strong>Martha Wilkes</strong>
+    </p>
+    <p>
+      <em><span>Accessibility Strategist/Designer</span></em><br /><span>U. S. Digital Service</span>
+    </p>
+    <p>
+      <span>Martha Wilkes is a designer at the U.S. Digital Service, a tech startup at the White House. She is currently detailed to the Office of the Chief Technology Office (CTO) at the Department of Veterans Affairs where she is the accessibility strategist. Previously, she spent her career designing enterprise software for various private industries, from banking to statistical analysis to home health care. Martha holds a bachelor’s degree in music engineering from the University of Miami and a MFA in theater design from the University of Georgia, where she learned the Photoshop skills that helped her get her first job as a web designer.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.png" alt="Taryn Mackinzie Williams" />
+  </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="williams">
-      <strong>Dan Williams</strong>
+      <strong>Taryn Mackinzie Williams</strong>
     </p>
-<p>
-      <em><span>Product Lead, U.S. Web Design System</span></em><br /><span>General Services Administration (GSA)</span>
+    <p>
+      <em><span>Assistant Secretary, Office of Disability Employment Policy (ODEP)</span></em><br />
+      <span>Department of Labor (DOL)</span>
     </p>
-<p>
-      <span>Dan Williams is the Product Lead of the U.S. Web Design System. Previous to working on USWDS, he worked as a designer at 18F, and with both the Harvard Law Library and the Berkman Klein Center For Internet & Society. He lives with his family in Portland, Oregon.</span>
+    <p>
+      <span>Taryn Mackenzie Williams is the Assistant Secretary of Labor for Disability Employment Policy. In this position, she advises the Secretary of Labor on how the Department’s policies and programs impact the employment of people with disabilities and leads the Office of Disability Employment Policy (ODEP), which works with employers and all levels of government to promote evidence-based policy that improves employment opportunities and outcomes for people with disabilities.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
+    <p>
+      <span>Previously, Williams was the managing director for the Poverty to Prosperity Program at American Progress, which works on progressive policies focused on a broad range of anti-poverty strategies. Before joining American Progress, she worked at ODEP on a variety of issues related to education, workforce policy, Social Security, Medicaid and civil rights. In her role as director of youth policy, Williams led agency efforts to coordinate education and employment policy in support of improved labor force outcomes for disabled youth. From 2014 through 2016, Williams served as ODEP’s chief of staff. She also undertook detail assignments as associate director for public engagement and liaison to the disability community at the White House from 2014 through 2015 and as a policy adviser on the U.S. Senate Committee on Health, Education, Labor, and Pensions from 2012 through 2013.</span>
+    </p>
+    <p>
+      <span>Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago. She holds a bachelor’s degree in public policy from Brown University and a master’s degree in education with a concentration in administration, planning, and social policy from Harvard University. She resides in Washington, DC.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
     </p>
   </div>
 </div>
@@ -1674,4 +1728,5 @@ created: 1601325079
     </p>
   </div>
 </div>
+
 </div>
