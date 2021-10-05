@@ -1196,116 +1196,92 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pavithran.png" alt="Sachin Pavithran" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="paschel">
-      <strong>Shannon Paschel</strong>
+    <p id="pavithran">
+      <strong>Sachin Pavithran, PH.D</strong>
     </p>
-<p>
-      <em><span>Program Manager, Information Technology Accessibility</span></em><br /><span>Defense Intelligence Agency (DIA) </span>
+    <p>
+      <em><span>Executive Director"</span></em><br /><span>United States Access Board</span>
     </p>
-<p>
-      <span>Mrs. Paschel has served as DIA’s Information Technology Accessibility Program Manager since 2019. This position includes establishing and leading DIA’s IT accessibility program and serving as the Intelligence Community (IC) champion for improving information technology accessibility in the IC. Prior to this position, Mrs. Paschel served two years as DIA’s Deputy Chief Data Officer, and prior to that, served as an intelligence analyst for the FBI’s, Senior National Intelligence Officer for Intelligence Community Engagement, Bureau Intelligence Council. Mrs. Paschel has held and led various programs within DIA and the IC over her 13 years in the federal government.</span>
+    <p>
+      <span>Sachin Pavithran was born in India, but grew up in Dubai which is in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators in the Federal and State Government to bring change in Policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election process for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.
+      </span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.png" alt="Daniel Pomeroy" />
   </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="peters">
-      <strong>David Peters</strong>
-    </p>
-<p>
-      <em><span>Chief of the Applications Development and Services Division, Office of the Chief Information Officer</span></em><br /><span>U.S. Census Bureau</span>
-    </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Wrap-up and Thank You</span></em></a>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
-  </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pomeroy">
       <strong>Daniel Pomeroy</strong>
     </p>
-<p>
-      <em><span>Deputy Associate Administrator, Office of Information Integrity and Access</span></em><br /><span>General Services Administration (GSA)</span>
+    <p>
+      <em><span>Deputy Associate Administrator, Office of Information Integrity and Access</span></em><br />
+      <span>General Services Administration (GSA)</span>
     </p>
-<p>
-      <span>Dan Pomeroy currently serves as the Deputy Associate Administrator in the Office of Information Integrity and Access at the General Services Administration (GSA). Dan’s work in this capacity is focused on enabling Federal CIOs to deliver world-class information technology (IT) services across government, particularly in the areas of emerging technology, accessibility, identity credentialing, improving digital services, IT infrastructure modernization, and IT capital planning. Dan Pomeroy has recently served as the first Director of the Infrastructure Optimization Center of Excellence under the White House Office of American Innovation, and as the Director of GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Managing Partner PMO. Dan is a native of Las Vegas, Nevada. </span>
+    <p>
+      <span>Dan Pomeroy currently serves as the Deputy Associate Administrator in the Office of Information Integrity and Access within the Office of Government-wide Policy at the General Services Administration (GSA). Dan’s work is focused on enabling Federal CIOs to deliver world-class information technology services across government, particularly in the areas of accessibility, identity credentialing, digital services, IT infrastructure modernization, and IT capital planning. In 2020, Dan established a dedicated emerging technology policy office in GSA.</span>
     </p>
-<p>
-      <span>Dan possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&M University, a Master of Science of Government Information Leadership from the National Defense University, and a Bachelor’s of Arts in Political Science from the University of Nevada, Las Vegas.</span>
+    <p>
+      <span>Dan Pomeroy has also served as the first Director of the Infrastructure Optimization Center of Excellence under the White House Office of American Innovation, and as the Director of GSA’s Data Center and Cloud Optimization Initiative (DCCOI) Managing Partner PMO.</span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+    <p>
+      <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em></a> on Day 2
     </p>
   </div>
 </div>
 
+<!-- QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ - QQQQQ -->
 
+<h2 id="P">
+  <strong>P</strong>
+</h2>
+
+<p style="text-align:right;">
+  <a href="#top">Back to Top</a>
+</p>
+
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="prabhakaran">
-      <strong>Vinodkumar Prabhakaran, PhD</strong>
+    <p id="lowerlastname">
+      <strong>FIRSTLASTNAME</strong>
     </p>
-<p>
-      <em><span>Research Scientist</span></em><br /><span>Google</span>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
     </p>
-<p>
-      <span>Dr. Vinodkumar Prabhakaran is a Research Scientist at Google working on issues around ethics, fairness, and transparency in machine learning and natural language processing. Prior to joining Google, he was a postdoctoral researcher at Stanford University, and attained his PhD in computer science at Columbia University. His prior research focused on building scalable ways to identify and address large-scale societal issues, such as racial disparities in policing, workplace incivility, and online abuse. He served as a Diversity and Inclusion co-chair for the Association for Computational Linguistics' 2020 Conference.</span>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
+<!-- RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR - RRRRR -->
 
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="pruitt">
-      <strong>Cheryl Pruitt</strong>
-    </p>
-<p>
-      <em><span>Director of the Accessible Technology Initiative</span></em><br /><span>California State University</span>
-    </p>
-<p>
-      <span>Cheryl is the Director of the Accessible Technology Initiative (ATI) for the California State University (CSU) System. She leads the ATI implementation across the CSU 23 campus system. Cheryl has been involved with the ATI since its inception in 2007, first at the campus level, then at the system-wide level. Under her leadership the system has made significant progress towards implementing ATI process improvement in the areas of web accessibility, accessible procurement, and accessible instructional materials. She is currently managing several projects that are moving the initiative forward. They include: implementation of CSU Accessible Procurement Process; ATI reporting processes to measure the systemwide progress towards the ATI goals; creation of synergy projects resulting in system-wide shared services that are delivering cost savings; and a high level of cross-campus collaboration through the ATI Communities of Practice. Cheryl can be contacted at cpruitt@calstate.edu.</span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
-    </p>
-  </div>
-</div>
-
-<h2 id="R"><!--- ------------------------------------------------------------------------ RRRRR --->
+<h2 id="R">
   <strong>R</strong>
 </h2>
 
