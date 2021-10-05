@@ -763,7 +763,7 @@ created: 1601325079
       <em><span>Section 508 Program Manager</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
     <p>
-      <span>Yolonda is the program manager for the IRS 508 program office, known as the Information Resources Accessibility Program (IRAP). She has been a ready advocate for accessibility for more than a decade and worked relentlessly towards establishing Section 508 as a core IT requirement within the IRS.</span>
+      <span>Yolonda is the program manager for the IRS Section 508 program office, known as the Information Resources Accessibility Program (IRAP). She has been a ready advocate for accessibility for more than a decade and worked relentlessly towards establishing Section 508 as a core IT requirement within the IRS.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
@@ -1322,18 +1322,24 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.png" alt="Scott Robertson, PhD" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.png" alt="Scott Michael Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="robertson">
-      <strong>Scott Robertson, PhD</strong>
+      <strong>Scott Michael Robertson, PhD</strong>
     </p>
 <p>
       <em><span>Senior Policy Advisor, Office of Disability Employment Policy</span></em><br /><span>Department of Labor (DOL)</span>
     </p>
 <p>
-      <span>Dr. Scott Michael Robertson is a Senior Policy Advisor on the Employment-Related Supports (ERS) Policy Team in the U.S. Department of Labor’s (DOL) Office of Disability Employment Policy (ODEP). He spearheads the ERS Team's engagement on ODEP's $2 million Apprenticeship Inclusion Models (AIM) initiative to expand access to career pathways in information technology, healthcare, and advanced manufacturing. Dr. Robertson advises ODEP's $1.5 million FutureWorks initiative as a subject matter expert on accessible emerging technology, including artificial intelligence (AI). He also drives ODEP's activities to enhance national autism policy, support neurodiversity in the workplace, and increase access to gainful employment for people on the autism spectrum. Before joining DOL, Dr. Robertson served as the Founding Vice President of the Autistic Self Advocacy Network (ASAN), a national nonprofit organization based in Washington, DC. He then served as a Joseph P. Kennedy, Jr. Fellow in the U.S. Senate Committee on Health, Education, Labor, and Pensions (HELP). He completed his PhD in information sciences and technology at Penn State University and his master's degree in human-computer interaction at Carnegie Mellon University. </span>
+      <span>Dr. Scott Michael Robertson is a Senior Policy Advisor in the Office of Disability Employment Policy (ODEP) in the U.S. Department of Labor (DOL). Dr. Robertson orchestrates ODEP’s $3.8 million Partnership on Inclusive Apprenticeship (PIA) through his role as the federal project manager; PIA drives policies and practices to increase access to career pathways in high-growth, high-demand fields, such as information technology, cybersecurity, clean and renewable energy, and healthcare. Dr. Robertson also spearheads ODEP’s work to enhance national autism policy, foster neurodiversity at work, and expand access to gainful employment for youth and adults on the autism spectrum. He serves as DOL’s Alternate Federal Representative for the U.S. Interagency Autism Coordinating Committee.</span>
+    </p>
+<p>
+      <span>Dr. Robertson has advised on policy and practices for accessible and emerging technology, such as artificial intelligence and automated vehicles. Earlier in his tenure at ODEP, he advanced national youth policies and practices for school-to-work transition and career development. Before joining DOL, Dr. Robertson served as a Joseph P. Kennedy, Jr. Fellow for U.S. Senator Tom Harkin in the U.S. Senate Committee on Health, Education, Labor, and Pensions. He also served as the Founding Vice President of the Autistic Self Advocacy Network (ASAN), a national nonprofit organization based in Washington, DC.</span>
+    </p>
+<p>
+      <span>Dr. Robertson earned his PhD in information sciences and technology at Penn State University. He completed his master’s degree in human-computer interaction at Carnegie Mellon University. His professional recognitions include a 2020 Service to the Citizen Award from Dorris Consulting International and the 2011 Jay S. Drotman Award from the American Public Health Association. He is also an inductee of the Susan M. Daniels Disability Mentoring Hall of Fame.</span>
     </p>
 <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
