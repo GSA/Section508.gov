@@ -598,79 +598,124 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="Bridget Hapner" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="hailesselassie">
-      <strong>Antonio Hailesselassie</strong>
+    <p id="lowerlastname">
+      <strong>FIRSTLASTNAME</strong>
     </p>
-<p>
-      <em><span>IT Accessibility Specialist</span></em><br /><span>National Aeronautics and Space Administration (NASA) </span>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
     </p>
-<p>
-      <span>Mr. Antonio Haileselassie is an Information Technology Accessibility Specialist supporting the NASA Solutions for Enterprise Wide Procurement (SEWP) Program and the Section 508 Program at the NASA Goddard Space Flight Center. With over 15 years in accessibility of information technology experience, Antonio lends his knowledge of IT accessibility and support throughout NASA and to the Section 508 community across the government serving on the CIO Council Accessibility Community of Practice Vendor Outreach Committee. He began his accessibility career as a software developer focused on accessible software design, development, and remediation for the Federal Aviation Administration and the National Guard. He then joined NASA Headquarters as a support contractor where he advanced the Agency’s Section 508 Compliance Program by developing Section 508 testing capabilities, managing NASA’s Section 508 Technical Help Desk, and providing training and guidance across NASA.</span>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
+<!-- NEW BIO -->
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harding.png" alt="Stephen Harding" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="harding">
+      <strong>Stephen Harding</strong>
+    </p>
+    <p>
+      <em><span>Director of Digital Strategies, Office of Government-wide Policy</span></em><br /><span>General Services Administration (GSA)</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div> -->
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hetrick.png" alt="Daniel Hetrick" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="harkin">
-      <strong>Thomas Harkin</strong>
+    <p id="hetrick">
+      <strong>Daniel Hetrick</strong>
     </p>
-<p>
-      <span>Former </span><a href="https://en.wikipedia.org/wiki/United_States_Senate" target="_blank"><span>United States Senator</span></a><span> (1985 - 2015), and member of the U.S. House of Representatives from Iowa's 5th district (1975 – 1985)</span>
+    <p>
+      <em><span>TITLE</span></em><br /><span>National Security Agency (NSA)</span>
     </p>
-<p>
-      <span>In 1974, Tom Harkin was elected to Congress from Iowa's Fifth Congressional District. In 1984, after serving 10 years in the U.S. House of Representatives, Senator Harkin challenged an incumbent senator and won. Iowans returned him to the Senate in 1990, 1996, 2002, and 2008. He retired from the United States Senate in January 2015. </span>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
     </p>
-<p>
-      <span>As a young senator, Tom was tapped by Senator Ted Kennedy to craft legislation to protect the civil rights of millions of Americans with physical and mental disabilities. He knew firsthand about the challenges facing people with disabilities from his late brother, Frank, who was deaf from an early age. What emerged from that process would later become his signature legislative achievement — The Americans with Disabilities Act (ADA). </span>
-    </p>
-<p>
-      <span>The legislation changed the landscape of America by requiring buildings and transportation to be wheelchair accessible, and to provide workplace accommodations for people with disabilities. For his ongoing and dedicated work to people with disabilities around the world, Senator Harkin was twice nominated for the Nobel Peace Prize.</span>
-    </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k1"><em><span>Keynote Address</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-heumann.png" alt="Judith E. Heumann" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="hays">
-      <strong>Keith Hays</strong>
+    <p id="heumann">
+      <strong>Judith E. Heumann</strong>
     </p>
-<p>
-      <em><span>IT ADA Coordinator, Office of Access and Equity</span></em><br /><span>University of Illinois </span>
+    <p>
+      <em><span>International Disability Rights Activists</span></em><br /><span>Judith Heumann, LLC</span>
     </p>
-<p>
-      <span>Keith is the new campus ADA IT Coordinator for the University of Illinois at Urbana-Champaign. While this role is new, he is no stranger to EIT accessibility. Over the last ten years, he has been a user interface designer and accessibility specialist in the Technology Services unit on campus. While there, Keith played a key role in IT accessibility efforts across the Illinois system; creating educational resources and training opportunities, consulting with units on the accessibility of their websites, working with software vendors to correct accessibility issues, helping craft campus policy, and more. Up until accepting his new role this September, Keith was a co-creator and instructor of the award-winning Information Accessibility Design and Policy professional certificate program, offered by Applied Health Sciences at Illinois; and he works with the Big Ten Academic Alliance CIO IT Accessibility Group to help determine best practices and shared approaches for all of the member institutions. Keith is a recognized subject matter expert in IT accessibility for persons with disabilities, and he brings his eclectic skillset to bear on creating a more inclusive culture on campus.</span>
+    <p>
+      <span>Judith (Judy) Heumann is a lifelong advocate for the rights of disabled people. She contracted polio in 1949 in Brooklyn, New York and began to use a wheelchair for her mobility. She was denied the right to attend school because she was considered a "fire hazard" at the age of five. Her parents played a strong role in fighting for her rights as a child, but Judy soon determined that she, working in collaboration with other disabled people, had to play an advocacy role due to continuous discrimination.</span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
+    <p>
+      <span>She is now an internationally recognized leader in the disability rights community. Her memoir, authored with Kristen Joiner, of <a href="https://www.amazon.com/Being-Heumann-Unrepentant-Disability-Activist/dp/0807019291" class="session-link"><em>Being Heumann</em>“Being Heumann: An Unrepentant Memoir of a Disability Rights Activist</a>,” published by Beacon Press and audio recorded by Ali Stroker, who is the first wheelchair actor to perform on Broadway. Judy was featured on the <a href="https://www.youtube.com/watch?v=ybcQbpSVo3c" class="session-link">Daily Show with Trevor Noah</a>. Judy is featured in <a href="https://www.youtube.com/watch?v=Fs0VRfOg7Wo&t=8s" class="session-link">Crip Camp: A Disability Revolution</a> is a 2020 American award winning documentary film, directed by James LeBrecht and Nicole Newnham, produced by the Obama Higher Ground Production and is available on Netflix. She also produces a podcast called <a href="https://open.spotify.com/show/0CYpP8LB2wZ8vUM93DnINF?si=wXgpTq8lT6OXxSkkEINhbA" class="session-link">The Heumann Perspective</a>, which features a variety of members from the disability community.</span>
+    </p>
+    <p>
+      <span>She has been featured in numerous documentaries including on the history of the disability rights movement, including <a href="https://www.pbs.org/independentlens/films/lives-worth-living/" class="session-link">Lives Worth Living</a> and the Power of 504 and delivered a TED talk in the fall of 2016, <a href="https://www.ted.com/talks/judith_heumann_our_fight_for_disability_rights_and_why_we_re_not_done_yet?language=en" session-link">“Our Fight for Disability Rights- and Why We’re Not Done Yet”</a>. Her story was also told on Comedy Central’s Drunk History in early 2018, in which she was portrayed by Ali Stroker. As <a href="https://www.fordfoundation.org/media/4276/judyheumann_report_2019_final.pdf" class="session-link">Senior Fellow at the Ford Foundation (2017-2019)</a>, she wrote <em>“Road Map for Inclusion: Changing the Face of Disability in Media”</em>. She also currently serves on a number of non-profit boards, including the American Association of People with Disabilities, the Disability Rights Education and Defense Fund, Humanity and Inclusion, as well as the Human Rights Watch board.</span>
+    </p>
+    <p>
+      <span>Judy was a founding member of the Berkeley Center for Independent Living which was the first grassroots center in the United States and helped to launch the Independent Living Movement both nationally and globally.</span>
+    </p>
+    <p>
+      <span>In 1983, Judy co-founded the World Institute on Disability (WID) with Ed Roberts and Joan Leon, as one of the first global disability rights organizations founded and continually led by people with disabilities that works to fully integrate people with disabilities into the communities around them via research, policy, and consulting efforts.</span>
+    </p>
+    <p>
+      <span>From 1993 to 2001, Judy served in the Clinton Administration as the Assistant Secretary for the Office of Special Education and Rehabilitative Services in the Department of Education.</span>
+    </p>
+    <p>
+      <span>Judy then served as the World Bank's first Adviser on Disability and Development from 2002 to 2006. In this position, she led the World Bank's disability work to expand its knowledge and capability to work with governments and civil society on including disability in the global conversation.</span>
+    </p>
+    <p>
+      <span>During his presidency, President Obama appointed Judy as the first Special Advisor for International Disability Rights at the U.S. Department of State, where she served from 2010-2017.  Mayor Fenty of D.C. appointed her as the first Director for the Department on Disability Services, where she was responsible for the Developmental Disability Administration and the Rehabilitation Services Administration.</span>
+    </p>
+    <p>
+      <span>She has been instrumental in the development and implementation of legislation, such as Section 504, the Individuals with Education Act, the Americans with Disabilities Act, the Rehabilitation Act, and the UN Convention on the Rights of Persons with Disabilities which have been advancing the inclusion of disabled people in the US and around the world and fighting to end discrimination against all those with disabilities.</span>
+    </p>
+    <p>
+      <span>Judy graduated from Long Island University in Brooklyn, NY in 1969 and received her Master’s in Public Health from the University of California at Berkeley in 1975. She has received numerous awards including being the first recipient of the Henry B. Betts Award in recognition of efforts to significantly improve the quality of life for people with disabilities and the Max Starkloff Lifetime Achievement Award from the National Council on Independent Living. She has been awarded numerous honorary doctorates.</span>
+    </p>
+    <p>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote</span></em></a> on Day 2
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.png" alt="Michael Horton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -678,18 +723,18 @@ created: 1601325079
       <strong>Michael Horton</strong>
     </p>
 <p>
-      <em><span>Accessible Design and Development Advisor</span></em><br /><span>General Services Administration (GSA)</span>
+      <em><span>Senior ICT Accessibility Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
 <p>
       <span>Michael Horton is an accessibility and technology professional with over 25 years of experience in website and web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and advocate who joined the General Services Administration, Office of Government-wide Policy’s IT Accessibility Program in August 2018 as an Accessible Design and Development Advisor supporting agencies in their efforts to ensure independence and the dignity of work for people with disabilities. Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and also enjoyed twelve years with America Online (AOL) as a software/web engineer, partner advocate, online community standards policy and compliance specialist, and creator of member education. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
@@ -703,15 +748,17 @@ created: 1601325079
       <em><span>Section 508 Program Manager</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
 <p>
-      <span>Yolonda is the Program Manager for the IRS Section 508 Program office, known as IRAP (Information Resources Accessibility Program). She has been in the position for about 10 years and in that time has worked relentlessly towards establishing a solid framework to integrate Section 508 as a core IT requirement across the breadth of the IRS’s development/configuration and purchase work streams.</span>
+      <span>Yolonda is the program manager for the IRS 508 program office, known as the Information Resources Accessibility Program (IRAP). She has been a ready advocate for accessibility for more than a decade and worked relentlessly towards establishing Section 508 as a core IT requirement within the IRS.</span>
     </p>
 <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="J"><!--- ------------------------------------------------------------------------ JJJJJ --->
+<!-- JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ -->
+
+<h2 id="J">
   <strong>J</strong>
 </h2>
 
@@ -1149,11 +1196,14 @@ created: 1601325079
 <p>
       <em><span>Program Analyst</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
-      <span>Avis is a Program Analyst for the Office of Government-wide Policy and GSA. Avis has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, manages the CRM, and serves as as a Contracting Officer Representative.</span>
+    <p>
+      <span>Avis is a Program Analyst for the Office of Government-wide Policy and GSA. Avis has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, and serves as a Contracting Officer Representative.</span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Embrace Accessibility and Build It Into Every Decision</span></em></a>
+    <p>
+      <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She soon will be a licensed Massage Therapist in the next few months.</span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div>
