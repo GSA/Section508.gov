@@ -1134,24 +1134,23 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.png" alt="Andrew Nielson" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="nielson">
       <strong>Andrew Nielson</strong>
     </p>
-<p>
-      <em><span>ICT Accessibility Subject Matter Expert</span></em><br /><span>General Services Administration (GSA)</span>
+    <p>
+      <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is a co-organizer of the annual ICT Accessibility Testing Symposium and continues to serve as a member of its event committee. The Symposium brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as the gold standard for accessibility testing.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day 2 Day in Review</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>How Program/Project Managers can Integrate Accessibility Testing into Development Operations</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day 2 Day in Review</span></em></a>
     </p>
   </div>
 </div>
