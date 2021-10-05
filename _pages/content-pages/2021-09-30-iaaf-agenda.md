@@ -532,144 +532,93 @@ created: 1600981839
   <div class="program-header margin-bottom-2" id="progday3">
     <b><span class="text-large">PROGRAM</span> Day 3/Thursday, October 14th</b>
   </div>
-  <div class="agenda usa-graphic-list__row container" id="day2" style="font-size: 14px;">
+  <div class="agenda usa-graphic-list__row container" id="day3" style="font-size: 14px;">
   <!-- start DAY 3 agenda -->
     <div class="grid-row welcome">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">9:30 A.M. – 9:45 A.M. <br><span class="session-type">Welcome</span></div>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d2w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+        <span class="speaker-name" id="d3w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+        <br>
+        <span class="speaker-name" id="d3w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Informaiton Officers, Department of Labor (DOL)
       </div>
     </div>
-    <div class="grid-row keynote" id="d2k1">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">9:45 A.M. – 10:15 A.M. <br><span class="session-type">Keynote Address</span>
+    <div class="grid-row keynote" id="d3k">
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#briscoe">Paula Briscoe, PhD,</a></b></span> Deputy Director, Intelligence Community Equal Employment and Diversity, Office of the Director of National Intelligence
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b></span> U.S. Access Board
       </div>
     </div>
+    <!-- BREAK -->    
     <div class="grid-row break">
-      <div class="grid-col-12 cell dark padding-1">10:15 A.M. – 10:30 A.M.<br><span class="session-type">Break with Vendor Videos</span></div>
+      <div class="grid-col-12 cell dark padding-1">12:45 P.M. – 1:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
-    <div class="grid-col-12 cell brown-breakout black padding-1">1:00 P.M. - 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase #1</span>
+    <div class="grid-col-12 cell brown-breakout black padding-1">1:00 P.M. - 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase</span>
     </div>    
     <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">2:00 P.M. – 2:45 P.M. <br><span class="session-type">General Session</span>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">2:00 P.M. – 2:45 P.M. <br><span class="session-type" id="d3gs1">General Session</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type" id="d2gs1">Accessibility on an International Scale</span> 
-        <span class="session-description">An overview of the progress of digital accessibility in several countries around the world with a focus on the advancement of regulations regarding accessibility criteria in public procurement.</span> 
+        <span class="session-type">Department of Labor Panel</span>
+        <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> 
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b> </span> Global Initiative for Inclusive ICTs (G3ICT)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> Global Initiative for Inclusive ICTs (G3ICT)
         </div> 
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#franks">Aaron Frank, </a></b> </span> Shared Service Canada (SSC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aguh">Chike Aguh,</a></b></span> Department of Labor (DOL)
         </div> 
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Global Leadership Council, International Association of Accessibility Professionals (IAAP)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#raghu">Maya Raghu,</a></b></span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a> </b> </span> Global Initiative for Inclusive ICTs (G3ICT)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#williams">Taryn Mackenzie Williams, </a> </b> </span> Department of Labor (DOL)
         </div>
-        <div class="speaker-info padding-top-1">
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a></span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a></span>
-        </div>
+        </div> -->
       </div> 
     </div>
     <div class="grid-row break">
       <div class="grid-col-12 cell dark padding-1">2:45 P.M. – 3:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
     <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">3:00 P.M. – 3:50 P.M. <br><span class="session-type">General Session</span>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d2gs1">3:00 P.M. – 3:50 P.M. <br><span class="session-type">General Session</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type" id="d2gs1">Accessibility on an International Scale</span> 
-        <span class="session-description">An overview of the progress of digital accessibility in several countries around the world with a focus on the advancement of regulations regarding accessibility criteria in public procurement.</span> 
-        <div class="speaker-info padding-top-1">
+        <span class="session-type">Ask the Expert</span> 
+        <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> 
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b> </span> Global Initiative for Inclusive ICTs (G3ICT)
-        </div> 
-        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#TBD">TBD,</a></b> </span> General Services Administration (GSA)
+        </div> -->
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#franks">Aaron Frank, </a></b> </span> Shared Service Canada (SSC)
-        </div> 
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Global Leadership Council, International Association of Accessibility Professionals (IAAP)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a> </b> </span> Global Initiative for Inclusive ICTs (G3ICT)
-        </div>
-        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#franks">TBD,</a></b></span> General Services Administration (GSA)
+        </div> -->
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a></span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a></span>
-        </div>
-      </div> 
-    </div> <!--
-    <div class="grid-col-12 cell brown-breakout black padding-1">11:15 A.M. - 12:15 P.M.<br><span class="session-type">Virtual Vendor Showcase #1</span>
-    </div>
-    <div class="grid-col-12 cell maroon padding-1">12:15 P.M. – 1:00 P.M.<br><span class="session-type">Lunch</span>
-    </div>
-    <div class="grid-col-12 cell brown-breakout black padding-1">1:00 P.M. – 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase #2</span>
-    </div>
-    <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">2:00 P.M. – 2:45 P.M. <br><span class="session-type">General Session</span>
-      </div>
-      <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type" id="d2gs2">10th Anniversary of the Twenty-First Century Communications and Video Accessibility Act </span> <span class="session-description">Hear from the Federal Communications Commission’s (FCC) Disability Rights Office for the latest on how the FCC regulates accessibility for new technologies, as we mark the 10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA).</span>
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">David Whittington,</a></b> </span> U.S. Census Bureau
-        </div> 
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#cooper">Darryl Cooper,</a></b> </span> Federal Communications Commission (FCC)
-        </div> 
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#schell">Will Schell,</a></b></span> Federal Communications Commission (FCC)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#singleton">Suzy Rosen Singleton,</a> </b> </span> Federal Communications Commission (FCC)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
-          <span class="speaker-name"> <b> <a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx">IAAF 2020 - Twenty-First CVAA (PPT)</a> </b>
-          </span>
-        </div>
+        </div> -->
       </div> 
     </div> 
-    <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">2:45 P.M. – 3:30 P.M. <br><span class="session-type">General Session</span>
-      </div>
-      <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type" id="d2gs3">Agency Showcase: Smithsonian Institution</span> 
-        <span class="session-description">A discussion of how the Institute is using emerging technology to make its museums more accessible.</span>
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#humphrey">Yolonda Humphrey,</a></b> </span> Internal Revenue Service (IRS)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#manuel">Rayvn Manuel,</a></b> </span> National Museum of African American History & Culture
-        </div>
-        <div class="speaker-info padding-top-1">                                                                                                        
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#ziebarth">Beth Ziebarth,</a></b></span> Accessibility at the Smithsonian Institute Accessibility Program
-        </div>
-      </div> 
-    </div>-->
     <!-- close cell -->
     <div class="grid-row welcome" id="d2c">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:30 P.M. – 3:45 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:50 P.M. – 4:00 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#peters">David Peters,</a></b></span>Chief of the Applications Development and Services Division, Office of the Chief Information Officer, U.S. Census Bureau
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Director of the Government-wide IT Accessibility Program, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Government-wide IT Accessibility Program, General Services Administration
         </div>
       </div>
     </div>
@@ -678,85 +627,50 @@ created: 1600981839
 
   <!-- Exhibitors Section -->
   <div style="margin-top: 2em;">
-            <p class="text-large">
-              <strong>Exhibitors</strong>
-            </p>
-                                                                                                            <p>
-              <strong>The 2020 IAAF hosts two round-robin virtual showcases on Wednesday, Oct 7th.</strong>
-            </p>
-                                                                                                            <p>
-              Explore products and services designed to support and enhance the lives of people with disabilities.
-            </p>
-          <ul id="exhibitors">
+    <p class="text-large">
+      <strong>Exhibitors</strong>
+    </p>
+    <p>The 2021 IAAF showcases vendors during breaks in programming each day of the event, and hosts virtual vendor showcases on Wednesday, Oct 14th from 1:00-2:00 PM ET. Explore vendor products and services designed to support and enhance the lives of people with disabilities.</p>
+    <p><strong>NOTICE:</strong> Vendor participation was performed through an open registration and selected on a first-come, first-serve basis. The Federal CIO Council, GSA, partner agencies and other contributing agencies do not endorse the products, services, and claims of participating vendors.</p>
+    <p>Explore products and services designed to support and enhance the lives of people with disabilities.</p>
+      <ul id="exhibitors">
         <li>
-          <a href="https://www.247accessibledocuments.com/" target="_blank"><strong>247 Accessible Documents:</strong></a> Simplifying Document Accessibility - Your trusted partner to remediate PDFs & PDF forms and Word & PowerPoint Documents. We support you to meet Section 508 and ADA compliance.
+          <a href="https://www.247accessibledocuments.com" target="_blank"><strong>247 Accessible Documents:</strong></a> We are a provider of accessible document remediation services. We work along Section 508, WCAG, AODA & PDF/UA guidelines to ensure that organizations across industries can have their documents compliant and accessible.
         </li>
         <li>
-          <a href="https://www.accessibilityshield.com/" target="_blank"><strong>Accessibility Shield</strong></a>: We will demonstrate how our platform makes accessibility work more efficient and how including professional testers who are living with a disability has changed the accessibility conversation.
+          <a href="https://www.accessibilityoz.com/" target="_blank"><strong>Accessibility Shield</strong></a>: AccessibilityOz brings accessibility experience that is unmatched in breadth and depth. Founder Gian Wild is a web accessibility pioneer: she consulted with the Australian Government on the implementation of WCAG 2 in Australia, has spoken at the United Nations on the importance of web accessibility, and she spent six years on the W3C Web Content Accessibility Guidelines Working Group contributing to the development of WCAG2. The team has provided training, roadmaps and audits for countless organizations. <br />
+          Gain peace of mind tackling your unique accessibility challenges with AccessibilityOz and our three signature tools: OzART, our automated accessibility testing tool; OzWiki, our database of web accessibility errors, examples and solutions; and OzPlayer, the world's most accessible video player.
         </li>
         <li>
-          <a href="https://www.accessibilitytrack.com/" target="_blank"><strong>Accessibility Track</strong></a>: Invitation to join the 5th Annual ICT Accessibility Testing Symposium, taking place later in October; and highlighting the annual Digital Accessibility Legal Summit resources from 2019/20 & 2021 events.
+          <a href="https://agilitechsolutions.com/" target="_blank"><strong>Agilitech Solutions</strong></a>: Agilitech Solutions offers simple, fast and affordable solutions for Section 508, ADA and WCAG 2.0) accessibility compliance/conformance. Unlike other companies, we bring cutting-edge web accessibility solutions to both the public and commercial sectors without requiring complex, lengthy service engagements.
         </li>
         <li>
-          <a href="https://www.accessibilityoz.com/" target="_blank"><strong>AccessibilityOz</strong></a>: AccessibilityOz will demonstrate three accessibility tools: <em>OzART</em>, our automated accessibility testing tool; <em>OzPlayer</em>, our accessible video player; and <em>OzWiki</em>, our database of accessibility errors and solutions.
+          <a href="https://appligent.com" target="_blank"><strong>Appligent</strong></a>: Appligent Document Solutions’ professionals make your documents accessible to individuals who need to have the document read to them aloud using their computer.
         </li>
         <li>
-          <a href="https://www.barrierbreak.com/" target="_blank"><strong>BarrierBreak</strong></a>: BarrierBreak are leaders in offshore accessibility testing. We adopt the People First approach where people with disabilities are a part of your accessibility testing and consulting process.
+          <a href="https://commonlook.com/" target="_blank"><strong>CommonLook</strong></a>: Test, create, remediate and validate PDFs for accessibility and compliance with the latest ADA and Section 508 regulations.
         </li>
         <li>
-          <a href="https://www.automaticsync.com/" target="_blank"><strong>CaptionSync by Automatic Sync Technologies</strong></a>: AST leverages smart automation and professional transcribers and audio describers to power its CaptionSync video accessibility services.
+          <a href="https://equidox.co/" target="_blank"><strong>Equidox</strong></a>: Equidox PDF remediation software enables organizations to quickly and easily convert inaccessible PDF documents into accessible and usable  PDF, HTML, and ePub content using AI-powered Smart Detection Tools. Equidox’s best-in-class software is available both on-prem and cloud-based, and includes free training and support. Equidox also offers expert document remediation services, and both software and services are listed on the GSA schedule. Let Equidox help you break down barriers to information and reach everyone in your potential audience. 
         </li>
         <li>
-          <a href="https://www.civicactions.com/" target="_blank"><strong>CivicActions, Inc.</strong></a>: Prototypes for design pages, created in Drupal, Wordpress, Adobe XD, or similar design applications; wireframes; and mockups. Creative redesign using non-traditional improvements that maximize user experience.&nbsp;
+          <a href="https://www.microassist.com/iaaf-2021/" target="_blank"><strong>Microassist</strong></a>: Microassist is a minority-owned, small business providing custom curriculum development and delivery that is compliant with Section 508, WCAG 2.0, and other recognized standards.  For over twenty years our accessibility team has provided in-depth accessibility analysis and remediation of websites, mobile applications, documents, and other media files and platforms.  We also offer a growing portfolio of online and instructor led accessibility training classes.
         </li>
         <li>
-          <a href="https://www.codemantra.com" target="_blank"><strong>Codemantra</strong></a>: Codemantra will present its Artificial Intelligence and Machine Learning based approach for helping to automate the remediation of digital documents to exceed both Section 508 and WCAG 2.1 standards.
+          <a href="https://nsite.org/" target="_blank"><strong>NSITE</strong></a>: NSITE provides a continuum of employment services that connect employers with talented, dedicated people who are blind, visually impaired, and/or veterans to meet their workforce needs. As you move through the hiring process, NSITE is with you every step of the way to ensure that finding the right employee-employer match is as smooth and seamless as possible.
         </li>
         <li>
-          <a href="https://www.commonlook.com/" target="_blank"><strong>CommonLook</strong></a>: We will give a quick overview of CommonLook showcasing the solutions and services we have to offer. This includes our 100% Guaranteed Remediation and PDF + Office remediation software.
+          <a href="https://PneumaSolutions.com" target="_blank"><strong>Pneuma Solutions</strong></a>: As the world continues to move to a more virtual environment, you need an affordable solution that guarantees full access to everyone in your audience. Pneuma Solutions, the global leader in accessible cloud solutions, introduces Scribe For Meetings! The goal is to make the on-screen content in your online meetings and webinars using Zoom or Teams accessible to print-impaired participants in an as accessible manner as possible.
         </li>
         <li>
-          <a href="https://www.e-508.com" target="_blank"><strong>E-GovMarket, LLC</strong></a>: E-508.com is a one-stop shop for Section 508 Document remediation pricing and tracking. We have a new marketplace of vendors searchable by socioeconomic status, GSA Schedules and BPAs.
+          <a href="https://www.splashbox.com" target="_blank"><strong>Splash Box</strong></a>: At Splash Box we help our clients align marketing and branding strategies with their business objectives. We provide high end graphic design to meet marketing goals and reinforce their brand positioning with their clients. We are also proud to offer 508 Remediation Service and ADA Compliance website reviews, thereby helping to make the internet a more accessible place for the hard of sight.
         </li>
         <li>
-          <a href="https://www.equidox.co/" target="_blank"><strong>Equidox by Onix</strong></a>: Remediate a PDF document 80% quicker than with Acrobat. Utilizing AI & Machine Learning we're able to automate the most arduous processes like auto-tagging tables and nested lists.
+          <a href="https://wordwizardsinc.com/" target="_blank"><strong>Word Wizards</strong></a>: Word Wizards provides 508 compliance remediation, transcription services, graphic design, and integrated media solutions. From quote to completion, we work closely with our clients to provide the highest quality product with superior customer service.
         </li>
-        <li>
-          <a href="https://www.foxitsoftware.com/solution/accessibility/" target="_blank"><strong>Foxit Software</strong></a>: Foxit software provides a full set of PDF editing capabilities, including remediation and compliance checker for document accessibility.
-        </li>
-        <li>
-          <a href="https://www.gabisolutions.com" target="_blank"><strong>Gabi Solutions, Inc.</strong></a>: Gabi provides a safe, secure and accessible touchless solution for any Xerox Multifunction Printer through verbal commands from employees with and without disabilities being 508 compliant.
-        </li>
-        <li>
-          <a href="http://www.inclusivedocs.com" target="_blank"><strong>Inclusive Docs</strong></a>: Inclusive Docs have developed Software that ingests all types of Documents and our system reflows the content into HTML5 as well as EPUB3, producing an accessible WCAG2.1AA document.
-        </li>
-        <li>
-          <a href="https://www.microassist.com/" target="_blank"><strong>Microassist</strong></a>: Microassist is a minority-owned, small business providing digital accessibility testing and remediation services, and custom curriculum development and delivery that is compliant with Section 508, WCAG 2.0, and other recognized standards.
-        </li>
-        <li>
-          <a href="https://neweditions.net/services/accessibility-services" target="_blank"><strong>New Editions Consulting</strong></a>: We will describe New Editions accessibility service offerings.
-        </li>
-        <li>
-          <a href="https://www.openaccesstech.com/" target="_blank"><strong>Open Access Technologies, Inc.</strong></a>: OAT will present our new product DocMD. DocMD uses efficient, cost effective web-crawling technology where clients can make user queries, assess and report on a repository of web-based documents.
-        </li>
-        <li>
-          <a href="https://iaccessible.com/" target="_blank"><strong>Optimal Solutions Group</strong></a>: iAccessible is an online platform powered by Revelo that automates website accessibility testing, monitoring and reporting.
-        </li>
-        <li>
-          <a href="http://www.pneumasolutions.com/" target="_blank"><strong>Pneuma Solutions</strong></a>: You need equal access to a wide range of document types and images. Come learn how we can leverage machine learning algorithms to bring fast, affordable, and intuitive document remediation to you.&nbsp;
-        </li>
-        <li>
-          <a href="https://www.tcsaccess.com/" target="_blank"><strong>TCSAccess</strong></a>: TCSAccess is a full service, assistive technology (AT) solutions provider. Our time will be used to discuss the services and product lines that we offer, which includes AT Training, Document Remediation, & Reader Services&nbsp;
-        </li>
-        <li>
-          <a href="https://www.tenon.io" target="_blank"><strong>Tenon.io</strong></a>: Tenon is an API-first, automated accessibility testing tool which integrates easily into your development pipeline.
-        </li>
-        <li>
-          <a href="https://www.tpgi.com/interagency-accessibility-forum-iaaf/" target="_blank"><strong>The Paciello Group</strong></a>: This exhibit will showcase TPG's testing and monitoring tools, ARC Monitoring and JAWS Inspect, used to conduct automated and manual evaluations of your web applications.
-        </li>
-        <li>
-          <a href="https://www.uipath.com" target="_blank"><strong>UiPath</strong></a>: Check for 508 compliance of Word, PDF, PowerPoint, and Excel documents using UiPath robots. Pilots at NIH have shown 40 hours of manual reviews is reduced to 3 hours with no errors.
-        </li>
+        <!-- <li>
+          <a href="" target="_blank"><strong></strong></a>: 
+        </li> -->
       </ul>
     </div>
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
@@ -765,4 +679,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> April 2021 </p>
+<p><strong>Reviewed/Updated: </strong> September 2021 </p>
