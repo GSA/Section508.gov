@@ -1,7 +1,7 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/archives/agenda-2021/
+permalink: iaaf/agenda-2021/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2021'
 created: 1600981839
