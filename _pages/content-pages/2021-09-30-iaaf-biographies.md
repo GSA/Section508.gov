@@ -828,7 +828,6 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
-
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
@@ -885,78 +884,95 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.png" alt="Susanna Laurin" />
   </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="langevin">
-      <strong>Jim Langevin</strong>
-    </p>
-<p>
-      <em><span>Congressman, U.S. House of Representatives, Rhode Island 2nd Congressional District</span></em>
-    </p>
-<p>
-      <span>Congressman Jim Langevin represents Rhode Island’s Second Congressional District, and is recognized as a leader on national security, cybersecurity, health and disability policy. He is a senior member of the House Armed Services Committee, where he is the Chairman of the Intelligence and Emerging Threats and Capabilities Subcommittee, and of the House Committee on Homeland Security.</span>
-    </p>
-<p>
-      <span>Langevin was inspired to enter public service by the tremendous outpouring of support he received during the most challenging time of his life, after a gun accident paralyzed him at age 16 and left him a quadriplegic. He is driven by a belief that everyone deserves a fair opportunity to make the most of their talents. He co-founded and co-chairs the House Bipartisan Disabilities Caucus, which is dedicated to raising awareness of issues affecting people with disabilities. He is a strong advocate for inclusion and independence for people with disabilities, and helped pass the ADA Amendments Act that strengthened the protections of the Americans with Disabilities Act.</span>
-    </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k3"><em><span>Keynote Address</span></em></a>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
-  </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
       <strong>Susanna Laurin</strong>
     </p>
-<p>
-      <em><span>Chair, Global Leadership Council</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
+    <p>
+      <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
-<p>
-      <span>Susanna Laurin is the Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is assigned by the European Commission to lead the expert group supporting the Member States in transposing the Web Accessibility Directive and she is also appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+    <p>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
 
+<!-- NEW BIO -->
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leibert.png" alt="Ellen Liebert" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="liebert">
+      <strong>Ellen Liebert</strong>
+    </p>
+    <p>
+      <em><span>TITLE</span></em><br /><span>National Security Agency (NSA)</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div> -->
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-lindemuth.png" alt="Charles Lindemuth" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="leblois">
-      <strong>Axel Leblois</strong>
+    <p id="lindemuth">
+      <strong>Charles Lindemuth</strong>
     </p>
-<p>
-      <em><span>President and Executive Director</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ICT)</span>
+    <p>
+      <em><span>Communicaitons Specialist</span></em><br /><span>US Forest Service</span>
     </p>
-<p>
-      <span>Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the board of several publicly traded technology companies.</span>
+    <p>
+      <span>Charles Lindemuth is a skilled graphic designer and artist, and has spent most of his career on the Forest Service with the Chugach National Forest in Alaska.</span>
     </p>
-<p>
-      <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International. </span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="M"><!--- ------------------------------------------------------------------------ MMMMM --->
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-lyckowski.png" alt="Natalia Lyckowski" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="lyckowski">
+      <strong>Natalia Lyckowski</strong>
+    </p>
+    <p>
+      <em><span>Co-Chair, Neurodiversity@IBM Global Business Resource Group</span></em><br /><span>IBM</span>
+    </p>
+    <p>
+      <span>Proudly neurodivergent (and parent of an autistic IT Professional) Nat enables businesses to see the value in embracing ND talent to attain highly skilled and dedicated professionals that may otherwise be overlooked. 1:20 individuals are ND and 1:50 are autistic. This talent pool brings 32% new skills, 66% higher job loyalty, and more, improving corporate citizenship and revenue. Nat has driven culture change, improving trust and allyship through Global Acceptance Training across >30 Countries, Speaking Engagements and other advocacy initiatives. Nat is also experienced with intersectionality across PWD/PWDA, LGBT+, Race, Ethnicity, Gender, and other identity groups. Nat is also a Business Analyst and Application Developer with IBM for over 25 years.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM - MMMMM -->
+
+<h2 id="M">
   <strong>M</strong>
 </h2>
 
@@ -964,78 +980,151 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manak.png" alt="Meli S. Manak" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="malakhoff">
-      <strong>Lawrence Malakhoff</strong>
+    <p id="manak">
+      <strong>Meli S. Manak</strong>
     </p>
-<p>
-      <em><span>IT Specialist</span></em><br /><span>U.S. Census Bureau</span>
+    <p>
+      <em><span>UX Designer, Mobile Accessibility</span></em><br /><span>Ad Hoc</span>
     </p>
-<p>
-      <span>In 2001, Mr. Malakhoff began working on Section 508 issues when it became a Federal law. As part of usability testing, he tested and documented accessibility problems in Web surveys, E-Learning courses, Web applications, Desktop applications, PDF and MS-Word documents based on requests from many Census Bureau Program areas. He also worked to identify accessibility issues with 2010 and 2020 Census Web applications.</span>
+    <p>
+      <span>A product designer who focuses on mobile accessibility, Meli S. Manak currently works for Ad Hoc and supports mobile applications work at the Department of Veterans Affairs. Her work includes streamlining the design system, bringing design and accessibility expertise to her cross functional team, and ensuring designs are visually accessible before development begins. It is a career built on her lived experience. Deafness is a central component of Meli’s identity and career, and she brings a deep level of empathy to her UX work. Her mission is to continue pushing for digital accessibility to ensure that future generations with disabilities can more freely move through the world.</span>
     </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-mcgowan.png" alt="Brianna McGowan" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="manuel">
-      <strong>Rayvn Manuel</strong>
+    <p id="mcgowan">
+      <strong>Brianna McGowan</strong>
     </p>
-<p>
-      <em><span>Senior Application Developer/Architect and Lead DevOps Engineer</span></em><br /><span>National Museum of African American History & Culture </span>
+    <p>
+      <em><span>IT Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
-      <span>Rayvn serves as the Senior Application Developer/Architect and Lead DevOps Engineer for the National Museum of African American History and Culture’s [NMAAHC’s] within the Digital Media group. She is the principal programmer responsible for the planning, design and implementation of some of the web-based interactives developed by the museum.</span>
+    <p>
+      <span>Brianna has just joined the M1ED team as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the 508 web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
     </p>
-<p>
-      <span>As the DevOps team lead, Rayvn is responsible for defining the standards, workflows and recommending the appropriate tools which NMAAHC’s development teams adopt/adapt to produce the museum’s digital products and serves as the primary administrator of the agency’s cloud-based resources.</span>
-    </p>
-<p>
-      <span>Along with advising leadership about the state of App Development & DevOps best practices and tools, Rayvn is responsible for ensuring that the unit’s digital products are developed and delivered in compliance with established dev/op guidelines as well as unit-level and OCIO security protocols.</span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-mcharg.png" alt="Shannon McHarg" />
   </div>
-  
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="mcharg">
+      <strong>Shannon McHarg</strong>
+    </p>
+    <p>
+      <em><span>User Experience Designer</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
+    </p>
+    <p>
+      <span>Shannon McHarg is a UX designer working in the Department of the Interior’s Office of Natural Resources Revenue.  She has more than 19 years’ experience working  for companies like H&R Block and L.L.Bean and a Master’s degree in Human Factors from Bentley University.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: prioritizing documents for remediation </span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="lowermontgomerylastname">
+      <strong>Dr. Rachael Bradley Montgomery</strong>
+    </p>
+    <p>
+      <em><span>Digital Accessibility Specialist</span></em><br /><span>Library of Congress</span>
+    </p>
+    <p>
+      <span>Dr. Rachael Bradley Montgomery is a digital accessibility specialist at the Library of Congress and an adjunct lecturer at University of Maryland’s College of Information Studies (iSchool).  She co-chairs the W3C Accessibility Guidelines Working Group and was previously a co-facilitator of the Cognitive and Learning Disabilities taskforce. She is the executive director of Accessible Community, a charity that helps communities and small organizations become more inclusive of people with disabilities. Rachael has a PhD from University of Maryland, College Park and an MS from University of Illinois, Urbana-Champaign.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to Support Cognitive and Learning Disabilities</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.png" alt="Rhonda Moore" />
+  </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="moore">
-      <strong>Rhonda Moore, PhD</strong>
+      <strong>Rhonda Moore</strong>
     </p>
-<p>
-      <em><span>Medical Anthropologist, Behavioral Scientist, and Fellow, Ethical AI, Food and Drug Administration</span></em> <br /><span>Department of Health and Human Services (HHS) </span>
+    <p>
+      <em><span>Program Officer Global Mental Health</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
-<p>
-      <span>Dr. Rhonda Moore is a Medical Anthropologist and Social Scientist working at the Food and Drug Administration (FDA) in the U.S. Department of Health and Human Services. In that role, Dr. Moore serves as a social science reviewer performing reviews of consumer and clinical studies and research. Part of her current research focuses on the socio-technical and ethical implications of artificial intelligence (AI). For example, she examines how to use AI and machine learning to understand treatment differences in breast cancers and computational ethnography as a method to extend participatory approaches to better understand AI fairness for pain and disability use cases, etc.</span>
+    <p>
+      <span>Rhonda J. Moore, PhD received her PhD in Cultural and Medical Anthropology at Stanford University and postdoctoral training in Behavioral Science in the Psychiatry Department at Stanford Medical School, in Clinical Ethnography and Epidemiology at the University of Texas MD Anderson Cancer Center, and Hospice/Palliative Care at St. Austell’s in the UK. Her work combines anthropological methods, ethics, data science and clinical medicine to better understand patient experiences and data disparities across culturally and medically diverse care settings (cancer, pain, palliative care, Neurodiversity), gamification, community engaged research, and the differential and ethical impacts of new and emerging technologies  on individuals and communities in vulnerable situations in low resource settings and in low and middle income countries (e.g. AI, Digital Health, etc.,).</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+    <p>
+      <span>Rhonda is author and editor of the following books: Climate Change and Health Equity (Forthcoming, Springer 2023), Handbook of Pain and Palliative Care (Springer, 2012, 2nd edition, Springer, 2019), Biobehavioral Approaches to Pain (Springer 2009) and Cancer Culture and Communication (Springer 2004). Currently, she is a Program Officer with the Center for Global Mental Health at NIH’s National Institutes of Mental Health (NIMH). Areas of responsibility include Social Drivers of Global Mental Health, ethics of new and emerging technologies, climate change and mental health, citizen science, and Neurodiversity at work. She is the Program lead for the  Digital Global Mental Health program.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="N"><!--- ------------------------------------------------------------------------ NNNNN --->
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-morin.png" alt="Gary Morin" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="morin">
+      <strong>Gary Morin</strong>
+    </p>
+    <p>
+      <em><span>Section 508 Program Manager, National Cancer Institute (NCI)</span></em><br /><span>National Institutes of Health (NIH)</span>
+    </p>
+    <p>
+      <span>Gary M.  Morin joined the National Cancer Institute’s Office of Communications and Public Liaison (OCPL) as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s Office on Equity, Diversity, and Inclusion (EDI) (2001 – 2008) and the Office of the Chief Information Officer (2008 - 2020).
+      </span>
+    </p>
+    <p>
+      <span>Gary joined the NIH as a Sign Language Interpreter, in 1993.  Throughout the 1990s, he coordinated NIH interpreting services and he trained ASL interpreters across the US to facilitate communication in healthcare settings.  He was also actively involved with HHS’s Shared Neutrals, mediating conflict resolution in agencies across the Federal government, with an emphasis on reasonable accommodations.  With the onset of Section 508, he quickly saw and embraced the potential of accessible of Information and Communication Technology.</span>
+    </p>
+    <p>
+      <span>Gary sees the role of accessible technology as a means of enabling employees with disabilities to perform to their greatest potential and as part of an institutional responsibility and strategy to address healthcare disparities experienced by persons with disabilities.  Section 508 of the Rehabilitation Act is more than a law – it’s a means to address barriers to employment and to better healthcare outcomes.  Since the law’s implementation, he has been one of NIH’s few agency-wide subject matter experts for the coordination and implementation of Section 508 of the Rehabilitation Act of 1973, as Amended, and its integration with both business ICT and digital content, as well as the role of assistive technology (AT).</span>
+    </p>
+    <p>
+      <span>Gary is Vice-Chair of ABILITIES, NIH’s employee resource group for persons with disabilities and allies; he is equally active with the NIH Deaf and Hard-of-Hearing community.  For the last couple of years, he has also become more and more fascinated with audio-description and is now involved in the American Council of the Blind’s Audio Description Project and sits on the ADP’s Section 508 subcommittee.</span>
+    </p>
+    <p>
+      <span>Outside of the NIH, he finds great joy spending time with his 4-year-old granddaughter, seeks dead people in family history research, and loves a good film noir or classic, black-and-white horror flic.  His most recent recognition includes NIH EDI’s 2020 NIH Champions and Allies of Disability Awardees and NIH EDI’s 20 profiles for 2020: Celebrating LGBT community Diversity at NIH and Beyond.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN - NNNNN -->
+
+<h2 id="N">
   <strong>N</strong>
 </h2>
 
@@ -1230,7 +1319,7 @@ created: 1601325079
       <span>Avis is a Program Analyst for the Office of Government-wide Policy and GSA. Avis has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, and serves as a Contracting Officer Representative.</span>
     </p>
     <p>
-      <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She soon will be a licensed Massage Therapist in the next few months.</span>
+      <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was a perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She soon will be a licensed Massage Therapist in the next few months.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
