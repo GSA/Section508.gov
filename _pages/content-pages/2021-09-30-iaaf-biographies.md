@@ -313,25 +313,35 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-christianson.png" alt="Josh Christianson" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-christianson.png" alt="Josh Christianson, M.S." />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="christianson">
-      <strong>Josh Christianson</strong>
+      <strong>Josh Christianson, M.S.</strong>
     </p>
     <p>
-      <em><span>TITLE GOES HERE</span></em><br /><span>Department of Labor (DOL)</span>
+      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor (DOL)<br />
+      <em><span>Project Director</span></em><br /><span>Partnership on Inclusive Apprenticeship</span>
     </p>
     <p>
-      <span>BIO GOES HERE</span>
+      <span>Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship. Josh has extensive experience in supporting the diversity, equity, inclusion, and accessibility (DEIA) efforts of non-profit organizations, private companies, and government agencies.</span>
+    </p>
+    <p>
+      <span>He is the former director of the Partnership on Employment & Accessible Technology (PEAT), where he built cross-sector partnerships to shape the policies and practices contributing to the development of accessible emerging technologies in the workplace.</span>
+    </p>
+    <p>
+      <span>Before coming to PEAT Josh was a Senior Consultant at Deloitte where he provided talent strategies, change management, and leadership development support to federal agencies.</span>
+    </p>
+    <p>
+      <span>Prior to Deloitte he spent several years with The Posse Foundation as the Career Program Manager where he cultivated relationships with companies and organizations to provide career development opportunities for Posse Scholars and Alumni.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD - DDDDD -->
 
@@ -474,7 +484,7 @@ created: 1601325079
       <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities, which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Welcome to Section 508 (for new members)</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Wrap-up and Thank You on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -493,11 +503,11 @@ created: 1601325079
     </p>
     <p><span>Mike Gifford is a Senior Strategist at CivicActions. His primary focus is on building digital accessibility confidence and capabilities in the public sector.</span></p>
     <p><span>Previously, he was the Founder and President of OpenConcept Consulting Inc., a web development agency specializing in building open source solutions for the open web. We worked primarily with the Drupal CMS. In this role he was an active part of the Government of Canada's Open Source Advisory Board.</span></p>
-    <p><span>Pushed by a desire to build better and more inclusive world, Mike has been involved with accessibility since the beginning of the 90s. He has spearheaded accessibility improvements in Drupal since 2008, and officially became Drupal’s Core Accessibility Maintainer in 2012.</span></p>
-    <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
+    <p><span>Pushed by a desire to build a better and more inclusive world, Mike has been involved with accessibility since the beginning of the 90s. He has spearheaded accessibility improvements in Drupal since 2008, and officially became Drupal’s Core Accessibility Maintainer in 2012.</span></p>
+    <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn, and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
     </p>
   </div>
 </div>
@@ -505,20 +515,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-golstein.png" alt="Linday Goldstein" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-golstein.png" alt="Lindsay Goldstein" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="goldstein">
-      <strong>Linday Goldstein</strong>
+      <strong>Lindsay Goldstein</strong>
     </p>
     <p>
       <em><span>Program Analyst</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
     </p>
     <p>
-      <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue in the Department of the Interior. An economist by training, she made her way over to civic tech a few years ago and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
+      <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue in the Department of the Interior. An economist by training, she made her way over to civic tech a few years ago, and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
@@ -539,7 +549,7 @@ created: 1601325079
       <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to the customers. These tools help multiple audiences connect to the artwork in the museum.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1b3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -632,20 +642,16 @@ created: 1601325079
       <em><span>Director of Digital Strategies, Office of Government-wide Policy</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>
-      Mr. Stephen Harding is the Director, Digital Strategies Division, GSA, Office of Government-wide Policy, Washington D.C.</span>
-    </p>
-    <p>
       <span>Prior to his current position, Mr. Harding was Program Executive for the Electronic Capital Planning and Investment Control (eCPIC), GSA, Office of Government-wide Policy, Washington D.C.</span>
     </p>
     <p>
       <span>Mr. Harding has served in a variety of cyber assignments in GSA and in the DoD joint support and operational environments around the world. He has experience managing organizations composed of active duty military, civilian, and contractor personnel. Mr. Harding has managed the operations of multimillion dollar nationwide military intelligence, command and control networks and support systems. He has also led personnel and managed computer network systems in two combat environments. Mr. Harding retired as a Major after 25 years of military service.</span>
     </p>
     <p>
-      <span>Mr. Harding is from Chicago Illinois. He is married to the former Debbie jean Willard from Simi Valley, California.</span>
+      <span>Mr. Harding is from Chicago Illinois. He is married to the former Debbie Jean Willard from Simi Valley, California.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Closing Remarks</span></em></a> on Day 2
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Wrap-Up and Thank You on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -683,19 +689,19 @@ created: 1601325079
       <strong>Judith E. Heumann</strong>
     </p>
     <p>
-      <em><span>International Disability Rights Activists</span></em><br /><span>Judith Heumann, LLC<br />Former Special Advisor for International Disability Rights, Department of State (2010-2017)</span>
+      <em><span>International Disability Rights Activist</span></em><br /><span>Judith Heumann, LLC<br />Former Special Advisor for International Disability Rights, Department of State (2010-2017)</span>
     </p>
     <p>
       <span>Judith (Judy) Heumann is a lifelong advocate for the rights of disabled people. She contracted polio in 1949 in Brooklyn, New York and began to use a wheelchair for her mobility. She was denied the right to attend school because she was considered a "fire hazard" at the age of five. Her parents played a strong role in fighting for her rights as a child, but Judy soon determined that she, working in collaboration with other disabled people, had to play an advocacy role due to continuous discrimination.</span>
     </p>
     <p>
-      <span>She is now an internationally recognized leader in the disability rights community. Her memoir, authored with Kristen Joiner, of <a href="https://www.amazon.com/Being-Heumann-Unrepentant-Disability-Activist/dp/0807019291" class="session-link"><em>Being Heumann</em>“Being Heumann: An Unrepentant Memoir of a Disability Rights Activist</a>,” published by Beacon Press and audio recorded by Ali Stroker, who is the first wheelchair actor to perform on Broadway. Judy was featured on the <a href="https://www.youtube.com/watch?v=ybcQbpSVo3c" class="session-link">Daily Show with Trevor Noah</a>. Judy is featured in <a href="https://www.youtube.com/watch?v=Fs0VRfOg7Wo&t=8s" class="session-link">Crip Camp: A Disability Revolution</a> is a 2020 American award winning documentary film, directed by James LeBrecht and Nicole Newnham, produced by the Obama Higher Ground Production and is available on Netflix. She also produces a podcast called <a href="https://open.spotify.com/show/0CYpP8LB2wZ8vUM93DnINF?si=wXgpTq8lT6OXxSkkEINhbA" class="session-link">The Heumann Perspective</a>, which features a variety of members from the disability community.</span>
+      <span>She is now an internationally recognized leader in the disability rights community. Her memoir, authored with Kristen Joiner <a href="https://www.amazon.com/Being-Heumann-Unrepentant-Disability-Activist/dp/0807019291" class="session-link">“Being Heumann: An Unrepentant Memoir of a Disability Rights Activist,”</a> and published by Beacon Press was audio recorded by Ali Stroker, who is the first wheelchair actor to perform on Broadway. Judy was featured on the <a href="https://www.youtube.com/watch?v=ybcQbpSVo3c" class="session-link">Daily Show with Trevor Noah</a>. Judy is featured in <a href="https://www.youtube.com/watch?v=Fs0VRfOg7Wo&t=8s" class="session-link">Crip Camp: A Disability Revolution</a>, which is a 2020 American award winning documentary film, directed by James LeBrecht and Nicole Newnham, produced by the Obama Higher Ground Production, and is available on Netflix. She also produces a podcast called <a href="https://open.spotify.com/show/0CYpP8LB2wZ8vUM93DnINF?si=wXgpTq8lT6OXxSkkEINhbA" class="session-link">The Heumann Perspective</a>, which features a variety of members from the disability community.</span>
     </p>
     <p>
-      <span>She has been featured in numerous documentaries including on the history of the disability rights movement, including <a href="https://www.pbs.org/independentlens/films/lives-worth-living/" class="session-link">Lives Worth Living</a> and the Power of 504 and delivered a TED talk in the fall of 2016, <a href="https://www.ted.com/talks/judith_heumann_our_fight_for_disability_rights_and_why_we_re_not_done_yet?language=en" class="session-link">“Our Fight for Disability Rights- and Why We’re Not Done Yet”</a>. Her story was also told on Comedy Central’s Drunk History in early 2018, in which she was portrayed by Ali Stroker. As <a href="https://www.fordfoundation.org/media/4276/judyheumann_report_2019_final.pdf" class="session-link">Senior Fellow at the Ford Foundation (2017-2019)</a>, she wrote <em>“Road Map for Inclusion: Changing the Face of Disability in Media”</em>. She also currently serves on a number of non-profit boards, including the American Association of People with Disabilities, the Disability Rights Education and Defense Fund, Humanity and Inclusion, as well as the Human Rights Watch board.</span>
+      <span>She has been featured in numerous documentaries, including <a href="https://www.pbs.org/independentlens/films/lives-worth-living/" class="session-link">Lives Worth Living</a> on the history of the disability rights movement and the Power of 504 and delivered a TED talk in the fall of 2016, <a href="https://www.ted.com/talks/judith_heumann_our_fight_for_disability_rights_and_why_we_re_not_done_yet?language=en" class="session-link">“Our Fight for Disability Rights- and Why We’re Not Done Yet”</a>. Her story was also told on Comedy Central’s Drunk History in early 2018, in which she was portrayed by Ali Stroker. As <a href="https://www.fordfoundation.org/media/4276/judyheumann_report_2019_final.pdf" class="session-link">Senior Fellow at the Ford Foundation (2017-2019)</a>, she wrote <em>“Road Map for Inclusion: Changing the Face of Disability in Media”</em>. She also currently serves on a number of non-profit boards, including the American Association of People with Disabilities, the Disability Rights Education and Defense Fund, Humanity and Inclusion, as well as the Human Rights Watch board.</span>
     </p>
     <p>
-      <span>Judy was a founding member of the Berkeley Center for Independent Living which was the first grassroots center in the United States and helped to launch the Independent Living Movement both nationally and globally.</span>
+      <span>Judy was a founding member of the Berkeley Center for Independent Living, which was the first grassroots center in the United States and helped to launch the Independent Living Movement both nationally and globally.</span>
     </p>
     <p>
       <span>In 1983, Judy co-founded the World Institute on Disability (WID) with Ed Roberts and Joan Leon, as one of the first global disability rights organizations founded and continually led by people with disabilities that works to fully integrate people with disabilities into the communities around them via research, policy, and consulting efforts.</span>
@@ -707,16 +713,16 @@ created: 1601325079
       <span>Judy then served as the World Bank's first Adviser on Disability and Development from 2002 to 2006. In this position, she led the World Bank's disability work to expand its knowledge and capability to work with governments and civil society on including disability in the global conversation.</span>
     </p>
     <p>
-      <span>During his presidency, President Obama appointed Judy as the first Special Advisor for International Disability Rights at the U.S. Department of State, where she served from 2010-2017.  Mayor Fenty of D.C. appointed her as the first Director for the Department on Disability Services, where she was responsible for the Developmental Disability Administration and the Rehabilitation Services Administration.</span>
+      <span>During his presidency, President Obama appointed Judy as the first Special Advisor for International Disability Rights at the U.S. Department of State, where she served from 2010-2017.  Mayor Fenty of Washington, D.C. appointed her as the first Director for the Department on Disability Services, where she was responsible for the Developmental Disability Administration and the Rehabilitation Services Administration.</span>
     </p>
     <p>
-      <span>She has been instrumental in the development and implementation of legislation, such as Section 504, the Individuals with Education Act, the Americans with Disabilities Act, the Rehabilitation Act, and the UN Convention on the Rights of Persons with Disabilities which have been advancing the inclusion of disabled people in the US and around the world and fighting to end discrimination against all those with disabilities.</span>
+      <span>She has been instrumental in the development and implementation of legislation, such as Section 504, the Individuals with Education Act, the Americans with Disabilities Act, the Rehabilitation Act, and the UN Convention on the Rights of Persons with Disabilities, which have been advancing the inclusion of disabled people in the US and around the world and fighting to end discrimination against all those with disabilities.</span>
     </p>
     <p>
       <span>Judy graduated from Long Island University in Brooklyn, NY in 1969 and received her Master’s in Public Health from the University of California at Berkeley in 1975. She has received numerous awards including being the first recipient of the Henry B. Betts Award in recognition of efforts to significantly improve the quality of life for people with disabilities and the Max Starkloff Lifetime Achievement Award from the National Council on Independent Living. She has been awarded numerous honorary doctorates.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote</span></em></a> on Day 2
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote  on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -1608,7 +1614,7 @@ created: 1601325079
 </p>
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-walden.png" alt="Alcora Walden" />
   </div>
@@ -1617,18 +1623,16 @@ created: 1601325079
       <strong>Alcora Walden</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Technical Advisor</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>With 15 years of experience focusing on leading cross-functional communication programs in public and non-profit sectors, Alcora is dedicated to building a legacy recognized for solving business problems through customer-centric communications.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -1719,7 +1723,7 @@ created: 1601325079
     </p>
     <p>
       <em><span>Presidential Innovation Fellow</span></em><br />
-      <span>Department of Homeland Security (DHS)</span>
+      <span>General Services Administration (GSA)</span>
     </p>
     <p>
       <span>

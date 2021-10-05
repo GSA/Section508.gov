@@ -117,10 +117,10 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1c">
       <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for Federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both Federal Agencies and Industry will be shared.</span> 
-     <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD</a></b>, </span> General Services Administration (GSA)
-      </div> -->
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#haileselassie">Antonio Haileselassie</a></b>, </span> National Aeronautics and Space Administration (NASA)
+      </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk</a></b>, </span>National Aeronautics and Space Administration (NASA)
@@ -194,7 +194,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#azeem">Syed Azeem,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bonitto">Mike Gifford,</a> </b> </span>Civic Actions / General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gifford">Mike Gifford,</a> </b> </span>Civic Actions / General Services Administration (GSA)
         </div>
         <!-- HIDE DOWNLOADS>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -379,7 +379,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span>General Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD</a> </b> </span>Department of Homeland Security (DHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD</a> </b> </span>General Services Administration (GSA)
       </div>
       <!-- HIDE DOWNLOAD
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
