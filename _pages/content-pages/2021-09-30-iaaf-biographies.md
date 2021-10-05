@@ -55,25 +55,25 @@ created: 1601325079
     <p id="aguh">
       <strong>Chike Aguh</strong>
     </p>
-<p>
+    <p>
       <em><span>Chief Innovation Officer (CInO)</span></em><br /><span>United States Department of Labor</span>
     </p>
-<p>
+    <p>
       <span>On January 20, 2021, Chike Aguh (Chee-kay Ah-Goo) was sworn in as Chief Innovation Officer (CInO) at the United States Department of Labor, appointed by President Joe Biden. Reporting to the Deputy Secretary and also serving as the Senior Advisor for Delivery, he leads efforts to use innovative technologies, partnerships and practices to accelerate the Department’s mission of delivering a future of work that includes and dignifies every American.</span>
     </p>
-<p>
+    <p>
       <span>Previously, Chike was the inaugural Head of Economic Mobility Pathways at the Education Design Lab where he launched the Community College Growth Engine Fund, an innovative multimillion dollar effort turning community colleges into bridges to careers in high growth fields for thousands. He has been a Technology and Human Rights Fellow at the Harvard Carr Center for Human Rights Policy where he focused on the future of work and racial equity, Venture Partner at Maryland-based New Markets Venture Partners where he focused on workforce technologies, member of the Council on Foreign Relations’ Future of Work Taskforce, Lecturer at Columbia University and guest speaker at the University of Maryland School of Public Policy.</span>
     </p>
-<p>
+    <p>
       <span>Additionally, Chike has worked as an education policy official in America’s largest school system, 2nd grade teacher and Teach For America corps member, Fulbright Scholar in Thailand researching education and skills, director of corporate strategy and performance technologies at Education Advisory Board (EAB), CEO of a national social enterprise which helped connect 500,000 low-income Americans to affordable internet and digital skills, and Senior Principal and Future of Work Lead at the McChrystal Group, a business advisory firm founded by Gen. (ret.) Stanley McChrystal.</span>
     </p>
-<p>
+    <p>
       <span>Chike holds degrees from Tufts University (B.A.), Harvard Graduate School of Education (Ed.M), Harvard Kennedy School of Government (MPA), and University of Pennsylvania's Wharton School (MBA). He is a Presidential Leadership Scholar; past Council on Foreign Relations term member; 40 under 40 honoree from Wharton and the Washington Business Journal; and former board member of the Harvard Kennedy School Alumni Board.</span>
     </p>
-<p>
+    <p>
       <span>Additionally, he has served as an advisory board member for Teach For America-DC Region, board member for Baltimore’s Code in the Schools; past Advisory Board Chair of the Prince George’s County Social Innovation Fund; and former appointee of the Prince George’s County Executive to the County’s Commission on Fathers, Men and Boys. Chike, his wife and their son proudly call Prince George’s County, MD home.</span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Panel Discussion Department of Labor</span></em></a>
     </p>
   </div>
@@ -112,7 +112,7 @@ created: 1601325079
       <strong>Syed Azeem</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>TITLE</span></em><br /><span>General Services Administration</span>
     </p>
     <p>
       <span>
@@ -124,8 +124,8 @@ created: 1601325079
     </p>
   </div>
 </div>
-
-<h2 id="B"><!--- ------------------------------------------------------------------------ BBBBB --->
+<!--- BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB --->
+<h2 id="B">
   <strong>B</strong>
 </h2>
 
@@ -138,18 +138,17 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bradford.jpg" alt="Lorena Bradford" />
   </div>
-  
-    <div class="desktop:grid-col-9 tablet:grid-col-9">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bradford">
       <strong>Lorena Bradford</strong>
     </p>
-<p>
+    <p>
       <em><span>Manager of Accessible Programs</span></em><br /><span>National Gallery of Art (NGA)</span>
     </p>
-<p>
+    <p>
       <span>Lorena Bradford develops and runs accessible programs in the Education Division of the National Gallery of Art in Washington, DC. She has developed and oversees programs for and projects geared toward people with hearing and vision loss, people with memory loss and their care partners, families shaped by sensory processing disorders, healthcare students and professionals, and others. She has consulted and offered training on best practices for other museums and institutions in Washington, DC, across the nation, and abroad.</span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
