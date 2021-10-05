@@ -269,6 +269,10 @@ created: 1600981839
     <b><span class="text-large">PROGRAM</span> Day 2/Wednesday, October 13th</b>
   </div>
   
+  
+  <!-- DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 - DAY 2 -->
+  
+    
   <!-- start day 2 agenda-->
   <div class="usa-graphic-list__row container" id="day2">
   <!-- start agenda -->
@@ -278,21 +282,21 @@ created: 1600981839
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Day 2 Brumfield</a></b></span>, Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield</a></b></span>, Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
       <br><br>
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
     </div>
   </div>
   
   <div class="grid-row keynote">
-    <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1" id="d1k1">
+    <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1" id="d2k">
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judy Heumann</a></b></span>, Former Special Advisor for International Disability Rights for the U.S. Department of State (2010-2017)
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea O'Neal,</a></b> </span>General Services Administration (GSA)
       </div>
     </div>
   </div>
