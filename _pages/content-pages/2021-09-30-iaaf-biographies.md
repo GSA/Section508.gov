@@ -12,7 +12,7 @@ created: 1601325079
 </p>
 
 <p style="text-align:center;" id="top">
-  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
+  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a href="#O">O <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
 </p>
 
 <!-- AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA -->
@@ -1155,7 +1155,40 @@ created: 1601325079
   </div>
 </div>
 
-<h2 id="P"><!--- ------------------------------------------------------------------------ PPPPP --->
+<!-- OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO - OOOOO -->
+
+<h2 id="O">
+  <strong>O</strong>
+</h2>
+
+<p style="text-align:right;">
+  <a href="#top">Back to Top</a>
+</p>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-oneal.png" alt="Andrea O&#39;Neal" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="oneal">
+      <strong>Andrea O'Neal</strong>
+    </p>
+    <p>
+      <em><span>Senior Advisor to the Administrator for Equity</span></em><br /><span>AGEGeneral Services Administration (GSA)NCY</span>
+    </p>
+    <p>
+      <span>Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. Andrea is a recognized thought leader in the diversity, equity, inclusion, and accessibility (DEIA) field with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.</span>
+    </p>
+    <p>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP - PPPPP -->
+
+<h2 id="P">
   <strong>P</strong>
 </h2>
 
