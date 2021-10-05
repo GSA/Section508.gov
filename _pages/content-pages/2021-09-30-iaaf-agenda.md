@@ -576,7 +576,7 @@ created: 1600981839
   <div class="program-header margin-bottom-2" id="progday3">
     <b><span class="text-large">PROGRAM</span> Day 3/Thursday, October 14th</b>
   </div>
-  <div class="agenda usa-graphic-list__row container" id="day2" style="font-size: 14px;">
+  <div class="agenda usa-graphic-list__row container" id="day2">
   <!-- start DAY 3 agenda -->
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">9:30 A.M. – 9:45 A.M. <br><span class="session-type">Welcome</span></div>
