@@ -1259,22 +1259,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-quesenbery.png" alt="Whitney Quesenbery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="quesenbery">
+      <strong>Whitney Quesenbery</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Director</span></em><br /><span>Center for Civic Design</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a> on Day 1
     </p>
   </div>
 </div>
