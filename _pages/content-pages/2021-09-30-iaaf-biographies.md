@@ -79,7 +79,7 @@ created: 1601325079
   </div>
 </div>
 
-
+<!--- NEW BIO --------------------------------------------------------------------- NEW BIO --->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ahluwalia.png" alt="Gundeep Ahluwalia" />
@@ -103,7 +103,6 @@ created: 1601325079
 </div>
 
 <!--- NEW BIO --------------------------------------------------------------------- NEW BIO --->
-
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-azeem.png" alt="" />
@@ -112,15 +111,15 @@ created: 1601325079
     <p id="azeem">
       <strong>Syed Azeem</strong>
     </p>
-<p>
+    <p>
       <em><span>TITLE</span></em><br /><span>AGENCY</span>
     </p>
-<p>
+    <p>
       <span>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1b2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
     </p>
   </div>
