@@ -535,11 +535,11 @@ created: 1600981839
   <div class="agenda usa-graphic-list__row container" id="day3">
   <!-- start DAY 3 agenda -->
     <div class="grid-row welcome">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome</span></div>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d3w">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d3w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
         <br>
-        <span class="speaker-name" id="d3w"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Informaiton Officers, Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Informaiton Officers, Department of Labor (DOL)
       </div>
     </div>
     <div class="grid-row keynote" id="d3k">
@@ -556,10 +556,10 @@ created: 1600981839
     <div class="grid-col-12 cell brown-breakout black padding-1">1:00 P.M. - 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase</span>
     </div>    
     <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1">2:00 P.M. – 2:45 P.M. <br><span class="session-type" id="d3gs1">General Session</span>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d3gs1">2:00 P.M. – 2:45 P.M. <br><span class="session-type">General Session</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type">Department of Labor Panel</span>
+        <span class="session-type">Department of Labor Panel Discussion</span>
         <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> 
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span><br> 
