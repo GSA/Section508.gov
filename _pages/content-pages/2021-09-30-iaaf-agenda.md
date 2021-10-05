@@ -295,7 +295,7 @@ created: 1600981839
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judy Heumann</a></b></span>, Former Special Advisor for International Disability Rights for the U.S. Department of State (2010-2017)
       <div class="speaker-info padding-top-1">
-        <span class="session-type text-highlight">Moderator:</span><br> 
+        <span class="session-type text-highlight">Moderator:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea O'Neal,</a></b> </span>General Services Administration (GSA)
       </div>
     </div>
