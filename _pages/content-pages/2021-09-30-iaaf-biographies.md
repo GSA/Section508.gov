@@ -83,29 +83,6 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ahluwalia.png" alt="Gundeep Ahluwalia" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="ahluwalia">
-      <strong>Gundeep Ahluwalia</strong>
-    </p>
-    <p>
-      <em><span>Chief Information Officer, Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
-    </p>
-    <p>
-      <span>
-      Gundeep Ahluwalia is the Chief Information Officer (CIO) for the U.S. Department of Labor. Since assuming his role as CIO in October 2016, Ahluwalia has led information technology growth and transformation at the Department. He provides strategic leadership for IT capital planning, project initiatives, talent acquisition and enterprise services - ultimately advancing the Department's mission-critical work. 
-      </span>
-    </p>
-    <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span>on Day 3</em></a>
-    </p>
-  </div>
-</div>
-
-<!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-azeem.png" alt="Syed Azeed" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -113,11 +90,11 @@ created: 1601325079
       <strong>Syed Azeem</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>General Services Administration</span>
+      <em><span>Forms.gov Product Manager</span></em><br /><span>Technology Transformation Services, General Services Administration</span>
     </p>
     <p>
       <span>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Syed Azeem is an Information Technology professional with over 15 years of experience within private sector and Federal Government performing program/project management involving complex IT systems and application software capabilities to satisfy stakeholder needs. Demonstrated mastery of delivering effective IT solutions by applying systems life cycle process, leveraging IT governance and portfolio management best practices. Hands-on experience in applying Agile/Scrum, Enterprise Architecture (EA), Information Assurance (IA) and Systems Engineering (SE) concepts, principles and methods with complex IT programs and projects.
       </span>
     </p>
     <p>
@@ -290,6 +267,31 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
+<!--
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-charlier.png" alt="Lou Charlier" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="charlier">
+      <strong>Lou Charlier</strong>
+    </p>
+    <p>
+      <em><span>Deputy Chief Information Officer, Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
+    </p>
+    <p>
+      <span>
+      BIO GOES HERE
+      </span>
+    </p>
+    <p>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span> on Day 3</em></a>
+    </p>
+  </div>
+</div>
+--> 
+
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-chosak.png" alt="Andy Chosak" />
@@ -315,7 +317,6 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-christianson.png" alt="Josh Christianson" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="christianson">
       <strong>Josh Christianson</strong>
@@ -1150,7 +1151,7 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day 2 Day in Review</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
     </p>
   </div>
 </div>
@@ -1391,7 +1392,7 @@ created: 1601325079
       <span>Patrick received a BS degree in Computer Science from the University of Maryland and a BA degree from Providence College. He serves on the Board of Directors with the American Council of the Blind working on issues such as transportation access and pedestrian safety for blind and low vision individuals. He has also chaired the Accessibility Advisory Committee for the Washington Metropolitan Area Transit authority (WMATA) for the past 20 years.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
   </div>
 </div>
@@ -1399,14 +1400,14 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-shorter.png" alt="Kimberly Shorter" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="shorter">
+      <strong>Kimberly Shorter</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Program Analyst, CMS Section 508 Program</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span>
     </p>
     <p>
       <span>
@@ -1422,134 +1423,52 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.png" alt="Betsy Sirk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sirk">
       <strong>Betsy Sirk</strong>
     </p>
-<p>
-      <em><span>Information Technology Program Manager at NASA Goddard Space Flight Center</span></em><br /><span>National Aeronautics and Space Administration (NASA)</span>
+    <p>
+      <em><span>Information Technology Program Manager, NASA Goddard Space Flight Center</span></em><br /><span>National Aeronautics and Space Administration (NASA)</span>
     </p>
-<p>
+    <p>
       <span>Ms. Betsy Sirk is an Information Technology and Section 508 Program Manager for NASA with over 35 years of leadership experience in program, project, technical, and acquisition/contract management focused on implementing IT-based solutions to support NASA's mission and the Federal Government. She is the Information and Communication Technology Accessibility Program Manager for the NASA Goddard Space Flight Center, the Chairperson of NASA’s Agency Section 508 Program Managers Working Group, and the Co-Chairperson of the Chief Information Officer Council Accessibility Community of Practice Industry Outreach Program.</span>
     </p>
-<p>
+    <p>
       <span>Ms. Sirk is a leading expert in developing and acquiring accessible technology and has presented to diverse audiences in multiple venues. Ms. Sirk also leads government-wide strategic sourcing efforts for workstations and mobility solutions as the Strategic Sourcing Program Manager from the NASA Solutions for Enterprise-Wide Procurement (SEWP) Program. Ms. Sirk has received numerous NASA and federal awards for program management and leadership. She graduated Summa Cum Laude from the University of Maryland with a Bachelors degree in Psychology and holds a Masters Degree with Distinction in Computer Science and Management Information Systems from the George Washington University.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
     </p>
   </div>
 </div>
 
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="smith">
-      <strong>Kevin Smith</strong>
-    </p>
-<p>
-      <em><span>Chief Information Officer</span></em><br /><span>U.S. Census Bureau</span>
-    </p>
-<p>
-      <span>Kevin Smith is the U.S. Census Bureau’s chief information officer. He joined the Census Bureau in June 2016 and serves as the principal advisor to the director and deputy director on information resources and information systems management. </span>
-    </p>
-<p>
-      <span>Smith leads the Census Bureau’s information technology program in providing business value by delivering enterprise technology services in collaboration with all the survey and program areas. Smith is focused on enabling new ways for the Census Bureau to do its work through evolving technology services for data collection, analytics, processing, and dissemination.</span>
-    </p>
-<p>
-      <span>Prior to joining the U.S. Census Bureau, Smith worked in the public sector for the United States Patent and Trademark Office (USPTO) and the Internal Revenue Service (IRS). </span>
-    </p>
-<p>
-      <span>He led the USPTO as the deputy chief information officer and the chief information security officer. He guided the transformation of the USPTO’s technology and IT culture into a high-performing and secure DevOps service provider. This allowed the organization to be more agile in technology development and more customer-centric in delivery. </span>
-    </p>
-<p>
-      <span>As a federal contractor for the IRS, Smith directed the development and implementation of an innovative strategy and planning system that corrected IT problems while modernizing technology infrastructure and balancing financial, risk, and technology pressures. </span>
-    </p>
-<p>
-      <span>Outside the federal government in the private sector, Smith has experience in the Fortune 100/500 space in technology consulting, research and development, sales, and operations. He helped stabilize technology in financial and manufacturing organizations, as well as develop first-of-their kind solutions to resolve new problems facing the media, entertainment, broadcasting, and life sciences industries as they transitioned into the digital age.</span>
-    </p>
-<p>
-      <span>Smith has a bachelor of science degree in computer engineering from the University of Florida.</span>
-    </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em></a><span> (Day 2)</span>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="willie-smith">
-      <strong>Willie Smith</strong>
-    </p>
-<p>
-      <em><span>Senior Procurement Executive</span></em><br /><span>Department of Transportation (DOT) </span>
-    </p>
-<p>
-      In October 2010, Willie H. Smith officially assumed the responsibilities of Senior Procurement Executive for the&nbsp;United States Department of Transportation (DOT). He is the official responsible for the management direction of&nbsp;all DOT procurement systems and programs. His responsibilities encompass implementation of the full range of&nbsp;procurement policies, regulations, and standards applicable to the Department.
-    </p>
-<p>
-      Prior to this assignment, Willie served as Director, Office of Acquisition Management for the Federal Highway&nbsp;Administration (FHWA). He was responsible for overseeing the full range of greater than one billion dollars of&nbsp;annual procurement services performed by the Office of Acquisition Management, including the development of&nbsp;FHWA procurement policy, planning and procurement programs, the recruitment and development of potential&nbsp;contracting sources, and the provision of the supply items required for the daily operation of the FHWA technical&nbsp;offices.
-    </p>
-<p>
-      Before assuming the above assignment, Willie served as a Senior Program Analyst in the Office of the Under&nbsp;Secretary of Defense for Acquisition, Technology, and Logistics. In this capacity, he provided acquisition&nbsp;management oversight for Major Defense Acquisition Programs for the Departments of Air Force, Army, and&nbsp;Navy. He facilitated policy development and ensured the successful planning and integration of cost, schedule,&nbsp;and technical aspects of acquisition programs by promoting coordination, integration and mutual understanding&nbsp;within the Department of Defense (DoD), between Defense agencies and other federal agencies, and with&nbsp;international cooperative programs and allied nations.
-    </p>
-<p>
-      Just prior to his position with the Office of the Under Secretary of Defense, Willie served as Assistant to the&nbsp;Deputy Assistant Secretary of the Navy for Air Programs. He provided recommendations and guidance in the&nbsp;evaluation of the politics, institutions, and actors involved in the agenda-setting, formulation, and implementation&nbsp;of Navy and DoD acquisition, procurement policy, and budget.
-    </p>
-<p>
-      In addition to the aforementioned, Willie has served in an assortment of other leadership capacities within the&nbsp;Navy including Deputy Program Manager for the Navy&rsquo;s Defense Suppressions Systems Program office,&nbsp;Acquisition Deputy to the Program Executive Officer for Tactical Aircraft programs, Operations Officer for the&nbsp;F/A-18 E/F program, and Program Manager for the $3 billion Finland F/A-18 Foreign Military Sales program.
-    </p>
-<p>
-      Willie is a graduate of Fayetteville State University with a Bachelor of Science degree in Business Administration&nbsp;and Management. He holds two Masters degrees; a Master of Public Administration degree with concentrations&nbsp;in Financial Management and Government Contracting; and a Master of Science degree in National Resource&nbsp;Strategy. Willie also holds a Doctorate of Management and Organizational Leadership.
-    </p>
-<p>
-      He has received numerous performance and honor awards including the FHWA Administrator&rsquo;s Award for Superior Achievement, the Navy&rsquo;s Civilian Meritorious Service award, the Secretary of the Navy&rsquo;s Acquisition Reform award, and the Department of Defense Acquisition Excellence Award.
-    </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
-    </p>
-  </div>
-</div>
-
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
       <strong>John Sullivan</strong>
     </p>
-<p>
+    <p>
       <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>John Sullivan is the Director of the Government-wide Digital Strategies team within GSA’s Office of Government-wide Policy, which includes serving as the Director of the Government-wide IT Accessibility Program. In this capacity, John leads the effort to provide technical assistance to federal agencies for implementing Section 508 of the Rehabilitation Act. In addition to accessibility, John oversees the DotGov Domain Registration Program for all levels of government and recently oversaw the federal Data Center and Cloud Strategy Optimization Initiative. John has 32 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Information and Communication Technology (ICT) Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
-    </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Wrap-up and Thank You</span></em></a>
+    <p>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="T"><!--- ------------------------------------------------------------------------ TTTTT --->
+<!-- TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT - TTTTT -->
+
+<h2 id="T">
   <strong>T</strong>
 </h2>
 
@@ -1557,50 +1476,60 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-tenbrink.png" alt="Ronna ten Brink" />
   </div>
-  
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="tenbrink">
+      <strong>Ronna ten Brink</strong>
+    </p>
+    <p>
+      <em><span>Senior Human Factors Engineer</span></em><br /><span>MITRE</span>
+    </p>
+    <p>
+      <span>Ronna ten Brink has a rich experience in human-centered design and research through my work, play, and educational background. I study how humans understand and react to the world and how we can use this knowledge to build intuitive, effective, and safe interfaces and processes. In my spare time, I make useful/beautiful things with my hands and nerd out over workflows. I aim to be human-centered and boundary-pushing. I also enjoy thinking about how a product/service fits into the wider world and have experience using business analytics and data to uncover and strengthen insights.</span>
+    </p>
+    <p>
+      <span>What I'm thinking about now: how to transform the all-too-commonly-one-way info exchange (“interface → human”) into a two-way dialogue, where the interface responds to the user’s needs, physical and cognitive state, and behavioral history.</span>
+    </p>
+    <p>
+      <span>What influences me: cognitive psychology, engineering psychology, design thinking, fine arts and crafting, computer science, neuroscience, privacy and security, ""wicked problems,"" biomechanics, inclusive design + universal design, business strategy, branding and marketing, awesome jam sessions.</span>
+    </p>
+    <p>
+      <span>You might say I'm in: Human Factors, User Experience (UX), Human-Computer Interaction (HCI), Human-Machine Teaming (HMT), Human-Machine Interaction (HMI), Interaction Design, Product Strategy</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.png" alt="James Thurston" />
+  </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="thurston">
       <strong>James Thurston</strong>
     </p>
-<p>
-      <em><span>Vice President for Global Strategy and Development</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ICT)</span>
+    <p>
+      <em><span>Vice President for Global Strategy and Development</span></em><br /><span>G3ict</span>
     </p>
-<p>
-      <span>James Thurston is an international technology policy leader. As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges. He has led efforts ranging from using technology to promote the inclusion and human rights of people with disabilities around the world to using technology to increase the economic competitiveness of aging industrial centers in the United States. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government. Prior to joining G3ict, Mr. Thurston was Director of International Accessibility Policy at Microsoft, where he developed and executed a worldwide strategy to expand the company’s outreach on disability and technology issues to governments and NGOs around the world. He has also served as a standards leader for an international technology industry association, an economic and technology advisor to a U.S. senator and vice presidential candidate, and a senior manager for a national technology and economic development initiative of the U.S. government. Mr. Thurston holds both a Master of Public Administration and an M.A. in East European Studies from the University of Washington, as well as a B.A. in International Affairs from the University of Maine.</span>
+    <p>
+      <span>James Thurston is an international technology policy leader.  As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges, ranging from promoting the inclusion and human rights of people with disabilities worldwide to using technology to increase the competitiveness of aging U.S. industrial centers. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="truesdell">
-      <strong>Cammie Truesdell</strong>
-    </p>
-<p>
-      <em><span>OS Section 508 Program Manager</span></em><br /><span>Department of Health and Human Services (HHS)</span>
-    </p>
-<p>
-      <span>Cammie has worked in the accessibility field for over 12 years and has been a part of activities ranging from evaluating compliance, training development, acquisition reviews, project management, and many tasks in between. She also has experience in process development, gathering business requirements, and quality assurance testing. As a relatively new federal employee, Cammie looks forward to collaborating with accessibility connoisseurs internally and externally to benefit her organization’s accessibility program and those throughout the government.</span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>CoVID-19 Creates the Case for 508 Compliance and Best Practices</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
 
-<h2 id="U"><!--- ------------------------------------------------------------------------ UUUUU --->
+<!-- UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU - UUUUU -->
+
+<h2 id="U">
   <strong>U</strong>
 </h2>
 
@@ -1612,18 +1541,17 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">
       <strong>Mark Urban</strong>
     </p>
-<p>
+    <p>
       <em><span>Section 508 Program Manager, and Section 508 Co-Chair at the Department of Health and Human Services (HHS)</span></em><br /><span>Centers for Disease Control and Prevention (CDC)</span>
     </p>
-<p>
+    <p>
       <span>Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control, and Co-Chair of the US Department of Health and Human Services Section 508 Program.</span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
     </p>
   </div>

@@ -191,7 +191,7 @@ created: 1600981839
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fern">Syed Azeem,</a></b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#azeem">Syed Azeem,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bonitto">Mike Gifford,</a> </b> </span>Civic Actions / General Services Administration (GSA)
@@ -315,13 +315,13 @@ created: 1600981839
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b></span> G3ICT
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b></span> G3ict
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Funka
       </div>
       <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a></b></span> G3ICT
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a></b></span> G3ict
       </div>
     </div> 
   </div> 
@@ -561,10 +561,10 @@ created: 1600981839
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <span class="session-type">Department of Labor Panel Discussion</span>
         <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> 
-        <div class="speaker-info padding-top-1">
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> Global Initiative for Inclusive ICTs (G3ICT)
-        </div> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration (GSA)
+        </div> -->
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span><br> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aguh">Chike Aguh,</a></b></span> Department of Labor (DOL)
