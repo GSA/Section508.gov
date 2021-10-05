@@ -403,7 +403,7 @@ created: 1600981839
         <div class="brown-breakout-header" id="d2bs2a">
           Track A: Lead Our Agencies Towards Access
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span><br> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
@@ -609,7 +609,7 @@ created: 1600981839
       </div> 
     </div> 
     <!-- close cell -->
-    <div class="grid-row welcome" id="d2c">
+    <div class="grid-row welcome" id="d3c">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:50 P.M. – 4:00 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">

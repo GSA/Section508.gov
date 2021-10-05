@@ -440,10 +440,10 @@ created: 1601325079
       <em><span>Community Involvement Coordinator</span></em><br /><span>Environmental Protection Agency (EPA)</span>
     </p>
     <p>
-      <span>Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver Accessibility to our staff with disabilities in a Safe, Accessible, Functional and Engaging Manner. She also proposes Principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.</span>
+      <span>Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver Accessibility to our staff with disabilities in a Safe, Accessible, Functional and Engaging Manner. She also proposes principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2a"><em><span>Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2a"><em><span>Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -471,7 +471,7 @@ created: 1601325079
       <em><span>Training & Outreach Director</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
+      <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities, which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Welcome to Section 508 (for new members)</span></em></a>
@@ -1708,23 +1708,31 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-zaragoza.png" alt="Pia Zaragoza" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="ziebarth">
-      <strong>Beth Ziebarth</strong>
+    <p id="zaragoza">
+      <strong>Pia Zaragoza</strong>
     </p>
-<p>
-      <em><span>Director, Access Smithsonian</span></em><br /><span>Smithsonian Institute</span>
+    <p>
+      <em><span>Presidential Innovation Fellow</span></em><br />
+      <span>Department of Homeland Security (DHS)</span>
     </p>
-<p>
-      <span>Beth Ziebarth has a personal interest and professional responsibility in advocacy for people with disabilities. She currently serves as the Director of Access Smithsonian. In her position, Beth develops and implements accessibility policy and guidelines for the Institution’s 19 museums, the National Zoo, and nine research centers, ensuring that the Smithsonian’s 30 million annual visitors experience a welcoming environment that accommodates individuals of all ages and abilities. Her work includes staff training on accessibility and disability topics, facility and program technical assistance, direct accessibility services, outreach and collaboration, and five signature programs for people with disabilities. </span>
+    <p>
+      <span>
+      I have been a researcher for over 7+ years working on various consumer, enterprise, fintech, government products, programs, and services. I've held fellowships at IDEO, Cinereach, and the Yerba Buena Center for the Arts. Currently, I am White House Presidential Innovation Fellow detailed to the Cybersecurity and Infrastructure Security Agency (CISA) and a LatinX VC Fellow.</span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs3"><em><span>Agency Showcase - Smithsonian Institution</span></em></a>
+    <p>
+      <span>My specializations include inclusive design and accessibility research. I am interested in how we can develop new technologies to solve some of the most complex problems. I have experience with hardware, software, web, and mobile development.</span>
+    </p>
+    <p>
+      <span>The Interactive Telecommunications Program at New York University is often referred to as "the Center for the Recently Possible". I spent two years exploring the intersections of design, research, engineering, and computer science. My master's thesis was on radio based multi-user data networks.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
     </p>
   </div>
 </div>
