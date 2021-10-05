@@ -63,7 +63,7 @@ created: 1601325079
       <span>On January 20, 2021, Chike Aguh (Chee-kay Ah-Goo) was sworn in as Chief Innovation Officer (CInO) at the United States Department of Labor, appointed by President Joe Biden. Reporting to the Deputy Secretary and also serving as the Senior Advisor for Delivery, he leads efforts to use innovative technologies, partnerships and practices to accelerate the Department’s mission of delivering a future of work that includes and dignifies every American.</span>
     </p>
     <p>
-      <span>Previously, Chike was the inaugural Head of Economic Mobility Pathways at the Education Design Lab where he launched the Community College Growth Engine Fund, an innovative multimillion dollar effort turning community colleges into bridges to careers in high growth fields for thousands. He has been a Technology and Human Rights Fellow at the Harvard Carr Center for Human Rights Policy where he focused on the future of work and racial equity, Venture Partner at Maryland-based New Markets Venture Partners where he focused on workforce technologies, member of the Council on Foreign Relations’ Future of Work Taskforce, Lecturer at Columbia University and guest speaker at the University of Maryland School of Public Policy.</span>
+      <span>Previously, Chike was the inaugural Head of Economic Mobility Pathways at the Education Design Lab where he launched the Community College Growth Engine Fund, an innovative multimillion dollar effort turning community colleges into bridges to careers in high growth fields for thousands. He has been a Technology and Human Rights Fellow at the Harvard Carr Center for Human Rights Policy where he focused on the future of work and racial equity, Venture Partner at Maryland-based New Markets Venture Partners where he focused on workforce technologies, member of the Council on Foreign Relations’ Future of Work Taskforce, Lecturer at Columbia University, and guest speaker at the University of Maryland School of Public Policy.</span>
     </p>
     <p>
       <span>Additionally, Chike has worked as an education policy official in America’s largest school system, 2nd grade teacher and Teach For America corps member, Fulbright Scholar in Thailand researching education and skills, director of corporate strategy and performance technologies at Education Advisory Board (EAB), CEO of a national social enterprise which helped connect 500,000 low-income Americans to affordable internet and digital skills, and Senior Principal and Future of Work Lead at the McChrystal Group, a business advisory firm founded by Gen. (ret.) Stanley McChrystal.</span>
@@ -1287,9 +1287,35 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-raghu.png" alt="Maya Raghu" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="raghu">
+      <strong>Maya Raghu</strong>
+    </p>
+    <p>
+      <em><span>Deputy Director, Office of Federal Contract Compliance Programs (OFCCP)</span></em><br />
+      <span>Department of Labor (DOL)</span>
+    </p>
+    <p>
+      <span>Maya Raghu joined the OFCCP as the Deputy Director for Policy on July 19, 2021. Most recently, Ms. Raghu served as the Director of Workplace Equality and Senior Counsel at the National Women’s Law Center, where she developed and coordinated priorities and strategies for NWLC’s workplace gender equality efforts, with a focus on low paid workers. She led federal legislative and regulatory initiatives and advocacy, stakeholder engagement, engaged in narrative shift and culture change efforts, and impact litigation and amicus briefs on a range of workplace gender equality and economic security issues including pay equity, harassment, and civil rights enforcement.</span>
+    </p>
+    <p>
+      <span>Prior to joining NWLC, Ms. Raghu was a senior attorney at Futures Without Violence and a senior staff attorney at Legal Momentum (formerly NOW Legal Defense and Education Fund), addressing economic security, gender discrimination in employment and housing, and gender-based violence, with an emphasis on immigrant and low-income women. Her work encompassed litigation, legislative and policy advocacy, public education and training, multi-sector initiatives, and cross-movement collaboration. She was also previously an associate at Simpson Thacher & Bartlett LLP and a law clerk to the Hon. Vanessa D. Gilmore of the Southern District of Texas. She is a graduate of Trinity University and Georgetown University Law Center.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.png" alt="Scott Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1303,15 +1329,15 @@ created: 1601325079
       <span>Dr. Scott Michael Robertson is a Senior Policy Advisor on the Employment-Related Supports (ERS) Policy Team in the U.S. Department of Labor’s (DOL) Office of Disability Employment Policy (ODEP). He spearheads the ERS Team's engagement on ODEP's $2 million Apprenticeship Inclusion Models (AIM) initiative to expand access to career pathways in information technology, healthcare, and advanced manufacturing. Dr. Robertson advises ODEP's $1.5 million FutureWorks initiative as a subject matter expert on accessible emerging technology, including artificial intelligence (AI). He also drives ODEP's activities to enhance national autism policy, support neurodiversity in the workplace, and increase access to gainful employment for people on the autism spectrum. Before joining DOL, Dr. Robertson served as the Founding Vice President of the Autistic Self Advocacy Network (ASAN), a national nonprofit organization based in Washington, DC. He then served as a Joseph P. Kennedy, Jr. Fellow in the U.S. Senate Committee on Health, Education, Labor, and Pensions (HELP). He completed his PhD in information sciences and technology at Penn State University and his master's degree in human-computer interaction at Carnegie Mellon University. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.png" alt="Avis Ryan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1333,7 +1359,9 @@ created: 1601325079
   </div>
 </div>
 
-<h2 id="S"><!--- ------------------------------------------------------------------------ SSSSS --->
+<!-- SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS - SSSSS -->
+
+<h2 id="S">
   <strong>S</strong>
 </h2>
 
