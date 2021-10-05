@@ -429,7 +429,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.png" alt="Angie Fuoco" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fuoco">
@@ -460,20 +460,19 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.png" alt="Yvette Gibson" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gibson">
       <strong>Yvette Gibson</strong>
     </p>
-<p>
+    <p>
       <em><span>Training & Outreach Director</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
     </p>
-<p>
+    <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Welcome to Section 508 (for new members)</span></em></a>
     </p>
   </div>
@@ -482,20 +481,20 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gifford.png" alt="Mike Gifford" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="gifford">
+      <strong>Mike Gifford</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Senior Strategist</span></em><br /><span>CivicActions</span>
     </p>
-    <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>
+    <p><span>Mike Gifford is a Senior Strategist at CivicActions. His primary focus is on building digital accessibility confidence and capabilities in the public sector.</span></p>
+    <p><span>Previously, he was the Founder and President of OpenConcept Consulting Inc., a web development agency specializing in building open source solutions for the open web. We worked primarily with the Drupal CMS. In this role he was an active part of the Government of Canada's Open Source Advisory Board.</span></p>
+    <p><span>Pushed by a desire to build better and more inclusive world, Mike has been involved with accessibility since the beginning of the 90s. He has spearheaded accessibility improvements in Drupal since 2008, and officially became Drupal’s Core Accessibility Maintainer in 2012.</span></p>
+    <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
+    <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
