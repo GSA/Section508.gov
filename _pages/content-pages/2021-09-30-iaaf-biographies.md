@@ -97,7 +97,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span></a> on Day 3</em>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span>on Day 3</em></a> test
     </p>
   </div>
 </div>
@@ -124,6 +124,7 @@ created: 1601325079
     </p>
   </div>
 </div>
+
 <!--- BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB --->
 <h2 id="B">
   <strong>B</strong>
@@ -159,36 +160,35 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-brumfield.jpg" alt="Krystal Brumfield" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="brumfield">
       <strong>Krystal Brumfield</strong>
     </p>
-<p>
+    <p>
       <em><span>Associate Administrator, Office of Governmentwide Policy</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>Krystal J. Brumfield is an attorney and accomplished executive with more than 10 years’ experience of proven leadership in the public and private sectors. Krystal currently serves as the Associate Administrator for Government-wide Policy at GSA where she manages the direction of acquisition policy for GSA to ensure the promotion of effective business practices and the timely delivery of best value products for an agency that leverages billions of dollars annually in the marketplace. Among other roles, Krystal is designated as GSA’s Chief Acquisition Officer (CAO) and represents GSA on the CAO Council.</span>
     </p>
-<p>
+    <p>
       <span>She recently served as Chief of Staff for Carlyle Airport Group (CAG) Holdings, LLC, the Carlyle Group’s dedicated US-based investment platform for airport infrastructure investment opportunities globally. As Chief of Staff, Krystal oversaw collaboration among CAG’s Washington, DC and New York teams to ensure effective and streamlined performance to advance the $7.4 billion JFK International Airport New Terminal One Redevelopment.</span>
     </p>
-<p>
+    <p>
       <span>Prior to joining CAG, Krystal was the President & Chief Executive Officer (CEO) of the Airport Minority Advisory Council (AMAC), a national trade association that represents thousands of airports, corporations, and small businesses in the aviation and aerospace industries. She was recognized for driving growth and innovation at AMAC and was named in the top 25 of “Women in Power Impacting Diversity” by DiversityPlus Magazine in 2018 as well as awarded “Outstanding Woman in Law” by Hofstra University School of Law in 2019.</span>
     </p>
-<p>
+    <p>
       <span>Her additional professional experiences include Vice President & Chief Operating Officer of the DC Chamber of Commerce, Tax & Procurement Counsel for the U.S. Senate Committee on Small Business and Entrepreneurship, Visiting Instructor for the International Law Institute African Centre for Legal Excellence and Sales & Use Tax Attorney for the Louisiana Department of Revenue.</span>
     </p>
-<p>
+    <p>
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
     </p>    
-<p>
+    <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></a> on Day 1</em>
     </p>
   </div>
 </div>
 
-
+<!--- NEW BIO --------------------------------------------------------------------- NEW BIO --->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
