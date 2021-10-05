@@ -84,20 +84,19 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ahluwalia.png" alt="Gundeep Ahluwalia" />
   </div>
-  
-    <div class="desktop:grid-col-9 tablet:grid-col-9">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="ahluwalia">
       <strong>Gundeep Ahluwalia</strong>
     </p>
-<p>
+    <p>
       <em><span>Chief Information Officer, Chief Information Officer Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
     </p>
-<p>
+    <p>
       <span>
       Gundeep Ahluwalia is the Chief Information Officer (CIO) for the U.S. Department of Labor. Since assuming his role as CIO in October 2016, Ahluwalia has led information technology growth and transformation at the Department. He provides strategic leadership for IT capital planning, project initiatives, talent acquisition and enterprise services - ultimately advancing the Department's mission-critical work. 
       </span>
     </p>
-<p>
+    <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span></a> on Day 3</em>
     </p>
   </div>
@@ -109,8 +108,7 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-azeem.png" alt="" />
   </div>
-  
-    <div class="desktop:grid-col-9 tablet:grid-col-9">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="azeem">
       <strong>Syed Azeem</strong>
     </p>
