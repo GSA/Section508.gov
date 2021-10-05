@@ -1272,7 +1272,7 @@ created: 1601325079
       <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a> on Day 1
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a>
     </p>
   </div>
 </div>
@@ -1369,122 +1369,57 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sheehan.png" alt="Patrick Sheehan" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="salmoiraghi">
-      <strong>Jessica Salmoiraghi, </strong>
+    <p id="sheehan">
+      <strong>Patrick Sheehan</strong>
     </p>
-<p>
-      <em><span>Chief Acquisition Officer & Associate Administrator, Office of Government-wide Policy</span></em><br /><span>General Services Administration (GSA)</span>
+    <p>
+      <em><span>Section 508 Program Manager</span></em><br /><span>Department of Veteran Affairs (VA)</span>
     </p>
-<p>
-      <span>Jessica Salmoiraghi serves as the Chief Acquisition Officer of the U.S. General Services Administration (GSA). Jessica began her GSA service in April 2018 as the Associate Administrator of GSA’s Office of Governmentwide-Policy.</span>
+    <p>
+      <span>Patrick joined the Department of Veterans Affairs in 1989 as a Computer Specialist and worked within the VA’s IT test facility as an adaptor trainer until 2001. Patrick joined the Section 508 Office in 2001 and is currently the Chief of the 508 Office within the Department of Veterans Affairs and serves as the agency 508 Coordinator.</span>
     </p>
-<p>
-      <span>Jessica comes to GSA from the American Council of Engineering Companies, where she served as Director of Federal Agencies and International Programs. As Director, she focused on federal and international procurement issues that affected engineering firms. Previously, Jessica served as the Director, Federal Relations and Counsel at the American Institute of Architects where she drove the Institute’s advocacy and outreach efforts before the executive and legislative branches of the federal government. She also led activities focused on improving federal contracting for small, medium and large businesses.</span>
+    <p>
+      <span>In this capacity Patrick has the responsibility of leading a team which insures that all electronic and information technology that the VA uses, procures, maintains, or develops meet the requirements of Section 508. This includes the enforcement of the multimedia provisions within the Department to include closed captioning and audio description.  The Departments 508 Office is available to IT professionals, procurement officials, and disabled VA employees to explain what Section 508 is, what disabled employees can expect from the VA regarding access and the VA’s responsibilities under Section 504 and 508.</span>
     </p>
-<p>
-      <span>Jessica received her Bachelor of Arts from the University of Pennsylvania and her Juris Doctor from Catholic University.</span>
+    <p>
+      <span>Patrick received a BS degree in Computer Science from the University of Maryland and a BA degree from Providence College. He serves on the Board of Directors with the American Council of the Blind working on issues such as transportation access and pedestrian safety for blind and low vision individuals. He has also chaired the Accessibility Advisory Committee for the Washington Metropolitan Area Transit authority (WMATA) for the past 20 years.</span>
     </p>
-<p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#welcome"><em><span>Welcome</span></em></a><em><span> (Day 1)</span></em>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="schell">
-      <strong>Will Schell</strong>
+    <p id="lowerlastname">
+      <strong>FIRSTLASTNAME</strong>
     </p>
-<p>
-      <em><span>Designated Federal Officer (DFO) for the Committee, Disability Rights Office</span></em><br /><span>Federal Communications Commission (FCC) </span>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
     </p>
-<p>
-      <span>Will Schell serves as an Attorney Advisor at the Disability Rights Office of the Federal Communications Commission where he assists in the consumer complaint process; drafts various guidance and orders; and engages in outreach with the disability community, among other efforts. Will also serves as the Designated Federal Officer of the Commission’s Disability Advisory Council, which provides advice and recommendations to the Commission on a wide array of disability issues within the FCC’s jurisdiction. Prior to working at the Disability Rights Office, Will was a Civil Rights Analyst at the Office for Civil Rights in the U.S. Department of Health and Human Services where he provided assistance and guidance on regional Olmstead cases; reviewed proposed regulations and other clearance documents; and coordinated systemic Olmstead compliance reviews. Will has also served as a staff attorney at Disability Rights California, California’s Protection and Advocacy agency where he represented students in special education hearings and participated in Olmstead class action cases in various stages of litigation.</span>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
     </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
 
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="schweickhardt">
-      <strong>Reynold Schweickhardt</strong>
-    </p>
-<p>
-      <em><span>Senior Advisor for Technology, Office of the Administrator</span></em><br /><span>General Services Administration (GSA)</span>
-    </p>
-<p>
-      <span>Reynold Schweickhardt comes to GSA from the U.S. House of Representatives where he had served as the Director of Technology Policy since 2011, providing oversight on all House IT programs and leading many cross-organizational initiatives. Previously, he had served at the U.S. Government Printing Office as the Chief Technology Officer, Chief Information Officer, and acting Chief of Staff.</span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k3"><em><span>Keynote Address</span></em></a>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="sharma">
-      <strong>Siddhartha Sharma</strong>
-    </p>
-<p>
-      <em><span>Section 508 Program Manager</span></em><br /><span>Department of the Interior (DOI)</span>
-    </p>
-<p>
-      <span>Serves as the Department of the Interior’s Section 508 Program Manager. As Interior's Section 508 Program Manager, he manages and oversees the implementation of Section 508 of the Rehabilitation Act of 1973 and ensures all IT products and services developed, procured, maintained and used by Interior are accessible to individuals with disabilities.</span>
-    </p>
-<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
-    </p>
-  </div>
-</div>
-
-
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="singleton">
-      <strong>Suzy Rosen Singleton</strong>
-    </p>
-<p>
-      <em><span>Chief, Disability Rights Office, Consumer and Governmental Affairs Bureau</span></em><br /><span>Federal Communications Commission (FCC)</span>
-    </p>
-<p>
-      <span>Suzy Rosen Singleton, a native user of American Sign Language, is the Chief of the Disability Rights Office of the Consumer and Governmental Affairs Bureau of the Federal Communications Commission (FCC). Since 2016, she has overseen rulemaking proceedings and stakeholder activities to ensure accessible emergency communications, modern communication technologies, and video programming for millions of individuals with disabilities. Since 1992, her disability policy expertise has involved work as a litigator for the California Center for Law and the Deaf, government affairs counsel of the National Association of the Deaf, special education law compliance officer of the U.S. Department of Education, the ombuds of Gallaudet University, and an attorney with the FCC. Suzy is a member of the bar of the District of Columbia and holds a Juris Doctor from the UCLA School of Law, and a Bachelor of Science in Political Science from the University of California, Berkeley.</span>
-    </p>
-<p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
-    </p>
-  </div>
-</div>
-
-
+<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
