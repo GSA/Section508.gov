@@ -334,63 +334,59 @@ created: 1600981839
   <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown-breakout padding-1 black">1:35 P.M. - 2:20 P.M. <br><span class="session-type black" id="d2bs1">Breakout Sessions</span>
     </div>
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
-      <div class="brown-breakout-header">Track A: Customer Experiences & Content Creation</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm" id="d2bs1a">COVID-19 Creates the Case for 508 Compliance and Best Practices</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Community Involvement Coordinators, Angie Fuoco and Hilary Clark, reported to EPA’s San Francisco office in March, as COVID-19 forced a shift to virtual working environments. Section 508 requirements and accessibility best practices became a focal point in their now virtual community involvement resulting from the pandemic. Angie and Hilary describe the best practices they developed for virtual community meetings and their plans to take “total access planning” on the road and into communities once in-person meetings become possible again.</span> 
+      <div class="brown-breakout-header">Track A: Lead Our Agencies Towards Access</div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm" id="d2bs1a">Neurodiversity at Work: Creating Inclusive Work Futures</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Many people with neurological conditions such as autism spectrum disorder and dyslexia have exceptional skills, including in pattern recognition, memory, and mathematics. Yet they often struggle to fit the profiles sought by employers  and estimates for unemployment for neurodivergent adults range as high as 80% to 85% (HBR 2017). While a growing number of companies are also refining HR processes to hire neurodiverse talent, there are many barriers and more work needs to be done.  This panel will briefly discuss the needs for neurodiversity at work programs, what has worked, as well as, gaps and strategies for mainstreaming based on neurodiverse-led efforts as the future for  creating holistic  inclusive workplaces.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#truesdell">Cammie Truesdell,</a></b> </span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#clark">Hilary Clark,</a></b> </span>Environmental Protection Agency (EPA)
-      </div> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#center">Jennifer Center,</a></b> </span>TBD
+      </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie L. Fuoco,</a></b></span>Environmental Protection Agency (EPA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span>IBM
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span>National Institutes of Health (NIH)
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#valeur">Charlotte Valeur,</a></b></span>Global Governance Group, UK
       </div>
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d2bs1b">
-      <div class="brown-breakout-header">Track B: Acquisition & Program Management</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn about the acquisition processes used at the U. S. Census Bureau, Centers for Disease Control and Prevention, and the Social Security Administration. Panelists share their experiences, detailing efforts to procure and maintain products that conform to Section 508 regulations at their respective agencies. Topics covered include: defining business needs and requirements, conducting market research, solicitation, acquisition, and contract management in the acquisition lifecycle. Hear about what works well and ways to mitigate accessibility risks from panelists with real-world experience. This session also provides resources and guidance for attendees to optimize the accessibility component of procurement in the acquisition lifecycle at their agency or company.</span> 
+      <div class="brown-breakout-header">Track B: Create Amazing Content</div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Creating Accessible Fillable PDF Forms in Adobe Indesign</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How to easily build a fillable form in Adobe Indesign that satisfies accessibility requirements.<br />
+      Using style sheets and other basic program features, we will produce a simple 508 compliant PDF form that will need no further external adjustment.
+      </span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#malakhoff">Larry Malakhoff,</a></b> </span>U.S. Census Bureau
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#crowell">Pierce Crowell,</a></b> </span>Social Security Administration (SSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lindemuth">Charles Lindemuth,</a></b> </span>U.S. Forest Service, Department of Agriculture (USDA)
       </div> 
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban,</a> </b></span>Centers for Disease Control and Prevention (CDC)
-      </div>
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">Dave Whittington,</a> </b></span>U.S. Census Bureau
-      </div>
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx" target="_blank">IAAF 2020 - Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPT)</a></span>
-      </div>
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d2bs1c">
-      <div class="brown-breakout-header">Track C: Innovation<br /></div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The innovation track will cover current efforts to enhance accessibility for people with disabilities in the workplace using technology powered by artificial intelligence (AI). Panelists share an overview of current and emerging use of AI tools and technologies in the modern workplace (virtual and physical) in both the private and public sectors. Concerns around AI bias against people with disabilities for candidate screenings, job interviews, and automation of work tasks will be highlighted, as well as how AI can benefit efforts to increase employment for people with disabilities and enhance accessibility by fostering new solutions to provide workplace accommodations and address systemic work barriers.</span> 
+      <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Enhancing Accessibility: AI and Machine Learning</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, or AI, is often referred to as the driver of the 4th Industrial revolution, is making unprecedented breakthroughs and is evolving at an exponential rate. My topic will be on AI for Accessibility: 5 ways AI is breaking down barriers, increasing accessibility, and creating a more inclusive internet/web.</span> 
      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#curtis-davidson">Bill Curtis-Davidson,</a></b> </span>Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span><br> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore, PhD</a></b> </span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span>General Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#robertson">Scott Robertson, PhD</a> </b> </span>Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD</a> </b> </span>Department of Homeland Security (DHS)
       </div>
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#prabhakaran">Vinodkumar Prabhakaran, PhD</a> </b></span>Google
-      </div>
+      <!-- HIDE DOWNLOAD
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
         <span class="speaker-name"><p><a href="https://assets.section508.gov/files/IAAF_2020_Artificial_Intelligence_Emerging_Workplace.pptx">IAAF 2020 - Artificial Intelligence and the Emerging Workplace (PPT)</a></p></span>
-      </div>
+      </div>-->
     </div> 
   </div> 
   <!-- end breakout row -->
