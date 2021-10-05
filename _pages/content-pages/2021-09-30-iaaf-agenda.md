@@ -403,64 +403,64 @@ created: 1600981839
     </div>
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d2bs2a">
-          Track A: Customer Experiences & Content Creation
+          Track A: Lead Our Agencies Towards Access
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Embrace Accessibility and Build It Into Every Decision</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">21st Century IDEA requirements are critical and necessary, but they are only the beginning. Accessibility is about real people who use our services. Everyone has a role to play in making federal websites and digital services accessible and inclusive.</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The <a class="session-link" href="https://designsystem.digital.gov/">U.S. Web Design System</a> encourages teams to design generously and celebrate requirements as a framework to create better products for all users instead of as a set of constraints. </span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility affects everybody. Build it into every decision.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#ryan">Avis Ryan,</a></b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#farraj-feijoo">Ammie Farraj-Feijoo,</a></b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#farraj-feijoo">Angie Fuoco,</a></b> </span> Environmental Protection Agency (EPA)
         </div> 
-        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#williams">Dan Williams,</a> </b> </span>General Services Administration (GSA)
-        </div>
       </div>
       <!-- D2BS2B --> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d2bs2b">
-          Track B: Acquisition & Program Management
+          Track B: Create Amazing Content
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Welcome to Section 508 (for new members)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This panel of seasoned IT accessibility professionals will discuss their valuable experiences and provide tips, tricks and pitfalls of building and managing ICT accessibility programs. Panelists will also provide a list of exceptional resources for training and development for those new and seasoned in ICT accessibility.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b> </span>Federal Deposit Insurance Corporation (FDIC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#blakely-hill">Jocelyn Blakely-Hill,</a></b> </span>National Archives and Records Administration (NARA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#faied">Maroya Faied,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a> </b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
+        <!-- HIDE DOWNLOAD
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#paschel">Shannon Paschel,</a> </b> </span>Defence Intelligence Agency (DIA)
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf">IAAF 2020 - Welcome New PMs Breakout Session Presentation (PDF)</a></span>
-        </div>
+        </div>-->
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d2bs2c">
-          Track C: Innovation<br>
+          Track C: Buy and Manage Compliance
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Mobile Accessibility: Now and the Future</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Mobile devices are ubiquitous and people use them for just about everything. Currently, GSA’s Digital Analytics Program reports that over 50% of the traffic on federal sites is through these mobile devices and <a href="https://www.boia.org/blog/5-smartphone-usage-statistics-and-the-growing-importance-of-mobile-accessibility" class="session-link">"61% of people won't return to an inaccessible mobile site."</a> In this session, the presenters will share the challenges and current state of mobile accessibility and what the future state of mobile accessibility technology could look like.</span> 
-        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Adopting and Aligning to the ICT Testing Baseline</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How can an agency prepare to align to the ICT Testing Baseline and/or adopt a Baseline-aligned test process? This presentation will discuss the <a href="https://ictbaseline.access-board.gov/" class="session-link">ICT Accessibility Testing Baseline Portfolio</a> and provide updates on progress and ongoing efforts related to the portfolio. Presenters will also discuss the benefits of adopting and implementing a Baseline-aligned test process in their agencies along with suggestions for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline.</span> 
+        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sharma">Siddhartha Sharma,</a></b> </span>Department of the Interior (DOI)
-        </div> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration
+        </div> -->
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fern">David Fern,</a></b> </span>Social Security Administration (SSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b> </span>U. S. Access Board (UASB)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bonitto">Toni Bonitto,</a> </b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#neilson">Andrew Nielson,</a> </b> </span>General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a> </b> </span>General Services Administration (GSA)
+        </div>
+        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx">IAAF 2020 - Mobile Accessibility Now and the Future (PPT)</a></span>
-        </div>
+        </div>-->
       </div> 
     </div> 
     <!-- end 2PM breakout row -->
@@ -539,9 +539,12 @@ created: 1600981839
       </div>
     </div> 
   </div>
-  
 
   <!-- end day 2 agenda -->
+
+
+  <!-- DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 -->
+
 
   <div class="program-header margin-bottom-2" id="progday3">
     <b><span class="text-large">PROGRAM</span> Day 3/Thursday, October 14th</b>
