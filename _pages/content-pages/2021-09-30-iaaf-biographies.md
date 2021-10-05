@@ -26,20 +26,19 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
   </div>
-  
-    <div class="desktop:grid-col-9 tablet:grid-col-9">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lowerlastname">
       <strong>FIRSTLASTNAME</strong>
     </p>
-<p>
+    <p>
       <em><span>TITLE</span></em><br /><span>AGENCY</span>
     </p>
-<p>
+    <p>
       <span>
       BIOPARAGRAPH
       </span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
@@ -120,7 +119,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1b2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
     </p>
   </div>
 </div>
@@ -183,7 +182,7 @@ created: 1601325079
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
     </p>    
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></em> on Day 1...</a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome</span></em> on Day 1</a>
     </p>
   </div>
 </div>
@@ -193,18 +192,17 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
   </div>
-  
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bonitto">
       <strong>Toni Bonitto</strong>
     </p>
-<p>
+    <p>
       <em><span>Innovation Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
-<p>
+    <p>
       <span>A native New Yorker, Toni spent most of her tech career in New York, New Jersey, and Florida in the private and nonprofit sectors. She currently serves as an Innovation Specialist in the Technology Transformation Services (TTS) at GSA's headquarters in DC. Her main role is as Digital.gov’s Content Lead and Editor where she writes articles and resource guides, and recruits and manages rotations of volunteer content writers via the Open Opportunities program and Communities of Practice. She also provides front-end development, social media, email marketing, analytics reporting, and customer service for the program. Toni is also a member of the TTS Digital Council and its Review Team, is a Level I Contracting Officer’s Representative (COR), has certifications in both Email Marketing and Social Media, and recently completed a year-plus term as the co-lead for the TTS Accessibility Guild, which included contributing to the development and teaching of an Accessibility 101 course as part of onboarding requirements for new hires.</span>
     </p>
-<p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2020#d1bs2c"><em><span>Mobile Accessibility: Now and the Future</span></em></a>
     </p>
   </div>
