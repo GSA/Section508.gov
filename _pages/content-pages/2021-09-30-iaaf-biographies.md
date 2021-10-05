@@ -90,7 +90,7 @@ created: 1601325079
       <strong>Gundeep Ahluwalia</strong>
     </p>
     <p>
-      <em><span>Chief Information Officer, Chief Information Officer Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
+      <em><span>Chief Information Officer, Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
       <span>
@@ -1269,10 +1269,10 @@ created: 1601325079
       <em><span>Director</span></em><br /><span>Center for Civic Design</span>
     </p>
     <p>
-      <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</span>
+      <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a> on Day 1
     </p>
   </div>
 </div>
