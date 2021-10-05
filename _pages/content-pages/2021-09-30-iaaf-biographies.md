@@ -619,7 +619,7 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harding.png" alt="Stephen Harding" />
   </div>
@@ -632,14 +632,22 @@ created: 1601325079
     </p>
     <p>
       <span>
-      BIOPARAGRAPH
-      </span>
+      Mr. Stephen Harding is the Director, Digital Strategies Division, GSA, Office of Government-wide Policy, Washington D.C.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <span>Prior to his current position, Mr. Harding was Program Executive for the Electronic Capital Planning and Investment Control (eCPIC), GSA, Office of Government-wide Policy, Washington D.C.</span>
+    </p>
+    <p>
+      <span>Mr. Harding has served in a variety of cyber assignments in GSA and in the DoD joint support and operational environments around the world. He has experience managing organizations composed of active duty military, civilian, and contractor personnel. Mr. Harding has managed the operations of multimillion dollar nationwide military intelligence, command and control networks and support systems. He has also led personnel and managed computer network systems in two combat environments. Mr. Harding retired as a Major after 25 years of military service.</span>
+    </p>
+    <p>
+      <span>Mr. Harding is from Chicago Illinois. He is married to the former Debbie jean Willard from Simi Valley, California.</span>
+    </p>
+    <p>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Closing Remarks</span></em></a> on Day 2
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
