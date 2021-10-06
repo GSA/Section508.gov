@@ -1870,8 +1870,7 @@ created: 1601325079
       <em><span>Program Analyst</span></em><br /><span>General Services Adminstration (GSA)</span>
     </p>
     <p>
-      <span>
-      Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategy and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities.</span>
+      <span>Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategy, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled combat Army veteran.</span>
     </p> 
     <p>
       <em><span>Moderator: </span></em> <!--<a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>--> Interagency Accessibility Forum (IAAF)
