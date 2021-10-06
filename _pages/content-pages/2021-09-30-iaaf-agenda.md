@@ -558,13 +558,13 @@ created: 1600981839
           <span class="session-type text-highlight">Moderator:</span>
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> General Services Administration (GSA)
         </div> -->
-        <div class="speaker-info padding-top-1">
+        <!--<div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span>
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
         </div> 
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)
-        </div>
+        </div>-->
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Administration (GSA)
         </div>
