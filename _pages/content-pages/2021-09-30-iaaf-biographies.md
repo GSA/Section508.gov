@@ -392,14 +392,14 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>FIRSTLASTNAME</strong>
+    <p id="creagan">
+      <strong>Tim Creagan</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Senior Accessibility Specialist/Information Technology</span></em><br /><span>U.S. Access Board</span>
     </p>
     <p>
       <span>
