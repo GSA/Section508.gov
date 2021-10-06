@@ -1023,7 +1023,7 @@ created: 1601325079
       <em><span>IT Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Brianna has just joined the M1ED team as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the 508 web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
+      <span>Brianna has just joined the Digital Strategies in GSA's Office of Government-wide Policy (OGP) team as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
@@ -1515,7 +1515,7 @@ created: 1601325079
       <span>You might say I'm in: Human Factors, User Experience (UX), Human-Computer Interaction (HCI), Human-Machine Teaming (HMT), Human-Machine Interaction (HMI), Interaction Design, Product Strategy</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
     </p>
   </div>
 </div>
