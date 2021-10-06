@@ -137,7 +137,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
     </p>
   </div>
 </div>
@@ -590,7 +590,7 @@ created: 1601325079
     <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn, and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>OPAT: The machine-readable VPAT</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
     </p>
   </div>
 </div>

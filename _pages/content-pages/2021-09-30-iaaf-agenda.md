@@ -188,9 +188,9 @@ created: 1600981839
       <!-- BEGIN DAY 1 SESSION 2 TRACK C -->  
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs2c">Track C: Buy and Manage Compliance<br></div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">OPAT: The Machine-Readable VPAT</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Federal agencies face challenges in delivering accessible services to people with disabilities. Vendors submit accessibility conformance reports (ACR) to show that their products meet requirements. These ACR documents are a snapshot, rather than a continuous adherence to requirements.
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Creating a Machine-Readable ACR</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Federal agencies face challenges in delivering accessible services to people with disabilities. Vendors submit accessibility conformance reports (ACR) to show that their products meet requirements. These ACR documents are a snapshot, rather than a continuous adherence to requirements.
         <p />
-        Open Product Accessibility Template (OPAT) will develop a digital  native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
+        Open Product Accessibility Template (OPAT) will develop a digital native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
