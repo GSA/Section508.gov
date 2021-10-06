@@ -321,13 +321,13 @@ created: 1600981839
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b></span> G3ict
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Funka
       </div>
       <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a></b></span> G3ict
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">James Thurston,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div>
     </div> 
   </div> 
@@ -593,19 +593,25 @@ created: 1600981839
       <div class="grid-col-12 cell dark padding-1">2:45 P.M. – 3:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
     <div class="grid-row session">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d2gs1">3:00 P.M. – 3:50 P.M. <br><span class="session-type">General Session</span>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d3gs2">3:00 P.M. – 3:50 P.M. <br><span class="session-type">General Session</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <span class="session-type">Ask the Expert</span> 
-        <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> 
-        <!-- <div class="speaker-info padding-top-1">
+        <!-- <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> -->
+        <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#TBD">TBD,</a></b> </span> General Services Administration (GSA)
-        </div> -->
-        <!-- <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#TBD">Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
+        </div>
+        <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#franks">TBD,</a></b></span> General Services Administration (GSA)
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Administration (GSA)
+        </div>                
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
           <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span><br>

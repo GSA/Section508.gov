@@ -1182,6 +1182,9 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
     <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+    </p>
+    <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
     </p>
   </div>
@@ -1529,6 +1532,9 @@ created: 1601325079
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
     </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+    </p>
   </div>
 </div>
 
@@ -1619,6 +1625,9 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1760,6 +1769,28 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-wilson.png" alt="Alex Wilson" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="wilson">
+      <strong>Alex Wilson</strong>
+    </p>
+    <p>
+      <em><span>Program Analyst</span></em><br /><span>General Services Adminstration (GSA)</span>
+    </p>
+    <p>
+      <span>
+      Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategy and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities.</span>
+    </p> 
+    <p>
+      <em><span>Moderator: </span></em> <!--<a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>--> Interagency Accessibility Forum (IAAF)
     </p>
   </div>
 </div>
