@@ -322,8 +322,10 @@ created: 1601325079
       <strong>Josh Christianson, M.S.</strong>
     </p>
     <p>
-      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor (DOL)<br />
-      <em><span>Project Director</span></em><br /><span>Partnership on Inclusive Apprenticeship</span>
+      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor (DOL)
+    </p>
+    <p>
+      <em><span>Project Director<</span></em><br /><span>Partnership on Inclusive Apprenticeship
     </p>
     <p>
       <span>Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship. Josh has extensive experience in supporting the diversity, equity, inclusion, and accessibility (DEIA) efforts of non-profit organizations, private companies, and government agencies.</span>
