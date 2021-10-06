@@ -79,13 +79,21 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1a">
       <div class="brown-breakout-header">Track A: Lead Our Agencies Towards Access</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm" >Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn the steps to the accessibility dance.  Experts from Civil Rights, 508, IT, procurement and Reasonable accommodations will lead a discussion of the importance of collaboration and networking across disciplines to ensure accessibility for all.  Successes and challenges for filling your agency’s accessibility dance card will be shared. You will leave with tips on when to tap, clog, waltz, and do a little shimmy to make your agency the hip-hopping accessibility place to work.</span> 
-      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD</a></b>,</span> General Services Administration (GSA)
-      </div> -->
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#avis">TBD</a></b>,</span> General Services Administration (GSA)
+      </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#carr">Annette Carr</a></b>, </span>Department of Transportation (DOT)
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight">Panelists:</span> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#humphrey">Yolanda Humphrey</a></b>, </span>Internal Revenue Service (IRS)
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight">Panelists:</span> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban</a></b>, </span>Centers for Disease Control and Prevention (CDC)
       </div> 
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK B -->  

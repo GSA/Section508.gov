@@ -322,13 +322,11 @@ created: 1601325079
       <strong>Josh Christianson, M.S.</strong>
     </p>
     <p>
-      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor (DOL)
+      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor</span>
     </p>
     <p>
-      <em><span>Project Director<</span></em><br /><span>Partnership on Inclusive Apprenticeship
-    </p>
-    <p>
-      <span>Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship. Josh has extensive experience in supporting the diversity, equity, inclusion, and accessibility (DEIA) efforts of non-profit organizations, private companies, and government agencies.</span>
+      <span>
+      Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship. Josh has extensive experience in supporting the diversity, equity, inclusion, and accessibility (DEIA) efforts of non-profit organizations, private companies, and government agencies.</span>
     </p>
     <p>
       <span>He is the former director of the Partnership on Employment & Accessible Technology (PEAT), where he built cross-sector partnerships to shape the policies and practices contributing to the development of accessible emerging technologies in the workplace.</span>
@@ -337,10 +335,11 @@ created: 1601325079
       <span>Before coming to PEAT Josh was a Senior Consultant at Deloitte where he provided talent strategies, change management, and leadership development support to federal agencies.</span>
     </p>
     <p>
-      <span>Prior to Deloitte he spent several years with The Posse Foundation as the Career Program Manager where he cultivated relationships with companies and organizations to provide career development opportunities for Posse Scholars and Alumni.</span>
+      <span>Prior to Deloitte he spent several years with The Posse Foundation as the Career Program Manager where he cultivated relationships with companies and organizations to provide career development opportunities for Posse Scholars and Alumni.
+      </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
     </p>
   </div>
 </div>
@@ -1565,9 +1564,9 @@ created: 1601325079
     <p>
       <span>Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control, and Co-Chair of the US Department of Health and Human Services Section 508 Program.</span>
     </p>
-    <!-- <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Agencies Approaches to Accessibility throughout the Acquisition Life Cycle</span></em></a>
-    </p>-->
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+    </p>
   </div>
 </div>
 
