@@ -83,6 +83,45 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.png" alt="Broke Aiken" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="aiken">
+      <strong>Brooke Aiken</strong>
+    </p>
+    <p>
+      <em><span>Section 508 Program Manager</span></em><br /><span>"Federal Deposit Insurance Corporation (FDIC)</span>
+    </p>
+    <p>
+      <span>Brooke Aiken joined the FDIC in August 2019 as the FDIC’s first full-time Section 508 Program Manager.</span>
+    </p>
+    <p>
+      <span>Brooke began her federal government career with U.S. Customs and Border Protection (CBP), where she served for 13 years as a federal employee and two years as a contractor. During her time at CBP, she developed an interest in Section 508 Compliance and was able to research and learn about the law and its mandate. Through her persistence, Brooke educated management about the importance of IT accessibility and spearheaded an agency-wide initiative to implement Section 508 compliance.</span>
+    </p>
+    <p>
+      <span>Brooke assisted in the establishment of the Department of Homeland Security’s Office of Accessible Systems and Technology, which employs 22 staff members dedicated to Section 508 compliance.</span>
+    </p>
+    <p>
+      <span>During her time with CBP, Brooke served a six-month detail with the Executive Office of the President, where she established a framework for a Chief Accessibility Officer to ensure Section 508 compliance is mandatory within the Executive Office of the President.</span>
+    </p>
+    <p>
+      <span>Brooke was also selected to detail at the General Services Administration (GSA), Government-wide IT Accessibility Program. She provided guidance and assistance with Section 508 procurement review language and accessibility platforms during her time at GSA.</span>
+    </p>
+    <p>
+      <span>Currently, Brooke serves as the co-education chair for the federal-wide Accessibility Community of Practice. She is involved in the FDIC’s CAN DO Network and was recently selected as a member of the FDIC Chairman’s Diversity Advisory Council.</span>
+    </p>
+    <p>
+      <span>Brooke holds a Bachelor’s degree in Human Environmental Services from the University of Alabama.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-azeem.png" alt="Syed Azeed" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -192,7 +231,6 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<!-- 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-brunson.png" alt="Arthur Brunson" />
@@ -205,7 +243,13 @@ created: 1601325079
       <em><span>Program Analyst</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>BIO-Goes-Here</span>
+      <span>Mr. Brunson is a Program Analyst in the Office of Information, Integrity and Access.  He currently serves as a member of the Section 508 team, managing the <a href"https://www.section508.gov/buy/accessibility-requirements-tool" class="session-link">Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities, government wide.  The program supports GSA’s charge in conjunction with the Access Board to provide Section 508 technical assistance, tools, and workforce development support to Federal agencies.  One of his personal favorite highlights during his career with GSA is volunteering for FEMA Surge Support, 2017/2018 assisting with the recovery efforts in Puerto Rico after hurricane Maria.</span>
+    </p>
+    <p>
+      <span>He has been an associate at GSA for 30 years.  His career with GSA includes 15 years with the Federal Procurement Data Center, as a Data Specialist and worked on many rewarding special projects.  12 years with the Office of Governmentwide Policy, as a Project Manager supporting OMB/PMA initiatives.  Prior to joining GSA he worked at the Department of Veteran Affairs, as a specialist in the Loan Guarantee Division and served honorably in the U.S. Navy.</span>
+    </p>
+    <p>
+      <span>He holds a Bachelor of Science degree from Bowie State University in Business Administration. He lives in Camp Springs, Maryland.  He has 2 beautiful daughters and 5 adorable grandchildren. In his free time he enjoys yard work and traveling, supporting his brothers automotive shop, towing cars, church and family.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
@@ -341,6 +385,43 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="lowerlastname">
+      <strong>FIRSTLASTNAME</strong>
+    </p>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+    </p>
+    <p>
+      <span>
+      Mr. Creagan is a senior accessibility specialist with the U.S. Access Board. The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.</span>
+    </p>
+    <p>
+      <span>Mr. Creagan is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.</span>
+    </p>
+    <p>
+      <span>Mr. Creagan provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications.</span>
+    </p>
+    <p>
+      <span>Mr. Creagan joined the U.S. Access Board in 2006 to lead the team revising the Board’s existing standards and guidelines for electronic and communication technologies. He served as the Designated Federal Official (DFO) for the Telecommunications and Electronic and Information Technology Advisory Committee (TEITAC). He was a member of the team that developed the revised accessibility standards for information and communication technology (ICT) under Section 508 of the Rehabilitation Act and the revised accessibility guidelines under Section 255 of the Communications Act, published in 2017.</span>
+    </p>
+    <p>
+      <span>He was formerly the Director of Consumer Training for the Information Technology Technical Assistance and Training Center (ITTATC) and before that he was the Director of Public Policy for Hearing Loss Association of America (HLAA) (formerly SHHH). Before joining HLAA, Mr. Creagan was a litigator in the courts of D.C. and Maryland.</span>
+    </p>
+    <p>
+      <span>Mr. Creagan received his J.D. from the Catholic University of America, and his undergraduate degree from the University of Notre Dame.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -1531,6 +1612,9 @@ created: 1601325079
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
