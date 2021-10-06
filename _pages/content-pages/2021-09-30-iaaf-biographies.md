@@ -57,7 +57,7 @@ created: 1601325079
       <strong>Chike Aguh</strong>
     </p>
     <p>
-      <em><span>Chief Innovation Officer (CInO)</span></em><br /><span>United States Department of Labor</span>
+      <em><span>Chief Innovation Officer (CInO)</span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
       <span>On January 20, 2021, Chike Aguh (Chee-kay Ah-Goo) was sworn in as Chief Innovation Officer (CInO) at the United States Department of Labor, appointed by President Joe Biden. Reporting to the Deputy Secretary and also serving as the Senior Advisor for Delivery, he leads efforts to use innovative technologies, partnerships and practices to accelerate the Department’s mission of delivering a future of work that includes and dignifies every American.</span>
@@ -90,7 +90,7 @@ created: 1601325079
       <strong>Brooke Aiken</strong>
     </p>
     <p>
-      <em><span>Section 508 Program Manager</span></em><br /><span>"Federal Deposit Insurance Corporation (FDIC)</span>
+      <em><span>Section 508 Program Manager</span></em><br /><span>Federal Deposit Insurance Corporation (FDIC)</span>
     </p>
     <p>
       <span>Brooke Aiken joined the FDIC in August 2019 as the FDIC’s first full-time Section 508 Program Manager.</span>
@@ -129,11 +129,11 @@ created: 1601325079
       <strong>Syed Azeem</strong>
     </p>
     <p>
-      <em><span>Forms.gov Product Manager, Technology Transformation Services</span></em><br /><span>General Services Administration</span>
+      <em><span>Forms.gov Product Manager, Technology Transformation Services (TTS)</span></em><br /><span>General Services Administration</span>
     </p>
     <p>
       <span>
-      Syed Azeem is an Information Technology professional with over 15 years of experience within private sector and Federal Government performing program/project management involving complex IT systems and application software capabilities to satisfy stakeholder needs. Demonstrated mastery of delivering effective IT solutions by applying systems life cycle process, leveraging IT governance and portfolio management best practices. Hands-on experience in applying Agile/Scrum, Enterprise Architecture (EA), Information Assurance (IA) and Systems Engineering (SE) concepts, principles and methods with complex IT programs and projects.
+      Syed Azeem is an Information Technology professional with over 15 years of experience within the private sector and the federal government performing program/project management involving complex IT systems and application software capabilities to satisfy stakeholder needs. Mr. Azeen has demonstrated mastery of delivering effective IT solutions by applying systems life cycle process, leveraging IT governance and portfolio management best practices. He has hands-on experience in applying Agile/Scrum, Enterprise Architecture (EA), Information Assurance (IA) and Systems Engineering (SE) concepts, principles and methods with complex IT programs and projects.
       </span>
     </p>
     <p>
@@ -207,7 +207,7 @@ created: 1601325079
       <strong>Krystal Brumfield</strong>
     </p>
     <p>
-      <em><span>Associate Administrator, Office of Governmentwide Policy</span></em><br /><span>General Services Administration (GSA)</span>
+      <em><span>Associate Administrator, Office of Government-wide Policy</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
       <span>Krystal J. Brumfield is an attorney and accomplished executive with more than 10 years’ experience of proven leadership in the public and private sectors. Krystal currently serves as the Associate Administrator for Government-wide Policy at GSA where she manages the direction of acquisition policy for GSA to ensure the promotion of effective business practices and the timely delivery of best value products for an agency that leverages billions of dollars annually in the marketplace. Among other roles, Krystal is designated as GSA’s Chief Acquisition Officer (CAO) and represents GSA on the CAO Council.</span>
@@ -243,13 +243,13 @@ created: 1601325079
       <em><span>Program Analyst</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Mr. Brunson is a Program Analyst in the Office of Information, Integrity and Access.  He currently serves as a member of the Section 508 team, managing the <a href"https://www.section508.gov/buy/accessibility-requirements-tool" class="session-link">Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities, government wide.  The program supports GSA’s charge in conjunction with the Access Board to provide Section 508 technical assistance, tools, and workforce development support to Federal agencies.  One of his personal favorite highlights during his career with GSA is volunteering for FEMA Surge Support, 2017/2018 assisting with the recovery efforts in Puerto Rico after hurricane Maria.</span>
+      <span>Mr. Brunson is a Program Analyst in the Office of Information, Integrity and Access.  He currently serves as a member of the Government-wide IT Accessibility team, managing the <a href"https://www.section508.gov/buy/accessibility-requirements-tool" class="session-link">Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities.  The program supports GSA’s charge in conjunction with the Access Board to provide Section 508 technical assistance, tools, and workforce development support to federal agencies.  One of his personal favorite highlights during his career with GSA is volunteering for FEMA Surge Support, 2017/2018 assisting with the recovery efforts in Puerto Rico after hurricane Maria.</span>
     </p>
     <p>
-      <span>He has been an associate at GSA for 30 years.  His career with GSA includes 15 years with the Federal Procurement Data Center, as a Data Specialist and worked on many rewarding special projects.  12 years with the Office of Governmentwide Policy, as a Project Manager supporting OMB/PMA initiatives.  Prior to joining GSA he worked at the Department of Veteran Affairs, as a specialist in the Loan Guarantee Division and served honorably in the U.S. Navy.</span>
+      <span>He has been an associate at GSA for 30 years.  His career with GSA includes 15 years with the Federal Procurement Data Center, as a Data Specialist and worked on many rewarding special projects.  As well as 12 years with the Office of Government-wide Policy, as a Project Manager supporting OMB/PMA initiatives.  Prior to joining GSA he worked at the Department of Veteran Affairs, as a specialist in the Loan Guarantee Division and served honorably in the U.S. Navy.</span>
     </p>
     <p>
-      <span>He holds a Bachelor of Science degree from Bowie State University in Business Administration. He lives in Camp Springs, Maryland.  He has 2 beautiful daughters and 5 adorable grandchildren. In his free time he enjoys yard work and traveling, supporting his brothers automotive shop, towing cars, church and family.</span>
+      <span>He holds a Bachelor of Science degree from Bowie State University in Business Administration. He lives in Camp Springs, Maryland.  He has 2 beautiful daughters and 5 adorable grandchildren. In his free time he enjoys yard work and traveling, supporting his brother's automotive shop, towing cars, church and family.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
@@ -323,7 +323,7 @@ created: 1601325079
       <em><span>Deputy Chief Information Officer, Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
-      <span>Louis Charlier has served in OCIO since 2006 and currently serves as the Deputy Chief Information Officer for Administration and Strategy. He spent the last seven years as the Director of Infrastructure Services (now IT Operations and Services). In that role, he was the principal advisor to OCIO leadership, Departmental executives, and key agency managers for large-scale IT initiatives. He also assisted in the planning, directing, and administering of a comprehensive IT program for the Department that provided tactical day to day leadership, organization stability, and technical expertise.</span>
+      <span>Louis Charlier has served in OCIO since 2006 and currently serves as the Deputy Chief Information Officer for Administration and Strategy. He spent the last seven years as the Director of Infrastructure Services (now IT Operations and Services). In that role, he was the principal advisor to OCIO leadership, Departmental executives, and key agency managers for large-scale IT initiatives. He also assisted in the planning, directing, and administering of a comprehensive IT program for the Department that provided tactical day-to-day leadership, organization stability, and technical expertise.</span>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome on Day 3</span></em></a>
@@ -363,7 +363,7 @@ created: 1601325079
     </p>
     <p>
       <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em> <br />
-      <span>Department of Labor</span>
+      <span>Department of Labor (DOL)</span>
     </p>
     <p>
       <em><span>Project Director</span></em> <br />
@@ -406,7 +406,7 @@ created: 1601325079
       Mr. Creagan is a senior accessibility specialist with the U.S. Access Board. The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.</span>
     </p>
     <p>
-      <span>Mr. Creagan is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.</span>
+      <span>Mr. Creagan is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.</span>
     </p>
     <p>
       <span>Mr. Creagan provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications.</span>
@@ -450,7 +450,7 @@ created: 1601325079
       <em><span>United States Senator for Illinois</span></em><br /><span>United States of America</span>
     </p>
     <p>
-      <span>U.S.Senator Tammy Duckworth is an Iraq War Veteran, Purple Heart recipient and former Assistant Secretary of the U.S. Department of Veterans Affairs who was among the first handful of Army women to fly combat missions during Operation Iraqi Freedom. Duckworth served in the Reserve Forces for 23 years before retiring at the rank of Lieutenant Colonel in 2014. She was elected to the U.S. Senate in 2016 after representing Illinois’s Eighth Congressional District in the U.S. House of Representatives for two terms. Read <a href="https://www.duckworth.senate.gov/about-tammy/biography" class="session-link">Senator Duckworth's full biography</a>.</span>
+      <span>U.S. Senator Tammy Duckworth is an Iraq War Veteran, Purple Heart recipient and former Assistant Secretary of the U.S. Department of Veterans Affairs who was among the first handful of Army women to fly combat missions during Operation Iraqi Freedom. Duckworth served in the Reserve Forces for 23 years before retiring at the rank of Lieutenant Colonel in 2014. She was elected to the U.S. Senate in 2016 after representing Illinois’s Eighth Congressional District in the U.S. House of Representatives for two terms. Read <a href="https://www.duckworth.senate.gov/about-tammy/biography" class="session-link">Senator Duckworth's full biography</a>.</span>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em> on Day 2</a>
@@ -481,7 +481,7 @@ created: 1601325079
       <em><span>Senior ICT Accessibility Specialist</span></em><br /><span>U.S. Access Board</span>
     </p>
     <p>
-      <span>Kathy Eng is a Senior ICT Accessibility Specialist with the US Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focus on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
+      <span>Kathy Eng is a Senior ICT Accessibility Specialist with the U.S. Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focus on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
@@ -533,7 +533,7 @@ created: 1601325079
       <em><span>Community Involvement Coordinator</span></em><br /><span>Environmental Protection Agency (EPA)</span>
     </p>
     <p>
-      <span>Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver Accessibility to our staff with disabilities in a Safe, Accessible, Functional and Engaging Manner. She also proposes principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.</span>
+      <span>Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver accessibility to our staff with disabilities in a safe, accessible, functional and engaging manner. She also proposes principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2a"><em><span>Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span></em></a>
@@ -585,7 +585,7 @@ created: 1601325079
       <em><span>Senior Strategist</span></em><br /><span>CivicActions</span>
     </p>
     <p><span>Mike Gifford is a Senior Strategist at CivicActions. His primary focus is on building digital accessibility confidence and capabilities in the public sector.</span></p>
-    <p><span>Previously, he was the Founder and President of OpenConcept Consulting Inc., a web development agency specializing in building open source solutions for the open web. We worked primarily with the Drupal CMS. In this role he was an active part of the Government of Canada's Open Source Advisory Board.</span></p>
+    <p><span>Previously, he was the Founder and President of OpenConcept Consulting Inc., a web development agency specializing in building open source solutions for the open web, working primarily with the Drupal CMS. In this role he was an active part of the Government of Canada's Open Source Advisory Board.</span></p>
     <p><span>Pushed by a desire to build a better and more inclusive world, Mike has been involved with accessibility since the beginning of the 90s. He has spearheaded accessibility improvements in Drupal since 2008, and officially became Drupal’s Core Accessibility Maintainer in 2012.</span></p>
     <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn, and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
@@ -629,7 +629,7 @@ created: 1601325079
       <em><span>Digital Projects</span></em><br /><span>National Gallery of Art</span>
     </p>
     <p>
-      <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to the customers. These tools help multiple audiences connect to the artwork in the museum.</span>
+      <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to customers. These tools help multiple audiences connect to the artwork in the museum.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
@@ -728,7 +728,7 @@ created: 1601325079
       <span>Prior to his current position, Mr. Harding was Program Executive for the Electronic Capital Planning and Investment Control (eCPIC), GSA, Office of Government-wide Policy, Washington D.C.</span>
     </p>
     <p>
-      <span>Mr. Harding has served in a variety of cyber assignments in GSA and in the DoD joint support and operational environments around the world. He has experience managing organizations composed of active duty military, civilian, and contractor personnel. Mr. Harding has managed the operations of multimillion dollar nationwide military intelligence, command and control networks and support systems. He has also led personnel and managed computer network systems in two combat environments. Mr. Harding retired as a Major after 25 years of military service.</span>
+      <span>Mr. Harding has served in a variety of cyber assignments in GSA and in the DoD joint support and operational environments around the world. He has experience managing organizations composed of active duty military, civilian, and contractor personnel. Mr. Harding has managed the operations of multi-million dollar nation-wide military intelligence, command and control networks and support systems. He has also led personnel and managed computer network systems in two combat environments. Mr. Harding retired as a Major after 25 years of military service.</span>
     </p>
     <p>
       <span>Mr. Harding is from Chicago Illinois. He is married to the former Debbie Jean Willard from Simi Valley, California.</span>
@@ -898,7 +898,7 @@ created: 1601325079
       <em><span>Branch Chief, Quality Management</span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
-      <span>Brandon Jubar has more than 25 years of experience in information technology (IT) contracts, acquisitions, strategic planning, change management, and process improvement. He is the Branch Chief of IT Quality Management at the U.S. Department of Labor (DOL) in the Office of the Chief Information Officer. In the fall of 2019, Brandon was also assigned the role of DOL’s Section 508 Program Manager, tasked with standing up the Department’s first true enterprise-level Section 508 Program Office. He was selected as one of the FCW FED 100 for 2021 because of his work on accessibility and Section 508 compliance at DOL.</span>
+      <span>Brandon Jubar has more than 25 years of experience in information technology (IT) contracts, acquisitions, strategic planning, change management, and process improvement. He is the Branch Chief of IT Quality Management at the U.S. Department of Labor (DOL) in the Office of the Chief Information Officer. In the fall of 2019, Brandon was also assigned the role of DOL’s Section 508 Program Manager, tasked with standing up the Department’s first true enterprise-level Section 508 Program Office. He was selected as one of the FCW (Federal Computer Week) FED 100 for 2021 because of his work on accessibility and Section 508 compliance at DOL.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
@@ -954,7 +954,7 @@ created: 1601325079
       <span>Jacob King began his career in disability services as a sign language interpreter, having learned the language at a young age from d/Deaf friends and receiving a degree in interpretation from Gallaudet university.</span>
     </p>
     <p>
-      <span>After 5 years of freelance work, he entered the Federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
+      <span>After 5 years of freelance work, he entered the federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr. King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibility Activities</span></em></a>
@@ -985,7 +985,7 @@ created: 1601325079
       <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
     <p>
-      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, and the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and for many years, she has served as an appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the fields of digitalisation, inclusion and e-government at a senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
@@ -1007,7 +1007,7 @@ created: 1601325079
     </p>
     <p>
       <span>
-      Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the board of several publicly traded technology companies.</span>
+      Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the boards of several publicly traded technology companies.</span>
     </p>
     <p>
       <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International.</span>
@@ -1054,7 +1054,7 @@ created: 1601325079
       <em><span>Communicaitons Specialist</span></em><br /><span>US Forest Service</span>
     </p>
     <p>
-      <span>Charles Lindemuth is a skilled graphic designer and artist, and has spent most of his career on the Forest Service with the Chugach National Forest in Alaska.</span>
+      <span>Charles Lindemuth is a skilled graphic designer and artist, and has spent most of his career at the Forest Service with the Chugach National Forest in Alaska.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
@@ -1075,7 +1075,7 @@ created: 1601325079
       <em><span>Co-Chair, Neurodiversity, IBM Global Business Resource Group</span></em><br /><span>IBM</span>
     </p>
     <p>
-      <span>Proudly neurodivergent (and parent of an autistic IT Professional) Nat enables businesses to see the value in embracing ND talent to attain highly skilled and dedicated professionals that may otherwise be overlooked. 1:20 individuals are ND and 1:50 are autistic. This talent pool brings 32% new skills, 66% higher job loyalty, and more, improving corporate citizenship and revenue. Nat has driven culture change, improving trust and allyship through Global Acceptance Training across >30 Countries, Speaking Engagements and other advocacy initiatives. Nat is also experienced with intersectionality across PWD/PWDA, LGBT+, Race, Ethnicity, Gender, and other identity groups. Nat is also a Business Analyst and Application Developer with IBM for over 25 years.</span>
+      <span>Proudly neurodivergent (and parent of an autistic IT Professional) Nat enables businesses to see the value in embracing ND talent to attain highly skilled and dedicated professionals that may otherwise be overlooked. 1:20 individuals are ND and 1:50 are autistic. This talent pool brings 32% new skills, 66% higher job loyalty, and more, improving corporate citizenship and revenue. Nat has driven culture change, improving trust and allyship through Global Acceptance Training across >30 countries, speaking engagements and other advocacy initiatives. Nat is also experienced with intersectionality across PWD/PWDA, LGBT+, Race, Ethnicity, Gender, and other identity groups. Nat is also a Business Analyst and Application Developer with IBM for over 25 years.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
@@ -1106,7 +1106,7 @@ created: 1601325079
       <em><span>UX Designer, Mobile Accessibility</span></em><br /><span>Ad Hoc</span>
     </p>
     <p>
-      <span>A product designer who focuses on mobile accessibility, Meli S. Manak currently works for Ad Hoc and supports mobile applications work at the Department of Veterans Affairs. Her work includes streamlining the design system, bringing design and accessibility expertise to her cross functional team, and ensuring designs are visually accessible before development begins. It is a career built on her lived experience. Deafness is a central component of Meli’s identity and career, and she brings a deep level of empathy to her UX work. Her mission is to continue pushing for digital accessibility to ensure that future generations with disabilities can more freely move through the world.</span>
+      <span>A product designer who focuses on mobile accessibility, Meli S. Manak currently works for Ad Hoc and supports mobile applications work at the Department of Veterans Affairs. Her work includes streamlining the design system, bringing design and accessibility expertise to her cross-functional team, and ensuring designs are visually accessible before development begins. It is a career built on her lived experience. Deafness is a central component of Meli’s identity and career, and she brings a deep level of empathy to her UX work. Her mission is to continue pushing for digital accessibility to ensure that future generations with disabilities can more freely move through the world.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
@@ -1127,7 +1127,7 @@ created: 1601325079
       <em><span>IT Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Brianna has just joined the Digital Strategies in GSA's Office of Government-wide Policy (OGP) team as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
+      <span>Brianna has just joined the Digital Strategies Division within GSA's Office of Government-wide Policy (OGP) as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
@@ -1148,7 +1148,7 @@ created: 1601325079
       <em><span>User Experience Designer</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
     </p>
     <p>
-      <span>Shannon McHarg is a UX designer working in the Department of the Interior’s Office of Natural Resources Revenue.  She has more than 19 years’ experience working  for companies like H&R Block and L.L.Bean and a Master’s degree in Human Factors from Bentley University.</span>
+      <span>Shannon McHarg is a UX designer working in the Department of the Interior’s Office of Natural Resources Revenue.  She has more than 19 years’ experience working  for companies like H&R Block and L.L.Bean and has a Master’s degree in Human Factors from Bentley University.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: prioritizing documents for remediation </span></em></a>
@@ -1169,7 +1169,7 @@ created: 1601325079
       <em><span>Digital Accessibility Specialist</span></em><br /><span>Library of Congress</span>
     </p>
     <p>
-      <span>Dr. Rachael Bradley Montgomery is a digital accessibility specialist at the Library of Congress and an adjunct lecturer at University of Maryland’s College of Information Studies (iSchool).  She co-chairs the W3C Accessibility Guidelines Working Group and was previously a co-facilitator of the Cognitive and Learning Disabilities taskforce. She is the executive director of Accessible Community, a charity that helps communities and small organizations become more inclusive of people with disabilities. Rachael has a PhD from University of Maryland, College Park and an MS from University of Illinois, Urbana-Champaign.</span>
+      <span>Dr. Rachael Bradley Montgomery is a digital accessibility specialist at the Library of Congress and an adjunct lecturer at University of Maryland’s College of Information Studies (iSchool).  She co-chairs the W3C Accessibility Guidelines Working Group and was previously a co-facilitator of the Cognitive and Learning Disabilities taskforce. She is the executive director of Accessible Community, a charity that helps communities and small organizations become more inclusive of people with disabilities. Rachael has a PhD from the University of Maryland, College Park and an MS from the University of Illinois, Urbana-Champaign.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to Support Cognitive and Learning Disabilities</span></em></a>
@@ -1218,7 +1218,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <span>Gary joined the NIH as a Sign Language Interpreter, in 1993.  Throughout the 1990s, he coordinated NIH interpreting services and he trained ASL interpreters across the US to facilitate communication in healthcare settings.  He was also actively involved with HHS’s Shared Neutrals, mediating conflict resolution in agencies across the Federal government, with an emphasis on reasonable accommodations.  With the onset of Section 508, he quickly saw and embraced the potential of accessible of Information and Communication Technology.</span>
+      <span>Gary joined the NIH as a Sign Language Interpreter, in 1993.  Throughout the 1990s, he coordinated NIH interpreting services and he trained ASL interpreters across the US to facilitate communication in healthcare settings.  He was also actively involved with HHS’s Shared Neutrals, mediating conflict resolution in agencies across the federal government, with an emphasis on reasonable accommodations.  With the onset of Section 508, he quickly saw and embraced the potential of accessible of Information and Communication Technology.</span>
     </p>
     <p>
       <span>Gary sees the role of accessible technology as a means of enabling employees with disabilities to perform to their greatest potential and as part of an institutional responsibility and strategy to address healthcare disparities experienced by persons with disabilities.  Section 508 of the Rehabilitation Act is more than a law – it’s a means to address barriers to employment and to better healthcare outcomes.  Since the law’s implementation, he has been one of NIH’s few agency-wide subject matter experts for the coordination and implementation of Section 508 of the Rehabilitation Act of 1973, as Amended, and its integration with both business ICT and digital content, as well as the role of assistive technology (AT).</span>
@@ -1257,7 +1257,7 @@ created: 1601325079
       <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is Co-Chair of the annual ICT Accessibility Testing Symposium, whic brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as a leading practice in accessibility testing.</span>
+      <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is Co-Chair of the annual ICT Accessibility Testing Symposium, which brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as a leading practice in accessibility testing.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
@@ -1294,7 +1294,7 @@ created: 1601325079
       <em><span>Senior Advisor to the Administrator for Equity</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. 
+      Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic, first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. 
     </p>
     <p>
       Andrea is a recognized thought leader in the diversity, equity, inclusion, and accessibility (DEIA) field with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. 
@@ -1331,7 +1331,7 @@ created: 1601325079
       <em><span>Executive Director"</span></em><br /><span>United States Access Board</span>
     </p>
     <p>
-      <span>Sachin Pavithran was born in India, but grew up in Dubai which is in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators in the Federal and State Government to bring change in Policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election process for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.
+      <span>Sachin Pavithran was born in India, but grew up in Dubai, in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators at both the federal and state government levels to bring change in policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election processes for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.
       </span>
     </p>
     <p>
@@ -1391,7 +1391,7 @@ created: 1601325079
       <em><span>Director</span></em><br /><span>Center for Civic Design</span>
     </p>
     <p>
-      <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
+      <span>Whitney Quesenbery is the director of the Center for Civic Design, charged with solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
@@ -1476,10 +1476,10 @@ created: 1601325079
       <em><span>Program Analyst</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Avis is a Program Analyst for the Office of Government-wide Policy and GSA. Avis has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, and serves as a Contracting Officer Representative.</span>
+      <span>Avis is a Program Analyst for the Office of Government-wide Policy at GSA and has worked at GSA for a long time. She started out as a summer intern and worked her way up in lateral positions. Avis worked on projects within OGP to help her improve and excel in challenging areas. Her background is budgeting, contracting and administrative duties. She presently serves as Assistant to the Director, for Training Outreach on the IT Accessibility team, and serves as a Contracting Officer Representative.</span>
     </p>
     <p>
-      <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was a perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She soon will be a licensed Massage Therapist in the next few months.</span>
+      <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was a perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She will soon be a licensed Massage Therapist.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
@@ -1513,7 +1513,7 @@ created: 1601325079
       <span>Patrick joined the Department of Veterans Affairs in 1989 as a Computer Specialist and worked within the VA’s IT test facility as an adaptor trainer until 2001. Patrick joined the Section 508 Office in 2001 and is currently the Chief of the 508 Office within the Department of Veterans Affairs and serves as the agency 508 Coordinator.</span>
     </p>
     <p>
-      <span>In this capacity Patrick has the responsibility of leading a team which insures that all electronic and information technology that the VA uses, procures, maintains, or develops meet the requirements of Section 508. This includes the enforcement of the multimedia provisions within the Department to include closed captioning and audio description.  The Departments 508 Office is available to IT professionals, procurement officials, and disabled VA employees to explain what Section 508 is, what disabled employees can expect from the VA regarding access and the VA’s responsibilities under Section 504 and 508.</span>
+      <span>In this capacity Patrick has the responsibility of leading a team which insures that all electronic and information technology that the VA uses, procures, maintains, or develops meet the requirements of Section 508. This includes the enforcement of the multimedia provisions within the Department to include closed captioning and audio description.  The Department's 508 Office is available to IT professionals, procurement officials, and disabled VA employees to explain what Section 508 is, what disabled employees can expect from the VA regarding access and the VA’s responsibilities under Section 504 and 508.</span>
     </p>
     <p>
       <span>Patrick received a BS degree in Computer Science from the University of Maryland and a BA degree from Providence College. He serves on the Board of Directors with the American Council of the Blind working on issues such as transportation access and pedestrian safety for blind and low vision individuals. He has also chaired the Accessibility Advisory Committee for the Washington Metropolitan Area Transit authority (WMATA) for the past 20 years.</span>
@@ -1563,7 +1563,7 @@ created: 1601325079
       <em><span>Information Technology Program Manager, NASA Goddard Space Flight Center</span></em><br /><span>National Aeronautics and Space Administration (NASA)</span>
     </p>
     <p>
-      <span>Ms. Betsy Sirk is an Information Technology and Section 508 Program Manager for NASA with over 35 years of leadership experience in program, project, technical, and acquisition/contract management focused on implementing IT-based solutions to support NASA's mission and the Federal Government. She is the Information and Communication Technology Accessibility Program Manager for the NASA Goddard Space Flight Center, the Chairperson of NASA’s Agency Section 508 Program Managers Working Group, and the Co-Chairperson of the Chief Information Officer Council Accessibility Community of Practice Industry Outreach Program.</span>
+      <span>Ms. Betsy Sirk is an Information Technology and Section 508 Program Manager for NASA with over 35 years of leadership experience in program, project, technical, and acquisition/contract management focused on implementing IT-based solutions to support NASA's mission and the federal government. She is the Information and Communication Technology Accessibility Program Manager for the NASA Goddard Space Flight Center, the Chairperson of NASA’s Agency Section 508 Program Managers Working Group, and the Co-Chairperson of the Chief Information Officers Council Accessibility Community of Practice Industry Outreach Program.</span>
     </p>
     <p>
       <span>Ms. Sirk is a leading expert in developing and acquiring accessible technology and has presented to diverse audiences in multiple venues. Ms. Sirk also leads government-wide strategic sourcing efforts for workstations and mobility solutions as the Strategic Sourcing Program Manager from the NASA Solutions for Enterprise-Wide Procurement (SEWP) Program. Ms. Sirk has received numerous NASA and federal awards for program management and leadership. She graduated Summa Cum Laude from the University of Maryland with a Bachelors degree in Psychology and holds a Masters Degree with Distinction in Computer Science and Management Information Systems from the George Washington University.</span>
@@ -1739,16 +1739,16 @@ created: 1601325079
       <em><span>Chair</span></em><br /><span>Institute of Neurodiversity (ION)</span>
     </p>
     <p>
-      <span>Charlotte Valeur has over 35 years of experience in finance, primarily as an investment banker in Denmark and UK. She is an experienced FTSE Chair, Non-Executive Director and corporate governance expert, serving on a variety of boards – as well as delivering training and advising boards in corporate governance through her company Global Governance Group.</span>
+      <span>Charlotte Valeur has over 35 years of experience in finance, primarily as an investment banker in Denmark and the UK. She is an experienced FTSE Chair, Non-Executive Director and corporate governance expert, serving on a variety of boards – as well as delivering training and advising boards in corporate governance through her company Global Governance Group.</span>
     </p>
     <p>
       <span>Charlotte has been a director of 8 public companies and also has board experience with a range of unlisted companies including international engineering firm Laing O’Rourke, BT Pension Fund and Chair of Institute of Directors U.K.</span>
     </p>
     <p>
-      <span>She is an author and visiting Professor in governance and leadership at University of Strathclyde.</span>
+      <span>She is an author and visiting Professor in governance and leadership at the University of Strathclyde.</span>
     </p>
     <p>
-      <span>Charlotte is an advocate for equality underpinning this with action by founding Not for profit Board Apprentice and the Institute of Neurodiversity.</span>
+      <span>Charlotte is an advocate for equality, underpinning this with action by founding not for profit Board Apprentice and the Institute of Neurodiversity.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
@@ -1800,7 +1800,7 @@ created: 1601325079
       <em><span>Section 508 Program Manager</span></em><br /><span>Pension Benefit Guaranty Corporation (PBGC)</span>
     </p>
     <p>
-      <span>Angela Watkins, a certified Project Manager, has served as the Section 508 Program Manager for Pension Benefit Guaranty Corporation since January 2018. She’s been aware of the goals of accessibility since serving on agency wide team in 2001. Prior to her current role she’s had experience as a Business Representative, Service Desk Manager, Procurement Support, and a Contracting Officer Representative ensuring that products and deliverables she was responsible included Section 508 compliance as a requirement. She serves as the chair of the Section 508 Intra-Agency team comprised of representatives from the agency’s communications, training, human resources, legal, EEO, IT and procurement departments. She and her team have been effective in promoting the message that “Accessibility is Everyone’s Responsibility” in her agency.</span>
+      <span>Angela Watkins, a certified Project Manager, has served as the Section 508 Program Manager for Pension Benefit Guaranty Corporation since January 2018. She’s been aware of the goals of accessibility since serving on an agency-wide team in 2001. Prior to her current role, she’s had experience as a Business Representative, Service Desk Manager, Procurement Support, and a Contracting Officer Representative ensuring that the products and deliverables she was responsible for included Section 508 compliance as a requirement. She serves as the chair of the Section 508 Intra-Agency team comprised of representatives from the agency’s communications, training, human resources, legal, EEO, IT and procurement departments. She and her team have been effective in promoting the message that “Accessibility is Everyone’s Responsibility” in her agency.</span>
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities </span></em></a>
@@ -1870,7 +1870,7 @@ created: 1601325079
       <em><span>Program Analyst</span></em><br /><span>General Services Adminstration (GSA)</span>
     </p>
     <p>
-      <span>Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategy, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled combat Army veteran.</span>
+      <span>Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategies, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled Army combat veteran.</span>
     </p> 
     <p>
       <em><span>Moderator: </span></em> <!--<a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>--> Interagency Accessibility Forum (IAAF)
