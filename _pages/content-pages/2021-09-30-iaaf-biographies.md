@@ -254,6 +254,9 @@ created: 1601325079
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
+    <!-- <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+    </p> -->
   </div>
 </div>
 
@@ -854,6 +857,37 @@ created: 1601325079
   </div>
 </div>
 
+<!-- IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII - IIIII -->
+
+<h2 id="I">
+  <strong>I</strong>
+</h2>
+
+<p style="text-align:right;">
+  <a href="#top">Back to Top</a>
+</p>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-islam.png" alt="Mohamma Islam" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="islam">
+      <strong>Mohammad Islam</strong>
+    </p>
+    <p>
+      <em><span>IT Program Manager</span></em><br /><span>General Services Administration (GSA)</span>
+    </p>
+    <p>
+      <span>Mohammad has been working with the GSA since September 2011. He managed several projects in GSA IT. Before GSA, Mohammad worked about 2 years with National Oceanic and Atmospheric Administration (NOAA) as a Technical Advisor, IT Specialist. There he was a POC/Liaison with the Department of Commerce (DOC). Before NOAA, Mohammad worked with the US Air Force for about 6 years as a Contractor, Technical Advisor/ Technical Lead. There he supported the Undersecretary of Defense, US Congress, AFMC, and OMB. Mohammad loves to travel and explore new places.</span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+    </p>
+  </div>
+</div>
+
 <!-- JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ - JJJJJ -->
 
 <h2 id="J">
@@ -1263,10 +1297,13 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
-    </p>
-    <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
+    </p>
+    <!-- <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+    </p> -->
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1608,13 +1645,13 @@ created: 1601325079
       <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>John Sullivan is the Director of the Government-wide Digital Strategies team within GSA’s Office of Government-wide Policy, which includes serving as the Director of the Government-wide IT Accessibility Program. In this capacity, John leads the effort to provide technical assistance to federal agencies for implementing Section 508 of the Rehabilitation Act. In addition to accessibility, John oversees the DotGov Domain Registration Program for all levels of government and recently oversaw the federal Data Center and Cloud Strategy Optimization Initiative. John has 32 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
+      <span>John Sullivan serves as the Senior Technology Advisor to the GSA Deputy Associate Administrator for Government-wide Policy, providing guidance to agencies implementing federal information technology policy directives.  In this capacity, John advises the Government-wide IT Accessibility Program, which he directed for several years.  John has 33 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
@@ -1873,7 +1910,7 @@ created: 1601325079
       <span>Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategies, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled Army combat veteran.</span>
     </p> 
     <p>
-      <em><span>Moderator: </span></em> <!--<a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>--> Interagency Accessibility Forum (IAAF)
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
 </div>
