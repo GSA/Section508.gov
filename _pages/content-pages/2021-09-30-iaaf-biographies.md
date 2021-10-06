@@ -805,7 +805,7 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jubar.png" alt="Brandon Jubar" />
   </div>
@@ -817,15 +817,13 @@ created: 1601325079
       <em><span>Branch Chief, Quality Management</span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
+      <span>Brandon Jubar has more than 25 years of experience in information technology (IT) contracts, acquisitions, strategic planning, change management, and process improvement. He is the Branch Chief of IT Quality Management at the U.S. Department of Labor (DOL) in the Office of the Chief Information Officer. In the fall of 2019, Brandon was also assigned the role of DOL’s Section 508 Program Manager, tasked with standing up the Department’s first true enterprise-level Section 508 Program Office. He was selected as one of the FCW FED 100 for 2021 because of his work on accessibility and Section 508 compliance at DOL.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK - KKKKK -->
 
@@ -1058,7 +1056,7 @@ created: 1601325079
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowermontgomerylastname">
+    <p id="montgomery">
       <strong>Dr. Rachael Bradley Montgomery</strong>
     </p>
     <p>
@@ -1086,10 +1084,10 @@ created: 1601325079
       <em><span>Program Officer Global Mental Health</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
     <p>
-      <span>Rhonda J. Moore, PhD received her PhD in Cultural and Medical Anthropology at Stanford University and postdoctoral training in Behavioral Science in the Psychiatry Department at Stanford Medical School, in Clinical Ethnography and Epidemiology at the University of Texas MD Anderson Cancer Center, and Hospice/Palliative Care at St. Austell’s in the UK. Her work combines anthropological methods, ethics, data science and clinical medicine to better understand patient experiences and data disparities across culturally and medically diverse care settings (cancer, pain, palliative care, Neurodiversity), gamification, community engaged research, and the differential and ethical impacts of new and emerging technologies  on individuals and communities in vulnerable situations in low resource settings and in low and middle income countries (e.g. AI, Digital Health, etc.,).</span>
+      <span>Rhonda J. Moore, PhD received her PhD in Cultural and Medical Anthropology at Stanford University and postdoctoral training in Behavioral Science in the Psychiatry Department at Stanford Medical School, in Clinical Ethnography and Epidemiology at the University of Texas MD Anderson Cancer Center, and Hospice/Palliative Care at St. Austell’s in the UK. Her work combines anthropological methods, ethics, data science and clinical medicine to better understand patient experiences and data disparities across culturally and medically diverse care settings (cancer, pain, palliative care, Neurodiversity), gamification, community engaged research, and the differential and ethical impacts of new and emerging technologies on individuals and communities in vulnerable situations in low resource settings and in low and middle income countries (e.g. AI, Digital Health, etc.,).</span>
     </p>
     <p>
-      <span>Rhonda is author and editor of the following books: Climate Change and Health Equity (Forthcoming, Springer 2023), Handbook of Pain and Palliative Care (Springer, 2012, 2nd edition, Springer, 2019), Biobehavioral Approaches to Pain (Springer 2009) and Cancer Culture and Communication (Springer 2004). Currently, she is a Program Officer with the Center for Global Mental Health at NIH’s National Institutes of Mental Health (NIMH). Areas of responsibility include Social Drivers of Global Mental Health, ethics of new and emerging technologies, climate change and mental health, citizen science, and Neurodiversity at work. She is the Program lead for the  Digital Global Mental Health program.</span>
+      <span>Rhonda is author and editor of the following books: Climate Change and Health Equity (Forthcoming, Springer 2023), Handbook of Pain and Palliative Care (Springer, 2012, 2nd edition, Springer, 2019), Biobehavioral Approaches to Pain (Springer 2009) and Cancer Culture and Communication (Springer 2004). Currently, she is a Program Officer with the Center for Global Mental Health at NIH’s National Institutes of Mental Health (NIMH). Areas of responsibility include Social Drivers of Global Mental Health, ethics of new and emerging technologies, climate change and mental health, citizen science, and Neurodiversity at work. She is the Program lead for the Digital Global Mental Health program.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
@@ -1153,7 +1151,7 @@ created: 1601325079
       <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is a co-organizer of the annual ICT Accessibility Testing Symposium and continues to serve as a member of its event committee. The Symposium brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as the gold standard for accessibility testing.</span>
+      <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is Co-Chair of the annual ICT Accessibility Testing Symposium, whic brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as a leading practice in accessibility testing.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
@@ -1184,10 +1182,16 @@ created: 1601325079
       <strong>Andrea O'Neal</strong>
     </p>
     <p>
-      <em><span>Senior Advisor to the Administrator for Equity</span></em><br /><span>AGEGeneral Services Administration (GSA)NCY</span>
+      <em><span>Senior Advisor to the Administrator for Equity</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. Andrea is a recognized thought leader in the diversity, equity, inclusion, and accessibility (DEIA) field with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.</span>
+      Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. 
+    </p>
+    <p>
+      Andrea is a recognized thought leader in the diversity, equity, inclusion, and accessibility (DEIA) field with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. 
+    </p>
+    <p>
+      As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote</span></em></a>
@@ -1421,15 +1425,17 @@ created: 1601325079
       <strong>Kimberly Shorter</strong>
     </p>
     <p>
-      <em><span>Program Analyst, CMS Section 508 Program</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span>
+      <em><span>Program Analyst, Section 508 Program Education & Awareness</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span>
     </p>
     <p>
       <span>
-      BIOPARAGRAPH
-      </span>
+      Kimberly Shorter is the Education & Awareness Lead for the CMS Section 508 Program. Kimberly started her federal career at the Social Security Administration in 2009, and has been with CMS since 2012. In her role with the CMS Section 508 Program, Kimberly is responsible for identifying, creating and implementing training and outreach opportunities focusing on accessibility. She has a wealth of experience in project management, information technology, and digital communication strategy.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <span>Kimberly has an MA in Writing from the Johns Hopkins University, a BA in Media Production from Temple University, and is certified as a Project Management Professional by the Project Management Institute.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -1462,6 +1468,27 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-snyder.png" alt="Dr. Joel Snyder" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="snyder">
+      <strong>Dr. Joel Snyder</strong>
+    </p>
+    <p>
+      <em><span>President</span></em><br /><span>Audio Description Associates, LLC</span>
+    </p>
+    <p>
+      <span>Dr. Joel Snyder is known internationally as one of the world’s first “audio describers,” a pioneer in the field of Audio Description, a translation of visual images to vivid language for the benefit, primarily, of people who are blind or have a vision impairment:  the visual is made verbal—and aural, and oral.  Since 1981, he has introduced audio description techniques in over 40 states and 63 countries and has made hundreds of live events, media projects and museums accessible.  In 2014, the American Council of the Blind published Dr. Snyder’s book, The Visual Made Verbal – A Comprehensive Training Manual and Guide to the History and Applications of Audio Description, now available as an audio book voiced by Dr. Snyder, in screen reader accessible formats, in Braille, and in English, Polish, Russian and Portuguese—a Spanish edition will be released in 2021; versions in Italian and Chinese are planned for 2022.  His PhD is from the Universitat Autonoma de Barcelona with a focus on audiovisual translation/audio description.  Dr. Snyder is the President of <a href="https://www.audiodescribe.com" class="session-link">Audio Description Associates, LLC</a> and he serves as the Founder/Senior Consultant of the <a href="https://www.acb.org/adp" class="session-link">Audio Description Project of the American Council of the Blind</a>.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1475,7 +1502,7 @@ created: 1601325079
       <span>John Sullivan is the Director of the Government-wide Digital Strategies team within GSA’s Office of Government-wide Policy, which includes serving as the Director of the Government-wide IT Accessibility Program. In this capacity, John leads the effort to provide technical assistance to federal agencies for implementing Section 508 of the Rehabilitation Act. In addition to accessibility, John oversees the DotGov Domain Registration Program for all levels of government and recently oversaw the federal Data Center and Cloud Strategy Optimization Initiative. John has 32 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
     </p>
   </div>
 </div>
