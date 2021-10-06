@@ -913,6 +913,31 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.png" alt="Axel Lebois" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="lowerlleboisastname">
+      <strong>Axel Leblois</strong>
+    </p>
+    <p>
+      <em><span>President and Executive Director</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ict)</span>
+    </p>
+    <p>
+      <span>
+      Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the board of several publicly traded technology companies.</span>
+    </p>
+    <p>
+      <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leibert.png" alt="Ellen Liebert" />
@@ -1194,7 +1219,7 @@ created: 1601325079
       As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -1254,7 +1279,7 @@ created: 1601325079
       <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em></a> on Day 2
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1285,7 +1310,7 @@ created: 1601325079
       <span>Whitney Quesenbery is the director of the Center for Civic Design, solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote</span></em></a> on Day 1
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1557,7 +1582,7 @@ created: 1601325079
       <strong>James Thurston</strong>
     </p>
     <p>
-      <em><span>Vice President for Global Strategy and Development</span></em><br /><span>G3ict</span>
+      <em><span>Vice President for Global Strategy and Development</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ict)</span>
     </p>
     <p>
       <span>James Thurston is an international technology policy leader.  As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges, ranging from promoting the inclusion and human rights of people with disabilities worldwide to using technology to increase the competitiveness of aging U.S. industrial centers. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government.</span>
