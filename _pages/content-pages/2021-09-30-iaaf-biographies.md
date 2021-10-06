@@ -267,29 +267,25 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
-<!--
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-charlier.png" alt="Lou Charlier" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-charlier.png" alt="Louis Charlier" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="charlier">
-      <strong>Lou Charlier</strong>
+      <strong>Louis Charlier</strong>
     </p>
     <p>
       <em><span>Deputy Chief Information Officer, Office of the Assistant Secretary for Administration and Management </span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
-      <span>
-      BIO GOES HERE
-      </span>
+      <span>Louis Charlier has served in OCIO since 2006 and currently serves as the Deputy Chief Information Officer for Administration and Strategy. He spent the last seven years as the Director of Infrastructure Services (now IT Operations and Services). In that role, he was the principal advisor to OCIO leadership, Departmental executives, and key agency managers for large-scale IT initiatives. He also assisted in the planning, directing, and administering of a comprehensive IT program for the Department that provided tactical day to day leadership, organization stability, and technical expertise.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span> on Day 3</em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome on Day 3</span></em></a>
     </p>
   </div>
 </div>
---> 
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -857,7 +853,7 @@ created: 1601325079
       <span>Sonna Kim is a senior user experience designer at the Consumer Financial Protection Bureau (CFPB), where she has worked as part of the Design and Development team since 2015 to create accessible, user-friendly tools and resources to help educate and empower consumers. Prior to joining the CFPB, she worked as a designer in the private sector for a variety of industries, including financial services, children's publishing, media, consumer electronics, and more. She resides in New York City.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Accessibility Testing at the CFPB: A Case Study</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Web Accessibility at the CFPB</span></em></a>
     </p>
   </div>
 </div>
@@ -879,10 +875,10 @@ created: 1601325079
       <span>Jacob King began his career in disability services as a sign language interpreter, having learned the language at a young age from d/Deaf friends and receiving a degree in interpretation from Gallaudet university.</span>
     </p>
     <p>
-      <span>After 5 years of freelance work, he entered the Federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr King works in IT governance with a focus on data analytics and coordinates heavily with the 508 accessibility governance program.</span>
+      <span>After 5 years of freelance work, he entered the Federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibility Activities</span></em></a>
     </p>
   </div>
 </div>
@@ -910,7 +906,7 @@ created: 1601325079
       <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
     <p>
-      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
@@ -957,7 +953,7 @@ created: 1601325079
       <span>Charles Lindemuth is a skilled graphic designer and artist, and has spent most of his career on the Forest Service with the Chugach National Forest in Alaska.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
     </p>
   </div>
 </div>

@@ -621,7 +621,6 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:50 P.M. – 4:00 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#peters">David Peters,</a></b></span>Chief of the Applications Development and Services Division, Office of the Chief Information Officer, U.S. Census Bureau
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
         </div>
