@@ -322,7 +322,12 @@ created: 1601325079
       <strong>Josh Christianson, M.S.</strong>
     </p>
     <p>
-      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em><br /><span>Department of Labor</span>
+      <em><span>Senior Consultant, Office of Disability Employment Policy (ODEP)</span></em> <br />
+      <span>Department of Labor</span>
+    </p>
+    <p>
+      <em><span>Project Director</span></em> <br />
+      <span>Partnership on Inclusive Apprenticeship</span>
     </p>
     <p>
       <span>
