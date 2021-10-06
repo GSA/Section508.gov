@@ -552,12 +552,12 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
         <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <!--<span class="session-type">title</span><span class="session-description">-->Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span>
+        <!--<span class="session-type">title</span><span class="session-description">--><!--Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span>-->
         <br /> 
-        <div class="speaker-info padding-top-1">
+        <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span>
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> General Services Administration (GSA)
-        </div> 
+        </div> -->
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span>
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
