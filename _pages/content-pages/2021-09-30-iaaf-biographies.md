@@ -968,13 +968,13 @@ created: 1601325079
       <strong>Natalia Lyckowski</strong>
     </p>
     <p>
-      <em><span>Co-Chair, Neurodiversity@IBM Global Business Resource Group</span></em><br /><span>IBM</span>
+      <em><span>Co-Chair, Neurodiversity, IBM Global Business Resource Group</span></em><br /><span>IBM</span>
     </p>
     <p>
       <span>Proudly neurodivergent (and parent of an autistic IT Professional) Nat enables businesses to see the value in embracing ND talent to attain highly skilled and dedicated professionals that may otherwise be overlooked. 1:20 individuals are ND and 1:50 are autistic. This talent pool brings 32% new skills, 66% higher job loyalty, and more, improving corporate citizenship and revenue. Nat has driven culture change, improving trust and allyship through Global Acceptance Training across >30 Countries, Speaking Engagements and other advocacy initiatives. Nat is also experienced with intersectionality across PWD/PWDA, LGBT+, Race, Ethnicity, Gender, and other identity groups. Nat is also a Business Analyst and Application Developer with IBM for over 25 years.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
@@ -1553,7 +1553,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.png" alt="Mark Urban" title="Mark Urban" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">

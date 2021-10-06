@@ -88,11 +88,9 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#carr">Annette Carr</a></b>, </span>Department of Transportation (DOT)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#humphrey">Yolanda Humphrey</a></b>, </span>Internal Revenue Service (IRS)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban</a></b>, </span>Centers for Disease Control and Prevention (CDC)
       </div> 
     </div>
@@ -223,7 +221,7 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">User research is meant to surface and advocate for the voice of the user. But how do you ensure you’re hearing from those not in the majority? IRS’s Office of Online Services is exploring how to broaden user research capabilities for greater inclusivity, especially in accessibility and language proficiency. We’ll share our accessibility-beyond-compliance mindset and rationales; roadmap for creating inclusive user research practice; early-stage practical tips; and suggestions for measuring progress. Audience discussion welcome.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#watkins">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
