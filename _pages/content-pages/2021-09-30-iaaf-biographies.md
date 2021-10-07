@@ -678,7 +678,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-goldstein.png" alt="Lindsay Goldstein" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-goldstein.png" alt="Lindsay Goldstein" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="goldstein">
@@ -1368,9 +1368,6 @@ created: 1601325079
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
-    </p>
   </div>
 </div>
 
@@ -1431,6 +1428,9 @@ created: 1601325079
     </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
