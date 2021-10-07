@@ -73,7 +73,7 @@ created: 1600981839
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK A --> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1a">
-      <div class="brown-breakout-header">Track A: Lead Our Agencies Towards Access</div>
+      <div class="brown-breakout-header">Track A: Lead Our Agencies Toward Access</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm" >Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn the steps to the accessibility dance.  Experts from Civil Rights, 508, IT, procurement and Reasonable accommodations will lead a discussion of the importance of collaboration and networking across disciplines to ensure accessibility for all.  Successes and challenges for filling your agency’s accessibility dance card will be shared. You will leave with tips on when to tap, clog, waltz, and do a little shimmy to make your agency the hip-hopping accessibility place to work.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
@@ -118,7 +118,7 @@ created: 1600981839
     <!-- BEGIN DAY 1 SESSION 1 TRACK C --> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d1bs1c">
       <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for Federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both Federal Agencies and Industry will be shared.</span> 
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both federal agencies and industry will be shared.</span> 
      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#haileselassie">Antonio Haileselassie</a></b>, </span> National Aeronautics and Space Administration (NASA)
@@ -217,7 +217,7 @@ created: 1600981839
       <!-- BEGIN DAY 1 SESSION 3 TRACK A -->
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs3a">Track A: Lead Our Agencies Towards Access</div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">User research is meant to surface and advocate for the voice of the user. But how do you ensure you’re hearing from those not in the majority? IRS’s Office of Online Services is exploring how to broaden user research capabilities for greater inclusivity, especially in accessibility and language proficiency. We’ll share our accessibility-beyond-compliance mindset and rationales; roadmap for creating inclusive user research practice; early-stage practical tips; and suggestions for measuring progress. Audience discussion welcome.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Design Demands Inclusive User Research: How to Develop Equitable Research and Testing Opportunities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">User research is meant to surface and advocate for the voice of the user. But how do you ensure you’re hearing from those not in the majority? IRS’s Office of Online Services is exploring how to broaden user research capabilities for greater inclusivity, especially in accessibility and language proficiency. We’ll share our accessibility-beyond-compliance mindset and rationales; roadmap for creating inclusive user research practice; early-stage practical tips; and suggestions for measuring progress. Audience discussion welcome.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#watkins">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
@@ -233,7 +233,7 @@ created: 1600981839
       <!-- BEGIN DAY 1 SESSION 3 TRACK B -->
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs3b">Track B: Create Amazing Content</div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Web Accessibility at the CFPB</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The CFPB maintains a large public-facing website at www.consumerfinance.gov. Its design and development team is tasked with ensuring Section 508 compliance so that its content is accessible to all, a challenge given the large number of pages and diversity of content. This talk will present strategies used to meet this challenge, including creation of a design system and use of free, open-source automated accessibility testing tools.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Web Accessibility at the CFPB</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The CFPB maintains a large public-facing website at www.consumerfinance.gov. Its design and development team is tasked with ensuring Section 508 compliance so that its content is accessible to all, a challenge given the large number of pages and the diversity of content. This talk will present strategies used to meet this challenge, including creation of a design system and use of free, open-source automated accessibility testing tools.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#borowicz">Kimberly Borowicz</a></b></span> Department of Labor (DOL)
@@ -263,7 +263,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deupaty Associate Administrator
+        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deupaty Associate Administrator, General Services Administration (GSA)
       </div>
     </div> 
   </div> 
@@ -339,10 +339,10 @@ created: 1600981839
     </div>
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
       <div class="brown-breakout-header" id="d2bs1a">Track A: Lead Our Agencies Towards Access</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Neurodiversity at Work: Creating Inclusive Work Futures</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Many people with neurological conditions such as autism spectrum disorder and dyslexia have exceptional skills, including in pattern recognition, memory, and mathematics. Yet they often struggle to fit the profiles sought by employers  and estimates for unemployment for neurodivergent adults range as high as 80% to 85% (HBR 2017). While a growing number of companies are also refining HR processes to hire neurodiverse talent, there are many barriers and more work needs to be done.  This panel will briefly discuss the needs for neurodiversity at work programs, what has worked, as well as, gaps and strategies for mainstreaming based on neurodiverse-led efforts as the future for  creating holistic  inclusive workplaces.</span> 
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Neurodiversity at Work: Creating Inclusive Work Futures</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Many people with neurological conditions such as autism spectrum disorder and dyslexia have exceptional skills, including pattern recognition, memory, and mathematics. Yet they often struggle to fit the profiles sought by employers  and estimates for unemployment for neurodivergent adults range as high as 80% to 85% (HBR 2017). While a growing number of companies are also refining HR processes to hire neurodiverse talent, there are many barriers and more work needs to be done.  This panel will briefly discuss the needs for neurodiversity at work programs, what has worked, as well as, gaps and strategies for mainstreaming based on neurodiverse-led efforts as the future for  creating holistic  inclusive workplaces.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span>TBD
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span>National Institutes of Health (NIH)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
@@ -377,7 +377,7 @@ created: 1600981839
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d2bs1c">
       <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
-      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Enhancing Accessibility: AI and Machine Learning</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, or AI, is often referred to as the driver of the 4th Industrial revolution, is making unprecedented breakthroughs and is evolving at an exponential rate. My topic will be on AI for Accessibility: 5 ways AI is breaking down barriers, increasing accessibility, and creating a more inclusive internet/web.</span> 
+      <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Enhancing Accessibility: AI and Machine Learning</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, or AI, often referred to as the driver of the 4th Industrial revolution, is making unprecedented breakthroughs and is evolving at an exponential rate. This session will focus on AI for Accessibility: 5 ways AI is breaking down barriers, increasing accessibility, and creating a more inclusive internet/web.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#shorter">Kimberly Shorter,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
@@ -411,7 +411,7 @@ created: 1600981839
         <div class="brown-breakout-header" id="d2bs2a">
           Track A: Lead Our Agencies Towards Access
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from Task-based Programs to a Safe, Accessible, Functional, Engaging (SAFE) Work-life for Federal Staff with Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span><br> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">David Whittington,</a></b> </span> Census Bureau
@@ -426,7 +426,7 @@ created: 1600981839
         <div class="brown-breakout-header" id="d2bs2b">
           Track B: Create Amazing Content
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: Prioritizing Documents for Remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that allowed ONRR to get the most used documents conformant first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> Office of Natural Resources Revenue (ONRR)
