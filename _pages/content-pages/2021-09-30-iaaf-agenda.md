@@ -154,10 +154,10 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs2a">Track A: Lead Our Agencies Towards Access</div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This session will focus on how inclusive apprenticeships can drive access to career paths for diverse job seekers with disabilities. It will highlight the Partnership on Inclusive Apprenticeship (PIA) and its work to advance apprenticeships in high-growth, high-demand fields, such as information technology, cybersecurity, clean and renewable energy, and healthcare. The session will also share PIA's resources that help employers and industry intermediaries increase access to support and foster Universal Design, and adopt accessible technology.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD</a></b>, </span>General Services Administration (GSA)
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#komissarenko">Jennifer Komissarenko</a></b>, </span>Department of Labor (DOL)
+        </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#christianson">Josh Christianson,</a></b> </span> Department of Labor (DOL)
@@ -416,10 +416,10 @@ created: 1600981839
           Track A: Lead Our Agencies Towards Access
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-        </div> --> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">David Whittington,</a></b> </span> Census Bureau
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span><br> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie Fuoco,</a></b> </span> Environmental Protection Agency (EPA)

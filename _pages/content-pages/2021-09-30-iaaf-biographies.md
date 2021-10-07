@@ -1983,6 +1983,27 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.png" alt="David Whittington" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="whittington">
+      <strong>David Whittington</strong>
+    </p>
+    <p>
+      <em><span>Section 508 Subject Matter Expert</span></em><br /><span>U.S. Census Bureau</span>
+    </p>
+    <p>
+      <span>David Whittington currently works for the US Census Bureau in the Application Development and Services Division (ADSD) as a Section 508 Subject Matter Expert where he helps administer enterprise Section 508 governance and training for the Bureau. Prior to joining the agency, he worked for the Defense Information Systems Agency (DoD-DISA) where he was a Test Director, helping the US military develop, maintain and operate mission critical Information Systems for the warfighter. Before that, he served as a QA Manager for Northrop Grumman where he helped establish Agile development best practices.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2"><em><span>Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-wilkes.png" alt="Martha Wilkes" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
