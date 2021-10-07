@@ -81,7 +81,7 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm" >Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn the steps to the accessibility dance.  Experts from Civil Rights, 508, IT, procurement and Reasonable accommodations will lead a discussion of the importance of collaboration and networking across disciplines to ensure accessibility for all.  Successes and challenges for filling your agency’s accessibility dance card will be shared. You will leave with tips on when to tap, clog, waltz, and do a little shimmy to make your agency the hip-hopping accessibility place to work.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#avis">TBD</a></b>,</span> General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#ryan">Avis Ryan</a></b>,</span> General Services Administration (GSA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
@@ -193,10 +193,6 @@ created: 1600981839
         Open Product Accessibility Template (OPAT) will develop a digital native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
-        </div> 
-        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -382,13 +378,13 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d2bs1c">
       <div class="brown-breakout-header">Track C: Buy and Manage Compliance</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Enhancing Accessibility: AI and Machine Learning</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, or AI, is often referred to as the driver of the 4th Industrial revolution, is making unprecedented breakthroughs and is evolving at an exponential rate. My topic will be on AI for Accessibility: 5 ways AI is breaking down barriers, increasing accessibility, and creating a more inclusive internet/web.</span> 
-      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
-      </div> --> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#shorter">Kimberly Shorter,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
+      </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span>General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span> Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD</a> </b> </span>General Services Administration (GSA)
@@ -453,10 +449,10 @@ created: 1600981839
           Track C: Buy and Manage Compliance
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Adopting and Aligning to the ICT Testing Baseline</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How can an agency prepare to align to the ICT Testing Baseline and/or adopt a Baseline-aligned test process? This presentation will discuss the <a href="https://ictbaseline.access-board.gov/" class="session-link">ICT Accessibility Testing Baseline Portfolio</a> and provide updates on progress and ongoing efforts related to the portfolio. Presenters will also discuss the benefits of adopting and implementing a Baseline-aligned test process in their agencies along with suggestions for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
+        </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)

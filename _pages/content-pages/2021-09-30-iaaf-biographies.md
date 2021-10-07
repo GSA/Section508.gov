@@ -137,7 +137,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a Machine-Readable ACR</span></em></a>
     </p>
   </div>
 </div>
@@ -638,7 +638,7 @@ created: 1601325079
     <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn, and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a Machine-Readable ACR</span></em></a>
     </p>
   </div>
 </div>
@@ -874,7 +874,10 @@ created: 1601325079
     <p>
       <span>Michael Horton is an accessibility and technology professional with over 25 years of experience in website and web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and advocate who joined the General Services Administration, Office of Government-wide Policy’s IT Accessibility Program in August 2018 as an Accessible Design and Development Advisor supporting agencies in their efforts to ensure independence and the dignity of work for people with disabilities. Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and also enjoyed twelve years with America Online (AOL) as a software/web engineer, partner advocate, online community standards policy and compliance specialist, and creator of member education. </span>
     </p>
-<p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a Machine-Readable ACR</span></em></a>
+    </p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
   </div>
@@ -950,18 +953,18 @@ created: 1601325079
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="johnson">
-      <strong>Antoinette  Johnson</strong>
+      <strong>Antoinette Johnson</strong>
     </p>
     <p>
       <em><span>Section 508 Program Manager</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span></span>
     </p>
-    <p>
+    <!-- <p>
       <span>
       BIOPARAGRAPH
       </span>
-    </p>
+    </p> -->
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
   </div>
 </div>
@@ -1316,7 +1319,7 @@ created: 1601325079
       <em><span>Section 508 Program Manager, National Cancer Institute (NCI)</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
     <p>
-      <span>Gary M.  Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="http://508.nih.gov/" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
+      <span>Gary M. Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="http://508.nih.gov/" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
       </span>
     </p>
     <p>
@@ -1330,6 +1333,9 @@ created: 1601325079
     </p>
     <p>
       <span>Outside of the NIH, he finds great joy spending time with his 4-year-old granddaughter, seeks dead people in family history research, and loves a good film noir or classic, black-and-white horror flic.  His most recent recognition includes <a href="https://www.edi.nih.gov/people/sep/pwd/disability-awareness-2020/awards" class="session-link" target="_blank">NIH EDI’s 2020 NIH Champions and Allies of Disability Awardees</a> and <a href="https://www.edi.nih.gov/people/sep/lgbti/pride-2020" class="session-link" target="_blank">NIH EDI’s 20 profiles for 2020: Celebrating LGBT community Diversity at NIH and Beyond</a>.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
@@ -1670,7 +1676,7 @@ created: 1601325079
       <span>Kimberly has an MA in Writing from the Johns Hopkins University, a BA in Media Production from Temple University, and is certified as a Project Management Professional by the Project Management Institute.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Modertor: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
     </p>
   </div>
 </div>
@@ -1996,7 +2002,7 @@ created: 1601325079
       <span>David Whittington currently works for the US Census Bureau in the Application Development and Services Division (ADSD) as a Section 508 Subject Matter Expert where he helps administer enterprise Section 508 governance and training for the Bureau. Prior to joining the agency, he worked for the Defense Information Systems Agency (DoD-DISA) where he was a Test Director, helping the US military develop, maintain and operate mission critical Information Systems for the warfighter. Before that, he served as a QA Manager for Northrop Grumman where he helped establish Agile development best practices.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2"><em><span>Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2"><em><span>Moving from task based programs to a safe, Accessible, functional, engaging (SAFE) Work-life for federal staff with disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -2018,6 +2024,29 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-komissarenko.png" alt="Jennifer Komissarenko" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="komissarenko">
+      <strong>Jennifer Komissarenko</strong>
+    </p>
+    <p>
+      <em><span>Information Technology Specialist</span></em><br /><span>Department of Labor (DOL)</span>
+    </p>
+    <p>
+      <span>
+      Jennifer Komissarenko is an IT Specialist on the Section 508 team within the Office of the Assistant Secretary for Administration & Management (OASAM) at the Department of Labor (DOL). For the past year I have enjoyed making an impact with my team and highlighting disability causes while making DOL, and this world, a more inclusive place for everyone!
+      </span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
     </p>
   </div>
 </div>
@@ -2092,7 +2121,7 @@ created: 1601325079
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
     </p>
   </div>
 </div>
