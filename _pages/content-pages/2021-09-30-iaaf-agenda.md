@@ -561,8 +561,21 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <!-- <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#briscoe">Name</a></b></span> Title -->
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">description.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">description.</span>
+        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight">Moderator:</span> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Adminsitration (GSA)
+        </div> -->
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight">Panelists:</span> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#cregan">Tim Creagan,</a></b></span> U.S. Access Board
+        </div>
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)
+        </div>
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Adminsitration (GSA)
+        </div> 
       </div>
     </div>
     <div class="grid-row break">
