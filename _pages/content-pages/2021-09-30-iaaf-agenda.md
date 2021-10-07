@@ -313,7 +313,7 @@ created: 1600981839
       <span class="session-type">International Digital Accessibilities Activities</span> <!-- <span class="session-description"> DESCRIPTION HERE</span> -->
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#king">Jacob King,</a></b></span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#king">Jacob King, </a></b></span>Department of Health and Human Services (HHS)
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
@@ -352,7 +352,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#stassun">Keivan Stassun Moore,</a></b></span> Vanderbilt University School of Engineering
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#stassun">Keivan Stassun,</a></b></span> Vanderbilt University School of Engineering
       </div>     
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#valeur">Charlotte Valeur,</a></b></span> Global Governance Group, UK
@@ -384,7 +384,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span> Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD</a> </b> </span>General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
       </div>
       <!-- HIDE DOWNLOAD
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -455,7 +455,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#neilson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b></span> General Services Administration (GSA)
@@ -505,7 +505,7 @@ created: 1600981839
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#sheehan">Pat Sheehan,</a></b></span> Department of Veteran Affairs (VA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Joel Snyder,</a></b></span> Audio Description Associates, LLC
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Dr. Joel Snyder,</a></b></span> Audio Description Associates, LLC
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -537,7 +537,7 @@ created: 1600981839
   <!-- DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 - DAY 3 -->
 
 
-  <div class="program-header margin-bottom-2" id="progday3">
+  <div class="program-header margin-bottom-2" id="progday3"><br>
     <b><span class="text-large">PROGRAM</span> Day 3/Thursday, October 14th</b>
   </div>
   <div class="agenda usa-graphic-list__row container" id="day3">

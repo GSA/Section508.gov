@@ -1751,11 +1751,11 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-small.png" alt="Kimberly Small" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-small.png" alt="Elizabeth Small" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="small">
-      <strong>Kimberly Small</strong>
+      <strong>Elizabeth Small</strong>
     </p>
     <!-- <p>
       <em><span>TITLE</span></em><br /><span>AGENCY</span>
