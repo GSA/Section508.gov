@@ -1077,9 +1077,9 @@ created: 1601325079
 </p>
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-laurin.png" alt="Susanna Laurin" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.png" alt="Susanna Laurin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
@@ -1089,14 +1089,13 @@ created: 1601325079
       <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
     <p>
-    <p>
-      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, and the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
