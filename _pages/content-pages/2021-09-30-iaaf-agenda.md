@@ -622,13 +622,13 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span><br> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brooks">Dexter Brooks,</a></b></span> <span>Equal Employment Opportunity Commission (EEOC)</span>
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea O'Neal,</a></b></span> <span>General Services Administration (GSA)</span>
         </div>
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk,</a></b></span> National Aeronautics and Space Administration (NASA)
         </div>            
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
