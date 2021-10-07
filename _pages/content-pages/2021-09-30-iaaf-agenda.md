@@ -34,11 +34,8 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design<br><br>
-      <!--<div class="speaker-info padding-top-1">
-        <span class="session-type text-highlight">Moderator:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-      </div>-->
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pomeroy">Daniel Pomeroy,</a></b> </span>Deputy Associate Administrator, Office of Information Integrity and Access, General Services Administration (GSA)<br><br>
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
     </div>
   </div>
   
@@ -426,15 +423,12 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#faied">Maroya Faied,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
-        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
-        </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
@@ -557,7 +551,7 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm"><!-- description goes here --></span>
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental  part of what the government stands for in supporting its employees and the American public. Today you will get a brief look at that foundation....it's past and it's present and it's future.</span>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Adminsitration (GSA)

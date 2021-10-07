@@ -317,7 +317,7 @@ created: 1601325079
       <span>Ms. Campbell earned a Dual Global Executive MBA from Georgetown’s McDonough School of Business and ESADE Business & Law School. She also holds a BS in Information Systems Management from the University of Maryland and is the wife of Stanley Campbell and mother of three sons, Christopher, Alan and Stanley III.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Openin Remarks</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
     </p>
   </div>
 </div>
@@ -1488,9 +1488,9 @@ created: 1601325079
     <p>
       <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
     </p>
-    <!--<p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
-    </p>--
+    <p>
+      <em><span>Introduction: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
+    </p>
   </div>
 </div>
 
@@ -1740,9 +1740,6 @@ created: 1601325079
     </p>-->
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to support cognitive and learning disabilities</span></em></a>
-    </p>
-    <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
