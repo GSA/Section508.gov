@@ -26,7 +26,7 @@ created: 1601325079
 <!---
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-.png" alt="" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-.png" alt="" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lowerlastname">
@@ -49,7 +49,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aguh.png" alt="Chike Aguh" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-aguh.png" alt="Chike Aguh" />
   </div>
   <!-- NEW BIO -->
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -83,7 +83,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.png" alt="Broke Aiken" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-aiken.png" alt="Broke Aiken" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="aiken">
@@ -122,7 +122,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-azeem.png" alt="Syed Azeed" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-azeem.png" alt="Syed Azeed" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="azeem">
@@ -155,7 +155,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bradford.png" alt="Lorena Bradford" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-bradford.png" alt="Lorena Bradford" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bradford">
@@ -177,7 +177,7 @@ created: 1601325079
 <!--
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bradley.png" alt="Rachel Bradley" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-bradley.png" alt="Rachel Bradley" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bradley">
@@ -200,7 +200,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-brumfield.png" alt="Krystal Brumfield" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-brumfield.png" alt="Krystal Brumfield" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="brumfield">
@@ -233,7 +233,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-brunson.png" alt="Arthur Brunson" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-brunson.png" alt="Arthur Brunson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="brunson">
@@ -273,7 +273,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-carr.png" alt="Annette Carr" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-carr.png" alt="Annette Carr" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="carr">
@@ -295,7 +295,7 @@ created: 1601325079
 <!-- 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-center.png" alt="Jennifer Center" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-center.png" alt="Jennifer Center" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="center">
@@ -316,7 +316,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-charlier.png" alt="Louis Charlier" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-charlier.png" alt="Louis Charlier" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="charlier">
@@ -337,7 +337,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-chosak.png" alt="Andy Chosak" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-chosak.png" alt="Andy Chosak" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="chosak">
@@ -358,7 +358,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-christianson.png" alt="Josh Christianson, M.S." />
+    <img src="https://assets.section508.gov/files/bio-images/bio-christianson.png" alt="Josh Christianson, M.S." />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="christianson">
@@ -395,7 +395,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-creagan.png" alt="Tim Creagan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="creagan">
@@ -442,7 +442,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-duckworth.png" alt="Senator Tammy Duckworth" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-duckworth.png" alt="Senator Tammy Duckworth" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -473,7 +473,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-eng.png" alt="Katherine Eng" title="Katherine Eng" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-eng.png" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -504,7 +504,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-farraj-faied.png" alt="Mayora Faied" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-farraj-faied.png" alt="Mayora Faied" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -526,7 +526,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.png" alt="Angie Fuoco" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-fuoco.png" alt="Angie Fuoco" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fuoco">
@@ -557,7 +557,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.png" alt="Yvette Gibson" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-gibson.png" alt="Yvette Gibson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gibson">
@@ -578,7 +578,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gifford.png" alt="Mike Gifford" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-gifford.png" alt="Mike Gifford" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gifford">
@@ -601,7 +601,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-golstein.png" alt="Lindsay Goldstein" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-golstein.png" alt="Lindsay Goldstein" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="goldstein">
@@ -622,7 +622,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gordy.png" alt="John Gordy" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-gordy.png" alt="John Gordy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gordy">
@@ -643,7 +643,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-green.png" alt="Bess Green" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-green.png" alt="Bess Green" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="green">
@@ -674,7 +674,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-haileselassie.png" alt="Antonio Haileselassie" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-haileselassie.png" alt="Antonio Haileselassie" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="haileselassie">
@@ -695,7 +695,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hapner.png" alt="Bridget Hapner" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-hapner.png" alt="Bridget Hapner" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="hapner">
@@ -718,7 +718,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harding.png" alt="Stephen Harding" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-harding.png" alt="Stephen Harding" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="harding">
@@ -743,32 +743,32 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hetrick.png" alt="Daniel Hetrick" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-harward.png" alt="Antonia Harward" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="hetrick">
-      <strong>Daniel Hetrick</strong>
+    <p id="harward">
+      <strong>Antonia Harward</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>National Security Agency (NSA)</span>
+      <em><span>Consultant to the GSA Office of Goverment-wide Policy</span></em><br /><span>eGlobalTech Inc.</span>
     </p>
-    <p>
+    <!-- <p>
       <span>
       BIOPARAGRAPH
       </span>
-    </p>
+    </p> -->
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-heumann.png" alt="Judith E. Heumann" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-heumann.png" alt="Judith E. Heumann" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="heumann">
@@ -816,7 +816,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.png" alt="Michael Horton" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-horton.png" alt="Michael Horton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -838,7 +838,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.png" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-humphrey.png" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -870,7 +870,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-islam.png" alt="Mohamma Islam" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-islam.png" alt="Mohamma Islam" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="islam">
@@ -900,7 +900,7 @@ created: 1601325079
 
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-johnston.jpg" alt="Esubalew (Ethan) Johnston" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-johnston.jpg" alt="Esubalew (Ethan) Johnston" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -922,7 +922,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jubar.png" alt="Brandon Jubar" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-jubar.png" alt="Brandon Jubar" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="jubar">
@@ -953,7 +953,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kim.png" alt="Sonna Kim" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-kim.png" alt="Sonna Kim" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kim">
@@ -975,7 +975,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-king.png" alt="Jacob King" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-king.png" alt="Jacob King" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="king">
@@ -1009,7 +1009,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.png" alt="Susanna Laurin" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-laurin.png" alt="Susanna Laurin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
@@ -1030,7 +1030,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.png" alt="Axel Lebois" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-leblois.png" alt="Axel Lebois" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lowerlleboisastname">
@@ -1055,7 +1055,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leibert.png" alt="Ellen Liebert" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-leibert.png" alt="Ellen Liebert" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="liebert">
@@ -1078,7 +1078,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-lindemuth.png" alt="Charles Lindemuth" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-lindemuth.png" alt="Charles Lindemuth" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lindemuth">
@@ -1099,7 +1099,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-lyckowski.png" alt="Natalia Lyckowski" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-lyckowski.png" alt="Natalia Lyckowski" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lyckowski">
@@ -1130,7 +1130,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manak.png" alt="Meli S. Manak" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-manak.png" alt="Meli S. Manak" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="manak">
@@ -1151,7 +1151,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-mcgowan.png" alt="Brianna McGowan" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-mcgowan.png" alt="Brianna McGowan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="mcgowan">
@@ -1172,7 +1172,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-mcharg.png" alt="Shannon McHarg" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-mcharg.png" alt="Shannon McHarg" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="mcharg">
@@ -1193,7 +1193,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="montgomery">
@@ -1214,7 +1214,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.png" alt="Rhonda Moore" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-moore.png" alt="Rhonda Moore" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="moore">
@@ -1238,7 +1238,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-morin.png" alt="Gary Morin" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-morin.png" alt="Gary Morin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="morin">
@@ -1248,11 +1248,11 @@ created: 1601325079
       <em><span>Section 508 Program Manager, National Cancer Institute (NCI)</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
     <p>
-      <span>Gary M.  Morin joined the National Cancer Institute’s Office of Communications and Public Liaison (OCPL) as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s Office on Equity, Diversity, and Inclusion (EDI) (2001 – 2008) and the Office of the Chief Information Officer (2008 - 2020).
+      <span>Gary M.  Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="http://508.nih.gov/" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
       </span>
     </p>
     <p>
-      <span>Gary joined the NIH as a Sign Language Interpreter, in 1993.  Throughout the 1990s, he coordinated NIH interpreting services and he trained ASL interpreters across the US to facilitate communication in healthcare settings.  He was also actively involved with HHS’s Shared Neutrals, mediating conflict resolution in agencies across the federal government, with an emphasis on reasonable accommodations.  With the onset of Section 508, he quickly saw and embraced the potential of accessible of Information and Communication Technology.</span>
+      <span>Gary joined the NIH as a Sign Language Interpreter, in 1993.  Throughout the 1990s, he coordinated NIH interpreting services and he trained ASL interpreters across the US to facilitate communication in healthcare settings.  He was also actively involved with <a href="https://www.fmcs.gov/sharedneutrals/" class="session-link" target="_blank">HHS’s Shared Neutrals</a>, mediating conflict resolution in agencies across the federal government, with an emphasis on reasonable accommodations.  With the onset of Section 508, he quickly saw and embraced the potential of accessible of Information and Communication Technology.</span>
     </p>
     <p>
       <span>Gary sees the role of accessible technology as a means of enabling employees with disabilities to perform to their greatest potential and as part of an institutional responsibility and strategy to address healthcare disparities experienced by persons with disabilities.  Section 508 of the Rehabilitation Act is more than a law – it’s a means to address barriers to employment and to better healthcare outcomes.  Since the law’s implementation, he has been one of NIH’s few agency-wide subject matter experts for the coordination and implementation of Section 508 of the Rehabilitation Act of 1973, as Amended, and its integration with both business ICT and digital content, as well as the role of assistive technology (AT).</span>
@@ -1261,7 +1261,7 @@ created: 1601325079
       <span>Gary is Vice-Chair of ABILITIES, NIH’s employee resource group for persons with disabilities and allies; he is equally active with the NIH Deaf and Hard-of-Hearing community.  For the last couple of years, he has also become more and more fascinated with audio-description and is now involved in the American Council of the Blind’s Audio Description Project and sits on the ADP’s Section 508 subcommittee.</span>
     </p>
     <p>
-      <span>Outside of the NIH, he finds great joy spending time with his 4-year-old granddaughter, seeks dead people in family history research, and loves a good film noir or classic, black-and-white horror flic.  His most recent recognition includes NIH EDI’s 2020 NIH Champions and Allies of Disability Awardees and NIH EDI’s 20 profiles for 2020: Celebrating LGBT community Diversity at NIH and Beyond.</span>
+      <span>Outside of the NIH, he finds great joy spending time with his 4-year-old granddaughter, seeks dead people in family history research, and loves a good film noir or classic, black-and-white horror flic.  His most recent recognition includes <a href="https://www.edi.nih.gov/people/sep/pwd/disability-awareness-2020/awards" class="session-link" target="_blank">NIH EDI’s 2020 NIH Champions and Allies of Disability Awardees</a> and <a href="https://www.edi.nih.gov/people/sep/lgbti/pride-2020" class="session-link" target="_blank">NIH EDI’s 20 profiles for 2020: Celebrating LGBT community Diversity at NIH and Beyond</a>.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
@@ -1281,7 +1281,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.png" alt="Andrew Nielson" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-nielson.png" alt="Andrew Nielson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="nielson">
@@ -1321,7 +1321,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-oneal.png" alt="Andrea O&#39;Neal" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-oneal.png" alt="Andrea O&#39;Neal" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="oneal">
@@ -1358,7 +1358,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pavithran.png" alt="Sachin Pavithran" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-pavithran.png" alt="Sachin Pavithran" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pavithran">
@@ -1380,7 +1380,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.png" alt="Daniel Pomeroy" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-pomeroy.png" alt="Daniel Pomeroy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pomeroy">
@@ -1418,7 +1418,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-quesenbery.png" alt="Whitney Quesenbery" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-quesenbery.png" alt="Whitney Quesenbery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="quesenbery">
@@ -1449,7 +1449,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-raghu.png" alt="Maya Raghu" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-raghu.png" alt="Maya Raghu" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="raghu">
@@ -1474,7 +1474,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.png" alt="Scott Michael Robertson, PhD" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-robertson.png" alt="Scott Michael Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1502,7 +1502,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.png" alt="Avis Ryan" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-ryan.png" alt="Avis Ryan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1537,7 +1537,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sheehan.png" alt="Patrick Sheehan" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-sheehan.png" alt="Patrick Sheehan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sheehan">
@@ -1564,7 +1564,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-shorter.png" alt="Kimberly Shorter" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-shorter.png" alt="Kimberly Shorter" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="shorter">
@@ -1589,7 +1589,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.png" alt="Betsy Sirk" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-sirk.png" alt="Betsy Sirk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1614,7 +1614,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-snyder.png" alt="Dr. Joel Snyder" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-snyder.png" alt="Dr. Joel Snyder" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="snyder">
@@ -1635,7 +1635,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
@@ -1672,7 +1672,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-tenbrink.png" alt="Ronna ten Brink" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-tenbrink.png" alt="Ronna ten Brink" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="tenbrink">
@@ -1702,7 +1702,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.png" alt="James Thurston" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-thurston.png" alt="James Thurston" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="thurston">
@@ -1732,7 +1732,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.png" alt="Mark Urban" title="Mark Urban" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-urban.png" alt="Mark Urban" title="Mark Urban" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">
@@ -1766,7 +1766,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-valeur.png" alt="Charolette Valeur" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-valeur.png" alt="Charolette Valeur" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="valeur">
@@ -1806,7 +1806,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-walden.png" alt="Alcora Walden" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-walden.png" alt="Alcora Walden" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="walden">
@@ -1827,7 +1827,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-watkins.png" alt="Angela Watkins" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-watkins.png" alt="Angela Watkins" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="watkins">
@@ -1848,7 +1848,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-wilkes.png" alt="Martha Wilkes" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-wilkes.png" alt="Martha Wilkes" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="wilkes">
@@ -1869,7 +1869,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.png" alt="Taryn Mackinzie Williams" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-williams.png" alt="Taryn Mackinzie Williams" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="williams">
@@ -1897,7 +1897,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-wilson.png" alt="Alex Wilson" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-wilson.png" alt="Alex Wilson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="wilson">
@@ -1926,7 +1926,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-zaragoza.png" alt="Pia Zaragoza" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-zaragoza.png" alt="Pia Zaragoza" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="zaragoza">
