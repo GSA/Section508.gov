@@ -971,26 +971,6 @@ created: 1601325079
     </p>
   </div>
 </div>
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-johnston.jpg" alt="Esubalew (Ethan) Johnston" />
-  </div>
-  
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="johnston">
-      <strong>Esubalew (Ethan) Johnston</strong>
-    </p>
-<p>
-      <em><span>TITLEGOESHERE</span></em><br /><span>Social Security Administration (SSA)</span>
-    </p>
-<p>
-      <span>BIOGOESHERE</span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
-    </p>
-  </div>
-</div> -->
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -1825,9 +1805,6 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
