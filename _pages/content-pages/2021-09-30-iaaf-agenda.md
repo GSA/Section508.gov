@@ -617,11 +617,11 @@ created: 1600981839
         <span class="session-type">Ask the Expert</span> 
         <!-- <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> -->
         <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Moderator:</span><br> 
+          <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Panelists:</span><br> 
+          <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea O'Neal,</a></b></span> <span>General Services Administration (GSA)</span>
         </div>
         <div class="speaker-info padding-top-1">
