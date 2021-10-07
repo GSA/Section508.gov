@@ -114,7 +114,7 @@ created: 1601325079
       <span>Brooke holds a Bachelor’s degree in Human Environmental Services from the University of Alabama.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
   </div>
 </div>
@@ -299,9 +299,9 @@ created: 1601325079
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
-    <!-- <p>
+    <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
-    </p> -->
+    </p>
   </div>
 </div>
 
@@ -480,14 +480,10 @@ created: 1601325079
       <em><span>Senior Accessibility Specialist/Information Technology</span></em><br /><span>U.S. Access Board</span>
     </p>
     <p>
-      <span>
-      Mr. Creagan is a senior accessibility specialist with the U.S. Access Board. The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.</span>
+      <span>Mr. Creagan is a senior accessibility specialist with the U.S. Access Board.</span>
     </p>
     <p>
-      <span>Mr. Creagan is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.</span>
-    </p>
-    <p>
-      <span>Mr. Creagan provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications.</span>
+      <span>He provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications. He is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.</span>
     </p>
     <p>
       <span>Mr. Creagan joined the U.S. Access Board in 2006 to lead the team revising the Board’s existing standards and guidelines for electronic and communication technologies. He served as the Designated Federal Official (DFO) for the Telecommunications and Electronic and Information Technology Advisory Committee (TEITAC). He was a member of the team that developed the revised accessibility standards for information and communication technology (ICT) under Section 508 of the Rehabilitation Act and the revised accessibility guidelines under Section 255 of the Communications Act, published in 2017.</span>
@@ -499,7 +495,7 @@ created: 1601325079
       <span>Mr. Creagan received his J.D. from the Catholic University of America, and his undergraduate degree from the University of Notre Dame.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
   </div>
 </div>
@@ -670,6 +666,9 @@ created: 1601325079
     </p>
     <p>
       <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities, which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Wrap-up and Thank You on Day 3</span></em></a>
@@ -1394,9 +1393,9 @@ created: 1601325079
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
     </p>
-    <!-- <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
-    </p> -->
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+    </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
