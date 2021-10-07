@@ -561,7 +561,8 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#briscoe">Name</a></b></span> Title
+        <!-- <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#briscoe">Name</a></b></span> Title -->
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">description.</span> 
       </div>
     </div>
     <div class="grid-row break">
