@@ -561,7 +561,7 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">description.</span>
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm"><!-- description goes here --></span>
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Adminsitration (GSA)
