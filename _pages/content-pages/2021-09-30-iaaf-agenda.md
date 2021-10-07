@@ -286,7 +286,7 @@ created: 1600981839
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">HHS Assistance Secretary</a></b></span>, Assistant Secretary, Department of Healthg and Human Services (HHS)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#campbell">Cheryl Campbell</a></b></span>, Assistant Secretary for Administration, Department of Health and Human Services (HHS)
       <br><br>
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
     </div>
@@ -345,11 +345,14 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span>TBD
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#center">Jessica Center,</a></b></span> National Institutes of Health (NIH)
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight">Panelists:</span> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#stassun">Keivan Stassun Moore,</a></b></span> Vanderbilt University School of Engineering

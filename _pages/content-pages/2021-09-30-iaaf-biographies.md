@@ -316,6 +316,37 @@ created: 1601325079
 </p>
 
 <!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-campbell.png" alt="Cheryl Campbell" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="campbell">
+      <strong>Cheryl Campbell</strong>
+    </p>
+    <p>
+      <em><span>Assistant Secretary for Administration (ASA)</span></em><br /><span>Department of Health and Human Services (HHS)</span>
+    </p>
+    <p>
+      <span>
+      "Cheryl Campbell is appointed as the permanent HHS Assistant Secretary for Administration. Ms. Campbell was previously serving in an acting role since March,2021 where she has already laid the groundwork for 21 century HHS operations.  The Office of the Assistant Secretary for Administration (ASA) is responsible for the delivery of high quality, cost effective, and timely mission support services for HHS and through the critical transition period Ms. Campbell has led the agencies administration through many of the nation and the world’s most challenging issues. ASA’s portfolio of responsibilities is broad: it includes the provisioning and management of human resources, technology, facilities, acquisitions, employee safety, security, labor relations, equal employment opportunity, diversity and inclusion. Ms. Campbell is the first person to hold the position that has leadership experience at each of the HHS Op/Div and Staff/Div’s and she will be the first female Assistant Secretary for Administration and first person of color to serve as the Assistant Secretary for Administration.</span>
+    </p>
+    <p>
+      <span>Ms. Campbell has an extensive background as a chief corporate executive with over 30 years of profit-driven results, annual budget planning, quarterly budget and forecast performance, operations, human capital acquisition and retention, P&L management, and strategic planning. She has supported HHS OpDiv’s throughout her career and is a known and trusted entity throughout HHS.  Ms. Campbell is the founder and past CEO of the EagleForce Warrior Foundation, which supports wounded, ill and injured military service members and their extended families as they recover in the Department of Defense’s critical care facilities.</span>
+    </p>
+    <p>
+      <span>Ms. Campbell is a nationally recognized executive in Health IT; she has been named a “Healthcare IT Game Changer” by ExecutiveBiz, and FEDSCOOP recognized her as one of DC’s Top 50 most influential Women in Technology. Poets & Quants named Ms. Campbell one of the Top 50 Global Executive MBAs in the world  She has a strong record of growing, restructuring, and optimizing organizational responsibilities in health and human services  through strategic innovation, IT Portfolio Management, human capital identification, acquisition and growth and operational excellence in planning and execution.</span>
+    </p>
+    <p>
+      <span>Ms. Campbell earned a Dual Global Executive MBA from Georgetown’s McDonough School of Business and ESADE Business & Law School. She also holds a BS in Information Systems Management from the University of Maryland and is the wife of Stanley Campbell and mother of three sons, Christopher, Alan and Stanley III.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Openin Remarks</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-carr.png" alt="Annette Carr" />
@@ -337,26 +368,25 @@ created: 1601325079
 </div> -->
 
 <!-- NEW BIO -->
-<!-- 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-center.png" alt="Jennifer Center" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-center.png" alt="Jessica Center" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="center">
       <strong>Jennifer Center</strong>
     </p>
     <p>
-      <em><span>TITLE-GOES-HERE</span></em><br /><span>Environmental Protection Agency (EPA)</span>
+      <em><span>Branch Director, Access and Equity, Office of Equity, Diversity, and Inclusion</span></em><br /><span>National Institute of Health (NIH)</span>
     </p>
-    <p>
+    <!-- <p>
       <span>BIO-GOES-HERE</span>
-    </p>
+    </p> -->
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
