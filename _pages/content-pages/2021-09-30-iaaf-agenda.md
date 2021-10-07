@@ -193,10 +193,13 @@ created: 1600981839
         Open Product Accessibility Template (OPAT) will develop a digital native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
+        </div> 
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#azeem">Syed Azeem,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -341,20 +344,23 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
       <div class="brown-breakout-header" id="d2bs1a">Track A: Lead Our Agencies Towards Access</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Neurodiversity at Work: Creating Inclusive Work Futures</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Many people with neurological conditions such as autism spectrum disorder and dyslexia have exceptional skills, including in pattern recognition, memory, and mathematics. Yet they often struggle to fit the profiles sought by employers  and estimates for unemployment for neurodivergent adults range as high as 80% to 85% (HBR 2017). While a growing number of companies are also refining HR processes to hire neurodiverse talent, there are many barriers and more work needs to be done.  This panel will briefly discuss the needs for neurodiversity at work programs, what has worked, as well as, gaps and strategies for mainstreaming based on neurodiverse-led efforts as the future for  creating holistic  inclusive workplaces.</span> 
-      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
-      </div> --> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight">Moderator:</span> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span>TBD
+      </div> 
+      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#center">Jennifer Center,</a></b> </span>TBD
-      </div>
+      </div> -->
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
       </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#stassun">Keivan Stassun Moore,</a></b></span> Vanderbilt University School of Engineering
+      </div>     
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#valeur">Charlotte Valeur,</a></b></span> Global Governance Group, UK
       </div>
@@ -477,10 +483,10 @@ created: 1600981839
           Track A: Lead Our Agencies Towards Access
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Metaphors have been used as powerful teaching tools throughout history because they link new concepts to concepts people already understand, reframing in a way that allows listeners to more easily learn. Today, neuroscientists call this "neural reuse," which is the theory that metaphors use the exact same neural circuits as the new, more difficult concept being shared. In other words, metaphors don't "dumb down" an idea - they help listeners more quickly understand difficult new concepts! By reframing accessibility issues through the use of metaphors, and then reinforcing these ideas over time, you can successfully engage your leadership and turn them into true Section 508 Evangelists!</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#windly">William Windly,</a></b> </span>General Services Administration (GSA)
+        </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#jubar">Brandon Jubar,</a></b></span> Department of Labor (DOL)

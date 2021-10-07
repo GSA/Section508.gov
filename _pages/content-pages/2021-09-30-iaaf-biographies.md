@@ -12,7 +12,7 @@ created: 1601325079
 </p>
 
 <p style="text-align:center;" id="top">
-  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a href="#O">O <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#Q">Q <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
+  <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a class="" href="#I">I <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a href="#O">O <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#Q">Q <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
 </p>
 
 <!-- AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA - AAAAA -->
@@ -943,6 +943,28 @@ created: 1601325079
   <a href="#top">Back to Top</a>
 </p>
 
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-johnson.png" alt="Antoinette  Johnson" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="johnson">
+      <strong>Antoinette  Johnson</strong>
+    </p>
+    <p>
+      <em><span>Section 508 Program Manager</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span></span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+    </p>
+  </div>
+</div>
 <!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-johnston.jpg" alt="Esubalew (Ethan) Johnston" />
@@ -1728,6 +1750,26 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-stassum.png" alt="Keivan G. Stassun" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="stassun">
+      <strong>Keivan G. Stassun</strong>
+    </p>
+    <p>
+      <em><span>Director, Frist Center for Autism & Innovation</span></em><br /><span>Vanderbilt University School of Engineering</span>
+    </p>
+    <p>
+      <span>Keivan Stassun is an astrophysicist whose research on stars and exoplanets has been published more than 400 times in academic journals. He also holds  two patents – for a data visualization platform and an asteroid mining system – both invented with a team of neurodiverse students. The parent of an autistic teenager, and with the generous endowment support of the Frist family, in 2018 Stassun launched the  Frist Center for Autism & Innovation at Vanderbilt, focused on engineering technologies and transforming workplaces, in support of and inspired by neurodiversity. The Frist Center brings engineers, business scholars, and disabilities researchers together with  experts in neuroscience and education to understand, maximize, and promote neurodiverse talent. From a strengths-based – as opposed to deficit-based – understanding of autism and neurodiversity, the Center sees opportunities for innovation in technology and in workplace practices. Primary areas of focus for the Frist Center’s work include: inventing and commercializing new technologies that enable autistic and other neurodiverse people to gain employment, succeed at work, and achieve their full potential; studying  and understanding neurodiverse capabilities, and inventing and commercializing algorithms and systems that are inspired by those capabilities; developing policies, tools, trainings, and workplace practices that recognize and enlist neurodiverse people and talents in the workforce; demonstrating, documenting, and disseminating a community-based approach—including employers, self-advocates, researchers, policy makers, agencies, and organizations—to simultaneously enhance the bottom line for business and the quality of life for autistic individuals.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
+    </p>
+  </div>
+</div>
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -2027,6 +2069,9 @@ created: 1601325079
     </p>-->
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
     </p>
   </div>
 </div>
