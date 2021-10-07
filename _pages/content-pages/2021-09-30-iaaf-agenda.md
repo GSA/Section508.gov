@@ -170,10 +170,10 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs2b">Track B: Create Amazing Content</div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/)" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span><!-- General Services Administration (GSA) -->
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#montgomery">Dr. Rachel Bradley Montgomery,</a></b> </span>Library of Congress
@@ -181,7 +181,7 @@ created: 1600981839
         <!-- HIDE DOWNLOAD
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf">IAAF 2020 - Welcome New PMs Breakout Session Presentation (PDF)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/file-name.pptx">File-Name-(PPTX)</a></span>
         </div>
         -->
       </div>
@@ -427,7 +427,7 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> <!-- Office -->
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 

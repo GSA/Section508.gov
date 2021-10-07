@@ -152,7 +152,7 @@ created: 1601325079
       <strong>Kimberly Borowicz</strong>
     </p>
     <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <em><span>Management Analyst</span></em><br /><span>Department of Labor (DOL)</span>
     </p>
     <p>
       <span>Kim works with the 508 Program Office at the Department of Labor (DOL) where she focuses on policy and contracts.  She is a lawyer who has committed her career to disability rights law and has also worked in other areas of the Rehabilitation Act during her career, such as housing rights and reasonable accommodations in federal employment.  In her free time she enjoys playing the violin and being funny with her improvisation troop.</span>
@@ -1231,7 +1231,7 @@ created: 1601325079
       <span>Shannon McHarg is a UX designer working in the Department of the Interior’s Office of Natural Resources Revenue.  She has more than 19 years’ experience working  for companies like H&R Block and L.L.Bean and has a Master’s degree in Human Factors from Bentley University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: prioritizing documents for remediation </span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation </span></em></a>
     </p>
   </div>
 </div>
@@ -1681,6 +1681,32 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-small.png" alt="Kimberly Small" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="small">
+      <strong>Kimberly Small</strong>
+    </p>
+    <!-- <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>-->
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to support cognitive and learning disabilities</span></em></a>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-snyder.png" alt="Dr. Joel Snyder" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1978,6 +2004,29 @@ created: 1601325079
     </p> 
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-windly.png" alt="William Windly" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="windly">
+      <strong>William Windly</strong>
+    </p>
+    <!-- <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+    </p>
+    <p>
+      <span>
+      BIOPARAGRAPH
+      </span>
+    </p>-->
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
     </p>
   </div>
 </div>
