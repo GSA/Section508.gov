@@ -651,14 +651,14 @@ created: 1600981839
     <!-- close cell -->
     <div class="grid-row welcome" id="d3c">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">3:50 P.M. – 4:00 P.M. <br><span class="session-type">Wrap-up and Thank You</span>
+    </div>
+    <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
+      <div class="speaker-info padding-top-1">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
       </div>
-      <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Government-wide IT Accessibility Program, General Services Administration
-        </div>
+      <div class="speaker-info padding-top-1">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Government-wide IT Accessibility Program, General Services Administration
+      <!-- </div> -->
       </div>
     </div>
   </div>
