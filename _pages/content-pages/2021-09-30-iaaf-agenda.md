@@ -193,6 +193,10 @@ created: 1600981839
         Open Product Accessibility Template (OPAT) will develop a digital native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
+        </div> 
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -449,10 +453,10 @@ created: 1600981839
           Track C: Buy and Manage Compliance
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Adopting and Aligning to the ICT Testing Baseline</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How can an agency prepare to align to the ICT Testing Baseline and/or adopt a Baseline-aligned test process? This presentation will discuss the <a href="https://ictbaseline.access-board.gov/" class="session-link">ICT Accessibility Testing Baseline Portfolio</a> and provide updates on progress and ongoing efforts related to the portfolio. Presenters will also discuss the benefits of adopting and implementing a Baseline-aligned test process in their agencies along with suggestions for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline.</span> 
-        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
-        </div> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration
+        </div> -->
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)
@@ -556,30 +560,10 @@ created: 1600981839
     <div class="grid-row keynote" id="d3k">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
-        <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type">Accessibility: A Look At The Foundation (Past, Present and Future)</span><span class="session-description"><!--Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span>-->
-        <br /> 
-        <!-- <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Moderator:</span>
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
-        </div> -->
-        <!-- <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Moderator:</span>
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Arthur Brunson,</a></b></span> General Services Administration (GSA)
-        </div> -->
-        <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Panelists:</span>
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
-        </div> 
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)
-        </div>
-        <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Administration (GSA)
-        </div>
-      </div> 
+      <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2020#briscoe">Name</a></b></span> Title
+      </div>
     </div>
-    <!-- BREAK -->    
     <div class="grid-row break">
       <div class="grid-col-12 cell dark padding-1">12:45 P.M. – 1:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
