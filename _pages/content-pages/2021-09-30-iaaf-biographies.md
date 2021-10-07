@@ -525,7 +525,7 @@ created: 1601325079
       <span>Bobby received his BA from Mansfield University, PA and his MA in Information Security from Eastern Michigan University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
     </p>
   </div>
 </div>
@@ -663,27 +663,6 @@ created: 1601325079
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a Machine-Readable ACR</span></em></a>
-    </p>
-  </div>
-</div>
-
-<!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-golstein.png" alt="Lindsay Goldstein" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="goldstein">
-      <strong>Lindsay Goldstein</strong>
-    </p>
-    <p>
-      <em><span>Program Analyst</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
-    </p>
-    <p>
-      <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue in the Department of the Interior. An economist by training, she made her way over to civic tech a few years ago, and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
-    </p>
-    <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
