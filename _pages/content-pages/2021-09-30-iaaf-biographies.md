@@ -522,6 +522,9 @@ created: 1601325079
       <span>Robert “Bobby” Duffy joined MSPB as the Chief Information Officer (CIO) and Director of Office of Information Resources Management (IRM) in 2020. Bobby is well-known within the Federal IT community, and he comes to us from the Office of Inspector General (OIG) at the Department of Homeland Security (DHS) where he was a Special Advisor and former CIO. He's experienced in the areas of IT shared-services, business process reengineering, cloud computing, identity management, unified communications, enterprise mobility, and project management. Bobby's built bridges between Government and industry in an effort to ensure access to forward-leaning IT and cybersecurity solutions, and he also builds collaborative relationships across the organizations in which he's served. Bobby's experience includes Information Security Manager for the National Nuclear Security Administration at the Department of Energy (DOE); Director of Telecommunications and Client Services at the Office of Inspector General (OIG) for the U.S. Postal Service; and Security Specialist in the Office of Special Projects at Navy.</span>
     </p>
     <p>
+      <span>Bobby received his BA from Mansfield University, PA and his MA in Information Security from Eastern Michigan University.</span>
+    </p>
+    <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
     </p>
   </div>
