@@ -41,7 +41,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div>
@@ -75,7 +75,7 @@ created: 1601325079
       <span>Additionally, he has served as an advisory board member for Teach For America-DC Region, board member for Baltimore’s Code in the Schools; past Advisory Board Chair of the Prince George’s County Social Innovation Fund; and former appointee of the Prince George’s County Executive to the County’s Commission on Fathers, Men and Boys. Chike, his wife and their son proudly call Prince George’s County, MD home.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
     </p>
   </div>
 </div>
@@ -114,7 +114,7 @@ created: 1601325079
       <span>Brooke holds a Bachelor’s degree in Human Environmental Services from the University of Alabama.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -137,7 +137,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
     </p>
   </div>
 </div>
@@ -168,7 +168,7 @@ created: 1601325079
       <span>Lorena Bradford develops and runs accessible programs in the Education Division of the National Gallery of Art in Washington, DC. She has developed and oversees programs for and projects geared toward people with hearing and vision loss, people with memory loss and their care partners, families shaped by sensory processing disorders, healthcare students and professionals, and others. She has consulted and offered training on best practices for other museums and institutions in Washington, DC, across the nation, and abroad.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -192,7 +192,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div> -->
@@ -213,7 +213,7 @@ created: 1601325079
       <span>Dexter Brooks works with federal agencies internal EEO programs to ensure opportunities free from discrimination, and provides technical assistance, guidance and oversight. Dexter is an experienced executive with a demonstrated history of working in the government administration industry. Skilled in Coaching, Team Building, Public Speaking, Labor Relations, and Writing. Strong operations professional with a Juris Doctor focused in Labor/Employment from Howard University School of Law.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -246,7 +246,7 @@ created: 1601325079
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
     </p>    
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d3w"><em><span>Welcome</span></em> on Day 3</a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span></em> on Day 3</a>
     </p>
   </div>
 </div>
@@ -273,10 +273,10 @@ created: 1601325079
       <span>He holds a Bachelor of Science degree from Bowie State University in Business Administration. He lives in Camp Springs, Maryland.  He has 2 beautiful daughters and 5 adorable grandchildren. In his free time he enjoys yard work and traveling, supporting his brother's automotive shop, towing cars, church and family.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
     <!-- <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p> -->
   </div>
 </div>
@@ -307,7 +307,7 @@ created: 1601325079
       <span>BIO-GIES-HERE</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div> -->
@@ -329,7 +329,7 @@ created: 1601325079
       <span>BIO-GOES-HERE</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs2"><em><span>10th anniversary of the Twenty-First Century Communications and Video Accessibility Act (CVAA)</span></em></a>
     </p>
   </div>
 </div> -->
@@ -350,7 +350,7 @@ created: 1601325079
       <span>Louis Charlier has served in OCIO since 2006 and currently serves as the Deputy Chief Information Officer for Administration and Strategy. He spent the last seven years as the Director of Infrastructure Services (now IT Operations and Services). In that role, he was the principal advisor to OCIO leadership, Departmental executives, and key agency managers for large-scale IT initiatives. He also assisted in the planning, directing, and administering of a comprehensive IT program for the Department that provided tactical day-to-day leadership, organization stability, and technical expertise.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d3w"><em><span>Welcome on Day 3</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -371,7 +371,7 @@ created: 1601325079
       <span>Andy Chosak is a web developer in the Office of Technology and Innovation at the Consumer Financial Protection Bureau. A member of the CFPB’s in-house Design and Development team since 2016, Mr. Chosak builds and maintains websites and other open-source software to support, educate, and empower the American consumer. He brings 20 years of technology experience to the challenge of ensuring that CFPB digital products and services are fully accessible to all.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3b"><em><span>Accessibility Testing at the CFPB: A Case Study</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Accessibility Testing at the CFPB: A Case Study</span></em></a>
     </p>
   </div>
 </div>
@@ -408,7 +408,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
     </p>
   </div>
 </div>
@@ -445,7 +445,7 @@ created: 1601325079
       <span>Mr. Creagan received his J.D. from the Catholic University of America, and his undergraduate degree from the University of Notre Dame.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Keynote on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -477,7 +477,7 @@ created: 1601325079
       <span>U.S. Senator Tammy Duckworth is an Iraq War Veteran, Purple Heart recipient and former Assistant Secretary of the U.S. Department of Veterans Affairs who was among the first handful of Army women to fly combat missions during Operation Iraqi Freedom. Duckworth served in the Reserve Forces for 23 years before retiring at the rank of Lieutenant Colonel in 2014. She was elected to the U.S. Senate in 2016 after representing Illinois’s Eighth Congressional District in the U.S. House of Representatives for two terms. Read <a href="https://www.duckworth.senate.gov/about-tammy/biography" class="session-link">Senator Duckworth's full biography</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em> on Day 2</a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em> on Day 2</a>
     </p>
   </div>
 </div>
@@ -508,7 +508,7 @@ created: 1601325079
       <span>Kathy Eng is a Senior ICT Accessibility Specialist with the U.S. Access Board and has worked in the federal accessibility community for over 20 years. Her accessibility career began in assistive technology accommodations with just a sprinkle of Section 508 and has evolved to almost entirely focus on Section 508 in the last 10 years. Kathy collaborates on interagency Section 508 guidance and is the co-chair of the Best Practices subcommittee of the Federal CIO Accessibility Community of Practice. She led the development of the first versions of the ICT Testing Baseline and Trusted Tester and continues to work on these and other efforts to improve accessibility testing.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
   </div>
 </div>
@@ -539,7 +539,7 @@ created: 1601325079
       <span>Mayora Faied has a Master's degree in Minerals and Energy Economics. She has worked for the Office of Natural Resources Revenue for over 10 years. She currently manages a team responsible for the agency's public websites and is committed to providing open and transparent federal data and information to the public.</span>
     </p>
   <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
@@ -560,7 +560,7 @@ created: 1601325079
       <span>Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver accessibility to our staff with disabilities in a safe, accessible, functional and engaging manner. She also proposes principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2a"><em><span>Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2a"><em><span>Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -591,7 +591,7 @@ created: 1601325079
       <span>In January of 2018, Yvette began serving as the Director, Government-wide Accessibility Training & Outreach. In this role, she manages a variety of program responsibilities, which include but aren’t limited to: identifying program needs by comparing training material and developing training courses, reviewing training/program implementation plans to assess risk and feasibility, and providing strategic planning decisions on training courses and outreach to meet Section 508 needs. Prior to this she served as the Deputy Program Manager and Operations Manager for the .Gov Internet Domain where she controlled policy promulgation, provided policy administration and oversaw the federal internet backbone for over 10 years.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d3c"><em><span>Wrap-up and Thank You on Day 3</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Wrap-up and Thank You on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -614,7 +614,7 @@ created: 1601325079
     <p><span>As a techie at heart, Mike likes to get into the code when he gets the chance. There is always more to learn, and he is always exploring better practices to resolving problems. Usually better incentives and policies provide an improved experience for people with disabilities than incorporating artificial intelligence. Not always though.</span></p>
     <p><span>Mike's wide range of experience provides the ability to understand the technological big picture.</span></p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2c"><em><span>Creating a machine-readable ACR</span></em></a>
     </p>
   </div>
 </div>
@@ -635,7 +635,7 @@ created: 1601325079
       <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue in the Department of the Interior. An economist by training, she made her way over to civic tech a few years ago, and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
     </p>
   </div>
 </div>
@@ -656,7 +656,7 @@ created: 1601325079
       <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to customers. These tools help multiple audiences connect to the artwork in the museum.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3c"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -677,7 +677,7 @@ created: 1601325079
       <span>As a product manager and digital strategist, Bess has experience running software projects at every stage of the product development lifecycle, from vision and concept development to launch and commercialization. She has led engagements with global and Fortune 500 companies across various industries - including healthcare, finance, manufacturing, and government - to deliver feasible, actionable solutions using an adapted Agile methodology. She is passionate about working with organizations to deliver user-centric solutions that have real-world impact, and she is proud to have taken multiple digital products to market.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
     </p>
   </div>
 </div>
@@ -708,7 +708,7 @@ created: 1601325079
       <span>Mr. Antonio Haileselassie is an Information Technology Accessibility Specialist supporting NASA’s Information and Communication Technology (ICT) Accessibility/Section 508 Program. He applies his expert knowledge of ICT accessibility by providing support and technical guidance throughout the NASA community, across the government, and to industry by serving on the CIO Council Accessibility Community of Practice Industry Outreach Committee. He began his accessibility career as a software developer focused on accessible software design, development, and remediation for the Federal Aviation Administration and the National Guard. He then joined NASA Headquarters as a support contractor where he advanced the Agency’s Section 508 Compliance Program by developing Section 508 testing capabilities, managing NASA’s Section 508 Technical Help Desk, and providing training and guidance across NASA.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a>
     </p>
   </div>
 </div>
@@ -731,7 +731,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div> -->
@@ -758,7 +758,7 @@ created: 1601325079
       <span>Mr. Harding is from Chicago Illinois. He is married to the former Debbie Jean Willard from Simi Valley, California.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d3c"><em><span>Wrap-Up and Thank You on Day 3</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3c"><em><span>Wrap-Up and Thank You on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -781,7 +781,7 @@ created: 1601325079
       </span>
     </p> -->
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
 </div>
@@ -829,7 +829,7 @@ created: 1601325079
       <span>Judy graduated from Long Island University in Brooklyn, NY in 1969 and received her Master’s in Public Health from the University of California at Berkeley in 1975. She has received numerous awards including being the first recipient of the Henry B. Betts Award in recognition of efforts to significantly improve the quality of life for people with disabilities and the Max Starkloff Lifetime Achievement Award from the National Council on Independent Living. She has been awarded numerous honorary doctorates.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d2k"><em><span>Keynote  on Day 2</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote  on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -851,7 +851,7 @@ created: 1601325079
       <span>Michael Horton is an accessibility and technology professional with over 25 years of experience in website and web-based application development. He is a compliance subject matter expert, DHS Certified Trusted Tester, and advocate who joined the General Services Administration, Office of Government-wide Policy’s IT Accessibility Program in August 2018 as an Accessible Design and Development Advisor supporting agencies in their efforts to ensure independence and the dignity of work for people with disabilities. Prior to joining GSA, Michael served as the Federal Emergency Management Agency’s (FEMA) Section 508 Program Manager for eight years, and also enjoyed twelve years with America Online (AOL) as a software/web engineer, partner advocate, online community standards policy and compliance specialist, and creator of member education. </span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
   </div>
 </div>
@@ -873,7 +873,7 @@ created: 1601325079
       <span>Yolonda is the program manager for the IRS Section 508 program office, known as the Information Resources Accessibility Program (IRAP). She has been a ready advocate for accessibility for more than a decade and worked relentlessly towards establishing Section 508 as a core IT requirement within the IRS.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div>
@@ -904,7 +904,7 @@ created: 1601325079
       <span>Mohammad has been working with the GSA since September 2011. He managed several projects in GSA IT. Before GSA, Mohammad worked about 2 years with National Oceanic and Atmospheric Administration (NOAA) as a Technical Advisor, IT Specialist. There he was a POC/Liaison with the Department of Commerce (DOC). Before NOAA, Mohammad worked with the US Air Force for about 6 years as a Contractor, Technical Advisor/ Technical Lead. There he supported the Undersecretary of Defense, US Congress, AFMC, and OMB. Mohammad loves to travel and explore new places.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
 </div>
@@ -935,7 +935,7 @@ created: 1601325079
       <span>BIOGOESHERE</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)</span></em></a>
     </p>
   </div>
 </div> -->
@@ -956,7 +956,7 @@ created: 1601325079
       <span>Brandon Jubar has more than 25 years of experience in information technology (IT) contracts, acquisitions, strategic planning, change management, and process improvement. He is the Branch Chief of IT Quality Management at the U.S. Department of Labor (DOL) in the Office of the Chief Information Officer. In the fall of 2019, Brandon was also assigned the role of DOL’s Section 508 Program Manager, tasked with standing up the Department’s first true enterprise-level Section 508 Program Office. He was selected as one of the FCW (Federal Computer Week) FED 100 for 2021 because of his work on accessibility and Section 508 compliance at DOL.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3a"><em><span>Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span></em></a>
     </p>
   </div>
 </div>
@@ -987,7 +987,7 @@ created: 1601325079
       <span>Sonna Kim is a senior user experience designer at the Consumer Financial Protection Bureau (CFPB), where she has worked as part of the Design and Development team since 2015 to create accessible, user-friendly tools and resources to help educate and empower consumers. Prior to joining the CFPB, she worked as a designer in the private sector for a variety of industries, including financial services, children's publishing, media, consumer electronics, and more. She resides in New York City.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3b"><em><span>Web Accessibility at the CFPB</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Web Accessibility at the CFPB</span></em></a>
     </p>
   </div>
 </div>
@@ -1012,7 +1012,7 @@ created: 1601325079
       <span>After 5 years of freelance work, he entered the federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr. King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibility Activities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibility Activities</span></em></a>
     </p>
   </div>
 </div>
@@ -1043,7 +1043,7 @@ created: 1601325079
       <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, and the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and for many years, she has served as an appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the fields of digitalisation, inclusion and e-government at a senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
@@ -1068,7 +1068,7 @@ created: 1601325079
       <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
@@ -1091,7 +1091,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
     </p>
   </div>
 </div> -->
@@ -1112,7 +1112,7 @@ created: 1601325079
       <span>Charles Lindemuth is a skilled graphic designer and artist, and has spent most of his career at the Forest Service with the Chugach National Forest in Alaska.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
     </p>
   </div>
 </div>
@@ -1133,7 +1133,7 @@ created: 1601325079
       <span>Proudly neurodivergent (and parent of an autistic IT Professional) Nat enables businesses to see the value in embracing ND talent to attain highly skilled and dedicated professionals that may otherwise be overlooked. 1:20 individuals are ND and 1:50 are autistic. This talent pool brings 32% new skills, 66% higher job loyalty, and more, improving corporate citizenship and revenue. Nat has driven culture change, improving trust and allyship through Global Acceptance Training across >30 countries, speaking engagements and other advocacy initiatives. Nat is also experienced with intersectionality across PWD/PWDA, LGBT+, Race, Ethnicity, Gender, and other identity groups. Nat is also a Business Analyst and Application Developer with IBM for over 25 years.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
@@ -1164,7 +1164,7 @@ created: 1601325079
       <span>A product designer who focuses on mobile accessibility, Meli S. Manak currently works for Ad Hoc and supports mobile applications work at the Department of Veterans Affairs. Her work includes streamlining the design system, bringing design and accessibility expertise to her cross-functional team, and ensuring designs are visually accessible before development begins. It is a career built on her lived experience. Deafness is a central component of Meli’s identity and career, and she brings a deep level of empathy to her UX work. Her mission is to continue pushing for digital accessibility to ensure that future generations with disabilities can more freely move through the world.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
     </p>
   </div>
 </div>
@@ -1185,7 +1185,7 @@ created: 1601325079
       <span>Brianna has just joined the Digital Strategies Division within GSA's Office of Government-wide Policy (OGP) as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
     </p>
   </div>
 </div>
@@ -1206,7 +1206,7 @@ created: 1601325079
       <span>Shannon McHarg is a UX designer working in the Department of the Interior’s Office of Natural Resources Revenue.  She has more than 19 years’ experience working  for companies like H&R Block and L.L.Bean and has a Master’s degree in Human Factors from Bentley University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: prioritizing documents for remediation </span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: prioritizing documents for remediation </span></em></a>
     </p>
   </div>
 </div>
@@ -1227,7 +1227,7 @@ created: 1601325079
       <span>Dr. Rachael Bradley Montgomery is a digital accessibility specialist at the Library of Congress and an adjunct lecturer at University of Maryland’s College of Information Studies (iSchool).  She co-chairs the W3C Accessibility Guidelines Working Group and was previously a co-facilitator of the Cognitive and Learning Disabilities taskforce. She is the executive director of Accessible Community, a charity that helps communities and small organizations become more inclusive of people with disabilities. Rachael has a PhD from the University of Maryland, College Park and an MS from the University of Illinois, Urbana-Champaign.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs2b"><em><span>Designing to Support Cognitive and Learning Disabilities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to Support Cognitive and Learning Disabilities</span></em></a>
     </p>
   </div>
 </div>
@@ -1251,7 +1251,7 @@ created: 1601325079
       <span>Rhonda is author and editor of the following books: Climate Change and Health Equity (Forthcoming, Springer 2023), Handbook of Pain and Palliative Care (Springer, 2012, 2nd edition, Springer, 2019), Biobehavioral Approaches to Pain (Springer 2009) and Cancer Culture and Communication (Springer 2004). Currently, she is a Program Officer with the Center for Global Mental Health at NIH’s National Institutes of Mental Health (NIMH). Areas of responsibility include Social Drivers of Global Mental Health, ethics of new and emerging technologies, climate change and mental health, citizen science, and Neurodiversity at work. She is the Program lead for the Digital Global Mental Health program.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
@@ -1285,7 +1285,7 @@ created: 1601325079
       <span>Outside of the NIH, he finds great joy spending time with his 4-year-old granddaughter, seeks dead people in family history research, and loves a good film noir or classic, black-and-white horror flic.  His most recent recognition includes <a href="https://www.edi.nih.gov/people/sep/pwd/disability-awareness-2020/awards" class="session-link" target="_blank">NIH EDI’s 2020 NIH Champions and Allies of Disability Awardees</a> and <a href="https://www.edi.nih.gov/people/sep/lgbti/pride-2020" class="session-link" target="_blank">NIH EDI’s 20 profiles for 2020: Celebrating LGBT community Diversity at NIH and Beyond</a>.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
   </div>
 </div>
@@ -1315,16 +1315,16 @@ created: 1601325079
       <span>Andrew is an expert in the field of Information and Communication Technology (ICT) accessibility. He is Co-Chair of the annual ICT Accessibility Testing Symposium, which brings together other experts from around the world in the field of ICT accessibility testing to exchange academic analysis of current ICT accessibility testing issues and explore approaches to improve accessibility testing practices. He is a principal co-author of the current version of the Harmonized Processes for Revised Section 508: Baseline Tests for Web Accessibility (aka the “ICT Baseline”). Andrew was also the coordinator and facilitator of the inter-agency team of experts that developed both the Baseline and the current version of the “Trusted Tester” accessibility testing process, which is recognized across the federal government as a leading practice in accessibility testing.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2c"><em><span>Day in Review</span></em></a>
     </p>
     <!-- <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p> -->
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1361,7 +1361,7 @@ created: 1601325079
       As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -1393,7 +1393,7 @@ created: 1601325079
       </span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1421,7 +1421,7 @@ created: 1601325079
       <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 1</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1452,7 +1452,7 @@ created: 1601325079
       <span>Whitney Quesenbery is the director of the Center for Civic Design, charged with solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1487,7 +1487,7 @@ created: 1601325079
       <span>Prior to joining NWLC, Ms. Raghu was a senior attorney at Futures Without Violence and a senior staff attorney at Legal Momentum (formerly NOW Legal Defense and Education Fund), addressing economic security, gender discrimination in employment and housing, and gender-based violence, with an emphasis on immigrant and low-income women. Her work encompassed litigation, legislative and policy advocacy, public education and training, multi-sector initiatives, and cross-movement collaboration. She was also previously an associate at Simpson Thacher & Bartlett LLP and a law clerk to the Hon. Vanessa D. Gilmore of the Southern District of Texas. She is a graduate of Trinity University and Georgetown University Law Center.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
     </p>
   </div>
 </div>
@@ -1515,7 +1515,7 @@ created: 1601325079
       <span>Dr. Robertson earned his PhD in information sciences and technology at Penn State University. He completed his master’s degree in human-computer interaction at Carnegie Mellon University. His professional recognitions include a 2020 Service to the Citizen Award from Dorris Consulting International and the 2011 Jay S. Drotman Award from the American Public Health Association. He is also an inductee of the Susan M. Daniels Disability Mentoring Hall of Fame.</span>
     </p>
 <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2a"><em><span>Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span></em></a>
     </p>
   </div>
 </div>
@@ -1540,7 +1540,7 @@ created: 1601325079
       <span>During the pandemic, Avis took the opportunity to go to school for Massage Therapy, something very passionate to her heart. She thought this was a perfect time to cross something off of her bucket list. Avis graduated in April 2021 and passed the MBLEX exam. She will soon be a licensed Massage Therapist.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div>
@@ -1577,7 +1577,7 @@ created: 1601325079
       <span>Patrick received a BS degree in Computer Science from the University of Maryland and a BA degree from Providence College. He serves on the Board of Directors with the American Council of the Blind working on issues such as transportation access and pedestrian safety for blind and low vision individuals. He has also chaired the Accessibility Advisory Committee for the Washington Metropolitan Area Transit authority (WMATA) for the past 20 years.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
   </div>
 </div>
@@ -1598,7 +1598,7 @@ created: 1601325079
       <span>Serves as the Department of the Interior’s Section 508 Program Manager. As Interior's Section 508 Program Manager, he manages and oversees the implementation of Section 508 of the Rehabilitation Act of 1973 and ensures all IT products and services developed, procured, maintained and used by Interior are accessible to individuals with disabilities.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
 </div>
@@ -1623,7 +1623,7 @@ created: 1601325079
       <span>Kimberly has an MA in Writing from the Johns Hopkins University, a BA in Media Production from Temple University, and is certified as a Project Management Professional by the Project Management Institute.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1b"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span></em></a>
     </p>
   </div>
 </div>
@@ -1648,7 +1648,7 @@ created: 1601325079
       <span>Ms. Sirk is a leading expert in developing and acquiring accessible technology and has presented to diverse audiences in multiple venues. Ms. Sirk also leads government-wide strategic sourcing efforts for workstations and mobility solutions as the Strategic Sourcing Program Manager from the NASA Solutions for Enterprise-Wide Procurement (SEWP) Program. Ms. Sirk has received numerous NASA and federal awards for program management and leadership. She graduated Summa Cum Laude from the University of Maryland with a Bachelors degree in Psychology and holds a Masters Degree with Distinction in Computer Science and Management Information Systems from the George Washington University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1c"><em><span>Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span></em></a><em><span> </span></em>
     </p>
   </div>
 </div>
@@ -1669,7 +1669,7 @@ created: 1601325079
       <span>Dr. Joel Snyder is known internationally as one of the world’s first “audio describers,” a pioneer in the field of Audio Description, a translation of visual images to vivid language for the benefit, primarily, of people who are blind or have a vision impairment:  the visual is made verbal—and aural, and oral.  Since 1981, he has introduced audio description techniques in over 40 states and 63 countries and has made hundreds of live events, media projects and museums accessible.  In 2014, the American Council of the Blind published Dr. Snyder’s book, The Visual Made Verbal – A Comprehensive Training Manual and Guide to the History and Applications of Audio Description, now available as an audio book voiced by Dr. Snyder, in screen reader accessible formats, in Braille, and in English, Polish, Russian and Portuguese—a Spanish edition will be released in 2021; versions in Italian and Chinese are planned for 2022.  His PhD is from the Universitat Autonoma de Barcelona with a focus on audiovisual translation/audio description.  Dr. Snyder is the President of <a href="https://www.audiodescribe.com" class="session-link">Audio Description Associates, LLC</a> and he serves as the Founder/Senior Consultant of the <a href="https://www.acb.org/adp" class="session-link">Audio Description Project of the American Council of the Blind</a>.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs3b"><em><span>What is the Current State of Audio Description in the US Federal Government?</span></em></a>
     </p>
   </div>
 </div>
@@ -1690,13 +1690,13 @@ created: 1601325079
       <span>John Sullivan serves as the Senior Technology Advisor to the GSA Deputy Associate Administrator for Government-wide Policy, providing guidance to agencies implementing federal information technology policy directives.  In this capacity, John advises the Government-wide IT Accessibility Program, which he directed for several years.  John has 33 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1c"><em><span>Day in Review on Day 1</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1736,7 +1736,7 @@ created: 1601325079
       <span>You might say I'm in: Human Factors, User Experience (UX), Human-Computer Interaction (HCI), Human-Machine Teaming (HMT), Human-Machine Interaction (HMI), Interaction Design, Product Strategy</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
     </p>
   </div>
 </div>
@@ -1757,7 +1757,7 @@ created: 1601325079
       <span>James Thurston is an international technology policy leader.  As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges, ranging from promoting the inclusion and human rights of people with disabilities worldwide to using technology to increase the competitiveness of aging U.S. industrial centers. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
 </div>
@@ -1787,10 +1787,10 @@ created: 1601325079
       <span>Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control, and Co-Chair of the US Department of Health and Human Services Section 508 Program.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
     </p>
   </div>
 </div>
@@ -1830,7 +1830,7 @@ created: 1601325079
       <span>Charlotte is an advocate for equality, underpinning this with action by founding not for profit Board Apprentice and the Institute of Neurodiversity.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1a"><em><span>Neurodiversity at Work: Creating Inclusive Work Futures</span></em></a>
     </p>
   </div>
 </div>
@@ -1861,7 +1861,7 @@ created: 1601325079
       <span>With 15 years of experience focusing on leading cross-functional communication programs in public and non-profit sectors, Alcora is dedicated to building a legacy recognized for solving business problems through customer-centric communications.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
     </p>
   </div>
 </div>
@@ -1882,7 +1882,7 @@ created: 1601325079
       <span>Angela Watkins, a certified Project Manager, has served as the Section 508 Program Manager for Pension Benefit Guaranty Corporation since January 2018. She’s been aware of the goals of accessibility since serving on an agency-wide team in 2001. Prior to her current role, she’s had experience as a Business Representative, Service Desk Manager, Procurement Support, and a Contracting Officer Representative ensuring that the products and deliverables she was responsible for included Section 508 compliance as a requirement. She serves as the chair of the Section 508 Intra-Agency team comprised of representatives from the agency’s communications, training, human resources, legal, EEO, IT and procurement departments. She and her team have been effective in promoting the message that “Accessibility is Everyone’s Responsibility” in her agency.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities </span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities </span></em></a>
     </p>
   </div>
 </div>
@@ -1903,7 +1903,7 @@ created: 1601325079
       <span>Martha Wilkes is a designer at the U.S. Digital Service, a tech startup at the White House. She is currently detailed to the Office of the Chief Technology Office (CTO) at the Department of Veterans Affairs where she is the accessibility strategist. Previously, she spent her career designing enterprise software for various private industries, from banking to statistical analysis to home health care. Martha holds a bachelor’s degree in music engineering from the University of Miami and a MFA in theater design from the University of Georgia, where she learned the Photoshop skills that helped her get her first job as a web designer.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
     </p>
   </div>
 </div>
@@ -1931,7 +1931,7 @@ created: 1601325079
       <span>Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago. She holds a bachelor’s degree in public policy from Brown University and a master’s degree in education with a concentration in administration, planning, and social policy from Harvard University. She resides in Washington, DC.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs1"><em><span>Department of Labor Panel Discussion</span></em></a>
     </p>
   </div>
 </div>
@@ -1952,7 +1952,7 @@ created: 1601325079
       <span>Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategies, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled Army combat veteran.</span>
     </p> 
     <p>
-      <em><span>Moderator: </span></em><a href="/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>
   </div>
 </div>
@@ -1989,7 +1989,7 @@ created: 1601325079
       <span>The Interactive Telecommunications Program at New York University is often referred to as "the Center for the Recently Possible". I spent two years exploring the intersections of design, research, engineering, and computer science. My master's thesis was on radio based multi-user data networks.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
     </p>
   </div>
 </div>
