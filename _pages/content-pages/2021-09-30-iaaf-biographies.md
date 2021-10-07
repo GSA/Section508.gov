@@ -834,11 +834,9 @@ created: 1601325079
     <p>
       <em><span>Consultant to the GSA Office of Goverment-wide Policy</span></em><br /><span>eGlobalTech Inc.</span>
     </p>
-    <!-- <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p> -->
+    <p>
+      <span>Antonia Harward is a consultant in GSA's Office of Government-wide Policy's Digital Strategy Division. She joined two years ago, right in time for IAAF 2019, and has helped plan IAAF 2020 and IAAF 2021. When not working on the IAAF, Antonia helps support the Section 508 team in other capacities.</span>
+    </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3vs"><em><span>Virtual Vendor Showcase</span></em></a>
     </p>

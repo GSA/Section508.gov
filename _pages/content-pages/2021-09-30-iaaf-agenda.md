@@ -165,7 +165,7 @@ created: 1600981839
       <!-- BEGIN DAY 1 SESSION 2 TRACK B -->  
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs2b">Track B: Create Amazing Content</div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/)" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span><!-- General Services Administration (GSA) -->
@@ -513,10 +513,10 @@ created: 1600981839
           Track C: Buy and Manage Compliance
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">The 15%</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Disability does not discriminate between race, age, class or gender. The reality is that anyone, even you, can be a part of this minority group at any point in life. “Around 15%, or one billion people, experience some form of disability” (WorldBank.org). While federal employers recognize the asset that people with disabilities are in the workplace, we need to ensure our training materials, computer applications and accommodations are well-designed and available in a timely manner.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration
-        </div> -->
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#hays">Esubalew (Ethan) Johnston,</a></b></span> Social Security Administration (SSA)
