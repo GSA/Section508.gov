@@ -506,6 +506,27 @@ created: 1601325079
   </div>
 </div>
 
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-duffy.png" alt="Robert 'Bobby' Duff" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="duff">
+      <strong>Robert 'Bobby' Duff</strong>
+    </p>
+    <p>
+      <em><span>Chief Information Officer and Director of the Office of Information Resources Management (IRM)</span></em><br /><span>Merit Systems Protection Board (MSPB)</span>
+    </p>
+    <p>
+      <span>Robert “Bobby” Duffy joined MSPB as the Chief Information Officer (CIO) and Director of Office of Information Resources Management (IRM) in 2020. Bobby is well-known within the Federal IT community, and he comes to us from the Office of Inspector General (OIG) at the Department of Homeland Security (DHS) where he was a Special Advisor and former CIO. He's experienced in the areas of IT shared-services, business process reengineering, cloud computing, identity management, unified communications, enterprise mobility, and project management. Bobby's built bridges between Government and industry in an effort to ensure access to forward-leaning IT and cybersecurity solutions, and he also builds collaborative relationships across the organizations in which he's served. Bobby's experience includes Information Security Manager for the National Nuclear Security Administration at the Department of Energy (DOE); Director of Telecommunications and Client Services at the Office of Inspector General (OIG) for the U.S. Postal Service; and Security Specialist in the Office of Special Projects at Navy.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
+    </p>
+  </div>
+</div>
+
 <!-- EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE - EEEEE -->
 
 <h2 id="E">
@@ -1396,6 +1417,30 @@ created: 1601325079
 <p style="text-align:right;">
   <a href="#top">Back to Top</a>
 </p>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-oden.png" alt="Dennis Oden" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="oden">
+      <strong>Dennis Oden</strong>
+    </p>
+    <p>
+      <em><span>Accessibility Program Manager</span></em><br /><span>Merit Systems Protection Board (MSPB)</span>
+    </p>
+    <p>
+      <span>Dennis is the Accessibility Program Manager for the U.S. Merit Systems Protection Board.  In that capacity, he is responsible for developing a comprehensive Rehabilitation Act Section 504 and 508 Accessibility Program.  He brings over 15 years of Federal experience, most recently at the U.S. General Services Administration where he served as Director of the Civil Rights Division.  He worked to promote accessibility in Federal facilities and technology, and he provided direct assistance to non-profit organizations through the donation of millions of dollars in Federal surplus property.  Prior to GSA, Dennis spent a number of years at the Department of Homeland Security’s Office for Civil Rights and Civil Liberties, the Internal Revenue Service’s Office of Equity, Diversity, and Inclusion, the US Citizenship and Immigration Services’ Office of Equal Opportunity and Inclusion, and Department of Defense agencies.</span>
+    </p>
+    <p>
+      <span>Dennis has two children and a husband, and he spent over seven years as a volunteer paramedic in Prince William County, Virginia. Dennis also has a passion for trivia and game shows, and he was on "Who Wants to be a Millionaire" in 2016.</span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>MSPB General Session</span></em></a>
+    </p>
+  </div>
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">

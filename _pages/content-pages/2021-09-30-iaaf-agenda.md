@@ -23,6 +23,8 @@ created: 1600981839
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
+      <br><br>
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duff">Robert "Bobby" Duff,</a></b></span> Chief Information Officer and Director of the Office of Information Resources Management (IRM),	Merit Systems Protection Board (MSPB)
     </div>
   </div>
 
