@@ -142,6 +142,30 @@ created: 1601325079
   </div>
 </div>
 
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-borowicz.png" alt="Kimberly Borowicz" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="borowicz">
+      <strong>Kimberly Borowicz</strong>
+    </p>
+    <p>
+      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+    </p>
+    <p>
+      <span>Kim works with the 508 Program Office at the Department of Labor (DOL) where she focuses on policy and contracts.  She is a lawyer who has committed her career to disability rights law and has also worked in other areas of the Rehabilitation Act during her career, such as housing rights and reasonable accommodations in federal employment.  In her free time she enjoys playing the violin and being funny with her improvisation troop.</span>
+    </p>
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1b"><em><span>Accessibility First: Creating a Native Mobile App for Veterans</span></em></a>
+    </p>    
+    <p>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Web Accessibility at the CFPB</span></em></a>
+    </p>
+  </div>
+</div>
+
 <!-- BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB -->
 
 <h2 id="B">
@@ -371,7 +395,7 @@ created: 1601325079
       <span>Andy Chosak is a web developer in the Office of Technology and Innovation at the Consumer Financial Protection Bureau. A member of the CFPB’s in-house Design and Development team since 2016, Mr. Chosak builds and maintains websites and other open-source software to support, educate, and empower the American consumer. He brings 20 years of technology experience to the challenge of ensuring that CFPB digital products and services are fully accessible to all.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Accessibility Testing at the CFPB: A Case Study</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3b"><em><span>Web Accessibility at the CFPB</span></em></a>
     </p>
   </div>
 </div>
@@ -650,7 +674,7 @@ created: 1601325079
       <strong>John Gordy</strong>
     </p>
     <p>
-      <em><span>Digital Projects</span></em><br /><span>National Gallery of Art</span>
+      <em><span>Digital Projects</span></em><br /><span>National Gallery of Art (NGA)</span>
     </p>
     <p>
       <span>John Gordy develops digital projects to serve the visitors at the National Gallery of Art in Washington DC. He designs websites and mobile applications that deliver interpretive material to customers. These tools help multiple audiences connect to the artwork in the museum.</span>
@@ -1040,7 +1064,8 @@ created: 1601325079
       <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
     <p>
-      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, and the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and for many years, she has served as an appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the fields of digitalisation, inclusion and e-government at a senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+    <p>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals (IAAP), the Representative to the European Union for the UN initiative G3ict and IAAP, and the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>

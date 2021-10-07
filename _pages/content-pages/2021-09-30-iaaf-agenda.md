@@ -98,10 +98,10 @@ created: 1600981839
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d1bs1b">
       <div class="brown-breakout-header">Track B: Create Amazing Content</div>
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility First: Creating a Native Mobile App for Veterans</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The VA Office of the CTO, along with its partners Ad Hoc and Digital Foundry, created a native mobile flagship app. This app makes it easy for Veterans to check the status of their benefits and complete simple, transactional interactions. The app was designed and developed with an “accessibility first” mindset, and we will talk in detail about how we built in accessibility every day during our design and development process.</span> 
-      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD</a></b>, </span> General Services Administration (GSA)
-      </div> -->
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#borowicz">Kimberly Borowicz</a></b>, </span> Department of Labor (DOL)
+      </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#wilkes">Martha Wilkes</a></b>, </span>U.S. Digital Service
@@ -235,10 +235,10 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d1bs3b">Track B: Create Amazing Content</div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Web Accessibility at the CFPB</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The CFPB maintains a large public-facing website at www.consumerfinance.gov. Its design and development team is tasked with ensuring Section 508 compliance so that its content is accessible to all, a challenge given the large number of pages and diversity of content. This talk will present strategies used to meet this challenge, including creation of a design system and use of free, open-source automated accessibility testing tools.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b></span> General Services Administration (GSA)
-        </div> --> 
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#borowicz">Kimberly Borowicz</a></b></span> Department of Labor (DOL)
+        </div>  
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#chosak">Andy Chosak,</a></b> </span> Consumer Financial Protection Bureau (CFPB)
@@ -253,7 +253,7 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The National Gallery of Art recently launched a large-scale project to make our website more accessible by drafting short descriptions of each of the approximately 200,000 images. Learn how we developed an onboarding process and flexible, scalable workflow that leverages the available time and interests of staff and volunteers. In addition to making the website more accessible, this project builds buy-in and builds capacity for more than one hundred colleagues associated with the institution.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gordy">John Gordy,</a></b> </span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gordy">John Gordy,</a></b> </span> National Gallery of Art (NGA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
