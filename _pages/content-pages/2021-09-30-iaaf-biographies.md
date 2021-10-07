@@ -145,7 +145,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-borowicz.png" alt="Kimberly Borowicz" />
+    <img src="/assets/images/bio-images-iaaf/bio-borowicz.png" alt="Kimberly Borowicz" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="borowicz">
@@ -224,7 +224,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-brooks.png" alt="Dexter Brooks" />
+    <img src="/assets/images/bio-images-iaaf/bio-brooks.png" alt="Dexter Brooks" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lowerlastname">
@@ -318,7 +318,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-campbell.png" alt="Cheryl Campbell" />
+    <img src="/assets/images/bio-images-iaaf/bio-campbell.png" alt="Cheryl Campbell" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="campbell">
@@ -535,7 +535,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-duffy.png" alt="Robert 'Bobby' Duffy" />
+    <img src="/assets/images/bio-images-iaaf/bio-duffy.png" alt="Robert 'Bobby' Duffy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="duffy">
@@ -982,7 +982,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-johnson.png" alt="Antoinette  Johnson" />
+    <img src="/assets/images/bio-images-iaaf/bio-johnson.png" alt="Antoinette  Johnson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="johnson">
@@ -1036,7 +1036,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kale.png" alt="Katy Kale" />
+    <img src="/assets/images/bio-images-iaaf/bio-kale.png" alt="Katy Kale" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kale">
@@ -1122,7 +1122,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.png" alt="Susanna Laurin" />
+    <img src="/assets/images/bio-images-iaaf/bio-laurin.png" alt="Susanna Laurin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
@@ -1413,7 +1413,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-oden.png" alt="Dennis Oden" />
+    <img src="/assets/images/bio-images-iaaf/bio-oden.png" alt="Dennis Oden" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="oden">
@@ -1680,7 +1680,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.png" alt="Sid Sharma" />
+    <img src="/assets/images/bio-images-iaaf/bio-sharma.png" alt="Sid Sharma" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sharma">
@@ -1751,7 +1751,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-small.png" alt="Elizabeth Small" />
+    <img src="/assets/images/bio-images-iaaf/bio-small.png" alt="Elizabeth Small" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="small">
@@ -1798,7 +1798,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-stassum.png" alt="Keivan G. Stassun" />
+    <img src="/assets/images/bio-images-iaaf/bio-stassum.png" alt="Keivan G. Stassun" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="stassun">
@@ -2028,7 +2028,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.png" alt="David Whittington" />
+    <img src="/assets/images/bio-images-iaaf/bio-whittington.png" alt="David Whittington" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="whittington">
@@ -2070,7 +2070,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-komissarenko.png" alt="Jennifer Komissarenko" />
+    <img src="/assets/images/bio-images-iaaf/bio-komissarenko.png" alt="Jennifer Komissarenko" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="komissarenko">
@@ -2142,7 +2142,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-windly.png" alt="William Windly" />
+    <img src="/assets/images/bio-images-iaaf/bio-windly.png" alt="William Windly" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="windly">
