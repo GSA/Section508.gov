@@ -509,11 +509,11 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-duffy.png" alt="Robert 'Bobby' Duff" />
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-duffy.png" alt="Robert 'Bobby' Duffy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="duff">
-      <strong>Robert 'Bobby' Duff</strong>
+    <p id="duffy">
+      <strong>Robert 'Bobby' Duffy</strong>
     </p>
     <p>
       <em><span>Chief Information Officer and Director of the Office of Information Resources Management (IRM)</span></em><br /><span>Merit Systems Protection Board (MSPB)</span>
@@ -526,6 +526,9 @@ created: 1601325079
     </p>
     <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Small Wonder – Building a 508 Program at a Small Agency</span></em></a>
     </p>
   </div>
 </div>
@@ -1399,7 +1402,7 @@ created: 1601325079
       <span>Dennis has two children and a husband, and he spent over seven years as a volunteer paramedic in Prince William County, Virginia. Dennis also has a passion for trivia and game shows, and he was on "Who Wants to be a Millionaire" in 2016.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>MSPB General Session</span></em></a>
+      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Small Wonder – Building a 508 Program at a Small Agency</span></em></a>
     </p>
   </div>
 </div>

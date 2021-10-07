@@ -24,7 +24,7 @@ created: 1600981839
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
       <br><br>
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duff">Robert "Bobby" Duff,</a></b></span> Chief Information Officer and Director of the Office of Information Resources Management (IRM),	Merit Systems Protection Board (MSPB)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> Chief Information Officer and Director of the Office of Information Resources Management (IRM),	Merit Systems Protection Board (MSPB)
     </div>
   </div>
 
@@ -53,21 +53,15 @@ created: 1600981839
       12:50 P.M. – 1:35 P.M. <br><span class="session-type">General Session</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-      <span class="session-type">Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle</span><span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</span>
+      <span class="session-type">Small Wonder – Building a 508 Program at a Small Agency</span><span class="session-description">Building a 508 program can be challenging, even with entire teams of experts on hand…let alone when your agency has a couple of hundred people at most.  Join Bobby Duffy, CIO at MSPB, and Dennis Oden, Accessibility Program Manager to hear and discuss tips and tricks for programs that consist of “me, myself, and I."</span>
       <br /> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Denis Oden,</a></b></span> Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Dennis Oden,</a></b></span> Department of Labor (DOL)
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b></span> U.S. Merit Systems Protection Board
-      </div> 
-      <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b></span> U.S. Merit Systems Protection Board
-      </div>
-      <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b></span> U.S. Merit Systems Protection Board
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> U.S. Merit Systems Protection Board
       </div>
     </div> 
   </div> 
