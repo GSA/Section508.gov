@@ -1104,7 +1104,7 @@ created: 1601325079
     <img src="https://assets.section508.gov/files/bio-images/bio-leblois.png" alt="Axel Lebois" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlleboisastname">
+    <p id="leblois">
       <strong>Axel Leblois</strong>
     </p>
     <p>
@@ -1122,29 +1122,6 @@ created: 1601325079
     </p>
   </div>
 </div>
-
-<!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-leibert.png" alt="Ellen Liebert" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="liebert">
-      <strong>Ellen Liebert</strong>
-    </p>
-    <p>
-      <em><span>TITLE</span></em><br /><span>National Security Agency (NSA)</span>
-    </p>
-    <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
-    </p>
-  </div>
-</div> -->
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
