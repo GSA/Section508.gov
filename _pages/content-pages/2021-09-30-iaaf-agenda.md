@@ -626,6 +626,9 @@ created: 1600981839
           <span class="speaker-name"><b><a href="/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1">
+          <span class="speaker-name"><b><a href="/iaaf/biographies-2021#brooks">Dexter Brooks,</a></b></span> <span>Equal Employment Opportunity Commission (EEOC)</span>
+        </div>
+        <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="/iaaf/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
         </div>
         <div class="speaker-info padding-top-1">
