@@ -1077,7 +1077,7 @@ created: 1601325079
 </p>
 
 <!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
+<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-laurin.png" alt="Susanna Laurin" />
   </div>
@@ -1096,7 +1096,7 @@ created: 1601325079
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
     </p>
   </div>
-</div>
+</div> -->
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -1111,8 +1111,7 @@ created: 1601325079
       <em><span>President and Executive Director</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ict)</span>
     </p>
     <p>
-      <span>
-      Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the boards of several publicly traded technology companies.</span>
+      <span>Axel Leblois is the president of G3ict, the Global Initiative for Inclusive ICTs, a global advocacy organization founded in 2006 at the initiative of the United Nations Department of Social and Economic Affairs, the IT industry and organizations of persons with disabilities to promote the digital accessibility and assistive technologies dispositions of the Convention on the Rights of Persons with Disabilities. Prior to leading G3ict, Axel Leblois spent over 20 years at the helm of information technology companies in the United States including as CEO of Computerworld Communications, CEO of IDC - International Data Corporation, Vice-Chairman of IDG - International Data Group, President of Bull HN Worldwide Information Systems - formerly Honeywell Information Systems, and CEO of ExecuTrain while serving on the boards of several publicly traded technology companies.</span>
     </p>
     <p>
       <span>In his capacity as President of G3ict, Axel oversees global advocacy and capacity building programs including through its division, the International Association of Accessibility Professionals (IAAP), through the M-Enabling Summit series in the U.S. and Europe, the e-Accessibility Policy Toolkit for Persons with Disabilities jointly with the ITU, SmartCities4All, GAATES, Access to Justice and the DARE Index – Digital Accessibility Rights Evaluation Index – covering 130 countries in cooperation with Disabled People’s International.</span>
