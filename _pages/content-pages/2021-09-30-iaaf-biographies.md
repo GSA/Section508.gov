@@ -602,7 +602,7 @@ created: 1601325079
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-farraj-faied.png" alt="Mayora Faied" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-faied.png" alt="Mayora Faied" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
