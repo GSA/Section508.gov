@@ -711,4 +711,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> September 2021 </p>
+<p><strong>Reviewed/Updated: </strong> October 2021 </p>
