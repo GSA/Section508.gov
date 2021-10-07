@@ -347,7 +347,7 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
+<div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-carr.png" alt="Annette Carr" />
   </div>
@@ -355,17 +355,17 @@ created: 1601325079
     <p id="carr">
       <strong>Annette Carr</strong>
     </p>
-    <p>
+    <!-- <p>
       <em><span>TITLE-GOES-HERE</span></em><br /><span>Department of Transportation (DOT)</span>
     </p>
     <p>
       <span>BIO-GIES-HERE</span>
-    </p>
+    </p> -->
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
-</div> -->
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
