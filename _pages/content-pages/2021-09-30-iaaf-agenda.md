@@ -19,7 +19,7 @@ created: 1600981839
   
   <div class="grid-row welcome" id="welcome">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d1w">
-      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome</span>
+      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
@@ -287,7 +287,7 @@ created: 1600981839
   
   <div class="grid-row welcome" id="welcome">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d2w">
-      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome</span>
+      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">HHS Assistance Secretary</a></b></span>, Assistant Secretary, Department of Healthg and Human Services (HHS)
@@ -550,10 +550,10 @@ created: 1600981839
   <div class="agenda usa-graphic-list__row container" id="day3">
   <!-- start DAY 3 agenda -->
     <div class="grid-row welcome">
-      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d3w">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome</span></div>
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d3w">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome and Opening Remarks</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
-        <br>
+        <br><br>
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Informaiton Officers, Department of Labor (DOL)
       </div>
     </div>
@@ -568,7 +568,7 @@ created: 1600981839
         </div> -->
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#cregan">Tim Creagan,</a></b></span> U.S. Access Board
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)

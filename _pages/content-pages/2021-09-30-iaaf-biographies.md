@@ -270,7 +270,7 @@ created: 1601325079
       <span>Krystal currently serves on the Board of Governors of the Aero Club of Washington as the Policy and Programs Committee Co-Chair and recently served on the Board of Directors for the DC Water and Sewer Authority (DC Water) as Commissioner and Vice Chair, appointed by Mayor Muriel Bowser. She was also appointed by Mayor Bowser to serve on the Transportation and Infrastructure Subcommittee of the ReOpen DC Advisory Group amid the COVID-19 pandemic. Krystal is a member of Delta Sigma Theta Sorority, Inc. </span>
     </p>    
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span>Welcome</span></em> on Day 3</a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3w"><em><span> on Day 3</span></em></a>
     </p>
   </div>
 </div>
@@ -501,7 +501,7 @@ created: 1601325079
       <span>U.S. Senator Tammy Duckworth is an Iraq War Veteran, Purple Heart recipient and former Assistant Secretary of the U.S. Department of Veterans Affairs who was among the first handful of Army women to fly combat missions during Operation Iraqi Freedom. Duckworth served in the Reserve Forces for 23 years before retiring at the rank of Lieutenant Colonel in 2014. She was elected to the U.S. Senate in 2016 after representing Illinois’s Eighth Congressional District in the U.S. House of Representatives for two terms. Read <a href="https://www.duckworth.senate.gov/about-tammy/biography" class="session-link">Senator Duckworth's full biography</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome</span></em> on Day 2</a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2w"><em><span>Welcome on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -1045,7 +1045,7 @@ created: 1601325079
       <span>Katy is a graduate of George Mason University.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome on Day 1</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Welcome on Day 1</span></em></a>
     </p>
   </div>
 </div>
