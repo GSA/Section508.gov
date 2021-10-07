@@ -7,7 +7,7 @@ title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2021'
 created: 1600981839
 ---
 
-<img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" />
+<a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" /></a>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 12th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 13th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 14th</a></b>
@@ -34,11 +34,8 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design<br><br>
-      <!--<div class="speaker-info padding-top-1">
-        <span class="session-type text-highlight">Moderator:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration (GSA)
-      </div>-->
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pomeroy">Daniel Pomeroy,</a></b> </span>Deputy Associate Administrator, Office of Information Integrity and Access, General Services Administration (GSA)<br><br>
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
     </div>
   </div>
   
@@ -260,7 +257,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deupaty Associate Administrator
+        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deputy Associate Administrator
       </div>
     </div> 
   </div> 
@@ -426,12 +423,12 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#faied">Maroya Faied,</a></b> </span> Office of Natural Resources Revenue (ONRR)
-        </div> 
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
@@ -485,7 +482,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#jubar">Brandon Jubar,</a></b></span> Department of Labor (DOL)
         </div> 
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Brandon’s Director,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Director,</a></b></span> Department of Labor (DOL)
         </div> -->
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -512,14 +509,14 @@ created: 1600981839
         <!-- <div class="brown-breakout-header" id="d2bs3c">
           Track C: Buy and Manage Compliance
         </div>
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">The 15%</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Disability does not discriminate between race, age, class or gender. The reality is that anyone, even you, can be a part of this minority group at any point in life. “Around 15%, or one billion people, experience some form of disability” (WorldBank.org). While federal employers recognize the asset that people with disabilities are in the workplace, we need to ensure our training materials, computer applications and accommodations are well-designed and available in a timely manner.</span> 
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">TITLE</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">DESCRIPTION.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#hays">Esubalew (Ethan) Johnston,</a></b></span> Social Security Administration (SSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration
         </div> 
       </div>-->
     </div> 
@@ -554,7 +551,7 @@ created: 1600981839
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm"><!-- description goes here --></span>
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental  part of what the government stands for in supporting its employees and the American public. Today you will get a brief look at that foundation....its past, present, and future.</span>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Adminsitration (GSA)
@@ -587,7 +584,7 @@ created: 1600981839
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <span class="session-type">Department of Labor Panel Discussion</span>
-        <!--<span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> -->
+        <!--<span class="session-description">DESCRIPTION.</span> -->
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration (GSA)
@@ -604,9 +601,7 @@ created: 1600981839
         </div>
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a></span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a></span>
+          <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span>
         </div> -->
       </div> 
     </div>
@@ -618,7 +613,7 @@ created: 1600981839
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <span class="session-type">Ask the Expert</span> 
-        <!-- <span class="session-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span> -->
+        <span class="session-description">End your IAAF experience with an opportunity to compare visions from key governmentwide accessibility experts! Mark Urban queries an all-star panel of leaders from the US Access Board, the General Services Administration (GSA), and National Aeronautics and Space Administration (NASA) as they peer into the past and future of Digital Accessibility, and answer questions about its’ broader role as part of the emerging governmentwide Diversity, Equity, Inclusion, and Accessibility efforts.</span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
@@ -635,9 +630,7 @@ created: 1600981839
         </div>            
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt2.pptx">IAAF 2020 - Accessibility on an International Scale - Part 2 (PPT)</a></span><br>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020_Accessibility_International_Scale_pt3.pptx">IAAF 2020 - Accessibility on an International Scale - Part 3 (PPT)</a></span>
+          <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span>
         </div> -->
       </div> 
     </div> 

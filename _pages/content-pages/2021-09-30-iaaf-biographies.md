@@ -7,8 +7,8 @@ title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies
 created: 1601325079
 ---
 
-<p style="text-align:center;">
-  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" />
+<p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
+  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" /></a>
 </p>
 
 <p style="text-align:center;" id="top">
@@ -198,30 +198,6 @@ created: 1601325079
 </div>
 
 <!-- NEW BIO -->
-<!--
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-bradley.png" alt="Rachel Bradley" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="bradley">
-      <strong>Rachel Bradley</strong>
-    </p>
-    <p>
-      <em><span></span></em><br /><span>Library of Congress (LOC)</span>
-    </p>
-    <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
-    </p>
-  </div>
-</div> -->
-
-<!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-brooks.png" alt="Dexter Brooks" />
@@ -341,7 +317,7 @@ created: 1601325079
       <span>Ms. Campbell earned a Dual Global Executive MBA from Georgetown’s McDonough School of Business and ESADE Business & Law School. She also holds a BS in Information Systems Management from the University of Maryland and is the wife of Stanley Campbell and mother of three sons, Christopher, Alan and Stanley III.</span>
     </p>
     <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Openin Remarks</span></em></a>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome and Opening Remarks</span></em></a>
     </p>
   </div>
 </div>
@@ -374,7 +350,7 @@ created: 1601325079
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="center">
-      <strong>Jennifer Center</strong>
+      <strong>Jessica Center</strong>
     </p>
     <p>
       <em><span>Branch Director, Access and Equity, Office of Equity, Diversity, and Inclusion</span></em><br /><span>National Institute of Health (NIH)</span>
@@ -702,6 +678,27 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="https://assets.section508.gov/files/bio-images/bio-goldstein.png" alt="Lindsay Goldstein" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="goldstein">
+      <strong>Lindsay Goldstein</strong>
+    </p>
+    <p>
+      <em><span>Program Analyst</span></em><br /><span>Office of Natural Resources Revenue (ONRR)</span>
+    </p>
+    <p>
+      <span>Lindsay Goldstein is a Program Analyst with the Open Data, Design & Display team in the Office of Natural Resources Revenue (ONRR) in the Department of the Interior (DOI). An economist by training, she made her way over to civic tech a few years ago and there's no turning back. She loves learning and sharing new methods of making government accessible for everyone.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-gordy.png" alt="John Gordy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -771,29 +768,6 @@ created: 1601325079
     </p>
   </div>
 </div>
-
-<!-- NEW BIO -->
-<!-- <div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-hapner.png" alt="Bridget Hapner" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="hapner">
-      <strong>Bridget Hapner</strong>
-    </p>
-    <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
-    </p>
-    <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
-    </p>
-  </div>
-</div> -->
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
@@ -1394,9 +1368,6 @@ created: 1601325079
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3k"><em><span>Accessibility: A Look At The Foundation (Past, Present and Future)</span></em></a>
     </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
-    </p>
   </div>
 </div>
 
@@ -1458,6 +1429,9 @@ created: 1601325079
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
     </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
+    </p>
   </div>
 </div>
 
@@ -1484,8 +1458,7 @@ created: 1601325079
       <em><span>Executive Director"</span></em><br /><span>United States Access Board</span>
     </p>
     <p>
-      <span>Sachin Pavithran was born in India, but grew up in Dubai, in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators at both the federal and state government levels to bring change in policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election processes for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.
-      </span>
+      <span>Sachin Pavithran was born in India, but grew up in Dubai, in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators at both the federal and state government levels to bring change in policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election processes for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
@@ -1516,7 +1489,7 @@ created: 1601325079
       <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
     </p>
     <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 1</span></em></a>
+      <em><span>Introduction: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1768,9 +1741,6 @@ created: 1601325079
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to support cognitive and learning disabilities</span></em></a>
     </p>
-    <p>
-      <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2b"><em><span>From 5,000 to 0: Prioritizing Documents for Remediation</span></em></a>
-    </p>
   </div>
 </div>
 
@@ -1825,7 +1795,7 @@ created: 1601325079
       <strong>John Sullivan</strong>
     </p>
     <p>
-      <em><span>Director, Government-wide IT Accessibility Program</span></em><br /><span>General Services Administration (GSA)</span>
+      <em><span>Senior Technology Advisor to the Deputy Associate Administrator</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
       <span>John Sullivan serves as the Senior Technology Advisor to the GSA Deputy Associate Administrator for Government-wide Policy, providing guidance to agencies implementing federal information technology policy directives.  In this capacity, John advises the Government-wide IT Accessibility Program, which he directed for several years.  John has 33 years of public service spanning the Environmental Protection Agency, the Office of Management and Budget, and the General Services Administration, spending many years building enterprise architecture programs, information integration, data standards, and geospatial information initiatives at the agency, inter-agency, and inter-governmental levels.</span>
