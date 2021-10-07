@@ -19,10 +19,11 @@ created: 1600981839
   
   <div class="grid-row welcome" id="welcome">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d1w">
-      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome</span>
+      12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)<br>
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duff">Bobby Duff,</a></b></span> Chief Information Officer, Merit Systems Protection Board (MSPB)
     </div>
   </div>
 

@@ -853,7 +853,7 @@ created: 1601325079
       <span>Judy graduated from Long Island University in Brooklyn, NY in 1969 and received her Master’s in Public Health from the University of California at Berkeley in 1975. She has received numerous awards including being the first recipient of the Henry B. Betts Award in recognition of efforts to significantly improve the quality of life for people with disabilities and the Max Starkloff Lifetime Achievement Award from the National Council on Independent Living. She has been awarded numerous honorary doctorates.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote  on Day 2</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2k"><em><span>Keynote on Day 2</span></em></a>
     </p>
   </div>
 </div>
@@ -1019,6 +1019,36 @@ created: 1601325079
 <p style="text-align:right;">
   <a href="#top">Back to Top</a>
 </p>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kale.png" alt="Katy Kale" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="kale">
+      <strong>Katy Kale</strong>
+    </p>
+    <p>
+      <em><span>Deputy Administrator</span></em><br /><span>General Services Administration (GSA)</span>
+    </p>
+    <p>
+      <span>In this capacity, she leads a staff of more than 11,200 GSA employees nationwide, overseeing more than 370 million square feet of property, approximately $75 billion in annual contracts, 4.9 million government credit and purchase cards, and 225,000 leased vehicles within GSA’s fleet.</span>
+    </p>
+    <p>
+      <span>Prior to serving as the Deputy Administrator and Acting Administrator of GSA, Katy was President and Chief Operating Officer of Elevate. There she led growth strategy, operational process, financial planning, and performance management, and ensured all were aligned with the broader purpose of serving the nonprofit sector.</span>
+    </p>
+    <p>
+      <span>A public servant at heart, Katy was a senior leader in the Obama Administration, serving as Assistant to the President for Management and Administration, Director of White House Operations, and Chief of Staff of the US General Services Administration. She also served 10 years in the United States Senate working on operational and legislative issues for several senators.</span>
+    </p>
+    <p>
+      <span>Katy is a graduate of George Mason University.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1w"><em><span>Welcome on Day 1</span></em></a>
+    </p>
+  </div>
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
