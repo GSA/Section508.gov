@@ -364,10 +364,10 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Creating Accessible Fillable PDF Forms in Adobe Indesign</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How to easily build a fillable form in Adobe Indesign that satisfies accessibility requirements.<br />
       Using style sheets and other basic program features, we will produce a simple 508 compliant PDF form that will need no further external adjustment.
       </span> 
-      <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>TBD
-      </div> --> 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#windly">William Windly,</a></b> </span><!-- Office -->
+      </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lindemuth">Charles Lindemuth,</a></b> </span>U.S. Forest Service, Department of Agriculture (USDA)
@@ -496,14 +496,17 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">What is the Current State of Audio Description in the US Federal Government?</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The CFPB maintains a large public-facing website at www.consumerfinance.gov. Its design and development team is tasked with ensuring Section 508 compliance so that its content is accessible to all, a challenge given the large number of pages and diversity of content. This talk will present strategies used to meet this challenge, including creation of a design system and use of free, open-source automated accessibility testing tools.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b> </span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span> National Institutes of Health (NIH)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b></span> National Institutes of Health (NIH)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#sheehan">Pat Sheehan,</a> </b> </span> Department of Veteran Affairs (VA)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#sheehan">Pat Sheehan,</a></b></span> Department of Veteran Affairs (VA)
+        </div>
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Joel Snyder,</a></b></span> Audio Description Associates, LLC
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
