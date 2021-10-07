@@ -509,7 +509,7 @@ created: 1600981839
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
-        <div class="brown-breakout-header" id="d2bs3c">
+        <!-- <div class="brown-breakout-header" id="d2bs3c">
           Track C: Buy and Manage Compliance
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">The 15%</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Disability does not discriminate between race, age, class or gender. The reality is that anyone, even you, can be a part of this minority group at any point in life. “Around 15%, or one billion people, experience some form of disability” (WorldBank.org). While federal employers recognize the asset that people with disabilities are in the workplace, we need to ensure our training materials, computer applications and accommodations are well-designed and available in a timely manner.</span> 
@@ -521,7 +521,7 @@ created: 1600981839
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#hays">Esubalew (Ethan) Johnston,</a></b></span> Social Security Administration (SSA)
         </div> 
-      </div>
+      </div>-->
     </div> 
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
