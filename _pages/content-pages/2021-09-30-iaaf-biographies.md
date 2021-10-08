@@ -330,12 +330,15 @@ created: 1601325079
     <p id="carr">
       <strong>Annette Carr</strong>
     </p>
-    <!-- <p>
-      <em><span>TITLE-GOES-HERE</span></em><br /><span>Department of Transportation (DOT)</span>
+    <p>
+      <em><span>Disability Program Manager (DPM)</span></em><br /><span>Transportation Security Administration (TSA)</span>
     </p>
     <p>
-      <span>BIO-GIES-HERE</span>
-    </p> -->
+      <span>Annette Carr is a name that is not new to those in the Section 508 and assistive technology arenas.  She is currently the Disability Program Manager (DPM) at the Transportation Security Administration (TSA).  Prior to her arrival at TSA in July 2020, she held the position of Acting DPM for the Department of Transportation (DOT), and before that she was a Reasonable Accommodations Analyst in DOT’s Disability Resource Center (DRC).</span>
+    </p>
+    <p>
+      <span>Annette’s decades of experience in assistive technology and the rights of people with disabilities, within both the public and private sectors, supports her work at TSA with leading the agency’s Disability Employment program.  She works collaboratively with TSA’s Reasonable Accommodation, Selective Placement, Section 508 and Facility Operations Offices to ensure that TSA is a diverse, inclusive and accessible workplace.</span>
+    </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
@@ -1154,6 +1157,34 @@ created: 1601325079
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1b"><em><span>Creating Accessible Fillable PDF Forms in Adobe Indesign</span></em></a>
+    </p>
+  </div>
+</div>
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-looney.png" alt="Michael Looney" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="looney">
+      <strong>Michael Looney</strong>
+    </p>
+    <p>
+      <em><span>Disabilities Program Manager</span></em><br /><span>Federal Aviation Administration (FAA)</span>
+    </p>
+    <p>
+      <span>
+      Michael Looney currently works for the Federal Aviation Administration (FAA) as the National People with Disabilities Program Manager. In this role, he is responsible for ensuring the agency creates an inclusive work environment for individuals with disabilities (IWD).</span>
+    </p>
+    <p>
+      <span>Michael’s career in the disability field began in 2007, when he accepted the position as a Vocational Rehabilitation Counselor with the Pennsylvania Office of Vocational Rehabilitation.</span>
+    </p>
+    <p>
+      <span>He has held many distinguished position though out his federal service. At Both Federal Emergency Management Agency (FEMA), and Transportation Security Administration (TSA) he worked as the Disability Program Manager within these organizations. He ensured in creating an inclusive work environment for IWDs, took charge in providing reasonable accommodations for employees and applicants with disabilities, encourage the increases hiring of IWD in the workforce, and provided guidance to the organizations on disability related matters.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs1a"><em><span>Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span></em></a>
     </p>
   </div>
 </div>
