@@ -257,7 +257,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deputy Associate Administrator
+        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deputy Associate Administrator, General Services Adminsitration (GSA)
       </div>
     </div> 
   </div> 
