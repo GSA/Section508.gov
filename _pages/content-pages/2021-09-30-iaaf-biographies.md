@@ -304,8 +304,7 @@ created: 1601325079
       <em><span>Assistant Secretary for Administration (ASA)</span></em><br /><span>Department of Health and Human Services (HHS)</span>
     </p>
     <p>
-      <span>
-      "Cheryl Campbell is appointed as the permanent HHS Assistant Secretary for Administration. Ms. Campbell was previously serving in an acting role since March,2021 where she has already laid the groundwork for 21 century HHS operations.  The Office of the Assistant Secretary for Administration (ASA) is responsible for the delivery of high quality, cost effective, and timely mission support services for HHS and through the critical transition period Ms. Campbell has led the agencies administration through many of the nation and the world’s most challenging issues. ASA’s portfolio of responsibilities is broad: it includes the provisioning and management of human resources, technology, facilities, acquisitions, employee safety, security, labor relations, equal employment opportunity, diversity and inclusion. Ms. Campbell is the first person to hold the position that has leadership experience at each of the HHS Op/Div and Staff/Div’s and she will be the first female Assistant Secretary for Administration and first person of color to serve as the Assistant Secretary for Administration.</span>
+      <span>Cheryl Campbell is appointed as the permanent HHS Assistant Secretary for Administration. Ms. Campbell was previously serving in an acting role since March,2021 where she has already laid the groundwork for 21 century HHS operations.  The Office of the Assistant Secretary for Administration (ASA) is responsible for the delivery of high quality, cost effective, and timely mission support services for HHS and through the critical transition period Ms. Campbell has led the agencies administration through many of the nation and the world’s most challenging issues. ASA’s portfolio of responsibilities is broad: it includes the provisioning and management of human resources, technology, facilities, acquisitions, employee safety, security, labor relations, equal employment opportunity, diversity and inclusion. Ms. Campbell is the first person to hold the position that has leadership experience at each of the HHS Op/Div and Staff/Div’s and she will be the first female Assistant Secretary for Administration and first person of color to serve as the Assistant Secretary for Administration.</span>
     </p>
     <p>
       <span>Ms. Campbell has an extensive background as a chief corporate executive with over 30 years of profit-driven results, annual budget planning, quarterly budget and forecast performance, operations, human capital acquisition and retention, P&L management, and strategic planning. She has supported HHS OpDiv’s throughout her career and is a known and trusted entity throughout HHS.  Ms. Campbell is the founder and past CEO of the EagleForce Warrior Foundation, which supports wounded, ill and injured military service members and their extended families as they recover in the Department of Defense’s critical care facilities.</span>
@@ -1832,7 +1831,7 @@ created: 1601325079
       <em><span>Senior Human Factors Engineer</span></em><br /><span>MITRE</span>
     </p>
     <p>
-      <span>Ronna ten Brink has a rich experience in human-centered design and research through my work, play, and educational background. I study how humans understand and react to the world and how we can use this knowledge to build intuitive, effective, and safe interfaces and processes. In my spare time, I make useful/beautiful things with my hands and nerd out over workflows. I aim to be human-centered and boundary-pushing. I also enjoy thinking about how a product/service fits into the wider world and have experience using business analytics and data to uncover and strengthen insights.</span>
+      <span>Ronna ten Brink is a Senior Human Factors Engineer at The MITRE Corporation, where she supports federal government agencies creating effective, efficient, and delightful user experiences. She studied Engineering Psychology and Computer Science at Tufts University. Ronna conducts usability and accessibility research and design on a variety of topics, including chatbots, authentication, and human-machine teaming applications.</span>
     </p>
     <p>
       <span>What I'm thinking about now: how to transform the all-too-commonly-one-way info exchange (“interface → human”) into a two-way dialogue, where the interface responds to the user’s needs, physical and cognitive state, and behavioral history.</span>
@@ -1966,7 +1965,7 @@ created: 1601325079
       <em><span>Technical Advisor</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
     <p>
-      <span>With 15 years of experience focusing on leading cross-functional communication programs in public and non-profit sectors, Alcora is dedicated to building a legacy recognized for solving business problems through customer-centric communications.</span>
+      <span>Alcora Walden is Technical Advisor at the Internal Revenue Service in the Office of Online Services where she hopes to solve business problems through customer-centric communications and experiences. She holds a Bachelor’s degree in Public Relations from the University of Maryland and a Master’s of Public Administration from American University.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
@@ -2157,14 +2156,7 @@ created: 1601325079
       <span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>
-      I have been a researcher for over 7+ years working on various consumer, enterprise, fintech, government products, programs, and services. I've held fellowships at IDEO, Cinereach, and the Yerba Buena Center for the Arts. Currently, I am White House Presidential Innovation Fellow detailed to the Cybersecurity and Infrastructure Security Agency (CISA) and a LatinX VC Fellow.</span>
-    </p>
-    <p>
-      <span>My specializations include inclusive design and accessibility research. I am interested in how we can develop new technologies to solve some of the most complex problems. I have experience with hardware, software, web, and mobile development.</span>
-    </p>
-    <p>
-      <span>The Interactive Telecommunications Program at New York University is often referred to as "the Center for the Recently Possible". I spent two years exploring the intersections of design, research, engineering, and computer science. My master's thesis was on radio based multi-user data networks.</span>
+      <span>Pia Zaragoza is a Presidential Innovation Fellow detailed to the Cybersecurity and Infrastructure Security Agency. She is a co-lead of the Accessibility Guild and a Diversity, Equity, and Inclusion Representative at the Technology Transformation Services (TTS) agency. Previously, she was the Vice President of Accessibility Research and Insights at a Fortune 500 bank.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
