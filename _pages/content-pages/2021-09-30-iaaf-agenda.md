@@ -743,7 +743,7 @@ created: 1600981839
           <a href="https://www.splashbox.com" target="_blank"><strong>Splash Box</strong></a>: At Splash Box we help our clients align marketing and branding strategies with their business objectives. We provide high end graphic design to meet marketing goals and reinforce their brand positioning with their clients. We are also proud to offer 508 Remediation Service and ADA Compliance website reviews, thereby helping to make the internet a more accessible place for the hard of sight.
         </li>
         <li style="margin-bottom : 5px;">
-          <a href="https://vispero.com/"><strong>Vispero</strong></a>: Vispero combines two Latin words: visio and spero. Visio means “the vision""; and spero, “hope"". At Vispero we are driven in our mission of providing hope, determination, and independence through our complementary family of brands.<br><br>
+          <a href="https://vispero.com/"><strong>Vispero</strong></a>: Vispero combines two Latin words: visio and spero. Visio means “the vision"; and spero, “hope". At Vispero we are driven in our mission of providing hope, determination, and independence through our complementary family of brands.<br><br>
           Vispero is the world’s largest assistive technology provider for the visually impaired. Although officially formed in 2016, our brands Freedom Scientific, Enhanced Vision, Optelec, and TPG Interactive, share a long, rich history as industry leaders dating back to 1975.
         </li>
         <li>
