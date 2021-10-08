@@ -662,88 +662,87 @@ created: 1600981839
     <p><strong>NOTICE:</strong> Vendor participation was performed through an open registration and selected on a first-come, first-serve basis. The Federal CIO Council, GSA, partner agencies and other contributing agencies do not endorse the products, services, and claims of participating vendors.</p>
     <p>Explore products and services designed to support and enhance the lives of people with disabilities.</p>
       <ul id="exhibitors">
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.247accessibledocuments.com" target="_blank"><strong>247 Accessible Documents:</strong></a> We are a provider of accessible document remediation services. We work along Section 508, WCAG, AODA & PDF/UA guidelines to ensure that organizations across industries can have their documents compliant and accessible.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.accessibilityshield.com/"><strong>Accessibility Shield</strong></a>" Accessibility Shield is a project management platform designed for WCAG compliance. Built for agencies, our tools provide intuitive solutions for Scanning, Auditing, Prioritizing and Remediating violations.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://accessibilitytrack.com/"><strong>Accessibility Track</strong></a>: Innovative projects with and for the accessibility community.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.accessibilityoz.com/" target="_blank"><strong>Accessibility Shield</strong></a>: AccessibilityOz brings accessibility experience that is unmatched in breadth and depth. Founder Gian Wild is a web accessibility pioneer: she consulted with the Australian Government on the implementation of WCAG 2 in Australia, has spoken at the United Nations on the importance of web accessibility, and she spent six years on the W3C Web Content Accessibility Guidelines Working Group contributing to the development of WCAG2. The team has provided training, roadmaps and audits for countless organizations. <br />
           Gain peace of mind tackling your unique accessibility challenges with AccessibilityOz and our three signature tools: OzART, our automated accessibility testing tool; OzWiki, our database of web accessibility errors, examples and solutions; and OzPlayer, the world's most accessible video player.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://agilitechsolutions.com/" target="_blank"><strong>Agilitech Solutions</strong></a>: Agilitech Solutions offers simple, fast and affordable solutions for Section 508, ADA and WCAG 2.0) accessibility compliance/conformance. Unlike other companies, we bring cutting-edge web accessibility solutions to both the public and commercial sectors without requiring complex, lengthy service engagements.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://appligent.com" target="_blank"><strong>Appligent</strong></a>: Appligent Document Solutions’ professionals make your documents accessible to individuals who need to have the document read to them aloud using their computer.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.automaticsync.com/captionsync/"><strong>Automatic Sync Technologies</strong></a>: CaptionSync by AST was developed more than 14 years ago, in collaboration with a team of expert advisors from higher education and with funding from a Small Business Innovation Research grant from the U.S. Department of Education. Today AST’s CaptionSync service is the leading video accessibility service for accuracy, cost-effectiveness, expertise and ease of use.
         </li>
         <li>
           <a href="https://commonlook.com/" target="_blank"><strong>CommonLook</strong></a>: Test, create, remediate and validate PDFs for accessibility and compliance with the latest ADA and Section 508 regulations.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.ava.me/"><strong>Ava</strong></a>: Are you a professional? We work with employers, teachers, event organizers and other accessibility specialists looking to fully include their deaf & hard-of-hearing members.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://equidox.co/" target="_blank"><strong>Equidox</strong></a>: Equidox PDF remediation software enables organizations to quickly and easily convert inaccessible PDF documents into accessible and usable  PDF, HTML, and ePub content using AI-powered Smart Detection Tools. Equidox’s best-in-class software is available both on-prem and cloud-based, and includes free training and support. Equidox also offers expert document remediation services, and both software and services are listed on the GSA schedule. Let Equidox help you break down barriers to information and reach everyone in your potential audience. 
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.barrierbreak.com/"><strong>BarrierBreak</strong></a>: BarrierBreak is a digital accessibility testing and consulting company based in India.  We specialise in accessibility testing, accessible documents, and accessibility consulting. Your one stop solution for all your accessibility needs ensuring conformance to WCAG standards and compliance to Section 508, ADA, VPAT Creation and Accessibility Procurement.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://codemantra.com/"><strong>codemantra</strong></a>: codemantra is a global leader in Intelligent Document Processing (IDP). Its AI-driven platform automates digital document accessibility compliance; captures, classifies, and extracts data; and transforms documents into any output format.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://commonlook.com/"><strong>CommonLook</strong></a>: Test, create, remediate and validate PDFs for accessibility and compliance with the latest ADA and Section 508 regulations.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.crawfordtech.com/"><strong>Crawford Technologies</strong></a>: AccessibilityNow® is a complete platform for the creation and management of accessible documents. Providing high levels of automation and integration into any environment, the platform includes software solutions and a wide range of tailored services to meet the document accessibility needs of all organizations, large and small, private sector and governments of all levels. Leveraging AI and automation, the comprehensive AccessibilityNow platform is flexible and supports both the unique processing requirements of high-volume transactional documents as well as static documents of all types.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://equidox.co/"><strong>Equidox</strong></a>: Equidox PDF remediation software enables organizations to quickly and easily convert inaccessible PDF documents into accessible and usable  PDF, HTML, and ePub content using AI-powered Smart Detection Tools. Equidox’s best-in-class software is available both on-prem and cloud-based, and includes free training and support. Equidox also offers expert document remediation services, and both software and services are listed on the GSA schedule. Let Equidox help you break down barriers to information and reach everyone in your potential audience.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.esri.com/"><strong>Esri</strong></a>: Esri builds ArcGIS, the leading mapping and spatial analytics software.  Since 1969, Esri has helped customers unlock the full potential of data to improve operational and business results. Today, Esri software is deployed in more than 350,000 organizations including the world’s largest cities, most national governments, 75 percent of Fortune 500 companies, and more than 7,000 colleges and universities.  Esri ArcGIS products are designed to deliver location intelligence and meet digital transformation needs for organizations of all sizes.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <strong>FCC/MITRE</strong>: The FCC TRS initiative focuses on ensuring that users who are d/Deaf, Hard of Hearing, or DeafBlind have access to evolving communication technologies, and benefit from targeted testing and research which explore the impact of technology transitions on universal access.
         </li>
-        <li>
-          <a href="https://www.innocaption.com/"><strong>InnoCaption</strong></a>: InnoCaption is the only mobile app that offers real-time captioning of phone calls through live stenographers and automated speech recognition software – the choice is yours.<br><br>
-          Our technology makes phone calls easy and accessible for the deaf and hard of hearing community!
+        <li style="margin-bottom : 5px;">
+          <a href="https://www.innocaption.com/"><strong>InnoCaption</strong></a>: InnoCaption is the only mobile app that offers real-time captioning of phone calls through live stenographers and automated speech recognition software – the choice is yours. Our technology makes phone calls easy and accessible for the deaf and hard of hearing community!
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.microassist.com/iaaf-2021/" target="_blank"><strong>Microassist</strong></a>: Microassist is a minority-owned, small business providing custom curriculum development and delivery that is compliant with Section 508, WCAG 2.0, and other recognized standards.  For over twenty years our accessibility team has provided in-depth accessibility analysis and remediation of websites, mobile applications, documents, and other media files and platforms.  We also offer a growing portfolio of online and instructor led accessibility training classes.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://morphic.org/"><strong>Morphic - Raising the Floor</strong></a>: Raising the Floor is a non-profit organization dedicated to helping ensure that everyone has access to information and communication technologies, including those who face barriers due to disability, literacy, digital literacy or aging.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.neweditions.net/"><strong>New Editions Consulting</strong></a>: New Editions Consulting, Inc. is a customer focused, award winning, small, woman owned business that focuses on Children and Youth, Aging, Disability, Health, Workforce Development, Education, Housing, Transportation and International Development Programs.<br><br>
           We specialize in Technical Assistance and Training, Section 508 and Accessible Information Communication Technology, Software and Web-Based Solutions, Program Management and Strategic Planning, Integrated Communications and Information Dissemination, Program Evaluation and Performance Measurement and Policy Analysis/Data Analysis/Studies.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://nsite.org/" target="_blank"><strong>NSITE</strong></a>: NSITE provides a continuum of employment services that connect employers with talented, dedicated people who are blind, visually impaired, and/or veterans to meet their workforce needs. As you move through the hiring process, NSITE is with you every step of the way to ensure that finding the right employee-employer match is as smooth and seamless as possible.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.percept-d.com/"><strong>Perceptive Devices LLC</strong></a>: We provide Percept-D™, a patented technology for true hands-free and voice-free control of diverse electronics devices for improved productivity, safety and accessibility.  It allows for control via simple facial gestures that can be captured by webcams or sensors mounted on eyewear. 
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://PneumaSolutions.com" target="_blank"><strong>Pneuma Solutions</strong></a>: As the world continues to move to a more virtual environment, you need an affordable solution that guarantees full access to everyone in your audience. Pneuma Solutions, the global leader in accessible cloud solutions, introduces Scribe For Meetings! The goal is to make the on-screen content in your online meetings and webinars using Zoom or Teams accessible to print-impaired participants in an as accessible manner as possible.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://rioglobal.io/"><strong>Rio Global Corp</strong></a>: AccessBot is a dedicated accessibility testing software with inbuilt support for the revised section 508 standards and the W3C Web Content Accessibility Guidelines (WCAG). It is a web-based tool compatible with website usability standards.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://www.splashbox.com" target="_blank"><strong>Splash Box</strong></a>: At Splash Box we help our clients align marketing and branding strategies with their business objectives. We provide high end graphic design to meet marketing goals and reinforce their brand positioning with their clients. We are also proud to offer 508 Remediation Service and ADA Compliance website reviews, thereby helping to make the internet a more accessible place for the hard of sight.
         </li>
-        <li>
+        <li style="margin-bottom : 5px;">
           <a href="https://vispero.com/"><strong>Vispero</strong></a>: Vispero combines two Latin words: visio and spero. Visio means “the vision""; and spero, “hope"". At Vispero we are driven in our mission of providing hope, determination, and independence through our complementary family of brands.<br><br>
           Vispero is the world’s largest assistive technology provider for the visually impaired. Although officially formed in 2016, our brands Freedom Scientific, Enhanced Vision, Optelec, and TPG Interactive, share a long, rich history as industry leaders dating back to 1975.
         </li>
