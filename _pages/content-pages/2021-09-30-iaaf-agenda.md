@@ -90,7 +90,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban</a></b>, </span>Centers for Disease Control and Prevention (CDC)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+        <span class="session-type text-highlight margin-top-3">Downloads:</span>
         <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Dancing%20to%20Accessibility%20-%20IAAF%202021.pptx" target="_blank">Dancing to Accessibility - IAAF 2021 (PPTX)</a></span>
       </div>
     </div>
@@ -113,7 +113,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#manak">Meli S. Manek</a></b>, </span>Ad Hoc
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
         <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Accessibility%20First%20Creating%20a%20Native%20Mobile%20App%20for%20Veterans%20-%20IAAF%202021.pptx" target="_blank">Accessibility First Creating a Native Mobile App for Veterans - IAAF 2021 (PPTX)</a></span>
       </div>
     </div>
@@ -130,7 +130,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk</a></b>, </span>National Aeronautics and Space Administration (NASA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
         <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Ensuring%20ICT%20Accessibility%20Throughout%20the%20Acquisition%20Lifecycle%20-%20IAAF%202021.pptx">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle - IAAF 2021 (PPTX)</a></p></span>
       </div>
     </div> 
@@ -162,7 +162,7 @@ created: 1600981839
           <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#robertson">Scott Robertson,</a> </b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Apprenticeship%20and%20Career%20Pathways%20-%20IAAF%202021.pptx">Inclusive Apprenticeship and Career Pathways - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
@@ -179,7 +179,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#montgomery">Dr. Rachel Bradley Montgomery,</a></b> </span>Library of Congress
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Designing%20%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx">Designing to Support People with Cognitive and Learning Disabilities - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
@@ -223,7 +223,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx">Inclusive Design Demands Inclusive User Research - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
@@ -243,7 +243,7 @@ created: 1600981839
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#kim">Sonna Kim,</a> </b> </span> Consumer Financial Protection Bureau (CFPB)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Web%20Accessibility%20at%20the%20CFPB%20-%20IAAF%202021.pptx">Web Accessibility at the CFPB - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
@@ -260,7 +260,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bradford">Lorena Bradford,</a></b> </span> National Geospatial Intelligence Agency (NGA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Breaking%20through%20Silos_%20Leverage%20Staff%20Creativity%20to%20Serve%20the%20Agency%20Mission%20-%20IAAF%202021.pptx">Breaking through Silos_ Leverage Staff Creativity to Serve the Agency Mission - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
@@ -395,7 +395,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
         <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx">Creating Accessible Fillable PDF Forms in Adobe Indesign - IAAF 2021 (PPTX)</a></p></span>
       </div>
     </div> 
@@ -426,7 +426,7 @@ created: 1600981839
         </div> 
         <!-- STAGE DOWNLOAD
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx">Moving from Task-based Programs to a SAFE Work-Life for Federal Staff with Disabilities - IAAF 2021 (PPTX)</a></span>
         </div> -->
       </div>
@@ -448,7 +448,7 @@ created: 1600981839
           <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br> 
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/From%20Five%20Thousand%20to%20Zero%20-%20Prioritizing%20Documents%20for%20Remediation%20-%20IAAF%202021.pptx">From Five Thousand to Zero - Prioritizing Documents for Remediation - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
@@ -617,7 +617,7 @@ created: 1600981839
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#williams">Taryn Mackenzie Williams,</a></b></span> Department of Labor (DOL)
         </div>
         <!-- <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
+          <span class="session-type text-highlight margin-top-3">Downloads:</span>
           <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span>
         </div> -->
       </div> 
@@ -646,7 +646,7 @@ created: 1600981839
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk,</a></b></span> National Aeronautics and Space Administration (NASA)
         </div>            
         <!-- <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight margin-top-3">Downloads:</span><br>
+          <span class="session-type text-highlight margin-top-3">Downloads:</span>
           <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span>
         </div> -->
       </div> 
