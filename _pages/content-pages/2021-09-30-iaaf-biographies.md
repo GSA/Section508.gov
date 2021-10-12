@@ -8,7 +8,7 @@ created: 1601325079
 ---
 
 <p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
-  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" /></a>
+  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" /></a>
 </p>
 
 <p style="text-align:center;" id="top">
