@@ -54,7 +54,7 @@ created: 1600981839
       <br /> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Dennis Oden,</a></b></span> Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Dennis Oden,</a></b></span> U.S. Merit Systems Protection Board
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
