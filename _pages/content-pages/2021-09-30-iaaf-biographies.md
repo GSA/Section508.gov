@@ -1166,7 +1166,7 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-looney.png" alt="Michael Looney" />
   </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">s
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="looney">
       <strong>Michael Looney</strong>
     </p>
@@ -1438,14 +1438,14 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-oneal.png" alt="Andrea O&#39;Neal" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-oneal.png" alt="Andrea M. O&#39;Neal" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="oneal">
-      <strong>Andrea O'Neal</strong>
+      <strong>Andrea M. O'Neal</strong>
     </p>
     <p>
-      <em><span>Senior Advisor to the Administrator for Equity</span></em><br /><span>General Services Administration (GSA)</span>
+      <em><span>Senior Advisor to the Administrator (Equity)</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
       Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic, first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. 
