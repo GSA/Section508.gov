@@ -1164,7 +1164,7 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-looney.png" alt="Michael Looney" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-missing.png" alt="Michael Looney" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="looney">
