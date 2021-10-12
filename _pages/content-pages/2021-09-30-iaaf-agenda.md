@@ -325,7 +325,7 @@ created: 1600981839
       <span class="session-type">International Digital Accessibilities Activities</span> <!-- <span class="session-description"> DESCRIPTION HERE</span> -->
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#king">Jacob King, </a></b></span>Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#king">Jacob King,</a></b></span> Department of Health and Human Services (HHS)
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
@@ -335,7 +335,7 @@ created: 1600981839
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Funka
       </div>
       <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><!--<a href="{{site.baseurl}}/iaaf/biographies-2021#thurston">-->Dr. Yulia Sarviro,<!--</a>--></b></span> Global Initiative for Inclusive ICTs (G3ict)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sarviro">Dr. Yulia Sarviro,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div>
     </div> 
   </div> 

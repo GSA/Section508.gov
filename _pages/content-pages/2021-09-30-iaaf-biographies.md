@@ -1164,9 +1164,9 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-missing.png" alt="Michael Looney" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-looney.png" alt="Michael Looney" />
   </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
+  <div class="desktop:grid-col-9 tablet:grid-col-9">s
     <p id="looney">
       <strong>Michael Looney</strong>
     </p>
@@ -1652,6 +1652,40 @@ created: 1601325079
 <p style="text-align:right;">
   <a href="#top">Back to Top</a>
 </p>
+
+
+<!-- NEW BIO -->
+<div class="grid-row border-bottom-1px border-base-lighter ">
+  <div class="desktop:grid-col-3 tablet:grid-col-3">
+    <img src="https://assets.section508.gov/files/bio-images/bio-sarviro.png" alt="Dr. Yulia Sarviro" />
+  </div>
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
+    <p id="sarviro">
+      <strong>Dr. Yulia Sarviro</strong>
+    </p>
+    <p>
+      <em><span>Senior Project Manager</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ict)</span>
+    </p>
+    <p>
+      <span>Yulia Sarviro is an experienced specialist in philanthropy and CSR, building the capacity of non-profit and educational organizations using different instruments, including marketing, communications, and social media.</span>
+    </p>
+    <p>
+      <span>Yulia graduated Law Faculty of Moscow State University named after M. Lomonosov. She holds PhD degree in Public International Law.</span>
+    </p>
+    <p>
+      <span>In 2002-2008, Yulia has been working at the UNESCO Moscow Office as the Programme Assistant for Education, managing projects on HIV preventive education, inclusive education, nomadic schools, and others.</span>
+    </p>
+    <p>
+      <span>In 2009-2016, she has been Community Affairs and Internal Communications Manager at Microsoft Russia running country-wide projects on computer literacy for adults, STEM education for children and youth, ICT accessibility, etc.</span>
+    </p>
+    <p>
+      <span>Since 2017, Yulia is the Senior Project Manager at G3ict – Global Initiative for Inclusive Information and Communication Technologies and its Smart Cities for All initiative. She is responsible for successful implementation of multiple projects focusing on raising awareness among governments, cities, universities, courts, museums, and other institutions regarding digital inclusion and ICT accessibility when developing and introducing new technology solutions.</span>
+    </p>
+    <p>
+      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
+    </p>
+  </div>
+</div>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
