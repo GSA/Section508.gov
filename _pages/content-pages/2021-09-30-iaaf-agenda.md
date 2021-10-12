@@ -643,7 +643,7 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea O'Neal,</a></b></span> <span>General Services Administration (GSA)</span>
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span><span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)</span>
         </div>
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
