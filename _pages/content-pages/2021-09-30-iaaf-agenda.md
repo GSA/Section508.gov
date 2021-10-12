@@ -180,7 +180,7 @@ created: 1600981839
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Designing%20%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx">Designing to Support People with Cognitive and Learning Disabilities - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Designing%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx">Designing to Support People with Cognitive and Learning Disabilities - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
       <!-- BEGIN DAY 1 SESSION 2 TRACK C -->  
@@ -771,4 +771,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> October 8, 2021 </p>
+<p><strong>Reviewed/Updated: </strong> October 12, 2021 </p>
