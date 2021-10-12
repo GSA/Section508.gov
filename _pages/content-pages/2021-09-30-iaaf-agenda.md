@@ -202,7 +202,7 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx">Introducing ICT Baseline Alignment Framework - Final web version (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx">Introducing ICT Baseline Alignment Framework (PPTX)</a></span>
         </div>
       </div> 
     </div> 
