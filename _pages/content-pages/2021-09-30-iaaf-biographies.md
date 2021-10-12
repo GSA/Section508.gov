@@ -1166,7 +1166,7 @@ created: 1601325079
   <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-looney.png" alt="Michael Looney" />
   </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">s
+  <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="looney">
       <strong>Michael Looney</strong>
     </p>
