@@ -261,7 +261,7 @@ created: 1600981839
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bradford">Lorena Bradford,</a></b> </span> National Geospatial Intelligence Agency (NGA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bradford">Lorena Bradford,</a></b> </span> National Gallery of Art (NGA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
