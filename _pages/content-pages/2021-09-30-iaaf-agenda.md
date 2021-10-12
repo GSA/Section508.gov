@@ -311,7 +311,7 @@ created: 1600981839
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judith E. Heumann</a></b></span>, Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span>, Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
       </div>
     </div>
   </div>
