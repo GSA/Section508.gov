@@ -226,10 +226,12 @@ created: 1600981839
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
         </div>
+        <!--
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx">Inclusive Design Demands Inclusive User Research - IAAF 2021 (PPTX)</a></span>
         </div>
+        --->
       </div> 
       <!-- BEGIN DAY 1 SESSION 3 TRACK B -->
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
