@@ -467,10 +467,10 @@ created: 1600981839
           Track C: Buy and Manage Compliance
         </div>
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Adopting and Aligning to the ICT Testing Baseline</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How can an agency prepare to align to the ICT Testing Baseline and/or adopt a Baseline-aligned test process? This presentation will discuss the <a href="https://ictbaseline.access-board.gov/" class="session-link">ICT Accessibility Testing Baseline Portfolio</a> and provide updates on progress and ongoing efforts related to the portfolio. Presenters will also discuss the benefits of adopting and implementing a Baseline-aligned test process in their agencies along with suggestions for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline.</span> 
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span>General Services Administration
-        </div> -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b></span> Centers for Medicare & Medicaid Services (CMS)
+        </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)
