@@ -388,6 +388,10 @@ created: 1600981839
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lindemuth">Charles Lindemuth,</a></b> </span>U.S. Forest Service, Department of Agriculture (USDA)
+      </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx">Creating Accessible Fillable PDF Forms in Adobe Indesign - IAAF 2021 (PPTX)</a></p></span>
       </div> 
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d2bs1c">
@@ -404,16 +408,12 @@ created: 1600981839
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
       </div>
-      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx">Creating Accessible Fillable PDF Forms in Adobe Indesign - IAAF 2021 (PPTX)</a></p></span>
-      </div>
     </div> 
   </div> 
   <!-- end breakout row -->
   <div class="grid-row break">
     <div class="grid-col-12 cell dark padding-1">
-      2:20 P.M. – 2:30 P.M.<br><span class="session-type">Break</span>
+      2:20 P.M. – 2:30 P.M.<br><span class="session-type">Break with Vendor Videos</span>
     </div>
   </div>
   <div class="grid-row">
@@ -434,11 +434,10 @@ created: 1600981839
           <span class="session-type text-highlight">Panelists:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie Fuoco,</a></b> </span> Environmental Protection Agency (EPA)
         </div> 
-        <!-- STAGE DOWNLOAD
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx">Moving from Task-based Programs to a SAFE Work-Life for Federal Staff with Disabilities - IAAF 2021 (PPTX)</a></span>
-        </div> -->
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx">Moving from Task-based Programs to a SAFE Work-Life for Federal Staff with Disabilities - IAAF 2021 (PPTX)</a></span>
+        </div>
       </div>
       <!-- D2BS2B --> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -481,10 +480,10 @@ created: 1600981839
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b></span> General Services Administration (GSA)
         </div>
-        <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx">IAAF 2020 - Mobile Accessibility Now and the Future (PPT)</a></span>
-        </div> -->
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx">Introducing ICT Baseline Alignment Framework (PPT)</a></span>
+        </div> 
       </div> 
     </div> 
     <!-- end 2PM breakout row -->
