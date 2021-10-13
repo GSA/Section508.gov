@@ -692,7 +692,7 @@ created: 1600981839
           <a href="https://www.accessibilityshield.com/"><strong>Accessibility Shield</strong></a>" Accessibility Shield is a project management platform designed for WCAG compliance. Built for agencies, our tools provide intuitive solutions for Scanning, Auditing, Prioritizing and Remediating violations.
         </li>
         <li style="margin-bottom : 5px;">
-          <a href="https://accessibilitytrack.com/"><strong>Accessibility Track</strong></a>: Innovative projects with and for the accessibility community.
+          <a href="https://accessibilitytrack.com/"><strong>Accessibility Track</strong></a>: Innovative projects with and for the accessibility community. After six prior meetings with members of the Accessibility Testing Community, we collectively decided to form a new organization to generate new standards for accessibility test reporting. Our mission is to reform the way accessibility test results are generated and reported, and foster the adoption of new standards by vendors and product review providers.
         </li>
         <li style="margin-bottom : 5px;">
           <a href="https://www.accessibilityoz.com/" target="_blank"><strong>Accessibility Shield</strong></a>: AccessibilityOz brings accessibility experience that is unmatched in breadth and depth. Founder Gian Wild is a web accessibility pioneer: she consulted with the Australian Government on the implementation of WCAG 2 in Australia, has spoken at the United Nations on the importance of web accessibility, and she spent six years on the W3C Web Content Accessibility Guidelines Working Group contributing to the development of WCAG2. The team has provided training, roadmaps and audits for countless organizations. <br />
