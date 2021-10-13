@@ -567,7 +567,7 @@ created: 1600981839
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
         <br><br>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Informaiton Officers, Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Information Officer, Department of Labor (DOL)
       </div>
     </div>
     <div class="grid-row keynote" id="d3k">
