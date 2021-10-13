@@ -206,7 +206,7 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20a%20Machine-Readable%20ACR%20-%20IAAF%20 2021.pptx">Creating a Machine-Readable ACR - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20a%20Machine-Readable%20ACR%20-%20IAAF%202021.pptx">Creating a Machine-Readable ACR - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
     </div> 
@@ -312,7 +312,7 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judith E. Heumann</a></b></span>, Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judith E. Heumann</a></b></span>, International Disability Rights Activist, and Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
