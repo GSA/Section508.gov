@@ -626,7 +626,12 @@ created: 1600981839
         </span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Track A:</span> 
-          <span>BarrierBreak, Rio Global Corp, Codemantra, Vispero</span>
+          <ul>
+            <li>BarrierBreak</li>
+            <li>Rio Global Corp</li>
+            <li>Codemantra</li> 
+            <li>Vispero</li>
+          </ul>
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Track B:</span> 
