@@ -726,10 +726,10 @@ created: 1600981839
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director, Government-wide Accessibility (Section 508) Training & Outreach, Office of Government-wide Policy, General Services Administration
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Government-wide IT Accessibility Program, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Office of Government-wide Policy, General Services Administration
         </div>
       </div>
     </div>
