@@ -627,23 +627,37 @@ created: 1600981839
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Track A:</span> 
           <ul>
-            <li>BarrierBreak</li>
-            <li>Rio Global Corp</li>
-            <li>Codemantra</li> 
-            <li>Vispero</li>
+            <li>BarrierBreak - 1:00 P.M.</li>
+            <li>Rio Global Corp - 1:15 P.M.</li>
+            <li>Codemantra - 1:30 P.M.</li> 
+            <li>Vispero - 1:45 P.M.</li>
           </ul>
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Track B:</span> 
-          <span>Esri, NSITE, New Editions Consulting, Adobe</span>
+          <span class="session-type text-highlight">Track B:</span>
+          <ul>
+            <li>Esri - 1:00 P.M.</li>
+            <li>NSITE - 1:15 P.M.</li>
+            <li>New Editions Consulting - 1:30 P.M.</li> 
+            <li>Adobe - 1:45 P.M.</li>
+          </ul>
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="session-type text-highlight">Track C:</span> 
-          <span>Crawford Technologies, Accessibility Track, FCC/Mitre, Aotomatic Sync Technologies</span>
+          <span class="session-type text-highlight">Track C:</span>
+          <ul>
+            <li>Crawford Technologies - 1:00 P.M.</li>
+            <li>Accessibility Track - 1:15 P.M.</li>
+            <li>FCC/Mitre - 1:30 P.M.</li> 
+            <li>Automatic Sync Technologies - 1:45 P.M.</li>
+          </ul>
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Track D:</span> 
-          <span>Ava, Morphic-Raising the Floor, Accessibility Shield</span>
+          <ul>
+            <li>Ava - 1:00 P.M.</li>
+            <li>Morphic-Raising the Floor - 1:15 P.M.</li>
+            <li>Accessibility Shield - 1:30 P.M.</li>
+          </ul>
         </div>
       </div> 
     </div>
@@ -826,4 +840,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> October 12, 2021 </p>
+<p><strong>Reviewed/Updated: </strong> October 13, 2021 </p>
