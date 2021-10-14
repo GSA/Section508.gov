@@ -343,6 +343,10 @@ created: 1600981839
       <div class="speaker-info padding-top-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sarviro">Dr. Yulia Sarviro,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/International%20Digital%20Accessibilities%20Activities%20-%20IAAF%202021.pptx">International Digital Accessibilities Activities - IAAF 2021 (PPTX)</a></p></span>
+      </div> 
     </div> 
   </div> 
   <!-- close cell -->
@@ -507,6 +511,10 @@ created: 1600981839
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Director,</a></b></span> Department of Labor (DOL)
         </div> -->
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Reframe%20and%20Reinforce%20-%20Using%20Neuroscience%20to%20Improve%20Support%20for%20Accessibility%20-%20IAAF%202021.pptx">Reframe and Reinforce: Using Neuroscience to Improve Support for Accessibility - IAAF 2021 (PPT)</a></span>
+        </div> 
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d2bs3b">
@@ -526,6 +534,10 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Dr. Joel Snyder,</a></b></span> Audio Description Associates, LLC
+        </div>
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/The Current%20State%20Of%20Audio%20Description%20in%20the%20US%20Federal%20Government.pptx">The Current State Of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -600,8 +612,56 @@ created: 1600981839
     <div class="grid-row break">
       <div class="grid-col-12 cell dark padding-1">12:45 P.M. – 1:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
+    <!-- Virtual Vendor Showcase
     <div class="grid-col-12 cell brown-breakout black padding-1" id="d3vs">1:00 P.M. - 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase</span>
-    </div>    
+    </div> -->
+<!-- begin change -->
+    <div class="grid-row session">
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown-breakout olive padding-1" id="d3vs">1:00 P.M. – 2:00 P.M. <br><span class="session-type">Virtual Vendor Showcase</span>
+      </div>
+      <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
+        <!--<span class="session-type">title</span> -->
+        <span class="session-description">
+          <p>Select one of the four virtual exhibition tracks (A through D, below) where accessibility consultants and IT companies will showcase their accessibility products and services that support indivduals with disabilities. Each vendor presentation will be 10-minutes in length including any questions, with a 5-minute transition period between each to allow the next vendor to cue up their presentation and allow attendees to transition between tracks as desired. Background information on each vendor can be found at the bottom of this page below the agenda.</p>
+        </span>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track A:</span> 
+          <ul>
+            <li>BarrierBreak - 1:00 P.M.</li>
+            <li>Rio Global Corp - 1:15 P.M.</li>
+            <li>Codemantra - 1:30 P.M.</li> 
+            <li>Vispero - 1:45 P.M.</li>
+          </ul>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track B:</span>
+          <ul>
+            <li>Esri - 1:00 P.M.</li>
+            <li>NSITE - 1:15 P.M.</li>
+            <li>New Editions Consulting - 1:30 P.M.</li> 
+            <li>Adobe - 1:45 P.M.</li>
+          </ul>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track C:</span>
+          <ul>
+            <li>Crawford Technologies - 1:00 P.M.</li>
+            <li>Accessibility Track - 1:15 P.M.</li>
+            <li>FCC/Mitre - 1:30 P.M.</li> 
+            <li>Automatic Sync Technologies - 1:45 P.M.</li>
+          </ul>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track D:</span> 
+          <ul>
+            <li>Ava - 1:00 P.M.</li>
+            <li>Morphic-Raising the Floor - 1:15 P.M.</li>
+            <li>Accessibility Shield - 1:30 P.M.</li>
+          </ul>
+        </div>
+      </div> 
+    </div>
+<!-- end change -->
     <div class="grid-row session">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d3gs1">2:00 P.M. – 2:45 P.M. <br><span class="session-type">General Session</span>
       </div>
@@ -666,10 +726,10 @@ created: 1600981839
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director of Training & Outreach, Office of Government-wide Policy, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director, Government-wide Accessibility (Section 508) Training & Outreach, Office of Government-wide Policy, General Services Administration
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Government-wide IT Accessibility Program, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Office of Government-wide Policy, General Services Administration
         </div>
       </div>
     </div>
@@ -780,4 +840,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> October 12, 2021 </p>
+<p><strong>Reviewed/Updated: </strong> October 13, 2021 </p>
