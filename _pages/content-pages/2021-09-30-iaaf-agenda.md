@@ -622,7 +622,7 @@ created: 1600981839
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <!--<span class="session-type">title</span> -->
         <span class="session-description">
-          <p>Select one of four virtual exhibition tracks where accessibility consultants and IT companies will showcase their accessibility products and services that support indivduals with disabilities. Each showcase is 10-minutes, with a 5-minute transition period to allow attendees to transition between tracks.</p>
+          <p>Select one of the four virtual exhibition tracks (A through D, below) where accessibility consultants and IT companies will showcase their accessibility products and services that support indivduals with disabilities. Each vendor presentation will be 10-minutes in length including any questions, with a 5-minute transition period between each to allow the next vendor to cue up their presentation and allow attendees to transition between tracks as desired. Background information on each vendor can be found at the bottom of this page below the agenda.</p>
         </span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Track A:</span> 
