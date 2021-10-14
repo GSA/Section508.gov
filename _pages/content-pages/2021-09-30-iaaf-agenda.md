@@ -343,6 +343,10 @@ created: 1600981839
       <div class="speaker-info padding-top-1">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sarviro">Dr. Yulia Sarviro,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/International%20Digital%20Accessibilities%20Activities%20-%20IAAF%202021.pptx">International Digital Accessibilities Activities - IAAF 2021 (PPTX)</a></p></span>
+      </div> 
     </div> 
   </div> 
   <!-- close cell -->
@@ -507,6 +511,10 @@ created: 1600981839
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Director,</a></b></span> Department of Labor (DOL)
         </div> -->
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Reframe%20and%20Reinforce%20-%20Using%20Neuroscience%20to%20Improve%20Support%20for%20Accessibility%20-%20IAAF%202021.pptx">Reframe and Reinforce: Using Neuroscience to Improve Support for Accessibility - IAAF 2021 (PPT)</a></span>
+        </div> 
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
         <div class="brown-breakout-header" id="d2bs3b">
@@ -526,6 +534,10 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Dr. Joel Snyder,</a></b></span> Audio Description Associates, LLC
+        </div>
+        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+          <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/The Current%20State%20Of%20Audio%20Description%20in%20the%20US%20Federal%20Government.pptx">The Current State Of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -600,8 +612,37 @@ created: 1600981839
     <div class="grid-row break">
       <div class="grid-col-12 cell dark padding-1">12:45 P.M. – 1:00 P.M.<br><span class="session-type">Break with Vendor Videos</span></div>
     </div>
+    <!-- Virtual Vendor Showcase
     <div class="grid-col-12 cell brown-breakout black padding-1" id="d3vs">1:00 P.M. - 2:00 P.M.<br><span class="session-type">Virtual Vendor Showcase</span>
-    </div>    
+    </div> -->
+<!-- begin change -->
+    <div class="grid-row session">
+      <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown-breakout olive padding-1" id="d3vs">1:00 P.M. – 2:00 P.M. <br><span class="session-type">Virtual Vendor Showcase</span>
+      </div>
+      <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
+        <!--<span class="session-type">title</span> -->
+        <span class="session-description">
+          <p>Select one of four virtual exhibition tracks where accessibility consultants and IT companies will showcase their accessibility products and services that support indivduals with disabilities. Each showcase is 10-minutes, with a 5-minute transition period to allow attendees to transition between tracks.</p>
+        </span>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track A:</span> 
+          <span>BarrierBreak, Rio Global Corp, Codemantra, Vispero</span>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track B:</span> 
+          <span>Esri, NSITE, New Editions Consulting, Adobe</span>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track C:</span> 
+          <span>Crawford Technologies, Accessibility Track, FCC/Mitre, Aotomatic Sync Technologies</span>
+        </div>
+        <div class="speaker-info padding-top-1">
+          <span class="session-type text-highlight">Track D:</span> 
+          <span>Ava, Morphic-Raising the Floor, Accessibility Shield</span>
+        </div>
+      </div> 
+    </div>
+<!-- end change -->
     <div class="grid-row session">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell olive padding-1" id="d3gs1">2:00 P.M. – 2:45 P.M. <br><span class="session-type">General Session</span>
       </div>

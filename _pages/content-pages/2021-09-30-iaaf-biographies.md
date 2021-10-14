@@ -965,13 +965,12 @@ created: 1601325079
       <strong>Antoinette Johnson</strong>
     </p>
     <p>
-      <em><span>Section 508 Program Manager</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span></span>
+      <em><span>Section 508 Program Manager</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span>
     </p>
-    <!-- <p>
-      <span>
-      BIOPARAGRAPH
+    <p>
+      <span>Antoinette “AJ” Johnson has been with the Centers for Medicare and Medicaid Services (CMS) since 1999 and has been CMS’ Section 508 Program Manager since 2018. As the Section 508 Program Manager, she has led the agency’s mission on accessibility and inclusiveness in government. She has also supported the agency’s IT Governance initiatives which are aligned with the CMS Administrator’s focus on operational efficiencies. AJ is a steadfast leader in Disability Inclusion as well. AJ is primarily responsible for CMS’ engagements with internal and external stakeholders with a focus on Section 508 Policies issuance, development of 508 accessible trainings and education programs, ensuring accessibility in procurements and acquisitions, and the execution of accessibility validation testing protocols; which all support access for all, including those with disabilities. She is solution-oriented and considers accessibility and universal design a cornerstone of the agency’s  goals, workforce development, and plan management.
       </span>
-    </p> -->
+    </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d2bs2c"><em><span>Adopting and Aligning to the ICT Testing Baseline</span></em></a>
     </p>
