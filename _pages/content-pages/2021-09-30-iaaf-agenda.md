@@ -176,7 +176,7 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span><!-- General Services Administration (GSA) -->
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
@@ -230,12 +230,10 @@ created: 1600981839
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
         </div>
-        <!--
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
           <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx">Inclusive Design Demands Inclusive User Research - IAAF 2021 (PPTX)</a></span>
         </div>
-        --->
       </div> 
       <!-- BEGIN DAY 1 SESSION 3 TRACK B -->
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -412,6 +410,10 @@ created: 1600981839
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
       </div>
+      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+        <span class="session-type text-highlight margin-top-3">Downloads:</span> 
+        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20IAAF%202021.pptx">Enhancing Accessibility with AI and Machine Learning - IAAF 2021 (PPT)</a></span>
+      </div> 
     </div> 
   </div> 
   <!-- end breakout row -->
@@ -537,7 +539,7 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/The Current%20State%20Of%20Audio%20Description%20in%20the%20US%20Federal%20Government.pptx">The Current State Of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/The Current%20State%20Of%20Audio%20Description%20in%20the%20US%20Federal%20Government%20-%20IAAF%202021.pptx">The Current State Of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
