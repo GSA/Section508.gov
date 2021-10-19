@@ -176,7 +176,7 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Elizabeth Small,</a></b> </span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Dr. Elizabeth Small,</a></b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
@@ -225,7 +225,7 @@ created: 1600981839
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#tenbrink">Ronna ten Brink,</a></b> </span>Internal Revenue Service (IRS)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#tenbrink">Ronna ten Brink,</a></b> </span>The MITRE Corporation
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
@@ -687,10 +687,10 @@ created: 1600981839
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#williams">Taryn Mackenzie Williams,</a></b></span> Department of Labor (DOL)
         </div>
-        <!-- <div class="speaker-info padding-top-1">
+        <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span>
-          <span><a href="https://assets.section508.gov/files/IAAF_2020-Accessibility_International_Scale-part1.pptx">IAAF 2020 - Accessibility on an International Scale - Part 1 (PPT)</a></span>
-        </div> -->
+          <span><a href="https://assets.section508.gov/files/bio-images/presentations/Driving%20Innovation%20of%20Accessible%20Work%20Technology%20to%20Empower%20Diverse%20Workers%20with%20Disabilities%20-%20IAAF%202021.pptx">Driving Innovation of Accessible Work Technology to Empower Diverse Workers with Disabilities - IAAF 2021 (PPT)</a></span>
+        </div>
       </div> 
     </div>
     <div class="grid-row break">
