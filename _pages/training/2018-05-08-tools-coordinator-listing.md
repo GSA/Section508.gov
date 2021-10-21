@@ -69,7 +69,7 @@ Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service
 Karen Garrison 816-926-2678 - <kren.garrison@usda.gov>
-## Office of Communications (OC)
+### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
 ### Office of the Inspector General (OIG)
 Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
@@ -90,7 +90,6 @@ Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>
 Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 
 ## <span id ="usdod" ></span>Department of Defense
-
 ### Department-wide
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
 ### Air Force
@@ -551,6 +550,8 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
 
 <div>
+  <p>
+  </p>
   <p>
     <strong>Reviewed/Updated: </strong> October 2021
   </p>
