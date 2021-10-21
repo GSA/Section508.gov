@@ -1787,20 +1787,18 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-small.png" alt="Elizabeth Small" />
+    <img src="https://assets.section508.gov/files/bio-images/bio-small.png" alt="Dr. Elizabeth Small" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="small">
-      <strong>Elizabeth Small</strong>
-    </p>
-    <!-- <p>
-      <em><span>TITLE</span></em><br /><span>AGENCY</span>
+      <strong>Dr. Elizabeth Small</strong>
     </p>
     <p>
-      <span>
-      BIOPARAGRAPH
-      </span>
-    </p>-->
+      <em><span>Program Analyst/Section 508 Coordinator</span></em><br /><span>Department of Labor (DOL)</span>
+    </p>
+    <p>
+      <span>Dr. Elizabeth Small is the Section 508 Subject Matter Expert for the Department of Labor. She served twenty-five years in the U.S. Army. Additionally, Dr. Elizabeth Small holds a Master of Divinity from Wesley Theological Seminary, Washington DC, and a Master of Curriculum and Instruction from McDaniel College, Westminster, MD.  Dr. Small is a Professional Life Coach, and she enjoys helping people become unstuck.</span>
+    </p>
     <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs2b"><em><span>Designing to support cognitive and learning disabilities</span></em></a>
     </p>
@@ -1892,19 +1890,10 @@ created: 1601325079
       <strong>Ronna ten Brink</strong>
     </p>
     <p>
-      <em><span>Senior Human Factors Engineer</span></em><br /><span>MITRE</span>
+      <em><span>Senior Human Factors Engineer</span></em><br /><span>The MITRE Corporation</span>
     </p>
     <p>
       <span>Ronna ten Brink is a Senior Human Factors Engineer at The MITRE Corporation, where she supports federal government agencies creating effective, efficient, and delightful user experiences. She studied Engineering Psychology and Computer Science at Tufts University. Ronna conducts usability and accessibility research and design on a variety of topics, including chatbots, authentication, and human-machine teaming applications.</span>
-    </p>
-    <p>
-      <span>What I'm thinking about now: how to transform the all-too-commonly-one-way info exchange (“interface → human”) into a two-way dialogue, where the interface responds to the user’s needs, physical and cognitive state, and behavioral history.</span>
-    </p>
-    <p>
-      <span>What influences me: cognitive psychology, engineering psychology, design thinking, fine arts and crafting, computer science, neuroscience, privacy and security, ""wicked problems,"" biomechanics, inclusive design + universal design, business strategy, branding and marketing, awesome jam sessions.</span>
-    </p>
-    <p>
-      <span>You might say I'm in: Human Factors, User Experience (UX), Human-Computer Interaction (HCI), Human-Machine Teaming (HMT), Human-Machine Interaction (HMI), Interaction Design, Product Strategy</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
@@ -2026,10 +2015,10 @@ created: 1601325079
       <strong>Alcora Walden</strong>
     </p>
     <p>
-      <em><span>Technical Advisor</span></em><br /><span>Internal Revenue Service (IRS)</span>
+      <em><span>Panelist</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
     <p>
-      <span>Alcora Walden is Technical Advisor at the Internal Revenue Service in the Office of Online Services where she hopes to solve business problems through customer-centric communications and experiences. She holds a Bachelor’s degree in Public Relations from the University of Maryland and a Master’s of Public Administration from American University.</span>
+      <span>Alcora Walden works at the Internal Revenue Service in the Office of Online Services where she hopes to solve business problems through customer-centric communications and experiences. She holds a Bachelor’s degree in Public Relations from the University of Maryland and a Master’s of Public Administration from American University.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
