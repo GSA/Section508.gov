@@ -2018,7 +2018,7 @@ created: 1601325079
       <em><span>Panelist</span></em><br /><span>Internal Revenue Service (IRS)</span>
     </p>
     <p>
-      <span>Alcora Walden is at the Internal Revenue Service in the Office of Online Services where she hopes to solve business problems through customer-centric communications and experiences. She holds a Bachelor’s degree in Public Relations from the University of Maryland and a Master’s of Public Administration from American University.</span>
+      <span>Alcora Walden works at the Internal Revenue Service in the Office of Online Services where she hopes to solve business problems through customer-centric communications and experiences. She holds a Bachelor’s degree in Public Relations from the University of Maryland and a Master’s of Public Administration from American University.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1bs3a"><em><span>Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span></em></a>
