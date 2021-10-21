@@ -51,9 +51,9 @@ William Morgan - <wmorgan@usaid.gov>
 ### Department-wide
 Angela Williams - 202-494-5428 - <angela.williams@usda.gov>
 ### Agricultural Marketing Service (AMS)
-Heather A. Pearl 970-302-6845 heather.a.pearl@usda.gov
+Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Animal and Plant Health Inspection Service (APHIS)
-Heather A. Pearl 970-302-6845 heather.a.pearl@usda.gov
+Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Farm Production and Conservation (FPAC)
 Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
 
@@ -143,7 +143,7 @@ Yvette Jacks - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil
 Christine Durose (BACKUP) - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
 Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Robert (Rob) Bleck - 571-616-4080 - <robert.r.bleck.civ@mail.mil> 
+Robert (Rob) Bleck - 571-616-4080 - <robert.r.bleck.civ@mail.mil>  
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
 VACANT
@@ -168,7 +168,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 ### U.S. European Command (EUCOM)
 VACANT
 ### U.S. Northern Command (USNORTHCOM)
-Cristie Whorley (BACKUP) - 719-554-8009 - <babette.c.whorley.civ@mail.mil>
+Cristie Whorley (BACKUP) - 719-554-8009 - <babette.c.whorley.civ@mail.mil>  
 Donald Hopper - 719-554-7838 - <donald.w.hopper.civ@mail.mil>
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
@@ -178,13 +178,13 @@ VACANT
 Vacant 
 
 ## <span id="usdoe" ></span>Department of Education
-Denise McGland -&nbsp;202-245-6606 -&nbsp;<a href="mailto:denise.mcgland@ed.gov" target="_blank">denise.mcgland@ed.gov</a>  
-Jason Lautenbacher - 202-245-7303 -&nbsp;<a href="mailto:Jason.Lautenbacher@ed.gov" target="_blank">jason.Lautenbacher@ed.gov</a>
+Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>
+Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 
 ## <span id="usdoen" ></span>Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
-Denise Hill (BACKUP)
-Sandr Logan (BACKUP)
+Denise Hill (BACKUP)  
+Sandra Logan (BACKUP)  
 
 ## <span id="usdohhs" ></span>Department of Health and Human Services
 ### Department-wide
@@ -197,8 +197,8 @@ Biff LeVee - 301-427-1897 - <biff.levee@ahrq.gov>
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
-Antoinette Johnson – 410-786-9326 –&nbsp;<a href="mailto:Antoinette.johnson@cms.hhs.gov" target="_blank">antoinette.johnson@cms.hhs.gov</a>  
-Ann S. Turner – 410-786-2184 -&nbsp;<a href="mailto:ann.turner@cms.hhs.gov" target="_blank">ann.turner@cms.hhs.gov</a>
+Antoinette Johnson – 410-786-9326 – <antoinette.johnson@cms.hhs.gov>  
+Ann S. Turner – 410-786-2184 - <ann.turner@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
 Rita Harrison - 240-549-2275 - <rita.harrison@fda.hhs.gov>
 ### Health Resources and Services Administration (HRSA)
@@ -228,10 +228,10 @@ Della Alvarado - 202-805-3425- <della.alvarado@cisa.dhs.gov>
 ### Federal Emergency Management Agency (FEMA)
 Janice Fenlason - 202-705-9758 - <janice.fenlason@fema.dhs.gov>
 ### FEMA Emergency Management Institute (EMI)
-Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>
+Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>  
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
 ###  **FEMA U.S. Fire Administration (USFA)**
-Mark Magers - 301-447-1247 - <mark.magers@fema.dhs.gov>
+Mark Magers - 301-447-1247 - <mark.magers@fema.dhs.gov>  
 Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
 ### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
@@ -245,20 +245,20 @@ Vacant
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
-Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>
+Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>  
 Judy Kuo (BACKUP) - 202-981-6243 - <judy.kuo@oig.dhs.gov>
 ### Science and Technology (S&T)
 Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
 ### Transportation Security Administration (TSA)
 Matthew Bryne - 571-318-0307 - <matthew.byrne@tsa.dhs.gov>  
-Erich Pfleeger (BACKUP) - 571-227-3509 - <a href="mailto:erich.pfleeger@tsa.dhs.gov" target="_blank">erich.pfleeger@tsa.dhs.gov</a>
+Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
 ### U.S. Citizenship and Immigration Services (USCIS)
 Kenneth S. Moser - 202-365-6493 - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - 202-372-2673 - <eleanor.e.thompson@uscg.mil>  
-Deborah A. Johnson-Hood - 202-475-3576 - <deborah.a.johnson-hood@uscg.mil>
-Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>
+Deborah A. Johnson-Hood - 202-475-3576 - <deborah.a.johnson-hood@uscg.mil>  
+Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
@@ -289,14 +289,14 @@ VACANT
 ### Office of Navajo & Hopi Indian Relocation
 Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
 ### Office of the Solicitor
-Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>
+Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 2025130877 - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ### U.S. Fish and Wildlife Service (FWS)
 Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
 ### U.S. Geological Survey (USGS)
-Edward Olexa - <section508@usgs.gov>
+Edward Olexa - <section508@usgs.gov>  
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
 ## <span id="usdoj" ></span>Department of Justice
@@ -325,7 +325,7 @@ VACANT
 ### Environment & Natural Resources Division
 Joseph Groves - 202-305-7352 - <joseph.Groves@usdoj.gov>
 ### Executive Office for Immigration Review
-Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>
+Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>  
 Howard Myatt - 703-756-8111 - <howard.Myatt@usdoj.gov>
 ### Executive Office for United States Attorneys
 VACANT
@@ -355,7 +355,7 @@ VACANT
 VACANT
 
 ## <span id="usdol" ></span>Department of Labor
-Brandon Jubar - 202.693.4289 - [jubar.Brandon.T@dol.gov][91]
+Brandon Jubar - 202.693.4289 - <jubar.brandon.t@dol.gov>
 
 ## <span id="usdos" ></span>Department of State
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
@@ -384,7 +384,7 @@ Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
 Timothy Arnett - 202-927-9594 - <timothy.arnett@treasury.gov>
 ### FINCEN
-Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>
+Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>  
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Yolonda Humphrey - 202-613-4028 - <yolonda.r.humphrey@irs.gov>
@@ -405,7 +405,7 @@ Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ## <span id="usepa" ></span>Environmental Protection Agency
-Pattrick Grimm - <grimm.patrick@epa.gov> 
+Pattrick Grimm - <grimm.patrick@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ## <span id="usgsa" ></span>General Services Administration
