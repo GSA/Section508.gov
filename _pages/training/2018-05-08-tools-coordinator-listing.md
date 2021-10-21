@@ -42,7 +42,8 @@ If your agency doesn't have a designated Section 508 PM, contact your agency CIO
 ## Small and Independent Agencies
 Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topC" ></span> [C][26] |<span id="topD" ></span> [D][27] |<span id="topE" ></span> [E][28] |<span id="topF" ></span> [F][29] |<span id="topG" ></span> [G][30] |<span id="topI" ></span> [I][31] |<span id="topM" ></span> [M][32] |<span id="topN" ></span> [N][33] |<span id="topO" ></span> [O][34] |<span id="topP" ></span> [P][35] |<span id="topR" ></span> [R][36] |<span id="topS" ></span> [S][37] |<span id="topT" ></span> [T][38] |<span id="topU" ></span> [U][39]
 
-\- - - - - 
+<hr>
+
 ## <span id="usaid" ></span>Agency for International Development (USAID)
 William Morgan - <wmorgan@usaid.gov>
 
@@ -55,9 +56,11 @@ Heather A. Pearl 970-302-6845 heather.a.pearl@usda.gov
 Heather A. Pearl 970-302-6845 heather.a.pearl@usda.gov
 ### Farm Production and Conservation (FPAC)
 Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
+
   * **Farm Service Agency (FSA)**
   * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
+
 ### Forest Service
 VACANT
 ### Information Management Services Branch
