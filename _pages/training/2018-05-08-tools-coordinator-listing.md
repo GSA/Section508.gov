@@ -201,7 +201,7 @@ Ann S. Turner – 410-786-2184 - <ann.turner@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
 Rita Harrison - 240-549-2275 - <rita.harrison@fda.hhs.gov>
 ### Health Resources and Services Administration (HRSA)
-Lauren Taylor - 301-443-4726 - <itaylor1@hrsa.gov>
+Lauren Taylor - 301-443-4726 - <itaylor1@hrsa.gov>  
 Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
 Darren Buchanan - 301-443-3061 - <darren.buchanan@ihs.gov>
