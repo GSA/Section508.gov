@@ -3,14 +3,14 @@ layout: post
 permalink: blog/accessible-meetings/
 type: article
 title: 'Learn How to Create an Accessible Meeting'
-created: November 2, 2021
+created: November 4, 2021
 tags: Content-Creation
 description: The GSA Government-wide IT Accessibility Program publishes guidance on how you can plan your next meeting - from selecting your venue or online platform; planning for, and scheduling accommodations; ensuring the accessibility of meeting documents and materials; meeting management techniques, and more.
 ---
 
 ## Learn How to Create an Accessible Meeting
 
-<div><img alt="Screenshot of the Create Accessible Meetings page on section508.gov." src="https://assets.section508.gov/files/blog-accessible-meeting.png" style="float:right; width:50%" /></div>
+<div><img alt="Screenshot of the Create Accessible Meetings page on section508.gov." src="https://assets.section508.gov/files/blog-accessible-meeting.png" style="float:right; width:40%" /></div>
 
 In response to a global health epidemic, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings to virtual meetings where the audience participates remotely through voice and video. As federal employees return to their offices, meetings are expected to be a hybrid of in-person and remote participants, accessibility can and should be seamlessly integrated into your meeting. 
 
@@ -30,5 +30,4 @@ Visit [Create Accessible Meetings](https://www.section508.gov/create/accessible-
 
 By hosting accessible meetings, we not only make our events inclusive, we also help strengthen the government’s ability to recruit, hire, develop, promote, and retain our nation’s talent and remove barriers to equal opportunity.
  
-**Reviewed/Updated:** November 2021
 
