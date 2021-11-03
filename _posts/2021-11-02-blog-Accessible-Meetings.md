@@ -5,29 +5,30 @@ type: article
 title: 'Learn How to Create an Accessible Meeting'
 created: November 2, 2021
 tags: Content-Creation
-description: The GSA Government-wide IT Accessibility Program publishes guidance on how you can plan your next meeting - from selecting your venue or online platform; planning for, and scheduling accommodations; ensuring the accessibility of meeting documents and materials, meeting management techniques, and more.
+description: The GSA Government-wide IT Accessibility Program publishes guidance on how you can plan your next meeting - from selecting your venue or online platform; planning for, and scheduling accommodations; ensuring the accessibility of meeting documents and materials; meeting management techniques, and more.
 ---
 
-<h2>Learn How to Create an Accessible Meeting</h2>
+## Learn How to Create an Accessible Meeting
 
-<!-- <div><img alt="Small, calendar grid showing the month of October 2021 with the 12th, 13th and 14th circled." src="{{ site.baseurl }}/assets/images/blog-iaaf-2021-cal.png" style="float:right; width:50%" /></div> -->
+<div><img alt="Screenshot of the Create Accessible Meetings page on section508.gov." src="https://assets.section508.gov/files/blog-accessible-meeting.png" style="float:right; width:50%" /></div>
 
-Please join us for the virtual 2021 Annual Interagency Accessibility Forum this October 12-14.
+In response to a global health epidemic, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings to virtual meetings where the audience participates remotely through voice and video. As federal employees return to their offices, meetings are expected to be a hybrid of in-person and remote participants, accessibility can and should be seamlessly integrated into your meeting. 
 
-Attendees of this year’s IAAF will hear presentations and panel discussions that will focus on accessibility as a foundation for inclusion, diversity, and equity within the federal government. In addition, the forum will include virtual exhibitions by accessibility consultants and IT companies with accessibility products and services that support those with disabilities. 
+To assist individuals in making their next virtual, in-person, or hybrid meeting accessible to all attendees, we have published a comprehensive guide: [Create Accessible Meetings](https://www.section508.gov/create/accessible-meetings).
 
-## Save Your Seat
+## Why Are Accessible Meetings Important?
 
-**When**: October 12-14, 2021; from 12:00 PM - 4:00 PM ET <br>
-**Where**: Virtual - Note that the event will be recorded for reuse and archiving <br>
-**Who**: There is something for everyone - contracting officials, business analysts, project managers, developers, testers, content creators, Section 508 Program Managers, and members of agency management and leadership <br>
-**How**: **<a href="https://cdc.zoomgov.com/webinar/register/WN_7K2ra0DFR7mqE2XKN4r7Ig">Register Today!</a>**
+Inaccessible meetings create barriers for people with vision, hearing, mobility, cognitive and other disabilities and can prevent their participation in discussion, decision making, training and other duties.
 
-**For full event and registration information, visit <a href="http://www.section508.gov/iaaf">Section508.gov/IAAF</a>.** 
+The recent [Executive Order on Diversity, Equity, Inclusion, and Accessibility](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) in the Federal Workforce states that “the Federal Government must be a model for diversity, equity, inclusion, and accessibility, where all employees are treated with dignity and respect,” and that “*the Federal Government must strengthen its ability to recruit, hire, develop, promote, and retain our Nation’s talent and remove barriers to equal opportunity*.”
 
-To rediscover keynote addresses and presentations from a range of presenters, panelists, and speakers over the years, visit the <a href="https://www.section508.gov/iaaf/archives">Interagency Accessibility Forum (IAAF) Archives</a>.
+Accessibility underpins diversity, equity and inclusion. In fact, we can’t achieve our diversity, equity and inclusion goals without accessibility - including IT accessibility. 
 
-The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Department of Health and Human Services (HHS), Department of Labor (DOL), and Merit Service Protection Board (MSPB), in partnership with other federal agencies.
+## How Can I Be a Model Meeting Host?
 
-**Reviewed/Updated:** October 2021
+Visit [Create Accessible Meetings](https://www.section508.gov/create/accessible-meetings) to learn how you can plan your next meeting - from selecting your venue or online platform; planning for, and scheduling accommodations; ensuring the accessibility of meeting documents and materials, meeting management techniques, and more. 
+
+By hosting accessible meetings, we not only make our events inclusive, we also help strengthen the government’s ability to recruit, hire, develop, promote, and retain our nation’s talent and remove barriers to equal opportunity.
+ 
+**Reviewed/Updated:** November 2021
 
