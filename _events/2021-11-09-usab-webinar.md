@@ -2,7 +2,7 @@
 title: Section 508 – A Celebration of Twenty Years
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Nov 30 2021 13:30 #otherwise use end-date
+end-date: Tuesday, Nov 30 2021 14:30 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-nov2021/
