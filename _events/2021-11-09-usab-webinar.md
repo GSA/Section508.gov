@@ -14,5 +14,5 @@ This year marks the 20th anniversary of the initial enforcement of the Section 5
 Invited speakers include David Capozzi, former Executive Director of the U.S. Access Board (retired); Bill Peterson, Department of Homeland Security (retired); Terry Weaver, General Services Administration (retired); John Sullivan, General Services Administration; and Sachin Pavithran, Executive Director of the U.S. Access Board. To allow more time for the speakers, there will be no live question and answer session, but registrants may submit questions in advance. This webinar will include video remote interpreting (VRI) and real-time captioning. Webinar attendees can receive a participation certificate.  
 
 **Tuesday, Nov 30, 2021**  
-**1:00 PM - 12:30 PM ET**  
-**Information and Registration:** <a href="https://www.accessibilityonline.org/cioc-508/session/?id=110975" target="_blank" aria-label="Event Registration Link (opens in a new window)">Register for Section 508 - A Celebration of Twenty Years</a>
+**1:00 PM - 2:30 PM ET**  
+**For Information and Registration:** Visit <a href="https://www.accessibilityonline.org/cioc-508/session/?id=110975" target="_blank" aria-label="Event Registration Link (opens in a new window)"> Section 508 - A Celebration of Twenty Years</a>
