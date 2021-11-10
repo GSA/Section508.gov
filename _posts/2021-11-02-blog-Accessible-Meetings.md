@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessible-meetings/
+permalink: /blog/accessible-meetings/
 type: article
 title: 'Learn How to Create an Accessible Meeting'
 created: November 4, 2021
