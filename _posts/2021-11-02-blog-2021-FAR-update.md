@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessible-meetings/
+permalink: blog/far-update-adds-revised-508-standards
 type: article
 title: 'FAR Updated to Add Revised Section 508 Standards for Information and Communication Technology'
 created: November 10, 2021
