@@ -1518,7 +1518,7 @@ created: 1601325079
       <span>Dan is a native of Las Vegas, Nevada. He possesses a Masters in Public Service and Administration from Bush School of Government at Texas A&amp;M University, and a Master of Science in Government Information Leadership from the National Defense University.</span>
     </p>
     <p>
-      <em><span>Introduction: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
+      <em><span>Introduction: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k1"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>
@@ -1549,7 +1549,7 @@ created: 1601325079
       <span>Whitney Quesenbery is the director of the Center for Civic Design, charged with solving democracy as a design problem and creating a voter experience that invites everyone to participate. She combines a fascination with people and an obsession to communicate clearly with her goal of usable accessibility for all. She’s written 3 books — A Web for Everyone: Designing accessible user experiences, Storytelling for User Experience, and Global UX — to help keep users in mind throughout the creative process. Twitter: <a href="https://twitter.com/whitneyq" class="session-link">@whitneyq</a> and <a href="https://twitter.com/civicdesign" class="session-link">@civicdesign</a>.</span>
     </p>
     <p>
-      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k"><em><span>Keynote on Day 1</span></em></a>
+      <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1k1"><em><span>Keynote on Day 1</span></em></a>
     </p>
   </div>
 </div>

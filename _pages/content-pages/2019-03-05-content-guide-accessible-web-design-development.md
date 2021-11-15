@@ -131,7 +131,7 @@ Failure to meet this requirement could interfere with any use of the page. Refer
   * User must be able to configure auto-updates to content.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="captcha">
@@ -151,7 +151,7 @@ If the purpose of non-text content is to confirm the content is being accessed b
   * Select a CAPTCHA provider that is already conformant to 508 standards. 3rd party CAPTCHA tools generally do not allow customization. Select a CAPTCHA that does not rely on images.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="changing_content">
@@ -186,7 +186,7 @@ Failure to meet this requirement could interfere with any use of the page. Refer
   * User must be able to configure auto-updates to content.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="contrast">
@@ -212,7 +212,7 @@ The visual presentation of text and images of text has a contrast ratio of at le
   * Ensure style guidelines for your organization meet the minimum contrast requirements.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="flashing">
@@ -228,7 +228,7 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 Best Practice: Do not have content that flashes.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="forms">
@@ -359,7 +359,7 @@ For web pages that cause legal commitments or financial transactions for the use
   * If your form is of the covered type, choose from the available options (Reversible, Checked, Confirmed) to meet this requirement.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="frames_iFrames">
@@ -383,7 +383,7 @@ A mechanism is available to bypass blocks of content that are repeated on multip
   * iFrames - Provide [accessible name/accessible description][14] for each &lt;iframe&gt;
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="headings">
@@ -411,7 +411,7 @@ Information, structure, and relationships conveyed through presentation can be p
   * Do not use heading tags <h1> through <h6> for non-heading content
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="images">
@@ -493,7 +493,7 @@ For all user interface components (including but not limited to: form elements; 
   * Provide the name, role, state, value of all components.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="keyboard_and_focus">
@@ -560,7 +560,7 @@ When any component receives focus, it does not initiate a change of context.
 Don't use javascript to perform a function that changes the page's context on the focus event (onfocus).
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="language">
@@ -600,7 +600,7 @@ The human language of each passage or phrase in the content can be programmatica
   * For passages in a language other than the default language of the page, place a lang attribute with the appropriate value on the element or a parent element that contains the passage.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="links_and_buttons">
@@ -629,7 +629,7 @@ This requirement covers both links and buttons.
     * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="multiple_ways">
@@ -651,7 +651,7 @@ More than one way is available to locate a web page within a set of web pages ex
     * Linking to all of the pages on the site from the home page
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="page_title">
@@ -687,7 +687,7 @@ Web pages have titles that describe topic or purpose.
     {% endraw %}{% endhighlight %}
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="parsing">
@@ -707,7 +707,7 @@ Note: Start and end tags that are missing a critical character in their formatio
   * IDs MUST be unique.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="repetitive_content">
@@ -754,7 +754,7 @@ Components that have the same functionality within a set of web pages are identi
   * Building a website or web application using templates and reusable components provides familiarity and consistency for its users.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="resizable_text">
@@ -771,7 +771,7 @@ Except for captions and images of text, text can be resized without assistive te
   * If you need to specify height and width, using em units in padding can help keep things in proportion because em units are relative to font size.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="sensory_characteristics">
@@ -795,7 +795,7 @@ Color is not used as the only visual means of conveying information, indicating 
   * Where color is used to convey meaning, include another visual element (like a symbol or text) to convey the same meaning.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="stylesheet">
@@ -832,7 +832,7 @@ When the sequence in which content is presented affects its meaning, a [correct 
   * Avoid using position: absolute to place content on page. It may not be read by in the correct order by assistive technology.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="synchronized_media">
@@ -937,7 +937,7 @@ Where user controls are provided for program selection, ICT shall provide user c
   * Select a media player with caption controls and audio description controls that meet this requirement.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="tables">
@@ -982,7 +982,7 @@ Information, structure, and relationships conveyed through presentation can be p
     </table>
     {% endraw %}{% endhighlight %}
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="timed_events">
@@ -1033,7 +1033,7 @@ Failure to meet this requirement could interfere with any use of the page. Refer
   * Best Practice: Ensure that mechanism to control the content is easy to locate, is keyboard operable, and is clearly labelled as to its purpose.
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="wcag_conformance_requirements">
@@ -1128,7 +1128,7 @@ In addition, the following success criteria apply to all content on the page, in
 </ul>
 
 <p dir="rtl">
-  <a href="#">Back to Top</a>
+  <a href="#top">Back to Top</a>
 </p>
 
 <h2 id="other_resources">

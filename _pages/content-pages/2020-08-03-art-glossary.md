@@ -344,7 +344,7 @@ UNSPSC Code:
 
 There are three Quick Links associated with eBooks: eBooks or publications in digital form, dedicated eBook Readers that come with eBook Reader Software, and eBook Reader Software (this Quick Link) that is designed to be used on a personal computer, PDA or smartphone. Dedicated eBook Readers and eBook Software used with other devices connect to subscription or free web service that provides information in the form of eBooks.
 
-"There is a wide variety of eBook (presentation) software available on a wide variety of formats. The most popular formats for commercial eBooks include PDF, MOBI, LIT, and eReader roughly in that order. (ePUB is a new emerging standard format.) … If you add dedicated eBook Readers then you would have to add BBeB, … and .. AZW to the list of popular formats." ([http://wiki.mobileread.com/wiki/E-book_softwarehttp://wiki.mobileread.co...][3] ).
+"There is a wide variety of eBook (presentation) software available on a wide variety of formats. The most popular formats for commercial eBooks include PDF, MOBI, LIT, and eReader roughly in that order. (ePUB is a new emerging standard format.) … If you add dedicated eBook Readers then you would have to add BBeB, … and .. AZW to the list of popular formats." ([https://wiki.mobileread.com/wiki/E-book_software][3] ).
 
 Most eBook applications include a web-based user interface, while some use standard web browsers. In addition, some eBook software includes word processing functions for authoring eBooks.
 
@@ -1762,7 +1762,7 @@ A virtual program (or a virtual course of studies) is a study program in which a
 
  [1]: http://en.wikipedia.org/wiki/Computer-based_training#Computer-Based_Training
  [2]: http://en.wikipedia.org/wiki/Comparison_of_e-book_readers
- [3]: http://wiki.mobileread.com/wiki/E-book_softwarehttp://wiki.mobileread.com/wiki/E-book_software
+ [3]: https://wiki.mobileread.com/wiki/E-book_software
  [4]: http://en.wikipedia.org/wiki/GPS_navigation_device
  [5]: http://en.wikipedia.org/wiki/Voice_over_IP
  [6]: http://en.wikipedia.org/wiki/Input_device#High-degree_of_freedom_input_devices
