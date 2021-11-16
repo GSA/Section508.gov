@@ -142,6 +142,16 @@ created: 1601325079
   </div>
 </div>
 
+<!-- BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB -->
+
+<h2 id="B">
+  <strong>B</strong>
+</h2>
+
+<p style="text-align:right;">
+  <a href="#top">Back to Top</a>
+</p>
+
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
@@ -165,16 +175,6 @@ created: 1601325079
     </p>
   </div>
 </div>
-
-<!-- BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB - BBBBB -->
-
-<h2 id="B">
-  <strong>B</strong>
-</h2>
-
-<p style="text-align:right;">
-  <a href="#top">Back to Top</a>
-</p>
 
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
