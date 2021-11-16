@@ -200,27 +200,6 @@ created: 1601325079
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-brooks.png" alt="Dexter Brooks" />
-  </div>
-  <div class="desktop:grid-col-9 tablet:grid-col-9">
-    <p id="lowerlastname">
-      <strong>Dexter Brooks</strong>
-    </p>
-    <p>
-      <em><span>Associate Director, Office of Federal Operations</span></em><br /><span>Equal Employment Opportunity Commission (EEOC)</span>
-    </p>
-    <p>
-      <span>Dexter Brooks works with federal agencies internal EEO programs to ensure opportunities free from discrimination, and provides technical assistance, guidance and oversight. Dexter is an experienced executive with a demonstrated history of working in the government administration industry. Skilled in Coaching, Team Building, Public Speaking, Labor Relations, and Writing. Strong operations professional with a Juris Doctor focused in Labor/Employment from Howard University School of Law.</span>
-    </p>
-    <p>
-      <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
-    </p>
-  </div>
-</div>
-
-<!-- NEW BIO -->
-<div class="grid-row border-bottom-1px border-base-lighter ">
-  <div class="desktop:grid-col-3 tablet:grid-col-3">
     <img src="https://assets.section508.gov/files/bio-images/bio-brumfield.png" alt="Krystal Brumfield" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
