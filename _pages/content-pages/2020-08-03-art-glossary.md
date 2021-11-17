@@ -376,7 +376,7 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-A facsimile (fax) machine is "a device that can send or receive pictures and text over a telephone line. …. A fax machine consists of an optical scanner for digitizing images on paper, a printer for printing incoming fax messages, and a telephone for making the connection." (<http://www.apt.gc.ca/ap11140E.asp?pId=416>)
+A facsimile (fax) machine, "processes the contents (text or images) [of scanned, printed material] as a single fixed graphic image, converting it into a bitmap, and then transmitting it through the telephone system in the form of audio-frequency tones.." (<https://en.wikipedia.org/wiki/Fax>)
 
 Internet or "online faxing" sends and receives document facsimiles via an Internet connection usually with a Web interface. No special equipment or software beyond computers, printers, and a Web browser are required. Fax machines may come with driver software. This software, whether it is used or not, is subject to Section 508 requirements, specifically 1194.21 Software Applications and Operating Systems.
 
@@ -497,7 +497,7 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-This Quick Link refers only to IP phones. Traditional phones and cell phones are the subject of other Quick Link s. In addition, Plain Old Telephone Service (POTS), VoIP, and wireless telephone services are the subject of other Quick Links . In addition,. As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." (<http://www.access-board.gov/sec508/telecomm-course.htm#Transmission/Conducting%20Information>)
+This Quick Link refers only to IP phones. Traditional phones and cell phones are the subject of other Quick Link s. In addition, Plain Old Telephone Service (POTS), VoIP, and wireless telephone services are the subject of other Quick Links . In addition,. As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." (<https://www.access-board.gov/ict/guide/telecom_tutorial.html>)
 
 Different types of "telephones" and telephone services have proliferated in recent years. Wireless phones have all but replaced traditional telephones deliver communication over wires. "Voice over IP (VoIP) is a general term for a family of transmission technologies for delivery of voice communications over IP networks such as the Internet or other packet-switched networks. Other terms frequently encountered and synonymous with VoIP are IP telephony, Internet telephony, voice over broadband (VoBB), broadband telephony, and broadband phone." ([http://en.wikipedia.org/wiki/Voice\_over\_IP][5]). VoIP includes both Softphones and PC-based VoIP. Softphones look very much like traditional phones, but use the Internet or private IP Networks to communicate. PC-based VoIP uses a computer's microphone and speakers or headset to communicate. In addition, PC-based and Softphone-bases systems can interoperate.
 
