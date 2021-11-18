@@ -47,7 +47,7 @@ redirect_from:
 <ul>
 <li><a href="https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/" class="ext">BBC Mobile Accessibility Guidelines</a></li>
 <li><a href="https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html" class="ext">Apple Accessibility Programing Guide for IOS</a></li>
-<li><a href="https://developer.android.com/guide/topics/ui/accessibility/index.html" class="ext">Google Accessibility for Android Developers</a></li>
+<li><a href="https://developer.android.com/guide/topics/ui/accessibility" class="ext">Google Accessibility for Android Developers</a></li>
 </ul>
 <h2>Software</h2>
 <ul>

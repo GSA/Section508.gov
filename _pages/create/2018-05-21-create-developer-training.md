@@ -20,12 +20,7 @@ The [International Association of Accessibility Professionals (IAAP)][3] offers 
   * [Certified Professional in Accessibility Core Competency (CPACC)][4]
   * [Web Accessibility Specialist (WAS)][5]
 
-Prepare for the IAAP certifications:
-
-  * [WAS Credential Content Outline][6]
-  * [CPACC Body of Knowledge][7] - Prepare for the CPACC Exam
-  * [WAS Body of Knowledge][8] (MS Word)
-  * [IAAP Approved Certification Preparation Providers][9]
+Visit IAAP's [Prepare][6] page for more information about how to prepare for the various IAAP certifications.
 
 If you complete both certifications above, you’ll also receive a Certified Professional in Web Accessibility (CPWA) designation.
 
@@ -65,9 +60,7 @@ More modern resources include:
  [3]: http://www.accessibilityassociation.org/
  [4]: http://www.accessibilityassociation.org/cpacccertification
  [5]: http://www.accessibilityassociation.org/wascertification
- [6]: http://www.accessibilityassociation.org/content.asp?admin=Y&contentid=459
- [7]: http://www.accessibilityassociation.org/content.asp?contentid=356
- [8]: http://iaap.membershipsoftware.org/files/IAAP%20WAS%20BOK%202017_083017.doc
+ [6]: https://www.accessibilityassociation.org/s/certification-prepare
  [9]: http://www.accessibilityassociation.org/certificationproviders
  [10]: http://teachaccess.org/
  [11]: http://teachaccess.org/initiatives/tutorial/

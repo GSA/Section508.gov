@@ -85,8 +85,6 @@ Deployment Models:
 
 Note: Cloud software takes full advantage of the cloud paradigm by being service oriented with a focus on statelessness, low coupling, modularity, and semantic interoperability."
 
-Related to the above service models, GSA has launched a service called Apps.Gov (<https://www.apps.gov/>) to assist federal users in acquiring Cloud Computing software and services. These products and services are contained in four categories: Business Apps, Productivity Apps, Cloud IT Services, and Social Media Apps. Cloud IT Services include both IaaS and PaaS from the NIST model. The other product groups are all software apps under SaaS.
-
 The standards for connecting the computer systems and the software needed to make cloud computing work are not fully defined at present time, leaving many companies to define their own cloud computing technologies. Systems offered by companies, like IBM's "Blue Cloud" technologies for example, are based on open standards and open source software which link together computers that are used to deliver Web 2.0 capabilities like mash-ups or mobile commerce. (<a href="http://www.webopedia.com/TERM/c/cloud_computing.html" class="ext" target="_blank">http://www.webopedia.com/TERM/c/cloud_computing.html<span class="ext" aria-label="(link is external)"></span></a>)
 
 Security is a main concern for government. There is a need to verify security at a level greater than NIST Security Level 1 (Low) before there will be widespread use of Cloud Computing.
@@ -529,11 +527,10 @@ A definition of keyboards is from Wikipedia is below. (<http://en.wikipedia.org/
 
 "In computing, a keyboard is an input device, partially modeled after the typewriter keyboard, which uses an arrangement of buttons or keys, to act as mechanical levers or electronic switches. A keyboard typically has characters engraved or printed on the keys and each press of a key typically corresponds to a single written symbol. However, to produce some symbols requires pressing and holding several keys simultaneously or in sequence. While most keyboard keys produce letters, numbers or signs (characters), other keys or simultaneous key presses can produce actions or computer commands."
 
-Keypads are defined in two ways by YourDictionary.com:
+Keypads are defined in two ways by the Merriam-Webster dictionary:
 
-"A small keyboard or supplementary keyboard keys; for example, the keys on a calculator or the number/cursor cluster on a computer keyboard." (<http://www.yourdictionary.com/computer/keypad>)
-
-Programmable keypad: "An auxiliary keypad that can be programmed to enter strings of text and commands with one keystroke. It connects between the keyboard and the computer and is entirely self contained without using software. Also known as "macro keypads," such devices are extremely helpful when applications require entering long sequences of menu and keyboard commands over and over. They can also be used to enter repetitive strings of text." (<http://www.yourdictionary.com/computer/keypad>)
+* "A small set of keys that is part of a larger keyboard or another device (such as a telephone or calculator)" (<https://www.merriam-webster.com/dictionary/keypad>)
+* "a small, usually numerical keyboard" (<https://www.merriam-webster.com/dictionary/keypad>)
 
 <div class="link-top">
   <a href="#top">Top</a>
@@ -911,7 +908,7 @@ UNSPSC Code:
       * 60104800 Wave and sound physics materials 
           * 60104814 Radiometer
 
-For other UNSPSC codes search at <http://www.unspsc.org/Search.asp>.
+For other UNSPSC codes search at <http://www.unspsc.org>.
 
 Definition of Deliverable
 

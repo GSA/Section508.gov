@@ -17,5 +17,5 @@ This Section 508 Refresh aligns the US Government’s Section 508 requirements w
 The rule will take effect in one year, providing adequate time to smoothly transition to the new standards. To learn more, attend the Access Board’s February 2nd [<u>Section 508 Refresh webinar</u>][3] and monitor Section508.gov for further developments.  
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule
- [2]: http://usda.us5.list-manage1.com/track/click?u=a1cf85c5a3c6fa04c389240a8&id=969fc907c0&e=492f76cf8b
+ [2]: https://www.access-board.gov/news/2017/01/09/access-board-updates-requirements-for-information-and-communication-technology/
  [3]: https://www.accessibilityonline.org/ao/session/?id=110588

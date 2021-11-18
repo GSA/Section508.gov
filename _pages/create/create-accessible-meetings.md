@@ -307,7 +307,7 @@ Meeting Platform Accessibility Guides
 <a href="https://helpx.adobe.com/adobe-connect/using/accessibility-features.html" class="ext">Adobe Connect Accessibility Features<span class="ext" aria-label="(link is external)"></span></a>
 <ul>
 <li dir="ltr"><a href="https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html" class="ext">Keyboard shortcuts for Adobe Connect Classic<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://blogs.adobe.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" class="ext">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" class="ext">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting<span class="ext" aria-label="(link is external)"></span></a></li>
 </ul>
 </li>
 <li dir="ltr">

@@ -62,7 +62,7 @@ According to the World Bank, [approximately one billion people worldwide live wi
           </p>          
           <div>
             <p>
-              <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a href="https://www.forrester.com/Microsoft">Microsoft-Forrester</a> study stressed, &ldquo;<strong>Employees are likely to become disabled as they age.</strong> We&rsquo;ve invested in them; we want to preserve the investment. That&rsquo;s why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.&rdquo;
+              <strong>Accessibility also allows companies to retain highly skilled employees who may become disabled. </strong>In the event that an employee sustains an injury or develops an ailment, organizations that use accessible principles allow valuable human capital to remain on board. An interviewee from a <a href="https://blogs.microsoft.com/wp-content/uploads/prod/sites/73/2018/10/5bc08e8059d68-5bc08e8059d6bMicrosoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf.pdf">Microsoft-Forrester</a> study stressed, &ldquo;<strong>Employees are likely to become disabled as they age.</strong> We&rsquo;ve invested in them; we want to preserve the investment. That&rsquo;s why we give them the tools to continue their work. Making someone redundant for medical reasons is a big loss.&rdquo;
             </p>            
             <div>
               <p>
@@ -154,9 +154,6 @@ According to the World Bank, [approximately one billion people worldwide live wi
       </li>
       <li>
         <a href="http://www.worldbank.org/en/topic/disability/overview">http://www.worldbank.org/en/topic/disability/overview</a>
-      </li>
-      <li>
-        <a href="http://globalmobilitytrends.brookfieldgrs.com/#/data-highlights">http://globalmobilitytrends.brookfieldgrs.com/#/data-highlights</a>
       </li>
       <li>
         <a href="http://ininet.org/accessible-technology-in-computing--examining-awareness-use-an.html?page=3">http://ininet.org/accessible-technology-in-computing--examining-awareness-use-an.html?page=3</a>
