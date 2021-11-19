@@ -334,7 +334,7 @@ Meeting Platform Accessibility Guides
 <li dir="ltr">
 <a href="https://zoom.us/accessibility" class="ext">Zoom Accessibility<span class="ext" aria-label="(link is external)"></span></a>
 <ul>
-<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom?_ga=2.136006708.440163587.1621367152-246063650.1617897973" class="ext">Hot keys and keyboard shortcuts for Zoom<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" class="ext">Hot keys and keyboard shortcuts for Zoom<span class="ext" aria-label="(link is external)"></span></a></li>
 <li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning" class="ext">Getting started with closed captioning in Zoom<span class="ext" aria-label="(link is external)"></span></a></li>
 <li dir="ltr"><a href="https://zoom.us/test" class="ext">Join a Test Zoom Meeting<span class="ext" aria-label="(link is external)"></span></a></li>
 </ul>
