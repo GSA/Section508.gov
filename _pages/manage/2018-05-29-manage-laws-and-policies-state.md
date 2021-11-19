@@ -26,10 +26,10 @@ To provide an accessibility model in which web content authors, format designers
 <p id="C" name="C"></p>
 
 [**California**][14]  
-_State University Accessible Technology Initiative_  
-Automated evaluation tools only check things that can be evaluated by a computer. These definitely do not include the human factors that are contained here. Even looking at human factors cannot guarantee accessibility for every possible user, but following this procedure will certainly represent a good-faith effort to make a page or site as accessibile as possible today.
+_State Digital Accessibility Laws_  
+Government Code Section 7405 directs that state governmental entities follow Section 508 of the federal Rehabilitation Act requiring accessibility of electronic and information technology.
 
-_[California Office of Statewide Health Planning and Development OSHPD Accessibility Policy][15]_
+Government Code Section 11135 prohibits discrimination on the basis of sex, race, color, religion, ancestry, national origin, ethnic group identification, age, mental disability, physical disability, medical condition, genetic information, marital status, or sexual orientation, be unlawfully denied full and equal access to the benefits of, or be unlawfully subjected to discrimination under, any program or activity that is conducted, operated, or administered by the state or by any state agency, is funded directly by the state, or receives any financial assistance from the state.
 
 [**Connecticut**][16]  
 _State of Connecticut Universal Web Site Accessibility Policy for State Web Sites_  
@@ -89,7 +89,7 @@ http://www.access.state.ct.us/policies/accesspolicy40.html </a>.
  [11]: #W "Go to States beginning with W"
  [12]: http://www.al.gov/terms-of-use "Go to Alabama's site"
  [13]: https://az.gov/policy/accessibility "Go to Arizona's site"
- [14]: http://www.calstate.edu/Accessibility/webaccessibility/evaluation/index.shtml "Go to California's site"
+ [14]: https://www.dor.ca.gov/Home/Laws "Go to California's site"
  [15]: http://www.oshpd.ca.gov/Accessibility.html
  [16]: http://www.access.state.ct.us/policies/accesspolicy40.html "Go to Connecticut's site"
  [17]: http://www.dhs.state.il.us/page.aspx?item=32765 "Go to Illinois's site"
