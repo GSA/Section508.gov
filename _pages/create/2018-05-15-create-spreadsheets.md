@@ -39,7 +39,6 @@ The resources in this section were developed by the Accessible Electronic Docume
 The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].
 
   * [Resources for Developers and Document Authors][7] - Guidance on how to develop and author accessible electronic content
-  * [Making Files Accessible][8] - Issues, testing, and remediation
 
 ## Related Resources
 
@@ -65,7 +64,6 @@ The resources in this section were developed by Federal agencies, and shared her
  [5]: https://assets.section508.gov/files/Section%20508%20Basic%20Accessibility%20Checklist_0.doc
  [6]: https://assets.section508.gov/files/Baseline_Tests_for_Docs_MS_Excel_2010_accessibility_v__1.0%20%2012.14.2015%20F..._0.doc
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
- [8]: https://www.hhs.gov/web/section-508/making-files-accessible/index.html
  [9]: {{site.baseurl}}/create
  [10]: https://www.w3.org/WAI/train
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx

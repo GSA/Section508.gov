@@ -74,7 +74,6 @@ How to create accessible Microsoft PowerPoint presentations.
  [4]: https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html
  [5]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf
  [6]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/Tip-sheet-for-Powerpoint.pdf
- [7]: http://www.hhs.gov/web/508/accessiblefiles/checklistppt.html
  [8]: {{site.baseurl}}/create
  [9]: https://www.w3.org/WAI/training/accessible.php
  [10]: https://www.w3.org/WAI/tutorials/images/decision-tree/

@@ -151,7 +151,7 @@ Better accessibility supports many areas of information assurance, including sec
   The 508 Program Manager should report directly to the Agency CIO, Deputy CIO, or Agency CTO.
 </li>
 </ul>
-<h3 id="reportingstructure">
+<h3 id="staffing">
   Staffing
 </h3>
 

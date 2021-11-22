@@ -32,5 +32,5 @@ For more information about the 508 refresh, visit the Revised 508 Standards Tool
 Accessibility is something that benefits all users and encourages innovation. In the months ahead, as your agency transitions to the Revised 508 Standards, consider new ways to integrate accessibility and universal design into how your agency works.
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.epolicyworks.org/
+ [2]: https://epolicyworks.ideascale.com/
  [3]: {{site.baseurl}}/training/presentations-workshops

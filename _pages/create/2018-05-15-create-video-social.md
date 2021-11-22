@@ -150,7 +150,7 @@ Instructions and techniques on how to provide accessibility for virtual collabor
  [4]: https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf
  [5]: https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf
  [6]: https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5
- [7]: https://blogs.adobe.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/
+ [7]: https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/
  [8]: https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions
  [9]: https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning
  [10]: {{site.baseurl}}/create

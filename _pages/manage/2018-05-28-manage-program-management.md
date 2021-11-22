@@ -37,7 +37,7 @@ Federal agencies are required to follow Section 508 and related laws and policie
 - Review the Digital Dashboard Accessibility Module to discover possible conformance issues on agency website homepages.
   <ol >
         <li>
-            Log in to <a href="http://DigitalDashboard.gov">DigitalDashboard.gov</a> using your <a href="http://MAX.gov">MAX.gov</a> account
+            Log in to <a href="http://DigitalDashboard.gov">DigitalDashboard.gov</a> using your <a href="https://portal.max.gov/portal/home">MAX.gov</a> account
         </li>
         <li>
           Select the Accessibility module, and review the data for your agency 
