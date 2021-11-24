@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: false
-permalink: about-us/
+permalink: /about-us/
 type: page
 title: 'About Us'
 created: 1525805230
