@@ -214,25 +214,25 @@ Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
 ## <span id="usdhs" ></span>Department of Homeland Security
 ### Department-wide
-Cynthia Clinton-Brown - 202-573-5923 - <cynthia.clinton-brown@hq.dhs.gov>
-### **Countering Weapons of Mass Destruction (CWMD)**
+Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
+### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - 202-254-7454 - <leslie.porter@hq.dhs.gov>  
 Dester Njike - 240-705-0921 - <dester.njike@associates.hq.dhs.gov>
 ### Customs and Border Protection (CBP)
 Timothy Monaghan - 571-468-6684 - <timothy.monaghan@cbp.dhs.gov>  
 Amanda C. Haney&nbsp;(BACKUP) - 571-468-6497 - <amanda.c.haney@cbp.dhs.gov>
-### **Cybersecurity & Infrastructure Security Agency (CISA)**
-Stan Lavery - 202-875-2587 - <stan.lavery@cisa.dhs.gov>    
-Della Alvarado - 202-805-3425- <della.alvarado@cisa.dhs.gov>
+### Cybersecurity & Infrastructure Security Agency (CISA)
+John Campbell	- <john.campbell@cisa.dhs.gov>
+Steve Samuelian	- <steve.samuelian@cisa.dhs.gov>
 ### Federal Emergency Management Agency (FEMA)
 Janice Fenlason - 202-705-9758 - <janice.fenlason@fema.dhs.gov>
-### FEMA Emergency Management Institute (EMI)
+#### FEMA Emergency Management Institute (EMI)
 Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>  
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
-###  **FEMA U.S. Fire Administration (USFA)**
+#### FEMA U.S. Fire Administration (USFA)
 Mark Magers - 301-447-1247 - <mark.magers@fema.dhs.gov>  
 Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
-### Federal Law Enforcement Training Center (FLETC)
+#### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
 Brandon Pace - 202-618-1897 - <brandon.pace@hq.dhs.gov>
@@ -245,7 +245,6 @@ Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
 Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>  
-Judy Kuo (BACKUP) - 202-981-6243 - <judy.kuo@oig.dhs.gov>
 ### Science and Technology (S&T)
 Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
@@ -256,7 +255,6 @@ Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
 Kenneth S. Moser - 202-365-6493 - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - 202-372-2673 - <eleanor.e.thompson@uscg.mil>  
-Deborah A. Johnson-Hood - 202-475-3576 - <deborah.a.johnson-hood@uscg.mil>  
 Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
@@ -354,7 +352,7 @@ VACANT
 VACANT
 
 ## <span id="usdol" ></span>Department of Labor
-Brandon Jubar - 202.693.4289 - <jubar.brandon.t@dol.gov>
+Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 
 ## <span id="usdos" ></span>Department of State
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
@@ -362,12 +360,11 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 
 ## Department of Transportation
 ### Department-wide
-Larry Slaughter - 202.366.0132 - <larry.slaughter@dot.gov>
+VACANT
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
-
 
 ## <span id="usdott" ></span>Department of the Treasury
 ### Department-wide
@@ -404,11 +401,12 @@ Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ## <span id="usepa" ></span>Environmental Protection Agency
-Pattrick Grimm - <grimm.patrick@epa.gov>  
+David Segovia <segovia.david@epa.gov>
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ## <span id="usgsa" ></span>General Services Administration
-Dan Perkins - 816-823-1717 - <dan.perkins@gsa.gov>
+Charles Popelka - 703-605-2637 - <charles.popelka@gsa.gov>
+Dan Perkins (Deputy) - 816-823-1717 - <dan.perkins@gsa.gov>
 
 ## <span id="usnasa" ></span>National Aeronautics and&nbsp;Space Administration
 Fatima C. Johnson - 202-358-1631 - <fatima.c.johnson@nasa.gov>
@@ -521,6 +519,7 @@ Wing Leung - 202-653-5822 - <wleung@osc.gov>
 Rachel Gardell - 202-692-1392 - <rgardell@peacecorps.gov>
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>
+Marcelle Salley-Owens (BACKUP) 
 <span id="R" ></span>
 
 ### Railroad Retirement Board
