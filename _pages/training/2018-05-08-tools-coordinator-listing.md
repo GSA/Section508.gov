@@ -401,7 +401,7 @@ Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ## <span id="usepa" ></span>Environmental Protection Agency
-David Segovia <segovia.david@epa.gov> 
+David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ## <span id="usgsa" ></span>General Services Administration
