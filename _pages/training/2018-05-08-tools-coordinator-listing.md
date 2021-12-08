@@ -47,6 +47,7 @@ Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="
 ## <span id="usaid" ></span>Agency for International Development (USAID)
 William Morgan - <wmorgan@usaid.gov>
 
+----------------------------------------------------
 ## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Department-wide
 Angela Williams - 202-494-5428 - <angela.williams@usda.gov>
@@ -76,8 +77,8 @@ Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
 
+----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce
-
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 ### National Institute of Standards and Technology (NIST)
@@ -89,6 +90,7 @@ Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>
 Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>  
 Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 
+----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense
 ### Department-wide
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
@@ -176,15 +178,18 @@ VACANT
 ### Washington Headquarters Service (WHS)
 Vacant 
 
+----------------------------------------------------
 ## <span id="usdoe" ></span>Department of Education
 Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>  
 Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 
+----------------------------------------------------
 ## <span id="usdoen" ></span>Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
 Denise Hill (BACKUP)  
 Sandra Logan (BACKUP)  
 
+----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services
 ### Department-wide
 Kate Maynor Sweeney - 202-692-4622 - <kate.Maynor@hhs.gov>
@@ -212,6 +217,7 @@ Cammie Truesdell - 202-836-2793 - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
+----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security
 ### Department-wide
 Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
@@ -259,9 +265,11 @@ Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
+----------------------------------------------------
 ## <span id="usdhud" ></span>Department of Housing and Urban Development
 Jeffrey Salit - 202-402-7507 - <jeffrey.l.salit@hud.gov>
 
+----------------------------------------------------
 ## <span id="usdoi" ></span>Department of the Interior
 ### Department-wide
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
@@ -296,6 +304,7 @@ Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
 Edward Olexa - <section508@usgs.gov>  
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
+----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice
 ### Department-wide
 Melody Braswell - 202-598-0204 - <melody.braswell2@usdoj.gov>  
@@ -351,13 +360,16 @@ VACANT
 ### United States Marshals Service
 VACANT
 
+----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor
 Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 
+----------------------------------------------------
 ## <span id="usdos" ></span>Department of State
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 <span id="usdot" ></span>
 
+----------------------------------------------------
 ## Department of Transportation
 ### Department-wide
 VACANT
@@ -366,6 +378,7 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
+----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury
 ### Department-wide
 VACANT
@@ -397,38 +410,47 @@ Jerry Kim - 202-657-7727 - <jerry.kim@tigta.treas.gov>
 James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 
+----------------------------------------------------
 ## <span id="usdova" ></span>Department of Veterans Affairs
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
+----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency
 David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
+----------------------------------------------------
 ## <span id="usgsa" ></span>General Services Administration
 Charles Popelka - 703-605-2637 - <charles.popelka@gsa.gov>  
 Dan Perkins (Deputy) - 816-823-1717 - <dan.perkins@gsa.gov>
 
+----------------------------------------------------
 ## <span id="usnasa" ></span>National Aeronautics and&nbsp;Space Administration
 Fatima C. Johnson - 202-358-1631 - <fatima.c.johnson@nasa.gov>
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - 301-286-0150 - <betsy.sirk-1@nasa.gov>
 
+----------------------------------------------------
 ## <span id="usnsf" ></span>National Science Foundation
 Katherine Otts - 703-292-7552 - <kotts@nsf.gov>
 
+----------------------------------------------------
 ## <span id="usnrc" ></span>Nuclear Regulatory Commission
 John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
+----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management
 Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
 
+----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration
 Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
 
+----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
 
-
+----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
 
 ### Access Board
