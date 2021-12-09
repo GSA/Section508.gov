@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: training/
 type: training
-title: 'Accessibilty Training, Tools, and Events'
+title: 'Accessibility Training, Tools, and Events'
 created: 1525805876
 ---
 
