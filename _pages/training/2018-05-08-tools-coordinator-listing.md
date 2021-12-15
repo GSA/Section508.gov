@@ -69,7 +69,7 @@ Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
 ### National Agricultural Statistics Service
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service
-Karen Garrison 816-926-2678 - <kren.garrison@usda.gov>
+Karen Garrison 816-926-2678 - <karen.garrison@usda.gov>
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
 ### Office of the Inspector General (OIG)
@@ -196,8 +196,7 @@ Kate Maynor Sweeney - 202-692-4622 - <kate.Maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
-Shirley Draughan -&nbsp;301-427-1744 -&nbsp;<shirley.draughan@ahrq.hhs.gov>  
-Biff LeVee - 301-427-1897 - <biff.levee@ahrq.gov>
+Biff LeVee (Acting) - 301-427-1897 - <biff.levee@ahrq.gov>
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
