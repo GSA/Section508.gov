@@ -25,6 +25,8 @@ manage:
             url: manage/program-manager-responsibilities/
           - name: Revised 508 Standards Roadmap
             url: manage/program-roadmap/
+      - name: DEIA Accessibility Guidance
+        url: manage/deia-guidance/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
