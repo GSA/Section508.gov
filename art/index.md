@@ -19,7 +19,7 @@ Placeholder text
         </p>
       </div>
       <div class="usa-card__footer">
-        <button class="usa-button">Go to References</button>
+        <button class="usa-button">Go to References_YAY!</button>
       </div>
     </div>
   </div>
