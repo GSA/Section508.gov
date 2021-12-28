@@ -5,6 +5,8 @@ permalink: tools/coordinator-listing/
 type: training
 title: 'Find Your 508 Program Manager'
 created: 1525805876
+redirect_from:
+- 508-coordinator-listing/
 ---
 
 Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated Section 508 PM below.
