@@ -5,6 +5,8 @@ permalink: manage/laws-and-policies/
 type: manage
 title: 'IT Accessibility Laws and Policies'
 created: 1527612022
+redirect_from:
+- summary-section508-standards/
 ---
 
 [Section 508 Policy][1]  
