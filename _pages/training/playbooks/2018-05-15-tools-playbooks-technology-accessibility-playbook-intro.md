@@ -4,6 +4,8 @@ type: training
 layout: page
 title: 'Technology Accessibility Playbook'
 created: 1526408212
+redirect_from:
+- content/technology-accessibility-playbook/
 ---
 
 <div>
