@@ -22,11 +22,11 @@ created: 1527274672
 </p>
 
 <p dir="ltr">
-  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on August 16, 2021.
+  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on February 14, 2022.
 </p>
 
 <p dir="ltr">
-  <strong>Is there a new reporting system for FY21?</strong><br /> No.&nbsp;GSA launched an online reporting system in early 2019, which agencies will continue to use going forward.
+  <strong>Is there a new reporting system for this year?</strong><br /> No.&nbsp;GSA launched an online reporting system in early 2019, which agencies will continue to use going forward.
 </p>
 
 <p dir="ltr">
@@ -82,7 +82,7 @@ created: 1527274672
 </p>
 
 <p dir="ltr">
-  The current round of reports are&nbsp;<em>due&nbsp;</em>by 5:00 PM ET on August 16, 2021, with&nbsp;<em>final snapshots</em>&nbsp;due by 5:00 PM ET on August 31, 2021&nbsp;unless your agency has negotiated a different date with OMB.
+  The current round of reports are <em>due</em> by 5:00 PM ET on February 14, 2022, with <em>final snapshots</em> due by 5:00 PM ET on February 28, 2022 unless your agency has negotiated a different date with OMB.
 </p>
 <ul>
 <li dir="ltr">
@@ -119,4 +119,4 @@ If your agency has not received login information, and you wish to submit a repo
   </div>
 </div>
 
-**Reviewed/Updated**: July 2021
+**Reviewed/Updated**: January 2022

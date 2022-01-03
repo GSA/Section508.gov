@@ -27,7 +27,7 @@ created: 1582828796
       <strong><span id="art">Accessibility Requirements Tool (ART)</span>:</strong> A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.
     </li>
     <li>
-      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in 44 U.S.C. 3502, and the United States Postal Service. {Section 508, E103.4}
+      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}
     </li>
     <li>
       <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content which is not public facing, constitutes official business, and is communicated by an agency through one or more of the criteria set forth in E205.3.

@@ -45,8 +45,8 @@ manage:
       - name: Accessibility Reporting
         url: '#'
         grandchildren:
-#          - name: Maturity Reporting
-#            url: manage/reporting/
+          - name: Maturity Reporting
+            url: manage/reporting/
           - name: Reporting FAQ
             url: manage/reporting/faq/
           - name: Measure Website Conformance
