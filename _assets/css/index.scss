@@ -24,6 +24,11 @@ $theme-show-notifications: false;
   Add your SASS/CSS here
 */
 
+form {
+  width: 100%;
+  padding: 0.5rem 1rem;
+}
+
 .dataTables_filter [type="search"]{
   float: none;
   border-right: 2px solid;

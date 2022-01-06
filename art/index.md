@@ -3,59 +3,24 @@ layout: wide_art
 permalink: /art/
 title: Accessibility Requirements Tool
 ---
-## Placeholder Heading
-Placeholder text
+The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation, as well as in-house IT development. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all.
 <div class="usa-card-group">
-  <div class="tablet:grid-col-4 usa-card">
+  <div class="tablet:grid-col-12 usa-card">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading">References</h2>
+        <h2 class="usa-card__heading">To start a new procurement, you’ll need to know:</h2>
       </header>
       <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae. Excepturi nobis
-          dolores molestias! Quas quisquam a officia eos.
-        </p>
+        <div class="mobile-lg:grid-col-8">
+          <ul class="usa-list">
+            <li>Your project name</li>
+            <li>Your agency</li>
+            <li>What you are procuring (e.g., hardware, software, web, etc.)</li>
+          </ul>
+        </div>
       </div>
       <div class="usa-card__footer">
-        <button class="usa-button">Go to References_YAY!</button>
-      </div>
-    </div>
-  </div>
-  
-  <div class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading">Sample Language</h2>
-      </header>
-      <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae. Excepturi nobis
-          dolores molestias! Quas quisquam a officia eos.
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <button class="usa-button">Go to Sample Language</button>
-      </div>
-    </div>
-  </div>
-
-  <div class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading">ART</h2>
-      </header>
-      <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae. Excepturi nobis
-          dolores molestias! Quas quisquam a officia eos.
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <button class="usa-button">Get Started</button>
+        <button class="usa-button usa-button--accent-warm usa-focus">Get Started</button>
       </div>
     </div>
   </div>
