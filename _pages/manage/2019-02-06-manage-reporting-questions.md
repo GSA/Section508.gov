@@ -5,6 +5,8 @@ permalink: manage/reporting/questions/
 type: manage
 title: 'OMB Reporting Questions'
 created: 1549497525
+redirect_from:
+- content/reporting/questions/
 ---
 
 For reference, here are the questions your agency will need to report on, when you file your twice-yearly IT accessibility/Section 508 program maturity report to OMB.

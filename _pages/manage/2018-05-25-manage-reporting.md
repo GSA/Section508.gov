@@ -5,6 +5,8 @@ permalink: manage/reporting/
 type: manage
 title: 'Monitor and Report Progress'
 created: 1527274672
+redirect_from:
+- content/manage/reporting/
 ---
 
 <p dir="ltr">

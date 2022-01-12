@@ -5,6 +5,8 @@ permalink: manage/reporting/guidelines-program-maturity/
 type: manage
 title: 'Assessing Program Maturity'
 created: 1527575116
+redirect_from:
+- content/reporting/guidelines-program-maturity/
 ---
 
 There are five key metrics which you should use to measure the success of your agency’s Section 508 program. These measures are progressive, meaning each level of maturity is dependent on meeting the requirements of the levels below it. Report the maturity level that best reflects your organization’s overall status.

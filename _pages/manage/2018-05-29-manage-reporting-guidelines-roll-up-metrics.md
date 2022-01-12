@@ -5,6 +5,8 @@ permalink: manage/reporting/guidelines-roll-up-metrics/
 type: manage
 title: 'Rolling Up Agency Metrics'
 created: 1527574644
+redirect_from:
+- content/reporting/guidelines-roll-up-metrics/
 ---
 
 Your twice-yearly Section 508 program maturity reports should explain how well the IT accessibility programs across your entire organization enable you to comply with Section 508. In addition to the overall maturity measures (ad hoc, planned, resourced, or measured), you also need to report your evaluation and test results for web compliance.
