@@ -5,6 +5,8 @@ permalink: manage/reporting/guidelines-conformance/
 type: manage
 title: 'Measuring Website Conformance'
 created: 1527574911
+redirect_from:
+- content/reporting/guidelines-conformance/
 ---
 
 <span>Web conformance metrics measure how well government websites meet technical standards. In other words, how well does your website conform to the </span>[<span>Revised 508 Standards</span>][1] <span>for IT accessibility?</span>
