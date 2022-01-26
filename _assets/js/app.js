@@ -45,3 +45,11 @@ function scrollFunction() {
   });
 
 });
+
+$('#check-website').change(function(){
+  if($(this).prop("checked")) {
+    $('#e-content').show();
+  } else {
+    $('#e-content').hide();
+  }
+});
