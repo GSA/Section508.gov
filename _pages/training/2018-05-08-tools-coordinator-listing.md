@@ -66,7 +66,7 @@ Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
   * **Risk Management Agency**
 
 ### Forest Service
-VACANT
+Craig	Fay	- 505-563-7023 - <craig.fay@usda.gov>
 ### Information Management Services Branch
 Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
 ### National Agricultural Statistics Service
@@ -110,7 +110,7 @@ Victor Rivers - 301-844-9127 - <victor.m.rivers.civ@mail.mil>
 ### Center for Development of Security Excellence (CDSE)
 Kevin J. Malone - 000-000-0000 - <kevin.j.mullone.civ@mail.mil>
 ### Computer/Electronic Accommodations Program (CAP)
-Mark Rew - 703-614-8529- <mark.b.rew2.civ@mail.mil>
+VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
@@ -129,9 +129,6 @@ Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
 Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
-
-   * **Project Management Branch** - VACANT
-
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
 DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
@@ -139,7 +136,7 @@ DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
-Vacant
+VACANT
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
@@ -179,7 +176,7 @@ Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
 VACANT
 ### Washington Headquarters Service (WHS)
-Vacant 
+VACANT
 
 ----------------------------------------------------
 ## <span id="usdoe" ></span>Department of Education
@@ -246,8 +243,8 @@ Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 Brandon Pace - 202-618-1897 - <brandon.pace@hq.dhs.gov>
 ### Immigration and Customs Enforcement (ICE)
 Arva Parker - 202-732-7434 - <arva.parker@ice.dhs.gov>  
-### Intelligence &&nbsp;Analysis&nbsp;(IA)
-Vacant
+### Intelligence & Analysis (IA)
+VACANT
 ### Office of Biometric Identity Management&nbsp;(OBIM)
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
@@ -291,7 +288,7 @@ Nina Alexander - 505-273-1620 - <nina_alexander@btfa.gov>
 Angie Harsh - 303-969-5197 - <angie_harsh@ibc.doi.gov>
 ### National Park Service (NPS)
 Matthew Aston (Acting) - 202-641-1794 - <matthew_aston@nps.gov>
-### Office of the Inspector General
+### Office of the Inspector General (OIG)
 VACANT
 ### Office of Navajo & Hopi Indian Relocation
 Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
@@ -364,6 +361,7 @@ VACANT
 
 ----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor
+Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>
 Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 
 ----------------------------------------------------
@@ -393,7 +391,7 @@ Elizabeth Burke - 202-504-3786 - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
-Timothy Arnett - 202-927-9594 - <timothy.arnett@treasury.gov>
+VACANT
 ### FINCEN
 Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>  
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
@@ -491,6 +489,7 @@ Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 ### Federal Election Commission (FEC)
+VACANT
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
 Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
@@ -563,20 +562,20 @@ VACANT
 
 ### U.S. Agency for Global Media (USAGM)
 VACANT
-### U.S. Courts, Northern District of Iowa
+### U.S. Courts, Northern District of Iowa (USDC-NI)
 VACANT
-### U.S. Courts, Western District of Wisconsin
+### U.S. Courts, Western District of Wisconsin (USDC-WDW)
 Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
-### U.S. International Trade Commission
+### U.S. International Trade Commission (USITC)
 Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
-Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
+VACANT
 
 <div>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated: </strong> October 2021
+    <strong>Reviewed/Updated:</strong> January 2022
   </p>
 </div>
 
