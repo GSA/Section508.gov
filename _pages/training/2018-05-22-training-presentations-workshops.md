@@ -7,6 +7,14 @@ title: 'Accessibility Presentations and Workshop Materials'
 created: 1527019072
 ---
 
+## 2022
+
+### **Accessibility Community Meetings**
+February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is *“Be The Change In Accessibility: Design & Development”* where you’ll hear from two speakers.
+
+* [MS Word Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/MS%20Word%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
+* [PDF Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/PDF%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
+
 ## 2021
 
 ### **Accessibility Community Meetings**
