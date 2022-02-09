@@ -14,6 +14,8 @@ February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focu
 
 * [MS Word Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/MS%20Word%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
 * [PDF Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/PDF%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
+* [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
+* [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
 ## 2021
 
