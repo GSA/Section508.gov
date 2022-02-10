@@ -46,10 +46,48 @@ function scrollFunction() {
 
 });
 
-$('#check-website').change(function(){
-  if($(this).prop("checked")) {
-    $('#e-content').show();
-  } else {
-    $('#e-content').hide();
-  }
+// Form-group-outter is the parent question, form-group is a subquestion that can be hidden
+$('.form-group-outer').each(function() {
+
+  const $inp = $(this).find(":radio, :checkbox");
+
+  $inp.on("change", function() {
+    $inp.each(function() {
+      $(this).closest(".form-group").find(".sub-question").toggleClass("is-hidden", !this.checked);
+    });
+  });
+
+});
+
+// Text pop-up displays below once selecting radio button for aoc-no
+$(function() {
+  $("input[name='aoc']").click(function() {
+    if ($("#agency-communications-no").is(":checked")) {
+      $("#dialog_content").show();
+    } else {
+      $("#dialog_content").hide();
+    }
+  });
+});
+
+// Checkbox followup if software application, author, or infrastructure are clicked
+$(function() { 
+  $("input[name='software']").click(function() { 
+    if ($("#check-software-application, #check-software-author, #check-software-infrastructure").is(":checked")) {
+      $("#software-followup").show();
+    } else {
+      $("#software-followup").hide();
+    }
+  });
+});
+
+// Checkbox followup if hardware server checkbox is clicked
+$(function() { 
+  $("input[name='hardware']").click(function() { 
+    if ($("#check-hardware-server").is(":checked")) {
+      $("#server-followup").show();
+    } else {
+      $("#server-followup").hide();
+    }
+  });
 });

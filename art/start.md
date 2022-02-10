@@ -35,7 +35,7 @@ title: Accessibility Requirements Tool
       </nav>
     </div> -->
 <div class="grid-container pgov margin-top-9">
-<div class="grid-row grid-gap">
+  <div class="grid-row grid-gap">
     <div class="usa-layout-docs__sidenav desktop:grid-col-3 open" id="side-nav">
       <nav aria-label="Secondary navigation">
         <ul class="usa-sidenav">
@@ -49,16 +49,16 @@ title: Accessibility Requirements Tool
             <a href="#section-3">ICT Type</a>
           </li>
           <li class="usa-sidenav__item">
-            <a href="#section-4">Public or Agency</a>
+            <a href="#section-4">Electronic Content</a>
           </li>
           <li class="usa-sidenav__item">
-            <a href="#section-5">Electronic Items</a>
+            <a href="#section-5">Software</a>
           </li>
           <li class="usa-sidenav__item">
-            <a href="#section-6">Software</a>
+            <a href="#section-6">Hardware</a>
           </li>
           <li class="usa-sidenav__item">
-            <a href="#section-7">Hardware</a>
+            <a href="#section-7">XYZ</a>
           </li>
         </ul>
       </nav>
@@ -80,7 +80,7 @@ title: Accessibility Requirements Tool
                 value="project-planning"
               />
               <label class="usa-checkbox__label" for="check-solicitation-project-planning">
-                Project Planning
+                <b>Project Planning</b>
                 <span class="usa-checkbox__label-description">
                   I want to identify the applicable Section 508 standards I need to address during project planning.
                 </span>
@@ -95,7 +95,7 @@ title: Accessibility Requirements Tool
                 value="market-research"
               />
               <label class="usa-checkbox__label" for="check-solicitation-market-research"> 
-                Market Research
+                <b>Market Research</b>
                 <span class="usa-checkbox__label-description">
                   I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for Information (RFI).
                 </span>
@@ -110,7 +110,7 @@ title: Accessibility Requirements Tool
                 value="solicitation-development"
               />
               <label class="usa-checkbox__label" for="check-solicitation-development">
-                Solicitation Development
+                <b>Solicitation Development</b>
                 <span class="usa-checkbox__label-description">
                   I want to obtain Section 508 requirements to include in my statement of work.
                 </span>
@@ -145,7 +145,7 @@ title: Accessibility Requirements Tool
                 value="ict-product"
               />
               <label class="usa-checkbox__label" for="check-ict-product">
-                ICT Products
+                <b>ICT Products</b>
                 <span class="usa-checkbox__label-description">
                   I am purchasing ICT Products (example: web and non-web based electronic content, software licenses, hardware)
                 </span>
@@ -160,7 +160,7 @@ title: Accessibility Requirements Tool
                 value="ict-service"
               />
               <label class="usa-checkbox__label" for="check-ict-service"> 
-                ICT Services
+                <b>ICT Services</b>
                 <span class="usa-checkbox__label-description">
                   I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)
                 </span>
@@ -175,220 +175,453 @@ title: Accessibility Requirements Tool
                 value="None of the above"
               />
               <label class="usa-checkbox__label" for="check-ict-none">
-                None of the above
+                <b>None of the above</b>
               </label>
             </div>
           </fieldset>
         </div>
       </section>
       <section id="section-4">
-        <h2>Is this for public or agency official communications?</h2>
-        <div>
+        <h2>Does your product include electronic content?</h2>
+        <div class="form-group form-group-outer">
           <fieldset class="usa-fieldset">
-            <legend class="usa-legend">Select one of the answers</legend>
-            <div class="usa-radio">
+            <legend class="usa-legend">i.e. Electronic forms, surveys, web, multimedia, document templates, etc.</legend>
+            <div class="usa-radio form-group">
               <input
                 class="usa-radio__input usa-radio__input--tile"
-                id="radio-public"
+                id="electronic-content-yes"
                 type="radio"
-                name="audience"
-                value="public"
+                name="electronic-content"
+                value="yes"
               />
-              <label class="usa-radio__label" for="radio-public"
-                >Public</label
+              <label class="usa-radio__label" for="electronic-content-yes"
+                >Yes</label
               >
             </div>
-            <div class="usa-radio">
+            <div class="usa-radio form-group form-group-outer">
               <input
                 class="usa-radio__input usa-radio__input--tile"
-                id="radio-agency"
+                id="electronic-content-no"
                 type="radio"
-                name="audience"
-                value="agency"
+                name="electronic-content"
+                value="no"
               />
-              <label class="usa-radio__label" for="radio-agency"
-                >Agency Official Communications</label
+              <label class="usa-radio__label" for="electronic-content-no"
+                >No</label
               >
-            </div>
-            <div class="usa-radio">
-              <input
-                class="usa-radio__input usa-radio__input--tile"
-                id="radio-other"
-                type="radio"
-                name="audience"
-                value="other"
-              />
-              <label class="usa-radio__label" for="radio-other"
-                >Other</label
-              >
+              <div>
+                <div class="row sub-question is-hidden">
+                  <h3>Is your product public facing?</h3>
+                  <fieldset class="usa-fieldset">
+                    <legend class="usa-legend">Select one of the answers below.</legend>
+                    <div class="usa-radio form-group">
+                      <input
+                        class="usa-radio__input usa-radio__input--tile"
+                        id="radio-public-yes"
+                        type="radio"
+                        name="audience"
+                        value="public-yes"
+                      />
+                      <label class="usa-radio__label" for="radio-public-yes"
+                        >Yes</label
+                      >
+                    </div>
+                    <div class="usa-radio form-group form-group-outer">
+                      <input
+                        class="usa-radio__input usa-radio__input--tile"
+                        id="radio-public-no"
+                        type="radio"
+                        name="audience"
+                        value="public-no"
+                      />
+                      <label class="usa-radio__label" for="radio-public-no"
+                        >No</label
+                      >
+                      <div>
+                        <div class="row sub-question is-hidden">
+                          <h3>Is your product agency official communication?</h3>
+                          <fieldset class="usa-fieldset">
+                            <legend class="usa-legend">i.e. emergency notification, educational or training material, program or policy announcement, a survey questionnaire, etc.</legend>
+                            <div class="usa-radio form-group">
+                              <input
+                                class="usa-radio__input usa-radio__input--tile"
+                                id="agency-communications-yes"
+                                type="radio"
+                                name="aoc"
+                                value="aoc-yes"
+                              />
+                              <label class="usa-radio__label" for="agency-communications-yes"
+                                >Yes</label
+                              >
+                            </div>
+                            <div class="usa-radio form-group">
+                              <input
+                                class="usa-radio__input usa-radio__input--tile aoc-no"
+                                id="agency-communications-no"
+                                type="radio"
+                                name="aoc"
+                                value="aoc-no"
+                              />
+                              <label class="usa-radio__label" for="agency-communications-no"
+                                >No</label
+                              >
+                              <div id="dialog_content" style="display: none">Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4.</div>
+                            </div>
+                          </fieldset>
+                        </div>
+                      </div>
+                    </div>
+                  </fieldset>
+                </div>
+              </div>
             </div>
           </fieldset>
         </div>
       </section>
       <section id="section-5">
-        <h2>Electronic Content</h2>
+        <h2>Are you purchasing any software items, deliverables, or licenses?</h2>
+        <p>
+          <span class="emphasized">Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</span>
+        </p>
         <div>
           <fieldset class="usa-fieldset">
-            <legend class="usa-legend">Are you purchasing any of the following electronic items, deliverables, or licenses? (Check all that apply)
-            </legend>
+            <legend class="usa-legend">Please select all that apply.</legend>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-website"
+                id="check-software-application"
                 type="checkbox"
-                name="electronic-content"
-                value="website"
+                name="software"
+                value="software-application"
               />
-              <label class="usa-checkbox__label" for="check-website">
-                Internet or Intranet website
+              <label class="usa-checkbox__label" for="check-software-application">
+                <b>Web, desktop, server, mobile client applications</b>
+                <span class="usa-checkbox__label-description">
+                    <div class="mobile-lg:grid-col-4 margin-top-4 mobile-lg:margin-top-0">
+                      <ul class="usa-list usa-list--unstyled">
+                        <li>Time and attendance software</li>
+                        <li>DHS productivity applications</li>
+                        <li>Web forms/applications</li>
+                        <li>Call Center Support applications</li>
+                        <li>Workflow applications</li>
+                        <li>Content management systems</li>
+                        <li>Learning management systems</li>
+                      </ul>
+                    </div>
+                </span>
               </label>
             </div>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-document"
+                id="check-software-author"
                 type="checkbox"
-                name="electronic-content"
-                value="e-document"
+                name="software"
+                value="software-author"
               />
-              <label class="usa-checkbox__label" for="check-document"> 
-                Electronic Documents
+              <label class="usa-checkbox__label" for="check-software-author"> 
+                <b>Software authoring tools and platforms</b>
+                <span class="usa-checkbox__label-description">
+                    <div class="mobile-lg:grid-col-4 margin-top-4 mobile-lg:margin-top-0">
+                      <ul class="usa-list usa-list--unstyled">
+                        <li>Microsoft Office</li>
+                        <li>Adobe Acrobat Professional</li>
+                        <li>Adobe InDesign</li>
+                        <li>PDF Generators and Converters</li>
+                        <li>Graphing and Charting Programs</li>
+                      </ul>
+                    </div>
+                </span>
               </label>
             </div>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-form"
+                id="check-software-infrastructure"
                 type="checkbox"
-                name="electronic-content"
-                value="e-form"
+                name="software"
+                value="software-infrastructure"
               />
-              <label class="usa-checkbox__label" for="check-form">
-                Electronic Forms
+              <label class="usa-checkbox__label" for="check-software-infrastructure"> 
+                <b>Software infrastructure</b>
+                <span class="usa-checkbox__label-description">
+                    <div class="mobile-lg:grid-col-4 margin-top-4 mobile-lg:margin-top-0">
+                      <ul class="usa-list usa-list--unstyled">
+                        <li>Operating Systems</li>
+                        <li>Browsers</li>
+                        <li>Systems/network administration software</li>
+                        <li>Remote access software</li>
+                        <li>User authentication software</li>
+                        <li>Virtual meeting tools</li>
+                      </ul>
+                    </div>
+                </span>
               </label>
             </div>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-doc-template"
+                id="check-software-none"
                 type="checkbox"
-                name="electronic-content"
-                value="e-doc-template"
+                name="software"
+                value="None of the above"
               />
-              <label class="usa-checkbox__label" for="check-doc-template">
-                Electronic Document Templates
-              </label>
-            </div>
-            <div class="usa-checkbox">
-              <input
-                class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-emergency-notification"
-                type="checkbox"
-                name="electronic-content"
-                value="e-emergency-notification"
-              />
-              <label class="usa-checkbox__label" for="check-emergency-notification">
-                Electronic Emergency Notifications
-              </label>
-            </div>
-            <div class="usa-checkbox">
-              <input
-                class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-survey"
-                type="checkbox"
-                name="electronic-content"
-                value="e-survey"
-              />
-              <label class="usa-checkbox__label" for="check-survey">
-                Electronic Surveys
+              <label class="usa-checkbox__label" for="check-software-none">
+                <b>None of the above</b>
               </label>
             </div>
           </fieldset>
-        </div>
-      </section>
-      <section id="e-content">
-        <div>
-          <fieldset class="usa-fieldset">
-            <legend class="usa-legend">Will the electronic be made accessible on a website?</legend>
-            <div class="usa-radio">
-              <input
-                class="usa-radio__input usa-radio__input--tile"
-                id="website-yes"
-                type="radio"
-                name="accessible-on-web"
-                value="yes"
-              />
-              <label class="usa-radio__label" for="website-yes"
-                >Yes</label
-              >
-            </div>
-            <div class="usa-radio">
-              <input
-                class="usa-radio__input usa-radio__input--tile"
-                id="website-no"
-                type="radio"
-                name="accessible-on-web"
-                value="no"
-              />
-              <label class="usa-radio__label" for="website-no"
-                >No</label
-              >
-            </div>
-          </fieldset>
+          <div id="software-followup" style="display: none">
+            <h3>Does the software meet any of the following criteria?</h3>
+            <fieldset class="usa-fieldset">
+              <div class="usa-checkbox">
+                <input
+                  class="usa-checkbox__input usa-checkbox__input--tile"
+                  id="check-software-interface"
+                  type="checkbox"
+                  name="software-criteria"
+                  value="software-interface"
+                />
+                <label class="usa-checkbox__label" for="check-software-interface">
+                  Does not have an end user interface (i.e. user screens)
+                </label>
+              </div>
+              <div class="usa-checkbox">
+                <input
+                  class="usa-checkbox__input usa-checkbox__input--tile"
+                  id="check-software-assistive"
+                  type="checkbox"
+                  name="software-criteria"
+                  value="software-assistive"
+                />
+                <label class="usa-checkbox__label" for="check-software-assistive">
+                  Principal function is assistive technology
+                </label>
+              </div>
+              <div class="usa-checkbox">
+                <input
+                  class="usa-checkbox__input usa-checkbox__input--tile"
+                  id="check-software-idk"
+                  type="checkbox"
+                  name="software-criteria"
+                  value="software-idk"
+                />
+                <label class="usa-checkbox__label" for="check-software-idk">
+                  I don't know
+                </label>
+              </div>
+              <div class="usa-checkbox">
+                <input
+                  class="usa-checkbox__input usa-checkbox__input--tile"
+                  id="check-software-criteria-none"
+                  type="checkbox"
+                  name="software-criteria"
+                  value="software-none"
+                />
+                <label class="usa-checkbox__label" for="check-software-criteria-none">
+                  None of the above
+                </label>
+              </div>
+            </fieldset>
+          </div>
         </div>
       </section>
       <section id="section-6">
-        <h2>Software</h2>
+        <h2>Are you purchasing any hardware items, deliverables, or licenses?</h2>
+        <p>
+          <span class="emphasized">A tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards.</span>
+        </p>
         <div>
           <fieldset class="usa-fieldset">
-            <legend class="usa-legend">Are you purchasing any of the following electronic items, deliverables, or licenses? (Check all that apply)
-            </legend>
+            <legend class="usa-legend">Please select all that apply.</legend>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-historical-truth-2"
+                id="check-hardware-laptop"
                 type="checkbox"
-                name="historical-figures-2"
-                value="ict-product"
+                name="hardware"
+                value="hardware-laptop"
               />
-              <label class="usa-checkbox__label" for="check-historical-truth-2">
-                ICT Products
-                <span class="usa-checkbox__label-description">
-                  I am purchasing ICT Products (example: web and non-web based electronic content, software licenses, hardware)
-                </span>
+              <label class="usa-checkbox__label" for="check-hardware-laptop">
+                Computers and laptops
               </label>
             </div>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-historical-douglass-2"
+                id="check-hardware-tablet"
                 type="checkbox"
-                name="historical-figures-2"
-                value="ict-service"
+                name="hardware"
+                value="hardware-tablet"
               />
-              <label class="usa-checkbox__label" for="check-historical-douglass-2"> 
-                ICT Services
-                <span class="usa-checkbox__label-description">
-                  I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)
-                </span>
+              <label class="usa-checkbox__label" for="check-hardware-tablet">
+                Tablet
               </label>
             </div>
             <div class="usa-checkbox">
               <input
                 class="usa-checkbox__input usa-checkbox__input--tile"
-                id="check-historical-washington-2"
+                id="check-hardware-printer"
                 type="checkbox"
-                name="historical-figures-2"
-                value="None of the above"
+                name="hardware"
+                value="hardware-printer"
               />
-              <label class="usa-checkbox__label" for="check-historical-washington-2">
-                None of the above
+              <label class="usa-checkbox__label" for="check-hardware-printer">
+                Printers, scanners, or copiers
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-office-machine"
+                type="checkbox"
+                name="hardware"
+                value="hardware-office-machine"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-office-machine">
+                Multi-function office machines
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-equipment"
+                type="checkbox"
+                name="hardware"
+                value="hardware-equipment"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-equipment">
+                Peripheral equipment (i.e. keyboard, mouse)
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-kiosk"
+                type="checkbox"
+                name="hardware"
+                value="hardware-kiosk"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-kiosk">
+                Information kiosks and transaction machines
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-phone"
+                type="checkbox"
+                name="hardware"
+                value="hardware-phone"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-phone">
+                Mobile phones
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-teleconference"
+                type="checkbox"
+                name="hardware"
+                value="hardware-teleconference"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-teleconference">
+                Video teleconference equipment
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-diplay"
+                type="checkbox"
+                name="hardware"
+                value="hardware-diplay"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-diplay">
+                Video displays or monitors
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-server"
+                type="checkbox"
+                name="hardware"
+                value="hardware-server"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-server"> 
+                Servers
+              </label>
+            </div>
+            <div class="usa-checkbox">
+              <input
+                class="usa-checkbox__input usa-checkbox__input--tile"
+                id="check-hardware-other"
+                type="checkbox"
+                name="hardware"
+                value="hardware-other"
+              />
+              <label class="usa-checkbox__label" for="check-hardware-other">
+                Other
               </label>
             </div>
           </fieldset>
+          <div id="server-followup" style="display: none">
+            <h3>Will the server require physical installation?[placeholder]</h3>
+            <fieldset class="usa-fieldset">
+              <legend class="usa-legend">Select one of the answers below.</legend>
+              <div class="usa-radio form-group">
+                <input
+                  class="usa-radio__input usa-radio__input--tile"
+                  id="radio-server-yes"
+                  type="radio"
+                  name="server-doublecheck"
+                  value="server-yes"
+                />
+                <label class="usa-radio__label" for="radio-server-yes"
+                  >Yes</label
+                >
+              </div>
+              <div class="usa-radio form-group form-group-outer">
+                <input
+                  class="usa-radio__input usa-radio__input--tile"
+                  id="radio-server-no"
+                  type="radio"
+                  name="server-doublecheck"
+                  value="server-no"
+                />
+                <label class="usa-radio__label" for="radio-server-no"
+                  >No</label
+                >
+              </div>
+            </fieldset>
+          </div>
         </div>
       </section>
     </main>
+  </div>
+</div>
+<div class="grid-container pgov margin-top-9">
+  <div class="grid-row grid-gap">
+    <p>  </p>
+    <div class="grid-row grid-gap">
+      <div class="border-base radius-lg border-1px">
+        <div class="padding-1">
+          <p>
+            <strong>Before You Go</strong>
+          </p>
+          <p dir="ltr">
+            We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p><span class="bold"><strong>Reviewed/Updated:</strong> February 2022 </span></p>
+    </div>
+  </div>
+</div>
 
 <style>
     @media (min-height: 300px) {

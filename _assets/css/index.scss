@@ -51,8 +51,12 @@ a{
     color: #323a45;
 }
 
-#e-content { 
+.is-hidden {
   display: none;
+}
+
+.emphasized {
+  font-style: italic;
 }
 
 .navy {
