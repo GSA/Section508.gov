@@ -55,7 +55,7 @@ title: 'Create Accessible Synchronized Media Content'
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/files/thumbnails/kathys-flood-story-cc-poster.png"><source src="https://assets.section508.gov/files/videos/kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
 <hr />
 <p dir="ltr"><strong>What is the difference between open and closed captions?</strong></p>
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
@@ -74,7 +74,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Spoken words should have text equivalents. Sounds and other audio elements necessary to understand and enjoy the entertainment experience should be captioned. Audio elements that are often overlooked by captioners include additional information provided verbally for a text element on a presentation slide.</li>
 <li dir="ltr">The style of captioned elements (e.g., speaker names, sounds) should be consistent throughout a project.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg">
 <h3 dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
@@ -85,6 +85,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
 </ul>
 </li>
+<li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 </div>
 <br />
@@ -110,7 +111,7 @@ title: 'Create Accessible Synchronized Media Content'
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Audio Described)</strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
 <p dir="ltr">Duration: 0h 0:42m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/files/thumbnails/kathys-flood-story-ad-poster.png"><source src="https://assets.section508.gov/files/videos/kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
 <hr />
 <div class="grid-row grid-gap">
 <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img style="width: 100%;" src="https://assets.section508.gov/files/thumbnails/vintage-commercial-thumb.png" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
@@ -136,7 +137,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Description should only occur during non-dialogue pauses; description should never occur over dialogue, musical numbers or sound effects unless absolutely necessary.</li>
 <li dir="ltr">Describers should ensure that elements important to the narrative are described before additional details are provided. If time allows, the describer can include additional descriptions about the setting, a character's physical appearance and/or clothing to enhance the experience.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg">
 <h3 dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp" target="_blank">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
@@ -200,7 +201,7 @@ title: 'Create Accessible Synchronized Media Content'
 </ul>
 <h3 dir="ltr"><strong>Example of Accessible User Controls&nbsp;</strong></h3>
 <p dir="ltr">The Department of the Interior has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls (Figure 1).</p>
-<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="https://lh5.googleusercontent.com/TMp2s-twHy82g-ZH4qd-Z3y_L-N0El_Q3OEHgFm3L_EkHVRQERuqxabo_b3y4rc6mWb9OuQf_b-NsWsuGpcu3hXFHIe9Ds5F1xMjoPYf3NBiBMjIpBfeJoBCwauj2LW5dXArFMyd" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
+<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="https://assets.section508.gov/files/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
@@ -294,6 +295,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-how-to-caption-videos/">508 Accessible Videos &ndash; How to Caption Videos</a></li>
 </ul>
 </li>
+<li><a href="http://ncamftp.wgbh.org/cadet/">CADET - Caption and Descriptive Editing Tool</a> &ndash; WBGH</li>
 </ul>
 <p dir="ltr"><strong>Audio Description</strong></p>
 <ul>
@@ -320,4 +322,4 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
-<p><strong>Reviewed/Updated:</strong> February 2022</p>
+<p><strong>Reviewed/Updated:</strong> February 16, 2022</p>
