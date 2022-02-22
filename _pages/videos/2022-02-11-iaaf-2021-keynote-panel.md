@@ -12,7 +12,7 @@ Accessibility is one of the foundations of diversity, equity and inclusion and a
 
 ## Related Videos
 
-* [IAAF 2021 - Oct 13 Keynote Address: Whitney Quesenbery]({{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/)
+* [IAAF 2021 - Oct 12 Keynote Address: Whitney Quesenbery]({{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/)
 * [IAAF 2021 - Oct 13 Keynote Address: Judy Heumann]({{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/)
 
 **Reviewed/Updated**: February 2022

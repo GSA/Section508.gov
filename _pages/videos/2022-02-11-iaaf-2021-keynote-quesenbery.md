@@ -13,6 +13,6 @@ title: 'IAAF 2021 Keynote Address—Whitney Quesenbery'
 ## Related Videos
 
 * [IAAF 2021 - Oct 13 Keynote Address: Judy Heumann]({{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/)
-* [IAAF 2021 - Oct 13 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
+* [IAAF 2021 - Oct 14 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
 
 **Reviewed/Updated**: February 2022
