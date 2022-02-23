@@ -68,7 +68,7 @@ Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
 ### Forest Service
 Craig	Fay	- 505-563-7023 - <craig.fay@usda.gov>
 ### Information Management Services Branch
-Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
+VACANT
 ### National Agricultural Statistics Service
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service
@@ -78,7 +78,7 @@ Ben Weaver - <ben.weaver@usda.gov>
 ### Office of the Inspector General (OIG)
 Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
 ### Rural Development
-Ryan Schneider - <ryan.schneider@usda.gov>
+Rick Coleman - <rick.coleman@usda.gov>
 
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce
@@ -309,16 +309,18 @@ Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>
 Melody Braswell - 202-598-0204 - <melody.braswell2@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
 ### Antitrust Division
+Geraldo Despain - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
-VACANT
+Thomas Stewart - <thomas.stewart@atf.gov>
 
   * **National Laboratory Center** - VACANT
 
 ### Civil Division
-Portia L. Galloway - 202-616-3629 - <portia.l.galloway@usdoj.gov>
+Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Carolyn Morgan - 202-305-7913 - <carolyn.morgan@usdoj.gov>
+Tran Isabelle - <isabelle.tran@usdoj.gov>  
+Randy Abramson - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -331,11 +333,9 @@ VACANT
 Joseph Groves - 202-305-7352 - <joseph.Groves@usdoj.gov>
 ### Executive Office for Immigration Review
 Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>  
-Howard Myatt - 703-756-8111 - <howard.Myatt@usdoj.gov>
+Andrew Leftwich - <andrew.leftwich@usdoj.gov>
 ### Executive Office for United States Attorneys
-VACANT
-### Executive Office for United States Trustees
-VACANT
+Irina	Charova	- <icharova@usa.doj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -355,9 +355,11 @@ Bruce W. Whitlock - 202-353-1551 - <bruce.W.Whitlock@usdoj.gov>
 ### Office on Violence Against Women
 Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>
 ### Tax Division
-VACANT
+Karon	M. Etienne - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
-VACANT
+Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
+### United States Trustee Program
+Katie Kinnecome - <katie.kinnecome@usdoj.gov>
 
 ----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor
@@ -474,7 +476,6 @@ Jeremy Bingham - <jeremyb@dnfsb.gov>
 
 ### Equal Employment Opportunity Commission (EEOC)
 Pierrette McIntire - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
-Deanna Scott - 202-540-9189 - (Video Phone) - <deanna.scott@eeoc.gov>
 ### Election Assistance Commission (EAC)
 William Jackson - 202-740-5676 - <bjackson@eac.gov>
 ### Executive Office of the President (EOP)
@@ -575,7 +576,7 @@ VACANT
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong> January 2022
+    <strong>Reviewed/Updated:</strong> February 23, 2022
   </p>
 </div>
 
