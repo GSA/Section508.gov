@@ -335,7 +335,7 @@ Joseph Groves - 202-305-7352 - <joseph.Groves@usdoj.gov>
 Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>  
 Andrew Leftwich - <andrew.leftwich@usdoj.gov>
 ### Executive Office for United States Attorneys
-Irina	Charova	- <icharova@usa.doj.gov>
+Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
