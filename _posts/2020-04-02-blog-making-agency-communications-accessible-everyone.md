@@ -45,18 +45,17 @@ The following tips will help you to create accessible digital content.
 
 ## Videos and Virtual Meetings
 
-  * Captions are required for information provided by speech or sound. Consider using [FedRelay][5] solutions, such as [Relay Conference Captioning][6] (RCC), to caption your conference call or webinar.&nbsp;
-
+  * Captions are required for information provided by speech or sound. Consider live translation solutions such as Communication Access Realtime Translation (CART) to caption your conference call or webinar. 
   * Include descriptions of visual content in speaker narration. Otherwise, provide audio descriptions for information provided through graphics and pictures.
   * Make sure the media player controls are keyboard accessible.
-  * Review this [Video, Audio and Social][7] guidance for more information.
+  * Review this [Video, Audio and Social][6] guidance for more information.
 
 ## Social Media
 
   * Verify that your chosen platforms allow for the addition of captions on images or videos.
       * For images without ALT text, caption the images in the text of the post.
       * For inaccessible videos, include a link to an accessible version of the video on your agency website.
-  * Review this [Video, Audio and Social][7] guidance for more information.
+  * Review this [Video, Audio and Social][6] guidance for more information.
 
 Please contact us at <Section.508@gsa.gov> if you have questions or need additional assistance.
 
@@ -67,5 +66,4 @@ This guidance was developed by the Federal CIO Council&rsquo;s Interagency Acces
  [3]: {{site.baseurl}}/content/guide-accessible-web-design-development
  [4]: https://designsystem.digital.gov/
  [5]: https://www.federalrelay.us/
- [6]: https://www.federalrelay.us/rcc
- [7]: {{site.baseurl}}/create/video-social
+ [6]: {{site.baseurl}}/create/video-social/
