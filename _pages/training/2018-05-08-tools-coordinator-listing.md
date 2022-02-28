@@ -53,7 +53,9 @@ William Morgan - <wmorgan@usaid.gov>
 ----------------------------------------------------
 ## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Department-wide
-Angela Williams - 202-494-5428 - <angela.williams@usda.gov>
+Angela Williams - 202-494-5428 - <angela.williams@usda.gov>  
+Sarah	Reed - <sarah.reed@usda.gov>  
+Bernadette McGhee - <bernadette.mcghee@usda.gov>  
 ### Agricultural Marketing Service (AMS)
 Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Animal and Plant Health Inspection Service (APHIS)
@@ -65,6 +67,14 @@ Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
   * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
 
+### Food, Nutrition and Consumer Services	
+John Coulter - <john.coulter@usda.gov>
+
+* **Center for Nutrition Policy and Promotion (CNPP)**  
+* **Food and Nutrition Service (FNS)**  
+
+### Food Safety and Inspection Service
+Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service
 Craig	Fay	- 505-563-7023 - <craig.fay@usda.gov>
 ### Information Management Services Branch
@@ -73,12 +83,43 @@ VACANT
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service
 Karen Garrison 816-926-2678 - <karen.garrison@usda.gov>
+### Office of the Assistant Secretary for Civil Rights (OASCR)  
+Casandra Taylor	- <cassandra.taylor@usda.gov>  
+### Office of Budget and Program Analysis (OBPA) 
+Tania	Jones - <tania.jones@usda.gov>
+### Office of the Chief Economist (OCE)
+Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
+### Office of the Chief Financial Officer (OCFO)
+Ityran Taylor - <Ityran.Taylor@usda.gov>
+### Office of the Chief Information Officer
+
+* **CEC** - Rachel	Stanton	- <rachael.stanton@usda.gov>  
+* **DISC-EAS** - Andrew Campbell - <andrew.campbell@usda.gov>  
+* **DISC-EAS-SAAS** - Jerome Davin - <jerome.davin@usda.gov>  
+* **Informaiton Security Center (ICS)** - Holly J. Becktstrom - <holly.beckstrom@usda.gov>
+
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
+## Office of Ethics
+Jordon Murphy - <jordon.murphy@usda.gov>
+### Office of General Council (OGC)
+Jamie Lyons - <jamie.lyons@usda.gov>
+### Office of Hearings and Appeals (OHA)
+Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
+John Trifilitti - <john.trifiletti@usda.gov>
+### Research, Education and Economics (REE)
+
+* **Agricultural Research Service (ARS)** - Yvette Anderson <yvette.anderson@usda.gov>
+* **Economic Research Service (ERS)** - Beth Couturier <beth.couturier@usda.gov>, and Lisa Wilcox - <lisa.wilcox@usda.gov>
+* **National Agricultural Library (NAL)** - Ricardo Romero - <ricardo.romero@usda.gov>
+* **National Agricultural Statistics Service (NASS)** - Rich Holcomb <rich.holcomb@usda.gov>
+* **National Institute of Food and Agriculture (NIFA)** - Michael Quizon <michael.quizon@usda.gov>
+
 ### Rural Development
-Rick Coleman - <rick.coleman@usda.gov>
+Ryan Schneider - <ryan.schneider@usda.gov>
+### Trade and Foreign Agricultural Affairs (TFAA)
+Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce
