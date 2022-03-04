@@ -485,3 +485,12 @@ div[role=rowheader] {
 .session-link {
   color: #006eb9;
 }
+
+//css from dart
+.module{margin-left:auto;margin-right:auto;padding:1.5rem;background-color:#fff;border-radius:3px}
+.custom-bullet{margin-left:0;list-style:none;counter-reset:counter}
+.custom-bullet li:before{counter-increment:counter;content:counter(counter)}
+.custom-bullet-b li{position:relative;border:3px solid #00008b;padding:.75rem;border-radius:3px;float:left;margin:5px}
+.custom-bullet-b li:before{position:absolute;top:-1.35rem;padding-left:.375rem;padding-right:.375rem;color:#00008b;background-color:#fff}
+.custom-bullet-b li:after{font-size: 20px;}
+.custom-bullet-b li:last-child{margin-bottom:0}

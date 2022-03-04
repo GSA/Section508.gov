@@ -3,43 +3,12 @@ layout: base
 permalink: /art/start
 title: Accessibility Requirements Tool
 ---
-<!--  <div class="grid-container">
-  <div class="grid-row grid-gap">
-    <div class="grid-col-3">
-      <nav aria-label="Secondary navigation,,">
-          <ul class="usa-sidenav">
-            <li class="usa-sidenav__item">
-              <a href="javascript:void(0);" class="usa-current">Start</a>
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  <a href="javascript:void(0);">Child link</a>
-                </li>
-                <li class="usa-sidenav__item">
-                  <a href="javascript:void(0);">Child link</a>
-                </li>
-                <li class="usa-sidenav__item">
-                  <a href="javascript:void(0);">Child link</a>
-                </li>
-                <li class="usa-sidenav__item">
-                  <a href="javascript:void(0);">Child link</a>
-                </li>
-                <li class="usa-sidenav__item">
-                  <a href="javascript:void(0);">Child link</a>
-                </li>
-              </ul>
-            </li>
-            <li class="usa-sidenav__item">
-              <a href="javascript:void(0);">Parent link</a>
-            </li>
-          </ul>
-      </nav>
-    </div> -->
 <div class="grid-container pgov margin-top-9">
-  <div class="grid-row grid-gap">
+  <div class="grid-row grid-gap NavList" id="ExceptionsNavigationBar">
     <div class="usa-layout-docs__sidenav desktop:grid-col-3 open" id="side-nav">
       <nav aria-label="Secondary navigation">
-        <ul class="usa-sidenav">
-          <li class="usa-sidenav__item">
+        <ul class="usa-sidenav" id="navigationListIDexception">
+          <li class="usa-sidenav__item navlinksclass">
             <a href="#section-1">Start</a>
           </li>
           <li class="usa-sidenav__item">
@@ -57,9 +26,6 @@ title: Accessibility Requirements Tool
           <li class="usa-sidenav__item">
             <a href="#section-6">Hardware</a>
           </li>
-          <li class="usa-sidenav__item">
-            <a href="#section-7">XYZ</a>
-          </li>
         </ul>
       </nav>
     <button id="backtotop" title="Go to top">˄ Top</button>
@@ -67,7 +33,7 @@ title: Accessibility Requirements Tool
     <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
       <h1 class="site-preview-heading">How can ART help you?</h1>
       <section id="section-1">
-        <h2>Solicitation Type</h2>
+        <h2 class="site-preview-heading">Solicitation Type</h2>
         <div>
           <fieldset class="usa-fieldset">
             <legend class="usa-legend">Select any of the options below</legend>
@@ -94,7 +60,7 @@ title: Accessibility Requirements Tool
                 name="solicitation-type-market-research"
                 value="market-research"
               />
-              <label class="usa-checkbox__label" for="check-solicitation-market-research"> 
+              <label class="usa-checkbox__label" for="check-solicitation-market-research">
                 <b>Market Research</b>
                 <span class="usa-checkbox__label-description">
                   I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for Information (RFI).
@@ -119,20 +85,25 @@ title: Accessibility Requirements Tool
           </fieldset>
         </div>
       </section>
-      <section id="section-2">
-        <h2>Project Name</h2>
-        <div>
-          <label class="usa-label" for="input-focus">Name of Project</label>
-          <input
-            class="usa-input usa-focus"
-            id="input-focus"
-            name="input-focus"
-            type="text"
-          />
+      <section id="section-2" aria-label="Default search component">
+        <h2 class="site-preview-heading">Project Name</h2>
+        <div id="dynamicInput">
+          <form id="addICTform">
+          <!-- <form method="POST"> -->
+            <legend>Please list items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT items providing an overall solution (for example: Security Equipment).</legend> 
+            <label for="capturedICTfield">
+              <input type="text" id="capturedICTfield" name="capturedICT[]" class="capturedICTclass">
+              <span>
+                <button class="usa-button usa-button--accent-warm" type="button" id="addICTbutton" onclick="addICTInput()">
+                Add
+                </button>
+              </span>
+            </label>
+          </form>
         </div>
       </section>
       <section id="section-3">
-        <h2>ICT Type</h2>
+        <h2 class="site-preview-heading">ICT Type</h2>
         <div>
           <fieldset class="usa-fieldset">
             <legend class="usa-legend">What type of ICT do you have? Please select all that apply.</legend>
@@ -159,7 +130,7 @@ title: Accessibility Requirements Tool
                 name="ict-type-service"
                 value="ict-service"
               />
-              <label class="usa-checkbox__label" for="check-ict-service"> 
+              <label class="usa-checkbox__label" for="check-ict-service">
                 <b>ICT Services</b>
                 <span class="usa-checkbox__label-description">
                   I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)
@@ -182,7 +153,7 @@ title: Accessibility Requirements Tool
         </div>
       </section>
       <section id="section-4">
-        <h2>Does your product include electronic content?</h2>
+        <h2 class="site-preview-heading">Does your solicitation include electronic content?</h2>
         <div class="form-group form-group-outer">
           <fieldset class="usa-fieldset">
             <legend class="usa-legend">i.e. Electronic forms, surveys, web, multimedia, document templates, etc.</legend>
@@ -279,7 +250,7 @@ title: Accessibility Requirements Tool
         </div>
       </section>
       <section id="section-5">
-        <h2>Are you purchasing any software items, deliverables, or licenses?</h2>
+        <h2 class="site-preview-heading">Are you purchasing any software items, deliverables, or licenses?</h2>
         <p>
           <span class="emphasized">Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</span>
         </p>
@@ -319,7 +290,7 @@ title: Accessibility Requirements Tool
                 name="software"
                 value="software-author"
               />
-              <label class="usa-checkbox__label" for="check-software-author"> 
+              <label class="usa-checkbox__label" for="check-software-author">
                 <b>Software authoring tools and platforms</b>
                 <span class="usa-checkbox__label-description">
                     <div class="mobile-lg:grid-col-4 margin-top-4 mobile-lg:margin-top-0">
@@ -342,7 +313,7 @@ title: Accessibility Requirements Tool
                 name="software"
                 value="software-infrastructure"
               />
-              <label class="usa-checkbox__label" for="check-software-infrastructure"> 
+              <label class="usa-checkbox__label" for="check-software-infrastructure">
                 <b>Software infrastructure</b>
                 <span class="usa-checkbox__label-description">
                     <div class="mobile-lg:grid-col-4 margin-top-4 mobile-lg:margin-top-0">
@@ -427,9 +398,10 @@ title: Accessibility Requirements Tool
         </div>
       </section>
       <section id="section-6">
-        <h2>Are you purchasing any hardware items, deliverables, or licenses?</h2>
+        <h2 class="site-preview-heading">Are you purchasing any hardware items, deliverables, or licenses?</h2>
         <p>
-          <span class="emphasized">A tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards.</span>
+          <span class="emphasized">Where components of ICT are hardware and transmit information or have a user interface, such components shall conform to the requirements in Chapter 4. Hardware is considered a tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards. 
+          </span>
         </p>
         <div>
           <fieldset class="usa-fieldset">
@@ -550,7 +522,7 @@ title: Accessibility Requirements Tool
                 name="hardware"
                 value="hardware-server"
               />
-              <label class="usa-checkbox__label" for="check-hardware-server"> 
+              <label class="usa-checkbox__label" for="check-hardware-server">
                 Servers
               </label>
             </div>
@@ -599,6 +571,13 @@ title: Accessibility Requirements Tool
           </div>
         </div>
       </section>
+      <div class="grid-container pgov margin-top-5">
+        <div class="grid-row grid-gap">
+            <a href="/art/result">
+              <button class="usa-button usa-button--accent-warm usa-focus" id="submit">Submit</button>
+            </a>
+        </div>
+      </div>
     </main>
   </div>
 </div>
@@ -624,6 +603,14 @@ title: Accessibility Requirements Tool
 </div>
 
 <style>
+.module{margin-left:auto;margin-right:auto;padding:1.5rem;background-color:#fff;border-radius:3px}
+.custom-bullet{margin-left:0;list-style:none;counter-reset:counter}
+.custom-bullet li:before{counter-increment:counter;content:counter(counter)}
+.custom-bullet-b li{position:relative;border:3px solid #00008b;padding:.75rem;border-radius:3px;float:left;margin:5px}
+.custom-bullet-b li:before{position:absolute;top:-1.35rem;padding-left:.375rem;padding-right:.375rem;color:#00008b;background-color:#fff}
+.custom-bullet-b li:after{font-size: 20px;}
+.custom-bullet-b li:last-child{margin-bottom:0}
+
     @media (min-height: 300px) {
         #side-nav {
             position: sticky;
@@ -655,5 +642,11 @@ title: Accessibility Requirements Tool
         });
     });
 
-
 </script>
+
+
+
+
+
+
+
