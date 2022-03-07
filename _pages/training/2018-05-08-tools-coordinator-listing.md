@@ -575,7 +575,11 @@ VACANT
 
 <span id ="O" ></span>
 
-### Office of Special&nbsp;Counsel
+### Occupational Safety and Health Review Commission (OSHRC)
+Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>  
+Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
+
+### Office of Special Counsel
 Wing Leung - 202-653-5822 - <wleung@osc.gov>
 
 <span id="P"></span>
