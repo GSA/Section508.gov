@@ -7,24 +7,42 @@ title: 'Accessibility Presentations and Workshop Materials'
 created: 1527019072
 ---
 
+## 2022
+
+### **Accessibility Community Meetings**
+February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is *“Be The Change In Accessibility: Design & Development”* where you’ll hear from two speakers.
+
+* [MS Word Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/MS%20Word%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
+* [PDF Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/PDF%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
+* [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
+* [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
+
 ## 2021
 
 ### **Accessibility Community Meetings**
+December 7, 2021 - Our theme, “Winter Break: Accessibility Lights, DEIA Camera…ACTION” continued to focus on reconnecting our broader accessibility community members and charting the path forward. The topics discussed at the meeting included: DEIA and the Accessibility Community; What is The Big Picture; and Using the Tools We Have To Accomplish the Goal.
 
-<p>June 8, 2021 - In this session, Brandon Jular (Department of Labor) shared his journey from a new leader with no accessibility experience to becoming a ‘508 Evangelist,’ and began fundamentally changing how an organization thought about and approached accessibility. </p>
-<ul>
-<li><a href="https://assets.section508.gov/files/Captioned-Text-%28ITACM-JUN2021%29.docx">Getting the Support You Need: Strategically leveraging high-level support</a></li>
-<li><a href="https://assets.section508.gov/files/GSA-Accessibility-Community-Meeting-08JUN2021.pptx">Transcript (DOC, JUN 2021)</a></li>
-</ul>
+* [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2021%29.docx)
+
+August 4, 2021 - Our theme, “Moving Forward: Leaving No One Behind,” continued to focus on reconnecting our broader accessibility community and looking at the path ahead. This session was part-two of how a leader with no accessibility experience became a ‘508 Evangelist’ and began fundamentally changing how an organization thought about, and approached, accessibility. Topics included: Linking & Leverage; Building a Foundation; Changing the Narrative; and Enforcement Is NOT the Answer.
+
+* [Building on the Fundamentals (PPTX)](https://assets.section508.gov/files/ITACM-Presentation-04AUG2021.pptx)
+* [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-AUG2021%29.docx)
+
+June 8, 2021 - In this session, Brandon Jular (Department of Labor) shared his journey from a new leader with no accessibility experience to becoming a ‘508 Evangelist,’ and began fundamentally changing how an organization thought about and approached accessibility.
+
+* [Getting the Support You Need: Strategically leveraging high-level support (PPTX)](https://assets.section508.gov/files/GSA-Accessibility-Community-Meeting-08JUN2021.pptx)
+* [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-JUN2021%29.docx)
+
 April 6, 2021 - Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.
 
-* [Transcript (DOC, APR 2021)][1]
+* [Transcript (DOCX)][1]
 
 February 9, 2021 - Featuring the slogan, “Moving Forward: Change is Necessary”, this meeting featured presentations by DHS, GSA, NASA, and the Information Technology Industry Association (ITI) on Accessibility Conformance Report (ACR) creation, evaluation and validation processes. Additionally, the International Association of Accessibility Professionals (IAAP) shared information on improving the accessibility profession through education and certification.
 
-* [Refining and Evaluating ACRs and VPATs (PPT, FEB 2021)][2]
-* [Get Certified (PPT, FEB 2021)][3]
-* [Transcript (DOC, FEB 2021)][4]
+* [Refining and Evaluating ACRs and VPATs (PPTX)][2]
+* [Get Certified (PPTX)][3]
+* [Transcript (DOCX)][4]
 
 ## 2020
 

@@ -27,7 +27,7 @@ created: 1582828796
       <strong><span id="art">Accessibility Requirements Tool (ART)</span>:</strong> A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.
     </li>
     <li>
-      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in 44 U.S.C. 3502, and the United States Postal Service. {Section 508, E103.4}
+      <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}
     </li>
     <li>
       <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content which is not public facing, constitutes official business, and is communicated by an agency through one or more of the criteria set forth in E205.3.
@@ -90,6 +90,9 @@ created: 1582828796
     </li>
     <li>
       <strong><span id="caret">Caret</span>:</strong> An on-screen indication of the text input focus in a text edit field.
+    </li>
+    <li>
+      <strong><span id="cart">Communication Access Realtime Translation (CART)</span>:</strong> Live instant translation of the spoken word into text using a stenotype machine, notebook computer and realtime software. For CART services, search your agency intranet, or contact your agency <a href="http://www.gsa.gov/fedrelay">relay official</a>.
     </li>
     <li>
       <strong><span id= "css">Cascading Style Sheets (CSS)</span>:</strong>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;
@@ -161,7 +164,7 @@ created: 1582828796
       <strong><span id="far">Federal Acquisition Regulation (FAR)</span>:</strong> Principal set of rules in the Federal Acquisition Regulations System regarding&nbsp; United States government procurement.
     </li>
     <li>
-      <strong><span id="fedrelay">FedRelay</span>:</strong>&nbsp;<a href="https://www.federalrelay.us" target="_blank">FedRelay</a> provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities.
+      <strong><span id="fedrelay">FedRelay</span>:</strong> Federal Relay services expired February 13, 2022. FedRelay was a provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities. Agencies can access <a href="http://www.gsa.gov/fedrelay" target="_blank">relay services</a> through through Federal Communications Commission (FCC) Telecommunications Relay Service (TRS) and General Services Administration (GSA) Multiple Award Schedule Translation and Interpretation Services.
     </li>
     <li>
       <strong><span id="focus">Focus</span>:</strong> In a graphical user interface, a window (e.g., a button) or a location within a window (e.g., position of a text cursor or mouse pointer), to which the operating system will direct user input. Users can set the focus by using the keyboard, the mouse, or other input devices.
@@ -439,10 +442,12 @@ created: 1582828796
       <strong><span id="table">Table</span>:</strong> A two-dimensional group of rectangular cells organized into rows and columns. Tables can be used to display information, or used as a method of laying out information.
     </li>
     <li>
-      <strong><span id="table-header">Table header</span>:</strong> The name of a category of data in a<a href="#data-table"> data table</a> row or column. In a<a href="#simple-data-table"> simple data table</a>, column headers are provided in the first row and apply to the data cells in their respective columns. Similarly, row headers are provided in the first column and apply to the data cells in their respective rows. In a<a href="#complex-data-table"> complex data table</a>, a column header may be defined in any row, and may apply to multiple columns or to a few cells in a column, and a row header may be defined in any column, and may apply to multiple rows or to a few cells in a row.
+      <strong><span id="table-header">Table header</span>:</strong> The name of a category of data in a <a href="#data-table">data table</a> row or column. In a<a href="#simple-data-table"> simple data table</a>, column headers are provided in the first row and apply to the data cells in their respective columns. Similarly, row headers are provided in the first column and apply to the data cells in their respective rows. In a<a href="#complex-data-table"> complex data table</a>, a column header may be defined in any row, and may apply to multiple columns or to a few cells in a column, and a row header may be defined in any column, and may apply to multiple rows or to a few cells in a row.
+    </li>
+    <li><strong><span id="trs">Telecommunications Relay Services (TRS)</span>:</strong> <a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities. 
     </li>
     <li>
-      <strong><span id="telecommunications"> Telecommunications</span>:</strong>The signal transmission of information of the user’s choosing, between or among points specified by the user, without change in the form or content of the information as sent and received.
+      <strong><span id="telecommunications">Telecommunications</span>:</strong> The signal transmission of information of the user’s choosing, between or among points specified by the user, without change in the form or content of the information as sent and received.
     </li>
     <li>
       <strong><span id="terminal">Terminal</span>:</strong> Device or software that provides the user interface through which the end user directly interacts. For some systems, the software that provides the user interface may reside on more than one device such as a telephone and a server.

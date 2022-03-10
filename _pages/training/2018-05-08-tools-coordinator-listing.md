@@ -5,6 +5,9 @@ permalink: tools/coordinator-listing/
 type: training
 title: 'Find Your 508 Program Manager'
 created: 1525805876
+redirect_from:
+- 508-coordinator-listing/
+- content/coordinator-listing/
 ---
 
 Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated Section 508 PM below.
@@ -47,9 +50,12 @@ Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="
 ## <span id="usaid" ></span>Agency for International Development (USAID)
 William Morgan - <wmorgan@usaid.gov>
 
+----------------------------------------------------
 ## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Department-wide
-Angela Williams - 202-494-5428 - <angela.williams@usda.gov>
+Angela Williams - 202-494-5428 - <angela.williams@usda.gov>  
+Sarah	Reed - <sarah.reed@usda.gov>  
+Bernadette McGhee - <bernadette.mcghee@usda.gov>  
 ### Agricultural Marketing Service (AMS)
 Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Animal and Plant Health Inspection Service (APHIS)
@@ -61,23 +67,62 @@ Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
   * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
 
+### Food, Nutrition and Consumer Services	
+John Coulter - <john.coulter@usda.gov>
+
+* **Center for Nutrition Policy and Promotion (CNPP)**  
+* **Food and Nutrition Service (FNS)**  
+
+### Food Safety and Inspection Service
+Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service
-VACANT
+Craig	Fay	- 505-563-7023 - <craig.fay@usda.gov>
 ### Information Management Services Branch
-Steven Beauford - 202-720-0113 - <steven.Beauford@wdc.usda.gov>
+VACANT
 ### National Agricultural Statistics Service
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service
-Karen Garrison 816-926-2678 - <kren.garrison@usda.gov>
+Karen Garrison 816-926-2678 - <karen.garrison@usda.gov>
+### Office of the Assistant Secretary for Civil Rights (OASCR)  
+Casandra Taylor	- <cassandra.taylor@usda.gov>  
+### Office of Budget and Program Analysis (OBPA) 
+Tania	Jones - <tania.jones@usda.gov>
+### Office of the Chief Economist (OCE)
+Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
+### Office of the Chief Financial Officer (OCFO)
+Ityran Taylor - <Ityran.Taylor@usda.gov>
+### Office of the Chief Information Officer
+
+* **CEC** - Rachel	Stanton	- <rachael.stanton@usda.gov>  
+* **DISC-EAS** - Andrew Campbell - <andrew.campbell@usda.gov>  
+* **DISC-EAS-SAAS** - Jerome Davin - <jerome.davin@usda.gov>  
+* **Informaiton Security Center (ICS)** - Holly J. Becktstrom - <holly.beckstrom@usda.gov>
+
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
+## Office of Ethics
+Jordon Murphy - <jordon.murphy@usda.gov>
+### Office of General Council (OGC)
+Jamie Lyons - <jamie.lyons@usda.gov>
+### Office of Hearings and Appeals (OHA)
+Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-Toni Serpa - 816-926-7613 - <toni.serpa@oig.usda.gov>
+John Trifilitti - <john.trifiletti@usda.gov>
+### Research, Education and Economics (REE)
+
+* **Agricultural Research Service (ARS)** - Yvette Anderson <yvette.anderson@usda.gov>
+* **Economic Research Service (ERS)** - Beth Couturier <beth.couturier@usda.gov>, and Lisa Wilcox - <lisa.wilcox@usda.gov>
+* **National Agricultural Library (NAL)** - Ricardo Romero - <ricardo.romero@usda.gov>
+* **National Agricultural Statistics Service (NASS)** - Rich Holcomb <rich.holcomb@usda.gov>
+* **National Institute of Food and Agriculture (NIFA)** - Michael Quizon <michael.quizon@usda.gov>
+
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
+### Trade and Foreign Agricultural Affairs (TFAA)
+Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 
+----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce
-
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 ### National Institute of Standards and Technology (NIST)
@@ -89,6 +134,7 @@ Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>
 Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>  
 Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 
+----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense
 ### Department-wide
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
@@ -105,7 +151,7 @@ Victor Rivers - 301-844-9127 - <victor.m.rivers.civ@mail.mil>
 ### Center for Development of Security Excellence (CDSE)
 Kevin J. Malone - 000-000-0000 - <kevin.j.mullone.civ@mail.mil>
 ### Computer/Electronic Accommodations Program (CAP)
-Mark Rew - 703-614-8529- <mark.b.rew2.civ@mail.mil>
+VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
@@ -124,9 +170,6 @@ Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
 Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
-
-   * **Project Management Branch** - VACANT
-
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
 DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
@@ -134,7 +177,7 @@ DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
-Vacant
+VACANT
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
@@ -174,25 +217,27 @@ Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
 VACANT
 ### Washington Headquarters Service (WHS)
-Vacant 
+VACANT
 
+----------------------------------------------------
 ## <span id="usdoe" ></span>Department of Education
-Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>
+Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>  
 Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 
+----------------------------------------------------
 ## <span id="usdoen" ></span>Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
 Denise Hill (BACKUP)  
 Sandra Logan (BACKUP)  
 
+----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services
 ### Department-wide
 Kate Maynor Sweeney - 202-692-4622 - <kate.Maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
-Shirley Draughan -&nbsp;301-427-1744 -&nbsp;<shirley.draughan@ahrq.hhs.gov>  
-Biff LeVee - 301-427-1897 - <biff.levee@ahrq.gov>
+Biff LeVee (Acting) - 301-427-1897 - <biff.levee@ahrq.gov>
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
@@ -212,40 +257,40 @@ Cammie Truesdell - 202-836-2793 - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
+----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security
 ### Department-wide
-Cynthia Clinton-Brown - 202-573-5923 - <cynthia.clinton-brown@hq.dhs.gov>
-### **Countering Weapons of Mass Destruction (CWMD)**
+Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
+### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - 202-254-7454 - <leslie.porter@hq.dhs.gov>  
 Dester Njike - 240-705-0921 - <dester.njike@associates.hq.dhs.gov>
 ### Customs and Border Protection (CBP)
 Timothy Monaghan - 571-468-6684 - <timothy.monaghan@cbp.dhs.gov>  
 Amanda C. Haney&nbsp;(BACKUP) - 571-468-6497 - <amanda.c.haney@cbp.dhs.gov>
-### **Cybersecurity & Infrastructure Security Agency (CISA)**
-Stan Lavery - 202-875-2587 - <stan.lavery@cisa.dhs.gov>    
-Della Alvarado - 202-805-3425- <della.alvarado@cisa.dhs.gov>
+### Cybersecurity & Infrastructure Security Agency (CISA)
+John Campbell	- <john.campbell@cisa.dhs.gov>  
+Steve Samuelian	- <steve.samuelian@cisa.dhs.gov>
 ### Federal Emergency Management Agency (FEMA)
 Janice Fenlason - 202-705-9758 - <janice.fenlason@fema.dhs.gov>
-### FEMA Emergency Management Institute (EMI)
+#### FEMA Emergency Management Institute (EMI)
 Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>  
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
-###  **FEMA U.S. Fire Administration (USFA)**
+#### FEMA U.S. Fire Administration (USFA)
 Mark Magers - 301-447-1247 - <mark.magers@fema.dhs.gov>  
 Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
-### Federal Law Enforcement Training Center (FLETC)
+#### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
 Brandon Pace - 202-618-1897 - <brandon.pace@hq.dhs.gov>
 ### Immigration and Customs Enforcement (ICE)
 Arva Parker - 202-732-7434 - <arva.parker@ice.dhs.gov>  
-### Intelligence &&nbsp;Analysis&nbsp;(IA)
-Vacant
+### Intelligence & Analysis (IA)
+VACANT
 ### Office of Biometric Identity Management&nbsp;(OBIM)
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
 Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>  
-Judy Kuo (BACKUP) - 202-981-6243 - <judy.kuo@oig.dhs.gov>
 ### Science and Technology (S&T)
 Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
@@ -256,14 +301,15 @@ Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
 Kenneth S. Moser - 202-365-6493 - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - 202-372-2673 - <eleanor.e.thompson@uscg.mil>  
-Deborah A. Johnson-Hood - 202-475-3576 - <deborah.a.johnson-hood@uscg.mil>  
 Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
+----------------------------------------------------
 ## <span id="usdhud" ></span>Department of Housing and Urban Development
 Jeffrey Salit - 202-402-7507 - <jeffrey.l.salit@hud.gov>
 
+----------------------------------------------------
 ## <span id="usdoi" ></span>Department of the Interior
 ### Department-wide
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
@@ -283,7 +329,7 @@ Nina Alexander - 505-273-1620 - <nina_alexander@btfa.gov>
 Angie Harsh - 303-969-5197 - <angie_harsh@ibc.doi.gov>
 ### National Park Service (NPS)
 Matthew Aston (Acting) - 202-641-1794 - <matthew_aston@nps.gov>
-### Office of the Inspector General
+### Office of the Inspector General (OIG)
 VACANT
 ### Office of Navajo & Hopi Indian Relocation
 Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
@@ -298,21 +344,24 @@ Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
 Edward Olexa - <section508@usgs.gov>  
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
+----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice
 ### Department-wide
 Melody Braswell - 202-598-0204 - <melody.braswell2@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
 ### Antitrust Division
+Geraldo Despain - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
-VACANT
+Thomas Stewart - <thomas.stewart@atf.gov>
 
   * **National Laboratory Center** - VACANT
 
 ### Civil Division
-Portia L. Galloway - 202-616-3629 - <portia.l.galloway@usdoj.gov>
+Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Carolyn Morgan - 202-305-7913 - <carolyn.morgan@usdoj.gov>
+Tran Isabelle - <isabelle.tran@usdoj.gov>  
+Randy Abramson - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -325,11 +374,9 @@ VACANT
 Joseph Groves - 202-305-7352 - <joseph.Groves@usdoj.gov>
 ### Executive Office for Immigration Review
 Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>  
-Howard Myatt - 703-756-8111 - <howard.Myatt@usdoj.gov>
+Andrew Leftwich - <andrew.leftwich@usdoj.gov>
 ### Executive Office for United States Attorneys
-VACANT
-### Executive Office for United States Trustees
-VACANT
+Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -349,26 +396,32 @@ Bruce W. Whitlock - 202-353-1551 - <bruce.W.Whitlock@usdoj.gov>
 ### Office on Violence Against Women
 Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>
 ### Tax Division
-VACANT
+Karon	M. Etienne - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
-VACANT
+Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
+### United States Trustee Program
+Katie Kinnecome - <katie.kinnecome@usdoj.gov>
 
+----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor
-Brandon Jubar - 202.693.4289 - <jubar.brandon.t@dol.gov>
+Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>
+Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 
+----------------------------------------------------
 ## <span id="usdos" ></span>Department of State
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 <span id="usdot" ></span>
 
+----------------------------------------------------
 ## Department of Transportation
 ### Department-wide
-Larry Slaughter - 202.366.0132 - <larry.slaughter@dot.gov>
+VACANT
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
-
+----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury
 ### Department-wide
 VACANT
@@ -381,7 +434,7 @@ Elizabeth Burke - 202-504-3786 - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
-Timothy Arnett - 202-927-9594 - <timothy.arnett@treasury.gov>
+VACANT
 ### FINCEN
 Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>  
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
@@ -400,37 +453,47 @@ Jerry Kim - 202-657-7727 - <jerry.kim@tigta.treas.gov>
 James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 
+----------------------------------------------------
 ## <span id="usdova" ></span>Department of Veterans Affairs
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
+----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency
-Pattrick Grimm - <grimm.patrick@epa.gov>  
+David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
+----------------------------------------------------
 ## <span id="usgsa" ></span>General Services Administration
-Dan Perkins - 816-823-1717 - <dan.perkins@gsa.gov>
+Charles Popelka - 703-605-2637 - <charles.popelka@gsa.gov>  
+Dan Perkins (Deputy) - 816-823-1717 - <dan.perkins@gsa.gov>
 
+----------------------------------------------------
 ## <span id="usnasa" ></span>National Aeronautics and&nbsp;Space Administration
 Fatima C. Johnson - 202-358-1631 - <fatima.c.johnson@nasa.gov>
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - 301-286-0150 - <betsy.sirk-1@nasa.gov>
 
+----------------------------------------------------
 ## <span id="usnsf" ></span>National Science Foundation
 Katherine Otts - 703-292-7552 - <kotts@nsf.gov>
 
+----------------------------------------------------
 ## <span id="usnrc" ></span>Nuclear Regulatory Commission
 John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
+----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management
 Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
 
+----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration
 Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
 
+----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
 
-
+----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
 
 ### Access Board
@@ -454,7 +517,6 @@ Jeremy Bingham - <jeremyb@dnfsb.gov>
 
 ### Equal Employment Opportunity Commission (EEOC)
 Pierrette McIntire - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
-Deanna Scott - 202-540-9189 - (Video Phone) - <deanna.scott@eeoc.gov>
 ### Election Assistance Commission (EAC)
 William Jackson - 202-740-5676 - <bjackson@eac.gov>
 ### Executive Office of the President (EOP)
@@ -469,6 +531,7 @@ Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 ### Federal Election Commission (FEC)
+VACANT
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
 Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
@@ -512,7 +575,11 @@ VACANT
 
 <span id ="O" ></span>
 
-### Office of Special&nbsp;Counsel
+### Occupational Safety and Health Review Commission (OSHRC)
+Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>  
+Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
+
+### Office of Special Counsel
 Wing Leung - 202-653-5822 - <wleung@osc.gov>
 
 <span id="P"></span>
@@ -520,7 +587,8 @@ Wing Leung - 202-653-5822 - <wleung@osc.gov>
 ### Peace Corps
 Rachel Gardell - 202-692-1392 - <rgardell@peacecorps.gov>
 ### Pension Benefit Guaranty Corporation (PBGC)
-Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>
+Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>  
+Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
 <span id="R" ></span>
 
 ### Railroad Retirement Board
@@ -540,20 +608,20 @@ VACANT
 
 ### U.S. Agency for Global Media (USAGM)
 VACANT
-### U.S. Courts, Northern District of Iowa
+### U.S. Courts, Northern District of Iowa (USDC-NI)
 VACANT
-### U.S. Courts, Western District of Wisconsin
+### U.S. Courts, Western District of Wisconsin (USDC-WDW)
 Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
-### U.S. International Trade Commission
+### U.S. International Trade Commission (USITC)
 Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
-Jim L. Stemwedel - 651-406-1291 - <jim.l.stemwedel@usps.gov>
+VACANT
 
 <div>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated: </strong> October 2021
+    <strong>Reviewed/Updated:</strong> February 23, 2022
   </p>
 </div>
 

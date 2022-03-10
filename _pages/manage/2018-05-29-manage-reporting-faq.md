@@ -5,6 +5,8 @@ permalink: manage/reporting/faq/
 type: manage
 title: 'Reporting - Frequently Asked Questions'
 created: 1527582783
+redirect_from:
+- content/reporting/faq/
 ---
 
 <span>These are the most often-asked questions about the OMB 508/IT Accessibility Maturity Assessment reporting process. If you have a question that is not answered here, please send your question to </span>[<span>feedback@cio.gov</span>][1]<span>.</span>
