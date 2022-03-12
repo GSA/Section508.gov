@@ -8,12 +8,12 @@ created: 1526408495
 
 Some agencies have not established a formal Section 508 compliance program. Other agencies are just beginning to establish a Section 508 program, and they need to establish policies, procedures, training and communications to build awareness of what is required and who is responsible for addressing compliance needs. Agencies further along may have dedicated resources to perform testing to validate Section 508 conformance claims, but do not have a systematic approach to perform testing. Mature agencies demonstrate the ability to measure and monitor conformance to policies and actual compliance levels, and they use data to drive decision making to improve the effectiveness of their overall Section 508 program. Section 508 activities appropriate for mature organizations may not be appropriate for less mature organizations that do not have an adequate foundation to build upon. Therefore, an assessment of your agency's Section 508 program maturity is essential to gauge where you are, and to determine what steps are necessary to improve your program.
 
-# Key Questions
+## Key Questions
 
 - What is the current maturity of your agency's Section 508 compliance program?
 - How is your program's maturity enabling or inhibiting your agency's ability to provide accessible digital services and technology solutions?
 
-# Section 508 Program Maturity Levels
+## Section 508 Program Maturity Levels
 
 In the Government-wide Section 508 Strategic Plan, OMB requires agencies to assess their Section 508 program maturity using the following criteria:
 
@@ -33,7 +33,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
   > Your agency tests and validates agency digital services and technology solutions to ensure they conform to the Section 508 standards. You are able to determine whether your policies and procedures are actually being followed. You measure the effectiveness of your Section 508 policies and procedures, and are able to use your measures to manage risk and prioritize opportunities for improving your compliance program.
 
-# Section 508 Program Maturity Domains
+## Section 508 Program Maturity Domains
 
 In the Government-wide Section 508 Strategic Plan, OMB requires agencies to assess their Section 508 program maturity in each of the following domains:
 
@@ -73,7 +73,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
   > Successful Section 508 programs rely on personnel with skills and expertise. Relevant resources need to be identified and trained. Mandatory training needs to be established and tracked. This includes, but is not limited to, training for web and software developers, acquisition professionals, human resource employees and communications specialists.
 
-# Basic Checklist
+## Basic Checklist {#basic}
 
 - Evaluate how existing agency policies, practices, and procedures support each maturity area.
 
@@ -86,7 +86,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 - Determine overall maturity level ratings using the OMB Agency Section 508 Reporting Template and instructions.
 - Use data from maturity assessments to inform the agency's response to the biennial Department of Justice Section 508 Survey.
 
-# Advanced Checklist
+## Advanced Checklist {#advanced}
 
 - Identify how the maturity of the current Section 508 program prepares you to transition to the new 508 standards.
 - Assess the maturity of the Section 508 Program Team's collaboration with offices that support:
@@ -104,7 +104,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
   - Security & Privacy, and
   - Legal.
 
-# Resources
+## Resources {#resources}
 
 - [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][1]
 - [Training - How to Measure Your Agency's 508 Program Training][2]
