@@ -14,7 +14,7 @@ The information you should request from offerors will differ depending on whethe
 - **Standard ICT** - Commercial or government off-the-shelf (COTS/GOTS)
 - **Customized ICT** - Customized or developed based on agency requirements
 
-# **Process Overview**
+## **Process Overview**
 
 Follow this process to determine and document requirements and exceptions to the [Revised 508 Standards][1] for **EACH ICT item**:
 
@@ -41,7 +41,7 @@ Follow this process to determine and document requirements and exceptions to the
   - Describe any additional items they should include in their report. Consider the acquisition size, complexity, and impact on users with disabilities, when determining which items are needed.
   - Clarify whether any, or all, requirements must be provided in order to be considered for award.
 
-# **Documentation**
+## **Documentation**
 
 Find guidance on required and recommended documentation for both Standard and Customized ICT Items below.
 
@@ -50,15 +50,11 @@ Find guidance on required and recommended documentation for both Standard and Cu
 - [Required for Customized ICT Items](#2)
 - [Recommended for Customized ICT Items](#3)
 
-# **_Required_** **for Standard ICT Items**
+## **_Required_** **for Standard ICT Items**
 
 For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
 
-- **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product's OpenACR (or legacy [Voluntary Product Accessibility Template (VPAT)][6]
-
-  <sup>™</sup>
-
-  ). To be considered for award, the ACR must be complete, and submitted according to the instructions.
+- **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product's OpenACR (or legacy [Voluntary Product Accessibility Template (VPAT)][6]™. To be considered for award, the ACR must be complete, and submitted according to the instructions.
 - **Supplemental Accessibility Report (SAR)** - A written SAR containing:
 
   - Description of evaluation methods used to produce the ACR, to demonstrate due diligence in supporting conformance claims;
@@ -67,7 +63,7 @@ For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
   - Information on how to configure and install the ICT item to support accessibility; and
   - Information on how the ICT item enables the creation of accessible electronic content that conforms to the Revised 508 Standards, including the range of accessible user interface elements the tool can create. (only required for authoring tools that generate content (documents, reports, videos, multimedia, web content, etc.)
 
-# **_Recommended_** **for Standard ICT Items**
+## **_Recommended_** **for Standard ICT Items**
 
 For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
@@ -93,7 +89,7 @@ For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provid
 
 If a maximum page count is required for submissions, exclude the accessibility information from the page count limitation, to allow offerors to report complete supporting data.
 
-# **_Required_** **for Customized ICT Items**
+## **_Required_** **for Customized ICT Items**
 
 For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
@@ -102,30 +98,26 @@ For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
 Advise offerors that each requirement must be fully addressed in order to be considered for award.
 
-# **_Recommended_** **for Customized ICT Items**
+## **_Recommended_** **for Customized ICT Items**
 
 For EACH Customized ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
-## **Developed In-House**
+### **Developed In-House**
 
 Consider requiring the offeror to provide additional information for each ICT item customized or developed in-house:
 
 - A description of training they can provide on how to use the accessibility features of the ICT product and services, as well as any associated training costs not included in the baseline proposal; and
 - Their approaches to incorporating universal design principles to ensure their ICT products or services are designed to support all users.
 
-## **Customized COTS/GOTS**
+### **Customized COTS/GOTS**
 
 If the offeror's proposed items are substantially comprised of COTS/GOTS ICT products or services that will be configured or modified to meet contract requirements, consider requiring the offeror to provide:
 
-- **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product's OpenACR (or legacy [Voluntary Product Accessibility Template (VPAT)][6]
-
-  <sup>™</sup>
-
-  ) for COTS items that will be configured or modified to meet contract requirements. To be considered for award, the ACR must be complete, and submitted according to the instructions.
+- **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product's OpenACR (or legacy [Voluntary Product Accessibility Template (VPAT)][6]™ for COTS items that will be configured or modified to meet contract requirements. To be considered for award, the ACR must be complete, and submitted according to the instructions.
 - A demonstration of the COTS items that will be configured or modified to meet contract requirements. Request the offeror to demonstrate how they will configure or maintain the solution to ensure support for the agency's accessibility requirements.
 - When the solicitation requires ICT items that will be used to generate electronic content (documents, reports, videos, multimedia, web content, etc.), and the offeror may use COTS authoring tools as a substantial component in their solution, consider requiring the offeror to provide:
 
-- - Samples of accessible electronic content produced by the authoring tools.
+  - Samples of accessible electronic content produced by the authoring tools.
   - A demonstration of how the commercially available authoring tools will enable the creation of accessible content "out of the box", including a full range of user interface elements that can be generated by the tool.
 
 - State that the agency reserves the right to perform testing on COTS items that will be configured or modified to meet contract requirements.
@@ -135,7 +127,7 @@ If the offeror's proposed items are substantially comprised of COTS/GOTS ICT pro
 
 If a maximum page count is required for submissions, exclude the accessibility information from the page count limitation to allow offerors to provide complete supporting data.
 
-# **Related Resources**
+## **Related Resources**
 
 - [Buy Accessible Products and Services][7]
 - [Accessibility Requirements Tool (ART)][8] - ART can help you determine which accessibility requirements and exceptions apply when purchasing ICT products and services
