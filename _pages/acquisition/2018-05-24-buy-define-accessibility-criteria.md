@@ -160,11 +160,7 @@ Use for ICT items that are developed, updated, configured for the agency, and wh
 
 **Sample language:**
 
-Before acceptance, the contractor shall provide an **Accessibility Conformance Report (ACR)** for each ICT item that is developed, updated, configured for the agency, and when product substitutions are offered. The ACR should be based on the latest version of OpenACR. If an OpenACR report is not available, a procurement team may decide to accept a legacy [Voluntary Product Accessibility Template (VPAT
-
-<sup>™</sup>
-
-)][3]provided by the [Industry Technology Industry Council (ITIC)][4]. To be considered for award, an ACR must be submitted for each ICT Item, and must be completed according to the instructions provided in the ACR.
+Before acceptance, the contractor shall provide an **Accessibility Conformance Report (ACR)** for each ICT item that is developed, updated, configured for the agency, and when product substitutions are offered. The ACR should be based on the latest version of OpenACR. If an OpenACR report is not available, a procurement team may decide to accept a legacy [Voluntary Product Accessibility Template (VPAT™)][3]provided by the [Industry Technology Industry Council (ITIC)][4]. To be considered for award, an ACR must be submitted for each ICT Item, and must be completed according to the instructions provided in the ACR.
 
 Before acceptance, when the contractor is required to perform testing to validate conformance to the agency's accessibility requirements, the vendor shall provide a **Supplemental Accessibility Conformance Report (SAR)** that contains the following information:
 
