@@ -10,13 +10,13 @@ created: 1526408818
 
 The following play identifies how to ensure accessibility needs are identified and addressed in the planning, requirements gathering, research, evaluation, and acceptance components of the acquisition process.
 
-# Key Questions
+## Key Questions
 
 - How does your agency ensure Section 508 legal compliance requirements are properly included in solicitation language?
 - What steps does your agency take to validate Section 508 conformance claims? Is the level of due diligence adequate to mitigate the potential compliance risk?
 - How does your agency ensure it supports legal obligations to purchase digital services and technology solutions that "meet or best meets" the Section 508 requirements.
 
-# Basic Checklist
+## Basic Checklist
 
 <u>
   <strong>General Preparation:</strong>
@@ -64,7 +64,7 @@ The following play identifies how to ensure accessibility needs are identified a
 - Ensure post-award contract acceptance activities established in the solicitation are followed.
 - Develop and track the provision of an alternative means or remediation/accommodation plan when a fully accessible solution is not procured.
 
-# Advanced Checklist
+## Advanced Checklist
 
 - Provide contract language to ensure penalties are applied when accessibility standards are not met, or require remediation at contractor expense.
 - Establish language and processes for Blanket Purchase agreements and other Task Order-based vehicles.
@@ -73,7 +73,7 @@ The following play identifies how to ensure accessibility needs are identified a
 - Engage in vendor outreach through the CIO Council Accessibility Community of Practice.
 - Engage peers in the Section 508 community regarding other agencies' experiences with the product or vendor.
 
-# Resources
+## Resources
 
 - [Section 508 Standards][2]
 - [OMB Government-wide Section 508 Strategic Plan][4]
