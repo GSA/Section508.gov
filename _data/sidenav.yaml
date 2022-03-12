@@ -1,9 +1,9 @@
 # We can add any kind of data in this _data folder and this file.
-# In this example, we create a simple array of options and then in the _pages/collections.md file we 
-# Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it 
+# In this example, we create a simple array of options and then in the _pages/collections.md file we
+# Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it
 # This is simple, hopefully provides you with a good enough example to make changes as needed
 manage:
-  - name: Policy and Management 
+  - name: Policy and Management
     url: manage/
   - name: Management
     url: '#'
@@ -356,13 +356,15 @@ acquisition:
         url: 'buy/solicitation-review-tool/'
       - name: 508 Standards and Exceptions Chart & Examples
         url: 'buy/standards-exceptions/'
+      - name: Open Accessibility Conformance Reports (OpenACR)
+        url: 'openacr/'
   - name: Sell
     url: '#'
     children:
       - name: Sell Accessible Products and Services
         url: sell/
-      - name: Voluntary Product Accessibility Template (VPAT)
-        url: sell/vpat/
+      - name: Open Accessibility Conformance Reports (OpenACR)
+        url: 'openacr/'
 create:
   - name: Content Creation
     url: 'create/'
