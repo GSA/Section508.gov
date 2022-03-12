@@ -7,8 +7,6 @@ title: OpenACR initiative
 created: 1527569659
 ---
 
-# OpenACR initiative
-
 OpenACR is an initiative by the General Services Administration (GSA) to modernize and standardize Accessibility Conformance Reports (ACRs). The vision of this project is to improve the use and effectiveness of ACRs in evaluating accessibility of digital products, tools, and services.
 
 This page explains the OpenACR project approach, tools and technologies, standards, and roadmap. For an overview of what OpenACR is and why it is important, visit []"Why OpenACR"](openacr/about/).
