@@ -45,12 +45,12 @@ Follow this process to determine and document requirements and exceptions to the
 
 Find guidance on required and recommended documentation for both Standard and Customized ICT Items below.
 
-- [Required for Standard ICT Items](#0)
-- [Recommended for Standard ICT Items](#1)
-- [Required for Customized ICT Items](#2)
-- [Recommended for Customized ICT Items](#3)
+- [Required for Standard ICT Items](#required-for-standard-ict-items)
+- [Recommended for Standard ICT Items](#recommended-for-standard-ict-items)
+- [Required for Customized ICT Items](#required-for-customized-ict-items)
+- [Recommended for Customized ICT Items](#recommended-for-customized-ict-items)
 
-## **_Required_** **for Standard ICT Items** {#0}
+## **_Required_** **for Standard ICT Items**
 
 For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
 
@@ -63,7 +63,7 @@ For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
   - Information on how to configure and install the ICT item to support accessibility; and
   - Information on how the ICT item enables the creation of accessible electronic content that conforms to the Revised 508 Standards, including the range of accessible user interface elements the tool can create. (only required for authoring tools that generate content (documents, reports, videos, multimedia, web content, etc.)
 
-## **_Recommended_** **for Standard ICT Items** {#1}
+## **_Recommended_** **for Standard ICT Items**
 
 For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
@@ -89,7 +89,7 @@ For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provid
 
 If a maximum page count is required for submissions, exclude the accessibility information from the page count limitation, to allow offerors to report complete supporting data.
 
-## **_Required_** **for Customized ICT Items** {#2}
+## **_Required_** **for Customized ICT Items**
 
 For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
@@ -98,7 +98,7 @@ For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
 Advise offerors that each requirement must be fully addressed in order to be considered for award.
 
-## **_Recommended_** **for Customized ICT Items** {#3}
+## **_Recommended_** **for Customized ICT Items**
 
 For EACH Customized ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
