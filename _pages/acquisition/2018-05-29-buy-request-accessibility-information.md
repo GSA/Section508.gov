@@ -134,7 +134,7 @@ If a maximum page count is required for submissions, exclude the accessibility i
 
 _These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._
 
-**Reviewed/Updated**: May 2018
+**Reviewed/Updated:** March 2022
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
 [2]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
