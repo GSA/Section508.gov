@@ -7,7 +7,7 @@ title: 'Step 2: Determine ICT Exceptions'
 created: 1527569078
 ---
 
-Identifying whether you can claim an exception for information and communication technology (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.{#top}
+Identifying whether you can claim an exception for information and communication technology (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.
 
 A full list of exceptions is detailed in the Standards under [E202 General Exceptions][3]. Use the [Revised 508 Standards Applicability Checklist][4] (MS-Word, April 2018) to document ICT exceptions.
 
@@ -44,7 +44,7 @@ If the answer to all questions is "yes", this exception applies.
 2. Is the ICT known to have conformed to the [Electronic and Information Technology Accessibility Standards as originally published][5], prior to January 18, 2018?
 3. Since January 18, 2018, has the ICT remained unchanged regarding interoperability, the user interface, or access to information and data?
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ## **E202.3 National Security Systems Exception** {#1}
 
@@ -60,7 +60,7 @@ If any of the following apply, your ICT may qualify for this exception:
 4. Involves equipment that is an integral part of a weapon or weapons system; or
 5. Is critical to the direct fulfillment of military or intelligence missions (does not include routine administrative and business applications such as payroll, finance, logistics, and personnel management).
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ## **E202.4 Federal Contracts Exception** {#2}
 
@@ -80,7 +80,7 @@ If the answer to all questions is "yes", this exception applies.
 2. Will ONLY vendor or contractor personnel access or use the ICT?
 3. Will ownership of the ICT remain with the vendor or contractor upon completion of the contract?
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ### **E202.5 ICT Functions Located in Maintenance or Monitoring Spaces Exception** {#3}
 
@@ -93,7 +93,7 @@ If the answer to all questions is "yes", this exception applies.
 1. Does the ICT have status indicators or operable parts (i.e., physical controls)?
 2. Is the ICT located in spaces that are frequented only by service personnel for maintenance, repair, or occasional monitoring of equipment (i.e., on a rack mounted in a wiring closet)?
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ## **E202.6 Undue Burden or Fundamental Alteration Exception** {#4}
 
@@ -162,7 +162,7 @@ If the answer to all questions is "yes", your ICT may warrant this exception.
 3. Does your documentation address whether the exception is being claimed for the entire ICT, or only specific features and functions of the ICT?
 4. Will the agency provide an alternative means for users with disabilities for the features and functions for which you are claiming this exception?
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ## **E202.7 Best Meets Exception** {#7}
 
@@ -210,7 +210,7 @@ If the answer to all questions is "yes", your ICT item may warrant this exceptio
 5. Are you purchasing the ICT Item that best meets the Revised 508 Standards?
 6. Will the agency provide an alternative means for users with disabilities for the features and functions that do not conform to the Revised 508 Standards?
 
-[Return to Top](#top "Return to top")
+[Return to Top](#content-section)
 
 ## **What's Next?**
 
