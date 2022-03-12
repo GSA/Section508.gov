@@ -82,11 +82,11 @@ If the answer to all questions is "yes", this exception applies.
 
 [Return to Top](#content-section)
 
-### **E202.5 ICT Functions Located in Maintenance or Monitoring Spaces Exception** {#3}
+## **E202.5 ICT Functions Located in Maintenance or Monitoring Spaces Exception** {#3}
 
 This exception applies to status indicators and operable parts for ICT functions located in spaces that are frequented only by service personnel for maintenance, repair, or occasional equipment monitoring. (Similar to the "Back Office Exception" allowed under the original 508 Standards, but scope is more limited.) For federal government ICT, this exception can only be claimed by federal agencies and components.
 
-## **Decision Questions**
+### **Decision Questions**
 
 If the answer to all questions is "yes", this exception applies.
 
@@ -199,7 +199,7 @@ In determining best meets, consider the use of an equivalent design or technolog
 
 - For "brand name or equivalent" COTS or GOTS solicitations, the supporting documentation used to justify the acquisition may be sufficient to fulfil the documentation requirements. If the "brand name" ICT item does not fully support the Revised 508 Standards, the agency is still responsible for providing individuals with disabilities access to the non-conforming functions and features of the ICT Item through an alternative means that meets their identified needs.
 
-## **Decision Questions**
+### **Decision Questions**
 
 If the answer to all questions is "yes", your ICT item may warrant this exception.
 
