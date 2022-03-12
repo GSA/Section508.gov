@@ -60,3 +60,5 @@ This is an open source project that aims to create an open standard that can be 
 - Give feedback or [contribute](https://github.com/GSA/openacr/blob/main/CONTRIBUTING.md)
 - Explore the [OpenACR editor tool](https://gsa.github.io/openacr-editor)
 - View the [editor tool in GitHub](https://github.com/GSA/openacr-editor)
+
+**Reviewed/Updated:** March 2022
