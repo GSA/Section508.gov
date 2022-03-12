@@ -14,15 +14,15 @@ description: >-
 
 What comes to mind when you hear the word "accessibility"? If it's "compliance," then you're not alone. While compliance is important, and a legal requirement, consider thinking about accessible IT from a universal design standpoint first. Shifting your mindset to buy solutions that are accessible for all starts with the procurement process. Chief Information Officers (CIOs) and Chief Acquisition Officers (CAOs) are responsible for defining and communicating accessibility and usability needs to vendors. This post explores why it's important for CIOs and CAOs to ensure vendors provide the most accessible solutions, by approaching procurement from a "universal design" perspective.
 
-# Why Keep Universal Design in Mind For Procurement?
+## Why Keep Universal Design in Mind For Procurement?
 
 [Universal design][1] is the concept that products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. Universally designed products are more adaptive and easier to maintain. They cost less over time because they eliminate the need to make inaccessible products accessible. To develop tools and solutions designed for all users, it's imperative that your agency's IT strategy addresses accessibility and usability in the procurement process. If you involve different user communities early on, you'll gain a clear understanding of their usability needs, and can account for them during the procurement process. Add statements in solicitations that outline requirements of your entire user base to make accessibility functionality clear to vendors. Highlighting accessibility requirements at the procurement stage demonstrates that agencies prioritize accessibility and understand it is an essential part of the customer experience journey. CIOs and CAOs need to communicate a clear commitment to accessibility in their digital and procurement strategy, to set the expectation that this is a _best practice_ when it comes to purchasing decisions.
 
 If you understand your accessibility and usability needs, it's easier to search for products that meet your standards, and incorporating these needs from the outset becomes part of your agency's standard operating procedure for federal procurement.
 
-# How to Buy the Most Accessible Products
+## How to Buy the Most Accessible Products
 
-## 1\. Research, research, research!
+### 1\. Research, research, research!
 
 Technology companies spend more on [research and development][2] than any other industry in the US. Given the rapid advancements in technology today, it's important to research vendors to understand what their products offer. You should also request an Accessibility Conformance Report (ACR), like OpenACR (link to OpenACR page), from vendors to show how their products meet relevant Section 508 standards and accessibility guidelines. If an OpenACR is not available, you may choose to accept a legacy Voluntary Product Accessibility Template (VPAT™). [Section508.gov][3] has great resources to help you in this step of your procurement process.
 
@@ -32,7 +32,7 @@ Resources include:
 - How to [Request Accessibility Information from Vendors and Contractors][4]; and
 - Guidance on [Acquisition for Accessible IT][5] (MS-Word, September 2015)
 
-## 2 Include clear accessibility requirements in your solicitations
+### 2 Include clear accessibility requirements in your solicitations
 
 When writing solicitations and procurement documents, clearly define your accessibility and usability requirements. Resources include:
 
@@ -61,7 +61,7 @@ Additionally, the [Partnership on Employment and Accessible Technology][9] (PEAT
 
 PEAT also provides some useful tips on [how to communicate with vendors][19] about accessible technology, to help solidify your commitment to accessibility and build collaborative relationships with vendors. In addition to these resources PEAT provides about procurement with accessibility, OpenACR is a new initiative which is yet to be incorporated.
 
-# Accessible IT is More than Compliance
+## Accessible IT is More than Compliance
 
 For agencies, being "accessible" should be more than adhering to standards. To ensure you're buying the most accessible solution and achieving your accessibility goals, you must research products and know how to communicate your requirements to vendors.
 
