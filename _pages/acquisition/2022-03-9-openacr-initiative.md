@@ -48,3 +48,5 @@ The editor is built with JavaScript, and allows you to either build an OpenACR f
 This is a stand-alone JavaScript application. Any changes are stored exclusively in your browser. You will need to save the YAML file to your computer in order to access this information in the future. We recommend saving it into a git repository so that changes can be effectively tracked over time.
 
 Learn more about [creating an OpenACR report here](openacr/create-report).
+
+**Reviewed/Updated:** March 2022
