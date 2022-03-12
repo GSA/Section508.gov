@@ -50,7 +50,7 @@ Find guidance on required and recommended documentation for both Standard and Cu
 - [Required for Customized ICT Items](#2)
 - [Recommended for Customized ICT Items](#3)
 
-## **_Required_** **for Standard ICT Items**
+## **_Required_** **for Standard ICT Items** {#0}
 
 For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
 
@@ -63,7 +63,7 @@ For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
   - Information on how to configure and install the ICT item to support accessibility; and
   - Information on how the ICT item enables the creation of accessible electronic content that conforms to the Revised 508 Standards, including the range of accessible user interface elements the tool can create. (only required for authoring tools that generate content (documents, reports, videos, multimedia, web content, etc.)
 
-## **_Recommended_** **for Standard ICT Items**
+## **_Recommended_** **for Standard ICT Items** {#1}
 
 For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
@@ -89,7 +89,7 @@ For EACH Standard COTS/GOTS ICT item, _consider_ requiring the offeror to provid
 
 If a maximum page count is required for submissions, exclude the accessibility information from the page count limitation, to allow offerors to report complete supporting data.
 
-## **_Required_** **for Customized ICT Items**
+## **_Required_** **for Customized ICT Items** {#2}
 
 For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
@@ -98,7 +98,7 @@ For **EACH Customized ICT item**, REQUIRE the offeror to provide:
 
 Advise offerors that each requirement must be fully addressed in order to be considered for award.
 
-## **_Recommended_** **for Customized ICT Items**
+## **_Recommended_** **for Customized ICT Items** {#3}
 
 For EACH Customized ICT item, _consider_ requiring the offeror to provide the following info. Note, the information in this section is RECOMMENDED, not required.
 
