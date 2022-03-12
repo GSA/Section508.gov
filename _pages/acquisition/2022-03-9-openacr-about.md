@@ -7,8 +7,6 @@ title: Why OpenACR
 created: 1527569659
 ---
 
-# Why OpenACR
-
 OpenACR is a modern and effective way for people to create, evaluate, and compare Accessibility Conformance Reports (ACRs). These reports are used to measure how well a digital product or service meets accessibility standards (such as those required by [Section 508](https://www.section508.gov/about-us/)). The goal is to make sure people with disabilities can access government websites and services.
 
 ## The challenge
