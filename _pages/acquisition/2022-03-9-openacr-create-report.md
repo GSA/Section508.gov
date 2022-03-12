@@ -1,10 +1,11 @@
---------------------------------------------------------------------------------
-
-layout: page sidenav: true permalink: openacr/create-report type: acquisition title: - Creating an OpenACR report
-
-# created: 1527569659
-
-# Creating an OpenACR report
+---
+layout: page 
+sidenav: true 
+permalink: openacr/create-report 
+type: acquisition 
+title: Creating an OpenACR report
+created: 1527569659
+---
 
 An Accessibility Conformance Report (ACR) is a document that explains how well a digital product meets certain standards for accessibility. Agencies request ACRs from vendors during the procurement process because they want to ensure that government services and platforms are usable by everyone.
 
