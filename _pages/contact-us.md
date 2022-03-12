@@ -8,7 +8,7 @@ sidenav: false
 
 
 
-# **Have a Question or Comment?**
+## **Have a Question or Comment?**
 
 
 
@@ -26,7 +26,7 @@ If these resources don't answer your question, or you wish to report an issue wi
 
 . Thank you!
 
-# **Accessibility Standards**
+## **Accessibility Standards**
 
 If you have questions about the [Revised 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines), contact the U.S. Access Board:
 
