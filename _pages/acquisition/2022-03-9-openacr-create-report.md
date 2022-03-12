@@ -137,3 +137,5 @@ Now you can go to the [Report section](https://gsa.github.io/openacr-editor/repo
 - Consider posting it to a public git repository so that people can easily find and subscribe to updates as they occur. Some teams will proactively include a copy of their OpenACR with their codebase so it is easy to find. ...
 
 This content was adapted from NASA's 2021 guide, [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act (PDF)](https://sewp.nasa.gov/documents/Section_508_Guide_111821.pdf).
+
+**Reviewed/Updated:** March 2022
