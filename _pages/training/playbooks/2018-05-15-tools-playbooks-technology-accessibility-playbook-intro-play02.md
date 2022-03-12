@@ -43,23 +43,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
 - Agency technology life cycles: Conduct validation of Section 508 requirements to ensure incorporation into agency life cycle activities, including enterprise architecture, design, development, testing, deployment, and ongoing maintenance activities.
 
-  > Enterprise life cycles are used to define the end-to-end approach to approving, building, deploying, and supporting agency technology. The
-
-  > <u>least effective</u>
-
-  >  and
-
-  > <u>most expensive</u>
-
-  >  approach to supporting compliance is to treat Section 508 requirements as an afterthought in response to test results, or worse in response to complaints from people with disabilities. The
-
-  > <u>most effective</u>
-
-  >  and
-
-  > <u>least expensive</u>
-
-  >  approach is to consider Section 508 requirements at all stages of the enterprise life cycle. This is analogous to the saying "it's cheaper and easier to use an eraser to modify an architectural drawing than a sledgehammer to tear down a wall."
+  > Enterprise life cycles are used to define the end-to-end approach to approving, building, deploying, and supporting agency technology. The <u>least effective</u> and <u>most expensive</u> approach to supporting compliance is to treat Section 508 requirements as an afterthought in response to test results, or worse in response to complaints from people with disabilities. The <u>most effective</u> and <u>least expensive</u> approach is to consider Section 508 requirements at all stages of the enterprise life cycle. This is analogous to the saying "it's cheaper and easier to use an eraser to modify an architectural drawing than a sledgehammer to tear down a wall."
 
 - Testing and Validation: Testing and validation of Section 508 conformance claims.
 
