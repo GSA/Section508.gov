@@ -7,7 +7,7 @@ title: 'Step 2: Determine ICT Exceptions'
 created: 1527569078
 ---
 
-Identifying whether you can claim an exception for information and communication technology (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.
+Identifying whether you can claim an exception for information and communication technology (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.{#top}
 
 A full list of exceptions is detailed in the Standards under [E202 General Exceptions][3]. Use the [Revised 508 Standards Applicability Checklist][4] (MS-Word, April 2018) to document ICT exceptions.
 
@@ -26,7 +26,7 @@ Refer to your agency's Accessibility policy to identify when formal approval by 
 
 - [E202.7 Best Meets Exception](#7)
 
-## **E202.2 Legacy ICT Exception**
+## **E202.2 Legacy ICT Exception** {#0}
 
 Agencies may claim a "Safe Harbor" for existing ICT that was accessible and compliant with the earlier standard on or before January 18, 2018 and has not been subsequently changed to affect interoperability, the user interface, or access to information or data. This safe harbor applies on a component basis (each component or portion of existing ICT must be assessed separately). For federal government ICT, this exception can only be claimed by federal agencies and components.
 
@@ -46,7 +46,7 @@ If the answer to all questions is "yes", this exception applies.
 
 [Return to Top](#top "Return to top")
 
-## **E202.3 National Security Systems Exception**
+## **E202.3 National Security Systems Exception** {#1}
 
 This exception applies to ICT operated by agencies as part of a national security system, as defined by 40 U.S.C. 11103(a). For federal government ICT, this exception can only be claimed by federal agencies and components. This exception cannot be claimed by vendors and contractors.
 
@@ -62,7 +62,7 @@ If any of the following apply, your ICT may qualify for this exception:
 
 [Return to Top](#top "Return to top")
 
-## **E202.4 Federal Contracts Exception**
+## **E202.4 Federal Contracts Exception** {#2}
 
 This exception applies to ICT acquired by a contractor incidental to a contract. For federal government ICT, this exception can only be claimed by federal agencies and components.
 
@@ -82,7 +82,7 @@ If the answer to all questions is "yes", this exception applies.
 
 [Return to Top](#top "Return to top")
 
-### **E202.5 ICT Functions Located in Maintenance or Monitoring Spaces Exception**
+### **E202.5 ICT Functions Located in Maintenance or Monitoring Spaces Exception** {#3}
 
 This exception applies to status indicators and operable parts for ICT functions located in spaces that are frequented only by service personnel for maintenance, repair, or occasional equipment monitoring. (Similar to the "Back Office Exception" allowed under the original 508 Standards, but scope is more limited.) For federal government ICT, this exception can only be claimed by federal agencies and components.
 
@@ -95,7 +95,7 @@ If the answer to all questions is "yes", this exception applies.
 
 [Return to Top](#top "Return to top")
 
-## **E202.6 Undue Burden or Fundamental Alteration Exception**
+## **E202.6 Undue Burden or Fundamental Alteration Exception** {#4}
 
 Conformance to the Revised 508 Standards is required only when it does not impose an undue burden, or result in a fundamental alteration in the nature of the ICT. This exception is available only to federal agencies and components.
 
@@ -103,7 +103,7 @@ Conformance to the Revised 508 Standards is required only when it does not impos
 - E202.6.2 Required Documentation - Document in writing an explanation of why and to what extent it's an undue burden on the agency, or would result in a fundamental alteration in the nature of the ICT.
 - E202.6.3 Alternative Means - Provide individuals with disabilities access to, and use of, information and data by an alternative means that meet identified needs.
 
-### **Evaluating Undue Burden**
+### **Evaluating Undue Burden** {#5}
 
 Use this exception only in rare circumstances, where the cost to make ICT fully conform with the Standards would consume a significant amount of available program resources, or when conformance would present substantial difficulty.
 
@@ -139,7 +139,7 @@ If the answer to all questions is "yes", your ICT may warrant this exception.
 4. Does your documentation address whether the exception is being claimed for the entire ICT Item, or only specific features and functions?
 5. Will the agency provide an alternative means for users with disabilities for the features and functions for which you are claiming this exception?
 
-### **Evaluating Fundamental Alteration**
+### **Evaluating Fundamental Alteration** {#6}
 
 Use this exception only when conformance to the Revised 508 Standards would alter the inherent design of the ICT to the extent that it no longer adequately meets the agency's business need.
 
@@ -164,7 +164,7 @@ If the answer to all questions is "yes", your ICT may warrant this exception.
 
 [Return to Top](#top "Return to top")
 
-## **E202.7 Best Meets Exception**
+## **E202.7 Best Meets Exception** {#7}
 
 When ICT that fully conforms to the Revised 508 Standards is not commercially available, procure ICT that conforms best with the Standards, consistent with meeting the agency's business needs. For federal government ICT, this exception can only be claimed by federal agencies and components.
 
