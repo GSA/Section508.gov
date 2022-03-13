@@ -365,6 +365,13 @@ acquisition:
         url: sell/
       - name: Open Accessibility Conformance Reports (OpenACR)
         url: 'openacr/'
+        grandchildren:
+          - name: Why OpenACR
+            url: openacr/about/
+          - name: OpenACR initiative
+            url: openacr/initiative/
+          - name: Creating an OpenACR report
+            url: openacr/create-report/
 create:
   - name: Content Creation
     url: 'create/'
