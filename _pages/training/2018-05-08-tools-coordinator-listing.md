@@ -516,7 +516,8 @@ Jeremy Bingham - <jeremyb@dnfsb.gov>
 <span id="E" ></span>
 
 ### Equal Employment Opportunity Commission (EEOC)
-Pierrette McIntire - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
+Marc Seawright - 650-684-0951 - <marc.seawright@eeoc.gov>  
+Pierrette McIntire (BACKUP) - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
 ### Election Assistance Commission (EAC)
 William Jackson - 202-740-5676 - <bjackson@eac.gov>
 ### Executive Office of the President (EOP)
