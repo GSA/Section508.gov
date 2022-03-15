@@ -63,7 +63,7 @@ For more information, contact <section.508@gsa.gov>
 
 &nbsp;
 
- [1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
+ [1]: https://www.section508.gov/develop/universal-design/
  [2]: https://www.recode.net/2017/9/1/16236506/tech-amazon-apple-gdp-spending-productivity
  [3]: {{site.baseurl}}/
  [4]: {{site.baseurl}}/buy/request-accessibility-information

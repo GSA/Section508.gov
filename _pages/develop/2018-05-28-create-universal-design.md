@@ -12,7 +12,7 @@ redirect_from:
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-8">
     <p>
-      Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html">Universal design</a>, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
+      Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. Universal design, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
     </p>
   </div>
   
