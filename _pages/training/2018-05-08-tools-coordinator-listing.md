@@ -532,7 +532,7 @@ Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 ### Federal Election Commission (FEC)
-VACANT
+Patcharee "Pat"	Phongsvirajati - 202-694-1242 - <pphongsvirajati@fec.gov>  
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
 Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
