@@ -129,6 +129,8 @@ Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
 ### National Oceanic and Atmospheric Administration (NOAA)
 Natalie Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>
+### U.S. Census Bureau
+David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>  
 Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>  
@@ -157,7 +159,7 @@ Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Bruce Weyrick - 703-805-3576 - <bruce.weyrick@dau.edu>
 ### Defense Contract Management Agency (DCMA)
-Antonio Boston -&nbsp;804-416-9160 - <antonio.boston@dcma.mil>
+Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Mubarak Allotey, CIO 508 Program Manager (collateral duty) - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
 ### Defense Cyber Crime Center (DC3)
