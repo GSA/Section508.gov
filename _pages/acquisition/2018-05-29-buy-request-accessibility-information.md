@@ -63,7 +63,7 @@ Find guidance on required and recommended documentation for both Standard and Cu
 
 For **EACH Standard COTS/GOTS ICT item**, REQUIRE the offeror to provide:
 
-  * **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product&rsquo;s [Voluntary Product Accessibility Template (VPAT)][6]<sup>&trade;</sup>. To be considered for award, the ACR must be complete, and submitted according to the instructions.
+  * **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product&rsquo;s [Voluntary Product Accessibility Template (<sup>&trade;</sup>)][6]<sup>&trade;</sup>. To be considered for award, the ACR must be complete, and submitted according to the instructions.
   * **Supplemental Accessibility Report (SAR)** - A written SAR containing:
       * Description of evaluation methods used to produce the ACR, to demonstrate due diligence in supporting conformance claims;
       * Documentation of features that help achieve accessibility and usability for persons with disabilities;
@@ -124,7 +124,7 @@ Consider requiring the offeror to provide additional information for each ICT it
 
 If the offeror&rsquo;s proposed items are substantially comprised of COTS/GOTS ICT products or services that will be configured or modified to meet contract requirements, consider requiring the offeror to provide:
 
-  * **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product&rsquo;s [Voluntary Product Accessibility Template (VPAT)][6]<sup>&trade;</sup> for COTS items that will be configured or modified to meet contract requirements. To be considered for award, the ACR must be complete, and submitted according to the instructions.
+  * **Accessibility Conformance Report (ACR)** - A written ACR for each ICT item, based on the product&rsquo;s [Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)][6]<sup>&trade;</sup> for COTS items that will be configured or modified to meet contract requirements. To be considered for award, the ACR must be complete, and submitted according to the instructions.
   * A demonstration of the COTS items that will be configured or modified to meet contract requirements. Request the offeror to demonstrate how they will configure or maintain the solution to ensure support for the agency&rsquo;s accessibility requirements.
   * When the solicitation requires ICT items that will be used to generate electronic content (documents, reports, videos, multimedia, web content, etc.), and the offeror may use COTS authoring tools as a substantial component in their solution, consider requiring the offeror to provide:
 
@@ -145,7 +145,7 @@ If a maximum page count is required for submissions, exclude the accessibility i
 _These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._
 
   
-**Reviewed/Updated**: May 2018
+**Reviewed/Updated**: March 2022
 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
