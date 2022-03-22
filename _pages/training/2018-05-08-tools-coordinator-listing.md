@@ -145,7 +145,7 @@ Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 ### Air National Guard
 VACANT
 ### Army
-Victor Rivers - 301-844-9127 - <victor.m.rivers.civ@mail.mil>
+Sally	A. Dixon (Acting)  - <sally.a.dixon6.civ@army.mil>  
 
   * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
   * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
