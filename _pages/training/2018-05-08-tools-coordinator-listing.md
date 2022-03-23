@@ -145,7 +145,7 @@ Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 ### Air National Guard
 VACANT
 ### Army
-Sally	A. Dixon (Acting)  - <sally.a.dixon6.civ@army.mil>  
+Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>  
 
   * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
   * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
@@ -438,7 +438,6 @@ Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
 VACANT
 ### FINCEN
-Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>  
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Yolonda Humphrey - 202-613-4028 - <yolonda.r.humphrey@irs.gov>
