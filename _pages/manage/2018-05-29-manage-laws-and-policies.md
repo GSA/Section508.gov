@@ -118,7 +118,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
 
 &nbsp;
 
-**Reviewed/Updated:** July 2020
+**Reviewed/Updated:** March 2022
 
 &nbsp;
 

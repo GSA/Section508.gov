@@ -347,3 +347,5 @@ Meeting Platform Accessibility Guides
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
+
+**Reviewed/Updated:** March 2022

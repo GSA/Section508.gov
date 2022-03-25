@@ -91,7 +91,7 @@ If you have questions or want to share your experiences using universal design, 
   </div>
 </div>
 
-**Reviewed/Updated:** October 2020
+**Reviewed/Updated:** March 2022
 
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
