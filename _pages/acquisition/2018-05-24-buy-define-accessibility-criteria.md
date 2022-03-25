@@ -216,7 +216,7 @@ Consider using this language only when you know the offeror has the ability to e
 Before final acceptance of any ICT item, including updates and replacements, if the offeror claims its products or services satisfy the applicable Revised 508 Standards specified in the statement of work, and the contracting officer determines that any furnished ICT item is not in compliance with such requirements, the contracting officer will promptly inform the offeror in writing of the noncompliance. The offeror shall, at no cost to the agency, repair or replace the non-compliant products or services within the period specified by the contracting officer.
 
 
-**Reviewed/Updated:** May 2018
+**Reviewed/Updated:** March 2022
 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
