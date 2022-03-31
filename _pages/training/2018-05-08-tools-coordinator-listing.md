@@ -129,6 +129,8 @@ Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
 ### National Oceanic and Atmospheric Administration (NOAA)
 Natalie Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>
+### U.S. Census Bureau
+David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>  
 Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>  
@@ -143,7 +145,7 @@ Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 ### Air National Guard
 VACANT
 ### Army
-Victor Rivers - 301-844-9127 - <victor.m.rivers.civ@mail.mil>
+Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>  
 
   * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
   * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
@@ -157,7 +159,7 @@ Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Bruce Weyrick - 703-805-3576 - <bruce.weyrick@dau.edu>
 ### Defense Contract Management Agency (DCMA)
-Antonio Boston -&nbsp;804-416-9160 - <antonio.boston@dcma.mil>
+Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Mubarak Allotey, CIO 508 Program Manager (collateral duty) - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
 ### Defense Cyber Crime Center (DC3)
@@ -436,7 +438,6 @@ Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
 VACANT
 ### FINCEN
-Elizabeth Ortiz - 703-905-5052 - <elizabeth.ortiz@fincen.gov>  
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Yolonda Humphrey - 202-613-4028 - <yolonda.r.humphrey@irs.gov>
@@ -532,7 +533,7 @@ Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 ### Federal Election Commission (FEC)
-VACANT
+Patcharee "Pat"	Phongsvirajati - 202-694-1242 - <pphongsvirajati@fec.gov>  
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
 Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
@@ -622,7 +623,7 @@ VACANT
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong> February 23, 2022
+    <strong>Reviewed/Updated:</strong> March 23, 2022
   </p>
 </div>
 

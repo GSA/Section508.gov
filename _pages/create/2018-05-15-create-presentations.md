@@ -48,6 +48,12 @@ How to create accessible Microsoft PowerPoint presentations.
 
 * * *
 
+## Agency-Developed Guidance
+
+The resources in this section were developed by federal agencies and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][14].
+
+  * [Making a diagram screen reader friendly](https://blog-nrrd.doi.gov/beyond-auto/) - ONRR.gov
+
 ## Related Resources
 
   * [Create Accessible Digital Products][8] 
@@ -80,3 +86,4 @@ How to create accessible Microsoft PowerPoint presentations.
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
  [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [13]: https://webaim.org/techniques/alttext/
+ [14]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

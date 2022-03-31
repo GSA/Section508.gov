@@ -34,7 +34,7 @@ June 8, 2021 - In this session, Brandon Jular (Department of Labor) shared his j
 * [Getting the Support You Need: Strategically leveraging high-level support (PPTX)](https://assets.section508.gov/files/GSA-Accessibility-Community-Meeting-08JUN2021.pptx)
 * [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-JUN2021%29.docx)
 
-April 6, 2021 - Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.
+April 6, 2021 - Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs<sup>&trade;</sup>).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.
 
 * [Transcript (DOCX)][1]
 
@@ -141,7 +141,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
   </div>
 </div>
 
-**Reviewed/Updated**: July&nbsp;2021
+**Reviewed/Updated**: March 2022
 
 [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
 [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx

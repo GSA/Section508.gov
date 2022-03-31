@@ -9,15 +9,15 @@ created: 1527707299
 
 Section508.gov is a website about IT accessibility in the Federal government.
 
-We&rsquo;ve recently redesigned this website, and it looks like the page you want has moved. Sorry about that. Let&rsquo;s get you back on track! What were you trying to do?
+We've recently redesigned this website, and it looks like the page you want has moved. Sorry about that. Let's get you back on track! What were you trying to do?
 
-  * <a href=“/test”>Learn about accessibility testing</a>
-  * <a href=“/tools”>Find IT Accessibility Training</a>
-  * <a href=“/manage/laws-and-policies”>Learn about Section 508 policy</a>
-  * <a href=“/buy”>Purchase accessible IT products or services</a>
-  * <a href=“/manage”>Find information for IT Accessibility program managers</a>
-  * <a href=“/sell/vpat”>Learn about VPAT&trade;</a>
+  * [Learn about accessibility testing](/test/)
+  * [Find IT Accessibility Training](/tags/ools/)
+  * [Learn about Section 508 policy](/manage/laws-and-policies/)
+  * [Purchase accessible IT products or services](/buy/)
+  * [Find information for IT Accessibility program managers](/manage/)
+  * [Learn about VPAT<sup>&trade;</sup>](/sell/vpat/)
 
-If none of these options seem to fit, please try our site search, visit the <a href=“{{site.baseurl}}”>Section508.gov homepage</a>, or <a href=“mailto:section.508@gsa.gov”>email us with your question</a>.
+If none of these options seem to fit, please try our site search, visit the [Section508.gov homepage](https://www.section508.gov), or email your question to <section.508@gsa.gov>.
 
-**Reviewed/Updated:** May 2018
+**Reviewed/Updated:** March 2022
