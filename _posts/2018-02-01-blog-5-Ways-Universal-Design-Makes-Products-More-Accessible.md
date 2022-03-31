@@ -67,5 +67,5 @@ It’s possible for agencies to implement accessible products using universal de
 
 Do you have a tip for implementing accessible products using universal design? Share your stories by emailing us at <section.508@gsa.gov>.
 
- [1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
+ [1]: https://www.section508.gov/develop/universal-design/
  [2]: https://www.w3.org/WAI/impl/implement

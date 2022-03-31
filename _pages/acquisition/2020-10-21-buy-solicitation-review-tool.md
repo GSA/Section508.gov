@@ -49,6 +49,6 @@ If you have questions while using the application or have tool improvement recom
   </div>
 </div>
 
-**Reviewed/Updated:** October 2020
+**Reviewed/Updated:** March 2022
 
- [1]: https://beta.sam.gov
+ [1]: https://sam.gov/
