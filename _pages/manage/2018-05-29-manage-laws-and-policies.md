@@ -118,7 +118,7 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
 
 &nbsp;
 
-**Reviewed/Updated:** July 2020
+**Reviewed/Updated:** March 2022
 
 &nbsp;
 
@@ -143,9 +143,9 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [19]: https://www.fcc.gov/guides/21st-century-communications-and-video-accessibility-act-2010
  [20]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
  [21]: https://policy.cio.gov/web-policy/
- [22]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_20.pdf
+ [22]: https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf
  [23]: https://policy.cio.gov/open-data/
- [24]: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/assets/egov_docs/improving-accessibility-government-information_07-19-2010.pdf
+ [24]: https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/procurement_memo/improving_accessibility_gov_info_07192010.pdf
  [25]: https://obamawhitehouse.archives.gov/omb/procurement_index_508/
  [26]: https://assets.section508.gov/files/ombNews_February_2011.doc
  [27]: https://assets.section508.gov/files/improving_accessibility_gov_info_07192010_5B1_5D.doc
