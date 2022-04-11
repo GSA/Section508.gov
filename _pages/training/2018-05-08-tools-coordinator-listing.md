@@ -235,7 +235,7 @@ Sandra Logan (BACKUP)
 ----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services
 ### Department-wide
-Kate Maynor Sweeney - 202-692-4622 - <kate.Maynor@hhs.gov>
+Kate Maynor Sweeney - <kate.Maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
@@ -255,7 +255,7 @@ Darren Buchanan - 301-443-3061 - <darren.buchanan@ihs.gov>
 ### National Institutes of Health (NIH)
 VACANT
 ### Office of the Secretary Division
-Cammie Truesdell - 202-836-2793 - <cammie.truesdell@hhs.gov>
+Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
