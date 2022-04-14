@@ -90,7 +90,7 @@ Confirm that the availability and accessibility of features is available for the
 <li>
 <strong>Captioning:</strong> For attendees who are deaf or hard-of-hearing, conference materials that include an audio component should have a text version accompanying it (e.g., open or closed captioning). This includes all training and informational video and multimedia productions which support the agency’s mission (both live and pre-recorded).
 <ul>
-<li><i>Real-Time (Live):</i> Provide real-time, two-way captioning (e.g., <a href="https://www.federalrelay.us" class="ext">Federal Relay<span class="ext" aria-label="(link is external)"></span></a>) to enable participants to interact and participate in the meeting via a professional captioner. </li>
+<li><i>Real-Time (Live):</i> Provide real-time, two-way captioning (e.g., <a href="https://www.federalrelay.us" target="_blank">Communication Access Realtime Translation (CART) available through your agency</a>) to enable participants to interact and participate in the meeting via a professional captioner. </li>
 <li><i>Automated:</i> Virtual platforms have increasingly integrated automated speech to text translation into their products. While these solutions may be serviceable for some, others may lack a human captioner’s ability to translate heavily accented speech, acronyms and jargon, as well as provide an indication of speaker change, grammar and punctuation. Be prepared to provide professional real-time, human-generated captions. </li>
 </ul>
 </li>
@@ -138,7 +138,7 @@ Confirm that the availability and accessibility of features is available for the
 <li dir="ltr"><strong>Speakers:</strong> List of attendees and presenters; include speaker biographies for larger meetings, webinars and conferences</li>
 <li dir="ltr"><strong>Schedule of events:</strong> Specific dates and times of how the meeting has been organized; including speakers, breaks, etc.</li>
 <li dir="ltr"><strong>How to Join:</strong> Provide detailed information on the ways attendees can participate in the meeting (e.g., links to virtual platform, alternate telephone number)</li>
-<li dir="ltr"><strong>Accommodations:</strong> Include detailed information on how individuals can access available accommodations, (e.g., FedRelay Relay Conference Captioning (RCC), ASL interpreters, assisted listening devices, alternate print formats)</li>
+<li dir="ltr"><strong>Accommodations:</strong> Include detailed information on how individuals can access available accommodations, (e.g., Communication Access Realtime Translation (CART), ASL interpreters, assisted listening devices, alternate print formats)</li>
 <li dir="ltr"><strong>Materials:</strong> Whenever possible, distribute electronic presentation documents and media to invitees and attendees in advance of the meeting</li>
 <li dir="ltr"><strong>Tech Checks:</strong> Provide ways for participants to test platform access prior to meeting (e.g., <a href="https://zoom.us/test" class="ext">zoom test meeting<span class="ext" aria-label="(link is external)"></span></a>), particularly when inviting individuals from outside of your organization</li>
 </ul>
@@ -296,10 +296,10 @@ Fine tune your video
 <ul>
 <li dir="ltr"><a href="{{site.baseurl}}/create">Create Accessible Digital Products</a></li>
 <li dir="ltr"><a href="{{site.baseurl}}/create/universal-design">Universal Design and Accessibility</a></li>
-<li dir="ltr"><a href="https://www.federalrelay.us/" class="ext">FedRelay<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://www.gsa.gov/fedrelay/" class="ext">FedRelay<span class="ext" aria-label="(link is external)"></span></a></li>
 <li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web<span class="ext" aria-label="(link is external)"></span></a> (W3C WCAG)</li>
 <li dir="ltr"><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf">Making Meetings Accessible</a> (CDC.gov)</li>
-<li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide_05-01-2020.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
+<li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
 <li dir="ltr">
 Meeting Platform Accessibility Guides
 <ul>
@@ -347,3 +347,5 @@ Meeting Platform Accessibility Guides
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
+
+**Reviewed/Updated:** March 2022

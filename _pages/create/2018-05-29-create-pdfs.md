@@ -44,8 +44,9 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].
 
-  * [Resources for Developers and Document Authors][7] - Guidance on how to develop and author accessible electronic content
-  * [Alternate Text For Images][8]&nbsp;(PDF, July 2011) - Developed by SSA
+  * [Resources for Developers and Document Authors][7] - Guidance on how to develop and author accessible electronic content  
+  * [Alternate Text For Images][8]&nbsp;(PDF, July 2011) - Developed by SSA  
+  * [Making a diagram screen reader friendly](https://blog-nrrd.doi.gov/beyond-auto/) - ONRR.gov  
 
 ## Related Resources
 

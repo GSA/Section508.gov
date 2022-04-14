@@ -25,6 +25,10 @@ manage:
             url: manage/program-manager-responsibilities/
           - name: Revised 508 Standards Roadmap
             url: manage/program-roadmap/
+      - name: DEIA Accessibility Guidance
+        url: manage/deia-guidance/
+      - name: Practical Reasons for Digital Accessibility
+        url: manage/benefits-of-accessibility/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -43,8 +47,8 @@ manage:
       - name: Accessibility Reporting
         url: '#'
         grandchildren:
-#          - name: Maturity Reporting
-#            url: manage/reporting/
+          - name: Maturity Reporting
+            url: manage/reporting/
           - name: Reporting FAQ
             url: manage/reporting/faq/
           - name: Measure Website Conformance
