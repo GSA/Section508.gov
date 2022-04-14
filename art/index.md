@@ -12,14 +12,36 @@ The <a href="/art/">Accessibility Requirements Tool (ART)</a> is a step-by-step 
       </header>
       <div class="usa-card__body">
         <div class="mobile-lg:grid-col-8">
-          <a href="/art/start">
+          <a href="/art/ict_name">
             <button class="usa-button usa-button--accent-warm usa-focus">Get Started</button>
           </a>
+        <h4>To modify/upload an previous acquisition file, <a href="#" id="json_upload">click here.</a></h4>
         </div>
       </div>
     </div>
   </div>
 </div>
+<!-- Start: @file-input--specific -->
+<div class="usa-form-group" id="json_upload_div" style="display: none;">
+  <h3>Upload a JSON file</h3>
+  <label class="usa-label" for="file-input-specific"
+    >Input accepts only specific file types</label
+  >
+  <span class="usa-hint" id="file-input-specific-hint"
+    >Select JSON files</span
+  >
+  <input
+    id="file-input-specific"
+    class="usa-file-input"
+    type="file"
+    name="file-input-specific"
+    aria-describedby="file-input-specific-hint"
+    accept=".pdf,.txt"
+    multiple
+  />
+</div>
+<br>
+<!-- End: @file-input--specific -->
 <div id="target" style="background-color: #f5f9fc; padding:10px 20px 20px 20px">
   <h2>
     <strong>Sample Procurement Language in 3 Steps</strong>
@@ -203,5 +225,5 @@ The <a href="/art/">Accessibility Requirements Tool (ART)</a> is a step-by-step 
   </div>
 </div>
 <div>
-  <p><span class="bold"><strong>Reviewed/Updated:</strong> January 2022 </span></p>
+  <p><span class="bold"><strong>Reviewed/Updated:</strong>April 2022 </span></p>
 </div>

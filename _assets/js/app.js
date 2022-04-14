@@ -46,6 +46,15 @@ function scrollFunction() {
 
 });
 
+// Show div when modify/upload existing JSON is clicked
+$(function() {
+  $('#json_upload').click(function() {
+      $('#json_upload_div').show();
+      return false;
+  });        
+});
+
+
 // Form-group-outter is the parent question, form-group is a subquestion that can be hidden
 $('.form-group-outer').each(function() {
 
@@ -207,109 +216,81 @@ function removeName(x){
   return;
 }
 
+// Save name of ICT product the user entered and display in results
+// $(document).ready(function() {
+//   $("#add_ict_continue").on("click", function(e) {
+//     e.preventDefault();
+//     var inputICT = $("#capturedICTfield").val()
+//     $("#display_ict_input").html(inputICT)
+//     alert("alert!")
+//   })
+// });
+
+// Copy results text
+function CopyToClipboard(containerid) {
+  if (document.selection) {
+    var range = document.body.createTextRange();
+    range.moveToElementText(document.getElementById(containerid));
+    range.select().createTextRange();
+    document.execCommand("copy");
+  } else if (window.getSelection) {
+    var range = document.createRange();
+    range.selectNode(document.getElementById(containerid));
+    window.getSelection().addRange(range);
+    document.execCommand("copy");
+    alert("Section 508 Requirements results have been copied to your clipboard!")
+  }
+}
+
+// Export results to .docx file
+function downloadInnerHtml(filename, elId) {
+  debugger;
+      var elHtml = document.getElementById(elId).innerHTML;
+      var link = document.createElement('a');
+      link.setAttribute('download', filename);
+      
+      link.setAttribute('href', 'data:' + 'text/doc' + ';charset=utf-8,' + encodeURIComponent(elHtml));
+      link.click(); 
+}
+var fileName =  'Section508_Requirements_ART_results.docx'; // You can use the .txt extension if you want
+
 // Jquery execute a function when the user releases a key on the keyboard
 $("#addICTform").keypress(function(event) {
   if (event.keyCode === 13) {
       event.preventDefault();
       $("#addICTbutton").click();
-      return false;
   }
 });
 
-// // function to reload page
-// function reloadPage()
-// {
-// 	if(confirm("You will lose all data. Are you sure you want to do it?"))
-// 	{
-// 		location.reload();
-//     return false;
-// 	}
-// }
+// Generate Item tab list 
 
-// Generate Nav list
 
-function NavListGeneration(location)
-{
-  TempList = document.createElement('ul');
-  TempList.setAttribute('id', 'navigationListID'+location);
-  for(var i = 0; i < unique_array.length; i++)
-  {
-        if(compare_array.indexOf(unique_array[i]) == -1)
-		{
-			// Create the list item:
-			var item = document.createElement('li');
-			var a = document.createElement("a");
-			// Set its contents:
-			var x = unique_array[i].replace(/\s/g, '');
-			a.textContent = unique_array[i];
-			a.setAttribute('href', '#');
-			item.appendChild(a);
-			item.setAttribute("id", location+"-link-"+x);
-			item.setAttribute("class", "navlinksclass");
+// sample tabs
+$(function() {
+  $("#my-tabs ul").find("li").remove();
+      var headingItems = '';
+      responseJson1a = [
+          {eventLocation : 'eventLocation1'},
+          {eventLocation : 'eventLocation2'},
+          {eventLocation : 'eventLocation3'}
+      ]
+      for(var i = 0; i < responseJson1a.length; i++) {
+          var obj = responseJson1a[i];
+          headingItems += '<li id="' + i + '"><a href="#' + obj.eventLocation +'">' + obj.eventLocation + '</a></li>';
+      }
+      $("#my-tabs ul").append(headingItems);
 
-				var substeps = document.createElement('ul');
-				var subitem = document.createElement('li');
-				var aa = document.createElement('a');
-				aa.textContent = "Exceptions";
-				aa.setAttribute('href', '#');
-				aa.setAttribute('class', 'NavList');
-        aa.setAttribute('id', 'ExceptionsLinkfor'+x);
-        aa.setAttribute('onclick','show("'+x+'", "Exceptions")');
-				subitem.appendChild(aa);
-				substeps.appendChild(subitem);
-				item.appendChild(substeps);
+      //Add Tab contents
+      var contents = '';
+      for(var i = 0; i < responseJson1a.length; i++) {
+          var obj = responseJson1a[i];
+          contents += '<div id="' + obj.eventLocation + '">';
+          contents += '<h3>Menu ' + (i+1) + '</h3>';
+          contents += '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>';
+          contents += '</div>';
 
-				var substeps = document.createElement('ul');
-				var subitem = document.createElement('li');
-				var aa = document.createElement('a');
-				aa.textContent = "Electronic Content";
-				// aa.setAttribute('href', '#');
-				aa.removeAttribute("href");
-				aa.setAttribute('class', 'NavListDisabled');
-        aa.setAttribute('id', 'ElectronicContentLinkfor'+x);
-        aa.setAttribute('onclick','show("'+x+'", "ElectronicContent")');
-        aa.setAttribute("aria-disabled", "true");
-				subitem.appendChild(aa);
-				substeps.appendChild(subitem);
-				item.appendChild(substeps);
-
-				var substeps = document.createElement('ul');
-				var subitem = document.createElement('li');
-				var aa = document.createElement('a');
-				aa.textContent = "Software";
-				// aa.setAttribute('href', '#');
-				aa.removeAttribute("href");
-				aa.setAttribute('class', 'NavListDisabled');
-        aa.setAttribute('id', 'SoftwareLinkfor'+x);
-        aa.setAttribute('onclick','show("'+x+'", "Software")');
-        aa.setAttribute("aria-disabled", "true");
-				subitem.appendChild(aa);
-				substeps.appendChild(subitem);
-				item.appendChild(substeps);
-
-				var substeps = document.createElement('ul');
-				var subitem = document.createElement('li');
-				var aa = document.createElement('a');
-				aa.textContent = "Hardware";
-				// aa.setAttribute('href', '#');
-				aa.removeAttribute("href");
-				aa.setAttribute('class', 'NavListDisabled');
-        aa.setAttribute('id', 'HardwareLinkfor'+x);
-        aa.setAttribute('onclick','show("'+x+'", "Hardware")');
-        aa.setAttribute("aria-disabled", "true");
-				subitem.appendChild(aa);
-				substeps.appendChild(subitem);
-				item.appendChild(substeps);
-
-			// item.setAttribute('a href', '#');
-			// Add it to the list:
-			TempList.appendChild(item);
-			generateNavPane(unique_array[i], "Exceptions");
-      generateNavPane(unique_array[i], "ElectronicContent");
-      generateNavPane(unique_array[i], "Software");
-      generateNavPane(unique_array[i], "Hardware");
-			compare_array.push(unique_array[i]);
-		}
-  }
-  return TempList;
-}
+          $("#tabContent").append(contents);
+          contents = '';
+      }
+      $("#my-tabs").tabs();
+});

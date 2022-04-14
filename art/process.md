@@ -1,18 +1,49 @@
 ---
 layout: base
-permalink: /art/start
+permalink: /art/process
 title: Accessibility Requirements Tool
 ---
+<div class="tab grid-container margin-top-9">
+  <button class="tablinks" onclick="openCity(event, 'London')">Test1</button>
+</div>
+
+<div id="London" class="tabcontent">
+  <h3>ABC</h3>
+  <!-- <div> THIS IS WHERE THE FIRST PAGE GOES</div> -->
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>DEF</h3>
+  <!-- <div> THIS IS WHERE THE SECOND PAGE GOES</div> -->
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>GHI</h3>
+  <!-- <div> THIS IS WHERE THE FIRST PAGE GOES</div> -->
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
 <div class="grid-container pgov margin-top-9">
-  <div class="grid-row grid-gap NavList" id="ExceptionsNavigationBar">
+  <div class="grid-row grid-gap">
     <div class="usa-layout-docs__sidenav desktop:grid-col-3 open" id="side-nav">
       <nav aria-label="Secondary navigation">
-        <ul class="usa-sidenav" id="navigationListIDexception">
-          <li class="usa-sidenav__item navlinksclass">
-            <a href="#section-1">Start</a>
-          </li>
+        <ul class="usa-sidenav">
           <li class="usa-sidenav__item">
-            <a href="#section-2">Project Name</a>
+            <a href="#section-1">Solicitation Type</a>
           </li>
           <li class="usa-sidenav__item">
             <a href="#section-3">ICT Type</a>
@@ -83,23 +114,6 @@ title: Accessibility Requirements Tool
               </label>
             </div>
           </fieldset>
-        </div>
-      </section>
-      <section id="section-2" aria-label="Default search component">
-        <h2 class="site-preview-heading">Project Name</h2>
-        <div id="dynamicInput">
-          <form id="addICTform">
-          <!-- <form method="POST"> -->
-            <legend>Please list items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT items providing an overall solution (for example: Security Equipment).</legend> 
-            <label for="capturedICTfield">
-              <input type="text" id="capturedICTfield" name="capturedICT[]" class="capturedICTclass">
-              <span>
-                <button class="usa-button usa-button--accent-warm" type="button" id="addICTbutton" onclick="addICTInput()">
-                Add
-                </button>
-              </span>
-            </label>
-          </form>
         </div>
       </section>
       <section id="section-3">
@@ -597,7 +611,7 @@ title: Accessibility Requirements Tool
       </div>
     </div>
     <div>
-      <p><span class="bold"><strong>Reviewed/Updated:</strong> February 2022 </span></p>
+      <p><span class="bold"><strong>Reviewed/Updated:</strong> April 2022 </span></p>
     </div>
   </div>
 </div>
@@ -643,10 +657,3 @@ title: Accessibility Requirements Tool
     });
 
 </script>
-
-
-
-
-
-
-
