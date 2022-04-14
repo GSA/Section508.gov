@@ -16,7 +16,7 @@ Companies have pledged to implement accessible technology, pushing the technolog
 
   * **Creating** **design toolkits and activities checklists** to help businesses shift their design thinking toward more universal solutions and applications.
   * For individuals with color vision impairment and color blindness, **using** [**Color Universal Design (CUD)**][1] to help users edit images and ensure graphical information is conveyed accurately.
-  * **Launching accessibility initiatives** **so that customers can learn** about accessible products through whitepapers and demos, understand how to configure products to achieve an accessible output, and view Voluntary Product Accessibility Templates (VPATs&trade;) to reinforce how products meet Section 508 and [WCAG 1.0][2] and [WCAG 2.0][3] guidelines.
+  * **Launching accessibility initiatives** **so that customers can learn** about accessible products through whitepapers and demos, understand how to configure products to achieve an accessible output, and view Voluntary Product Accessibility Templates (VPATs<sup>&trade;</sup>) to reinforce how products meet Section 508 and [WCAG 1.0][2] and [WCAG 2.0][3] guidelines.
 
 With nearly [1 in 8][4] people in the U.S. known to have a disability, there is a huge incentive for businesses, and the government, to invest in accessible technology to ensure that working environments are inclusive and available to all user groups. However, organizations often overlook key design areas related to accessibility when implementing these new technologies, which leads to overspending in the long term to rectify early design decisions.
 

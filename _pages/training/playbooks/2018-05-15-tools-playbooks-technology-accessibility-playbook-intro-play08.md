@@ -25,7 +25,7 @@ The following play identifies how to ensure accessibility needs are identified a
       * Ensure Contracting Officers know what to expect from the Requiring Officials related to Section 508 requirements.
       * Ensure the Requiring Office includes the appropriate accessibility requirements in the solicitation language.
       * Ensure Requiring Officials know when and who to contact for accessibility guidance.
-  * Establish a formal Section 508 compliance determination process. Use the process to document compliance decisions. Support decisions with relevant Section 508 artifacts (Market Research, VPATs&trade;, Section 508 Exceptions, test results, and &ldquo;best meets&rdquo; determinations.)
+  * Establish a formal Section 508 compliance determination process. Use the process to document compliance decisions. Support decisions with relevant Section 508 artifacts (Market Research, VPATs<sup>&trade;</sup>, Section 508 Exceptions, test results, and &ldquo;best meets&rdquo; determinations.)
       * Provide for independent expert reviews of Section 508 exception and vendor accessibility claims prior to award.
       * Use a risk based model to determine when independent testing is required to validate vendor conformance claims.
       * Provide authority to the Section 508 Program Team to stop any contract or application that puts the agency at significant risk.
@@ -42,7 +42,7 @@ The following play identifies how to ensure accessibility needs are identified a
   * Require vendors to provide detailed responses to accessibility requirements in the Statement of Work.
   * Validate Section 508 accessibility conformance claims in bid proposals through expert review or testing.
       * If another agency claims a product is Section 508 conformant, ask if the agency used Section 508 test processes endorsed by the CIO Council Accessibility Community of Practice, and where applicable using testers certified through the DHS trusted tester program. If these conditions are met, consider accepting the other agency&rsquo;s Section 508 determination to streamline the evaluation process.
-      * Validate vendor Section 508 conformance claims through expert analysis. Example documentation for conformance claims includes Voluntary Product Accessibility Templates (VPATs&trade;) Government Product Accessibility Templates (GPATs) for conformance.
+      * Validate vendor Section 508 conformance claims through expert analysis. Example documentation for conformance claims includes Voluntary Product Accessibility Templates (VPATs<sup>&trade;</sup>) Government Product Accessibility Templates (GPATs) for conformance.
       * When testing is warranted, perform testing prior to award for commercially available digital services and technology solutions, and prior to deployment for solutions that are developed, customized, and/or integrated with other technology components post award. For more information on testing, see play 10.
   * Provide documentation of Section 508 conformance claims, expert analysis and test findings to the Contracting Official.
   * Ensure Section 508 requirements are addressed in award decisions. If no product(s) fully meets the applicable Section 508 standards, document which product(s) &ldquo;best meet&rdquo; the applicable Section 508 standards [[2]][1].

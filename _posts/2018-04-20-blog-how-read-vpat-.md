@@ -20,7 +20,7 @@ If you understand your accessibility and usability needs, it&rsquo;s easier to s
 
 ### 1. Research, research, research!
 
-Technology companies spend more on [research and development][2] than any other industry in the US. Given the rapid advancements in technology today, it&rsquo;s important to research vendors to understand what their products offer. You should also request accessibility templates, such as a Voluntary Product Accessibility Template (VPAT&trade;), from vendors to show how their products meet relevant Section 508 standards and accessibility guidelines. [Section508.gov][3] has great resources to help you in this step of your procurement process.
+Technology companies spend more on [research and development][2] than any other industry in the US. Given the rapid advancements in technology today, it&rsquo;s important to research vendors to understand what their products offer. You should also request accessibility templates, such as a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>), from vendors to show how their products meet relevant Section 508 standards and accessibility guidelines. [Section508.gov][3] has great resources to help you in this step of your procurement process.
 
 Resources include:
 
@@ -44,7 +44,7 @@ Additionally, the [Partnership on Employment and Accessible Technology][9] (PEAT
 
   * Solicitation
       * [Step 3: Issuing Your Solicitation][13]
-      * [Step 4: Evaluating Proposals & VPATs&trade;][14]
+      * [Step 4: Evaluating Proposals & VPATs<sup>&trade;</sup>][14]
   * ​Post-Award
       * [Step 5: Negotiating Contracts][15]
       * [Step 6: Testing & Validation][16]
@@ -63,7 +63,7 @@ For more information, contact <section.508@gsa.gov>
 
 &nbsp;
 
- [1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html
+ [1]: https://www.section508.gov/develop/universal-design/
  [2]: https://www.recode.net/2017/9/1/16236506/tech-amazon-apple-gdp-spending-productivity
  [3]: {{site.baseurl}}/
  [4]: {{site.baseurl}}/buy/request-accessibility-information
