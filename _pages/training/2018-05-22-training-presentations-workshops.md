@@ -8,8 +8,13 @@ created: 1527019072
 ---
 
 ## 2022
+### IT Accessibility Community Meetings
+April 19, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where you’ll hear from four speakers.
 
-### **Accessibility Community Meetings**
+* [SRT Data Process - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/SRT+Data+Process+-+ITACM+APR+2022.pptx)
+* [Market Research - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/Market+Research+-+ITACM+APR+2022.pptx)
+* [Captioned Text - APR 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-APR2022%29.docx)
+
 February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is *“Be The Change In Accessibility: Design & Development”* where you’ll hear from two speakers.
 
 * [MS Word Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/MS%20Word%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
@@ -19,7 +24,7 @@ February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focu
 
 ## 2021
 
-### **Accessibility Community Meetings**
+### IT Accessibility Community Meetings
 December 7, 2021 - Our theme, “Winter Break: Accessibility Lights, DEIA Camera…ACTION” continued to focus on reconnecting our broader accessibility community members and charting the path forward. The topics discussed at the meeting included: DEIA and the Accessibility Community; What is The Big Picture; and Using the Tools We Have To Accomplish the Goal.
 
 * [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2021%29.docx)
@@ -46,7 +51,7 @@ February 9, 2021 - Featuring the slogan, “Moving Forward: Change is Necessary�
 
 ## 2020
 
-### **CSUN Assistive Technology Conference**
+### CSUN Assistive Technology Conference
 
 March 8-13, 2020 - The California State University, Northridge (CSUN) hosted the 35th annual CSUN Assistive Technology Conference which is designed as an inclusive event for researchers, practitioners, exhibitors, end users and other participants to share knowledge and best practices in the field of assistive technology. Among the many workshops and presentations scheduled for the conference were those created by accessibility professionals from the U.S. Access Board, the GSA IT Accessibility Team, and the Department of Homeland Security including:
 
@@ -54,7 +59,7 @@ March 8-13, 2020 - The California State University, Northridge (CSUN) hosted the
 * [Section 508 ICT Testing Baseline (PPT)][6]&nbsp;- Explains how the ICT Testing Baseline will be used by federal agencies to align their accessibility testing processes to produce consistent test results for Section 508 conformance.
 * [U.S. Access Board and GSA Answer Questions About §508 (PPT)][7]&nbsp;- Reviews questions about the Revised Section 508 Standards, focusing on the most popular topics requested by users.
 
-### **Accessibility Community Meetings**
+### IT Accessibility Community Meetings
 
 December 01, 2020 - “Moving Forward: Winter Break” - Access Israel shared information about their organization and how they promote accessibility to improve the quality of life for people with various disabilities in Israel. The primary goal is that all those with disabilities are integrated into society with dignity, respect, equal rights and high level of independence. Attendees also enjoyed a year-in-review presentation by Tim Creagan, U.S. Access Board.
 
@@ -86,7 +91,7 @@ February 4, 2020 - Featuring the slogan, "Moving Forward," this meeting featured
 
 ## 2019
 
-### Accessibility Community Meetings
+### IT Accessibility Community Meetings
 
 December 10, 2019 - Featuring the slogan, “What Have We Learned? Our Journey Forward,” &nbsp;this meeting featured three presentations by Section 508 Program Managers sharing lessons learned and plans for 2020.
 
@@ -111,7 +116,7 @@ April 8, 2019 - Bimonthly meeting topics included discussions on performance met
 
 ## 2018
 
-### Accessibility Community Meeting
+### IT Accessibility Community Meeting
 
 February 6, 2018 - Bi-monthly meeting of the Accessibility Community, featuring an interactive session on the new [Accessibility Requirements Tool (ART)][33].
 
