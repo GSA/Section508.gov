@@ -5,6 +5,8 @@ permalink: create/documents/
 type: create
 title: 'Create Accessible Documents'
 created: 1525986152
+redirect_from:
+- content/build/create-accessible-documents/
 ---
 
 Learn how to create accessible Microsoft Word documents that conform to the [Revised 508 Standards][1].
