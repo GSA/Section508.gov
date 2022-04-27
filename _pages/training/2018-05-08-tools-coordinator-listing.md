@@ -204,7 +204,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** - Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** - Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command** - Arnetta White - 252-723-4083 - <arnetta.white@us.navy.mil>
+  * **Naval Air Systems Command** - Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
   * **Navy Reserve Forces Command** - Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>
   * **Office of Naval Research** - VACANT
   * **Space and Naval Information Warfare Systems Command** - Tyler McLean - 619-810-7821 - <tyler.mclean@navy.mil>
