@@ -229,7 +229,6 @@ Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 ----------------------------------------------------
 ## <span id="usdoen" ></span>Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
-Denise Hill (BACKUP)  
 Sandra Logan (BACKUP)  
 
 ----------------------------------------------------
