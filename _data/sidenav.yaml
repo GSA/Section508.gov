@@ -27,6 +27,8 @@ manage:
             url: manage/program-roadmap/
       - name: DEIA Accessibility Guidance
         url: manage/deia-guidance/
+      - name: Practical Reasons for Digital Accessibility
+        url: manage/benefits-of-accessibility/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
