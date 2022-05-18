@@ -416,7 +416,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## Department of Transportation
 ### Department-wide
-VACANT
+Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
