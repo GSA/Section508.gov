@@ -3,42 +3,43 @@ layout: base
 permalink: /art/process
 title: Accessibility Requirements Tool
 ---
-<div class="tab grid-container margin-top-9">
-  <button class="tablinks" onclick="openCity(event, 'London')">Test1</button>
-</div>
-
-<div id="London" class="tabcontent">
-  <h3>ABC</h3>
-  <!-- <div> THIS IS WHERE THE FIRST PAGE GOES</div> -->
-</div>
-
-<div id="Paris" class="tabcontent">
-  <h3>DEF</h3>
-  <!-- <div> THIS IS WHERE THE SECOND PAGE GOES</div> -->
-</div>
-
-<div id="Tokyo" class="tabcontent">
-  <h3>GHI</h3>
-  <!-- <div> THIS IS WHERE THE FIRST PAGE GOES</div> -->
-</div>
-
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<style>
+#dialog label, #dialog input { display:block; }
+#dialog label { margin-top: 0.5em; }
+#dialog input, #dialog textarea { width: 95%; }
+#tabs { margin-top: 1em; }
+#tabs li .ui-icon-close { float: left; margin: 0.4em 0.2em 0 0; cursor: pointer; }
+#add_tab { cursor: pointer; }
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
 <div class="grid-container pgov margin-top-9">
-  <div class="grid-row grid-gap">
+  <div id="dialog" title="Tab data">
+    <form>
+      <fieldset class="ui-helper-reset">
+        <label for="tab_title">Solicitation Name</label>
+        <input type="text" name="tab_title" id="tab_title" class="ui-widget-content ui-corner-all">
+        <label for="tab_content">Survey</label>
+        <textarea name="tab_content" id="tab_content" class="ui-widget-content ui-corner-all"></textarea>
+      </fieldset>
+    </form>
+  </div>
+  
+  <button id="add_tab" class="usa-button usa-button--accent-warm">Add Solicitation</button>
+  
+  <div id="tabs">
+    <ul>
+      <li><a href="#tabs-1">Example Solicitation</a> <span class="ui-icon ui-icon-close" role="presentation">Remove Tab</span></li>
+    </ul>
+    <div id="tabs-1"><p></p>
+    </div>
+  </div>
+</div>
+
+<div class="grid-container pgov margin-top-9">
+  <div class="grid-row grid-gap" id="tab-test">
     <div class="usa-layout-docs__sidenav desktop:grid-col-3 open" id="side-nav">
       <nav aria-label="Secondary navigation">
         <ul class="usa-sidenav">
@@ -587,9 +588,7 @@ function openCity(evt, cityName) {
       </section>
       <div class="grid-container pgov margin-top-5">
         <div class="grid-row grid-gap">
-            <a href="/art/result">
-              <button class="usa-button usa-button--accent-warm usa-focus" id="submit">Submit</button>
-            </a>
+          <button class="usa-button usa-button--accent-warm usa-focus" id="submit" type="button" onclick="displayRadioValue()">Submit</button>
         </div>
       </div>
     </main>

@@ -262,35 +262,102 @@ $("#addICTform").keypress(function(event) {
   }
 });
 
-// Generate Item tab list 
-
 
 // sample tabs
-$(function() {
-  $("#my-tabs ul").find("li").remove();
-      var headingItems = '';
-      responseJson1a = [
-          {eventLocation : 'eventLocation1'},
-          {eventLocation : 'eventLocation2'},
-          {eventLocation : 'eventLocation3'}
-      ]
-      for(var i = 0; i < responseJson1a.length; i++) {
-          var obj = responseJson1a[i];
-          headingItems += '<li id="' + i + '"><a href="#' + obj.eventLocation +'">' + obj.eventLocation + '</a></li>';
-      }
-      $("#my-tabs ul").append(headingItems);
+$( function() {
+  var tabTitle = $( "#tab_title" ),
+    tabContent = $( "#tab_content" ),
+    tabTemplate = "<li><a href='#{href}'>#{label}</a> <span class='ui-icon ui-icon-close' role='presentation'>Remove Tab</span></li>",
+    tabCounter = 2;
 
-      //Add Tab contents
-      var contents = '';
-      for(var i = 0; i < responseJson1a.length; i++) {
-          var obj = responseJson1a[i];
-          contents += '<div id="' + obj.eventLocation + '">';
-          contents += '<h3>Menu ' + (i+1) + '</h3>';
-          contents += '<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>';
-          contents += '</div>';
+  var tabs = $( "#tabs" ).tabs();
 
-          $("#tabContent").append(contents);
-          contents = '';
+  // Modal dialog init: custom buttons and a "close" callback resetting the form inside
+  var dialog = $( "#dialog" ).dialog({
+    autoOpen: false,
+    modal: true,
+    buttons: {
+      Add: function() {
+        addTab();
+        $( this ).dialog( "close" );
+      },
+      Cancel: function() {
+        $( this ).dialog( "close" );
       }
-      $("#my-tabs").tabs();
-});
+    },
+    close: function() {
+      form[ 0 ].reset();
+    }
+  });
+
+  // AddTab form: calls addTab function on submit and closes the dialog
+  var form = dialog.find( "form" ).on( "submit", function( event ) {
+    addTab();
+    dialog.dialog( "close" );
+    event.preventDefault();
+  });
+
+  // Actual addTab function: adds new tab using the input from the form above
+  function addTab() {
+    var label = tabTitle.val() || "Tab " + tabCounter,
+      id = "tabs-" + tabCounter,
+      li = $( tabTemplate.replace( /#\{href\}/g, "#" + id ).replace( /#\{label\}/g, label ) ),
+      tabContentHtml = tabContent.val() || "Tab " + tabCounter + " content.";
+
+    tabs.find( ".ui-tabs-nav" ).append( li );
+    tabs.append( "<div id='" + id + "'><p>" + tabContentHtml + "</p></div>" );
+    tabs.tabs( "refresh" );
+    tabCounter++;
+  }
+
+  // AddTab button: just opens the dialog
+  $( "#add_tab" )
+    .button()
+    .on( "click", function() {
+      dialog.dialog( "open" );
+    });
+
+  // Close icon: removing the tab on click
+  tabs.on( "click", "span.ui-icon-close", function() {
+    var panelId = $( this ).closest( "li" ).remove().attr( "aria-controls" );
+    $( "#" + panelId ).remove();
+    tabs.tabs( "refresh" );
+  });
+
+  tabs.on( "keyup", function( event ) {
+    if ( event.altKey && event.keyCode === $.ui.keyCode.BACKSPACE ) {
+      var panelId = tabs.find( ".ui-tabs-active" ).remove().attr( "aria-controls" );
+      $( "#" + panelId ).remove();
+      tabs.tabs( "refresh" );
+    }
+  });
+} );
+
+// store variables test
+function displayRadioValue() {
+  let section1 = document.querySelectorAll('#section-1 > input[type="checkbox"]')
+
+  //Section 1
+  section1.click(function) {
+    if ($("input[name='solicitation-type-project-planning']").is(':checked')) {
+      { alert("Project Planning is checked!");
+    }
+  })
+
+  //Section 1
+  result1 += "<b>Results for section 1: test blah</b><br>"
+  let sect1 = encodeURIComponent(result1) //store data
+
+  //Redirect page
+  window.location.href = "/art/result.md"+sect1;
+}
+
+//Results for each div
+let section1Res = document.querySelector('.section-1-results')
+
+//Get data via URL
+let urlParams = new URLSearchParams(window.location.search);
+let section1 = urlParams.get('section1'); //section1
+
+//Apply results in new page
+section1Res.innerHTML = section1

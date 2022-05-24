@@ -3,21 +3,13 @@ layout: wide_art
 permalink: /art/result
 title: Accessibility Requirements Tool
 ---
-<div class="tab grid-container margin-top-9">
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Test1</button>
-</div>
-<div id="London" class="tabcontent">
-  <h3></h3>
-  <!-- <div> THIS IS WHERE THE FIRST PAGE GOES</div> -->
-</div>
-<br>
-<div>
-  <button class="usa-button usa-button--accent-warm" onclick="CopyToClipboard('copy-requirements')">Copy all solicitation language</button>
-  <button class="usa-button usa-button--accent-warm" onclick="downloadInnerHtml(fileName, 'copy-requirements')">Download Section 508 Results</button>
-  <button class="usa-button usa-button--accent-warm">Save Results in a JSON</button>
-</div>
 <div class="grid-container pgov margin-top-9">
-  <div class="grid-row grid-gap">
+  <div>
+    <button class="usa-button usa-button--accent-warm" onclick="CopyToClipboard('copy-requirements')">Copy all solicitation language</button>
+    <button class="usa-button usa-button--accent-warm" onclick="downloadInnerHtml(fileName, 'copy-requirements')">Download Section 508 Results</button>
+    <button class="usa-button usa-button--accent-warm">Save Results in a JSON</button>
+  </div>
+  <div class="grid-row grid-gap margin-top-4">
     <button id="backtotop" title="Go to top">˄ Top</button>
     <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content">
       <h1 class="site-preview-heading">Section 508 Requirements for Your Solicitation</h1>
@@ -59,6 +51,9 @@ title: Accessibility Requirements Tool
         <h1>Section 508 Requirements</h1>
       </section>
       <section>
+        <div id="results">
+          <div class="section-1-results"></div>
+        </div>
         <div id="copy-requirements">
           <p>
               Section 508 of the Rehabilitation Act, as amended by the Workforce
@@ -70,7 +65,6 @@ title: Accessibility Requirements Tool
           </p>
           <p>
               <b>Item that contains ICT: </b>Test1
-              <span id="display_ict_input">Click here for ICT name</span> 
           </p>
           <p>
               <b>Applicable Functional Performance Criteria:</b> All functional performance
