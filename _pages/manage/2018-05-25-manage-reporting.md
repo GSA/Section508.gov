@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <p dir="ltr">
-  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on February 14, 2022.
+  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on August 15, 2022.
 </p>
 
 <p dir="ltr">
@@ -84,7 +84,7 @@ redirect_from:
 </p>
 
 <p dir="ltr">
-  The current round of reports are <em>due</em> by 5:00 PM ET on February 14, 2022, with <em>final snapshots</em> due by 5:00 PM ET on February 28, 2022 unless your agency has negotiated a different date with OMB.
+  The current round of reports are <em>due</em> by 5:00 PM ET on August 15, 2022, with <em>final snapshots</em> due by 5:00 PM ET on August 31, 2022 unless your agency has negotiated a different date with OMB.
 </p>
 <ul>
 <li dir="ltr">
@@ -121,4 +121,4 @@ If your agency has not received login information, and you wish to submit a repo
   </div>
 </div>
 
-**Reviewed/Updated**: January 2022
+**Reviewed/Updated**: May 2022

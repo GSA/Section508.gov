@@ -9,7 +9,7 @@ created: 1527569242
 
 To ensure that any technology your agency buys or builds will be accessible, you must determine which of the [Revised 508 Standards][1] apply to your Federal IT procurement and development project. (Note, this is the third and final step in [determining 508 standards and exceptions][2].)
 
-Identify which Standards apply to each ICT item:
+Identify which Standards apply to each [information and communication technology](https://www.section508.gov/content/glossary/#ict) (ICT) item:
 
   * Select the type of ICT, then answer the questions
   * If your ICT item falls under a single category:
@@ -190,7 +190,7 @@ See the other steps in this process:
 
 Contact your agency’s [Section 508 Coordinator][9] or email us at <section.508@gsa.gov> with questions.
 
-**Updated/Reviewed**: May 2018
+**Updated/Reviewed**: May 2022
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions

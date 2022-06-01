@@ -35,8 +35,7 @@ If your agency doesn't have a designated Section 508 PM, contact your agency CIO
 [Department of Veterans Affairs][16]  
 [Environmental Protection Agency][17]  
 [General Services Administration][18]  
-[National Aeronautics and&nbsp;Space Administration][19]  
-[Goddard Space Flight Center][19a]  
+[National Aeronautics and Space Administration][19]  
 [National Science Foundation][20]  
 [Nuclear Regulatory Commission][21]  
 [Office of Personnel Management][22]  
@@ -177,7 +176,7 @@ Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>
 DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
-Helpdesk - <508compliance@dla.mil>
+DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 VACANT
 ### Defense Security Cooperation Agency (DSCA)
@@ -185,7 +184,7 @@ David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
 Yvette Jacks - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
 Christine Durose (BACKUP) - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
-Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
+DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 Robert (Rob) Bleck - 571-616-4080 - <robert.r.bleck.civ@mail.mil>  
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
@@ -204,7 +203,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** - Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** - Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command** - Arnetta White - 252-723-4083 - <arnetta.white@us.navy.mil>
+  * **Naval Air Systems Command** - Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
   * **Navy Reserve Forces Command** - Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>
   * **Office of Naval Research** - VACANT
   * **Space and Naval Information Warfare Systems Command** - Tyler McLean - 619-810-7821 - <tyler.mclean@navy.mil>
@@ -229,13 +228,12 @@ Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 ----------------------------------------------------
 ## <span id="usdoen" ></span>Department of Energy
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
-Denise Hill (BACKUP)  
 Sandra Logan (BACKUP)  
 
 ----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services
 ### Department-wide
-Kate Maynor Sweeney - 202-692-4622 - <kate.Maynor@hhs.gov>
+Kate Maynor Sweeney - <kate.Maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
@@ -248,14 +246,14 @@ Ann S. Turner – 410-786-2184 - <ann.turner@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
 Rita Harrison - 240-549-2275 - <rita.harrison@fda.hhs.gov>
 ### Health Resources and Services Administration (HRSA)
-Lauren Taylor - 301-443-4726 - <itaylor1@hrsa.gov>  
+Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>  
 Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
 Darren Buchanan - 301-443-3061 - <darren.buchanan@ihs.gov>
 ### National Institutes of Health (NIH)
 VACANT
 ### Office of the Secretary Division
-Cammie Truesdell - 202-836-2793 - <cammie.truesdell@hhs.gov>
+Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
@@ -349,7 +347,6 @@ Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice
 ### Department-wide
-Melody Braswell - 202-598-0204 - <melody.braswell2@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
 ### Antitrust Division
 Geraldo Despain - <gerardo.despian@usdoj.gov>  
@@ -417,7 +414,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## Department of Transportation
 ### Department-wide
-VACANT
+Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
@@ -541,9 +538,14 @@ Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
 Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
 VACANT
+### Federal Mediation and Conciliation Service (FMCS)  
+Cristina Wheeler - 202-606-8140  
+Douglas Jones (BACKUP) - 202-606-5483  
+Heather Brown (BACKUP) - 202-606-5462  
+FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
 Theodosia Villatoro-Sorto - 202-360-131 - <tvillatoro-sorto@fmshrc.gov>  
-Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>
+Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 Kristin L. Bishop - 202-736-5628 - <kristin.l.bishop@frb.gov>
@@ -617,7 +619,7 @@ Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
 ### U.S. International Trade Commission (USITC)
 Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
-VACANT
+Nadereh Nasir - <Nadereh.Nasir@usps.gov>  
 
 <div>
   <p>
@@ -646,7 +648,6 @@ VACANT
  [17]: #usepa "Go to Environmental Protection Agency"
  [18]: #usgsa "Go to General Services Administration"
  [19]: #usnasa "Go to National Aeronautics & Space Administration"
- [19a]: #usgsfc "Go to Goddard Space Flight Center"
  [20]: #usnsf "Go to National Science Foundation"
  [21]: #usnrc "Go to Nuclear Regulatory Commission"
  [22]: #usopm "Go to Office of Personnel Management"

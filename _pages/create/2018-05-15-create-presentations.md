@@ -56,12 +56,13 @@ The resources in this section were developed by federal agencies and shared here
 
 ## Related Resources
 
-  * [Create Accessible Digital Products][8] 
-  * [How to Make Presentations Accessible to All][9] - Guidance from the World Wide Web Consortium (W3C)
-  * [Alternate Text For Images][12] (PDF, July 2011) - Developed by SSA
+  * [Create Accessible Digital Products][8] -- Section508.gov
+  * [PowerPoint Accessibility][15] -- WebAIM
+  * [How to Make Presentations Accessible to All][9] -- W3C WAI
+  * [Alternate Text For Images][12] (PDF, July 2011) -- Developed by SSA
   * Review [WebAIM Alternative Text][13] for appropriate use of alternative text.
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
-  * [Microsoft Accessibility][11] 
+  * [Microsoft Accessibility][11] -- Microsoft.com
 
 <div class="border-base radius-lg border-1px">
   <div class="padding-1">
@@ -86,4 +87,6 @@ The resources in this section were developed by federal agencies and shared here
  [11]: https://www.microsoft.com/en-us/accessibility/default.aspx
  [12]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [13]: https://webaim.org/techniques/alttext/
- [14]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
+ [14]: https://www.access-board.gov/ict/
+ [15]: https://webaim.org/techniques/powerpoint/
+ 

@@ -5,7 +5,7 @@ start-date: #only fill in start date if the events spans multiple days
 end-date: Tuesday, Mar 29 2022 14:30 #otherwise use end-date
 image:
 image-alt: 
-permalink: /event/best-practices-webinar-nov2021/
+permalink: /event/best-practices-webinar-mar2022/
 description: Technical questions can arise in applying the Section 508 Standards to the various types of information and communication technologies (ICT) that they cover in the federal sector. In this Section 508 Best Practices webinar, Section 508 Specialists at the U.S. Access Board and the General Services Administration (GSA) will provide answers to common questions about the 508 Standards.
 ---
 
