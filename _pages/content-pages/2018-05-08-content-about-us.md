@@ -9,11 +9,11 @@ redirect_from:
 - content/about-us/
 ---
 
-The U.S. General Services Administration (GSA) Office of Government-wide Policy (OGP) is tasked under [Section 508 of the Rehabilitation Act][3] to provide technical assistance to help federal agencies comply with these requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities. 
+The U.S. General Services Administration (GSA) is tasked under [Section 508 of the Rehabilitation Act][3] to provide technical assistance to help federal agencies comply with Section 508 requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities. 
 
 ## About the Team
 
-In order to meet this directive, OGP has created the Government-wide IT Accessibility Program. This team focuses on providing support to federal agencies in the following primary areas:
+GSA's Office of Government-wide Policy (OGP) created the Government-wide IT Accessibility Program to focus on providing support to federal agencies in the following primary areas:
 
 * Policy & Program Management 
 * Accessible Acquisition 
