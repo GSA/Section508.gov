@@ -339,7 +339,7 @@ Kathryn Jonell - 2025130877 - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ### U.S. Fish and Wildlife Service (FWS)
-Lorraine Miller - 703-358-2166 - <lorraine_miller@fws.gov>
+Keon Sheffield - 303-275-2319 - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
 Edward Olexa - <section508@usgs.gov>  
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
