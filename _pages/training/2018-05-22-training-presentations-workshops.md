@@ -13,6 +13,7 @@ June 14, 2022 - Continuing our theme, “Be The Change In Accessibility” focus
 
 * [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
 * [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)
+* [Captioned Text - JUN 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-JUN2022%29.docx)
 
 April 19, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where our participants heard from four speakers.
 
