@@ -9,7 +9,12 @@ created: 1527019072
 
 ## 2022
 ### IT Accessibility Community Meetings
-April 19, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where you’ll hear from four speakers.
+June 14, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
+
+* [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
+* [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)
+
+April 19, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where our participants heard from four speakers.
 
 * [SRT Data Process - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/SRT+Data+Process+-+ITACM+APR+2022.pptx)
 * [Market Research - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/Market+Research+-+ITACM+APR+2022.pptx)
