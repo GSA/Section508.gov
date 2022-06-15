@@ -3,7 +3,7 @@ layout: base
 permalink: /art/process
 title: Accessibility Requirements Tool
 ---
-<link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+<!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
 <style>
 #dialog label, #dialog input { display:block; }
@@ -36,7 +36,7 @@ title: Accessibility Requirements Tool
     <div id="tabs-1"><p></p>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="grid-container pgov margin-top-9">
   <div class="grid-row grid-gap" id="tab-test">
