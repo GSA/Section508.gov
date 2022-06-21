@@ -1,0 +1,64 @@
+---
+layout: base
+---
+
+<div id="main-content" class="usa-layout-docs usa-section">
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <main class="usa-layout-docs__main">
+        {% if page.image_url %}
+        <div>
+          <img src="{{page.image_url}}" class="circle-card border-05 border-base-lighter shadow-2" alt="Photo: {{ page.display_name }}">
+        </div>
+        {% endif %}
+        <h1>{{ page.display_name }}</h1>
+        {% if page.affiliation_short or page.location %}
+          <p class="margin-top-05 margin-bottom-05">
+            {% if page.affiliation_short %}
+              {{ page.affiliation_short }}
+            {% endif %}
+            {% if page.affiliation_short and page.location %}
+               | 
+            {% endif %}
+            {% if page.location %}
+              {{ page.location }}
+            {% endif %}
+          </p>
+        {% endif %}
+        {% if page.email %}
+          <p class="margin-top-05 margin-bottom-05"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+        {% endif %}
+        <div class="usa-graphic-list">
+          {{ content }}
+        </div>
+        <h2>{{ page.display_name }}'s Section508.gov Contributions</h2>
+        <ul class="usa-card-group" style="list-style-type:none">
+        {% assign this_contributor = page.contributor_id %}
+        {% for pages in site.pages %}
+          {% if pages.contributors contains this_contributor %}
+            
+              <li class="usa-card tablet:grid-col-4">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <h3 class="usa-card__heading text-primary-dark">{{ pages.title}}</h3>
+                  </div>
+                  <div class="usa-card__body">
+                    <p>
+                      {% if pages.description %}
+                        {{ pages.description | markdownify }}
+                      {% endif %}
+                    </p>
+                  </div>
+                  <div class="usa-card__footer">
+                    <a href="{{ pages.url }}" class="usa-button" aria-label="View Page: {{ pages.title }}">View Page</a>
+                  </div>
+                </div>
+              </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </main>
+    </div>
+  </div>
+</div>

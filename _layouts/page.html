@@ -20,12 +20,18 @@ This template is for a single page that does not have a date associated with it.
         <div class="usa-graphic-list">
             {{ content }}
         </div>
+        {% if page.contributors %}
+        {% include contributors.html%}  
+        {% endif %}  
       </main>
       {% else %}
       <main class="usa-layout-docs__main">
         <div class="usa-graphic-list">
           {{ content }}
         </div>
+        {% if page.contributors %}
+        {% include contributors.html%}  
+        {% endif %}
       </main>
       {% endif %}
     </div>
