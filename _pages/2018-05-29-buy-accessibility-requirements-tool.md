@@ -5,6 +5,9 @@ title: 'Accessibility Requirements Tool (ART)'
 created: 1527569449
 layout: wide
 sidenav: false
+redirect_from:
+- /art/home/
+- /buy/art/home/
 ---
 
 <a href="{{site.baseurl}}/art/" class="usa-button usa-button--accent-warm">Start Using ART</a>

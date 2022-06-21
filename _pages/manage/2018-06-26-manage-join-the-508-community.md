@@ -38,7 +38,7 @@ created: 1530040376
 </p>
 
 <p dir="ltr">
-  Community Managers: Yvette Gibson, Avis Ryan, John Sullivan
+  Community Managers: Yvette Gibson, Avis Ryan
 </p>
 
 <p dir="ltr">
