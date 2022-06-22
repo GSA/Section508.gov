@@ -5,7 +5,7 @@
     {% for contributors in site.contributors %}
       {% if page_contributors contains contributors.contributor_id %}
         <li>
-            <a href="{{ contributors.url }}"> {{ contributors.display_name }}</a>
+            <a href="{{ site.baseurl }}{{ contributors.url }}"> {{ contributors.display_name }}</a>
             {% if contributors.affiliation_short %}
                 | {{ contributors.affiliation_short }}
             {% endif %}
