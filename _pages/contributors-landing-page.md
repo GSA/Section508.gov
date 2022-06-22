@@ -6,7 +6,7 @@ permalink: contributors/
 title: Section508.gov Content Contribution
 ---
 <h2>Section508.gov Content Contribution</h2>
-<p>Much of the content on this site is developed in collaboration with other agencies and/or directly contributed by members of the federal IT accessibility community. Our growning list of contributors is displayed below</p>
+<p>Much of the content on this site is developed in collaboration with other agencies and/or directly contributed by members of the federal IT accessibility community. Our growning list of contributors is displayed below.</p>
 <p>We welcome any feedback and suggestions for improvement. We also welcome suggestions for new content and updates to existing content. If you have suggestions, or if you are interested in contributing content, please email us at <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a>.</p>
 <h3>Contributors</h3>
 <div class="grid-container margin-y-2 padding-x-0">
