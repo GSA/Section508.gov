@@ -15,7 +15,7 @@ layout: base
               <a href="{{site.baseurl}}/contributors/" class="usa-breadcrumb__link">Contributors</a>
             </li>
             <li class="usa-breadcrumb__list-item">
-              <a href="{{ page.url }}" class="usa-breadcrumb__link">{{ page.display_name }}</a>
+              <a href="{{ site.baseurl }}{{ page.url }}" class="usa-breadcrumb__link">{{ page.display_name }}</a>
             </li>
           </ol>
         </nav>
@@ -88,7 +88,7 @@ layout: base
                       {%- assign collaborators = pages.contributors -%}
                       {% for contributors in site.contributors %}
                         {% if collaborators contains contributors.contributor_id %}
-                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border border-base-lighter shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ contributors.url }}" class="text-no-underline text-primary-dark">{{ contributors.display_name }}</a></div>
+                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border border-base-lighter shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark">{{ contributors.display_name }}</a></div>
                         {% endif %}
                       {% endfor %}
                     </div>
