@@ -132,7 +132,7 @@ collections:
     future: true
   contributors:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name:output_ext
 
 permalink: pretty
 

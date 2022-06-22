@@ -16,7 +16,7 @@ title: Section508.gov Content Contribution
             <img class="circle-8" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}">
         </div>
         <div class="grid-col-9 padding-y-1">
-            <a href="{{ contributors.url }}">{{ contributors.display_name }}</a><br>
+            <a href="{{ contributors.url }}{{ contributors.output_ext }}">{{ contributors.display_name }}</a><br>
             {% if contributors.affiliation_short or contributors.location %}
                     {% if contributors.affiliation_short %}
                     {{ contributors.affiliation_short }}
