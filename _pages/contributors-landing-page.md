@@ -11,15 +11,22 @@ title: Section508.gov Content Contribution
 <h3>Contributors</h3>
 <div class="grid-container margin-y-2 padding-x-0">
 {% for contributors in site.contributors %}
-    <div class="grid-row flex-wrap margin-y-1 grid-gap-sm border-bottom-2px border-base-lighter">
+    <div class="grid-row flex-wrap margin-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
         <div class="grid-col-auto">
-            <img class="circle-8" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}">
+            <img class="circle-8" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
         </div>
         <div class="grid-col-9 padding-y-1">
-            <a href="{{ site.baseurl }}{{ contributors.url }}{{ contributors.output_ext }}">{{ contributors.display_name }}</a><br>
-            {% if contributors.affiliation_short or contributors.location %}
-                    {% if contributors.affiliation_short %}
-                    {{ contributors.affiliation_short }}
+            <a href="{{ site.baseurl }}{{ contributors.url }}{{ contributors.output_ext }}"><strong>{{ contributors.display_name }}</strong></a><br>
+            {% if contributors.affiliation_long or contributors.affiliation_short or contributors.location %}
+                    {% if contributors.affiliation_long %}
+                        {{ contributors.affiliation_long }}
+                    {% endif %}
+                    {% if contributors.affiliation_long and contributors.affiliation_short %}
+                        &lpar;{{ contributors.affiliation_short }}&rpar;
+                    {% else %}    
+                        {% if contributors.affiliation_short %}
+                            {{ contributors.affiliation_short }}
+                        {% endif %}
                     {% endif %}
                     {% if contributors.affiliation_short and contributors.location %}
                     | 

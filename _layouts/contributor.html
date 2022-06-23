@@ -27,17 +27,26 @@ layout: base
         {% endif %}
         <h1>{{ page.display_name }}</h1>
         {% if page.affiliation_short or page.location %}
-          <p class="margin-top-05 margin-bottom-05">
-            {% if page.affiliation_short %}
-              {{ page.affiliation_short }}
+          <p class="margin-top-05 margin-bottom-05"><strong>
+            {% if page.affiliation_long or page.affiliation_short or page.location %}
+                    {% if page.affiliation_long %}
+                        {{ page.affiliation_long }}
+                    {% endif %}
+                    {% if page.affiliation_long and page.affiliation_short %}
+                        &lpar;{{ page.affiliation_short }}&rpar;
+                    {% else %}    
+                        {% if page.affiliation_short %}
+                            {{ page.affiliation_short }}
+                        {% endif %}
+                    {% endif %}
+                    {% if page.affiliation_short and page.location %}
+                    | 
+                    {% endif %}
+                    {% if page.location %}
+                    {{ page.location }}
+                    {% endif %}
             {% endif %}
-            {% if page.affiliation_short and page.location %}
-               | 
-            {% endif %}
-            {% if page.location %}
-              {{ page.location }}
-            {% endif %}
-          </p>
+          </strong></p>
         {% endif %}
         {% if page.email %}
           <p class="margin-top-05 margin-bottom-05"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
@@ -45,7 +54,7 @@ layout: base
         <div class="usa-graphic-list">
           {{ content }}
         </div>
-        <h2>{{ page.display_name }}'s Section508.gov Contributions</h2>
+        <h2>{{ page.first_name }}'s Section508.gov Contributions</h2>
         <ul class="usa-card-group" style="list-style-type:none">
         {% assign this_contributor = page.contributor_id %}
         {% for pages in site.pages %}
@@ -88,7 +97,7 @@ layout: base
                       {%- assign collaborators = pages.contributors -%}
                       {% for contributors in site.contributors %}
                         {% if collaborators contains contributors.contributor_id %}
-                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border border-base-lighter shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark">{{ contributors.display_name }}</a></div>
+                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border border-base-lighter shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
                         {% endif %}
                       {% endfor %}
                     </div>
