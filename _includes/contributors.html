@@ -4,8 +4,9 @@
     {% assign page_contributors = page.contributors %}
     {% for contributors in site.contributors %}
       {% if page_contributors contains contributors.contributor_id %}
-        <li>
-            <a href="{{ site.baseurl }}{{ contributors.url }}"> {{ contributors.display_name }}</a>
+        <li class="margin-bottom-1">
+            <img src="{{ contributors.image_url }}" class="circle-6 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
+            <a href="{{ site.baseurl }}{{ contributors.url }}" class="margin-left-1"> {{ contributors.display_name }}</a>
             {% if contributors.affiliation_short %}
                 | {{ contributors.affiliation_short }}
             {% endif %}
