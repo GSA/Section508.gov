@@ -13,7 +13,7 @@ title: Section508.gov Content Contribution
 {% for contributors in site.contributors %}
     <div class="grid-row flex-wrap margin-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
         <div class="grid-col-auto">
-            <img class="circle-8" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
+            <img class="circle-8 border-05 border-base-light shadow-1" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
         </div>
         <div class="grid-col-9 padding-y-1">
             <a href="{{ site.baseurl }}{{ contributors.url }}{{ contributors.output_ext }}"><strong>{{ contributors.display_name }}</strong></a><br>

@@ -22,7 +22,7 @@ layout: base
 
         {% if page.image_url %}
         <div>
-          <img src="{{page.image_url}}" class="circle-card border-05 border-base-lighter shadow-2" alt="Photo: {{ page.display_name }}">
+          <img src="{{page.image_url}}" class="circle-card border-05 border-base-light shadow-3" alt="Photo: {{ page.display_name }}">
         </div>
         {% endif %}
         <h1>{{ page.display_name }}</h1>
@@ -92,12 +92,12 @@ layout: base
                       {% endif %}
                     </p>
                   </div>
-                  <div class="grid-container padding-x-2 padding-y-1">
+                  <div class="padding-x-2 padding-y-1">
                     <div class="grid-row flex-wrap grid-gap-1">
                       {%- assign collaborators = pages.contributors -%}
                       {% for contributors in site.contributors %}
                         {% if collaborators contains contributors.contributor_id %}
-                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border border-base-lighter shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
+                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
                         {% endif %}
                       {% endfor %}
                     </div>
