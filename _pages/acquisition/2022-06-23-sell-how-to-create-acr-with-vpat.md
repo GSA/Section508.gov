@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: sell/how-to-create-acr-with-vpat
+permalink: sell/how-to-create-acr-with-vpat/
 type: acquisition
 title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)'
 created: 1527569659
@@ -94,26 +94,88 @@ Below is an example of what these three columns look like for the Revised Sectio
 
 
 ## Step 6: Final checklist to make sure your ACR is complete
-* **Use the correct VPAT<sup>&trade;</sup> version -** Make sure you’re using a current version of the VPAT<sup>&trade;</sup> to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT<sup>&trade;</sup> is 2.4. Any VPAT<sup>&trade;</sup> 2.x is acceptable. You may find the VPAT<sup>&trade;</sup> on the ITI website at the following link: https://www.itic.org/policy/accessibility/vpat.
-
-* **Exclude the first several pages of instructions -** Delete the instruction pages (up to the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”) from your completed ACR.
-
-* **Complete the information fields at the top of the ACR -** Make sure you complete all seven fields (shown in Step 2 above), including the product information, contact information, and evaluation methods.
-
-* **Complete the Success Criteria, Level A and Level AA tables (if applicable) -** If your product contains web-based content, electronic documents, software, or authoring tools, make sure you complete the Level A and Level AA tables.
-
-* **Complete the Chapter 3: Functional Performance Criteria table (if applicable) -** If your product does not contain any applicable standards from the Level A and AA tables, then complete the Chapter 3: Functional Performance Criteria table.
-
-* **Skip the Level AAA tables -** Section 508 does not require that your product be tested against the Level AAA Technical Standards. However, industry may provide this information to show a higher level of accessibility than required.
-
-* **Complete the tables under the Revised Section 508 Report section (if applicable) -** If your product contains hardware, software, or support documentation and services, be sure to complete the applicable Revised Section 508 table.
-
-* **Use the correct phrases to describe conformance levels -** Check to see if all phrases under conformance level match one of the following: Supports, Partially Supports, Does Not Support, Not Applicable.
-
-* **Complete the remarks column -** If the conformance level is either “Partially Supports” or “Does Not Support,” then be sure that you explain further in the respective remarks column.
-
-* **Ensure your ACR document is accessible -** Make sure to check your final ACR for accessibility and remediate as necessary.
-
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Use the correct VPAT<sup>&trade;</sup> version -</strong> Make sure you’re using a current version of the VPAT<sup>&trade;</sup> to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT<sup>&trade;</sup> is 2.4. Any VPAT<sup>&trade;</sup> 2.x is acceptable. You may find the VPAT<sup>&trade;</sup> on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Exclude the first several pages of instructions -</strong> Delete the instruction pages (up to the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”) from your completed ACR.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Complete the information fields at the top of the ACR -</strong> Make sure you complete all seven fields (shown in Step 2 above), including the product information, contact information, and evaluation methods.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Complete the Success Criteria, Level A and Level AA tables (if applicable) -</strong> If your product contains web-based content, electronic documents, software, or authoring tools, make sure you complete the Level A and Level AA tables.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Complete the Chapter 3: Functional Performance Criteria table (if applicable) -</strong> If your product does not contain any applicable standards from the Level A and AA tables, then complete the Chapter 3: Functional Performance Criteria table.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Skip the Level AAA tables -</strong> Section 508 does not require that your product be tested against the Level AAA Technical Standards. However, industry may provide this information to show a higher level of accessibility than required.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Complete the tables under the Revised Section 508 Report section (if applicable) -</strong> If your product contains hardware, software, or support documentation and services, be sure to complete the applicable Revised Section 508 table.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Use the correct phrases to describe conformance levels -</strong> Check to see if all phrases under conformance level match one of the following: Supports, Partially Supports, Does Not Support, Not Applicable.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Complete the remarks column -</strong> If the conformance level is either “Partially Supports” or “Does Not Support,” then be sure that you explain further in the respective remarks column.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/images/sprite.svg#check_circle"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Ensure your ACR document is accessible -</strong> Make sure to check your final ACR for accessibility and remediate as necessary.
+    </div>
+  </li>
+</ul>
 
 **Reviewed/Updated**:  July 2022
 
