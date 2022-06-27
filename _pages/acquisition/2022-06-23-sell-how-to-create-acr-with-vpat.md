@@ -15,11 +15,11 @@ Although there are other possible methods to complete an ACR, this part of the g
 
 ## Step 1: Download the VPAT<sup>&trade;</sup>
 <div class="grid-container padding-x-0">
-  <div class="grid-row">
+  <div class="grid-row grid-gap">
     <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
-    <div class="tablet:grid-col">
-        <div><img src="https://assets.section508.gov/files/vpat-snapshot.png" aria-labelledby="vpat_snapshot"></div>
-        <div class="font-mono-3xs margin-x-auto margin-y-1" id="vpat_snapshot" >Snapshot of ITI VPAT Homepage</div>
+    <div class="tablet:grid-col" style="text-align: center">
+        <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" aria-labelledby="vpat_snapshot" class="border-2px border-light shadow-2 padding-1"></div>
+        <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT Homepage</span></div>
     </div>
   </div>
 </div>
