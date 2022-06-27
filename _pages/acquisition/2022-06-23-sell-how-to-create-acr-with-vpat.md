@@ -13,15 +13,15 @@ The ACR is a representation of how the product meets the applicable Section 508 
 
 Although there are other possible methods to complete an ACR, this part of the guide will walk you through how to complete an ACR using the VPAT<sup>&trade;</sup>.
 
-## Step 1: Download the VPAT<sup>&trade;</sup> ##
-<div class="grid-container">
+## Step 1: Download the VPAT<sup>&trade;</sup>
+<div class="grid-container padding-x-0">
   <div class="grid-row">
-    <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the [ITI website][2]. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
-    <div class="tablet:grid-col"><img href="https://assets.section508.gov/files/vpat-snapshot.png" alt="Snapshot of ITI VPAT Homepage"></div>
+    <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
+    <div class="tablet:grid-col"><img src="https://assets.section508.gov/files/vpat-snapshot.png" alt="Snapshot of ITI VPAT Homepage"></div>
   </div>
 </div>
 
-## Step 2: Complete the Accessibility Conformance Report (ACR) Title Page ##
+## Step 2: Complete the Accessibility Conformance Report (ACR) Title Page
 The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
 
 * Company name
@@ -35,11 +35,11 @@ The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please rea
 
 Find the page with the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”. As noted in the ITI VPAT<sup>&trade;</sup> training videos, the following information must be provided:
 
-## Step 3: Understand the three columns of the VPAT<sup>&trade;</sup> tables ##
-### First column: “Criteria”###
+## Step 3: Understand the three columns of the VPAT<sup>&trade;</sup> tables
+### First column: “Criteria”
 The first column of the tables states the criteria to be covered by that particular row.
 
-### Second column: “Conformance Level” ###
+### Second column: “Conformance Level”
 The second column of each table is labeled “Conformance Level.” We will cover the nuances between different tables below.
 
 For the category or categories which encompass the product, you must use one of four phrases—supports, partially supports, does not support, not applicable— to describe the level of conformance.
@@ -50,7 +50,7 @@ For the category or categories which encompass the product, you must use one of 
 
 **Note: The “not evaluated” phrase may only be used for the Level AAA table since this is the only success criteria table that is not required to be completed.**
 
-### Third column: “Remarks and Explanations” ###
+### Third column: “Remarks and Explanations”
 The third column is reserved for remarks, which are required if the product either **partially supports** or **does not support** the guideline. If the product **supports** a particular guideline, then remarks are encouraged, but not required. 
 
 ## Step 4: Complete Table 1: Success Criteria Level A and Table 2: Success Criteria Level AA, if applicable ##
@@ -69,7 +69,7 @@ Below is an example of what these three columns look like for the WCAG table:
 
 
 
-## Step 5: Determine the applicability of the Revised Section 508 Technical Standards to your product##
+## Step 5: Determine the applicability of the Revised Section 508 Technical Standards to your product
 There are four Revised Section 508 tables, labeled as Chapter 3 (Functional Performance Criteria), Chapter 4 (Hardware), Chapter 5 (Software), and Chapter 6 (Support Documentation and Services). Complete the applicable tables.
 
 If there are functions in your product not addressed by Chapters 4 or 5, then your product needs to conform to the criteria in Chapter 3: Functional Performance Criteria. Answer the following questions in order to determine which chapters to complete:
@@ -90,7 +90,7 @@ Below is an example of what these three columns look like for the Revised Sectio
 
 
 
-## Step 6: Final checklist to make sure your ACR is complete ##
+## Step 6: Final checklist to make sure your ACR is complete
 * **Use the correct VPAT<sup>&trade;</sup> version -** Make sure you’re using a current version of the VPAT<sup>&trade;</sup> to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT<sup>&trade;</sup> is 2.4. Any VPAT<sup>&trade;</sup> 2.x is acceptable. You may find the VPAT<sup>&trade;</sup> on the ITI website at the following link: https://www.itic.org/policy/accessibility/vpat.
 
 * **Exclude the first several pages of instructions -** Delete the instruction pages (up to the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”) from your completed ACR.
