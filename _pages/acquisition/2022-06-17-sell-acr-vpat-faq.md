@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: sell/acr-vpat-faq
+permalink: sell/acr-vpat-faq/
 type: acquisition
 title: 'Accessibility Conformance Report/Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>) Frequently Asked Questions (FAQ)'
 created: 1527569659
