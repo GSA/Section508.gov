@@ -6,7 +6,7 @@ type: create
 title: 'Create Accessible Meetings'
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
 # For contributors, list contributor-id for each contributor
-contributors: horton, sirk, haileselassie
+contributors: horton, sirk, haileselassie, NASA, GSA
 ---
 <p id="top">In response to a global health epidemic, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings and conference calls to virtual meetings where the audience participates remotely through voice and video from their homes. As federal employees return to their offices, meetings are expected to be a hybrid of in-person and remote participants, accessibility can and should be seamlessly integrated into your meeting.&nbsp;</p>
 
