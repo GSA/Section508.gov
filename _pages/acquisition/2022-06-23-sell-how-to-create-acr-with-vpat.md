@@ -14,10 +14,12 @@ The ACR is a representation of how the product meets the applicable Section 508 
 Although there are other possible methods to complete an ACR, this part of the guide will walk you through how to complete an ACR using the VPAT<sup>&trade;</sup>.
 
 ## Step 1: Download the VPAT<sup>&trade;</sup> ##
-The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the [ITI website][2].
-If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).
-
-![Snapshot of ITI VPAT homepage](https://assets.section508.gov/files/vpat-snapshot.png)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the [ITI website][2]. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
+    <div class="tablet:grid-col"><img href="https://assets.section508.gov/files/vpat-snapshot.png" alt="Snapshot of ITI VPAT Homepage"></div>
+  </div>
+</div>
 
 ## Step 2: Complete the Accessibility Conformance Report (ACR) Title Page ##
 The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
