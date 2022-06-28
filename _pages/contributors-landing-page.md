@@ -12,15 +12,15 @@ title: Section508.gov Content Contribution
     <div class="margin-top-2 margin-bottom-neg-05">
         <ul class="usa-button-group usa-button-group--segmented">
             <li class="usa-button-group__item">
-                <button class="usa-button">Contributors</button>
+                <button id="btn-contrib" class="contribs-button usa-button" aria-controls="contrib-grid" aria-expanded="true">Contributors</button>
             </li>
             <li class="usa-button-group__item">
-                <button class="usa-button usa-button--outline">Contributions by Agency</button>
+                <button id="btn-agency" class="contribs-button contribs-button-click usa-button usa-button--outline" aria-controls="contrib-grid" aria-expanded="false">Contributions by Agency</button>
             </li>
         </ul>
     </div>
-    <div class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
-        <div id="contrib-tab" class="">
+    <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
+        <div id="contributor-tab" class="contribs-tab">
             {% for contributors in site.contributors %}
                 <div class="grid-row flex-wrap margin-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
                     <div class="grid-col-auto">
@@ -50,7 +50,7 @@ title: Section508.gov Content Contribution
                 </div>
             {% endfor %}
         </div>
-        <div id="agency-tab" class="">
+        <div id="agency-tab" class="contribs-tab display-none">
             {% assign str_agencies = "" %}
             {% assign str_agencies_short = "" %}
             {% for contributors in site.contributors %}
@@ -70,23 +70,40 @@ title: Section508.gov Content Contribution
             {% endfor %}
             {% assign agencies = str_agencies | split: "," | uniq %}
             {% assign agencies_short = str_agencies_short | split: "," | uniq %}
-            {% assign agencies = agencies %}
+            {% assign var = 0 %}
             {% for item in agencies %}
                 <div class="grid-row">
-                    <h3>{{ item }}</h3>
+                    <h3 class="margin-bottom-0 margin-top-1">{{ item }}</h3>
                 </div>
                 <div class="grid-row">
-                    <ul>
-                    {% for page in site.pages %}
-                        {% assign contribs = page.contributors | downcase %}
-                        {% assign this_agency = "nasa" %}
-                        {% if contribs contains this_agency %}
-                            <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> {{ agencies_short[0] }}</li>
-                        {% endif %}
-                    {% endfor %}
+                    <ul class="margin-top-0 margin-bottom-1">
+                        {% assign this_agency = agencies_short[var] | downcase %}
+                        {% for page in site.pages %}
+                            {% assign contribs = page.contributors | downcase %}
+                            {% if contribs contains this_agency %}
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                        {% assign var = var | plus: 1 %}
                     </ul>
                 </div>
             {% endfor %}
         </div>
     </div>
 </div>
+<script>
+    $("button.contribs-button").click(function() {
+        $(".contribs-button").toggleClass("usa-button--outline");
+        $(".contribs-tab").toggleClass("display-none");
+        $(".contribs-button").each(function(){
+            var x = $(this).attr("aria-expanded");
+            if (x == "true")
+            {
+            x = "false"
+            } else {
+            x = "true"
+            }
+            $(this).attr("aria-expanded", x);
+        });
+    });
+</script>
