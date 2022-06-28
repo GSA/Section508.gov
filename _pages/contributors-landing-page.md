@@ -12,15 +12,15 @@ title: Section508.gov Content Contribution
     <div class="margin-top-2 margin-bottom-neg-05">
         <ul class="usa-button-group usa-button-group--segmented">
             <li class="usa-button-group__item">
-                <button id="btn-contrib" class="contribs-button usa-button" aria-controls="contrib-grid" aria-expanded="true">Contributors</button>
+                <button id="btn-contrib" class="contribs-button usa-button" aria-controls="contributor-tab" aria-expanded="true">Contributors</button>
             </li>
             <li class="usa-button-group__item">
-                <button id="btn-agency" class="contribs-button contribs-button-click usa-button usa-button--outline" aria-controls="contrib-grid" aria-expanded="false">Contributions by Agency</button>
+                <button id="btn-agency" class="contribs-button contribs-button-click usa-button usa-button--outline" aria-controls="agency-tab" aria-expanded="false">Contributions by Agency</button>
             </li>
         </ul>
     </div>
     <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
-        <div id="contributor-tab" class="contribs-tab">
+        <div id="contributor-tab" class="contribs-tab" aria-label="Contributors Tab">
             {% for contributors in site.contributors %}
                 <div class="grid-row flex-wrap margin-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
                     <div class="grid-col-auto">
@@ -50,7 +50,7 @@ title: Section508.gov Content Contribution
                 </div>
             {% endfor %}
         </div>
-        <div id="agency-tab" class="contribs-tab display-none">
+        <div id="agency-tab" class="contribs-tab display-none" aria-label="Agency Tab">
             {% assign str_agencies = "" %}
             {% assign str_agencies_short = "" %}
             {% for contributors in site.contributors %}
@@ -93,17 +93,25 @@ title: Section508.gov Content Contribution
 </div>
 <script>
     $("button.contribs-button").click(function() {
-        $(".contribs-button").toggleClass("usa-button--outline");
-        $(".contribs-tab").toggleClass("display-none");
-        $(".contribs-button").each(function(){
-            var x = $(this).attr("aria-expanded");
-            if (x == "true")
+        var y = $(this).attr("id");
+        var z = $(this).attr("aria-controls");
+        $("button.contribs-button").each(function(){
+            if ($(this).attr("id") == y)
             {
-            x = "false"
+                $(this).removeClass("usa-button--outline");
+                $(this).attr("aria-expanded", "true");
             } else {
-            x = "true"
+                $(this).addClass("usa-button--outline");
+                $(this).attr("aria-expanded", "false");
             }
-            $(this).attr("aria-expanded", x);
+        });
+        $(".contribs-tab").each(function(){
+            if ($(this).attr("id") == z)
+            {
+                $(this).removeClass("display-none");
+            } else {
+                $(this).addClass("display-none");
+            }
         });
     });
 </script>
