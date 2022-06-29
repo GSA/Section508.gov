@@ -1,11 +1,12 @@
 --- 
-layout: wide
+layout: base
 sidenav: false
 type: page
 permalink: contributors/
 title: Section508.gov Content Contribution
 ---
-<h2>Section508.gov Content Contribution</h2>
+{% include banner.html %}
+<div id="main-content" class="usa-layout-docs usa-section grid-container">
 <p>This site includes content developed in collaboration with other agencies and/or content that is directly contributed by members of the federal IT accessibility community. Our growning list of contributors is displayed below.</p>
 <p>We welcome any feedback and suggestions for improvement. We also welcome suggestions for new content and updates to existing content. If you have suggestions, or if you are interested in contributing content, please email us at <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a>.</p>
 <div>
@@ -22,7 +23,7 @@ title: Section508.gov Content Contribution
     <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
         <div id="contributor-tab" class="contribs-tab" aria-label="Contributors Tab">
             {% for contributors in site.contributors %}
-                <div class="grid-row flex-wrap margin-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
+                <div class="grid-row flex-wrap margin-y-1 padding-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
                     <div class="grid-col-auto">
                         <img class="circle-8 border-05 border-base-light shadow-1" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
                     </div>
@@ -73,10 +74,10 @@ title: Section508.gov Content Contribution
             {% assign var = 0 %}
             {% for item in agencies %}
                 <div class="grid-row">
-                    <h3 class="margin-bottom-0 margin-top-1">{{ item }}</h3>
+                    <h3 class="margin-bottom-0 margin-top-3">{{ item }}</h3>
                 </div>
                 <div class="grid-row">
-                    <ul class="margin-top-0 margin-bottom-1">
+                    <ul class="margin-top-0 margin-bottom-3">
                         {% assign this_agency = agencies_short[var] | downcase %}
                         {% for page in site.pages %}
                             {% assign contribs = page.contributors | downcase %}
@@ -90,6 +91,7 @@ title: Section508.gov Content Contribution
             {% endfor %}
         </div>
     </div>
+</div>
 </div>
 <script>
     $("button.contribs-button").click(function() {
