@@ -7,7 +7,7 @@ title: 'How to Create an Accessibility Conformance Report Using A Voluntary Prod
 created: 1527569659
 ---
 
-This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
+This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
 
 The ACR is a representation of how the product meets the applicable Section 508 Technical Standards. The product owner/developer must first test the product against those standards in order to complete an ACR. Currently, the most common way an ACR is completed is by using the (VPAT<sup>&trade;</sup> template created by the IT Industry Council (ITI).
 
@@ -184,4 +184,5 @@ Below is an example of what these three columns look like for the Revised Sectio
  [3]: {{site.baseurl}}/sell
  [4]: {{site.baseurl}}/buy/request-accessibility-information
  [5]: {{site.baseurl}}/acquisition
+ [6]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
  

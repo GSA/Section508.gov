@@ -7,7 +7,7 @@ title: 'Accessibility Conformance Report/Voluntary Product Accessibility Templat
 created: 1527569659
 ---
 
-Below is a list of frequently asked questions questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>).
+Below is a list of frequently asked questions questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This infomation was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][5].
 
 ### How do I determine if my product is compliant with Section 508?
 Industry is expected to test its products against the applicable Section 508 Technical Standards and then report which standards the product supports, partially supports, or does not support. This is so that the agencies can consider accessibility when purchasing the product. This information is provided by industry in the form of an Accessibility Conformance Report (ACR). If the product supports all of the applicable Section 508 Technical Standards, the product is considered compliant with Section 508.
@@ -54,4 +54,5 @@ For electronic support documentation, complete the Revised Section 508, Chapter 
  [2]: https://www.itic.org/policy/accessibility/vpat
  [3]: {{site.baseurl}}/sell
  [4]: {{site.baseurl}}/buy/request-accessibility-information
+ [5]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
  
