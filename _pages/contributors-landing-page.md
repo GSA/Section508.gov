@@ -22,72 +22,55 @@ title: Section508.gov Content Contribution
     </div>
     <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
         <div id="contributor-tab" class="contribs-tab" aria-label="Contributors Tab">
-            {% for contributors in site.contributors %}
-                <div class="grid-row flex-wrap margin-y-1 padding-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
-                    <div class="grid-col-auto">
-                        <img class="circle-8 border-05 border-base-light shadow-1" src="{{ contributors.image_url }}" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
-                    </div>
-                    <div class="grid-col-9 padding-y-1">
-                        <a href="{{ site.baseurl }}{{ contributors.url }}{{ contributors.output_ext }}"><strong>{{ contributors.display_name }}</strong></a><br>
-                        {% if contributors.affiliation_long or contributors.affiliation_short or contributors.location %}
-                                {% if contributors.affiliation_long %}
-                                    {{ contributors.affiliation_long }}
+            {% for contributor in site.contributors %}
+                {% if contributor.contributor_type == "individual" %}
+                    <div class="grid-row flex-wrap margin-y-1 padding-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
+                        <div class="grid-col-auto">
+                            <img class="circle-8 border-05 border-base-light shadow-1" src="{{ contributor.image_url }}" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
+                        </div>
+                        <div class="grid-col-9 padding-y-1">
+                            <a href="{{ site.baseurl }}{{ contributor.url }}{{ contributor.output_ext }}"><strong>{{ contributor.display_name }}</strong></a><br>
+                            {% if contributor.affiliation_long or contributor.affiliation_short or contributor.location %}
+                                {% if contributor.affiliation_long %}
+                                    {{ contributor.affiliation_long }}
                                 {% endif %}
-                                {% if contributors.affiliation_long and contributors.affiliation_short %}
-                                    &lpar;{{ contributors.affiliation_short }}&rpar;
+                                {% if contributor.affiliation_long and contributor.affiliation_short %}
+                                    &lpar;{{ contributor.affiliation_short }}&rpar;
                                 {% else %}    
-                                    {% if contributors.affiliation_short %}
-                                        {{ contributors.affiliation_short }}
+                                    {% if contributor.affiliation_short %}
+                                        {{ contributor.affiliation_short }}
                                     {% endif %}
                                 {% endif %}
-                                {% if contributors.affiliation_short and contributors.location %}
+                                {% if contributor.affiliation_short and contributor.location %}
                                 | 
                                 {% endif %}
-                                {% if contributors.location %}
-                                {{ contributors.location }}
+                                {% if contributor.location %}
+                                    {{ contributor.location }}
                                 {% endif %}
-                        {% endif %}
+                            {% endif %}
+                        </div>
                     </div>
-                </div>
+                {% endif %}
             {% endfor %}
         </div>
         <div id="agency-tab" class="contribs-tab display-none" aria-label="Agency Tab">
-            {% assign str_agencies = "" %}
-            {% assign str_agencies_short = "" %}
-            {% for contributors in site.contributors %}
-                {% assign contrib_agency_long = contributors.affiliation_long %}
-                {% assign contrib_agency_short = contributors.affiliation_short %}
-                {% capture str_contrib_agency %}{{ contrib_agency_long }} ({{ contrib_agency_short }}){% endcapture %}
-                {% if str_agencies == "" %}
-                    {% capture str_agencies %}{{str_contrib_agency}}{% endcapture %}
-                {% else %}
-                    {% capture str_agencies %}{{str_agencies}},{{str_contrib_agency}}{% endcapture %}
+            {% for contributor in site.contributors %}
+                {% if contributor.contributor_type == "organization" %}
+                    <div class="grid-row">
+                        <h3 class="margin-bottom-0 margin-top-3"><a href="{{ site.baseurl }}{{ contributor.url }}{{ contributor.output_ext }}">{{ contributor.display_name }} ({{ contributor.affiliation_short }})</a></h3>
+                    </div>
+                    <div class="grid-row">
+                        <ul class="margin-top-0 margin-bottom-3">
+                            {% assign this_agency = contributor.contributor_id | downcase %}
+                            {% for page in site.pages %}
+                                {% assign contribs = page.contributors | downcase %}
+                                {% if contribs contains this_agency %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
                 {% endif %}
-                {% if str_agencies_short == "" %}
-                    {% capture str_agencies_short %}{{contrib_agency_short}}{% endcapture %}
-                {% else %}
-                    {% capture str_agencies_short %}{{str_agencies_short}},{{contrib_agency_short}}{% endcapture %}
-                {% endif %}
-            {% endfor %}
-            {% assign agencies = str_agencies | split: "," | uniq %}
-            {% assign agencies_short = str_agencies_short | split: "," | uniq %}
-            {% assign var = 0 %}
-            {% for item in agencies %}
-                <div class="grid-row">
-                    <h3 class="margin-bottom-0 margin-top-3">{{ item }}</h3>
-                </div>
-                <div class="grid-row">
-                    <ul class="margin-top-0 margin-bottom-3">
-                        {% assign this_agency = agencies_short[var] | downcase %}
-                        {% for page in site.pages %}
-                            {% assign contribs = page.contributors | downcase %}
-                            {% if contribs contains this_agency %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                            {% endif %}
-                        {% endfor %}
-                        {% assign var = var | plus: 1 %}
-                    </ul>
-                </div>
             {% endfor %}
         </div>
     </div>

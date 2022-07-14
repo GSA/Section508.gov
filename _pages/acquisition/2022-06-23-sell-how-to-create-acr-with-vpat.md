@@ -4,7 +4,7 @@ sidenav: true
 permalink: sell/how-to-create-acr-with-vpat/
 type: acquisition
 title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)'
-contributors: haileselassie, sirk, NASA
+contributors: haileselassie, sirk, nasa
 ---
 
 This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.

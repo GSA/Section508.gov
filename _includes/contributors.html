@@ -1,15 +1,19 @@
 <div class="margin-bottom-05">
+  {% assign page_contributors = page.contributors %}
+  {% assign org = "organization" %}
+  {% assign ind = "individual" %}
+  {% for contributors in site.contributors %}
+      {% if page_contributors contains contributors.contributor_id %}
+        
+      {% endif %}
+    {% endfor %}
     <strong>Content Contributors: </strong>
     <ul class="margin-top-05 padding-left-1" style="list-style-type:none">
-    {% assign page_contributors = page.contributors %}
     {% for contributors in site.contributors %}
       {% if page_contributors contains contributors.contributor_id %}
         <li class="margin-bottom-1">
             <img src="{{ contributors.image_url }}" class="circle-6 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle">
             <a href="{{ site.baseurl }}{{ contributors.url }}" class="margin-left-1"> {{ contributors.display_name }}</a>
-            {% if contributors.affiliation_short %}
-                | {{ contributors.affiliation_short }}
-            {% endif %}
         </li>
       {% endif %}
     {% endfor %}
