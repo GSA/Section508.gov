@@ -25,16 +25,25 @@ Although there are other possible methods to complete an ACR, this part of the g
 </div>
 
 ## Step 2: Complete the Accessibility Conformance Report (ACR) Title Page
-The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
-
-* Company name
-* Name of your product (and version number, if applicable)
-* Report date (month and year)
-* Description of the product
-* Contact information
-* Additional notes (if any)
-* Evaluation methods: Information about how your product was tested (manual, automated, both), testing tools used, etc.
-
+<div class="grid-container padding-x-0">
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
+    <ul>
+      <li>Company name</li>
+      <li>Name of your product (and version number, if applicable)</li>
+      <li>Report date (month and year)</li>
+      <li>Description of the product</li>
+      <li>Contact information</li>
+      <li>Additional notes (if any)</li>
+      <li>Evaluation methods: Information about how your product was tested (manual, automated, both), testing tools used, etc.</li>
+    </ul>
+    </div>
+    <div class="tablet:grid-col" style="text-align: center">
+        <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" aria-labelledby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT v2.4</span></div>
+    </div>
+  </div>
+</div>
 
 Find the page with the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”. As noted in the ITI VPAT<sup>&trade;</sup> training videos, the following information must be provided:
 
@@ -70,7 +79,7 @@ The Success Criteria tables laid out in the VPAT<sup>&trade;</sup> template—Le
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
 
-
+![Snapshot of WCAG Criteria Table in VPAT v2.4](https://assets.section508.gov/files/vpat-wcag-table-first-row-snapshot.jpg)
 
 ## Step 5: Determine the applicability of the Revised Section 508 Technical Standards to your product
 There are four Revised Section 508 tables, labeled as Chapter 3 (Functional Performance Criteria), Chapter 4 (Hardware), Chapter 5 (Software), and Chapter 6 (Support Documentation and Services). Complete the applicable tables.
@@ -91,7 +100,55 @@ The first column "Criteria" of the Revised Section 508 tables lists the Section 
 
 Below is an example of what these three columns look like for the Revised Section 508 table
 
-
+<table class="usa-table">
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Conformance Level</th>
+      <th>Remarks and Explanations</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><strong><em>402 Closed Functionality</em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+<tr>
+    <td><strong><em>402.1 General</em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+  <tr>
+    <td><strong><em>402.2 Speech-Output Enabled</em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+  <tr>
+    <td>402.2.1 Information Displayed On-Screen</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.2 Transactional Outputs</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.3 Speech Delivery Type and Coordination</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.4 User Control</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.5 Braille Instructions</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Step 6: Final checklist to make sure your ACR is complete
 <ul class="usa-icon-list">
