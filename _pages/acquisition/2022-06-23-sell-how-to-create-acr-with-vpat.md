@@ -78,8 +78,41 @@ The Success Criteria tables laid out in the VPAT<sup>&trade;</sup> template—Le
 
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
-
-![Snapshot of WCAG Criteria Table in VPAT v2.4](https://assets.section508.gov/files/vpat-wcag-table-first-row-snapshot.jpg)
+<table class="usa-table">
+    <thead>
+        <tr>
+            <th scope="col">Crietria</th>
+            <th scope="col">Conformance Level</th>
+            <th scope="col">Remarks and Explanations</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://www.w3.org/TR/WCAG20/#text-equiv-all">1.1.1 Non-text Content</a> (Level A)<br>
+                Also applies to:<br>
+                Revised Section 508<br>
+            <ul>
+                <li>501 (Web)(Software)</li>
+                <li>504.2 (Authoring Tool)</li>
+                <li>602.3 (Support Docs)</li>
+            </ul>
+        </td>
+        <td>
+            Web: <br>
+            Electronic Docs: <br>
+            Software: <br>
+            Closed: <br>
+            Authoring Tool: <br>
+        </td>
+        <td>
+            Web: <br>
+            Electronic Docs: <br>
+            Software: <br>
+            Closed: <br>
+            Authoring Tool: <br>
+        </td>
+    </tr>
+</table>
 
 ## Step 5: Determine the applicability of the Revised Section 508 Technical Standards to your product
 There are four Revised Section 508 tables, labeled as Chapter 3 (Functional Performance Criteria), Chapter 4 (Hardware), Chapter 5 (Software), and Chapter 6 (Support Documentation and Services). Complete the applicable tables.
@@ -103,17 +136,17 @@ Below is an example of what these three columns look like for the Revised Sectio
 <table class="usa-table">
   <thead>
     <tr>
-      <th>Criteria</th>
-      <th>Conformance Level</th>
-      <th>Remarks and Explanations</th>
+      <th scope="col">Criteria</th>
+      <th scope="col">Conformance Level</th>
+      <th scope="col">Remarks and Explanations</th>
     </tr>
   </thead>
   <tr>
-    <td><strong><em>402 Closed Functionality</em></strong></td>
+    <td><strong><em><a href="https://www.access-board.gov/ict/#402-closed-functionality">402 Closed Functionality</a></em></strong></td>
     <td>Heading cell - no response required</td>
     <td>Heading cell - no response required</td>
   </tr>
-<tr>
+  <tr>
     <td><strong><em>402.1 General</em></strong></td>
     <td>Heading cell - no response required</td>
     <td>Heading cell - no response required</td>
