@@ -1,5 +1,6 @@
 ---
 layout: contributor
+title: Antonio Haileselassie Contributor Page
 contributor_id: haileselassie
 contributor_type: individual
 display_name: Antonio Haileselassie
