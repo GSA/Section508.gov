@@ -19,7 +19,7 @@ Although there are other possible methods to complete an ACR, this part of the g
     <div class="tablet:grid-col">The VPAT&reg; is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
     <div class="tablet:grid-col" style="text-align: center">
         <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" aria-labelledby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
-        <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT Homepage</span></div>
+        <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT&reg; Homepage</span></div>
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@ Although there are other possible methods to complete an ACR, this part of the g
     </div>
     <div class="tablet:grid-col" style="text-align: center">
         <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" aria-labelledby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
-        <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT v2.4</span></div>
+        <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT&reg; v2.4</span></div>
     </div>
   </div>
 </div>
@@ -74,12 +74,12 @@ If your product fits one or more of the following categories, then the WCAG 2.0 
 
 If your product does not fall under any of these four categories, you may write “Not Applicable” in the notes section for the Success Criteria tables.
 
-The Success Criteria tables laid out in the VPAT&reg; template—Levels A, AA, and AAA—cover the WCAG success criteria (e.g., page 12 of VPAT2.4Rev508).
+The Success Criteria tables laid out in the VPAT&reg; template—Levels A, AA, and AAA—cover the WCAG success criteria (e.g., page 12 of VPAT&reg; 2.4Rev508).
 
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
 <table class="usa-table">
-  <caption>Three columns of VPAT WCAG table</caption>
+  <caption>Three columns of VPAT&reg; WCAG table</caption>
     <thead>
         <tr>
             <th scope="col">Crietria</th>
@@ -135,7 +135,7 @@ The first column "Criteria" of the Revised Section 508 tables lists the Section 
 Below is an example of what these three columns look like for the Revised Section 508 table
 
 <table class="usa-table">
-<caption>Three columns of VPAT Revised Section 508 table</caption>
+<caption>Three columns of VPAT&reg; Revised Section 508 table</caption>
   <thead>
     <tr>
       <th scope="col">Criteria</th>
