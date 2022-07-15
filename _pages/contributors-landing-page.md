@@ -20,7 +20,7 @@ title: Section508.gov Content Contribution
             </li>
         </ul>
     </div>
-    <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-2px border-base-light shadow-2">
+    <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-1px border-base-light radius-md shadow-2">
         <div id="contributor-tab" class="contribs-tab" aria-label="Contributors Tab">
             {% for contributor in site.contributors %}
                 {% if contributor.contributor_type == "individual" %}
@@ -65,7 +65,7 @@ title: Section508.gov Content Contribution
                             {% for page in site.pages %}
                                 {% assign contribs = page.contributors | downcase %}
                                 {% if contribs contains this_agency %}
-                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    <li class="margin-y-1"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
                         </ul>

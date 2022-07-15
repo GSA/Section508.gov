@@ -25,37 +25,16 @@ layout: base
           <img src="{{page.image_url}}" class="circle-card" alt="Photo: {{ page.display_name }}">
         </div>
         {% endif %}
-        <h1>{{ page.display_name }}</h1>
+        <h1>{{ page.display_name }} ({{ page.affiliation_short }})</h1>
         <div class="usa-graphic-list">
           {{ content }}
         </div>
-        <h2>{{ page.display_name }} -- Contributions on Section508.gov</h2>
-        <ul class="usa-list">
+        <h2>{{ page.affiliation_short }} Contributions on Section508.gov</h2>
+        <ul>
         {% assign this_contributor = page.contributor_id %}
         {% for pages in site.pages %}
           {% if pages.contributors contains this_contributor %}
-            {%- if pages.type == 'manage' -%}
-            {%- assign page_type = 'Policy & Management' -%}
-            {%- endif -%}
-            {%- if pages.type == 'training' -%}
-            {%- assign page_type = 'Training, Tools & Events' -%}
-            {%- endif -%}
-            {%- if pages.type == 'develop' -%}
-            {%- assign page_type = 'Design & Develop' -%}
-            {%- endif -%}
-            {%- if pages.type == 'test' -%}
-            {%- assign page_type = 'Testing' -%}
-            {%- endif -%}
-            {%- if pages.type == 'acquisition' -%}
-            {%- assign page_type = 'Acquisition' -%}
-            {%- endif -%}
-            {%- if pages.type == 'create' -%}
-            {%- assign page_type = 'Content Creation' -%}
-          {%- endif -%}
-              <li><a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a>
-                    {% if page_type %}
-                    -- <span class="text-primary-vivid">{{ page_type }}</span>
-                    {% endif %}
+              <li class="margin-y-1"><a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a>
               </li>
           {% endif %}
         {% endfor %}
