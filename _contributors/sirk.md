@@ -1,6 +1,7 @@
 ---
 layout: contributor
 contributor_id: sirk
+contributor_type: individual
 display_name: Betsy Sirk
 first_name: Betsy
 last_name: Sirk

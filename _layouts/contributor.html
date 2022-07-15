@@ -96,9 +96,11 @@ layout: base
                     <div class="grid-row flex-wrap grid-gap-1">
                       {%- assign collaborators = pages.contributors -%}
                       {% for contributors in site.contributors %}
+                      {% if contributors.contributor_type == "individual" %}
                         {% if collaborators contains contributors.contributor_id %}
                           <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
                         {% endif %}
+                      {% endif %}
                       {% endfor %}
                     </div>
                   </div>

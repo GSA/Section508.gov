@@ -1,6 +1,7 @@
 ---
 layout: contributor
 contributor_id: haileselassie
+contributor_type: individual
 display_name: Antonio Haileselassie
 first_name: Antonio
 last_name: Haileselassie
