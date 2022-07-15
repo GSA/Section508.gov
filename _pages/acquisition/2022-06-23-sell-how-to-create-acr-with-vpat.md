@@ -3,43 +3,52 @@ layout: page
 sidenav: true
 permalink: sell/how-to-create-acr-with-vpat/
 type: acquisition
-title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)'
+title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)'
 contributors: haileselassie, sirk, nasa
-description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)
+description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
 ---
 
-This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
+This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.
 
-The ACR is a representation of how the product meets the applicable Section 508 Technical Standards. The product owner/developer must first test the product against those standards in order to complete an ACR. Currently, the most common way an ACR is completed is by using the (VPAT<sup>&trade;</sup> template created by the IT Industry Council (ITI).
+The ACR is a representation of how the product meets the applicable Section 508 Technical Standards. The product owner/developer must first test the product against those standards in order to complete an ACR. Currently, the most common way an ACR is completed is by using the (VPAT&reg; template created by the IT Industry Council (ITI).
 
-Although there are other possible methods to complete an ACR, this part of the guide will walk you through how to complete an ACR using the VPAT<sup>&trade;</sup>.
+Although there are other possible methods to complete an ACR, this part of the guide will walk you through how to complete an ACR using the VPAT&reg;.
 
-## Step 1: Download the VPAT<sup>&trade;</sup>
+## Step 1: Download the VPAT&reg;
 <div class="grid-container padding-x-0">
   <div class="grid-row grid-gap">
-    <div class="tablet:grid-col">The VPAT<sup>&trade;</sup> is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
+    <div class="tablet:grid-col">The VPAT&reg; is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
     <div class="tablet:grid-col" style="text-align: center">
         <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" aria-labelledby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
-        <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT Homepage</span></div>
+        <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT&reg; Homepage</span></div>
     </div>
   </div>
 </div>
 
 ## Step 2: Complete the Accessibility Conformance Report (ACR) Title Page
-The VPAT<sup>&trade;</sup> begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
+<div class="grid-container padding-x-0">
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col">The VPAT&reg; begins with several pages of instructions. Please read all of the instructions carefully, but remove the instruction pages when you submit your final ACR.
+    <ul>
+      <li>Company name</li>
+      <li>Name of your product (and version number, if applicable)</li>
+      <li>Report date (month and year)</li>
+      <li>Description of the product</li>
+      <li>Contact information</li>
+      <li>Additional notes (if any)</li>
+      <li>Evaluation methods: Information about how your product was tested (manual, automated, both), testing tools used, etc.</li>
+    </ul>
+    </div>
+    <div class="tablet:grid-col" style="text-align: center">
+        <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" aria-labelledby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT&reg; v2.4</span></div>
+    </div>
+  </div>
+</div>
 
-* Company name
-* Name of your product (and version number, if applicable)
-* Report date (month and year)
-* Description of the product
-* Contact information
-* Additional notes (if any)
-* Evaluation methods: Information about how your product was tested (manual, automated, both), testing tools used, etc.
+Find the page with the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”. As noted in the ITI VPAT&reg; training videos, the following information must be provided:
 
-
-Find the page with the heading, “[Company] Accessibility Conformance Report Revised Section 508 Edition”. As noted in the ITI VPAT<sup>&trade;</sup> training videos, the following information must be provided:
-
-## Step 3: Understand the three columns of the VPAT<sup>&trade;</sup> tables
+## Step 3: Understand the three columns of the VPAT&reg; tables
 ### First column: “Criteria”
 The first column of the tables states the criteria to be covered by that particular row.
 
@@ -66,12 +75,46 @@ If your product fits one or more of the following categories, then the WCAG 2.0 
 
 If your product does not fall under any of these four categories, you may write “Not Applicable” in the notes section for the Success Criteria tables.
 
-The Success Criteria tables laid out in the VPAT<sup>&trade;</sup> template—Levels A, AA, and AAA—cover the WCAG success criteria (e.g., page 12 of VPAT2.4Rev508).
+The Success Criteria tables laid out in the VPAT&reg; template—Levels A, AA, and AAA—cover the WCAG success criteria (e.g., page 12 of VPAT&reg; 2.4Rev508).
 
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
-
-
+<table class="usa-table">
+  <caption>Three columns of VPAT&reg; WCAG table</caption>
+    <thead>
+        <tr>
+            <th scope="col">Crietria</th>
+            <th scope="col">Conformance Level</th>
+            <th scope="col">Remarks and Explanations</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://www.w3.org/TR/WCAG20/#text-equiv-all">1.1.1 Non-text Content</a> (Level A)<br>
+                Also applies to:<br>
+                Revised Section 508<br>
+            <ul>
+                <li>501 (Web)(Software)</li>
+                <li>504.2 (Authoring Tool)</li>
+                <li>602.3 (Support Docs)</li>
+            </ul>
+        </td>
+        <td>
+            Web: <br>
+            Electronic Docs: <br>
+            Software: <br>
+            Closed: <br>
+            Authoring Tool: <br>
+        </td>
+        <td>
+            Web: <br>
+            Electronic Docs: <br>
+            Software: <br>
+            Closed: <br>
+            Authoring Tool: <br>
+        </td>
+    </tr>
+</table>
 
 ## Step 5: Determine the applicability of the Revised Section 508 Technical Standards to your product
 There are four Revised Section 508 tables, labeled as Chapter 3 (Functional Performance Criteria), Chapter 4 (Hardware), Chapter 5 (Software), and Chapter 6 (Support Documentation and Services). Complete the applicable tables.
@@ -92,7 +135,56 @@ The first column "Criteria" of the Revised Section 508 tables lists the Section 
 
 Below is an example of what these three columns look like for the Revised Section 508 table
 
-
+<table class="usa-table">
+<caption>Three columns of VPAT&reg; Revised Section 508 table</caption>
+  <thead>
+    <tr>
+      <th scope="col">Criteria</th>
+      <th scope="col">Conformance Level</th>
+      <th scope="col">Remarks and Explanations</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><strong><em><a href="https://www.access-board.gov/ict/#402-closed-functionality">402 Closed Functionality</a></em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+  <tr>
+    <td><strong><em>402.1 General</em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+  <tr>
+    <td><strong><em>402.2 Speech-Output Enabled</em></strong></td>
+    <td>Heading cell - no response required</td>
+    <td>Heading cell - no response required</td>
+  </tr>
+  <tr>
+    <td>402.2.1 Information Displayed On-Screen</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.2 Transactional Outputs</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.3 Speech Delivery Type and Coordination</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.4 User Control</td>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>402.2.5 Braille Instructions</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Step 6: Final checklist to make sure your ACR is complete
 <ul class="usa-icon-list">
@@ -101,7 +193,7 @@ Below is an example of what these three columns look like for the Revised Sectio
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Use the correct VPAT<sup>&trade;</sup> version -</strong> Make sure you’re using a current version of the VPAT<sup>&trade;</sup> to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT<sup>&trade;</sup> is 2.4. Any VPAT<sup>&trade;</sup> 2.x is acceptable. You may find the VPAT<sup>&trade;</sup> on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.
+      <strong>Use the correct VPAT&reg; version -</strong> Make sure you’re using a current version of the VPAT&reg; to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT&reg; is 2.4. Any VPAT&reg; 2.x is acceptable. You may find the VPAT&reg; on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.
     </div>
   </li>
   <li class="usa-icon-list__item">

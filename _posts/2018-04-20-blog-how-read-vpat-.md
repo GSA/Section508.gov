@@ -20,7 +20,7 @@ If you understand your accessibility and usability needs, it&rsquo;s easier to s
 
 ### 1. Research, research, research!
 
-Technology companies spend more on [research and development][2] than any other industry in the US. Given the rapid advancements in technology today, it&rsquo;s important to research vendors to understand what their products offer. You should also request accessibility templates, such as a Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>), from vendors to show how their products meet relevant Section 508 standards and accessibility guidelines. [Section508.gov][3] has great resources to help you in this step of your procurement process.
+Technology companies spend more on [research and development][2] than any other industry in the US. Given the rapid advancements in technology today, it&rsquo;s important to research vendors to understand what their products offer. You should also request accessibility templates, such as a Voluntary Product Accessibility Template (VPAT&reg;), from vendors to show how their products meet relevant Section 508 standards and accessibility guidelines. [Section508.gov][3] has great resources to help you in this step of your procurement process.
 
 Resources include:
 
