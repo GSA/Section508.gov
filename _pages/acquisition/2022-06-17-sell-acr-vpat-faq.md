@@ -7,7 +7,7 @@ title: 'Accessibility Conformance Report/Voluntary Product Accessibility Templat
 contributors: haileselassie, sirk, NASA
 ---
 
-Below is a list of frequently asked questions questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This infomation was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][5].
+Below is a list of frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][5].
 
 ### How do I determine if my product is compliant with Section 508?
 Industry is expected to test its products against the applicable Section 508 Technical Standards and then report which standards the product supports, partially supports, or does not support. This is so that the agencies can consider accessibility when purchasing the product. This information is provided by industry in the form of an Accessibility Conformance Report (ACR). If the product supports all of the applicable Section 508 Technical Standards, the product is considered compliant with Section 508.
@@ -36,7 +36,7 @@ No, you may complete one ACR that addresses all the relevant standards and crite
 You are responsible for completing an ACR for the product you developed.
 
 ### My product does not conform to all the relevant Section 508 Technical Standards. Will this prevent the federal government from purchasing my product?
-No. Your product will be still be considered for purchase even if all of the Section 508 Technical Standards are not met. Your product will be compared to other similar commercially available products for potential purchase.
+No. Your product will still be considered for purchase even if all of the Section 508 Technical Standards are not met. Your product will be compared to other similar commercially available products for potential purchase.
 
 ### What do I enter under the columns “Conformance Level” and "Remarks and Explanations"? 
 In the Conformance Level column, you enter terms to describe to what extent your product meets a specific standard. Conformance Level terms are: Supports, Partially Supports, Does Not Support, or Not Applicable. If your product Partially Supports or Does Not Support the standard, you should provide a comment in the Remarks and Explanations column that indicates how the standard is not met/fully met. Definitions of the terms used in the Conformance Level column are available in the Essential Requirements for Authors section of the VPAT<sup>&trade;</sup> template. 
