@@ -79,6 +79,7 @@ The Success Criteria tables laid out in the VPAT<sup>&trade;</sup> template—Le
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
 <table class="usa-table">
+  <caption>Three columns of VPAT WCAG table</caption>
     <thead>
         <tr>
             <th scope="col">Crietria</th>
@@ -134,6 +135,7 @@ The first column "Criteria" of the Revised Section 508 tables lists the Section 
 Below is an example of what these three columns look like for the Revised Section 508 table
 
 <table class="usa-table">
+<caption>Three columns of VPAT Revised Section 508 table</caption>
   <thead>
     <tr>
       <th scope="col">Criteria</th>
