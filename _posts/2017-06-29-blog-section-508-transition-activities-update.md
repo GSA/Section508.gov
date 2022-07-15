@@ -76,7 +76,7 @@ June 29, 2017 - Here are some updates on the **Section 508 Transition Activities
 
   * BuyAccessible Redevelopment
     
-      * GSA is working on a new Accessibility Requirements Generator to develop output in multiple formats that can be used to define the government&rsquo;s accessibility requirements. Note, care is being taken to ensure product consistency among this BuyAccessible replacement, the revamped VPAT<sup>&trade;</sup> recommendations, and the Accessibility Requirements Checklist and other materials being generated to assist in the transition.
+      * GSA is working on a new Accessibility Requirements Generator to develop output in multiple formats that can be used to define the government&rsquo;s accessibility requirements. Note, care is being taken to ensure product consistency among this BuyAccessible replacement, the revamped VPAT&reg; recommendations, and the Accessibility Requirements Checklist and other materials being generated to assist in the transition.
 
 To review initial guidance on the new standards, visit the Section 508 Standards Refresh page. Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with questions or to contribute input to a subgroup.
 

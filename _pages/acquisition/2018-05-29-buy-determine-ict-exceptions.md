@@ -223,7 +223,7 @@ In determining best meets, consider the use of an equivalent design or technolog
           * What ICT alternatives were evaluated;
           * The lack of a fully conforming solution that meets the business needs;
           * The degree of 508 conformance of the ICT selected, as compared to the degree of conformance of the ICT that were not selected; and,
-          * The steps taken to evaluate the degree of conformance (e.g., 508 expert VPAT<sup>&trade;</sup> review, vendor 508 test results, or vendor test results)
+          * The steps taken to evaluate the degree of conformance (e.g., 508 expert VPAT&reg; review, vendor 508 test results, or vendor test results)
       * Provide an alternative means that meets the identified needs of people with disabilities not supported by the ICT Item(s).
 
   * For &rdquo;brand name or equivalent&rdquo; COTS or GOTS solicitations, the supporting documentation used to justify the acquisition may be sufficient to fulfil the documentation requirements. If the &rdquo;brand name&rdquo; ICT item does not fully support the Revised 508 Standards, the agency is still responsible for providing individuals with disabilities access to the non-conforming functions and features of the ICT Item through an alternative means that meets their identified needs.

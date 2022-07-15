@@ -21,7 +21,7 @@ created: 1582828796
       <strong><span id="access-board">Access Board</span>:</strong> see <a href="#us-access-board">U.S. Access Board</a>
     </li>
     <li>
-      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
+      <strong><span id="acr">Accessibility Conformance Report (ACR)</span>:</strong> A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.
     </li>
     <li>
       <strong><span id="art">Accessibility Requirements Tool (ART)</span>:</strong> A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.
@@ -515,7 +515,7 @@ created: 1582828796
       <strong><span id="voip">Voice over Internet Protocol (VoIP)</span>:</strong> A technology that provides real-time voice communications. VoIP requires a broadband connection and equipment compatible with internet protocol.
     </li>
     <li>
-      <strong><span id="vpat">Voluntary Product Accessibility Template (VPAT<sup>&trade;</sup>)</span>:</strong> A document template established by the Information Technology Industry (ITI) Council which evaluates how accessible a particular product is, according to Section 508 Standards. Vendors use this template to produce a self-disclosing document, called an Accessibility Conformance Report (ACR), which details each aspect of the Section 508 requirements and how the product supports each criteria. ACRs, based on VPAT<sup>&trade;</sup>, are used by buyers to understand how accessible a product is, and any potential deficiencies.
+      <strong><span id="vpat">Voluntary Product Accessibility Template (VPAT&reg;)</span>:</strong> A document template established by the Information Technology Industry (ITI) Council which evaluates how accessible a particular product is, according to Section 508 Standards. Vendors use this template to produce a self-disclosing document, called an Accessibility Conformance Report (ACR), which details each aspect of the Section 508 requirements and how the product supports each criteria. ACRs, based on VPAT&reg;, are used by buyers to understand how accessible a product is, and any potential deficiencies.
     </li>
   </ul>
   
