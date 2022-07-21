@@ -204,9 +204,9 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Medicine and Surgery** - Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** - Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
   * **Naval Air Systems Command** - Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
-  * **Navy Reserve Forces Command** - Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>
+  * **Naval Information Warfare Systems Command** – Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
+  * **Navy Reserve Forces Command** - Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
   * **Office of Naval Research** - VACANT
-  * **Space and Naval Information Warfare Systems Command** - Tyler McLean - 619-810-7821 - <tyler.mclean@navy.mil>
 
 ### U.S. European Command (EUCOM)
 VACANT
@@ -328,7 +328,7 @@ Nina Alexander - 505-273-1620 - <nina_alexander@btfa.gov>
 ### Interior Business Center
 Angie Harsh - 303-969-5197 - <angie_harsh@ibc.doi.gov>
 ### National Park Service (NPS)
-Matthew Aston (Acting) - 202-641-1794 - <matthew_aston@nps.gov>
+Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 VACANT
 ### Office of Navajo & Hopi Indian Relocation
