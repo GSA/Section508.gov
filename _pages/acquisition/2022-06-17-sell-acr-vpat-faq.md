@@ -17,7 +17,7 @@ Industry is expected to test its products against the applicable Section 508 Tec
 The Information Technology Industry Council developed a template called the Vendor Product Accessibility Template or VPAT&reg; which includes all the relevant Section 508 Technical Standards required by the Revised Section 508 rule (2017). ITI has several templates that apply internationally. Be sure to use the VPAT&reg; that includes the Revised Section 508 Standards (Rev508 or RevINT Version 2.x or later). For the most recent version of the VPAT&reg; and additional information, [visit the ITI website][2].
 
 ### I have not completed a VPAT&reg;/ACR before. Why am I being required to complete it now? Isn’t the VPAT&reg; voluntary?
-The U.S. federal government must buy Information and Communication Technology (ICT) that is accessible per Section 508 of the Rehabilitation Act. The government asks industry to submit an Accessibility Conformance Report so that the accessibility of a product may be evaluated. Without the ACR, the government may not proceed with the purchase unless there is a special use case exception that the government -- never industry – may claim in which the ACR will not be required. Entities complete the ACR so that their product may be considered for purchase.
+The U.S. federal government must buy Information and Communication Technology (ICT) that is accessible per Section 508 of the Rehabilitation Act. The government asks industry to submit an Accessibility Conformance Report so that the accessibility of a product may be evaluated. Without the ACR, the government may not proceed with the purchase unless there is a special use case exception that the government -- never industry – may claim in which the ACR will not be required. Industry completes the ACR so that their product may be considered for purchase.
 
 There are several methods for completing an ACR. The VPAT&reg;, which is a template developed by the IT Industry Council (ITI), is the most common method for completing an ACR since it provides all the relevant Section 508 Technical Standards and instructions on how to complete a report in one tool. While the use of the VPAT&reg; itself is not required, it is not voluntary to complete an ACR if you wish the government to consider purchasing your product.
 
@@ -31,7 +31,7 @@ Yes. Completing an ACR is a win-win situation for industry and the government. W
 In the Revised Section 508 Technical Standards, electronic content and software are required to conform to WCAG 2.0 Level A and Level AA Success Criteria and Conformance Requirements. While the WCAG standards obviously apply to web products, they also apply to all electronic content and software.
 
 ### My product has support documentation, hardware, and a mobile application. Do I need to complete three separate ACRs?
-No, you may complete one ACR that addresses all the relevant standards and criteria that match the functionality of your product. You may provide separate ACRs, if you desire, or where these products are offered separately.
+No, you may complete one ACR that addresses all the relevant standards and criteria that match the functionality of your product. You may provide separate ACRs, if you desire.
 
 ### My product is an add-on for an existing product from a separate company. Am I responsible for completing the ACR for my product, or will the other company create the ACR?
 You are responsible for completing an ACR for the product you developed.
