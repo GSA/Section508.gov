@@ -8,7 +8,6 @@ created: 1525805230
 redirect_from:
 - content/about-us/
 ---
-
 The U.S. General Services Administration (GSA) is tasked under [Section 508 of the Rehabilitation Act][3] to provide technical assistance to help federal agencies comply with Section 508 requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities. 
 
 ## About the Team

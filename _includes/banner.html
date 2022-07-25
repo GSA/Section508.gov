@@ -25,10 +25,12 @@ This banner is located under menu navigation bar, to display the title of each l
     <div class="grid-container">
         <div class="grid-row grid-gap">
             <div class="tablet: grid-col">
+                {% if header %}
                 <span class="banner-title-color font-sans-lg margin-bottom-0">
                     {{header}}
                 </span>
                 <br />
+                {% endif %}
                 <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
                     {{page.title}}
                 </h1>

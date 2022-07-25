@@ -12,7 +12,7 @@ sidenav: false
 <li><a href="{{site.baseurl}}/tools/coordinator-listing">Find your agency’s IT Accessibility Program Manager</a></li>
 <li><a href="{{site.baseurl}}/create">Learn how to create accessible content and websites</a></li>
 <li><a href="{{site.baseurl}}/training">Find training on IT accessibility</a></li>
-<li><a href="{{site.baseurl}}/sell/vpat">Learn about the Vendor Product Accessibility Template (VPAT<sup>&trade;</sup>)</a></li>
+<li><a href="{{site.baseurl}}/sell/vpat">Learn about the Vendor Product Accessibility Template (VPAT&reg;)</a></li>
 <li><a href="{{site.baseurl}}/manage/laws-and-policies">Review IT accessibility policy</a></li>
 </ul>
 <p>If these resources don’t answer your question, or you wish to report an issue with this website, please contact us via email at <a href="mailto:section.508@gsa.gov" class="mailto">section.508@gsa.gov<span class="mailto" aria-label="(link sends e-mail)"></span></a>. Thank you!</p>

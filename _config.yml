@@ -130,6 +130,9 @@ collections:
   events:
     output: true
     future: true
+  contributors:
+    output: true
+    permalink: /:collection/:name:output_ext
 
 permalink: pretty
 
