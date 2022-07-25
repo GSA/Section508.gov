@@ -27,6 +27,8 @@ manage:
             url: manage/program-roadmap/
       - name: DEIA Accessibility Guidance
         url: manage/deia-guidance/
+      - name: Practical Reasons for Digital Accessibility
+        url: manage/benefits-of-accessibility/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -363,10 +365,10 @@ acquisition:
         url: sell/
       - name: Voluntary Product Accessibility Template (VPAT)
         url: sell/vpat/
-      - name: ACR/VPAT FAQ
-        url: sell/acr-vpat-faq/
       - name: How to Create an ACR with a VPAT
         url: sell/how-to-create-acr-with-vpat/
+      - name: ACR/VPAT FAQ
+        url: sell/acr-vpat-faq/
 create:
   - name: Content Creation
     url: 'create/'
