@@ -1,6 +1,6 @@
 ---
 layout: contributor
-title: Besty Sirk Contributor Page
+title: Besty Sirk Contributor Biography
 contributor_id: sirk
 contributor_type: individual
 display_name: Betsy Sirk
