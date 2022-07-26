@@ -83,8 +83,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
   * [Section 508 OMB Dashboard/Reporting Template][3]
   * [Section 508 OMB Dashboard/Reporting Template Instructions][4]
   * [Digital Service Contracting Professional Training and Development Program][5]
-  * [IT Dashboard.gov for E-gov act accessibility related comments][6]
-  * [Agile Governance reality or dream in the US and UK Governments?][7] (includes OMB participation link to GAO Schedule Assessment Guide)
+  * [IT Dashboard.gov - For agency E-Gov Act accessibility related summaries][6]
 
 &nbsp;
 
@@ -94,4 +93,3 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
  [4]: {{site.baseurl}}/manage/reporting
  [5]: https://www.challenge.gov/challenge/digital-service-contracting-professional-training-and-development-program-challenge/
  [6]: https://itdashboard.gov/
- [7]: https://www.youtube.com/watch?list=PLQzq_ylfBVzKM1ZC_900nvea6uxkeAOVS&v=Wp92Vq3yTrU

@@ -328,7 +328,7 @@ Nina Alexander - 505-273-1620 - <nina_alexander@btfa.gov>
 ### Interior Business Center
 Angie Harsh - 303-969-5197 - <angie_harsh@ibc.doi.gov>
 ### National Park Service (NPS)
-Alex Lindeman - <alex_lindeman@nps.gov>
+Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 VACANT
 ### Office of Navajo & Hopi Indian Relocation
