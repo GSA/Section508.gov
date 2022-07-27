@@ -40,7 +40,7 @@ June 29, 2017 - Here are some updates on the **Section 508 Transition Activities
   <ul>
     <li>
       <p>
-        Developed and finalized draft recommendations for revising the new <a href="https://www.itic.org/dotAsset/16a63f08-30ea-4f5d-997f-5c095aa3d345.docm">VPAT2<sup>&trade;</sup> Beta that is proposed by ITI</a>. Our goal is to ensure that agencies receive high quality responses and justifications as well as information on how the responses were derived.
+        Developed and finalized draft recommendations for revising the new <a href="https://www.itic.org/policy/accessibility/vpat">VPAT<sup>&copy;</sup></a> Beta that is proposed by ITI. Our goal is to ensure that agencies receive high quality responses and justifications as well as information on how the responses were derived.
       </p>
     </li>    
     <li>
