@@ -249,7 +249,7 @@ Rita Harrison - 240-549-2275 - <rita.harrison@fda.hhs.gov>
 Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>  
 Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
-Darren Buchanan - 301-443-3061 - <darren.buchanan@ihs.gov>
+Phillip	Wise (Acting)- <phillip.wise@ihs.gov>
 ### National Institutes of Health (NIH)
 VACANT
 ### Office of the Secretary Division

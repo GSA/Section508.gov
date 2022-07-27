@@ -216,7 +216,7 @@ title: 'Create Accessible Synchronized Media Content'
 <div class="border-base radius-lg border-1px" style="width: 100%; background-color: #f5f9fc; padding: 5px;">
 <h3 dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
-<li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/DOIOSS/doi_gov_video">media player</a> is available on GitHub</li>
+<li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" target="_blank">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
 </div>
@@ -314,7 +314,7 @@ title: 'Create Accessible Synchronized Media Content'
 </ul>
 <p dir="ltr"><strong>User Controls for Captions and Audio Descriptions</strong></p>
 <ul>
-<li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/DOIOSS/doi_gov_video">media player</a> is available on GitHub</li>
+<li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">

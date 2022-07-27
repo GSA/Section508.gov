@@ -301,6 +301,8 @@ Fine tune your video
 <li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web<span class="ext" aria-label="(link is external)"></span></a> (W3C WCAG)</li>
 <li dir="ltr"><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf">Making Meetings Accessible</a> (CDC.gov)</li>
 <li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
+<li dir="ltr"><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations and Meetings Accessible to All | Web Accessibility Initiative (WAI) | W3C</a></li>
+<li dir="ltr"><a href="https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings">Accessibility of Remote Meetings | W3C</a></li>
 <li dir="ltr">
 Meeting Platform Accessibility Guides
 <ul>
