@@ -15,7 +15,7 @@ sidenav: false
 <li><a href="{{site.baseurl}}/sell/vpat">Learn about the Vendor Product Accessibility Template (VPAT&reg;)</a></li>
 <li><a href="{{site.baseurl}}/manage/laws-and-policies">Review IT accessibility policy</a></li>
 </ul>
-<p>If these resources don’t answer your question, or you wish to report an issue with this website, please contact us via email at <a href="mailto:section.508@gsa.gov" class="mailto">section.508@gsa.gov<span class="mailto" aria-label="(link sends e-mail)"></span></a>. Thank you!</p>
+<p>If these resources don’t answer your question, or you wish to report an issue with this website, please contact us via email at <a href="mailto:section.508@gsa.gov" class="mailto">section.508@gsa.gov</a>. Thank you!</p>
 <h2><strong>Accessibility Standards</strong></h2>
 <p>If you have questions about the <a target="_blank" href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>, contact the U.S. Access Board:</p>
-<p><a target="_blank" href="https://www.access-board.gov/contact/">Access Board Contact Us page</a><br> Email: <a href="mailto:508@access-board.gov" class="mailto">508@access-board.gov<span class="mailto" aria-label="(link sends e-mail)"></span></a><br> Phone: (800) 872-2253<br> TTY: (800) 993-2822</p>
+<p><a target="_blank" href="https://www.access-board.gov/contact/">Access Board Contact Us page</a><br> Email: <a href="mailto:508@access-board.gov" class="mailto">508@access-board.gov</a><br> Phone: (800) 872-2253<br> TTY: (800) 993-2822</p>

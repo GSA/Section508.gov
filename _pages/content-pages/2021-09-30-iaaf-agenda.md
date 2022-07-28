@@ -7,7 +7,7 @@ title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2021'
 created: 1600981839
 ---
 
-<a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" /></a>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 12th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 13th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 14th</a></b>
@@ -294,7 +294,7 @@ created: 1600981839
   <div class="usa-graphic-list__row container" id="day2">
   <!-- start agenda -->
   
-  <div class="grid-row welcome" id="welcome">
+  <div class="grid-row welcome" id="welcome2">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d2w">
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
