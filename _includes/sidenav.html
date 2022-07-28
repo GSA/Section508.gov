@@ -38,7 +38,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 {%- endif -%}
 
 <aside class="usa-layout-docs__sidenav desktop:grid-col-3 padding-bottom-4">
-    <nav>
+    <nav aria-label="Secondary Navigation">
         <ul class="usa-sidenav menu">
             {%- for link in links -%}
             {%- assign href = link.url -%}

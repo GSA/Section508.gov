@@ -13,15 +13,15 @@ The best way to meet the  [Revised 508 Standards][1] is to use the harmonized te
 
   * [Accessibility Testing][2] - ACOP test guidelines for web, apps, Microsoft, and PDF documents
 
-### Content Types
+## Content Types
 
 All public facing electronic content, including applications and interactive content, must meet the Revised 508 Standards. All internal-facing electronic content that falls within at least one of the nine categories of &ldquo;Agency Official Communications&rdquo; found in [Section E205][3] must be accessible.
 
-### Training
+## Training
 
 Assess how accessibility is addressed in the rule sets your agency uses, to determine the type and extent of training you will need. If your development and authoring best practices and test rules do not currently address accessibility, it will take you longer to learn to test content for accessibility than it would if you were merely updating current practices aimed at meeting the Original 508 Standards. The harmonized test processes published by the ACOP already incorporate most of the Revised 508 Standards.
 
-### Automated Scanning Tools
+## Automated Scanning Tools
 
 Automated testing for WCAG 2.0 conformance is not new. There are several types of tools, including workstation-based, server-based, and hybrid tools. Workstation-based tools generally cost less, and can be helpful for small volumes of electronic content, or for small development group use. Server-based tools are generally higher cost but can help larger organizations assess large amounts of electronic content, and can help dispersed development groups more effectively share conformance test results. Hybrid automated tools require significant upfront planning and implementation work, but can be integrated into existing development or authoring workflows using application programming interfaces (APIs), with great results.
 
@@ -35,7 +35,7 @@ Automated web evaluation tools should test HTML as it appears on the rendered pa
 
   * [Web Accessibility Evaluation Tools List][4]&nbsp;- List of web accessibility evaluation tools maintained by the W3C
 
-### Automated vs. Manual Testing
+## Automated vs. Manual Testing
 
 When purely yes/no answers are required, even if they are a complicated set of true/false logical conditions, automated tools can do well. However, automated tools cannot compare various options for remediation against one another, or determine if the accessibility error must be remediated.
 

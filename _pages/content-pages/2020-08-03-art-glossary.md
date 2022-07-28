@@ -85,7 +85,7 @@ Deployment Models:
 
 Note: Cloud software takes full advantage of the cloud paradigm by being service oriented with a focus on statelessness, low coupling, modularity, and semantic interoperability."
 
-The standards for connecting the computer systems and the software needed to make cloud computing work are not fully defined at present time, leaving many companies to define their own cloud computing technologies. Systems offered by companies, like IBM's "Blue Cloud" technologies for example, are based on open standards and open source software which link together computers that are used to deliver Web 2.0 capabilities like mash-ups or mobile commerce. (<a href="http://www.webopedia.com/TERM/c/cloud_computing.html" class="ext" target="_blank">http://www.webopedia.com/TERM/c/cloud_computing.html<span class="ext" aria-label="(link is external)"></span></a>)
+The standards for connecting the computer systems and the software needed to make cloud computing work are not fully defined at present time, leaving many companies to define their own cloud computing technologies. Systems offered by companies, like IBM's "Blue Cloud" technologies for example, are based on open standards and open source software which link together computers that are used to deliver Web 2.0 capabilities like mash-ups or mobile commerce. (<a href="http://www.webopedia.com/TERM/c/cloud_computing.html" class="ext" target="_blank">http://www.webopedia.com/TERM/c/cloud_computing.html</a>)
 
 Security is a main concern for government. There is a need to verify security at a level greater than NIST Security Level 1 (Low) before there will be widespread use of Cloud Computing.
 
@@ -137,7 +137,7 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-Computer monitors are defined below: (<a href="http://en.wikipedia.org/wiki/Computer_monitor" class="ext">http://en.wikipedia.org/wiki/Computer_monitor<span class="ext" aria-label="(link is external)"></span></a>)
+Computer monitors are defined below: (<a href="http://en.wikipedia.org/wiki/Computer_monitor" class="ext">http://en.wikipedia.org/wiki/Computer_monitor</a>)
 
 "A monitor or display (sometimes called a visual display unit) is an electronic visual display for computers. The monitor comprises the display device, circuitry, and an enclosure. The display device in modern monitors is typically a thin film transistor liquid crystal display (TFT-LCD) thin panel, while older monitors use a cathode ray tube about as deep as the screen size.
 

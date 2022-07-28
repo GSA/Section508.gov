@@ -41,7 +41,7 @@ description: This guidance provides information about how you can make your next
 <ul>
 <li dir="ltr"><strong>Digital first:</strong> Going forward, most meetings will see one or more attendees joining virtually.</li>
 <li dir="ltr"><strong>Select a venue/format:</strong> Determine if your meeting will be in-person, over the telephone, using a virtual meeting space, or a hybrid of two or more methods. Keep in mind that different venues require different planning and accommodation solutions.</li>
-<li dir="ltr"><strong>Know your audience:</strong> Because no two disabled people experience their disability in exactly the same way, it’s important to know who the audience is and <a href="https://www.w3.org/WAI/people-use-web/" class="ext">how people with disabilities use the web<span class="ext" aria-label="(link is external)"></span></a>. If possible, those in charge of handling the accommodations for the meeting should speak with the disabled person(s) in question to inquire what their specific limitations are and what can be done to best accommodate their needs. Be sure to ask for accommodation needs upfront in the registration process. Ask for specific needs for captioning, ASL interpreters, etc. You will always need to plan for other unexpected accommodations, but it is vital to have an estimate of the audience’s accessibility needs as part of your meeting planning.</li>
+<li dir="ltr"><strong>Know your audience:</strong> Because no two disabled people experience their disability in exactly the same way, it’s important to know who the audience is and <a href="https://www.w3.org/WAI/people-use-web/" class="ext">how people with disabilities use the web</a>. If possible, those in charge of handling the accommodations for the meeting should speak with the disabled person(s) in question to inquire what their specific limitations are and what can be done to best accommodate their needs. Be sure to ask for accommodation needs upfront in the registration process. Ask for specific needs for captioning, ASL interpreters, etc. You will always need to plan for other unexpected accommodations, but it is vital to have an estimate of the audience’s accessibility needs as part of your meeting planning.</li>
 <li>
 <strong>Interactive features:</strong> What communications tools and interactive features do you plan on using?
 <ul>
@@ -141,7 +141,7 @@ Confirm that the availability and accessibility of features is available for the
 <li dir="ltr"><strong>How to Join:</strong> Provide detailed information on the ways attendees can participate in the meeting (e.g., links to virtual platform, alternate telephone number)</li>
 <li dir="ltr"><strong>Accommodations:</strong> Include detailed information on how individuals can access available accommodations, (e.g., Communication Access Realtime Translation (CART), ASL interpreters, assisted listening devices, alternate print formats)</li>
 <li dir="ltr"><strong>Materials:</strong> Whenever possible, distribute electronic presentation documents and media to invitees and attendees in advance of the meeting</li>
-<li dir="ltr"><strong>Tech Checks:</strong> Provide ways for participants to test platform access prior to meeting (e.g., <a href="https://zoom.us/test" class="ext">zoom test meeting<span class="ext" aria-label="(link is external)"></span></a>), particularly when inviting individuals from outside of your organization</li>
+<li dir="ltr"><strong>Tech Checks:</strong> Provide ways for participants to test platform access prior to meeting (e.g., <a href="https://zoom.us/test" class="ext">zoom test meeting</a>), particularly when inviting individuals from outside of your organization</li>
 </ul>
 <p class="rteright"><a href="#top">Back to top</a></p>
 
@@ -297,8 +297,8 @@ Fine tune your video
 <ul>
 <li dir="ltr"><a href="{{site.baseurl}}/create">Create Accessible Digital Products</a></li>
 <li dir="ltr"><a href="{{site.baseurl}}/create/universal-design">Universal Design and Accessibility</a></li>
-<li dir="ltr"><a href="https://www.gsa.gov/fedrelay/" class="ext">FedRelay<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web<span class="ext" aria-label="(link is external)"></span></a> (W3C WCAG)</li>
+<li dir="ltr"><a href="https://www.gsa.gov/fedrelay/" class="ext">FedRelay</a></li>
+<li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web</a> (W3C WCAG)</li>
 <li dir="ltr"><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf">Making Meetings Accessible</a> (CDC.gov)</li>
 <li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
 <li dir="ltr"><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations and Meetings Accessible to All | Web Accessibility Initiative (WAI) | W3C</a></li>
@@ -307,39 +307,39 @@ Fine tune your video
 Meeting Platform Accessibility Guides
 <ul>
 <li dir="ltr">
-<a href="https://helpx.adobe.com/adobe-connect/using/accessibility-features.html" class="ext">Adobe Connect Accessibility Features<span class="ext" aria-label="(link is external)"></span></a>
+<a href="https://helpx.adobe.com/adobe-connect/using/accessibility-features.html" class="ext">Adobe Connect Accessibility Features</a>
 <ul>
-<li dir="ltr"><a href="https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html" class="ext">Keyboard shortcuts for Adobe Connect Classic<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" class="ext">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://helpx.adobe.com/adobe-connect/using/user-guide.html/adobe-connect/using/connect-keyboard-shortcut.ug.html" class="ext">Keyboard shortcuts for Adobe Connect Classic</a></li>
+<li dir="ltr"><a href="https://blogs.connectusers.com/connectsupport/downloading-and-running-a-closed-captioning-pod-in-a-connect-meeting/" class="ext">Downloading and Running a Closed-captioning Pod in an Adobe Connect Meeting</a></li>
 </ul>
 </li>
 <li dir="ltr">
-<a href="https://www.webex.com/accessibility.html" class="ext">Cisco WebEx Accessibility<span class="ext" aria-label="(link is external)"></span></a>
+<a href="https://www.webex.com/accessibility.html" class="ext">Cisco WebEx Accessibility</a>
 <ul>
-<li dir="ltr"><a href="https://help.webex.com/en-us/84har3/Webex-Meetings-and-Webex-Events-Accessibility-Features" class="ext">Webex Meetings and Webex Events Accessibility Features<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions" class="ext">How Do I Enable Closed Captions in Webex?<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://help.webex.com/en-us/84har3/Webex-Meetings-and-Webex-Events-Accessibility-Features" class="ext">Webex Meetings and Webex Events Accessibility Features</a></li>
+<li dir="ltr"><a href="https://help.webex.com/en-us/WBX47352/How-Do-I-Enable-Closed-Captions" class="ext">How Do I Enable Closed Captions in Webex?</a></li>
 </ul>
 </li>
-<li dir="ltr"><a href="https://support.google.com/meet/answer/7313544?hl=en" class="ext">Google Meet Accessibility<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://support.google.com/meet/answer/7313544?hl=en" class="ext">Google Meet Accessibility</a></li>
 <li dir="ltr">
-<a href="https://support.goto.com/meeting/help/what-accessbility-features-are-available-in-gotomeeting" class="ext">GoToMeeting Accessibility Features<span class="ext" aria-label="(link is external)"></span></a>
-<ul><li dir="ltr"><a href="https://support.goto.com/meeting" class="ext">Use Keyboard Shortcuts from the Desktop App (Windows Only)<span class="ext" aria-label="(link is external)"></span></a></li></ul>
+<a href="https://support.goto.com/meeting/help/what-accessbility-features-are-available-in-gotomeeting" class="ext">GoToMeeting Accessibility Features</a>
+<ul><li dir="ltr"><a href="https://support.goto.com/meeting" class="ext">Use Keyboard Shortcuts from the Desktop App (Windows Only)</a></li></ul>
 </li>
 <li dir="ltr">
-<a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" class="ext">Microsoft Teams Accessibility<span class="ext" aria-label="(link is external)"></span></a>
+<a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" class="ext">Microsoft Teams Accessibility</a>
 <ul>
-<li dir="ltr"><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" class="ext">Accessibility overview of Microsoft Teams<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" class="ext">Keyboard shortcuts for Microsoft Teams<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5" class="ext">Accessibility overview of Microsoft Teams</a></li>
+<li dir="ltr"><a href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" class="ext">Keyboard shortcuts for Microsoft Teams</a></li>
 <li dir="ltr"><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf">Accessible and Inclusive Telework Practices Using Microsoft Teams</a> - Guidance from HUD</li>
 <li dir="ltr"><a href="https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf">5 Tips on Holding Accessible Microsoft Team Meetings</a> - Guidance from HUD</li>
 </ul>
 </li>
 <li dir="ltr">
-<a href="https://zoom.us/accessibility" class="ext">Zoom Accessibility<span class="ext" aria-label="(link is external)"></span></a>
+<a href="https://zoom.us/accessibility" class="ext">Zoom Accessibility</a>
 <ul>
-<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" class="ext">Hot keys and keyboard shortcuts for Zoom<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning" class="ext">Getting started with closed captioning in Zoom<span class="ext" aria-label="(link is external)"></span></a></li>
-<li dir="ltr"><a href="https://zoom.us/test" class="ext">Join a Test Zoom Meeting<span class="ext" aria-label="(link is external)"></span></a></li>
+<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" class="ext">Hot keys and keyboard shortcuts for Zoom</a></li>
+<li dir="ltr"><a href="https://support.zoom.us/hc/en-us/articles/207279736-Getting-started-with-closed-captioning" class="ext">Getting started with closed captioning in Zoom</a></li>
+<li dir="ltr"><a href="https://zoom.us/test" class="ext">Join a Test Zoom Meeting</a></li>
 </ul>
 </li>
 </ul>

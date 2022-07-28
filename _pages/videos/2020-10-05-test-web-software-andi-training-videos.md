@@ -207,7 +207,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></p>
                <p></p>
-               <p>Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="ext">The Paciello Group’s Color Contrast Analyzer (CCA)<span class="ext" aria-label="(link is external)"></span></a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
+               <p>Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="ext">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
                <p></p>
                <p>0h 2:33m</p>
             </div>
