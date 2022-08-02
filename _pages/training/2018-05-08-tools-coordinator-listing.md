@@ -113,7 +113,7 @@ John Trifilitti - <john.trifiletti@usda.gov>
 * **Economic Research Service (ERS)** - Beth Couturier <beth.couturier@usda.gov>, and Lisa Wilcox - <lisa.wilcox@usda.gov>
 * **National Agricultural Library (NAL)** - Ricardo Romero - <ricardo.romero@usda.gov>
 * **National Agricultural Statistics Service (NASS)** - Rich Holcomb <rich.holcomb@usda.gov>
-* **National Institute of Food and Agriculture (NIFA)** - Michael Quizon <michael.quizon@usda.gov>
+* **National Institute of Food and Agriculture (NIFA)** - Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>
 
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
@@ -357,7 +357,7 @@ Thomas Stewart - <thomas.stewart@atf.gov>
   * **National Laboratory Center** - VACANT
 
 ### Civil Division
-Benjamin Jones - <benjamin.jones@usdoj.gov>
+Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
 Tran Isabelle - <isabelle.tran@usdoj.gov>  
 Randy Abramson - <randy.abramson@usdoj.gov>
@@ -395,7 +395,7 @@ Bruce W. Whitlock - 202-353-1551 - <bruce.W.Whitlock@usdoj.gov>
 ### Office on Violence Against Women
 Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>
 ### Tax Division
-Karon	M. Etienne - <karon.m.etienne@usdoj.gov>
+Karon	M. Etienne - 202-353-3095 - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
 Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
 ### United States Trustee Program
