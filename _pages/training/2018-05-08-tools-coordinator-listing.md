@@ -211,7 +211,6 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 ### U.S. European Command (EUCOM)
 VACANT
 ### U.S. Northern Command (USNORTHCOM)
-Cristie Whorley (BACKUP) - 719-554-8009 - <babette.c.whorley.civ@mail.mil>  
 Donald Hopper - 719-554-7838 - <donald.w.hopper.civ@mail.mil>
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
