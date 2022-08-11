@@ -6,6 +6,112 @@ type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
 --- 
+## 2021 Interagency Accessibility Forum
+
+The 2021 Interagency Accessibility Forum celebrated the 75th observance of the National Disability Employment Awareness Month (NDEAM) and the 20th anniversary of Section 508 of the Rehabilitation Act becoming enforceable.
+
+Attendees of this year’s IAAF will hear presentations and panel discussions that will focus on accessibility as a foundation for inclusion, diversity, and equity within the federal government. In addition, the forum will include virtual exhibitions by accessibility consultants and IT companies with accessibility products and services that support those with disabilities.
+
+The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Department of Health and Human Services (HHS), Department of Labor (DOL), and Merit Service Protection Board (MSPB), in partnership with other federal agencies.
+
+<h3 class="site-preview-heading">Event Highlights</h3>
+<ul class="usa-card-group">
+  <li class="usa-card usa-card--flag desktop:grid-col-12 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h2 class="usa-card__heading">Oct 12 Keynote Address: Whitney Quesenbery</h2>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-quesenbery-thumb-02.png" alt="Oct 12 Keynote Address: Whitney Quesenbery" class="border-base radius-lg border-0px" /></a>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>
+          Whitney Quesenbery, Director of the Center for Civic Design, opens the 2021 Interagency Accessibility Forum (IAAF) with an address on accessible voting, including  improvements in voting systems that have allowed more people to independently and privately participate in state, local and national elections.
+        </p>
+      </div>
+      <div class="usa-card__footer">
+        <a class="usa-button" href="{{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/">Watch: Oct 12 Keynote</a>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card usa-card--flag desktop:grid-col-12 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h2 class="usa-card__heading">Oct 13 Keynote Address: Judy Heumann</h2>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-heumann-thumb-02.png" alt="Oct 13 Keynote Address: Judy Heumann" class="border-base radius-lg border-0px" /></a>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>
+          Andrea M. O'Neal, Senior Advisor to the Administrator (Equity) at the General Services Administration, and Judith E. Heumann, International Disability Rights Activist, discuss Diversity, Equity and Inclusion through the lens of accessibility.
+        </p>
+      </div>
+      <div class="usa-card__footer">
+        <a class="usa-button" href="{{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/">Watch: Oct 13 Keynote</a>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card usa-card--flag desktop:grid-col-12 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h2 class="usa-card__heading">Oct 14 Keynote: Panel Discussion</h2>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-panel-thumb-02.png" alt="Oct 14 Keynote: Panel Discussion" class="border-base radius-lg border-0px" /></a>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>
+          Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental part of what the government stands for in supporting its employees and the American public. Join an inter-agency panel of accessibility practitioners as they share a brief look at this foundation ... its past, present, and future. 
+        </p>
+      </div>
+      <div class="usa-card__footer">
+        <a class="usa-button" href="{{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/">Watch: Oct 14 Keynote</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+### Event Agenda & Speaker and Presenter Biographies
+The 2021 IAAF had  three, half-day sessions each with featured speakers, keynote addresses, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
+
+For details, visit: [2021 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2021/) and [2021 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2021).
+
+### General Sessions
+* Small Wonder – Building a 508 Program at a Small Agency
+* International Digital Accessibilities Activities \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/International%20Digital%20Accessibilities%20Activities%20-%20IAAF%202021.pptx) (PPTX)
+* Driving Innovation of Accessible Work Technology to Empower Diverse Workers with Disabilities \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Driving%20Innovation%20of%20Accessible%20Work%20Technology%20to%20Empower%20Diverse%20Workers%20with%20Disabilities%20-%20IAAF%202021.pptx) (PPTX)
+* Ask the Expert
+
+### Breakout Sessions
+* **Track A: Lead Our Agencies Towards Access**
+  * Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Dancing%20to%20Accessibility%20-%20IAAF%202021.pptx) (PPTX)
+  * Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Apprenticeship%20and%20Career%20Pathways%20-%20IAAF%202021.pptx) (PPTX)
+  * Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx) (PPTX)
+  * Neurodiversity at Work: Creating Inclusive Work Futures
+  * Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx) (PPTX)
+  * Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Reframe%20and%20Reinforce%20-%20Using%20Neuroscience%20to%20Improve%20Support%20for%20Accessibility%20-%20IAAF%202021.pptx) (PPTX)
+* **Track B: Create Amazing Content**
+  * Accessibility First: Creating a Native Mobile App for Veterans \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Accessibility%20First%20Creating%20a%20Native%20Mobile%20App%20for%20Veterans%20-%20IAAF%202021.pptx) (PPTX)
+  * Designing to Support Cognitive and Learning Disabilities \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Designing%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx) (PPTX)
+  * Web Accessibility at the CFPB \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Web%20Accessibility%20at%20the%20CFPB%20-%20IAAF%202021.pptx) (PPTX)
+  * Creating Accessible Fillable PDF Forms in Adobe Indesign \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx) (PPTX)
+  * From 5,000 to 0: prioritizing documents for remediation \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/From%20Five%20Thousand%20to%20Zero%20-%20Prioritizing%20Documents%20for%20Remediation%20-%20IAAF%202021.pptx) (PPTX)
+  * What is the Current State of Audio Description in the US Federal Government? \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/The%20Current%20State%20of%20Audio%20Description%20in%20the%20US%20Federal%20Government%20-%20IAAF%202021.pptx) (PPTX)
+* **Track C: Buy and Manage Compliance**
+  * Ensuring ICT Accessibility Throughout the Acquisition Lifecycle \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Ensuring%20ICT%20Accessibility%20Throughout%20the%20Acquisition%20Lifecycle%20-%20IAAF%202021.pptx) (PPTX)
+  * Creating a Machine-Readable ACR \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Creating%20a%20Machine-Readable%20ACR%20-%20IAAF%202021.pptx) (PPTX)
+  * Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Breaking%20through%20Silos_%20Leverage%20Staff%20Creativity%20to%20Serve%20the%20Agency%20Mission%20-%20IAAF%202021.pptx) (PPTX)
+  * Enhancing Accessibility: AI and Machine Learning \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20IAAF%202021.pptx) (PPTX)
+  * Adopting and Aligning to the ICT Testing Baseline \| [Presentation](https://assets.section508.gov/files/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx) (PPTX)
+
+<hr>
 
 ## 2020 Interagency Accessibility Forum
 
@@ -15,11 +121,11 @@ The event, with a theme of “Enabling Missions Accessible Technology - Leaving 
 
 The 2020 IAAF was attended by accessibility professionals across 42 U.S. states and territories, and 8 countries including Australia, Canada, France, India, Mexico, Morocco, South Africa, and Sweden.
 
-### Event Agenda & Speaker and Presenter Biographies  
+### Event Agenda & Speaker and Presenter Biographies
 The 2020 IAAF had a full, two-day agenda, with featured speakers, keynote addresses, and breakout sessions and discussions led by those on the forefront of accessibility in the federal, private, academic, and nonprofit sectors.
 
 For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 IAAF Agenda</a> and
- <a href="{{site.baseurl}}/iaaf/archives/biographies-2020">Speaker and Presenter Biographies</a>.
+ <a href="{{site.baseurl}}/iaaf/archives/biographies-2020">2021 IAAF Speaker and Presenter Biographies</a>.
 
 <div id="event-agenda">
     <h3>
@@ -101,6 +207,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         </ul>
       </li>
     </ul>
+    <hr>
     <h2>
       2019 Interagency Accessibility Forum
     </h2>
@@ -115,6 +222,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         Keynote: <a href="{{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho"><em>The Americans with Disabilities Act&mdash;Then and Now</em><em><br /></em></a>Tony Coelho, Member of the U.S. House of Representatives from California&rsquo;s 15th district (January 3, 1979 &ndash; June 15, 1989)
       </li>
     </ul>
+    <hr>
     <h2>
       2018 Interagency Accessibility Forum
     </h2>
@@ -127,6 +235,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
       <li>Reducing website accessibility errors; and</li>
       <li>Addressing the revised Section 508 requirements for internal agency communications.</li>
     </ul>
+    <hr>
     <h2>
       2017 Interagency Accessibility Forum
     </h2>
@@ -168,13 +277,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards</a> (PPT)
       </li>
     </ul>
-    <div class="border-base radius-lg border-1px">
-      <div class="padding-1">
-        <strong>Before You Go</strong>
-        <p dir="ltr">
-          We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-        </p>
-      </div>
-    </div>
-    <p><strong>Reviewed/Updated</strong>: June 2020</p>
+    <p><strong>Reviewed/Updated</strong>: August 2022</p>
 </div>

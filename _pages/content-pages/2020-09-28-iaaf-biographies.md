@@ -3,12 +3,12 @@ layout: wide
 sidenav: false
 permalink: iaaf/archives/biographies-2020/
 type: page
-title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
+title: 'Interagency Accessibility Forum (IAAF) Archives - 2020 Speaker and Presenter Biographies'
 created: 1601325079
 ---
 
 <p style="text-align:center;">
-  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%" />
+  <img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/images/iaaf-2020-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/>
 </p>
 
 <p style="text-align:center;" id="top">
@@ -1574,4 +1574,11 @@ created: 1601325079
     </p>
   </div>
 </div>
+<div class="border-base radius-lg border-1px">
+  <div class="padding-1">
+    <p class="text-large"><strong>Thank you</strong></p>
+    <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
+  </div>
 </div>
+</div>
+<p><strong>Reviewed/Updated: </strong> April 2021 </p>

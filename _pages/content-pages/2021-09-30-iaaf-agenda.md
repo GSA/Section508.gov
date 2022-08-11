@@ -1,13 +1,15 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/agenda-2021/
+permalink: iaaf/archives/agenda-2021/
 type: page
-title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2021'
+title: 'Interagency Accessibility Forum (IAAF) Archives - 2021 Event Agenda'
 created: 1600981839
+redirect_from:
+- iaaf/agenda-2021/
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 12th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 13th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 14th</a></b>
@@ -22,9 +24,9 @@ created: 1600981839
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#kale">Katy Kale,</a></b></span> Deputy Administrator, General Services Administration (GSA)
       <br><br>
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> Chief Information Officer and Director of the Office of Information Resources Management (IRM),	Merit Systems Protection Board (MSPB)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> Chief Information Officer and Director of the Office of Information Resources Management (IRM),	Merit Systems Protection Board (MSPB)
     </div>
   </div>
 
@@ -34,8 +36,8 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pomeroy">Daniel Pomeroy,</a></b> </span>Deputy Associate Administrator, Office of Information Integrity and Access, General Services Administration (GSA)<br><br>
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#pomeroy">Daniel Pomeroy,</a></b> </span>Deputy Associate Administrator, Office of Information Integrity and Access, General Services Administration (GSA)<br><br>
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span>
         <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Accessible%20Voting%20in%202021%20-%20IAAF%202021.pptx" target="_blank">Accessible Voting in 2021 - IAAF 2021 (PPTX)</a></span>
@@ -58,11 +60,11 @@ created: 1600981839
       <br /> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oden">Dennis Oden,</a></b></span> U.S. Merit Systems Protection Board
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oden">Dennis Oden,</a></b></span> U.S. Merit Systems Protection Board
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> U.S. Merit Systems Protection Board
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#duffy">Robert "Bobby" Duffy,</a></b></span> U.S. Merit Systems Protection Board
       </div>
     </div> 
   </div> 
@@ -78,20 +80,20 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm" >Dancing to Accessibility: How to Fill Your Dance Card - No Special Shoes Required</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Learn the steps to the accessibility dance.  Experts from Civil Rights, 508, IT, procurement and Reasonable accommodations will lead a discussion of the importance of collaboration and networking across disciplines to ensure accessibility for all.  Successes and challenges for filling your agency’s accessibility dance card will be shared. You will leave with tips on when to tap, clog, waltz, and do a little shimmy to make your agency the hip-hopping accessibility place to work.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#ryan">Avis Ryan</a></b>,</span> General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#ryan">Avis Ryan</a></b>,</span> General Services Administration (GSA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#carr">Annette Carr</a></b>, </span>Transportation Security Administration (TSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#carr">Annette Carr</a></b>, </span>Transportation Security Administration (TSA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#humphrey">Yolanda Humphrey</a></b>, </span>Internal Revenue Service (IRS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#humphrey">Yolanda Humphrey</a></b>, </span>Internal Revenue Service (IRS)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#looney">Michael Looney</a></b>, </span>Federal Aviation Administration (FAA) 
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#looney">Michael Looney</a></b>, </span>Federal Aviation Administration (FAA) 
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban</a></b>, </span>Centers for Disease Control and Prevention (CDC)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#urban">Mark Urban</a></b>, </span>Centers for Disease Control and Prevention (CDC)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span>
@@ -104,17 +106,17 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility First: Creating a Native Mobile App for Veterans</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The VA Office of the CTO, along with its partners Ad Hoc and Digital Foundry, created a native mobile flagship app. This app makes it easy for Veterans to check the status of their benefits and complete simple, transactional interactions. The app was designed and developed with an “accessibility first” mindset, and we will talk in detail about how we built in accessibility every day during our design and development process.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#borowicz">Kimberly Borowicz</a></b>, </span> Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#borowicz">Kimberly Borowicz</a></b>, </span> Department of Labor (DOL)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#wilkes">Martha Wilkes</a></b>, </span>U.S. Digital Service
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#wilkes">Martha Wilkes</a></b>, </span>U.S. Digital Service
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#green">Bess Green</a></b>, </span>Digital Foundry
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#green">Bess Green</a></b>, </span>Digital Foundry
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#manak">Meli S. Manek</a></b>, </span>Ad Hoc
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#manak">Meli S. Manek</a></b>, </span>Ad Hoc
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -127,11 +129,11 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation provides best practices and tips for ensuring ICT accessibility is built in as a requirement for Federal government acquisitions. The focus is on evaluating Section 508 compliance for commercial-off-the-shelf (COTS) solutions, as these products represent most of the government's spend on IT. Information relevant to both Federal Agencies and Industry will be shared.</span> 
      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#haileselassie">Antonio Haileselassie</a></b>, </span> National Aeronautics and Space Administration (NASA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#haileselassie">Antonio Haileselassie</a></b>, </span> National Aeronautics and Space Administration (NASA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk</a></b>, </span>National Aeronautics and Space Administration (NASA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sirk">Betsy Sirk</a></b>, </span>National Aeronautics and Space Administration (NASA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -156,14 +158,14 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Apprenticeship and Career Pathways: the Partnership on Inclusive Apprenticeship</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This session will focus on how inclusive apprenticeships can drive access to career paths for diverse job seekers with disabilities. It will highlight the Partnership on Inclusive Apprenticeship (PIA) and its work to advance apprenticeships in high-growth, high-demand fields, such as information technology, cybersecurity, clean and renewable energy, and healthcare. The session will also share PIA's resources that help employers and industry intermediaries increase access to support and foster Universal Design, and adopt accessible technology.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#komissarenko">Jennifer Komissarenko</a></b>, </span>Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#komissarenko">Jennifer Komissarenko</a></b>, </span>Department of Labor (DOL)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#christianson">Josh Christianson,</a></b> </span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#christianson">Josh Christianson,</a></b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#robertson">Scott Robertson,</a> </b> </span> Department of Labor (DOL)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#robertson">Scott Robertson,</a> </b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -176,11 +178,11 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Designing to Support Cognitive and Learning Disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">This presentation will be based on <a href="https://www.w3.org/TR/coga-usable/" class="session-link">Making Content Usable for People with Cognitive and Learning Disabilities</a>. I will discuss personas that illustrate challenges individuals with cognitive and learning disabilities experience when using the web. I will then illustrate solutions through positive and negative design patterns. This will include guidance on plain language as well as overall design strategies.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#small">Dr. Elizabeth Small,</a></b> </span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#small">Dr. Elizabeth Small,</a></b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#montgomery">Dr. Rachel Bradley Montgomery,</a></b> </span>Library of Congress
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#montgomery">Dr. Rachel Bradley Montgomery,</a></b> </span>Library of Congress
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -195,14 +197,14 @@ created: 1600981839
         Open Product Accessibility Template (OPAT) will develop a digital native accessibility compliance report. Based on Section 508 requirements, we will have machine-readable documentation. This will support better validation and automated accessibility testing.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#horton">Michael Horton,</a></b> </span>General Services Administration
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span>        
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#azeem">Syed Azeem,</a></b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#azeem">Syed Azeem,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gifford">Mike Gifford,</a> </b> </span>Civic Actions / General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#gifford">Mike Gifford,</a> </b> </span>Civic Actions / General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -221,14 +223,14 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Inclusive Design Demands Inclusive User Research: How to develop equitable research and testing opportunities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">User research is meant to surface and advocate for the voice of the user. But how do you ensure you’re hearing from those not in the majority? IRS’s Office of Online Services is exploring how to broaden user research capabilities for greater inclusivity, especially in accessibility and language proficiency. We’ll share our accessibility-beyond-compliance mindset and rationales; roadmap for creating inclusive user research practice; early-stage practical tips; and suggestions for measuring progress. Audience discussion welcome.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#watkins">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#watkins">Angela Watkins,</a></b> </span>Pension Benefit Guaranty Corporation (PBGC)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#tenbrink">Ronna ten Brink,</a></b> </span>The MITRE Corporation
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#tenbrink">Ronna ten Brink,</a></b> </span>The MITRE Corporation
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#walden">Alcora Walden,</a> </b> </span>Internal Revenue Service (IRS)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -241,14 +243,14 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Web Accessibility at the CFPB</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The CFPB maintains a large public-facing website at www.consumerfinance.gov. Its design and development team is tasked with ensuring Section 508 compliance so that its content is accessible to all, a challenge given the large number of pages and diversity of content. This talk will present strategies used to meet this challenge, including creation of a design system and use of free, open-source automated accessibility testing tools.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#borowicz">Kimberly Borowicz</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#borowicz">Kimberly Borowicz</a></b></span> Department of Labor (DOL)
         </div>  
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#chosak">Andy Chosak,</a></b> </span> Consumer Financial Protection Bureau (CFPB)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#chosak">Andy Chosak,</a></b> </span> Consumer Financial Protection Bureau (CFPB)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#kim">Sonna Kim,</a> </b> </span> Consumer Financial Protection Bureau (CFPB)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#kim">Sonna Kim,</a> </b> </span> Consumer Financial Protection Bureau (CFPB)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -261,11 +263,11 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Breaking through Silos: Leverage Staff Creativity to Serve the Agency Mission</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">The National Gallery of Art recently launched a large-scale project to make our website more accessible by drafting short descriptions of each of the approximately 200,000 images. Learn how we developed an onboarding process and flexible, scalable workflow that leverages the available time and interests of staff and volunteers. In addition to making the website more accessible, this project builds buy-in and builds capacity for more than one hundred colleagues associated with the institution.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gordy">John Gordy,</a></b> </span> National Gallery of Art (NGA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#gordy">John Gordy,</a></b> </span> National Gallery of Art (NGA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#bradford">Lorena Bradford,</a></b> </span> National Gallery of Art (NGA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#bradford">Lorena Bradford,</a></b> </span> National Gallery of Art (NGA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -276,7 +278,7 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deputy Associate Administrator, General Services Adminsitration (GSA)
+        <span class="speaker-name" id="d1c"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sullivan">John Sullivan,</a></b></span> Senior Technology Advisor to the Deputy Associate Administrator, General Services Adminsitration (GSA)
       </div>
     </div> 
   </div> 
@@ -299,9 +301,9 @@ created: 1600981839
       12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and Opening Remarks</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#campbell">Cheryl Campbell</a></b></span>, Assistant Secretary for Administration, Department of Health and Human Services (HHS)
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#campbell">Cheryl Campbell</a></b></span>, Assistant Secretary for Administration, Department of Health and Human Services (HHS)
       <br><br>
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#duckworth">The Honorable Senator Tammy Duckworth</a></b></span>, United States Senator from Illinois
     </div>
   </div>
   
@@ -310,10 +312,10 @@ created: 1600981839
       12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
     </div>
     <div class="desktop:grid-col-9 tablet:grid-col-9 cell tan agenda-description padding-1">
-      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#heumann">Judith E. Heumann</a></b></span>, International Disability Rights Activist, and Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
+      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#heumann">Judith E. Heumann</a></b></span>, International Disability Rights Activist, and Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
       </div>
     </div>
   </div>
@@ -329,17 +331,17 @@ created: 1600981839
       <span class="session-type">International Digital Accessibilities Activities</span> <!-- <span class="session-description"> DESCRIPTION HERE</span> -->
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#king">Jacob King,</a></b></span> Department of Health and Human Services (HHS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#king">Jacob King,</a></b></span> Department of Health and Human Services (HHS)
       </div> 
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Panelists:</span>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#leblois">Axel Leblois,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#leblois">Axel Leblois,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div> 
       <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#laurin">Susanna Laurin,</a></b></span> Funka
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#laurin">Susanna Laurin,</a></b></span> Funka
       </div>
       <div class="speaker-info padding-top-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sarviro">Dr. Yulia Sarviro,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sarviro">Dr. Yulia Sarviro,</a></b></span> Global Initiative for Inclusive ICTs (G3ict)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -359,23 +361,23 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Neurodiversity at Work: Creating Inclusive Work Futures</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Many people with neurological conditions such as autism spectrum disorder and dyslexia have exceptional skills, including in pattern recognition, memory, and mathematics. Yet they often struggle to fit the profiles sought by employers  and estimates for unemployment for neurodivergent adults range as high as 80% to 85% (HBR 2017). While a growing number of companies are also refining HR processes to hire neurodiverse talent, there are many barriers and more work needs to be done.  This panel will briefly discuss the needs for neurodiversity at work programs, what has worked, as well as, gaps and strategies for mainstreaming based on neurodiverse-led efforts as the future for  creating holistic  inclusive workplaces.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b> </span>NIH National Institute on Mental Health
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#morin">Gary Morin,</a></b> </span>NIH National Institute on Mental Health
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#moore">Rhonda Moore,</a></b></span> National Institutes of Health (NIH)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#center">Jessica Center,</a></b></span> National Institutes of Health (NIH)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#center">Jessica Center,</a></b></span> National Institutes of Health (NIH)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#lyckowski">Natalia Lyckowski,</a></b></span> IBM
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#stassun">Keivan Stassun,</a></b></span> Vanderbilt University School of Engineering
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#stassun">Keivan Stassun,</a></b></span> Vanderbilt University School of Engineering
       </div>     
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#valeur">Charlotte Valeur,</a></b></span> Global Governance Group, UK
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#valeur">Charlotte Valeur,</a></b></span> Global Governance Group, UK
       </div>
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description" id="d2bs1b">
@@ -385,11 +387,11 @@ created: 1600981839
       </span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#windly">William Windly,</a></b> </span><!-- Office -->
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#windly">William Windly,</a></b> </span><!-- Office -->
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#lindemuth">Charles Lindemuth,</a></b> </span>U.S. Forest Service, Department of Agriculture (USDA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#lindemuth">Charles Lindemuth,</a></b> </span>U.S. Forest Service, Department of Agriculture (USDA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -401,14 +403,14 @@ created: 1600981839
       <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Enhancing Accessibility: AI and Machine Learning</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Artificial Intelligence, or AI, is often referred to as the driver of the 4th Industrial revolution, is making unprecedented breakthroughs and is evolving at an exponential rate. My topic will be on AI for Accessibility: 5 ways AI is breaking down barriers, increasing accessibility, and creating a more inclusive internet/web.</span> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#shorter">Kimberly Shorter,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#shorter">Kimberly Shorter,</a></b> </span>Centers for Medicare & Medicaid Services (CMS)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight">Panelists:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span> Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#mcgowan">Brianna McGowan,</a></b> </span> Services Administration (GSA)
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#zaragoza">Pia Zaragoza, PhD,</a> </b> </span>General Services Administration (GSA)
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -434,11 +436,11 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Moving from task based programs to a Safe, Accessible, Functional, Engaging (SAFE) work-life for federal staff with disabilities</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Most agencies provide accessibility and other services for staff with disabilities out of various offices, using individuals in many silos. Tasks are performed related to the person with a disability, but don’t necessarily consider the whole person and their range of needs. This presentation proposes a hopefully more effective, whole-person approach to all kinds of accessibility needs over an employee's work-span.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#whittington">David Whittington,</a></b> </span> Census Bureau
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#whittington">David Whittington,</a></b> </span> Census Bureau
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#fuoco">Angie Fuoco,</a></b> </span> Environmental Protection Agency (EPA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#fuoco">Angie Fuoco,</a></b> </span> Environmental Protection Agency (EPA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -453,14 +455,14 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">From 5,000 to 0: prioritizing documents for remediation</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">There were over 5,000 documents on the Office of Natural Resources Revenue's (ONRR) primary website, onrr.gov. Almost none of them were Section 508 compliant for accessibility. We'll go over how we broke down the list into manageable chunks and prioritized the list. We used this prioritization to create a phased approach that got the most used documents accessible first.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#goldstein">Lindsay Goldstein,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#faied">Maroya Faied,</a></b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#faied">Maroya Faied,</a></b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
+          <span class="speaker-name"><b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#mcharg">Shannon McHarg,</a> </b> </span> Office of Natural Resources Revenue (ONRR)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -474,17 +476,17 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Adopting and Aligning to the ICT Testing Baseline</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">How can an agency prepare to align to the ICT Testing Baseline and/or adopt a Baseline-aligned test process? This presentation will discuss the <a href="https://ictbaseline.access-board.gov/" class="session-link">ICT Accessibility Testing Baseline Portfolio</a> and provide updates on progress and ongoing efforts related to the portfolio. Presenters will also discuss the benefits of adopting and implementing a Baseline-aligned test process in their agencies along with suggestions for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#johnson">Antoinette Johnson,</a></b></span> Centers for Medicare & Medicaid Services (CMS)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#johnson">Antoinette Johnson,</a></b></span> Centers for Medicare & Medicaid Services (CMS)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#eng">Katherine Eng,</a></b></span> U. S. Access Board (UASB)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#horton">Michael Horton,</a></b></span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#horton">Michael Horton,</a></b></span> General Services Administration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -504,14 +506,14 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Reframe and Reinforce: Using Lessons from Neuroscience to Improve Leadership Understanding and Support for Accessibility</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Metaphors have been used as powerful teaching tools throughout history because they link new concepts to concepts people already understand, reframing in a way that allows listeners to more easily learn. Today, neuroscientists call this "neural reuse," which is the theory that metaphors use the exact same neural circuits as the new, more difficult concept being shared. In other words, metaphors don't "dumb down" an idea - they help listeners more quickly understand difficult new concepts! By reframing accessibility issues through the use of metaphors, and then reinforcing these ideas over time, you can successfully engage your leadership and turn them into true Section 508 Evangelists!</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#windly">William Windly,</a></b> </span>General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#windly">William Windly,</a></b> </span>General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#jubar">Brandon Jubar,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#jubar">Brandon Jubar,</a></b></span> Department of Labor (DOL)
         </div> 
         <!-- <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">Director,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#">Director,</a></b></span> Department of Labor (DOL)
         </div> -->
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -525,17 +527,17 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">What is the Current State of Audio Description in the US Federal Government?</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Section 508 of the Rehabilitation Act requires that federal agencies use electronic and information technology that is accessible to people with disabilities. For video and multimedia projects, this means captioning for Deaf and hard-of-hearing persons. It also means audio description (AD) for persons who are blind or partially sighted. Learn all you need to know about AD and how you can make your media projects accessible in a cost effective manner.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Administration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Administration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#morin">Gary Morin,</a></b></span> National Institutes of Health (NIH)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#morin">Gary Morin,</a></b></span> National Institutes of Health (NIH)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#sheehan">Pat Sheehan,</a></b></span> Department of Veteran Affairs (VA)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sheehan">Pat Sheehan,</a></b></span> Department of Veteran Affairs (VA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#snyder">Dr. Joel Snyder,</a></b></span> Audio Description Associates, LLC
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#snyder">Dr. Joel Snyder,</a></b></span> Audio Description Associates, LLC
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
@@ -549,18 +551,18 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">TITLE</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">DESCRIPTION.</span> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#">TBD,</a></b> </span> General Services Administration
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#">TBD,</a></b> </span> General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#">TBD,</a></b> </span> General Services Administration
         </div> 
       </div>-->
     </div> 
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1">4:00 P.M. – 4:10 P.M. <br><span class="session-type">Day in Review</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name" id="d2c"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> Director of the Government-wide IT Accessibility Program, General Services Administration
+        <span class="speaker-name" id="d2c"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#nielson">Andrew Nielson,</a></b></span> Director of the Government-wide IT Accessibility Program, General Services Administration
       </div>
     </div> 
   </div>
@@ -579,9 +581,9 @@ created: 1600981839
     <div class="grid-row welcome">
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d3w">12:00 P.M. – 12:10 P.M. <br><span class="session-type">Welcome and Opening Remarks</span></div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#brumfield">Krystal Brumfield,</a></b></span> Associate Administrator, Office of Government-wide Policy, General Services Administration (GSA)
         <br><br>
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Information Officer, Department of Labor (DOL)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#charlier">Lou Charlier,</a></b></span> Deputy Chief Information Officer, Department of Labor (DOL)
       </div>
     </div>
     <div class="grid-row keynote" id="d3k">
@@ -591,23 +593,23 @@ created: 1600981839
         <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental  part of what the government stands for in supporting its employees and the American public. Today you will get a brief look at that foundation....its past, present, and future.</span>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Adminsitration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Adminsitration (GSA)
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)          
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#aiken">Brooke Aiken,</a></b></span> Federal Deposit Insurance Corporation (FDIC)          
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#creagan">Tim Creagan,</a></b></span> U.S. Access Board
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> General Services Adminsitration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#gibson">Yvette Gibson,</a></b></span> General Services Adminsitration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Adminsitration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#nielson">Andrew Nielson,</a></b></span> General Services Adminsitration (GSA)
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Adminsitration (GSA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sullivan">John Sullivan,</a></b></span> General Services Adminsitration (GSA)
         </div> 
       </div>
     </div>
@@ -675,17 +677,17 @@ created: 1600981839
         </span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#jubar">Brandon Jubar,</a></b> </span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#jubar">Brandon Jubar,</a></b> </span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#aguh">Chike Aguh,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#aguh">Chike Aguh,</a></b></span> Department of Labor (DOL)
         </div> 
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#raghu">Maya Raghu,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#raghu">Maya Raghu,</a></b></span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/biographies-2021#williams">Taryn Mackenzie Williams,</a></b></span> Department of Labor (DOL)
+          <span class="speaker-name"> <b> <a href="{{site.baseurl}}/iaaf/archives/biographies-2021#williams">Taryn Mackenzie Williams,</a></b></span> Department of Labor (DOL)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span>
@@ -704,17 +706,17 @@ created: 1600981839
         <span class="session-description">End your IAAF experience with an opportunity to compare visions from key governmentwide accessibility experts! Mark Urban queries an all-star panel of leaders from the US Access Board, the General Services Administration (GSA), and National Aeronautics and Space Administration (NASA) as they peer into the past and future of Digital Accessibility, and answer questions about its’ broader role as part of the emerging governmentwide Diversity, Equity, Inclusion, and Accessibility efforts.</span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#urban">Mark Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#urban">Mark Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span><span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)</span>
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span><span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)</span>
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#sirk">Betsy Sirk,</a></b></span> National Aeronautics and Space Administration (NASA)
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#sirk">Betsy Sirk,</a></b></span> National Aeronautics and Space Administration (NASA)
         </div>            
         <!-- <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span>
@@ -728,10 +730,10 @@ created: 1600981839
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell ltblue agenda-description padding-1">
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director, Government-wide Accessibility (Section 508) Training & Outreach, Office of Government-wide Policy, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#gibson">Yvette Gibson,</a></b></span> Director, Government-wide Accessibility (Section 508) Training & Outreach, Office of Government-wide Policy, General Services Administration
         </div>
         <div class="speaker-info padding-top-1">
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Office of Government-wide Policy, General Services Administration
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#harding">Steve Harding,</a></b></span> Director of Digital Strategies, Office of Government-wide Policy, General Services Administration
         </div>
       </div>
     </div>
@@ -836,10 +838,10 @@ created: 1600981839
         </li>
       </ul>
     </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
+<div class="border-base radius-lg border-1px">
   <div class="padding-1">
     <p class="text-large"><strong>Thank you</strong></p>
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong> October 13, 2021 </p>
+<p><strong>Reviewed/Updated:</strong> August 2022</p>
