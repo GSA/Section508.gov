@@ -9,8 +9,8 @@ redirect_from:
 - iaaf/biographies-2021/
 ---
 
-<p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
-<img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
+<p style="text-align:center;">
+  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
 </p>
 
 <p style="text-align:center;" id="top">

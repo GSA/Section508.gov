@@ -9,7 +9,9 @@ redirect_from:
 - iaaf/agenda-2021/
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<p style="text-align:center;">
+  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
+</p>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 12th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 13th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 14th</a></b>
