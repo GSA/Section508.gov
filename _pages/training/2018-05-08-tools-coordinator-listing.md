@@ -121,7 +121,7 @@ Ryan Schneider - <ryan.schneider@usda.gov>
 Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 
 ----------------------------------------------------
-## <span id="usdoc"></span>Department of Commerce
+## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 ### National Institute of Standards and Technology (NIST)
@@ -136,7 +136,7 @@ Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>
 Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 
 ----------------------------------------------------
-## <span id ="usdod" ></span>Department of Defense
+## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
 ### Air Force
@@ -146,8 +146,9 @@ VACANT
 ### Army
 Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>  
 
-  * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
-  * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
+  * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>  
+  * **United States Army Materiel Command** - John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
+  * **United States Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
 ### Center for Development of Security Excellence (CDSE)
 Kevin J. Malone - 000-000-0000 - <kevin.j.mullone.civ@mail.mil>
@@ -225,12 +226,12 @@ Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>
 Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 
 ----------------------------------------------------
-## <span id="usdoen" ></span>Department of Energy
+## <span id="usdoen" ></span>Department of Energy (DOE)
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
 Sandra Logan (BACKUP)  
 
 ----------------------------------------------------
-## <span id="usdohhs" ></span>Department of Health and Human Services
+## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
 Kate Maynor Sweeney - <kate.Maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
@@ -257,7 +258,7 @@ Cammie Truesdell - <cammie.truesdell@hhs.gov>
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
 ----------------------------------------------------
-## <span id="usdhs" ></span>Department of Homeland Security
+## <span id="usdhs" ></span>Department of Homeland Security (DHS)
 ### Department-wide
 Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
 ### Countering Weapons of Mass Destruction (CWMD)
@@ -305,11 +306,11 @@ Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
 ----------------------------------------------------
-## <span id="usdhud" ></span>Department of Housing and Urban Development
+## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
 Jeffrey Salit - 202-402-7507 - <jeffrey.l.salit@hud.gov>
 
 ----------------------------------------------------
-## <span id="usdoi" ></span>Department of the Interior
+## <span id="usdoi" ></span>Department of the Interior (DOI)
 ### Department-wide
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ### Bureau of Indian Affairs (BIA)
@@ -344,8 +345,9 @@ Edward Olexa - <section508@usgs.gov>
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
 ----------------------------------------------------
-## <span id="usdoj" ></span>Department of Justice
+## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
+Robert J. Houser - <robert.j.houser@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
 ### Antitrust Division
 Geraldo Despain - <gerardo.despian@usdoj.gov>  
@@ -401,7 +403,7 @@ Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
 Katie Kinnecome - <katie.kinnecome@usdoj.gov>
 
 ----------------------------------------------------
-## <span id="usdol" ></span>Department of Labor
+## <span id="usdol" ></span>Department of Labor (DOL)
 Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>
 Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 
@@ -411,7 +413,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 <span id="usdot" ></span>
 
 ----------------------------------------------------
-## Department of Transportation
+## Department of Transportation (DOT)
 ### Department-wide
 Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
 ### Federal Highway Administration (FHWA)
@@ -420,7 +422,7 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
 ----------------------------------------------------
-## <span id="usdott" ></span>Department of the Treasury
+## <span id="usdott" ></span>Department of the Treasury (DOT)
 ### Department-wide
 VACANT
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
@@ -451,49 +453,49 @@ James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>
 Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 
 ----------------------------------------------------
-## <span id="usdova" ></span>Department of Veterans Affairs
+## <span id="usdova" ></span>Department of Veterans Affairs (VA)
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ----------------------------------------------------
-## <span id="usepa" ></span>Environmental Protection Agency
+## <span id="usepa" ></span>Environmental Protection Agency (EPA)
 David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ----------------------------------------------------
-## <span id="usgsa" ></span>General Services Administration
+## <span id="usgsa" ></span>General Services Administration (GSA)
 Charles Popelka - 703-605-2637 - <charles.popelka@gsa.gov>  
 Dan Perkins (Deputy) - 816-823-1717 - <dan.perkins@gsa.gov>
 
 ----------------------------------------------------
-## <span id="usnasa" ></span>National Aeronautics and&nbsp;Space Administration
-Fatima C. Johnson - 202-358-1631 - <fatima.c.johnson@nasa.gov>
+## <span id="usnasa" ></span>National Aeronautics and Space Administration (NASA)
+Courtney L. Ritz - 301-286-7946 - <courtney.l.ritz@nasa.gov>  
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - 301-286-0150 - <betsy.sirk-1@nasa.gov>
 
 ----------------------------------------------------
-## <span id="usnsf" ></span>National Science Foundation
+## <span id="usnsf" ></span>National Science Foundation (NSF)
 Katherine Otts - 703-292-7552 - <kotts@nsf.gov>
 
 ----------------------------------------------------
-## <span id="usnrc" ></span>Nuclear Regulatory Commission
+## <span id="usnrc" ></span>Nuclear Regulatory Commission (NRC)
 John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
-## <span id="usopm" ></span>Office of Personnel Management
+## <span id="usopm" ></span>Office of Personnel Management (OPM)
 Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
 
 ----------------------------------------------------
-## <span id="ussba" ></span>Small Business Administration
+## <span id="ussba" ></span>Small Business Administration (SBA)
 Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
 
 ----------------------------------------------------
-## <span id="usssn" ></span>Social Security Administration
+## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
 
 ----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
 
-### Access Board
+### Access Board (USAB)
 Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>
 
 <span id="C" ></span>
@@ -568,7 +570,7 @@ Dennis Oden - 202-254-4723 - <dennis.oden@mspb.gov>
 
 ### National Archives & Records Administration (NARA)
 Eric Chaskes - 301-837-1586 - <eric.chaskes@nara.gov>  
-Frank Samuels - 301-837-0634 - <frank.samuels@nara.gov>
+Jocelyn	Blakely-Hill - 301-837-0314 - <jocelyn.blakely-hill@nara.gov>  
 ### National Credit Union Administration (NCUA)
 Nickol Davenport - 703-548-2185 - <edavenport@ncua.gov>
 ### National Endowment for the Humanities (NEH)
