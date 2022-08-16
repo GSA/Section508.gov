@@ -348,7 +348,7 @@ Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
 Robert J. Houser - <robert.j.houser@usdoj.gov>  
-Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
+Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
 Geraldo Despain - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
@@ -382,7 +382,7 @@ FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Scott Jenkins - 202-514-4670 - <scott.Jenkins@usdoj.gov>
 ### Justice Management Division
-VACANT
+Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### National Institute of Corrections
 Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>
 ### National Security Division
