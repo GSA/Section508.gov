@@ -10,8 +10,9 @@ affiliation_long: General Services Administration
 position: Senior ICT Accessibility Specialist
 location: Washington, D.C.
 email: michael.horton@gsa.gov
-image_url: https://assets.section508.gov/files/bio-images/bio-horton-cc.png
-iaaf_years: 2022 
+image_url: https://assets.section508.gov/files/bio-images/horton-michael.png
+iaaf_years: 2022  
+iaaf_2022: Moderator, d1s2, New Program Managers,
 ---
 Michael Horton is a Senior ICT Accessibility Specialist with the Office of Government-wide Policy at the General Services Administration (GSA) providing technical assistance to federal agencies on Section 508. He also serves as the Co-chair of the CIO Council (CIOC) Accessbility Community of Practice (ACOP) Best-Practices Subcommitte.
  

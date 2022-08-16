@@ -8,7 +8,7 @@ created: 1601325079
 ---
 
 <p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
-  <img alt="Annual Interagency Accessibility Forum. October 11 & 13, 2022." src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" /></a>
+  <img alt="Annual Interagency Accessibility Forum. October 11 & 13, 2022." src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" style="width:100%" class="border-base radius-lg border-0px" /></a>
 </p>
 
 <p style="text-align:center;" id="top">
@@ -44,7 +44,7 @@ created: 1601325079
       <img class="circle-card border-05 border-base-light shadow-1" src="{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
     </div>
     <div class="desktop:grid-col-10 tablet:grid-col-10 padding-left-4">
-      <h3 id="{{ bio.name }}" class="margin-top-0">{{ bio.display_name }}</h3>
+      <h3 id="{{ bio.first_name | downcase }}-{{ bio.last_name | downcase }}-{{ bio.affiliation_short | downcase }}" class="margin-top-0">{{ bio.display_name }}</h3>
       <p>
         <em><span>{{ bio.position }}</span></em><br /><span>{{ bio.affiliation_long }}</span>
       </p>
@@ -53,8 +53,16 @@ created: 1601325079
         {{ bio.content | markdownify }}
         </span>
       </p>
-      <p>
+      <!-- <p>
         <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      </p> -->
+      {% assign sessions = bio.iaaf_2022 | split: ','%}
+      <p>
+        
+        {% for session in sessions %}
+          <em><span>{{ session }}: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session }}"><em><span>{{ session }}</span></em></a>
+        {% endfor %}
+
       </p>
     </div>
   </div>
