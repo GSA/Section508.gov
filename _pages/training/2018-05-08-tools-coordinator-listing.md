@@ -138,7 +138,8 @@ Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 ----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
-Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
+Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>  
+Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
 Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 ### Air National Guard
@@ -171,10 +172,10 @@ Ms. Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
-Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
+Angela M. Edwards (BACKUP) - <angela.m.edwards10.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
-DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
+DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
@@ -187,16 +188,19 @@ Yvette Jacks - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil
 Christine Durose (BACKUP) - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Robert (Rob) Bleck - 571-616-4080 - <robert.r.bleck.civ@mail.mil>  
+James O. Taylor - <james.o.taylor52.civ@mail.mil>  
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
 VACANT
 ### Missile Defense Agency
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
-Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>
+Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>  
+Julie M. Hartmann (BACKUP) - <julie.m.hartmann.ctr@ndu.edu>  
 ### National Geospatial Intelligence Agency
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
+### National Guard Bureau
+Nguyen D. Lam - <nguyen.d.lam.civ@army.mil>  
 ### National Reconnaissance Office
 Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
 ### Navy
@@ -626,7 +630,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong> March 23, 2022
+    <strong>Reviewed/Updated:</strong> August 17, 2022
   </p>
 </div>
 
