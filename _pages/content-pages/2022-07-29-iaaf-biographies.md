@@ -53,16 +53,8 @@ created: 1601325079
         {{ bio.content | markdownify }}
         </span>
       </p>
-      <!-- <p>
-        <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
-      </p> -->
-      {% assign sessions = bio.iaaf_2022 | split: ','%}
       <p>
-        
-        {% for session in sessions %}
-          <em><span>{{ session }}: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session }}"><em><span>{{ session }}</span></em></a>
-        {% endfor %}
-
+        <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
       </p>
     </div>
   </div>

@@ -1,0 +1,107 @@
+2022:
+  - day: 1
+    sessions: 
+      - name: Welcome and Opening Remarks
+        time_start: 2022-10-11 12:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2022-10-11 12:10:00
+        id: d1w
+        description:
+        roles: 
+          - name: Speaker #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #bio_id for this person 
+          - name: Speaker 
+            who: steve-harding
+      - name: New PMs
+        time_start: 
+        time_end:
+        id: d1w1a
+        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who: michael-horton #bio_id for this person 
+          - name: panelist
+            who: andrew-nielson
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: 
+          - name: moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
+  - day: 2
+    sessions: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: #bio_id for this person 
+          - name: 
+            who: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
+  - day: 3
+    sessions: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name:  #moderator, speaker, introducer, presenter, instructor, panelist 
+            who: #bio_id for this person 
+          - name: 
+            who: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
+      - name: 
+        time_start: 
+        time_end:
+        id: 
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
+            who:  #bio_id for this person 
+          - name: 
+            who: 
