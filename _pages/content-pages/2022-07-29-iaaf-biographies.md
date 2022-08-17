@@ -44,7 +44,7 @@ created: 1601325079
       <img class="circle-card border-05 border-base-light shadow-1" src="{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
     </div>
     <div class="desktop:grid-col-10 tablet:grid-col-10 padding-left-4">
-      <h3 id="{{ bio.first_name | downcase }}-{{ bio.last_name | downcase }}-{{ bio.affiliation_short | downcase }}" class="margin-top-0">{{ bio.display_name }}</h3>
+      <h3 id="{{ bio.bio_id }}" class="margin-top-0">{{ bio.display_name }}</h3>
       <p>
         <em><span>{{ bio.position }}</span></em><br /><span>{{ bio.affiliation_long }}</span>
       </p>
@@ -54,7 +54,16 @@ created: 1601325079
         </span>
       </p>
       <p>
-        <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2021#d1gs1"><em><span>Session_Name</span></em></a>
+      <!-- for each day/session/role -->
+        {% for day in site.data.iaaf_sessions.iaaf_2022 %}
+          {% for session in day.sessions %}
+            {% for role in session.roles %}
+              {% if role.who contains bio.bio_id %}
+                <em><span>{{ role.name }}: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span> {{ session.name }}</span></em></a><br> 
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% endfor %}
       </p>
     </div>
   </div>

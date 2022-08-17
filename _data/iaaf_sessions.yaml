@@ -1,107 +1,350 @@
-2022:
+# Reference 
+# session_types: welcome, keynote, general, panel, break
+# time_start/time_end format: YYYY-MM-DD HH:MM:SS
+# use single quotes ' to escape ":" or "-" errors in titles or descriptions 
+
+iaaf_2022:
   - day: 1
     sessions: 
-      - name: Welcome and Opening Remarks
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
         time_start: 2022-10-11 12:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2022-10-11 12:10:00
-        id: d1w
+        session_id: d1w
         description:
         roles: 
-          - name: Speaker #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: yvette-gibson #bio_id for this person 
-          - name: Speaker 
+          - name: 
             who: steve-harding
-      - name: New PMs
-        time_start: 
-        time_end:
-        id: d1w1a
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who: michael-horton #bio_id for this person 
-          - name: panelist
-            who: andrew-nielson
-      - name: 
-        time_start: 
-        time_end:
-        id: 
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 12:10:00
+        time_end: 2022-10-11 13:00:00
+        session_id: d1bs1
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 1)
+            track_id: d1bs1a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Captioning & Live Audio Descriptions (Part 1)
+            track_id: d1bs1b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+              - name: Panelist
+                who: michael-horton
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 13:00:00
+        time_end: 2022-10-11 13:10:00
+        session_id: d1b1
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 13:10:00
+        time_end: 2022-10-11 14:00:00
+        session_id: d1bs2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 2)
+            track_id: d1bs2a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'
+            track_id: d1bs2b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 14:00:00
+        time_end: 2022-10-11 14:10:00
+        session_id: d1b2
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 14:10:00
+        time_end: 2022-10-11 15:00:00
+        session_id: d1bs3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'The Human Reason for Accessibility'
+            track_id: d1bs3a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Accessible Forms & Tables
+            track_id: d1bs3b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 15:00:00
+        time_end: 2022-10-11 15:10:00
+        session_id: d1b4
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 15:10:00
+        time_end: 2022-10-11 16:00:00
+        session_id: d1bs4
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 2)
+            track_id: d1bs4a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Captioning & Live Audio Descriptions (Part 2)
+            track_id: d1bs4b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Closing' 
+        time_start: 2022-10-11 16:00:00
+        time_end: 2022-10-11 16:10:00
+        session_id: d1c
         description: 
         roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who:  #bio_id for this person 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #use bio_id
           - name: 
-            who: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: 
-          - name: moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who:  #bio_id for this person 
-          - name: 
-            who: 
+            who: steve-harding
   - day: 2
     sessions: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2022-10-12 10:00:00
+        time_end: 2022-10-12 10:05:00
+        session_id: day2welcome
+        description:
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #bio_id for this person 
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-12 10:05:00
+        time_end: 2022-10-12 11:00:00
+        session_id: day2general1
+        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: Dennis Papula #bio_id for this person 
+          - name: Introduction #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: michael-horton #bio_id for this person         
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-12 11:00:00
+        time_end: 2022-10-12 11:05:00
+        session_id: day2break1
+        descrioption:
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2022-10-12 11:05:00
+        time_end: 2022-10-12 11:45:00
+        session_id: day2keynote
+        roles: #list each roles as you intend the display on the page
+          - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: kim-knackstadt #bio_id for this person 
+          - name: Introduction
+            who: andrew-nielson
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-12 11:45:00
+        time_end: 2022-10-12 11:50:00
+        session_id: day2break2
+        description:
+      - name: 'General Session'
+        type: panel
+        time_start: 2022-10-12 11:50:00
+        time_end: 2022-10-12 12:30:00
+        session_id: day2panel1
+        subtitle: 'Technology to Expand Neurodiverse Accessibility at Work'
+        description:
+        roles: #list each roles as you intend the display on the page
+          - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: rhonda-moore #bio_id for this person 
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Lunch'
+        type: break
+        time_start: 2022-10-12 12:30:00
+        time_end: 2022-10-12 13:00:00
+        session_id: day2break3
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 13:00:00
+        time_end: 2022-10-12 13:45:00
+        session_id: day2breakout1
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 2)
+            track_id: day2breakout1a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            track_id: day2breakout1b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-12 13:45:00
+        time_end: 2022-10-12 14:00:00
+        session_id: day2break3
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 14:00:00
+        time_end: 2022-10-12 14:45:00
+        session_id: day2breakout2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 2)
+            track_id: day2breakout2a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            track_id: day2breakout2b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-12 14:45:00
+        time_end: 2022-10-12 15:00:00
+        session_id: day2break4
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 15:00:00
+        time_end: 2022-10-12 15:45:00
+        session_id: day2breakout3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: Accessible Meetings (Part 2)
+            track_id: day2breakout3a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: macey-fox #bio_id for this person 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            track_id: day2breakout3b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Closing' 
+        time_start: 2022-10-11 16:00:00
+        time_end: 2022-10-11 16:10:00
+        session_id: d1c
         description: 
         roles: #list each roles as you intend the display on the page
-          - name: moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: #bio_id for this person 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #use bio_id
           - name: 
-            who: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who:  #bio_id for this person 
-          - name: 
-            who: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who:  #bio_id for this person 
-          - name: 
-            who: 
-  - day: 3
-    sessions: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: #list each roles as you intend the display on the page
-          - name:  #moderator, speaker, introducer, presenter, instructor, panelist 
-            who: #bio_id for this person 
-          - name: 
-            who: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who:  #bio_id for this person 
-          - name: 
-            who: 
-      - name: 
-        time_start: 
-        time_end:
-        id: 
-        description: 
-        roles: #list each roles as you intend the display on the page
-          - name: moderator #moderator, speaker, introducer, presenter, instructor, panelist 
-            who:  #bio_id for this person 
-          - name: 
-            who: 
+            who: steve-harding

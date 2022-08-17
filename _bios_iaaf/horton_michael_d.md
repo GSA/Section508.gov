@@ -7,6 +7,7 @@ last_name: Horton
 affiliation_short: GSA
 affiliation_long: General Services Administration
 position: Senior ICT Accessibility Specialist
+office: Office of Government-wide Policy
 location: Washington, D.C.
 email: michael.horton@gsa.gov
 image_url: https://assets.section508.gov/files/bio-images/horton-michael.png

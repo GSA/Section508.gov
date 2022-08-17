@@ -1,13 +1,13 @@
 ---
 title: Yvette Gibson ##First Last
-contributor_id: gibson ##last
-contributor_type: individual 
+bio_id: yvette-gibson ##last
 display_name: Yvette Gibson ##First Last
 first_name: Yvette
 last_name: Gibson
 affiliation_short: GSA
 affiliation_long: General Services Administration
 position: Training & Outreach Director
+office: Office of Government-wide Policy
 location: Washington, D.C.
 email: yvette.gibson@gsa.gov ##lowercase
 image_url: https://assets.section508.gov/files/bio-images/gibson-yvette.png

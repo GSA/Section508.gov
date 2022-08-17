@@ -1,7 +1,7 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/agenda-2022-old/
+permalink: iaaf/agenda-2022/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 created: 1600981839
@@ -13,8 +13,42 @@ created: 1600981839
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 11th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 12th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 13th</a></b>
 </div>
 
+{% for day in site.data.iaaf_sessions.iaaf_2022 %}
+  <!-- BEGIN DAY {{ day.day }} -->
+  <h2 class="font-body-lg" id="progday2">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
+  
+  <div class="usa-graphic-list__row container" id="day{{ day.day }}">
+    <!-- start agenda -->
+    {% for session in day.sessions %}
+    {% if type == "welcome" %}{% assign session-class = "welcome" %}{% assign descr-class = "ltblue" %}{% endif %}
+      <div class="grid-row {{ session-class }}">
+        <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="{{ session.session_id }}">
+          {{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br>
+          <span class="session-type">{{ session.name }}</span>
+        </div>
+        <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
+          {% if session.roles %}
+            {% for role in session.roles %}
+            {% assign bio_id = role.who %}
+              {% for bio in site.bios_iaaf %}
+                {% if bio.bio_id == bio_id %}
+                  <div class="speaker-info padding-top-1">
+                    <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2021#{{ bio_id }}">{{ bio.display_name }}</a></b></span>
+                    <span>{{ bio.position }}, {{ bio.affiliation_long }}</span>
+                  </div>      
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+{% endfor %}
 <!-- BEGIN DAY 1 -->
 <div class="usa-graphic-list__row container" id="day1">
+
   <!-- start agenda -->
   <div class="grid-row welcome" id="welcome">
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell navy padding-1" id="d1w">12:00 P.M. – 12:10 P.M.<br><span class="session-type">Welcome and<br />Opening Remarks</span></div>

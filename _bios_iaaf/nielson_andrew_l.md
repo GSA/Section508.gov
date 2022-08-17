@@ -1,13 +1,13 @@
 ---
 title: Andrew Nielson
-contributor_id: nielson
-contributor_type: individual
+bio_id: andrew-nielson
 display_name: Andrew Nielson
 first_name: Andrew
 last_name: Nielson
 affiliation_short: GSA
 affiliation_long: General Services Administration
 position: Director, Government-wide IT Accessibility Program
+office: Office of Government-wide Policy 
 location: Washington, D.C.
 email: andrew.nielson@gsa.gov
 image_url: https://assets.section508.gov/files/bio-images/nielson-andrew.png
