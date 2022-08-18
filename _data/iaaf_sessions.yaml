@@ -10,7 +10,7 @@ iaaf_2022:
         type: welcome
         time_start: 2022-10-11 12:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2022-10-11 12:10:00
-        session_id: d1w
+        session_id: day1welcome
         description:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -21,11 +21,11 @@ iaaf_2022:
         type: breakout
         time_start: 2022-10-11 12:10:00
         time_end: 2022-10-11 13:00:00
-        session_id: d1bs1
+        session_id: day1breakout1
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 1)
-            track_id: d1bs1a
+            name_breakout: 'Accessible Meetings (Part 1)'
+            track_id: day1breakout1a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -36,8 +36,8 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Captioning & Live Audio Descriptions (Part 1)
-            track_id: d1bs1b
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 1)'
+            track_id: day1breakout1a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -53,17 +53,17 @@ iaaf_2022:
         type: break
         time_start: 2022-10-11 13:00:00
         time_end: 2022-10-11 13:10:00
-        session_id: d1b1
+        session_id: day1break1
         descrioption:
       - name: 'Workshop'
         type: breakout
         time_start: 2022-10-11 13:10:00
         time_end: 2022-10-11 14:00:00
-        session_id: d1bs2
+        session_id: day1breakout2
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 2)
-            track_id: d1bs2a
+            name_breakout: 'Accessible Meetings (Part 2)'
+            track_id: day1breakout2a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -75,7 +75,7 @@ iaaf_2022:
                 file_name:
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'
-            track_id: d1bs2b
+            track_id: day1breakout2b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -89,17 +89,17 @@ iaaf_2022:
         type: break
         time_start: 2022-10-11 14:00:00
         time_end: 2022-10-11 14:10:00
-        session_id: d1b2
+        session_id: day1break2
         descrioption:
       - name: 'Workshop'
         type: breakout
         time_start: 2022-10-11 14:10:00
         time_end: 2022-10-11 15:00:00
-        session_id: d1bs3
+        session_id: day1breakout3
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
             name_breakout: 'The Human Reason for Accessibility'
-            track_id: d1bs3a
+            track_id: day1breakout3a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -110,8 +110,8 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Accessible Forms & Tables
-            track_id: d1bs3b
+            name_breakout: 'Accessible Forms & Tables'
+            track_id: day1breakout3b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -125,17 +125,17 @@ iaaf_2022:
         type: break
         time_start: 2022-10-11 15:00:00
         time_end: 2022-10-11 15:10:00
-        session_id: d1b4
+        session_id: day1break3
         descrioption:
       - name: 'Workshop'
         type: breakout
         time_start: 2022-10-11 15:10:00
         time_end: 2022-10-11 16:00:00
-        session_id: d1bs4
+        session_id: day1breakout4
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 2)
-            track_id: d1bs4a
+            name_breakout: 'Accessible Meetings (Part 2)'
+            track_id: day1breakout4a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -146,8 +146,8 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Captioning & Live Audio Descriptions (Part 2)
-            track_id: d1bs4b
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'
+            track_id: day1breakout4b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -160,7 +160,7 @@ iaaf_2022:
       - name: 'Closing' 
         time_start: 2022-10-11 16:00:00
         time_end: 2022-10-11 16:10:00
-        session_id: d1c
+        session_id: day1close
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -243,7 +243,7 @@ iaaf_2022:
         session_id: day2breakout1
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 2)
+            name_breakout: 'Accessible Meetings (Part 2)'
             track_id: day2breakout1a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -255,7 +255,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'        
             track_id: day2breakout1b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -270,7 +270,7 @@ iaaf_2022:
         type: break
         time_start: 2022-10-12 13:45:00
         time_end: 2022-10-12 14:00:00
-        session_id: day2break3
+        session_id: day2break4
         descrioption:
       - name: 'Breakout Session'
         type: breakout
@@ -279,7 +279,7 @@ iaaf_2022:
         session_id: day2breakout2
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 2)
+            name_breakout: 'Accessible Meetings (Part 2)'
             track_id: day2breakout2a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -291,7 +291,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'            
             track_id: day2breakout2b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -306,7 +306,7 @@ iaaf_2022:
         type: break
         time_start: 2022-10-12 14:45:00
         time_end: 2022-10-12 15:00:00
-        session_id: day2break4
+        session_id: day2break5
         descrioption:
       - name: 'Breakout Session'
         type: breakout
@@ -315,7 +315,7 @@ iaaf_2022:
         session_id: day2breakout3
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: Accessible Meetings (Part 2)
+            name_breakout: 'Accessible Meetings (Part 2)'
             track_id: day2breakout3a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -327,7 +327,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: Captioning & Live Audio Descriptions (Part 2)            
+            name_breakout: 'Captioning & Live Audio Descriptions (Part 2)'         
             track_id: day2breakout3b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             roles: #list each roles as you intend the display on the page
@@ -339,9 +339,224 @@ iaaf_2022:
               - link_name: 
                 file_name:
       - name: 'Closing' 
-        time_start: 2022-10-11 16:00:00
-        time_end: 2022-10-11 16:10:00
-        session_id: d1c
+        time_start: 2022-10-12 15:45:00
+        time_end: 2022-10-12 16:00:00
+        session_id: day2close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #use bio_id
+          - name: 
+            who: steve-harding
+  - day: 3
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2022-10-13 10:00:00
+        time_end: 2022-10-13 10:05:00
+        session_id: day3welcome
+        description:
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: pomeroy-daniel #bio_id for this person 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: harding-steve #bio_id for this person 
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-13 10:05:00
+        time_end: 2022-10-13 11:00:00
+        session_id: day2general1
+        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        subtitle: "Possibly Andrew O'Neal"
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: nielson-andrew #bio_id for this person 
+          - name: Panelist #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: oneal-andrea #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-13 11:00:00
+        time_end: 2022-10-13 11:05:00
+        session_id: day3break1
+        descrioption:
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2022-10-13 11:05:00
+        time_end: 2022-10-13 11:45:00
+        session_id: day3keynote
+        roles: #list each roles as you intend the display on the page
+          - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: al-mohamed-day #bio_id for this person 
+          - name: Introduction
+            who: brumfield-krystal
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-13 11:45:00
+        time_end: 2022-10-13 11:50:00
+        session_id: day3break2
+        description:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 11:50:00
+        time_end: 2022-10-13 12:35:00
+        session_id: day3breakout1
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'Accessibility Maturity Models'
+            track_id: day3breakout1a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: Shannon Paschell #bio_id for this person 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Buy and Manage Compliance'
+            name_breakout: 'TBD (FDIC?)'
+            track_id: day3breakout1b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: aiken-brooke #use bio_id 
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Lunch'
+        type: break
+        time_start: 2022-10-13 12:35:00
+        time_end: 2022-10-13 13:00:00
+        session_id: day3break3
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 13:00:00
+        time_end: 2022-10-13 13:45:00
+        session_id: day3breakout2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'A Different Perspective for Looking at Accessibility'
+            track_id: day3breakout2a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: carr-annette #bio_id for this person 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Buy and Manage Compliance'
+            name_breakout: 'Market Research With Accessibility In Mind'            
+            track_id: day3breakout2b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: watkins-angela #use bio_id 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 13:45:00
+        time_end: 2022-10-13 14:00:00
+        session_id: day3break4
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 14:00:00
+        time_end: 2022-10-13 14:45:00
+        session_id: day3breakout3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'Centralizing Accessibility Services is Key to Success!'
+            track_id: day3breakout3a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: kiefer-linda #bio_id for this person 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Buy and Manage Compliance'
+            name_breakout: 'Demystifying Section 508: Creating and Evaluation Accessibility Conformance Reports'            
+            track_id: day3breakout3b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 14:45:00
+        time_end: 2022-10-13 15:00:00
+        session_id: day3break5
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 15:00:00
+        time_end: 2022-10-13 15:45:00
+        session_id: day3breakout4
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'TBD'
+            track_id: day3breakout4a
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: biography-missing #bio_id for this person 
+              - name: Panelist
+                who: biography-missing
+              - name: Panelist
+                who: biography-missing
+            downloads:
+              - link_name: 
+                file_name:
+          - name: 'Track B: Buy and Manage Compliance'
+            name_breakout: 'Unlocking The Power Of Accessibiity - Embracing Your Superpower'            
+            track_id: day3breakout4b
+            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michelle-hartly #use bio_id 
+              - name: Panelist
+                who: andrew-nielson
+            downloads:
+              - link_name: 
+                file_name:
+      - name: 'Closing' 
+        time_start: 2022-10-13 15:45:00
+        time_end: 2022-10-13 16:00:00
+        session_id: day3close
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
