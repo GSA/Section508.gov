@@ -139,6 +139,7 @@ Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
 Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>  
+Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
 Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
