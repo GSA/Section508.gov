@@ -1,6 +1,6 @@
 ---
 title: Missing Biography #First Last
-bio_id: missing-biography #first-last
+bio_id: biography-missing #first-last
 display_name: Missing Biography #First Last
 first_name: Missing
 last_name: Biography

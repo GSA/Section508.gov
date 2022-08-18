@@ -11,6 +11,7 @@ office: Occupational Safety and Health Administration
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/al-mohammad-day.png
+image_alt: Day Al-Mohamed (Photo by @Rachel Ellis)
 iaaf_years: 2020
 ---
 Day Al-Mohamed is an author, filmmaker, and disability policy expert with over 15 years of experience. Currently a Senior Policy Advisor with the Federal government, she is a proven leader in organizational transformation, legislation and regulation development/analysis, and innovative program design. 
