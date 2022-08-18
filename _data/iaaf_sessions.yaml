@@ -33,8 +33,8 @@ iaaf_2022:
               - name: Panelist
                 who: andrew-nielson
             downloads:
-              - link_name: 
-                file_name:
+              - link_name: test file
+                file_name: test.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: Captioning & Live Audio Descriptions (Part 1)
             track_id: d1bs1b
@@ -157,7 +157,8 @@ iaaf_2022:
             downloads:
               - link_name: 
                 file_name:
-      - name: 'Closing' 
+      - name: 'Closing'
+        type: welcome 
         time_start: 2022-10-11 16:00:00
         time_end: 2022-10-11 16:10:00
         session_id: d1c
@@ -338,7 +339,8 @@ iaaf_2022:
             downloads:
               - link_name: 
                 file_name:
-      - name: 'Closing' 
+      - name: 'Closing'
+        type: welcome
         time_start: 2022-10-11 16:00:00
         time_end: 2022-10-11 16:10:00
         session_id: d1c
