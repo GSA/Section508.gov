@@ -86,22 +86,38 @@ created: 1600981839
               <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
                 <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
                 <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
+                {% assign noroles = session.roles | where: "name", nil %}
                 {% assign moderators = session.roles | where: "name", "Moderator" %}
                 {% assign panelists = session.roles | where: "name", "Panelist" %}
-                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                  <span class="session-type text-highlight">Moderator:</span>
-                </div>
+                {% if noroles.size > 0 %}
+                  {% for speaker in noroles %}
+                    {% assign bio_id = speaker.who %}
+                    {% for bio in site.bios_iaaf %}
+                      {% if bio.bio_id == bio_id %}
+                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
+                      </div>
+                      {% endif %}
+                    {% endfor %}
+                  {% endfor %}
+                {% endif %}
+                {% if moderators.size > 0 %}
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                    <span class="session-type text-highlight">Moderator:</span>
+                  </div>
                   {% for moderator in moderators %}
                     {% assign bio_id = moderator.who %}
                     {% for bio in site.bios_iaaf %}
                       {% if bio.bio_id == bio_id %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
                       </div>
                       {% endif %}
                     {% endfor %}
                   {% endfor %}
-                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                {% endif %}
+                {% if panelists.size > 0 %}
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
                   <span class="session-type text-highlight">Panelists:</span>
                 </div>
                   {% for panelist in panelists %}
@@ -109,11 +125,12 @@ created: 1600981839
                     {% for bio in site.bios_iaaf %}
                       {% if bio.bio_id == bio_id %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
                       </div>
                       {% endif %}
                     {% endfor %}
                   {% endfor %}
+                {% endif %}
                 {% if track.downloads %}
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
                     <span class="session-type text-highlight margin-top-3">Downloads:</span>

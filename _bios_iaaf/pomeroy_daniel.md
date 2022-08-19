@@ -1,6 +1,6 @@
 ---
 title: Dan Pomeroy
-bio_id: dan-pomeroy
+bio_id: daniel-pomeroy
 display_name: Dan Pomeroy
 first_name: Dan
 last_name: Pomeroy

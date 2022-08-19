@@ -57,11 +57,22 @@ created: 1601325079
       <!-- for each day/session/role -->
         {% for day in site.data.iaaf_sessions.iaaf_2022 %}
           {% for session in day.sessions %}
-            {% for role in session.roles %}
-              {% if role.who contains bio.bio_id %}
-                <em><span>{{ role.name }}: </span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span> {{ session.name }}</span></em></a><br> 
-              {% endif %}
-            {% endfor %}
+            {% if session.roles %}
+              {% for role in session.roles %}
+                {% if role.who contains bio.bio_id %}
+                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}, Day {{ day.day }}</span></em></a><br> 
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+            {% if session.tracks %}
+              {% for track in session.tracks %}
+                {% for role in track.roles %}
+                  {% if role.who contains bio.bio_id %}
+                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ track.track_id }}"><em><span> {{ track.name_breakout }}</span></em></a>, Day {{ day.day }}<br> 
+                {% endif %}
+                {% endfor %}
+              {% endfor %}
+            {% endif %}
           {% endfor %}
         {% endfor %}
       </p>

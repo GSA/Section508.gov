@@ -1,8 +1,8 @@
 ---
-title: Anette Carr
-bio_id: anette-carr
-display_name: Anette Carr
-first_name: Anette
+title: Annette Carr
+bio_id: annette-carr
+display_name: Annette Carr
+first_name: Annette
 last_name: Carr
 affiliation_long: 
 affiliation_short: 
