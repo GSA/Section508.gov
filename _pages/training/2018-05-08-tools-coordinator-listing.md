@@ -159,7 +159,7 @@ VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
-Bruce Weyrick - 703-805-3576 - <bruce.weyrick@dau.edu>
+Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>  
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
@@ -546,7 +546,7 @@ Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
 VACANT
 ### Federal Mediation and Conciliation Service (FMCS)  
-Cristina Wheeler - 202-606-8140  
+VACANT  
 Douglas Jones (BACKUP) - 202-606-5483  
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
