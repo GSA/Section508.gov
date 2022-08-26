@@ -42,13 +42,14 @@ created: 1600981839
                 <div class="desktop:grid-col tablet:grid-col cell tan-breakout padding-1 agenda-description" id="{{ track.track_id }}">
                   <div class="brown-breakout-header bbh-65">{{ track.name }}</div>
                   <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ track.name_breakout }}</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ track.description }}</span>
-                  {% assign moderators = track.roles | where: "name", "Moderator" %}
-                  {% assign panelists = track.roles | where: "name", "Panelist" %}
-                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="session-type text-highlight">Moderator:</span>
-                  </div>
-                    {% for moderator in moderators %}
-                      {% assign bio_id = moderator.who %}
+                  {% assign track_roles = track.roles | map: "name" | uniq %}
+                  {% for role in track_roles %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="session-type text-highlight">{{ role }}:</span>
+                    </div>
+                    {% assign this_role = track.roles | where: "name", role %}
+                    {% for item in this_role %}
+                      {% assign bio_id = item.who %}
                       {% for bio in site.bios_iaaf %}
                         {% if bio.bio_id == bio_id %}
                         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
@@ -57,20 +58,9 @@ created: 1600981839
                         {% endif %}
                       {% endfor %}
                     {% endfor %}
-                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="session-type text-highlight">Panelists:</span>
-                  </div>
-                    {% for panelist in panelists %}
-                      {% assign bio_id = panelist.who %}
-                      {% for bio in site.bios_iaaf %}
-                        {% if bio.bio_id == bio_id %}
-                        <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
-                        </div>
-                        {% endif %}
-                      {% endfor %}
-                    {% endfor %}
-                  {% if track.downloads %}
+                  {% endfor %}
+                  {% if track.downloads[0].link_name != nil %}
+                  <!-- DOWNLOADS -->
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
                       <span class="session-type text-highlight margin-top-3">Downloads:</span>
                     </div>
@@ -83,55 +73,31 @@ created: 1600981839
                 </div>
               {% endfor %}
             {% elsif session.type == "panel" %}
+            <!-- PANEL SESSION -->
               <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
                 <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
                 <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
-                {% assign noroles = session.roles | where: "name", nil %}
-                {% assign moderators = session.roles | where: "name", "Moderator" %}
-                {% assign panelists = session.roles | where: "name", "Panelist" %}
-                {% if noroles.size > 0 %}
-                  {% for speaker in noroles %}
-                    {% assign bio_id = speaker.who %}
-                    {% for bio in site.bios_iaaf %}
-                      {% if bio.bio_id == bio_id %}
-                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
-                      </div>
-                      {% endif %}
-                    {% endfor %}
-                  {% endfor %}
-                {% endif %}
-                {% if moderators.size > 0 %}
+                {% assign session_roles = session.roles | map: "name" | uniq %}
+                {% for role in session_roles %}
+                  {% if role != nil %}
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="session-type text-highlight">Moderator:</span>
+                    <span class="session-type text-highlight">{{ role }}:</span>
                   </div>
-                  {% for moderator in moderators %}
-                    {% assign bio_id = moderator.who %}
+                  {% endif %}
+                  {% assign this_role = session.roles | where: "name", role %}
+                  {% for item in this_role %}
+                    {% assign bio_id = item.who %}
                     {% for bio in site.bios_iaaf %}
                       {% if bio.bio_id == bio_id %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
                       </div>
                       {% endif %}
                     {% endfor %}
                   {% endfor %}
-                {% endif %}
-                {% if panelists.size > 0 %}
-                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                  <span class="session-type text-highlight">Panelists:</span>
-                </div>
-                  {% for panelist in panelists %}
-                    {% assign bio_id = panelist.who %}
-                    {% for bio in site.bios_iaaf %}
-                      {% if bio.bio_id == bio_id %}
-                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position }}, {{ bio.affiliation_long }}
-                      </div>
-                      {% endif %}
-                    {% endfor %}
-                  {% endfor %}
-                {% endif %}
-                {% if track.downloads %}
+                {% endfor %}
+                {% if track.downloads[0].link_name != nil %}
+                  <!-- DOWNLOADS -->
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
                     <span class="session-type text-highlight margin-top-3">Downloads:</span>
                   </div>
@@ -143,38 +109,30 @@ created: 1600981839
                 {% endif %}
               </div>
             {% elsif session.roles and session.type != "panel" %}
+            <!-- GENERAL SESSION -->
               <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
-              {% assign noroles = session.roles | where: "name", nil %}
-              {% assign introductions = session.roles | where: "name", "Introduction" %}
               {% if session.subtitle %}
                 <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
               {% endif %}
-              {% for role in noroles %}
-                {% assign bio_id = role.who %}
-                {% for bio in site.bios_iaaf %}
-                  {% if bio.bio_id == bio_id %}
-                    <div class="speaker-info padding-top-1">
-                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b></span>
-                      <span>{{ bio.position }}, {{ bio.affiliation_long }}</span>
-                    </div>      
-                  {% endif %}
+              {% assign session_roles = session.roles | map: "name" | uniq %}
+              {% for role in session_roles %}
+                {% if role != nil %}
+                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                  <span class="session-type text-highlight">{{ role }}:</span>
+                </div>
+                {% endif %}
+                {% assign this_role = session.roles | where: "name", role %}
+                {% for item in this_role %}
+                  {% assign bio_id = item.who %}
+                  {% for bio in site.bios_iaaf %}
+                    {% if bio.bio_id == bio_id %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                    </div>
+                    {% endif %}
+                  {% endfor %}
                 {% endfor %}
               {% endfor %}
-              {% if introductions.size > 0 %}
-                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="session-type text-highlight">Introduction:</span>
-                  </div>
-                {% for role in introductions %}
-                  {% assign bio_id = role.who %}
-                    {% for bio in site.bios_iaaf %}
-                      {% if bio.bio_id == bio_id %}
-                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{bio.position}}, {{ bio.affiliation_long }}    
-                      </div>
-                      {% endif %}
-                    {% endfor %}
-                {% endfor %}
-              {% endif %}
               </div>
             {% endif %}
         </div>
