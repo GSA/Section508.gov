@@ -89,7 +89,7 @@ Tania	Jones - <tania.jones@usda.gov>
 ### Office of the Chief Economist (OCE)
 Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
 ### Office of the Chief Financial Officer (OCFO)
-Ityran Taylor - <Ityran.Taylor@usda.gov>
+Ityran Taylor - <ityran.taylor@usda.gov>
 ### Office of the Chief Information Officer
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
@@ -238,7 +238,7 @@ Sandra Logan (BACKUP)
 ----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Maynor Sweeney - <kate.Maynor@hhs.gov>
+Kate Maynor Sweeney - <kate.maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
@@ -295,7 +295,8 @@ VACANT
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
-Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>  
+Robert Fritzen - 202-981-6244 - <robert.fritzen@oig.dhs.gov>  
+Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
 ### Science and Technology (S&T)
 Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
@@ -355,7 +356,7 @@ Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>
 Robert J. Houser - <robert.j.houser@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
-Geraldo Despain - <gerardo.despian@usdoj.gov>  
+Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
 Thomas Stewart - <thomas.stewart@atf.gov>
@@ -492,7 +493,7 @@ Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
 
 ----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration (SBA)
-Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
+VACANT
 
 ----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration (SSA)
@@ -634,7 +635,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong> August 17, 2022
+    <strong>Reviewed/Updated:</strong>September 20, 2022
   </p>
 </div>
 

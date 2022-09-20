@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/join-the-508-community/
 type: manage
-title: 'IT Accessibility/508 Community'
+title: 'Section 508/IT Accessibility Community'
 created: 1530040376
 ---
 
