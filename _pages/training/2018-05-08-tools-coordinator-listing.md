@@ -174,6 +174,9 @@ Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
 Angela M. Edwards (BACKUP) - <angela.m.edwards10.civ@mail.mil>  
+
+* **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
 DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>  
