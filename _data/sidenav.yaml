@@ -265,6 +265,8 @@ training:
         url: 'create/synchronized-media/creating-accessible-media/'
   - name: Events
     url: 'events/'
+  - name: IAAF 
+    url: 'iaaf/'
   - name: IAAF Archives
     url: 'iaaf/archives/'
   - name: Presentations and Workshop Materials

@@ -3,14 +3,15 @@ layout: wide
 sidenav: false
 permalink: iaaf/archives/agenda-2020/
 type: page
-title: 'Interagency Accessibility Forum (IAAF) Event Agenda - 2020'
+title: 'Interagency Accessibility Forum (IAAF) Archives - 2020 Event Agenda'
 created: 1600981839
 redirect_from:
 - iaaf/agenda-2020/
-
 ---
 
-<h1><img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/iaaf-web-banner.png" style="width:100%"></h1>
+<p style="text-align:center;">
+  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/images/iaaf-2020-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
+</p>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 6th | <a href="#progday2" title="Skip to Day 2 program">Day 2/Wednesday, October 7th</a></b>
@@ -524,10 +525,10 @@ redirect_from:
         </li>
       </ul>
     </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <p class="text-large"><strong>Thank you</strong></p>
-    <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
+  <div class="border-base radius-lg border-1px">
+   <div class="padding-1">
+      <p class="text-large"><strong>Thank you</strong></p>
+      <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
 <p><strong>Reviewed/Updated: </strong> April 2021 </p>

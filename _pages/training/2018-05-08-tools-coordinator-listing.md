@@ -89,13 +89,13 @@ Tania	Jones - <tania.jones@usda.gov>
 ### Office of the Chief Economist (OCE)
 Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
 ### Office of the Chief Financial Officer (OCFO)
-Ityran Taylor - <Ityran.Taylor@usda.gov>
+Ityran Taylor - <ityran.taylor@usda.gov>
 ### Office of the Chief Information Officer
 
-* **CEC** - Rachel	Stanton	- <rachael.stanton@usda.gov>  
-* **DISC-EAS** - Andrew Campbell - <andrew.campbell@usda.gov>  
-* **DISC-EAS-SAAS** - Jerome Davin - <jerome.davin@usda.gov>  
-* **Informaiton Security Center (ICS)** - Holly J. Becktstrom - <holly.beckstrom@usda.gov>
+* **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
+* **DISC-EAS** <br>Andrew Campbell - <andrew.campbell@usda.gov>  
+* **DISC-EAS-SAAS** <br>Jerome Davin - <jerome.davin@usda.gov>  
+* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - <holly.beckstrom@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
@@ -109,11 +109,11 @@ Angela Parham	- <angela.parham@usda.gov>
 John Trifilitti - <john.trifiletti@usda.gov>
 ### Research, Education and Economics (REE)
 
-* **Agricultural Research Service (ARS)** - Yvette Anderson <yvette.anderson@usda.gov>
-* **Economic Research Service (ERS)** - Beth Couturier <beth.couturier@usda.gov>, and Lisa Wilcox - <lisa.wilcox@usda.gov>
-* **National Agricultural Library (NAL)** - Ricardo Romero - <ricardo.romero@usda.gov>
-* **National Agricultural Statistics Service (NASS)** - Rich Holcomb <rich.holcomb@usda.gov>
-* **National Institute of Food and Agriculture (NIFA)** - Michael Quizon <michael.quizon@usda.gov>
+* **Agricultural Research Service (ARS)** <br>Yvette Anderson <yvette.anderson@usda.gov>
+* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>
+* **National Agricultural Library (NAL)** <br>Ricardo Romero - <ricardo.romero@usda.gov>
+* **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>
+* **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>
 
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
@@ -121,7 +121,7 @@ Ryan Schneider - <ryan.schneider@usda.gov>
 Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 
 ----------------------------------------------------
-## <span id="usdoc"></span>Department of Commerce
+## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
 Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
 ### National Institute of Standards and Technology (NIST)
@@ -136,9 +136,11 @@ Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>
 Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
 
 ----------------------------------------------------
-## <span id ="usdod" ></span>Department of Defense
+## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
-Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>
+Susan Jennifer (Jen) Haggerty - 703-859-5873 - <susan.j.haggerty2.civ@mail.mil>  
+Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
+Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
 Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 ### Air National Guard
@@ -146,21 +148,22 @@ VACANT
 ### Army
 Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>  
 
-  * **Tank-automotive and Armaments Command (TACOM)** - Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>
-  * **U.S. Special Operations Command (SOCOM)** - Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>
+  * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>  
+  * **United States Army Materiel Command** <br>John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
+  * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
 ### Center for Development of Security Excellence (CDSE)
-Kevin J. Malone - 000-000-0000 - <kevin.j.mullone.civ@mail.mil>
+Kevin J. Malone - <kevin.j.mullone.civ@mail.mil>
 ### Computer/Electronic Accommodations Program (CAP)
 VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
-Bruce Weyrick - 703-805-3576 - <bruce.weyrick@dau.edu>
+Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>  
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
-Mubarak Allotey, CIO 508 Program Manager (collateral duty) - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
+Mubarak Allotey - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - 410-981-0308 - <stephen.johnson@dc3.mil>  
 Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
@@ -170,10 +173,13 @@ Ms. Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
-Sharon E. McMillon (BACKUP) - 301-225-9182 - <sharon.e.mcmillon.civ@mail.mil>
+Angela M. Edwards (BACKUP) - <angela.m.edwards10.civ@mail.mil>  
+
+* **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+
 ### Defense Intelligence Agency (DIA)
 Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
-DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
+DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
@@ -182,36 +188,38 @@ VACANT
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
-Yvette Jacks - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
-Christine Durose (BACKUP) - 000-000-0000 - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
+Yvette Jacks - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
+Christine Durose (BACKUP) - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Robert (Rob) Bleck - 571-616-4080 - <robert.r.bleck.civ@mail.mil>  
+James O. Taylor - <james.o.taylor52.civ@mail.mil>  
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
 VACANT
 ### Missile Defense Agency
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
-Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>
+Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>  
+Julie M. Hartmann (BACKUP) - <julie.m.hartmann.ctr@ndu.edu>  
 ### National Geospatial Intelligence Agency
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
+### National Guard Bureau
+Nguyen D. Lam - <nguyen.d.lam.civ@army.mil>  
 ### National Reconnaissance Office
 Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
 ### Navy
 Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 
-  * **Bureau of Medicine and Surgery** - Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
-  * **Bureau of Naval Personnel** - Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command** - Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
-  * **Naval Information Warfare Systems Command** – Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
-  * **Navy Reserve Forces Command** - Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
-  * **Office of Naval Research** - VACANT
+  * **Bureau of Medicine and Surgery** <br>Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
+  * **Bureau of Naval Personnel** <br>Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
+  * **Naval Air Systems Command** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
+  * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
+  * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
+  * **Office of Naval Research** <br>VACANT
 
 ### U.S. European Command (EUCOM)
 VACANT
 ### U.S. Northern Command (USNORTHCOM)
-Cristie Whorley (BACKUP) - 719-554-8009 - <babette.c.whorley.civ@mail.mil>  
 Donald Hopper - 719-554-7838 - <donald.w.hopper.civ@mail.mil>
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
@@ -226,14 +234,14 @@ Denise McGland -&nbsp;202-245-6606 - <denise.mcgland@ed.gov>
 Jason Lautenbacher - 202-245-7303 - <jason.Lautenbacher@ed.gov>
 
 ----------------------------------------------------
-## <span id="usdoen" ></span>Department of Energy
+## <span id="usdoen" ></span>Department of Energy (DOE)
 Teddy Dyer - 202-586-9698 - <doesection508coordinator@hq.doe.gov>  
 Sandra Logan (BACKUP)  
 
 ----------------------------------------------------
-## <span id="usdohhs" ></span>Department of Health and Human Services
+## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Maynor Sweeney - <kate.Maynor@hhs.gov>
+Kate Maynor Sweeney - <kate.maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
@@ -258,7 +266,7 @@ Cammie Truesdell - <cammie.truesdell@hhs.gov>
 Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
 
 ----------------------------------------------------
-## <span id="usdhs" ></span>Department of Homeland Security
+## <span id="usdhs" ></span>Department of Homeland Security (DHS)
 ### Department-wide
 Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
 ### Countering Weapons of Mass Destruction (CWMD)
@@ -290,7 +298,8 @@ VACANT
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
-Bhamir Patel - 202-254-3221 - <bhamir.patel@oig.dhs.gov>  
+Robert Fritzen - 202-981-6244 - <robert.fritzen@oig.dhs.gov>  
+Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
 ### Science and Technology (S&T)
 Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
@@ -306,11 +315,11 @@ Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
 ----------------------------------------------------
-## <span id="usdhud" ></span>Department of Housing and Urban Development
+## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
 Jeffrey Salit - 202-402-7507 - <jeffrey.l.salit@hud.gov>
 
 ----------------------------------------------------
-## <span id="usdoi" ></span>Department of the Interior
+## <span id="usdoi" ></span>Department of the Interior (DOI)
 ### Department-wide
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ### Bureau of Indian Affairs (BIA)
@@ -345,19 +354,20 @@ Edward Olexa - <section508@usgs.gov>
 Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
 ----------------------------------------------------
-## <span id="usdoj" ></span>Department of Justice
+## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
-Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
+Robert J. Houser - <robert.j.houser@usdoj.gov>  
+Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
-Geraldo Despain - <gerardo.despian@usdoj.gov>  
+Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
 Thomas Stewart - <thomas.stewart@atf.gov>
 
-  * **National Laboratory Center** - VACANT
+  * **National Laboratory Center**<br>VACANT
 
 ### Civil Division
-Benjamin Jones - <benjamin.jones@usdoj.gov>
+Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
 Tran Isabelle - <isabelle.tran@usdoj.gov>  
 Randy Abramson - <randy.abramson@usdoj.gov>
@@ -380,10 +390,11 @@ Irina	Charova	- <irina.charova@usa.doj.gov>
 FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Scott Jenkins - 202-514-4670 - <scott.Jenkins@usdoj.gov>
+
+* **National Institute of Corrections** <br>Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>  
+
 ### Justice Management Division
-VACANT
-### National Institute of Corrections
-Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>
+Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### National Security Division
 Kevin Drummond - 202-514-5724 - <kevin.drummond@usdoj.gov>
 ### Office of the Chief Information Officer
@@ -395,16 +406,16 @@ Bruce W. Whitlock - 202-353-1551 - <bruce.W.Whitlock@usdoj.gov>
 ### Office on Violence Against Women
 Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>
 ### Tax Division
-Karon	M. Etienne - <karon.m.etienne@usdoj.gov>
+Karon	M. Etienne - 202-353-3095 - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
 Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
 ### United States Trustee Program
 Katie Kinnecome - <katie.kinnecome@usdoj.gov>
 
 ----------------------------------------------------
-## <span id="usdol" ></span>Department of Labor
-Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>
-Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
+## <span id="usdol" ></span>Department of Labor (DOL)
+Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>  
+Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>  
 
 ----------------------------------------------------
 ## <span id="usdos" ></span>Department of State
@@ -412,7 +423,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 <span id="usdot" ></span>
 
 ----------------------------------------------------
-## Department of Transportation
+## Department of Transportation (DOT)
 ### Department-wide
 Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
 ### Federal Highway Administration (FHWA)
@@ -421,7 +432,7 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 
 ----------------------------------------------------
-## <span id="usdott" ></span>Department of the Treasury
+## <span id="usdott" ></span>Department of the Treasury (DOT)
 ### Department-wide
 VACANT
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
@@ -452,49 +463,49 @@ James Proctor - 202-927-6752 - <james.proctor@usmint.treas.gov>
 Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 
 ----------------------------------------------------
-## <span id="usdova" ></span>Department of Veterans Affairs
+## <span id="usdova" ></span>Department of Veterans Affairs (VA)
 Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ----------------------------------------------------
-## <span id="usepa" ></span>Environmental Protection Agency
+## <span id="usepa" ></span>Environmental Protection Agency (EPA)
 David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ----------------------------------------------------
-## <span id="usgsa" ></span>General Services Administration
+## <span id="usgsa" ></span>General Services Administration (GSA)
 Charles Popelka - 703-605-2637 - <charles.popelka@gsa.gov>  
 Dan Perkins (Deputy) - 816-823-1717 - <dan.perkins@gsa.gov>
 
 ----------------------------------------------------
-## <span id="usnasa" ></span>National Aeronautics and&nbsp;Space Administration
-Fatima C. Johnson - 202-358-1631 - <fatima.c.johnson@nasa.gov>
+## <span id="usnasa" ></span>National Aeronautics and Space Administration (NASA)
+Courtney L. Ritz - 301-286-7946 - <courtney.l.ritz@nasa.gov>  
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - 301-286-0150 - <betsy.sirk-1@nasa.gov>
 
 ----------------------------------------------------
-## <span id="usnsf" ></span>National Science Foundation
+## <span id="usnsf" ></span>National Science Foundation (NSF)
 Katherine Otts - 703-292-7552 - <kotts@nsf.gov>
 
 ----------------------------------------------------
-## <span id="usnrc" ></span>Nuclear Regulatory Commission
+## <span id="usnrc" ></span>Nuclear Regulatory Commission (NRC)
 John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
-## <span id="usopm" ></span>Office of Personnel Management
+## <span id="usopm" ></span>Office of Personnel Management (OPM)
 Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
 
 ----------------------------------------------------
-## <span id="ussba" ></span>Small Business Administration
-Shawn Garmer - 202-205-6926 - <shawn.garmer@sba.gov>
+## <span id="ussba" ></span>Small Business Administration (SBA)
+VACANT
 
 ----------------------------------------------------
-## <span id="usssn" ></span>Social Security Administration
+## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
 
 ----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
 
-### Access Board
+### Access Board (USAB)
 Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>
 
 <span id="C" ></span>
@@ -539,7 +550,7 @@ Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
 VACANT
 ### Federal Mediation and Conciliation Service (FMCS)  
-Cristina Wheeler - 202-606-8140  
+VACANT  
 Douglas Jones (BACKUP) - 202-606-5483  
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
@@ -569,9 +580,11 @@ Dennis Oden - 202-254-4723 - <dennis.oden@mspb.gov>
 
 ### National Archives & Records Administration (NARA)
 Eric Chaskes - 301-837-1586 - <eric.chaskes@nara.gov>  
-Frank Samuels - 301-837-0634 - <frank.samuels@nara.gov>
+Jocelyn	Blakely-Hill - 301-837-0314 - <jocelyn.blakely-hill@nara.gov>  
 ### National Credit Union Administration (NCUA)
 Nickol Davenport - 703-548-2185 - <edavenport@ncua.gov>
+### National Endowment for the Arts (NEA)
+Joseph Galicia - 202-682-5752 - <galiciaj@arts.gov>
 ### National Endowment for the Humanities (NEH)
 Tayna Peltz - 202-606-8399 - <tpeltz@neh.gov>
 ### National Security Agency (NSA)
@@ -625,7 +638,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong> March 23, 2022
+    <strong>Reviewed/Updated:</strong>September 20, 2022
   </p>
 </div>
 
