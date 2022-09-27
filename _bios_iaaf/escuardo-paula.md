@@ -1,3 +1,4 @@
+---
 title: Paula Escuardo
 bio_id: paula-escuardo
 display_name: Paula Escuardo

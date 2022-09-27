@@ -1,7 +1,7 @@
 ---
 title: Rachael Montgomery
 bio_id: rachael-montgomery
-display_name: Rachael Bradley. Montgomery
+display_name: Rachael Montgomery
 first_name: Rachael
 last_name: Montgomery
 affiliation_long: Library of Congress
