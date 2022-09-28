@@ -1,7 +1,7 @@
 ---
 title: Rosemary Speers
 bio_id: rosemary-speers
-display_name: Rosemary Speers
+display_name: Dr. Rosemary Speers
 first_name: Rosemary
 last_name: Speers
 affiliation_long: Office of the Director of National Intelligence

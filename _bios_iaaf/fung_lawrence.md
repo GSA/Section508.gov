@@ -1,7 +1,7 @@
 ---
 title: Lawrence Fung
 bio_id: lawrence-fung
-display_name: Lawrence Fung
+display_name: Dr. Lawrence Fung
 first_name: Lawrence
 last_name: Fung
 affiliation_long: Stanford University

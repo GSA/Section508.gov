@@ -1,7 +1,7 @@
 ---
 title: Anjali Forber-Pratt
 bio_id: anjali-forber-pratt
-display_name: Anjali Forber-Pratt
+display_name: Dr. Anjali Forber-Pratt
 first_name: Anjali
 last_name: Forber-Pratt
 affiliation_long: National Institutes of Health

@@ -1,7 +1,7 @@
 ---
 title: Brett Oppegaard
 bio_id: brett-oppegaard
-display_name: Brett Oppegaard
+display_name: Dr. Brett Oppegaard
 first_name: Brett
 last_name: Oppegaard
 affiliation_long: University of Hawaii at Manoa, College of Social Science, School of Communication and Information

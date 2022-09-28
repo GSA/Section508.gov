@@ -1,7 +1,7 @@
 ---
 title: Paula Escuardo
 bio_id: paula-escuardo
-display_name: Paula Escuardo
+display_name: Paula Angela Escuardo
 first_name: Paula
 last_name: Escuardo
 affiliation_long: International Game Developers Association

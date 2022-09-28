@@ -1,7 +1,7 @@
 ---
 title: Sachin Pavithran
 bio_id: sachin-pavithran
-display_name: Sachin Pavithran
+display_name: Dr.Sachin Pavithran
 first_name: Sachin
 last_name: Pavithran
 affiliation_long: United States Access Board
