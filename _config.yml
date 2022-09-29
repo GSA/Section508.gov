@@ -133,6 +133,8 @@ collections:
   contributors:
     output: true
     permalink: /:collection/:name:output_ext
+  bios_iaaf:
+    output: false
 
 permalink: pretty
 
