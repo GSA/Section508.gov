@@ -189,7 +189,6 @@ VACANT
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
 Yvette Jacks - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
-Christine Durose (BACKUP) - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 James O. Taylor - <james.o.taylor52.civ@mail.mil>  
