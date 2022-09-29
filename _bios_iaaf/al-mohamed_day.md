@@ -4,10 +4,10 @@ bio_id: day-al-mohamed
 display_name: Day Al-Mohamed
 first_name: Day
 last_name: Al-Mohamed
-affiliation_long: Department of Labor
-affiliation_short: DOL
-position: Supervisory Program Analyst
-office: Occupational Safety and Health Administration
+affiliation_long: White House, Domestic Policy Council
+affiliation_short: 'White House'
+position: Director, Disability Policy
+office: Domestic Policy Council
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/al-mohamed-day.png

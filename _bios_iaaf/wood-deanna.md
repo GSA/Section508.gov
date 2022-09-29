@@ -4,8 +4,8 @@ bio_id: deanna-wood
 display_name: Deanna Wood
 first_name: Deanna
 last_name: Wood
-affiliation_long: 
-affiliation_short: 
+affiliation_long: National Gallery of Art
+affiliation_short: NGA
 position: 
 office: 
 location: 

@@ -6,7 +6,7 @@ first_name: Rosemary
 last_name: Speers
 affiliation_long: Office of the Director of National Intelligence
 affiliation_short: ODNI
-position: Lead
+position: Team Lead
 office: Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility (DEIA)
 location: Washington, DC
 email: 

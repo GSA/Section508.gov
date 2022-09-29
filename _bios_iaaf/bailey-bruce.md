@@ -4,7 +4,7 @@ bio_id: bruce-bailey
 display_name: Bruce Bailey
 first_name: Bruce
 last_name: Bailey
-affiliation_long: United States Access Board
+affiliation_long: U.S. Access Board
 affiliation_short: USAB
 position: 
 office: 

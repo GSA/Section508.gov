@@ -6,7 +6,7 @@ first_name: Paula
 last_name: Escuardo
 affiliation_long: International Game Developers Association
 affiliation_short: IGDA
-position: Co-founded and Co-chair 
+position: Co-Founder and Co-chair 
 office: Climate Special Interest Group
 location: 
 email: 

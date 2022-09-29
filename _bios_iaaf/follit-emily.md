@@ -4,8 +4,8 @@ bio_id: emily-follit
 display_name: Emily Follit
 first_name: Emily
 last_name: Follit
-affiliation_long: 
-affiliation_short: 
+affiliation_long: National Science Foundaiiton
+affiliation_short: NSF
 position: 
 office: 
 location: 

@@ -7,7 +7,7 @@ title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 created: 1600981839
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2023. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2022. Unlocking the Power of Accessibility." src="https://assets.section508.gov/files/images/iaaf-2022-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 11th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 12th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 13th</a></b>
@@ -147,4 +147,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>August 15, 2022</p>
+<p><strong>Reviewed/Updated: </strong>September 29, 2022</p>

@@ -8,7 +8,7 @@ created: 1601325079
 ---
 
 <p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
-  <img alt="Annual Interagency Accessibility Forum. October 11 & 13, 2022." src="https://assets.section508.gov/files/bio-images/iaaf-web-banner.png" style="width:100%" style="width:100%" class="border-base radius-lg border-0px" /></a>
+  <img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2022. Unlocking the Power of Accessibility." src="https://assets.section508.gov/files/images/iaaf-2022-web-banner.png" style="width:100%" style="width:100%" class="border-base radius-lg border-0px" /></a>
 </p>
 
 <p style="text-align:center;" id="top">
@@ -60,7 +60,7 @@ created: 1601325079
             {% if session.roles %}
               {% for role in session.roles %}
                 {% if role.who contains bio.bio_id %}
-                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}, Day {{ day.day }}</span></em></a><br> 
+                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}</span></em></a>, Day {{ day.day }}<br> 
                 {% endif %}
               {% endfor %}
             {% endif %}

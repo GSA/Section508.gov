@@ -5,7 +5,7 @@ display_name: Dr. Brett Oppegaard
 first_name: Brett
 last_name: Oppegaard
 affiliation_long: University of Hawaii at Manoa, College of Social Science, School of Communication and Information
-affiliation_short: 
+affiliation_short: UH Mānoa
 position: Associate Professor; Program Director, Journalism Program; Principal Investigator, The UniDescription Project
 office: 
 location: Washington, DC

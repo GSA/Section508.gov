@@ -181,7 +181,7 @@ iaaf_2022:
         time_start: 2022-10-12 10:00:00
         time_end: 2022-10-12 10:05:00
         session_id: day2welcome
-        description:
+        description: 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: yvette-gibson #bio_id for this person 
@@ -190,6 +190,7 @@ iaaf_2022:
         time_start: 2022-10-12 10:05:00
         time_end: 2022-10-12 11:00:00
         session_id: day2general1
+        subtitle: "Agency Co-host Greetings"
         description: 
         roles: #list each roles as you intend the display on the page
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -231,7 +232,7 @@ iaaf_2022:
         time_start: 2022-10-12 11:50:00
         time_end: 2022-10-12 12:30:00
         session_id: day2panel1
-        subtitle: 'Using technology to enhance Intersectional Neurodiverse Accessibility at Work'
+        subtitle: 'Using Technology to Enhance Intersectional Neurodiverse Accessibility at Work'
         description: Neurodiversity/Neurodivergence has been defined the range of differences in individual brain function and behavioral traits, regarded as part of normal variation in the human population.  Neurodiversity also describes the idea that people experience and interact with the world around them in many different ways; there is no one "right" way of thinking, learning, and behaving, and differences are not viewed as deficits ( Singer 2016, Mottron 2004, Harvard 2022). As more companies broaden their investment in DEIA programs, more leaders are adding neuodiversity/neurodivergence to their business vocabularies and programming (DICE, 2021). However, while a growing number of companies are still refining HR processes to hire and retain neurodivere talent; at present, however,  there are still many barriers and more work needs to be done. This panel will briefly discuss what intersectional neurodiversity means, the business case for neurodiversity, how each panelist is expanding accessibility though technology for DEIA and for Neurodiverse people with the workplace, how success is measured, best practices and next steps to create  holistic inclusive workplaces.
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -260,7 +261,7 @@ iaaf_2022:
         session_id: day2breakout1
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: "Workplace Mental Health - Why it's more important than ever to focus on the mental health of your employees."
+            name_breakout: "Workplace Mental Health - Why It's More Important Than Ever to Focus on the Mental Health of Your Employees."
             track_id: day2breakout1a
             description: Struggling with human emotions is a universal experience, yet mental health is a topic that gets stigmatized every day in our society. Mental health awareness is on the rise, particularly as COVID-19 continues to drive an epidemic of stress and burnout. That's why it's more important than ever for companies to prioritize employee well-being and mental health. This presents unique challenges in the workplace, going beyond just providing mental health options to creating a workplace in which all employees truly feel supported by employers and connected to one another. This presentation will share one agency's efforts to establish a work culture that embraces mental health, talks about it, and supports employee mental health through the establishment of an Employee Resource Group accessible to all employees and contractors within the National Science Foundation.
             roles: #list each roles as you intend the display on the page
@@ -310,12 +311,12 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: "Creating Process Diagrams Nonvisually"            
+            name_breakout: "Mission Accessible Getting the Job Done"
             track_id: day2breakout2b
-            description: The ability to create process diagrams is beneficial for implementing an agency Section 508 program, communicating to key stakeholders how the Section 508 law interacts with agency and IT lifecycle processes and activities.  A Common method for creating process diagrams is with Visio. In this session the presenter will demonstrate creating accessible basic and cross functional flowchart process diagrams using excel and Visio integration, and accessibility features of Visio using the Jaws Screen Reading application. 
+            description: "Mission Accessible, inspired by Mission Impossible, consists of five daily missions delivered via email. Each mission, usually no more than 5 minutes, is focused on one of the following areas ':' Vision, Hearing, Mobility, Speech, and Cognitive. Those participating report out if they completed it and any other observations. It can help people walk in someone else's shoe while learning about features they may not have been aware of (e.g., dictation, and using short cut keys)."
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: ameenah-ghoston #use bio_id
+                who: angela-watkins #use bio_id
             downloads:
               - link_name: 
                 file_name:
@@ -332,7 +333,7 @@ iaaf_2022:
         session_id: day2breakout3
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: 'Phases of "Advancing Accessibility" in a small agency'
+            name_breakout: 'Phases of "Advancing Accessibility" in a Small Agency'
             track_id: day2breakout3a
             description: "Sharing Phases of \"Advancing Accessibility\": <ul><li>Awareness - People learn about the topic of accessibility</li><li>Acknowledgment - People accept that accessibility is important or how it impacts them and the way they work</li><li>Adaption - People start to change their behavior about accessibility</li><li>Adoption - People's changed behavior becomes habit when considering accessibility</li><li>Advocacy - People help and encourage others to adhere to and apply better behaviors regarding accessibility</li></ul>"
             roles: #list each roles as you intend the display on the page
@@ -376,54 +377,78 @@ iaaf_2022:
     time_start: 2022-10-12 10:00:00
     time_end: 2022-10-12 16:00:00
     sessions: 
-      - name: 'Welcome and Opening Remarks'
+      - name: 'Welcome and Speaker Introduction'
         type: welcome
         time_start: 2022-10-13 10:00:00
-        time_end: 2022-10-13 10:05:00
-        session_id: day3welcome
+        time_end: 2022-10-13 10:10:00
+        session_id: day3welcome1
         description:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: daniel-pomeroy #bio_id for this person 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: stephen-harding #bio_id for this person 
-      - name: 'General Session'
-        type: general
-        time_start: 2022-10-13 10:05:00
-        time_end: 2022-10-13 11:00:00
-        session_id: day3general1
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - name: 'Welcome'
+        type: welcome
+        time_start: 2022-10-13 10:15:00
+        time_end: 2022-10-13 10:25:00
+        session_id: day3welcome2
+        description: 
         subtitle: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: andrea-oneal #bio_id for this person
-          - name: Introduction #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: andrew-nielson #bio_id for this person 
+            who: katy-kale #bio_id for this person
         downloads:
           - link_name: 
             file_name:
-      - name: 'Transition'
+      - name: 'Government-wide IT Accessibility Program Update'
+        type: general
+        time_start: 2022-10-13 10:25:00
+        time_end: 2022-10-13 10:35:00
+        session_id: day3general1
+        description: 
+        subtitle: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: andrew-nielson #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Break'
         type: break
-        time_start: 2022-10-13 11:00:00
-        time_end: 2022-10-13 11:05:00
+        time_start: 2022-10-13 10:35:00
+        time_end: 2022-10-13 10:50:00
         session_id: day3break1
         descrioption:
+      - name: 'Greetings and Keynote Introduction'
+        type: welcome
+        time_start: 2022-10-13 10:50:00
+        time_end: 2022-10-13 11:05:00
+        session_id: day3general1
+        description: 
+        subtitle: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: krystal-brumfield #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
       - name: 'Keynote'
         type: keynote
         time_start: 2022-10-13 11:05:00
-        time_end: 2022-10-13 11:45:00
+        time_end: 2022-10-13 11:40:00
         session_id: day3keynote
         roles: #list each roles as you intend the display on the page
           - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: day-al-mohamed #bio_id for this person 
-          - name: Introduction
-            who: krystal-brumfield
+          - name: Moderator
+            who: andrea-oneal
         downloads:
           - link_name: 
             file_name:
       - name: 'Transition'
         type: break
-        time_start: 2022-10-13 11:45:00
+        time_start: 2022-10-13 11:40:00
         time_end: 2022-10-13 11:50:00
         session_id: day3break2
         description:
@@ -448,7 +473,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Buy and Manage Compliance'
-            name_breakout: 'What Could Really Happen if My Agency is Not In Compliance... Nothing Right?'
+            name_breakout: 'What Could Really Happen If My Agency Is Not In Compliance... Nothing Right?'
             track_id: day3breakout1b
             description: When an agency receives a notification that information released to the public is not Section 508 compliant, what is the best way to handle it? What are the next steps for the agency Section 508 program manager? Who are the stakeholders that need to be notified? What are the risks of not fixing the issue?  During this session, we will discuss this process from beginning to end and the importance of management taking immediate action. 
             roles: #list each roles as you intend the display on the page
@@ -514,7 +539,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Buy and Manage Compliance'
-            name_breakout: 'Demystifying Section 508: Creating and Evaluation Accessibility Conformance Reports'            
+            name_breakout: 'Demystifying Section 508: Creating and Evaluating Accessibility Conformance Reports'            
             track_id: day3breakout3b
             description: The US Federal Government buys more Information and Communication Technology (ICT) than it builds. To ensure the most accessible ICT is purchased, the Government relies on Industry to provide Accessibility Conformance Reports (ACRs). This presentation shows how ACR creation is a win-win situation for Industry and Government. NASA shares its guide to help industry develop ACRs and promote an understanding of Section 508 by both Industry and Government. Best practices in ACR evaluation are shared.
             roles: #list each roles as you intend the display on the page
