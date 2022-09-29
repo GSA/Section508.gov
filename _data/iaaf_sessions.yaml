@@ -401,13 +401,13 @@ iaaf_2022:
         downloads:
           - link_name: 
             file_name:
-      - name: 'Government-wide IT Accessibility Program Update'
+      - name: 'General Session'
         type: general
         time_start: 2022-10-13 10:25:00
         time_end: 2022-10-13 10:35:00
         session_id: day3general1
         description: 
-        subtitle: 
+        subtitle: Government-wide IT Accessibility Program Update
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: andrew-nielson #bio_id for this person
@@ -558,7 +558,7 @@ iaaf_2022:
         time_end: 2022-10-13 15:00:00
         session_id: day3break5
         descrioption:
-      - name: 'Breakout Session'
+      - name: 'General Session'
         type: general
         time_start: 2022-10-13 15:00:00
         time_end: 2022-10-13 15:45:00
