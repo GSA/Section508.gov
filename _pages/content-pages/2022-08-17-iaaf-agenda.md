@@ -10,14 +10,14 @@ created: 1600981839
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2022. Unlocking the Power of Accessibility." src="https://assets.section508.gov/files/images/iaaf-2022-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
-  <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 11th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 12th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 13th</a></b>
+  <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 11th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Wednesday, October 12th</a> | <a href="#day3" title="Skip to Day 3 Program">Day 3/Thursday, October 13th</a></b>
 </div>
 
 {% for day in site.data.iaaf_sessions.iaaf_2022 %}
   <!-- BEGIN DAY {{ day.day }} -->
-  <h2 class="font-body-lg" id="progday2">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
+  <h2 class="font-body-lg" id="day{{ day.day }}">PROGRAM Day {{ day.day }}: {{ day.time_start | date: "%A, %B %d" }}</h2>
   
-  <div class="usa-graphic-list__row container" id="day{{ day.day }}">
+  <div class="usa-graphic-list__row container">
     <!-- START AGENDA -->
     {% for session in day.sessions %}
     {% if session.type == "welcome" %}{% assign session-class = "navy" %}{% assign descr-class = "ltblue" %}{% endif %}
