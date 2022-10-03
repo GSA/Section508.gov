@@ -146,18 +146,18 @@ iaaf_2022:
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PM Role - Using What You Know'
             track_id: day1breakout4b
-            description: Building on the previous session, Section508 PMs - What You Need to Know, panelists will discuss using best practices in the real world, baselining, and moving forward.            
+            description: "Building on the previous session, Section508 PMs - What You Need to Know, panelists will discuss using best practices in the real world, baselining, and moving forward."
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: michael-horton #use bio_id 
               - name: Panelist
-                who: Tim Creagan
+                who: tim-creagan
               - name: Panelist
                 who: lolita-horne
               - name: Panelist
                 who: gary-morin
               - name: Panelist
-                who: agnela-watkins
+                who: angela-watkins
             downloads:
               - link_name: 
                 file_name:
