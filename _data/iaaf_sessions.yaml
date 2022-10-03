@@ -136,7 +136,7 @@ iaaf_2022:
           - name: 'Track A: Lead Our Agencies Toward Access'
             name_breakout: 'Creating Accessible PDF Forms'
             track_id: day1breakout4a
-            description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: regina-wendling #bio_id for this person 
@@ -176,7 +176,7 @@ iaaf_2022:
     time_start: 2022-10-12 10:00:00
     time_end: 2022-10-12 16:00:00
     sessions: 
-      - name: 'Welcome and Opening Remarks'
+      - name: 'Welcome and Speaker Introduction'
         type: welcome
         time_start: 2022-10-12 10:00:00
         time_end: 2022-10-12 10:05:00
@@ -184,7 +184,7 @@ iaaf_2022:
         description: 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: yvette-gibson #bio_id for this person 
+            who: gary-morin #bio_id for this person 
       - name: 'General Session'
         type: general
         time_start: 2022-10-12 10:05:00
@@ -193,10 +193,16 @@ iaaf_2022:
         subtitle: "Agency Co-host Greetings"
         description: 
         roles: #list each roles as you intend the display on the page
+          - name: Moderator
+            who: gary-morin
+          - name: Panelist
+            who: jason-hitchcock
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: antoinette-johnson #bio_id for this person 
           - name: Panelist 
             who: dennis-papula
+          - name: Panelist 
+            who: kate-sweeney
           - name: Panelist 
             who: mark-urban
         downloads:
@@ -216,7 +222,7 @@ iaaf_2022:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: kimberly-knackstedt #bio_id for this person 
-          - name: Introduction
+          - name: Moderator
             who: andrew-nielson
         downloads:
           - link_name: 
@@ -299,10 +305,8 @@ iaaf_2022:
           - name: 'Track A: Lead Our Agencies Toward Access'
             name_breakout: "Beyond 508 Compliance: A Four-Point Hybrid Testing Approach"
             track_id: day2breakout2a
-            description: For our new onrr.gov site, we wanted to ensure the site is accessible from the start. We decided to use a four-point hybrid testing approach. The first step is running automated Lighthouse accessibility reports. We followed up with manual testing with NVDA screen reader. We then worked with a SME with visual disability to review the website. Finally, we iterated the needed fixes with our developer. We'll present learnings from this process.
+            description: For our new ONRR.gov site, we wanted to ensure the site is accessible from the start. We decided to use a four-point hybrid testing approach. The first step is running automated Lighthouse accessibility reports. We followed up with manual testing with NVDA screen reader. We then worked with a SME with visual disability to review the website. Finally, we iterated the needed fixes with our developer. We'll present learnings from this process.
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: macey-cox #bio_id for this person 
               - name: Presenter
                 who: lindsay-goldstein
               - name: Presenter
@@ -337,10 +341,6 @@ iaaf_2022:
             track_id: day2breakout3a
             description: "Sharing Phases of \"Advancing Accessibility\": <ul><li>Awareness - People learn about the topic of accessibility</li><li>Acknowledgment - People accept that accessibility is important or how it impacts them and the way they work</li><li>Adaption - People start to change their behavior about accessibility</li><li>Adoption - People's changed behavior becomes habit when considering accessibility</li><li>Advocacy - People help and encourage others to adhere to and apply better behaviors regarding accessibility</li></ul>"
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: avis-ryan #bio_id for this person 
-              - name: Presenter
-                who: velma-briscoe
               - name: Presenter
                 who: marcelle-salley-owens
               - name: Presenter
@@ -353,10 +353,8 @@ iaaf_2022:
             track_id: day2breakout3b
             description: "For years, the National Park Service and University of Hawaii have partnered to audio describe print brochures. The results: A website rich with resources, open source editing tools, hundreds of trained staff, and over 160 brochures available on an app. All results are informed by research, and collaborators who are blind or low vision. This presentation will provide background, demo the audio description tools you can use, and hear a collaborator's perspective."
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: michelle-hartley #use bio_id 
-              - name: Presenter
-                who: michelle-hartley
               - name: Presenter
                 who: brett-oppegaard
               - name: Presenter
@@ -375,9 +373,9 @@ iaaf_2022:
             who: andrew-nielson #use bio_id
   - day: 3
     time_start: 2022-10-12 10:00:00
-    time_end: 2022-10-12 16:00:00
+    time_end: 2022-10-12 16:30:00
     sessions: 
-      - name: 'Welcome and Speaker Introduction'
+      - name: 'Opening and Speaker Introduction'
         type: welcome
         time_start: 2022-10-13 10:00:00
         time_end: 2022-10-13 10:10:00
@@ -386,11 +384,9 @@ iaaf_2022:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: daniel-pomeroy #bio_id for this person 
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: stephen-harding #bio_id for this person 
       - name: 'Welcome'
         type: welcome
-        time_start: 2022-10-13 10:15:00
+        time_start: 2022-10-13 10:10:00
         time_end: 2022-10-13 10:25:00
         session_id: day3welcome2
         description: 
@@ -407,7 +403,7 @@ iaaf_2022:
         time_end: 2022-10-13 10:35:00
         session_id: day3general1
         description: 
-        subtitle: Government-wide IT Accessibility Program Update
+        subtitle: "Government-wide IT Accessibility Program Update"
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: andrew-nielson #bio_id for this person
@@ -446,42 +442,29 @@ iaaf_2022:
         downloads:
           - link_name: 
             file_name:
-      - name: 'Transition'
+      - name: 'Break'
         type: break
         time_start: 2022-10-13 11:40:00
         time_end: 2022-10-13 11:50:00
         session_id: day3break2
         description:
-      - name: 'Breakout Session'
-        type: breakout
+      - name: 'General Session'
+        type: general
         time_start: 2022-10-13 11:50:00
         time_end: 2022-10-13 12:35:00
         session_id: day3breakout1
-        tracks:
-          - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: 'Accessibility Maturity Models'
-            track_id: day3breakout1a
-            description: The Intelligence Community (IC) Information Technology (IT) Accessibility Program Maturity Model, which we developed with the IC IT Accessibility Program Community of Interest (COI). This model was designed to help the Director of National Intelligence (DNI), the IC Chief Information Officer, and IC Elements assess effectiveness of their IT accessibility programs, identify gaps, and help develop the necessary capabilities to improve future performance.
-            roles: #list each roles as you intend the display on the page
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: nancy-casper #bio_id for this person 
-              - name: Presenter
-                who: shannon-paschel
-              - name: Presenter
-                who: rosemary-speers
-            downloads:
-              - link_name: 
-                file_name:
-          - name: 'Track B: Buy and Manage Compliance'
-            name_breakout: 'What Could Really Happen If My Agency Is Not In Compliance... Nothing Right?'
-            track_id: day3breakout1b
-            description: When an agency receives a notification that information released to the public is not Section 508 compliant, what is the best way to handle it? What are the next steps for the agency Section 508 program manager? Who are the stakeholders that need to be notified? What are the risks of not fixing the issue?  During this session, we will discuss this process from beginning to end and the importance of management taking immediate action. 
-            roles: #list each roles as you intend the display on the page
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: brooke-aiken #use bio_id 
-            downloads:
-              - link_name: 
-                file_name:
+        description: "The Intelligence Community (IC) Information Technology (IT) Accessibility Program Maturity Model, which we developed with the IC IT Accessibility Program Community of Interest (COI). This model was designed to help the Director of National Intelligence (DNI), the IC Chief Information Officer, and IC Elements assess effectiveness of their IT accessibility programs, identify gaps, and help develop the necessary capabilities to improve future performance."
+        subtitle: 'Accessibility Maturity Models'
+        roles: #list each roles as you intend the display on the page
+          - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: nancy-casper #bio_id for this person 
+          - name: Presenter
+            who: shannon-paschel
+          - name: Presenter
+            who: rosemary-speers
+        downloads:
+          - link_name: 
+            file_name:
       - name: 'Lunch'
         type: break
         time_start: 2022-10-13 12:35:00
@@ -495,24 +478,19 @@ iaaf_2022:
         session_id: day3breakout2
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: 'A Different Perspective for Looking at Accessibility'
-            track_id: day3breakout2a
-            description: "In 2022 the 1-in-4 Americans with disabilities continue to experience inequities due to accessibility barriers to electronic information technology (EIT). Access to EIT is a civil right. Even when provided with a reasonable accommodation PWD must identify their own work-a-rounds to reduce barriers. Join us to experience the world from an alternative point of view as panelist share tips and tricks they use daily to increase their productivity and opportunities for inclusion in the workplace"
-            roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: annette-carr #bio_id for this person
-            downloads:
-              - link_name: 
-                file_name:
-          - name: 'Track B: Buy and Manage Compliance'
             name_breakout: 'WCAG 3 - Current status and ways to get involved'            
-            track_id: day3breakout2b
+            track_id: day3breakout2a
             description: "The Accessibility Guidelines Working Group is working on WCAG 3, the next generation of digital accessibility standards. This presentation will:<ol><li>Review the goals for WCAG 3</li><li>Discuss the current status of the work</li><li>Provide an opportunity for immediate feedback</li><li>Review ways to keep up to date and provide ongoing feedback.</li></ol>"
             roles: #list each roles as you intend the display on the page
-              - name: Moderator
-                who: bruce-bailey
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: rachael-montgomery #use bio_id 
+          - name: 'Track B: Buy and Manage Compliance'
+            name_breakout: 'Best Practices for IT Accessibility Throughout The Acquisition Lifecycle'            
+            track_id: day3breakout2b
+            description: "Federal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviFederal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviewed."
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: betsy-sirk #use bio_id 
             downloads:
               - link_name: 
                 file_name:
@@ -531,10 +509,10 @@ iaaf_2022:
           - name: 'Track A: Lead Our Agencies Toward Access'
             name_breakout: 'Centralizing Accessibility Services is Key to Success!'
             track_id: day3breakout3a
-            description: NIH a workplace of choice for the Deaf and hard of hearing community because we centralize the services and the funding. We have been growing this business model for over 22 years.  Our program started out with a small business contractor providing fewer than $5K hours. Over the past two decades, demand for services has grown to  50K hours in 2021). Contracting these services ensures we can continue to meet the growing demand and offer a variety of services to meet the diverse needs of our workforce, patients, and visitors. For our patients and their families we provide service 24/7/365. Our workforce includes Federal employees, contractors, and visiting fellows who work as clinicians, researchers, technicians, first responders, and administrators. It would be virtually impossible to meet all these needs with staff interpreters. That's why contracting with a top, local, experienced interpreting service provider is essential to success. In addition, our scheduling system, developed for NIH by our contractor, provides a secure web-based system portal that is hassle free, has mobile optimization, and is accessible to anyone with an active NIH email account. The contract scheduling team is available to assist users and process service requests accurately and timely 99-100% of the time. We rarely get complaints and our consumers highly rate the services. Another key to our success is centralizing the funding for the services. We do this by tapping each of the 27 institutes and centers an annual assessment based on size, not usage or number of Deaf people working there. This model ensures equal access to these vital communication services because cost is never a factor in the decision making process. In short, we remove the barriers to access by centralizing the services under one performance-based professional services contract, and the funding. It also sends a clear message to our consumers that they matter and access for all is a top priority at NIH. 
+            description: 'In 2022 the 1-in-4 Americans with disabilities continue to experience inequities due to accessibility barriers to electronic information technology (EIT). Access to EIT is a civil right. Even when provided with a reasonable accommodation PWD must identify their own work-a-rounds to reduce barriers. Join us to experience the world from an alternative point of view as panelist share tips and tricks they use daily to increase their productivity and opportunities for inclusion in the workplace.'
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: linda-kiefer #bio_id for this person
+                who: annette-carr #bio_id for this person
             downloads:
               - link_name: 
                 file_name:
@@ -587,3 +565,12 @@ iaaf_2022:
             who: yvette-gibson #use bio_id
           - name: 
             who: stephen-harding
+      - name: 'IAAF "After Party"' 
+        type: welcome
+        time_start: 2022-10-13 16:00:00
+        time_end: 2022-10-13 16:30:00
+        session_id: day3afterparty
+        subtitle: 'Stay online to connect with hosts, presenters, and participants from across the country.'
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: #bio_id for this person 
