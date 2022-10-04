@@ -370,8 +370,8 @@ iaaf_2022:
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
   - day: 3
-    time_start: 2022-10-12 10:00:00
-    time_end: 2022-10-12 16:30:00
+    time_start: 2022-10-13 10:00:00
+    time_end: 2022-10-13 16:30:00
     sessions: 
       - name: 'Opening and Speaker Introduction'
         type: welcome
