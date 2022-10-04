@@ -194,13 +194,11 @@ iaaf_2022:
         description: 
         roles: #list each roles as you intend the display on the page
           - name: Moderator
-            who: gary-morin
+            who: dennis-papula
           - name: Panelist
             who: jason-hitchcock
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: antoinette-johnson #bio_id for this person 
-          - name: Panelist 
-            who: dennis-papula
           - name: Panelist 
             who: kate-sweeney
           - name: Panelist 
