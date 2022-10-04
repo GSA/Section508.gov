@@ -144,7 +144,7 @@ iaaf_2022:
               - link_name: 
                 file_name:
           - name: 'Track B: Create Amazing Content'
-            name_breakout: 'Section 508 PM Role - Using What You Know'
+            name_breakout: 'Section 508 PMs - Using What You Know'
             track_id: day1breakout4b
             description: "Building on the previous session, Section508 PMs - What You Need to Know, panelists will discuss using best practices in the real world, baselining, and moving forward."
             roles: #list each roles as you intend the display on the page
