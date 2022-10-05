@@ -4,10 +4,10 @@ bio_id: wilkes-martha
 display_name: Martha Wilkes
 first_name: Martha
 last_name: Wilkes
-affiliation_long: U. S. Digital Service
-affiliation_short: USDS
-position: Accessibility Strategist/Designer
-office: 
+affiliation_long: U. S. Digital Service at Department of Veterans Affairs
+affiliation_short: USDS/VA
+position: Designer and Accessibility Strategist
+office: Office of the Chief Technology Officer
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/wilkes-martha.png
