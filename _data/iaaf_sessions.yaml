@@ -458,6 +458,8 @@ iaaf_2022:
         description: "The Intelligence Community (IC) Information Technology (IT) Accessibility Program Maturity Model, which we developed with the IC IT Accessibility Program Community of Interest (COI). This model was designed to help the Director of National Intelligence (DNI), the IC Chief Information Officer, and IC Elements assess effectiveness of their IT accessibility programs, identify gaps, and help develop the necessary capabilities to improve future performance."
         subtitle: 'Accessibility Maturity Models'
         roles: #list each roles as you intend the display on the page
+          - name: Moderator
+            who: michael-horton
           - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: nancy-casper #bio_id for this person 
           - name: Presenter

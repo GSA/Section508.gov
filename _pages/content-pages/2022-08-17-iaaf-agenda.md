@@ -113,6 +113,7 @@ created: 1600981839
               <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
               {% if session.subtitle %}
                 <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
+                <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
               {% endif %}
               {% assign session_roles = session.roles | map: "name" | uniq %}
               {% for role in session_roles %}
