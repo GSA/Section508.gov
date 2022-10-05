@@ -66,7 +66,7 @@ created: 1600981839
                     </div>
                     {% for download in track.downloads %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                        <span class="speaker-name"><a href="https://assets.section508.gov/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                       </div>
                     {% endfor %}
                   {% endif %}
@@ -103,7 +103,7 @@ created: 1600981839
                   </div>
                   {% for download in track.downloads %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      <span class="speaker-name"><a href="https://assets.section508.gov/files/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                     </div>
                   {% endfor %}
                 {% endif %}
@@ -113,6 +113,7 @@ created: 1600981839
               <div class="desktop:grid-col-9 tablet:grid-col-9 cell {{ descr-class }} agenda-description padding-1">
               {% if session.subtitle %}
                 <span class="session-type padding-top-1 padding-left-sm padding-right-sm">{{ session.subtitle }}</span>
+                <span class="session-description padding-top-1 padding-left-sm padding-right-sm">{{ session.description }}</span>
               {% endif %}
               {% assign session_roles = session.roles | map: "name" | uniq %}
               {% for role in session_roles %}
@@ -147,4 +148,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>October 4, 2022</p>
+<p><strong>Reviewed/Updated: </strong>October 5, 2022</p>
