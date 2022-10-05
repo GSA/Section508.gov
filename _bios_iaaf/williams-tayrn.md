@@ -1,8 +1,8 @@
 ---
-title: Tayrn Williams
-bio_id: tayrn-williams
-display_name: Tayrn M. Williams
-first_name: Tayrn
+title: Taryn Williams
+bio_id: taryn-williams
+display_name: Taryn M. Williams
+first_name: Taryn
 last_name: Williams
 affiliation_long: Department of Labor
 affiliation_short: DOL
