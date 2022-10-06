@@ -225,7 +225,7 @@ Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
 VACANT
 ### Washington Headquarters Service (WHS)
-VACANT
+Glenn T. Butcher - <glenn.t.buchter.civ@mail.mil>  
 
 ----------------------------------------------------
 ## <span id="usdoe" ></span>Department of Education
@@ -350,7 +350,6 @@ Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 Keon Sheffield - 303-275-2319 - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
 Edward Olexa - <section508@usgs.gov>  
-Christina Bartlett (BACKUP) - 703-648-7197 - <cbartlett@usgs.gov>  
 
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
@@ -534,7 +533,7 @@ VACANT
 <span id="F" ></span>
 
 ### Farm Credit Administration (FCA)
-Tom Wild - 703-883-4301 - <wildt@fca.gov>
+VACANT
 ### Federal Communication Commission (FCC)
 Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)

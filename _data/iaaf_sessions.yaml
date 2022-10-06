@@ -498,8 +498,12 @@ iaaf_2022:
             track_id: day3breakout2b
             description: "Federal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviFederal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviewed."
             roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: small-elizabeth
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: betsy-sirk #use bio_id 
+                who: antonio-haileselassie #use bio_id
+              - name: Presenter
+                who: betsy-sirk
             downloads:
               - link_name: #Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
                 file_name: #Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
