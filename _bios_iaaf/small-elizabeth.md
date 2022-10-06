@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Small
 bio_id: small-elizabeth
-display_name: Elizabeth Small
+display_name: Dr. Elizabeth Small
 first_name: Elizabeth
 last_name: Small
 affiliation_long: Department of Labor
