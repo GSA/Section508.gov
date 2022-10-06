@@ -30,6 +30,8 @@ iaaf_2022:
             track_id: day1breakout1a
             description: During this session you will learn how to integrate Real-Time Captioning/Computer Assisted Real-Time Transcription (CART), and key requirements for public events & webinars.
             roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: mcgowan-brianna #bio_id for this person 
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: wendy-cheng #bio_id for this person 
             downloads:
@@ -271,8 +273,10 @@ iaaf_2022:
             track_id: day2breakout1a
             description: Struggling with human emotions is a universal experience, yet mental health is a topic that gets stigmatized every day in our society. Mental health awareness is on the rise, particularly as COVID-19 continues to drive an epidemic of stress and burnout. That's why it's more important than ever for companies to prioritize employee well-being and mental health. This presents unique challenges in the workplace, going beyond just providing mental health options to creating a workplace in which all employees truly feel supported by employers and connected to one another. This presentation will share one agency's efforts to establish a work culture that embraces mental health, talks about it, and supports employee mental health through the establishment of an Employee Resource Group accessible to all employees and contractors within the National Science Foundation.
             roles: #list each roles as you intend the display on the page
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: macey-cox #bio_id for this person 
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: wilson-alex #bio_id for this person 
+              - name: Presenter 
+                who: macey-cox 
               - name: Presenter
                 who: emily-follit
             downloads:
@@ -307,6 +311,8 @@ iaaf_2022:
             track_id: day2breakout2a
             description: For our new ONRR.gov site, we wanted to ensure the site is accessible from the start. We decided to use a four-point hybrid testing approach. The first step is running automated Lighthouse accessibility reports. We followed up with manual testing with NVDA screen reader. We then worked with a SME with visual disability to review the website. Finally, we iterated the needed fixes with our developer. We'll present learnings from this process.
             roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: oden-dennis
               - name: Presenter
                 who: lindsay-goldstein
               - name: Presenter
@@ -319,6 +325,8 @@ iaaf_2022:
             track_id: day2breakout2b
             description: "Mission Accessible, inspired by Mission Impossible, consists of five daily missions delivered via email. Each mission, usually no more than 5 minutes, is focused on one of the following areas ':' Vision, Hearing, Mobility, Speech, and Cognitive. Those participating report out if they completed it and any other observations. It can help people walk in someone else's shoe while learning about features they may not have been aware of (e.g., dictation, and using short cut keys)."
             roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: tim-creagan
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: angela-watkins #use bio_id
             downloads:
@@ -355,8 +363,10 @@ iaaf_2022:
             track_id: day2breakout3b
             description: "For years, the National Park Service and University of Hawaii have partnered to audio describe print brochures. The results: A website rich with resources, open source editing tools, hundreds of trained staff, and over 160 brochures available on an app. All results are informed by research, and collaborators who are blind or low vision. This presentation will provide background, demo the audio description tools you can use, and hear a collaborator's perspective."
             roles: #list each roles as you intend the display on the page
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: michelle-hartley #use bio_id 
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: wilkes-martha #use bio_id
+              - name: Presenter 
+                who: michelle-hartley 
               - name: Presenter
                 who: brett-oppegaard
               - name: Presenter
@@ -377,7 +387,7 @@ iaaf_2022:
     time_start: 2022-10-13 10:00:00
     time_end: 2022-10-13 16:30:00
     sessions: 
-      - name: 'Opening and Speaker Introduction'
+      - name: 'Opening Remarks'
         type: welcome
         time_start: 2022-10-13 10:00:00
         time_end: 2022-10-13 10:10:00
@@ -482,7 +492,7 @@ iaaf_2022:
         session_id: day3breakout2
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: 'WCAG 3 - Current status and ways to get involved'            
+            name_breakout: 'WCAG 3 - Current Status and Ways to Get Involved'            
             track_id: day3breakout2a
             description: "The Accessibility Guidelines Working Group is working on WCAG 3, the next generation of digital accessibility standards. This presentation will:<ol><li>Review the goals for WCAG 3</li><li>Discuss the current status of the work</li><li>Provide an opportunity for immediate feedback</li><li>Review ways to keep up to date and provide ongoing feedback.</li></ol>"
             roles: #list each roles as you intend the display on the page
@@ -498,10 +508,8 @@ iaaf_2022:
             track_id: day3breakout2b
             description: "Federal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviFederal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviewed."
             roles: #list each roles as you intend the display on the page
-              - name: Moderator
-                who: small-elizabeth
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: antonio-haileselassie #use bio_id
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: small-elizabeth #use bio_id
               - name: Presenter
                 who: betsy-sirk
             downloads:
