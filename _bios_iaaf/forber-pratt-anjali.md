@@ -4,8 +4,8 @@ bio_id: anjali-forber-pratt
 display_name: Dr. Anjali Forber-Pratt
 first_name: Anjali
 last_name: Forber-Pratt
-affiliation_long: National Institutes of Health
-affiliation_short: NIH
+affiliation_long: National Institute on Disability, Independent Living and Rehabilitation Research
+affiliation_short: NIDILRR
 position: Director
 office: National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR)
 location: 
