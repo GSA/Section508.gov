@@ -6,7 +6,7 @@ first_name: Andrea
 last_name: O’Neal
 affiliation_long: General Services Administration
 affiliation_short: GSA
-position: Senior Advisor to the Administrator (Equity)
+position: Senior Advisor to the Administrator for Equity
 office: 
 location: Washington, DC
 email: 

@@ -17,8 +17,6 @@ iaaf_2022:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: yvette-gibson #bio_id for this person 
-          - name: 
-            who: stephen-harding
       - name: 'Workshop'
         type: breakout
         time_start: 2022-10-11 12:10:00
@@ -277,8 +275,8 @@ iaaf_2022:
               - name: Presenter
                 who: emily-follit
             downloads:
-              - link_name: Workplace Mental Health - IAAF 2022 (PPTX)
-                file_name: Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
+              - link_name: #Workplace Mental Health - IAAF 2022 (PPTX)
+                file_name: #Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Striving for Universal Access: Image Descriptions'        
             track_id: day2breakout1b

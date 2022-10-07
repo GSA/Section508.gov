@@ -13,9 +13,7 @@ email:
 image_url: https://assets.section508.gov/files/bio-images/creagan-tim.png
 iaaf_years: 2020
 ---
-Mr. Creagan is a senior accessibility specialist with the U.S. Access Board.
-
-He provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications. He is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.
+Mr. Creagan is a senior accessibility specialist with the U.S. Access Board. He provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications. He is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.
 
 Mr. Creagan joined the U.S. Access Board in 2006 to lead the team revising the Board’s existing standards and guidelines for electronic and communication technologies. He served as the Designated Federal Official (DFO) for the Telecommunications and Electronic and Information Technology Advisory Committee (TEITAC). He was a member of the team that developed the revised accessibility standards for information and communication technology (ICT) under Section 508 of the Rehabilitation Act and the revised accessibility guidelines under Section 255 of the Communications Act, published in 2017.
 

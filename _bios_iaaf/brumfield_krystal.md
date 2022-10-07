@@ -6,7 +6,7 @@ first_name: Krystal
 last_name: Brumfield
 affiliation_long: General Services Administration
 affiliation_short: GSA
-position: Associate Administrator
+position: Associate Administrator, Office of Government-wide Policy
 office: Office of Government-wide Policy
 location: Washington, DC
 email: 

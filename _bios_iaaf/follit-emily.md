@@ -6,7 +6,7 @@ first_name: Emily
 last_name: Follit
 affiliation_long: National Science Foundaiiton
 affiliation_short: NSF
-position: 
+position: Management Operations Assistant
 office: 
 location: 
 email: 
