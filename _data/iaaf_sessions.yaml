@@ -26,7 +26,7 @@ iaaf_2022:
         session_id: day1breakout1
         tracks:
           - name: 'Track A: Lead Our Agencies Toward Access'
-            name_breakout: 'Accessible Meetings: The Basics (Services)'
+            name_breakout: 'Accessible Meetings: Integrating Captioning in Conference Platforms'
             track_id: day1breakout1a
             description: During this session you will learn how to integrate Real-Time Captioning/Computer Assisted Real-Time Transcription (CART), and key requirements for public events & webinars.
             roles: #list each roles as you intend the display on the page
@@ -35,8 +35,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: wendy-cheng #bio_id for this person 
             downloads:
-              - link_name: #Accessible Meetings - The Basics (Services) - IAAF 2022 (PPTX)
-                file_name: #Accessible%20Meetings%20-%20The%20Basics%20(Services)%20-%20IAAF%202022.pptx
+              - link_name: #Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
+                file_name: #Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Videos for All: Strategies for Developing Audio Described Videos'
             track_id: day1breakout1a
@@ -146,7 +146,7 @@ iaaf_2022:
                 who: regina-wendling #bio_id for this person 
             downloads:
               - link_name: #Creating Accessible PDF Forms - IAAF 2022 (PPTX)
-                file_name: #This file was rejected. Please confirm is in S3 before making link live Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
+                file_name: #Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PMs - Using What You Know'
             track_id: day1breakout4b
@@ -164,7 +164,7 @@ iaaf_2022:
                 who: angela-watkins
             downloads:
               - link_name: 
-                file_name:
+                file_name: #This file was rejected. Please confirm is in S3 before making live #
       - name: 'Closing' 
         type: welcome
         time_start: 2022-10-11 16:00:00
@@ -207,9 +207,6 @@ iaaf_2022:
             who: kate-sweeney
           - name: Panelist 
             who: mark-urban
-        downloads:
-          - link_name: 
-            file_name:
       - name: 'Transition'
         type: break
         time_start: 2022-10-12 11:00:00
@@ -280,20 +277,22 @@ iaaf_2022:
               - name: Presenter
                 who: emily-follit
             downloads:
-              - link_name: #Workplace Mental Health - IAAF 2022 (PPTX)
-                file_name: #This file was rejected. Please confirm is in S3 before making link live Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
+              - link_name: Workplace Mental Health - IAAF 2022 (PPTX)
+                file_name: Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Striving for Universal Access: Image Descriptions'        
             track_id: day2breakout1b
             description: Since the summer of 2020, more than 1,000 fully accessible textual descriptions of works of art in the National Gallery of Art's collection have gone live and cover 60% of traffic to museum's collection pages. Learn how we leveraged a large-scale, interdepartmental project to make this a reality, from documenting the process through published description guidelines, to focusing on all users through an inclusive design approach which supports the National Gallery's mission for universal access.
             roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: joyce-katie
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who:  lorena-bradford #use bio_id 
               - name: Presenter
                 who: deanna-wood
             downloads:
               - link_name: 
-                file_name:
+                file_name: #This file was rejected. Please confirm is in S3 before making live #
       - name: 'Break'
         type: break
         time_start: 2022-10-12 13:45:00
@@ -477,8 +476,8 @@ iaaf_2022:
           - name: Presenter
             who: rosemary-speers
         downloads:
-              - link_name: #IC IT Accessibility Maturity Model - IAAF 2022.pptx (PPTX)
-                file_name: #IC%20IT%20Accessibility%20Maturity%20Model%20-%20IAAF%202022.pptx.pptx
+              - link_name: #Accessibility Maturity Models - IAAF 2022.pptx (PPTX)
+                file_name: #Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx.pptx
       - name: 'Lunch'
         type: break
         time_start: 2022-10-13 12:35:00
