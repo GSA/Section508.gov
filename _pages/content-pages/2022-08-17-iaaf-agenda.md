@@ -103,7 +103,7 @@ created: 1600981839
                   </div>
                   {% for download in track.downloads %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><a href="https://assets.section508.gov/files/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      <span class="speaker-name"><a href="https://assets.section508.gov/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                     </div>
                   {% endfor %}
                 {% endif %}
@@ -134,8 +134,21 @@ created: 1600981839
                   {% endfor %}
                 {% endfor %}
               {% endfor %}
+
+              {% if session.downloads[0].link_name != nil %}
+                <!-- DOWNLOADS -->
+                <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                  <span class="session-type text-highlight margin-top-3">Downloads:</span>
+                </div>
+                {% for download in session.downloads %}
+                  <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                    <span class="speaker-name"><a href="https://assets.section508.gov/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                  </div>
+                {% endfor %}
+              {% endif %}
+
               </div>
-            {% endif %}
+            {% endif %}           
         </div>
       {% endif %}
     {% endfor %}
@@ -171,4 +184,4 @@ created: 1600981839
     <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>October 7, 2022</p>
+<p><strong>Reviewed/Updated: </strong>October 11, 2022</p>
