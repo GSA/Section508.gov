@@ -33,8 +33,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: wendy-cheng #bio_id for this person 
             downloads:
-              - link_name: #Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
-                file_name: #Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
+              - link_name: Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
+                file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Videos for All: Strategies for Developing Audio Described Videos'
             track_id: day1breakout1a
@@ -47,8 +47,8 @@ iaaf_2022:
               - name: Presenter
                 who: andrew-wiley
             downloads:
-              - link_name: #Videos for All - IAAF 2022 (PPTX)
-                file_name: #Videos%20for%20All%20-%20IAAF%202022.pptx
+              - link_name: Videos for All - IAAF 2022 (PPTX)
+                file_name: Videos%20for%20All%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 13:00:00
@@ -71,8 +71,8 @@ iaaf_2022:
               - name: Presenter
                 who: andrew-nielson
             downloads:
-              - link_name: 
-                file_name:
+              - link_name: The Human Reason for Accessibility - Part 1 - IAAF 2022.pptx
+                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Captioning Multimedia - Is It As Complicated As It Sounds?'
             track_id: day1breakout2b
@@ -81,8 +81,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: lesley-earl #bio_id for this person 
             downloads:
-              - link_name: #Captioning Multimedia - IAAF 2022 (PPTX)
-                file_name: #Captioning%20Multimedia%20-%20IAAF%202022.pptx
+              - link_name: Captioning Multimedia - IAAF 2022 (PPTX)
+                file_name: Captioning%20Multimedia%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 14:00:00
@@ -105,8 +105,8 @@ iaaf_2022:
               - name: Presenter
                 who: andrew-nielson
             downloads:
-              - link_name: 
-                file_name:
+              - link_name: The Human Reason for Accessibility - Part 2 - IAAF 2022.pptx
+                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PMs - What You Need To Know'
             track_id: day1breakout3b
@@ -119,8 +119,8 @@ iaaf_2022:
               - name: Presenter
                 who: angela-watkins
             downloads:
-              - link_name: #Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
-                file_name: #Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
+              - link_name: Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
+                file_name: Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-11 15:00:00
@@ -143,8 +143,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: regina-wendling #bio_id for this person 
             downloads:
-              - link_name: #Creating Accessible PDF Forms - IAAF 2022 (PPTX)
-                file_name: #Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
+              - link_name: Creating Accessible PDF Forms - IAAF 2022 (PPTX)
+                file_name: Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Section 508 PMs - Using What You Know'
             track_id: day1breakout4b
