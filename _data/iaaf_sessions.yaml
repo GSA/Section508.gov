@@ -500,7 +500,7 @@ iaaf_2022:
             downloads:
               - link_name: WCAG 3 - IAAF 2022 (PPTX) 
                 file_name: WCAG%203%20-%20IAAF%202022.pptx
-          - name: 'Track B: Buy and Manage Compliance'
+          - name: 'Track B: Section 508 Wildcard'
             name_breakout: 'Best Practices for Achieving Digital Accessibility'            
             track_id: day3breakout2b
             description: "Federal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviFederal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviewed."
@@ -536,7 +536,7 @@ iaaf_2022:
             downloads:
               - link_name: A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
                 file_name: A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
-          - name: 'Track B: Buy and Manage Compliance'
+          - name: 'Track B: Section 508 Wildcard'
             name_breakout: 'Demystifying Section 508: Creating and Evaluating Accessibility Conformance Reports'            
             track_id: day3breakout3b
             description: The US Federal Government buys more Information and Communication Technology (ICT) than it builds. To ensure the most accessible ICT is purchased, the Government relies on Industry to provide Accessibility Conformance Reports (ACRs). This presentation shows how ACR creation is a win-win situation for Industry and Government. NASA shares its guide to help industry develop ACRs and promote an understanding of Section 508 by both Industry and Government. Best practices in ACR evaluation are shared.
