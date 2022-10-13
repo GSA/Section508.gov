@@ -474,8 +474,8 @@ iaaf_2022:
           - name: Presenter
             who: rosemary-speers
         downloads:
-              - link_name: #Accessibility Maturity Models - IAAF 2022 (PPTX)
-                file_name: #Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx
+              - link_name: Accessibility Maturity Models - IAAF 2022 (PPTX)
+                file_name: Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx
       - name: 'Lunch'
         type: break
         time_start: 2022-10-13 12:35:00
@@ -498,8 +498,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: rachael-montgomery #use bio_id 
             downloads:
-              - link_name: #WCAG 3 - IAAF 2022 (PPTX) 
-                file_name: #WCAG%203%20-%20IAAF%202022.pptx
+              - link_name: WCAG 3 - IAAF 2022 (PPTX) 
+                file_name: WCAG%203%20-%20IAAF%202022.pptx
           - name: 'Track B: Buy and Manage Compliance'
             name_breakout: 'Best Practices for Achieving Digital Accessibility'            
             track_id: day3breakout2b
@@ -510,8 +510,8 @@ iaaf_2022:
               - name: Presenter
                 who: betsy-sirk
             downloads:
-              - link_name: #Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
-                file_name: #Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
+              - link_name: Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
+                file_name: Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-13 13:45:00
@@ -534,8 +534,8 @@ iaaf_2022:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: annette-carr #bio_id for this person
             downloads:
-              - link_name: #A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
-                file_name: #A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
+              - link_name: A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
+                file_name: A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
           - name: 'Track B: Buy and Manage Compliance'
             name_breakout: 'Demystifying Section 508: Creating and Evaluating Accessibility Conformance Reports'            
             track_id: day3breakout3b
@@ -548,8 +548,8 @@ iaaf_2022:
               - name: Panelist
                 who: betsy-sirk
             downloads:
-              - link_name: #Demystifying Section 508 - IAAF 2022 (PPTX) 
-                file_name: #Demystifying%20Section%20508%20-%20IAAF%202022.pptx
+              - link_name: Demystifying Section 508 - IAAF 2022 (PPTX) 
+                file_name: Demystifying%20Section%20508%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2022-10-13 14:45:00
