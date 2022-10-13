@@ -572,8 +572,8 @@ iaaf_2022:
           - name: Panelist
             who: taryn-williams
         downloads:
-          - link_name: Chair and Committee Members - IAAF 2022 (PPTX) 
-            file_name: Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx
+          - link_name:
+            file_name:
       - name: 'Closing' 
         type: welcome
         time_start: 2022-10-13 15:45:00
@@ -585,6 +585,9 @@ iaaf_2022:
             who: yvette-gibson #use bio_id
           - name: 
             who: stephen-harding
+        downloads:
+          - link_name: Chair and Committee Members - IAAF 2022 (PPTX) 
+            file_name: Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx            
       - name: 'IAAF "After Party"' 
         type: welcome
         time_start: 2022-10-13 16:00:00
@@ -593,4 +596,4 @@ iaaf_2022:
         subtitle: 'Stay online to connect with hosts, presenters, and participants from across the country.'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: #bio_id for this person 
+            who: #bio_id for this person             
