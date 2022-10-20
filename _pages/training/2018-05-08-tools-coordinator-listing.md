@@ -168,11 +168,11 @@ Mubarak Allotey - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
 Stephen Johnson - 410-981-0308 - <stephen.johnson@dc3.mil>  
 Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
-Ms. Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
+Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
-Richard A. Lamberti - 301-295-8445 - <richard.a.lamberti.civ@mail.mil>
+Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
-Ameenah Ghoston &nbsp;- 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
+Ameenah Ghoston - 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
 Angela M. Edwards (BACKUP) - <angela.m.edwards10.civ@mail.mil>  
 
 * **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
@@ -636,7 +636,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong>September 20, 2022
+    <strong>Reviewed/Updated:</strong>October 20, 2022
   </p>
 </div>
 
