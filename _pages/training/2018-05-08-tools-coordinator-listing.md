@@ -93,7 +93,7 @@ Ityran Taylor - <ityran.taylor@usda.gov>
 ### Office of the Chief Information Officer
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
-* **DISC-EAS** <br>Andrew Campbell - <andrew.campbell@usda.gov>  
+* **DISC-EAS** <br>VACANT    
 * **DISC-EAS-SAAS** <br>Jerome Davin - <jerome.davin@usda.gov>  
 * **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - <holly.beckstrom@usda.gov>
 
@@ -188,7 +188,7 @@ VACANT
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
-Yvette Jacks - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>   
+VACANT  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 James O. Taylor - <james.o.taylor52.civ@mail.mil>  
@@ -251,7 +251,7 @@ Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 Antoinette Johnson – 410-786-9326 – <antoinette.johnson@cms.hhs.gov>  
 Ann S. Turner – 410-786-2184 - <ann.turner@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
-Rita Harrison - 240-549-2275 - <rita.harrison@fda.hhs.gov>
+Heather Chafin - 240-876-8354 - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
 Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>  
 Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
@@ -283,8 +283,7 @@ Janice Fenlason - 202-705-9758 - <janice.fenlason@fema.dhs.gov>
 Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>  
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
-Mark Magers - 301-447-1247 - <mark.magers@fema.dhs.gov>  
-Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
+VACANT  
 #### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
@@ -300,7 +299,7 @@ Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.
 Robert Fritzen - 202-981-6244 - <robert.fritzen@oig.dhs.gov>  
 Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
 ### Science and Technology (S&T)
-Michael Grzesiak - 202-254-2205 - <michael.grzesiak@st.dhs.gov>  
+VACANT    
 Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
 ### Transportation Security Administration (TSA)
 Matthew Bryne - 571-318-0307 - <matthew.byrne@tsa.dhs.gov>  
@@ -343,7 +342,7 @@ VACANT
 Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
-Kathryn Jonell - 2025130877 - <kathryn.jonell@sol.doi.gov>
+Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement
 Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ### U.S. Fish and Wildlife Service (FWS)
@@ -557,7 +556,6 @@ Theodosia Villatoro-Sorto - 202-360-131 - <tvillatoro-sorto@fmshrc.gov>
 Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
-Kristin L. Bishop - 202-736-5628 - <kristin.l.bishop@frb.gov>
 
 <span id="G" ></span>
 
@@ -636,7 +634,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong>October 20, 2022
+    <strong>Reviewed/Updated:</strong>October 24, 2022
   </p>
 </div>
 
