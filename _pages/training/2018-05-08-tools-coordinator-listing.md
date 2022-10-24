@@ -284,7 +284,6 @@ Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
 VACANT  
-Terri Little (BACKUP) - 301-447-1828 - <terri.little@fema.dhs.gov>
 #### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
