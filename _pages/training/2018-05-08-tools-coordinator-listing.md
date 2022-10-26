@@ -308,7 +308,7 @@ Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
 Kenneth S. Moser - 202-365-6493 - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - 202-372-2673 - <eleanor.e.thompson@uscg.mil>  
-Arthur A. Requina - 202-475-3651 - <arthur.a.requina@uscg.dhs.gov>  
+Terry A. Bell - <terry.a.bell@uscg.mil>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
