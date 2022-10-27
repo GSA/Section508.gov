@@ -212,6 +212,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Medicine and Surgery** <br>Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** <br>Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
   * **Naval Air Systems Command** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
+  * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – 202-685-9418 – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
   * **Office of Naval Research** <br>VACANT
