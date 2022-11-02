@@ -153,7 +153,7 @@ Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
 ### Center for Development of Security Excellence (CDSE)
-Kevin J. Malone - <kevin.j.mullone.civ@mail.mil>
+Richard L. Price - <richard.l.price6.civ@mail.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -427,7 +427,8 @@ Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
-Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
+Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>  
+Lisa L. Edwards - 817-222-4277 - <lisa.l.edwards@faa.gov>
 
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (DOT)
@@ -490,7 +491,8 @@ John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>
+Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>  
+Megan Rocus - 202-606-3127 - <megan.rocus@opm.gov>  
 
 ----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration (SBA)
@@ -557,6 +559,8 @@ Theodosia Villatoro-Sorto - 202-360-131 - <tvillatoro-sorto@fmshrc.gov>
 Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
+### Federal Retirement Thrift Investment Board (FRTIB)
+FRTIB Helpdesk - <508compliance@frtib.gov>  
 
 <span id="G" ></span>
 
@@ -635,7 +639,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong>October 24, 2022
+    <strong>Reviewed/Updated:</strong>November 1, 2022
   </p>
 </div>
 
