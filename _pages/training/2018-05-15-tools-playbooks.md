@@ -29,7 +29,10 @@ As governments increase their use of automation, users increasingly encounter â€
 
 A chatbot is a computer program or software solution that automates conversation with a user. They can be programmed with different responses based on what a user chooses or requests. Most chatbots are programmed to provide specific responses utilizing planned conversation trees. However, advanced bots are powered by artificial intelligence (AI) and natural language processing and can dynamically respond to a user's requests.
 
-* [Chatbot Accessibility Playbook](https://mitre.github.io/chatbot-accessibility-playbook/docs/4_1.html) - The MITRE Corporation (a Federally Funded Research and Development Center)
+  * [Chatbot Accessibility Playbook](https://mitre.github.io/chatbot-accessibility-playbook/docs/4_1.html) - The MITRE Corporation (a Federally Funded Research and Development Center)
+
+In addition to evidence-based resources and recommendations, the Chatbot Accessibility Playbook provides checklists to address accessibility during the design and development process.
+  * [Self-Assessment Checklist](https://mitre.github.io/chatbot-accessibility-playbook/docs/A_2.html) from the Chatbot Accessibility Playbook
 
 **Reviewed/Updated**: November 2022
 
