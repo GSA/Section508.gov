@@ -123,7 +123,7 @@ Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
-Jennifer Jessup - 202-482-0336 - <jjessup@doc.gov>
+Jennifer Jessup - 571-279-4434 - <jjessup@doc.gov>
 ### National Institute of Standards and Technology (NIST)
 Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
 ### National Oceanic and Atmospheric Administration (NOAA)
@@ -173,12 +173,13 @@ Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
 Ameenah Ghoston - 301-225-5166 - <ameenah.a.ghoston.civ@mail.mil>  
-Angela M. Edwards (BACKUP) - <angela.m.edwards10.civ@mail.mil>  
+Angela M. Edwards (BACKUP) - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
 
 * **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
 
 ### Defense Intelligence Agency (DIA)
-Paula Castro - 301-394-5194 - <paula.castro@dodiis.mil>    
+Vanessa Hill - 202-231-3226 - <vanessa.hill2@dodiis.mil>   
+Paula Castro (Backup) - 301-394-5194 - <paula.castro@dodiis.mil>    
 DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
@@ -360,7 +361,7 @@ Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>
 Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
-Thomas Stewart - <thomas.stewart@atf.gov>
+Thomas Stewart - 202-360-8030 - <thomas.stewart@atf.gov>
 
   * **National Laboratory Center**<br>VACANT
 
@@ -368,7 +369,7 @@ Thomas Stewart - <thomas.stewart@atf.gov>
 Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
 Tran Isabelle - <isabelle.tran@usdoj.gov>  
-Randy Abramson - <randy.abramson@usdoj.gov>
+Randy Abramson - 202-598-9631 - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -535,7 +536,7 @@ VACANT
 <span id="F" ></span>
 
 ### Farm Credit Administration (FCA)
-VACANT
+Nicole Jacobs - 703-883-4336 - <jacobsn@fca.gov>  
 ### Federal Communication Commission (FCC)
 Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
 ### Federal Deposit Insurance Corporation (FDIC)
