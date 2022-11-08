@@ -41,7 +41,7 @@ Another acceptable approach is to include the accessibility statement among a se
   <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Figure 2: Screenshot of the FCC's accessibility statement using the link text 'Website Policies & Notices' among eight other links such as Privacy Policy, FOIA, Enforcement, and About the FCC.</span></div>
 </div>
 
-## Examples Accessibility Statements
+## Examples of Accessibility Statements
 
 * [Department of Homeland Security (DHS)][1]
 * [Department of State (USDOS)][2]
