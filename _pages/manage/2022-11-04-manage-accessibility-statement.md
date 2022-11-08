@@ -29,27 +29,29 @@ We recommend that each agency craft a message highlighting the agency’s commit
 
 To ensure that your accessibility statement is available to visitors at any point within their digital experience, best practice is to include a link to the accessibility statement in the footer of each page on your website using “Accessibility” or “Accessibility Statement” as the link text. (Figure 1)
 
-<div class="tablet:grid-col" style="text-align: center">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
   <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/manage-web-statement-usab.png" alt="" aria-labelledby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
-  <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Figure 1: U.S. Access Board's website accessibility statement using the link text 'Accessibility' among seven other links such as Guidance Documents, FOIA, and Privacy.</span></div>
+  <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="vpat_snapshot">Figure 1: U.S. Access Board's website accessibility statement using the link text 'Accessibility' among seven other links such as Guidance Documents, FOIA, and Privacy.</span></div>
 </div>
 
 Another acceptable approach is to include the accessibility statement among a series of website policies and notices using “Website Policy & Notices“ as the link text. 
 
-<div class="tablet:grid-col" style="text-align: center">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
   <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/manage-web-statement-fcc.png" alt="" aria-labelledby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
-  <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Figure 2: Screenshot of the FCC's accessibility statement using the link text 'Website Policies & Notices' among eight other links such as Privacy Policy, FOIA, Enforcement, and About the FCC.</span></div>
+  <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="vpat_snapshot">Figure 2: Screenshot of the FCC's accessibility statement using the link text 'Website Policies & Notices' among eight other links such as Privacy Policy, FOIA, Enforcement, and About the FCC.</span></div>
 </div>
 
 ## Examples of Accessibility Statements
 
 * [Department of Homeland Security (DHS)][1]
 * [Department of State (USDOS)][2]
-<!-- * [Department of the Interior (DOI)][3] -->
+* [Department of the Interior (DOI)][3]
 * [Federal Communications Commission (FCC)][4]
 * [Federal Deposit Insurance Corporation (FDIC)][5]
 * [National Security Agency (NSA)][6]
 * [U.S. Access Board (USAB)][7]
+
+<p>&nbsp;</p>
 
 **Reviewed/Updated:** November 2022
 
