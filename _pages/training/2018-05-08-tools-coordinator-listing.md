@@ -417,12 +417,11 @@ Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>
 Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>  
 
 ----------------------------------------------------
-## <span id="usdos" ></span>Department of State
+## <span id="usdos" ></span>Department of State (USDS)
 Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
-<span id="usdot" ></span>
 
 ----------------------------------------------------
-## Department of Transportation (DOT)
+## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
 Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
 ### Federal Highway Administration (FHWA)
@@ -432,7 +431,7 @@ Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>
 Lisa L. Edwards - 817-222-4277 - <lisa.l.edwards@faa.gov>
 
 ----------------------------------------------------
-## <span id="usdott" ></span>Department of the Treasury (DOT)
+## <span id="usdott" ></span>Department of the Treasury (USDT)
 ### Department-wide
 VACANT
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
