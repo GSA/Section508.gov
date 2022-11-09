@@ -68,6 +68,8 @@ manage:
         url: manage/laws-and-policies/international/
       - name: Laws and Policy Quick Reference Guide
         url: manage/laws-and-policies/quick-reference-guide/
+      - name: Developing a Website Accessibility Statement
+        url: manage/laws-and-policies/website-accessibility-statement/
       - name: State-level Accessibility Law and Policy
         url: manage/laws-and-policies/state/
       - name: Updating Agency Policy

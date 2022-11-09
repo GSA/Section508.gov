@@ -13,6 +13,7 @@ redirect_from:
 [Related Laws][2]  
 [Related Policies][3]  
 [Agency Policies][4]
+[Website Accessibility Statement][5]
 
 <div id="508-policy">
   <h2>
@@ -109,18 +110,12 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
   * <a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
   * <a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
 
-### Sample Accessibility Statements
 
-  * [Accessibility Help][36] - SSA
-  * [Accessibility][37] - DHS
-  * [Web Governance - Accessibility][38] - VA
-  * [Website accessibility][39] - USA.gov
+### Accessibility Statements
 
-&nbsp;
+For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][36].
 
-**Reviewed/Updated:** March 2022
-
-&nbsp;
+**Reviewed/Updated:** November 2022
 
  [1]: #508-policy
  [2]: #laws
@@ -157,9 +152,6 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [33]: {{site.baseurl}}/manage/laws-and-policies/international
  [34]: https://www.w3.org/WAI/policies/
  [35]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
- [36]: https://www.ssa.gov/accessibility/508_overview.html
- [37]: https://www.dhs.gov/accessibility
- [38]: https://www.va.gov/web/standards/accessibility.cfm
- [39]: https://www.usa.gov/policies#item-211457
+ [36]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/
  [40]: https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication
  [41]: {{ site.baseurl}}/manage/laws-and-policies/far-update-comparison
