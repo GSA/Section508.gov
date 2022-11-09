@@ -87,7 +87,6 @@ Learn how to create accessible video, audio, [social media][1] posts that confor
 
 Instructions and techniques on how to provide accessibility for virtual collaboration.
 
-  * [FedRelay][3] - Intermediary telecommunications service for individuals within the federal government who are deaf, hard of hearing, and/or have speech disabilities
   * [Accessible and Inclusive Telework Practices Using Microsoft Teams][4] - Guidance from HUD
   * [5 Tips on Holding Accessible Microsoft Team Meetings][5] - Guidance from HUD
   * [Accessibility overview of Microsoft Teams][6]
@@ -141,12 +140,11 @@ Instructions and techniques on how to provide accessibility for virtual collabor
 
   * [Create Accessible Digital Products][10]
 
-**Reviewed/Updated:** April 2020
+**Reviewed/Updated:** November 2022
 
 
  [1]: #social-media
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [3]: https://www.federalrelay.us/
  [4]: https://www.hud.gov/sites/dfiles/OCIO/documents/MSTeams_covid19.pdf
  [5]: https://www.hud.gov/sites/dfiles/OCIO/documents/5Tips_covid19.pdf
  [6]: https://support.office.com/en-us/article/accessibility-overview-of-microsoft-teams-2d4009e7-1300-4766-87e8-7a217496c3d5

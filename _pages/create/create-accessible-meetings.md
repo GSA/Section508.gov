@@ -296,7 +296,6 @@ Fine tune your video
 <ul>
 <li dir="ltr"><a href="{{site.baseurl}}/create">Create Accessible Digital Products</a></li>
 <li dir="ltr"><a href="{{site.baseurl}}/create/universal-design">Universal Design and Accessibility</a></li>
-<li dir="ltr"><a href="https://www.gsa.gov/fedrelay/" class="ext">FedRelay</a></li>
 <li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web</a> (W3C WCAG)</li>
 <li dir="ltr"><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf">Making Meetings Accessible</a> (CDC.gov)</li>
 <li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
@@ -350,4 +349,4 @@ Meeting Platform Accessibility Guides
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
 
-**Reviewed/Updated:** October 2022
+**Reviewed/Updated:** November 2022
