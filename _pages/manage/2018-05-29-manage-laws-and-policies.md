@@ -12,8 +12,7 @@ redirect_from:
 [Section 508 Policy][1]  
 [Related Laws][2]  
 [Related Policies][3]  
-[Agency Policies][4]
-[Website Accessibility Statement][5]
+[Agency Policies][4] 
 
 <div id="508-policy">
   <h2>
