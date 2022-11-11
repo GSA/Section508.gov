@@ -92,7 +92,7 @@ class AppComponent {
     constructor(artContentDataService, router) {
         this.artContentDataService = artContentDataService;
         this.router = router;
-        this.url = "/preview/gsa/section508.gov/feature/test-art/art-v2";
+        this.url = "/preview/gsa/section508.gov/test-art/art-v2";
         this.title = 'ART';
     }
     //url="";
