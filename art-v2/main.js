@@ -45,12 +45,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "AppComponent": () => (/* binding */ AppComponent)
 /* harmony export */ });
 /* harmony import */ var src_environments_environment__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! src/environments/environment */ 2340);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/core */ 2560);
 /* harmony import */ var _shared_services_art_content_data_art_content_data_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./shared/services/art-content-data/art-content-data.service */ 3604);
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/router */ 124);
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/common */ 4666);
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @angular/router */ 124);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/common */ 4666);
 /* harmony import */ var _shared_components_banner_banner_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./shared/components/banner/banner.component */ 3228);
 /* harmony import */ var _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./shared/components/art-generic-text/art-generic-text.component */ 4471);
+/* harmony import */ var _shared_components_section508_header_section508_header_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./shared/components/section508-header/section508-header.component */ 1592);
+/* harmony import */ var _shared_components_section508_banner_section508_banner_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./shared/components/section508-banner/section508-banner.component */ 6452);
+/* harmony import */ var _shared_components_section508_footer_section508_footer_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./shared/components/section508-footer/section508-footer.component */ 1137);
 
 
 
@@ -58,31 +61,34 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-function AppComponent_art_banner_98_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](0, "art-banner", 110);
+
+
+
+function AppComponent_art_banner_8_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](0, "art-banner", 15);
 } if (rf & 2) {
-    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("title", ctx_r0.artContentDataService.getBannerData().title)("header", ctx_r0.artContentDataService.getBannerData().header);
+    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("title", ctx_r0.artContentDataService.getBannerData().title)("header", ctx_r0.artContentDataService.getBannerData().header);
 } }
-function AppComponent_art_generic_text_104_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "art-generic-text");
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](1, "div", 111);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
+function AppComponent_art_generic_text_14_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "art-generic-text");
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](1, "div", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("innerHTML", ctx_r1.artContentDataService.getHeader(), _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeHtml"]);
+    const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("innerHTML", ctx_r1.artContentDataService.getHeader(), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵsanitizeHtml"]);
 } }
-function AppComponent_div_107_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "div", 112)(1, "art-generic-text", 113)(2, "div", 114);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](3, "div", 111);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
+function AppComponent_div_17_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "div", 17)(1, "art-generic-text", 18)(2, "div", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](3, "div", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()();
 } if (rf & 2) {
-    const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("title", ctx_r2.artContentDataService.getFooter().title);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("innerHTML", ctx_r2.artContentDataService.getFooter().data, _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeHtml"]);
+    const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("title", ctx_r2.artContentDataService.getFooter().title);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](2);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("innerHTML", ctx_r2.artContentDataService.getFooter().data, _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵsanitizeHtml"]);
 } }
 class AppComponent {
     /**
@@ -103,227 +109,45 @@ class AppComponent {
         //this.url = this.router.url.includes('preview/gsa/section508.gov')? "/preview/gsa/section508.gov/feature/ECASOGP-dev-art-header-footer/art-v2":"/art-v2"; 
     }
 }
-AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdirectiveInject"](_shared_services_art_content_data_art_content_data_service__WEBPACK_IMPORTED_MODULE_1__.ArtContentDataService), _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_5__.Router)); };
-AppComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 220, vars: 12, consts: [["aria-label", "Official Government Site Banner", 1, "page-landing-page", "layout-demo", "art-default-font"], [1, "usa-skipnav", 3, "routerLink"], [1, "usa-banner"], [1, "usa-accordion"], [1, "usa-banner__header"], [1, "usa-banner__inner"], [1, "grid-col-auto"], ["aria-hidden", "true", 1, "usa-banner__header-flag", 3, "src"], [1, "grid-col-fill", "tablet:grid-col-auto"], [1, "usa-banner__header-text"], ["aria-hidden", "true", 1, "usa-banner__header-action"], ["aria-expanded", "false", "aria-controls", "gov-banner", 1, "usa-accordion__button", "usa-banner__button"], [1, "usa-banner__button-text"], ["id", "gov-banner", "hidden", "", 1, "usa-banner__content", "usa-accordion__content"], [1, "grid-row", "grid-gap-lg"], [1, "usa-banner__guidance", "tablet:grid-col-6"], ["alt", "Dot gov", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"], [1, "usa-media-block__body"], ["alt", "Https", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"], ["id", "backtotop", "title", "Go to top", 2, "display", "none"], [1, "usa-overlay"], ["role", "banner", 1, "usa-header", "usa-header--extended"], [1, "usa-navbar"], ["id", "extended-logo", 1, "usa-logo"], ["href", "https://www.section508.gov/"], ["alt", "Section508.gov Home; GSA logo with text: Section508.gov Buy. Build. Be Accessible.", "integrity", "sha512-S2YGUVu8KqAmjqtxiMVq5MXieFg+L8T4y7Uv3eHZE3ePWZbUSJnehCZbsNEDiG/ZcFGxms61gqe9YViO6H/KZQ==", "crossorigin", "anonymous", 1, "logo", 3, "src"], [1, "usa-menu-btn"], ["role", "navigation", "aria-label", "Primary Site Navigation", 1, "usa-nav"], [1, "usa-nav__inner"], [1, "usa-nav__close"], ["alt", "close", "integrity", "sha512-XLawNnedFKdaFdJhoad/TAQHLO1XHwSyvZVlVpXieNmk80S974//1mU5khr0OXVTGH4H3k6mTs9tVP/J6fPoFw==", "crossorigin", "anonymous", 3, "src"], [1, "usa-nav__primary", "usa-accordion"], [1, "usa-nav__primary-item"], ["aria-label", "Policy & Management primary navigation", "href", "https://www.section508.gov/manage/", 1, "usa-nav__link"], ["aria-label", "Acquisition primary navigation", "href", "https://www.section508.gov/buy-sell/", 1, "usa-nav__link"], ["aria-label", "Content Creation primary navigation", "href", "https://www.section508.gov/create/", 1, "usa-nav__link"], ["aria-label", "Design & Develop primary navigation", "href", "https://www.section508.gov/develop/", 1, "usa-nav__link"], ["aria-label", "Testing primary navigation", "href", "https://www.section508.gov/test/", 1, "usa-nav__link"], ["aria-label", "Training, Tools & Events primary navigation", "href", "https://www.section508.gov/training/", 1, "usa-nav__link"], [1, "usa-nav__secondary"], [1, "usa-nav__secondary-links"], [1, "usa-nav__secondary-item"], ["href", "https://www.section508.gov/blog/"], ["href", "https://www.section508.gov/tools/coordinator-listing/"], ["href", "https://www.section508.gov/about-us/"], ["id", "search_form", "action", "https://search.usa.gov/search", "accept-charset", "UTF-8", "method", "get", 1, "usa-search", "usa-search--small"], ["name", "utf8", "type", "hidden", "value", "\u2713"], ["name", "affiliate", "type", "hidden", "value", "gsa-section508-accessibility"], ["role", "search"], ["for", "extended-search-field-small", 1, "usa-sr-only"], ["id", "extended-search-field-small", "type", "search", "name", "query", "autocomplete", "off", 1, "usa-input", "usagov-search-autocomplete"], ["type", "submit", 1, "usa-button", "primary-background-color"], ["alt", "Search", 1, "usa-search__submit-icon", 3, "src"], ["id", "main-content", 3, "title", "header", 4, "ngIf"], [1, "usa-graphic-list", "usa-section", "art-banner"], [1, "grid-container"], [1, "grid-row", "grid-gap"], [1, "tablet:", "grid-col"], [1, "margin-bottom-2"], [4, "ngIf"], ["art-generic-text-layout", "border", 1, "margin-top-5"], ["class", "padding-x-2 padding-bottom-2 margin-top-2", 4, "ngIf"], [1, "margin-y-2", 3, "innerHTML"], [1, "usa-footer", "usa-footer--big"], [1, "usa-footer__primary-section"], [1, "grid-row", "grid-gap", "padding-bottom-4"], [1, "desktop:grid-col-4"], [1, "text-bold"], [1, "add-list-reset", "line-height-sans-6"], ["href", "https://www.gsa.gov/technology/government-it-initiatives/digital-strategy", "target", "_blank"], ["href", "https://www.plainlanguage.gov/", "target", "_blank"], ["href", "https://designsystem.digital.gov/", "target", "_blank"], ["href", "https://www.cio.gov/about/members-and-leadership/accessibility-cop/", "target", "_blank"], [1, "desktop:grid-col-2"], ["href", "https://www.section508.gov/about-us/", "aria-label", "About Us in Organization"], ["aria-label", "Contact Us details", "href", "https://www.section508.gov/contact-us/"], ["href", "https://www.section508.gov/contributors/", "aria-label", "Section508.gov site Contributors"], [1, "desktop:grid-col-3"], ["href", "https://www.section508.gov/art/", "aria-label", "Accessibility Requirements Tool"], ["href", "https://www.section508.gov/buy/solicitation-review-tool", "aria-label", "Solicitation Review Tool"], ["href", "https://www.section508.gov/content/guide-accessible-web-design-development"], ["href", "https://digitaldashboard.gov/", "target", "_blank"], ["href", "https://analytics.usa.gov/", "target", "_blank"], ["href", "https://www.section508.gov/content/glossary"], ["href", "https://www.section508.gov/website-policies"], ["href", "https://www.section508.gov/tools/coordinator-listing"], ["href", "https://www.section508.gov/manage/join-the-508-community/"], [1, "usa-identifier"], ["aria-label", "Agency identifier,", 1, "usa-identifier__section", "usa-identifier__section--masthead"], [1, "usa-identifier__container"], [1, "usa-identifier__logos"], ["href", "https://gsa.gov", 1, "usa-identifier__logo"], ["alt", "General Services Administration Logo", "integrity", "sha512-5ciC+l/ipR9VSnpK/i6PqrSHd0/pMTEBs6nArXajxdJ2S+59+E/itSW10iB2emnqYwwo1lYSTAXMiRp7TMGStg==", "crossorigin", "anonymous", 1, "usa-identifier__logo-img", 3, "src"], ["aria-label", "Agency description", 1, "usa-identifier__identity"], [1, "usa-identifier__identity-domain"], [1, "usa-identifier__identity-disclaimer"], ["href", "https://www.gsa.gov/"], ["aria-label", "Important links,,", 1, "usa-identifier__section", "usa-identifier__section--required-links"], [1, "usa-identifier__required-links-list"], [1, "usa-identifier__required-links-item"], ["href", "https://www.gsa.gov/about-us", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/website-information/accessibility-aids", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/freedom-of-information-act-foia", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/civil-rights-programs/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsaig.gov/", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/reports/budget-performance", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/website-information/website-policies", 1, "usa-identifier__required-link", "usa-link"], ["aria-label", "U.S. government information and services,,", 1, "usa-identifier__section", "usa-identifier__section--usagov"], [1, "usa-identifier__usagov-description"], ["href", "https://www.usa.gov/", 1, "usa-link"], ["id", "main-content", 3, "title", "header"], [3, "innerHTML"], [1, "padding-x-2", "padding-bottom-2", "margin-top-2"], [3, "title"], [1, "margin-top-1"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "section", 0)(1, "a", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](2, "Skip to main content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](3, "div", 2)(4, "div", 3)(5, "div", 4)(6, "div", 5)(7, "div", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](8, "img", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](9, "div", 8)(10, "p", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](11, "An official website of the United States government");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](12, "p", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](13, "Here\u2019s how you know");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](14, "button", 11)(15, "span", 12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](16, "Here's how you know");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](17, "div", 13)(18, "div", 14)(19, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](20, "img", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](21, "div", 17)(22, "p")(23, "strong");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](24, "The .gov means it\u2019s official.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](25, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](26, " Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](27, "div", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](28, "img", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](29, "div", 17)(30, "p")(31, "strong");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](32, "The site is secure.");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](33, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](34, " The ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](35, "strong");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](36, "https://");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](37, " ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](38, "button", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](39, "\u02C4 Top");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](40, "div", 20);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](41, "header", 21)(42, "div", 22)(43, "div", 23)(44, "span")(45, "a", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](46, "img", 25);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](47, "button", 26);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](48, "Menu");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](49, "nav", 27)(50, "div", 28)(51, "button", 29);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](52, "img", 30);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](53, "ul", 31)(54, "li", 32)(55, "a", 33)(56, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](57, "Policy & Management");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](58, "li", 32)(59, "a", 34)(60, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](61, "Acquisition");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](62, "li", 32)(63, "a", 35)(64, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](65, "Content Creation");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](66, "li", 32)(67, "a", 36)(68, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](69, "Design & Develop");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](70, "li", 32)(71, "a", 37)(72, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](73, "Testing");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](74, "li", 32)(75, "a", 38)(76, "span");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](77, "Training, Tools & Events");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](78, "div", 39)(79, "ul", 40)(80, "li", 41)(81, "a", 42);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](82, "Blogs & Updates");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](83, "li", 41)(84, "a", 43);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](85, "My Agency\u2019s 508 PM");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](86, "li", 41)(87, "a", 44);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](88, "About Us");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](89, "form", 45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](90, "input", 46)(91, "input", 47);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](92, "div", 48)(93, "label", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](94, "Search small");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](95, "input", 50);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](96, "button", 51);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](97, "img", 52);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtemplate"](98, AppComponent_art_banner_98_Template, 1, 2, "art-banner", 53);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](99, "section", 54)(100, "div", 55)(101, "div", 56)(102, "div", 57)(103, "div", 58);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtemplate"](104, AppComponent_art_generic_text_104_Template, 2, 1, "art-generic-text", 59);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](105, "router-outlet");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](106, "div", 60);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtemplate"](107, AppComponent_div_107_Template, 4, 2, "div", 61);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](108, "div", 62);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](109, "footer", 63)(110, "div", 64)(111, "div", 55)(112, "div", 65)(113, "div", 66)(114, "p", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](115, "Government-wide Initiatives");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](116, "ul", 68)(117, "li")(118, "a", 69);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](119, "Digital Strategy");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](120, "li")(121, "a", 70);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](122, "Plain Language ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](123, "li")(124, "a", 71);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](125, " US Web Design System ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](126, "li")(127, "a", 72);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](128, " CIO Council Accessibility Community of Practice (ACOP)");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](129, "div", 73)(130, "p", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](131, "Organization");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](132, "ul", 68)(133, "li")(134, "a", 74);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](135, " About Us");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](136, "li")(137, "a", 75);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](138, " Contact Us");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](139, "li")(140, "a", 76);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](141, " Contributors");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](142, "div", 77)(143, "p", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](144, "Tools");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](145, "ul", 68)(146, "li")(147, "a", 78);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](148, " ART");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](149, "li")(150, "a", 79);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](151, " SRT");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](152, "li")(153, "a", 80);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](154, " Developer Guide");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](155, "li")(156, "a", 81);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](157, " DigitalDashboard.gov");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](158, "li")(159, "a", 82);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](160, " Analytics.usa.gov");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](161, "div", 77)(162, "p", 67);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](163, "Resources");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](164, "ul", 68)(165, "li")(166, "a", 83);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](167, " Glossary");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](168, "li")(169, "a", 84);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](170, " Website Policies");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](171, "li")(172, "a", 85);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](173, " Find Your Section 508 Program Manager");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](174, "li")(175, "a", 86);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](176, "Join the Community(Listserv)");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](177, "div", 87)(178, "section", 88)(179, "div", 89)(180, "div", 90)(181, "a", 91);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](182, "img", 92);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](183, "div", 93)(184, "p", 94);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](185, "Section508.gov");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](186, "p", 95);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](187, " An official website of the ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](188, "a", 96);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](189, "General Services Administration");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](190, "nav", 97)(191, "div", 89)(192, "ul", 98)(193, "li", 99)(194, "a", 100);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](195, "About GSA");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](196, "li", 99)(197, "a", 101);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](198, "Accessibility support");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](199, "li", 99)(200, "a", 102);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](201, "FOIA requests");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](202, "li", 99)(203, "a", 103);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](204, "No FEAR Act data");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](205, "li", 99)(206, "a", 104);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](207, "Office of the Inspector General");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](208, "li", 99)(209, "a", 105);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](210, "Performance reports");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](211, "li", 99)(212, "a", 106);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](213, "Privacy policy");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](214, "section", 107)(215, "div", 89)(216, "div", 108);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](217, " Looking for U.S. government information and services? ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](218, "a", 109);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](219, "Visit USA.gov");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
+AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](_shared_services_art_content_data_art_content_data_service__WEBPACK_IMPORTED_MODULE_1__.ArtContentDataService), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__.Router)); };
+AppComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 20, vars: 7, consts: [["aria-label", "Official Government Site Banner", 1, "page-landing-page", "layout-demo", "art-default-font"], ["href", "#main-content", 1, "usa-skipnav"], [3, "url"], ["id", "backtotop", "title", "Go to top", 2, "display", "none"], [1, "usa-overlay"], ["id", "main-content", 3, "title", "header", 4, "ngIf"], [1, "usa-graphic-list", "usa-section", "art-banner"], [1, "grid-container"], [1, "grid-row", "grid-gap"], [1, "tablet:", "grid-col"], [1, "margin-bottom-2"], [4, "ngIf"], ["art-generic-text-layout", "border", 1, "margin-top-5"], ["class", "padding-x-2 padding-bottom-2 margin-top-2", 4, "ngIf"], [1, "margin-y-2", 3, "innerHTML"], ["id", "main-content", 3, "title", "header"], [3, "innerHTML"], [1, "padding-x-2", "padding-bottom-2", "margin-top-2"], [3, "title"], [1, "margin-top-1"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "section", 0)(1, "a", 1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](2, "Skip to main content");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](3, "art-section508-banner", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](4, "button", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](5, "\u02C4 Top");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](6, "div", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](7, "art-section508-header", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtemplate"](8, AppComponent_art_banner_8_Template, 1, 2, "art-banner", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](9, "section", 6)(10, "div", 7)(11, "div", 8)(12, "div", 9)(13, "div", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtemplate"](14, AppComponent_art_generic_text_14_Template, 2, 1, "art-generic-text", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](15, "router-outlet");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](16, "div", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtemplate"](17, AppComponent_div_17_Template, 4, 2, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](18, "div", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](19, "art-section508-footer", 2);
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("routerLink", "#main-content");
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/us_flag_small.png", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](12);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/icon-dot-gov.svg", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/icon-https.svg", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/images/508-logo-cropped-web-altgreen.png", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/usa-icons/close.svg", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](45);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/icons/search-white.svg", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getBannerData());
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getHeader);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getFooter());
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("innerHTML", ctx.artContentDataService.getUpdatedDate(), _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeHtml"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](74);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/images/gsa-logo-md.png", _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeUrl"]);
-    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_6__.NgIf, _angular_router__WEBPACK_IMPORTED_MODULE_5__.RouterOutlet, _angular_router__WEBPACK_IMPORTED_MODULE_5__.RouterLinkWithHref, _shared_components_banner_banner_component__WEBPACK_IMPORTED_MODULE_2__.BannerComponent, _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_3__.ArtGenericTextComponent], styles: [".art-banner[_ngcontent-%COMP%] {\n  padding-top: 1rem !important;\n  padding-bottom: 1rem !important;\n}\n\n.usa-nav__secondary-item[_ngcontent-%COMP%]::before {\n  color: #ffffff !important;\n  content: \"--\" !important;\n}\n\n.primary-background-color[_ngcontent-%COMP%] {\n  background-color: #2672de !important;\n}\n\n@media screen and (max-width: 1023px) {\n  .usa-navbar[_ngcontent-%COMP%], .usa-menu-btn[_ngcontent-%COMP%] {\n    height: 4rem;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLDRCQUFBO0VBQ0EsK0JBQUE7QUFDRjs7QUFHRTtFQUNFLHlCQUFBO0VBQ0Esd0JBQUE7QUFBSjs7QUFJQTtFQUNFLG9DQUFBO0FBREY7O0FBR0E7RUFDRTtJQUNFLFlBQUE7RUFBRjtBQUNGIiwiZmlsZSI6ImFwcC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5hcnQtYmFubmVye1xuICBwYWRkaW5nLXRvcDogMXJlbSAhaW1wb3J0YW50O1xuICBwYWRkaW5nLWJvdHRvbTogMXJlbSAhaW1wb3J0YW50O1xufVxuXG4udXNhLW5hdl9fc2Vjb25kYXJ5LWl0ZW0ge1xuICAmOjpiZWZvcmV7XG4gICAgY29sb3I6ICNmZmZmZmYgIWltcG9ydGFudDtcbiAgICBjb250ZW50OiBcIi0tXCIgIWltcG9ydGFudDtcbiAgfVxufVxuXG4ucHJpbWFyeS1iYWNrZ3JvdW5kLWNvbG9ye1xuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjY3MmRlICFpbXBvcnRhbnQ7XG59XG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAxMDIzcHgpICB7XG4gIC51c2EtbmF2YmFyLCAudXNhLW1lbnUtYnRue1xuICAgIGhlaWdodDogNHJlbTtcbiAgfVxufVxuIl19 */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("url", ctx.url);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("url", ctx.url);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getBannerData());
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getHeader);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("ngIf", ctx.artContentDataService && ctx.artContentDataService.getFooter());
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("innerHTML", ctx.artContentDataService.getUpdatedDate(), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵsanitizeHtml"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("url", ctx.url);
+    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_9__.NgIf, _angular_router__WEBPACK_IMPORTED_MODULE_8__.RouterOutlet, _shared_components_banner_banner_component__WEBPACK_IMPORTED_MODULE_2__.BannerComponent, _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_3__.ArtGenericTextComponent, _shared_components_section508_header_section508_header_component__WEBPACK_IMPORTED_MODULE_4__.Section508HeaderComponent, _shared_components_section508_banner_section508_banner_component__WEBPACK_IMPORTED_MODULE_5__.Section508BannerComponent, _shared_components_section508_footer_section508_footer_component__WEBPACK_IMPORTED_MODULE_6__.Section508FooterComponent], styles: [".art-banner[_ngcontent-%COMP%] {\n  padding-top: 1rem !important;\n  padding-bottom: 1rem !important;\n}\n\n.usa-nav__secondary-item[_ngcontent-%COMP%]::before {\n  color: #ffffff !important;\n  content: \"--\" !important;\n}\n\n.primary-background-color[_ngcontent-%COMP%] {\n  background-color: #2672de !important;\n}\n\n@media screen and (max-width: 1023px) {\n  .usa-navbar[_ngcontent-%COMP%], .usa-menu-btn[_ngcontent-%COMP%] {\n    height: 4rem;\n  }\n}\n\n#backtotop[_ngcontent-%COMP%] {\n  position: fixed;\n  bottom: 20px;\n  right: 30px;\n  z-index: 99;\n  border: none;\n  outline: none;\n  background-color: rgba(17, 47, 78, 0.93);\n  color: white;\n  cursor: pointer;\n  padding: 15px;\n  border-radius: 10px;\n  font-size: 18px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLDRCQUFBO0VBQ0EsK0JBQUE7QUFDRjs7QUFHRTtFQUNFLHlCQUFBO0VBQ0Esd0JBQUE7QUFBSjs7QUFJQTtFQUNFLG9DQUFBO0FBREY7O0FBR0E7RUFDRTtJQUNFLFlBQUE7RUFBRjtBQUNGOztBQUdBO0VBQ0UsZUFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0VBQ0EsV0FBQTtFQUNBLFlBQUE7RUFDQSxhQUFBO0VBQ0Esd0NBQUE7RUFDQSxZQUFBO0VBQ0EsZUFBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLGVBQUE7QUFERiIsImZpbGUiOiJhcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYXJ0LWJhbm5lcntcbiAgcGFkZGluZy10b3A6IDFyZW0gIWltcG9ydGFudDtcbiAgcGFkZGluZy1ib3R0b206IDFyZW0gIWltcG9ydGFudDtcbn1cblxuLnVzYS1uYXZfX3NlY29uZGFyeS1pdGVtIHtcbiAgJjo6YmVmb3Jle1xuICAgIGNvbG9yOiAjZmZmZmZmICFpbXBvcnRhbnQ7XG4gICAgY29udGVudDogXCItLVwiICFpbXBvcnRhbnQ7XG4gIH1cbn1cblxuLnByaW1hcnktYmFja2dyb3VuZC1jb2xvcntcbiAgYmFja2dyb3VuZC1jb2xvcjogIzI2NzJkZSAhaW1wb3J0YW50O1xufVxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogMTAyM3B4KSAge1xuICAudXNhLW5hdmJhciwgLnVzYS1tZW51LWJ0bntcbiAgICBoZWlnaHQ6IDRyZW07XG4gIH1cbn1cblxuI2JhY2t0b3RvcHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBib3R0b206IDIwcHg7XG4gIHJpZ2h0OiAzMHB4O1xuICB6LWluZGV4OiA5OTtcbiAgYm9yZGVyOiBub25lO1xuICBvdXRsaW5lOiBub25lO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDE3LDQ3LDc4LDAuOTMpO1xuICBjb2xvcjogd2hpdGU7XG4gIGN1cnNvcjogcG9pbnRlcjtcbiAgcGFkZGluZzogMTVweDtcbiAgYm9yZGVyLXJhZGl1czogMTBweDtcbiAgZm9udC1zaXplOiAxOHB4O1xufVxuIl19 */"] });
 
 
 /***/ }),
@@ -338,8 +162,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "AppModule": () => (/* binding */ AppModule)
 /* harmony export */ });
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/common */ 4666);
-/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @angular/platform-browser */ 4497);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @angular/common */ 4666);
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @angular/platform-browser */ 4497);
 /* harmony import */ var _shared_components_file_upload_file_upload_component__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./shared/components/file-upload/file-upload.component */ 7082);
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app-routing.module */ 158);
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./app.component */ 5041);
@@ -348,7 +172,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _shared_components_banner_banner_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./shared/components/banner/banner.component */ 3228);
 /* harmony import */ var _pages_ict_listing_page_ict_listing_page_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./pages/ict-listing-page/ict-listing-page.component */ 7327);
 /* harmony import */ var _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./shared/components/art-generic-text/art-generic-text.component */ 4471);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _shared_components_section508_header_section508_header_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./shared/components/section508-header/section508-header.component */ 1592);
+/* harmony import */ var _shared_components_section508_banner_section508_banner_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./shared/components/section508-banner/section508-banner.component */ 6452);
+/* harmony import */ var _shared_components_section508_footer_section508_footer_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./shared/components/section508-footer/section508-footer.component */ 1137);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @angular/core */ 2560);
+
+
+
 
 
 
@@ -363,16 +193,19 @@ __webpack_require__.r(__webpack_exports__);
 class AppModule {
 }
 AppModule.ɵfac = function AppModule_Factory(t) { return new (t || AppModule)(); };
-AppModule.ɵmod = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__.AppComponent] });
-AppModule.ɵinj = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdefineInjector"]({ providers: [{ provide: _angular_common__WEBPACK_IMPORTED_MODULE_9__.LocationStrategy, useClass: _angular_common__WEBPACK_IMPORTED_MODULE_9__.HashLocationStrategy }], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_10__.BrowserModule,
+AppModule.ɵmod = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_11__["ɵɵdefineNgModule"]({ type: AppModule, bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__.AppComponent] });
+AppModule.ɵinj = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_11__["ɵɵdefineInjector"]({ providers: [{ provide: _angular_common__WEBPACK_IMPORTED_MODULE_12__.LocationStrategy, useClass: _angular_common__WEBPACK_IMPORTED_MODULE_12__.HashLocationStrategy }], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__.BrowserModule,
         _app_routing_module__WEBPACK_IMPORTED_MODULE_1__.AppRoutingModule] });
-(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__.AppComponent,
+(function () { (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_11__["ɵɵsetNgModuleScope"](AppModule, { declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__.AppComponent,
         _shared_components_file_upload_file_upload_component__WEBPACK_IMPORTED_MODULE_0__.FileUploadComponent,
         _shared_components_art_button_art_button_component__WEBPACK_IMPORTED_MODULE_3__.ArtButtonComponent,
         _pages_landing_page_landing_page_component__WEBPACK_IMPORTED_MODULE_4__.LandingPageComponent,
         _shared_components_banner_banner_component__WEBPACK_IMPORTED_MODULE_5__.BannerComponent,
         _pages_ict_listing_page_ict_listing_page_component__WEBPACK_IMPORTED_MODULE_6__.IctListingPageComponent,
-        _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_7__.ArtGenericTextComponent], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_10__.BrowserModule,
+        _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_7__.ArtGenericTextComponent,
+        _shared_components_section508_header_section508_header_component__WEBPACK_IMPORTED_MODULE_8__.Section508HeaderComponent,
+        _shared_components_section508_banner_section508_banner_component__WEBPACK_IMPORTED_MODULE_9__.Section508BannerComponent,
+        _shared_components_section508_footer_section508_footer_component__WEBPACK_IMPORTED_MODULE_10__.Section508FooterComponent], imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_13__.BrowserModule,
         _app_routing_module__WEBPACK_IMPORTED_MODULE_1__.AppRoutingModule] }); })();
 
 
@@ -915,6 +748,278 @@ FileUploadComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngIf", ctx.isReadyToUpload);
     } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_2__.NgForOf, _angular_common__WEBPACK_IMPORTED_MODULE_2__.NgIf], styles: [".upload-message[_ngcontent-%COMP%] {\n  background: rgb(235, 187, 187);\n  margin-top: 5px;\n  pointer-events: none;\n  position: absolute;\n  align-items: center;\n  padding-top: 5px;\n}\n\n.success[_ngcontent-%COMP%] {\n  color: rgb(3, 58, 3);\n  background-color: rgb(226, 230, 226);\n  border: solid 1px;\n  border-radius: 5px;\n  margin: 0 0 5px;\n  padding: 0 5px;\n}\n\n.error[_ngcontent-%COMP%] {\n  color: red;\n  background-color: rgb(238, 197, 197);\n  border: solid 1px;\n  border-radius: 5px;\n  margin: 0 0 5px;\n}\n\n.usa-file-input[_ngcontent-%COMP%] {\n  padding-bottom: 5px;\n}\n\n.art-file-input__target[_ngcontent-%COMP%] {\n  border: 1px dashed #a9aeb1;\n  display: block;\n  font-size: 0.93rem;\n  margin-top: 0.5rem;\n  position: relative;\n  text-align: center;\n  width: 100%;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGUtdXBsb2FkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksOEJBQUE7RUFDQSxlQUFBO0VBQ0Esb0JBQUE7RUFDQSxrQkFBQTtFQUNBLG1CQUFBO0VBQ0EsZ0JBQUE7QUFDSjs7QUFFQTtFQUNJLG9CQUFBO0VBQ0Esb0NBQUE7RUFDQSxpQkFBQTtFQUNBLGtCQUFBO0VBQ0EsZUFBQTtFQUNBLGNBQUE7QUFDSjs7QUFDQTtFQUNJLFVBQUE7RUFDQSxvQ0FBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0FBRUo7O0FBQ0E7RUFDSSxtQkFBQTtBQUVKOztBQUNBO0VBQ0ksMEJBQUE7RUFDQSxjQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtFQUNBLGtCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0FBRUoiLCJmaWxlIjoiZmlsZS11cGxvYWQuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudXBsb2FkLW1lc3NhZ2V7XG4gICAgYmFja2dyb3VuZDogcmdiKDIzNSwgMTg3LCAxODcpO1xuICAgIG1hcmdpbi10b3A6IDVweDtcbiAgICBwb2ludGVyLWV2ZW50czogbm9uZTtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICBwYWRkaW5nLXRvcDogNXB4O1xufVxuXG4uc3VjY2Vzc3tcbiAgICBjb2xvcjogcmdiKDMsIDU4LCAzKTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjI2LCAyMzAsIDIyNik7XG4gICAgYm9yZGVyOiBzb2xpZCAxcHg7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIG1hcmdpbjogMCAwIDVweDtcbiAgICBwYWRkaW5nOiAwIDVweDtcbn1cbi5lcnJvcntcbiAgICBjb2xvcjogcmVkO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHJnYigyMzgsIDE5NywgMTk3KTtcbiAgICBib3JkZXI6IHNvbGlkIDFweDtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgbWFyZ2luOiAwIDAgNXB4O1xufVxuXG4udXNhLWZpbGUtaW5wdXR7XG4gICAgcGFkZGluZy1ib3R0b206IDVweDtcbn1cblxuLmFydC1maWxlLWlucHV0X190YXJnZXR7XG4gICAgYm9yZGVyOiAxcHggZGFzaGVkICNhOWFlYjE7XG4gICAgZGlzcGxheTogYmxvY2s7XG4gICAgZm9udC1zaXplOiAuOTNyZW07XG4gICAgbWFyZ2luLXRvcDogMC41cmVtO1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgd2lkdGg6IDEwMCU7XG59Il19 */"] });
+
+
+/***/ }),
+
+/***/ 6452:
+/*!************************************************************************************!*\
+  !*** ./src/app/shared/components/section508-banner/section508-banner.component.ts ***!
+  \************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Section508BannerComponent": () => (/* binding */ Section508BannerComponent)
+/* harmony export */ });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
+
+class Section508BannerComponent {
+    constructor() {
+        this.url = "";
+    }
+    ngOnInit() {
+    }
+}
+Section508BannerComponent.ɵfac = function Section508BannerComponent_Factory(t) { return new (t || Section508BannerComponent)(); };
+Section508BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Section508BannerComponent, selectors: [["art-section508-banner"]], inputs: { url: "url" }, decls: 35, vars: 3, consts: [[1, "usa-banner"], [1, "usa-accordion"], [1, "usa-banner__header"], [1, "usa-banner__inner"], [1, "grid-col-auto"], ["aria-hidden", "true", 1, "usa-banner__header-flag", 3, "src"], [1, "grid-col-fill", "tablet:grid-col-auto"], [1, "usa-banner__header-text"], ["aria-hidden", "true", 1, "usa-banner__header-action"], ["aria-expanded", "false", "aria-controls", "gov-banner", 1, "usa-accordion__button", "usa-banner__button"], [1, "usa-banner__button-text"], ["id", "gov-banner", "hidden", "", 1, "usa-banner__content", "usa-accordion__content"], [1, "grid-row", "grid-gap-lg"], [1, "usa-banner__guidance", "tablet:grid-col-6"], ["alt", "Dot gov", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"], [1, "usa-media-block__body"], ["alt", "Https", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"]], template: function Section508BannerComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "img", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "div", 6)(7, "p", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8, "An official website of the United States government");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "p", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Here\u2019s how you know");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "button", 9)(12, "span", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "Here's how you know");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 11)(15, "div", 12)(16, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "img", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 15)(19, "p")(20, "strong");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "The .gov means it\u2019s official.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, " Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](25, "img", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 15)(27, "p")(28, "strong");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "The site is secure.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "br");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, " The ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "strong");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "https://");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, " ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()()()();
+    } if (rf & 2) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/us_flag_small.png", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/icon-dot-gov.svg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/icon-https.svg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzZWN0aW9uNTA4LWJhbm5lci5jb21wb25lbnQuc2NzcyJ9 */"] });
+
+
+/***/ }),
+
+/***/ 1137:
+/*!************************************************************************************!*\
+  !*** ./src/app/shared/components/section508-footer/section508-footer.component.ts ***!
+  \************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Section508FooterComponent": () => (/* binding */ Section508FooterComponent)
+/* harmony export */ });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
+
+class Section508FooterComponent {
+    constructor() {
+        this.url = "";
+    }
+    ngOnInit() {
+    }
+}
+Section508FooterComponent.ɵfac = function Section508FooterComponent_Factory(t) { return new (t || Section508FooterComponent)(); };
+Section508FooterComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Section508FooterComponent, selectors: [["art-section508-footer"]], inputs: { url: "url" }, decls: 111, vars: 2, consts: [[1, "usa-footer", "usa-footer--big"], [1, "usa-footer__primary-section"], [1, "grid-container"], [1, "grid-row", "grid-gap", "padding-bottom-4"], [1, "desktop:grid-col-4"], [1, "text-bold"], [1, "add-list-reset", "line-height-sans-6"], ["href", "https://www.gsa.gov/technology/government-it-initiatives/digital-strategy", "target", "_blank"], ["href", "https://www.plainlanguage.gov/", "target", "_blank"], ["href", "https://designsystem.digital.gov/", "target", "_blank"], ["href", "https://www.cio.gov/about/members-and-leadership/accessibility-cop/", "target", "_blank"], [1, "desktop:grid-col-2"], ["href", "https://www.section508.gov/about-us/", "aria-label", "About Us in Organization"], ["aria-label", "Contact Us details", "href", "https://www.section508.gov/contact-us/"], ["href", "https://www.section508.gov/contributors/", "aria-label", "Section508.gov site Contributors"], [1, "desktop:grid-col-3"], ["aria-label", "Accessibility Requirements Tool", 3, "href"], ["href", "https://www.section508.gov/buy/solicitation-review-tool", "aria-label", "Solicitation Review Tool"], ["href", "https://www.section508.gov/content/guide-accessible-web-design-development"], ["href", "https://digitaldashboard.gov/", "target", "_blank"], ["href", "https://analytics.usa.gov/", "target", "_blank"], ["href", "https://www.section508.gov/content/glossary"], ["href", "https://www.section508.gov/website-policies"], ["href", "https://www.section508.gov/tools/coordinator-listing"], ["href", "https://www.section508.gov/manage/join-the-508-community/"], [1, "usa-identifier"], ["aria-label", "Agency identifier,", 1, "usa-identifier__section", "usa-identifier__section--masthead"], [1, "usa-identifier__container"], [1, "usa-identifier__logos"], ["href", "https://gsa.gov", 1, "usa-identifier__logo"], ["alt", "General Services Administration Logo", "integrity", "sha512-5ciC+l/ipR9VSnpK/i6PqrSHd0/pMTEBs6nArXajxdJ2S+59+E/itSW10iB2emnqYwwo1lYSTAXMiRp7TMGStg==", "crossorigin", "anonymous", 1, "usa-identifier__logo-img", 3, "src"], ["aria-label", "Agency description", 1, "usa-identifier__identity"], [1, "usa-identifier__identity-domain"], [1, "usa-identifier__identity-disclaimer"], ["href", "https://www.gsa.gov/"], ["aria-label", "Important links,,", 1, "usa-identifier__section", "usa-identifier__section--required-links"], [1, "usa-identifier__required-links-list"], [1, "usa-identifier__required-links-item"], ["href", "https://www.gsa.gov/about-us", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/website-information/accessibility-aids", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/freedom-of-information-act-foia", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/civil-rights-programs/notification-and-federal-employee-antidiscrimination-and-retaliation-act-of-2002", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsaig.gov/", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/reference/reports/budget-performance", 1, "usa-identifier__required-link", "usa-link"], ["href", "https://www.gsa.gov/website-information/website-policies", 1, "usa-identifier__required-link", "usa-link"], ["aria-label", "U.S. government information and services,,", 1, "usa-identifier__section", "usa-identifier__section--usagov"], [1, "usa-identifier__usagov-description"], ["href", "https://www.usa.gov/", 1, "usa-link"]], template: function Section508FooterComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "footer", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4)(5, "p", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Government-wide Initiatives");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "ul", 6)(8, "li")(9, "a", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Digital Strategy");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "li")(12, "a", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "Plain Language ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "li")(15, "a", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, " US Web Design System ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "li")(18, "a", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, " CIO Council Accessibility Community of Practice (ACOP)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 11)(21, "p", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](22, "Organization");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "ul", 6)(24, "li")(25, "a", 12);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, " About Us");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "li")(28, "a", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, " Contact Us");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "li")(31, "a", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, " Contributors");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 15)(34, "p", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Tools");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "ul", 6)(37, "li")(38, "a", 16);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, " ART");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "li")(41, "a", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, " SRT");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "li")(44, "a", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, " Developer Guide");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "li")(47, "a", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](48, " DigitalDashboard.gov");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "li")(50, "a", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](51, " Analytics.usa.gov");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](52, "div", 15)(53, "p", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](54, "Resources");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "ul", 6)(56, "li")(57, "a", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, " Glossary");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "li")(60, "a", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, " Website Policies");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "li")(63, "a", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](64, " Find Your Section 508 Program Manager");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "li")(66, "a", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "Join the Community(Listserv)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "div", 25)(69, "section", 26)(70, "div", 27)(71, "div", 28)(72, "a", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "img", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 31)(75, "p", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, "Section508.gov");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "p", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, " An official website of the ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "a", 34);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](80, "General Services Administration");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "nav", 35)(82, "div", 27)(83, "ul", 36)(84, "li", 37)(85, "a", 38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](86, "About GSA");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](87, "li", 37)(88, "a", 39);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](89, "Accessibility support");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "li", 37)(91, "a", 40);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "FOIA requests");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "li", 37)(94, "a", 41);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](95, "No FEAR Act data");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](96, "li", 37)(97, "a", 42);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](98, "Office of the Inspector General");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](99, "li", 37)(100, "a", 43);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "Performance reports");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "li", 37)(103, "a", 44);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](104, "Privacy policy");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "section", 45)(106, "div", 27)(107, "div", 46);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, " Looking for U.S. government information and services? ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "a", 47);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](110, "Visit USA.gov");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+    } if (rf & 2) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("href", ctx.url, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](35);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/images/gsa-logo-md.png", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzZWN0aW9uNTA4LWZvb3Rlci5jb21wb25lbnQuc2NzcyJ9 */"] });
+
+
+/***/ }),
+
+/***/ 1592:
+/*!************************************************************************************!*\
+  !*** ./src/app/shared/components/section508-header/section508-header.component.ts ***!
+  \************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Section508HeaderComponent": () => (/* binding */ Section508HeaderComponent)
+/* harmony export */ });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
+
+class Section508HeaderComponent {
+    constructor() {
+        this.url = "";
+    }
+    ngOnInit() {
+    }
+}
+Section508HeaderComponent.ɵfac = function Section508HeaderComponent_Factory(t) { return new (t || Section508HeaderComponent)(); };
+Section508HeaderComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Section508HeaderComponent, selectors: [["art-section508-header"]], inputs: { url: "url" }, decls: 57, vars: 3, consts: [["role", "banner", 1, "usa-header", "usa-header--extended"], [1, "usa-navbar"], ["id", "extended-logo", 1, "usa-logo"], ["href", "https://www.section508.gov/"], ["alt", "Section508.gov Home; GSA logo with text: Section508.gov Buy. Build. Be Accessible.", "integrity", "sha512-S2YGUVu8KqAmjqtxiMVq5MXieFg+L8T4y7Uv3eHZE3ePWZbUSJnehCZbsNEDiG/ZcFGxms61gqe9YViO6H/KZQ==", "crossorigin", "anonymous", 1, "logo", 3, "src"], [1, "usa-menu-btn"], ["role", "navigation", "aria-label", "Primary Site Navigation", 1, "usa-nav"], [1, "usa-nav__inner"], [1, "usa-nav__close"], ["alt", "close", "integrity", "sha512-XLawNnedFKdaFdJhoad/TAQHLO1XHwSyvZVlVpXieNmk80S974//1mU5khr0OXVTGH4H3k6mTs9tVP/J6fPoFw==", "crossorigin", "anonymous", 3, "src"], [1, "usa-nav__primary", "usa-accordion"], [1, "usa-nav__primary-item"], ["aria-label", "Policy & Management primary navigation", "href", "https://www.section508.gov/manage/", 1, "usa-nav__link"], ["aria-label", "Acquisition primary navigation", "href", "https://www.section508.gov/buy-sell/", 1, "usa-nav__link"], ["aria-label", "Content Creation primary navigation", "href", "https://www.section508.gov/create/", 1, "usa-nav__link"], ["aria-label", "Design & Develop primary navigation", "href", "https://www.section508.gov/develop/", 1, "usa-nav__link"], ["aria-label", "Testing primary navigation", "href", "https://www.section508.gov/test/", 1, "usa-nav__link"], ["aria-label", "Training, Tools & Events primary navigation", "href", "https://www.section508.gov/training/", 1, "usa-nav__link"], [1, "usa-nav__secondary"], [1, "usa-nav__secondary-links"], [1, "usa-nav__secondary-item"], ["href", "https://www.section508.gov/blog/"], ["href", "https://www.section508.gov/tools/coordinator-listing/"], ["href", "https://www.section508.gov/about-us/"], ["id", "search_form", "action", "https://search.usa.gov/search", "accept-charset", "UTF-8", "method", "get", 1, "usa-search", "usa-search--small"], ["name", "utf8", "type", "hidden", "value", "\u2713"], ["name", "affiliate", "type", "hidden", "value", "gsa-section508-accessibility"], ["role", "search"], ["for", "extended-search-field-small", 1, "usa-sr-only"], ["id", "extended-search-field-small", "type", "search", "name", "query", "autocomplete", "off", 1, "usa-input", "usagov-search-autocomplete"], ["type", "submit", 1, "usa-button", "primary-background-color"], ["alt", "Search", 1, "usa-search__submit-icon", 3, "src"]], template: function Section508HeaderComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header", 0)(1, "div", 1)(2, "div", 2)(3, "span")(4, "a", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "img", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "button", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, "Menu");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "nav", 6)(9, "div", 7)(10, "button", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "img", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "ul", 10)(13, "li", 11)(14, "a", 12)(15, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "Policy & Management");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "li", 11)(18, "a", 13)(19, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "Acquisition");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "li", 11)(22, "a", 14)(23, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "Content Creation");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "li", 11)(26, "a", 15)(27, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](28, "Design & Develop");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "li", 11)(30, "a", 16)(31, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Testing");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "li", 11)(34, "a", 17)(35, "span");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "Training, Tools & Events");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 18)(38, "ul", 19)(39, "li", 20)(40, "a", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Blogs & Updates");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "li", 20)(43, "a", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "My Agency\u2019s 508 PM");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "li", 20)(46, "a", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "About Us");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "form", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](49, "input", 25)(50, "input", 26);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "div", 27)(52, "label", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](53, "Search small");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "input", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "button", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "img", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()()()()()();
+    } if (rf & 2) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/images/508-logo-cropped-web-altgreen.png", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/uswds/img/usa-icons/close.svg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](45);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate1"]("src", "", ctx.url, "/assets/icons/search-white.svg", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+    } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzZWN0aW9uNTA4LWhlYWRlci5jb21wb25lbnQuc2NzcyJ9 */"] });
 
 
 /***/ }),
