@@ -6,7 +6,6 @@
     "clean": "bundle exec jekyll clean",
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve",
-    "start-detached": "bundle exec jekyll serve --detach",
     "test": "bundle exec htmlproofer _site; pa11y-ci '_site/**/*.html'"
   },
   "dependencies": {
