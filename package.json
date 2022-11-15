@@ -6,7 +6,8 @@
     "clean": "bundle exec jekyll clean",
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve",
-    "test": "bundle exec htmlproofer _site; pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude '/*.pdf'"
+    "start-detached": "bundle exec jekyll serve --detach",
+    "test": "bundle exec htmlproofer _site; pa11y-ci '_site/**/*.html'"
   },
   "dependencies": {
     "uswds": "~2.13.2"
