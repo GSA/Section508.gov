@@ -6,13 +6,13 @@
     "clean": "bundle exec jekyll clean",
     "reset": "npx rimraf .git",
     "start": "bundle exec jekyll serve",
-    "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
+    "test": "bundle exec htmlproofer _site; pa11y-ci '_site/**/*.html'"
   },
   "dependencies": {
     "uswds": "~2.13.2"
   },
   "devDependencies": {
-    "a11y": "^0.5.1",
+    "pa11y-ci": "^3.0.1",
     "rimraf": "^3.0.2"
   }
 }
