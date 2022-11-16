@@ -111,9 +111,9 @@ The Accessibility Module performs spot checks, informed by the current Section 5
 </a>.</p>
 </div>
 </div>
-<p><strong>Reviewed/Updated:</strong> June 2021 </p>
+<p><strong>Reviewed/Updated:</strong> November 2022 </p>
 
-[1]: https://www.digitaldashboard.gov/faq
+[1]: https://www.digitaldashboard.gov/index.php/?check_logged_in=1
 [2]: https://www.digitaldashboard.gov
 [3]: #standards
 [4]: #measure

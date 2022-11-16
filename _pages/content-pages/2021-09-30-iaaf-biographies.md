@@ -1321,7 +1321,7 @@ redirect_from:
       <em><span>Section 508 Program Manager, National Cancer Institute (NCI)</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
     <p>
-      <span>Gary M. Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="http://508.nih.gov/" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
+      <span>Gary M. Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="https://ocio.nih.gov/Pages/default.aspx" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
       </span>
     </p>
     <p>
@@ -2204,4 +2204,4 @@ redirect_from:
   </div>
 </div>
 </div>
-<p><strong>Reviewed/Updated:</strong> August 2022</p>
+<p><strong>Reviewed/Updated:</strong> November 2022</p>
