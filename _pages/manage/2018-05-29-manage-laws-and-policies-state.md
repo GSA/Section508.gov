@@ -84,7 +84,7 @@ _EITA" Electronic and Information Technology Accessibility Law_ In 2004, the Okl
 ## [Virginia Information Technologies Agency (VITA)][25]  
 Realizing in 2004 that accessible technologies serve all users regardless of their ability, the Virginia General Assembly and the Governor of Virginia enacted supporting state legislation. By state Code, all Virginia state executive branch agencies and institutions of higher education now are required to comply with the regulations that implement the electronic and information technology accessibility standards of the Rehabilitation Act of 1973, as amended, and any regulations as may be prescribed by Virginia Information Technologies Agency (VITA). In support of the legislation VITA implemented the Virginia Information Technology Accessibility Standard. The standard is incorporated in Virginia's Enterprise Architecture and designated as Information Technology Resource Management (ITRM) Standard GOV103-00.
 
-**Reviewed/Updated**: September 2022
+**Reviewed/Updated**: November 2022
 
  [1]: {{site.baseurl}}/contact-us
  [2]: #A "Go to States beginning with A"
@@ -106,7 +106,7 @@ Realizing in 2004 that accessible technologies serve all users regardless of the
  [18]: http://www.in.gov/core/accessibility.html "Go to Indiana's site"
  [19]: https://ebit.ks.gov/itec/resources/policies/policy-1210 "Go to Kansas's site"
  [20]: https://www.louisiana.gov/accessibility-statement/ "Go to Louisiana's site"
- [21]: https://mn.gov/portal/about-minnesota/accessibility-issues/ "Go to Minnesota's site"
+ [21]: https://mn.gov/mnit/about-mnit/accessibility/ "Go to Minnesota's site"
  [22]: http://at.mo.gov/it-access/ "Go to Missouri's site"
  [23]: https://its.ny.gov/document/accessibility-web-based-information-and-applications-compliance-reporting "Go to New York's site"
  [24]: http://www.ok.gov/accessibility "Go to Oklahoma's site"
