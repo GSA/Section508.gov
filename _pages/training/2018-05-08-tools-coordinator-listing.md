@@ -153,7 +153,7 @@ Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
 ### Center for Development of Security Excellence (CDSE)
-Richard L. Price - <richard.l.price6.civ@mail.mil>  
+Richard L. Price - 410-689-7743 - <richard.l.price6.civ@mail.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
