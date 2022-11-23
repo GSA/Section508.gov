@@ -163,7 +163,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
-Mubarak Allotey - 571-305-6401 - <mubarak.Allotey2.civ@mail.mil>
+Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - 410-981-0308 - <stephen.johnson@dc3.mil>  
 Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
@@ -227,7 +227,7 @@ Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
 VACANT
 ### Washington Headquarters Service (WHS)
-Glenn T. Butcher - <glenn.t.buchter.civ@mail.mil>  
+Glenn T. Buchter - <glenn.t.buchter.civ@mail.mil>  
 
 ----------------------------------------------------
 ## <span id="usdoe" ></span>Department of Education
