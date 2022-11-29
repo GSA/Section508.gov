@@ -1,0 +1,37 @@
+[
+    {
+        "formElements":[
+        { 
+        "elementType":"text",
+        "label": "First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment).",
+        "title": "",
+        "placeholder":"Please enter an ICT Item",
+        "description": "",
+        "errorMessages": {"maxlength":"Maximum characters are 25"},
+        "controlName": "ictItemTextfield1",
+        "validations": [ "required", "maxLength(25)"],
+        "next":"",
+        "formSection": "What is the name of your procurement?",
+        "value": "",
+        "options": []
+        }, 
+        { 
+          "elementType":"checkboxGroup",
+          "label": "",
+          "title": "",
+          "placeholder":"",
+          "description": "",
+          "errorMessages": {"maxlength":"Maximum characters are 25"},
+          "controlName": "ictItemcheckboxGroup1",
+          "validations": [ "required", "maxLength(25)"],
+          "next":"",
+          "formSection": "What is the name of your procurement?",
+          "value": "",
+          "options": []
+        } 
+    ],
+        "formButtons": {"add":"Add "},
+        "clearForm": true,
+        "disable": false
+    }
+]
