@@ -5,13 +5,13 @@
         "destination": "/ict-listing-page"
     },
     "uploadICT":{
-        "label": "Upload ICT Item(s)", 
+        "label": "Continue where you left off", 
         "description": "Click the button below to modify/upload a previous acquisition file.", 
-        "destination": ""
+        "destination": "/ict-listing-page"
     },
     "continue": { 
         "label": "Continue", 
-        "description": "Get Started Description", 
+        "description": "Continue to the form Page", 
         "destination": "/ict-form-page"
      }
 }

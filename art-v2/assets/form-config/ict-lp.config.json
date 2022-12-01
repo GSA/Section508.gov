@@ -7,28 +7,14 @@
         "title": "",
         "placeholder":"Please enter an ICT Item",
         "description": "",
-        "errorMessages": {"maxlength":"Maximum characters are 25"},
+        "errorMessages": {"maxlength":"The maximum length has exceeded 25"},
         "controlName": "ictItemTextfield1",
         "validations": [ "required", "maxLength(25)"],
         "next":"",
         "formSection": "What is the name of your procurement?",
         "value": "",
         "options": []
-        }, 
-        { 
-          "elementType":"checkboxGroup",
-          "label": "",
-          "title": "",
-          "placeholder":"",
-          "description": "",
-          "errorMessages": {"maxlength":"Maximum characters are 25"},
-          "controlName": "ictItemcheckboxGroup1",
-          "validations": [ "required", "maxLength(25)"],
-          "next":"",
-          "formSection": "What is the name of your procurement?",
-          "value": "",
-          "options": []
-        } 
+        }
     ],
         "formButtons": {"add":"Add "},
         "clearForm": true,
