@@ -27,7 +27,7 @@ We recommend that each agency craft a message highlighting the agency’s commit
 
 ## Where to Publish an Accessibility Statement
 
-To ensure that your accessibility statement is available to visitors at any point within their digital experience, agencies should include a link to the accessibility statement in the site-wide footer. Secondary sites may create their own footer and accessibility statement page, or link to the domain website's accessibility statement.
+To ensure that your accessibility statement is available to visitors at any point within their digital experience, agencies should include a link to the accessibility statement in the site-wide footer. Secondary sites may create their own footer and accessibility statement page or link to the domain website's accessibility statement.
 
 Websites that conform with the [U.S. Web Design System](https://designsystem.digital.gov) should use the [`Indentifier`](https://designsystem.digital.gov/components/identifier/) component, which communicates a site’s parent agency and displays agency links required by federal laws and policies, and includes the accessibility statement by default (Figure 1).
 
