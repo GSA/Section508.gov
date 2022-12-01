@@ -29,14 +29,14 @@ We recommend that each agency craft a message highlighting the agency’s commit
 
 To ensure that your accessibility statement is available to visitors at any point within their digital experience, agencies should include a link to the accessibility statement in the site-wide footer. Secondary sites may create their own footer and accessibility statement page or link to the domain website's accessibility statement.
 
-Websites that conform with the [U.S. Web Design System](https://designsystem.digital.gov) should use the [`Indentifier`](https://designsystem.digital.gov/components/identifier/) component, which communicates a site’s parent agency and displays agency links required by federal laws and policies, and includes the accessibility statement by default (Figure 1).
+Websites that conform with the [U.S. Web Design System](https://designsystem.digital.gov) should use the [`Identifier`](https://designsystem.digital.gov/components/identifier/) component, which communicates a site’s parent agency and displays agency links required by federal laws and policies, and includes the accessibility statement by default (Figure 1).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
   <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/manage-web-statement-uswds.png" alt=" " aria-labelledby="uswds-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="uswds-statement">Figure 1: U.S. Web Design System `Identifier` component with the accessibility statement using the link text 'Accessibility support' among other links such as FOIA requests, No FEAR Act data, and Privacy policy.</span></div>
 </div>
 
-Websites not utilizing the USWDS's `Infentifier` component should ensure that a link to an accessibility statement is located in the site-wide footer of each page using “Accessibility” or “Accessibility Statement” as the link text (Figure 2). 
+Websites not utilizing the USWDS's `Identifier` component should ensure that a link to an accessibility statement is located in the site-wide footer of each page using “Accessibility” or “Accessibility Statement” as the link text (Figure 2). 
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
   <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/manage-web-statement-usab.png" alt=" " aria-labelledby="usab-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
