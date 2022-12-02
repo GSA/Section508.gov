@@ -305,7 +305,7 @@ function IctListingPageComponent_art_generic_text_3_Template(rf, ctx) { if (rf &
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r1.formConfig[0].formElements[0].formSection);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r1.inputFieldDesc, " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r1.artIctLpService.getInputLabel(), " ");
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formConfig", ctx_r1.formConfig)("scanChange", ctx_r1.scanChange);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
@@ -357,11 +357,6 @@ class IctListingPageComponent {
          */
         this.scanChange = "";
         /**
-         * @description The description for the input field
-         * @type:string
-         */
-        this.inputFieldDesc = "";
-        /**
          * @description to store all the ICT Items created or uploaded
          * @type: ICTInterface[]
          */
@@ -374,17 +369,13 @@ class IctListingPageComponent {
     }
     ngOnInit() {
         this.maxItems = this.artIctLpService.getMaxItems();
-        console.log("in ICT", this.ictItemService.get());
-        console.log("landingPageService", this.landingPageService.getNextPage());
+        // Return on the home page if the user refreshes the page, because all the content will be lost
         if (!this.landingPageService.getNextPage()) {
             this.router.navigateByUrl("/");
         }
+        // Getting the form configuration
         this.formConfig = this.artIctLpService.getConfigurations();
-        this.inputFieldDesc = this.formConfig[0].formElements[0].label.concat("");
-        this.formConfig[0].formElements[0].label = "";
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
-        // To Test 2 forms TOBE REMOVED
-        //this.formConfig.push(this.artIctLpService.getConfigurations2());
     }
     /**
      * @return void
@@ -638,7 +629,6 @@ class TestComponent {
     }
     ngOnInit() {
         this.formConfig = this.artTestService.getConfigurations();
-        this.formConfig.push(this.formConfig[0]);
     }
     /**
      * @return void
@@ -805,7 +795,7 @@ ICTItemComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0_
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](ctx.ictItem == null ? null : ctx.ictItem.name);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵattributeInterpolate1"]("aria-label", "Delete button for index ", ctx.index + 1, "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵattributeInterpolate1"]("aria-label", "Delete button for index ", ctx.index, "");
     } }, styles: ["[_nghost-%COMP%] {\n  display: inline-block;\n}\n[_nghost-%COMP%]   div[_ngcontent-%COMP%] {\n  position: relative;\n  margin: 1em;\n  border: 2px solid blue;\n  border-radius: 4px;\n  padding: 0.5em;\n  width: -moz-fit-content;\n  width: fit-content;\n  max-width: 7em;\n}\n[_nghost-%COMP%]   div[_ngcontent-%COMP%]:after {\n  position: absolute;\n  content: attr(data-index);\n  background-color: white;\n  top: -0.7em;\n  left: 0.8em;\n  padding: 0 0.5em;\n}\n[_nghost-%COMP%]   div[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  display: -webkit-box;\n  -webkit-line-clamp: 2;\n  -webkit-box-orient: vertical;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n[_nghost-%COMP%]   div[_ngcontent-%COMP%]   span[_ngcontent-%COMP%]   abbr[_ngcontent-%COMP%] {\n  text-decoration: none;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC1pY3QtaXRlbS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHFCQUFBO0FBQ0Y7QUFBRTtFQUNFLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLHNCQUFBO0VBQ0Esa0JBQUE7RUFDQSxjQUFBO0VBQ0EsdUJBQUE7RUFBQSxrQkFBQTtFQUNBLGNBQUE7QUFFSjtBQUFJO0VBQ0Usa0JBQUE7RUFDQSx5QkFBQTtFQUNBLHVCQUFBO0VBQ0EsV0FBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtBQUVOO0FBQ0k7RUFDRSxvQkFBQTtFQUNBLHFCQUFBO0VBQ0EsNEJBQUE7RUFDQSxnQkFBQTtFQUNBLHVCQUFBO0FBQ047QUFBTTtFQUNFLHFCQUFBO0FBRVIiLCJmaWxlIjoiYXJ0LWljdC1pdGVtLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiOmhvc3Qge1xuICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIGRpdiB7XG4gICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgIG1hcmdpbjogMWVtO1xuICAgIGJvcmRlcjogMnB4IHNvbGlkIGJsdWU7XG4gICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgIHBhZGRpbmc6IDAuNWVtO1xuICAgIHdpZHRoOiBmaXQtY29udGVudDtcbiAgICBtYXgtd2lkdGg6IDdlbTtcblxuICAgICY6YWZ0ZXIge1xuICAgICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgICAgY29udGVudDogYXR0cihkYXRhLWluZGV4KTtcbiAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgICAgdG9wOiAtLjdlbTtcbiAgICAgIGxlZnQ6IC44ZW07XG4gICAgICBwYWRkaW5nOiAwIDAuNWVtO1xuICAgIH1cblxuICAgIHNwYW4ge1xuICAgICAgZGlzcGxheTogLXdlYmtpdC1ib3g7XG4gICAgICAtd2Via2l0LWxpbmUtY2xhbXA6IDI7XG4gICAgICAtd2Via2l0LWJveC1vcmllbnQ6IHZlcnRpY2FsO1xuICAgICAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgICAgIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzO1xuICAgICAgYWJiciB7XG4gICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgICAgIH1cbiAgICB9XG4gIH1cbn0iXX0= */"] });
 
 
@@ -1151,7 +1141,7 @@ class FileUploadComponent {
     }
 }
 FileUploadComponent.ɵfac = function FileUploadComponent_Factory(t) { return new (t || FileUploadComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdirectiveInject"](src_app_shared_services_file_upload_service__WEBPACK_IMPORTED_MODULE_0__.FileUploadService)); };
-FileUploadComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: FileUploadComponent, selectors: [["art-file-upload"]], inputs: { maxFilesNbr: "maxFilesNbr", maxLength: "maxLength" }, outputs: { getFileData: "getFileData" }, decls: 15, vars: 7, consts: [["aria-label", "File upload", 1, "usa-graphic-list"], [1, "usa-form-group"], ["for", "file-input-specific", 1, "usa-label"], ["class", "usa-hint", "id", "file-input-specific-hint", 4, "ngIf"], [1, "usa-file-input"], ["class", "input-error-alert error", 4, "ngIf"], ["class", "error", 4, "ngIf"], ["class", "success", 4, "ngIf"], [1, "art-file-input__target"], ["class", "margin-bottom-3", 4, "ngIf"], ["class", "usa-file-input__instructions", 4, "ngIf"], [1, "usa-file-input__box"], ["id", "file-input-specific", "type", "file", "name", "file-input-specific", "aria-describedby", "file-input-specific-hint", "accept", ".json", "multiple", "multiple", "aria-live", "polite", "aria-label", "No files selected", "data-default-aria-label", "No files selected", 1, "usa-file-input__input", 3, "change"], ["class", "usa-button usa-button--outline", 3, "click", 4, "ngIf"], ["id", "file-input-specific-hint", 1, "usa-hint"], [1, "input-error-alert", "error"], ["class", "margin-x-2", 4, "ngFor", "ngForOf"], [1, "margin-x-2"], [1, "error"], [4, "ngFor", "ngForOf"], [1, "success"], [1, "margin-bottom-3"], [1, "usa-file-input__preview-heading"], [1, "usa-file-input__choose"], ["class", "usa-file-input__preview", "aria-hidden", "true", 4, "ngFor", "ngForOf"], ["aria-hidden", "true", 1, "usa-file-input__preview"], [1, "usa-file-input__instructions"], [1, "usa-file-input__drag-text"], [1, "usa-button", "usa-button--outline", 3, "click"]], template: function FileUploadComponent_Template(rf, ctx) { if (rf & 1) {
+FileUploadComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: FileUploadComponent, selectors: [["art-file-upload"]], inputs: { maxFilesNbr: "maxFilesNbr", maxLength: "maxLength" }, outputs: { getFileData: "getFileData" }, decls: 15, vars: 7, consts: [["aria-label", "File upload", 1, "usa-graphic-list"], [1, "usa-form-group", "margin-bottom-1"], ["for", "file-input-specific", 1, "usa-label"], ["class", "usa-hint", "id", "file-input-specific-hint", 4, "ngIf"], [1, "usa-file-input", "margin-top-1"], ["class", "input-error-alert error", 4, "ngIf"], ["class", "error", 4, "ngIf"], ["class", "success", 4, "ngIf"], [1, "art-file-input__target"], ["class", "margin-bottom-3", 4, "ngIf"], ["class", "usa-file-input__instructions", 4, "ngIf"], [1, "usa-file-input__box"], ["id", "file-input-specific", "type", "file", "name", "file-input-specific", "accept", ".json", "multiple", "multiple", "aria-live", "polite", "aria-label", "No files selected", "data-default-aria-label", "No files selected", 1, "usa-file-input__input", 3, "change"], ["class", "usa-button usa-button--outline", 3, "click", 4, "ngIf"], ["id", "file-input-specific-hint", 1, "usa-hint"], [1, "input-error-alert", "error"], ["class", "margin-x-2", 4, "ngFor", "ngForOf"], [1, "margin-x-2"], [1, "error"], [4, "ngFor", "ngForOf"], [1, "success"], [1, "margin-bottom-3"], [1, "usa-file-input__preview-heading"], [1, "usa-file-input__choose"], ["class", "usa-file-input__preview", "aria-hidden", "true", 4, "ngFor", "ngForOf"], ["aria-hidden", "true", 1, "usa-file-input__preview"], [1, "usa-file-input__instructions"], [1, "usa-file-input__drag-text"], [1, "usa-button", "usa-button--outline", 3, "click"]], template: function FileUploadComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "section", 0)(1, "div", 1)(2, "label", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](3, "Input accepts only specific file types");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -1209,7 +1199,7 @@ class Section508BannerComponent {
     }
 }
 Section508BannerComponent.ɵfac = function Section508BannerComponent_Factory(t) { return new (t || Section508BannerComponent)(); };
-Section508BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Section508BannerComponent, selectors: [["art-section508-banner"]], inputs: { url: "url" }, decls: 35, vars: 3, consts: [[1, "usa-banner"], [1, "usa-accordion"], [1, "usa-banner__header"], [1, "usa-banner__inner"], [1, "grid-col-auto"], ["aria-hidden", "true", "aria-label", "U.S. Flag", 1, "usa-banner__header-flag", 3, "src"], [1, "grid-col-fill", "tablet:grid-col-auto"], [1, "usa-banner__header-text"], ["aria-hidden", "true", 1, "usa-banner__header-action"], ["aria-expanded", "false", "aria-controls", "gov-banner", 1, "usa-accordion__button", "usa-banner__button"], [1, "usa-banner__button-text"], ["id", "gov-banner", "hidden", "", 1, "usa-banner__content", "usa-accordion__content"], [1, "grid-row", "grid-gap-lg"], [1, "usa-banner__guidance", "tablet:grid-col-6"], ["alt", "Dot gov", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"], [1, "usa-media-block__body"], ["alt", "Https", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"]], template: function Section508BannerComponent_Template(rf, ctx) { if (rf & 1) {
+Section508BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Section508BannerComponent, selectors: [["art-section508-banner"]], inputs: { url: "url" }, decls: 35, vars: 3, consts: [[1, "usa-banner"], [1, "usa-accordion"], [1, "usa-banner__header"], [1, "usa-banner__inner"], ["aria-label", "U.S. Flag", 1, "grid-col-auto"], ["aria-hidden", "true", "alt", "", 1, "usa-banner__header-flag", 3, "src"], [1, "grid-col-fill", "tablet:grid-col-auto"], [1, "usa-banner__header-text"], ["aria-hidden", "true", 1, "usa-banner__header-action"], ["aria-expanded", "false", "aria-controls", "gov-banner", 1, "usa-accordion__button", "usa-banner__button"], [1, "usa-banner__button-text"], ["id", "gov-banner", "hidden", "", 1, "usa-banner__content", "usa-accordion__content"], [1, "grid-row", "grid-gap-lg"], [1, "usa-banner__guidance", "tablet:grid-col-6"], ["alt", "Dot gov", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"], [1, "usa-media-block__body"], ["alt", "Https", 1, "usa-banner__icon", "usa-media-block__img", 3, "src"]], template: function Section508BannerComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "div", 2)(3, "div", 3)(4, "div", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "img", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -1634,6 +1624,13 @@ class ArtIctLpService {
         return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.errorMessage;
     }
     /**
+     * @description Get the error message for Input Label on the ICT page
+     * @returns string
+     */
+    getInputLabel() {
+        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.inputLabel;
+    }
+    /**
   * @description Return the maximum number of items that should be allowed
   * @returns number
   */
@@ -1790,7 +1787,7 @@ class FileUploadService {
                             }
                         }
                         catch (error) {
-                            resolve({ data: 'Can\'t parse JSON: ' + fileName, error: true });
+                            resolve({ data: 'JSON structure does not match:: ' + fileName, error: true });
                         }
                     }
                     else {
@@ -2281,7 +2278,7 @@ module.exports = JSON.parse('{"data":"<p class=\'first-par\'>The <a href=\'https
   \*************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"errorMessage":"You have reached the maximum number of ICT Items","maxItems":8}');
+module.exports = JSON.parse('{"errorMessage":"You have reached the maximum number of ICT Items","maxItems":8,"inputLabel":"First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment)."}');
 
 /***/ }),
 
@@ -2321,7 +2318,7 @@ module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>April 2
   \***************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment).","title":"","placeholder":"Please enter an ICT Item","description":"","errorMessages":{"maxlength":"The maximum length has exceeded 25"},"controlName":"ictItemTextfield1","validations":["required","maxLength(25)"],"next":"","formSection":"What is the name of your procurement?","value":"","options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter an ICT Item","description":"","errorMessages":{"maxlength":"The maximum length has exceeded 25"},"controlName":"ictItemTextfield1","validations":["required","maxLength(25)"],"next":"","formSection":"What is the name of your procurement?","value":"","options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
 
 /***/ }),
 

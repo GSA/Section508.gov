@@ -1,4 +1,5 @@
 {
     "errorMessage":"You have reached the maximum number of ICT Items",
-    "maxItems":8
+    "maxItems":8,
+    "inputLabel":"First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment)."
 }

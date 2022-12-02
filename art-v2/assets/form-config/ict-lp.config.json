@@ -3,7 +3,7 @@
         "formElements":[
         { 
         "elementType":"text",
-        "label": "First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment).",
+        "label": "",
         "title": "",
         "placeholder":"Please enter an ICT Item",
         "description": "",
