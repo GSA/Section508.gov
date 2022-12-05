@@ -3,5 +3,15 @@
         "label": "Get Started", 
         "description": "Get Started Description", 
         "destination": "/ict-listing-page"
-    }
+    },
+    "uploadICT":{
+        "label": "Continue where you left off", 
+        "description": "Click the button below to modify/upload a previous acquisition file.", 
+        "destination": "/ict-listing-page"
+    },
+    "continue": { 
+        "label": "Continue", 
+        "description": "Continue to the form Page", 
+        "destination": "/ict-form-page"
+     }
 }

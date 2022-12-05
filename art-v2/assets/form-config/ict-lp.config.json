@@ -1,0 +1,23 @@
+[
+    {
+        "formElements":[
+        { 
+        "elementType":"text",
+        "label": "",
+        "title": "",
+        "placeholder":"Please enter an ICT Item",
+        "description": "",
+        "errorMessages": {"maxlength":"The maximum length has exceeded 25"},
+        "controlName": "ictItemTextfield1",
+        "validations": [ "required", "maxLength(25)"],
+        "next":"",
+        "formSection": "What is the name of your procurement?",
+        "value": "",
+        "options": []
+        }
+    ],
+        "formButtons": {"add":"Add "},
+        "clearForm": true,
+        "disable": false
+    }
+]
