@@ -378,6 +378,17 @@ class IctListingPageComponent {
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
     }
     /**
+     * @description Before the page is getting destructed, the form needs to be disable if it was enable before
+     * @return void
+     */
+    ngOnDestroy() {
+        if (this.ictItems.length <= this.maxItems && this.formConfig[0].disable) {
+            this.formConfig[0].disable = false;
+            this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
+            this.scanChange = "false";
+        }
+    }
+    /**
      * @return void
      * @description When the user submit an project or ICT name, it will call the addIctItem function
      * @param data
