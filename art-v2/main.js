@@ -687,6 +687,10 @@ class ArtButtonComponent {
         this.disabled = false;
     }
     ngOnInit() {
+        if (this.buttonData && !this.buttonData.ariaLabel) {
+            this.buttonData.ariaLabel = this.buttonData?.label + " button";
+        }
+        ;
     }
     /**
      * @return void
@@ -703,7 +707,7 @@ class ArtButtonComponent {
     }
 }
 ArtButtonComponent.ɵfac = function ArtButtonComponent_Factory(t) { return new (t || ArtButtonComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__.Router)); };
-ArtButtonComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtButtonComponent, selectors: [["art-button"]], inputs: { buttonData: "buttonData", disabled: "disabled" }, decls: 2, vars: 3, consts: [["type", "button", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "title", "click"]], template: function ArtButtonComponent_Template(rf, ctx) { if (rf & 1) {
+ArtButtonComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtButtonComponent, selectors: [["art-button"]], inputs: { buttonData: "buttonData", disabled: "disabled" }, decls: 2, vars: 4, consts: [["type", "button", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "title", "click"]], template: function ArtButtonComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "button", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ArtButtonComponent_Template_button_click_0_listener() { return ctx.buttonClicked(); });
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
@@ -711,6 +715,7 @@ ArtButtonComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("title", ctx.buttonData == null ? null : ctx.buttonData.description);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("disabled", ctx.disabled);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵattribute"]("aria-label", ctx.buttonData == null ? null : ctx.buttonData.ariaLabel);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", ctx.buttonData == null ? null : ctx.buttonData.label, "\n");
     } }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJhcnQtYnV0dG9uLmNvbXBvbmVudC5zY3NzIn0= */"] });
