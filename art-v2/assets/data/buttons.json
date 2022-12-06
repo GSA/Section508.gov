@@ -1,12 +1,12 @@
 { 
     "getStarted":{
         "label": "Get Started", 
-        "description": "Get Started Button", 
+        "description": "Get Started Description", 
         "destination": "/ict-listing-page"
     },
     "uploadICT":{
         "label": "Continue where you left off", 
-        "description": "Continue where you left off Button", 
+        "description": "Use the box below to modify/upload a previous acquisition file.", 
         "destination": "/ict-listing-page"
     },
     "continue": { 
