@@ -707,13 +707,12 @@ class ArtButtonComponent {
     }
 }
 ArtButtonComponent.ɵfac = function ArtButtonComponent_Factory(t) { return new (t || ArtButtonComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_1__.Router)); };
-ArtButtonComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtButtonComponent, selectors: [["art-button"]], inputs: { buttonData: "buttonData", disabled: "disabled" }, decls: 2, vars: 4, consts: [["type", "button", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "title", "click"]], template: function ArtButtonComponent_Template(rf, ctx) { if (rf & 1) {
+ArtButtonComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtButtonComponent, selectors: [["art-button"]], inputs: { buttonData: "buttonData", disabled: "disabled" }, decls: 2, vars: 3, consts: [["type", "button", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "click"]], template: function ArtButtonComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "button", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ArtButtonComponent_Template_button_click_0_listener() { return ctx.buttonClicked(); });
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpropertyInterpolate"]("title", ctx.buttonData == null ? null : ctx.buttonData.description);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("disabled", ctx.disabled);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵattribute"]("aria-label", ctx.buttonData == null ? null : ctx.buttonData.ariaLabel);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
@@ -2268,7 +2267,7 @@ module.exports = JSON.parse('{"header":"Acquisition","title":"Accessibility Requ
   \**************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"getStarted":{"label":"Get Started","description":"Get Started Description","destination":"/ict-listing-page"},"uploadICT":{"label":"Continue where you left off","description":"Click the button below to modify/upload a previous acquisition file.","destination":"/ict-listing-page"},"continue":{"label":"Continue","description":"Continue to the form Page","destination":"/ict-form-page"}}');
+module.exports = JSON.parse('{"getStarted":{"label":"Get Started","description":"Get Started Button","destination":"/ict-listing-page"},"uploadICT":{"label":"Continue where you left off","description":"Continue where you left off Button","destination":"/ict-listing-page"},"continue":{"label":"Continue","description":"Continue to the form Page","destination":"/ict-form-page"}}');
 
 /***/ }),
 
