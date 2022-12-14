@@ -243,7 +243,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         Information and Communication Technology Accessibility Throughout the Acquisition Lifecycle&nbsp;
       </li>
       <li>
-        10th Anniversary of the Twenty-First Century Communications and Video Accessibility Act | <a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx" target="_blank">Presentation</a> (PPT)
+        <a href="https://assets.section508.gov/files/IAAF_2020%20_Twenty_First_CVAA.pptx" target="_blank">10th Anniversary of the Twenty-First Century Communications and Video Accessibility Act (PPTX)</a>
       </li>
       <li>
         Agency Showcase: Smithsonian Institution
@@ -271,10 +271,10 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
       <li>
         <strong>Track B: Acquisition & Program Management</strong> <ul>
           <li>
-            Agencies Approaches to Accessibility throughout the Acquisition Lifecycle | <a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx">Presentation</a> (PPT)&nbsp;
+            <a href="https://assets.section508.gov/files/IAAF_2020_Agencies_Approaches_Acquisition_Lifecycle.pptx">Agencies Approaches to Accessibility throughout the Acquisition Lifecycle (PPTX)</a>
           </li>
           <li>
-            Welcome to Section 508 (for new members) | <a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf" target="_blank">Presentation</a> (PDF)
+            <a href="https://assets.section508.gov/files/IAAF_2020_Welcome_New_PMs.pdf" target="_blank">Welcome to Section 508 (for new members) (PDF)</a>
           </li>
           <li>
             Revised Section 508 and the Federal Acquisition Regulations - The Final Rule (FAR Case)
@@ -286,10 +286,10 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
       <li>
         <strong>Track C: Innovation</strong> <ul>
           <li>
-            Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities | <a href="https://assets.section508.gov/files/IAAF_2020_Artificial_Intelligence_Emerging_Workplace.pptx">Presentation</a> (PPT)
+            <a href="https://assets.section508.gov/files/IAAF_2020_Artificial_Intelligence_Emerging_Workplace.pptx">Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities (PPTX)</a>
           </li>
           <li>
-            Mobile Accessibility: Now and the Future | <a href="https://assets.section508.gov/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx" target="_blank">Presentation</a> (PPT)
+            <a href="https://assets.section508.gov/files/IAAF_2020_Mobile_Accessibility_Now_Future.pptx" target="_blank">Mobile Accessibility: Now and the Future (PPTX)</a>
           </li>
           <li>
             Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States
@@ -354,38 +354,38 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
     </p>
     <ul>
       <li>
-        <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Opening%20Plenary%20Session_0.docx" target="_blank">Read the transcript of the Opening Plenary Session</a> (DOC)
+        <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Opening%20Plenary%20Session_0.docx" target="_blank">Read the transcript of the Opening Plenary Session (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Managing%20Accessibility%20of%20Public%20Facing%20Content%20and%20Agency%20Official%20Communications%20Part%201.pptx" target="_blank">Managing Accessibility of Public&ndash;Facing Content and Agency Official Communications Part 1</a> (PPT)
+        <a href="https://assets.section508.gov/files/Managing%20Accessibility%20of%20Public%20Facing%20Content%20and%20Agency%20Official%20Communications%20Part%201.pptx" target="_blank">Managing Accessibility of Public&ndash;Facing Content and Agency Official Communications Part 1 (PPTX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Managing%20Accessibility%20of%20Public%20Facing%20Content%20and%20Agency%20Official%20Communications%20Part%202.pptx" target="_blank">Managing Accessibility of Public&ndash;Facing Content and Agency Official Communications Part 2</a> (PPT)
+        <a href="https://assets.section508.gov/files/Managing%20Accessibility%20of%20Public%20Facing%20Content%20and%20Agency%20Official%20Communications%20Part%202.pptx" target="_blank">Managing Accessibility of Public&ndash;Facing Content and Agency Official Communications Part 2 (PPTX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Revised%20Section%20508%20Standards%20Summary%20of%20Major%20Changes%20and%20Issues.pptx" target="_blank">Revised Section 508 Standards &ndash; Summary of Major Changes and Issues</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Revised%20Section%20508%20Standards-Summary%20of%20Major%20Changes%20and%20Issues.docx" target="_blank"> Read the transcript</a>
+        <a href="https://assets.section508.gov/files/Revised%20Section%20508%20Standards%20Summary%20of%20Major%20Changes%20and%20Issues.pptx" target="_blank">Revised Section 508 Standards &ndash; Summary of Major Changes and Issues (PPTX)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Revised%20Section%20508%20Standards-Summary%20of%20Major%20Changes%20and%20Issues.docx" target="_blank"> Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/How%20to%20Request%20Information%20from%20Vendors%20About%20the%20Revised%20Standards.pptx" target="_blank">How to Request Accessibility Information from Vendors About the Revised Standards</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20How%20to%20Request%20Accessibility%20Information%20From%20Vendors%20About%20The%20Revised%20Section%20508%20Standards.docx" target="_blank">Read the transcript</a>
+        <a href="https://assets.section508.gov/files/How%20to%20Request%20Information%20from%20Vendors%20About%20the%20Revised%20Standards.pptx" target="_blank">How to Request Accessibility Information from Vendors About the Revised Standards (PPTX)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20How%20to%20Request%20Accessibility%20Information%20From%20Vendors%20About%20The%20Revised%20Section%20508%20Standards.docx" target="_blank">Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Accessible%20Electronic%20Documents%20Community%20of%20Practice%20Technical%20Resources%20for%20Specific%20Document%20Formats.ppt" target="_blank">AED COP, How It Helps Government Agencies Consistently Test and Remediate Electronic Documents for Section 508 Conformance</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Accessible%20Electronic%20Documents%20Community%20of%20Practice%20%28AED%20CoP%29.docx" target="_blank"> Read the transcript</a>
+        <a href="https://assets.section508.gov/files/Accessible%20Electronic%20Documents%20Community%20of%20Practice%20Technical%20Resources%20for%20Specific%20Document%20Formats.ppt" target="_blank">AED COP, How It Helps Government Agencies Consistently Test and Remediate Electronic Documents for Section 508 Conformance (PPT)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Accessible%20Electronic%20Documents%20Community%20of%20Practice%20%28AED%20CoP%29.docx" target="_blank"> Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Revising%20Agency%20508%20Policy%20for%20the%20Refresh%20and%20Managing%20for%20User%20Access.pptx" target="_blank">Revising Agency 508 Policy for the Refresh and Managing for User Access</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Revising%20Agency%20508%20Policy%20for%20the%20Refresh%20and%20Managing%20for%20User%20Access.docx" target="_blank">Read the transcript</a>
+        <a href="https://assets.section508.gov/files/Revising%20Agency%20508%20Policy%20for%20the%20Refresh%20and%20Managing%20for%20User%20Access.pptx" target="_blank">Revising Agency 508 Policy for the Refresh and Managing for User Access (PPTX)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Revising%20Agency%20508%20Policy%20for%20the%20Refresh%20and%20Managing%20for%20User%20Access.docx" target="_blank">Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/WCAG%202.0%20How%20Does%20it%20Change%20the%20Way%20Agencies%20Develop%20and%20Test.pptx" target="_blank">WCAG 2.0 &ndash; How Does it Change the Way Agencies Develop and Test?</a> (PPT)
+        <a href="https://assets.section508.gov/files/WCAG%202.0%20How%20Does%20it%20Change%20the%20Way%20Agencies%20Develop%20and%20Test.pptx" target="_blank">WCAG 2.0 &ndash; How Does it Change the Way Agencies Develop and Test? (PPTX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Integrating%20Section%20508%20Requirements%20in%20the%20Development%20Lifecycle.pptx" target="_blank">Integrating Section 508 Requirements in the Development Lifecycle</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Integrating%20Section%20508%20Requirements%20in%20the%20Development%20Lifecycle.docx" target="_blank">Read the transcript</a>
+        <a href="https://assets.section508.gov/files/Integrating%20Section%20508%20Requirements%20in%20the%20Development%20Lifecycle.pptx" target="_blank">Integrating Section 508 Requirements in the Development Lifecycle (PPTX)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20Integrating%20Section%20508%20Requirements%20in%20the%20Development%20Lifecycle.docx" target="_blank">Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/GSA%20Section%20508%20Resources.pptx" target="_blank">GSA Section 508 Resources</a> (PPT). <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20GSA%20Section%20508%20Resources.docx" target="_blank">Read the transcript</a>
+        <a href="https://assets.section508.gov/files/GSA%20Section%20508%20Resources.pptx" target="_blank">GSA Section 508 Resources (PPTX)</a>. <a href="https://assets.section508.gov/files/Transcript%20of%2010-13-17%20GSA%20Section%20508%20Resources.docx" target="_blank">Read the transcript (DOCX)</a>
       </li>
       <li>
-        <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards</a> (PPT)
+        <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards (PPTX)</a>
       </li>
     </ul>
-    <p><strong>Reviewed/Updated</strong>: August 2022</p>
+    <p><strong>Reviewed/Updated</strong>: December 2022</p>
 </div>
