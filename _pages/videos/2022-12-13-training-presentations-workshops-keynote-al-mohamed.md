@@ -6,7 +6,7 @@ type: training
 title: IAAF 2021 Keynote Address — Day Al Mohamed
 created: 1578606586
 ---
-Andrea O'Neal, Senior Advisor to the Administrator for Equity with the General Services Administration, and Day Al Mohamed, Director of Disability Policy with the White House Domestic Policy Council, engaged in a conversation about the state of affairs of accessibility - progress made for people with disabilities in the post-ADA era, equity and the power of the disability community.
+Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
 
 <video controls="controls" poster="https://assets.section508.gov/files/thumbnails/iaaf-2022-keynote-al-mohamed-poster.png" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2022-keynote-al-mohamed-sd-oc.mp4" type="video/mp4" /></video>
 

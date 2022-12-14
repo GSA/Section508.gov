@@ -6,7 +6,7 @@ type: training
 title: IAAF 2021 Keynote Address — Kimberly Knackstedt
 created: 1578606586
 ---
-Andrew Nielson, Director, Government-wide IT Accessibility Program at the General Services Administration, and Senior Fellow and Co-Director, Disability Economic Justice Collaborative at The Century Foundation, discuss disability as a human experience. 
+Andrew Nielson, Director, Government-wide IT Accessibility Program at the General Services Administration, and Kimberly Knackstedt, Senior Fellow and Co-Director, Disability Economic Justice Collaborative at The Century Foundation, discuss disability as a human experience. 
 
 <video controls="controls" poster="https://assets.section508.gov/files/thumbnails/iaaf-2022-keynote-knackstedt-poster.png" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2022-keynote-knackstedt-sd-oc.mp4" type="video/mp4" /></video>
 

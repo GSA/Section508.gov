@@ -10,7 +10,7 @@ created: 1598578742
 
 The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
 
-Attendees of this ninth annual IAAF heard two keynote addresses, along with presentations and panel discussions that focused on Unlocking the Power of Accessibility. In addition, the forum – for the first time – included virtual workshops hosted by accessibility subject matter experts who work within their agency to ensure equivalent access to information and digital services by people living with disabilities.
+Attendees of this ninth annual IAAF heard two keynote addresses, along with presentations and panel discussions that focused on ***Unlocking the Power of Accessibility***. In addition, the forum – for the first time – included virtual workshops hosted by accessibility subject matter experts who work within their agency to ensure equivalent access to information and digital services by people living with disabilities.
 
 Whether you were new to IT accessibility or a seasoned content creator, there was something for everyone – acquisition officials, business analysts, project managers, developers, testers, content creators, Section 508 Program Managers, agency management and leadership, and federal personnel and contractors interested in accessibility.
 
@@ -30,7 +30,7 @@ The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
       </div>
       <div class="usa-card__body">
         <p>
-          Kim Knackstedt, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          Andrew Nielson, Director, Government-wide IT Accessibility Program at the General Services Administration, and Kimberly Knackstedt, Senior Fellow and Co-Director, Disability Economic Justice Collaborative at The Century Foundation, discuss disability as a human experience. 
         </p>
       </div>
       <div class="usa-card__footer">
@@ -50,7 +50,7 @@ The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
       </div>
       <div class="usa-card__body">
         <p>
-          Al Mohamed, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
         </p>
       </div>
       <div class="usa-card__footer">
@@ -61,7 +61,7 @@ The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
 </ul>
 
 ### Event Agenda & Speaker and Presenter Biographies
-The 2022 IAAF had three sessions with featured speakers, keynote addresses, workshops, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
+The 2022 IAAF was a three-day forum with featured speakers, keynote addresses, workshops, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
 
 For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2022/) and [2022 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2022).
 
