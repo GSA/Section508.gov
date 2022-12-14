@@ -8,13 +8,13 @@ created: 1598578742
 --- 
 ## 2022 Interagency Accessibility Forum
 
-The 2022 Interagency Accessibility Forum (IAAF) celebrates accessibility as a foundation for inclusion, diversity, and equity within the federal government.
+The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
 
-Attendees of this ninth annual IAAF will hear two keynote addresses, along with presentations and panel discussions that will focus on Unlocking the Power of Accessibility. In addition, the forum will – for the first time – include virtual workshops hosted by accessibility subject matter experts who work within their agency to ensure equivalent access to information and digital services by people living with disabilities.
+Attendees of this ninth annual IAAF heard two keynote addresses, along with presentations and panel discussions that focused on Unlocking the Power of Accessibility. In addition, the forum – for the first time – included virtual workshops hosted by accessibility subject matter experts who work within their agency to ensure equivalent access to information and digital services by people living with disabilities.
 
-Whether you are new to IT accessibility or a seasoned content creator, there is something for everyone – acquisition officials, business analysts, project managers, developers, testers, content creators, Section 508 Program Managers, agency management and leadership, and federal personnel and contractors interested in accessibility.
+Whether you were new to IT accessibility or a seasoned content creator, there was something for everyone – acquisition officials, business analysts, project managers, developers, testers, content creators, Section 508 Program Managers, agency management and leadership, and federal personnel and contractors interested in accessibility.
 
-The 2022 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), and National Institutes of Health, in partnership with other federal agencies.
+The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), and National Institutes of Health, in partnership with other federal agencies.
 
 <h3 class="site-preview-heading">Event Highlights</h3>
 <ul class="usa-card-group">
