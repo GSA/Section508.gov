@@ -1,7 +1,8 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/agenda-2022/
+permalink: iaaf/archives/agenda-2022/
+redirect_from: iaaf/agenda-2022/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 created: 1600981839
