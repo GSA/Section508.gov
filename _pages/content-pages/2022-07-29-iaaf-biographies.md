@@ -1,7 +1,8 @@
 ---
 layout: wide
 sidenav: false
-permalink: iaaf/biographies-2022/
+permalink: iaaf/archives/biographies-2022/
+redirect_from: iaaf/biographies-2022/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
 created: 1601325079
