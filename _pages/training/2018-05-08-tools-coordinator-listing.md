@@ -185,7 +185,7 @@ DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
-VACANT
+Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
@@ -639,7 +639,7 @@ Nadereh Nasir - <Nadereh.Nasir@usps.gov>
   <p>
   </p>
   <p>
-    <strong>Reviewed/Updated:</strong>November 1, 2022
+    <strong>Reviewed/Updated:</strong>January 3, 2023
   </p>
 </div>
 
