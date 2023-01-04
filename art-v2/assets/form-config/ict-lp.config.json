@@ -11,8 +11,9 @@
         "controlName": "ictItemTextfield1",
         "validations": [ "required", "maxLength(25)"],
         "next":"",
-        "formSection": "What is the name of your procurement?",
+        "formSection": "",
         "value": "",
+        "hidden":false,
         "options": []
         }
     ],
