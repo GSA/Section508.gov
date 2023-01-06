@@ -711,7 +711,15 @@ class FormPageComponent {
          * @type FormTemplateInterface
          */
         this.formConfig = [];
+        /**
+         * @description Steps data for StepIndicatorComponent.
+         * @type IStepIndicator
+         */
         this.stepsData = { tabs: [], activeId: '0' };
+        /**
+         * @description Flag to update step indicator.
+         * @type boolean
+         */
         this.updateStep = false;
     }
     ngOnInit() {
@@ -771,6 +779,10 @@ class FormPageComponent {
         this.ictItemService.reSet(itcItems);
         this.router.navigateByUrl(('/summary-page'));
     }
+    /**
+     * @description Update page number on step navigation click.
+     * @param event
+     */
     onSelectedTabReceive(event) {
         this.pageNumber = event;
     }
@@ -983,7 +995,7 @@ class IctListingPageComponent {
      */
     removeIctItem(index) {
         if (this.ictItems[index]) {
-            // If the form  is disabled and an iem is being removed 
+            // If the form  is disabled and an item is being removed 
             if (this.ictItems.length <= this.maxItems && this.formConfig[0].disable) {
                 this.formConfig[0].disable = false;
                 this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
@@ -993,6 +1005,8 @@ class IctListingPageComponent {
             else {
                 this.ictItems.splice(index, 1);
             }
+            ;
+            this.ictItemService.reSet(this.ictItems);
         }
     }
     /**
@@ -1007,7 +1021,7 @@ class IctListingPageComponent {
         }
         if (this.ictItems.length < this.maxItems) {
             this.ictItems.push(ictItem);
-            this.ictItemService.set([ictItem]);
+            this.ictItemService.reSet(this.ictItems);
         }
         // if the max item number has been reached, disable the form
         if (this.ictItems.length === this.maxItems) {
@@ -1552,10 +1566,24 @@ class ArtCheckboxGroupComponent {
          */
         this.hidden = false;
         /**
+         * Used to trigger ngChange when an object is updated by a parent
+         */
+        this.dataUpdated = false;
+        /**
          * @description Will return the data to the parent for only 1 form after form submission
          * @type FormElement
          */
         this.formElement = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.EventEmitter();
+        /**
+         * @description return the element the user clicked on
+         */
+        this.eltClicked = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.EventEmitter();
+    }
+    ngOnChanges() {
+        /**
+         * Whenever the parent is updating the value of the checkbox element, this function will check if some element needs to be disable and disable them on a new page load.
+         */
+        this.enableFormElts();
     }
     ngOnInit() {
         this.formData?.options?.forEach(element => {
@@ -1568,6 +1596,7 @@ class ArtCheckboxGroupComponent {
      * @return void
      */
     onClicked(formElement) {
+        this.eltClicked.emit(formElement);
         const tempControl = this.formGroup.get(formElement.controlName);
         const value = tempControl.value;
         if (formElement.onlyOption && !value) {
@@ -1584,6 +1613,30 @@ class ArtCheckboxGroupComponent {
         }
     }
     /**
+     * @description Used when the page is loading by clicking on next or back, and any checkbox needed to by loaded disabled would be
+     */
+    enableFormElts() {
+        let formElement;
+        const values = this.formGroup.value;
+        // Found the element which has a value
+        Object.keys(this.formGroup.controls).forEach(key => {
+            if (values[key] && !formElement?.controlName) {
+                // find the formElement for the key which has a value and has a onlyOption
+                formElement = this.formData?.options?.find(opt => {
+                    return opt.controlName === key && opt.onlyOption;
+                });
+            }
+        });
+        // If that element is found disable all the other option in that group except that element
+        if (formElement?.controlName) {
+            Object.keys(this.formGroup.controls).forEach(key => {
+                if (key !== formElement?.controlName && !this.formGroup.get(key).disabled) {
+                    this.formGroup.get(key)?.disable();
+                }
+            });
+        }
+    }
+    /**
      * @description Get FormControl by controlName.
      * @param controlName
      */
@@ -1592,7 +1645,7 @@ class ArtCheckboxGroupComponent {
     }
 }
 ArtCheckboxGroupComponent.ɵfac = function ArtCheckboxGroupComponent_Factory(t) { return new (t || ArtCheckboxGroupComponent)(); };
-ArtCheckboxGroupComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtCheckboxGroupComponent, selectors: [["art-checkbox-group"]], inputs: { formData: "formData", formGroup: "formGroup", hidden: "hidden" }, outputs: { formElement: "formElement" }, decls: 7, vars: 4, consts: [[1, "usa-form-group", 3, "hidden"], [1, "margin-bottom-2"], [1, "usa-fieldset"], [1, "usa-legend", 3, "innerHTML"], ["class", "usa-checkbox", 3, "ngClass", 4, "ngFor", "ngForOf"], [1, "usa-checkbox", 3, "ngClass"], ["type", "checkbox", 1, "usa-checkbox__input", 3, "id", "name", "formControl", "click"], [1, "usa-checkbox__label", "art-bold", 3, "for"], [1, "usa-checkbox__label-description", 3, "innerHTML"]], template: function ArtCheckboxGroupComponent_Template(rf, ctx) { if (rf & 1) {
+ArtCheckboxGroupComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtCheckboxGroupComponent, selectors: [["art-checkbox-group"]], inputs: { formData: "formData", formGroup: "formGroup", hidden: "hidden", dataUpdated: "dataUpdated" }, outputs: { formElement: "formElement", eltClicked: "eltClicked" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵNgOnChangesFeature"]], decls: 7, vars: 4, consts: [[1, "usa-form-group", 3, "hidden"], [1, "margin-bottom-2"], [1, "usa-fieldset"], [1, "usa-legend", 3, "innerHTML"], ["class", "usa-checkbox", 3, "ngClass", 4, "ngFor", "ngForOf"], [1, "usa-checkbox", 3, "ngClass"], ["type", "checkbox", 1, "usa-checkbox__input", 3, "id", "name", "formControl", "click"], [1, "usa-checkbox__label", "art-bold", 3, "for"], [1, "usa-checkbox__label-description", 3, "innerHTML"]], template: function ArtCheckboxGroupComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "b");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
@@ -1625,6 +1678,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
 
+
 const _c0 = ["*"];
 class ArtGenericTextComponent {
     constructor() {
@@ -1633,12 +1687,16 @@ class ArtGenericTextComponent {
          * @type string
          */
         this.title = '';
+        /**
+         * @description return the element the user clicked on
+         */
+        this.eltClicked = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.EventEmitter();
     }
     ngOnInit() {
     }
 }
 ArtGenericTextComponent.ɵfac = function ArtGenericTextComponent_Factory(t) { return new (t || ArtGenericTextComponent)(); };
-ArtGenericTextComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtGenericTextComponent, selectors: [["art-generic-text"]], inputs: { title: "title" }, ngContentSelectors: _c0, decls: 4, vars: 1, consts: [[1, "art-agt-title"]], template: function ArtGenericTextComponent_Template(rf, ctx) { if (rf & 1) {
+ArtGenericTextComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ArtGenericTextComponent, selectors: [["art-generic-text"]], inputs: { title: "title" }, outputs: { eltClicked: "eltClicked" }, ngContentSelectors: _c0, decls: 4, vars: 1, consts: [[1, "art-agt-title"]], template: function ArtGenericTextComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵprojectionDef"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div")(1, "strong", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2);
@@ -1717,9 +1775,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "RadiobuttonGroupComponent": () => (/* binding */ RadiobuttonGroupComponent)
 /* harmony export */ });
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/forms */ 2508);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/forms */ 2508);
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ 4666);
+
 
 
 
@@ -1741,8 +1800,10 @@ function RadiobuttonGroupComponent_div_6_span_5_Template(rf, ctx) { if (rf & 1) 
 } }
 const _c0 = function (a0) { return { "art-bold": a0 }; };
 function RadiobuttonGroupComponent_div_6_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div")(1, "div", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "input", 7);
+    const _r8 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div")(1, "div", 6)(2, "input", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function RadiobuttonGroupComponent_div_6_Template_input_click_2_listener() { const restoredCtx = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r8); const button_r3 = restoredCtx.$implicit; const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵresetView"](ctx_r7.onClicked(button_r3)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "label", 8);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](5, RadiobuttonGroupComponent_div_6_span_5_Template, 1, 1, "span", 9);
@@ -1768,33 +1829,45 @@ function RadiobuttonGroupComponent_div_7_div_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()()();
 } if (rf & 2) {
-    const eachOpt_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
+    const eachOpt_r9 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", eachOpt_r7.info, " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", eachOpt_r9.info, " ");
 } }
 function RadiobuttonGroupComponent_div_7_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](1, RadiobuttonGroupComponent_div_7_div_1_Template, 4, 1, "div", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const eachOpt_r7 = ctx.$implicit;
+    const eachOpt_r9 = ctx.$implicit;
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r2.formGroup.value[ctx_r2.formData.controlName] === eachOpt_r7.value && eachOpt_r7.info);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx_r2.formGroup.value[ctx_r2.formData.controlName] === eachOpt_r9.value && eachOpt_r9.info);
 } }
 class RadiobuttonGroupComponent {
     constructor() {
         this.formGroup = new _angular_forms__WEBPACK_IMPORTED_MODULE_1__.FormGroup({});
         this.hidden = false;
+        /**
+         * @description return the element the user clicked on
+         */
+        this.eltClicked = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.EventEmitter();
     }
     ngOnInit() {
         if (this.formData) {
             this.formGroup.addControl(this.formData.controlName, new _angular_forms__WEBPACK_IMPORTED_MODULE_1__.FormControl(this.formData.value, [_angular_forms__WEBPACK_IMPORTED_MODULE_1__.Validators.required]));
         }
     }
+    /**
+      * @description emit the element the user clicked on
+      * @param formElement
+      * @return void
+      */
+    onClicked(formElement) {
+        this.eltClicked.emit(formElement);
+    }
 }
 RadiobuttonGroupComponent.ɵfac = function RadiobuttonGroupComponent_Factory(t) { return new (t || RadiobuttonGroupComponent)(); };
-RadiobuttonGroupComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: RadiobuttonGroupComponent, selectors: [["art-radiobutton-group"]], inputs: { formData: "formData", formGroup: "formGroup", hidden: "hidden" }, decls: 8, vars: 6, consts: [[3, "formGroup", "hidden"], [1, "margin-bottom-2"], [1, "usa-fieldset"], ["class", "usa-legend", 4, "ngIf"], [4, "ngFor", "ngForOf"], [1, "usa-legend"], [1, "usa-radio"], ["type", "radio", 1, "usa-radio__input", "usa-radio__input--tile", 3, "id", "formControlName", "value"], [1, "usa-radio__label", 3, "id", "ngClass", "for"], ["class", "usa-checkbox__label-description", 3, "innerHTML", 4, "ngIf"], [1, "usa-checkbox__label-description", 3, "innerHTML"], ["class", "usa-alert usa-alert--info usa-alert--no-icon margin-top-2", 4, "ngIf"], [1, "usa-alert", "usa-alert--info", "usa-alert--no-icon", "margin-top-2"], [1, "usa-alert__body"], [1, "usa-alert__text"]], template: function RadiobuttonGroupComponent_Template(rf, ctx) { if (rf & 1) {
+RadiobuttonGroupComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: RadiobuttonGroupComponent, selectors: [["art-radiobutton-group"]], inputs: { formData: "formData", formGroup: "formGroup", hidden: "hidden" }, outputs: { eltClicked: "eltClicked" }, decls: 8, vars: 6, consts: [[3, "formGroup", "hidden"], [1, "margin-bottom-2"], [1, "usa-fieldset"], ["class", "usa-legend", 4, "ngIf"], [4, "ngFor", "ngForOf"], [1, "usa-legend"], [1, "usa-radio"], ["type", "radio", 1, "usa-radio__input", "usa-radio__input--tile", 3, "id", "formControlName", "value", "click"], [1, "usa-radio__label", 3, "id", "ngClass", "for"], ["class", "usa-checkbox__label-description", 3, "innerHTML", 4, "ngIf"], [1, "usa-checkbox__label-description", 3, "innerHTML"], ["class", "usa-alert usa-alert--info usa-alert--no-icon margin-top-2", 4, "ngIf"], [1, "usa-alert", "usa-alert--info", "usa-alert--no-icon", "margin-top-2"], [1, "usa-alert__body"], [1, "usa-alert__text"]], template: function RadiobuttonGroupComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "b");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]()();
@@ -2819,28 +2892,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _assets_data_option_language_mapping_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../assets/data/option-language-mapping.json */ 3961);
 /* harmony import */ var _assets_data_508languages_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../assets/data/508languages.json */ 7249);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _assets_data_comp_hardware_keys_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../assets/data/comp-hardware-keys.json */ 6421);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/core */ 2560);
+
 
 
 
 class Art508LangService {
     constructor() {
-        this.compHardwareKeys = [
-            "hardware-server",
-            "hardware-tablet",
-            "hardware-printer",
-            "hardware-multi-func",
-            "hardware-peripheral",
-            "hardware-kiosk",
-            "hardware-mobile",
-            "hardware-video-telecon",
-            "hardware-video-monitor"
-        ];
     }
+    /**
+     * @description get 508 languages by form submission.
+     * @param data
+     */
     get508Languages(data) {
         let optionKeys = this.getOptionKeys(data, []);
         // Computer hardware
-        this.compHardwareKeys.forEach(key => {
+        _assets_data_comp_hardware_keys_json__WEBPACK_IMPORTED_MODULE_2__.forEach(key => {
             // @ts-ignore
             if (optionKeys.includes(key) && !optionKeys.includes("hardware-computer")) {
                 optionKeys.push("hardware-computer");
@@ -2910,7 +2978,7 @@ class Art508LangService {
     }
 }
 Art508LangService.ɵfac = function Art508LangService_Factory(t) { return new (t || Art508LangService)(); };
-Art508LangService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineInjectable"]({ token: Art508LangService, factory: Art508LangService.ɵfac, providedIn: 'root' });
+Art508LangService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdefineInjectable"]({ token: Art508LangService, factory: Art508LangService.ɵfac, providedIn: 'root' });
 
 
 /***/ }),
@@ -3654,34 +3722,42 @@ function ArtFormTemplateComponent_div_3_div_3_div_1_Template(rf, ctx) { if (rf &
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](eachFormConfig_r3.formElements[index_r9].formSection);
 } }
 function ArtFormTemplateComponent_div_3_div_3_div_2_art_text_field_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](0, "art-text-field", 20);
+    const _r20 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-text-field", 20);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("eltClicked", function ArtFormTemplateComponent_div_3_div_3_div_2_art_text_field_1_Template_art_text_field_eltClicked_0_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r20); const outerIndex_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](3).index; const ctx_r18 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r18.onElementClick($event, outerIndex_r4)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r19 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
-    const index_r9 = ctx_r19.index;
-    const eachControl_r8 = ctx_r19.$implicit;
+    const ctx_r22 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    const index_r9 = ctx_r22.index;
+    const eachControl_r8 = ctx_r22.$implicit;
     const eachFormConfig_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formData", eachFormConfig_r3.formElements[index_r9])("hidden", false)("control", eachControl_r8);
 } }
 function ArtFormTemplateComponent_div_3_div_3_div_2_div_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](1, "art-radiobutton-group", 21);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+    const _r25 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div")(1, "art-radiobutton-group", 21);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("eltClicked", function ArtFormTemplateComponent_div_3_div_3_div_2_div_2_Template_art_radiobutton_group_eltClicked_1_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r25); const outerIndex_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](3).index; const ctx_r23 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r23.onElementClick($event, outerIndex_r4)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
 } if (rf & 2) {
-    const ctx_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
-    const index_r9 = ctx_r21.index;
-    const eachControl_r8 = ctx_r21.$implicit;
+    const ctx_r27 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    const index_r9 = ctx_r27.index;
+    const eachControl_r8 = ctx_r27.$implicit;
     const eachFormConfig_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]().$implicit;
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formData", eachFormConfig_r3.formElements[index_r9])("hidden", false)("formGroup", eachControl_r8);
 } }
 function ArtFormTemplateComponent_div_3_div_3_div_2_art_checkbox_group_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](0, "art-checkbox-group", 22);
+    const _r30 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-checkbox-group", 22);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("eltClicked", function ArtFormTemplateComponent_div_3_div_3_div_2_art_checkbox_group_3_Template_art_checkbox_group_eltClicked_0_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r30); const outerIndex_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](3).index; const ctx_r28 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r28.onElementClick($event, outerIndex_r4)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r23 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
-    const index_r9 = ctx_r23.index;
-    const eachControl_r8 = ctx_r23.$implicit;
+    const ctx_r32 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    const index_r9 = ctx_r32.index;
+    const eachControl_r8 = ctx_r32.$implicit;
     const eachFormConfig_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]().$implicit;
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formData", eachFormConfig_r3.formElements[index_r9])("formGroup", eachControl_r8)("hidden", false);
+    const ctx_r17 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formData", eachFormConfig_r3.formElements[index_r9])("formGroup", eachControl_r8)("dataUpdated", ctx_r17.eltUpdated);
 } }
 function ArtFormTemplateComponent_div_3_div_3_div_2_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 16);
@@ -3706,9 +3782,9 @@ function ArtFormTemplateComponent_div_3_div_3_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const index_r9 = ctx.index;
-    const ctx_r26 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    const outerIndex_r4 = ctx_r26.index;
-    const eachFormConfig_r3 = ctx_r26.$implicit;
+    const ctx_r35 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    const outerIndex_r4 = ctx_r35.index;
+    const eachFormConfig_r3 = ctx_r35.$implicit;
     const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpropertyInterpolate1"]("id", "form-section-", ctx_r6.controlList.length * outerIndex_r4 + index_r9, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
@@ -3721,9 +3797,9 @@ function ArtFormTemplateComponent_div_3_button_4_Template(rf, ctx) { if (rf & 1)
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r27 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    const outerIndex_r4 = ctx_r27.index;
-    const eachFormConfig_r3 = ctx_r27.$implicit;
+    const ctx_r36 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    const outerIndex_r4 = ctx_r36.index;
+    const eachFormConfig_r3 = ctx_r36.$implicit;
     const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpropertyInterpolate1"]("id", "art-add-btn for index ", outerIndex_r4, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("disabled", !ctx_r7.formList[outerIndex_r4].valid || ctx_r7.formList[outerIndex_r4].value === null);
@@ -3733,9 +3809,9 @@ function ArtFormTemplateComponent_div_3_button_4_Template(rf, ctx) { if (rf & 1)
 const _c1 = function (a0, a1) { return { "ogp-display-none": a0, "ogp-display-bloc": a1 }; };
 const _c2 = function (a0, a1, a2) { return { "flex-row": a0, "flex-align-end": a1, "flex-column": a2 }; };
 function ArtFormTemplateComponent_div_3_Template(rf, ctx) { if (rf & 1) {
-    const _r29 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    const _r38 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 7)(1, "form", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("ngSubmit", function ArtFormTemplateComponent_div_3_Template_form_ngSubmit_1_listener() { const restoredCtx = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r29); const outerIndex_r4 = restoredCtx.index; const ctx_r28 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r28.onFormSubmit(outerIndex_r4)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("ngSubmit", function ArtFormTemplateComponent_div_3_Template_form_ngSubmit_1_listener() { const restoredCtx = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r38); const outerIndex_r4 = restoredCtx.index; const ctx_r37 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r37.onFormSubmit(outerIndex_r4)); });
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](2, "div", 9);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](3, ArtFormTemplateComponent_div_3_div_3_Template, 3, 3, "div", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, ArtFormTemplateComponent_div_3_button_4_Template, 2, 3, "button", 11);
@@ -3756,46 +3832,54 @@ function ArtFormTemplateComponent_div_3_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", eachFormConfig_r3.formButtons.add);
 } }
-function ArtFormTemplateComponent_div_4_div_4_button_2_Template(rf, ctx) { if (rf & 1) {
-    const _r33 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "button", 31);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_div_4_button_2_Template_button_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r33); const ctx_r32 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](3); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r32.onFormSubmit(0)); });
+function ArtFormTemplateComponent_div_4_art_button_3_Template(rf, ctx) { if (rf & 1) {
+    const _r43 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-button", 29);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_art_button_3_Template_art_button_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r43); const ctx_r42 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r42.navNextForm()); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const ctx_r39 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("buttonData", ctx_r39.nextButton);
+} }
+function ArtFormTemplateComponent_div_4_button_4_Template(rf, ctx) { if (rf & 1) {
+    const _r45 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "button", 30);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_button_4_Template_button_click_0_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r45); const ctx_r44 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r44.onFormSubmit(0)); });
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r31 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](3);
+    const ctx_r40 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r31.formConfig[0].formButtons.submit, " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r40.formConfig[0].formButtons.submit, " ");
 } }
 const _c3 = function () { return { btnName: "Save json", fileName: "jsonData.json" }; };
-function ArtFormTemplateComponent_div_4_div_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 28);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](1, "art-save-json", 29);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](2, ArtFormTemplateComponent_div_4_div_4_button_2_Template, 2, 1, "button", 30);
+function ArtFormTemplateComponent_div_4_div_5_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 31);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](1, "art-save-json", 32);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r30 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    const ctx_r41 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("saveAsInfo", _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpureFunction0"](3, _c3))("ictItem", ctx_r30.currentFormData);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r30.navIndex === ctx_r30.formConfig.length - 1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("saveAsInfo", _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpureFunction0"](2, _c3))("ictItem", ctx_r41.currentFormData);
 } }
 function ArtFormTemplateComponent_div_4_Template(rf, ctx) { if (rf & 1) {
-    const _r35 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    const _r47 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 24)(1, "div")(2, "art-button", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_Template_art_button_click_2_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r35); const ctx_r34 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r34.navBackForm()); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_Template_art_button_click_2_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r47); const ctx_r46 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r46.navBackForm()); });
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](3, "art-button", 26);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("click", function ArtFormTemplateComponent_div_4_Template_art_button_click_3_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r35); const ctx_r36 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r36.navNextForm()); });
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, ArtFormTemplateComponent_div_4_div_4_Template, 3, 4, "div", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](3, ArtFormTemplateComponent_div_4_art_button_3_Template, 1, 1, "art-button", 26);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, ArtFormTemplateComponent_div_4_button_4_Template, 2, 1, "button", 27);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](5, ArtFormTemplateComponent_div_4_div_5_Template, 2, 3, "div", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("disabled", ctx_r2.navIndex === 0)("buttonData", ctx_r2.backButton);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("disabled", ctx_r2.navIndex > ctx_r2.formConfig.length - 2)("buttonData", ctx_r2.nextButton);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r2.navIndex <= ctx_r2.formConfig.length - 2);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r2.navIndex === ctx_r2.formConfig.length - 1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r2.formConfig[0].formButtons.submit);
 } }
@@ -3847,6 +3931,10 @@ class ArtFormTemplateComponent {
             sideNavItems: [],
             activeId: 0
         };
+        /**
+         * Used to trigger an component to run ngOnchange when an object was been updated but not flagged by angular
+         */
+        this.eltUpdated = false;
         /**
          * @description This input from the parent will provide all the configuration for the forms and elements which will be created
          * @type FormTemplateInterface
@@ -3912,10 +4000,13 @@ class ArtFormTemplateComponent {
             this.formCompletetion.push(false);
             //Only for debugging TOBE REMOVED
             this.formList[outerIndex].valueChanges.subscribe((data) => {
-                this.updateDownloadData();
-                //Loop all the field and display any elements which are needed based on the user answer
-                this.autoDisplayFields(outerIndex);
-                this.sideNavConfig();
+                //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
+                setTimeout(() => {
+                    this.updateDownloadData();
+                    //Loop all the field and display any elements which are needed based on the user answer
+                    this.autoDisplayFields(outerIndex);
+                    this.sideNavConfig();
+                }, 1000);
             });
             //create controls elements for each form
             eachConfig.formElements.forEach((eachFormElement, index) => {
@@ -3936,6 +4027,82 @@ class ArtFormTemplateComponent {
                 this.formList[outerIndex].disable();
         });
         this.sideNavConfig();
+    }
+    /**
+     *
+     * @param elt
+     * @type any
+     * @param outerIndex
+     * @description Capture the element the user click on and call the clearHiddenElts to clear and hide any other element which might be open on other options
+     */
+    onElementClick(elt, outerIndex) {
+        //Parent control of the element selected
+        const parentControl = this.formConfig[outerIndex].formElements.find(data => {
+            const result = data.options?.find(eachOption => {
+                return eachOption.controlName === elt.controlName;
+            });
+            return result;
+        });
+        //Except the option the user clicked on, all other option children will be clear out and hidden until the children element has done as next property "done" 
+        this.clearHiddenElts(outerIndex, parentControl, elt.controlName);
+    }
+    /**
+     * @description To check if an object has any value which is true
+     * @param obj
+     * @returns boolean
+     */
+    objectNotNull(obj) {
+        // If itis not an object, for the text element
+        if (obj === null)
+            return false;
+        const keys = Object.keys(obj);
+        const data = keys.filter(eachKey => {
+            return obj[eachKey];
+        });
+        return data.length > 0;
+    }
+    /**
+     * @description from the list of all the formElement, it should return the formElement based on the controlName and index of the Form
+     * @param index
+     * @param controlName
+     * @returns FormElement | undefined
+     */
+    findFormElement(index, controlName) {
+        return this.formConfig[index].formElements.find(eachElt => eachElt.controlName === controlName);
+    }
+    /**
+     * @description from the group element all the children of each element will be cleared and hidden except the element the user just selected.
+     * @param index
+     * @param parentElt
+     * @param eltSelectedName
+     */
+    clearHiddenElts(index, parentElt, eltSelectedName) {
+        const parentControl = this.formList[index].get(parentElt.controlName);
+        const vals = parentControl.value;
+        // at least a  value should not be null on the current element
+        if (this.objectNotNull(vals) || eltSelectedName === "" || (vals === null && parentElt?.elementType === src_app_shared_models_form_element_interface__WEBPACK_IMPORTED_MODULE_0__.ElementType.text)) { //for recursion, because the children of children will not be selected
+            //the parent has many option, we watn to cancel all next of each option
+            parentElt.options.forEach(parentOption => {
+                const nextElt = parentOption.next;
+                const tempFormElt = this.findFormElement(index, nextElt);
+                // If it is a different control name than the one selected or eltSelectedName is null for children based on recursion and it should not be the last item and shouldn't be hidden
+                if ((parentOption.controlName !== eltSelectedName || eltSelectedName === "") && nextElt !== 'done' && tempFormElt?.hidden === false) {
+                    // Clearing all the data for the other option child
+                    this.formList[index].get(nextElt)?.reset();
+                    // Going to all the formElement
+                    this.formConfig[index].formElements.forEach(eachElement => {
+                        //If the element matching the next element
+                        if (eachElement.controlName === nextElt) {
+                            // WE should hide that element and enable any element which might have been disabled
+                            eachElement.hidden = true;
+                            this.formList[index].get(eachElement.controlName)?.enable();
+                            // check if any next of each options on the element hidden has a value
+                            this.clearHiddenElts(index, tempFormElt, "");
+                        }
+                    });
+                }
+            });
+        }
     }
     /**
      * @description to auto display controls on the form
@@ -3965,6 +4132,13 @@ class ArtFormTemplateComponent {
                     values.forEach((eachVal, indexVal) => {
                         // Storing the list of all the elements the users interacted with. for radio or checkbox
                         eltSelected.push(eachElement.options.find((elt, index) => elt.value === eachVal || elt.controlName === allKeys[indexVal]));
+                        //Parent control of the element selected
+                        const parentControl = this.formConfig[outerIndex].formElements.find(data => {
+                            const result = data.options?.find(eachOption => {
+                                return eachOption.controlName === eltSelected[0].controlName;
+                            });
+                            return result;
+                        });
                         //Based on the element selected, capture the next value and setting it to visible
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
                             if (eltSelected[indexVal] && eltSelected[indexVal].next && elt.controlName.includes(eltSelected[indexVal].next)) {
@@ -4047,6 +4221,8 @@ class ArtFormTemplateComponent {
      * @return void
      */
     updateDownloadData() {
+        //this is updated whenever the object is updated so the other component can render that object update
+        this.eltUpdated = !this.eltUpdated;
         if (this.ictItemService.get() && this.ictItemService.get()[this.navIndex] && this.formList[this.navIndex] && this.formList[this.navIndex].value) {
             this.currentFormData = {
                 name: this.ictItemService.get()[this.navIndex].name,
@@ -4090,6 +4266,9 @@ class ArtFormTemplateComponent {
         });
         return ids;
     }
+    /**
+     * @description Windows scroll listener for set current side menu link as active.
+     */
     onWindowScroll() {
         const allSections = document.querySelectorAll(`.form-section`);
         let currLink = -1;
@@ -4104,12 +4283,12 @@ class ArtFormTemplateComponent {
 ArtFormTemplateComponent.ɵfac = function ArtFormTemplateComponent_Factory(t) { return new (t || ArtFormTemplateComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](_angular_forms__WEBPACK_IMPORTED_MODULE_9__.FormBuilder), _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_10__.Router), _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__.IctItemService)); };
 ArtFormTemplateComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdefineComponent"]({ type: ArtFormTemplateComponent, selectors: [["art-form-template"]], hostBindings: function ArtFormTemplateComponent_HostBindings(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("scroll", function ArtFormTemplateComponent_scroll_HostBindingHandler() { return ctx.onWindowScroll(); }, false, _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresolveWindow"]);
-    } }, inputs: { formConfig: "formConfig", scanChange: "scanChange", pageIndex: "pageIndex" }, outputs: { formData: "formData", pageNumber: "pageNumber" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵNgOnChangesFeature"]], decls: 5, vars: 3, consts: [[1, "grid-row"], ["class", "tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6", 4, "ngIf"], [1, "tablet:grid-col-8", "tablet:margin-bottom-0"], [3, "ngClass", 4, "ngFor", "ngForOf"], ["class", "ogp-flex", 4, "ngIf"], [1, "tablet:grid-col-3", "margin-bottom-3", "tablet:margin-bottom-0", "tablet:margin-right-6"], [3, "sideMenu"], [3, "ngClass"], [3, "formGroup", "hidden", "ngSubmit"], [1, "grid-row", 3, "hidden", "ngClass"], ["class", "form-section", 3, "id", 4, "ngFor", "ngForOf"], ["aria-label", "Add an ICT Item", "class", "usa-button usa-button--accent-warm art-add-btn", "type", "submit", 3, "disabled", "id", 4, "ngIf"], [1, "form-section", 3, "id"], ["class", "font-sans-lg  margin-bottom-2", 3, "ngClass", 4, "ngIf"], ["class", "margin-top-2", 4, "ngIf"], [1, "font-sans-lg", "margin-bottom-2", 3, "ngClass"], [1, "margin-top-2"], [3, "formData", "hidden", "control", 4, "ngIf"], [4, "ngIf"], [3, "formData", "formGroup", "hidden", 4, "ngIf"], [3, "formData", "hidden", "control"], [3, "formData", "hidden", "formGroup"], [3, "formData", "formGroup", "hidden"], ["aria-label", "Add an ICT Item", "type", "submit", 1, "usa-button", "usa-button--accent-warm", "art-add-btn", 3, "disabled", "id"], [1, "ogp-flex"], [1, "", 3, "disabled", "buttonData", "click"], [3, "disabled", "buttonData", "click"], ["class", "", 4, "ngIf"], [1, ""], [3, "saveAsInfo", "ictItem"], ["class", "usa-button usa-button--accent-warm", "type", "submit", 3, "disabled", "click", 4, "ngIf"], ["type", "submit", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "click"]], template: function ArtFormTemplateComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, inputs: { formConfig: "formConfig", scanChange: "scanChange", pageIndex: "pageIndex" }, outputs: { formData: "formData", pageNumber: "pageNumber" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵNgOnChangesFeature"]], decls: 5, vars: 3, consts: [[1, "grid-row"], ["class", "tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6", 4, "ngIf"], [1, "tablet:grid-col-8", "tablet:margin-bottom-0"], [3, "ngClass", 4, "ngFor", "ngForOf"], ["class", "ogp-flex", 4, "ngIf"], [1, "tablet:grid-col-3", "margin-bottom-3", "tablet:margin-bottom-0", "tablet:margin-right-6"], [3, "sideMenu"], [3, "ngClass"], [3, "formGroup", "hidden", "ngSubmit"], [1, "grid-row", 3, "hidden", "ngClass"], ["class", "form-section", 3, "id", 4, "ngFor", "ngForOf"], ["aria-label", "Add an ICT Item", "class", "usa-button usa-button--accent-warm art-add-btn", "type", "submit", 3, "disabled", "id", 4, "ngIf"], [1, "form-section", 3, "id"], ["class", "font-sans-lg  margin-bottom-2", 3, "ngClass", 4, "ngIf"], ["class", "margin-top-2", 4, "ngIf"], [1, "font-sans-lg", "margin-bottom-2", 3, "ngClass"], [1, "margin-top-2"], [3, "formData", "hidden", "control", "eltClicked", 4, "ngIf"], [4, "ngIf"], [3, "formData", "formGroup", "dataUpdated", "eltClicked", 4, "ngIf"], [3, "formData", "hidden", "control", "eltClicked"], [3, "formData", "hidden", "formGroup", "eltClicked"], [3, "formData", "formGroup", "dataUpdated", "eltClicked"], ["aria-label", "Add an ICT Item", "type", "submit", 1, "usa-button", "usa-button--accent-warm", "art-add-btn", 3, "disabled", "id"], [1, "ogp-flex"], [1, "", 3, "disabled", "buttonData", "click"], [3, "buttonData", "click", 4, "ngIf"], ["class", "usa-button usa-button--accent-warm", "type", "submit", 3, "disabled", "click", 4, "ngIf"], ["class", "", 4, "ngIf"], [3, "buttonData", "click"], ["type", "submit", 1, "usa-button", "usa-button--accent-warm", 3, "disabled", "click"], [1, ""], [3, "saveAsInfo", "ictItem"]], template: function ArtFormTemplateComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](1, ArtFormTemplateComponent_div_1_Template, 2, 1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](2, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](3, ArtFormTemplateComponent_div_3_Template, 6, 14, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, ArtFormTemplateComponent_div_4_Template, 5, 5, "div", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, ArtFormTemplateComponent_div_4_Template, 6, 5, "div", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
@@ -4206,6 +4385,16 @@ module.exports = JSON.parse('{"getStarted":{"label":"Get Started","description":
 
 /***/ }),
 
+/***/ 6421:
+/*!*************************************************!*\
+  !*** ./src/assets/data/comp-hardware-keys.json ***!
+  \*************************************************/
+/***/ ((module) => {
+
+module.exports = JSON.parse('["hardware-server","hardware-tablet","hardware-printer","hardware-multi-func","hardware-peripheral","hardware-kiosk","hardware-mobile","hardware-video-telecon","hardware-video-monitor"]');
+
+/***/ }),
+
 /***/ 3761:
 /*!*************************************!*\
   !*** ./src/assets/data/footer.json ***!
@@ -4282,7 +4471,7 @@ module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>April 2
   \*************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup","controlName":"sol-type","formSection":"Solicitation Type","title":"","label":"Select any of the options below","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","hidden":false,"value":"","options":[{"elementType":"radioButton","controlName":"proj-plan","label":"Project Planning","description":"I want to identify the applicable Section 508 standards I need to address during project planning","value":"red","validations":[],"next":"ict-group","formSection":""},{"elementType":"radioButton","controlName":"mark-research","label":"Market Research","description":"I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for information (RFI).","value":"green","validations":[],"next":"ict-mark-research-group","formSection":""},{"elementType":"radioButton","controlName":"solic-dev","label":"Solicitation Development","description":"I want to obtain Section 508 requirements to include in my statement of work","value":"blue","validations":[],"next":"ict-group","formSection":""}]},{"elementType":"checkboxGroup","controlName":"ict-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchased ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"exemptions-group","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none","validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"ict-mark-research-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod-mr","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchased ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"done","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv-mr","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none-mr","validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"exemptions-group","formSection":"Exemptions & Exceptions","title":"","hidden":true,"label":"","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"No exemptions apply","description":"","value":false,"controlName":"excep-none","validations":[],"next":"elec-group","formSection":"","onlyOption":true},{"elementType":"checkbox","label":"National Security Exemption","description":"Check if your system qualifies as a <a href=\'https://www.govinfo.gov/content/pkg/USCODE-2014-title40/pdf/USCODE-2014-title40-subtitleIII-chap111-sec11103.pdf\' target=\'_blank\' >national security system</a>","value":false,"controlName":"excep-nat-sec","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"ICT Functions Located in Maintenance and Monitoring Spaces Exception","description":"","value":false,"controlName":"excep-mon-spa","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Fundamental Alteration Exception","description":"","value":false,"controlName":"excep-alter","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Federal Contracts Exception","description":"This is not a common exception applied to procurement**","value":false,"controlName":"excep-fed-con","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Undue Burden Exception","description":"","value":false,"controlName":"excep-und-bur","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"I don’t have one / I don’t know","description":"","value":false,"controlName":"excep-idk","validations":[],"next":"elec-group","formSection":"","onlyOption":true}]},{"elementType":"text","controlName":"excep-nbr","label":"Exemptions Authorization Number","title":"Please provide an Exemption Authorization Number, if any:","placeholder":"--- -- ----","hidden":true,"description":"For example, 123 45 6789","errorMessages":{"maxlength":"The maximum length has exceeded 9"},"validations":[],"next":"elec-group","formSection":"","value":"","options":[]},{"elementType":"radioButtonGroup","formSection":"Does your solicitation include electronic content?","menuItem":"Electronic Content","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-group","validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"elec-yes","controlName":"elec-yes","validations":[],"next":"elec-web-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"elec-no","controlName":"elec-no","validations":[],"next":"elec-web-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"","title":"Will this electronic content be made available through a website?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-web-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-website-yes","controlName":"content-website-yes","validations":[],"next":"content-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-website-no","controlName":"content-website-no","validations":[],"next":"content-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"Is your product public facing?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"content-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-public-yes","controlName":"content-public-yes","validations":[],"next":"agency-comm","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-public-no","controlName":"content-public-yes","validations":[],"next":"agency-comm","formSection":""}]},{"elementType":"radioButtonGroup","title":"Is your product agency official communication?","label":"i.e. emergency notification, educational or training material, program or policy announcement, a survey questionnaire, etc.","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"agency-comm","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"comm-yes","controlName":"comm-yes","validations":[],"next":"software-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"comm-no","controlName":"comm-no","validations":[],"next":"software-group","formSection":"","info":"Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4."}]},{"elementType":"checkboxGroup","controlName":"software-group","formSection":"Are you purchasing any software items, deliverables, or licenses?","menuItem":"Software","title":"","hidden":true,"label":"<i>Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</i><br><br>(Check all that apply)","placeholder":"","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Web, desktop, server, mobile client applications","title":"","placeholder":"","description":"Time and attendance software<br>DHS productivity applications<br>Web forms/applications<br>Call Center Support applications<br>Workflow applications<br>Content management systems<br>Learning management systems<br>","errorMessages":{},"controlName":"software-web-app","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software authoring tools and platforms","title":"","placeholder":"","description":"Microsoft Office<br>Adobe Acrobat Professional<br>Adobe InDesign<br>PDF Generators and Converters<br>Graphing and Charting Programs<br>","errorMessages":{},"controlName":"software-auth-tool","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software Infrastructure","title":"","placeholder":"","description":"Operating Systems<br>Browsers<br>Systems/network administration software<br>Remote access software<br>User authentication software<br>Virtual meeting tools<br>","errorMessages":{},"controlName":"software-infra","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Other","title":"","placeholder":"","description":"","errorMessages":{},"controlName":"software-other","validations":[],"next":"hardware-group","formSection":"","value":false,"options":[],"onlyOption":false},{"elementType":"checkbox","label":"None of the above","title":"","placeholder":"","description":"","errorMessages":{},"controlName":"software-none","validations":[],"next":"hardware-group","formSection":"","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"soft-criteria-group","formSection":"","title":"Does the software meet any of the following criteria?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Does not have an end-user interface (i.e. user screens)","description":"","value":false,"controlName":"soft-no-user-interface","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"Principal function is assistive technology","description":"","value":false,"controlName":"soft-assistive","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"I don’t know","description":"","value":false,"controlName":"soft-idk","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"soft-none","validations":[],"next":"hardware-group","formSection":"","onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"soft-serv-group","formSection":"","title":"Will the software be provided through any of the following types of cloud services agreements? (Check all that apply)","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Software as a Service (SaaS)","description":"","value":false,"controlName":"soft-serv-saas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"Platform as a Service (PaaS)","description":"","value":false,"controlName":"soft-serv-paas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"Other Cloud Services arrangement","description":"","value":false,"controlName":"soft-serv-other","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"I don’t know","description":"","value":false,"controlName":"soft-serv-idk","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"None of the above","description":"","value":false,"controlName":"soft-serv-none","validations":[],"next":"hardware-group","formSection":"","onlyOption":true}]},{"elementType":"radioButtonGroup","controlName":"soft-web-group","formSection":"","title":"Will this software be accessible through a web browser?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"soft-web-yes","controlName":"soft-web-yes","validations":[],"next":"soft-create-group","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"soft-web-no","controlName":"soft-web-no","validations":[],"next":"soft-create-group","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"soft-create-group","formSection":"","title":"Will this software be used to create electronic content (e.g. an authoring tool that is used to create HTML pages, reports, surveys, charts, dashboards, etc.)?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"soft-create-yes","controlName":"soft-create-yes","validations":[],"next":"hardware-group","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"soft-create-no","controlName":"soft-create-no","validations":[],"next":"hardware-group","formSection":""}]},{"elementType":"checkboxGroup","menuItem":"Hardware","title":"","hidden":true,"label":"Where components of ICT are hardware and transmit information or have a user interface, such components shall conform to the requirements in Chapter 4. Hardware is considered a tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards.","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"hardware-group","validations":["required"],"next":"","formSection":"Are you purchasing any hardware items, deliverables, or licenses?","value":"","options":[{"elementType":"radioButton","label":"Computers and laptops","description":"","value":false,"controlName":"hardware-computer","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Tablet","description":"","value":false,"controlName":"hardware-tablet","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Printers, scanners, or copiers","description":"","value":false,"controlName":"hardware-printer","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Multi-function office machines","description":"","value":false,"controlName":"hardware-multi-func","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Peripheral equipment (i.e. keyboard, mouse)","description":"","value":false,"controlName":"hardware-peripheral","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Information kiosks and transaction machines","description":"","value":false,"controlName":"hardware-kiosk","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Mobile phones","description":"","value":false,"controlName":"hardware-mobile","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Video teleconference equipment","description":"","value":false,"controlName":"hardware-video-telecon","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Video displays or monitors","description":"","value":false,"controlName":"hardware-video-monitor","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Servers","description":"","value":false,"controlName":"hardware-server","validations":[],"next":"server-iaas-group","formSection":""},{"elementType":"radioButton","label":"Other","description":"","value":false,"controlName":"hardware-other","validations":[],"next":"done","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"server-iaas-group","formSection":"","title":"","hidden":true,"label":"Will the server require physical installation or is provided through an Infrastructure as a Service (IaaS) agreement?","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"server-iaas-yes","controlName":"server-iaas-yes","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"server-iaas-no","controlName":"server-iaas-no","validations":[],"next":"done","formSection":""}]}],"formButtons":{"submit":"Continue "},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup","controlName":"sol-type","formSection":"Solicitation Type","title":"","label":"Select any of the options below","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","hidden":false,"value":"","options":[{"elementType":"radioButton","controlName":"proj-plan","label":"Project Planning","description":"I want to identify the applicable Section 508 standards I need to address during project planning","value":"red","validations":[],"next":"ict-group","formSection":""},{"elementType":"radioButton","controlName":"mark-research","label":"Market Research","description":"I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for information (RFI).","value":"green","validations":[],"next":"ict-mark-research-group","formSection":""},{"elementType":"radioButton","controlName":"solic-dev","label":"Solicitation Development","description":"I want to obtain Section 508 requirements to include in my statement of work","value":"blue","validations":[],"next":"ict-group","formSection":""}]},{"elementType":"checkboxGroup","controlName":"ict-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchased ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"exemptions-group","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none","validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"ict-mark-research-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod-mr","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchased ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"done","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv-mr","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none-mr","validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"exemptions-group","formSection":"Exemptions & Exceptions","title":"","hidden":true,"label":"","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"No exemptions apply","description":"","value":false,"controlName":"excep-none","validations":[],"next":"elec-group","formSection":"","onlyOption":true},{"elementType":"checkbox","label":"National Security Exemption","description":"Check if your system qualifies as a <a href=\'https://www.govinfo.gov/content/pkg/USCODE-2014-title40/pdf/USCODE-2014-title40-subtitleIII-chap111-sec11103.pdf\' target=\'_blank\' >national security system</a>","value":false,"controlName":"excep-nat-sec","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"ICT Functions Located in Maintenance and Monitoring Spaces Exception","description":"","value":false,"controlName":"excep-mon-spa","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Fundamental Alteration Exception","description":"","value":false,"controlName":"excep-alter","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Federal Contracts Exception","description":"This is not a common exception applied to procurement**","value":false,"controlName":"excep-fed-con","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"Undue Burden Exception","description":"","value":false,"controlName":"excep-und-bur","validations":[],"next":"excep-nbr","formSection":""},{"elementType":"checkbox","label":"I don’t have one / I don’t know","description":"","value":false,"controlName":"excep-idk","validations":[],"next":"elec-group","formSection":"","onlyOption":true}]},{"elementType":"text","controlName":"excep-nbr","label":"Exemptions Authorization Number","title":"Please provide an Exemption Authorization Number, if any:","placeholder":"--- -- ----","hidden":true,"description":"For example, 123 45 6789","errorMessages":{"maxlength":"The maximum length has exceeded 9"},"validations":[],"next":"elec-group","formSection":"","value":"","options":[]},{"elementType":"radioButtonGroup","formSection":"Does your solicitation include electronic content?","menuItem":"Electronic Content","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-group","validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"elec-yes","controlName":"elec-yes","validations":[],"next":"elec-web-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"elec-no","controlName":"elec-no","validations":[],"next":"elec-web-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"","title":"Will this electronic content be made available through a website?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-web-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-website-yes","controlName":"content-website-yes","validations":[],"next":"content-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-website-no","controlName":"content-website-no","validations":[],"next":"content-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"Is your product public facing?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"content-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-public-yes","controlName":"content-public-yes","validations":[],"next":"agency-comm","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-public-no","controlName":"content-public-yes","validations":[],"next":"agency-comm","formSection":""}]},{"elementType":"radioButtonGroup","title":"Is your product agency official communication?","label":"i.e. emergency notification, educational or training material, program or policy announcement, a survey questionnaire, etc.","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"agency-comm","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"comm-yes","controlName":"comm-yes","validations":[],"next":"software-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"comm-no","controlName":"comm-no","validations":[],"next":"software-group","formSection":"","info":"Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4."}]},{"elementType":"checkboxGroup","controlName":"software-group","formSection":"Are you purchasing any software items, deliverables, or licenses?","menuItem":"Software","title":"","hidden":true,"label":"<i>Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</i><br><br>(Check all that apply)","placeholder":"","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Web, desktop, server, mobile client applications","title":"","placeholder":"","description":"Time and attendance software<br>DHS productivity applications<br>Web forms/applications<br>Call Center Support applications<br>Workflow applications<br>Content management systems<br>Learning management systems<br>","errorMessages":{},"controlName":"software-web-app","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software authoring tools and platforms","title":"","placeholder":"","description":"Microsoft Office<br>Adobe Acrobat Professional<br>Adobe InDesign<br>PDF Generators and Converters<br>Graphing and Charting Programs<br>","errorMessages":{},"controlName":"software-auth-tool","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software Infrastructure","title":"","placeholder":"","description":"Operating Systems<br>Browsers<br>Systems/network administration software<br>Remote access software<br>User authentication software<br>Virtual meeting tools<br>","errorMessages":{},"controlName":"software-infra","validations":[],"next":"soft-criteria-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Other","title":"","placeholder":"","description":"","errorMessages":{},"controlName":"software-other","validations":[],"next":"hardware-group","formSection":"","value":false,"options":[],"onlyOption":true},{"elementType":"checkbox","label":"None of the above","title":"","placeholder":"","description":"","errorMessages":{},"controlName":"software-none","validations":[],"next":"hardware-group","formSection":"","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"soft-criteria-group","formSection":"","title":"Does the software meet any of the following criteria?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Does not have an end-user interface (i.e. user screens)","description":"","value":false,"controlName":"soft-no-user-interface","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"Principal function is assistive technology","description":"","value":false,"controlName":"soft-assistive","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"I don’t know","description":"","value":false,"controlName":"soft-idk","validations":[],"next":"soft-serv-group","formSection":""},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"soft-none","validations":[],"next":"hardware-group","formSection":"","onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"soft-serv-group","formSection":"","title":"Will the software be provided through any of the following types of cloud services agreements? (Check all that apply)","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Software as a Service (SaaS)","description":"","value":false,"controlName":"soft-serv-saas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"Platform as a Service (PaaS)","description":"","value":false,"controlName":"soft-serv-paas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"Other Cloud Services arrangement","description":"","value":false,"controlName":"soft-serv-other","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"I don’t know","description":"","value":false,"controlName":"soft-serv-idk","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"radioButton","label":"None of the above","description":"","value":false,"controlName":"soft-serv-none","validations":[],"next":"hardware-group","formSection":"","onlyOption":true}]},{"elementType":"radioButtonGroup","controlName":"soft-web-group","formSection":"","title":"Will this software be accessible through a web browser?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"soft-web-yes","controlName":"soft-web-yes","validations":[],"next":"soft-create-group","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"soft-web-no","controlName":"soft-web-no","validations":[],"next":"soft-create-group","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"soft-create-group","formSection":"","title":"Will this software be used to create electronic content (e.g. an authoring tool that is used to create HTML pages, reports, surveys, charts, dashboards, etc.)?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"soft-create-yes","controlName":"soft-create-yes","validations":[],"next":"hardware-group","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"soft-create-no","controlName":"soft-create-no","validations":[],"next":"hardware-group","formSection":""}]},{"elementType":"checkboxGroup","menuItem":"Hardware","title":"","hidden":true,"label":"Where components of ICT are hardware and transmit information or have a user interface, such components shall conform to the requirements in Chapter 4. Hardware is considered a tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards.","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"hardware-group","validations":["required"],"next":"","formSection":"Are you purchasing any hardware items, deliverables, or licenses?","value":"","options":[{"elementType":"radioButton","label":"Computers and laptops","description":"","value":false,"controlName":"hardware-computer","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Tablet","description":"","value":false,"controlName":"hardware-tablet","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Printers, scanners, or copiers","description":"","value":false,"controlName":"hardware-printer","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Multi-function office machines","description":"","value":false,"controlName":"hardware-multi-func","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Peripheral equipment (i.e. keyboard, mouse)","description":"","value":false,"controlName":"hardware-peripheral","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Information kiosks and transaction machines","description":"","value":false,"controlName":"hardware-kiosk","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Mobile phones","description":"","value":false,"controlName":"hardware-mobile","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Video teleconference equipment","description":"","value":false,"controlName":"hardware-video-telecon","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Video displays or monitors","description":"","value":false,"controlName":"hardware-video-monitor","validations":[],"next":"done","formSection":""},{"elementType":"radioButton","label":"Servers","description":"","value":false,"controlName":"hardware-server","validations":[],"next":"server-iaas-group","formSection":""},{"elementType":"radioButton","label":"Other","description":"","value":false,"controlName":"hardware-other","validations":[],"next":"done","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"server-iaas-group","formSection":"","title":"","hidden":true,"label":"Will the server require physical installation or is provided through an Infrastructure as a Service (IaaS) agreement?","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Yes","description":"","value":"server-iaas-yes","controlName":"server-iaas-yes","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"No","description":"","value":"server-iaas-no","controlName":"server-iaas-no","validations":[],"next":"done","formSection":""}]}],"formButtons":{"submit":"Continue "},"clearForm":true,"disable":false}]');
 
 /***/ }),
 

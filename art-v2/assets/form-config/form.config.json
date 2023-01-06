@@ -490,7 +490,7 @@
                 "formSection": "",
                 "value": false,
                 "options": [],
-                "onlyOption": false
+                "onlyOption": true
               },
               {
                 "elementType":"checkbox",
