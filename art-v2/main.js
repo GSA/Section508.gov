@@ -508,6 +508,20 @@ class ArtDocxDownloadComponent {
      */
     parseList(list, ordered) {
         let ps = [];
+        ps = [...this.parseSubList(ps, list, ordered)];
+        return ps;
+    }
+    /**
+     * Parses lists and nested list into Docx elements.
+     *
+     * @param list
+     * @param ordered  Whether this list should be numbered or just bullet points
+     * @param childNumber nesting level or indexing level
+     * @param ps paragraph array
+     * @private
+     */
+    parseSubList(ps, list, ordered, childNumber = 0) {
+        //Lopping to child each node of the parent node
         for (let i = 0; i < list.children.length; i++) {
             let child = list.children[i];
             if (ordered) {
@@ -521,27 +535,31 @@ class ArtDocxDownloadComponent {
                 }));
             }
             else {
+                // If a child of the current node has a nested ol/ul
                 const olNode = this.findNode(child, 'UL');
-                //console.log('---> ',child.childNodes, olNode);
                 ps.push(new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({
                     children: this.parseText(Array.from(child.childNodes)),
                     style: 'default',
                     bullet: {
-                        level: 0
+                        level: childNumber // updating index number
                     },
                 }));
+                // If there is a nested ul
                 if (olNode) {
-                    console.log('---> ', child);
-                    console.log('---> children ', child.children);
-                    //console.log('---> ',child);
-                    this.parseList(child, false);
+                    childNumber++; // move on padding up
+                    this.parseSubList(ps, child.children[1], false, childNumber);
+                    childNumber--; // after the recurssion is done, go one padding down
                 }
             }
         }
-        if (ordered) {
-        }
         return ps;
     }
+    /**
+     * @description form a node, find if a child node has an UL node
+     * @param node
+     * @param nodeName
+     * @returns boolean
+     */
     findNode(node, nodeName) {
         let found = false;
         node.childNodes.forEach(eachNode => {
@@ -1275,7 +1293,6 @@ class SummaryPageComponent {
             //Populate step data indicator
             this.stepsData.tabs.push({ id: "0" + index, name: item.name });
             const langKeyWords = JSON.parse(JSON.stringify(item.langKeyWords));
-            console.log(langKeyWords);
             const langGenerated = this.art508LangService.get508Languages(langKeyWords) ? this.art508LangService.get508Languages(langKeyWords) : "<b>No Language can be generated based on your selection!</b>";
             //508MapoingService call for language
             this.languageGenerated.push("<p><h1>" + item.name + "</h1></p>\n" + langGenerated);
@@ -1418,11 +1435,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "TestComponent": () => (/* binding */ TestComponent)
 /* harmony export */ });
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ 2560);
 /* harmony import */ var src_app_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! src/app/shared/services/ict-item/ict-item.service */ 7719);
 /* harmony import */ var src_app_shared_services_art_test_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! src/app/shared/services/art-test.service */ 6674);
-/* harmony import */ var _shared_templates_art_form_template_art_form_template_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../shared/templates/art-form-template/art-form-template.component */ 1589);
-
 
 
 
@@ -1454,14 +1469,8 @@ class TestComponent {
         const val = data[key];
     }
 }
-TestComponent.ɵfac = function TestComponent_Factory(t) { return new (t || TestComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdirectiveInject"](src_app_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_0__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdirectiveInject"](src_app_shared_services_art_test_service__WEBPACK_IMPORTED_MODULE_1__.ArtTestService)); };
-TestComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdefineComponent"]({ type: TestComponent, selectors: [["app-test"]], decls: 1, vars: 2, consts: [[3, "formConfig", "scanChange", "formData"]], template: function TestComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](0, "art-form-template", 0);
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵlistener"]("formData", function TestComponent_Template_art_form_template_formData_0_listener($event) { return ctx.onFormSubmitted($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
-    } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵproperty"]("formConfig", ctx.formConfig)("scanChange", ctx.scanChange);
-    } }, dependencies: [_shared_templates_art_form_template_art_form_template_component__WEBPACK_IMPORTED_MODULE_2__.ArtFormTemplateComponent], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJ0ZXN0LmNvbXBvbmVudC5zY3NzIn0= */"] });
+TestComponent.ɵfac = function TestComponent_Factory(t) { return new (t || TestComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](src_app_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_0__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdirectiveInject"](src_app_shared_services_art_test_service__WEBPACK_IMPORTED_MODULE_1__.ArtTestService)); };
+TestComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({ type: TestComponent, selectors: [["app-test"]], decls: 0, vars: 0, template: function TestComponent_Template(rf, ctx) { }, styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJ0ZXN0LmNvbXBvbmVudC5zY3NzIn0= */"] });
 
 
 /***/ }),
