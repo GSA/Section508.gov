@@ -202,7 +202,8 @@
                     "value":false, 
                     "controlName":"excep-nat-sec",
                     "validations":[],
-                    "next":"excep-nbr",
+                    "next":"elec-group",
+                    "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
                 {
@@ -212,7 +213,8 @@
                     "value":false, 
                     "controlName":"excep-mon-spa",
                     "validations":[],
-                    "next":"excep-nbr",
+                    "next":"elec-group",
+                    "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
                 {
@@ -222,7 +224,8 @@
                     "value":false, 
                     "controlName":"excep-alter",
                     "validations":[],
-                    "next":"excep-nbr",
+                    "next":"elec-group",
+                    "additionalNext": ["excep-nbr"],
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -231,7 +234,8 @@
                     "value":false, 
                     "controlName":"excep-fed-con",
                     "validations":[],
-                    "next":"excep-nbr",
+                    "next":"elec-group",
+                    "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
                 {
@@ -241,7 +245,8 @@
                     "value":false, 
                     "controlName":"excep-und-bur",
                     "validations":[],
-                    "next":"excep-nbr",
+                    "next":"elec-group",
+                    "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
                 {
@@ -269,7 +274,7 @@
             "description": "For example, 123 45 6789",
             "errorMessages": {"maxlength":"The maximum length has exceeded 9"},
             "validations": [],
-            "next":"elec-group",
+            "next":"",
             "formSection": "",
             "value": "",
             "options": []
@@ -486,7 +491,7 @@
                 "errorMessages": {},
                 "controlName": "software-other",
                 "validations": [],
-                "next": "hardware-group",
+                "next": "soft-criteria-group",
                 "formSection": "",
                 "value": false,
                 "options": [],
@@ -530,7 +535,7 @@
                     "value":false, 
                     "controlName":"soft-no-user-interface",
                     "validations":[],
-                    "next":"soft-serv-group",
+                    "next":"hardware-group",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -539,7 +544,7 @@
                     "value":false,
                     "controlName":"soft-assistive",
                     "validations":[],
-                    "next":"soft-serv-group",
+                    "next":"hardware-group",
                     "formSection":""
                 },
                 {
@@ -549,6 +554,7 @@
                     "value":false, 
                     "controlName":"soft-idk",
                     "validations":[],
+                    "onlyOption": true,
                     "next":"soft-serv-group",
                     "formSection":""},
                 {
@@ -580,7 +586,7 @@
             "value": "",
             "options": [
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Software as a Service (SaaS)",
                     "description":"",
                     "value":false, 
@@ -589,7 +595,7 @@
                     "next":"soft-web-group",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Platform as a Service (PaaS)",
                     "description":"",
                     "value":false,
@@ -599,7 +605,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Other Cloud Services arrangement",
                     "description":"",
                     "value":false, 
@@ -608,7 +614,7 @@
                     "next":"soft-web-group",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"I don’t know",
                     "description":"",
                     "value":false, 
