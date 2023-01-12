@@ -624,7 +624,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"None of the above",
                     "description":"",
                     "value":false,
@@ -652,7 +652,7 @@
             "value": "",
             "options": [
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"Yes",
                     "description":"",
                     "value":"soft-web-yes", 
@@ -661,7 +661,7 @@
                     "next":"soft-create-group",
                     "formSection":""},
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"No",
                     "description":"",
                     "value":"soft-web-no",
@@ -689,7 +689,7 @@
             "value": "",
             "options": [
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"Yes",
                     "description":"",
                     "value":"soft-create-yes", 
@@ -698,7 +698,7 @@
                     "next":"hardware-group",
                     "formSection":""},
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"No",
                     "description":"",
                     "value":"soft-create-no",
@@ -726,7 +726,7 @@
             "value": "",
             "options": [
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Computers and laptops",
                     "description":"",
                     "value":false, 
@@ -735,7 +735,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Tablet",
                     "description":"",
                     "value":false,
@@ -745,7 +745,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Printers, scanners, or copiers",
                     "description":"",
                     "value":false,
@@ -755,7 +755,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Multi-function office machines",
                     "description":"",
                     "value":false, 
@@ -764,7 +764,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Peripheral equipment (i.e. keyboard, mouse)",
                     "description":"",
                     "value":false,
@@ -774,7 +774,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Information kiosks and transaction machines",
                     "description":"",
                     "value":false,
@@ -783,7 +783,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Mobile phones",
                     "description":"",
                     "value":false, 
@@ -792,7 +792,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Video teleconference equipment",
                     "description":"",
                     "value":false,
@@ -802,7 +802,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Video displays or monitors",
                     "description":"",
                     "value":false,
@@ -811,7 +811,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Servers",
                     "description":"",
                     "value":false,
@@ -821,7 +821,7 @@
                     "formSection":""
                 },
                 {
-                    "elementType":"radioButton",
+                    "elementType":"checkbox",
                     "label":"Other",
                     "description":"",
                     "value":false,
@@ -848,7 +848,7 @@
             "value": "",
             "options": [
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"Yes",
                     "description":"",
                     "value":"server-iaas-yes", 
@@ -857,7 +857,7 @@
                     "next":"done",
                     "formSection":""},
                 {
-                    "elementType":"checkbox",
+                    "elementType":"radioButton",
                     "label":"No",
                     "description":"",
                     "value":"server-iaas-no",
