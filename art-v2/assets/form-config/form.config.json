@@ -551,8 +551,7 @@
                 "next": "soft-serv-group",
                 "formSection": "",
                 "value": false,
-                "options": [],
-                "onlyOption": true
+                "options": []
               },
               {
                 "elementType":"checkbox",
@@ -621,7 +620,8 @@
                     "controlName":"soft-serv-idk",
                     "validations":[],
                     "next":"soft-web-group",
-                    "formSection":""
+                    "formSection":"",
+                    "onlyOption": true
                 },
                 {
                     "elementType":"checkbox",
