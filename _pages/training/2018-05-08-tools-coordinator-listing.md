@@ -260,7 +260,7 @@ Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
 Phillip	Wise (Acting)- <phillip.wise@ihs.gov>
 ### National Institutes of Health (NIH)
-VACANT
+Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
