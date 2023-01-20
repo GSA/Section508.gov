@@ -81,5 +81,6 @@
   "E602.3": "<p>    <strong>602.3 Electronic Support Documentation. </strong>Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).  </p>",
   "E602.4": "<p>    <strong>602.4 Alternate Formats for Non-Electronic Support Documentation. </strong>Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.  </p>",
   "E603.1": "<p>    <strong>603.1 General. </strong>ICT support services including, but not limited to, help desks, call centers, training services, and automated self-service technical support, shall conform to 603.  </p>",
-  "E603.2": "<p>    <strong>603.2 Information on Accessibility and Compatibility Features. </strong> ICT support services shall include information on the accessibility and compatibility features required by 602.2.  </p>"
+  "E603.2": "<p>    <strong>603.2 Information on Accessibility and Compatibility Features. </strong> ICT support services shall include information on the accessibility and compatibility features required by 602.2.  </p>",
+  "E603.3": "<p>    <strong>603.3 Accommodation of Communication Needs </strong> Support services shall be provided directly to the user or through a referral to a point of contact. Such ICT support services shall accommodate the communication needs of individuals with disabilities.</p>"
 }

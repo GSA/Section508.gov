@@ -168,7 +168,12 @@
     "E415.1"
   ],
   "hardware-other": ["E206.1"],
+  "hardware-none": ["E206.1"],
   "server-iaas-yes": ["E206.1"],
   "server-iaas-no": ["E206.1"],
-  "server-iaas-idk": ["E206.1"]
+  "server-iaas-idk": ["E206.1"],
+  "support-tech": ["E603.1", "E603.2", "E603.3"],
+  "support-call": ["E603.1", "E603.2", "E603.3"],
+  "support-doc":["E602.1", "E602.2", "E602.3", "E602.4"],
+  "support-train":["E603.1", "E603.2", "E603.3"]
 }
