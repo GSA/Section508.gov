@@ -496,7 +496,7 @@ Megan Rocus - 202-606-3127 - <megan.rocus@opm.gov>
 
 ----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration (SBA)
-VACANT
+Janice MacLean - 202-394-6541 - <janice.maclean@sba.gov>  
 
 ----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration (SSA)
