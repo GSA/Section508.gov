@@ -7,7 +7,7 @@
             "controlName": "sol-type",
             "formSection": "Solicitation Type",
             "title": "",
-            "label": "Select one of the options below",
+            "label": "Select any of the options below",
             "description": "",
             "placeholder":"",
             "errorMessages": {"required":"Select one option."},
@@ -197,17 +197,6 @@
                 },
                 {
                     "elementType":"checkbox",
-                    "label":"I don’t have one / I don’t know",
-                    "description":"",
-                    "value":false, 
-                    "controlName":"excep-idk",
-                    "validations":[],
-                    "next":"elec-group",
-                    "formSection":"",
-                    "onlyOption": true
-                },
-                {
-                    "elementType":"checkbox",
                     "label":"National Security Exemption",
                     "description":"Check if your system qualifies as a <a href='https://www.govinfo.gov/content/pkg/USCODE-2014-title40/pdf/USCODE-2014-title40-subtitleIII-chap111-sec11103.pdf' target='_blank' >national security system</a>",
                     "value":false, 
@@ -259,6 +248,17 @@
                     "next":"elec-group",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
+                },
+                {
+                    "elementType":"checkbox",
+                    "label":"I don’t have one / I don’t know",
+                    "description":"",
+                    "value":false, 
+                    "controlName":"excep-idk",
+                    "validations":[],
+                    "next":"elec-group",
+                    "formSection":"",
+                    "onlyOption": true
                 }
                 
             ]
@@ -732,7 +732,7 @@
                     "value":false, 
                     "controlName":"hardware-computer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -741,7 +741,7 @@
                     "value":false,
                     "controlName":"hardware-tablet",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 },
                 {
@@ -751,7 +751,7 @@
                     "value":false,
                     "controlName":"hardware-printer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 },
                 {
@@ -761,7 +761,7 @@
                     "value":false, 
                     "controlName":"hardware-multi-func",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -770,7 +770,7 @@
                     "value":false,
                     "controlName":"hardware-peripheral",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 },
                 {
@@ -780,7 +780,7 @@
                     "value":false,
                     "controlName":"hardware-kiosk",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -789,7 +789,7 @@
                     "value":false, 
                     "controlName":"hardware-mobile",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -798,7 +798,7 @@
                     "value":false,
                     "controlName":"hardware-video-telecon",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 },
                 {
@@ -808,7 +808,7 @@
                     "value":false,
                     "controlName":"hardware-video-monitor",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -827,7 +827,7 @@
                     "value":false,
                     "controlName":"hardware-other",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 },
                 {
@@ -838,7 +838,7 @@
                     "controlName":"hardware-none",
                     "onlyOption": true,
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""
                 }
             ]
@@ -866,7 +866,7 @@
                     "value":"server-iaas-yes", 
                     "controlName":"server-iaas-yes",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"done",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -875,90 +875,13 @@
                     "value":"server-iaas-no",
                     "controlName":"server-iaas-no",
                     "validations":[],
-                    "next":"support-doc-group",
-                    "formSection":""
-                },
-                {
-                    "elementType":"radioButton",
-                    "label":"I don't know",
-                    "description":"",
-                    "value":"server-iaas-idk",
-                    "controlName":"server-iaas-idk",
-                    "validations":[],
-                    "next":"support-doc-group",
-                    "formSection":""
-                }
-            ]
-        },
-        { 
-            "elementType":"checkboxGroup",
-            "title": "",
-            "hidden":true,
-            "label": "What ICT support documentation or service are your procuring?",
-            "placeholder":"",
-            "description": "",
-            "errorMessages": {"required":"Select one option."},
-            "controlName": "support-doc-group",
-            "validations": ["required"],
-            "next":"",
-            "formSection": "",
-            "value": "",
-            "options": [
-                {
-                    "elementType":"checkbox",
-                    "label":"Automated self-service & Technical support",
-                    "description":"",
-                    "value":false, 
-                    "controlName":"support-tech",
-                    "validations":[],
-                    "next":"done",
-                    "formSection":""},
-                {
-                    "elementType":"checkbox",
-                    "label":"Help Desk or Call service center",
-                    "description":"",
-                    "value":false,
-                    "controlName":"support-call",
-                    "validations":[],
-                    "next":"done",
-                    "formSection":""
-                },
-                {
-                    "elementType":"checkbox",
-                    "label":"Product documentation",
-                    "description":"",
-                    "value":false,
-                    "controlName":"support-doc",
-                    "validations":[],
-                    "next":"done",
-                    "formSection":""
-                },
-                {
-                    "elementType":"checkbox",
-                    "label":"Training Service",
-                    "description":"",
-                    "value":false, 
-                    "controlName":"support-train",
-                    "validations":[],
-                    "next":"done",
-                    "formSection":""},
-                {
-                    "elementType":"checkbox",
-                    "label":"None of the above",
-                    "description":"",
-                    "value":false,
-                    "controlName":"support-none",
-                    "validations":[],
                     "next":"done",
                     "formSection":""
                 }
-                
             ]
-      
         }
-
     ],
-        "formButtons": {"submit":"Get 508 Results"},
+        "formButtons": {"submit":"Continue "},
         "clearForm": true,
         "disable": false
     }
