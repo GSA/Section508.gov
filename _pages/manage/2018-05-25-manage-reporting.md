@@ -39,7 +39,7 @@ redirect_from:
   CFO Act agencies: A month before the reporting due date, GSA will send data submission information to each agency Section 508 Program Manager
 </li>
 <li dir="ltr">
-  Non-CFO Act agencies: A monthh before the reporting due date, GSA will send data submission information to Section 508 Program Managers with agencies who have previously reported
+  Non-CFO Act agencies: A month before the reporting due date, GSA will send data submission information to Section 508 Program Managers with agencies who have previously reported
 </li>
 <li dir="ltr">
   Other federal agencies that wish to submit a report should email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to request access to the reporting system
