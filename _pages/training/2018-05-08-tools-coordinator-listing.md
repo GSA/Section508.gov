@@ -339,18 +339,18 @@ Angie Harsh - 303-969-5197 - <angie_harsh@ibc.doi.gov>
 ### National Park Service (NPS)
 Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
-VACANT
+Rashee Nelson - 202-208-5412 - <rashee_nelson@doioig.gov>  
 ### Office of Navajo & Hopi Indian Relocation
 Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement
-Sid Sharma - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
+John Pak - 202-208-2864 - <jpak@osmre.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
 Keon Sheffield - 303-275-2319 - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
-Edward Olexa - <section508@usgs.gov>  
+Sid Sharma (Acting) - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
