@@ -1,6 +1,6 @@
 { 
     "getStarted":{
-        "label": "Get Started", 
+        "label": "Select to get started", 
         "description": "Get Started Description", 
         "destination": "/ict-listing-page"
     },
