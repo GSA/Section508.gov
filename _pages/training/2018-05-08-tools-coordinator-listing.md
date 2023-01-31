@@ -1,11 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: tools/coordinator-listing/
+permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your 508 Program Manager'
 created: 1525805876
 redirect_from:
+- tools/coordinator-listing/
 - 508-coordinator-listing/
 - content/coordinator-listing/
 ---
