@@ -16,7 +16,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr"><a href="#user-controls">User Controls for Captions and Audio Descriptions</a></li>
 <li dir="ltr"><a href="#resources">Resources</a></li>
 </ul>
-<p dir="ltr">Reach out to your agency <a href="{{site.baseurl}}/tools/coordinator-listing">Section 508 Program Manager</a> or to the Government-wide IT Accessibility Program if you have any additional questions.</p>
+<p dir="ltr">Reach out to your agency <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a> or to the Government-wide IT Accessibility Program if you have any additional questions.</p>
 <h2 id="training-videos">Training Videos</h2>
 <hr />
 <div class="grid-row grid-gap">

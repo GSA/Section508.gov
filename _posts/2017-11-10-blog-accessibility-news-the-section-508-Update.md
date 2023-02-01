@@ -63,5 +63,5 @@ Contact the Government-wide Accessibility Team at <section.508@gsa.gov> with que
  [4]: {{site.baseurl}}/manage/laws-and-policies
  [5]: http://www.w3.org/TR/WCAG20/
  [6]: https://gsa.gov/portal/content/104550
- [7]: {{site.baseurl}}/tools/coordinator-listing
+ [7]: {{site.baseurl}}/tools/program-manager-listing/
  [8]: https://www.access-board.gov/ict/wcag2ict.html
