@@ -190,7 +190,7 @@ Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
-VACANT  
+Claudia Guidi - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 James O. Taylor - <james.o.taylor52.civ@mail.mil>  
