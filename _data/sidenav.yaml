@@ -43,7 +43,7 @@ manage:
       - name: Join the 508 community
         url: manage/join-the-508-community/
       - name: Find your Program Manager
-        url: tools/coordinator-listing/
+        url: tools/program-manager-listing/
       - name: Accessibility Reporting
         url: '#'
         grandchildren:
@@ -57,7 +57,7 @@ manage:
             url: manage/reporting/guidelines-program-maturity/
           - name: Roll Up Agency Accessibility Metrics
             url: manage/reporting/guidelines-roll-up-metrics/
-          - name: OMB Reporting Questions
+          - name: Reporting Questions
             url: manage/reporting/questions/
   - name: Law and Policy
     url: '#'
@@ -285,7 +285,7 @@ training:
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
       - name: Find Your 508 Program Manager
-        url: 'tools/coordinator-listing/'
+        url: 'tools/program-manager-listing/'
       - name: View a Playbook
         url: 'tools/playbooks/'
       - name: Glossary of Terms
