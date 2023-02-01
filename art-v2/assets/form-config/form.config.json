@@ -373,7 +373,7 @@
                     "value":"content-public-yes", 
                     "controlName":"content-public-yes",
                     "validations":[],
-                    "next":"agency-comm",
+                    "next":"soft-criteria-group",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
