@@ -90,7 +90,7 @@ Tania	Jones - <tania.jones@usda.gov>
 ### Office of the Chief Economist (OCE)
 Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
 ### Office of the Chief Financial Officer (OCFO)
-Ityran Taylor - <ityran.taylor@usda.gov>
+Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 ### Office of the Chief Information Officer
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
@@ -356,7 +356,7 @@ Sid Sharma (Acting) - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
-Robert J. Houser - <robert.j.houser@usdoj.gov>  
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>    
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
 Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
@@ -561,6 +561,7 @@ Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
+Jasit Matharu - 202-864-8582 - <jasjit.matharu@frtib.gov>  
 FRTIB Helpdesk - <508compliance@frtib.gov>  
 
 <span id="G" ></span>
