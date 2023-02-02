@@ -6,13 +6,14 @@
         "label": "",
         "title": "",
         "placeholder":"Please enter an ICT Item",
-        "description": "",
+        "description": "Do not exceed 25 characters and 8 ICTs",
         "errorMessages": {"maxlength":"The maximum length has exceeded 25"},
         "controlName": "ictItemTextfield1",
         "validations": [ "required", "maxLength(25)"],
         "next":"",
-        "formSection": "What is the name of your procurement?",
+        "formSection": "",
         "value": "",
+        "hidden":false,
         "options": []
         }
     ],
