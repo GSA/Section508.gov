@@ -2086,6 +2086,7 @@ function ArtTextFieldComponent_label_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("for", "input" + ctx_r0.fromControl);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx_r0.formData == null ? null : ctx_r0.formData.label);
 } }
@@ -2134,17 +2135,17 @@ class ArtTextFieldComponent {
     }
 }
 ArtTextFieldComponent.ɵfac = function ArtTextFieldComponent_Factory(t) { return new (t || ArtTextFieldComponent)(); };
-ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: ArtTextFieldComponent, selectors: [["art-text-field"]], inputs: { formData: "formData", control: "control", hidden: "hidden" }, decls: 8, vars: 14, consts: [[1, "usa-form-group", 3, "ngClass", "hidden"], [1, "margin-bottom-0"], ["class", "usa-label ", "for", "input", 4, "ngIf"], ["class", "usa-checkbox__label-description usa-hint", 4, "ngIf"], ["class", "usa-error-message", "role", "alert", "for", "input-error", 4, "ngIf"], ["autocomplete", "off", "name", "input", 1, "usa-input", 3, "ngClass", "placeholder", "formControl"], ["for", "input", 1, "usa-label"], [1, "usa-checkbox__label-description", "usa-hint"], ["role", "alert", "for", "input-error", 1, "usa-error-message"]], template: function ArtTextFieldComponent_Template(rf, ctx) { if (rf & 1) {
+ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: ArtTextFieldComponent, selectors: [["art-text-field"]], inputs: { formData: "formData", control: "control", hidden: "hidden" }, decls: 8, vars: 15, consts: [[1, "usa-form-group", 3, "ngClass", "hidden"], [1, "margin-bottom-0"], ["class", "usa-label ", 3, "for", 4, "ngIf"], ["class", "usa-checkbox__label-description usa-hint", 4, "ngIf"], ["class", "usa-error-message", "role", "alert", "for", "input-error", 4, "ngIf"], ["autocomplete", "off", "name", "input", 1, "usa-input", 3, "ngClass", "id", "placeholder", "formControl"], [1, "usa-label", 3, "for"], [1, "usa-checkbox__label-description", "usa-hint"], ["role", "alert", "for", "input-error", 1, "usa-error-message"]], template: function ArtTextFieldComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "b");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, ArtTextFieldComponent_label_4_Template, 2, 1, "label", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, ArtTextFieldComponent_label_4_Template, 2, 2, "label", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](5, ArtTextFieldComponent_span_5_Template, 2, 1, "span", 3);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](6, ArtTextFieldComponent_span_6_Template, 2, 1, "span", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](7, "input", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](10, _c0, ctx.displayError()))("hidden", ctx.hidden);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](11, _c0, ctx.displayError()))("hidden", ctx.hidden);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.formData == null ? null : ctx.formData.title);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
@@ -2154,7 +2155,7 @@ ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngIf", ctx.displayError());
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](12, _c1, ctx.displayError()))("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](13, _c1, ctx.displayError()))("id", "input" + ctx.fromControl)("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵattribute"]("aria-label", ctx.formData == null ? null : ctx.formData.placeholder);
     } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.DefaultValueAccessor, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.NgControlStatus, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControlDirective], styles: ["input[_ngcontent-%COMP%], .usa-error-message[_ngcontent-%COMP%] {\n  width: 15rem;\n}\n\n.usa-form-group[_ngcontent-%COMP%] {\n  margin-top: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtBQUNKIiwiZmlsZSI6ImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaW5wdXQsIC51c2EtZXJyb3ItbWVzc2FnZXtcbiAgICB3aWR0aDogMTVyZW07XG59XG5cbi51c2EtZm9ybS1ncm91cHtcbiAgICBtYXJnaW4tdG9wOiAwcHg7XG59XG4iXX0= */"] });
 var ErrorText;
