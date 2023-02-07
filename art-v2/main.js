@@ -2293,7 +2293,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function FileUploadComponent_span_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "span", 15);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1, "Select JSON files. Do not exceed 8 ICTs\"");
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](1, "Select JSON files. Do not exceed 8 ICTs");
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } }
 function FileUploadComponent_div_6_div_1_Template(rf, ctx) { if (rf & 1) {
