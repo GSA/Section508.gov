@@ -61,7 +61,7 @@ Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Animal and Plant Health Inspection Service (APHIS)
 Heather A. Pearl 970-302-6845 <heather.a.pearl@usda.gov>
 ### Farm Production and Conservation (FPAC)
-Karen Garrison - 816-926-2678 - karen.garrison@usda.gov
+Karen Garrison - 816-926-2678 - <karen.garrison@usda.gov>  
 
   * **Farm Service Agency (FSA)**
   * **Natural Resources Conservation Agency (NRCS)**
@@ -133,8 +133,8 @@ Natalie Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>
 David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>  
-Maureen Brown - 703-756-1788 - <maureen.Brown@uspto.gov>  
-Patricia Kless - 703-756-1977 - <patricia.Kless@uspto.gov>
+Maureen Brown - 703-756-1788 - <maureen.brown@uspto.gov>  
+Patricia Kless - 703-756-1977 - <patricia.kless@uspto.gov>
 
 ----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense (DOD)
@@ -181,7 +181,7 @@ Angela M. Edwards (BACKUP) - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - 202-231-3226 - <vanessa.hill2@dodiis.mil>   
 Paula Castro (Backup) - 301-394-5194 - <paula.castro@dodiis.mil>    
-DIA IT Accessibility Program Office - <IT_Accessibility@dodiis.mil>  
+DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
@@ -259,13 +259,13 @@ Heather Chafin - 240-876-8354 - <heather.chafin@fda.hhs.gov>
 Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>  
 Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
-Phillip	Wise (Acting)- <phillip.wise@ihs.gov>
+Kevin Fulbright - 301-526-9652 - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
 Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
-Erin Washington - 240-276-0571 - <erin.Washington@samhsa.hhs.gov>
+Erin Washington - 240-276-0571 - <erin.washington@samhsa.hhs.gov>
 
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
@@ -359,7 +359,7 @@ Sid Sharma (Acting) - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
 Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
-Richard Hess - 202-532-4455 - <richard.Hess2@usdoj.gov>
+Richard Hess - 202-532-4455 - <richard.hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
 Thomas Stewart - 202-360-8030 - <thomas.stewart@atf.gov>
 
@@ -373,22 +373,22 @@ Randy Abramson - 202-598-9631 - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 ### Criminal Division
-Deb Sachs - 202-616-0426 - <deb.Sachs2@usdoj.gov>
+Deb Sachs - 202-616-0426 - <deb.sachs2@usdoj.gov>
 ### Community Relations Service
-Janet Peterkin - 202-514-2388 - <janet.Peterkin@usdoj.gov>
+Janet Peterkin - 202-514-2388 - <janet.peterkin@usdoj.gov>
 ### Drug Enforcement Administration (DEA)
 VACANT
 ### Environment & Natural Resources Division
-Joseph Groves - 202-305-7352 - <joseph.Groves@usdoj.gov>
+Joseph Groves - 202-305-7352 - <joseph.groves@usdoj.gov>
 ### Executive Office for Immigration Review
-Kate Ahn - 703-605-1330 - <kate.Ahn@usdoj.gov>  
+Kate Ahn - 703-605-1330 - <kate.ahn@usdoj.gov>  
 Andrew Leftwich - <andrew.leftwich@usdoj.gov>
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
-Scott Jenkins - 202-514-4670 - <scott.Jenkins@usdoj.gov>
+Scott Jenkins - 202-514-4670 - <scott.jenkins@usdoj.gov>
 
 * **National Institute of Corrections** <br>Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>  
 
@@ -450,7 +450,7 @@ LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Robin A. Meissner (Acting) - 240-613-3309 - <robin.a.meissner@irs.gov>  
 ### Office of the Inspector General
-Tracy George - 202-927-5229 - <georgeT@oig.treas.gov>
+Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
 Susan O'Brien - 202-981-1547 - <susan.obrien@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
@@ -516,7 +516,7 @@ Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
 ### Corporation for National & Community Service (CNS)
-Shar’ron A. Tendai - 202-606-3904 - <stendai@cns.gov>
+Otis Winters - 202-606-6812 - <owinters@cns.gov>  
 
 <span id="D" ></span>
 
@@ -635,15 +635,9 @@ Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
 ### U.S. International Trade Commission (USITC)
 Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
-Nadereh Nasir - <Nadereh.Nasir@usps.gov>  
+Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-<div>
-  <p>
-  </p>
-  <p>
-    <strong>Reviewed/Updated:</strong>January 3, 2023
-  </p>
-</div>
+**Reviewed/Updated**: February 6, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
