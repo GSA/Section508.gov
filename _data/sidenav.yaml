@@ -74,6 +74,61 @@ manage:
         url: manage/laws-and-policies/state/
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
+  - name: IT Accessibility Policy Framework
+    url: '#'
+    children:
+      - name: Introduction
+        url: manage/introduction/
+      - name: How to Use the Framework
+        url: '#'
+        grandchildren:
+        - name: How to Identify Policies
+          url: manage/how-to-use-the-framework/how-to-identify-policies/
+        - name: Evaluation Criteria
+          url: manage/how-to-use-the-framework/evaluation-criteria/
+        - name: Guiding Questions
+          url: manage/how-to-use-the-framework/guiding-question/
+        - name: ICT Accessibility Policy Matrix
+          url: manage/how-to-use-the-framework/ict-accessibility-policy-matrix/
+      - name: Guidance by Policy Type
+        url: '#'
+        grandchildren:
+        - name: Approach
+          url: 
+        - name: Acquisition and Procurement
+          url: 
+        - name: Administrative Services
+          url: 
+        - name: Budget and Finance
+          url: 
+        - name: Communications
+          url: 
+        - name: Emergency Response
+          url: 
+        - name: Human Resources Management
+          url: 
+        - name: Information Technology Services
+          url: 
+        - name: Legal
+          url: 
+        - name: Real Property Management
+          url: 
+
+      - name: Resources and References
+        url: '#'
+        grandchildren:
+        - name: Policy Review Template
+          url: manage/resources-and-references/policy-review-template
+        - name: All Policy Types and Subtypes
+          url: manage/resources-and-references/all-policy-types-and-subtypes
+        - name: Summary of Evaluation Criteria
+          url: manage/resources-and-references/summary-of-summary-criteria
+        - name: List of Acronyms
+          url: manage/resources-and-references/list-of-acronyms
+      - name: FAQ
+        url: manage/faq/
+      - name: Support Information
+        url: manage/support-information/
 training:
   - name: Training, Tools & Events
     url: 'training/'
