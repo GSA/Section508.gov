@@ -94,25 +94,25 @@ manage:
         url: '#'
         grandchildren:
         - name: Approach
-          url: 
+          url: manage/guidance-by-policy-type/approach/
         - name: Acquisition and Procurement
-          url: 
+          url: manage/guidance-by-policy-type/acquisition-and-procurement/
         - name: Administrative Services
-          url: 
+          url: manage/guidance-by-policy-type/administrative-services/
         - name: Budget and Finance
-          url: 
+          url: manage/guidance-by-policy-type/budget-and-finance/
         - name: Communications
-          url: 
+          url: manage/guidance-by-policy-type/communications/
         - name: Emergency Response
-          url: 
+          url: manage/guidance-by-policy-type/emergency-response/
         - name: Human Resources Management
-          url: 
+          url: manage/guidance-by-policy-type/human-resources-management/
         - name: Information Technology Services
-          url: 
+          url: manage/guidance-by-policy-type/information-technology-services/
         - name: Legal
-          url: 
+          url: manage/guidance-by-policy-type/legal/
         - name: Real Property Management
-          url: 
+          url: manage/guidance-by-policy-type/real-property-management/
 
       - name: Resources and References
         url: '#'
