@@ -113,18 +113,17 @@ manage:
           url: manage/guidance-by-policy-type/legal/
         - name: Real Property Management
           url: manage/guidance-by-policy-type/real-property-management/
-
       - name: Resources and References
-        url: 'manage/resources-and-references/policy-review-template'
-        # grandchildren:
-        # - name: Policy Review Template
-        #   url: manage/resources-and-references/policy-review-template
-        # - name: All Policy Types and Subtypes
-        #   url: manage/resources-and-references/all-policy-types-and-subtypes
-        # - name: Summary of Evaluation Criteria
-        #   url: manage/resources-and-references/summary-of-summary-criteria
-        # - name: List of Acronyms
-        #   url: manage/resources-and-references/list-of-acronyms
+        url: '#'
+        grandchildren:
+        - name: Policy Review Template
+          url: manage/resources-and-references/policy-review-template
+        - name: All Policy Types and Subtypes
+          url: manage/resources-and-references/all-policy-types-and-subtypes
+        - name: Summary of Evaluation Criteria
+          url: manage/resources-and-references/summary-of-summary-criteria
+        - name: List of Acronyms
+          url: manage/resources-and-references/list-of-acronyms
       - name: FAQ
         url: manage/faq/
       - name: Support Information
