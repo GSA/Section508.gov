@@ -477,3 +477,201 @@ div[role=rowheader] {
 .session-link {
   color: #006eb9;
 }
+
+.subheading
+{
+  color: grey;
+}
+
+
+/*IT Accessibility Policy Framework*/
+
+/*Guiding Questions*/     
+.hover-large
+{
+  margin: 10px 0;
+  font-weight: 550;
+  font-size: 16px;
+  text-decoration: none;
+}
+.hover-large:hover
+{
+  font-size: 18px;
+  transition: all 200ms;
+}
+.nolink 
+{
+  color: black;
+}
+
+.it-table
+{
+  table-layout: fixed;
+  border-collapse: collapse;
+  th 
+  {
+    background-color: #073763;
+    color: white;
+  }
+  tr 
+  {
+    td 
+    {
+      padding-left: 4px;
+    }
+  }
+  td, th {
+    border:1px solid black;
+    width: 33.33%;
+    height: 55px;
+  }  
+}            
+/*ICT Accessibility Policy Matrix*/                
+.table-heading
+{
+  margin-bottom: 0;
+}
+
+.table
+{
+  margin-top: 5px;
+  .table-heading
+  {
+    font-size: 13px;
+    margin-top: 0;
+  }
+  display: flex;
+  .column-text 
+  {
+    flex: 15%;
+    margin: auto;
+  }
+  .column-table 
+  {
+    flex: 85%;
+  }
+  #table2-it
+  {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width:100%; 
+    float: right;
+    td, th {
+      border:1px solid black;
+      width: 60px;
+      height: 60px;
+    }  
+    td
+    {
+      font-size: 10px;
+      text-align: center;
+    }
+    th
+    {
+      font-size: 11px;
+      text-align: center;
+    }
+    tr
+    {
+      .vl
+      {
+        background-color: #569741;
+      }
+      .l
+      {
+        background-color: #93c47d;
+      }
+      .m
+      {
+        background-color: #ffc20e;
+      }
+      .h
+      {
+        background-color: #f58220;
+      }
+      .vh
+      {
+        background-color: #f15b40;
+      }
+      .c
+      {
+        background-color: #a04a3a;
+        color: white;
+      }
+
+    }
+  }
+  .center 
+  {
+    text-align: center;
+  }
+
+  .table-heading-mobile
+  {
+    display: none;
+  }
+  
+}
+
+
+
+@media only screen and (max-width: 530px)
+{
+  .table
+  {
+    .column-text 
+    {
+      flex: 0%;
+    }
+    .column-table 
+    {
+      flex: 100%;
+    }
+    .table-heading
+    {
+      font-size: 12px;
+      margin-top: 0;
+    }
+    #table2-it
+    {
+      table-layout: fixed;
+      border-collapse: collapse;
+      width:100%; 
+      float: right;
+      td, th {
+        border:1px solid black;
+        width: 60px;
+        height: 60px;
+      }  
+      td
+      {
+        font-size: 9px;
+        text-align: center;
+      }
+      th
+      {
+        font-size: 11px;
+        text-align: center;
+      }
+    }
+    .table-heading
+    {
+      display: none;
+    }
+    .table-heading-mobile
+    {
+      display:contents;
+      margin-bottom: 0;
+    }
+    
+  }
+}
+@media only screen and (max-width: 499px)
+{
+  .it-table
+  {
+    td, th {
+      font-size: 13px !important;
+    }  
+  }
+} 

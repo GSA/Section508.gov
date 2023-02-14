@@ -122,6 +122,8 @@ manage:
           url: manage/resources-and-references/all-policy-types-and-subtypes/
         - name: Summary of Evaluation Criteria
           url: manage/resources-and-references/summary-of-summary-criteria/
+        - name: Useful Links
+          url: manage/resources-and-references/useful-links/
         - name: List of Acronyms
           url: manage/resources-and-references/list-of-acronyms/
       - name: FAQ
