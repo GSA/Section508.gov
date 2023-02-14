@@ -13,7 +13,7 @@ Baseline tests&nbsp;of Information and Communication Technology (ICT) attempt to
 
 The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the [Revised 508 Standards][2], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to **create** an accessibility test process.
 
-Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <Accessibility@HQ.DHS.GOV> with questions.
+Email the ICT Baseline Working Group at <ictbaseline@gsa.gov> with questions.
 
 ## DHS Trusted Tester Process & Certification Program
 
