@@ -187,6 +187,11 @@ Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>  
+### Defense Microelectronics Activity (DMEA)  
+David Elliot - 916-231-1629 - <david.s.elliott24.civ@mail.mil>  
+Kevin Butters - 916-999-2726 - <kevin.f.butters.civ@mail.mil>  
+### Defense POW/MIA Accounting Agency (DPAA) 
+Gayle D. Oshiro – <gayle.d.oshiro.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
