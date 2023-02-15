@@ -232,9 +232,8 @@ Conduct a dry-run or practice meeting and affirmed hosts, moderators and present
 <li dir="ltr">Welcome guests and establish (and enforce) meeting rules</li>
 <li dir="ltr">Inform attendees when meeting is being recorded, allowing sufficient time for individuals to turn off their camera and microphone, or disconnect from the meeting</li>
 <li dir="ltr">Ask that attendees ensure that their full name is displayed for reference</li>
-<li dir="ltr">
-Ask participants who joining by telephone to identify themselves by their number
-<ul><li dir="ltr">Note: Captioners typically call in to meetings by telephone</li></ul>
+<li dir="ltr">Ask participants who join by telephone to identify themselves by their number
+  <ul><li dir="ltr">Note: Captioners typically call in to meetings by telephone</li></ul>
 </li>
 <li dir="ltr">Ask whether all attendees have what they need for effective communication</li>
 <li dir="ltr">Describe what’s on the screen (this also helps people who are participating by telephone/audio only)</li>
@@ -349,4 +348,4 @@ Meeting Platform Accessibility Guides
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
 
-**Reviewed/Updated:** November 2022
+**Reviewed/Updated:** February 2023
