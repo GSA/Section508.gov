@@ -198,7 +198,7 @@ David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 Claudia Guidi - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-James O. Taylor - <james.o.taylor52.civ@mail.mil>  
+James O. Taylor - 571-616-6713 - <james.o.taylor52.civ@mail.mil>  
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
 VACANT
@@ -210,7 +210,7 @@ Julie M. Hartmann (BACKUP) - <julie.m.hartmann.ctr@ndu.edu>
 ### National Geospatial Intelligence Agency
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
 ### National Guard Bureau
-Nguyen D. Lam - <nguyen.d.lam.civ@army.mil>  
+Nguyen D. Lam - 703-601-2637 - <nguyen.d.lam.civ@army.mil>  
 ### National Reconnaissance Office
 Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
 ### Navy
@@ -316,7 +316,7 @@ Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
 Kenneth S. Moser - 202-365-6493 - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
 Eleanor E. Thompson - 202-372-2673 - <eleanor.e.thompson@uscg.mil>  
-Terry A. Bell - <terry.a.bell@uscg.mil>  
+Terry A. Bell - 202-475-3664 - <terry.a.bell@uscg.mil>  
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - 202-406- 9761 - <leonard.dorrian@usss.dhs.gov>
 
@@ -596,7 +596,7 @@ Joseph Galicia - 202-682-5752 - <galiciaj@arts.gov>
 ### National Endowment for the Humanities (NEH)
 Tayna Peltz - 202-606-8399 - <tpeltz@neh.gov>
 ### National Security Agency (NSA)
-VACANT
+L. Tanai White - 443-654-0257 - <ltwhite@nsa.gov>  
 
 <span id ="O" ></span>
 
@@ -642,7 +642,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: February 6, 2023
+**Reviewed/Updated**: February 15, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
