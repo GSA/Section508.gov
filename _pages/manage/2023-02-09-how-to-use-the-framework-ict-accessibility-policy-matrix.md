@@ -11,7 +11,7 @@ created: December 09, 2023
 </h2>
 As shown in <b>Table 2</b> on the following page, the ICT Accessibility Policy Need/Engagement Matrix is a tool that characterizes the criticality of policies to ICT accessibility, and assists in the prioritization of policies with the greatest need of remediation. It is structured according to two intersecting factors, the <b>Sufficiency</b> of ICT accessibility information and the <b>Importance</b> to ICT accessibility considerations, the latter of which is a combination of the <b>Relevance</b> and <b>Level of Detail</b> criteria, as described above.
 <p class="table-heading"><b>Table 2. ICT Accessibility Policy Need/Engagement Matrix.</b></p>
-<div class="table">
+<div class="table-it">
     <div class="column-text">
         <p class="table-heading">
             <b>Sufficiency of ICT Accessibility Information</b>

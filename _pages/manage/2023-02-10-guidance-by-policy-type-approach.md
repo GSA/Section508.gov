@@ -27,4 +27,4 @@ Each policy type is introduced with a description of the policy type. It is then
 <br>
 While the potential gaps, recommended inclusions, and recommended policy language provided here represent the insights gained from the aforementioned policy review, they are not necessarily exhaustive. Footnotes throughout describe some policy subtypes may not be relevant for the IT Accessibility Policy Framework. 
 
-<a class="hover-large" href="https://ussm.gsa.gov/fibf/"><sup>7</sup>General Services Administration, Office of Shared Solutions and Performance Improvement. (n.d.) Mission Support Business Standards.</a>
+<a class="hover-large" href="https://ussm.gsa.gov/fibf/"><sup>7</sup>General Services Administration, Office of Shared Solutions and Performance Improvement. (n.d.)<br> Mission Support Business Standards.</a>

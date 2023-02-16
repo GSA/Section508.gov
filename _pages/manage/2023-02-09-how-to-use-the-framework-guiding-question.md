@@ -17,11 +17,11 @@ Agencies can leverage the <a href="{{site.baseurl}}/manage/resources-and-referen
 </ol>
 
 <p class="table-heading"><b>Table 1. Conditional statements to determine Importance ratings.</b></p>
-<table class = "it-table" style="width:100%">
+<table class = "it-table">
   <tr>
-    <th>If Relevance Is:</th>
-    <th>And Level of Detail Is:</th>
-    <th>The Overall Rating for Importance to Accessibility Considerations Is:</th>
+    <th style="width:33.33%">If Relevance Is:</th>
+    <th style="width:33.33%">And Level of Detail Is:</th>
+    <th style="width:33.33%">The Overall Rating for Importance to Accessibility Considerations Is:</th>
   </tr>
   <tr>
     <td>Highly Relevant</td>

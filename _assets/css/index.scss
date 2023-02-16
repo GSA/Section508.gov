@@ -491,12 +491,12 @@ div[role=rowheader] {
 {
   margin: 10px 0;
   font-weight: 550;
-  font-size: 16px;
+  font-size: 12px;
   text-decoration: none;
 }
 .hover-large:hover
 {
-  font-size: 18px;
+  font-size: 14px;
   transition: all 200ms;
 }
 .nolink 
@@ -506,6 +506,7 @@ div[role=rowheader] {
 
 .it-table
 {
+  width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
   th 
@@ -522,17 +523,39 @@ div[role=rowheader] {
   }
   td, th {
     border:1px solid black;
-    width: 33.33%;
+    // width: 33.33%;
     height: 55px;
   }  
-}            
+}        
+.list-of-acronyms-table
+{
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  th 
+  {
+    background-color: #073763;
+    color: white;
+  }
+  tr 
+  {
+    td 
+    {
+      padding-left: 4px;
+    }
+  }
+  td, th {
+    border:1px solid black;
+    height: 30px;
+  }  
+}        
 /*ICT Accessibility Policy Matrix*/                
 .table-heading
 {
   margin-bottom: 0;
 }
 
-.table
+.table-it
 {
   margin-top: 5px;
   .table-heading
@@ -666,6 +689,26 @@ div[role=rowheader] {
     
   }
 }
+/*Download button*/
+#policy-download
+{
+  display: block;
+  background-color: #073763;
+  color: white;
+  text-decoration: none;
+  height: 60px;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  border-radius: 8px;
+}
+
+#policy-download:hover
+{
+  transform: scale(1.1);
+  transition: all 200ms;
+}
+
 @media only screen and (max-width: 499px)
 {
   .it-table
