@@ -7,7 +7,7 @@ title: "Information Technology Services"
 created: December 10, 2023
 ---
 <h2 id="standards">
-  Human Resources Management 
+  Information Technology Services
 </h2>
 The policy type Information Technology Services refers to policies that apply to services designed to provide functions, maintenance, and support of IT devices or services. Guidance for policy subtypes within Information Technology Services is provided below.<sup>48</sup>
 
