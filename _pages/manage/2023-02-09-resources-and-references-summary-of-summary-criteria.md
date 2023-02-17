@@ -9,7 +9,6 @@ created: December 09, 2023
 <h2 id="standards">
   Summary of Evaluation Criteria
 </h2>
-The policy type Human Resources Management refers to policies that apply to the development, planning, management, and analysis of your agency workforce. Guidance for policy subtypes within Human Resources Management is provided below.<sup>37</sup>
 
 <p class="table-heading"><b>Table 13. Sufficiency ratings and corresponding descriptions.</b></p>
 <table class = "it-table">

@@ -18,10 +18,10 @@ The policy type Human Resources Management refers to policies that apply to the 
 </p>
 </div>
 
-<a class="hover-large no-link" ><sup>37</sup>Policy subtypes within Human Resources Management that may not be relevant for your agency include <br>COVID-19 Screening Protocols, Employee Benefits and Work/Life, Employee Recognition,<br> Job Descriptions and Position Classification, Merit Promotion, Pay and Allowances, Performance Appraisal,<br> Personnel Actions, Personnel Security and Identification Cards, Retirement, and Separation.
+<a class="hover-large nolink"><sup>37</sup>Policy subtypes within Human Resources Management that may not be relevant for your agency include <br>COVID-19 Screening Protocols, Employee Benefits and Work/Life, Employee Recognition,<br> Job Descriptions and Position Classification, Merit Promotion, Pay and Allowances, Performance Appraisal,<br> Personnel Actions, Personnel Security and Identification Cards, Retirement, and Separation.
 </a>
 <br>
-<a class="hover-large no-link" ><sup>38</sup>Vacancy announcements. 5 C.F.R. § 302.106 (2010).
+<a class="hover-large nolink"><sup>38</sup>Vacancy announcements. 5 C.F.R. § 302.106 (2010).
 </a>
 <br>
 <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>39</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>

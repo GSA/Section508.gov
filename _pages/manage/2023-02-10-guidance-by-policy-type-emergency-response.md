@@ -8,7 +8,7 @@ created: December 10, 2023
 ---
 
 <h2 id="standards">
-  Administrative Services
+  Emergency Response
 </h2>
 The policy type Emergency Response refers to policies that apply to planning, performance, and evaluation pertaining to mission critical functions during emergencies. Guidance for policy subtypes within Emergency Response are provided below.<sup>31</sup>
 
