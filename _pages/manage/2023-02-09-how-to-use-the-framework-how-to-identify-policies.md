@@ -15,15 +15,33 @@ The IT Accessibility Policy Framework provides guidance to agencies on how to ev
 The IT Accessibility Policy Framework recommends focusing review on the following policy types, based on relevance to ICT accessibility. The following section, <a href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/">Guidance by Policy Type</a>, provides guidance on how to facilitate a policy review across each of the below policy types:
 
 <ul>
-    <li>Acquisition and Procurement</li>
-    <li>Administrative Services</li>
-    <li>Budget and Finance</li>
-    <li>Communications</li>
-    <li>Emergency Response</li>
-    <li>Human Resources Management</li>
-    <li>Information Technology Services</li>
-    <li>Legal</li>
-    <li>Real Property Management</li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/acquisition-and-procurement/">Acquisition and Procurement</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/administrative-services/">Administrative Services</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/">Budget and Finance</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/communications/">Communications</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/">Emergency Response</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/human-resources-management/">Human Resources Management</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/information-technology-services/">Information Technology Services</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/legal/">Legal</a>
+    </li>
+    <li>
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/real-property-management/">Real Property Management</a>
+    </li>
 </ul>
 Similarly, the following ICT accessibility-related policies have been identified as foundational to Section 508 and should be in place within every agency. 
 <ul>

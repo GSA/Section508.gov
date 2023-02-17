@@ -28,7 +28,8 @@ The IT Accessibility Policy Framework provides agencies with guidance on how to 
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>2</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
-<a class="hover-large nolink"><sup>3</sup>Ibid.</a>
+<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>3</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+<br>
 
 <h2 id="standards">
   Scope

@@ -26,7 +26,7 @@ The policy type Emergency Response refers to policies that apply to planning, pe
 <br>
 <a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>34</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
 <br>
-<a class="hover-large nolink"><sup>35</sup>Ibid.</a>
+<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>35</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>36</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>

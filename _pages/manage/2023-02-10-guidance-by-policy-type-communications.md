@@ -26,5 +26,6 @@ The Communications policy type refers to policies pertaining to all spoken and w
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>29</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
-<a class="hover-large nolink"><sup>30</sup>Ibid.</a>
+<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>30</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+<br>
 
