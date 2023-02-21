@@ -356,7 +356,7 @@ John Pak - 202-208-2864 - <jpak@osmre.gov>
 ### U.S. Fish and Wildlife Service (FWS)
 Keon Sheffield - 303-275-2319 - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
-Sid Sharma (Acting) - 202-219-0963 - <siddhartha_sharma@ios.doi.gov>
+Tracy Jolivette - 303-236-4884 - <tjolivette@usgs.gov>  
 
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
