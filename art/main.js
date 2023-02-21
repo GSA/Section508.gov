@@ -107,7 +107,7 @@ class AppComponent {
     constructor(artContentDataService, router) {
         this.artContentDataService = artContentDataService;
         this.router = router;
-        this.url = "/preview/gsa/section508.gov/test-art/art-v2";
+        this.url = "/preview/gsa/section508.gov/test-art/art";
         this.title = 'Accessibility Requirements Tool (ART)';
     }
     //url="";
@@ -4480,7 +4480,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 const environment = {
     production: false,
-    urlPath: "/preview/gsa/section508.gov/test-art/art-v2"
+    urlPath: "/preview/gsa/section508.gov/test-art/art"
 };
 /*
  * For easier debugging in development mode, you can import the following file
