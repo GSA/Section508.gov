@@ -56,7 +56,91 @@ The <b>Level of Detail</b> criteria is used to classify the type of a policy and
   Determination of Importance
 </h3>
 Determination of Importance
-The <b>Importance</b> rating can be determined by interpreting and combining the ratings for <b>Relevance</b> and <b>Level of Detail</b>. On the next page, <b>Table 1</b> illustrates this approach through an exhaustive list of conditional statements, in which ratings for <b>Relevance</b> and <b>Level of Detail</b> serve as the conditions (i.e., the “if” part of the statement) and the <b>Importance</b> ratings serve as the outcomes (i.e. the “then” part of the statement). Note that <b>Table 1</b> is sorted first by <b>Importance</b>, then by <b>Relevance</b>, and last by <b>Level of Detail</b>.
+The <b>Importance</b> rating can be determined by interpreting and combining the ratings for <b>Relevance</b> and <b>Level of Detail</b>. <b>Table 1</b> illustrates this approach through an exhaustive list of conditional statements, in which ratings for <b>Relevance</b> and <b>Level of Detail</b> serve as the conditions (i.e., the “if” part of the statement) and the <b>Importance</b> ratings serve as the outcomes (i.e. the “then” part of the statement). Note that <b>Table 1</b> is sorted first by <b>Importance</b>, then by <b>Relevance</b>, and last by <b>Level of Detail</b>.
+
+<p class="table-heading"><b>Table 1. Conditional statements to determine Importance ratings.</b></p>
+<table class = "it-table">
+  <tr>
+    <th style="width:33.33%">If Relevance Is:</th>
+    <th style="width:33.33%">And Level of Detail Is:</th>
+    <th style="width:33.33%">The Overall Rating for Importance to Accessibility Considerations Is:</th>
+  </tr>
+  <tr>
+    <td>Highly Relevant</td>
+    <td>Organizational Purpose/Governing Guidelines</td>
+    <td>High Importance</td>
+  </tr>
+  <tr>
+    <td>Relevant</td>
+    <td>Office Rules, Policy, and Directive</td>
+    <td>High Importance</td>
+  </tr>
+  <tr>
+    <td>Relevant</td>
+    <td>Operational Guidance/SOPs</td>
+    <td>High Importance</td>
+  </tr>
+  <tr>
+    <td>Somewhat Relevant</td>
+    <td>Operational Guidance/SOPs</td>
+    <td>High Importance</td>
+  </tr>
+  <tr>
+    <td>Highly Relevant</td>
+    <td>Office Rules, Policy, and Directive</td>
+    <td>Very High Importance</td>
+  </tr>
+  <tr>
+    <td>Highly Relevant</td>
+    <td>Operational Guidance/SOPs</td>
+    <td>Very High Importance</td>
+  </tr>
+  <tr>
+    <td>Relevant</td>
+    <td>Organizational Purpose/Governing Guidelines</td>
+    <td>Important</td>
+  </tr>
+  <tr>
+    <td>Somewhat Relevant</td>
+    <td>Office Rules, Policy, and Directive</td>
+    <td>Important</td>
+  </tr>
+  <tr>
+    <td>Not Very Relevant</td>
+    <td>Operational Guidance/SOPs</td>
+    <td>Important</td>
+  </tr>
+  <tr>
+    <td>Somewhat Relevant</td>
+    <td>Organizational Purpose/Governing Guidelines</td>
+    <td>Somewhat Important</td>
+  </tr>
+  <tr>
+    <td>Not Very Relevant</td>
+    <td>Office Rules, Policy, and Directive</td>
+    <td>Somewhat Important</td>
+  </tr>
+  <tr>
+    <td>Not Relevant</td>
+    <td>Operational Guidance/SOPs</td>
+    <td>Somewhat Important</td>
+  </tr>
+  <tr>
+    <td>Not Very Relevant</td>
+    <td>Organizational Purpose/Governing Guidelines</td>
+    <td>Not Very Important/Not Important</td>
+  </tr>
+  <tr>
+    <td>Not Relevant</td>
+    <td>Office Rules, Policy, and Directive</td>
+    <td>Not Very Important/Not Important</td>
+  </tr>
+  <tr>
+    <td>Not Relevant</td>
+    <td>Organizational Purpose/Governing Guidelines</td>
+    <td>Not Very Important/Not Important</td>
+  </tr>
+</table>
 
 
 
