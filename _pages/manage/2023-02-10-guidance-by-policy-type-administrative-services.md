@@ -12,10 +12,29 @@ created: December 10, 2023
 </h2>
 The policy type Administrative Services refers to policies that apply to the planning, directing, and coordination of support services of an agency. Guidance for policy subtypes within Administrative Services is provided below.<sup>12</sup>
 
-<div class="q-table">
-<p class="table-heading">
-    <b>Table 4 Potential gaps, recommended inclusions, and recommended policy language for Administrative Services policy subtypes.</b>
-</p>
+<div class="q-table" id="policytype-table">
+  <p class="table-heading" id="administrative-services">
+      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
+  </p>
+  <div id="table-filter-list" class="dropdown-check-list" tabindex="100">
+    <span class="anchor">Select Filters</span>
+    <ul class="items" id="picklist-filter">
+    </ul>
+    <br><br>
+  </div>
+  <table class="it-table">
+    <thead>
+    <tr>
+      <th>Policy Subtype</th>
+      <th>Description</th>
+      <th>Potential Gaps</th>
+      <th>Recommended Inclusions</th>
+      <th>Recommended Policy Language</th>
+    </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
 </div>
 
 <a class="hover-large nolink"><sup>12</sup>Policy subtypes within Administrative Services that may not be relevant for your<br>agency include Acquisition and Procurement Services, Credit Card Management,<br> General Supplies and Services, Parking Facility Management and Mail<br> Management, and Transportation.</a>

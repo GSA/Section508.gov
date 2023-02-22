@@ -10,10 +10,29 @@ created: December 10, 2023
     Communications
 </h2>
 The Communications policy type refers to policies pertaining to all spoken and written interactions, both internal and external to the agency. Guidance for policy subtypes within Communications are provided below.
-<div class="q-table">
-<p class="table-heading">
-    <b>Table 6 Potential gaps, recommended inclusions, and recommended policy language for Communications policy subtypes.</b>
-</p>
+<div class="q-table" id="policytype-table">
+  <p class="table-heading" id="communications">
+      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
+  </p>
+  <div id="table-filter-list" class="dropdown-check-list" tabindex="100">
+    <span class="anchor">Select Filters</span>
+    <ul class="items" id="picklist-filter">
+    </ul>
+    <br><br>
+  </div>
+  <table class="it-table">
+    <thead>
+    <tr>
+      <th>Policy Subtype</th>
+      <th>Description</th>
+      <th>Potential Gaps</th>
+      <th>Recommended Inclusions</th>
+      <th>Recommended Policy Language</th>
+    </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
 </div>
 
 <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>26</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
