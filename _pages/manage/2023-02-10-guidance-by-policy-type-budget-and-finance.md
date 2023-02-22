@@ -11,10 +11,29 @@ created: December 10, 2023
     Budget and Finance
 </h2>
 The Budget and Finance policy type refers to policies pertaining to planning, programming, budgeting, accounting, control of, and associated reporting on funds required for agency operations. Guidance for policy subtypes within Budget and Finance is provided below.<sup>21</sup>
-<div class="q-table">
-<p class="table-heading">
-    <b>Table 5 Potential gaps, recommended inclusions, and recommended policy language for Budget and Finance policy subtypes.</b>
-</p>
+<div class="q-table" id="policytype-table">
+  <p class="table-heading" id="budget-and-finance">
+      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
+  </p>
+  <div id="table-filter-list" class="dropdown-check-list" tabindex="100">
+    <span class="anchor">Select Filters</span>
+    <ul class="items" id="picklist-filter">
+    </ul>
+    <br><br>
+  </div>
+  <table class="it-table">
+    <thead>
+    <tr>
+      <th>Policy Subtype</th>
+      <th>Description</th>
+      <th>Potential Gaps</th>
+      <th>Recommended Inclusions</th>
+      <th>Recommended Policy Language</th>
+    </tr>
+    </thead>
+    <tbody id="table-body">
+    </tbody>
+  </table>
 </div>
 
 <a class="hover-large nolink"><sup>21</sup>Policy subtypes within Budget and Finance that may not be relevant to your agency include Accounting, Claims, and Performance Management.</a>
