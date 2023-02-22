@@ -11,29 +11,10 @@ created: December 10, 2023
 </h2>
 The policy type Information Technology Services refers to policies that apply to services designed to provide functions, maintenance, and support of IT devices or services. Guidance for policy subtypes within Information Technology Services is provided below.<sup>48</sup>
 
-<div class="q-table" id="policytype-table">
-  <p class="table-heading" id="information-technology-services">
-      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
-  </p>
-  <div id="table-filter-list" class="dropdown-check-list" tabindex="100">
-    <span class="anchor">Select Filters</span>
-    <ul class="items" id="picklist-filter">
-    </ul>
-    <br><br>
-  </div>
-  <table class="it-table">
-    <thead>
-    <tr>
-      <th>Policy Subtype</th>
-      <th>Description</th>
-      <th>Potential Gaps</th>
-      <th>Recommended Inclusions</th>
-      <th>Recommended Policy Language</th>
-    </tr>
-    </thead>
-    <tbody id="table-body">
-    </tbody>
-  </table>
+<div class="q-table">
+<p class="table-heading">
+    <b>Table 9 Potential gaps, recommended inclusions, and recommended policy language for Information Technology Services policy subtypes.</b>
+</p>
 </div>
 <a class="hover-large nolink"><sup>48</sup> A policy subtype within Information Technology Services that may not be relevant for your agency is <br>Telecommunications.</a>
 <br>
