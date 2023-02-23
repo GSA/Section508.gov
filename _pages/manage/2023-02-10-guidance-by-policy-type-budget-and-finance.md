@@ -15,8 +15,8 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
   <p class="table-heading" id="budget-and-finance">
       <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
   </p>
-  <div id="table-filter-list" class="dropdown-check-list" tabindex="100">
-    <span class="anchor">Select Filters</span>
+  <div id="table-filter-list" class="dropdown-check-list" >
+    <span class="dropdown">Select Filters</span>
     <ul class="items" id="picklist-filter">
     </ul>
     <br><br>
@@ -24,11 +24,11 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
   <table class="it-table">
     <thead>
     <tr>
-      <th>Policy Subtype</th>
+      <th id="style">Policy Subtype</th>
       <th>Description</th>
       <th>Potential Gaps</th>
       <th>Recommended Inclusions</th>
-      <th>Recommended Policy Language</th>
+      <th id="RPL">Recommended Policy Language</th>
     </tr>
     </thead>
     <tbody id="table-body">

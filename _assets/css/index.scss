@@ -523,7 +523,6 @@ div[role=rowheader] {
   }
   td, th {
     border:1px solid black;
-    // width: 33.33%;
     height: 55px;
   }  
 }        
@@ -548,7 +547,11 @@ div[role=rowheader] {
     border:1px solid black;
     height: 30px;
   }  
-}        
+}
+
+
+
+
 /*ICT Accessibility Policy Matrix*/                
 .table-heading
 {
@@ -640,8 +643,7 @@ div[role=rowheader] {
 
 @media only screen and (max-width: 530px)
 {
-  .table
-  {
+
     .column-text 
     {
       flex: 0%;
@@ -679,15 +681,15 @@ div[role=rowheader] {
     }
     .table-heading
     {
-      display: none;
+      display: none !important;
     }
     .table-heading-mobile
     {
-      display:contents;
+      display:contents !important;
       margin-bottom: 0;
     }
     
-  }
+  
 }
 /*Download button*/
 #policy-download
@@ -714,68 +716,155 @@ div[role=rowheader] {
   .it-table
   {
     td, th {
-      font-size: 13px !important;
+      font-size: 11px;
     }  
   }
 } 
 
 /*For the table*/
+
 .dropdown-check-list {
   display: inline-block;
-  margin-right: auto;
+  float: right;
   height: 37.59px;
+  width: 185px;
   z-index: 99;
   right: 0;
+  border-radius: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  .dropdown {
+    width: 185px;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 50px 5px 10px;
+    border: 1px solid #ccc;
+    z-index: 99;
+    border-radius: 8px;
+  }
+  .dropdown:after {
+    position: absolute;
+    content: "";
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    padding: 5px;
+    right: 10px;
+    top: 20%;
+    -moz-transform: rotate(-135deg);
+    -ms-transform: rotate(-135deg);
+    -o-transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    transform: rotate(-135deg);
+    z-index: 99;
+  }
+  .dropdown:active:after {
+    right: 8px;
+    top: 21%;
+  }
+  ul.items {
+    padding: 2px;
+    display: none;
+    margin: 0;
+    border: 1px solid #ccc;
+    border-top: none;
+    position: absolute;
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 185px;
+    li {
+      list-style: none;
+      font-size: 13px;
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 10px;
+      input
+      {
+        width: 8%;
+        margin-right: 8px;
+        margin-left: 5px;
+        outline:0;
+      }
+      p
+      {
+        margin: 0;
+      }
+    }
+    
+  }
+  
+}
+.dropdown-check-list.visible 
+{
+  .dropdown {
+    font-weight: bold;
+  }
+  .items {
+    display: block;
+  }
 }
 
-.dropdown-check-list .anchor {
-  position: relative;
-  cursor: pointer;
-  display: inline-block;
-  padding: 5px 50px 5px 10px;
-  border: 1px solid #ccc;
-  z-index: 99;
+.q-table
+{
+  .it-table
+  {
+    font-size: 13px;
+    tr 
+    {
+      #style
+      {
+        width:15%;
+      }
+      #RPL
+      {
+        width:30%;
+      }
+      td
+      {
+        overflow: hidden !important;
+      }
+    }
+    #table-body
+    {
+      tr 
+      {
+        td
+        {
+          vertical-align: top;
+        }
+      }
+    }
+  }
 }
+@media only screen and (max-width: 499px)
+{
+  .q-table
+  {
 
-.dropdown-check-list .anchor:after {
-  position: absolute;
-  content: "";
-  border-left: 2px solid black;
-  border-top: 2px solid black;
-  padding: 5px;
-  right: 10px;
-  top: 20%;
-  -moz-transform: rotate(-135deg);
-  -ms-transform: rotate(-135deg);
-  -o-transform: rotate(-135deg);
-  -webkit-transform: rotate(-135deg);
-  transform: rotate(-135deg);
-  z-index: 99;
-}
-
-.dropdown-check-list .anchor:active:after {
-  right: 8px;
-  top: 21%;
-}
-
-.dropdown-check-list ul.items {
-  padding: 2px;
-  display: none;
-  margin: 0;
-  border: 1px solid #ccc;
-  border-top: none;
-  position: absolute;
-  background-color: white;
-}
-
-.dropdown-check-list ul.items li {
-  list-style: none;
-}
-
-.dropdown-check-list.visible .anchor {
-  color: #0094ff;
-}
-
-.dropdown-check-list.visible .items {
-  display: block;
+    .it-table
+    {
+      tr
+      {
+        #style
+        {
+          width:17%;
+        }
+        #RPL
+        {
+          width:28%;
+        }
+      }
+      #table-body
+      {
+        tr 
+        {
+          td
+          {
+            font-size: 9px !important;
+          }
+        }
+      }
+    }
+  }
 }
