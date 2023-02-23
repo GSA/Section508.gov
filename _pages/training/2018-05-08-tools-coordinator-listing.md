@@ -256,8 +256,8 @@ Biff LeVee (Acting) - 301-427-1897 - <biff.levee@ahrq.gov>
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
-Antoinette Johnson – 410-786-9326 – <antoinette.johnson@cms.hhs.gov>  
-Ann S. Turner – 410-786-2184 - <ann.turner@cms.hhs.gov>
+Cora Tracy (Acting)	- 443-938-3815 - <cora.tracy@cms.hhs.gov>  
+Scott Shippy (BACKUP, Acting)	- 443-847-0344 - <scott.shippy@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
 Heather Chafin - 240-876-8354 - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
@@ -642,7 +642,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: February 15, 2023
+**Reviewed/Updated**: February 23, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
