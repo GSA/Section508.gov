@@ -50,23 +50,68 @@ function scrollFunction() {
 async function generateTable(data, index)
 {
   const obj = JSON.parse(data);
-  var checkList = document.getElementById('table-filter-list');
-  checkList.getElementsByClassName('dropdown')[0].onclick = 
+  
+  var rowFilter = document.getElementById('table-filter-list');
+  var columnFilter = document.getElementById('column-filter-list');
+
+  rowFilter.getElementsByClassName('dropdown')[0].onclick = 
   function() 
   {
-    if(checkList.classList.contains('visible'))
-      checkList.classList.remove('visible');
+    if(rowFilter.classList.contains('visible'))
+      rowFilter.classList.remove('visible');
     else
-      checkList.classList.add('visible');
+      rowFilter.classList.add('visible');
   }
+
+  columnFilter.getElementsByClassName('dropdown')[0].onclick = 
+  function() 
+  {
+    if(columnFilter.classList.contains('visible'))
+    columnFilter.classList.remove('visible');
+    else
+    columnFilter.classList.add('visible');
+  }
+
   //Change j according to the page
   var j = index;
-  createPicklist(obj, j);
+  createPicklistColumn();
+  createPicklistFilter(obj, j);
   generateTableData(obj, j);
 }
 
-//Create picklist according to the data
-function createPicklist(obj, j)
+function createPicklistColumn()
+{
+  document.getElementById('column-filter').innerHTML =
+  `
+    <li><input type="checkbox" id="Description" onclick="hideColumn(Description, 'columnD')" checked/><p>Description</p></li>
+    <li><input type="checkbox" id="PotentialGaps" onclick="hideColumn(PotentialGaps, 'columnPG')" checked/><p>Potential Gaps</p></li>
+    <li><input type="checkbox" id="RecommendedI" onclick="hideColumn(RecommendedI, 'columnRI')" checked/><p>Recommended Inclusions</p></li>
+    <li><input type="checkbox" id="RecommendedP" onclick="hideColumn(RecommendedP, 'columnRPL')" checked/><p>Recommended Policy Language</p></li>
+  `
+
+}
+//This function will hide the column depend on the column name
+function hideColumn(columnPicklistId, columnToRemove)
+{
+  var rowList = document.getElementsByClassName(columnToRemove);
+  console.log(rowList.length);
+  if(columnPicklistId.checked == false)
+  {
+    for(i = 0; i < rowList.length; i++)
+    {
+      rowList[i].style.display = "none";
+    }
+  }
+  else
+  {
+    for(i = 0; i < rowList.length; i++)
+    {
+      rowList[i].style = null;
+    }
+  }
+}
+//Create picklist according to the data from JSON
+function createPicklistFilter(obj, j)
 {
 
   var picklistFilter = document.getElementById('picklist-filter');
@@ -122,10 +167,10 @@ function generateTableData(obj, j)
     `
       <tr>
         <td>${obj.guidanceByPolicyType[j].content[i].pt}</td>
-        <td>${obj.guidanceByPolicyType[j].content[i].description}</td>
-        <td>${obj.guidanceByPolicyType[j].content[i].pg}</td>
-        <td>${obj.guidanceByPolicyType[j].content[i].rInclusions}</td>
-        <td>${obj.guidanceByPolicyType[j].content[i].rPolicy}</td>
+        <td class="columnD">${obj.guidanceByPolicyType[j].content[i].description}</td>
+        <td class="columnPG">${obj.guidanceByPolicyType[j].content[i].pg}</td>
+        <td class="columnRI">${obj.guidanceByPolicyType[j].content[i].rInclusions}</td>
+        <td class="columnRPL">${obj.guidanceByPolicyType[j].content[i].rPolicy}</td>
       </tr>
     `
   }
@@ -162,7 +207,7 @@ if(document.getElementById('policytype-table') != null)
                 "description": "Policies that apply to arrangement and administration of agreements, and management of performance of contract holders.",
                 "pg": "No mention of a tool or resource to help identify and incorporate relevant accessibility requirements into procurement and contracting documentation.",
                 "rInclusions": "Reference to the Accessibility Requirements Tool (ART) for guided assistance to identify and include relevant accessibility requirements into procurement and contracting documentation.",
-                "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the Accessibility Requirements Tool (ART) tool for guided assistance to identify relevant accessibility requirements: https://app.buyaccessible.gov/."
+                "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the Accessibility Requirements Tool (ART) tool for guided assistance to identify relevant accessibility requirements: <a href='https://app.buyaccessible.gov/'>https://app.buyaccessible.gov/</a>."
             },
             {
                 "pt": "Acquisition Management",
@@ -609,6 +654,7 @@ if(document.getElementById('policytype-table') != null)
     ]
 }
   `;
+  
   if(document.getElementById('acquisition-and-procurement') != null)
     generateTable(data, 0);
   else if(document.getElementById('administrative-services') != null)

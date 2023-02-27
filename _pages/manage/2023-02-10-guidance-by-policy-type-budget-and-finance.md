@@ -13,22 +13,28 @@ created: December 10, 2023
 The Budget and Finance policy type refers to policies pertaining to planning, programming, budgeting, accounting, control of, and associated reporting on funds required for agency operations. Guidance for policy subtypes within Budget and Finance is provided below.<sup>21</sup>
 <div class="q-table" id="policytype-table">
   <p class="table-heading" id="budget-and-finance">
-      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
+      <b>Table 5 Potential gaps, recommended inclusions, and recommended policy language for Budget and Finance policy subtypes.</b>
   </p>
-  <div id="table-filter-list" class="dropdown-check-list" >
-    <span class="dropdown">Select Filters</span>
-    <ul class="items" id="picklist-filter">
-    </ul>
-    <br><br>
+  <div>
+    <div id="column-filter-list" class="dropdown-check-list">
+      <span class="dropdown">Show/Hide Column</span>
+      <ul class="items" id="column-filter">
+      </ul>
+    </div>
+    <div id="table-filter-list" class="dropdown-check-list">
+      <span class="dropdown">Select Filters</span>
+      <ul class="items" id="picklist-filter">
+      </ul>
+    </div>
   </div>
   <table class="it-table">
     <thead>
     <tr>
-      <th id="style">Policy Subtype</th>
-      <th>Description</th>
-      <th>Potential Gaps</th>
-      <th>Recommended Inclusions</th>
-      <th id="RPL">Recommended Policy Language</th>
+      <th id="PS">Policy Subtype</th>
+      <th id="DES" class="columnD">Description</th>
+      <th id="PG" class="columnPG">Potential Gaps</th>
+      <th id="RI" class="columnRI">Recommended Inclusions</th>
+      <th id="RPL" class="columnRPL">Recommended Policy Language</th>
     </tr>
     </thead>
     <tbody id="table-body">

@@ -14,22 +14,28 @@ The policy type Legal refers to policies that apply to compliance with federal l
 
 <div class="q-table" id="policytype-table">
   <p class="table-heading" id="legal">
-      <b>Table 3 Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
+      <b>Table 10 Potential gaps, recommended inclusions, and recommended policy language for Legal policy subtypes</b>
   </p>
-  <div id="table-filter-list" class="dropdown-check-list" >
-    <span class="dropdown">Select Filters</span>
-    <ul class="items" id="picklist-filter">
-    </ul>
-    <br><br>
+  <div>
+    <div id="column-filter-list" class="dropdown-check-list">
+      <span class="dropdown">Show/Hide Column</span>
+      <ul class="items" id="column-filter">
+      </ul>
+    </div>
+    <div id="table-filter-list" class="dropdown-check-list">
+      <span class="dropdown">Select Filters</span>
+      <ul class="items" id="picklist-filter">
+      </ul>
+    </div>
   </div>
   <table class="it-table">
     <thead>
     <tr>
-      <th id="style">Policy Subtype</th>
-      <th>Description</th>
-      <th>Potential Gaps</th>
-      <th>Recommended Inclusions</th>
-      <th id="RPL">Recommended Policy Language</th>
+      <th id="PS">Policy Subtype</th>
+      <th id="DES" class="columnD">Description</th>
+      <th id="PG" class="columnPG">Potential Gaps</th>
+      <th id="RI" class="columnRI">Recommended Inclusions</th>
+      <th id="RPL" class="columnRPL">Recommended Policy Language</th>
     </tr>
     </thead>
     <tbody id="table-body">

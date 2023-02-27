@@ -733,7 +733,9 @@ div[role=rowheader] {
   border-radius: 8px;
   margin-top: 5px;
   margin-bottom: 10px;
+  margin-left: 5px;
   .dropdown {
+    font-size: 13px;
     width: 185px;
     position: relative;
     cursor: pointer;
@@ -773,6 +775,7 @@ div[role=rowheader] {
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
     width: 185px;
+    z-index: 99;
     li {
       list-style: none;
       font-size: 13px;
@@ -812,7 +815,7 @@ div[role=rowheader] {
     font-size: 13px;
     tr 
     {
-      #style
+      #PS
       {
         width:15%;
       }
