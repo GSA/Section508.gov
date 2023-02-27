@@ -9,8 +9,8 @@ created: December 09, 2023
 <h2 id="standards">
   ICT Accessibility Policy Need/Engagement Matrix
 </h2>
-As shown in <b>Table 2</b> on the following page, the ICT Accessibility Policy Need/Engagement Matrix is a tool that characterizes the criticality of policies to ICT accessibility, and assists in the prioritization of policies with the greatest need of remediation. It is structured according to two intersecting factors, the <b>Sufficiency</b> of ICT accessibility information and the <b>Importance</b> to ICT accessibility considerations, the latter of which is a combination of the <b>Relevance</b> and <b>Level of Detail</b> criteria, as described above.
-<p class="table-heading"><b>Table 2. ICT Accessibility Policy Need/Engagement Matrix.</b></p>
+As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy Need/Engagement Matrix is a tool that characterizes the criticality of policies to ICT accessibility, and assists in the prioritization of policies with the greatest need of remediation. It is structured according to two intersecting factors, the <b>Sufficiency</b> of ICT accessibility information and the <b>Importance</b> to ICT accessibility considerations, the latter of which is a combination of the <b>Relevance</b> and <b>Level of Detail</b> criteria, as described above.
+<p class="table-heading"><b>Table 1. ICT Accessibility Policy Need/Engagement Matrix.</b></p>
 <div class="table-it">
     <div class="column-text">
         <p class="table-heading">
@@ -84,7 +84,7 @@ As shown in <b>Table 2</b> on the following page, the ICT Accessibility Policy N
 <h3 id="standards" class="subheading">
   ICT Accessibility Policy Need/Engagement Ratings
 </h3>
-The below descriptions of ratings facilitate interpretation of the ICT Accessibility Policy Need/Engagement Matrix <b>(Table 2)</b>.
+The below descriptions of ratings facilitate interpretation of the ICT Accessibility Policy Need/Engagement Matrix <b>(Table 1)</b>.
 
 <ul>
     <li><b>Critical</b>: Significant gap that should be addressed directly; could result in very significant issues for the organization; requires immediate attention.
@@ -103,6 +103,6 @@ The below descriptions of ratings facilitate interpretation of the ICT Accessibi
 <h3 id="standards" class="subheading">
   ICT Accessibility Policy Need Prioritization
 </h3>
-While agencies would ideally update all policies that have been determined to need updated ICT accessibility language, the reality is that agencies vary widely in terms of the resources needed to make these changes. For example, with <b>Table 2</b> as point of reference, the twenty-four Chief Financial Officer (CFO) Act Agencies likely have the funding and personnel to remediate all policies with a “Low” overall outcome or higher<sup>6</sup>. At the same time, many small and independent agencies contend with funding and personnel limitations, and may set a higher threshold (e.g., “Moderate” or “High”) to prioritize their policy remediation efforts, even if their policy portfolios are also comparatively smaller. Thus, each agency will have to make its own determination about which policies to prioritize for remediation based on its available resources, personnel, and its assessment of Section 508 compliance risks.
+While agencies would ideally update all policies that have been determined to need updated ICT accessibility language, the reality is that agencies vary widely in terms of the resources needed to make these changes. For example, with <b>Table 1</b> as point of reference, the twenty-four Chief Financial Officer (CFO) Act Agencies likely have the funding and personnel to remediate all policies with a “Low” overall outcome or higher<sup>1</sup>. At the same time, many small and independent agencies contend with funding and personnel limitations, and may set a higher threshold (e.g., “Moderate” or “High”) to prioritize their policy remediation efforts, even if their policy portfolios are also comparatively smaller. Thus, each agency will have to make its own determination about which policies to prioritize for remediation based on its available resources, personnel, and its assessment of Section 508 compliance risks.
 
-<a class="hover-large" href="https://www.congress.gov/bill/101st-congress/house-bill/5687/text"><sup>6</sup>Chief Financial Officers Act of 1990, H.R.5687, 101st Cong. (1990).</a>
+<a class="hover-large" href="https://www.congress.gov/bill/101st-congress/house-bill/5687/text"><sup>1</sup>Chief Financial Officers Act of 1990, H.R.5687, 101st Cong. (1990).</a>

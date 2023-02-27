@@ -10,7 +10,7 @@ created: December 10, 2023
 <h2 id="standards">
   Approach
 </h2>
-The ICT accessibility policy guidance that follows is organized by policy type and subtype. These policy types and subtypes emerged through a policy review conducted by the Government-wide IT Accessibility Team and the Federal Integrated Business Framework (FIBF), an ongoing effort to create governmentwide business standards and assess agency needs for shared services.<sup>7</sup>
+The ICT accessibility policy guidance that follows is organized by policy type and subtype. These policy types and subtypes emerged through a policy review conducted by the Government-wide IT Accessibility Team and the Federal Integrated Business Framework (FIBF), an ongoing effort to create governmentwide business standards and assess agency needs for shared services.<sup>1</sup>
 
 Each policy type is introduced with a description of the policy type. It is then expanded on in a table that:
 
@@ -27,4 +27,4 @@ Each policy type is introduced with a description of the policy type. It is then
 <br>
 While the potential gaps, recommended inclusions, and recommended policy language provided here represent the insights gained from the aforementioned policy review, they are not necessarily exhaustive. Footnotes throughout describe some policy subtypes may not be relevant for the IT Accessibility Policy Framework. 
 
-<a class="hover-large" href="https://ussm.gsa.gov/fibf/"><sup>7</sup>General Services Administration, Office of Shared Solutions and Performance Improvement. (n.d.)<br> Mission Support Business Standards.</a>
+<a class="hover-large" href="https://ussm.gsa.gov/fibf/"><sup>1</sup>General Services Administration, Office of Shared Solutions and Performance Improvement. (n.d.)<br> Mission Support Business Standards.</a>

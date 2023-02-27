@@ -9,7 +9,7 @@ created: December 09, 2023
 <h2 id="standards">
   List of Acronyms
 </h2>
-<p class="table-heading"><b>Table 17 List of acronyms and associated meanings.</b></p>
+<p class="table-heading"><b>Table 1. List of acronyms and associated meanings.</b></p>
 <table class = "list-of-acronyms-table">
   <tr>
     <th style="width:20%">Acronym</th>

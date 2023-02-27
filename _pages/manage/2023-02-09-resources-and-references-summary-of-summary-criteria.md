@@ -10,7 +10,7 @@ created: December 09, 2023
   Summary of Evaluation Criteria
 </h2>
 
-<p class="table-heading"><b>Table 13. Sufficiency ratings and corresponding descriptions.</b></p>
+<p class="table-heading"><b>Table 1. Sufficiency ratings and corresponding descriptions.</b></p>
 <table class = "it-table">
   <tr>
     <th style="width:25%">Rating</th>
@@ -37,7 +37,7 @@ created: December 09, 2023
     <td>Fully insufficient, missing most/all ICT accessibility language; missing most/all critical ICT accessibility-related requirements or language.</td>
   </tr>
 </table>
-<p class="table-heading"><b>Table 14. Relevance ratings and corresponding descriptions.</b></p>
+<p class="table-heading"><b>Table 2. Relevance ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
     <th style="width:25%">Rating</th>
@@ -64,7 +64,7 @@ created: December 09, 2023
     <td>Policy is not related to ICT accessibility; no ICT accessibility requirements should or need to be included in the policy.</td>
   </tr>
 </table>
-<p class="table-heading"><b>Table 15. Level of Detail ratings and corresponding descriptions.</b></p>
+<p class="table-heading"><b>Table 3. Level of Detail ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
     <th style="width:25%">Rating</th>
@@ -84,7 +84,7 @@ created: December 09, 2023
     <td>Tactical level documents that generally provide specific instructions to execute tasks (Tactical Level Document).</td>
   </tr>
 </table>
-<p class="table-heading"><b>Table 16. ICT Policy Need ratings and corresponding descriptions.</b></p>
+<p class="table-heading"><b>Table 4. ICT Policy Need ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
     <th style="width:25%">Rating</th>

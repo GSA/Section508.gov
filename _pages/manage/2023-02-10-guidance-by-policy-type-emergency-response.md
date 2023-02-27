@@ -10,11 +10,11 @@ created: December 10, 2023
 <h2 id="standards">
   Emergency Response
 </h2>
-The policy type Emergency Response refers to policies that apply to planning, performance, and evaluation pertaining to mission critical functions during emergencies. Guidance for policy subtypes within Emergency Response are provided below.<sup>31</sup>
+The policy type Emergency Response refers to policies that apply to planning, performance, and evaluation pertaining to mission critical functions during emergencies. Guidance for policy subtypes within Emergency Response are provided below.<sup>1</sup>
 
 <div class="q-table" id="policytype-table">
   <p class="table-heading" id="emergency-response">
-      <b>Table 7 Potential gaps, recommended inclusions, and recommended policy language for Emergency Response policy subtypes.</b>
+      <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Emergency Response policy subtypes.</b>
   </p>
   <div>
     <div id="column-filter-list" class="dropdown-check-list">
@@ -42,18 +42,18 @@ The policy type Emergency Response refers to policies that apply to planning, pe
     </tbody>
   </table>
 </div>
-<a class="hover-large no-link" ><sup>31</sup>A policy subtype within Emergency Response that may not be relevant for your agency is <br>a Homeland Security Presidential Directive (HSPD)-12 Personal Identity Verification (PIV) <br>and Credentialing Policy, a governmentwide identification standard for agency and contractor <br>employees.
+<a class="hover-large no-link" ><sup>1</sup>A policy subtype within Emergency Response that may not be relevant for your agency is <br>a Homeland Security Presidential Directive (HSPD)-12 Personal Identity Verification (PIV) <br>and Credentialing Policy, a governmentwide identification standard for agency and contractor <br>employees.
 </a>
 <br>
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>32</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (National Security Presidential Directive (NSPD)-51/HSPD-20).</a>
+<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>2</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (National Security Presidential Directive (NSPD)-51/HSPD-20).</a>
 <br>
-<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>33</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>3</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>34</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
+<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>4</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
 <br>
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>35</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
+<a class="hover-large" href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf"><sup>5</sup>Executive Office of the President, Administration Office (2007, May 9). National Continuity <br>Policy. (NSPD-51/HSPD-20).</a>
 <br>
-<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>36</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>6</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
 
 
