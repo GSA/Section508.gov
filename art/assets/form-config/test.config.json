@@ -1,0 +1,179 @@
+[
+  {
+    "formElements":[
+      {
+        "elementType":"text",
+        "label": "First: Please list Items or deliverables that contain ICT. You may add more than one ICT item. You may also use one name for multiple ICT Items providing an overall solution (for example: Security Equipment).",
+        "title": "",
+        "placeholder":"Please enter an ICT Item",
+        "description": "",
+        "errorMessages": {"maxlength":"Maximum characters are 25"},
+        "controlName": "ictItemTextfield1",
+        "validations": [ "required", "maxLength(25)"],
+        "next":"",
+        "formSection": "What is the name of your procurement?",
+        "value": "",
+        "options": []
+      },
+      {
+        "elementType": "checkboxGroup",
+        "label": "Select any of the options below",
+        "title": "Select any of the options below",
+        "placeholder": "",
+        "description": "",
+        "errorMessages": {
+          "maxlength": "Select at leas one option"
+        },
+        "controlName": "ictItemcheckboxGroup1",
+        "validations": [
+          "required"
+        ],
+        "next": "",
+        "formSection": "What is the name of your procurement?",
+        "value": "",
+        "options": [
+          {
+            "elementType": "checkbox",
+            "label": "Project Planning",
+            "title": "Project Planning",
+            "placeholder": "",
+            "description": "Project Planning description here",
+            "errorMessages": {},
+            "controlName": "checkbox1",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": true,
+            "options": []
+          },
+          {
+            "elementType": "checkbox",
+            "label": "Market research",
+            "title": "Market research",
+            "placeholder": "",
+            "description": "Market research description here",
+            "errorMessages": {},
+            "controlName": "checkbox2",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": false,
+            "options": []
+          },
+          {
+            "elementType": "checkbox",
+            "label": "None of the above",
+            "title": "None of the above",
+            "placeholder": "",
+            "description": "",
+            "errorMessages": {},
+            "controlName": "checkbox3",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": false,
+            "options": [],
+            "onlyOption": true
+          }
+        ]
+      },
+      {
+        "elementType": "checkboxGroup",
+        "label": "One more group",
+        "title": "Select any of the options below",
+        "placeholder": "",
+        "description": "",
+        "errorMessages": {
+          "maxlength": "Select at leas one option"
+        },
+        "controlName": "ictItemcheckboxGroup2",
+        "validations": [
+          "required"
+        ],
+        "next": "",
+        "formSection": "What is the name of your procurement?",
+        "value": "",
+        "options": [
+          {
+            "elementType": "checkbox",
+            "label": "Project Planning",
+            "title": "Project Planning",
+            "placeholder": "",
+            "description": "Project Planning description here",
+            "errorMessages": {},
+            "controlName": "checkbox4",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": true,
+            "options": []
+          },
+          {
+            "elementType": "checkbox",
+            "label": "Market research",
+            "title": "Market research",
+            "placeholder": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse felis tortor, tempor vel turpis eu, scelerisque tincidunt quam. Integer ac molestie urna, vel tempor dui. Vestibulum interdum at dolor vitae luctus. Pellentesque nec leo a neque eleifend mollis. Cras mattis elit quis erat finibus, a laoreet magna placerat. Sed et tincidunt risus.",
+            "errorMessages": {},
+            "controlName": "checkbox5",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": false,
+            "options": []
+          },
+          {
+            "elementType": "checkbox",
+            "label": "None of the above",
+            "title": "None of the above",
+            "placeholder": "",
+            "description": "",
+            "errorMessages": {},
+            "controlName": "checkbox6",
+            "validations": [],
+            "next": "",
+            "formSection": "What is the name of your procurement?",
+            "value": false,
+            "options": [],
+            "onlyOption": true
+          }
+        ]
+        }, 
+        { 
+          "elementType":"checkboxGroup",
+          "label": "",
+          "title": "",
+          "placeholder":"",
+          "description": "",
+          "errorMessages": {"maxlength":"Maximum characters are 25"},
+          "controlName": "ictItemcheckboxGroup1",
+          "validations": [ "required", "maxLength(25)"],
+          "next":"",
+          "formSection": "What is the name of your procurement?",
+          "value": "",
+          "options": []
+        },
+        { 
+            "elementType":"radioButtonGroup",
+            "label": "",
+            "title": "What is the color of your component?",
+            "placeholder":"",
+            "description": "",
+            "errorMessages": {"required":"Select one option."},
+            "controlName": "ictItemRadioButtonGroup1",
+            "validations": ["required"],
+            "next":"",
+            "formSection": "",
+            "value": "blue",
+            "options": [
+              {"elementType":"radioButton","label":"Red","value":"red", "controlName":"optColor","validations":[],"next":"","formSection":""},
+              {"elementType":"radioButton","label":"Green","description":"This is the description of Green","value":"green","controlName":"optColor","validations":[],"next":"","formSection":""},
+              {"elementType":"radioButton","label":"Blue","value":"blue","controlName":"optColor","validations":[],"next":"","formSection":""}
+            ]
+          } 
+    ],
+    "formButtons": {"add":"Add "},
+    "clearForm": true,
+    "disable": false
+  }
+]
