@@ -50,7 +50,16 @@ function scrollFunction() {
 async function generateTable(data, index)
 {
   const obj = JSON.parse(data);
-  
+  setDropdownRule();
+  //Change j according to the page
+  var j = index;
+  createPicklistColumn();
+  createPicklistFilter(obj, j);
+  generateTableData(obj, j);
+}
+
+function setDropdownRule()
+{
   var rowFilter = document.getElementById('table-filter-list');
   var columnFilter = document.getElementById('column-filter-list');
 
@@ -67,16 +76,10 @@ async function generateTable(data, index)
   function() 
   {
     if(columnFilter.classList.contains('visible'))
-    columnFilter.classList.remove('visible');
+      columnFilter.classList.remove('visible');
     else
-    columnFilter.classList.add('visible');
+      columnFilter.classList.add('visible');
   }
-
-  //Change j according to the page
-  var j = index;
-  createPicklistColumn();
-  createPicklistFilter(obj, j);
-  generateTableData(obj, j);
 }
 
 function createPicklistColumn()

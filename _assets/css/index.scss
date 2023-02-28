@@ -766,7 +766,7 @@ div[role=rowheader] {
   }
   ul.items {
     padding: 2px;
-    display: none;
+    transform: scaleY(0);
     margin: 0;
     border: 1px solid #ccc;
     border-top: none;
@@ -803,8 +803,24 @@ div[role=rowheader] {
   .dropdown {
     font-weight: bold;
   }
-  .items {
-    display: block;
+  .items 
+  {
+    transform-origin: top center;
+    animation: growDown 500ms ease-in-out;
+    animation-direction: forwards;
+    transform: scaleY(1);
+
+  }
+}
+@keyframes growDown {
+  0% {
+      transform: scaleY(0)
+  }
+  80% {
+      transform: scaleY(1.1)
+  }
+  100% {
+      transform: scaleY(1)
   }
 }
 
@@ -821,7 +837,7 @@ div[role=rowheader] {
       }
       #RPL
       {
-        width:30%;
+        min-width:30%;
       }
       td
       {
