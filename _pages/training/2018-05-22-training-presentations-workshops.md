@@ -9,6 +9,10 @@ created: 1527019072
 
 ## 2022
 ### IT Accessibility Community Meetings
+December 7, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers shared what CDC is doing currently and planning around the need for accessible communication that is plain, clear, and inclusive, and will share some examples of recent work. Additionally, the speakers discussed how the world around us is shaped by our perspective, and so is our understanding of what we call disabilities.
+
+* [Captioned Text - DEC 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-DEC2022%29.docx)
+
 June 14, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
 * [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)

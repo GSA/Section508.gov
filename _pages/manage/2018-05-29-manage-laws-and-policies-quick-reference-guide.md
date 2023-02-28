@@ -154,7 +154,7 @@ Incorporate the standards into agency life-cycle development activities for elec
 Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 
 
 
-**Page Reviewed/Updated**: January 2018
+**Page Reviewed/Updated**: November 2022
 
 &nbsp;
 

@@ -13,7 +13,7 @@ Baseline tests&nbsp;of Information and Communication Technology (ICT) attempt to
 
 The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the [Revised 508 Standards][2], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to **create** an accessibility test process.
 
-Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <Accessibility@HQ.DHS.GOV> with questions.
+Email the ICT Baseline Working Group at <ictbaseline@gsa.gov> with questions.
 
 ## DHS Trusted Tester Process & Certification Program
 
@@ -27,7 +27,9 @@ The DHS Trusted Tester Process is a manual test approach that aligns with the IC
 Note that DHS no longer provides training and certification on Trusted Tester v4.0.
 
    * [DHS Section 508 Compliance Test Processes for TTv4][6]
-   
+
+Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <accessibility@hq.dhs.gov> with questions regarding the Trusted Tester Process & Certification Program.
+
 ## On-Demand Webinars
 
    * [Trusted Tester Awareness Webinar][10] - Overview of the purpose, benefits, and components of the Trusted Tester certification program
@@ -39,7 +41,7 @@ Note that DHS no longer provides training and certification on Trusted Tester v4
 
 The resources on this page were created through interagency collaborative efforts sponsored under the  [Accessibility Community of Practice (ACoP)][9], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards.][2]
 
-**Reviewed/Updated:** June 2021
+**Reviewed/Updated:** February 2023
 
  [1]: https://ictbaseline.access-board.gov/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

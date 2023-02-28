@@ -9,7 +9,7 @@ sidenav: false
 <h2><strong>Have a Question or Comment?</strong></h2>
 <p>Before you contact us, please review the resources below, which highlight some of the common tasks on this website. They may answer your question more quickly than waiting for a return email.</p>
 <ul>
-<li><a href="{{site.baseurl}}/tools/coordinator-listing">Find your agency’s IT Accessibility Program Manager</a></li>
+<li><a href="{{site.baseurl}}/tools/program-manager-listing/">Find your agency’s IT Accessibility Program Manager</a></li>
 <li><a href="{{site.baseurl}}/create">Learn how to create accessible content and websites</a></li>
 <li><a href="{{site.baseurl}}/training">Find training on IT accessibility</a></li>
 <li><a href="{{site.baseurl}}/sell/vpat">Learn about the Vendor Product Accessibility Template (VPAT&reg;)</a></li>

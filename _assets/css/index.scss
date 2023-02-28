@@ -11,7 +11,7 @@ $theme-show-notifications: false;
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-  background-image: asset_url("hero-online-conference4.png")
+  background-image: asset_url("hero-blue-world-sm.jpg")
 //  background-position: 50%;
 //  background-size: cover;
 }
@@ -98,6 +98,10 @@ a{
     border: 2px solid white;
     padding: 5px;
     min-height: 80px;
+}
+
+.bbh-65 {
+    min-height: 65px;  
 }
 
 .fade_line {

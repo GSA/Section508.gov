@@ -12,7 +12,7 @@ redirect_from:
 [Section 508 Policy][1]  
 [Related Laws][2]  
 [Related Policies][3]  
-[Agency Policies][4]
+[Agency Policies][4] 
 
 <div id="508-policy">
   <h2>
@@ -109,18 +109,12 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
   * <a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank">Example: SSA Internet Accessibility Policy</a>
   * <a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank">Example: Department of Justice Model Section 508 Complaint Process</a>
 
-### Sample Accessibility Statements
 
-  * [Accessibility Help][36] - SSA
-  * [Accessibility][37] - DHS
-  * [Web Governance - Accessibility][38] - VA
-  * [Website accessibility][39] - USA.gov
+### Accessibility Statements
 
-&nbsp;
+For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][36].
 
-**Reviewed/Updated:** March 2022
-
-&nbsp;
+**Reviewed/Updated:** November 2022
 
  [1]: #508-policy
  [2]: #laws
@@ -142,9 +136,9 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [18]: http://www.eac.gov/about_the_eac/help_america_vote_act.aspx
  [19]: https://www.fcc.gov/guides/21st-century-communications-and-video-accessibility-act-2010
  [20]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [21]: https://policy.cio.gov/web-policy/
+ [21]: https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf
  [22]: https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf
- [23]: https://policy.cio.gov/open-data/
+ [23]: https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
  [24]: https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/procurement_memo/improving_accessibility_gov_info_07192010.pdf
  [25]: https://obamawhitehouse.archives.gov/omb/procurement_index_508/
  [26]: https://assets.section508.gov/files/ombNews_February_2011.doc
@@ -157,9 +151,6 @@ Learn&nbsp;[how to maintain your agency's accessibility policies][35].
  [33]: {{site.baseurl}}/manage/laws-and-policies/international
  [34]: https://www.w3.org/WAI/policies/
  [35]: {{site.baseurl}}/manage/laws-and-policies/update-agency-policies
- [36]: https://www.ssa.gov/accessibility/508_overview.html
- [37]: https://www.dhs.gov/accessibility
- [38]: https://www.va.gov/web/standards/accessibility.cfm
- [39]: https://www.usa.gov/policies#item-211457
+ [36]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/
  [40]: https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication
  [41]: {{ site.baseurl}}/manage/laws-and-policies/far-update-comparison

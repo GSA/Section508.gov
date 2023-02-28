@@ -9,7 +9,7 @@ overview:
 image:
 image-alt: 
 permalink: /event/section-508-best-practices-webinars/
-description: Section508.gov Event Announcement | The Section 508 Program Maturity Report is a biannual accessibility status report submission required by the Office of Management and Budget Integrated Data Collection (IDC) Requirements.
+description: Section508.gov Event Announcement | The Section 508 Best Practices Webinar is a bimonthly event addresses a variety of issues associated with ensuring federal agencies have the knowledge they need to meet their obligations under Section 508.  
 ---
 
 The Section 508 Best Practices Webinar Series addresses a variety of issues associated with ensuring federal agencies have the knowledge they need to meet their obligations under Section 508. The series is co-sponsored by the Accessibility Community of Practice (ACOP) of the CIO Council and the U.S. Access Board.

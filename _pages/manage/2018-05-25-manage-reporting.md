@@ -24,7 +24,7 @@ redirect_from:
 </p>
 
 <p dir="ltr">
-  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on August 15, 2022.
+  <strong>When is the report due?</strong><br /> Reports are due twice per year, in February and August. The next report is due by 5:00 PM ET on February 15, 2023.
 </p>
 
 <p dir="ltr">
@@ -36,13 +36,13 @@ redirect_from:
 </p>
 <ul>
 <li dir="ltr">
-  CFO Act agencies: Shortly before the reporting due date, GSA will send login information to Section 508 Program Managers and other designated contacts
+  CFO Act agencies: A month before the reporting due date, GSA will send data submission information to each agency Section 508 Program Manager
 </li>
 <li dir="ltr">
-  Non-CFO Act agencies: Shortly before the reporting due date, GSA will send login information to Section 508 Program Managers
+  Non-CFO Act agencies: A month before the reporting due date, GSA will send data submission information to Section 508 Program Managers with agencies who have previously reported
 </li>
 <li dir="ltr">
-  Other federal agencies that wish to submit a report should email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to request access to the system
+  Other federal agencies that wish to submit a report should email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov</a> to request access to the reporting system
 </li>
 </ul>
 
@@ -84,7 +84,7 @@ redirect_from:
 </p>
 
 <p dir="ltr">
-  The current round of reports are <em>due</em> by 5:00 PM ET on August 15, 2022, with <em>final snapshots</em> due by 5:00 PM ET on August 31, 2022 unless your agency has negotiated a different date with OMB.
+  The current round of reports are <em>due</em> by 5:00 PM ET on February 15, 2023, with <em>final snapshots</em> due by 5:00 PM ET on February 28, 2023 unless your agency has negotiated a different date with OMB.
 </p>
 <ul>
 <li dir="ltr">
@@ -121,4 +121,4 @@ If your agency has not received login information, and you wish to submit a repo
   </div>
 </div>
 
-**Reviewed/Updated**: May 2022
+**Reviewed/Updated**: November 2022

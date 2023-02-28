@@ -5,7 +5,8 @@ type: article
 title: 'Mapping of WCAG 2.0 to Functional Performance Criteria'
 created: 1541532205
 tags:
-description: The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://www.access-board.gov/ict/">Revised Section 508 Standards</a> share the same objective to make <a href="https://section508.gov/content/glossary/#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities.
+contributors: usab
+description: Mapping of WCAG 2.0 to the Section 508 Functional Performance Criteria
 ---
 
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
@@ -34,7 +35,7 @@ input[type="search"]::-webkit-search-cancel-button {
     border-right: 2px solid;
 }
 </style>
-<p>The <a href="https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.w3.org%2FWAI%2Fstandards-guidelines%2Fwcag%2F&amp;data=02%7C01%7Ceng%40access-board.gov%7C0e89758ab7d44bd2bfd908d80c77ea9b%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C0%7C637273056465866606&amp;sdata=Jeg%2Fe4MjUQ5w0sb87L8grSQgq0M4QWEYiBfkpbuIG0w%3D&amp;reserved=0">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.access-board.gov%2Fguidelines-and-standards%2Fcommunications-and-it%2Fabout-the-ict-refresh&amp;data=02%7C01%7Ceng%40access-board.gov%7C0e89758ab7d44bd2bfd908d80c77ea9b%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C0%7C637273056465876597&amp;sdata=Pzw8NmbnW%2F7gwAb3b92i%2FDZBb3weT7YFdFlekQAlxkY%3D&amp;reserved=0">Revised Section 508 Standards</a> share the same objective: to make <a href="{{site.baseurl}}/content/glossary#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities. The revised Section 508 references WCAG 2.0 Level A and AA. The mapping in the table below relates each WCAG SC to the disabilities that may be impacted by non-conformance. In the table, the column headers (columns 2 through 9) represent the disabilities identified by the Section 508 Functional Performance Criteria.</p>
+<p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines</a> (WCAG) success criteria (SC) and the <a href="https://www.access-board.gov/ict/">Revised Section 508 Standards</a> share the same objective: to make <a href="{{site.baseurl}}/content/glossary#ict">information and communication technology</a> (ICT) accessible to individuals with disabilities. The revised Section 508 references WCAG 2.0 Level A and AA. The mapping in the table below relates each WCAG SC to the disabilities that may be impacted by non-conformance. In the table, the column headers (columns 2 through 9) represent the disabilities identified by the Section 508 Functional Performance Criteria.</p>
 <p>Please note that the information provided in this table is intended solely as informal guidance and is neither a determination of your legal rights or responsibilities, nor a statement of the official views of the U.S. Access Board, the GSA Office of Government-wide Policy IT Accessibility Program, or any other federal agency. Any links to non-federal websites are provided as a courtesy and do not represent an endorsement of the linked information, products, or services.</p>
 <p>Select one of the column headers to sort the table.</p>
 
@@ -369,4 +370,4 @@ input[type="search"]::-webkit-search-cancel-button {
     <p dir="ltr">We&#39;re always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.</p>
   </div>
 </div>
-<p><span class="bold"><strong>Reviewed/Updated:</strong>&nbsp;June 2020</span></p><p>&nbsp;</p>
+<p><span class="bold"><strong>Reviewed/Updated: </strong>November 2020</span></p>

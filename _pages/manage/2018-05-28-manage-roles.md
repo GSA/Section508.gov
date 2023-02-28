@@ -42,7 +42,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
     
 <tr >
       <td>
-        <a href="{{site.baseurl}}/tools/coordinator-listing">Agency Section 508 Program Manager</a>
+        <a href="{{site.baseurl}}/tools/program-manager-listing/">Agency Section 508 Program Manager</a>
       </td>
       
       <td>
