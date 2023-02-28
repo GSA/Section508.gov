@@ -561,7 +561,7 @@ created: 1527574221
  [13]: https://assets.section508.gov/files/standards-exceptions-chart.docx
  [14]: {{site.baseurl}}/create/software-websites
  [15]: {{site.baseurl}}/test
- [16]: {{site.baseurl}}/buy/accessibility-requirements-tool
+ [16]: {{site.baseurl}}/art/
  [17]: {{site.baseurl}}/buy/standards-exceptions
  [18]: {{site.baseurl}}/buy/define-accessibility-criteria
  [19]: {{site.baseurl}}/buy/request-accessibility-information
