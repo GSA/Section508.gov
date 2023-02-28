@@ -45,7 +45,7 @@ Mature agencies demonstrate the ability to educate and train the workforce regar
 ### Acquisition and Requirements Professionals
 All ICT procured, developed, maintained, or used by Federal agencies must be accessible. ICT includes software, hardware, electronic content, support documentation, and services. Contracting professionals are the first in a series of individuals who must confirm that accessibility is considered to ensure equal access to all, and avoid risk and cost associated with non-conformance.
 
-* [Accessibility Requirement Tool (ART)](/buy/accessibility-requirements-tool/) - Generate standardized Section 508 language to include appropriate Section 508 accessibility standards in requirements and acquisition planning documents and agreements
+* [Accessibility Requirement Tool (ART)](/art/) - Generate standardized Section 508 language to include appropriate Section 508 accessibility standards in requirements and acquisition planning documents and agreements
 * [Buy Accessible Products and Services](/buy/) - Guidance on including Section 508 from the beginning of the ICT procurement to avoid surprises during or after implementation
 * [Sell Accessible Products and Services](/sell/) - Guidance on how to do business with the Federal government, and demonstrate that your ICT product or service is accessible
 

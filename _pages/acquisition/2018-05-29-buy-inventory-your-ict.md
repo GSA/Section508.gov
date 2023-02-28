@@ -234,8 +234,8 @@ Contact your agency’s [Section 508 Coordinator][15] or email us at <section.50
  [8]: #5
  [9]: #6
  [10]: #7
- [11]: {{site.baseurl}}/buy/accessibility-requirements-tool
- [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [13]: {{site.baseurl}}/buy/determine-ict-exceptions
- [14]: {{site.baseurl}}/buy/determine-ict-standards
+ [11]: {{site.baseurl}}/art/
+ [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
+ [13]: {{site.baseurl}}/buy/determine-ict-exceptions/
+ [14]: {{site.baseurl}}/buy/determine-ict-standards/
  [15]: {{site.baseurl}}/tools/program-manager-listing/

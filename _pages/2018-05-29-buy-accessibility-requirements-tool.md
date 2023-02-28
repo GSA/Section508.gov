@@ -8,6 +8,8 @@ sidenav: false
 redirect_from:
 - /art/home/
 - /buy/art/home/
+redirect_to:
+- /art/
 ---
 
 <a href="{{site.baseurl}}/art/" class="usa-button usa-button--accent-warm">Start Using ART</a>
