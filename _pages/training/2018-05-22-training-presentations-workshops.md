@@ -168,7 +168,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
 [8]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2020%29.docx
 [9]: https://assets.section508.gov/files/Access-Israel-at-U.S-GSA-%28ITACM-2020-12-01%29.pptx
 [10]: https://assets.section508.gov/files/Section-508-in-2020–The-Year-in-Review-%28ITACM-2020-12-01%29.pptx
-[11]: {{site.baseurl}}/buy/accessibility-requirements-tool
+[11]: {{site.baseurl}}/art/
 [12]: https://srt.app.cloud.gov/
 [13]: https://assets.section508.gov/files/Captioned Text (ITACM - AUG2020).docx
 [14]: https://assets.section508.gov/files/Sections-of-the-Rehabilitation-Act-of-1973-%28ITACM-AUG_2020%29%20%281%29.pptx
