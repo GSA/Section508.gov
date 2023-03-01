@@ -52,22 +52,23 @@ Another acceptable approach is to include the accessibility statement among a se
 
 ## Examples of Accessibility Statements
 
-* [Department of Homeland Security (DHS)][1]
-* [Department of State (USDOS)][2]
-* [Department of the Interior (DOI)][3]
-* [Federal Communications Commission (FCC)][4]
-* [Federal Deposit Insurance Corporation (FDIC)][5]
-* [National Security Agency (NSA)][6]
-* [U.S. Access Board (USAB)][7]
+* [Department of Homeland Security (DHS)][2]
+* [Department of State (USDOS)][3]
+* [Department of the Interior (DOI)][4]
+* [Federal Communications Commission (FCC)][5]
+* [Federal Deposit Insurance Corporation (FDIC)][6]
+* [National Security Agency (NSA)][7]
+* [U.S. Access Board (USAB)][8]
 
 <p>&nbsp;</p>
 
-**Reviewed/Updated:** December 2022
+**Reviewed/Updated:** March 2023
 
-[1]: https://www.dhs.gov/accessibility
-[2]: https://www.state.gov/section-508-accessibility-statement/
-[3]: https://doi.gov/accessibility
-[4]: https://www.fcc.gov/accessibility/program
-[5]: https://www.fdic.gov/accessibility/index.html
-[6]: https://www.nsa.gov/nsa-accessibility/
-[7]: https://www.access-board.gov/about/policy/accessibility.html
+[1]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
+[2]: https://www.dhs.gov/accessibility
+[3]: https://www.state.gov/section-508-accessibility-statement/
+[4]: https://doi.gov/accessibility
+[5]: https://www.fcc.gov/accessibility/program
+[6]: https://www.fdic.gov/accessibility/index.html
+[7]: https://www.nsa.gov/nsa-accessibility/
+[8]: https://www.access-board.gov/about/policy/accessibility.html
