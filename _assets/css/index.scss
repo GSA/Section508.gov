@@ -485,24 +485,33 @@ div[role=rowheader] {
 
 
 /*IT Accessibility Policy Framework*/
-
-/*Guiding Questions*/     
-.hover-large
-{
-  margin: 10px 0;
-  font-weight: 550;
-  font-size: 12px;
-  text-decoration: none;
-}
-.hover-large:hover
-{
-  font-size: 14px;
-  transition: all 200ms;
-}
-.nolink 
+.no-link
 {
   color: black;
 }
+/*Guiding Questions*/     
+  .footnote
+  {
+    list-style-type: none; 
+    padding-left:0;
+  }
+  .hover-large
+  {
+    margin: 10px 0;
+    font-weight: 550;
+    font-size: 12px;
+    text-decoration: none;
+  }
+  .hover-large:hover
+  {
+    font-size: 14px;
+    transition: all 200ms;
+  }
+  .nolink 
+  {
+    color: black;
+  }
+
 
 .it-table
 {
@@ -742,7 +751,7 @@ div[role=rowheader] {
     display: inline-block;
     padding: 5px 50px 5px 10px;
     border: 1px solid #ccc;
-    z-index: 99;
+    z-index: 98;
     border-radius: 8px;
   }
   .dropdown:after {
@@ -758,11 +767,19 @@ div[role=rowheader] {
     -o-transform: rotate(-135deg);
     -webkit-transform: rotate(-135deg);
     transform: rotate(-135deg);
-    z-index: 99;
+    z-index: 98;
   }
   .dropdown:active:after {
     right: 8px;
     top: 21%;
+  }
+  #column-filter
+  {
+    z-index: 99;
+  }
+  #picklist-filter
+  {
+    z-index: 98;
   }
   ul.items {
     padding: 2px;
@@ -775,16 +792,23 @@ div[role=rowheader] {
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
     width: 185px;
-    z-index: 99;
+    // z-index: 99;
     li {
       list-style: none;
       font-size: 13px;
       display: flex;
       flex-direction: row;
       margin-bottom: 10px;
+      input[type=checkbox]
+      {
+        height: 13px;
+        width: 13px;
+      }
       input
       {
         width: 8%;
+        margin-top: auto;
+        margin-bottom: auto;
         margin-right: 8px;
         margin-left: 5px;
         outline:0;
