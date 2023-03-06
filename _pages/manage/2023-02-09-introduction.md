@@ -45,10 +45,10 @@ The IT Accessibility Policy Framework offers agencies a generalized, standard ap
         <a href="{{site.baseurl}}/manage/how-to-use-the-framework/how-to-identify-policies/">How to Use the IT Accessibility Policy Framework</a>: Describes policy categories recommended and not recommended for review, ICT accessibility policies that should be in place, criteria for policy evaluation, and how to map and prioritize policies according to need. 
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/">Guidance by Policy Type</a> : Describes likely omissions of ICT accessibility language in policies, provides recommendations on the sufficiency of ICT accessibility language across different policy types, and presents recommended language that agencies can incorporate into their policies to improve sufficiency.
+        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/">Guidance by Policy Type</a>: Describes likely omissions of ICT accessibility language in policies, provides recommendations on the sufficiency of ICT accessibility language across different policy types, and presents recommended language that agencies can incorporate into their policies to improve sufficiency.
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/">Resources and References</a> : Catalogs relevant and non-relevant policy types and subtypes considered in the framework; provides the Policy Review Template, a generic spreadsheet template that can facilitate internal agency policy review and analysis; and includes a summary of the evaluation criteria.
+        <a href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/">Resources and References</a>: Catalogs relevant and non-relevant policy types and subtypes considered in the framework; provides the Policy Review Template, a generic spreadsheet template that can facilitate internal agency policy review and analysis; and includes a summary of the evaluation criteria.
     </li>
 </ul>
 

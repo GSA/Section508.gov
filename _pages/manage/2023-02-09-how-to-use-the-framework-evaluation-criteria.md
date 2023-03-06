@@ -10,6 +10,9 @@ created: December 09, 2023
 <h2 id="standards">
   Description of Evaluation Criteria
 </h2>
+<h3 id="standards" class = "subheading">
+  Determination of Importance
+</h3>
 The IT Accessibility Policy Framework uses two criteria, <b>Sufficiency</b> and <b>Importance</b>, to evaluate agency policies for ICT accessibility language. These criteria, applied in combination across your agency’s policy directive, allow you to holistically determine which policies have the greatest need of remediation.
 <h3 id="standards" class = "subheading">
   Sufficiency

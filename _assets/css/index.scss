@@ -735,14 +735,14 @@ div[role=rowheader] {
 .dropdown-check-list {
   display: inline-block;
   float: right;
-  height: 37.59px;
-  width: 185px;
-  z-index: 99;
-  right: 0;
-  border-radius: 8px;
-  margin-top: 5px;
-  margin-bottom: 10px;
-  margin-left: 5px;
+    height: 37.59px;
+    width: 185px;
+    z-index: 99;
+    right: 0;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
   .dropdown {
     font-size: 13px;
     width: 185px;
@@ -792,11 +792,11 @@ div[role=rowheader] {
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
     width: 185px;
-    // z-index: 99;
     li {
       list-style: none;
       font-size: 13px;
-      display: flex;
+      display: none;
+      // display: flex;
       flex-direction: row;
       margin-bottom: 10px;
       input[type=checkbox]
@@ -811,7 +811,7 @@ div[role=rowheader] {
         margin-bottom: auto;
         margin-right: 8px;
         margin-left: 5px;
-        outline:0;
+        outline:1;
       }
       p
       {
@@ -820,7 +820,6 @@ div[role=rowheader] {
     }
     
   }
-  
 }
 .dropdown-check-list.visible 
 {
@@ -833,6 +832,10 @@ div[role=rowheader] {
     animation: growDown 350ms ease-in-out;
     animation-direction: forwards;
     transform: scaleY(1);
+    li
+    {
+        display: flex;
+    }
 
   }
 }

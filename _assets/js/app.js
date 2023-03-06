@@ -80,6 +80,28 @@ function setDropdownRule()
     else
       columnFilter.classList.add('visible');
   }
+  rowFilter.getElementsByClassName('dropdown')[0].onkeydown = 
+  function(key) 
+  {
+    if(key.keyCode === 32)
+    {
+      if(rowFilter.classList.contains('visible'))
+        rowFilter.classList.remove('visible');
+      else
+        rowFilter.classList.add('visible');
+    }
+  }
+  columnFilter.getElementsByClassName('dropdown')[0].onkeydown  = 
+  function(key) 
+  {
+    if(key.keyCode === 32)
+    {
+      if(columnFilter.classList.contains('visible'))
+        columnFilter.classList.remove('visible');
+      else
+        columnFilter.classList.add('visible');
+    }
+  }
 }
 
 function createPicklistColumn()
@@ -210,7 +232,7 @@ if(document.getElementById('policytype-table') != null)
                 "description": "Policies that apply to arrangement and administration of agreements, and management of performance of contract holders.",
                 "pg": "No mention of a tool or resource to help identify and incorporate relevant accessibility requirements into procurement and contracting documentation.",
                 "rInclusions": "Reference to the Accessibility Requirements Tool (ART) for guided assistance to identify and include relevant accessibility requirements into procurement and contracting documentation.",
-                "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the Accessibility Requirements Tool (ART) tool for guided assistance to identify relevant accessibility requirements: <a href='https://app.buyaccessible.gov/'>https://app.buyaccessible.gov/</a>."
+                "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the <a href='https://app.buyaccessible.gov/'>Accessibility Requirements Tool (ART)</a> for guided assistance to identify relevant accessibility requirements."
             },
             {
                 "pt": "Acquisition Management",

@@ -18,12 +18,12 @@ The policy type Human Resources Management refers to policies that apply to the 
   </p>
   <div>
     <div id="column-filter-list" class="dropdown-check-list">
-      <span class="dropdown">Show/Hide Column</span>
+      <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
       </ul>
     </div>
     <div id="table-filter-list" class="dropdown-check-list">
-      <span class="dropdown">Select Filters</span>
+      <span class="dropdown" tabindex="0">Select Filters</span>
       <ul class="items" id="picklist-filter">
       </ul>
     </div>
