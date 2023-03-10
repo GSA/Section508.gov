@@ -128,8 +128,6 @@ manage:
           url: manage/resources-and-references/list-of-acronyms/
       - name: FAQ
         url: manage/faq/
-      - name: Support Information
-        url: manage/support-information/
 training:
   - name: Training, Tools & Events
     url: 'training/'

@@ -13,4 +13,15 @@ The <a href = "https://docs.google.com/spreadsheets/d/17KFr14blp-f2rgukwPmEU9Yyf
 
 
 <a id ="policy-download" href="https://drive.google.com/uc?export=download&id=17KFr14blp-f2rgukwPmEU9Yyf0mN7iTV" download="Policy Review Template.xlsx">Download Policy Review Template</a>
+<br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/real-property-management/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/resources-and-references/all-policy-types-and-subtypes/"> 
+      Next >
+    </a>
+</div>
+</div>
 

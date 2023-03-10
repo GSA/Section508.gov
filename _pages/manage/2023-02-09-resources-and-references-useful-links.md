@@ -8,7 +8,7 @@ created: December 09, 2023
 ---
 
 <h2 id="standards">
-  Laws, Policies, and Guidance
+  Useful Links
 </h2>
 
 <h3 id="standards" class = "subheading">
@@ -47,6 +47,16 @@ created: December 09, 2023
     <li><a href="https://www.section508.gov/buy/accessibility-requirements-tool/">ART</a></li>
     <li><a href="https://www.section508.gov/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a></li>
 </ul>
-
+<br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/resources-and-references/summary-of-summary-criteria/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/resources-and-references/list-of-acronyms/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 

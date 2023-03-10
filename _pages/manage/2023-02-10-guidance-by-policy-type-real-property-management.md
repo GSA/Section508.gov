@@ -16,7 +16,7 @@ The policy type Real Property Management refers to policies that apply to the on
   <p class="table-heading" id="real-property-management">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Real Property Management policy subtypes.</b>
   </p>
-  <div>
+ <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -44,6 +44,16 @@ The policy type Real Property Management refers to policies that apply to the on
 </div>
 <a class="hover-large nolink"><sup>1</sup>A policy subtype within Real Property Management that may not be relevant for your agency is Disposal.</a>
 <br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/legal/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 
 

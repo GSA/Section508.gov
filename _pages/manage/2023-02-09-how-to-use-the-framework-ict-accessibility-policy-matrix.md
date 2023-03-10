@@ -12,72 +12,64 @@ created: December 09, 2023
 As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy Need/Engagement Matrix is a tool that characterizes the criticality of policies to ICT accessibility, and assists in the prioritization of policies with the greatest need of remediation. It is structured according to two intersecting factors, the <b>Sufficiency</b> of ICT accessibility information and the <b>Importance</b> to ICT accessibility considerations, the latter of which is a combination of the <b>Relevance</b> and <b>Level of Detail</b> criteria, as described above.
 <p class="table-heading"><b>Table 1. ICT Accessibility Policy Need/Engagement Matrix.</b></p>
 <div class="table-it">
-    <div class="column-text">
-        <p class="table-heading">
-            <b>Sufficiency of ICT Accessibility Information</b>
-        </p>
-    </div>
     <div class="column-table">
-        <p class="table-heading center">
-            <b>Importance to ICT Accessibility Considerations<br>(Combination of Relevance and Level of Detail)</b>
-        </p>
         <table id="table2-it">
             <tr>
-                <td></td>
-                <td>Not Very Important/Not Important</td>
-                <td>Somewhat Important</td>
-                <td>Important</td>
-                <td>High Importance</td>
-                <td>Very High Importance</td>
+                <tr>
+                    <th colspan="1" style= "width:15%;border:none;"></th>
+                    <th colspan="6" style= "width:85%;border:none;" id="imICT">Importance to ICT Accessibility Considerations<br>(Combination of Relevance and Level of Detail)</th>
+                </tr>
+                <tr>
+                    <th rowspan="7" colspan="1" style= "height:100%;border:none;object-fit: contain;" id="sICT">Sufficiency of ICT Accessibility Information</th>
+                    <th></th>
+                    <th id="notIm" headers="imICT" >Not Very Important/Not Important</th>
+                    <th id="sIm" headers="imICT">Somewhat Important</th>
+                    <th id="im" headers="imICT">Important</th>
+                    <th id="hIm" headers="imICT">High Importance</th>
+                    <th id="vhIm" headers="imICT">Very High Importance</th>
+                </tr>
             </tr>
             <tr>
-                <td>Essential ICT Accessibility Information Missing</td>
-                <th class="m">Moderate</th>
-                <th class="h">High</th>
-                <th class="vh">Very High</th>
-                <th class="c">Critical</th>
-                <th class="c">Critical</th>
+                <th id="eICT" headers="sICT">Essential ICT Accessibility Information Missing</th>
+                <td headers="eICT notIm imICT sICT" class="m">Moderate</td>
+                <td headers="eICT sIm imICT sICT" class="h">High</td>
+                <td headers="eICT im imICT sICT" class="vh">Very High</td>
+                <td headers="eICT hIm imICT sICT" class="c">Critical</td>
+                <td headers="eICT vhIm imICT sICT" class="c">Critical</td>
             </tr>
             <tr>
-                <td>Inadequate, Contains Some ICT Accessibility Language</td>
-                <th class="l">Low</th>
-                <th class="m">Moderate</th>
-                <th class="h">High</th>
-                <th class="vh">Very High</th>
-                <th class="c">Critical</th>
+                <th id="iICT" headers="sICT">Inadequate, Contains Some ICT Accessibility Language</th>
+                <td headers="iICT notIm imICT sICT" class="l">Low</td>
+                <td headers="iICT sIm imICT sICT" class="m">Moderate</td>
+                <td headers="iICT im imICT sICT" class="h">High</td>
+                <td headers="iICT hIm imICT sICT" class="vh">Very High</td>
+                <td headers="iICT vhIm imICT sICT" class="c">Critical</td>
             </tr>
             <tr>
-                <td>Somewhat Sufficient</td>
-                <th class="l">Low</th>
-                <th class="m">Moderate</th>
-                <th class="m">Moderate</th>
-                <th class="h">High</th>
-                <th class="vh">Very High</th>
+                <th id="SS" headers="sICT">Somewhat Sufficient</th>
+                <td headers="SS notIm imICT sICT" class="l">Low</td>
+                <td headers="SS sIm imICT sICT" class="m">Moderate</td>
+                <td headers="SS im imICT sICT" class="m">Moderate</td>
+                <td headers="SS hIm imICT sICT" class="h">High</td>
+                <td headers="SS vhIm imICT sICT" class="vh">Very High</td>
             </tr>
             <tr>
-                <td>Mostly Sufficient</td>
-                <th class="vl">Very Low</th>
-                <th class="l">Low</th>
-                <th class="l">Low</th>
-                <th class="m">Moderate</th>
-                <th class="m">Moderate</th>
+                <th id="MS" headers="sICT">Mostly Sufficient</th>
+                <td headers="MS notIm imICT sICT" class="vl">Very Low</td>
+                <td headers="MS sIm imICT sICT" class="l">Low</td>
+                <td headers="MS im imICT sICT" class="l">Low</td>
+                <td headers="MS hIm imICT sICT" class="m">Moderate</td>
+                <td headers="MS vhIm imICT sICT" class="m">Moderate</td>
             </tr>
             <tr>
-                <td>Fully Sufficient</td>
-                <th class="vl">Very Low</th>
-                <th class="vl">Very Low</th>
-                <th class="l">Low</th>
-                <th class="l">Low</th>
-                <th class="m">Moderate</th>
+                <th id="FS" headers="sICT">Fully Sufficient</th>
+                <td headers="FS notIm imICT sICT" class="vl">Very Low</td>
+                <td headers="FS sIm imICT sICT" class="vl">Very Low</td>
+                <td headers="FS im imICT sICT" class="l">Low</td>
+                <td headers="FS hIm imICT sICT" class="l">Low</td>
+                <td headers="FS vhIm imICT sICT" class="m">Moderate</td>
             </tr>
         </table>
-        <p class="table-heading table-heading-mobile">
-            <b>Row headers - Sufficiency of ICT Accessibility Information</b>
-        </p>
-        <br>
-        <p class="table-heading table-heading-mobile">
-            <b>Column headers - Importance to ICT Accessibility Considerations</b>
-        </p>
     </div>
 </div>
 
@@ -106,3 +98,14 @@ The below descriptions of ratings facilitate interpretation of the ICT Accessibi
 While agencies would ideally update all policies that have been determined to need updated ICT accessibility language, the reality is that agencies vary widely in terms of the resources needed to make these changes. For example, with <b>Table 1</b> as point of reference, the twenty-four Chief Financial Officer (CFO) Act Agencies likely have the funding and personnel to remediate all policies with a “Low” overall outcome or higher<sup>1</sup>. At the same time, many small and independent agencies contend with funding and personnel limitations, and may set a higher threshold (e.g., “Moderate” or “High”) to prioritize their policy remediation efforts, even if their policy portfolios are also comparatively smaller. Thus, each agency will have to make its own determination about which policies to prioritize for remediation based on its available resources, personnel, and its assessment of Section 508 compliance risks.
 
 <a class="hover-large" href="https://www.congress.gov/bill/101st-congress/house-bill/5687/text"><sup>1</sup>Chief Financial Officers Act of 1990, H.R.5687, 101st Cong. (1990).</a>
+
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/guiding-question/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/"> 
+      Next >
+    </a>
+</div>
+</div>

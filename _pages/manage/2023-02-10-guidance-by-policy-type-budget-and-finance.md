@@ -15,7 +15,7 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
   <p class="table-heading" id="budget-and-finance">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Budget and Finance policy subtypes.</b>
   </p>
-  <div>
+ <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -52,6 +52,16 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>5</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/administrative-services/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/communications/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 
 

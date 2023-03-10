@@ -16,7 +16,7 @@ The policy type Acquisition and Procurement refers to policies that apply to the
   <p class="table-heading" id="acquisition-and-procurement">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Acquisition and Procurement policy subtypes.</b>
   </p>
-  <div>
+  <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -58,3 +58,14 @@ The policy type Acquisition and Procurement refers to policies that apply to the
     <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>4</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
   </li>
 </ul>
+
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/administrative-services/"> 
+      Next >
+    </a>
+</div>
+</div>

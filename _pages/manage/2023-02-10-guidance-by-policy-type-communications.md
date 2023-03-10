@@ -14,7 +14,7 @@ The Communications policy type refers to policies pertaining to all spoken and w
   <p class="table-heading" id="communications">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Communications policy subtypes.</b>
   </p>
-  <div>
+ <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -59,4 +59,14 @@ The Communications policy type refers to policies pertaining to all spoken and w
     <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>5</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
   </li>
 </ul>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/"> 
+      Next >
+    </a>
+</div>
+</div>
 

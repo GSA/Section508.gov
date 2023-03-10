@@ -16,7 +16,7 @@ The policy type Emergency Response refers to policies that apply to planning, pe
   <p class="table-heading" id="emergency-response">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Emergency Response policy subtypes.</b>
   </p>
-  <div>
+ <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -55,6 +55,16 @@ The policy type Emergency Response refers to policies that apply to planning, pe
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>6</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/communications/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/human-resources-management/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 
 

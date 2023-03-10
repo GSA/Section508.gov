@@ -16,7 +16,7 @@ The policy type Administrative Services refers to policies that apply to the pla
   <p class="table-heading" id="administrative-services">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Administrative Services policy subtypes. </b>
   </p>
-  <div>
+  <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -26,7 +26,7 @@ The policy type Administrative Services refers to policies that apply to the pla
       <span class="dropdown" tabindex="0">Select Filters</span>
       <ul class="items" id="picklist-filter">
       </ul>
-    </div>
+    </div>  
   </div>
   <table class="it-table">
     <thead>
@@ -74,3 +74,15 @@ The policy type Administrative Services refers to policies that apply to the pla
   <li>
   <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>9</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
   </li>
+
+<div>
+<br>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/acquisition-and-procurement/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/"> 
+      Next >
+    </a>
+</div>
+</div>

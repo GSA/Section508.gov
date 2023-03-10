@@ -16,7 +16,7 @@ The policy type Human Resources Management refers to policies that apply to the 
   <p class="table-heading" id="human-resources-management">
       <b>Table 1. Potential gaps, recommended inclusions, and recommended policy language for Human Resources Management policy subtypes.</b>
   </p>
-  <div>
+ <div class="dropdowns">
     <div id="column-filter-list" class="dropdown-check-list">
       <span class="dropdown" tabindex="0">Show/Hide Column</span>
       <ul class="items" id="column-filter">
@@ -66,4 +66,14 @@ The policy type Human Resources Management refers to policies that apply to the 
 <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2009-title42/html/USCODE-2009-title42-chap126.htm"><sup>10</sup>Americans with Disabilities Act of 1990, as amended, 42 U.S.C. § 12101 (1990). </a>
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>11</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
-<br>
+
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/guidance-by-policy-type/information-technology-services/"> 
+      Next >
+    </a>
+</div>
+</div>

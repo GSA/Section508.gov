@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/introduction/
 type: manage
-title: "Introduction"
+title: "IT Accessibility Policy Framework - Introduction"
 created: December 09, 2023
 ---
 
@@ -51,6 +51,15 @@ The IT Accessibility Policy Framework offers agencies a generalized, standard ap
         <a href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/">Resources and References</a>: Catalogs relevant and non-relevant policy types and subtypes considered in the framework; provides the Policy Review Template, a generic spreadsheet template that can facilitate internal agency policy review and analysis; and includes a summary of the evaluation criteria.
     </li>
 </ul>
+<div>
+<div id="prev-next-section" style="justify-content: space-around;">
+    <a class="prev-page" title="Go to previous page" style="display:none;"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/how-to-identify-policies/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 
 

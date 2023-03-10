@@ -83,7 +83,7 @@ function setDropdownRule()
   rowFilter.getElementsByClassName('dropdown')[0].onkeydown = 
   function(key) 
   {
-    if(key.keyCode === 32)
+    if((key.keyCode === 32)||(key.keyCode === 13))
     {
       if(rowFilter.classList.contains('visible'))
         rowFilter.classList.remove('visible');
@@ -94,7 +94,7 @@ function setDropdownRule()
   columnFilter.getElementsByClassName('dropdown')[0].onkeydown  = 
   function(key) 
   {
-    if(key.keyCode === 32)
+    if((key.keyCode === 32)||(key.keyCode === 13))
     {
       if(columnFilter.classList.contains('visible'))
         columnFilter.classList.remove('visible');
@@ -103,17 +103,15 @@ function setDropdownRule()
     }
   }
 }
-
 function createPicklistColumn()
 {
   document.getElementById('column-filter').innerHTML =
   `
-    <li><input type="checkbox" id="Description" onclick="hideColumn(Description, 'columnD')" checked/><p>Description</p></li>
-    <li><input type="checkbox" id="PotentialGaps" onclick="hideColumn(PotentialGaps, 'columnPG')" checked/><p>Potential Gaps</p></li>
-    <li><input type="checkbox" id="RecommendedI" onclick="hideColumn(RecommendedI, 'columnRI')" checked/><p>Recommended Inclusions</p></li>
-    <li><input type="checkbox" id="RecommendedP" onclick="hideColumn(RecommendedP, 'columnRPL')" checked/><p>Recommended Policy Language</p></li>
+    <li><input aria-labelledby="dlabel" type="checkbox" id="Description" onclick="hideColumn(Description, 'columnD')" checked/><p id="dlabel">Description</p></li>
+    <li><input aria-labelledby="pglabel" type="checkbox" id="PotentialGaps" onclick="hideColumn(PotentialGaps, 'columnPG')" checked/><p id="pglabel">Potential Gaps</p></li>
+    <li><input aria-labelledby="rilabel" type="checkbox" id="RecommendedI" onclick="hideColumn(RecommendedI, 'columnRI')" checked/><p id="rilabel">Recommended Inclusions</p></li>
+    <li><input aria-labelledby="rplabel" type="checkbox" id="RecommendedP" onclick="hideColumn(RecommendedP, 'columnRPL')" checked/><p id="rplabel">Recommended Policy Language</p></li>
   `
-
 }
 //This function will hide the column depend on the column name
 function hideColumn(columnPicklistId, columnToRemove)
@@ -149,7 +147,7 @@ function createPicklistFilter(obj, j)
       {
         picklistFilter.innerHTML = 
         `
-        <li><input type="checkbox" class="name" name="name" value="${obj.guidanceByPolicyType[j].content[i].pt}" /><p>${obj.guidanceByPolicyType[j].content[i].pt}</p></li>
+        <li><input aria-labelledby="${obj.guidanceByPolicyType[j].content[i].pt.replace(/\s/g, "")}" type="checkbox" class="name" name="name" value="${obj.guidanceByPolicyType[j].content[i].pt}" /><p id="${obj.guidanceByPolicyType[j].content[i].pt.replace(/\s/g, "")}">${obj.guidanceByPolicyType[j].content[i].pt}</p></li>
         `;
         filterMap.set(`${obj.guidanceByPolicyType[j].content[i].pt}`, `${obj.guidanceByPolicyType[j].content[i].pt}`);
       }
@@ -157,7 +155,7 @@ function createPicklistFilter(obj, j)
       {
       picklistFilter.innerHTML += 
         `
-        <li><input type="checkbox" class="name" name="name" value="${obj.guidanceByPolicyType[j].content[i].pt}" /><p>${obj.guidanceByPolicyType[j].content[i].pt}</p></li>
+        <li><input aria-labelledby="${obj.guidanceByPolicyType[j].content[i].pt.replace(/\s/g, "")}" type="checkbox" class="name" name="name" value="${obj.guidanceByPolicyType[j].content[i].pt}" /><p id="${obj.guidanceByPolicyType[j].content[i].pt.replace(/\s/g, "")}">${obj.guidanceByPolicyType[j].content[i].pt}</p></li>
         `;
         filterMap.set(`${obj.guidanceByPolicyType[j].content[i].pt}`, `${obj.guidanceByPolicyType[j].content[i].pt}`);
       }

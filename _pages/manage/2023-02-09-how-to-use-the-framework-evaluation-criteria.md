@@ -61,5 +61,14 @@ The <b>Level of Detail</b> criteria is used to classify the type of a policy and
 Determination of Importance
 The <b>Importance</b> rating can be determined by interpreting and combining the ratings for <b>Relevance</b> and <b>Level of Detail</b>. On the next page, <b>Table 1</b> illustrates this approach through an exhaustive list of conditional statements, in which ratings for <b>Relevance</b> and <b>Level of Detail</b> serve as the conditions (i.e., the “if” part of the statement) and the <b>Importance</b> ratings serve as the outcomes (i.e. the “then” part of the statement). Note that <b>Table 1</b> is sorted first by <b>Importance</b>, then by <b>Relevance</b>, and last by <b>Level of Detail</b>.
 
-
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/how-to-identify-policies/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/guiding-question/"> 
+      Next >
+    </a>
+</div>
+</div>
 

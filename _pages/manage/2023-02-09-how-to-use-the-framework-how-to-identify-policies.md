@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/how-to-use-the-framework/how-to-identify-policies/
 type: manage
-title: "How to Identify Policies"
+title: "IT Accessibility Policy Framework - How to Identify Policies"
 created: December 09, 2023
 ---
 
@@ -65,6 +65,17 @@ The following policy types are not generally recommended for review as the corre
 <br>
 <a class="hover-large nolink" ><sup>2</sup>The IT Accessibility Policy Framework is intended to be used for remediation of<br> policies that apply to the internal functions of your agency. While it could also be<br> used to remediate policies that apply governmentwide, that is not its <br>intended purpose.</a>
 
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+    href="{{site.baseurl}}/manage/introduction/">
+           < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/evaluation-criteria/"> 
+      Next >
+    </a>
+</div>
+</div>
 
 
 

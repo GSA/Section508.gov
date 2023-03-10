@@ -99,3 +99,14 @@ Agencies can leverage the <a href="{{site.baseurl}}/manage/resources-and-referen
     <td>Not Very Important/Not Important</td>
   </tr>
 </table>
+<br>
+<div>
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to previous page" 
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/evaluation-criteria/"> < Previous</a>
+    <a class="prev-page" title="Go to next page"
+      href="{{site.baseurl}}/manage/how-to-use-the-framework/ict-accessibility-policy-matrix/"> 
+      Next >
+    </a>
+</div>
+</div>

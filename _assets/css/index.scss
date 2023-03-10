@@ -485,6 +485,29 @@ div[role=rowheader] {
 
 
 /*IT Accessibility Policy Framework*/
+
+#prev-next-section
+{
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  .prev-page {
+    text-decoration: none;
+    width: 120px !important;
+    background-color: rgba(17, 47, 78, 0.93);
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .prev-page:hover {
+    background-color: #555;
+  }
+}
+
 .no-link
 {
   color: black;
@@ -599,6 +622,7 @@ div[role=rowheader] {
     td
     {
       font-size: 10px;
+      font-weight: bold;
       text-align: center;
     }
     th
@@ -640,11 +664,6 @@ div[role=rowheader] {
   {
     text-align: center;
   }
-
-  .table-heading-mobile
-  {
-    display: none;
-  }
   
 }
 
@@ -679,26 +698,17 @@ div[role=rowheader] {
       }  
       td
       {
-        font-size: 9px;
+        font-size: 7.5px !important;
         text-align: center;
+        
       }
       th
       {
-        font-size: 11px;
+        font-size: 7.5px !important;
         text-align: center;
+        overflow: hidden;
       }
-    }
-    .table-heading
-    {
-      display: none !important;
-    }
-    .table-heading-mobile
-    {
-      display:contents !important;
-      margin-bottom: 0;
-    }
-    
-  
+    }  
 }
 /*Download button*/
 #policy-download
@@ -731,17 +741,19 @@ div[role=rowheader] {
 } 
 
 /*For the table*/
-
+.dropdowns
+{
+    float: right;
+    margin-bottom: 10px;
+}
 .dropdown-check-list {
   display: inline-block;
-  float: right;
     height: 37.59px;
     width: 185px;
     z-index: 99;
     right: 0;
     border-radius: 8px;
     margin-top: 5px;
-    margin-bottom: 10px;
     margin-left: 5px;
   .dropdown {
     font-size: 13px;
@@ -850,7 +862,6 @@ div[role=rowheader] {
       transform: scaleY(1)
   }
 }
-
 .q-table
 {
   .it-table
@@ -866,8 +877,9 @@ div[role=rowheader] {
       {
         min-width:30%;
       }
-      td
+      td, th
       {
+        word-break: break-word;
         overflow: hidden !important;
       }
     }
