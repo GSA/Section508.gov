@@ -2,13 +2,13 @@
 layout: page
 sidenav: true
 permalink: manage/join-the-508-community/
-type: manage
-title: 'Section 508/IT Accessibility Community'
+type: manage 
+title: 'Section 508 IT Accessibility Community'
 created: 1530040376
 ---
 
 <p dir="ltr">
-  Welcome to the IT Accessibility Community of Practice (508 CoP). This community consists of U.S. Government professionals who work to enhance access to federal information technology (IT). We identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards. We share successful practices and information, and engage advocacy groups, industry, and academia around innovative solutions for accessible technology.
+  Welcome to the Section 508 IT Accessibility Community (SEC508ITAC). This community consists of U.S. Government professionals who work to enhance access to federal information technology (IT). We identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards. We share successful practices and information, and engage advocacy groups, industry, and academia around innovative solutions for accessible technology.
 </p>
 
 <ul>
