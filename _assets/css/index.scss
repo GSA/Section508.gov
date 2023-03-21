@@ -584,7 +584,18 @@ div[role=rowheader] {
 
 
 
-/*ICT Accessibility Policy Matrix*/                
+/*ICT Accessibility Policy Matrix*/    
+#faq-list
+{
+  ol
+  {
+    p 
+    {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+}            
 .table-heading
 {
   margin-bottom: 0;
