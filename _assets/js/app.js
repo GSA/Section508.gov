@@ -53,6 +53,7 @@ async function generateTable(data, index)
   createPicklistColumn();
   createPicklistFilter(data, index);
   generateTableData(data, index);
+  
 }
 
 function setDropdownRule()
@@ -198,7 +199,8 @@ function generateTableData(obj, j)
 
 async function runTable()
 {
-  fetch('/assets/it-accessibility-policy-framework.json')
+  var base_url = window.location.origin;
+  fetch(`${base_url}/assets/it-accessibility-policy-framework.json`)
   .then(res => res.json())
   .then(data => 
   {

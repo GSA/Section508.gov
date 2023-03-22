@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/resources-and-references/policy-review-template/
 type: manage
-title: "Policy Review Template"
+title: "IT Accessibility Policy Framework - Policy Review Template"
 created: December 10, 2023
 ---
 <h2 id="standards">
