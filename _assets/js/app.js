@@ -199,8 +199,9 @@ function generateTableData(obj, j)
 
 async function runTable()
 {
-  var base_url = window.location.origin;
-  fetch(`${base_url}/assets/it-accessibility-policy-framework.json`)
+  //_assets/js/app.js
+  //assets/it-accessibility-policy-framework.json
+  fetch('/assets/it-accessibility-policy-framework.json')
   .then(res => res.json())
   .then(data => 
   {
