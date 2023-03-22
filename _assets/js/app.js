@@ -199,13 +199,8 @@ function generateTableData(obj, j)
 
 async function runTable()
 {
-  //_assets/js/app.js
-  //assets/it-accessibility-policy-framework.json
-  //href="/preview/gsa/section508.gov/JSON-fetch-issue/assets/policy-review-template.xlsx"
-
   var getUrl = window.location;
   var baseUrl = getUrl .protocol + "//" + getUrl.host;
-
   fetch(`${baseUrl}/assets/it-accessibility-policy-framework.json`)
   .then(res => res.json())
   .then(data => 
