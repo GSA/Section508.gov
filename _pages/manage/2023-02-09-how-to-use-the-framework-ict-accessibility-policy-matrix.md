@@ -16,21 +16,20 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
         <table id="table2-it">
             <tr>
                 <tr>
-                    <th colspan="1" style= "width:15%;border:none;"></th>
-                    <th colspan="6" style= "width:85%;border:none;" id="imICT">Importance to ICT Accessibility Considerations<br>(Combination of Relevance and Level of Detail)</th>
+                    <td colspan="2" rowspan="2" style= "width:15%;border:none;opacity:0;">Blank matrix origin</td>
+                    <th scope="col" colspan="5" style= "width:85%;border:none;" id="imICT">Importance to ICT Accessibility Considerations<br>(Combination of Relevance and Level of Detail)</th>
                 </tr>
                 <tr>
-                    <th rowspan="7" colspan="1" style= "height:100%;border:none;object-fit: contain;" id="sICT">Sufficiency of ICT Accessibility Information</th>
-                    <th></th>
-                    <th id="notIm" headers="imICT" >Not Very Important/Not Important</th>
-                    <th id="sIm" headers="imICT">Somewhat Important</th>
-                    <th id="im" headers="imICT">Important</th>
-                    <th id="hIm" headers="imICT">High Importance</th>
-                    <th id="vhIm" headers="imICT">Very High Importance</th>
+                    <th scope="col" id="notIm" headers="imICT" >Not Very Important/Not Important</th>
+                    <th scope="col" id="sIm" headers="imICT">Somewhat Important</th>
+                    <th scope="col" id="im" headers="imICT">Important</th>
+                    <th scope="col" id="hIm" headers="imICT">High Importance</th>
+                    <th scope="col" id="vhIm" headers="imICT">Very High Importance</th>
                 </tr>
             </tr>
             <tr>
-                <th id="eICT" headers="sICT">Essential ICT Accessibility Information Missing</th>
+                <th scope="row" rowspan="5" colspan="1" style= "height:100%;border:none;object-fit: contain;" id="sICT">Sufficiency of ICT Accessibility Information</th>
+                <th scope="row" id="eICT" headers="sICT">Essential ICT Accessibility Information Missing</th>
                 <td headers="eICT notIm imICT sICT" class="m">Moderate</td>
                 <td headers="eICT sIm imICT sICT" class="h">High</td>
                 <td headers="eICT im imICT sICT" class="vh">Very High</td>
@@ -38,7 +37,7 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
                 <td headers="eICT vhIm imICT sICT" class="c">Critical</td>
             </tr>
             <tr>
-                <th id="iICT" headers="sICT">Inadequate, Contains Some ICT Accessibility Language</th>
+                <th scope="row" id="iICT" headers="sICT">Inadequate, Contains Some ICT Accessibility Language</th>
                 <td headers="iICT notIm imICT sICT" class="l">Low</td>
                 <td headers="iICT sIm imICT sICT" class="m">Moderate</td>
                 <td headers="iICT im imICT sICT" class="h">High</td>
@@ -46,7 +45,7 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
                 <td headers="iICT vhIm imICT sICT" class="c">Critical</td>
             </tr>
             <tr>
-                <th id="SS" headers="sICT">Somewhat Sufficient</th>
+                <th scope="row" id="SS" headers="sICT">Somewhat Sufficient</th>
                 <td headers="SS notIm imICT sICT" class="l">Low</td>
                 <td headers="SS sIm imICT sICT" class="m">Moderate</td>
                 <td headers="SS im imICT sICT" class="m">Moderate</td>
@@ -54,7 +53,7 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
                 <td headers="SS vhIm imICT sICT" class="vh">Very High</td>
             </tr>
             <tr>
-                <th id="MS" headers="sICT">Mostly Sufficient</th>
+                <th scope="row" id="MS" headers="sICT">Mostly Sufficient</th>
                 <td headers="MS notIm imICT sICT" class="vl">Very Low</td>
                 <td headers="MS sIm imICT sICT" class="l">Low</td>
                 <td headers="MS im imICT sICT" class="l">Low</td>
@@ -62,7 +61,7 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
                 <td headers="MS vhIm imICT sICT" class="m">Moderate</td>
             </tr>
             <tr>
-                <th id="FS" headers="sICT">Fully Sufficient</th>
+                <th scope="row" id="FS" headers="sICT">Fully Sufficient</th>
                 <td headers="FS notIm imICT sICT" class="vl">Very Low</td>
                 <td headers="FS sIm imICT sICT" class="vl">Very Low</td>
                 <td headers="FS im imICT sICT" class="l">Low</td>
