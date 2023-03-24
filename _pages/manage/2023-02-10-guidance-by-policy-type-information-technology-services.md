@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/information-technology-services/
 type: manage
-title: "Information Technology Services"
+title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
 ---
 <h2 id="standards">

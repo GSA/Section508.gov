@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/legal/
 type: manage
-title: "Legal"
+title: "IT Accessibility Policy Framework - Legal"
 created: December 10, 2023
 ---
 

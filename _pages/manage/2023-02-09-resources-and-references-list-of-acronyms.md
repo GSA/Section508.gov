@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/resources-and-references/list-of-acronyms/
 type: manage
-title: "List of Acronyms"
+title: "IT Accessibility Policy Framework - List of Acronyms"
 created: December 09, 2023
 ---
 <h2 id="standards">

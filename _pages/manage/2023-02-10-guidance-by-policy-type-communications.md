@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/communications/
 type: manage
-title: "Communications"
+title: "IT Accessibility Policy Framework - Communications"
 created: December 10, 2023
 ---
 <h2 id="standards">

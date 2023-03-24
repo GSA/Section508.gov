@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/real-property-management/
 type: manage
-title: "Real Property Management"
+title: "IT Accessibility Policy Framework - Real Property Management"
 created: December 10, 2023
 ---
 

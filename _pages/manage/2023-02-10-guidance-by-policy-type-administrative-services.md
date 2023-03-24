@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/administrative-services/
 type: manage
-title: "Administrative Services"
+title: "IT Accessibility Policy Framework - Administrative Services"
 created: December 10, 2023
 ---
 

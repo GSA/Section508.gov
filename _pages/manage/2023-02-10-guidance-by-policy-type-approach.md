@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/approach/
 type: manage
-title: "Approach"
+title: "IT Accessibility Policy Framework - Approach"
 created: December 10, 2023
 ---
 

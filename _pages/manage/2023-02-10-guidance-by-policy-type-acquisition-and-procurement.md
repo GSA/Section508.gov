@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/acquisition-and-procurement/
 type: manage
-title: "Acquisition and Procurement"
+title: "IT Accessibility Policy Framework - Acquisition and Procurement"
 created: December 10, 2023
 ---
 

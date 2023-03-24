@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/human-resources-management/
 type: manage
-title: "Human Resources Management"
+title: "IT Accessibility Policy Framework - Human Resources Management"
 created: December 10, 2023
 ---
 

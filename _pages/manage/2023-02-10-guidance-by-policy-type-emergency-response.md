@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/guidance-by-policy-type/emergency-response/
 type: manage
-title: "Emergency Response"
+title: "IT Accessibility Policy Framework - Emergency Response"
 created: December 10, 2023
 ---
 
