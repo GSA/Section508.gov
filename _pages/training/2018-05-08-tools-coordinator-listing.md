@@ -195,7 +195,7 @@ Gayle D. Oshiro – <gayle.d.oshiro.civ@mail.mil>
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
-Claudia Guidi - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
+Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 James O. Taylor - 571-616-6713 - <james.o.taylor52.civ@mail.mil>  
