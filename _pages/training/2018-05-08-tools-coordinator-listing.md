@@ -647,7 +647,7 @@ Wing Leung - 202-653-5822 - <wleung@osc.gov>
 <span id="P"></span>
 
 ### Peace Corps
-Rachel Gardell - 202-692-1392 - <rgardell@peacecorps.gov>
+Jennifer Hawkins - <accessibility@peacecorps.gov>
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>  
 Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
