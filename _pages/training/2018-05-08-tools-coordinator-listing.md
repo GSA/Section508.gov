@@ -379,7 +379,7 @@ Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 Carlos Cruz - 202-307-5761 - <carlos.cruz3@usdoj.gov>  
 ### Community Relations Service
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
-## Department of Justice
+### Department of Justice
 Dwayne Spriggs - <dwayne.spriggs@usdoj.gov>  
 ### Drug Enforcement Administration (DEA)
 Thomas (Tom) Schlauch - 571-362-0431 - <thomas.e.schlauch@usdoj.gov>  
