@@ -363,59 +363,95 @@ Tracy Jolivette - 303-236-4884 - <tjolivette@usgs.gov>
 ### Department-wide
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
 ### Antitrust Division
-Geraldo Despian - 202-705-6451 - <gerardo.despian@usdoj.gov>  
+Elizabeth (Beth) Gundermann - 202-631-9057 - <beth.gundermann@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.hess2@usdoj.gov>
 ### Bureau of Alcohol, Tobacco, Firearms, & Explosives
-Thomas Stewart - 202-360-8030 - <thomas.stewart@atf.gov>
-
-  * **National Laboratory Center**<br>VACANT
-
+Thomas Stewart - 202-360-8030 - <thomas.stewart@atf.gov>  
+Jennifer K. Cantilena - 202-568-4102 - <jennifer.k.cantilena2@usdoj.gov>  
 ### Civil Division
 Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Tran Isabelle - <isabelle.tran@usdoj.gov>  
+Sean Cononie - 202-598-3205 - <sean.cononie@usdoj.gov>  
 Randy Abramson - 202-598-9631 - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
 ### Criminal Division
-Deb Sachs - 202-616-0426 - <deb.sachs2@usdoj.gov>
+Carlos Cruz - 202-307-5761 - <carlos.cruz3@usdoj.gov>  
 ### Community Relations Service
-Janet Peterkin - 202-514-2388 - <janet.peterkin@usdoj.gov>
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+## Department of Justice
+Dwayne Spriggs - <dwayne.spriggs@usdoj.gov>  
 ### Drug Enforcement Administration (DEA)
-VACANT
+Thomas (Tom) Schlauch - 571-362-0431 - <thomas.e.schlauch@usdoj.gov>  
+Lisa Walbert 571-362-0109 - <lisa.k.walbert@usdoj.gov>  
 ### Environment & Natural Resources Division
 Joseph Groves - 202-305-7352 - <joseph.groves@usdoj.gov>
 ### Executive Office for Immigration Review
-Kate Ahn - 703-605-1330 - <kate.ahn@usdoj.gov>  
-Andrew Leftwich - <andrew.leftwich@usdoj.gov>
+Padma Venkatakrishnan - 571-230-4900 - <padma.venkatakrishnan@usdoj.gov>  
+Andrew Leftwich	- 703-305-0717 - <andrew.leftwich@usdoj.gov>  
+Mike Barylski - 703-605-1328 - <mike.barylski@usdoj.gov>  
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
+### Executive Office for United States Trustees
+Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>
 ### Federal Bureau of Investigation (FBI)
-FBI Accessibility Program - <hq-div00-ocio-apo@fbi.gov>
+FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
 Scott Jenkins - 202-514-4670 - <scott.jenkins@usdoj.gov>
-
-* **National Institute of Corrections** <br>Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>  
-
+### Foreign Claims Settlement Commission
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Interpol
+Heather Kowalski - 202-957-0606 - <heather.kowalski@usdoj.gov>  
 ### Justice Management Division
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 Cynthia R. Wright - 202-353-4737 - <cynthia.wright@usdoj.gov>  
+### National Institute of Corrections
+Donna Ledbetter - 202-514-4072 - <donna.ledbetter@bop.gov>  
 ### National Security Division
-Kevin Drummond - 202-514-5724 - <kevin.drummond@usdoj.gov>
-### Office of the Chief Information Officer
-Melody Braswell - 202-307-0890 - <melody.raswell2@usdoj.gov>
-### Office of the Inspector General
-Maurice A. Jones - 202-353-9398 - <maurice.a.jones@usdoj.gov>
+Nilesh  Bhut - 202-451-7025 - <nilesh.bhut@usdoj.gov>
+### Office for Access to Justice
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office for Organized Crime Drug Enforcement Task Force
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of Information Policy
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of Justice Programs
-Bruce W. Whitlock - 202-353-1551 - <bruce.W.Whitlock@usdoj.gov>
+Bruce W. Whitlock - 202-353-1551 - <bruce.w.whitlock@usdoj.gov>  
+### Office of Legal Policy
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of Legislative Affairs
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of Pardon Atorney
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of Professional Responsibility
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of Public Affairs
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>    
+### Office of Solicitor General
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of the Associate Attorney General
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of the Attorney General
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of the Deputy Attorney General
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
+### Office of the Inspector General
+Beth Cvrkel - 202-307-6347 - <beth.cvrkel@usdoj.gov>  
+Maurice A. Jones - 202-353-9398 - <maurice.a.jones@usdoj.gov>
+### Office of Tribal Justice
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 ### Office on Violence Against Women
-Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>
+Tiyawna Duncan - 202-514-5221 - <tiyawna.duncan@usdoj.gov>  
+Sybil 	Barksdale - 202-353-7378 - <sybil.barksdale@usdoj.gov> 
+### Professional Responsibility Advisory Office
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 ### Tax Division
 Karon	M. Etienne - 202-353-3095 - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
-Elizabeth (Cari) Wilkerson - <elizabeth.wilkerson2@usdoj.gov>
-### United States Trustee Program
-Katie Kinnecome - <katie.kinnecome@usdoj.gov>
+James L. Brown - 703-740-0856 - <james.brown9@usdoj.gov>  
+Dene James - 202 487-3035	- <dene.james@usdoj.gov>  
+### United States Parole Commission
+Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 
 ----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor (DOL)
