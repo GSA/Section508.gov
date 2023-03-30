@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/how-to-use-the-framework/evaluation-criteria/
+permalink: manage/policy-framework/how-to-use-the-framework/evaluation-criteria/
 type: manage
 title: "IT Accessibility Policy Framework - Evaluation Criteria"
 created: December 09, 2023
@@ -64,9 +64,9 @@ The <b>Importance</b> rating can be determined by interpreting and combining the
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/how-to-identify-policies/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/how-to-identify-policies/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/guiding-question/"> 
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/guiding-question/"> 
       Next >
     </a>
 </div>
