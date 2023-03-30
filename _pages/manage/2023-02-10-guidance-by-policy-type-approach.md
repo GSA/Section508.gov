@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/approach/
+permalink: manage/policy-framework/guidance-by-policy-type/approach/
 type: manage
 title: "IT Accessibility Policy Framework - Approach"
 created: December 10, 2023
@@ -32,9 +32,9 @@ While the potential gaps, recommended inclusions, and recommended policy languag
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/ict-accessibility-policy-matrix/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/acquisition-and-procurement/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/"> 
       Next >
     </a>
 </div>
