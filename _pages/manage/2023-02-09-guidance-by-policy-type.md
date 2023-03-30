@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/
+permalink: manage/policy-framework/guidance-by-policy-type/
 type: manage
 title: "Guidance by Policy Type"
 created: December 09, 2023
