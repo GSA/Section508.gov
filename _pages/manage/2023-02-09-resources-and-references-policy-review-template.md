@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/resources-and-references/policy-review-template/
+permalink: manage/policy-framework/resources-and-references/policy-review-template/
 type: manage
 title: "IT Accessibility Policy Framework - Policy Review Template"
 created: December 10, 2023
@@ -17,9 +17,9 @@ The <a href="https://assets.section508.gov/files/Policy+Review+Template.xlsx" do
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/real-property-management/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/real-property-management/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/resources-and-references/all-policy-types-and-subtypes/"> 
+      href="{{site.baseurl}}/manage/policy-framework/resources-and-references/all-policy-types-and-subtypes/"> 
       Next >
     </a>
 </div>
