@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/administrative-services/
+permalink: manage/policy-framework/guidance-by-policy-type/administrative-services/
 type: manage
 title: "IT Accessibility Policy Framework - Administrative Services"
 created: December 10, 2023
@@ -79,9 +79,9 @@ The policy type Administrative Services refers to policies that apply to the pla
 <br>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/acquisition-and-procurement/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/budget-and-finance/"> 
       Next >
     </a>
 </div>
