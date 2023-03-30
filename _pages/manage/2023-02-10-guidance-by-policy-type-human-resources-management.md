@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/human-resources-management/
+permalink: manage/policy-framework/guidance-by-policy-type/human-resources-management/
 type: manage
 title: "IT Accessibility Policy Framework - Human Resources Management"
 created: December 10, 2023
@@ -70,9 +70,9 @@ The policy type Human Resources Management refers to policies that apply to the 
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/emergency-response/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/information-technology-services/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/information-technology-services/"> 
       Next >
     </a>
 </div>
