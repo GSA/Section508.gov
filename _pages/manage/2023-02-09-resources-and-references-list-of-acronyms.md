@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/resources-and-references/list-of-acronyms/
+permalink: manage/policy-framework/resources-and-references/list-of-acronyms/
 type: manage
 title: "IT Accessibility Policy Framework - List of Acronyms"
 created: December 09, 2023
@@ -149,9 +149,9 @@ created: December 09, 2023
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/resources-and-references/useful-links/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/resources-and-references/useful-links/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/faq/"> 
+      href="{{site.baseurl}}/manage/policy-framework/faq/"> 
       Next >
     </a>
 </div>
