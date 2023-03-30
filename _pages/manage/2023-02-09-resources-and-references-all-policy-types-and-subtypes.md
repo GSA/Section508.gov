@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/resources-and-references/all-policy-types-and-subtypes/
+permalink: manage/policy-framework/resources-and-references/all-policy-types-and-subtypes/
 type: manage
 title: "IT Accessibility Policy Framework - All Policy Types and Subtypes"
 created: December 09, 2023
@@ -923,9 +923,9 @@ The Table of Policy Types and Subtypes (<b>Table 1</b>) lists and describes all 
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/resources-and-references/policy-review-template/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/resources-and-references/summary-of-summary-criteria/"> 
+      href="{{site.baseurl}}/manage/policy-framework/resources-and-references/summary-of-summary-criteria/"> 
       Next >
     </a>
 </div>
