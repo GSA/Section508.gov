@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/how-to-use-the-framework/ict-accessibility-policy-matrix/
+permalink: manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/
 type: manage
 title: "IT Accessibility Policy Framework - ICT Accessibility Policy Matrix"
 created: December 09, 2023
@@ -101,9 +101,9 @@ While agencies would ideally update all policies that have been determined to ne
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/guiding-question/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/guiding-question/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/approach/"> 
       Next >
     </a>
 </div>
