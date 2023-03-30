@@ -13,7 +13,7 @@ created: December 09, 2023
 The IT Accessibility Policy Framework provides guidance to agencies on how to evaluate internal policies to improve the integration of Section 508 requirements.<sup>1</sup> An agency may have hundreds of internal policies, including federal policies relevant to the agency, as well as policies that support the implementation of government-wide directives. This section describes how to identify policies at your agency that should incorporate references to ICT accessibility.<br>
 
 <p id="policytype-list">
-The IT Accessibility Policy Framework recommends focusing review on the following policy types, based on relevance to ICT accessibility. The following section, <a href="{{site.baseurl}}/manage/guidance-by-policy-type/approach/">Guidance by Policy Type</a>, provides guidance on how to facilitate a policy review across each of the below policy types:
+The IT Accessibility Policy Framework recommends focusing review on the following policy types, based on relevance to ICT accessibility. The following section, <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/approach/">Guidance by Policy Type</a>, provides guidance on how to facilitate a policy review across each of the below policy types:
 </p>
 
 <ul>
