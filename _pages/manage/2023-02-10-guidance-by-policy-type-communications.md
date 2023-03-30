@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/communications/
+permalink: manage/policy-framework/guidance-by-policy-type/communications/
 type: manage
 title: "IT Accessibility Policy Framework - Communications"
 created: December 10, 2023
@@ -62,9 +62,9 @@ The Communications policy type refers to policies pertaining to all spoken and w
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/budget-and-finance/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/emergency-response/"> 
       Next >
     </a>
 </div>
