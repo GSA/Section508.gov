@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/how-to-use-the-framework/guiding-question/
+permalink: manage/policy-framework/how-to-use-the-framework/guiding-question/
 type: manage
 title: "IT Accessibility Policy Framework - Guiding Questions"
 created: December 09, 2023
@@ -9,7 +9,7 @@ created: December 09, 2023
 <h2 id="standards">
   Guiding Questions to Evaluate Policies for ICT Accessibility Information
 </h2>
-Agencies can leverage the <a href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/">Policy Review Template</a> to conduct their individual policy reviews and capture findings. To aid the review of a single policy, the following guiding questions can be a starting point to tailor an evaluation of all policies flagged for review. 
+Agencies can leverage the <a href="{{site.baseurl}}/manage/policy-framework/resources-and-references/policy-review-template/">Policy Review Template</a> to conduct their individual policy reviews and capture findings. To aid the review of a single policy, the following guiding questions can be a starting point to tailor an evaluation of all policies flagged for review. 
 
 <ol type="1">
   <li>Is there any reference to Section 508?</li>
@@ -103,9 +103,9 @@ Agencies can leverage the <a href="{{site.baseurl}}/manage/resources-and-referen
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/evaluation-criteria/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/evaluation-criteria/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/ict-accessibility-policy-matrix/"> 
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/"> 
       Next >
     </a>
 </div>
