@@ -78,56 +78,56 @@ manage:
     url: '#'
     children:
       - name: Introduction
-        url: manage/introduction/
+        url: manage/policy-framework/introduction/
       - name: How to Use the Framework
         url: '#'
         grandchildren:
         - name: How to Identify Policies
-          url: manage/how-to-use-the-framework/how-to-identify-policies/
+          url: manage/policy-framework/how-to-use-the-framework/how-to-identify-policies/
         - name: Evaluation Criteria
-          url: manage/how-to-use-the-framework/evaluation-criteria/
+          url: manage/policy-framework/how-to-use-the-framework/evaluation-criteria/
         - name: Guiding Questions
-          url: manage/how-to-use-the-framework/guiding-question/
+          url: manage/policy-framework/how-to-use-the-framework/guiding-question/
         - name: ICT Accessibility Policy Matrix
-          url: manage/how-to-use-the-framework/ict-accessibility-policy-matrix/
+          url: manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/
       - name: Guidance by Policy Type
         url: '#'
         grandchildren:
         - name: Approach
-          url: manage/guidance-by-policy-type/approach/
+          url: manage/policy-framework/guidance-by-policy-type/approach/
         - name: Acquisition and Procurement
-          url: manage/guidance-by-policy-type/acquisition-and-procurement/
+          url: manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/
         - name: Administrative Services
-          url: manage/guidance-by-policy-type/administrative-services/
+          url: manage/policy-framework/guidance-by-policy-type/administrative-services/
         - name: Budget and Finance
-          url: manage/guidance-by-policy-type/budget-and-finance/
+          url: manage/policy-framework/guidance-by-policy-type/budget-and-finance/
         - name: Communications
-          url: manage/guidance-by-policy-type/communications/
+          url: manage/policy-framework/guidance-by-policy-type/communications/
         - name: Emergency Response
-          url: manage/guidance-by-policy-type/emergency-response/
+          url: manage/policy-framework/guidance-by-policy-type/emergency-response/
         - name: Human Resources Management
-          url: manage/guidance-by-policy-type/human-resources-management/
+          url: manage/policy-framework/guidance-by-policy-type/human-resources-management/
         - name: Information Technology Services
-          url: manage/guidance-by-policy-type/information-technology-services/
+          url: manage/policy-framework/guidance-by-policy-type/information-technology-services/
         - name: Legal
-          url: manage/guidance-by-policy-type/legal/
+          url: manage/policy-framework/guidance-by-policy-type/legal/
         - name: Real Property Management
-          url: manage/guidance-by-policy-type/real-property-management/
+          url: manage/policy-framework/guidance-by-policy-type/real-property-management/
       - name: Resources and References
         url: '#'
         grandchildren:
         - name: Policy Review Template
-          url: manage/resources-and-references/policy-review-template/
+          url: manage/policy-framework/resources-and-references/policy-review-template/
         - name: All Policy Types and Subtypes
-          url: manage/resources-and-references/all-policy-types-and-subtypes/
+          url: manage/policy-framework/resources-and-references/all-policy-types-and-subtypes/
         - name: Summary of Evaluation Criteria
-          url: manage/resources-and-references/summary-of-summary-criteria/
+          url: manage/policy-framework/resources-and-references/summary-of-summary-criteria/
         - name: Useful Links
-          url: manage/resources-and-references/useful-links/
+          url: manage/policy-framework/resources-and-references/useful-links/
         - name: List of Acronyms
-          url: manage/resources-and-references/list-of-acronyms/
+          url: manage/policy-framework/resources-and-references/list-of-acronyms/
       - name: FAQ
-        url: manage/faq/
+        url: manage/policy-framework/faq/
 training:
   - name: Training, Tools & Events
     url: 'training/'
