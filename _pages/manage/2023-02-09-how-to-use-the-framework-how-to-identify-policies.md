@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/how-to-use-the-framework/how-to-identify-policies/
+permalink: manage/policy-framework/how-to-use-the-framework/how-to-identify-policies/
 type: manage
 title: "IT Accessibility Policy Framework - How to Identify Policies"
 created: December 09, 2023
@@ -18,31 +18,31 @@ The IT Accessibility Policy Framework recommends focusing review on the followin
 
 <ul>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/acquisition-and-procurement/">Acquisition and Procurement</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/">Acquisition and Procurement</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/administrative-services/">Administrative Services</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/administrative-services/">Administrative Services</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/budget-and-finance/">Budget and Finance</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/budget-and-finance/">Budget and Finance</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/communications/">Communications</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/communications/">Communications</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/emergency-response/">Emergency Response</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/emergency-response/">Emergency Response</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/human-resources-management/">Human Resources Management</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/human-resources-management/">Human Resources Management</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/information-technology-services/">Information Technology Services</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/information-technology-services/">Information Technology Services</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/legal/">Legal</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/legal/">Legal</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/manage/guidance-by-policy-type/real-property-management/">Real Property Management</a>
+        <a href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/real-property-management/">Real Property Management</a>
     </li>
 </ul>
 Similarly, the following ICT accessibility-related policies have been identified as foundational to Section 508 and should be in place within every agency. 
@@ -70,10 +70,10 @@ The following policy types are not generally recommended for review as the corre
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-    href="{{site.baseurl}}/manage/introduction/">
+    href="{{site.baseurl}}/manage/policy-framework/introduction/">
            < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/how-to-use-the-framework/evaluation-criteria/"> 
+      href="{{site.baseurl}}/manage/policy-framework/how-to-use-the-framework/evaluation-criteria/"> 
       Next >
     </a>
 </div>
