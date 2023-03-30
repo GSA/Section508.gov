@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/real-property-management/
+permalink: manage/policy-framework/guidance-by-policy-type/real-property-management/
 type: manage
 title: "IT Accessibility Policy Framework - Real Property Management"
 created: December 10, 2023
@@ -47,9 +47,9 @@ The policy type Real Property Management refers to policies that apply to the on
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/legal/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/legal/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/resources-and-references/policy-review-template/"> 
+      href="{{site.baseurl}}/manage/policy-framework/resources-and-references/policy-review-template/"> 
       Next >
     </a>
 </div>
