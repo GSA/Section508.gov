@@ -44,20 +44,20 @@ manage:
         url: manage/join-the-508-community/
       - name: Find your Program Manager
         url: tools/program-manager-listing/
-      - name: Accessibility Reporting
+      - name: Semi-Annual Program Maturity Report (PMR)
         url: '#'
         grandchildren:
-          - name: Maturity Reporting
+          - name: PMR Maturity Reporting
             url: manage/reporting/
-          - name: Reporting FAQ
+          - name: PMR Reporting FAQ
             url: manage/reporting/faq/
-          - name: Measure Website Conformance
+          - name: PMR Measure Website Conformance
             url: manage/reporting/guidelines-conformance/
-          - name: Maturity Assessment Guidelines
+          - name: PMR Maturity Assessment Guidelines
             url: manage/reporting/guidelines-program-maturity/
-          - name: Roll Up Agency Accessibility Metrics
+          - name: PMR Roll Up Agency Accessibility Metrics
             url: manage/reporting/guidelines-roll-up-metrics/
-          - name: Reporting Questions
+          - name: PMR Reporting Questions
             url: manage/reporting/questions/
   - name: Law and Policy
     url: '#'
