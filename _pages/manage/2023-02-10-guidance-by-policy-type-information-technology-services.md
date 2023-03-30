@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/information-technology-services/
+permalink: manage/policy-framework/guidance-by-policy-type/information-technology-services/
 type: manage
 title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
@@ -74,9 +74,9 @@ The policy type Information Technology Services refers to policies that apply to
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/human-resources-management/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/human-resources-management/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/legal/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/legal/"> 
       Next >
     </a>
 </div>
