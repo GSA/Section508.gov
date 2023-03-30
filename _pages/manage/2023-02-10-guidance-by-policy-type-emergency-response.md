@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/guidance-by-policy-type/emergency-response/
+permalink: manage/policy-framework/guidance-by-policy-type/emergency-response/
 type: manage
 title: "IT Accessibility Policy Framework - Emergency Response"
 created: December 10, 2023
@@ -58,9 +58,9 @@ The policy type Emergency Response refers to policies that apply to planning, pe
 <div>
 <div id="prev-next-section">
     <a class="prev-page" title="Go to previous page" 
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/communications/"> < Previous</a>
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/communications/"> < Previous</a>
     <a class="prev-page" title="Go to next page"
-      href="{{site.baseurl}}/manage/guidance-by-policy-type/human-resources-management/"> 
+      href="{{site.baseurl}}/manage/policy-framework/guidance-by-policy-type/human-resources-management/"> 
       Next >
     </a>
 </div>
