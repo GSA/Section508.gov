@@ -37,4 +37,7 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
 * [Autumn 2019 Section 508 Program Maturity Report - Executive Summary (PDF)](https://assets.section508.gov/files/reports/2019%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf)
 * [Spring 2019 Section 508 Program Maturity Report - Executive Summary (PDF)](https://assets.section508.gov/files/reports/2019%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf)
 
+## Related Links
+* [Section 508 Report to Congress nd the President: Accessibility of Federal Electronic and Information Technology (PDF) February 2023](https://www.justice.gov/crt/page/file/1569331/download)
+
 **Reviewed/Updated**: April 2023
