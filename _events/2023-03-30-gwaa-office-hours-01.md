@@ -10,7 +10,7 @@ description: "The Office of Management and Budget (OMB), General Services Admini
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your agency’s point of contact can meet with the team to discuss questions related to completing the assessment.
 
-Prior to participating in an office hours event, please ensure that you are familiar with the guidance resources below, which will allow us to address questions not fully covered by these resources: . 
+Prior to participating in an office hours event, please ensure that you are familiar with the guidance resources below, which will allow us to address questions not fully covered by these resources: 
 - [Instructions][1]
 - [Assessment Criteria][2] 
 - [Supplemental Guide][3]
