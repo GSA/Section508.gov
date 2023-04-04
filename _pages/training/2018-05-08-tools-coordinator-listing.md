@@ -171,7 +171,7 @@ Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
 Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
-Ameenah Ghoston - 301-225-5166 - <ameenah.a.ghoston.civ@health.mil>  
+Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
 Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
 Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
