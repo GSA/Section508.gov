@@ -1,5 +1,5 @@
 ---
-title: Section 508 Assessment Office Hours | April 13, 2023
+title: "Section 508 Assessment Office Hours #2 | April 13, 2023"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Thursday, Apr 13 2023 11:30 #otherwise use end-date
