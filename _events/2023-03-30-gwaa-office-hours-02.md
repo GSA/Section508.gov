@@ -38,4 +38,4 @@ This virtual meeting is supported by Zoom for Government (FedRAMP certified). Pl
 [4]: {{site.baseurl}}/manage/section-508-assessment/faq/
 [5]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
 [6]: {{site.baseurl}}/events/
-[7]: https://www.section508.gov
+[7]: https://gsa.zoomgov.com/meeting/register/vJIsceiqqzMsEvqZCWgYibC65SQl7aEyGwg
