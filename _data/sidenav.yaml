@@ -160,8 +160,8 @@ manage:
           url: manage/section-508-assessment/criteria-10/
         - name: Conformance Metrics
           url: manage/section-508-assessment/criteria-11/
-      - name: Supplemental Guide
-        url: manage/section-508-assessment/supplemental-guide/
+      #- name: Supplemental Guide
+      #  url: manage/section-508-assessment/supplemental-guide/
       - name: Frequently Asked Questions (FAQ)
         url: manage/section-508-assessment/faq/
       - name: Support

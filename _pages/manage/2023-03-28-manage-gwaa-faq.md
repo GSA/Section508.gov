@@ -39,7 +39,7 @@ Agency components (e.g., bureaus, sub-agencies, or major organizational division
 Yes, component level data will be shared with the parent agency upon submittal.
 
 ## How will reported data be used?
-GSA, in consultation with OMB, will prepare and submit to Congress a comprehensive assessment that includes information identifying the metrics and data collected, compliance by each agency, and by the federal government generally, a detailed description of the actions, activities, and other efforts made by GSA over the year preceding [report] submission to support compliance at agencies and any planned efforts in the coming year to improve compliance at agencies, and a list of recommendations that agencies or Congress may take to help support that compliance.
+GSA, in consultation with OMB, will prepare and submit to Congress a comprehensive assessment that includes information identifying the metrics and data collected, compliance by each agency, and by the federal government generally, a detailed description of the actions, activities, and other efforts made by GSA over the year preceding to support compliance at agencies and any planned efforts in the coming year to improve compliance at agencies, and a list of recommendations that agencies or Congress may take to help support that compliance.
 
 The goals of GSA's analysis are to:
 <ol type="a">
@@ -74,15 +74,15 @@ When it is not possible to ascertain the number of employee or contractor hours 
 ## How is the assessment laid out?
 This is a self-report assessment with 11 dimensions which are categorized as:
 <ol type="a">
-    <li> General questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
+    <li>General questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
     <li>Conformance Metrics that measure how well your agency’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia</li>
     <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
     <li>Policies, Procedures, and Standards - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
-    <li> Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+    <li>Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
     <li>Technology Lifecycle Activities - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
-    <li> Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
-    <li> Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
-    <li> Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
+    <li>Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+    <li>Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
+    <li>Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
     <li>Training - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
     <li>Human Capital, Culture, and Leadership - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
 </ol>
@@ -97,6 +97,6 @@ This is a self-report assessment with 11 dimensions which are categorized as:
 </ol>
 
 ## Will I be able to write open-ended explanations to answer selections?
-Yes. At the end of the assessment tool, there will be an open-ended question (see Question 105 General Information) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide any additional narrative you would like. When referencing a specific question, please put the Dimension (e.g., Conformance Metrics) and the question number (Question 76).
+Yes. At the end of the assessment tool, there will be an open-ended question (see Question 105 General Information) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide any additional narrative you would like. When referencing a specific question, please put the Dimension (e.g., Conformance Metrics) and the question number (e.g., Question 76).
 
 **Reviewed/Updated:** April 2023
