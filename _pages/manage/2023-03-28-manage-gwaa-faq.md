@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/section-508-assessment/faq/
 type: manage
-title: "Government-wide Section 508 Assessment Frequently Asked Quesitons"
+title: "Government-wide Section 508 Assessment Frequently Asked Questions"
 ---
 ## Am I required to fill out this assessment?
 Agencies/organizations who must submit the report will be notified by OMB in coordination with the General Services Administration and the US Access Board.

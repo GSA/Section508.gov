@@ -59,7 +59,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
     <span id="sectionC">C</span>
   </h2>
 
--   <span id="capital-planning-and-investment-control><strong>Capital Planning and Investment Control (CPIC):</strong></span> A systematic approach to selecting, managing, and evaluating information technology investments.
+-   <span id="capital-planning-and-investment-control"><strong>Capital Planning and Investment Control (CPIC):</strong></span> A systematic approach to selecting, managing, and evaluating information technology investments.
 
 -   <span id="communication"><strong>Communication:</strong></span> The way in which agencies and their organizations communicate with internal and external audiences.
 
