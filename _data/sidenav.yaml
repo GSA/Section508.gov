@@ -136,7 +136,30 @@ manage:
       - name: Instructions
         url: manage/section-508-assessment/
       - name: Assessment Criteria
-        url: manage/section-508-assessment/criteria/      
+        url: '#'
+        grandchildren:
+        - name: General Information
+          url: manage/section-508-assessment/criteria-01/
+        - name: IT Accessibility Program Office
+          url: manage/section-508-assessment/criteria-02/
+        - name: Policies, Procedures, and Practices
+          url: manage/section-508-assessment/criteria-03/
+        - name: Communications
+          url: manage/section-508-assessment/criteria-04/
+        - name: Content Creation
+          url: manage/section-508-assessment/criteria-05/
+        - name: Human Capital, Culture, and Leadership
+          url: manage/section-508-assessment/criteria-06/
+        - name: Technology Lifecycle Activities
+          url: manage/section-508-assessment/criteria-07/
+        - name: Testing and Validation
+          url: manage/section-508-assessment/criteria-08/
+        - name: Acquisition and Procurement
+          url: manage/section-508-assessment/criteria-09/
+        - name: Training
+          url: manage/section-508-assessment/criteria-10/
+        - name: Conformance Metrics
+          url: manage/section-508-assessment/criteria-11/
       - name: Supplemental Guide
         url: manage/section-508-assessment/supplemental-guide/
       - name: Frequently Asked Questions (FAQ)

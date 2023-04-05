@@ -7,7 +7,6 @@ title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
 ---
-## Introduction
 Section 508 of the Rehabilitation Act, codified at 29 U.S.C. § 794d, requires Federal departments and agencies (hereinafter, “agencies”) to develop, procure, maintain, or use information and communications technology (ICT) that is accessible to people with disabilities and to give employees and members of the public with disabilities access to information comparable to the access available to others.<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 
 Agencies subject to Section 508 are required to report on the implementation of Section 508 to the Office of Management and Budget (OMB) and the General Services Administration (GSA). This information assists OMB, GSA, the U.S. Access Board (USAB), and the Department of Justice (DOJ) in fulfilling statutory reporting requirements to evaluate agency implementation progress.<sup><strong><a href="#fn2" id="fr2">2</a></strong></sup> GSA and DOJ will use this information to issue separate annual and biennial reports to Congress including a public data file that contains all agency responses.  
@@ -23,11 +22,11 @@ Agencies should use this assessment to help identify barriers to ensuring that e
 ## Instructions for Reporting
 Agency [Section 508 Program Managers][5] should serve as the primary point of contact for the Section 508 Assessment. If there is no Section 508 Program Manager currently assigned, the agency should designate an individual to be the point of contact (POC).  
 
-Agency Chief Information Officers (CIO) or equivalent, of agencies required to submit an assessment, will receive information from OMB including instructions the POC must use to register with GSA in order to receive access to the online assessment reporting tool.  
+Chief Information Officers (CIO) or equivalent, of agencies required to submit an assessment, will receive information from OMB including instructions the POC must use to register with GSA in order to receive access to the online assessment reporting tool.  
 
 Agencies will have until 11:59 PM Eastern Time, August 11, 2023, to complete the Section 508 Assessment. All responses to the Section 508 Assessment must be submitted electronically via the online submission tool (the submitting agency will receive a copy of the submission for its records). Once reporting closes on August 11, 2023, no further information can be entered into the reporting tool. Agencies that fail to provide a response will be noted in subsequent reporting to Congress.  
 
-Note: If your agency needs to change or update the contact information associated with the account, please submit those changes to Section.508@gsa.gov. Change request emails should contain the new individual’s name, title, phone, and email address, and must be submitted by the Section 508 Program Manager or the highest individual in the agency that is responsible for agency or department-wide implementation of Section 508. Section 508 Program Manager (or designee) contact information will be made publicly available on the Section 508 website.  
+Note: If your agency needs to change or update the contact information associated with the account, please submit those changes to <Section.508@gsa.gov>. Change request emails should contain the new individual’s name, title, phone, and email address, and must be submitted by the Section 508 Program Manager or the highest individual in the agency that is responsible for agency or department-wide implementation of Section 508. Section 508 Program Manager (or designee) contact information will be made publicly available on the Section 508 website.  
 
 ## How to Submit Your Assessment Report
 GSA will email reporting instructions to agencies’ designated individuals with a link to the online submission tool. Agencies will be able to enter information electronically beginning no later than June 1, 2023 with a final due date of August 11, 2023.
