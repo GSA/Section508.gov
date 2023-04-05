@@ -100,6 +100,6 @@ This is a self-report assessment with 11 dimensions which are categorized as:
 Yes. At the end of the assessment tool, there will be an open-ended question (see Question 105 General Information) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide any additional narrative you would like. When referencing a specific question, please put the Dimension (e.g., Conformance Metrics) and the question number (e.g., Question 76).
 
 ## Who will send the assessment link to the reporting tool?	
-Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. Note: Since the email is sent from a collection tool, the email sender may appear as "OGP Survey Support <ogpsurveysupport@research.gsa.gov>".  
+Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. Note: Since the email is sent from a collection tool, the email sender may appear as "ogpsurveysupport@research.gsa.gov".
 
 **Reviewed/Updated:** April 2023
