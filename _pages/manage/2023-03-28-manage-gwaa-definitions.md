@@ -15,7 +15,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionA">A</span>
 </h2>
 
-- <span id="agency"><strong>Agency:</strong></span> All Federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
+- <span id="agency"><strong>Agency:</strong></span> All Federal departments or agencies, and the United States Postal Service, covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
 
   Within this document, the use of “agency” broadly applies to the organization for which this assessment is being completed. This could be a bureau, office, component, or at the department level (e.g., headquarters). Agency is not strictly used within the assessment to mean the sole organization responsible for a certain area of administration. For example, within the Department of Homeland Security (DHS), both Headquarters of DHS and Customs and Border Protection are considered agencies. 
 

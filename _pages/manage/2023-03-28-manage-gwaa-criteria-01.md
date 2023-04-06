@@ -9,7 +9,7 @@ redirect_from:
 ---
 Below is a list of the criteria agencies must use to evaluate the extent to which the information and communications technology (ICT) of the agency are accessible to and usable by individuals with disabilities. These questions are broken down into eleven different criteria; nine focus on maturity, one focuses on Section 508 conformance metrics, and one focuses on general information. This is the final list of the questions that your agency will need to submit responses on by August 11, 2023.
 
-Agency POCs will receive a link via email to the reporting tool no later than June 1st to submit the information. Feel free to use the following [spreadsheet](https://assets.section508.gov/files/) to help you collect the information; however, responses MUST be submitted using the reporting tool. You may also simply print the criteria questions directly from this page as a guide.
+Agency POCs will receive a link via email to the reporting tool no later than June 1st to submit the information. Feel free to use the following [spreadsheet](https://assets.section508.gov/files/) to help you collect the information; however, responses <strong>must</strong> be submitted using the reporting tool. You may also simply print the criteria questions directly from this page as a guide.
 
 <H2 id="general-information">General Information</H2>
 <p>Questions in this section ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</p>
