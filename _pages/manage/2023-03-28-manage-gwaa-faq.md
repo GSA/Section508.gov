@@ -11,6 +11,9 @@ All Federal departments or agencies covered by Section 508 of the Rehabilitation
 ## Are all questions required?
 The majority of the questions are required but there are several optional questions. Some questions are dependent on previous answers and will not be provided if they do not apply to your agency. For example, if you select that your agency does not use automated testing tools, you will not be presented  additional questions about automated testing tools in your agency.
 
+## Is there a way for me to gather all my answers offline?
+Agencies may use the following [spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY%2023%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) to help collect the information; however, responses **must** be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment Criteria pages.
+
 ## What do I input and/or select if I don't know an answer?
 If an agency is unable to provide the requested information because it is currently unavailable, the agency should select “Unknown” or “N/A”. In rare instances, you may need to input "0" into a text field. Agencies will have opportunities to collect any unavailable information during future reporting periods of the annual assessment.
 

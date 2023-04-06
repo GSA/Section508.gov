@@ -35,7 +35,7 @@ GSA will email reporting instructions to agencies’ designated individuals with
 This assessment relates to information and activities that occurred between the time period of June 1, 2022 through May 31, 2023.
 
 ## Reporting of Agency Components 
-Agency components (e.g., bureaus, sub-agencies, or major organizational divisions as determined by the agency) must be reported independently of their “parent” agency. “Parent” agencies must limit reporting to that of parent agency and not include reporting from component agencies. 
+Agency components (e.g., bureaus, sub-agencies, or major organizational divisions as determined by the agency) must be reported independently of their “parent” agency. “Parent” agencies must limit reporting to that of the parent agency and not include reporting from component agencies. 
 
 Data submitted from component agencies will be shared with their parent agency.
 

@@ -7,9 +7,11 @@ title: "General Information - Government-wide Section 508 Assessment Criteria"
 redirect_from:
 - manage/section-508-assessment/criteria/
 ---
-Below is a list of the criteria agencies must use to evaluate the extent to which the information and communications technology (ICT) of the agency are accessible to and usable by individuals with disabilities. These questions are broken down into eleven different criteria; nine focus on maturity, one focuses on Section 508 conformance metrics, and one focuses on general information. This is the final list of the questions that your agency will need to submit responses on by August 11, 2023.
+Below is a list of the criteria agencies must use to evaluate the extent to which the information and communications technology (ICT) of the agency are accessible to and usable by individuals with disabilities. 
 
-Agency POCs will receive a link via email to the reporting tool no later than June 1st to submit the information. Feel free to use the following [spreadsheet](https://assets.section508.gov/files/) to help you collect the information; however, responses <strong>must</strong> be submitted using the reporting tool. You may also simply print the criteria questions directly from this page as a guide.
+These questions are broken down into eleven different criteria; nine focus on maturity, one focuses on Section 508 conformance metrics, and one focuses on general information. This is the final list of the questions that your agency will need to submit responses on by August 11, 2023.
+
+Agency POCs will receive a link via email to the reporting tool no later than June 1st to submit the information. Feel free to use the following [spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY%2023%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) to help you collect the information; however, responses <strong>must</strong> be submitted using the reporting tool. You may also simply print the criteria questions directly from this page as a guide.
 
 <H2 id="general-information">General Information</H2>
 <p>Questions in this section ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</p>
@@ -22,7 +24,7 @@ Agency POCs will receive a link via email to the reporting tool no later than Ju
                 <h3 class="usa-card__heading">Question 1 - Conformance</h3>
             </div>
             <div class="usa-card__body">
-                <p><strong>Identify your agency's top 10 viewed external electronic documents posted on your public website within the reporting period. Test each document for full conformance to Section 508 (this will require comprehensive manual testing in addition to automated or a hybrid test process if utilized in your agency). For each document, report the number of failures by Section 508 standard/WCAG Success Criterion. Please also provide the document name, document type, and document description. (*Required)</strong></p>
+                <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. (*Required)</strong></p>
                 <p>
                 Answer all that apply
                     <ul>
@@ -31,7 +33,7 @@ Agency POCs will receive a link via email to the reporting tool no later than Ju
                     </ul>
                 </p>
                 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.5em;">
-                    <p><strong>NOTE:</strong> This question is only required if Question 34 Conformance Metrics is greater than 0.</p>
+                    <p><strong>NOTE:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                 </div>
             </div>
         </div>
