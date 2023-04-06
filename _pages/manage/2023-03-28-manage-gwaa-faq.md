@@ -29,8 +29,8 @@ Please reach out to the GSA Government-wide IT Accessibility team at <Section.50
 ## What is the final date for submitting my agency's answers?
 The reporting tool will close on August 11, 2023 at 11:59 pm Eastern Standard Time. No responses can be submitted or altered after that date.
 
-## Can my agency rely solely on a vendor's ACR to inform whether or not our product is fully accessible for this year's assessment? This applies to Conformance questions 82, 83, 84, 85, 86, 88, and 90. 
-Yes, you may use a vendor's ACR to report whether or not the ICT product(s) referenced in Conformance questions 82, 83, 84, 85, 86, 88, and 90 are fully conformant to all applicable Section 508 standards.
+## Can my agency rely solely on a vendor's ACR to inform whether or not our product is fully accessible for this year's assessment? This applies to Conformance Metrics questions 82, 83, 84, 85, 86, 88, and 90. 
+Yes, you may use a vendor's ACR to report whether or not the ICT product(s) referenced in Conformance questions 82, 83, 84, 85, 86, 88, and 90 fully conforms to all applicable Section 508 standards.
 
 ## Will there be a working session or sessions to review the questions and receive any clarifications needed?
 Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 11th. Please check the [Support page]({{site.baseurl}}/manage/section-508-assessment/support/) and [Events page]({{site.baseurl}}/events/) for all sessions and how to register. The GSA Government-wide IT Accessibility team will also use the May and July Section 508 Program Manager huddles will dedicate time to answering questions on the report.
