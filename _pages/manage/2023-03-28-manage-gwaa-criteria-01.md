@@ -65,8 +65,8 @@ end example -->
 
 <!-- end insert criteria -->
 </div>
-
-<div id="prev-next-section" style="justify-content: space-around;">
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to instructions" href="{{site.baseurl}}/manage/section-508-assessment/"> < Instructions</a>
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/criteria-02/"> Next > </a>
 </div>
 

@@ -7,11 +7,13 @@ title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
 ---
+
+## Assessment Requirement
 Section 508 of the Rehabilitation Act, codified at 29 U.S.C. § 794d, requires Federal departments and agencies, and the United States Postal Service, (hereinafter, “agencies”) to develop, procure, maintain, or use information and communications technology (ICT) that is accessible to people with disabilities and to give employees and members of the public with disabilities access to information comparable to the access available to others.<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 
-Agencies subject to Section 508 are required to report on the implementation of Section 508 to the Office of Management and Budget (OMB) and the General Services Administration (GSA). This information assists OMB, GSA, the U.S. Access Board (USAB), and the Department of Justice (DOJ) in fulfilling statutory reporting requirements to evaluate agency implementation progress.<sup><strong><a href="#fn2" id="fr2">2</a></strong></sup> GSA and DOJ will use this information to issue separate annual and biennial reports to Congress including a public data file that contains all agency responses.  
+**Agencies subject to Section 508 are required to report on the implementation of Section 508 to the Office of Management and Budget (OMB) and the General Services Administration (GSA)**. This information assists OMB, GSA, the U.S. Access Board (USAB), and the Department of Justice (DOJ) in fulfilling statutory reporting requirements to evaluate agency implementation progress.<sup><strong><a href="#fn2" id="fr2">2</a></strong></sup> GSA and DOJ will use this information to issue separate annual and biennial reports to Congress including a public data file that contains all agency responses.  
 
-Agency responses should be completed and submitted by the agency’s Section 508 Program Manager or designee. Agency responses are due on or before August 11, 2023. 
+**Agency responses should be completed and submitted by the agency’s Section 508 Program Manager or designee. Agency responses are due on or before August 11, 2023.** 
 
 If an agency is unable to provide the requested information because it is currently unavailable, the agency should select “Unknown” or “N/A”. Agencies will have opportunities to collect any unavailable information during future reporting periods of the annual assessment.
 
@@ -80,13 +82,17 @@ For questions about the Government-wide Section 508 Assessment, please email the
 
 <hr>
 
-<footer>
+<div>
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
   <ol>
     <li id="fn1"><a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">29 U.S.C § 794 (d);</a> - National security systems, as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11103.htm">Section 11103(a) of Title 40</a>, are exempt. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
     <li id="fn2">See <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">29 U.S.C § 794 (d);</a> Pub. L. No: 117-328 (2023), <a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651">Section 752 of the Consolidated Appropriations Act, 2023</a>; and OMB Memorandum, <em><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf">"Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act"</a></em> from January 24, 2013. <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
   </ol>
-</footer>
+</div>
+
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Assessment Criteria" href="{{site.baseurl}}/manage/section-508-assessment/criteria-01/"> Criteria > </a>
+</div>
 
 **Reviewed/Updated:** April 2023
 
