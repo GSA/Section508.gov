@@ -5,15 +5,19 @@ function accordion(e){
     e.stopPropagation();
     if(this.classList.contains('active')){
         this.classList.remove('active');
+        this.firstElementChild.setAttribute("aria-expanded", "false");
     }
     else if(this.parentElement.parentElement.classList.contains('active')){
         this.classList.add('active');
+        this.firstElementChild.setAttribute("aria-expanded", "true");
     }
     else{
         for(i=0; i < list.length; i++){
             list[i].classList.remove('active');
+            this.firstElementChild.setAttribute("aria-expanded", "false");
         }
         this.classList.add('active');
+        this.firstElementChild.setAttribute("aria-expanded", "true");
     }
 }
 for(i = 0; i < list.length; i++ ){
@@ -21,6 +25,7 @@ for(i = 0; i < list.length; i++ ){
 }
 jQuery('.active').parent().parent().parent().parent().addClass('active');
 jQuery('.active').parent().parent().addClass('active');
+jQuery('li.active:not(".usa-current") > a:first-child').attr('aria-expanded','true');
 
 
 $(document).ready(function (e) {

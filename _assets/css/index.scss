@@ -276,11 +276,28 @@ ul.menu{
     background-repeat: no-repeat;
     background-position: right 0rem center;
     background-size: 0.75rem;
+    > a:not(.usa-button):hover {
+      background-image: url(../img/plus.svg), linear-gradient(#F0F0F0, #F0F0F0);
+      background-repeat: no-repeat;
+      background-position: right 0rem center;
+      background-size: 0.75rem;
+      text-decoration: none;
+    }
+    a:not(.usa-button):not(.usa-current):hover {
+      color: #005ea2;
+    }
     &.active{
       background-image: url(../img/minus.svg), linear-gradient(transparent, transparent);
       background-repeat: no-repeat;
       background-position: right 0rem center;
       background-size: 0.75rem;
+    }
+    &.active > a:first-child:not(.usa-button):hover {
+      background-image: url(../img/minus.svg), linear-gradient(#F0F0F0, #F0F0F0);
+      background-repeat: no-repeat;
+      background-position: right 0rem center;
+      background-size: 0.75rem;
+      text-decoration: none;
     }
     a{
       display: block;
@@ -493,7 +510,7 @@ div[role=rowheader] {
   justify-content: space-between;
   .prev-page {
     text-decoration: none;
-    width: 120px !important;
+    width: 150px !important;
     background-color: rgba(17, 47, 78, 0.93);
     color: white;
     cursor: pointer;
