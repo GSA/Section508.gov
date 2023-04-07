@@ -90,7 +90,7 @@ For questions about the Government-wide Section 508 Assessment, please email the
   </ol>
 </div>
 
-<div id="prev-next-section">
+<div id="prev-next-section" style="justify-content: space-around;">
     <a class="prev-page" title="Go to Assessment Criteria" href="{{site.baseurl}}/manage/section-508-assessment/criteria-01/"> Criteria > </a>
 </div>
 

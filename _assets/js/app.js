@@ -25,7 +25,7 @@ for(i = 0; i < list.length; i++ ){
 }
 jQuery('.active').parent().parent().parent().parent().addClass('active');
 jQuery('.active').parent().parent().addClass('active');
-jQuery('li.active > a:first-child').attr('aria-expanded','true')
+jQuery('li.active:not(".usa-current") > a:first-child').attr('aria-expanded','true');
 
 
 $(document).ready(function (e) {

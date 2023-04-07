@@ -11,7 +11,7 @@ The Office of Management and Budget (OMB), General Services Administration (GSA)
 Before reaching out to the team directly, please review the resources below, which provide information to help you complete your agency assessment. These may answer your questions more quickly than waiting for a return email.
 - [Instructions][1]
 - [Assessment Criteria][2] 
-- [Supplemental Guide][3]
+<!-- - [Supplemental Guide][3] -->
 - [Frequently Asked Questions (FAQ)][4]
 - [Definition of Terms][5]
 
