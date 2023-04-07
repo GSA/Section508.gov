@@ -19,7 +19,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
   Within this document, the use of “agency” broadly applies to the organization for which this assessment is being completed. This could be a bureau, office, component, or at the department level (e.g., headquarters). Agency is not strictly used within the assessment to mean the sole organization responsible for a certain area of administration. For example, within the Department of Homeland Security (DHS), both Headquarters of DHS and Customs and Border Protection are considered agencies. 
 
-- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets the applicable Section 508 Technical Standards. Currently, the most common way an ACR is completed is by using the [VPAT®](https://docs.google.com/document/d/1djk22um_ON6fDvGbgt_wre2rjvZGJEm8mabuIpECMl0/edit#heading=h.2xcytpi) template created by the IT Industry Council (ITI).
+- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets the applicable Section 508 Technical Standards. Currently, the most common way an ACR is completed is by using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template created by the IT Industry Council (ITI).
 
 - <span id="alternative-means-plan"><strong>Alternative Means Plan:</strong></span> Documentation that establishes a framework and outlines the strategies for meeting the access needs of people with disabilities until the identified Section 508 compliance defect(s) are remediated. The recommended workarounds and accommodations provided in the plan will ensure people with disabilities can continue to use the product. May be referred to as "Accommodation Plan". 
 
@@ -67,7 +67,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
   Complaints differ from public feedback responses that your agency receives through the mechanism provided to meet the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint. 
 
-- <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> See [Fully Conformant](#fully-conformant). 
+- <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> See [Fully Conform](#fully-conform). 
 
 - <span id="coordinator"><strong>Coordinator:</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
 
