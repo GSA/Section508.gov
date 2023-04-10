@@ -4161,10 +4161,13 @@ class ArtFormTemplateComponent {
             setTimeout(() => {
                 //From the section scrolled to, on the current form (we might have many forms), we get element matching that id
                 let firstForm = this.locRefFormGroup?.toArray()[this.navIndex].nativeElement.querySelector(selector);
-                //From that section which might have many input, we get the first input
-                let formInput = firstForm.querySelectorAll('input');
+                //From that section which might have many input, we get the list of all inputs
+                let formInput = Array.from(firstForm.querySelectorAll('input'));
+                //We identify the first element which is not disabled
+                const validFormInput = formInput.find((eachInput) => { return !eachInput.disabled; });
                 //We set on focus to that input
-                formInput[0].focus();
+                if (validFormInput)
+                    validFormInput.focus();
             }, 100);
         }
     }
