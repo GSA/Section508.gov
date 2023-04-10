@@ -3023,7 +3023,7 @@ button.usa-combo-box__clear-input:focus,button.usa-combo-box__toggle-list:focus{
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./node_modules/@fortawesome/fontawesome-free/css/all.min.css ***!
   \****************************************************************************************************************************************************************************************************************************************************/
 /*!
- * Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * Copyright 2022 Fonticons, Inc.
  */
@@ -3327,6 +3327,7 @@ button.usa-combo-box__clear-input:focus,button.usa-combo-box__toggle-list:focus{
 .fa-face-grin-wide:before,.fa-grin-alt:before{content:"\f581"}
 .fa-tooth:before{content:"\f5c9"}
 .fa-v:before{content:"\56"}
+.fa-bangladeshi-taka-sign:before{content:"\e2e6"}
 .fa-bicycle:before{content:"\f206"}
 .fa-rod-asclepius:before,.fa-rod-snake:before,.fa-staff-aesculapius:before,.fa-staff-snake:before{content:"\e579"}
 .fa-head-side-cough-slash:before{content:"\e062"}
@@ -3946,7 +3947,6 @@ button.usa-combo-box__clear-input:focus,button.usa-combo-box__toggle-list:focus{
 .fa-dna:before{content:"\f471"}
 .fa-virus-slash:before{content:"\e075"}
 .fa-minus:before,.fa-subtract:before{content:"\f068"}
-.fa-child-rifle:before{content:"\e4e0"}
 .fa-chess:before{content:"\f439"}
 .fa-arrow-left-long:before,.fa-long-arrow-left:before{content:"\f177"}
 .fa-plug-circle-check:before{content:"\e55c"}
@@ -4201,6 +4201,7 @@ button.usa-combo-box__clear-input:focus,button.usa-combo-box__toggle-list:focus{
 .fa-hand-sparkles:before{content:"\e05d"}
 .fa-grip-horizontal:before,.fa-grip:before{content:"\f58d"}
 .fa-share-from-square:before,.fa-share-square:before{content:"\f14d"}
+.fa-child-combatant:before,.fa-child-rifle:before{content:"\e4e0"}
 .fa-gun:before{content:"\e19b"}
 .fa-phone-square:before,.fa-square-phone:before{content:"\f098"}
 .fa-add:before,.fa-plus:before{content:"\2b"}
@@ -4243,6 +4244,7 @@ button.usa-combo-box__clear-input:focus,button.usa-combo-box__toggle-list:focus{
 .fa-chevron-left:before{content:"\f053"}
 .fa-bacteria:before{content:"\e059"}
 .fa-hand-lizard:before{content:"\f258"}
+.fa-notdef:before{content:"\e1fe"}
 .fa-disease:before{content:"\f7fa"}
 .fa-briefcase-medical:before{content:"\f469"}
 .fa-genderless:before{content:"\f22d"}
