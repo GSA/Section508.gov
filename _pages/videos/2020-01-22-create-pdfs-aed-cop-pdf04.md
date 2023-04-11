@@ -23,10 +23,10 @@ Learn about the techniques used by advanced users to identify and correct text f
 
 ## Related PDF Video Series Modules
 
-  * [Module 0: Background & Introduction][1]
-  * [Module 1: What is a PDF?][2]
-  * [Module 2: Testing a PDF for Accessibility][3]
-  * [Module 3: Remediating PDFs for Accessibility][4]
+  * [Module 0: Background & Introduction][0]
+  * [Module 1: What is a PDF?][1]
+  * [Module 2: Testing a PDF for Accessibility][2]
+  * [Module 3: Remediating PDFs for Accessibility][3]
   * **Module 4: Converting Scanned Documents into Section 508 Conformant PDFs**
 
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
@@ -37,9 +37,10 @@ Learn about the techniques used by advanced users to identify and correct text f
 </div>
 </div>
 
-**Updated**: January 2020
+**Updated**: March 2023
 
- [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
- [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02
- [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03
+ [0]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00/
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01/
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02/
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03/
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04/

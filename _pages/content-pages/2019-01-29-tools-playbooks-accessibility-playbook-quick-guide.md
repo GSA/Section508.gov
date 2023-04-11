@@ -78,7 +78,7 @@ agency buys, builds, and uses, is accessible for all.
             <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
         </li>
         <li>
-            <a href="https://policy.cio.gov/web-policy/" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
+            <a href="https://www.cio.gov/policies-and-priorities/#subject=*&role=.web&status=*" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
         </li>
       </ul>
     </li>
