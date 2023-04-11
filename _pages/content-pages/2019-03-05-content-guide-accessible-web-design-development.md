@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: wide
 sidenav: false
 permalink: content/guide-accessible-web-design-development/
-type: page
+type: develop
 title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
+contributors: usab
+description: "Guide to Accessible Web Design & Development"
 ---
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
@@ -1143,7 +1145,7 @@ In addition, the following success criteria apply to all content on the page, in
 
 Created by the CIO Council’s [Accessibility Community of Practice][40], this information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
 
-**Reviewed/Updated**: March 2019
+**Reviewed/Updated**: January 2023
 
 
  [1]: https://www.w3.org/TR/WCAG20/

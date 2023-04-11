@@ -72,13 +72,13 @@ agency buys, builds, and uses, is accessible for all.
     <li dir="ltr">
       OMB mandates, including: <ul>
         <li>
-            <a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148%5D" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
+            <a href="https://www.congress.gov/bill/113th-congress/house-bill/1232" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
         </li>
         <li>
             <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
         </li>
         <li>
-            <a href="https://policy.cio.gov/web-policy/" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
+            <a href="https://www.cio.gov/policies-and-priorities/#subject=*&role=.web&status=*" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
         </li>
       </ul>
     </li>
@@ -369,5 +369,5 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <p dir="ltr">
-  <strong>Reviewed/Updated</strong>: January 2019
+  <strong>Reviewed/Updated</strong>: November 2022
 </p>

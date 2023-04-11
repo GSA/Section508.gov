@@ -23,8 +23,8 @@ Discover how set up a document&rsquo;s properties, evaluate the accessibility of
 
 ## Related PDF Video Series Modules
 
-  * [Module 0: Background & Introduction][1]
-  * [Module 1: What is a PDF?][2]
+  * [Module 0: Background & Introduction][0]
+  * [Module 1: What is a PDF?][1]
   * **Module 2: Testing a PDF for Accessibility**
   * [Module 3: Remediating PDFs for Accessibility][3]
   * [Module 4: Converting Scanned Documents into Section 508 Conformant PDFs][4]
@@ -37,9 +37,10 @@ Discover how set up a document&rsquo;s properties, evaluate the accessibility of
 </div>
 </div>
 
-**Updated**: January 2020
+**Updated**: March 2023
 
- [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00
- [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01
- [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03
- [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04
+ [0]: {{site.baseurl}}/training/pdfs/aed-cop-pdf00/
+ [1]: {{site.baseurl}}/training/pdfs/aed-cop-pdf01/
+ [2]: {{site.baseurl}}/training/pdfs/aed-cop-pdf02/
+ [3]: {{site.baseurl}}/training/pdfs/aed-cop-pdf03/
+ [4]: {{site.baseurl}}/training/pdfs/aed-cop-pdf04/

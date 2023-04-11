@@ -3,30 +3,19 @@ sidenav: false
 layout: page
 permalink: training/presentations-workshops/keynote-tony-coelho/
 type: training
-title: 'The Americans with Disabilities Act—Then and Now'
+title: IAAF 2019 Keynote Address — Tony Coelho
 created: 1578606586
 ---
+Tony Coelho, Member of the U.S. House of Representatives from California&rsquo;s 15th district (January 3, 1979 &ndash; June 15, 1989), shares his experience sponsoring the Americans with Disabilities Act of 1990 and how living with epilepsy fueled his passion for this legislation.
 
-**2019 IAAF Keynote Address**
+<video controls="controls" poster="https://assets.section508.gov/files/thumbnails/iaaf-2019-keynote-coelho-poster.png" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/2019-IAAF-Keynote-Tony-Coelho.mp4" type="video/mp4" /></video>
 
-<meta charset="utf-8" />
+## Related Videos
 
-<b id="docs-internal-guid-13d4420d-7fff-22d7-f3b4-dcfbccfa26e4">Tony Coelho</b>, Member of the U.S. House of Representatives from California&rsquo;s 15th district (January 3, 1979 &ndash; June 15, 1989)
+* [IAAF 2022 - Oct 13 Keynote Address: Kimberly Knackstedt]({{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/)
+* [IAAF 2022 - Oct 13 Keynote Address: Day Al Mohamed]({{site.baseurl}}/training/presentations-workshops/keynote-day-al-mohamed/)
+* [IAAF 2021 - Oct 12 Keynote Address: Whitney Quesenbery]({{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/)
+* [IAAF 2021 - Oct 13 Keynote Address: Judy Heumann]({{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/)
+* [IAAF 2021 - Oct 14 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
 
-Congressman Coelho shares his experience sponsoring the Americans with Disabilities Act of 1990 and how living with epilepsy fueled his passion for this legislation.
-
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/2019-IAAF-Keynote-Tony-Coelho.mp4" type="video/mp4" /></video>
-
-&nbsp;
-
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-
-**Reviewed/Updated**: January 2020
-
-&nbsp;
+**Reviewed/Updated**: December 2022

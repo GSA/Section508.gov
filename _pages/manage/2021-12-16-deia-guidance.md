@@ -28,7 +28,7 @@ The remainder of this article provides references to more detailed information t
 ## Guidance, Resources and Technical Assistance
 As required by the DEIA Accessibility Roadmap, the federal government must proactively, and consistently design, construct, develop, and maintain facilities, technology, programs, and services so that all people, including people with disabilities, can fully and independently use them. 
 
-Many information and communications technology accessibility standards and best practices were established, and have been continually improved over the last two decades. Agencies have many resources currently available to them when seeking to educate their workforce, and integrate IT accessibility into existing and new ways of doing business. Support is available from this website and the [GSA Government-wide IT Accessibility team](/contact-us/), agency [Section 508 Program Managers](/tools/coordinator-listing/) and agency intranets, and the [Accessibility Community of Practice](/manage/join-the-508-community/).
+Many information and communications technology accessibility standards and best practices were established, and have been continually improved over the last two decades. Agencies have many resources currently available to them when seeking to educate their workforce, and integrate IT accessibility into existing and new ways of doing business. Support is available from this website and the [GSA Government-wide IT Accessibility team](/contact-us/), agency [Section 508 Program Managers](/tools/program-manager-listing/) and agency intranets, and the [Accessibility Community of Practice](/manage/join-the-508-community/).
 
 For agencies to “Buy. Build. Be Accessible.”, everyone must understand their [role and responsibility](/manage/roles/) to make the Federal Government “a model for diversity, equity, inclusion, and accessibility, where all employees are treated with dignity and respect.” ([EO 14035](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)). 
 
@@ -45,7 +45,7 @@ Mature agencies demonstrate the ability to educate and train the workforce regar
 ### Acquisition and Requirements Professionals
 All ICT procured, developed, maintained, or used by Federal agencies must be accessible. ICT includes software, hardware, electronic content, support documentation, and services. Contracting professionals are the first in a series of individuals who must confirm that accessibility is considered to ensure equal access to all, and avoid risk and cost associated with non-conformance.
 
-* [Accessibility Requirement Tool (ART)](/buy/accessibility-requirements-tool/) - Generate standardized Section 508 language to include appropriate Section 508 accessibility standards in requirements and acquisition planning documents and agreements
+* [Accessibility Requirement Tool (ART)](/art/) - Generate standardized Section 508 language to include appropriate Section 508 accessibility standards in requirements and acquisition planning documents and agreements
 * [Buy Accessible Products and Services](/buy/) - Guidance on including Section 508 from the beginning of the ICT procurement to avoid surprises during or after implementation
 * [Sell Accessible Products and Services](/sell/) - Guidance on how to do business with the Federal government, and demonstrate that your ICT product or service is accessible
 

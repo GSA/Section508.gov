@@ -33,7 +33,7 @@ Learn how to ensure that vital information, created as a watermark or placed in 
   * [Module 7: Creating Links with Unique and Descriptive Names][7]
   * [Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate][8]
   * [Module 9: Excluding Flashing Objects][9]
-  * [Module 10: Saving in the .][10][xlsx][10][&nbsp;Format with a Descriptive Filename][10]
+  * [Module 10: Saving in the .xlsx Format with a Descriptive Filename][10]
 
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
 <div class="padding-1">
@@ -43,15 +43,15 @@ Learn how to ensure that vital information, created as a watermark or placed in 
 </div>
 </div>
 
-**Updated**: January 2020
+**Updated**: March 2023
 
- [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00
- [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01
- [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02
- [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03
- [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05
- [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06
- [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07
- [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08
- [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09
- [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10
+ [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/
+ [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/
+ [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/
+ [4]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04/
+ [5]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05/
+ [6]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06/
+ [7]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07/
+ [8]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08/
+ [9]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09/
+ [10]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10/

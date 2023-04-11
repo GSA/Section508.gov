@@ -8,7 +8,7 @@ title: 'Documents Authoring Guides'
 
 ## Microsoft Word 2016
 
-* [DRAFT Microsoft Word 2016 Basic Authoring and Testing Guide][2] (MS Word, March 2019)
+* [Microsoft Word 2016 Basic Authoring and Testing Guide][2] (MS Word, March 2019)
 * [Microsoft Word 2016 Printable Accessible Testing][3]&nbsp;(MS Word, June 2019)
 
 ## Microsoft Word 2013

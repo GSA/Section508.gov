@@ -164,7 +164,7 @@ created: 1582828796
       <strong><span id="far">Federal Acquisition Regulation (FAR)</span>:</strong> Principal set of rules in the Federal Acquisition Regulations System regarding&nbsp; United States government procurement.
     </li>
     <li>
-      <strong><span id="fedrelay">FedRelay</span>:</strong> Federal Relay services expired February 13, 2022. FedRelay was a provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities. Agencies can access <a href="http://www.gsa.gov/fedrelay" target="_blank">relay services</a> through through Federal Communications Commission (FCC) Telecommunications Relay Service (TRS) and General Services Administration (GSA) Multiple Award Schedule Translation and Interpretation Services.
+      <strong><span id="fedrelay">FedRelay</span>:</strong> Federal Relay services expired February 13, 2022. FedRelay was a provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities. Agencies can access services formerly consolidated under FedRelay through Federal Communications Commission (FCC) Telecommunications Relay Service (TRS) and General Services Administration (GSA) Multiple Award Schedule Translation and Interpretation Services.
     </li>
     <li>
       <strong><span id="focus">Focus</span>:</strong> In a graphical user interface, a window (e.g., a button) or a location within a window (e.g., position of a text cursor or mouse pointer), to which the operating system will direct user input. Users can set the focus by using the keyboard, the mouse, or other input devices.
@@ -542,6 +542,6 @@ created: 1582828796
   </div>
   
   <p>
-    <strong>Updated:</strong> March 2022
+    <strong>Updated:</strong> November 2022
   </p>
 </div>
