@@ -4624,7 +4624,7 @@ module.exports = JSON.parse('{"data":"<div id=\'target\' style=\'background-colo
   \******************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>February 2022"}');
+module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>April 2023"}');
 
 /***/ }),
 
