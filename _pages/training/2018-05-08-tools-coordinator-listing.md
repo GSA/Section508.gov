@@ -174,6 +174,7 @@ Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
 Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
+Stephanie	Rozario-Hamilton (Acting)	- 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
 
 * **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
@@ -542,6 +543,7 @@ Janice MacLean - 202-394-6541 - <janice.maclean@sba.gov>
 ----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
+Amanda Miller (BACKUP) - 410-965-0716 - <amanda.miller@ssa.gov>  
 
 ----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
