@@ -172,7 +172,6 @@ Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
 Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
-Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
 Stephanie	Rozario-Hamilton (Acting)	- 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
@@ -207,7 +206,6 @@ VACANT
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>  
-Julie M. Hartmann (BACKUP) - <julie.m.hartmann.ctr@ndu.edu>  
 ### National Geospatial Intelligence Agency
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
 ### National Guard Bureau
@@ -253,7 +251,7 @@ Kate Maynor Sweeney - <kate.maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
-Biff LeVee (Acting) - 301-427-1897 - <biff.levee@ahrq.gov>
+VACANT
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
@@ -598,8 +596,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-Theodosia Villatoro-Sorto - 202-360-131 - <tvillatoro-sorto@fmshrc.gov>  
-Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>  
+VACANT  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
@@ -642,7 +639,7 @@ Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>
 Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
 
 ### Office of Special Counsel
-Wing Leung - 202-653-5822 - <wleung@osc.gov>
+VACANT  
 
 <span id="P"></span>
 
