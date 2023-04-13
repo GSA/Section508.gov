@@ -4378,13 +4378,16 @@ class ArtFormTemplateComponent {
      * @rerun void
      */
     onFormSubmit(index) {
-        const data = this.formList.map(eachForm => eachForm.value);
-        this.formData.emit(data);
-        //Will reset the form based on the its configuration
-        if (this.formConfig[index].clearForm)
-            this.formList[index].reset();
-        if (this.formCompletetion.find(eachComp => !eachComp) === false && !this.formConfig[0].formButtons.add)
-            alert("One or more of your ICT items are incomplete. Are you sure you wish to continue?");
+        if (this.formCompletetion.find(eachComp => !eachComp) === false && !this.formConfig[0].formButtons.add) {
+            alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
+        }
+        else {
+            const data = this.formList.map(eachForm => eachForm.value);
+            this.formData.emit(data);
+            //Will reset the form based on the its configuration
+            if (this.formConfig[index].clearForm)
+                this.formList[index].reset();
+        }
     }
     /**
      * @description For each form it will get all the control elements and return it as an array to be looped on the html
@@ -4415,8 +4418,6 @@ class ArtFormTemplateComponent {
      */
     navBackForm() {
         if (this.navIndex > 0) {
-            if (this.formCompletetion[this.navIndex] === false)
-                alert("Are you sure you want to move to the previous item? The form is incomplete.");
             this.navIndex--;
             this.pageNumber.emit(this.navIndex);
             this.updateDownloadData();
@@ -4443,14 +4444,17 @@ class ArtFormTemplateComponent {
      * @returns void
      */
     navNextForm() {
-        if (this.navIndex < this.formConfig.length - 1) {
-            if (this.formCompletetion[this.navIndex] === false)
-                alert("Are you sure you want to move to the next item? The form is incomplete.");
-            this.navIndex++;
-            this.pageNumber.emit(this.navIndex);
-            this.updateDownloadData();
+        if (this.formCompletetion[this.navIndex] === false) {
+            alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
         }
-        document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
+        else {
+            if (this.navIndex < this.formConfig.length - 1) {
+                this.navIndex++;
+                this.pageNumber.emit(this.navIndex);
+                this.updateDownloadData();
+            }
+            document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
     }
     sideNavConfig() {
         //side navigation configuration
