@@ -294,6 +294,8 @@ class ArtDocxDownloadComponent {
         container.innerHTML = this.markup;
         let elements = this.traverseTree(container);
         let docElems = [];
+        //Used for different number list. If we have 3 group, they should have their own numbering
+        let olNbr = 0;
         for (let i = 0, l = elements.length; i < l; i++) {
             let elem = elements[i];
             switch (elem.nodeName) {
@@ -301,10 +303,11 @@ class ArtDocxDownloadComponent {
                     docElems.push(this.parseParagraph(elem));
                     break;
                 case 'OL':
-                    docElems = docElems.concat(this.parseList(elem, true));
+                    docElems = docElems.concat(this.parseList(elem, true, olNbr));
+                    olNbr++; // Counting each set of ordering number list
                     break;
                 case 'UL':
-                    docElems = docElems.concat(this.parseList(elem, false));
+                    docElems = docElems.concat(this.parseList(elem, false, 0));
                     break;
                 case 'H1':
                 case 'H2':
@@ -314,6 +317,15 @@ class ArtDocxDownloadComponent {
                 case 'H6':
                     docElems = docElems.concat(this.parseHeader(elem));
                     break;
+                case 'TABLE':
+                    // Generate a table to be uas as a line
+                    docElems = docElems.concat(this.parseTable(elem));
+                    break;
+                // case 'A':
+                //   // For link at the root level not child level
+                //   const child = elem.children[i];
+                //   docElems = docElems.concat(this.parseLink(Array.from(child.childNodes), {type:"",olNbr:0}));
+                //     break;
             }
         }
         let d = new docx__WEBPACK_IMPORTED_MODULE_0__.Document({
@@ -340,6 +352,7 @@ class ArtDocxDownloadComponent {
                             bold: true
                         },
                         paragraph: {
+                            alignment: docx__WEBPACK_IMPORTED_MODULE_0__.AlignmentType.CENTER,
                             spacing: {
                                 before: 0,
                                 after: 360,
@@ -427,10 +440,28 @@ class ArtDocxDownloadComponent {
             numbering: {
                 config: [
                     {
-                        reference: "number",
+                        reference: "number0",
                         levels: [
                             {
                                 level: 0,
+                                format: docx__WEBPACK_IMPORTED_MODULE_0__.LevelFormat.DECIMAL,
+                                text: "%1",
+                                alignment: docx__WEBPACK_IMPORTED_MODULE_0__.AlignmentType.START,
+                                start: 1,
+                                style: {
+                                    paragraph: {
+                                        indent: { left: 720, hanging: 260 }
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        reference: "number1",
+                        levels: [
+                            {
+                                level: 0,
+                                start: 1,
                                 format: docx__WEBPACK_IMPORTED_MODULE_0__.LevelFormat.DECIMAL,
                                 text: "%1",
                                 alignment: docx__WEBPACK_IMPORTED_MODULE_0__.AlignmentType.START,
@@ -469,7 +500,7 @@ class ArtDocxDownloadComponent {
      */
     traverseTree(root) {
         let elems = [];
-        let leaves = ['P', 'OL', 'UL', 'H1', 'H2', 'H3', 'H4', 'H5', 'H6'];
+        let leaves = ['P', 'OL', 'UL', 'H1', 'H2', 'H3', 'H4', 'H5', 'H6', 'TABLE', 'A'];
         for (let i = 0, l = root.children.length; i < l; i++) {
             let child = root.children[i];
             if (leaves.includes(child.nodeName)) {
@@ -494,15 +525,141 @@ class ArtDocxDownloadComponent {
         });
     }
     /**
-     * Parses lists into Docx elements.
+     * @description Used to parse link element. For only a link and also for list number with embedded link.
+     * @param nodeElems the element with link as root or with list number as root and link as children. It should have maximum 3 nodes. starting node, link node and ending node
+     * @param linkConfig  Used for the link embedded in a list item. Used to specified what list number reference to use
+     * @returns Type paragraph
+     */
+    parseLink(nodeElems, linkConfig) {
+        // Text extracted from the list number element before the link
+        let rStart;
+        // Text extracted from the list number element after the link
+        let rEnd;
+        // Node extracted from the list number element before the link
+        const eStart = nodeElems[0];
+        // Node extracted from the list number element after the link
+        const eEnd = nodeElems[2];
+        // Cleaning up the text content
+        const textStart = (eStart.textContent ?? '').replace(/\s+/g, ' ');
+        const textEnd = (eEnd.textContent ?? '').replace(/\s+/g, ' ');
+        // Generating the  Textrun based on the first node
+        rStart = new docx__WEBPACK_IMPORTED_MODULE_0__.TextRun({
+            text: textStart,
+            style: 'default',
+        });
+        // Generating the Textrun based on the end node
+        rEnd = new docx__WEBPACK_IMPORTED_MODULE_0__.TextRun({
+            text: textEnd,
+            style: 'default',
+        });
+        // Capturing the node with the link element
+        const p = nodeElems[1];
+        let test0; // used to extract the text from the link element
+        const elems = Array.from(p.childNodes);
+        for (let i = 0, l = elems.length; i < l; i++) {
+            let e = elems[i];
+            // remove tab runs that occur in markup
+            let text = (e.textContent ?? '').replace(/\s+/g, ' ');
+            // strip leading whitespace from the first element
+            if (i == 0) {
+                test0 = text.trimStart();
+            }
+        }
+        // Generating the children to be use to build de paragraph
+        let children = [
+            rStart,
+            new docx__WEBPACK_IMPORTED_MODULE_0__.ExternalHyperlink({
+                children: [
+                    new docx__WEBPACK_IMPORTED_MODULE_0__.TextRun({
+                        text: test0,
+                        style: "Hyperlink",
+                    }),
+                ],
+                link: test0,
+            }),
+            rEnd,
+        ];
+        //this.parseText(Array.from(p.childNodes));
+        let paragraph = new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({});
+        // Paragraph with link embedded in list number
+        if (linkConfig.type && linkConfig.type === 'link') {
+            paragraph = new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({
+                children: children,
+                style: 'default',
+                numbering: {
+                    reference: 'number' + linkConfig.olNbr,
+                    level: 0
+                }
+            });
+        }
+        else {
+            // simple link
+            paragraph = new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({
+                children: children,
+                style: 'default'
+            });
+        }
+        return paragraph;
+    }
+    /**
+     * @description Used to generate a line by hiding all border except the top one
+     * @param p The html element holding the table element
+     * @returns Will return a table elements
+     */
+    parseTable(p) {
+        return new docx__WEBPACK_IMPORTED_MODULE_0__.Table({
+            // Setting the width to be 10000, full width
+            columnWidths: [10000, 1],
+            rows: [
+                // Only declaring on row
+                new docx__WEBPACK_IMPORTED_MODULE_0__.TableRow({
+                    children: [
+                        // Only declaring one cell
+                        new docx__WEBPACK_IMPORTED_MODULE_0__.TableCell({
+                            width: {
+                                size: 10000,
+                                type: docx__WEBPACK_IMPORTED_MODULE_0__.WidthType.DXA,
+                            },
+                            borders: {
+                                // setting the top border to black
+                                top: {
+                                    style: docx__WEBPACK_IMPORTED_MODULE_0__.BorderStyle.THICK,
+                                    size: 7,
+                                    color: "000000",
+                                },
+                                // setting all the other border to white
+                                bottom: {
+                                    style: docx__WEBPACK_IMPORTED_MODULE_0__.BorderStyle.THICK,
+                                    size: 1,
+                                    color: "ffffff",
+                                },
+                                left: {
+                                    style: docx__WEBPACK_IMPORTED_MODULE_0__.BorderStyle.THICK,
+                                    size: 1,
+                                    color: "ffffff",
+                                },
+                                right: {
+                                    style: docx__WEBPACK_IMPORTED_MODULE_0__.BorderStyle.THICK,
+                                    size: 1,
+                                    color: "ffffff",
+                                },
+                            },
+                            children: [],
+                        })
+                    ],
+                })
+            ]
+        });
+    }
+    /**
      *
      * @param list
      * @param ordered  Whether this list should be numbered or just bullet points
-     * @private
+     * @description Parses lists into Docx elements.
      */
-    parseList(list, ordered) {
+    parseList(list, ordered, olNbr) {
         let ps = [];
-        ps = [...this.parseSubList(ps, list, ordered)];
+        ps = [...this.parseSubList(ps, list, ordered, 0, olNbr)];
         return ps;
     }
     /**
@@ -514,20 +671,32 @@ class ArtDocxDownloadComponent {
      * @param ps paragraph array
      * @private
      */
-    parseSubList(ps, list, ordered, childNumber = 0) {
+    parseSubList(ps, list, ordered, childNumber = 0, olNbr) {
         //Lopping to child each node of the parent node
         for (let i = 0; i < list.children.length; i++) {
             let child = list.children[i];
+            // If it is ordered list
             if (ordered) {
-                ps.push(new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({
-                    children: this.parseText(Array.from(child.childNodes)),
-                    style: 'default',
-                    numbering: {
-                        reference: 'number',
-                        level: 0
-                    }
-                }));
-            }
+                // From the ol/il nodes, get all the child elements
+                let elements = this.traverseTree(child);
+                //  A child element in this ol/il is a link then process in this block
+                if (elements.length > 0 && elements[0].nodeName === 'A') {
+                    // Using the parseLink to generate a paragraph with the link embedded inside
+                    // child.childNodes should only be 3 array max. 1st the start test before the link, 2nd array, the link node, 3rd array, the end text after the link
+                    const linkData = this.parseLink(Array.from(child.childNodes), { type: "link", olNbr: olNbr });
+                    ps.push(linkData);
+                }
+                else { // If we don't have a link inside the ol/li, just generate a list number without a link
+                    ps.push(new docx__WEBPACK_IMPORTED_MODULE_0__.Paragraph({
+                        children: this.parseText(Array.from(child.childNodes)),
+                        style: 'default',
+                        numbering: {
+                            reference: 'number' + olNbr,
+                            level: 0
+                        }
+                    }));
+                }
+            } // If it is not ordered list
             else {
                 // If a child of the current node has a nested ol/ul
                 const olNode = this.findNode(child, 'UL');
@@ -541,7 +710,7 @@ class ArtDocxDownloadComponent {
                 // If there is a nested ul
                 if (olNode) {
                     childNumber++; // move on padding up
-                    this.parseSubList(ps, child.children[1], false, childNumber);
+                    this.parseSubList(ps, child.children[1], false, childNumber, olNbr);
                     childNumber--; // after the recurssion is done, go one padding down
                 }
             }
@@ -1269,6 +1438,10 @@ class SummaryPageComponent {
          * Will be populated from 508MappingService
          */
         this.languageGenerated = [];
+        /**
+         * Will be populated from 508MappingService, UI only
+         */
+        this.languageGeneratedUI = [];
         this.stepsData = { tabs: [], activeId: '' };
         /**
          * ICTItems can be populated from ICTItemService
@@ -1288,8 +1461,11 @@ class SummaryPageComponent {
             this.stepsData.tabs.push({ id: "0" + index, name: item.name });
             const langKeyWords = JSON.parse(JSON.stringify(item.langKeyWords));
             const langGenerated = this.art508LangService.get508Languages(langKeyWords) ? this.art508LangService.get508Languages(langKeyWords) : "<p><b>No Language can be generated based on your selection!</b></p>";
-            //508MapoingService call for language
-            this.languageGenerated.push("<p><h2>" + item.name + "</h2></p>\n" + langGenerated);
+            const footer = this.formPageService.getDocxFooterText();
+            //508MapoingService call for language, for download anc clipboard
+            this.languageGenerated.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+            // For UI only
+            this.languageGeneratedUI.push("<p> <h3>" + item.name + "</h3></p>\n" + langGenerated);
         });
         this.stepsData.activeId = "00";
     }
@@ -1405,7 +1581,7 @@ SummaryPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODUL
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](38);
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("ngIf", ctx.ictItems[ctx.currentIndex] && ctx.ictItems[ctx.currentIndex].name);
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("innerHTML", ctx.languageGenerated[ctx.currentIndex], _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵsanitizeHtml"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("innerHTML", ctx.languageGeneratedUI[ctx.currentIndex], _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵsanitizeHtml"]);
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("disabled", ctx.currentIndex == 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](2);
@@ -3465,6 +3641,25 @@ class FormPageService {
          */
         this.formPage = 0;
         /**
+         * @description The footer text that will be used on the word docx downloaded
+         * @type sting
+         */
+        this.docxFooterText = `<p><table></table>
+  <h3>Instructions to Offerors</h3>
+  <ol>
+  <li>Provide an Accessibility Conformance Report (ACR) for each commercially available Information and Communication Technology (ICT) item offered through this contract. Create the ACR using the Voluntary Product Accessibility Template Version 2.1 or later, located at <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>. Complete each ACR in accordance with the instructions provided in the VPAT template. Each ACR must address the applicable Section 508 requirements referenced in the Work Statement.  Each ACR shall state exactly how the ICT meets the applicable standards in the remarks/explanations column, or through additional narrative.  All "Not Applicable" (N/A) responses must be explained in the remarks/explanations column or through additional narrative. Address each standard individually and with specificity, and clarify whether conformance is achieved throughout the entire ICT Item (for example - user functionality, administrator functionality, and reporting), or only in limited areas of the ICT Item. Provide a description of the evaluation methods used to support Section 508 conformance claims. The agency reserves the right, prior to making an award decision, to perform testing on some or all of the Offeror’s proposed ICT items to validate Section 508 conformance claims made in the ACR.</li>
+  <li>Describe your approach to incorporating universal design principles to ensure ICT products or services are designed to support disabled users.</li>
+  <li>Describe plans for features that do not fully conform to the Section 508 Standards.</li>
+  <li>Describe "typical" user scenarios and tasks, including individuals with disabilities, to ensure fair and accurate accessibility testing of the ICT product or service being offered.</li>
+
+  </ol>
+
+  <h3>Acceptance Criteria</h3>
+  <ol start="1">
+  <li>Prior to acceptance, the government reserves the right to perform testing on required ICT items to validate the offeror’s Section 508 conformance claims. If the government determines that Section 508 conformance claims provided by the offeror represent a higher level of conformance than what is actually provided to the agency, the government shall, at its option, require the offeror to remediate the item to align with the offeror’s original Section 508 conformance claims prior to acceptance.</li>
+  </ol>
+  </p>`;
+        /**
          * @description get the form result generated on a form
          */
         this.formResults = {};
@@ -3480,6 +3675,13 @@ class FormPageService {
             });
         });
         return this.formConfig;
+    }
+    /**
+     * @description Return the footer text for the docx downloaded
+     * @returns string
+     */
+    getDocxFooterText() {
+        return this.docxFooterText;
     }
     /**
      * @description Set the date for a form
@@ -4679,7 +4881,7 @@ module.exports = JSON.parse('{"data":"<div id=\'target\' style=\'background-colo
   \******************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>February 2023"}');
+module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>April 2023"}');
 
 /***/ }),
 
