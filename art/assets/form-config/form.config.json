@@ -5,7 +5,7 @@
         { 
             "elementType":"radioButtonGroup",
             "controlName": "sol-type",
-            "formSection": "Solicitation Type",
+            "formSection": "Solicitation Phase",
             "title": "",
             "label": "Select one of the options below",
             "description": "",
