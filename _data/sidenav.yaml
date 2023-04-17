@@ -44,21 +44,23 @@ manage:
         url: manage/join-the-508-community/
       - name: Find your Program Manager
         url: tools/program-manager-listing/
-      - name: Accessibility Reporting
+      - name: Semi-Annual Program Maturity Report (PMR)
         url: '#'
         grandchildren:
-          - name: Maturity Reporting
+          - name: PMR Maturity Reporting
             url: manage/reporting/
-          - name: Reporting FAQ
+          - name: PMR Reporting FAQ
             url: manage/reporting/faq/
-          - name: Measure Website Conformance
+          - name: PMR Measure Website Conformance
             url: manage/reporting/guidelines-conformance/
-          - name: Maturity Assessment Guidelines
+          - name: PMR Maturity Assessment Guidelines
             url: manage/reporting/guidelines-program-maturity/
-          - name: Roll Up Agency Accessibility Metrics
+          - name: PMR Roll Up Agency Accessibility Metrics
             url: manage/reporting/guidelines-roll-up-metrics/
-          - name: Reporting Questions
+          - name: PMR Reporting Questions
             url: manage/reporting/questions/
+          - name: Program Maturity Report Downloads
+            url: manage/reporting/section-508-program-maturity-reports/
   - name: Law and Policy
     url: '#'
     children:
@@ -74,6 +76,98 @@ manage:
         url: manage/laws-and-policies/state/
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
+  - name: IT Accessibility Policy Framework
+    url: '#'
+    children:
+      - name: Introduction
+        url: manage/policy-framework/introduction/
+      - name: How to Use the Framework
+        url: '#'
+        grandchildren:
+        - name: How to Identify Policies
+          url: manage/policy-framework/how-to-use-the-framework/how-to-identify-policies/
+        - name: Evaluation Criteria
+          url: manage/policy-framework/how-to-use-the-framework/evaluation-criteria/
+        - name: Guiding Questions
+          url: manage/policy-framework/how-to-use-the-framework/guiding-question/
+        - name: ICT Accessibility Policy Matrix
+          url: manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/
+      - name: Guidance by Policy Type
+        url: '#'
+        grandchildren:
+        - name: Approach
+          url: manage/policy-framework/guidance-by-policy-type/approach/
+        - name: Acquisition and Procurement
+          url: manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/
+        - name: Administrative Services
+          url: manage/policy-framework/guidance-by-policy-type/administrative-services/
+        - name: Budget and Finance
+          url: manage/policy-framework/guidance-by-policy-type/budget-and-finance/
+        - name: Communications
+          url: manage/policy-framework/guidance-by-policy-type/communications/
+        - name: Emergency Response
+          url: manage/policy-framework/guidance-by-policy-type/emergency-response/
+        - name: Human Resources Management
+          url: manage/policy-framework/guidance-by-policy-type/human-resources-management/
+        - name: Information Technology Services
+          url: manage/policy-framework/guidance-by-policy-type/information-technology-services/
+        - name: Legal
+          url: manage/policy-framework/guidance-by-policy-type/legal/
+        - name: Real Property Management
+          url: manage/policy-framework/guidance-by-policy-type/real-property-management/
+      - name: Resources and References
+        url: '#'
+        grandchildren:
+        - name: Policy Review Template
+          url: manage/policy-framework/resources-and-references/policy-review-template/
+        - name: All Policy Types and Subtypes
+          url: manage/policy-framework/resources-and-references/all-policy-types-and-subtypes/
+        - name: Summary of Evaluation Criteria
+          url: manage/policy-framework/resources-and-references/summary-of-summary-criteria/
+        - name: Useful Links
+          url: manage/policy-framework/resources-and-references/useful-links/
+        - name: List of Acronyms
+          url: manage/policy-framework/resources-and-references/list-of-acronyms/
+      - name: FAQ
+        url: manage/policy-framework/faq/
+  - name: Annual Section 508 Assessment
+    url: '#'
+    children:
+      - name: Instructions
+        url: manage/section-508-assessment/
+      - name: Assessment Criteria
+        url: '#'
+        grandchildren:
+        - name: General Information
+          url: manage/section-508-assessment/criteria-01/
+        - name: IT Accessibility Program Office
+          url: manage/section-508-assessment/criteria-02/
+        - name: Policies, Procedures, and Practices
+          url: manage/section-508-assessment/criteria-03/
+        - name: Communications
+          url: manage/section-508-assessment/criteria-04/
+        - name: Content Creation
+          url: manage/section-508-assessment/criteria-05/
+        - name: Human Capital, Culture, and Leadership
+          url: manage/section-508-assessment/criteria-06/
+        - name: Technology Lifecycle Activities
+          url: manage/section-508-assessment/criteria-07/
+        - name: Testing and Validation
+          url: manage/section-508-assessment/criteria-08/
+        - name: Acquisition and Procurement
+          url: manage/section-508-assessment/criteria-09/
+        - name: Training
+          url: manage/section-508-assessment/criteria-10/
+        - name: Conformance Metrics
+          url: manage/section-508-assessment/criteria-11/
+      #- name: Supplemental Guide
+      #  url: manage/section-508-assessment/supplemental-guide/
+      - name: Frequently Asked Questions (FAQ)
+        url: manage/section-508-assessment/faq/
+      - name: Support
+        url: manage/section-508-assessment/support/
+      - name: Definition of Terms
+        url: manage/section-508-assessment/definition-of-terms/
 training:
   - name: Training, Tools & Events
     url: 'training/'
