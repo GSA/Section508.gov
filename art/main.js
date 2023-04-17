@@ -347,7 +347,7 @@ class ArtDocxDownloadComponent {
                     },
                     heading2: {
                         run: {
-                            size: 44,
+                            size: 40,
                             font: 'Source Sans Pro Web',
                             bold: true
                         },
