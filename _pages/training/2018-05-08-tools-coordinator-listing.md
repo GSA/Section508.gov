@@ -67,21 +67,22 @@ Karen Garrison - 816-926-2678 - <karen.garrison@usda.gov>
   * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
 
-### Food, Nutrition and Consumer Services	
-VACANT
+### Food, Nutrition and Consumer Services	(FNCS)
+Elisha Owens - <elisha.owens@usda.gov>  
+Ronald Hodges - <ronald.hodges@usda.gov>  
 
 * **Center for Nutrition Policy and Promotion (CNPP)**  
 * **Food and Nutrition Service (FNS)**  
 
-### Food Safety and Inspection Service
+### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
-### Forest Service
+### Forest Service (FS)
 VACANT
-### Information Management Services Branch
+### Information Management Services Branch (IFSB)
 VACANT
-### National Agricultural Statistics Service
+### National Agricultural Statistics Service (NASS)
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
-### Natural Resources Conservation Service
+### Natural Resources Conservation Service (NRCS)
 Karen Garrison 816-926-2678 - <karen.garrison@usda.gov>
 ### Office of the Assistant Secretary for Civil Rights (OASCR)  
 Casandra Taylor	- <cassandra.taylor@usda.gov>  
@@ -91,7 +92,7 @@ Tania	Jones - <tania.jones@usda.gov>
 Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
 ### Office of the Chief Financial Officer (OCFO)
 Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
-### Office of the Chief Information Officer
+### Office of the Chief Information Officer (OCIO)
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
 * **DISC-EAS** <br>VACANT    
@@ -596,7 +597,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-VACANT  
+Michaell Williams - <mwilliams@fmshrc.com>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
@@ -676,7 +677,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: February 23, 2023
+**Reviewed/Updated**: April 17, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
