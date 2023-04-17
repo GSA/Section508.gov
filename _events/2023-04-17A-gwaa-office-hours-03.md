@@ -24,7 +24,7 @@ Prior to participating in an office hours event, please ensure that you are fami
 **WHO:** Agency points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Thursday, April 13 at 11:00 AM ET. [Sign up today!][7]   
+[Registration][7] is now open and will close Tuesday, April 18 at 8:30 AM ET. [Sign up today!][7]   
 
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.  
 
