@@ -180,7 +180,7 @@
             return r >>> 1;
 
           case "base64":
-            return $(e).length;
+            return X(e).length;
 
           default:
             if (s) return n ? -1 : V(e).length;
@@ -196,18 +196,18 @@
 
         for (e || (e = "utf8");;) switch (e) {
           case "hex":
-            return C(this, t, r);
+            return k(this, t, r);
 
           case "utf8":
           case "utf-8":
             return S(this, t, r);
 
           case "ascii":
-            return R(this, t, r);
+            return N(this, t, r);
 
           case "latin1":
           case "binary":
-            return N(this, t, r);
+            return R(this, t, r);
 
           case "base64":
             return A(this, t, r);
@@ -216,7 +216,7 @@
           case "ucs-2":
           case "utf16le":
           case "utf-16le":
-            return O(this, t, r);
+            return C(this, t, r);
 
           default:
             if (n) throw new TypeError("Unknown encoding: " + e);
@@ -280,7 +280,7 @@
         return -1;
       }
 
-      function x(e, t, r, n) {
+      function v(e, t, r, n) {
         r = Number(r) || 0;
         const s = e.length - r;
         n ? (n = Number(n)) > s && (n = s) : n = s;
@@ -296,12 +296,12 @@
         return o;
       }
 
-      function v(e, t, r, n) {
-        return X(V(t, e.length - r), e, r, n);
+      function x(e, t, r, n) {
+        return $(V(t, e.length - r), e, r, n);
       }
 
       function _(e, t, r, n) {
-        return X(function (e) {
+        return $(function (e) {
           const t = [];
 
           for (let r = 0; r < e.length; ++r) t.push(255 & e.charCodeAt(r));
@@ -311,11 +311,11 @@
       }
 
       function E(e, t, r, n) {
-        return X($(t), e, r, n);
+        return $(X(t), e, r, n);
       }
 
       function T(e, t, r, n) {
-        return X(function (e, t) {
+        return $(function (e, t) {
           let r, n, s;
           const i = [];
 
@@ -525,11 +525,11 @@
 
         for (;;) switch (n) {
           case "hex":
-            return x(this, e, t, r);
+            return v(this, e, t, r);
 
           case "utf8":
           case "utf-8":
-            return v(this, e, t, r);
+            return x(this, e, t, r);
 
           case "ascii":
           case "latin1":
@@ -557,7 +557,7 @@
       };
       const I = 4096;
 
-      function R(e, t, r) {
+      function N(e, t, r) {
         let n = "";
         r = Math.min(e.length, r);
 
@@ -566,7 +566,7 @@
         return n;
       }
 
-      function N(e, t, r) {
+      function R(e, t, r) {
         let n = "";
         r = Math.min(e.length, r);
 
@@ -575,7 +575,7 @@
         return n;
       }
 
-      function C(e, t, r) {
+      function k(e, t, r) {
         const n = e.length;
         (!t || t < 0) && (t = 0), (!r || r < 0 || r > n) && (r = n);
         let s = "";
@@ -585,7 +585,7 @@
         return s;
       }
 
-      function O(e, t, r) {
+      function C(e, t, r) {
         const n = e.slice(t, r);
         let s = "";
 
@@ -594,7 +594,7 @@
         return s;
       }
 
-      function k(e, t, r) {
+      function O(e, t, r) {
         if (e % 1 != 0 || e < 0) throw new RangeError("offset is not uint");
         if (e + t > r) throw new RangeError("Trying to access beyond buffer length");
       }
@@ -606,7 +606,7 @@
       }
 
       function D(e, t, r, n, s) {
-        j(t, n, s, e, r, 7);
+        z(t, n, s, e, r, 7);
         let i = Number(t & BigInt(4294967295));
         e[r++] = i, i >>= 8, e[r++] = i, i >>= 8, e[r++] = i, i >>= 8, e[r++] = i;
         let o = Number(t >> BigInt(32) & BigInt(4294967295));
@@ -614,7 +614,7 @@
       }
 
       function P(e, t, r, n, s) {
-        j(t, n, s, e, r, 7);
+        z(t, n, s, e, r, 7);
         let i = Number(t & BigInt(4294967295));
         e[r + 7] = i, i >>= 8, e[r + 6] = i, i >>= 8, e[r + 5] = i, i >>= 8, e[r + 4] = i;
         let o = Number(t >> BigInt(32) & BigInt(4294967295));
@@ -640,7 +640,7 @@
         const n = this.subarray(e, t);
         return Object.setPrototypeOf(n, c.prototype), n;
       }, c.prototype.readUintLE = c.prototype.readUIntLE = function (e, t, r) {
-        e >>>= 0, t >>>= 0, r || k(e, t, this.length);
+        e >>>= 0, t >>>= 0, r || O(e, t, this.length);
         let n = this[e],
             s = 1,
             i = 0;
@@ -649,7 +649,7 @@
 
         return n;
       }, c.prototype.readUintBE = c.prototype.readUIntBE = function (e, t, r) {
-        e >>>= 0, t >>>= 0, r || k(e, t, this.length);
+        e >>>= 0, t >>>= 0, r || O(e, t, this.length);
         let n = this[e + --t],
             s = 1;
 
@@ -657,20 +657,20 @@
 
         return n;
       }, c.prototype.readUint8 = c.prototype.readUInt8 = function (e, t) {
-        return e >>>= 0, t || k(e, 1, this.length), this[e];
+        return e >>>= 0, t || O(e, 1, this.length), this[e];
       }, c.prototype.readUint16LE = c.prototype.readUInt16LE = function (e, t) {
-        return e >>>= 0, t || k(e, 2, this.length), this[e] | this[e + 1] << 8;
+        return e >>>= 0, t || O(e, 2, this.length), this[e] | this[e + 1] << 8;
       }, c.prototype.readUint16BE = c.prototype.readUInt16BE = function (e, t) {
-        return e >>>= 0, t || k(e, 2, this.length), this[e] << 8 | this[e + 1];
+        return e >>>= 0, t || O(e, 2, this.length), this[e] << 8 | this[e + 1];
       }, c.prototype.readUint32LE = c.prototype.readUInt32LE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), (this[e] | this[e + 1] << 8 | this[e + 2] << 16) + 16777216 * this[e + 3];
+        return e >>>= 0, t || O(e, 4, this.length), (this[e] | this[e + 1] << 8 | this[e + 2] << 16) + 16777216 * this[e + 3];
       }, c.prototype.readUint32BE = c.prototype.readUInt32BE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), 16777216 * this[e] + (this[e + 1] << 16 | this[e + 2] << 8 | this[e + 3]);
+        return e >>>= 0, t || O(e, 4, this.length), 16777216 * this[e] + (this[e + 1] << 16 | this[e + 2] << 8 | this[e + 3]);
       }, c.prototype.readBigUInt64LE = J(function (e) {
         W(e >>>= 0, "offset");
         const t = this[e],
               r = this[e + 7];
-        void 0 !== t && void 0 !== r || K(e, this.length - 8);
+        void 0 !== t && void 0 !== r || G(e, this.length - 8);
         const n = t + 256 * this[++e] + 65536 * this[++e] + this[++e] * 2 ** 24,
               s = this[++e] + 256 * this[++e] + 65536 * this[++e] + r * 2 ** 24;
         return BigInt(n) + (BigInt(s) << BigInt(32));
@@ -678,12 +678,12 @@
         W(e >>>= 0, "offset");
         const t = this[e],
               r = this[e + 7];
-        void 0 !== t && void 0 !== r || K(e, this.length - 8);
+        void 0 !== t && void 0 !== r || G(e, this.length - 8);
         const n = t * 2 ** 24 + 65536 * this[++e] + 256 * this[++e] + this[++e],
               s = this[++e] * 2 ** 24 + 65536 * this[++e] + 256 * this[++e] + r;
         return (BigInt(n) << BigInt(32)) + BigInt(s);
       }), c.prototype.readIntLE = function (e, t, r) {
-        e >>>= 0, t >>>= 0, r || k(e, t, this.length);
+        e >>>= 0, t >>>= 0, r || O(e, t, this.length);
         let n = this[e],
             s = 1,
             i = 0;
@@ -692,7 +692,7 @@
 
         return s *= 128, n >= s && (n -= Math.pow(2, 8 * t)), n;
       }, c.prototype.readIntBE = function (e, t, r) {
-        e >>>= 0, t >>>= 0, r || k(e, t, this.length);
+        e >>>= 0, t >>>= 0, r || O(e, t, this.length);
         let n = t,
             s = 1,
             i = this[e + --n];
@@ -701,41 +701,41 @@
 
         return s *= 128, i >= s && (i -= Math.pow(2, 8 * t)), i;
       }, c.prototype.readInt8 = function (e, t) {
-        return e >>>= 0, t || k(e, 1, this.length), 128 & this[e] ? -1 * (255 - this[e] + 1) : this[e];
+        return e >>>= 0, t || O(e, 1, this.length), 128 & this[e] ? -1 * (255 - this[e] + 1) : this[e];
       }, c.prototype.readInt16LE = function (e, t) {
-        e >>>= 0, t || k(e, 2, this.length);
+        e >>>= 0, t || O(e, 2, this.length);
         const r = this[e] | this[e + 1] << 8;
         return 32768 & r ? 4294901760 | r : r;
       }, c.prototype.readInt16BE = function (e, t) {
-        e >>>= 0, t || k(e, 2, this.length);
+        e >>>= 0, t || O(e, 2, this.length);
         const r = this[e + 1] | this[e] << 8;
         return 32768 & r ? 4294901760 | r : r;
       }, c.prototype.readInt32LE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), this[e] | this[e + 1] << 8 | this[e + 2] << 16 | this[e + 3] << 24;
+        return e >>>= 0, t || O(e, 4, this.length), this[e] | this[e + 1] << 8 | this[e + 2] << 16 | this[e + 3] << 24;
       }, c.prototype.readInt32BE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), this[e] << 24 | this[e + 1] << 16 | this[e + 2] << 8 | this[e + 3];
+        return e >>>= 0, t || O(e, 4, this.length), this[e] << 24 | this[e + 1] << 16 | this[e + 2] << 8 | this[e + 3];
       }, c.prototype.readBigInt64LE = J(function (e) {
         W(e >>>= 0, "offset");
         const t = this[e],
               r = this[e + 7];
-        void 0 !== t && void 0 !== r || K(e, this.length - 8);
+        void 0 !== t && void 0 !== r || G(e, this.length - 8);
         const n = this[e + 4] + 256 * this[e + 5] + 65536 * this[e + 6] + (r << 24);
         return (BigInt(n) << BigInt(32)) + BigInt(t + 256 * this[++e] + 65536 * this[++e] + this[++e] * 2 ** 24);
       }), c.prototype.readBigInt64BE = J(function (e) {
         W(e >>>= 0, "offset");
         const t = this[e],
               r = this[e + 7];
-        void 0 !== t && void 0 !== r || K(e, this.length - 8);
+        void 0 !== t && void 0 !== r || G(e, this.length - 8);
         const n = (t << 24) + 65536 * this[++e] + 256 * this[++e] + this[++e];
         return (BigInt(n) << BigInt(32)) + BigInt(this[++e] * 2 ** 24 + 65536 * this[++e] + 256 * this[++e] + r);
       }), c.prototype.readFloatLE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), s.read(this, e, !0, 23, 4);
+        return e >>>= 0, t || O(e, 4, this.length), s.read(this, e, !0, 23, 4);
       }, c.prototype.readFloatBE = function (e, t) {
-        return e >>>= 0, t || k(e, 4, this.length), s.read(this, e, !1, 23, 4);
+        return e >>>= 0, t || O(e, 4, this.length), s.read(this, e, !1, 23, 4);
       }, c.prototype.readDoubleLE = function (e, t) {
-        return e >>>= 0, t || k(e, 8, this.length), s.read(this, e, !0, 52, 8);
+        return e >>>= 0, t || O(e, 8, this.length), s.read(this, e, !0, 52, 8);
       }, c.prototype.readDoubleBE = function (e, t) {
-        return e >>>= 0, t || k(e, 8, this.length), s.read(this, e, !1, 52, 8);
+        return e >>>= 0, t || O(e, 8, this.length), s.read(this, e, !1, 52, 8);
       }, c.prototype.writeUintLE = c.prototype.writeUIntLE = function (e, t, r, n) {
         e = +e, t >>>= 0, r >>>= 0, n || L(this, e, t, r, Math.pow(2, 8 * r) - 1, 0);
         let s = 1,
@@ -879,7 +879,7 @@
         };
       }
 
-      function z(e) {
+      function j(e) {
         let t = "",
             r = e.length;
         const n = "-" === e[0] ? 1 : 0;
@@ -889,7 +889,7 @@
         return `${e.slice(0, r)}${t}`;
       }
 
-      function j(e, t, r, n, s, i) {
+      function z(e, t, r, n, s, i) {
         if (e > r || e < t) {
           const n = "bigint" == typeof t ? "n" : "";
           let s;
@@ -897,7 +897,7 @@
         }
 
         !function (e, t, r) {
-          W(t, "offset"), void 0 !== e[t] && void 0 !== e[t + r] || K(t, e.length - (r + 1));
+          W(t, "offset"), void 0 !== e[t] && void 0 !== e[t + r] || G(t, e.length - (r + 1));
         }(n, s, i);
       }
 
@@ -905,7 +905,7 @@
         if ("number" != typeof e) throw new U.ERR_INVALID_ARG_TYPE(t, "number", e);
       }
 
-      function K(e, t, r) {
+      function G(e, t, r) {
         if (Math.floor(e) !== e) throw W(e, r), new U.ERR_OUT_OF_RANGE(r || "offset", "an integer", e);
         if (t < 0) throw new U.ERR_BUFFER_OUT_OF_BOUNDS();
         throw new U.ERR_OUT_OF_RANGE(r || "offset", `>= ${r ? 1 : 0} and <= ${t}`, e);
@@ -918,9 +918,9 @@
       }, TypeError), H("ERR_OUT_OF_RANGE", function (e, t, r) {
         let n = `The value of "${e}" is out of range.`,
             s = r;
-        return Number.isInteger(r) && Math.abs(r) > 2 ** 32 ? s = z(String(r)) : "bigint" == typeof r && (s = String(r), (r > BigInt(2) ** BigInt(32) || r < -(BigInt(2) ** BigInt(32))) && (s = z(s)), s += "n"), n += ` It must be ${t}. Received ${s}`, n;
+        return Number.isInteger(r) && Math.abs(r) > 2 ** 32 ? s = j(String(r)) : "bigint" == typeof r && (s = String(r), (r > BigInt(2) ** BigInt(32) || r < -(BigInt(2) ** BigInt(32))) && (s = j(s)), s += "n"), n += ` It must be ${t}. Received ${s}`, n;
       }, RangeError);
-      const G = /[^+/0-9A-Za-z-_]/g;
+      const K = /[^+/0-9A-Za-z-_]/g;
 
       function V(e, t) {
         let r;
@@ -973,9 +973,9 @@
         return i;
       }
 
-      function $(e) {
+      function X(e) {
         return n.toByteArray(function (e) {
-          if ((e = (e = e.split("=")[0]).trim().replace(G, "")).length < 2) return "";
+          if ((e = (e = e.split("=")[0]).trim().replace(K, "")).length < 2) return "";
 
           for (; e.length % 4 != 0;) e += "=";
 
@@ -983,7 +983,7 @@
         }(e));
       }
 
-      function X(e, t, r, n) {
+      function $(e, t, r, n) {
         let s;
 
         for (s = 0; s < n && !(s + r >= t.length || s >= e.length); ++s) t[s + r] = e[s];
@@ -1519,32 +1519,32 @@
             g = n.transformTo("string", i.utf8encode(d.name)),
             y = d.comment,
             b = n.transformTo("string", l(y)),
-            x = n.transformTo("string", i.utf8encode(y)),
-            v = g.length !== d.name.length,
-            _ = x.length !== y.length,
+            v = n.transformTo("string", i.utf8encode(y)),
+            x = g.length !== d.name.length,
+            _ = v.length !== y.length,
             E = "",
             T = "",
             A = "",
             S = d.dir,
             I = d.date,
-            R = {
+            N = {
           crc32: 0,
           compressedSize: 0,
           uncompressedSize: 0
         };
 
-        t && !r || (R.crc32 = e.crc32, R.compressedSize = e.compressedSize, R.uncompressedSize = e.uncompressedSize);
-        var N = 0;
-        t && (N |= 8), m || !v && !_ || (N |= 2048);
-        var C,
-            O,
-            k = 0,
+        t && !r || (N.crc32 = e.crc32, N.compressedSize = e.compressedSize, N.uncompressedSize = e.uncompressedSize);
+        var R = 0;
+        t && (R |= 8), m || !x && !_ || (R |= 2048);
+        var k,
+            C,
+            O = 0,
             L = 0;
-        S && (k |= 16), "UNIX" === u ? (L = 798, k |= (O = C = d.unixPermissions, C || (O = S ? 16893 : 33204), (65535 & O) << 16)) : (L = 20, k |= 63 & (d.dosPermissions || 0)), h = I.getUTCHours(), h <<= 6, h |= I.getUTCMinutes(), h <<= 5, h |= I.getUTCSeconds() / 2, p = I.getUTCFullYear() - 1980, p <<= 4, p |= I.getUTCMonth() + 1, p <<= 5, p |= I.getUTCDate(), v && (T = c(1, 1) + c(o(w), 4) + g, E += "up" + c(T.length, 2) + T), _ && (A = c(1, 1) + c(o(b), 4) + x, E += "uc" + c(A.length, 2) + A);
+        S && (O |= 16), "UNIX" === u ? (L = 798, O |= (C = k = d.unixPermissions, k || (C = S ? 16893 : 33204), (65535 & C) << 16)) : (L = 20, O |= 63 & (d.dosPermissions || 0)), h = I.getUTCHours(), h <<= 6, h |= I.getUTCMinutes(), h <<= 5, h |= I.getUTCSeconds() / 2, p = I.getUTCFullYear() - 1980, p <<= 4, p |= I.getUTCMonth() + 1, p <<= 5, p |= I.getUTCDate(), x && (T = c(1, 1) + c(o(w), 4) + g, E += "up" + c(T.length, 2) + T), _ && (A = c(1, 1) + c(o(b), 4) + v, E += "uc" + c(A.length, 2) + A);
         var D = "";
-        return D += "\n\0", D += c(N, 2), D += f.magic, D += c(h, 2), D += c(p, 2), D += c(R.crc32, 4), D += c(R.compressedSize, 4), D += c(R.uncompressedSize, 4), D += c(w.length, 2), D += c(E.length, 2), {
+        return D += "\n\0", D += c(R, 2), D += f.magic, D += c(h, 2), D += c(p, 2), D += c(N.crc32, 4), D += c(N.compressedSize, 4), D += c(N.uncompressedSize, 4), D += c(w.length, 2), D += c(E.length, 2), {
           fileRecord: a.LOCAL_FILE_HEADER + D + w + E,
-          dirRecord: a.CENTRAL_FILE_HEADER + c(L, 2) + D + c(b.length, 2) + "\0\0\0\0" + c(k, 4) + c(s, 4) + w + E + b
+          dirRecord: a.CENTRAL_FILE_HEADER + c(L, 2) + D + c(b.length, 2) + "\0\0\0\0" + c(O, 4) + c(s, 4) + w + E + b
         };
       },
           l = function (e) {
@@ -3487,11 +3487,11 @@
         i._tr_flush_block(e, e.block_start >= 0 ? e.block_start : -1, e.strstart - e.block_start, t), e.block_start = e.strstart, y(e.strm);
       }
 
-      function x(e, t) {
+      function v(e, t) {
         e.pending_buf[e.pending++] = t;
       }
 
-      function v(e, t) {
+      function x(e, t) {
         e.pending_buf[e.pending++] = t >>> 8 & 255, e.pending_buf[e.pending++] = 255 & t;
       }
 
@@ -3617,24 +3617,24 @@
         this.strm = null, this.status = 0, this.pending_buf = null, this.pending_buf_size = 0, this.pending_out = 0, this.pending = 0, this.wrap = 0, this.gzhead = null, this.gzindex = 0, this.method = 8, this.last_flush = -1, this.w_size = 0, this.w_bits = 0, this.w_mask = 0, this.window = null, this.window_size = 0, this.prev = null, this.head = null, this.ins_h = 0, this.hash_size = 0, this.hash_bits = 0, this.hash_mask = 0, this.hash_shift = 0, this.block_start = 0, this.match_length = 0, this.prev_match = 0, this.match_available = 0, this.strstart = 0, this.match_start = 0, this.lookahead = 0, this.prev_length = 0, this.max_chain_length = 0, this.max_lazy_match = 0, this.level = 0, this.strategy = 0, this.good_match = 0, this.nice_match = 0, this.dyn_ltree = new s.Buf16(1146), this.dyn_dtree = new s.Buf16(122), this.bl_tree = new s.Buf16(78), g(this.dyn_ltree), g(this.dyn_dtree), g(this.bl_tree), this.l_desc = null, this.d_desc = null, this.bl_desc = null, this.bl_count = new s.Buf16(16), this.heap = new s.Buf16(573), g(this.heap), this.heap_len = 0, this.heap_max = 0, this.depth = new s.Buf16(573), g(this.depth), this.l_buf = 0, this.lit_bufsize = 0, this.last_lit = 0, this.d_buf = 0, this.opt_len = 0, this.static_len = 0, this.matches = 0, this.insert = 0, this.bi_buf = 0, this.bi_valid = 0;
       }
 
-      function R(e) {
+      function N(e) {
         var t;
         return e && e.state ? (e.total_in = e.total_out = 0, e.data_type = 2, (t = e.state).pending = 0, t.pending_out = 0, t.wrap < 0 && (t.wrap = -t.wrap), t.status = t.wrap ? 42 : d, e.adler = 2 === t.wrap ? 0 : 1, t.last_flush = 0, i._tr_init(t), 0) : m(e, u);
       }
 
-      function N(e) {
+      function R(e) {
         var t,
-            r = R(e);
+            r = N(e);
         return 0 === r && ((t = e.state).window_size = 2 * t.w_size, g(t.head), t.max_lazy_match = n[t.level].max_lazy, t.good_match = n[t.level].good_length, t.nice_match = n[t.level].nice_length, t.max_chain_length = n[t.level].max_chain, t.strstart = 0, t.block_start = 0, t.lookahead = 0, t.insert = 0, t.match_length = t.prev_length = 2, t.match_available = 0, t.ins_h = 0), r;
       }
 
-      function C(e, t, r, n, i, o) {
+      function k(e, t, r, n, i, o) {
         if (!e) return u;
         var a = 1;
         if (-1 === t && (t = 6), n < 0 ? (a = 0, n = -n) : n > 15 && (a = 2, n -= 16), i < 1 || i > 9 || 8 !== r || n < 8 || n > 15 || t < 0 || t > 9 || o < 0 || o > 4) return m(e, u);
         8 === n && (n = 9);
         var c = new I();
-        return e.state = c, c.strm = e, c.wrap = a, c.gzhead = null, c.w_bits = n, c.w_size = 1 << c.w_bits, c.w_mask = c.w_size - 1, c.hash_bits = i + 7, c.hash_size = 1 << c.hash_bits, c.hash_mask = c.hash_size - 1, c.hash_shift = ~~((c.hash_bits + 3 - 1) / 3), c.window = new s.Buf8(2 * c.w_size), c.head = new s.Buf16(c.hash_size), c.prev = new s.Buf16(c.w_size), c.lit_bufsize = 1 << i + 6, c.pending_buf_size = 4 * c.lit_bufsize, c.pending_buf = new s.Buf8(c.pending_buf_size), c.d_buf = 1 * c.lit_bufsize, c.l_buf = 3 * c.lit_bufsize, c.level = t, c.strategy = o, c.method = r, N(e);
+        return e.state = c, c.strm = e, c.wrap = a, c.gzhead = null, c.w_bits = n, c.w_size = 1 << c.w_bits, c.w_mask = c.w_size - 1, c.hash_bits = i + 7, c.hash_size = 1 << c.hash_bits, c.hash_mask = c.hash_size - 1, c.hash_shift = ~~((c.hash_bits + 3 - 1) / 3), c.window = new s.Buf8(2 * c.w_size), c.head = new s.Buf16(c.hash_size), c.prev = new s.Buf16(c.w_size), c.lit_bufsize = 1 << i + 6, c.pending_buf_size = 4 * c.lit_bufsize, c.pending_buf = new s.Buf8(c.pending_buf_size), c.d_buf = 1 * c.lit_bufsize, c.l_buf = 3 * c.lit_bufsize, c.level = t, c.strategy = o, c.method = r, R(e);
       }
 
       n = [new S(0, 0, 0, 0, function (e, t) {
@@ -3654,19 +3654,19 @@
 
         return e.insert = 0, 4 === t ? (b(e, !0), 0 === e.strm.avail_out ? 3 : 4) : (e.strstart > e.block_start && (b(e, !1), e.strm.avail_out), 1);
       }), new S(4, 4, 8, 4, T), new S(4, 5, 16, 8, T), new S(4, 6, 32, 32, T), new S(4, 4, 16, 16, A), new S(8, 16, 32, 32, A), new S(8, 16, 128, 128, A), new S(8, 32, 128, 256, A), new S(32, 128, 258, 1024, A), new S(32, 258, 258, 4096, A)], t.deflateInit = function (e, t) {
-        return C(e, t, 8, 15, 8, 0);
-      }, t.deflateInit2 = C, t.deflateReset = N, t.deflateResetKeep = R, t.deflateSetHeader = function (e, t) {
+        return k(e, t, 8, 15, 8, 0);
+      }, t.deflateInit2 = k, t.deflateReset = R, t.deflateResetKeep = N, t.deflateSetHeader = function (e, t) {
         return e && e.state ? 2 !== e.state.wrap ? u : (e.state.gzhead = t, 0) : u;
       }, t.deflate = function (e, t) {
         var r, s, o, c;
         if (!e || !e.state || t > 5 || t < 0) return e ? m(e, u) : u;
         if (s = e.state, !e.output || !e.input && 0 !== e.avail_in || s.status === f && 4 !== t) return m(e, 0 === e.avail_out ? -5 : u);
-        if (s.strm = e, r = s.last_flush, s.last_flush = t, 42 === s.status) if (2 === s.wrap) e.adler = 0, x(s, 31), x(s, 139), x(s, 8), s.gzhead ? (x(s, (s.gzhead.text ? 1 : 0) + (s.gzhead.hcrc ? 2 : 0) + (s.gzhead.extra ? 4 : 0) + (s.gzhead.name ? 8 : 0) + (s.gzhead.comment ? 16 : 0)), x(s, 255 & s.gzhead.time), x(s, s.gzhead.time >> 8 & 255), x(s, s.gzhead.time >> 16 & 255), x(s, s.gzhead.time >> 24 & 255), x(s, 9 === s.level ? 2 : s.strategy >= 2 || s.level < 2 ? 4 : 0), x(s, 255 & s.gzhead.os), s.gzhead.extra && s.gzhead.extra.length && (x(s, 255 & s.gzhead.extra.length), x(s, s.gzhead.extra.length >> 8 & 255)), s.gzhead.hcrc && (e.adler = a(e.adler, s.pending_buf, s.pending, 0)), s.gzindex = 0, s.status = 69) : (x(s, 0), x(s, 0), x(s, 0), x(s, 0), x(s, 0), x(s, 9 === s.level ? 2 : s.strategy >= 2 || s.level < 2 ? 4 : 0), x(s, 3), s.status = d);else {
+        if (s.strm = e, r = s.last_flush, s.last_flush = t, 42 === s.status) if (2 === s.wrap) e.adler = 0, v(s, 31), v(s, 139), v(s, 8), s.gzhead ? (v(s, (s.gzhead.text ? 1 : 0) + (s.gzhead.hcrc ? 2 : 0) + (s.gzhead.extra ? 4 : 0) + (s.gzhead.name ? 8 : 0) + (s.gzhead.comment ? 16 : 0)), v(s, 255 & s.gzhead.time), v(s, s.gzhead.time >> 8 & 255), v(s, s.gzhead.time >> 16 & 255), v(s, s.gzhead.time >> 24 & 255), v(s, 9 === s.level ? 2 : s.strategy >= 2 || s.level < 2 ? 4 : 0), v(s, 255 & s.gzhead.os), s.gzhead.extra && s.gzhead.extra.length && (v(s, 255 & s.gzhead.extra.length), v(s, s.gzhead.extra.length >> 8 & 255)), s.gzhead.hcrc && (e.adler = a(e.adler, s.pending_buf, s.pending, 0)), s.gzindex = 0, s.status = 69) : (v(s, 0), v(s, 0), v(s, 0), v(s, 0), v(s, 0), v(s, 9 === s.level ? 2 : s.strategy >= 2 || s.level < 2 ? 4 : 0), v(s, 3), s.status = d);else {
           var h = 8 + (s.w_bits - 8 << 4) << 8;
-          h |= (s.strategy >= 2 || s.level < 2 ? 0 : s.level < 6 ? 1 : 6 === s.level ? 2 : 3) << 6, 0 !== s.strstart && (h |= 32), h += 31 - h % 31, s.status = d, v(s, h), 0 !== s.strstart && (v(s, e.adler >>> 16), v(s, 65535 & e.adler)), e.adler = 1;
+          h |= (s.strategy >= 2 || s.level < 2 ? 0 : s.level < 6 ? 1 : 6 === s.level ? 2 : 3) << 6, 0 !== s.strstart && (h |= 32), h += 31 - h % 31, s.status = d, x(s, h), 0 !== s.strstart && (x(s, e.adler >>> 16), x(s, 65535 & e.adler)), e.adler = 1;
         }
         if (69 === s.status) if (s.gzhead.extra) {
-          for (o = s.pending; s.gzindex < (65535 & s.gzhead.extra.length) && (s.pending !== s.pending_buf_size || (s.gzhead.hcrc && s.pending > o && (e.adler = a(e.adler, s.pending_buf, s.pending - o, o)), y(e), o = s.pending, s.pending !== s.pending_buf_size));) x(s, 255 & s.gzhead.extra[s.gzindex]), s.gzindex++;
+          for (o = s.pending; s.gzindex < (65535 & s.gzhead.extra.length) && (s.pending !== s.pending_buf_size || (s.gzhead.hcrc && s.pending > o && (e.adler = a(e.adler, s.pending_buf, s.pending - o, o)), y(e), o = s.pending, s.pending !== s.pending_buf_size));) v(s, 255 & s.gzhead.extra[s.gzindex]), s.gzindex++;
 
           s.gzhead.hcrc && s.pending > o && (e.adler = a(e.adler, s.pending_buf, s.pending - o, o)), s.gzindex === s.gzhead.extra.length && (s.gzindex = 0, s.status = 73);
         } else s.status = 73;
@@ -3679,7 +3679,7 @@
               break;
             }
 
-            c = s.gzindex < s.gzhead.name.length ? 255 & s.gzhead.name.charCodeAt(s.gzindex++) : 0, x(s, c);
+            c = s.gzindex < s.gzhead.name.length ? 255 & s.gzhead.name.charCodeAt(s.gzindex++) : 0, v(s, c);
           } while (0 !== c);
 
           s.gzhead.hcrc && s.pending > o && (e.adler = a(e.adler, s.pending_buf, s.pending - o, o)), 0 === c && (s.gzindex = 0, s.status = 91);
@@ -3693,13 +3693,13 @@
               break;
             }
 
-            c = s.gzindex < s.gzhead.comment.length ? 255 & s.gzhead.comment.charCodeAt(s.gzindex++) : 0, x(s, c);
+            c = s.gzindex < s.gzhead.comment.length ? 255 & s.gzhead.comment.charCodeAt(s.gzindex++) : 0, v(s, c);
           } while (0 !== c);
 
           s.gzhead.hcrc && s.pending > o && (e.adler = a(e.adler, s.pending_buf, s.pending - o, o)), 0 === c && (s.status = p);
         } else s.status = p;
 
-        if (s.status === p && (s.gzhead.hcrc ? (s.pending + 2 > s.pending_buf_size && y(e), s.pending + 2 <= s.pending_buf_size && (x(s, 255 & e.adler), x(s, e.adler >> 8 & 255), e.adler = 0, s.status = d)) : s.status = d), 0 !== s.pending) {
+        if (s.status === p && (s.gzhead.hcrc ? (s.pending + 2 > s.pending_buf_size && y(e), s.pending + 2 <= s.pending_buf_size && (v(s, 255 & e.adler), v(s, e.adler >> 8 & 255), e.adler = 0, s.status = d)) : s.status = d), 0 !== s.pending) {
           if (y(e), 0 === e.avail_out) return s.last_flush = -1, 0;
         } else if (0 === e.avail_in && w(t) <= w(r) && 4 !== t) return m(e, -5);
 
@@ -3742,7 +3742,7 @@
           if (2 === _ && (1 === t ? i._tr_align(s) : 5 !== t && (i._tr_stored_block(s, 0, 0, !1), 3 === t && (g(s.head), 0 === s.lookahead && (s.strstart = 0, s.block_start = 0, s.insert = 0))), y(e), 0 === e.avail_out)) return s.last_flush = -1, 0;
         }
 
-        return 4 !== t ? 0 : s.wrap <= 0 ? 1 : (2 === s.wrap ? (x(s, 255 & e.adler), x(s, e.adler >> 8 & 255), x(s, e.adler >> 16 & 255), x(s, e.adler >> 24 & 255), x(s, 255 & e.total_in), x(s, e.total_in >> 8 & 255), x(s, e.total_in >> 16 & 255), x(s, e.total_in >> 24 & 255)) : (v(s, e.adler >>> 16), v(s, 65535 & e.adler)), y(e), s.wrap > 0 && (s.wrap = -s.wrap), 0 !== s.pending ? 0 : 1);
+        return 4 !== t ? 0 : s.wrap <= 0 ? 1 : (2 === s.wrap ? (v(s, 255 & e.adler), v(s, e.adler >> 8 & 255), v(s, e.adler >> 16 & 255), v(s, e.adler >> 24 & 255), v(s, 255 & e.total_in), v(s, e.total_in >> 8 & 255), v(s, e.total_in >> 16 & 255), v(s, e.total_in >> 24 & 255)) : (x(s, e.adler >>> 16), x(s, 65535 & e.adler)), y(e), s.wrap > 0 && (s.wrap = -s.wrap), 0 !== s.pending ? 0 : 1);
       }, t.deflateEnd = function (e) {
         var t;
         return e && e.state ? 42 !== (t = e.state.status) && 69 !== t && 73 !== t && 91 !== t && t !== p && t !== d && t !== f ? m(e, u) : (e.state = null, t === d ? m(e, -3) : 0) : u;
@@ -3783,7 +3783,7 @@
       "use strict";
 
       e.exports = function (e, t) {
-        var r, n, s, i, o, a, c, u, l, h, p, d, f, m, w, g, y, b, x, v, _, E, T, A, S;
+        var r, n, s, i, o, a, c, u, l, h, p, d, f, m, w, g, y, b, v, x, _, E, T, A, S;
 
         r = e.state, n = e.next_in, A = e.input, s = n + (e.avail_in - 5), i = e.next_out, S = e.output, o = i - (t - e.avail_out), a = i + (e.avail_out - 257), c = r.dmax, u = r.wsize, l = r.whave, h = r.wnext, p = r.window, d = r.hold, f = r.bits, m = r.lencode, w = r.distcode, g = (1 << r.lenbits) - 1, y = (1 << r.distbits) - 1;
 
@@ -3791,14 +3791,14 @@
           f < 15 && (d += A[n++] << f, f += 8, d += A[n++] << f, f += 8), b = m[d & g];
 
           t: for (;;) {
-            if (d >>>= x = b >>> 24, f -= x, 0 == (x = b >>> 16 & 255)) S[i++] = 65535 & b;else {
-              if (!(16 & x)) {
-                if (0 == (64 & x)) {
-                  b = m[(65535 & b) + (d & (1 << x) - 1)];
+            if (d >>>= v = b >>> 24, f -= v, 0 == (v = b >>> 16 & 255)) S[i++] = 65535 & b;else {
+              if (!(16 & v)) {
+                if (0 == (64 & v)) {
+                  b = m[(65535 & b) + (d & (1 << v) - 1)];
                   continue t;
                 }
 
-                if (32 & x) {
+                if (32 & v) {
                   r.mode = 12;
                   break e;
                 }
@@ -3807,12 +3807,12 @@
                 break e;
               }
 
-              v = 65535 & b, (x &= 15) && (f < x && (d += A[n++] << f, f += 8), v += d & (1 << x) - 1, d >>>= x, f -= x), f < 15 && (d += A[n++] << f, f += 8, d += A[n++] << f, f += 8), b = w[d & y];
+              x = 65535 & b, (v &= 15) && (f < v && (d += A[n++] << f, f += 8), x += d & (1 << v) - 1, d >>>= v, f -= v), f < 15 && (d += A[n++] << f, f += 8, d += A[n++] << f, f += 8), b = w[d & y];
 
               r: for (;;) {
-                if (d >>>= x = b >>> 24, f -= x, !(16 & (x = b >>> 16 & 255))) {
-                  if (0 == (64 & x)) {
-                    b = w[(65535 & b) + (d & (1 << x) - 1)];
+                if (d >>>= v = b >>> 24, f -= v, !(16 & (v = b >>> 16 & 255))) {
+                  if (0 == (64 & v)) {
+                    b = w[(65535 & b) + (d & (1 << v) - 1)];
                     continue r;
                   }
 
@@ -3820,66 +3820,66 @@
                   break e;
                 }
 
-                if (_ = 65535 & b, f < (x &= 15) && (d += A[n++] << f, (f += 8) < x && (d += A[n++] << f, f += 8)), (_ += d & (1 << x) - 1) > c) {
+                if (_ = 65535 & b, f < (v &= 15) && (d += A[n++] << f, (f += 8) < v && (d += A[n++] << f, f += 8)), (_ += d & (1 << v) - 1) > c) {
                   e.msg = "invalid distance too far back", r.mode = 30;
                   break e;
                 }
 
-                if (d >>>= x, f -= x, _ > (x = i - o)) {
-                  if ((x = _ - x) > l && r.sane) {
+                if (d >>>= v, f -= v, _ > (v = i - o)) {
+                  if ((v = _ - v) > l && r.sane) {
                     e.msg = "invalid distance too far back", r.mode = 30;
                     break e;
                   }
 
                   if (E = 0, T = p, 0 === h) {
-                    if (E += u - x, x < v) {
-                      v -= x;
+                    if (E += u - v, v < x) {
+                      x -= v;
 
                       do {
                         S[i++] = p[E++];
-                      } while (--x);
+                      } while (--v);
 
                       E = i - _, T = S;
                     }
-                  } else if (h < x) {
-                    if (E += u + h - x, (x -= h) < v) {
-                      v -= x;
+                  } else if (h < v) {
+                    if (E += u + h - v, (v -= h) < x) {
+                      x -= v;
 
                       do {
                         S[i++] = p[E++];
-                      } while (--x);
+                      } while (--v);
 
-                      if (E = 0, h < v) {
-                        v -= x = h;
+                      if (E = 0, h < x) {
+                        x -= v = h;
 
                         do {
                           S[i++] = p[E++];
-                        } while (--x);
+                        } while (--v);
 
                         E = i - _, T = S;
                       }
                     }
-                  } else if (E += h - x, x < v) {
-                    v -= x;
+                  } else if (E += h - v, v < x) {
+                    x -= v;
 
                     do {
                       S[i++] = p[E++];
-                    } while (--x);
+                    } while (--v);
 
                     E = i - _, T = S;
                   }
 
-                  for (; v > 2;) S[i++] = T[E++], S[i++] = T[E++], S[i++] = T[E++], v -= 3;
+                  for (; x > 2;) S[i++] = T[E++], S[i++] = T[E++], S[i++] = T[E++], x -= 3;
 
-                  v && (S[i++] = T[E++], v > 1 && (S[i++] = T[E++]));
+                  x && (S[i++] = T[E++], x > 1 && (S[i++] = T[E++]));
                 } else {
                   E = i - _;
 
                   do {
-                    S[i++] = S[E++], S[i++] = S[E++], S[i++] = S[E++], v -= 3;
-                  } while (v > 2);
+                    S[i++] = S[E++], S[i++] = S[E++], S[i++] = S[E++], x -= 3;
+                  } while (x > 2);
 
-                  v && (S[i++] = S[E++], v > 1 && (S[i++] = S[E++]));
+                  x && (S[i++] = S[E++], x > 1 && (S[i++] = S[E++]));
                 }
 
                 break;
@@ -3889,7 +3889,7 @@
           }
         } while (n < s && i < a);
 
-        n -= v = f >> 3, d &= (1 << (f -= v << 3)) - 1, e.next_in = n, e.next_out = i, e.avail_in = n < s ? s - n + 5 : 5 - (n - s), e.avail_out = i < a ? a - i + 257 : 257 - (i - a), r.hold = d, r.bits = f;
+        n -= x = f >> 3, d &= (1 << (f -= x << 3)) - 1, e.next_in = n, e.next_out = i, e.avail_in = n < s ? s - n + 5 : 5 - (n - s), e.avail_out = i < a ? a - i + 257 : 257 - (i - a), r.hold = d, r.bits = f;
       };
     },
     7948: (e, t, r) => {
@@ -3936,7 +3936,7 @@
           y,
           b = !0;
 
-      function x(e) {
+      function v(e) {
         if (b) {
           var t;
 
@@ -3960,7 +3960,7 @@
         e.lencode = g, e.lenbits = 9, e.distcode = y, e.distbits = 5;
       }
 
-      function v(e, t, r, s) {
+      function x(e, t, r, s) {
         var i,
             o = e.state;
         return null === o.window && (o.wsize = 1 << o.wbits, o.wnext = 0, o.whave = 0, o.window = new n.Buf8(o.wsize)), s >= o.wsize ? (n.arraySet(o.window, t, r - o.wsize, o.wsize, 0), o.wnext = 0, o.whave = o.wsize) : ((i = o.wsize - o.wnext) > s && (i = s), n.arraySet(o.window, t, r - s, i, o.wnext), (s -= i) ? (n.arraySet(o.window, t, r - s, s, 0), o.wnext = s, o.whave = o.wsize) : (o.wnext += i, o.wnext === o.wsize && (o.wnext = 0), o.whave < o.wsize && (o.whave += i))), 0;
@@ -3984,11 +3984,11 @@
             A,
             S,
             I,
-            R,
             N,
+            R,
+            k,
             C,
             O,
-            k,
             L,
             D,
             P,
@@ -4162,7 +4162,7 @@
                 break;
 
               case 1:
-                if (x(r), r.mode = 20, 6 === t) {
+                if (v(r), r.mode = 20, 6 === t) {
                   y >>>= 2, b -= 2;
                   break e;
                 }
@@ -4242,13 +4242,13 @@
 
           case 19:
             for (; r.have < r.nlen + r.ndist;) {
-              for (; R = (B = r.lencode[y & (1 << r.lenbits) - 1]) >>> 16 & 255, N = 65535 & B, !((I = B >>> 24) <= b);) {
+              for (; N = (B = r.lencode[y & (1 << r.lenbits) - 1]) >>> 16 & 255, R = 65535 & B, !((I = B >>> 24) <= b);) {
                 if (0 === w) break e;
                 w--, y += p[f++] << b, b += 8;
               }
 
-              if (N < 16) y >>>= I, b -= I, r.lens[r.have++] = N;else {
-                if (16 === N) {
+              if (R < 16) y >>>= I, b -= I, r.lens[r.have++] = R;else {
+                if (16 === R) {
                   for (F = I + 2; b < F;) {
                     if (0 === w) break e;
                     w--, y += p[f++] << b, b += 8;
@@ -4260,7 +4260,7 @@
                   }
 
                   L = r.lens[r.have - 1], T = 3 + (3 & y), y >>>= 2, b -= 2;
-                } else if (17 === N) {
+                } else if (17 === R) {
                   for (F = I + 3; b < F;) {
                     if (0 === w) break e;
                     w--, y += p[f++] << b, b += 8;
@@ -4317,36 +4317,36 @@
               break;
             }
 
-            for (r.back = 0; R = (B = r.lencode[y & (1 << r.lenbits) - 1]) >>> 16 & 255, N = 65535 & B, !((I = B >>> 24) <= b);) {
+            for (r.back = 0; N = (B = r.lencode[y & (1 << r.lenbits) - 1]) >>> 16 & 255, R = 65535 & B, !((I = B >>> 24) <= b);) {
               if (0 === w) break e;
               w--, y += p[f++] << b, b += 8;
             }
 
-            if (R && 0 == (240 & R)) {
-              for (C = I, O = R, k = N; R = (B = r.lencode[k + ((y & (1 << C + O) - 1) >> C)]) >>> 16 & 255, N = 65535 & B, !(C + (I = B >>> 24) <= b);) {
+            if (N && 0 == (240 & N)) {
+              for (k = I, C = N, O = R; N = (B = r.lencode[O + ((y & (1 << k + C) - 1) >> k)]) >>> 16 & 255, R = 65535 & B, !(k + (I = B >>> 24) <= b);) {
                 if (0 === w) break e;
                 w--, y += p[f++] << b, b += 8;
               }
 
-              y >>>= C, b -= C, r.back += C;
+              y >>>= k, b -= k, r.back += k;
             }
 
-            if (y >>>= I, b -= I, r.back += I, r.length = N, 0 === R) {
+            if (y >>>= I, b -= I, r.back += I, r.length = R, 0 === N) {
               r.mode = 26;
               break;
             }
 
-            if (32 & R) {
+            if (32 & N) {
               r.back = -1, r.mode = u;
               break;
             }
 
-            if (64 & R) {
+            if (64 & N) {
               e.msg = "invalid literal/length code", r.mode = l;
               break;
             }
 
-            r.extra = 15 & R, r.mode = 22;
+            r.extra = 15 & N, r.mode = 22;
 
           case 22:
             if (r.extra) {
@@ -4361,26 +4361,26 @@
             r.was = r.length, r.mode = 23;
 
           case 23:
-            for (; R = (B = r.distcode[y & (1 << r.distbits) - 1]) >>> 16 & 255, N = 65535 & B, !((I = B >>> 24) <= b);) {
+            for (; N = (B = r.distcode[y & (1 << r.distbits) - 1]) >>> 16 & 255, R = 65535 & B, !((I = B >>> 24) <= b);) {
               if (0 === w) break e;
               w--, y += p[f++] << b, b += 8;
             }
 
-            if (0 == (240 & R)) {
-              for (C = I, O = R, k = N; R = (B = r.distcode[k + ((y & (1 << C + O) - 1) >> C)]) >>> 16 & 255, N = 65535 & B, !(C + (I = B >>> 24) <= b);) {
+            if (0 == (240 & N)) {
+              for (k = I, C = N, O = R; N = (B = r.distcode[O + ((y & (1 << k + C) - 1) >> k)]) >>> 16 & 255, R = 65535 & B, !(k + (I = B >>> 24) <= b);) {
                 if (0 === w) break e;
                 w--, y += p[f++] << b, b += 8;
               }
 
-              y >>>= C, b -= C, r.back += C;
+              y >>>= k, b -= k, r.back += k;
             }
 
-            if (y >>>= I, b -= I, r.back += I, 64 & R) {
+            if (y >>>= I, b -= I, r.back += I, 64 & N) {
               e.msg = "invalid distance code", r.mode = l;
               break;
             }
 
-            r.offset = N, r.extra = 15 & R, r.mode = 24;
+            r.offset = R, r.extra = 15 & N, r.mode = 24;
 
           case 24:
             if (r.extra) {
@@ -4474,7 +4474,7 @@
             return c;
         }
 
-        return e.next_out = m, e.avail_out = g, e.next_in = f, e.avail_in = w, r.hold = y, r.bits = b, (r.wsize || E !== e.avail_out && r.mode < l && (r.mode < 27 || 4 !== t)) && v(e, e.output, e.next_out, E - e.avail_out) ? (r.mode = 31, -4) : (_ -= e.avail_in, E -= e.avail_out, e.total_in += _, e.total_out += E, r.total += E, r.wrap && E && (e.adler = r.check = r.flags ? i(r.check, d, E, e.next_out - E) : s(r.check, d, E, e.next_out - E)), e.data_type = r.bits + (r.last ? 64 : 0) + (r.mode === u ? 128 : 0) + (20 === r.mode || 15 === r.mode ? 256 : 0), (0 === _ && 0 === E || 4 === t) && 0 === D && (D = -5), D);
+        return e.next_out = m, e.avail_out = g, e.next_in = f, e.avail_in = w, r.hold = y, r.bits = b, (r.wsize || E !== e.avail_out && r.mode < l && (r.mode < 27 || 4 !== t)) && x(e, e.output, e.next_out, E - e.avail_out) ? (r.mode = 31, -4) : (_ -= e.avail_in, E -= e.avail_out, e.total_in += _, e.total_out += E, r.total += E, r.wrap && E && (e.adler = r.check = r.flags ? i(r.check, d, E, e.next_out - E) : s(r.check, d, E, e.next_out - E)), e.data_type = r.bits + (r.last ? 64 : 0) + (r.mode === u ? 128 : 0) + (20 === r.mode || 15 === r.mode ? 256 : 0), (0 === _ && 0 === E || 4 === t) && 0 === D && (D = -5), D);
       }, t.inflateEnd = function (e) {
         if (!e || !e.state) return c;
         var t = e.state;
@@ -4485,7 +4485,7 @@
       }, t.inflateSetDictionary = function (e, t) {
         var r,
             n = t.length;
-        return e && e.state ? 0 !== (r = e.state).wrap && 11 !== r.mode ? c : 11 === r.mode && s(1, t, n, 0) !== r.check ? -3 : v(e, t, n, n) ? (r.mode = 31, -4) : (r.havedict = 1, 0) : c;
+        return e && e.state ? 0 !== (r = e.state).wrap && 11 !== r.mode ? c : 11 === r.mode && s(1, t, n, 0) !== r.check ? -3 : x(e, t, n, n) ? (r.mode = 31, -4) : (r.havedict = 1, 0) : c;
       }, t.inflateInfo = "pako inflate (from Nodeca project)";
     },
     9241: (e, t, r) => {
@@ -4505,19 +4505,19 @@
             g,
             y,
             b,
-            x,
             v,
+            x,
             _ = p.bits,
             E = 0,
             T = 0,
             A = 0,
             S = 0,
             I = 0,
-            R = 0,
             N = 0,
+            R = 0,
+            k = 0,
             C = 0,
             O = 0,
-            k = 0,
             L = null,
             D = 0,
             P = new n.Buf16(16),
@@ -4535,39 +4535,39 @@
 
         for (A = 1; A < S && 0 === P[A]; A++);
 
-        for (I < A && (I = A), C = 1, E = 1; E <= 15; E++) if (C <<= 1, (C -= P[E]) < 0) return -1;
+        for (I < A && (I = A), k = 1, E = 1; E <= 15; E++) if (k <<= 1, (k -= P[E]) < 0) return -1;
 
-        if (C > 0 && (0 === e || 1 !== S)) return -1;
+        if (k > 0 && (0 === e || 1 !== S)) return -1;
 
         for (F[1] = 0, E = 1; E < 15; E++) F[E + 1] = F[E] + P[E];
 
         for (T = 0; T < c; T++) 0 !== t[r + T] && (h[F[t[r + T]]++] = T);
 
-        if (0 === e ? (L = B = h, y = 19) : 1 === e ? (L = s, D -= 257, B = i, M -= 257, y = 256) : (L = o, B = a, y = -1), k = 0, T = 0, E = A, g = l, R = I, N = 0, m = -1, w = (O = 1 << I) - 1, 1 === e && O > 852 || 2 === e && O > 592) return 1;
+        if (0 === e ? (L = B = h, y = 19) : 1 === e ? (L = s, D -= 257, B = i, M -= 257, y = 256) : (L = o, B = a, y = -1), O = 0, T = 0, E = A, g = l, N = I, R = 0, m = -1, w = (C = 1 << I) - 1, 1 === e && C > 852 || 2 === e && C > 592) return 1;
 
         for (;;) {
-          b = E - N, h[T] < y ? (x = 0, v = h[T]) : h[T] > y ? (x = B[M + h[T]], v = L[D + h[T]]) : (x = 96, v = 0), d = 1 << E - N, A = f = 1 << R;
+          b = E - R, h[T] < y ? (v = 0, x = h[T]) : h[T] > y ? (v = B[M + h[T]], x = L[D + h[T]]) : (v = 96, x = 0), d = 1 << E - R, A = f = 1 << N;
 
           do {
-            u[g + (k >> N) + (f -= d)] = b << 24 | x << 16 | v | 0;
+            u[g + (O >> R) + (f -= d)] = b << 24 | v << 16 | x | 0;
           } while (0 !== f);
 
-          for (d = 1 << E - 1; k & d;) d >>= 1;
+          for (d = 1 << E - 1; O & d;) d >>= 1;
 
-          if (0 !== d ? (k &= d - 1, k += d) : k = 0, T++, 0 == --P[E]) {
+          if (0 !== d ? (O &= d - 1, O += d) : O = 0, T++, 0 == --P[E]) {
             if (E === S) break;
             E = t[r + h[T]];
           }
 
-          if (E > I && (k & w) !== m) {
-            for (0 === N && (N = I), g += A, C = 1 << (R = E - N); R + N < S && !((C -= P[R + N]) <= 0);) R++, C <<= 1;
+          if (E > I && (O & w) !== m) {
+            for (0 === R && (R = I), g += A, k = 1 << (N = E - R); N + R < S && !((k -= P[N + R]) <= 0);) N++, k <<= 1;
 
-            if (O += 1 << R, 1 === e && O > 852 || 2 === e && O > 592) return 1;
-            u[m = k & w] = I << 24 | R << 16 | g - l | 0;
+            if (C += 1 << N, 1 === e && C > 852 || 2 === e && C > 592) return 1;
+            u[m = O & w] = I << 24 | N << 16 | g - l | 0;
           }
         }
 
-        return 0 !== k && (u[g + k] = E - N << 24 | 64 << 16 | 0), p.bits = I, 0;
+        return 0 !== O && (u[g + O] = E - R << 24 | 64 << 16 | 0), p.bits = I, 0;
       };
     },
     8898: e => {
@@ -4621,16 +4621,16 @@
         this.dyn_tree = e, this.max_code = 0, this.stat_desc = t;
       }
 
-      function x(e) {
+      function v(e) {
         return e < 256 ? h[e] : h[256 + (e >>> 7)];
       }
 
-      function v(e, t) {
+      function x(e, t) {
         e.pending_buf[e.pending++] = 255 & t, e.pending_buf[e.pending++] = t >>> 8 & 255;
       }
 
       function _(e, t, r) {
-        e.bi_valid > 16 - r ? (e.bi_buf |= t << e.bi_valid & 65535, v(e, e.bi_buf), e.bi_buf = t >> 16 - e.bi_valid, e.bi_valid += r - 16) : (e.bi_buf |= t << e.bi_valid & 65535, e.bi_valid += r);
+        e.bi_valid > 16 - r ? (e.bi_buf |= t << e.bi_valid & 65535, x(e, e.bi_buf), e.bi_buf = t >> 16 - e.bi_valid, e.bi_valid += r - 16) : (e.bi_buf |= t << e.bi_valid & 65535, e.bi_valid += r);
       }
 
       function E(e, t, r) {
@@ -4674,34 +4674,34 @@
       }
 
       function I(e) {
-        e.bi_valid > 8 ? v(e, e.bi_buf) : e.bi_valid > 0 && (e.pending_buf[e.pending++] = e.bi_buf), e.bi_buf = 0, e.bi_valid = 0;
+        e.bi_valid > 8 ? x(e, e.bi_buf) : e.bi_valid > 0 && (e.pending_buf[e.pending++] = e.bi_buf), e.bi_buf = 0, e.bi_valid = 0;
       }
 
-      function R(e, t, r, n) {
+      function N(e, t, r, n) {
         var s = 2 * t,
             i = 2 * r;
         return e[s] < e[i] || e[s] === e[i] && n[t] <= n[r];
       }
 
-      function N(e, t, r) {
-        for (var n = e.heap[r], s = r << 1; s <= e.heap_len && (s < e.heap_len && R(t, e.heap[s + 1], e.heap[s], e.depth) && s++, !R(t, n, e.heap[s], e.depth));) e.heap[r] = e.heap[s], r = s, s <<= 1;
+      function R(e, t, r) {
+        for (var n = e.heap[r], s = r << 1; s <= e.heap_len && (s < e.heap_len && N(t, e.heap[s + 1], e.heap[s], e.depth) && s++, !N(t, n, e.heap[s], e.depth));) e.heap[r] = e.heap[s], r = s, s <<= 1;
 
         e.heap[r] = n;
       }
 
-      function C(e, t, r) {
+      function k(e, t, r) {
         var n,
             s,
             a,
             c,
             u = 0;
         if (0 !== e.last_lit) do {
-          n = e.pending_buf[e.d_buf + 2 * u] << 8 | e.pending_buf[e.d_buf + 2 * u + 1], s = e.pending_buf[e.l_buf + u], u++, 0 === n ? E(e, s, t) : (E(e, (a = p[s]) + 256 + 1, t), 0 !== (c = i[a]) && _(e, s -= d[a], c), E(e, a = x(--n), r), 0 !== (c = o[a]) && _(e, n -= g[a], c));
+          n = e.pending_buf[e.d_buf + 2 * u] << 8 | e.pending_buf[e.d_buf + 2 * u + 1], s = e.pending_buf[e.l_buf + u], u++, 0 === n ? E(e, s, t) : (E(e, (a = p[s]) + 256 + 1, t), 0 !== (c = i[a]) && _(e, s -= d[a], c), E(e, a = v(--n), r), 0 !== (c = o[a]) && _(e, n -= g[a], c));
         } while (u < e.last_lit);
         E(e, 256, t);
       }
 
-      function O(e, t) {
+      function C(e, t) {
         var r,
             n,
             s,
@@ -4715,12 +4715,12 @@
 
         for (; e.heap_len < 2;) i[2 * (s = e.heap[++e.heap_len] = u < 2 ? ++u : 0)] = 1, e.depth[s] = 0, e.opt_len--, a && (e.static_len -= o[2 * s + 1]);
 
-        for (t.max_code = u, r = e.heap_len >> 1; r >= 1; r--) N(e, i, r);
+        for (t.max_code = u, r = e.heap_len >> 1; r >= 1; r--) R(e, i, r);
 
         s = c;
 
         do {
-          r = e.heap[1], e.heap[1] = e.heap[e.heap_len--], N(e, i, 1), n = e.heap[1], e.heap[--e.heap_max] = r, e.heap[--e.heap_max] = n, i[2 * s] = i[2 * r] + i[2 * n], e.depth[s] = (e.depth[r] >= e.depth[n] ? e.depth[r] : e.depth[n]) + 1, i[2 * r + 1] = i[2 * n + 1] = s, e.heap[1] = s++, N(e, i, 1);
+          r = e.heap[1], e.heap[1] = e.heap[e.heap_len--], R(e, i, 1), n = e.heap[1], e.heap[--e.heap_max] = r, e.heap[--e.heap_max] = n, i[2 * s] = i[2 * r] + i[2 * n], e.depth[s] = (e.depth[r] >= e.depth[n] ? e.depth[r] : e.depth[n]) + 1, i[2 * r + 1] = i[2 * n + 1] = s, e.heap[1] = s++, R(e, i, 1);
         } while (e.heap_len >= 2);
 
         e.heap[--e.heap_max] = e.heap[1], function (e, t) {
@@ -4755,7 +4755,7 @@
         }(e, t), A(i, u, e.bl_count);
       }
 
-      function k(e, t, r) {
+      function O(e, t, r) {
         var n,
             s,
             i = -1,
@@ -4789,7 +4789,7 @@
 
       function P(e, t, r, s) {
         _(e, 0 + (s ? 1 : 0), 3), function (e, t, r, s) {
-          I(e), v(e, r), v(e, ~r), n.arraySet(e.pending_buf, e.window, t, r, e.pending), e.pending += r;
+          I(e), x(e, r), x(e, ~r), n.arraySet(e.pending_buf, e.window, t, r, e.pending), e.pending += r;
         }(e, t, r);
       }
 
@@ -4837,24 +4837,24 @@
           for (t = 32; t < 256; t++) if (0 !== e.dyn_ltree[2 * t]) return 1;
 
           return 0;
-        }(e)), O(e, e.l_desc), O(e, e.d_desc), o = function (e) {
+        }(e)), C(e, e.l_desc), C(e, e.d_desc), o = function (e) {
           var t;
 
-          for (k(e, e.dyn_ltree, e.l_desc.max_code), k(e, e.dyn_dtree, e.d_desc.max_code), O(e, e.bl_desc), t = 18; t >= 3 && 0 === e.bl_tree[2 * c[t] + 1]; t--);
+          for (O(e, e.dyn_ltree, e.l_desc.max_code), O(e, e.dyn_dtree, e.d_desc.max_code), C(e, e.bl_desc), t = 18; t >= 3 && 0 === e.bl_tree[2 * c[t] + 1]; t--);
 
           return e.opt_len += 3 * (t + 1) + 5 + 5 + 4, t;
-        }(e), s = e.opt_len + 3 + 7 >>> 3, (i = e.static_len + 3 + 7 >>> 3) <= s && (s = i)) : s = i = r + 5, r + 4 <= s && -1 !== t ? P(e, t, r, n) : 4 === e.strategy || i === s ? (_(e, 2 + (n ? 1 : 0), 3), C(e, u, l)) : (_(e, 4 + (n ? 1 : 0), 3), function (e, t, r, n) {
+        }(e), s = e.opt_len + 3 + 7 >>> 3, (i = e.static_len + 3 + 7 >>> 3) <= s && (s = i)) : s = i = r + 5, r + 4 <= s && -1 !== t ? P(e, t, r, n) : 4 === e.strategy || i === s ? (_(e, 2 + (n ? 1 : 0), 3), k(e, u, l)) : (_(e, 4 + (n ? 1 : 0), 3), function (e, t, r, n) {
           var s;
 
           for (_(e, t - 257, 5), _(e, r - 1, 5), _(e, n - 4, 4), s = 0; s < n; s++) _(e, e.bl_tree[2 * c[s] + 1], 3);
 
           L(e, e.dyn_ltree, t - 1), L(e, e.dyn_dtree, r - 1);
-        }(e, e.l_desc.max_code + 1, e.d_desc.max_code + 1, o + 1), C(e, e.dyn_ltree, e.dyn_dtree)), S(e), n && I(e);
+        }(e, e.l_desc.max_code + 1, e.d_desc.max_code + 1, o + 1), k(e, e.dyn_ltree, e.dyn_dtree)), S(e), n && I(e);
       }, t._tr_tally = function (e, t, r) {
-        return e.pending_buf[e.d_buf + 2 * e.last_lit] = t >>> 8 & 255, e.pending_buf[e.d_buf + 2 * e.last_lit + 1] = 255 & t, e.pending_buf[e.l_buf + e.last_lit] = 255 & r, e.last_lit++, 0 === t ? e.dyn_ltree[2 * r]++ : (e.matches++, t--, e.dyn_ltree[2 * (p[r] + 256 + 1)]++, e.dyn_dtree[2 * x(t)]++), e.last_lit === e.lit_bufsize - 1;
+        return e.pending_buf[e.d_buf + 2 * e.last_lit] = t >>> 8 & 255, e.pending_buf[e.d_buf + 2 * e.last_lit + 1] = 255 & t, e.pending_buf[e.l_buf + e.last_lit] = 255 & r, e.last_lit++, 0 === t ? e.dyn_ltree[2 * r]++ : (e.matches++, t--, e.dyn_ltree[2 * (p[r] + 256 + 1)]++, e.dyn_dtree[2 * v(t)]++), e.last_lit === e.lit_bufsize - 1;
       }, t._tr_align = function (e) {
         _(e, 2, 3), E(e, 256, u), function (e) {
-          16 === e.bi_valid ? (v(e, e.bi_buf), e.bi_buf = 0, e.bi_valid = 0) : e.bi_valid >= 8 && (e.pending_buf[e.pending++] = 255 & e.bi_buf, e.bi_buf >>= 8, e.bi_valid -= 8);
+          16 === e.bi_valid ? (x(e, e.bi_buf), e.bi_buf = 0, e.bi_valid = 0) : e.bi_valid >= 8 && (e.pending_buf[e.pending++] = 255 & e.bi_buf, e.bi_buf >>= 8, e.bi_valid -= 8);
         }(e);
       };
     },
@@ -5024,13 +5024,13 @@
           return t;
         }), s.prototype = {
           end: function () {
-            N(this);
+            R(this);
           },
           write: function (t) {
             var r = this;
             if (this.error) throw this.error;
-            if (r.closed) return R(r, "Cannot write after close. Assign an onready handler.");
-            if (null === t) return N(r);
+            if (r.closed) return N(r, "Cannot write after close. Assign an onready handler.");
+            if (null === t) return R(r);
             "object" == typeof t && (t = t.toString());
 
             for (var s = 0, i = ""; i = M(t, s++), r.c = i, i;) switch (r.trackPosition && (r.position++, "\n" === i ? (r.line++, r.column = 0) : r.column++), r.state) {
@@ -5050,7 +5050,7 @@
                   r.textNode += t.substring(o, s - 1);
                 }
 
-                "<" !== i || r.sawRoot && r.closedRoot && !r.strict ? (f(i) || r.sawRoot && !r.closedRoot || C(r, "Text data outside of root node."), "&" === i ? r.state = _.TEXT_ENTITY : r.textNode += i) : (r.state = _.OPEN_WAKA, r.startTagPosition = r.position);
+                "<" !== i || r.sawRoot && r.closedRoot && !r.strict ? (f(i) || r.sawRoot && !r.closedRoot || k(r, "Text data outside of root node."), "&" === i ? r.state = _.TEXT_ENTITY : r.textNode += i) : (r.state = _.OPEN_WAKA, r.startTagPosition = r.position);
                 continue;
 
               case _.SCRIPT:
@@ -5063,7 +5063,7 @@
 
               case _.OPEN_WAKA:
                 if ("!" === i) r.state = _.SGML_DECL, r.sgmlDecl = "";else if (f(i)) ;else if (g(l, i)) r.state = _.OPEN_TAG, r.tagName = i;else if ("/" === i) r.state = _.CLOSE_TAG, r.tagName = "";else if ("?" === i) r.state = _.PROC_INST, r.procInstName = r.procInstBody = "";else {
-                  if (C(r, "Unencoded <"), r.startTagPosition + 1 < r.position) {
+                  if (k(r, "Unencoded <"), r.startTagPosition + 1 < r.position) {
                     var a = r.position - r.startTagPosition;
                     i = new Array(a).join(" ") + i;
                   }
@@ -5073,7 +5073,7 @@
                 continue;
 
               case _.SGML_DECL:
-                "[CDATA[" === (r.sgmlDecl + i).toUpperCase() ? (A(r, "onopencdata"), r.state = _.CDATA, r.sgmlDecl = "", r.cdata = "") : r.sgmlDecl + i === "--" ? (r.state = _.COMMENT, r.comment = "", r.sgmlDecl = "") : "DOCTYPE" === (r.sgmlDecl + i).toUpperCase() ? (r.state = _.DOCTYPE, (r.doctype || r.sawRoot) && C(r, "Inappropriately located doctype declaration"), r.doctype = "", r.sgmlDecl = "") : ">" === i ? (A(r, "onsgmldeclaration", r.sgmlDecl), r.sgmlDecl = "", r.state = _.TEXT) : m(i) ? (r.state = _.SGML_DECL_QUOTED, r.sgmlDecl += i) : r.sgmlDecl += i;
+                "[CDATA[" === (r.sgmlDecl + i).toUpperCase() ? (A(r, "onopencdata"), r.state = _.CDATA, r.sgmlDecl = "", r.cdata = "") : r.sgmlDecl + i === "--" ? (r.state = _.COMMENT, r.comment = "", r.sgmlDecl = "") : "DOCTYPE" === (r.sgmlDecl + i).toUpperCase() ? (r.state = _.DOCTYPE, (r.doctype || r.sawRoot) && k(r, "Inappropriately located doctype declaration"), r.doctype = "", r.sgmlDecl = "") : ">" === i ? (A(r, "onsgmldeclaration", r.sgmlDecl), r.sgmlDecl = "", r.state = _.TEXT) : m(i) ? (r.state = _.SGML_DECL_QUOTED, r.sgmlDecl += i) : r.sgmlDecl += i;
                 continue;
 
               case _.SGML_DECL_QUOTED:
@@ -5105,7 +5105,7 @@
                 continue;
 
               case _.COMMENT_ENDED:
-                ">" !== i ? (C(r, "Malformed comment"), r.comment += "--" + i, r.state = _.COMMENT) : r.state = _.TEXT;
+                ">" !== i ? (k(r, "Malformed comment"), r.comment += "--" + i, r.state = _.COMMENT) : r.state = _.TEXT;
                 continue;
 
               case _.CDATA:
@@ -5137,35 +5137,35 @@
                 continue;
 
               case _.OPEN_TAG:
-                g(h, i) ? r.tagName += i : (O(r), ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : (f(i) || C(r, "Invalid character in tag name"), r.state = _.ATTRIB));
+                g(h, i) ? r.tagName += i : (C(r), ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : (f(i) || k(r, "Invalid character in tag name"), r.state = _.ATTRIB));
                 continue;
 
               case _.OPEN_TAG_SLASH:
-                ">" === i ? (D(r, !0), P(r)) : (C(r, "Forward-slash in opening tag not followed by >"), r.state = _.ATTRIB);
+                ">" === i ? (D(r, !0), P(r)) : (k(r, "Forward-slash in opening tag not followed by >"), r.state = _.ATTRIB);
                 continue;
 
               case _.ATTRIB:
                 if (f(i)) continue;
-                ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : g(l, i) ? (r.attribName = i, r.attribValue = "", r.state = _.ATTRIB_NAME) : C(r, "Invalid attribute name");
+                ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : g(l, i) ? (r.attribName = i, r.attribValue = "", r.state = _.ATTRIB_NAME) : k(r, "Invalid attribute name");
                 continue;
 
               case _.ATTRIB_NAME:
-                "=" === i ? r.state = _.ATTRIB_VALUE : ">" === i ? (C(r, "Attribute without value"), r.attribValue = r.attribName, L(r), D(r)) : f(i) ? r.state = _.ATTRIB_NAME_SAW_WHITE : g(h, i) ? r.attribName += i : C(r, "Invalid attribute name");
+                "=" === i ? r.state = _.ATTRIB_VALUE : ">" === i ? (k(r, "Attribute without value"), r.attribValue = r.attribName, L(r), D(r)) : f(i) ? r.state = _.ATTRIB_NAME_SAW_WHITE : g(h, i) ? r.attribName += i : k(r, "Invalid attribute name");
                 continue;
 
               case _.ATTRIB_NAME_SAW_WHITE:
                 if ("=" === i) r.state = _.ATTRIB_VALUE;else {
                   if (f(i)) continue;
-                  C(r, "Attribute without value"), r.tag.attributes[r.attribName] = "", r.attribValue = "", A(r, "onattribute", {
+                  k(r, "Attribute without value"), r.tag.attributes[r.attribName] = "", r.attribValue = "", A(r, "onattribute", {
                     name: r.attribName,
                     value: ""
-                  }), r.attribName = "", ">" === i ? D(r) : g(l, i) ? (r.attribName = i, r.state = _.ATTRIB_NAME) : (C(r, "Invalid attribute name"), r.state = _.ATTRIB);
+                  }), r.attribName = "", ">" === i ? D(r) : g(l, i) ? (r.attribName = i, r.state = _.ATTRIB_NAME) : (k(r, "Invalid attribute name"), r.state = _.ATTRIB);
                 }
                 continue;
 
               case _.ATTRIB_VALUE:
                 if (f(i)) continue;
-                m(i) ? (r.q = i, r.state = _.ATTRIB_VALUE_QUOTED) : (C(r, "Unquoted attribute value"), r.state = _.ATTRIB_VALUE_UNQUOTED, r.attribValue = i);
+                m(i) ? (r.q = i, r.state = _.ATTRIB_VALUE_QUOTED) : (k(r, "Unquoted attribute value"), r.state = _.ATTRIB_VALUE_UNQUOTED, r.attribValue = i);
                 continue;
 
               case _.ATTRIB_VALUE_QUOTED:
@@ -5178,7 +5178,7 @@
                 continue;
 
               case _.ATTRIB_VALUE_CLOSED:
-                f(i) ? r.state = _.ATTRIB : ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : g(l, i) ? (C(r, "No whitespace between attributes"), r.attribName = i, r.attribValue = "", r.state = _.ATTRIB_NAME) : C(r, "Invalid attribute name");
+                f(i) ? r.state = _.ATTRIB : ">" === i ? D(r) : "/" === i ? r.state = _.OPEN_TAG_SLASH : g(l, i) ? (k(r, "No whitespace between attributes"), r.attribName = i, r.attribValue = "", r.state = _.ATTRIB_NAME) : k(r, "Invalid attribute name");
                 continue;
 
               case _.ATTRIB_VALUE_UNQUOTED:
@@ -5191,15 +5191,15 @@
                 continue;
 
               case _.CLOSE_TAG:
-                if (r.tagName) ">" === i ? P(r) : g(h, i) ? r.tagName += i : r.script ? (r.script += "</" + r.tagName, r.tagName = "", r.state = _.SCRIPT) : (f(i) || C(r, "Invalid tagname in closing tag"), r.state = _.CLOSE_TAG_SAW_WHITE);else {
+                if (r.tagName) ">" === i ? P(r) : g(h, i) ? r.tagName += i : r.script ? (r.script += "</" + r.tagName, r.tagName = "", r.state = _.SCRIPT) : (f(i) || k(r, "Invalid tagname in closing tag"), r.state = _.CLOSE_TAG_SAW_WHITE);else {
                   if (f(i)) continue;
-                  y(l, i) ? r.script ? (r.script += "</" + i, r.state = _.SCRIPT) : C(r, "Invalid tagname in closing tag.") : r.tagName = i;
+                  y(l, i) ? r.script ? (r.script += "</" + i, r.state = _.SCRIPT) : k(r, "Invalid tagname in closing tag.") : r.tagName = i;
                 }
                 continue;
 
               case _.CLOSE_TAG_SAW_WHITE:
                 if (f(i)) continue;
-                ">" === i ? P(r) : C(r, "Invalid characters in closing tag");
+                ">" === i ? P(r) : k(r, "Invalid characters in closing tag");
                 continue;
 
               case _.TEXT_ENTITY:
@@ -5220,7 +5220,7 @@
                     c = _.ATTRIB_VALUE_UNQUOTED, u = "attribValue";
                 }
 
-                ";" === i ? (r[u] += F(r), r.entity = "", r.state = c) : g(r.entity.length ? d : p, i) ? r.entity += i : (C(r, "Invalid character in entity name"), r[u] += "&" + r.entity + i, r.entity = "", r.state = c);
+                ";" === i ? (r[u] += F(r), r.entity = "", r.state = c) : g(r.entity.length ? d : p, i) ? r.entity += i : (k(r, "Invalid character in entity name"), r[u] += "&" + r.entity + i, r.entity = "", r.state = c);
                 continue;
 
               default:
@@ -5244,7 +5244,7 @@
                     break;
 
                   default:
-                    R(t, "Max buffer length exceeded: " + n[i]);
+                    N(t, "Max buffer length exceeded: " + n[i]);
                 }
                 s = Math.max(s, a);
               }
@@ -5354,8 +5354,8 @@
         }
 
         var b,
-            x,
             v,
+            x,
             _ = 0;
 
         for (var E in e.STATE = {
@@ -5677,20 +5677,20 @@
           return e.trim && (t = t.trim()), e.normalize && (t = t.replace(/\s+/g, " ")), t;
         }
 
-        function R(e, t) {
+        function N(e, t) {
           return S(e), e.trackPosition && (t += "\nLine: " + e.line + "\nColumn: " + e.column + "\nChar: " + e.c), t = new Error(t), e.error = t, T(e, "onerror", t), e;
         }
 
-        function N(e) {
-          return e.sawRoot && !e.closedRoot && C(e, "Unclosed root tag"), e.state !== _.BEGIN && e.state !== _.BEGIN_WHITESPACE && e.state !== _.TEXT && R(e, "Unexpected end"), S(e), e.c = "", e.closed = !0, T(e, "onend"), s.call(e, e.strict, e.opt), e;
+        function R(e) {
+          return e.sawRoot && !e.closedRoot && k(e, "Unclosed root tag"), e.state !== _.BEGIN && e.state !== _.BEGIN_WHITESPACE && e.state !== _.TEXT && N(e, "Unexpected end"), S(e), e.c = "", e.closed = !0, T(e, "onend"), s.call(e, e.strict, e.opt), e;
         }
 
-        function C(e, t) {
+        function k(e, t) {
           if ("object" != typeof e || !(e instanceof s)) throw new Error("bad call to strictFail");
-          e.strict && R(e, t);
+          e.strict && N(e, t);
         }
 
-        function O(e) {
+        function C(e) {
           e.strict || (e.tagName = e.tagName[e.looseCase]());
           var t = e.tags[e.tags.length - 1] || e,
               r = e.tag = {
@@ -5700,7 +5700,7 @@
           e.opt.xmlns && (r.ns = t.ns), e.attribList.length = 0, A(e, "onopentagstart", r);
         }
 
-        function k(e, t) {
+        function O(e, t) {
           var r = e.indexOf(":") < 0 ? ["", e] : e.split(":"),
               n = r[0],
               s = r[1];
@@ -5713,10 +5713,10 @@
         function L(e) {
           if (e.strict || (e.attribName = e.attribName[e.looseCase]()), -1 !== e.attribList.indexOf(e.attribName) || e.tag.attributes.hasOwnProperty(e.attribName)) e.attribName = e.attribValue = "";else {
             if (e.opt.xmlns) {
-              var t = k(e.attribName, !0),
+              var t = O(e.attribName, !0),
                   r = t.prefix,
                   n = t.local;
-              if ("xmlns" === r) if ("xml" === n && e.attribValue !== a) C(e, "xml: prefix must be bound to " + a + "\nActual: " + e.attribValue);else if ("xmlns" === n && e.attribValue !== c) C(e, "xmlns: prefix must be bound to " + c + "\nActual: " + e.attribValue);else {
+              if ("xmlns" === r) if ("xml" === n && e.attribValue !== a) k(e, "xml: prefix must be bound to " + a + "\nActual: " + e.attribValue);else if ("xmlns" === n && e.attribValue !== c) k(e, "xmlns: prefix must be bound to " + c + "\nActual: " + e.attribValue);else {
                 var s = e.tag,
                     i = e.tags[e.tags.length - 1] || e;
                 s.ns === i.ns && (s.ns = Object.create(i.ns)), s.ns[n] = e.attribValue;
@@ -5734,8 +5734,8 @@
         function D(e, t) {
           if (e.opt.xmlns) {
             var r = e.tag,
-                n = k(e.tagName);
-            r.prefix = n.prefix, r.local = n.local, r.uri = r.ns[n.prefix] || "", r.prefix && !r.uri && (C(e, "Unbound namespace prefix: " + JSON.stringify(e.tagName)), r.uri = n.prefix);
+                n = O(e.tagName);
+            r.prefix = n.prefix, r.local = n.local, r.uri = r.ns[n.prefix] || "", r.prefix && !r.uri && (k(e, "Unbound namespace prefix: " + JSON.stringify(e.tagName)), r.uri = n.prefix);
             var s = e.tags[e.tags.length - 1] || e;
             r.ns && s.ns !== r.ns && Object.keys(r.ns).forEach(function (t) {
               A(e, "onopennamespace", {
@@ -5748,7 +5748,7 @@
               var a = e.attribList[i],
                   c = a[0],
                   u = a[1],
-                  l = k(c, !0),
+                  l = O(c, !0),
                   h = l.prefix,
                   p = l.local,
                   d = "" === h ? "" : r.ns[h] || "",
@@ -5759,7 +5759,7 @@
                 local: p,
                 uri: d
               };
-              h && "xmlns" !== h && !d && (C(e, "Unbound namespace prefix: " + JSON.stringify(h)), f.uri = h), e.tag.attributes[c] = f, A(e, "onattribute", f);
+              h && "xmlns" !== h && !d && (k(e, "Unbound namespace prefix: " + JSON.stringify(h)), f.uri = h), e.tag.attributes[c] = f, A(e, "onattribute", f);
             }
 
             e.attribList.length = 0;
@@ -5769,7 +5769,7 @@
         }
 
         function P(e) {
-          if (!e.tagName) return C(e, "Weird empty close tag."), e.textNode += "</>", void (e.state = _.TEXT);
+          if (!e.tagName) return k(e, "Weird empty close tag."), e.textNode += "</>", void (e.state = _.TEXT);
 
           if (e.script) {
             if ("script" !== e.tagName) return e.script += "</" + e.tagName + ">", e.tagName = "", void (e.state = _.SCRIPT);
@@ -5780,9 +5780,9 @@
               r = e.tagName;
           e.strict || (r = r[e.looseCase]());
 
-          for (var n = r; t-- && e.tags[t].name !== n;) C(e, "Unexpected close tag");
+          for (var n = r; t-- && e.tags[t].name !== n;) k(e, "Unexpected close tag");
 
-          if (t < 0) return C(e, "Unmatched closing tag: " + e.tagName), e.textNode += "</" + e.tagName + ">", void (e.state = _.TEXT);
+          if (t < 0) return k(e, "Unmatched closing tag: " + e.tagName), e.textNode += "</" + e.tagName + ">", void (e.state = _.TEXT);
           e.tagName = r;
 
           for (var s = e.tags.length; s-- > t;) {
@@ -5810,11 +5810,11 @@
               r = e.entity,
               n = r.toLowerCase(),
               s = "";
-          return e.ENTITIES[r] ? e.ENTITIES[r] : e.ENTITIES[n] ? e.ENTITIES[n] : ("#" === (r = n).charAt(0) && ("x" === r.charAt(1) ? (r = r.slice(2), s = (t = parseInt(r, 16)).toString(16)) : (r = r.slice(1), s = (t = parseInt(r, 10)).toString(10))), r = r.replace(/^0+/, ""), isNaN(t) || s.toLowerCase() !== r ? (C(e, "Invalid character entity"), "&" + e.entity + ";") : String.fromCodePoint(t));
+          return e.ENTITIES[r] ? e.ENTITIES[r] : e.ENTITIES[n] ? e.ENTITIES[n] : ("#" === (r = n).charAt(0) && ("x" === r.charAt(1) ? (r = r.slice(2), s = (t = parseInt(r, 16)).toString(16)) : (r = r.slice(1), s = (t = parseInt(r, 10)).toString(10))), r = r.replace(/^0+/, ""), isNaN(t) || s.toLowerCase() !== r ? (k(e, "Invalid character entity"), "&" + e.entity + ";") : String.fromCodePoint(t));
         }
 
         function B(e, t) {
-          "<" === t ? (e.state = _.OPEN_WAKA, e.startTagPosition = e.position) : f(t) || (C(e, "Non-whitespace before first tag."), e.textNode = t, e.state = _.TEXT);
+          "<" === t ? (e.state = _.OPEN_WAKA, e.startTagPosition = e.position) : f(t) || (k(e, "Non-whitespace before first tag."), e.textNode = t, e.state = _.TEXT);
         }
 
         function M(e, t) {
@@ -5822,7 +5822,7 @@
           return t < e.length && (r = e.charAt(t)), r;
         }
 
-        _ = e.STATE, String.fromCodePoint || (b = String.fromCharCode, x = Math.floor, v = function () {
+        _ = e.STATE, String.fromCodePoint || (b = String.fromCharCode, v = Math.floor, x = function () {
           var e,
               t,
               r = 16384,
@@ -5833,16 +5833,16 @@
 
           for (var o = ""; ++s < i;) {
             var a = Number(arguments[s]);
-            if (!isFinite(a) || a < 0 || a > 1114111 || x(a) !== a) throw RangeError("Invalid code point: " + a);
+            if (!isFinite(a) || a < 0 || a > 1114111 || v(a) !== a) throw RangeError("Invalid code point: " + a);
             a <= 65535 ? n.push(a) : (e = 55296 + ((a -= 65536) >> 10), t = a % 1024 + 56320, n.push(e, t)), (s + 1 === i || n.length > r) && (o += b.apply(null, n), n.length = 0);
           }
 
           return o;
         }, Object.defineProperty ? Object.defineProperty(String, "fromCodePoint", {
-          value: v,
+          value: x,
           configurable: !0,
           writable: !0
-        }) : String.fromCodePoint = v);
+        }) : String.fromCodePoint = x);
       }(t);
     },
     4889: function (e, t, r) {
@@ -6141,8 +6141,8 @@
           g = r(8106).q,
           y = g.ERR_INVALID_ARG_TYPE,
           b = g.ERR_STREAM_PUSH_AFTER_EOF,
-          x = g.ERR_METHOD_NOT_IMPLEMENTED,
-          v = g.ERR_STREAM_UNSHIFT_AFTER_END_EVENT;
+          v = g.ERR_METHOD_NOT_IMPLEMENTED,
+          x = g.ERR_STREAM_UNSHIFT_AFTER_END_EVENT;
       r(5717)(A, a);
       var _ = m.errorOrDestroy,
           E = ["error", "close", "destroy", "pause", "resume"];
@@ -6168,7 +6168,7 @@
               r && r.length && (t.buffer.push(r), t.length += t.objectMode ? 1 : r.length);
             }
 
-            t.ended = !0, t.sync ? C(e) : (t.needReadable = !1, t.emittedReadable || (t.emittedReadable = !0, O(e)));
+            t.ended = !0, t.sync ? k(e) : (t.needReadable = !1, t.emittedReadable || (t.emittedReadable = !0, C(e)));
           }
         }(e, a);else if (s || (o = function (e, t) {
           var r, n;
@@ -6176,16 +6176,16 @@
         }(a, t)), o) _(e, o);else if (a.objectMode || t && t.length > 0) {
           if ("string" == typeof t || a.objectMode || Object.getPrototypeOf(t) === c.prototype || (t = function (e) {
             return c.from(e);
-          }(t)), n) a.endEmitted ? _(e, new v()) : I(e, a, t, !0);else if (a.ended) _(e, new b());else {
+          }(t)), n) a.endEmitted ? _(e, new x()) : I(e, a, t, !0);else if (a.ended) _(e, new b());else {
             if (a.destroyed) return !1;
-            a.reading = !1, a.decoder && !r ? (t = a.decoder.write(t), a.objectMode || 0 !== t.length ? I(e, a, t, !1) : k(e, a)) : I(e, a, t, !1);
+            a.reading = !1, a.decoder && !r ? (t = a.decoder.write(t), a.objectMode || 0 !== t.length ? I(e, a, t, !1) : O(e, a)) : I(e, a, t, !1);
           }
-        } else n || (a.reading = !1, k(e, a));
+        } else n || (a.reading = !1, O(e, a));
         return !a.ended && (a.length < a.highWaterMark || 0 === a.length);
       }
 
       function I(e, t, r, n) {
-        t.flowing && 0 === t.length && !t.sync ? (t.awaitDrain = 0, e.emit("data", r)) : (t.length += t.objectMode ? 1 : r.length, n ? t.buffer.unshift(r) : t.buffer.push(r), t.needReadable && C(e)), k(e, t);
+        t.flowing && 0 === t.length && !t.sync ? (t.awaitDrain = 0, e.emit("data", r)) : (t.length += t.objectMode ? 1 : r.length, n ? t.buffer.unshift(r) : t.buffer.push(r), t.needReadable && k(e)), O(e, t);
       }
 
       Object.defineProperty(A.prototype, "destroyed", {
@@ -6215,25 +6215,25 @@
 
         return this._readableState.buffer.clear(), "" !== s && this._readableState.buffer.push(s), this._readableState.length = s.length, this;
       };
-      var R = 1073741824;
+      var N = 1073741824;
 
-      function N(e, t) {
+      function R(e, t) {
         return e <= 0 || 0 === t.length && t.ended ? 0 : t.objectMode ? 1 : e != e ? t.flowing && t.length ? t.buffer.head.data.length : t.length : (e > t.highWaterMark && (t.highWaterMark = function (e) {
-          return e >= R ? e = R : (e--, e |= e >>> 1, e |= e >>> 2, e |= e >>> 4, e |= e >>> 8, e |= e >>> 16, e++), e;
+          return e >= N ? e = N : (e--, e |= e >>> 1, e |= e >>> 2, e |= e >>> 4, e |= e >>> 8, e |= e >>> 16, e++), e;
         }(e)), e <= t.length ? e : t.ended ? t.length : (t.needReadable = !0, 0));
+      }
+
+      function k(e) {
+        var t = e._readableState;
+        i("emitReadable", t.needReadable, t.emittedReadable), t.needReadable = !1, t.emittedReadable || (i("emitReadable", t.flowing), t.emittedReadable = !0, s.nextTick(C, e));
       }
 
       function C(e) {
         var t = e._readableState;
-        i("emitReadable", t.needReadable, t.emittedReadable), t.needReadable = !1, t.emittedReadable || (i("emitReadable", t.flowing), t.emittedReadable = !0, s.nextTick(O, e));
-      }
-
-      function O(e) {
-        var t = e._readableState;
         i("emitReadable_", t.destroyed, t.length, t.ended), t.destroyed || !t.length && !t.ended || (e.emit("readable"), t.emittedReadable = !1), t.needReadable = !t.flowing && !t.ended && t.length <= t.highWaterMark, B(e);
       }
 
-      function k(e, t) {
+      function O(e, t) {
         t.readingMore || (t.readingMore = !0, s.nextTick(L, e, t));
       }
 
@@ -6282,7 +6282,7 @@
         }
       }
 
-      function z(e, t) {
+      function j(e, t) {
         for (var r = 0, n = e.length; r < n; r++) if (e[r] === t) return r;
 
         return -1;
@@ -6292,13 +6292,13 @@
         i("read", e), e = parseInt(e, 10);
         var t = this._readableState,
             r = e;
-        if (0 !== e && (t.emittedReadable = !1), 0 === e && t.needReadable && ((0 !== t.highWaterMark ? t.length >= t.highWaterMark : t.length > 0) || t.ended)) return i("read: emitReadable", t.length, t.ended), 0 === t.length && t.ended ? U(this) : C(this), null;
-        if (0 === (e = N(e, t)) && t.ended) return 0 === t.length && U(this), null;
+        if (0 !== e && (t.emittedReadable = !1), 0 === e && t.needReadable && ((0 !== t.highWaterMark ? t.length >= t.highWaterMark : t.length > 0) || t.ended)) return i("read: emitReadable", t.length, t.ended), 0 === t.length && t.ended ? U(this) : k(this), null;
+        if (0 === (e = R(e, t)) && t.ended) return 0 === t.length && U(this), null;
         var n,
             s = t.needReadable;
-        return i("need readable", s), (0 === t.length || t.length - e < t.highWaterMark) && i("length less than watermark", s = !0), t.ended || t.reading ? i("reading or ended", s = !1) : s && (i("do read"), t.reading = !0, t.sync = !0, 0 === t.length && (t.needReadable = !0), this._read(t.highWaterMark), t.sync = !1, t.reading || (e = N(r, t))), null === (n = e > 0 ? M(e, t) : null) ? (t.needReadable = t.length <= t.highWaterMark, e = 0) : (t.length -= e, t.awaitDrain = 0), 0 === t.length && (t.ended || (t.needReadable = !0), r !== e && t.ended && U(this)), null !== n && this.emit("data", n), n;
+        return i("need readable", s), (0 === t.length || t.length - e < t.highWaterMark) && i("length less than watermark", s = !0), t.ended || t.reading ? i("reading or ended", s = !1) : s && (i("do read"), t.reading = !0, t.sync = !0, 0 === t.length && (t.needReadable = !0), this._read(t.highWaterMark), t.sync = !1, t.reading || (e = R(r, t))), null === (n = e > 0 ? M(e, t) : null) ? (t.needReadable = t.length <= t.highWaterMark, e = 0) : (t.length -= e, t.awaitDrain = 0), 0 === t.length && (t.ended || (t.needReadable = !0), r !== e && t.ended && U(this)), null !== n && this.emit("data", n), n;
       }, A.prototype._read = function (e) {
-        _(this, new x("_read()"));
+        _(this, new v("_read()"));
       }, A.prototype.pipe = function (e, t) {
         var r = this,
             n = this._readableState;
@@ -6340,7 +6340,7 @@
         function h(t) {
           i("ondata");
           var s = e.write(t);
-          i("dest.write", s), !1 === s && ((1 === n.pipesCount && n.pipes === e || n.pipesCount > 1 && -1 !== z(n.pipes, e)) && !l && (i("false write response, pause", n.awaitDrain), n.awaitDrain++), r.pause());
+          i("dest.write", s), !1 === s && ((1 === n.pipesCount && n.pipes === e || n.pipesCount > 1 && -1 !== j(n.pipes, e)) && !l && (i("false write response, pause", n.awaitDrain), n.awaitDrain++), r.pause());
         }
 
         function p(t) {
@@ -6383,12 +6383,12 @@
           return this;
         }
 
-        var o = z(t.pipes, e);
+        var o = j(t.pipes, e);
         return -1 === o || (t.pipes.splice(o, 1), t.pipesCount -= 1, 1 === t.pipesCount && (t.pipes = t.pipes[0]), e.emit("unpipe", this, r)), this;
       }, A.prototype.on = function (e, t) {
         var r = a.prototype.on.call(this, e, t),
             n = this._readableState;
-        return "data" === e ? (n.readableListening = this.listenerCount("readable") > 0, !1 !== n.flowing && this.resume()) : "readable" === e && (n.endEmitted || n.readableListening || (n.readableListening = n.needReadable = !0, n.flowing = !1, n.emittedReadable = !1, i("on readable", n.length, n.reading), n.length ? C(this) : n.reading || s.nextTick(P, this))), r;
+        return "data" === e ? (n.readableListening = this.listenerCount("readable") > 0, !1 !== n.flowing && this.resume()) : "readable" === e && (n.endEmitted || n.readableListening || (n.readableListening = n.needReadable = !0, n.flowing = !1, n.emittedReadable = !1, i("on readable", n.length, n.reading), n.length ? k(this) : n.reading || s.nextTick(P, this))), r;
       }, A.prototype.addListener = A.prototype.on, A.prototype.removeListener = function (e, t) {
         var r = a.prototype.removeListener.call(this, e, t);
         return "readable" === e && s.nextTick(D, this), r;
@@ -6563,8 +6563,8 @@
           g = d.ERR_STREAM_CANNOT_PIPE,
           y = d.ERR_STREAM_DESTROYED,
           b = d.ERR_STREAM_NULL_VALUES,
-          x = d.ERR_STREAM_WRITE_AFTER_END,
-          v = d.ERR_UNKNOWN_ENCODING,
+          v = d.ERR_STREAM_WRITE_AFTER_END,
+          x = d.ERR_UNKNOWN_ENCODING,
           _ = h.errorOrDestroy;
 
       function E() {}
@@ -6581,10 +6581,10 @@
             if (function (e) {
               e.writing = !1, e.writecb = null, e.length -= e.writelen, e.writelen = 0;
             }(r), t) !function (e, t, r, n, i) {
-              --t.pendingcb, r ? (s.nextTick(i, n), s.nextTick(O, e, t), e._writableState.errorEmitted = !0, _(e, n)) : (i(n), e._writableState.errorEmitted = !0, _(e, n), O(e, t));
+              --t.pendingcb, r ? (s.nextTick(i, n), s.nextTick(C, e, t), e._writableState.errorEmitted = !0, _(e, n)) : (i(n), e._writableState.errorEmitted = !0, _(e, n), C(e, t));
             }(e, r, n, t, i);else {
-              var o = N(r) || e.destroyed;
-              o || r.corked || r.bufferProcessing || !r.bufferedRequest || R(e, r), n ? s.nextTick(I, e, r, o, i) : I(e, r, o, i);
+              var o = R(r) || e.destroyed;
+              o || r.corked || r.bufferProcessing || !r.bufferedRequest || N(e, r), n ? s.nextTick(I, e, r, o, i) : I(e, r, o, i);
             }
           }(t, e);
         }, this.writecb = null, this.writelen = 0, this.bufferedRequest = null, this.lastBufferedRequest = null, this.pendingcb = 0, this.prefinished = !1, this.errorEmitted = !1, this.emitClose = !1 !== e.emitClose, this.autoDestroy = !!e.autoDestroy, this.bufferedRequestCount = 0, this.corkedRequestsFree = new i(this);
@@ -6603,10 +6603,10 @@
       function I(e, t, r, n) {
         r || function (e, t) {
           0 === t.length && t.needDrain && (t.needDrain = !1, e.emit("drain"));
-        }(e, t), t.pendingcb--, n(), O(e, t);
+        }(e, t), t.pendingcb--, n(), C(e, t);
       }
 
-      function R(e, t) {
+      function N(e, t) {
         t.bufferProcessing = !0;
         var r = t.bufferedRequest;
 
@@ -6633,21 +6633,21 @@
         t.bufferedRequest = r, t.bufferProcessing = !1;
       }
 
-      function N(e) {
+      function R(e) {
         return e.ending && 0 === e.length && null === e.bufferedRequest && !e.finished && !e.writing;
       }
 
-      function C(e, t) {
+      function k(e, t) {
         e._final(function (r) {
-          t.pendingcb--, r && _(e, r), t.prefinished = !0, e.emit("prefinish"), O(e, t);
+          t.pendingcb--, r && _(e, r), t.prefinished = !0, e.emit("prefinish"), C(e, t);
         });
       }
 
-      function O(e, t) {
-        var r = N(t);
+      function C(e, t) {
+        var r = R(t);
 
         if (r && (function (e, t) {
-          t.prefinished || t.finalCalled || ("function" != typeof e._final || t.destroyed ? (t.prefinished = !0, e.emit("prefinish")) : (t.pendingcb++, t.finalCalled = !0, s.nextTick(C, e, t)));
+          t.prefinished || t.finalCalled || ("function" != typeof e._final || t.destroyed ? (t.prefinished = !0, e.emit("prefinish")) : (t.pendingcb++, t.finalCalled = !0, s.nextTick(k, e, t)));
         }(e, t), 0 === t.pendingcb && (t.finished = !0, e.emit("finish"), t.autoDestroy))) {
           var n = e._readableState;
           (!n || n.autoDestroy && n.endEmitted) && e.destroy();
@@ -6684,7 +6684,7 @@
         return a && !u.isBuffer(e) && (e = function (e) {
           return u.from(e);
         }(e)), "function" == typeof t && (r = t, t = null), a ? t = "buffer" : t || (t = i.defaultEncoding), "function" != typeof r && (r = E), i.ending ? function (e, t) {
-          var r = new x();
+          var r = new v();
           _(e, r), s.nextTick(t, r);
         }(this, r) : (a || function (e, t, r, n) {
           var i;
@@ -6719,9 +6719,9 @@
         this._writableState.corked++;
       }, A.prototype.uncork = function () {
         var e = this._writableState;
-        e.corked && (e.corked--, e.writing || e.corked || e.bufferProcessing || !e.bufferedRequest || R(this, e));
+        e.corked && (e.corked--, e.writing || e.corked || e.bufferProcessing || !e.bufferedRequest || N(this, e));
       }, A.prototype.setDefaultEncoding = function (e) {
-        if ("string" == typeof e && (e = e.toLowerCase()), !(["hex", "utf8", "utf-8", "ascii", "binary", "base64", "ucs2", "ucs-2", "utf16le", "utf-16le", "raw"].indexOf((e + "").toLowerCase()) > -1)) throw new v(e);
+        if ("string" == typeof e && (e = e.toLowerCase()), !(["hex", "utf8", "utf-8", "ascii", "binary", "base64", "ucs2", "ucs-2", "utf16le", "utf-16le", "raw"].indexOf((e + "").toLowerCase()) > -1)) throw new x(e);
         return this._writableState.defaultEncoding = e, this;
       }, Object.defineProperty(A.prototype, "writableBuffer", {
         enumerable: !1,
@@ -6738,7 +6738,7 @@
       }, A.prototype._writev = null, A.prototype.end = function (e, t, r) {
         var n = this._writableState;
         return "function" == typeof e ? (r = e, e = null, t = null) : "function" == typeof t && (r = t, t = null), null != e && this.write(e, t), n.corked && (n.corked = 1, this.uncork()), n.ending || function (e, t, r) {
-          t.ending = !0, O(e, t), r && (t.finished ? s.nextTick(r) : e.once("finish", r)), t.ended = !0, e.writable = !1;
+          t.ending = !0, C(e, t), r && (t.finished ? s.nextTick(r) : e.once("finish", r)), t.ended = !0, e.writable = !1;
         }(this, n, r), this;
       }, Object.defineProperty(A.prototype, "writableLength", {
         enumerable: !1,
@@ -7455,22 +7455,22 @@
 
       r.d(t, {
         G0: () => a,
-        Jd: () => w,
+        Jd: () => m,
         KC: () => u,
-        KR: () => f,
-        LV: () => b,
-        Rg: () => m,
-        _p: () => h,
-        aB: () => y,
-        dg: () => p,
+        KR: () => d,
+        LV: () => y,
+        Rg: () => f,
+        _p: () => l,
+        aB: () => g,
+        dg: () => h,
         f$: () => s,
-        gg: () => x,
+        gg: () => b,
         mA: () => o,
         sF: () => v,
         vH: () => n,
-        wp: () => g,
+        wp: () => w,
         xD: () => c,
-        xb: () => d
+        xb: () => p
       });
 
       const n = e => {
@@ -7491,36 +7491,31 @@
             a = e => i(e, 2),
             c = e => i(e, 1),
             u = e => {
-        const t = e.slice(-2);
-        if (!l.includes(t)) throw new Error(`Invalid unit '${t}' specified. Valid units are ${l.join(", ")}`);
-        const r = e.substring(0, e.length - 2);
-        if (isNaN(Number(r))) throw new Error(`Invalid value '${r}' specified. Expected a valid number.`);
+        const t = e.slice(-2),
+              r = e.substring(0, e.length - 2);
         return `${Number(r)}${t}`;
       },
-            l = ["mm", "cm", "in", "pt", "pc", "pi"],
-            h = e => {
+            l = e => {
         const t = u(e);
         if (parseFloat(t) < 0) throw new Error(`Invalid value '${t}' specified. Expected a positive number.`);
         return t;
       },
-            p = e => {
+            h = e => {
         if ("auto" === e) return e;
         const t = "#" === e.charAt(0) ? e.substring(1) : e;
         return i(t, 3);
       },
-            d = e => "string" == typeof e ? u(e) : n(e),
-            f = e => "string" == typeof e ? h(e) : s(e),
-            m = e => "string" == typeof e ? u(e) : n(e),
-            w = e => "string" == typeof e ? h(e) : s(e),
-            g = e => {
-        if ("%" !== e.slice(-1)) throw new Error(`Invalid value '${e}'. Expected percentage value (eg '55%')`);
+            p = e => "string" == typeof e ? u(e) : n(e),
+            d = e => "string" == typeof e ? l(e) : s(e),
+            f = e => "string" == typeof e ? u(e) : n(e),
+            m = e => "string" == typeof e ? l(e) : s(e),
+            w = e => {
         const t = e.substring(0, e.length - 1);
-        if (isNaN(Number(t))) throw new Error(`Invalid value '${t}' specified. Expected a valid number.`);
         return `${Number(t)}%`;
       },
-            y = e => "number" == typeof e ? n(e) : "%" === e.slice(-1) ? g(e) : u(e),
+            g = e => "number" == typeof e ? n(e) : "%" === e.slice(-1) ? w(e) : u(e),
+            y = s,
             b = s,
-            x = s,
             v = e => e.toISOString();
     },
     4927: (e, t, r) => {
@@ -8147,255 +8142,273 @@
     "use strict";
 
     r.r(n), r.d(n, {
-      AbstractNumbering: () => Ji,
-      Alignment: () => D,
-      AlignmentAttributes: () => L,
-      AlignmentType: () => m,
-      Attributes: () => a,
-      BaseEmphasisMark: () => Q,
+      AbstractNumbering: () => fo,
+      Alignment: () => M,
+      AlignmentAttributes: () => B,
+      AlignmentType: () => w,
+      AnnotationReference: () => Er,
+      Attributes: () => c,
+      BaseEmphasisMark: () => re,
       BaseXmlComponent: () => e,
-      Body: () => un,
-      Bookmark: () => Or,
-      BookmarkEnd: () => Lr,
-      BookmarkStart: () => kr,
-      Border: () => B,
-      BorderElement: () => P,
-      BorderStyle: () => w,
-      Column: () => hn,
-      ColumnAttributes: () => ln,
-      ColumnBreak: () => pr,
-      Columns: () => jr,
-      ColumnsAttributes: () => zr,
-      Comment: () => cr,
-      CommentRangeEnd: () => or,
-      CommentRangeStart: () => ir,
-      CommentReference: () => ar,
-      Comments: () => ur,
-      ConcreteHyperlink: () => Sr,
-      ConcreteNumbering: () => to,
-      DeletedTextRun: () => na,
-      DocGridAttributes: () => Wr,
-      Document: () => Ho,
-      DocumentAttributes: () => pn,
-      DocumentBackground: () => fn,
-      DocumentBackgroundAttributes: () => dn,
-      DocumentDefaults: () => Bo,
-      DocumentGrid: () => Kr,
-      DocumentGridType: () => Pe,
-      DotEmphasisMark: () => te,
-      Drawing: () => Xt,
-      DropCapType: () => vn,
+      Body: () => Rn,
+      Bookmark: () => tn,
+      BookmarkEnd: () => nn,
+      BookmarkStart: () => rn,
+      Border: () => j,
+      BorderElement: () => U,
+      BorderStyle: () => g,
+      BuilderElement: () => F,
+      CarriageReturn: () => Rr,
+      Column: () => kn,
+      ColumnBreak: () => Pr,
+      Columns: () => pn,
+      Comment: () => dr,
+      CommentRangeEnd: () => hr,
+      CommentRangeStart: () => lr,
+      CommentReference: () => pr,
+      Comments: () => fr,
+      ConcreteHyperlink: () => Zr,
+      ConcreteNumbering: () => go,
+      ContinuationSeparator: () => Ir,
+      DayLong: () => vr,
+      DayShort: () => gr,
+      DeletedTextRun: () => ya,
+      DocGridAttributes: () => dn,
+      Document: () => ta,
+      DocumentAttributes: () => Cn,
+      DocumentBackground: () => Ln,
+      DocumentBackgroundAttributes: () => On,
+      DocumentDefaults: () => Jo,
+      DocumentGrid: () => fn,
+      DocumentGridType: () => St,
+      DotEmphasisMark: () => se,
+      Drawing: () => er,
+      DropCapType: () => Hn,
       EMPTY_OBJECT: () => t,
-      EmphasisMark: () => ee,
-      EmphasisMarkType: () => E,
-      ExternalHyperlink: () => Rr,
-      File: () => Ho,
-      FootNoteReferenceRunAttributes: () => qo,
-      FootNotes: () => ki,
-      Footer: () => Xo,
-      FooterWrapper: () => _i,
-      FootnoteReference: () => Zo,
-      FootnoteReferenceRun: () => Yo,
-      FrameAnchorType: () => _n,
-      FrameProperties: () => An,
-      FramePropertiesAttributes: () => Tn,
-      FrameWrap: () => En,
-      GridSpan: () => ks,
-      Header: () => $o,
-      HeaderFooterReference: () => Hr,
-      HeaderFooterReferenceType: () => Le,
-      HeaderFooterType: () => De,
-      HeaderWrapper: () => Fi,
-      HeadingLevel: () => Se,
-      HeightRule: () => $s,
-      HorizontalPosition: () => Ze,
-      HorizontalPositionAlign: () => y,
-      HorizontalPositionRelativeFrom: () => xe,
-      HpsMeasureElement: () => R,
-      HyperlinkType: () => Oe,
+      EmphasisMark: () => ne,
+      EmphasisMarkType: () => T,
+      EmptyElement: () => C,
+      EndnoteReference: () => Ar,
+      ExternalHyperlink: () => Jr,
+      File: () => ta,
+      FootNoteReferenceRunAttributes: () => la,
+      FootNotes: () => Zi,
+      Footer: () => ua,
+      FooterWrapper: () => Hi,
+      FootnoteReference: () => ha,
+      FootnoteReferenceElement: () => Tr,
+      FootnoteReferenceRun: () => pa,
+      FrameAnchorType: () => jn,
+      FrameProperties: () => Gn,
+      FramePropertiesAttributes: () => Wn,
+      FrameWrap: () => zn,
+      GridSpan: () => qs,
+      Header: () => ca,
+      HeaderFooterReference: () => hn,
+      HeaderFooterReferenceType: () => Tt,
+      HeaderFooterType: () => At,
+      HeaderWrapper: () => eo,
+      HeadingLevel: () => gt,
+      HeightRule: () => li,
+      HorizontalPosition: () => Ce,
+      HorizontalPositionAlign: () => b,
+      HorizontalPositionRelativeFrom: () => Ee,
+      HpsMeasureElement: () => k,
+      HyperlinkType: () => _t,
       IgnoreIfEmptyXmlComponent: () => i,
-      ImageRun: () => qt,
-      ImportDotx: () => wa,
-      ImportedRootElementAttributes: () => p,
-      ImportedXmlComponent: () => h,
-      Indent: () => H,
-      InitializableXmlComponent: () => f,
-      InsertedTextRun: () => Jo,
-      InternalHyperlink: () => Ir,
-      LeaderType: () => Re,
-      Level: () => Xi,
-      LevelBase: () => $i,
-      LevelForOverride: () => qi,
-      LevelFormat: () => Ui,
-      LevelOverride: () => no,
-      LevelSuffix: () => Hi,
-      LineNumberAttributes: () => Gr,
-      LineNumberRestartFormat: () => Fe,
-      LineNumberType: () => Vr,
-      LineRuleType: () => Ae,
-      Math: () => Rn,
-      MathAccentCharacter: () => Pn,
-      MathAngledBrackets: () => bs,
-      MathBase: () => Fn,
-      MathCurlyBrackets: () => ys,
-      MathDegree: () => ns,
-      MathDenominator: () => On,
-      MathFraction: () => Ln,
-      MathFunction: () => ls,
-      MathFunctionName: () => cs,
-      MathFunctionProperties: () => us,
-      MathIntegral: () => $n,
-      MathLimitLocation: () => Mn,
-      MathNAryProperties: () => Wn,
-      MathNumerator: () => kn,
-      MathPreSubSuperScript: () => ts,
-      MathPreSubSuperScriptProperties: () => es,
-      MathRadical: () => as,
-      MathRadicalProperties: () => os,
-      MathRoundBrackets: () => ws,
-      MathRun: () => Cn,
-      MathSquareBrackets: () => gs,
-      MathSubScript: () => Yn,
-      MathSubScriptElement: () => Kn,
-      MathSubScriptProperties: () => Zn,
-      MathSubSuperScript: () => Qn,
-      MathSubSuperScriptProperties: () => Jn,
-      MathSum: () => Vn,
-      MathSuperScript: () => qn,
-      MathSuperScriptElement: () => Gn,
-      MathSuperScriptProperties: () => Xn,
-      Media: () => Bi,
+      ImageRun: () => tr,
+      ImportedRootElementAttributes: () => d,
+      ImportedXmlComponent: () => p,
+      Indent: () => W,
+      InitializableXmlComponent: () => m,
+      InsertedTextRun: () => da,
+      InternalHyperlink: () => Yr,
+      LastRenderedPageBreak: () => Cr,
+      LeaderType: () => bt,
+      Level: () => uo,
+      LevelBase: () => co,
+      LevelForOverride: () => lo,
+      LevelFormat: () => pi,
+      LevelOverride: () => bo,
+      LevelSuffix: () => di,
+      LineNumberRestartFormat: () => It,
+      LineNumberType: () => mn,
+      LineRuleType: () => wt,
+      Math: () => Xn,
+      MathAccentCharacter: () => es,
+      MathAngledBrackets: () => Ms,
+      MathBase: () => ts,
+      MathCurlyBrackets: () => Bs,
+      MathDegree: () => _s,
+      MathDenominator: () => Zn,
+      MathFraction: () => Jn,
+      MathFunction: () => Rs,
+      MathFunctionName: () => Is,
+      MathFunctionProperties: () => Ns,
+      MathIntegral: () => ps,
+      MathLimitLocation: () => ns,
+      MathNAryProperties: () => cs,
+      MathNumerator: () => Yn,
+      MathPreSubSuperScript: () => vs,
+      MathPreSubSuperScriptProperties: () => bs,
+      MathRadical: () => Ss,
+      MathRadicalProperties: () => As,
+      MathRoundBrackets: () => Ps,
+      MathRun: () => qn,
+      MathSquareBrackets: () => Fs,
+      MathSubScript: () => ws,
+      MathSubScriptElement: () => us,
+      MathSubScriptProperties: () => ms,
+      MathSubSuperScript: () => ys,
+      MathSubSuperScriptProperties: () => gs,
+      MathSum: () => hs,
+      MathSuperScript: () => fs,
+      MathSuperScriptElement: () => ls,
+      MathSuperScriptProperties: () => ds,
+      Media: () => to,
+      MonthLong: () => xr,
+      MonthShort: () => yr,
+      NextAttributeComponent: () => a,
+      NoBreakHyphen: () => mr,
       NumberFormat: () => x,
-      NumberProperties: () => xr,
-      NumberValueElement: () => C,
-      Numbering: () => oo,
-      OnOffElement: () => I,
-      OutlineLevel: () => Dr,
-      OverlapType: () => Gs,
-      Packer: () => pa,
-      PageBorderDisplay: () => Be,
-      PageBorderOffsetFrom: () => Me,
-      PageBorderZOrder: () => Ue,
-      PageBorders: () => Xr,
-      PageBreak: () => hr,
-      PageBreakBefore: () => dr,
-      PageMargin: () => Zr,
-      PageMarginAttributes: () => qr,
-      PageNumber: () => A,
-      PageNumberSeparator: () => He,
-      PageNumberType: () => Jr,
-      PageNumberTypeAttributes: () => Yr,
-      PageOrientation: () => ze,
-      PageReference: () => Fr,
-      PageSize: () => en,
-      PageSizeAttributes: () => Qr,
-      PageTextDirection: () => rn,
-      PageTextDirectionType: () => je,
-      Paragraph: () => In,
-      ParagraphProperties: () => Sn,
-      ParagraphPropertiesDefaults: () => Po,
-      PrettifyType: () => la,
-      RelativeHorizontalPosition: () => Ws,
-      RelativeVerticalPosition: () => Ks,
-      Run: () => me,
-      RunFonts: () => ae,
-      RunProperties: () => pe,
-      RunPropertiesChange: () => de,
-      RunPropertiesDefaults: () => Fo,
-      SectionProperties: () => cn,
-      SectionType: () => We,
-      SectionTypeAttributes: () => nn,
-      SequentialIdentifier: () => Yt,
-      Shading: () => Y,
-      ShadingType: () => _,
-      SimpleField: () => er,
-      SimpleMailMergeField: () => tr,
-      SimplePos: () => Ve,
-      SpaceType: () => v,
-      Spacing: () => mr,
-      StringContainer: () => k,
-      StringEnumValueElement: () => O,
-      StringValueElement: () => N,
-      Style: () => wr,
-      StyleForCharacter: () => bo,
-      StyleForParagraph: () => yo,
-      StyleLevel: () => Vo,
-      Styles: () => Do,
-      SymbolRun: () => be,
-      TDirection: () => Fs,
-      Tab: () => Jt,
-      TabAttributes: () => yr,
-      TabStop: () => gr,
-      TabStopItem: () => br,
-      TabStopPosition: () => Ne,
-      TabStopType: () => Ie,
-      Table: () => ei,
-      TableAnchorType: () => js,
-      TableBorders: () => zs,
-      TableCell: () => Ms,
-      TableCellBorders: () => Cs,
-      TableFloatOptionsAttributes: () => qs,
-      TableFloatProperties: () => Zs,
-      TableLayout: () => Js,
-      TableLayoutType: () => Vs,
-      TableOfContents: () => Go,
-      TableProperties: () => Qs,
-      TableRow: () => si,
-      TableRowHeight: () => ri,
-      TableRowHeightAttributes: () => ti,
-      TableRowProperties: () => ni,
-      TableWidthElement: () => Rs,
-      TextDirection: () => Ss,
-      TextRun: () => we,
-      TextWrappingSide: () => Ee,
-      TextWrappingType: () => _e,
-      ThematicBreak: () => M,
-      Type: () => sn,
-      Underline: () => he,
-      UnderlineType: () => T,
-      VerticalAlign: () => ke,
-      VerticalAlignAttributes: () => Br,
-      VerticalAlignElement: () => Mr,
-      VerticalMerge: () => Ds,
-      VerticalMergeType: () => As,
-      VerticalPosition: () => Je,
-      VerticalPositionAlign: () => b,
-      VerticalPositionRelativeFrom: () => ve,
-      WORKAROUND: () => zo,
-      WORKAROUND2: () => Mi,
-      WORKAROUND3: () => d,
-      WORKAROUND4: () => rs,
-      WidthType: () => Es,
-      WrapNone: () => Rt,
-      WrapSquare: () => Ct,
-      WrapTight: () => kt,
-      WrapTopAndBottom: () => Dt,
+      NumberProperties: () => Wr,
+      NumberValueElement: () => L,
+      Numbering: () => _o,
+      OnOffElement: () => R,
+      OutlineLevel: () => sn,
+      OverlapType: () => ci,
+      Packer: () => Ia,
+      PageBorderDisplay: () => Nt,
+      PageBorderOffsetFrom: () => Rt,
+      PageBorderZOrder: () => kt,
+      PageBorders: () => gn,
+      PageBreak: () => Dr,
+      PageBreakBefore: () => Fr,
+      PageMargin: () => yn,
+      PageNumber: () => I,
+      PageNumberElement: () => Nr,
+      PageNumberSeparator: () => Ct,
+      PageNumberType: () => vn,
+      PageNumberTypeAttributes: () => bn,
+      PageOrientation: () => Ot,
+      PageReference: () => an,
+      PageSize: () => xn,
+      PageTextDirection: () => En,
+      PageTextDirectionType: () => Lt,
+      Paragraph: () => Vn,
+      ParagraphProperties: () => Kn,
+      ParagraphPropertiesDefaults: () => Zo,
+      PatchType: () => Ya,
+      PositionalTab: () => Or,
+      PositionalTabAlignment: () => pt,
+      PositionalTabLeader: () => ft,
+      PositionalTabRelativeTo: () => dt,
+      PrettifyType: () => Aa,
+      RelativeHorizontalPosition: () => oi,
+      RelativeVerticalPosition: () => ai,
+      Run: () => ye,
+      RunFonts: () => le,
+      RunProperties: () => me,
+      RunPropertiesChange: () => we,
+      RunPropertiesDefaults: () => Yo,
+      SectionProperties: () => Nn,
+      SectionType: () => Dt,
+      SectionTypeAttributes: () => Tn,
+      Separator: () => Sr,
+      SequentialIdentifier: () => nr,
+      Shading: () => ee,
+      ShadingType: () => E,
+      SimpleField: () => ir,
+      SimpleMailMergeField: () => or,
+      SimplePos: () => Ie,
+      SoftHyphen: () => wr,
+      SpaceType: () => _,
+      Spacing: () => Mr,
+      StringContainer: () => P,
+      StringEnumValueElement: () => D,
+      StringValueElement: () => O,
+      Style: () => Ur,
+      StyleForCharacter: () => Do,
+      StyleForParagraph: () => Lo,
+      StyleLevel: () => aa,
+      Styles: () => qo,
+      SymbolRun: () => _e,
+      TDirection: () => Qs,
+      Tab: () => kr,
+      TabAttributes: () => jr,
+      TabStop: () => Hr,
+      TabStopItem: () => zr,
+      TabStopPosition: () => vt,
+      TabStopType: () => yt,
+      Table: () => yi,
+      TableAnchorType: () => ii,
+      TableBorders: () => si,
+      TableCell: () => ti,
+      TableCellBorders: () => Xs,
+      TableFloatProperties: () => fi,
+      TableLayout: () => wi,
+      TableLayoutType: () => ui,
+      TableOfContents: () => oa,
+      TableProperties: () => gi,
+      TableRow: () => _i,
+      TableRowHeight: () => vi,
+      TableRowHeightAttributes: () => bi,
+      TableRowProperties: () => xi,
+      TableWidthElement: () => Ks,
+      TextDirection: () => Gs,
+      TextEffect: () => S,
+      TextRun: () => be,
+      TextWrappingSide: () => ht,
+      TextWrappingType: () => lt,
+      ThematicBreak: () => z,
+      Type: () => An,
+      Underline: () => fe,
+      UnderlineType: () => A,
+      VerticalAlign: () => Et,
+      VerticalAlignAttributes: () => cn,
+      VerticalAlignElement: () => un,
+      VerticalMerge: () => Ys,
+      VerticalMergeType: () => Ws,
+      VerticalPosition: () => Le,
+      VerticalPositionAlign: () => v,
+      VerticalPositionRelativeFrom: () => Te,
+      WORKAROUND2: () => ra,
+      WORKAROUND3: () => f,
+      WORKAROUND4: () => xs,
+      WidthType: () => js,
+      WrapNone: () => Pt,
+      WrapSquare: () => Bt,
+      WrapTight: () => Ut,
+      WrapTopAndBottom: () => jt,
       XmlAttributeComponent: () => o,
       XmlComponent: () => s,
-      convertInchesToTwip: () => ga.convertInchesToTwip,
-      convertMillimetersToTwip: () => ga.convertMillimetersToTwip,
-      convertToXmlComponent: () => u,
-      dateTimeValue: () => ga.dateTimeValue,
-      decimalNumber: () => ga.decimalNumber,
-      eighthPointMeasureValue: () => ga.eighthPointMeasureValue,
-      hexColorValue: () => ga.hexColorValue,
-      hpsMeasureValue: () => ga.hpsMeasureValue,
-      longHexNumber: () => ga.longHexNumber,
-      measurementOrPercentValue: () => ga.measurementOrPercentValue,
-      percentageValue: () => ga.percentageValue,
-      pointMeasureValue: () => ga.pointMeasureValue,
-      positiveUniversalMeasureValue: () => ga.positiveUniversalMeasureValue,
-      sectionMarginDefaults: () => on,
-      sectionPageSizeDefaults: () => an,
-      shortHexNumber: () => ga.shortHexNumber,
-      signedHpsMeasureValue: () => ga.signedHpsMeasureValue,
-      signedTwipsMeasureValue: () => ga.signedTwipsMeasureValue,
-      twipsMeasureValue: () => ga.twipsMeasureValue,
-      uCharHexNumber: () => ga.uCharHexNumber,
-      uniqueId: () => ga.uniqueId,
-      uniqueNumericId: () => ga.uniqueNumericId,
-      universalMeasureValue: () => ga.universalMeasureValue,
-      unsignedDecimalNumber: () => ga.unsignedDecimalNumber
+      YearLong: () => _r,
+      YearShort: () => br,
+      convertInchesToTwip: () => Na.convertInchesToTwip,
+      convertMillimetersToTwip: () => Na.convertMillimetersToTwip,
+      convertToXmlComponent: () => l,
+      dateTimeValue: () => Na.dateTimeValue,
+      decimalNumber: () => Na.decimalNumber,
+      eighthPointMeasureValue: () => Na.eighthPointMeasureValue,
+      hexColorValue: () => Na.hexColorValue,
+      hpsMeasureValue: () => Na.hpsMeasureValue,
+      longHexNumber: () => Na.longHexNumber,
+      measurementOrPercentValue: () => Na.measurementOrPercentValue,
+      patchDocument: () => Qa,
+      percentageValue: () => Na.percentageValue,
+      pointMeasureValue: () => Na.pointMeasureValue,
+      positiveUniversalMeasureValue: () => Na.positiveUniversalMeasureValue,
+      sectionMarginDefaults: () => Sn,
+      sectionPageSizeDefaults: () => In,
+      shortHexNumber: () => Na.shortHexNumber,
+      signedHpsMeasureValue: () => Na.signedHpsMeasureValue,
+      signedTwipsMeasureValue: () => Na.signedTwipsMeasureValue,
+      twipsMeasureValue: () => Na.twipsMeasureValue,
+      uCharHexNumber: () => Na.uCharHexNumber,
+      uniqueId: () => Na.uniqueId,
+      uniqueNumericId: () => Na.uniqueNumericId,
+      universalMeasureValue: () => Na.universalMeasureValue,
+      unsignedDecimalNumber: () => Na.unsignedDecimalNumber
     });
 
     class e {
@@ -8414,8 +8427,9 @@
 
       prepForXml(r) {
         var n;
+        r.stack.push(this);
         const s = this.root.map(t => t instanceof e ? t.prepForXml(r) : t).filter(e => void 0 !== e);
-        return {
+        return r.stack.pop(), {
           [this.rootKey]: s.length ? 1 === s.length && (null === (n = s[0]) || void 0 === n ? void 0 : n._attr) ? s[0] : s : t
         };
       }
@@ -8455,7 +8469,27 @@
 
     }
 
-    class a extends o {
+    class a extends e {
+      constructor(e) {
+        super("_attr"), this.root = e;
+      }
+
+      prepForXml(e) {
+        return {
+          _attr: Object.values(this.root).filter(({
+            value: e
+          }) => void 0 !== e).reduce((e, {
+            key: t,
+            value: r
+          }) => Object.assign(Object.assign({}, e), {
+            [t]: r
+          }), {})
+        };
+      }
+
+    }
+
+    class c extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val",
@@ -8483,17 +8517,17 @@
 
     }
 
-    var c = r(7888);
+    var u = r(7888);
 
-    const u = e => {
+    const l = e => {
       switch (e.type) {
         case void 0:
         case "element":
-          const t = new h(e.name, e.attributes),
+          const t = new p(e.name, e.attributes),
                 r = e.elements || [];
 
           for (const e of r) {
-            const r = u(e);
+            const r = l(e);
             void 0 !== r && t.push(r);
           }
 
@@ -8507,18 +8541,18 @@
       }
     };
 
-    class l extends o {}
+    class h extends o {}
 
-    class h extends s {
+    class p extends s {
       static fromXmlString(e) {
-        const t = (0, c.xml2js)(e, {
+        const t = (0, u.xml2js)(e, {
           compact: !1
         });
-        return u(t);
+        return l(t);
       }
 
       constructor(e, t) {
-        super(e), t && this.root.push(new l(t));
+        super(e), t && this.root.push(new h(t));
       }
 
       push(e) {
@@ -8527,7 +8561,7 @@
 
     }
 
-    class p extends s {
+    class d extends s {
       constructor(e) {
         super(""), this._attr = e;
       }
@@ -8540,67 +8574,32 @@
 
     }
 
-    const d = "";
+    const f = "";
 
-    class f extends s {
+    class m extends s {
       constructor(e, t) {
         super(e), t && (this.root = t.root);
       }
 
     }
 
-    var m,
-        w,
+    var w,
         g,
         y,
         b,
-        x,
         v,
+        x,
         _,
         E,
         T,
         A,
-        S = r(6595);
-
-    class I extends s {
-      constructor(e, t = !0) {
-        super(e), !0 !== t && this.root.push(new a({
-          val: t
-        }));
-      }
-
-    }
+        S,
+        I,
+        N = r(6595);
 
     class R extends s {
-      constructor(e, t) {
-        super(e), this.root.push(new a({
-          val: (0, S.KR)(t)
-        }));
-      }
-
-    }
-
-    class N extends s {
-      constructor(e, t) {
-        super(e), this.root.push(new a({
-          val: t
-        }));
-      }
-
-    }
-
-    class C extends s {
-      constructor(e, t) {
-        super(e), this.root.push(new a({
-          val: t
-        }));
-      }
-
-    }
-
-    class O extends s {
-      constructor(e, t) {
-        super(e), this.root.push(new a({
+      constructor(e, t = !0) {
+        super(e), !0 !== t && this.root.push(new c({
           val: t
         }));
       }
@@ -8609,16 +8608,61 @@
 
     class k extends s {
       constructor(e, t) {
+        super(e), this.root.push(new c({
+          val: (0, N.KR)(t)
+        }));
+      }
+
+    }
+
+    class C extends s {}
+
+    class O extends s {
+      constructor(e, t) {
+        super(e), this.root.push(new c({
+          val: t
+        }));
+      }
+
+    }
+
+    class L extends s {
+      constructor(e, t) {
+        super(e), this.root.push(new c({
+          val: t
+        }));
+      }
+
+    }
+
+    class D extends s {
+      constructor(e, t) {
+        super(e), this.root.push(new c({
+          val: t
+        }));
+      }
+
+    }
+
+    class P extends s {
+      constructor(e, t) {
         super(e), this.root.push(t);
+      }
+
+    }
+
+    class F extends s {
+      constructor(e) {
+        super(e.name), e.attributes && this.root.push(new a(e.attributes));
       }
 
     }
 
     !function (e) {
       e.START = "start", e.CENTER = "center", e.END = "end", e.BOTH = "both", e.MEDIUM_KASHIDA = "mediumKashida", e.DISTRIBUTE = "distribute", e.NUM_TAB = "numTab", e.HIGH_KASHIDA = "highKashida", e.LOW_KASHIDA = "lowKashida", e.THAI_DISTRIBUTE = "thaiDistribute", e.LEFT = "left", e.RIGHT = "right", e.JUSTIFIED = "both";
-    }(m || (m = {}));
+    }(w || (w = {}));
 
-    class L extends o {
+    class B extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -8627,33 +8671,33 @@
 
     }
 
-    class D extends s {
+    class M extends s {
       constructor(e) {
-        super("w:jc"), this.root.push(new L({
+        super("w:jc"), this.root.push(new B({
           val: e
         }));
       }
 
     }
 
-    class P extends s {
+    class U extends s {
       constructor(e, {
         color: t,
         size: r,
         space: n,
         style: s
       }) {
-        super(e), this.root.push(new F({
+        super(e), this.root.push(new H({
           style: s,
-          color: void 0 === t ? void 0 : (0, S.dg)(t),
-          size: void 0 === r ? void 0 : (0, S.LV)(r),
-          space: void 0 === n ? void 0 : (0, S.gg)(n)
+          color: void 0 === t ? void 0 : (0, N.dg)(t),
+          size: void 0 === r ? void 0 : (0, N.LV)(r),
+          space: void 0 === n ? void 0 : (0, N.gg)(n)
         }));
       }
 
     }
 
-    class F extends o {
+    class H extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           style: "w:val",
@@ -8667,22 +8711,22 @@
 
     !function (e) {
       e.SINGLE = "single", e.DASH_DOT_STROKED = "dashDotStroked", e.DASHED = "dashed", e.DASH_SMALL_GAP = "dashSmallGap", e.DOT_DASH = "dotDash", e.DOT_DOT_DASH = "dotDotDash", e.DOTTED = "dotted", e.DOUBLE = "double", e.DOUBLE_WAVE = "doubleWave", e.INSET = "inset", e.NIL = "nil", e.NONE = "none", e.OUTSET = "outset", e.THICK = "thick", e.THICK_THIN_LARGE_GAP = "thickThinLargeGap", e.THICK_THIN_MEDIUM_GAP = "thickThinMediumGap", e.THICK_THIN_SMALL_GAP = "thickThinSmallGap", e.THIN_THICK_LARGE_GAP = "thinThickLargeGap", e.THIN_THICK_MEDIUM_GAP = "thinThickMediumGap", e.THIN_THICK_SMALL_GAP = "thinThickSmallGap", e.THIN_THICK_THIN_LARGE_GAP = "thinThickThinLargeGap", e.THIN_THICK_THIN_MEDIUM_GAP = "thinThickThinMediumGap", e.THIN_THICK_THIN_SMALL_GAP = "thinThickThinSmallGap", e.THREE_D_EMBOSS = "threeDEmboss", e.THREE_D_ENGRAVE = "threeDEngrave", e.TRIPLE = "triple", e.WAVE = "wave";
-    }(w || (w = {}));
+    }(g || (g = {}));
 
-    class B extends i {
+    class j extends i {
       constructor(e) {
-        super("w:pBdr"), e.top && this.root.push(new P("w:top", e.top)), e.bottom && this.root.push(new P("w:bottom", e.bottom)), e.left && this.root.push(new P("w:left", e.left)), e.right && this.root.push(new P("w:right", e.right));
+        super("w:pBdr"), e.top && this.root.push(new U("w:top", e.top)), e.bottom && this.root.push(new U("w:bottom", e.bottom)), e.left && this.root.push(new U("w:left", e.left)), e.right && this.root.push(new U("w:right", e.right));
       }
 
     }
 
-    class M extends s {
+    class z extends s {
       constructor() {
         super("w:pBdr");
-        const e = new P("w:bottom", {
+        const e = new U("w:bottom", {
           color: "auto",
           space: 1,
-          style: w.SINGLE,
+          style: g.SINGLE,
           size: 6
         });
         this.root.push(e);
@@ -8690,21 +8734,7 @@
 
     }
 
-    class U extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          start: "w:start",
-          end: "w:end",
-          left: "w:left",
-          right: "w:right",
-          hanging: "w:hanging",
-          firstLine: "w:firstLine"
-        };
-      }
-
-    }
-
-    class H extends s {
+    class W extends s {
       constructor({
         start: e,
         end: t,
@@ -8713,19 +8743,37 @@
         hanging: s,
         firstLine: i
       }) {
-        super("w:ind"), this.root.push(new U({
-          start: void 0 === e ? void 0 : (0, S.xb)(e),
-          end: void 0 === t ? void 0 : (0, S.xb)(t),
-          left: void 0 === r ? void 0 : (0, S.xb)(r),
-          right: void 0 === n ? void 0 : (0, S.xb)(n),
-          hanging: void 0 === s ? void 0 : (0, S.Jd)(s),
-          firstLine: void 0 === i ? void 0 : (0, S.Jd)(i)
+        super("w:ind"), this.root.push(new a({
+          start: {
+            key: "w:start",
+            value: void 0 === e ? void 0 : (0, N.xb)(e)
+          },
+          end: {
+            key: "w:end",
+            value: void 0 === t ? void 0 : (0, N.xb)(t)
+          },
+          left: {
+            key: "w:left",
+            value: void 0 === r ? void 0 : (0, N.xb)(r)
+          },
+          right: {
+            key: "w:right",
+            value: void 0 === n ? void 0 : (0, N.xb)(n)
+          },
+          hanging: {
+            key: "w:hanging",
+            value: void 0 === s ? void 0 : (0, N.Jd)(s)
+          },
+          firstLine: {
+            key: "w:firstLine",
+            value: void 0 === i ? void 0 : (0, N.Jd)(i)
+          }
         }));
       }
 
     }
 
-    class z extends s {
+    class G extends s {
       constructor() {
         super("w:br");
       }
@@ -8734,9 +8782,9 @@
 
     !function (e) {
       e.BEGIN = "begin", e.END = "end", e.SEPARATE = "separate";
-    }(g || (g = {}));
+    }(y || (y = {}));
 
-    class j extends o {
+    class K extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:fldCharType",
@@ -8746,30 +8794,30 @@
 
     }
 
-    class W extends s {
+    class V extends s {
       constructor(e) {
-        super("w:fldChar"), this.root.push(new j({
-          type: g.BEGIN,
+        super("w:fldChar"), this.root.push(new K({
+          type: y.BEGIN,
           dirty: e
         }));
       }
 
     }
 
-    class K extends s {
+    class X extends s {
       constructor(e) {
-        super("w:fldChar"), this.root.push(new j({
-          type: g.SEPARATE,
+        super("w:fldChar"), this.root.push(new K({
+          type: y.SEPARATE,
           dirty: e
         }));
       }
 
     }
 
-    class G extends s {
+    class $ extends s {
       constructor(e) {
-        super("w:fldChar"), this.root.push(new j({
-          type: g.END,
+        super("w:fldChar"), this.root.push(new K({
+          type: y.END,
           dirty: e
         }));
       }
@@ -8778,15 +8826,15 @@
 
     !function (e) {
       e.CENTER = "center", e.INSIDE = "inside", e.LEFT = "left", e.OUTSIDE = "outside", e.RIGHT = "right";
-    }(y || (y = {})), function (e) {
-      e.BOTTOM = "bottom", e.CENTER = "center", e.INSIDE = "inside", e.OUTSIDE = "outside", e.TOP = "top";
     }(b || (b = {})), function (e) {
+      e.BOTTOM = "bottom", e.CENTER = "center", e.INSIDE = "inside", e.OUTSIDE = "outside", e.TOP = "top";
+    }(v || (v = {})), function (e) {
       e.DECIMAL = "decimal", e.UPPER_ROMAN = "upperRoman", e.LOWER_ROMAN = "lowerRoman", e.UPPER_LETTER = "upperLetter", e.LOWER_LETTER = "lowerLetter", e.ORDINAL = "ordinal", e.CARDINAL_TEXT = "cardinalText", e.ORDINAL_TEXT = "ordinalText", e.HEX = "hex", e.CHICAGO = "chicago", e.IDEOGRAPH_DIGITAL = "ideographDigital", e.JAPANESE_COUNTING = "japaneseCounting", e.AIUEO = "aiueo", e.IROHA = "iroha", e.DECIMAL_FULL_WIDTH = "decimalFullWidth", e.DECIMAL_HALF_WIDTH = "decimalHalfWidth", e.JAPANESE_LEGAL = "japaneseLegal", e.JAPANESE_DIGITAL_TEN_THOUSAND = "japaneseDigitalTenThousand", e.DECIMAL_ENCLOSED_CIRCLE = "decimalEnclosedCircle", e.DECIMAL_FULL_WIDTH_2 = "decimalFullWidth2", e.AIUEO_FULL_WIDTH = "aiueoFullWidth", e.IROHA_FULL_WIDTH = "irohaFullWidth", e.DECIMAL_ZERO = "decimalZero", e.BULLET = "bullet", e.GANADA = "ganada", e.CHOSUNG = "chosung", e.DECIMAL_ENCLOSED_FULL_STOP = "decimalEnclosedFullstop", e.DECIMAL_ENCLOSED_PAREN = "decimalEnclosedParen", e.DECIMAL_ENCLOSED_CIRCLE_CHINESE = "decimalEnclosedCircleChinese", e.IDEOGRAPH_ENCLOSED_CIRCLE = "ideographEnclosedCircle", e.IDEOGRAPH_TRADITIONAL = "ideographTraditional", e.IDEOGRAPH_ZODIAC = "ideographZodiac", e.IDEOGRAPH_ZODIAC_TRADITIONAL = "ideographZodiacTraditional", e.TAIWANESE_COUNTING = "taiwaneseCounting", e.IDEOGRAPH_LEGAL_TRADITIONAL = "ideographLegalTraditional", e.TAIWANESE_COUNTING_THOUSAND = "taiwaneseCountingThousand", e.TAIWANESE_DIGITAL = "taiwaneseDigital", e.CHINESE_COUNTING = "chineseCounting", e.CHINESE_LEGAL_SIMPLIFIED = "chineseLegalSimplified", e.CHINESE_COUNTING_TEN_THOUSAND = "chineseCountingThousand", e.KOREAN_DIGITAL = "koreanDigital", e.KOREAN_COUNTING = "koreanCounting", e.KOREAN_LEGAL = "koreanLegal", e.KOREAN_DIGITAL_2 = "koreanDigital2", e.VIETNAMESE_COUNTING = "vietnameseCounting", e.RUSSIAN_LOWER = "russianLower", e.RUSSIAN_UPPER = "russianUpper", e.NONE = "none", e.NUMBER_IN_DASH = "numberInDash", e.HEBREW_1 = "hebrew1", e.HEBREW_2 = "hebrew2", e.ARABIC_ALPHA = "arabicAlpha", e.ARABIC_ABJAD = "arabicAbjad", e.HINDI_VOWELS = "hindiVowels", e.HINDI_CONSONANTS = "hindiConsonants", e.HINDI_NUMBERS = "hindiNumbers", e.HINDI_COUNTING = "hindiCounting", e.THAI_LETTERS = "thaiLetters", e.THAI_NUMBERS = "thaiNumbers", e.THAI_COUNTING = "thaiCounting", e.BAHT_TEXT = "bahtText", e.DOLLAR_TEXT = "dollarText";
     }(x || (x = {})), function (e) {
       e.DEFAULT = "default", e.PRESERVE = "preserve";
-    }(v || (v = {}));
+    }(_ || (_ = {}));
 
-    class V extends o {
+    class q extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           space: "xml:space"
@@ -8795,34 +8843,34 @@
 
     }
 
-    class $ extends s {
+    class Z extends s {
       constructor() {
-        super("w:instrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("PAGE");
       }
 
     }
 
-    class X extends s {
+    class Y extends s {
       constructor() {
-        super("w:instrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("NUMPAGES");
       }
 
     }
 
-    class q extends s {
+    class J extends s {
       constructor() {
-        super("w:instrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("SECTIONPAGES");
       }
 
     }
 
-    class Z extends o {
+    class Q extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           fill: "w:fill",
@@ -8833,15 +8881,15 @@
 
     }
 
-    class Y extends s {
+    class ee extends s {
       constructor({
         fill: e,
         color: t,
         type: r
       }) {
-        super("w:shd"), this.root.push(new Z({
-          fill: void 0 === e ? void 0 : (0, S.dg)(e),
-          color: void 0 === t ? void 0 : (0, S.dg)(t),
+        super("w:shd"), this.root.push(new Q({
+          fill: void 0 === e ? void 0 : (0, N.dg)(e),
+          color: void 0 === t ? void 0 : (0, N.dg)(t),
           type: r
         }));
       }
@@ -8850,9 +8898,9 @@
 
     !function (e) {
       e.CLEAR = "clear", e.DIAGONAL_CROSS = "diagCross", e.DIAGONAL_STRIPE = "diagStripe", e.HORIZONTAL_CROSS = "horzCross", e.HORIZONTAL_STRIPE = "horzStripe", e.NIL = "nil", e.PERCENT_5 = "pct5", e.PERCENT_10 = "pct10", e.PERCENT_12 = "pct12", e.PERCENT_15 = "pct15", e.PERCENT_20 = "pct20", e.PERCENT_25 = "pct25", e.PERCENT_30 = "pct30", e.PERCENT_35 = "pct35", e.PERCENT_37 = "pct37", e.PERCENT_40 = "pct40", e.PERCENT_45 = "pct45", e.PERCENT_50 = "pct50", e.PERCENT_55 = "pct55", e.PERCENT_60 = "pct60", e.PERCENT_62 = "pct62", e.PERCENT_65 = "pct65", e.PERCENT_70 = "pct70", e.PERCENT_75 = "pct75", e.PERCENT_80 = "pct80", e.PERCENT_85 = "pct85", e.PERCENT_87 = "pct87", e.PERCENT_90 = "pct90", e.PERCENT_95 = "pct95", e.REVERSE_DIAGONAL_STRIPE = "reverseDiagStripe", e.SOLID = "solid", e.THIN_DIAGONAL_CROSS = "thinDiagCross", e.THIN_DIAGONAL_STRIPE = "thinDiagStripe", e.THIN_HORIZONTAL_CROSS = "thinHorzCross", e.THIN_REVERSE_DIAGONAL_STRIPE = "thinReverseDiagStripe", e.THIN_VERTICAL_STRIPE = "thinVertStripe", e.VERTICAL_STRIPE = "vertStripe";
-    }(_ || (_ = {}));
+    }(E || (E = {}));
 
-    class J extends o {
+    class te extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id",
@@ -8865,68 +8913,68 @@
 
     !function (e) {
       e.DOT = "dot";
-    }(E || (E = {}));
+    }(T || (T = {}));
 
-    class Q extends s {
+    class re extends s {
       constructor(e) {
-        super("w:em"), this.root.push(new a({
+        super("w:em"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class ee extends Q {
-      constructor(e = E.DOT) {
+    class ne extends re {
+      constructor(e = T.DOT) {
         super(e);
       }
 
     }
 
-    class te extends Q {
+    class se extends re {
       constructor() {
-        super(E.DOT);
-      }
-
-    }
-
-    class re extends s {
-      constructor(e) {
-        super("w:spacing"), this.root.push(new a({
-          val: (0, S.xb)(e)
-        }));
-      }
-
-    }
-
-    class ne extends s {
-      constructor(e) {
-        super("w:color"), this.root.push(new a({
-          val: (0, S.dg)(e)
-        }));
-      }
-
-    }
-
-    class se extends s {
-      constructor(e) {
-        super("w:highlight"), this.root.push(new a({
-          val: e
-        }));
+        super(T.DOT);
       }
 
     }
 
     class ie extends s {
       constructor(e) {
-        super("w:highlightCs"), this.root.push(new a({
+        super("w:spacing"), this.root.push(new c({
+          val: (0, N.xb)(e)
+        }));
+      }
+
+    }
+
+    class oe extends s {
+      constructor(e) {
+        super("w:color"), this.root.push(new c({
+          val: (0, N.dg)(e)
+        }));
+      }
+
+    }
+
+    class ae extends s {
+      constructor(e) {
+        super("w:highlight"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class oe extends o {
+    class ce extends s {
+      constructor(e) {
+        super("w:highlightCs"), this.root.push(new c({
+          val: e
+        }));
+      }
+
+    }
+
+    class ue extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           ascii: "w:ascii",
@@ -8939,11 +8987,11 @@
 
     }
 
-    class ae extends s {
+    class le extends s {
       constructor(e, t) {
         if (super("w:rFonts"), "string" == typeof e) {
           const r = e;
-          this.root.push(new oe({
+          this.root.push(new ue({
             ascii: r,
             cs: r,
             eastAsia: r,
@@ -8952,29 +9000,29 @@
           }));
         } else {
           const t = e;
-          this.root.push(new oe(t));
+          this.root.push(new ue(t));
         }
       }
 
     }
 
-    class ce extends s {
+    class he extends s {
       constructor(e) {
-        super("w:vertAlign"), this.root.push(new a({
+        super("w:vertAlign"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class ue extends ce {
+    class pe extends he {
       constructor() {
         super("superscript");
       }
 
     }
 
-    class le extends ce {
+    class de extends he {
       constructor() {
         super("subscript");
       }
@@ -8983,27 +9031,47 @@
 
     !function (e) {
       e.SINGLE = "single", e.WORDS = "words", e.DOUBLE = "double", e.THICK = "thick", e.DOTTED = "dotted", e.DOTTEDHEAVY = "dottedHeavy", e.DASH = "dash", e.DASHEDHEAVY = "dashedHeavy", e.DASHLONG = "dashLong", e.DASHLONGHEAVY = "dashLongHeavy", e.DOTDASH = "dotDash", e.DASHDOTHEAVY = "dashDotHeavy", e.DOTDOTDASH = "dotDotDash", e.DASHDOTDOTHEAVY = "dashDotDotHeavy", e.WAVE = "wave", e.WAVYHEAVY = "wavyHeavy", e.WAVYDOUBLE = "wavyDouble", e.NONE = "none";
-    }(T || (T = {}));
+    }(A || (A = {}));
 
-    class he extends s {
-      constructor(e = T.SINGLE, t) {
-        super("w:u"), this.root.push(new a({
+    class fe extends s {
+      constructor(e = A.SINGLE, t) {
+        super("w:u"), this.root.push(new c({
           val: e,
-          color: void 0 === t ? void 0 : (0, S.dg)(t)
+          color: void 0 === t ? void 0 : (0, N.dg)(t)
         }));
       }
 
     }
 
-    class pe extends i {
+    !function (e) {
+      e.BLINK_BACKGROUND = "blinkBackground", e.LIGHTS = "lights", e.ANTS_BLACK = "antsBlack", e.ANTS_RED = "antsRed", e.SHIMMER = "shimmer", e.SPARKLE = "sparkle", e.NONE = "none";
+    }(S || (S = {}));
+
+    class me extends i {
       constructor(e) {
         var t, r;
         if (super("w:rPr"), !e) return;
-        void 0 !== e.bold && this.push(new I("w:b", e.bold)), (void 0 === e.boldComplexScript && void 0 !== e.bold || e.boldComplexScript) && this.push(new I("w:bCs", null !== (t = e.boldComplexScript) && void 0 !== t ? t : e.bold)), void 0 !== e.italics && this.push(new I("w:i", e.italics)), (void 0 === e.italicsComplexScript && void 0 !== e.italics || e.italicsComplexScript) && this.push(new I("w:iCs", null !== (r = e.italicsComplexScript) && void 0 !== r ? r : e.italics)), e.underline && this.push(new he(e.underline.type, e.underline.color)), e.emphasisMark && this.push(new ee(e.emphasisMark.type)), e.color && this.push(new ne(e.color)), void 0 !== e.size && this.push(new R("w:sz", e.size));
+        void 0 !== e.bold && this.push(new R("w:b", e.bold)), (void 0 === e.boldComplexScript && void 0 !== e.bold || e.boldComplexScript) && this.push(new R("w:bCs", null !== (t = e.boldComplexScript) && void 0 !== t ? t : e.bold)), void 0 !== e.italics && this.push(new R("w:i", e.italics)), (void 0 === e.italicsComplexScript && void 0 !== e.italics || e.italicsComplexScript) && this.push(new R("w:iCs", null !== (r = e.italicsComplexScript) && void 0 !== r ? r : e.italics)), e.underline && this.push(new fe(e.underline.type, e.underline.color)), e.effect && this.push(new O("w:effect", e.effect)), e.emphasisMark && this.push(new ne(e.emphasisMark.type)), e.color && this.push(new oe(e.color)), e.kern && this.push(new k("w:kern", e.kern)), e.position && this.push(new O("w:position", e.position)), void 0 !== e.size && this.push(new k("w:sz", e.size));
         const n = void 0 === e.sizeComplexScript || !0 === e.sizeComplexScript ? e.size : e.sizeComplexScript;
-        n && this.push(new R("w:szCs", n)), void 0 !== e.rightToLeft && this.push(new I("w:rtl", e.rightToLeft)), void 0 !== e.smallCaps ? this.push(new I("w:smallCaps", e.smallCaps)) : void 0 !== e.allCaps && this.push(new I("w:caps", e.allCaps)), void 0 !== e.strike && this.push(new I("w:strike", e.strike)), void 0 !== e.doubleStrike && this.push(new I("w:dstrike", e.doubleStrike)), e.subScript && this.push(new le()), e.superScript && this.push(new ue()), e.style && this.push(new N("w:rStyle", e.style)), e.font && ("string" == typeof e.font ? this.push(new ae(e.font)) : "name" in e.font ? this.push(new ae(e.font.name, e.font.hint)) : this.push(new ae(e.font))), e.highlight && this.push(new se(e.highlight));
+        n && this.push(new k("w:szCs", n)), void 0 !== e.rightToLeft && this.push(new R("w:rtl", e.rightToLeft)), void 0 !== e.smallCaps ? this.push(new R("w:smallCaps", e.smallCaps)) : void 0 !== e.allCaps && this.push(new R("w:caps", e.allCaps)), void 0 !== e.strike && this.push(new R("w:strike", e.strike)), void 0 !== e.doubleStrike && this.push(new R("w:dstrike", e.doubleStrike)), e.subScript && this.push(new de()), e.superScript && this.push(new pe()), e.style && this.push(new O("w:rStyle", e.style)), e.font && ("string" == typeof e.font ? this.push(new le(e.font)) : "name" in e.font ? this.push(new le(e.font.name, e.font.hint)) : this.push(new le(e.font))), e.highlight && this.push(new ae(e.highlight));
         const s = void 0 === e.highlightComplexScript || !0 === e.highlightComplexScript ? e.highlight : e.highlightComplexScript;
-        s && this.push(new ie(s)), e.characterSpacing && this.push(new re(e.characterSpacing)), void 0 !== e.emboss && this.push(new I("w:emboss", e.emboss)), void 0 !== e.imprint && this.push(new I("w:imprint", e.imprint)), e.shading && this.push(new Y(e.shading)), e.revision && this.push(new de(e.revision)), e.border && this.push(new P("w:bdr", e.border)), e.vanish && this.push(new I("w:vanish", e.vanish)), e.specVanish && this.push(new I("w:specVanish", e.vanish)), void 0 !== e.scale && this.push(new C("w:w", e.scale));
+        s && this.push(new ce(s)), e.characterSpacing && this.push(new ie(e.characterSpacing)), void 0 !== e.emboss && this.push(new R("w:emboss", e.emboss)), void 0 !== e.imprint && this.push(new R("w:imprint", e.imprint)), e.shading && this.push(new ee(e.shading)), e.revision && this.push(new we(e.revision)), e.border && this.push(new U("w:bdr", e.border)), e.snapToGrid && this.push(new R("w:snapToGrid", e.snapToGrid)), e.vanish && this.push(new R("w:vanish", e.vanish)), e.specVanish && this.push(new R("w:specVanish", e.vanish)), void 0 !== e.scale && this.push(new L("w:w", e.scale)), e.language && this.push((e => new F({
+          name: "w:lang",
+          attributes: {
+            value: {
+              key: "w:val",
+              value: e.value
+            },
+            eastAsia: {
+              key: "w:eastAsia",
+              value: e.eastAsia
+            },
+            bidirectional: {
+              key: "w:bidi",
+              value: e.bidirectional
+            }
+          }
+        }))(e.language)), e.math && this.push(new R("w:oMath", e.math));
       }
 
       push(e) {
@@ -9012,67 +9080,67 @@
 
     }
 
-    class de extends s {
+    class we extends s {
       constructor(e) {
-        super("w:rPrChange"), this.root.push(new J({
+        super("w:rPrChange"), this.root.push(new te({
           id: e.id,
           author: e.author,
           date: e.date
-        })), this.addChildElement(new pe(e));
+        })), this.addChildElement(new me(e));
       }
 
     }
 
-    class fe extends s {
+    class ge extends s {
       constructor(e) {
         var t;
-        return super("w:t"), "string" == typeof e ? (this.root.push(new V({
-          space: v.PRESERVE
-        })), void this.root.push(e)) : (this.root.push(new V({
-          space: null !== (t = e.space) && void 0 !== t ? t : v.DEFAULT
-        })), void this.root.push(e.text));
+        return super("w:t"), "string" == typeof e ? (this.root.push(new q({
+          space: _.PRESERVE
+        })), this.root.push(e), this) : (this.root.push(new q({
+          space: null !== (t = e.space) && void 0 !== t ? t : _.DEFAULT
+        })), this.root.push(e.text), this);
       }
 
     }
 
     !function (e) {
       e.CURRENT = "CURRENT", e.TOTAL_PAGES = "TOTAL_PAGES", e.TOTAL_PAGES_IN_SECTION = "TOTAL_PAGES_IN_SECTION";
-    }(A || (A = {}));
+    }(I || (I = {}));
 
-    class me extends s {
+    class ye extends s {
       constructor(e) {
-        if (super("w:r"), this.properties = new pe(e), this.root.push(this.properties), e.break) for (let t = 0; t < e.break; t++) this.root.push(new z());
+        if (super("w:r"), this.properties = new me(e), this.root.push(this.properties), e.break) for (let t = 0; t < e.break; t++) this.root.push(new G());
         if (e.children) {
           for (const t of e.children) if ("string" != typeof t) this.root.push(t);else switch (t) {
-            case A.CURRENT:
-              this.root.push(new W()), this.root.push(new $()), this.root.push(new K()), this.root.push(new G());
+            case I.CURRENT:
+              this.root.push(new V()), this.root.push(new Z()), this.root.push(new X()), this.root.push(new $());
               break;
 
-            case A.TOTAL_PAGES:
-              this.root.push(new W()), this.root.push(new X()), this.root.push(new K()), this.root.push(new G());
+            case I.TOTAL_PAGES:
+              this.root.push(new V()), this.root.push(new Y()), this.root.push(new X()), this.root.push(new $());
               break;
 
-            case A.TOTAL_PAGES_IN_SECTION:
-              this.root.push(new W()), this.root.push(new q()), this.root.push(new K()), this.root.push(new G());
+            case I.TOTAL_PAGES_IN_SECTION:
+              this.root.push(new V()), this.root.push(new J()), this.root.push(new X()), this.root.push(new $());
               break;
 
             default:
-              this.root.push(new fe(t));
+              this.root.push(new ge(t));
           }
-        } else e.text && this.root.push(new fe(e.text));
+        } else e.text && this.root.push(new ge(e.text));
       }
 
     }
 
-    class we extends me {
+    class be extends ye {
       constructor(e) {
-        if ("string" == typeof e) return super({}), this.root.push(new fe(e)), this;
+        if ("string" == typeof e) return super({}), this.root.push(new ge(e)), this;
         super(e);
       }
 
     }
 
-    class ge extends o {
+    class ve extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           char: "w:char",
@@ -9082,9 +9150,9 @@
 
     }
 
-    class ye extends s {
+    class xe extends s {
       constructor(e = "", t = "Wingdings") {
-        super("w:sym"), this.root.push(new ge({
+        super("w:sym"), this.root.push(new ve({
           char: e,
           symbolfont: t
         }));
@@ -9092,47 +9160,24 @@
 
     }
 
-    class be extends me {
+    class _e extends ye {
       constructor(e) {
-        if ("string" == typeof e) return super({}), void this.root.push(new ye(e));
-        super(e), this.root.push(new ye(e.char, e.symbolfont));
+        if ("string" == typeof e) return super({}), this.root.push(new xe(e)), this;
+        super(e), this.root.push(new xe(e.char, e.symbolfont));
       }
 
     }
 
-    var xe,
-        ve,
-        _e,
-        Ee,
+    var Ee,
         Te,
-        Ae,
-        Se,
-        Ie,
-        Re,
-        Ne,
-        Ce,
-        Oe,
-        ke,
-        Le,
-        De,
-        Pe,
-        Fe,
-        Be,
-        Me,
-        Ue,
-        He,
-        ze,
-        je,
-        We,
-        Ke = r(5457);
-
+        Ae = r(5457);
     !function (e) {
       e.CHARACTER = "character", e.COLUMN = "column", e.INSIDE_MARGIN = "insideMargin", e.LEFT_MARGIN = "leftMargin", e.MARGIN = "margin", e.OUTSIDE_MARGIN = "outsideMargin", e.PAGE = "page", e.RIGHT_MARGIN = "rightMargin";
-    }(xe || (xe = {})), function (e) {
+    }(Ee || (Ee = {})), function (e) {
       e.BOTTOM_MARGIN = "bottomMargin", e.INSIDE_MARGIN = "insideMargin", e.LINE = "line", e.MARGIN = "margin", e.OUTSIDE_MARGIN = "outsideMargin", e.PAGE = "page", e.PARAGRAPH = "paragraph", e.TOP_MARGIN = "topMargin";
-    }(ve || (ve = {}));
+    }(Te || (Te = {}));
 
-    class Ge extends o {
+    class Se extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           x: "x",
@@ -9142,9 +9187,9 @@
 
     }
 
-    class Ve extends s {
+    class Ie extends s {
       constructor() {
-        super("wp:simplePos"), this.root.push(new Ge({
+        super("wp:simplePos"), this.root.push(new Se({
           x: 0,
           y: 0
         }));
@@ -9152,21 +9197,21 @@
 
     }
 
-    class $e extends s {
+    class Ne extends s {
       constructor(e) {
         super("wp:align"), this.root.push(e);
       }
 
     }
 
-    class Xe extends s {
+    class Re extends s {
       constructor(e) {
         super("wp:posOffset"), this.root.push(e.toString());
       }
 
     }
 
-    class qe extends o {
+    class ke extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           relativeFrom: "relativeFrom"
@@ -9175,19 +9220,19 @@
 
     }
 
-    class Ze extends s {
+    class Ce extends s {
       constructor(e) {
-        if (super("wp:positionH"), this.root.push(new qe({
-          relativeFrom: e.relative || xe.PAGE
-        })), e.align) this.root.push(new $e(e.align));else {
+        if (super("wp:positionH"), this.root.push(new ke({
+          relativeFrom: e.relative || Ee.PAGE
+        })), e.align) this.root.push(new Ne(e.align));else {
           if (void 0 === e.offset) throw new Error("There is no configuration provided for floating position (Align or offset)");
-          this.root.push(new Xe(e.offset));
+          this.root.push(new Re(e.offset));
         }
       }
 
     }
 
-    class Ye extends o {
+    class Oe extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           relativeFrom: "relativeFrom"
@@ -9196,19 +9241,19 @@
 
     }
 
-    class Je extends s {
+    class Le extends s {
       constructor(e) {
-        if (super("wp:positionV"), this.root.push(new Ye({
-          relativeFrom: e.relative || ve.PAGE
-        })), e.align) this.root.push(new $e(e.align));else {
+        if (super("wp:positionV"), this.root.push(new Oe({
+          relativeFrom: e.relative || Te.PAGE
+        })), e.align) this.root.push(new Ne(e.align));else {
           if (void 0 === e.offset) throw new Error("There is no configuration provided for floating position (Align or offset)");
-          this.root.push(new Xe(e.offset));
+          this.root.push(new Re(e.offset));
         }
       }
 
     }
 
-    class Qe extends o {
+    class De extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           uri: "uri"
@@ -9217,7 +9262,7 @@
 
     }
 
-    class et extends o {
+    class Pe extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           embed: "r:embed",
@@ -9227,9 +9272,9 @@
 
     }
 
-    class tt extends s {
+    class Fe extends s {
       constructor(e) {
-        super("a:blip"), this.root.push(new et({
+        super("a:blip"), this.root.push(new Pe({
           embed: `rId{${e.fileName}}`,
           cstate: "none"
         }));
@@ -9237,35 +9282,35 @@
 
     }
 
-    class rt extends s {
+    class Be extends s {
       constructor() {
         super("a:srcRect");
       }
 
     }
 
-    class nt extends s {
+    class Me extends s {
       constructor() {
         super("a:fillRect");
       }
 
     }
 
-    class st extends s {
+    class Ue extends s {
       constructor() {
-        super("a:stretch"), this.root.push(new nt());
+        super("a:stretch"), this.root.push(new Me());
       }
 
     }
 
-    class it extends s {
+    class He extends s {
       constructor(e) {
-        super("pic:blipFill"), this.root.push(new tt(e)), this.root.push(new rt()), this.root.push(new st());
+        super("pic:blipFill"), this.root.push(new Fe(e)), this.root.push(new Be()), this.root.push(new Ue());
       }
 
     }
 
-    class ot extends o {
+    class je extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           noChangeAspect: "noChangeAspect",
@@ -9275,9 +9320,9 @@
 
     }
 
-    class at extends s {
+    class ze extends s {
       constructor() {
-        super("a:picLocks"), this.root.push(new ot({
+        super("a:picLocks"), this.root.push(new je({
           noChangeAspect: 1,
           noChangeArrowheads: 1
         }));
@@ -9285,14 +9330,29 @@
 
     }
 
-    class ct extends s {
+    class We extends s {
       constructor() {
-        super("pic:cNvPicPr"), this.root.push(new at());
+        super("pic:cNvPicPr"), this.root.push(new ze());
       }
 
     }
 
-    class ut extends o {
+    const Ge = (e, t) => new F({
+      name: "a:hlinkClick",
+      attributes: Object.assign(Object.assign({}, t ? {
+        xmlns: {
+          key: "xmlns:a",
+          value: "http://schemas.openxmlformats.org/drawingml/2006/main"
+        }
+      } : {}), {
+        id: {
+          key: "r:id",
+          value: `rId${e}`
+        }
+      })
+    });
+
+    class Ke extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "id",
@@ -9303,25 +9363,38 @@
 
     }
 
-    class lt extends s {
+    class Ve extends s {
       constructor() {
-        super("pic:cNvPr"), this.root.push(new ut({
+        super("pic:cNvPr"), this.root.push(new Ke({
           id: 0,
           name: "",
           descr: ""
         }));
       }
 
-    }
+      prepForXml(e) {
+        for (let t = e.stack.length - 1; t >= 0; t--) {
+          const r = e.stack[t];
 
-    class ht extends s {
-      constructor() {
-        super("pic:nvPicPr"), this.root.push(new lt()), this.root.push(new ct());
+          if (r instanceof Zr) {
+            this.root.push(Ge(r.linkId, !1));
+            break;
+          }
+        }
+
+        return super.prepForXml(e);
       }
 
     }
 
-    class pt extends o {
+    class Xe extends s {
+      constructor() {
+        super("pic:nvPicPr"), this.root.push(new Ve()), this.root.push(new We());
+      }
+
+    }
+
+    class $e extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns:pic"
@@ -9330,7 +9403,7 @@
 
     }
 
-    class dt extends o {
+    class qe extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           cx: "cx",
@@ -9340,9 +9413,9 @@
 
     }
 
-    class ft extends s {
+    class Ze extends s {
       constructor(e, t) {
-        super("a:ext"), this.attributes = new dt({
+        super("a:ext"), this.attributes = new qe({
           cx: e,
           cy: t
         }), this.root.push(this.attributes);
@@ -9350,7 +9423,7 @@
 
     }
 
-    class mt extends o {
+    class Ye extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           x: "x",
@@ -9360,9 +9433,9 @@
 
     }
 
-    class wt extends s {
+    class Je extends s {
       constructor() {
-        super("a:off"), this.root.push(new mt({
+        super("a:off"), this.root.push(new Ye({
           x: 0,
           y: 0
         }));
@@ -9370,7 +9443,7 @@
 
     }
 
-    class gt extends o {
+    class Qe extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           flipVertical: "flipV",
@@ -9381,26 +9454,26 @@
 
     }
 
-    class yt extends s {
+    class et extends s {
       constructor(e) {
         var t, r;
-        super("a:xfrm"), this.root.push(new gt({
+        super("a:xfrm"), this.root.push(new Qe({
           flipVertical: null === (t = e.flip) || void 0 === t ? void 0 : t.vertical,
           flipHorizontal: null === (r = e.flip) || void 0 === r ? void 0 : r.horizontal,
           rotation: e.rotation
-        })), this.extents = new ft(e.emus.x, e.emus.y), this.root.push(new wt()), this.root.push(this.extents);
+        })), this.extents = new Ze(e.emus.x, e.emus.y), this.root.push(new Je()), this.root.push(this.extents);
       }
 
     }
 
-    class bt extends s {
+    class tt extends s {
       constructor() {
         super("a:avLst");
       }
 
     }
 
-    class xt extends o {
+    class rt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           prst: "prst"
@@ -9409,16 +9482,16 @@
 
     }
 
-    class vt extends s {
+    class nt extends s {
       constructor() {
-        super("a:prstGeom"), this.root.push(new xt({
+        super("a:prstGeom"), this.root.push(new rt({
           prst: "rect"
-        })), this.root.push(new bt());
+        })), this.root.push(new tt());
       }
 
     }
 
-    class _t extends o {
+    class st extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           bwMode: "bwMode"
@@ -9427,34 +9500,34 @@
 
     }
 
-    class Et extends s {
+    class it extends s {
       constructor(e) {
-        super("pic:spPr"), this.root.push(new _t({
+        super("pic:spPr"), this.root.push(new st({
           bwMode: "auto"
-        })), this.form = new yt(e), this.root.push(this.form), this.root.push(new vt());
+        })), this.form = new et(e), this.root.push(this.form), this.root.push(new nt());
       }
 
     }
 
-    class Tt extends s {
+    class ot extends s {
       constructor(e, t) {
-        super("pic:pic"), this.root.push(new pt({
+        super("pic:pic"), this.root.push(new $e({
           xmlns: "http://schemas.openxmlformats.org/drawingml/2006/picture"
-        })), this.root.push(new ht()), this.root.push(new it(e)), this.root.push(new Et(t));
+        })), this.root.push(new Xe()), this.root.push(new He(e)), this.root.push(new it(t));
       }
 
     }
 
-    class At extends s {
+    class at extends s {
       constructor(e, t) {
-        super("a:graphicData"), this.root.push(new Qe({
+        super("a:graphicData"), this.root.push(new De({
           uri: "http://schemas.openxmlformats.org/drawingml/2006/picture"
-        })), this.pic = new Tt(e, t), this.root.push(this.pic);
+        })), this.pic = new ot(e, t), this.root.push(this.pic);
       }
 
     }
 
-    class St extends o {
+    class ct extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           a: "xmlns:a"
@@ -9463,29 +9536,31 @@
 
     }
 
-    class It extends s {
+    class ut extends s {
       constructor(e, t) {
-        super("a:graphic"), this.root.push(new St({
+        super("a:graphic"), this.root.push(new ct({
           a: "http://schemas.openxmlformats.org/drawingml/2006/main"
-        })), this.data = new At(e, t), this.root.push(this.data);
+        })), this.data = new at(e, t), this.root.push(this.data);
       }
 
     }
 
+    var lt, ht, pt, dt, ft, mt, wt, gt, yt, bt, vt, xt, _t, Et, Tt, At, St, It, Nt, Rt, kt, Ct, Ot, Lt, Dt;
+
     !function (e) {
       e[e.NONE = 0] = "NONE", e[e.SQUARE = 1] = "SQUARE", e[e.TIGHT = 2] = "TIGHT", e[e.TOP_AND_BOTTOM = 3] = "TOP_AND_BOTTOM";
-    }(_e || (_e = {})), function (e) {
+    }(lt || (lt = {})), function (e) {
       e.BOTH_SIDES = "bothSides", e.LEFT = "left", e.RIGHT = "right", e.LARGEST = "largest";
-    }(Ee || (Ee = {}));
+    }(ht || (ht = {}));
 
-    class Rt extends s {
+    class Pt extends s {
       constructor() {
         super("wp:wrapNone");
       }
 
     }
 
-    class Nt extends o {
+    class Ft extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           distT: "distT",
@@ -9498,15 +9573,15 @@
 
     }
 
-    class Ct extends s {
+    class Bt extends s {
       constructor(e, t = {
         top: 0,
         bottom: 0,
         left: 0,
         right: 0
       }) {
-        super("wp:wrapSquare"), this.root.push(new Nt({
-          wrapText: e.side || Ee.BOTH_SIDES,
+        super("wp:wrapSquare"), this.root.push(new Ft({
+          wrapText: e.side || ht.BOTH_SIDES,
           distT: t.top,
           distB: t.bottom,
           distL: t.left,
@@ -9516,7 +9591,7 @@
 
     }
 
-    class Ot extends o {
+    class Mt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           distT: "distT",
@@ -9526,12 +9601,12 @@
 
     }
 
-    class kt extends s {
+    class Ut extends s {
       constructor(e = {
         top: 0,
         bottom: 0
       }) {
-        super("wp:wrapTight"), this.root.push(new Ot({
+        super("wp:wrapTight"), this.root.push(new Mt({
           distT: e.top,
           distB: e.bottom
         }));
@@ -9539,7 +9614,7 @@
 
     }
 
-    class Lt extends o {
+    class Ht extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           distT: "distT",
@@ -9549,12 +9624,12 @@
 
     }
 
-    class Dt extends s {
+    class jt extends s {
       constructor(e = {
         top: 0,
         bottom: 0
       }) {
-        super("wp:wrapTopAndBottom"), this.root.push(new Lt({
+        super("wp:wrapTopAndBottom"), this.root.push(new Ht({
           distT: e.top,
           distB: e.bottom
         }));
@@ -9562,19 +9637,7 @@
 
     }
 
-    class Pt extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          id: "id",
-          name: "name",
-          description: "descr",
-          title: "title"
-        };
-      }
-
-    }
-
-    class Ft extends s {
+    class zt extends s {
       constructor({
         name: e,
         description: t,
@@ -9584,17 +9647,42 @@
         description: "",
         title: ""
       }) {
-        super("wp:docPr"), this.root.push(new Pt({
-          id: (0, Ke.NY)(),
-          name: e,
-          description: t,
-          title: r
+        super("wp:docPr"), this.root.push(new a({
+          id: {
+            key: "id",
+            value: (0, Ae.NY)()
+          },
+          name: {
+            key: "name",
+            value: e
+          },
+          description: {
+            key: "descr",
+            value: t
+          },
+          title: {
+            key: "title",
+            value: r
+          }
         }));
+      }
+
+      prepForXml(e) {
+        for (let t = e.stack.length - 1; t >= 0; t--) {
+          const r = e.stack[t];
+
+          if (r instanceof Zr) {
+            this.root.push(Ge(r.linkId, !0));
+            break;
+          }
+        }
+
+        return super.prepForXml(e);
       }
 
     }
 
-    class Bt extends o {
+    class Wt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           b: "b",
@@ -9606,9 +9694,9 @@
 
     }
 
-    class Mt extends s {
+    class Gt extends s {
       constructor() {
-        super("wp:effectExtent"), this.root.push(new Bt({
+        super("wp:effectExtent"), this.root.push(new Wt({
           b: 0,
           l: 0,
           r: 0,
@@ -9618,7 +9706,7 @@
 
     }
 
-    class Ut extends o {
+    class Kt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           cx: "cx",
@@ -9628,9 +9716,9 @@
 
     }
 
-    class Ht extends s {
+    class Vt extends s {
       constructor(e, t) {
-        super("wp:extent"), this.attributes = new Ut({
+        super("wp:extent"), this.attributes = new Kt({
           cx: e,
           cy: t
         }), this.root.push(this.attributes);
@@ -9638,7 +9726,7 @@
 
     }
 
-    class zt extends o {
+    class Xt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns:a",
@@ -9648,9 +9736,9 @@
 
     }
 
-    class jt extends s {
+    class $t extends s {
       constructor() {
-        super("a:graphicFrameLocks"), this.root.push(new zt({
+        super("a:graphicFrameLocks"), this.root.push(new Xt({
           xmlns: "http://schemas.openxmlformats.org/drawingml/2006/main",
           noChangeAspect: 1
         }));
@@ -9658,14 +9746,14 @@
 
     }
 
-    class Wt extends s {
+    class qt extends s {
       constructor() {
-        super("wp:cNvGraphicFramePr"), this.root.push(new jt());
+        super("wp:cNvGraphicFramePr"), this.root.push(new $t());
       }
 
     }
 
-    class Kt extends o {
+    class Zt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           distT: "distT",
@@ -9683,7 +9771,7 @@
 
     }
 
-    class Gt extends s {
+    class Yt extends s {
       constructor(e, t, r) {
         super("wp:anchor");
         const n = Object.assign({
@@ -9694,7 +9782,7 @@
           verticalPosition: {},
           horizontalPosition: {}
         }, r.floating);
-        if (this.root.push(new Kt({
+        if (this.root.push(new Zt({
           distT: n.margins && n.margins.top || 0,
           distB: n.margins && n.margins.bottom || 0,
           distL: n.margins && n.margins.left || 0,
@@ -9705,29 +9793,29 @@
           locked: !0 === n.lockAnchor ? "1" : "0",
           layoutInCell: !0 === n.layoutInCell ? "1" : "0",
           relativeHeight: n.zIndex ? n.zIndex : t.emus.y
-        })), this.root.push(new Ve()), this.root.push(new Ze(n.horizontalPosition)), this.root.push(new Je(n.verticalPosition)), this.root.push(new Ht(t.emus.x, t.emus.y)), this.root.push(new Mt()), void 0 !== r.floating && void 0 !== r.floating.wrap) switch (r.floating.wrap.type) {
-          case _e.SQUARE:
-            this.root.push(new Ct(r.floating.wrap, r.floating.margins));
+        })), this.root.push(new Ie()), this.root.push(new Ce(n.horizontalPosition)), this.root.push(new Le(n.verticalPosition)), this.root.push(new Vt(t.emus.x, t.emus.y)), this.root.push(new Gt()), void 0 !== r.floating && void 0 !== r.floating.wrap) switch (r.floating.wrap.type) {
+          case lt.SQUARE:
+            this.root.push(new Bt(r.floating.wrap, r.floating.margins));
             break;
 
-          case _e.TIGHT:
-            this.root.push(new kt(r.floating.margins));
+          case lt.TIGHT:
+            this.root.push(new Ut(r.floating.margins));
             break;
 
-          case _e.TOP_AND_BOTTOM:
-            this.root.push(new Dt(r.floating.margins));
+          case lt.TOP_AND_BOTTOM:
+            this.root.push(new jt(r.floating.margins));
             break;
 
-          case _e.NONE:
+          case lt.NONE:
           default:
-            this.root.push(new Rt());
-        } else this.root.push(new Rt());
-        this.root.push(new Ft(r.docProperties)), this.root.push(new Wt()), this.root.push(new It(e, t));
+            this.root.push(new Pt());
+        } else this.root.push(new Pt());
+        this.root.push(new zt(r.docProperties)), this.root.push(new qt()), this.root.push(new ut(e, t));
       }
 
     }
 
-    class Vt extends o {
+    class Jt extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           distT: "distT",
@@ -9739,25 +9827,25 @@
 
     }
 
-    class $t extends s {
+    class Qt extends s {
       constructor({
         mediaData: e,
         transform: t,
         docProperties: r
       }) {
-        super("wp:inline"), this.root.push(new Vt({
+        super("wp:inline"), this.root.push(new Jt({
           distT: 0,
           distB: 0,
           distL: 0,
           distR: 0
-        })), this.extent = new Ht(t.emus.x, t.emus.y), this.graphic = new It(e, t), this.root.push(this.extent), this.root.push(new Mt()), this.root.push(new Ft(r)), this.root.push(new Wt()), this.root.push(this.graphic);
+        })), this.extent = new Vt(t.emus.x, t.emus.y), this.graphic = new ut(e, t), this.root.push(this.extent), this.root.push(new Gt()), this.root.push(new zt(r)), this.root.push(new qt()), this.root.push(this.graphic);
       }
 
     }
 
-    class Xt extends s {
+    class er extends s {
       constructor(e, t = {}) {
-        super("w:drawing"), t.floating ? this.root.push(new Gt(e, e.transformation, t)) : (this.inline = new $t({
+        super("w:drawing"), t.floating ? this.root.push(new Yt(e, e.transformation, t)) : (this.inline = new Qt({
           mediaData: e,
           transform: e.transformation,
           docProperties: t.docProperties
@@ -9766,9 +9854,9 @@
 
     }
 
-    class qt extends me {
+    class tr extends ye {
       constructor(e) {
-        super({}), this.key = `${(0, Ke.EL)()}.png`;
+        super({}), this.key = `${(0, Ae.EL)()}.png`;
         const t = "string" == typeof e.data ? this.convertDataURIToBinary(e.data) : e.data;
         this.imageData = {
           stream: t,
@@ -9786,7 +9874,7 @@
             rotation: e.transformation.rotation ? 6e4 * e.transformation.rotation : void 0
           }
         };
-        const r = new Xt(this.imageData, {
+        const r = new er(this.imageData, {
           floating: e.floating,
           docProperties: e.altText
         });
@@ -9810,30 +9898,23 @@
 
     }
 
-    class Zt extends s {
+    class rr extends s {
       constructor(e) {
-        super("w:instrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push(`SEQ ${e}`);
       }
 
     }
 
-    class Yt extends me {
+    class nr extends ye {
       constructor(e) {
-        super({}), this.root.push(new W(!0)), this.root.push(new Zt(e)), this.root.push(new K()), this.root.push(new G());
+        super({}), this.root.push(new V(!0)), this.root.push(new rr(e)), this.root.push(new X()), this.root.push(new $());
       }
 
     }
 
-    class Jt extends s {
-      constructor() {
-        super("w:tab");
-      }
-
-    }
-
-    class Qt extends o {
+    class sr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           instr: "w:instr"
@@ -9842,23 +9923,23 @@
 
     }
 
-    class er extends s {
+    class ir extends s {
       constructor(e, t) {
-        super("w:fldSimple"), this.root.push(new Qt({
+        super("w:fldSimple"), this.root.push(new sr({
           instr: e
-        })), void 0 !== t && this.root.push(new we(t));
+        })), void 0 !== t && this.root.push(new be(t));
       }
 
     }
 
-    class tr extends er {
+    class or extends ir {
       constructor(e) {
         super(` MERGEFIELD ${e} `, `«${e}»`);
       }
 
     }
 
-    class rr extends o {
+    class ar extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id",
@@ -9870,7 +9951,7 @@
 
     }
 
-    class nr extends o {
+    class cr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id"
@@ -9879,7 +9960,7 @@
 
     }
 
-    class sr extends o {
+    class ur extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           "xmlns:cx": "xmlns:cx",
@@ -9918,58 +9999,58 @@
 
     }
 
-    class ir extends s {
+    class lr extends s {
       constructor(e) {
-        super("w:commentRangeStart"), this.root.push(new nr({
+        super("w:commentRangeStart"), this.root.push(new cr({
           id: e
         }));
       }
 
     }
 
-    class or extends s {
+    class hr extends s {
       constructor(e) {
-        super("w:commentRangeEnd"), this.root.push(new nr({
+        super("w:commentRangeEnd"), this.root.push(new cr({
           id: e
         }));
       }
 
     }
 
-    class ar extends s {
+    class pr extends s {
       constructor(e) {
-        super("w:commentReference"), this.root.push(new nr({
+        super("w:commentReference"), this.root.push(new cr({
           id: e
         }));
       }
 
     }
 
-    class cr extends s {
+    class dr extends s {
       constructor({
         id: e,
         initials: t,
         author: r,
         date: n = new Date(),
-        text: s
+        children: s
       }) {
-        super("w:comment"), this.root.push(new rr({
+        super("w:comment"), this.root.push(new ar({
           id: e,
           initials: t,
           author: r,
           date: n.toISOString()
-        })), this.root.push(new In({
-          children: [new we(s)]
         }));
+
+        for (const e of s) this.root.push(e);
       }
 
     }
 
-    class ur extends s {
+    class fr extends s {
       constructor({
         children: e
       }) {
-        super("w:comments"), this.root.push(new sr({
+        super("w:comments"), this.root.push(new ur({
           "xmlns:cx": "http://schemas.microsoft.com/office/drawing/2014/chartex",
           "xmlns:cx1": "http://schemas.microsoft.com/office/drawing/2015/9/8/chartex",
           "xmlns:cx2": "http://schemas.microsoft.com/office/drawing/2015/10/21/chartex",
@@ -10003,39 +10084,186 @@
           "xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
         }));
 
-        for (const t of e) this.root.push(new cr(t));
+        for (const t of e) this.root.push(new dr(t));
+      }
+
+    }
+
+    class mr extends C {
+      constructor() {
+        super("w:noBreakHyphen");
+      }
+
+    }
+
+    class wr extends C {
+      constructor() {
+        super("w:softHyphen");
+      }
+
+    }
+
+    class gr extends C {
+      constructor() {
+        super("w:dayShort");
+      }
+
+    }
+
+    class yr extends C {
+      constructor() {
+        super("w:monthShort");
+      }
+
+    }
+
+    class br extends C {
+      constructor() {
+        super("w:yearShort");
+      }
+
+    }
+
+    class vr extends C {
+      constructor() {
+        super("w:dayLong");
+      }
+
+    }
+
+    class xr extends C {
+      constructor() {
+        super("w:monthLong");
+      }
+
+    }
+
+    class _r extends C {
+      constructor() {
+        super("w:yearLong");
+      }
+
+    }
+
+    class Er extends C {
+      constructor() {
+        super("w:annotationRef");
+      }
+
+    }
+
+    class Tr extends C {
+      constructor() {
+        super("w:footnoteRef");
+      }
+
+    }
+
+    class Ar extends C {
+      constructor() {
+        super("w:endnoteRef");
+      }
+
+    }
+
+    class Sr extends C {
+      constructor() {
+        super("w:separator");
+      }
+
+    }
+
+    class Ir extends C {
+      constructor() {
+        super("w:continuationSeparator");
+      }
+
+    }
+
+    class Nr extends C {
+      constructor() {
+        super("w:pgNum");
+      }
+
+    }
+
+    class Rr extends C {
+      constructor() {
+        super("w:cr");
+      }
+
+    }
+
+    class kr extends C {
+      constructor() {
+        super("w:tab");
+      }
+
+    }
+
+    class Cr extends C {
+      constructor() {
+        super("w:lastRenderedPageBreak");
+      }
+
+    }
+
+    !function (e) {
+      e.LEFT = "left", e.CENTER = "center", e.RIGHT = "right";
+    }(pt || (pt = {})), function (e) {
+      e.MARGIN = "margin", e.INDENT = "indent";
+    }(dt || (dt = {})), function (e) {
+      e.NONE = "none", e.DOT = "dot", e.HYPHEN = "hyphen", e.UNDERSCORE = "underscore", e.MIDDLE_DOT = "middleDot";
+    }(ft || (ft = {}));
+
+    class Or extends s {
+      constructor(e) {
+        super("w:ptab"), this.root.push(new a({
+          alignment: {
+            key: "w:alignment",
+            value: e.alignment
+          },
+          relativeTo: {
+            key: "w:relativeTo",
+            value: e.relativeTo
+          },
+          leader: {
+            key: "w:leader",
+            value: e.leader
+          }
+        }));
       }
 
     }
 
     !function (e) {
       e.COLUMN = "column", e.PAGE = "page";
-    }(Te || (Te = {}));
+    }(mt || (mt = {}));
 
-    class lr extends s {
+    class Lr extends s {
       constructor(e) {
-        super("w:br"), this.root.push(new a({
+        super("w:br"), this.root.push(new c({
           type: e
         }));
       }
 
     }
 
-    class hr extends me {
+    class Dr extends ye {
       constructor() {
-        super({}), this.root.push(new lr(Te.PAGE));
+        super({}), this.root.push(new Lr(mt.PAGE));
       }
 
     }
 
-    class pr extends me {
+    class Pr extends ye {
       constructor() {
-        super({}), this.root.push(new lr(Te.COLUMN));
+        super({}), this.root.push(new Lr(mt.COLUMN));
       }
 
     }
 
-    class dr extends s {
+    class Fr extends s {
       constructor() {
         super("w:pageBreakBefore");
       }
@@ -10044,9 +10272,9 @@
 
     !function (e) {
       e.AT_LEAST = "atLeast", e.EXACTLY = "exactly", e.EXACT = "exact", e.AUTO = "auto";
-    }(Ae || (Ae = {}));
+    }(wt || (wt = {}));
 
-    class fr extends o {
+    class Br extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           after: "w:after",
@@ -10058,44 +10286,44 @@
 
     }
 
-    class mr extends s {
+    class Mr extends s {
       constructor(e) {
-        super("w:spacing"), this.root.push(new fr(e));
+        super("w:spacing"), this.root.push(new Br(e));
       }
 
     }
 
     !function (e) {
       e.HEADING_1 = "Heading1", e.HEADING_2 = "Heading2", e.HEADING_3 = "Heading3", e.HEADING_4 = "Heading4", e.HEADING_5 = "Heading5", e.HEADING_6 = "Heading6", e.TITLE = "Title";
-    }(Se || (Se = {}));
+    }(gt || (gt = {}));
 
-    class wr extends s {
+    class Ur extends s {
       constructor(e) {
-        super("w:pStyle"), this.root.push(new a({
+        super("w:pStyle"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class gr extends s {
+    class Hr extends s {
       constructor(e) {
         super("w:tabs");
 
-        for (const t of e) this.root.push(new br(t));
+        for (const t of e) this.root.push(new zr(t));
       }
 
     }
 
     !function (e) {
       e.LEFT = "left", e.RIGHT = "right", e.CENTER = "center", e.BAR = "bar", e.CLEAR = "clear", e.DECIMAL = "decimal", e.END = "end", e.NUM = "num", e.START = "start";
-    }(Ie || (Ie = {})), function (e) {
+    }(yt || (yt = {})), function (e) {
       e.DOT = "dot", e.HYPHEN = "hyphen", e.MIDDLE_DOT = "middleDot", e.NONE = "none", e.UNDERSCORE = "underscore";
-    }(Re || (Re = {})), function (e) {
+    }(bt || (bt = {})), function (e) {
       e[e.MAX = 9026] = "MAX";
-    }(Ne || (Ne = {}));
+    }(vt || (vt = {}));
 
-    class yr extends o {
+    class jr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val",
@@ -10106,13 +10334,13 @@
 
     }
 
-    class br extends s {
+    class zr extends s {
       constructor({
         type: e,
         position: t,
         leader: r
       }) {
-        super("w:tab"), this.root.push(new yr({
+        super("w:tab"), this.root.push(new jr({
           val: e,
           pos: t,
           leader: r
@@ -10121,33 +10349,40 @@
 
     }
 
-    class xr extends s {
+    class Wr extends s {
       constructor(e, t) {
-        super("w:numPr"), this.root.push(new vr(t)), this.root.push(new _r(e));
+        super("w:numPr"), this.root.push(new Gr(t)), this.root.push(new Kr(e));
       }
 
     }
 
-    class vr extends s {
+    class Gr extends s {
       constructor(e) {
         if (super("w:ilvl"), e > 9) throw new Error("Level cannot be greater than 9. Read more here: https://answers.microsoft.com/en-us/msoffice/forum/all/does-word-support-more-than-9-list-levels/d130fdcd-1781-446d-8c84-c6c79124e4d7");
-        this.root.push(new a({
+        this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class _r extends s {
+    class Kr extends s {
       constructor(e) {
-        super("w:numId"), this.root.push(new a({
+        super("w:numId"), this.root.push(new c({
           val: "string" == typeof e ? `{${e}}` : e
         }));
       }
 
     }
 
-    class Er extends o {
+    class Vr extends s {
+      constructor() {
+        super(...arguments), this.fileChild = Symbol();
+      }
+
+    }
+
+    class Xr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "Id",
@@ -10161,11 +10396,11 @@
 
     !function (e) {
       e.EXTERNAL = "External";
-    }(Ce || (Ce = {}));
+    }(xt || (xt = {}));
 
-    class Tr extends s {
+    class $r extends s {
       constructor(e, t, r, n) {
-        super("Relationship"), this.root.push(new Er({
+        super("Relationship"), this.root.push(new Xr({
           id: e,
           type: t,
           target: r,
@@ -10175,7 +10410,7 @@
 
     }
 
-    class Ar extends o {
+    class qr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "r:id",
@@ -10188,9 +10423,9 @@
 
     !function (e) {
       e.INTERNAL = "INTERNAL", e.EXTERNAL = "EXTERNAL";
-    }(Oe || (Oe = {}));
+    }(_t || (_t = {}));
 
-    class Sr extends s {
+    class Zr extends s {
       constructor(e, t, r) {
         super("w:hyperlink"), this.linkId = t;
         const n = {
@@ -10198,7 +10433,7 @@
           anchor: r || void 0,
           id: r ? void 0 : `rId${this.linkId}`
         },
-              s = new Ar(n);
+              s = new qr(n);
         this.root.push(s), e.forEach(e => {
           this.root.push(e);
         });
@@ -10206,21 +10441,21 @@
 
     }
 
-    class Ir extends Sr {
+    class Yr extends Zr {
       constructor(e) {
-        super(e.children, (0, Ke.EL)(), e.anchor);
+        super(e.children, (0, Ae.EL)(), e.anchor);
       }
 
     }
 
-    class Rr extends s {
+    class Jr extends s {
       constructor(e) {
         super("w:externalHyperlink"), this.options = e;
       }
 
     }
 
-    class Nr extends o {
+    class Qr extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id",
@@ -10230,7 +10465,7 @@
 
     }
 
-    class Cr extends o {
+    class en extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id"
@@ -10239,18 +10474,18 @@
 
     }
 
-    class Or {
+    class tn {
       constructor(e) {
-        const t = (0, Ke.NY)();
-        this.start = new kr(e.id, t), this.children = e.children, this.end = new Lr(t);
+        const t = (0, Ae.NY)();
+        this.start = new rn(e.id, t), this.children = e.children, this.end = new nn(t);
       }
 
     }
 
-    class kr extends s {
+    class rn extends s {
       constructor(e, t) {
         super("w:bookmarkStart");
-        const r = new Nr({
+        const r = new Qr({
           name: e,
           id: t
         });
@@ -10259,10 +10494,10 @@
 
     }
 
-    class Lr extends s {
+    class nn extends s {
       constructor(e) {
         super("w:bookmarkEnd");
-        const t = new Cr({
+        const t = new en({
           id: e
         });
         this.root.push(t);
@@ -10270,19 +10505,19 @@
 
     }
 
-    class Dr extends s {
+    class sn extends s {
       constructor(e) {
-        super("w:outlineLvl"), this.level = e, this.root.push(new a({
+        super("w:outlineLvl"), this.level = e, this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class Pr extends s {
+    class on extends s {
       constructor(e, t = {}) {
-        super("w:instrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.root.push(new q({
+          space: _.PRESERVE
         }));
         let r = `PAGEREF ${e}`;
         t.hyperlink && (r = `${r} \\h`), t.useRelativePosition && (r = `${r} \\p`), this.root.push(r);
@@ -10290,10 +10525,10 @@
 
     }
 
-    class Fr extends me {
+    class an extends ye {
       constructor(e, t = {}) {
         super({
-          children: [new W(!0), new Pr(e, t), new G()]
+          children: [new V(!0), new on(e, t), new $()]
         });
       }
 
@@ -10301,9 +10536,9 @@
 
     !function (e) {
       e.BOTTOM = "bottom", e.CENTER = "center", e.TOP = "top";
-    }(ke || (ke = {}));
+    }(Et || (Et = {}));
 
-    class Br extends o {
+    class cn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           verticalAlign: "w:val"
@@ -10312,9 +10547,9 @@
 
     }
 
-    class Mr extends s {
+    class un extends s {
       constructor(e) {
-        super("w:vAlign"), this.root.push(new Br({
+        super("w:vAlign"), this.root.push(new cn({
           verticalAlign: e
         }));
       }
@@ -10323,9 +10558,9 @@
 
     !function (e) {
       e.DEFAULT = "default", e.FIRST = "first", e.EVEN = "even";
-    }(Le || (Le = {}));
+    }(Tt || (Tt = {}));
 
-    class Ur extends o {
+    class ln extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:type",
@@ -10337,31 +10572,19 @@
 
     !function (e) {
       e.HEADER = "w:headerReference", e.FOOTER = "w:footerReference";
-    }(De || (De = {}));
+    }(At || (At = {}));
 
-    class Hr extends s {
+    class hn extends s {
       constructor(e, t) {
-        super(e), this.root.push(new Ur({
-          type: t.type || Le.DEFAULT,
+        super(e), this.root.push(new ln({
+          type: t.type || Tt.DEFAULT,
           id: `rId${t.id}`
         }));
       }
 
     }
 
-    class zr extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          space: "w:space",
-          count: "w:num",
-          separate: "w:sep",
-          equalWidth: "w:equalWidth"
-        };
-      }
-
-    }
-
-    class jr extends s {
+    class pn extends s {
       constructor({
         space: e,
         count: t,
@@ -10369,11 +10592,23 @@
         equalWidth: n,
         children: s
       }) {
-        super("w:cols"), this.root.push(new zr({
-          space: void 0 === e ? void 0 : (0, S.Jd)(e),
-          count: void 0 === t ? void 0 : (0, S.vH)(t),
-          separate: r,
-          equalWidth: n
+        super("w:cols"), this.root.push(new a({
+          space: {
+            key: "w:space",
+            value: void 0 === e ? void 0 : (0, N.Jd)(e)
+          },
+          count: {
+            key: "w:num",
+            value: void 0 === t ? void 0 : (0, N.vH)(t)
+          },
+          separate: {
+            key: "w:sep",
+            value: r
+          },
+          equalWidth: {
+            key: "w:equalWidth",
+            value: n
+          }
         })), !n && s && s.forEach(e => this.addChildElement(e));
       }
 
@@ -10381,9 +10616,9 @@
 
     !function (e) {
       e.DEFAULT = "default", e.LINES = "lines", e.LINES_AND_CHARS = "linesAndChars", e.SNAP_TO_CHARS = "snapToChars";
-    }(Pe || (Pe = {}));
+    }(St || (St = {}));
 
-    class Wr extends o {
+    class dn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:type",
@@ -10394,12 +10629,12 @@
 
     }
 
-    class Kr extends s {
+    class fn extends s {
       constructor(e, t, r) {
-        super("w:docGrid"), this.root.push(new Wr({
+        super("w:docGrid"), this.root.push(new dn({
           type: r,
-          linePitch: (0, S.vH)(e),
-          charSpace: t ? (0, S.vH)(t) : void 0
+          linePitch: (0, N.vH)(e),
+          charSpace: t ? (0, N.vH)(t) : void 0
         }));
       }
 
@@ -10407,32 +10642,32 @@
 
     !function (e) {
       e.NEW_PAGE = "newPage", e.NEW_SECTION = "newSection", e.CONTINUOUS = "continuous";
-    }(Fe || (Fe = {}));
+    }(It || (It = {}));
 
-    class Gr extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          countBy: "w:countBy",
-          start: "w:start",
-          restart: "w:restart",
-          distance: "w:distance"
-        };
-      }
-
-    }
-
-    class Vr extends s {
+    class mn extends s {
       constructor({
         countBy: e,
         start: t,
         restart: r,
         distance: n
       }) {
-        super("w:lnNumType"), this.root.push(new Gr({
-          countBy: void 0 === e ? void 0 : (0, S.vH)(e),
-          start: void 0 === t ? void 0 : (0, S.vH)(t),
-          restart: r,
-          distance: void 0 === n ? void 0 : (0, S.Jd)(n)
+        super("w:lnNumType"), this.root.push(new a({
+          countBy: {
+            key: "w:countBy",
+            value: void 0 === e ? void 0 : (0, N.vH)(e)
+          },
+          start: {
+            key: "w:start",
+            value: void 0 === t ? void 0 : (0, N.vH)(t)
+          },
+          restart: {
+            key: "w:restart",
+            value: r
+          },
+          distance: {
+            key: "w:distance",
+            value: void 0 === n ? void 0 : (0, N.Jd)(n)
+          }
         }));
       }
 
@@ -10440,13 +10675,13 @@
 
     !function (e) {
       e.ALL_PAGES = "allPages", e.FIRST_PAGE = "firstPage", e.NOT_FIRST_PAGE = "notFirstPage";
-    }(Be || (Be = {})), function (e) {
+    }(Nt || (Nt = {})), function (e) {
       e.PAGE = "page", e.TEXT = "text";
-    }(Me || (Me = {})), function (e) {
+    }(Rt || (Rt = {})), function (e) {
       e.BACK = "back", e.FRONT = "front";
-    }(Ue || (Ue = {}));
+    }(kt || (kt = {}));
 
-    class $r extends o {
+    class wn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           display: "w:display",
@@ -10457,42 +10692,49 @@
 
     }
 
-    class Xr extends i {
+    class gn extends i {
       constructor(e) {
-        super("w:pgBorders"), e && (e.pageBorders ? this.root.push(new $r({
+        if (super("w:pgBorders"), !e) return this;
+        e.pageBorders ? this.root.push(new wn({
           display: e.pageBorders.display,
           offsetFrom: e.pageBorders.offsetFrom,
           zOrder: e.pageBorders.zOrder
-        })) : this.root.push(new $r({})), e.pageBorderTop && this.root.push(new P("w:top", e.pageBorderTop)), e.pageBorderLeft && this.root.push(new P("w:left", e.pageBorderLeft)), e.pageBorderBottom && this.root.push(new P("w:bottom", e.pageBorderBottom)), e.pageBorderRight && this.root.push(new P("w:right", e.pageBorderRight)));
+        })) : this.root.push(new wn({})), e.pageBorderTop && this.root.push(new U("w:top", e.pageBorderTop)), e.pageBorderLeft && this.root.push(new U("w:left", e.pageBorderLeft)), e.pageBorderBottom && this.root.push(new U("w:bottom", e.pageBorderBottom)), e.pageBorderRight && this.root.push(new U("w:right", e.pageBorderRight));
       }
 
     }
 
-    class qr extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          top: "w:top",
-          right: "w:right",
-          bottom: "w:bottom",
-          left: "w:left",
-          header: "w:header",
-          footer: "w:footer",
-          gutter: "w:gutter"
-        };
-      }
-
-    }
-
-    class Zr extends s {
+    class yn extends s {
       constructor(e, t, r, n, s, i, o) {
-        super("w:pgMar"), this.root.push(new qr({
-          top: (0, S.xb)(e),
-          right: (0, S.Jd)(t),
-          bottom: (0, S.xb)(r),
-          left: (0, S.Jd)(n),
-          header: (0, S.Jd)(s),
-          footer: (0, S.Jd)(i),
-          gutter: (0, S.Jd)(o)
+        super("w:pgMar"), this.root.push(new a({
+          top: {
+            key: "w:top",
+            value: (0, N.xb)(e)
+          },
+          right: {
+            key: "w:right",
+            value: (0, N.Jd)(t)
+          },
+          bottom: {
+            key: "w:bottom",
+            value: (0, N.xb)(r)
+          },
+          left: {
+            key: "w:left",
+            value: (0, N.Jd)(n)
+          },
+          header: {
+            key: "w:header",
+            value: (0, N.Jd)(s)
+          },
+          footer: {
+            key: "w:footer",
+            value: (0, N.Jd)(i)
+          },
+          gutter: {
+            key: "w:gutter",
+            value: (0, N.Jd)(o)
+          }
         }));
       }
 
@@ -10500,9 +10742,9 @@
 
     !function (e) {
       e.HYPHEN = "hyphen", e.PERIOD = "period", e.COLON = "colon", e.EM_DASH = "emDash", e.EN_DASH = "endash";
-    }(He || (He = {}));
+    }(Ct || (Ct = {}));
 
-    class Yr extends o {
+    class bn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           start: "w:start",
@@ -10513,14 +10755,14 @@
 
     }
 
-    class Jr extends s {
+    class vn extends s {
       constructor({
         start: e,
         formatType: t,
         separator: r
       }) {
-        super("w:pgNumType"), this.root.push(new Yr({
-          start: void 0 === e ? void 0 : (0, S.vH)(e),
+        super("w:pgNumType"), this.root.push(new bn({
+          start: void 0 === e ? void 0 : (0, N.vH)(e),
           formatType: t,
           separator: r
         }));
@@ -10530,29 +10772,27 @@
 
     !function (e) {
       e.PORTRAIT = "portrait", e.LANDSCAPE = "landscape";
-    }(ze || (ze = {}));
+    }(Ot || (Ot = {}));
 
-    class Qr extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          width: "w:w",
-          height: "w:h",
-          orientation: "w:orient"
-        };
-      }
-
-    }
-
-    class en extends s {
+    class xn extends s {
       constructor(e, t, r) {
         super("w:pgSz");
-        const n = r === ze.LANDSCAPE,
-              s = (0, S.Jd)(e),
-              i = (0, S.Jd)(t);
-        this.root.push(new Qr({
-          width: n ? i : s,
-          height: n ? s : i,
-          orientation: r
+        const n = r === Ot.LANDSCAPE,
+              s = (0, N.Jd)(e),
+              i = (0, N.Jd)(t);
+        this.root.push(new a({
+          width: {
+            key: "w:w",
+            value: n ? i : s
+          },
+          height: {
+            key: "w:h",
+            value: n ? s : i
+          },
+          orientation: {
+            key: "w:orient",
+            value: r
+          }
         }));
       }
 
@@ -10560,9 +10800,9 @@
 
     !function (e) {
       e.LEFT_TO_RIGHT_TOP_TO_BOTTOM = "lrTb", e.TOP_TO_BOTTOM_RIGHT_TO_LEFT = "tbRl";
-    }(je || (je = {}));
+    }(Lt || (Lt = {}));
 
-    class tn extends o {
+    class _n extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -10571,9 +10811,9 @@
 
     }
 
-    class rn extends s {
+    class En extends s {
       constructor(e) {
-        super("w:textDirection"), this.root.push(new tn({
+        super("w:textDirection"), this.root.push(new _n({
           val: e
         }));
       }
@@ -10582,9 +10822,9 @@
 
     !function (e) {
       e.NEXT_PAGE = "nextPage", e.NEXT_COLUMN = "nextColumn", e.CONTINUOUS = "continuous", e.EVEN_PAGE = "evenPage", e.ODD_PAGE = "oddPage";
-    }(We || (We = {}));
+    }(Dt || (Dt = {}));
 
-    class nn extends o {
+    class Tn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -10593,16 +10833,16 @@
 
     }
 
-    class sn extends s {
+    class An extends s {
       constructor(e) {
-        super("w:type"), this.root.push(new nn({
+        super("w:type"), this.root.push(new Tn({
           val: e
         }));
       }
 
     }
 
-    const on = {
+    const Sn = {
       TOP: "1in",
       RIGHT: "1in",
       BOTTOM: "1in",
@@ -10611,28 +10851,28 @@
       FOOTER: 708,
       GUTTER: 0
     },
-          an = {
+          In = {
       WIDTH: 11906,
       HEIGHT: 16838,
-      ORIENTATION: ze.PORTRAIT
+      ORIENTATION: Ot.PORTRAIT
     };
 
-    class cn extends s {
+    class Nn extends s {
       constructor({
         page: {
           size: {
-            width: e = an.WIDTH,
-            height: t = an.HEIGHT,
-            orientation: r = an.ORIENTATION
+            width: e = In.WIDTH,
+            height: t = In.HEIGHT,
+            orientation: r = In.ORIENTATION
           } = {},
           margin: {
-            top: n = on.TOP,
-            right: s = on.RIGHT,
-            bottom: i = on.BOTTOM,
-            left: o = on.LEFT,
-            header: a = on.HEADER,
-            footer: c = on.FOOTER,
-            gutter: u = on.GUTTER
+            top: n = Sn.TOP,
+            right: s = Sn.RIGHT,
+            bottom: i = Sn.BOTTOM,
+            left: o = Sn.LEFT,
+            header: a = Sn.HEADER,
+            footer: c = Sn.FOOTER,
+            gutter: u = Sn.GUTTER
           } = {},
           pageNumbers: l = {},
           borders: h,
@@ -10647,36 +10887,36 @@
         footerWrapperGroup: g = {},
         lineNumbers: y,
         titlePage: b,
-        verticalAlign: x,
-        column: v,
+        verticalAlign: v,
+        column: x,
         type: _
       } = {}) {
-        super("w:sectPr"), this.addHeaderFooterGroup(De.HEADER, w), this.addHeaderFooterGroup(De.FOOTER, g), _ && this.root.push(new sn(_)), this.root.push(new en(e, t, r)), this.root.push(new Zr(n, s, i, o, a, c, u)), h && this.root.push(new Xr(h)), y && this.root.push(new Vr(y)), this.root.push(new Jr(l)), v && this.root.push(new jr(v)), x && this.root.push(new Mr(x)), void 0 !== b && this.root.push(new I("w:titlePg", b)), p && this.root.push(new rn(p)), this.root.push(new Kr(d, f, m));
+        super("w:sectPr"), this.addHeaderFooterGroup(At.HEADER, w), this.addHeaderFooterGroup(At.FOOTER, g), _ && this.root.push(new An(_)), this.root.push(new xn(e, t, r)), this.root.push(new yn(n, s, i, o, a, c, u)), h && this.root.push(new gn(h)), y && this.root.push(new mn(y)), this.root.push(new vn(l)), x && this.root.push(new pn(x)), v && this.root.push(new un(v)), void 0 !== b && this.root.push(new R("w:titlePg", b)), p && this.root.push(new En(p)), this.root.push(new fn(d, f, m));
       }
 
       addHeaderFooterGroup(e, t) {
-        t.default && this.root.push(new Hr(e, {
-          type: Le.DEFAULT,
+        t.default && this.root.push(new hn(e, {
+          type: Tt.DEFAULT,
           id: t.default.View.ReferenceId
-        })), t.first && this.root.push(new Hr(e, {
-          type: Le.FIRST,
+        })), t.first && this.root.push(new hn(e, {
+          type: Tt.FIRST,
           id: t.first.View.ReferenceId
-        })), t.even && this.root.push(new Hr(e, {
-          type: Le.EVEN,
+        })), t.even && this.root.push(new hn(e, {
+          type: Tt.EVEN,
           id: t.even.View.ReferenceId
         }));
       }
 
     }
 
-    class un extends s {
+    class Rn extends s {
       constructor() {
         super("w:body"), this.sections = [];
       }
 
       addSection(e) {
         const t = this.sections.pop();
-        this.root.push(this.createSectionParagraph(t)), this.sections.push(new cn(e));
+        this.root.push(this.createSectionParagraph(t)), this.sections.push(new Nn(e));
       }
 
       prepForXml(e) {
@@ -10688,37 +10928,33 @@
       }
 
       createSectionParagraph(e) {
-        const t = new In({}),
-              r = new Sn({});
+        const t = new Vn({}),
+              r = new Kn({});
         return r.push(e), t.addChildElement(r), t;
       }
 
     }
 
-    class ln extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          width: "w:w",
-          space: "w:space"
-        };
-      }
-
-    }
-
-    class hn extends s {
+    class kn extends s {
       constructor({
         width: e,
         space: t
       }) {
-        super("w:col"), this.root.push(new ln({
-          width: (0, S.Jd)(e),
-          space: void 0 === t ? void 0 : (0, S.Jd)(t)
+        super("w:col"), this.root.push(new a({
+          width: {
+            key: "w:w",
+            value: (0, N.Jd)(e)
+          },
+          space: {
+            key: "w:space",
+            value: void 0 === t ? void 0 : (0, N.Jd)(t)
+          }
         }));
       }
 
     }
 
-    class pn extends o {
+    class Cn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           wpc: "xmlns:wpc",
@@ -10765,7 +11001,7 @@
 
     }
 
-    class dn extends o {
+    class On extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           color: "w:color",
@@ -10777,21 +11013,21 @@
 
     }
 
-    class fn extends s {
+    class Ln extends s {
       constructor(e) {
-        super("w:background"), this.root.push(new dn({
-          color: void 0 === e.color ? void 0 : (0, S.dg)(e.color),
+        super("w:background"), this.root.push(new On({
+          color: void 0 === e.color ? void 0 : (0, N.dg)(e.color),
           themeColor: e.themeColor,
-          themeShade: void 0 === e.themeShade ? void 0 : (0, S.xD)(e.themeShade),
-          themeTint: void 0 === e.themeTint ? void 0 : (0, S.xD)(e.themeTint)
+          themeShade: void 0 === e.themeShade ? void 0 : (0, N.xD)(e.themeShade),
+          themeTint: void 0 === e.themeTint ? void 0 : (0, N.xD)(e.themeTint)
         }));
       }
 
     }
 
-    class mn extends s {
+    class Dn extends s {
       constructor(e) {
-        super("w:document"), this.root.push(new pn({
+        super("w:document"), this.root.push(new Cn({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -10825,7 +11061,7 @@
           w16sdtdh: "http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash",
           w16se: "http://schemas.microsoft.com/office/word/2015/wordml/symex",
           Ignorable: "w14 w15 wp14"
-        })), this.body = new un(), e.background && this.root.push(new fn(e.background)), this.root.push(this.body);
+        })), this.body = new Rn(), e.background && this.root.push(new Ln(e.background)), this.root.push(this.body);
       }
 
       add(e) {
@@ -10838,7 +11074,7 @@
 
     }
 
-    class wn extends o {
+    class Pn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns"
@@ -10847,20 +11083,16 @@
 
     }
 
-    class gn extends s {
+    class Fn extends s {
       constructor() {
-        super("Relationships"), this.root.push(new wn({
+        super("Relationships"), this.root.push(new Pn({
           xmlns: "http://schemas.openxmlformats.org/package/2006/relationships"
         }));
       }
 
-      addRelationship(e) {
-        this.root.push(e);
-      }
-
       createRelationship(e, t, r, n) {
-        const s = new Tr(`rId${e}`, t, r, n);
-        return this.addRelationship(s), s;
+        const s = new $r(`rId${e}`, t, r, n);
+        return this.root.push(s), s;
       }
 
       get RelationshipCount() {
@@ -10869,9 +11101,9 @@
 
     }
 
-    class yn {
+    class Bn {
       constructor(e) {
-        this.document = new mn(e), this.relationships = new gn();
+        this.document = new Dn(e), this.relationships = new Fn();
       }
 
       get View() {
@@ -10884,7 +11116,7 @@
 
     }
 
-    class bn extends o {
+    class Mn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -10893,26 +11125,25 @@
 
     }
 
-    class xn extends s {
+    class Un extends s {
       constructor() {
-        super("w:wordWrap"), this.root.push(new bn({
+        super("w:wordWrap"), this.root.push(new Mn({
           val: 0
         }));
       }
 
     }
 
-    var vn, _n, En;
-
+    var Hn, jn, zn;
     !function (e) {
       e.NONE = "none", e.DROP = "drop", e.MARGIN = "margin";
-    }(vn || (vn = {})), function (e) {
+    }(Hn || (Hn = {})), function (e) {
       e.MARGIN = "margin", e.PAGE = "page", e.TEXT = "text";
-    }(_n || (_n = {})), function (e) {
+    }(jn || (jn = {})), function (e) {
       e.AROUND = "around", e.AUTO = "auto", e.NONE = "none", e.NOT_BESIDE = "notBeside", e.THROUGH = "through", e.TIGHT = "tight";
-    }(En || (En = {}));
+    }(zn || (zn = {}));
 
-    class Tn extends o {
+    class Wn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           anchorLock: "w:anchorLock",
@@ -10935,10 +11166,10 @@
 
     }
 
-    class An extends s {
+    class Gn extends s {
       constructor(e) {
         var t, r;
-        super("w:framePr"), this.root.push(new Tn({
+        super("w:framePr"), this.root.push(new Wn({
           anchorLock: e.anchorLock,
           dropCap: e.dropCap,
           width: e.width,
@@ -10959,22 +11190,22 @@
 
     }
 
-    class Sn extends i {
+    class Kn extends i {
       constructor(e) {
         var t, r;
         if (super("w:pPr"), this.numberingReferences = [], !e) return this;
-        e.heading && this.push(new wr(e.heading)), e.bullet && this.push(new wr("ListParagraph")), e.numbering && (e.style || e.heading || e.numbering.custom || this.push(new wr("ListParagraph"))), e.style && this.push(new wr(e.style)), void 0 !== e.keepNext && this.push(new I("w:keepNext", e.keepNext)), void 0 !== e.keepLines && this.push(new I("w:keepLines", e.keepLines)), e.pageBreakBefore && this.push(new dr()), e.frame && this.push(new An(e.frame)), void 0 !== e.widowControl && this.push(new I("w:widowControl", e.widowControl)), e.bullet && this.push(new xr(1, e.bullet.level)), e.numbering && (this.numberingReferences.push({
+        e.heading && this.push(new Ur(e.heading)), e.bullet && this.push(new Ur("ListParagraph")), e.numbering && (e.style || e.heading || e.numbering.custom || this.push(new Ur("ListParagraph"))), e.style && this.push(new Ur(e.style)), void 0 !== e.keepNext && this.push(new R("w:keepNext", e.keepNext)), void 0 !== e.keepLines && this.push(new R("w:keepLines", e.keepLines)), e.pageBreakBefore && this.push(new Fr()), e.frame && this.push(new Gn(e.frame)), void 0 !== e.widowControl && this.push(new R("w:widowControl", e.widowControl)), e.bullet && this.push(new Wr(1, e.bullet.level)), e.numbering && (this.numberingReferences.push({
           reference: e.numbering.reference,
           instance: null !== (t = e.numbering.instance) && void 0 !== t ? t : 0
-        }), this.push(new xr(`${e.numbering.reference}-${null !== (r = e.numbering.instance) && void 0 !== r ? r : 0}`, e.numbering.level))), e.border && this.push(new B(e.border)), e.thematicBreak && this.push(new M()), e.shading && this.push(new Y(e.shading)), e.wordWrap && this.push(new xn());
+        }), this.push(new Wr(`${e.numbering.reference}-${null !== (r = e.numbering.instance) && void 0 !== r ? r : 0}`, e.numbering.level))), e.border && this.push(new j(e.border)), e.thematicBreak && this.push(new z()), e.shading && this.push(new ee(e.shading)), e.wordWrap && this.push(new Un());
         const n = [...(e.rightTabStop ? [{
-          type: Ie.RIGHT,
+          type: yt.RIGHT,
           position: e.rightTabStop
         }] : []), ...(e.tabStops ? e.tabStops : []), ...(e.leftTabStop ? [{
-          type: Ie.LEFT,
+          type: yt.LEFT,
           position: e.leftTabStop
         }] : [])];
-        n.length > 0 && this.push(new gr(n)), void 0 !== e.bidirectional && this.push(new I("w:bidi", e.bidirectional)), e.spacing && this.push(new mr(e.spacing)), e.indent && this.push(new H(e.indent)), void 0 !== e.contextualSpacing && this.push(new I("w:contextualSpacing", e.contextualSpacing)), e.alignment && this.push(new D(e.alignment)), void 0 !== e.outlineLevel && this.push(new Dr(e.outlineLevel)), void 0 !== e.suppressLineNumbers && this.push(new I("w:suppressLineNumbers", e.suppressLineNumbers));
+        n.length > 0 && this.push(new Hr(n)), void 0 !== e.bidirectional && this.push(new R("w:bidi", e.bidirectional)), e.spacing && this.push(new Mr(e.spacing)), e.indent && this.push(new W(e.indent)), void 0 !== e.contextualSpacing && this.push(new R("w:contextualSpacing", e.contextualSpacing)), e.alignment && this.push(new M(e.alignment)), void 0 !== e.outlineLevel && this.push(new sn(e.outlineLevel)), void 0 !== e.suppressLineNumbers && this.push(new R("w:suppressLineNumbers", e.suppressLineNumbers)), void 0 !== e.autoSpaceEastAsianText && this.push(new R("w:autoSpaceDN", e.autoSpaceEastAsianText));
       }
 
       push(e) {
@@ -10982,16 +11213,16 @@
       }
 
       prepForXml(e) {
-        if (e.viewWrapper instanceof yn) for (const t of this.numberingReferences) e.file.Numbering.createConcreteNumberingInstance(t.reference, t.instance);
+        if (e.viewWrapper instanceof Bn) for (const t of this.numberingReferences) e.file.Numbering.createConcreteNumberingInstance(t.reference, t.instance);
         return super.prepForXml(e);
       }
 
     }
 
-    class In extends s {
+    class Vn extends Vr {
       constructor(e) {
-        if (super("w:p"), "string" == typeof e) return this.properties = new Sn({}), this.root.push(this.properties), this.root.push(new we(e)), this;
-        if (this.properties = new Sn(e), this.root.push(this.properties), e.text && this.root.push(new we(e.text)), e.children) for (const t of e.children) if (t instanceof Or) {
+        if (super("w:p"), "string" == typeof e) return this.properties = new Kn({}), this.root.push(this.properties), this.root.push(new be(e)), this;
+        if (this.properties = new Kn(e), this.root.push(this.properties), e.text && this.root.push(new be(e.text)), e.children) for (const t of e.children) if (t instanceof tn) {
           this.root.push(t.start);
 
           for (const e of t.children) this.root.push(e);
@@ -11001,10 +11232,10 @@
       }
 
       prepForXml(e) {
-        for (const t of this.root) if (t instanceof Rr) {
+        for (const t of this.root) if (t instanceof Jr) {
           const r = this.root.indexOf(t),
-                n = new Sr(t.options.children, (0, Ke.EL)());
-          e.viewWrapper.Relationships.createRelationship(n.linkId, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", t.options.link, Ce.EXTERNAL), this.root[r] = n;
+                n = new Zr(t.options.children, (0, Ae.EL)());
+          e.viewWrapper.Relationships.createRelationship(n.linkId, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", t.options.link, xt.EXTERNAL), this.root[r] = n;
         }
 
         return super.prepForXml(e);
@@ -11016,7 +11247,7 @@
 
     }
 
-    class Rn extends s {
+    class Xn extends s {
       constructor(e) {
         super("m:oMath");
 
@@ -11025,21 +11256,21 @@
 
     }
 
-    class Nn extends s {
+    class $n extends s {
       constructor(e) {
         super("m:t"), this.root.push(e);
       }
 
     }
 
-    class Cn extends s {
+    class qn extends s {
       constructor(e) {
-        super("m:r"), this.root.push(new Nn(e));
+        super("m:r"), this.root.push(new $n(e));
       }
 
     }
 
-    class On extends s {
+    class Zn extends s {
       constructor(e) {
         super("m:den");
 
@@ -11048,7 +11279,7 @@
 
     }
 
-    class kn extends s {
+    class Yn extends s {
       constructor(e) {
         super("m:num");
 
@@ -11057,14 +11288,14 @@
 
     }
 
-    class Ln extends s {
+    class Jn extends s {
       constructor(e) {
-        super("m:f"), this.root.push(new kn(e.numerator)), this.root.push(new On(e.denominator));
+        super("m:f"), this.root.push(new Yn(e.numerator)), this.root.push(new Zn(e.denominator));
       }
 
     }
 
-    class Dn extends o {
+    class Qn extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           accent: "m:val"
@@ -11073,16 +11304,16 @@
 
     }
 
-    class Pn extends s {
+    class es extends s {
       constructor(e) {
-        super("m:chr"), this.root.push(new Dn({
+        super("m:chr"), this.root.push(new Qn({
           accent: e
         }));
       }
 
     }
 
-    class Fn extends s {
+    class ts extends s {
       constructor(e) {
         super("m:e");
 
@@ -11091,7 +11322,7 @@
 
     }
 
-    class Bn extends o {
+    class rs extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           value: "m:val"
@@ -11100,151 +11331,11 @@
 
     }
 
-    class Mn extends s {
+    class ns extends s {
       constructor() {
-        super("m:limLoc"), this.root.push(new Bn({
+        super("m:limLoc"), this.root.push(new rs({
           value: "undOvr"
         }));
-      }
-
-    }
-
-    class Un extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          hide: "m:val"
-        };
-      }
-
-    }
-
-    class Hn extends s {
-      constructor() {
-        super("m:subHide"), this.root.push(new Un({
-          hide: 1
-        }));
-      }
-
-    }
-
-    class zn extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          hide: "m:val"
-        };
-      }
-
-    }
-
-    class jn extends s {
-      constructor() {
-        super("m:supHide"), this.root.push(new zn({
-          hide: 1
-        }));
-      }
-
-    }
-
-    class Wn extends s {
-      constructor(e, t, r) {
-        super("m:naryPr"), e && this.root.push(new Pn(e)), this.root.push(new Mn()), t || this.root.push(new jn()), r || this.root.push(new Hn());
-      }
-
-    }
-
-    class Kn extends s {
-      constructor(e) {
-        super("m:sub");
-
-        for (const t of e) this.root.push(t);
-      }
-
-    }
-
-    class Gn extends s {
-      constructor(e) {
-        super("m:sup");
-
-        for (const t of e) this.root.push(t);
-      }
-
-    }
-
-    class Vn extends s {
-      constructor(e) {
-        super("m:nary"), this.root.push(new Wn("∑", !!e.superScript, !!e.subScript)), e.subScript && this.root.push(new Kn(e.subScript)), e.superScript && this.root.push(new Gn(e.superScript)), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class $n extends s {
-      constructor(e) {
-        super("m:nary"), this.root.push(new Wn("", !!e.superScript, !!e.subScript)), e.subScript && this.root.push(new Kn(e.subScript)), e.superScript && this.root.push(new Gn(e.superScript)), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class Xn extends s {
-      constructor() {
-        super("m:sSupPr");
-      }
-
-    }
-
-    class qn extends s {
-      constructor(e) {
-        super("m:sSup"), this.root.push(new Xn()), this.root.push(new Fn(e.children)), this.root.push(new Gn(e.superScript));
-      }
-
-    }
-
-    class Zn extends s {
-      constructor() {
-        super("m:sSubPr");
-      }
-
-    }
-
-    class Yn extends s {
-      constructor(e) {
-        super("m:sSub"), this.root.push(new Zn()), this.root.push(new Fn(e.children)), this.root.push(new Kn(e.subScript));
-      }
-
-    }
-
-    class Jn extends s {
-      constructor() {
-        super("m:sSubSupPr");
-      }
-
-    }
-
-    class Qn extends s {
-      constructor(e) {
-        super("m:sSubSup"), this.root.push(new Jn()), this.root.push(new Fn(e.children)), this.root.push(new Kn(e.subScript)), this.root.push(new Gn(e.superScript));
-      }
-
-    }
-
-    class es extends s {
-      constructor() {
-        super("m:sPrePr");
-      }
-
-    }
-
-    class ts extends s {
-      constructor(e) {
-        super("m:sPre"), this.root.push(new es()), this.root.push(new Fn(e.children)), this.root.push(new Kn(e.subScript)), this.root.push(new Gn(e.superScript));
-      }
-
-    }
-
-    const rs = "";
-
-    class ns extends s {
-      constructor(e) {
-        if (super("m:deg"), e) for (const t of e) this.root.push(t);
       }
 
     }
@@ -11260,28 +11351,168 @@
 
     class is extends s {
       constructor() {
-        super("m:degHide"), this.root.push(new ss({
+        super("m:subHide"), this.root.push(new ss({
           hide: 1
         }));
       }
 
     }
 
-    class os extends s {
-      constructor(e) {
-        super("m:radPr"), e || this.root.push(new is());
+    class os extends o {
+      constructor() {
+        super(...arguments), this.xmlKeys = {
+          hide: "m:val"
+        };
       }
 
     }
 
     class as extends s {
-      constructor(e) {
-        super("m:rad"), this.root.push(new os(!!e.degree)), this.root.push(new ns(e.degree)), this.root.push(new Fn(e.children));
+      constructor() {
+        super("m:supHide"), this.root.push(new os({
+          hide: 1
+        }));
       }
 
     }
 
     class cs extends s {
+      constructor(e, t, r) {
+        super("m:naryPr"), e && this.root.push(new es(e)), this.root.push(new ns()), t || this.root.push(new as()), r || this.root.push(new is());
+      }
+
+    }
+
+    class us extends s {
+      constructor(e) {
+        super("m:sub");
+
+        for (const t of e) this.root.push(t);
+      }
+
+    }
+
+    class ls extends s {
+      constructor(e) {
+        super("m:sup");
+
+        for (const t of e) this.root.push(t);
+      }
+
+    }
+
+    class hs extends s {
+      constructor(e) {
+        super("m:nary"), this.root.push(new cs("∑", !!e.superScript, !!e.subScript)), e.subScript && this.root.push(new us(e.subScript)), e.superScript && this.root.push(new ls(e.superScript)), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class ps extends s {
+      constructor(e) {
+        super("m:nary"), this.root.push(new cs("", !!e.superScript, !!e.subScript)), e.subScript && this.root.push(new us(e.subScript)), e.superScript && this.root.push(new ls(e.superScript)), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class ds extends s {
+      constructor() {
+        super("m:sSupPr");
+      }
+
+    }
+
+    class fs extends s {
+      constructor(e) {
+        super("m:sSup"), this.root.push(new ds()), this.root.push(new ts(e.children)), this.root.push(new ls(e.superScript));
+      }
+
+    }
+
+    class ms extends s {
+      constructor() {
+        super("m:sSubPr");
+      }
+
+    }
+
+    class ws extends s {
+      constructor(e) {
+        super("m:sSub"), this.root.push(new ms()), this.root.push(new ts(e.children)), this.root.push(new us(e.subScript));
+      }
+
+    }
+
+    class gs extends s {
+      constructor() {
+        super("m:sSubSupPr");
+      }
+
+    }
+
+    class ys extends s {
+      constructor(e) {
+        super("m:sSubSup"), this.root.push(new gs()), this.root.push(new ts(e.children)), this.root.push(new us(e.subScript)), this.root.push(new ls(e.superScript));
+      }
+
+    }
+
+    class bs extends s {
+      constructor() {
+        super("m:sPrePr");
+      }
+
+    }
+
+    class vs extends s {
+      constructor(e) {
+        super("m:sPre"), this.root.push(new bs()), this.root.push(new ts(e.children)), this.root.push(new us(e.subScript)), this.root.push(new ls(e.superScript));
+      }
+
+    }
+
+    const xs = "";
+
+    class _s extends s {
+      constructor(e) {
+        if (super("m:deg"), e) for (const t of e) this.root.push(t);
+      }
+
+    }
+
+    class Es extends o {
+      constructor() {
+        super(...arguments), this.xmlKeys = {
+          hide: "m:val"
+        };
+      }
+
+    }
+
+    class Ts extends s {
+      constructor() {
+        super("m:degHide"), this.root.push(new Es({
+          hide: 1
+        }));
+      }
+
+    }
+
+    class As extends s {
+      constructor(e) {
+        super("m:radPr"), e || this.root.push(new Ts());
+      }
+
+    }
+
+    class Ss extends s {
+      constructor(e) {
+        super("m:rad"), this.root.push(new As(!!e.degree)), this.root.push(new _s(e.degree)), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class Is extends s {
       constructor(e) {
         super("m:fName");
 
@@ -11290,189 +11521,34 @@
 
     }
 
-    class us extends s {
+    class Ns extends s {
       constructor() {
         super("m:funcPr");
       }
 
     }
 
-    class ls extends s {
-      constructor(e) {
-        super("m:func"), this.root.push(new us()), this.root.push(new cs(e.name)), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class hs extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          character: "m:val"
-        };
-      }
-
-    }
-
-    class ps extends s {
-      constructor(e) {
-        super("m:begChr"), this.root.push(new hs({
-          character: e
-        }));
-      }
-
-    }
-
-    class ds extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          character: "m:val"
-        };
-      }
-
-    }
-
-    class fs extends s {
-      constructor(e) {
-        super("m:endChr"), this.root.push(new ds({
-          character: e
-        }));
-      }
-
-    }
-
-    class ms extends s {
-      constructor(e) {
-        super("m:dPr"), e && (this.root.push(new ps(e.beginningCharacter)), this.root.push(new fs(e.endingCharacter)));
-      }
-
-    }
-
-    class ws extends s {
-      constructor(e) {
-        super("m:d"), this.root.push(new ms()), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class gs extends s {
-      constructor(e) {
-        super("m:d"), this.root.push(new ms({
-          beginningCharacter: "[",
-          endingCharacter: "]"
-        })), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class ys extends s {
-      constructor(e) {
-        super("m:d"), this.root.push(new ms({
-          beginningCharacter: "{",
-          endingCharacter: "}"
-        })), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class bs extends s {
-      constructor(e) {
-        super("m:d"), this.root.push(new ms({
-          beginningCharacter: "〈",
-          endingCharacter: "〉"
-        })), this.root.push(new Fn(e.children));
-      }
-
-    }
-
-    class xs extends s {
-      constructor(e) {
-        super("w:tblGrid");
-
-        for (const t of e) this.root.push(new _s(t));
-      }
-
-    }
-
-    class vs extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          w: "w:w"
-        };
-      }
-
-    }
-
-    class _s extends s {
-      constructor(e) {
-        super("w:gridCol"), void 0 !== e && this.root.push(new vs({
-          w: (0, S.Jd)(e)
-        }));
-      }
-
-    }
-
-    var Es, Ts, As, Ss;
-    !function (e) {
-      e.AUTO = "auto", e.DXA = "dxa", e.NIL = "nil", e.PERCENTAGE = "pct";
-    }(Es || (Es = {}));
-
-    class Is extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          type: "w:type",
-          size: "w:w"
-        };
-      }
-
-    }
-
     class Rs extends s {
-      constructor(e, {
-        type: t = Es.AUTO,
-        size: r
-      }) {
-        super(e);
-        let n = r;
-        t === Es.PERCENTAGE && "number" == typeof r && (n = `${r}%`), this.root.push(new Is({
-          type: t,
-          size: (0, S.aB)(n)
-        }));
-      }
-
-    }
-
-    !function (e) {
-      e.TABLE = "w:tblCellMar", e.TABLE_CELL = "w:tcMar";
-    }(Ts || (Ts = {}));
-
-    class Ns extends i {
-      constructor(e, {
-        marginUnitType: t = Es.DXA,
-        top: r,
-        left: n,
-        bottom: s,
-        right: i
-      }) {
-        super(e), void 0 !== r && this.root.push(new Rs("w:top", {
-          type: t,
-          size: r
-        })), void 0 !== n && this.root.push(new Rs("w:left", {
-          type: t,
-          size: n
-        })), void 0 !== s && this.root.push(new Rs("w:bottom", {
-          type: t,
-          size: s
-        })), void 0 !== i && this.root.push(new Rs("w:right", {
-          type: t,
-          size: i
-        }));
-      }
-
-    }
-
-    class Cs extends i {
       constructor(e) {
-        super("w:tcBorders"), e.top && this.root.push(new P("w:top", e.top)), e.start && this.root.push(new P("w:start", e.start)), e.left && this.root.push(new P("w:left", e.left)), e.bottom && this.root.push(new P("w:bottom", e.bottom)), e.end && this.root.push(new P("w:end", e.end)), e.right && this.root.push(new P("w:right", e.right));
+        super("m:func"), this.root.push(new Ns()), this.root.push(new Is(e.name)), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class ks extends o {
+      constructor() {
+        super(...arguments), this.xmlKeys = {
+          character: "m:val"
+        };
+      }
+
+    }
+
+    class Cs extends s {
+      constructor(e) {
+        super("m:begChr"), this.root.push(new ks({
+          character: e
+        }));
       }
 
     }
@@ -11480,26 +11556,149 @@
     class Os extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
-          val: "w:val"
+          character: "m:val"
         };
       }
 
     }
 
-    class ks extends s {
+    class Ls extends s {
       constructor(e) {
-        super("w:gridSpan"), this.root.push(new Os({
-          val: (0, S.vH)(e)
+        super("m:endChr"), this.root.push(new Os({
+          character: e
+        }));
+      }
+
+    }
+
+    class Ds extends s {
+      constructor(e) {
+        super("m:dPr"), e && (this.root.push(new Cs(e.beginningCharacter)), this.root.push(new Ls(e.endingCharacter)));
+      }
+
+    }
+
+    class Ps extends s {
+      constructor(e) {
+        super("m:d"), this.root.push(new Ds()), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class Fs extends s {
+      constructor(e) {
+        super("m:d"), this.root.push(new Ds({
+          beginningCharacter: "[",
+          endingCharacter: "]"
+        })), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class Bs extends s {
+      constructor(e) {
+        super("m:d"), this.root.push(new Ds({
+          beginningCharacter: "{",
+          endingCharacter: "}"
+        })), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class Ms extends s {
+      constructor(e) {
+        super("m:d"), this.root.push(new Ds({
+          beginningCharacter: "〈",
+          endingCharacter: "〉"
+        })), this.root.push(new ts(e.children));
+      }
+
+    }
+
+    class Us extends s {
+      constructor(e) {
+        super("w:tblGrid");
+
+        for (const t of e) this.root.push(new Hs(t));
+      }
+
+    }
+
+    class Hs extends s {
+      constructor(e) {
+        super("w:gridCol"), void 0 !== e && this.root.push(new a({
+          width: {
+            key: "w:w",
+            value: (0, N.Jd)(e)
+          }
+        }));
+      }
+
+    }
+
+    var js, zs, Ws, Gs;
+    !function (e) {
+      e.AUTO = "auto", e.DXA = "dxa", e.NIL = "nil", e.PERCENTAGE = "pct";
+    }(js || (js = {}));
+
+    class Ks extends s {
+      constructor(e, {
+        type: t = js.AUTO,
+        size: r
+      }) {
+        super(e);
+        let n = r;
+        t === js.PERCENTAGE && "number" == typeof r && (n = `${r}%`), this.root.push(new a({
+          type: {
+            key: "w:type",
+            value: t
+          },
+          size: {
+            key: "w:w",
+            value: (0, N.aB)(n)
+          }
         }));
       }
 
     }
 
     !function (e) {
-      e.CONTINUE = "continue", e.RESTART = "restart";
-    }(As || (As = {}));
+      e.TABLE = "w:tblCellMar", e.TABLE_CELL = "w:tcMar";
+    }(zs || (zs = {}));
 
-    class Ls extends o {
+    class Vs extends i {
+      constructor(e, {
+        marginUnitType: t = js.DXA,
+        top: r,
+        left: n,
+        bottom: s,
+        right: i
+      }) {
+        super(e), void 0 !== r && this.root.push(new Ks("w:top", {
+          type: t,
+          size: r
+        })), void 0 !== n && this.root.push(new Ks("w:left", {
+          type: t,
+          size: n
+        })), void 0 !== s && this.root.push(new Ks("w:bottom", {
+          type: t,
+          size: s
+        })), void 0 !== i && this.root.push(new Ks("w:right", {
+          type: t,
+          size: i
+        }));
+      }
+
+    }
+
+    class Xs extends i {
+      constructor(e) {
+        super("w:tcBorders"), e.top && this.root.push(new U("w:top", e.top)), e.start && this.root.push(new U("w:start", e.start)), e.left && this.root.push(new U("w:left", e.left)), e.bottom && this.root.push(new U("w:bottom", e.bottom)), e.end && this.root.push(new U("w:end", e.end)), e.right && this.root.push(new U("w:right", e.right));
+      }
+
+    }
+
+    class $s extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -11508,9 +11707,31 @@
 
     }
 
-    class Ds extends s {
+    class qs extends s {
       constructor(e) {
-        super("w:vMerge"), this.root.push(new Ls({
+        super("w:gridSpan"), this.root.push(new $s({
+          val: (0, N.vH)(e)
+        }));
+      }
+
+    }
+
+    !function (e) {
+      e.CONTINUE = "continue", e.RESTART = "restart";
+    }(Ws || (Ws = {}));
+
+    class Zs extends o {
+      constructor() {
+        super(...arguments), this.xmlKeys = {
+          val: "w:val"
+        };
+      }
+
+    }
+
+    class Ys extends s {
+      constructor(e) {
+        super("w:vMerge"), this.root.push(new Zs({
           val: e
         }));
       }
@@ -11519,9 +11740,9 @@
 
     !function (e) {
       e.BOTTOM_TO_TOP_LEFT_TO_RIGHT = "btLr", e.LEFT_TO_RIGHT_TOP_TO_BOTTOM = "lrTb", e.TOP_TO_BOTTOM_RIGHT_TO_LEFT = "tbRl";
-    }(Ss || (Ss = {}));
+    }(Gs || (Gs = {}));
 
-    class Ps extends o {
+    class Js extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -11530,131 +11751,136 @@
 
     }
 
-    class Fs extends s {
+    class Qs extends s {
       constructor(e) {
-        super("w:textDirection"), this.root.push(new Ps({
+        super("w:textDirection"), this.root.push(new Js({
           val: e
         }));
       }
 
     }
 
-    class Bs extends i {
+    class ei extends i {
       constructor(e) {
-        super("w:tcPr"), e.width && this.root.push(new Rs("w:tcW", e.width)), e.columnSpan && this.root.push(new ks(e.columnSpan)), e.verticalMerge ? this.root.push(new Ds(e.verticalMerge)) : e.rowSpan && e.rowSpan > 1 && this.root.push(new Ds(As.RESTART)), e.borders && this.root.push(new Cs(e.borders)), e.shading && this.root.push(new Y(e.shading)), e.margins && this.root.push(new Ns(Ts.TABLE_CELL, e.margins)), e.textDirection && this.root.push(new Fs(e.textDirection)), e.verticalAlign && this.root.push(new Mr(e.verticalAlign));
+        super("w:tcPr"), e.width && this.root.push(new Ks("w:tcW", e.width)), e.columnSpan && this.root.push(new qs(e.columnSpan)), e.verticalMerge ? this.root.push(new Ys(e.verticalMerge)) : e.rowSpan && e.rowSpan > 1 && this.root.push(new Ys(Ws.RESTART)), e.borders && this.root.push(new Xs(e.borders)), e.shading && this.root.push(new ee(e.shading)), e.margins && this.root.push(new Vs(zs.TABLE_CELL, e.margins)), e.textDirection && this.root.push(new Qs(e.textDirection)), e.verticalAlign && this.root.push(new un(e.verticalAlign));
       }
 
     }
 
-    class Ms extends s {
+    class ti extends s {
       constructor(e) {
-        super("w:tc"), this.options = e, this.root.push(new Bs(e));
+        super("w:tc"), this.options = e, this.root.push(new ei(e));
 
         for (const t of e.children) this.root.push(t);
       }
 
       prepForXml(e) {
-        return this.root[this.root.length - 1] instanceof In || this.root.push(new In({})), super.prepForXml(e);
+        return this.root[this.root.length - 1] instanceof Vn || this.root.push(new Vn({})), super.prepForXml(e);
       }
 
     }
 
-    const Us = {
-      style: w.NONE,
+    const ri = {
+      style: g.NONE,
       size: 0,
       color: "auto"
     },
-          Hs = {
-      style: w.SINGLE,
+          ni = {
+      style: g.SINGLE,
       size: 4,
       color: "auto"
     };
 
-    class zs extends s {
+    class si extends s {
       constructor(e) {
-        super("w:tblBorders"), e.top ? this.root.push(new P("w:top", e.top)) : this.root.push(new P("w:top", Hs)), e.left ? this.root.push(new P("w:left", e.left)) : this.root.push(new P("w:left", Hs)), e.bottom ? this.root.push(new P("w:bottom", e.bottom)) : this.root.push(new P("w:bottom", Hs)), e.right ? this.root.push(new P("w:right", e.right)) : this.root.push(new P("w:right", Hs)), e.insideHorizontal ? this.root.push(new P("w:insideH", e.insideHorizontal)) : this.root.push(new P("w:insideH", Hs)), e.insideVertical ? this.root.push(new P("w:insideV", e.insideVertical)) : this.root.push(new P("w:insideV", Hs));
+        super("w:tblBorders"), e.top ? this.root.push(new U("w:top", e.top)) : this.root.push(new U("w:top", ni)), e.left ? this.root.push(new U("w:left", e.left)) : this.root.push(new U("w:left", ni)), e.bottom ? this.root.push(new U("w:bottom", e.bottom)) : this.root.push(new U("w:bottom", ni)), e.right ? this.root.push(new U("w:right", e.right)) : this.root.push(new U("w:right", ni)), e.insideHorizontal ? this.root.push(new U("w:insideH", e.insideHorizontal)) : this.root.push(new U("w:insideH", ni)), e.insideVertical ? this.root.push(new U("w:insideV", e.insideVertical)) : this.root.push(new U("w:insideV", ni));
       }
 
     }
 
-    zs.NONE = {
-      top: Us,
-      bottom: Us,
-      left: Us,
-      right: Us,
-      insideHorizontal: Us,
-      insideVertical: Us
-    };
-    var js, Ws, Ks, Gs, Vs, $s, Xs;
-    !function (e) {
+    var ii, oi, ai, ci, ui, li, hi, pi, di;
+    si.NONE = {
+      top: ri,
+      bottom: ri,
+      left: ri,
+      right: ri,
+      insideHorizontal: ri,
+      insideVertical: ri
+    }, function (e) {
       e.MARGIN = "margin", e.PAGE = "page", e.TEXT = "text";
-    }(js || (js = {})), function (e) {
+    }(ii || (ii = {})), function (e) {
       e.CENTER = "center", e.INSIDE = "inside", e.LEFT = "left", e.OUTSIDE = "outside", e.RIGHT = "right";
-    }(Ws || (Ws = {})), function (e) {
+    }(oi || (oi = {})), function (e) {
       e.CENTER = "center", e.INSIDE = "inside", e.BOTTOM = "bottom", e.OUTSIDE = "outside", e.INLINE = "inline", e.TOP = "top";
-    }(Ks || (Ks = {})), function (e) {
+    }(ai || (ai = {})), function (e) {
       e.NEVER = "never", e.OVERLAP = "overlap";
-    }(Gs || (Gs = {}));
+    }(ci || (ci = {}));
 
-    class qs extends o {
-      constructor() {
-        super(...arguments), this.xmlKeys = {
-          horizontalAnchor: "w:horzAnchor",
-          verticalAnchor: "w:vertAnchor",
-          absoluteHorizontalPosition: "w:tblpX",
-          relativeHorizontalPosition: "w:tblpXSpec",
-          absoluteVerticalPosition: "w:tblpY",
-          relativeVerticalPosition: "w:tblpYSpec",
-          bottomFromText: "w:bottomFromText",
-          topFromText: "w:topFromText",
-          leftFromText: "w:leftFromText",
-          rightFromText: "w:rightFromText"
-        };
-      }
-
-    }
-
-    class Zs extends s {
-      constructor(e) {
-        var {
-          leftFromText: t,
-          rightFromText: r,
-          topFromText: n,
-          bottomFromText: s,
-          absoluteHorizontalPosition: i,
-          absoluteVerticalPosition: o
-        } = e,
-            a = function (e, t) {
-          var r = {};
-
-          for (var n in e) Object.prototype.hasOwnProperty.call(e, n) && t.indexOf(n) < 0 && (r[n] = e[n]);
-
-          if (null != e && "function" == typeof Object.getOwnPropertySymbols) {
-            var s = 0;
-
-            for (n = Object.getOwnPropertySymbols(e); s < n.length; s++) t.indexOf(n[s]) < 0 && Object.prototype.propertyIsEnumerable.call(e, n[s]) && (r[n[s]] = e[n[s]]);
+    class fi extends s {
+      constructor({
+        horizontalAnchor: e,
+        verticalAnchor: t,
+        absoluteHorizontalPosition: r,
+        relativeHorizontalPosition: n,
+        absoluteVerticalPosition: s,
+        relativeVerticalPosition: i,
+        bottomFromText: o,
+        topFromText: c,
+        leftFromText: u,
+        rightFromText: l,
+        overlap: h
+      }) {
+        super("w:tblpPr"), this.root.push(new a({
+          leftFromText: {
+            key: "w:leftFromText",
+            value: void 0 === u ? void 0 : (0, N.Jd)(u)
+          },
+          rightFromText: {
+            key: "w:rightFromText",
+            value: void 0 === l ? void 0 : (0, N.Jd)(l)
+          },
+          topFromText: {
+            key: "w:topFromText",
+            value: void 0 === c ? void 0 : (0, N.Jd)(c)
+          },
+          bottomFromText: {
+            key: "w:bottomFromText",
+            value: void 0 === o ? void 0 : (0, N.Jd)(o)
+          },
+          absoluteHorizontalPosition: {
+            key: "w:tblpX",
+            value: void 0 === r ? void 0 : (0, N.xb)(r)
+          },
+          absoluteVerticalPosition: {
+            key: "w:tblpY",
+            value: void 0 === s ? void 0 : (0, N.xb)(s)
+          },
+          horizontalAnchor: {
+            key: "w:horzAnchor",
+            value: void 0 === e ? void 0 : e
+          },
+          relativeHorizontalPosition: {
+            key: "w:tblpXSpec",
+            value: n
+          },
+          relativeVerticalPosition: {
+            key: "w:tblpYSpec",
+            value: i
+          },
+          verticalAnchor: {
+            key: "w:vertAnchor",
+            value: t
           }
-
-          return r;
-        }(e, ["leftFromText", "rightFromText", "topFromText", "bottomFromText", "absoluteHorizontalPosition", "absoluteVerticalPosition"]);
-
-        super("w:tblpPr"), this.root.push(new qs(Object.assign({
-          leftFromText: void 0 === t ? void 0 : (0, S.Jd)(t),
-          rightFromText: void 0 === r ? void 0 : (0, S.Jd)(r),
-          topFromText: void 0 === n ? void 0 : (0, S.Jd)(n),
-          bottomFromText: void 0 === s ? void 0 : (0, S.Jd)(s),
-          absoluteHorizontalPosition: void 0 === i ? void 0 : (0, S.xb)(i),
-          absoluteVerticalPosition: void 0 === o ? void 0 : (0, S.xb)(o)
-        }, a))), a.overlap && this.root.push(new O("w:tblOverlap", a.overlap));
+        })), h && this.root.push(new D("w:tblOverlap", h));
       }
 
     }
 
     !function (e) {
       e.AUTOFIT = "autofit", e.FIXED = "fixed";
-    }(Vs || (Vs = {}));
+    }(ui || (ui = {}));
 
-    class Ys extends o {
+    class mi extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:type"
@@ -11663,23 +11889,23 @@
 
     }
 
-    class Js extends s {
+    class wi extends s {
       constructor(e) {
-        super("w:tblLayout"), this.root.push(new Ys({
+        super("w:tblLayout"), this.root.push(new mi({
           type: e
         }));
       }
 
     }
 
-    class Qs extends i {
+    class gi extends i {
       constructor(e) {
-        super("w:tblPr"), e.style && this.root.push(new N("w:tblStyle", e.style)), e.float && this.root.push(new Zs(e.float)), void 0 !== e.visuallyRightToLeft && this.root.push(new I("w:bidiVisual", e.visuallyRightToLeft)), e.width && this.root.push(new Rs("w:tblW", e.width)), e.alignment && this.root.push(new D(e.alignment)), e.indent && this.root.push(new Rs("w:tblInd", e.indent)), e.borders && this.root.push(new zs(e.borders)), e.shading && this.root.push(new Y(e.shading)), e.layout && this.root.push(new Js(e.layout)), e.cellMargin && this.root.push(new Ns(Ts.TABLE, e.cellMargin));
+        super("w:tblPr"), e.style && this.root.push(new O("w:tblStyle", e.style)), e.float && this.root.push(new fi(e.float)), void 0 !== e.visuallyRightToLeft && this.root.push(new R("w:bidiVisual", e.visuallyRightToLeft)), e.width && this.root.push(new Ks("w:tblW", e.width)), e.alignment && this.root.push(new M(e.alignment)), e.indent && this.root.push(new Ks("w:tblInd", e.indent)), e.borders && this.root.push(new si(e.borders)), e.shading && this.root.push(new ee(e.shading)), e.layout && this.root.push(new wi(e.layout)), e.cellMargin && this.root.push(new Vs(zs.TABLE, e.cellMargin));
       }
 
     }
 
-    class ei extends s {
+    class yi extends Vr {
       constructor({
         rows: e,
         width: t,
@@ -11693,7 +11919,7 @@
         alignment: u,
         visuallyRightToLeft: l
       }) {
-        super("w:tbl"), this.root.push(new Qs({
+        super("w:tbl"), this.root.push(new gi({
           borders: null != c ? c : {},
           width: null != t ? t : {
             size: 100
@@ -11705,7 +11931,7 @@
           alignment: u,
           cellMargin: n,
           visuallyRightToLeft: l
-        })), this.root.push(new xs(r));
+        })), this.root.push(new Us(r));
 
         for (const t of e) this.root.push(t);
 
@@ -11714,12 +11940,12 @@
           let n = 0;
           t.cells.forEach(t => {
             if (t.options.rowSpan && t.options.rowSpan > 1) {
-              const s = new Ms({
+              const s = new ti({
                 rowSpan: t.options.rowSpan - 1,
                 columnSpan: t.options.columnSpan,
                 borders: t.options.borders,
                 children: [],
-                verticalMerge: As.CONTINUE
+                verticalMerge: Ws.CONTINUE
               });
               e[r + 1].addCellToColumnIndex(s, n);
             }
@@ -11733,9 +11959,9 @@
 
     !function (e) {
       e.AUTO = "auto", e.ATLEAST = "atLeast", e.EXACT = "exact";
-    }($s || ($s = {}));
+    }(li || (li = {}));
 
-    class ti extends o {
+    class bi extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           value: "w:val",
@@ -11745,26 +11971,26 @@
 
     }
 
-    class ri extends s {
+    class vi extends s {
       constructor(e, t) {
-        super("w:trHeight"), this.root.push(new ti({
-          value: (0, S.Jd)(e),
+        super("w:trHeight"), this.root.push(new bi({
+          value: (0, N.Jd)(e),
           rule: t
         }));
       }
 
     }
 
-    class ni extends i {
+    class xi extends i {
       constructor(e) {
-        super("w:trPr"), void 0 !== e.cantSplit && this.root.push(new I("w:cantSplit", e.cantSplit)), void 0 !== e.tableHeader && this.root.push(new I("w:tblHeader", e.tableHeader)), e.height && this.root.push(new ri(e.height.value, e.height.rule));
+        super("w:trPr"), void 0 !== e.cantSplit && this.root.push(new R("w:cantSplit", e.cantSplit)), void 0 !== e.tableHeader && this.root.push(new R("w:tblHeader", e.tableHeader)), e.height && this.root.push(new vi(e.height.value, e.height.rule));
       }
 
     }
 
-    class si extends s {
+    class _i extends s {
       constructor(e) {
-        super("w:tr"), this.options = e, this.root.push(new ni(e));
+        super("w:tr"), this.options = e, this.root.push(new xi(e));
 
         for (const t of e.children) this.root.push(t);
       }
@@ -11774,7 +12000,7 @@
       }
 
       get cells() {
-        return this.root.filter(e => e instanceof Ms);
+        return this.root.filter(e => e instanceof ti);
       }
 
       addCellToIndex(e, t) {
@@ -11815,7 +12041,7 @@
 
     }
 
-    class ii extends o {
+    class Ei extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns",
@@ -11825,9 +12051,9 @@
 
     }
 
-    class oi extends s {
+    class Ti extends s {
       constructor() {
-        super("Properties"), this.root.push(new ii({
+        super("Properties"), this.root.push(new Ei({
           xmlns: "http://schemas.openxmlformats.org/officeDocument/2006/extended-properties",
           vt: "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"
         }));
@@ -11835,7 +12061,7 @@
 
     }
 
-    class ai extends o {
+    class Ai extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns"
@@ -11844,7 +12070,7 @@
 
     }
 
-    class ci extends o {
+    class Si extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           contentType: "ContentType",
@@ -11854,9 +12080,9 @@
 
     }
 
-    class ui extends s {
+    class Ii extends s {
       constructor(e, t) {
-        super("Default"), this.root.push(new ci({
+        super("Default"), this.root.push(new Si({
           contentType: e,
           extension: t
         }));
@@ -11864,7 +12090,7 @@
 
     }
 
-    class li extends o {
+    class Ni extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           contentType: "ContentType",
@@ -11874,9 +12100,9 @@
 
     }
 
-    class hi extends s {
+    class Ri extends s {
       constructor(e, t) {
-        super("Override"), this.root.push(new li({
+        super("Override"), this.root.push(new Ni({
           contentType: e,
           partName: t
         }));
@@ -11884,46 +12110,46 @@
 
     }
 
-    class pi extends s {
+    class ki extends s {
       constructor() {
-        super("Types"), this.root.push(new ai({
+        super("Types"), this.root.push(new Ai({
           xmlns: "http://schemas.openxmlformats.org/package/2006/content-types"
-        })), this.root.push(new ui("image/png", "png")), this.root.push(new ui("image/jpeg", "jpeg")), this.root.push(new ui("image/jpeg", "jpg")), this.root.push(new ui("image/bmp", "bmp")), this.root.push(new ui("image/gif", "gif")), this.root.push(new ui("application/vnd.openxmlformats-package.relationships+xml", "rels")), this.root.push(new ui("application/xml", "xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml", "/word/document.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml", "/word/styles.xml")), this.root.push(new hi("application/vnd.openxmlformats-package.core-properties+xml", "/docProps/core.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.custom-properties+xml", "/docProps/custom.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.extended-properties+xml", "/docProps/app.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml", "/word/numbering.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml", "/word/footnotes.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml", "/word/settings.xml")), this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml", "/word/comments.xml"));
+        })), this.root.push(new Ii("image/png", "png")), this.root.push(new Ii("image/jpeg", "jpeg")), this.root.push(new Ii("image/jpeg", "jpg")), this.root.push(new Ii("image/bmp", "bmp")), this.root.push(new Ii("image/gif", "gif")), this.root.push(new Ii("application/vnd.openxmlformats-package.relationships+xml", "rels")), this.root.push(new Ii("application/xml", "xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml", "/word/document.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml", "/word/styles.xml")), this.root.push(new Ri("application/vnd.openxmlformats-package.core-properties+xml", "/docProps/core.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.custom-properties+xml", "/docProps/custom.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.extended-properties+xml", "/docProps/app.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml", "/word/numbering.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml", "/word/footnotes.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml", "/word/settings.xml")), this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml", "/word/comments.xml"));
       }
 
       addFooter(e) {
-        this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml", `/word/footer${e}.xml`));
+        this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml", `/word/footer${e}.xml`));
       }
 
       addHeader(e) {
-        this.root.push(new hi("application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml", `/word/header${e}.xml`));
+        this.root.push(new Ri("application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml", `/word/header${e}.xml`));
       }
 
     }
 
-    class di extends s {
+    class Ci extends s {
       constructor(e) {
-        super("cp:coreProperties"), this.root.push(new pn({
+        super("cp:coreProperties"), this.root.push(new Cn({
           cp: "http://schemas.openxmlformats.org/package/2006/metadata/core-properties",
           dc: "http://purl.org/dc/elements/1.1/",
           dcterms: "http://purl.org/dc/terms/",
           dcmitype: "http://purl.org/dc/dcmitype/",
           xsi: "http://www.w3.org/2001/XMLSchema-instance"
-        })), e.title && this.root.push(new k("dc:title", e.title)), e.subject && this.root.push(new k("dc:subject", e.subject)), e.creator && this.root.push(new k("dc:creator", e.creator)), e.keywords && this.root.push(new k("cp:keywords", e.keywords)), e.description && this.root.push(new k("dc:description", e.description)), e.lastModifiedBy && this.root.push(new k("cp:lastModifiedBy", e.lastModifiedBy)), e.revision && this.root.push(new k("cp:revision", String(e.revision))), this.root.push(new fi("dcterms:created")), this.root.push(new fi("dcterms:modified"));
+        })), e.title && this.root.push(new P("dc:title", e.title)), e.subject && this.root.push(new P("dc:subject", e.subject)), e.creator && this.root.push(new P("dc:creator", e.creator)), e.keywords && this.root.push(new P("cp:keywords", e.keywords)), e.description && this.root.push(new P("dc:description", e.description)), e.lastModifiedBy && this.root.push(new P("cp:lastModifiedBy", e.lastModifiedBy)), e.revision && this.root.push(new P("cp:revision", String(e.revision))), this.root.push(new Oi("dcterms:created")), this.root.push(new Oi("dcterms:modified"));
       }
 
     }
 
-    class fi extends s {
+    class Oi extends s {
       constructor(e) {
-        super(e), this.root.push(new pn({
+        super(e), this.root.push(new Cn({
           type: "dcterms:W3CDTF"
-        })), this.root.push((0, S.sF)(new Date()));
+        })), this.root.push((0, N.sF)(new Date()));
       }
 
     }
 
-    class mi extends o {
+    class Li extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           xmlns: "xmlns",
@@ -11933,7 +12159,7 @@
 
     }
 
-    class wi extends o {
+    class Di extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           fmtid: "fmtid",
@@ -11944,27 +12170,27 @@
 
     }
 
-    class gi extends s {
+    class Pi extends s {
       constructor(e, t) {
-        super("property"), this.root.push(new wi({
+        super("property"), this.root.push(new Di({
           fmtid: "{D5CDD505-2E9C-101B-9397-08002B2CF9AE}",
           pid: e.toString(),
           name: t.name
-        })), this.root.push(new yi(t.value));
+        })), this.root.push(new Fi(t.value));
       }
 
     }
 
-    class yi extends s {
+    class Fi extends s {
       constructor(e) {
         super("vt:lpwstr"), this.root.push(e);
       }
 
     }
 
-    class bi extends s {
+    class Bi extends s {
       constructor(e) {
-        super("Properties"), this.properties = [], this.root.push(new mi({
+        super("Properties"), this.properties = [], this.root.push(new Li({
           xmlns: "http://schemas.openxmlformats.org/officeDocument/2006/custom-properties",
           vt: "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"
         })), this.nextId = 2;
@@ -11977,12 +12203,12 @@
       }
 
       addCustomProperty(e) {
-        this.properties.push(new gi(this.nextId++, e));
+        this.properties.push(new Pi(this.nextId++, e));
       }
 
     }
 
-    class xi extends o {
+    class Mi extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           wpc: "xmlns:wpc",
@@ -12012,9 +12238,9 @@
 
     }
 
-    class vi extends f {
+    class Ui extends m {
       constructor(e, t) {
-        super("w:ftr", t), this.refId = e, t || this.root.push(new xi({
+        super("w:ftr", t), this.refId = e, t || this.root.push(new Mi({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -12044,9 +12270,9 @@
 
     }
 
-    class _i {
+    class Hi {
       constructor(e, t, r) {
-        this.media = e, this.footer = new vi(t, r), this.relationships = new gn();
+        this.media = e, this.footer = new Ui(t, r), this.relationships = new Fn();
       }
 
       add(e) {
@@ -12071,7 +12297,7 @@
 
     }
 
-    class Ei extends o {
+    class ji extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:type",
@@ -12081,70 +12307,70 @@
 
     }
 
-    class Ti extends s {
+    class zi extends s {
       constructor() {
         super("w:footnoteRef");
       }
 
     }
 
-    class Ai extends me {
+    class Wi extends ye {
       constructor() {
         super({
           style: "FootnoteReference"
-        }), this.root.push(new Ti());
+        }), this.root.push(new zi());
       }
 
     }
 
     !function (e) {
       e.SEPERATOR = "separator", e.CONTINUATION_SEPERATOR = "continuationSeparator";
-    }(Xs || (Xs = {}));
+    }(hi || (hi = {}));
 
-    class Si extends s {
+    class Gi extends s {
       constructor(e) {
-        super("w:footnote"), this.root.push(new Ei({
+        super("w:footnote"), this.root.push(new ji({
           type: e.type,
           id: e.id
         }));
 
         for (let t = 0; t < e.children.length; t++) {
           const r = e.children[t];
-          0 === t && r.addRunToFront(new Ai()), this.root.push(r);
+          0 === t && r.addRunToFront(new Wi()), this.root.push(r);
         }
       }
 
     }
 
-    class Ii extends s {
+    class Ki extends s {
       constructor() {
         super("w:continuationSeparator");
       }
 
     }
 
-    class Ri extends me {
+    class Vi extends ye {
       constructor() {
-        super({}), this.root.push(new Ii());
+        super({}), this.root.push(new Ki());
       }
 
     }
 
-    class Ni extends s {
+    class Xi extends s {
       constructor() {
         super("w:separator");
       }
 
     }
 
-    class Ci extends me {
+    class $i extends ye {
       constructor() {
-        super({}), this.root.push(new Ni());
+        super({}), this.root.push(new Xi());
       }
 
     }
 
-    class Oi extends o {
+    class qi extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           wpc: "xmlns:wpc",
@@ -12169,9 +12395,9 @@
 
     }
 
-    class ki extends s {
+    class Zi extends s {
       constructor() {
-        super("w:footnotes"), this.root.push(new Oi({
+        super("w:footnotes"), this.root.push(new qi({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -12190,36 +12416,36 @@
           wps: "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
           Ignorable: "w14 w15 wp14"
         }));
-        const e = new Si({
+        const e = new Gi({
           id: -1,
-          type: Xs.SEPERATOR,
-          children: [new In({
+          type: hi.SEPERATOR,
+          children: [new Vn({
             spacing: {
               after: 0,
               line: 240,
-              lineRule: Ae.AUTO
+              lineRule: wt.AUTO
             },
-            children: [new Ci()]
+            children: [new $i()]
           })]
         });
         this.root.push(e);
-        const t = new Si({
+        const t = new Gi({
           id: 0,
-          type: Xs.CONTINUATION_SEPERATOR,
-          children: [new In({
+          type: hi.CONTINUATION_SEPERATOR,
+          children: [new Vn({
             spacing: {
               after: 0,
               line: 240,
-              lineRule: Ae.AUTO
+              lineRule: wt.AUTO
             },
-            children: [new Ri()]
+            children: [new Vi()]
           })]
         });
         this.root.push(t);
       }
 
       createFootNote(e, t) {
-        const r = new Si({
+        const r = new Gi({
           id: e,
           children: t
         });
@@ -12228,9 +12454,9 @@
 
     }
 
-    class Li {
+    class Yi {
       constructor() {
-        this.footnotess = new ki(), this.relationships = new gn();
+        this.footnotess = new Zi(), this.relationships = new Fn();
       }
 
       get View() {
@@ -12243,7 +12469,7 @@
 
     }
 
-    class Di extends o {
+    class Ji extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           wpc: "xmlns:wpc",
@@ -12284,9 +12510,9 @@
 
     }
 
-    class Pi extends f {
+    class Qi extends m {
       constructor(e, t) {
-        super("w:hdr", t), this.refId = e, t || this.root.push(new Di({
+        super("w:hdr", t), this.refId = e, t || this.root.push(new Ji({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -12327,9 +12553,9 @@
 
     }
 
-    class Fi {
+    class eo {
       constructor(e, t, r) {
-        this.media = e, this.header = new Pi(t, r), this.relationships = new gn();
+        this.media = e, this.header = new Qi(t, r), this.relationships = new Fn();
       }
 
       add(e) {
@@ -12354,30 +12580,9 @@
 
     }
 
-    class Bi {
+    class to {
       constructor() {
         this.map = new Map();
-      }
-
-      addMedia(e, t) {
-        const r = `${(0, Ke.EL)()}.png`,
-              n = {
-          stream: "string" == typeof e ? this.convertDataURIToBinary(e) : e,
-          fileName: r,
-          transformation: {
-            pixels: {
-              x: Math.round(t.width),
-              y: Math.round(t.height)
-            },
-            emus: {
-              x: Math.round(9525 * t.width),
-              y: Math.round(9525 * t.height)
-            },
-            flip: t.flip,
-            rotation: t.rotation ? 6e4 * t.rotation : void 0
-          }
-        };
-        return this.map.set(r, n), n;
       }
 
       addImage(e, t) {
@@ -12388,21 +12593,13 @@
         return Array.from(this.map.values());
       }
 
-      convertDataURIToBinary(e) {
-        const t = ";base64,",
-              n = e.indexOf(t) + t.length;
-        return "function" == typeof atob ? new Uint8Array(atob(e.substring(n)).split("").map(e => e.charCodeAt(0))) : new (r(8764).Buffer)(e, "base64");
-      }
-
     }
 
-    const Mi = "";
-    var Ui, Hi;
     !function (e) {
       e.DECIMAL = "decimal", e.UPPER_ROMAN = "upperRoman", e.LOWER_ROMAN = "lowerRoman", e.UPPER_LETTER = "upperLetter", e.LOWER_LETTER = "lowerLetter", e.ORDINAL = "ordinal", e.CARDINAL_TEXT = "cardinalText", e.ORDINAL_TEXT = "ordinalText", e.HEX = "hex", e.CHICAGO = "chicago", e.IDEOGRAPH__DIGITAL = "ideographDigital", e.JAPANESE_COUNTING = "japaneseCounting", e.AIUEO = "aiueo", e.IROHA = "iroha", e.DECIMAL_FULL_WIDTH = "decimalFullWidth", e.DECIMAL_HALF_WIDTH = "decimalHalfWidth", e.JAPANESE_LEGAL = "japaneseLegal", e.JAPANESE_DIGITAL_TEN_THOUSAND = "japaneseDigitalTenThousand", e.DECIMAL_ENCLOSED_CIRCLE = "decimalEnclosedCircle", e.DECIMAL_FULL_WIDTH2 = "decimalFullWidth2", e.AIUEO_FULL_WIDTH = "aiueoFullWidth", e.IROHA_FULL_WIDTH = "irohaFullWidth", e.DECIMAL_ZERO = "decimalZero", e.BULLET = "bullet", e.GANADA = "ganada", e.CHOSUNG = "chosung", e.DECIMAL_ENCLOSED_FULLSTOP = "decimalEnclosedFullstop", e.DECIMAL_ENCLOSED_PARENTHESES = "decimalEnclosedParen", e.DECIMAL_ENCLOSED_CIRCLE_CHINESE = "decimalEnclosedCircleChinese", e.IDEOGRAPH_ENCLOSED_CIRCLE = "ideographEnclosedCircle", e.IDEOGRAPH_TRADITIONAL = "ideographTraditional", e.IDEOGRAPH_ZODIAC = "ideographZodiac", e.IDEOGRAPH_ZODIAC_TRADITIONAL = "ideographZodiacTraditional", e.TAIWANESE_COUNTING = "taiwaneseCounting", e.IDEOGRAPH_LEGAL_TRADITIONAL = "ideographLegalTraditional", e.TAIWANESE_COUNTING_THOUSAND = "taiwaneseCountingThousand", e.TAIWANESE_DIGITAL = "taiwaneseDigital", e.CHINESE_COUNTING = "chineseCounting", e.CHINESE_LEGAL_SIMPLIFIED = "chineseLegalSimplified", e.CHINESE_COUNTING_THOUSAND = "chineseCountingThousand", e.KOREAN_DIGITAL = "koreanDigital", e.KOREAN_COUNTING = "koreanCounting", e.KOREAN_LEGAL = "koreanLegal", e.KOREAN_DIGITAL2 = "koreanDigital2", e.VIETNAMESE_COUNTING = "vietnameseCounting", e.RUSSIAN_LOWER = "russianLower", e.RUSSIAN_UPPER = "russianUpper", e.NONE = "none", e.NUMBER_IN_DASH = "numberInDash", e.HEBREW1 = "hebrew1", e.HEBREW2 = "hebrew2", e.ARABIC_ALPHA = "arabicAlpha", e.ARABIC_ABJAD = "arabicAbjad", e.HINDI_VOWELS = "hindiVowels", e.HINDI_CONSONANTS = "hindiConsonants", e.HINDI_NUMBERS = "hindiNumbers", e.HINDI_COUNTING = "hindiCounting", e.THAI_LETTERS = "thaiLetters", e.THAI_NUMBERS = "thaiNumbers", e.THAI_COUNTING = "thaiCounting", e.BAHT_TEXT = "bahtText", e.DOLLAR_TEXT = "dollarText", e.CUSTOM = "custom";
-    }(Ui || (Ui = {}));
+    }(pi || (pi = {}));
 
-    class zi extends o {
+    class ro extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           ilvl: "w:ilvl",
@@ -12412,27 +12609,27 @@
 
     }
 
-    class ji extends s {
+    class no extends s {
       constructor(e) {
-        super("w:numFmt"), this.root.push(new a({
+        super("w:numFmt"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class Wi extends s {
+    class so extends s {
       constructor(e) {
-        super("w:lvlText"), this.root.push(new a({
+        super("w:lvlText"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class Ki extends s {
+    class io extends s {
       constructor(e) {
-        super("w:lvlJc"), this.root.push(new a({
+        super("w:lvlJc"), this.root.push(new c({
           val: e
         }));
       }
@@ -12441,58 +12638,58 @@
 
     !function (e) {
       e.NOTHING = "nothing", e.SPACE = "space", e.TAB = "tab";
-    }(Hi || (Hi = {}));
+    }(di || (di = {}));
 
-    class Gi extends s {
+    class oo extends s {
       constructor(e) {
-        super("w:suff"), this.root.push(new a({
+        super("w:suff"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class Vi extends s {
+    class ao extends s {
       constructor() {
         super("w:isLgl");
       }
 
     }
 
-    class $i extends s {
+    class co extends s {
       constructor({
         level: e,
         format: t,
         text: r,
-        alignment: n = m.START,
+        alignment: n = w.START,
         start: s = 1,
         style: i,
         suffix: o,
         isLegalNumberingStyle: a
       }) {
-        if (super("w:lvl"), this.root.push(new C("w:start", (0, S.vH)(s))), t && this.root.push(new ji(t)), o && this.root.push(new Gi(o)), a && this.root.push(new Vi()), r && this.root.push(new Wi(r)), this.root.push(new Ki(n)), this.paragraphProperties = new Sn(i && i.paragraph), this.runProperties = new pe(i && i.run), this.root.push(this.paragraphProperties), this.root.push(this.runProperties), e > 9) throw new Error("Level cannot be greater than 9. Read more here: https://answers.microsoft.com/en-us/msoffice/forum/all/does-word-support-more-than-9-list-levels/d130fdcd-1781-446d-8c84-c6c79124e4d7");
-        this.root.push(new zi({
-          ilvl: (0, S.vH)(e),
+        if (super("w:lvl"), this.root.push(new L("w:start", (0, N.vH)(s))), t && this.root.push(new no(t)), o && this.root.push(new oo(o)), a && this.root.push(new ao()), r && this.root.push(new so(r)), this.root.push(new io(n)), this.paragraphProperties = new Kn(i && i.paragraph), this.runProperties = new me(i && i.run), this.root.push(this.paragraphProperties), this.root.push(this.runProperties), e > 9) throw new Error("Level cannot be greater than 9. Read more here: https://answers.microsoft.com/en-us/msoffice/forum/all/does-word-support-more-than-9-list-levels/d130fdcd-1781-446d-8c84-c6c79124e4d7");
+        this.root.push(new ro({
+          ilvl: (0, N.vH)(e),
           tentative: 1
         }));
       }
 
     }
 
-    class Xi extends $i {}
+    class uo extends co {}
 
-    class qi extends $i {}
+    class lo extends co {}
 
-    class Zi extends s {
+    class ho extends s {
       constructor(e) {
-        super("w:multiLevelType"), this.root.push(new a({
+        super("w:multiLevelType"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class Yi extends o {
+    class po extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           abstractNumId: "w:abstractNumId",
@@ -12502,28 +12699,28 @@
 
     }
 
-    class Ji extends s {
+    class fo extends s {
       constructor(e, t) {
-        super("w:abstractNum"), this.root.push(new Yi({
-          abstractNumId: (0, S.vH)(e),
+        super("w:abstractNum"), this.root.push(new po({
+          abstractNumId: (0, N.vH)(e),
           restartNumberingAfterBreak: 0
-        })), this.root.push(new Zi("hybridMultilevel")), this.id = e;
+        })), this.root.push(new ho("hybridMultilevel")), this.id = e;
 
-        for (const e of t) this.root.push(new Xi(e));
+        for (const e of t) this.root.push(new uo(e));
       }
 
     }
 
-    class Qi extends s {
+    class mo extends s {
       constructor(e) {
-        super("w:abstractNumId"), this.root.push(new a({
+        super("w:abstractNumId"), this.root.push(new c({
           val: e
         }));
       }
 
     }
 
-    class eo extends o {
+    class wo extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           numId: "w:numId"
@@ -12532,16 +12729,16 @@
 
     }
 
-    class to extends s {
+    class go extends s {
       constructor(e) {
-        super("w:num"), this.numId = e.numId, this.reference = e.reference, this.instance = e.instance, this.root.push(new eo({
-          numId: (0, S.vH)(e.numId)
-        })), this.root.push(new Qi((0, S.vH)(e.abstractNumId))), e.overrideLevel && this.root.push(new no(e.overrideLevel.num, e.overrideLevel.start));
+        if (super("w:num"), this.numId = e.numId, this.reference = e.reference, this.instance = e.instance, this.root.push(new wo({
+          numId: (0, N.vH)(e.numId)
+        })), this.root.push(new mo((0, N.vH)(e.abstractNumId))), e.overrideLevels && e.overrideLevels.length) for (const t of e.overrideLevels) this.root.push(new bo(t.num, t.start));
       }
 
     }
 
-    class ro extends o {
+    class yo extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           ilvl: "w:ilvl"
@@ -12550,16 +12747,16 @@
 
     }
 
-    class no extends s {
+    class bo extends s {
       constructor(e, t) {
-        super("w:lvlOverride"), this.root.push(new ro({
+        super("w:lvlOverride"), this.root.push(new yo({
           ilvl: e
-        })), void 0 !== t && this.root.push(new io(t));
+        })), void 0 !== t && this.root.push(new xo(t));
       }
 
     }
 
-    class so extends o {
+    class vo extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -12568,18 +12765,18 @@
 
     }
 
-    class io extends s {
+    class xo extends s {
       constructor(e) {
-        super("w:startOverride"), this.root.push(new so({
+        super("w:startOverride"), this.root.push(new vo({
           val: e
         }));
       }
 
     }
 
-    class oo extends s {
+    class _o extends s {
       constructor(e) {
-        super("w:numbering"), this.abstractNumberingMap = new Map(), this.concreteNumberingMap = new Map(), this.referenceConfigMap = new Map(), this.root.push(new pn({
+        super("w:numbering"), this.abstractNumberingMap = new Map(), this.concreteNumberingMap = new Map(), this.referenceConfigMap = new Map(), this.root.push(new Cn({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -12598,136 +12795,136 @@
           wps: "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
           Ignorable: "w14 w15 wp14"
         }));
-        const t = new Ji((0, Ke.NY)(), [{
+        const t = new fo((0, Ae.NY)(), [{
           level: 0,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "●",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
-                left: (0, Ke.vw)(.5),
-                hanging: (0, Ke.vw)(.25)
+                left: (0, Ae.vw)(.5),
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 1,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "○",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
-                left: (0, Ke.vw)(1),
-                hanging: (0, Ke.vw)(.25)
+                left: (0, Ae.vw)(1),
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 2,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "■",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 2160,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 3,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "●",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 2880,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 4,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "○",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 3600,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 5,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "■",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 4320,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 6,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "●",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 5040,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 7,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "●",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 5760,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }, {
           level: 8,
-          format: Ui.BULLET,
+          format: pi.BULLET,
           text: "●",
-          alignment: m.LEFT,
+          alignment: w.LEFT,
           style: {
             paragraph: {
               indent: {
                 left: 6480,
-                hanging: (0, Ke.vw)(.25)
+                hanging: (0, Ae.vw)(.25)
               }
             }
           }
         }]);
-        this.concreteNumberingMap.set("default-bullet-numbering", new to({
+        this.concreteNumberingMap.set("default-bullet-numbering", new go({
           numId: 1,
           abstractNumId: t.id,
           reference: "default-bullet-numbering",
           instance: 0,
-          overrideLevel: {
+          overrideLevels: [{
             num: 0,
             start: 1
-          }
+          }]
         })), this.abstractNumberingMap.set("default-bullet-numbering", t);
 
-        for (const t of e.config) this.abstractNumberingMap.set(t.reference, new Ji((0, Ke.NY)(), t.levels)), this.referenceConfigMap.set(t.reference, t.levels);
+        for (const t of e.config) this.abstractNumberingMap.set(t.reference, new fo((0, Ae.NY)(), t.levels)), this.referenceConfigMap.set(t.reference, t.levels);
       }
 
       prepForXml(e) {
@@ -12746,7 +12943,7 @@
         const s = this.referenceConfigMap.get(e),
               i = s && s[0].start,
               o = {
-          numId: (0, Ke.NY)(),
+          numId: (0, Ae.NY)(),
           abstractNumId: r.id,
           reference: e,
           instance: t,
@@ -12758,7 +12955,7 @@
             start: 1
           }
         };
-        this.concreteNumberingMap.set(n, new to(o));
+        this.concreteNumberingMap.set(n, new go(o));
       }
 
       get ConcreteNumbering() {
@@ -12771,7 +12968,7 @@
 
     }
 
-    class ao extends o {
+    class Eo extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           version: "w:val",
@@ -12782,9 +12979,9 @@
 
     }
 
-    class co extends s {
+    class To extends s {
       constructor(e) {
-        super("w:compatSetting"), this.root.push(new ao({
+        super("w:compatSetting"), this.root.push(new Eo({
           version: e,
           uri: "http://schemas.microsoft.com/office/word",
           name: "compatibilityMode"
@@ -12793,14 +12990,14 @@
 
     }
 
-    class uo extends s {
+    class Ao extends s {
       constructor(e) {
-        super("w:compat"), e.version && this.root.push(new co(e.version)), e.useSingleBorderforContiguousCells && this.root.push(new I("w:useSingleBorderforContiguousCells", e.useSingleBorderforContiguousCells)), e.wordPerfectJustification && this.root.push(new I("w:wpJustification", e.wordPerfectJustification)), e.noTabStopForHangingIndent && this.root.push(new I("w:noTabHangInd", e.noTabStopForHangingIndent)), e.noLeading && this.root.push(new I("w:noLeading", e.noLeading)), e.spaceForUnderline && this.root.push(new I("w:spaceForUL", e.spaceForUnderline)), e.noColumnBalance && this.root.push(new I("w:noColumnBalance", e.noColumnBalance)), e.balanceSingleByteDoubleByteWidth && this.root.push(new I("w:balanceSingleByteDoubleByteWidth", e.balanceSingleByteDoubleByteWidth)), e.noExtraLineSpacing && this.root.push(new I("w:noExtraLineSpacing", e.noExtraLineSpacing)), e.doNotLeaveBackslashAlone && this.root.push(new I("w:doNotLeaveBackslashAlone", e.doNotLeaveBackslashAlone)), e.underlineTrailingSpaces && this.root.push(new I("w:ulTrailSpace", e.underlineTrailingSpaces)), e.doNotExpandShiftReturn && this.root.push(new I("w:doNotExpandShiftReturn", e.doNotExpandShiftReturn)), e.spacingInWholePoints && this.root.push(new I("w:spacingInWholePoints", e.spacingInWholePoints)), e.lineWrapLikeWord6 && this.root.push(new I("w:lineWrapLikeWord6", e.lineWrapLikeWord6)), e.printBodyTextBeforeHeader && this.root.push(new I("w:printBodyTextBeforeHeader", e.printBodyTextBeforeHeader)), e.printColorsBlack && this.root.push(new I("w:printColBlack", e.printColorsBlack)), e.spaceWidth && this.root.push(new I("w:wpSpaceWidth", e.spaceWidth)), e.showBreaksInFrames && this.root.push(new I("w:showBreaksInFrames", e.showBreaksInFrames)), e.subFontBySize && this.root.push(new I("w:subFontBySize", e.subFontBySize)), e.suppressBottomSpacing && this.root.push(new I("w:suppressBottomSpacing", e.suppressBottomSpacing)), e.suppressTopSpacing && this.root.push(new I("w:suppressTopSpacing", e.suppressTopSpacing)), e.suppressSpacingAtTopOfPage && this.root.push(new I("w:suppressSpacingAtTopOfPage", e.suppressSpacingAtTopOfPage)), e.suppressTopSpacingWP && this.root.push(new I("w:suppressTopSpacingWP", e.suppressTopSpacingWP)), e.suppressSpBfAfterPgBrk && this.root.push(new I("w:suppressSpBfAfterPgBrk", e.suppressSpBfAfterPgBrk)), e.swapBordersFacingPages && this.root.push(new I("w:swapBordersFacingPages", e.swapBordersFacingPages)), e.convertMailMergeEsc && this.root.push(new I("w:convMailMergeEsc", e.convertMailMergeEsc)), e.truncateFontHeightsLikeWP6 && this.root.push(new I("w:truncateFontHeightsLikeWP6", e.truncateFontHeightsLikeWP6)), e.macWordSmallCaps && this.root.push(new I("w:mwSmallCaps", e.macWordSmallCaps)), e.usePrinterMetrics && this.root.push(new I("w:usePrinterMetrics", e.usePrinterMetrics)), e.doNotSuppressParagraphBorders && this.root.push(new I("w:doNotSuppressParagraphBorders", e.doNotSuppressParagraphBorders)), e.wrapTrailSpaces && this.root.push(new I("w:wrapTrailSpaces", e.wrapTrailSpaces)), e.footnoteLayoutLikeWW8 && this.root.push(new I("w:footnoteLayoutLikeWW8", e.footnoteLayoutLikeWW8)), e.shapeLayoutLikeWW8 && this.root.push(new I("w:shapeLayoutLikeWW8", e.shapeLayoutLikeWW8)), e.alignTablesRowByRow && this.root.push(new I("w:alignTablesRowByRow", e.alignTablesRowByRow)), e.forgetLastTabAlignment && this.root.push(new I("w:forgetLastTabAlignment", e.forgetLastTabAlignment)), e.adjustLineHeightInTable && this.root.push(new I("w:adjustLineHeightInTable", e.adjustLineHeightInTable)), e.autoSpaceLikeWord95 && this.root.push(new I("w:autoSpaceLikeWord95", e.autoSpaceLikeWord95)), e.noSpaceRaiseLower && this.root.push(new I("w:noSpaceRaiseLower", e.noSpaceRaiseLower)), e.doNotUseHTMLParagraphAutoSpacing && this.root.push(new I("w:doNotUseHTMLParagraphAutoSpacing", e.doNotUseHTMLParagraphAutoSpacing)), e.layoutRawTableWidth && this.root.push(new I("w:layoutRawTableWidth", e.layoutRawTableWidth)), e.layoutTableRowsApart && this.root.push(new I("w:layoutTableRowsApart", e.layoutTableRowsApart)), e.useWord97LineBreakRules && this.root.push(new I("w:useWord97LineBreakRules", e.useWord97LineBreakRules)), e.doNotBreakWrappedTables && this.root.push(new I("w:doNotBreakWrappedTables", e.doNotBreakWrappedTables)), e.doNotSnapToGridInCell && this.root.push(new I("w:doNotSnapToGridInCell", e.doNotSnapToGridInCell)), e.selectFieldWithFirstOrLastCharacter && this.root.push(new I("w:selectFldWithFirstOrLastChar", e.selectFieldWithFirstOrLastCharacter)), e.applyBreakingRules && this.root.push(new I("w:applyBreakingRules", e.applyBreakingRules)), e.doNotWrapTextWithPunctuation && this.root.push(new I("w:doNotWrapTextWithPunct", e.doNotWrapTextWithPunctuation)), e.doNotUseEastAsianBreakRules && this.root.push(new I("w:doNotUseEastAsianBreakRules", e.doNotUseEastAsianBreakRules)), e.useWord2002TableStyleRules && this.root.push(new I("w:useWord2002TableStyleRules", e.useWord2002TableStyleRules)), e.growAutofit && this.root.push(new I("w:growAutofit", e.growAutofit)), e.useFELayout && this.root.push(new I("w:useFELayout", e.useFELayout)), e.useNormalStyleForList && this.root.push(new I("w:useNormalStyleForList", e.useNormalStyleForList)), e.doNotUseIndentAsNumberingTabStop && this.root.push(new I("w:doNotUseIndentAsNumberingTabStop", e.doNotUseIndentAsNumberingTabStop)), e.useAlternateEastAsianLineBreakRules && this.root.push(new I("w:useAltKinsokuLineBreakRules", e.useAlternateEastAsianLineBreakRules)), e.allowSpaceOfSameStyleInTable && this.root.push(new I("w:allowSpaceOfSameStyleInTable", e.allowSpaceOfSameStyleInTable)), e.doNotSuppressIndentation && this.root.push(new I("w:doNotSuppressIndentation", e.doNotSuppressIndentation)), e.doNotAutofitConstrainedTables && this.root.push(new I("w:doNotAutofitConstrainedTables", e.doNotAutofitConstrainedTables)), e.autofitToFirstFixedWidthCell && this.root.push(new I("w:autofitToFirstFixedWidthCell", e.autofitToFirstFixedWidthCell)), e.underlineTabInNumberingList && this.root.push(new I("w:underlineTabInNumList", e.underlineTabInNumberingList)), e.displayHangulFixedWidth && this.root.push(new I("w:displayHangulFixedWidth", e.displayHangulFixedWidth)), e.splitPgBreakAndParaMark && this.root.push(new I("w:splitPgBreakAndParaMark", e.splitPgBreakAndParaMark)), e.doNotVerticallyAlignCellWithSp && this.root.push(new I("w:doNotVertAlignCellWithSp", e.doNotVerticallyAlignCellWithSp)), e.doNotBreakConstrainedForcedTable && this.root.push(new I("w:doNotBreakConstrainedForcedTable", e.doNotBreakConstrainedForcedTable)), e.ignoreVerticalAlignmentInTextboxes && this.root.push(new I("w:doNotVertAlignInTxbx", e.ignoreVerticalAlignmentInTextboxes)), e.useAnsiKerningPairs && this.root.push(new I("w:useAnsiKerningPairs", e.useAnsiKerningPairs)), e.cachedColumnBalance && this.root.push(new I("w:cachedColBalance", e.cachedColumnBalance));
+        super("w:compat"), e.version && this.root.push(new To(e.version)), e.useSingleBorderforContiguousCells && this.root.push(new R("w:useSingleBorderforContiguousCells", e.useSingleBorderforContiguousCells)), e.wordPerfectJustification && this.root.push(new R("w:wpJustification", e.wordPerfectJustification)), e.noTabStopForHangingIndent && this.root.push(new R("w:noTabHangInd", e.noTabStopForHangingIndent)), e.noLeading && this.root.push(new R("w:noLeading", e.noLeading)), e.spaceForUnderline && this.root.push(new R("w:spaceForUL", e.spaceForUnderline)), e.noColumnBalance && this.root.push(new R("w:noColumnBalance", e.noColumnBalance)), e.balanceSingleByteDoubleByteWidth && this.root.push(new R("w:balanceSingleByteDoubleByteWidth", e.balanceSingleByteDoubleByteWidth)), e.noExtraLineSpacing && this.root.push(new R("w:noExtraLineSpacing", e.noExtraLineSpacing)), e.doNotLeaveBackslashAlone && this.root.push(new R("w:doNotLeaveBackslashAlone", e.doNotLeaveBackslashAlone)), e.underlineTrailingSpaces && this.root.push(new R("w:ulTrailSpace", e.underlineTrailingSpaces)), e.doNotExpandShiftReturn && this.root.push(new R("w:doNotExpandShiftReturn", e.doNotExpandShiftReturn)), e.spacingInWholePoints && this.root.push(new R("w:spacingInWholePoints", e.spacingInWholePoints)), e.lineWrapLikeWord6 && this.root.push(new R("w:lineWrapLikeWord6", e.lineWrapLikeWord6)), e.printBodyTextBeforeHeader && this.root.push(new R("w:printBodyTextBeforeHeader", e.printBodyTextBeforeHeader)), e.printColorsBlack && this.root.push(new R("w:printColBlack", e.printColorsBlack)), e.spaceWidth && this.root.push(new R("w:wpSpaceWidth", e.spaceWidth)), e.showBreaksInFrames && this.root.push(new R("w:showBreaksInFrames", e.showBreaksInFrames)), e.subFontBySize && this.root.push(new R("w:subFontBySize", e.subFontBySize)), e.suppressBottomSpacing && this.root.push(new R("w:suppressBottomSpacing", e.suppressBottomSpacing)), e.suppressTopSpacing && this.root.push(new R("w:suppressTopSpacing", e.suppressTopSpacing)), e.suppressSpacingAtTopOfPage && this.root.push(new R("w:suppressSpacingAtTopOfPage", e.suppressSpacingAtTopOfPage)), e.suppressTopSpacingWP && this.root.push(new R("w:suppressTopSpacingWP", e.suppressTopSpacingWP)), e.suppressSpBfAfterPgBrk && this.root.push(new R("w:suppressSpBfAfterPgBrk", e.suppressSpBfAfterPgBrk)), e.swapBordersFacingPages && this.root.push(new R("w:swapBordersFacingPages", e.swapBordersFacingPages)), e.convertMailMergeEsc && this.root.push(new R("w:convMailMergeEsc", e.convertMailMergeEsc)), e.truncateFontHeightsLikeWP6 && this.root.push(new R("w:truncateFontHeightsLikeWP6", e.truncateFontHeightsLikeWP6)), e.macWordSmallCaps && this.root.push(new R("w:mwSmallCaps", e.macWordSmallCaps)), e.usePrinterMetrics && this.root.push(new R("w:usePrinterMetrics", e.usePrinterMetrics)), e.doNotSuppressParagraphBorders && this.root.push(new R("w:doNotSuppressParagraphBorders", e.doNotSuppressParagraphBorders)), e.wrapTrailSpaces && this.root.push(new R("w:wrapTrailSpaces", e.wrapTrailSpaces)), e.footnoteLayoutLikeWW8 && this.root.push(new R("w:footnoteLayoutLikeWW8", e.footnoteLayoutLikeWW8)), e.shapeLayoutLikeWW8 && this.root.push(new R("w:shapeLayoutLikeWW8", e.shapeLayoutLikeWW8)), e.alignTablesRowByRow && this.root.push(new R("w:alignTablesRowByRow", e.alignTablesRowByRow)), e.forgetLastTabAlignment && this.root.push(new R("w:forgetLastTabAlignment", e.forgetLastTabAlignment)), e.adjustLineHeightInTable && this.root.push(new R("w:adjustLineHeightInTable", e.adjustLineHeightInTable)), e.autoSpaceLikeWord95 && this.root.push(new R("w:autoSpaceLikeWord95", e.autoSpaceLikeWord95)), e.noSpaceRaiseLower && this.root.push(new R("w:noSpaceRaiseLower", e.noSpaceRaiseLower)), e.doNotUseHTMLParagraphAutoSpacing && this.root.push(new R("w:doNotUseHTMLParagraphAutoSpacing", e.doNotUseHTMLParagraphAutoSpacing)), e.layoutRawTableWidth && this.root.push(new R("w:layoutRawTableWidth", e.layoutRawTableWidth)), e.layoutTableRowsApart && this.root.push(new R("w:layoutTableRowsApart", e.layoutTableRowsApart)), e.useWord97LineBreakRules && this.root.push(new R("w:useWord97LineBreakRules", e.useWord97LineBreakRules)), e.doNotBreakWrappedTables && this.root.push(new R("w:doNotBreakWrappedTables", e.doNotBreakWrappedTables)), e.doNotSnapToGridInCell && this.root.push(new R("w:doNotSnapToGridInCell", e.doNotSnapToGridInCell)), e.selectFieldWithFirstOrLastCharacter && this.root.push(new R("w:selectFldWithFirstOrLastChar", e.selectFieldWithFirstOrLastCharacter)), e.applyBreakingRules && this.root.push(new R("w:applyBreakingRules", e.applyBreakingRules)), e.doNotWrapTextWithPunctuation && this.root.push(new R("w:doNotWrapTextWithPunct", e.doNotWrapTextWithPunctuation)), e.doNotUseEastAsianBreakRules && this.root.push(new R("w:doNotUseEastAsianBreakRules", e.doNotUseEastAsianBreakRules)), e.useWord2002TableStyleRules && this.root.push(new R("w:useWord2002TableStyleRules", e.useWord2002TableStyleRules)), e.growAutofit && this.root.push(new R("w:growAutofit", e.growAutofit)), e.useFELayout && this.root.push(new R("w:useFELayout", e.useFELayout)), e.useNormalStyleForList && this.root.push(new R("w:useNormalStyleForList", e.useNormalStyleForList)), e.doNotUseIndentAsNumberingTabStop && this.root.push(new R("w:doNotUseIndentAsNumberingTabStop", e.doNotUseIndentAsNumberingTabStop)), e.useAlternateEastAsianLineBreakRules && this.root.push(new R("w:useAltKinsokuLineBreakRules", e.useAlternateEastAsianLineBreakRules)), e.allowSpaceOfSameStyleInTable && this.root.push(new R("w:allowSpaceOfSameStyleInTable", e.allowSpaceOfSameStyleInTable)), e.doNotSuppressIndentation && this.root.push(new R("w:doNotSuppressIndentation", e.doNotSuppressIndentation)), e.doNotAutofitConstrainedTables && this.root.push(new R("w:doNotAutofitConstrainedTables", e.doNotAutofitConstrainedTables)), e.autofitToFirstFixedWidthCell && this.root.push(new R("w:autofitToFirstFixedWidthCell", e.autofitToFirstFixedWidthCell)), e.underlineTabInNumberingList && this.root.push(new R("w:underlineTabInNumList", e.underlineTabInNumberingList)), e.displayHangulFixedWidth && this.root.push(new R("w:displayHangulFixedWidth", e.displayHangulFixedWidth)), e.splitPgBreakAndParaMark && this.root.push(new R("w:splitPgBreakAndParaMark", e.splitPgBreakAndParaMark)), e.doNotVerticallyAlignCellWithSp && this.root.push(new R("w:doNotVertAlignCellWithSp", e.doNotVerticallyAlignCellWithSp)), e.doNotBreakConstrainedForcedTable && this.root.push(new R("w:doNotBreakConstrainedForcedTable", e.doNotBreakConstrainedForcedTable)), e.ignoreVerticalAlignmentInTextboxes && this.root.push(new R("w:doNotVertAlignInTxbx", e.ignoreVerticalAlignmentInTextboxes)), e.useAnsiKerningPairs && this.root.push(new R("w:useAnsiKerningPairs", e.useAnsiKerningPairs)), e.cachedColumnBalance && this.root.push(new R("w:cachedColBalance", e.cachedColumnBalance));
       }
 
     }
 
-    class lo extends o {
+    class So extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           wpc: "xmlns:wpc",
@@ -12825,10 +13022,10 @@
 
     }
 
-    class ho extends s {
+    class Io extends s {
       constructor(e) {
         var t, r, n, s;
-        super("w:settings"), this.root.push(new lo({
+        super("w:settings"), this.root.push(new So({
           wpc: "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
           mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
           o: "urn:schemas-microsoft-com:office:office",
@@ -12846,14 +13043,14 @@
           wne: "http://schemas.microsoft.com/office/word/2006/wordml",
           wps: "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
           Ignorable: "w14 w15 wp14"
-        })), this.root.push(new I("w:displayBackgroundShape", !0)), void 0 !== e.trackRevisions && this.root.push(new I("w:trackRevisions", e.trackRevisions)), void 0 !== e.evenAndOddHeaders && this.root.push(new I("w:evenAndOddHeaders", e.evenAndOddHeaders)), void 0 !== e.updateFields && this.root.push(new I("w:updateFields", e.updateFields)), this.root.push(new uo(Object.assign(Object.assign({}, null !== (t = e.compatibility) && void 0 !== t ? t : {}), {
+        })), this.root.push(new R("w:displayBackgroundShape", !0)), void 0 !== e.trackRevisions && this.root.push(new R("w:trackRevisions", e.trackRevisions)), void 0 !== e.evenAndOddHeaders && this.root.push(new R("w:evenAndOddHeaders", e.evenAndOddHeaders)), void 0 !== e.updateFields && this.root.push(new R("w:updateFields", e.updateFields)), this.root.push(new Ao(Object.assign(Object.assign({}, null !== (t = e.compatibility) && void 0 !== t ? t : {}), {
           version: null !== (s = null !== (n = null === (r = e.compatibility) || void 0 === r ? void 0 : r.version) && void 0 !== n ? n : e.compatibilityModeVersion) && void 0 !== s ? s : 15
         })));
       }
 
     }
 
-    class po extends o {
+    class No extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           val: "w:val"
@@ -12862,25 +13059,25 @@
 
     }
 
-    class fo extends s {
+    class Ro extends s {
       constructor(e) {
-        super("w:name"), this.root.push(new po({
+        super("w:name"), this.root.push(new No({
           val: e
         }));
       }
 
     }
 
-    class mo extends s {
+    class ko extends s {
       constructor(e) {
-        super("w:uiPriority"), this.root.push(new po({
-          val: (0, S.vH)(e)
+        super("w:uiPriority"), this.root.push(new No({
+          val: (0, N.vH)(e)
         }));
       }
 
     }
 
-    class wo extends o {
+    class Co extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           type: "w:type",
@@ -12892,24 +13089,24 @@
 
     }
 
-    class go extends s {
+    class Oo extends s {
       constructor(e, t) {
-        super("w:style"), this.root.push(new wo(e)), t.name && this.root.push(new fo(t.name)), t.basedOn && this.root.push(new N("w:basedOn", t.basedOn)), t.next && this.root.push(new N("w:next", t.next)), t.link && this.root.push(new N("w:link", t.link)), void 0 !== t.uiPriority && this.root.push(new mo(t.uiPriority)), void 0 !== t.semiHidden && this.root.push(new I("w:semiHidden", t.semiHidden)), void 0 !== t.unhideWhenUsed && this.root.push(new I("w:unhideWhenUsed", t.unhideWhenUsed)), void 0 !== t.quickFormat && this.root.push(new I("w:qFormat", t.quickFormat));
+        super("w:style"), this.root.push(new Co(e)), t.name && this.root.push(new Ro(t.name)), t.basedOn && this.root.push(new O("w:basedOn", t.basedOn)), t.next && this.root.push(new O("w:next", t.next)), t.link && this.root.push(new O("w:link", t.link)), void 0 !== t.uiPriority && this.root.push(new ko(t.uiPriority)), void 0 !== t.semiHidden && this.root.push(new R("w:semiHidden", t.semiHidden)), void 0 !== t.unhideWhenUsed && this.root.push(new R("w:unhideWhenUsed", t.unhideWhenUsed)), void 0 !== t.quickFormat && this.root.push(new R("w:qFormat", t.quickFormat));
       }
 
     }
 
-    class yo extends go {
+    class Lo extends Oo {
       constructor(e) {
         super({
           type: "paragraph",
           styleId: e.id
-        }, e), this.paragraphProperties = new Sn(e.paragraph), this.runProperties = new pe(e.run), this.root.push(this.paragraphProperties), this.root.push(this.runProperties);
+        }, e), this.paragraphProperties = new Kn(e.paragraph), this.runProperties = new me(e.run), this.root.push(this.paragraphProperties), this.root.push(this.runProperties);
       }
 
     }
 
-    class bo extends go {
+    class Do extends Oo {
       constructor(e) {
         super({
           type: "character",
@@ -12917,12 +13114,12 @@
         }, Object.assign({
           uiPriority: 99,
           unhideWhenUsed: !0
-        }, e)), this.runProperties = new pe(e.run), this.root.push(this.runProperties);
+        }, e)), this.runProperties = new me(e.run), this.root.push(this.runProperties);
       }
 
     }
 
-    class xo extends yo {
+    class Po extends Lo {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           basedOn: "Normal",
@@ -12933,7 +13130,7 @@
 
     }
 
-    class vo extends xo {
+    class Fo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Title",
@@ -12943,7 +13140,7 @@
 
     }
 
-    class _o extends xo {
+    class Bo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading1",
@@ -12953,7 +13150,7 @@
 
     }
 
-    class Eo extends xo {
+    class Mo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading2",
@@ -12963,7 +13160,7 @@
 
     }
 
-    class To extends xo {
+    class Uo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading3",
@@ -12973,7 +13170,7 @@
 
     }
 
-    class Ao extends xo {
+    class Ho extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading4",
@@ -12983,7 +13180,7 @@
 
     }
 
-    class So extends xo {
+    class jo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading5",
@@ -12993,7 +13190,7 @@
 
     }
 
-    class Io extends xo {
+    class zo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Heading6",
@@ -13003,7 +13200,7 @@
 
     }
 
-    class Ro extends xo {
+    class Wo extends Po {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Strong",
@@ -13013,7 +13210,7 @@
 
     }
 
-    class No extends yo {
+    class Go extends Lo {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "ListParagraph",
@@ -13025,7 +13222,7 @@
 
     }
 
-    class Co extends yo {
+    class Ko extends Lo {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "FootnoteText",
@@ -13039,7 +13236,7 @@
             spacing: {
               after: 0,
               line: 240,
-              lineRule: Ae.AUTO
+              lineRule: wt.AUTO
             }
           },
           run: {
@@ -13050,7 +13247,7 @@
 
     }
 
-    class Oo extends bo {
+    class Vo extends Do {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "FootnoteReference",
@@ -13065,7 +13262,7 @@
 
     }
 
-    class ko extends bo {
+    class Xo extends Do {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "FootnoteTextChar",
@@ -13081,7 +13278,7 @@
 
     }
 
-    class Lo extends bo {
+    class $o extends Do {
       constructor(e) {
         super(Object.assign(Object.assign({}, e), {
           id: "Hyperlink",
@@ -13090,7 +13287,7 @@
           run: {
             color: "0563C1",
             underline: {
-              type: T.SINGLE
+              type: A.SINGLE
             }
           }
         }));
@@ -13098,39 +13295,39 @@
 
     }
 
-    class Do extends s {
+    class qo extends s {
       constructor(e) {
         if (super("w:styles"), e.initialStyles && this.root.push(e.initialStyles), e.importedStyles) for (const t of e.importedStyles) this.root.push(t);
-        if (e.paragraphStyles) for (const t of e.paragraphStyles) this.root.push(new yo(t));
-        if (e.characterStyles) for (const t of e.characterStyles) this.root.push(new bo(t));
+        if (e.paragraphStyles) for (const t of e.paragraphStyles) this.root.push(new Lo(t));
+        if (e.characterStyles) for (const t of e.characterStyles) this.root.push(new Do(t));
       }
 
     }
 
-    class Po extends s {
+    class Zo extends s {
       constructor(e) {
-        super("w:pPrDefault"), this.root.push(new Sn(e));
+        super("w:pPrDefault"), this.root.push(new Kn(e));
       }
 
     }
 
-    class Fo extends s {
+    class Yo extends s {
       constructor(e) {
-        super("w:rPrDefault"), this.root.push(new pe(e));
+        super("w:rPrDefault"), this.root.push(new me(e));
       }
 
     }
 
-    class Bo extends s {
+    class Jo extends s {
       constructor(e) {
-        super("w:docDefaults"), this.runPropertiesDefaults = new Fo(e.run), this.paragraphPropertiesDefaults = new Po(e.paragraph), this.root.push(this.runPropertiesDefaults), this.root.push(this.paragraphPropertiesDefaults);
+        super("w:docDefaults"), this.runPropertiesDefaults = new Yo(e.run), this.paragraphPropertiesDefaults = new Zo(e.paragraph), this.root.push(this.runPropertiesDefaults), this.root.push(this.paragraphPropertiesDefaults);
       }
 
     }
 
-    class Mo {
+    class Qo {
       newInstance(e) {
-        const t = (0, c.xml2js)(e, {
+        const t = (0, u.xml2js)(e, {
           compact: !1
         });
         let r;
@@ -13139,19 +13336,19 @@
 
         if (void 0 === r) throw new Error("can not find styles element");
         const n = r.elements || [];
-        return new Do({
-          initialStyles: new p(r.attributes),
-          importedStyles: n.map(e => u(e))
+        return new qo({
+          initialStyles: new d(r.attributes),
+          importedStyles: n.map(e => l(e))
         });
       }
 
     }
 
-    class Uo {
+    class ea {
       newInstance(e = {}) {
         var t;
         return {
-          initialStyles: new pn({
+          initialStyles: new Cn({
             mc: "http://schemas.openxmlformats.org/markup-compatibility/2006",
             r: "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
             w: "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
@@ -13159,85 +13356,80 @@
             w15: "http://schemas.microsoft.com/office/word/2012/wordml",
             Ignorable: "w14 w15"
           }),
-          importedStyles: [new Bo(null !== (t = e.document) && void 0 !== t ? t : {}), new vo(Object.assign({
+          importedStyles: [new Jo(null !== (t = e.document) && void 0 !== t ? t : {}), new Fo(Object.assign({
             run: {
               size: 56
             }
-          }, e.title)), new _o(Object.assign({
+          }, e.title)), new Bo(Object.assign({
             run: {
               color: "2E74B5",
               size: 32
             }
-          }, e.heading1)), new Eo(Object.assign({
+          }, e.heading1)), new Mo(Object.assign({
             run: {
               color: "2E74B5",
               size: 26
             }
-          }, e.heading2)), new To(Object.assign({
+          }, e.heading2)), new Uo(Object.assign({
             run: {
               color: "1F4D78",
               size: 24
             }
-          }, e.heading3)), new Ao(Object.assign({
+          }, e.heading3)), new Ho(Object.assign({
             run: {
               color: "2E74B5",
               italics: !0
             }
-          }, e.heading4)), new So(Object.assign({
+          }, e.heading4)), new jo(Object.assign({
             run: {
               color: "2E74B5"
             }
-          }, e.heading5)), new Io(Object.assign({
+          }, e.heading5)), new zo(Object.assign({
             run: {
               color: "1F4D78"
             }
-          }, e.heading6)), new Ro(Object.assign({
+          }, e.heading6)), new Wo(Object.assign({
             run: {
               bold: !0
             }
-          }, e.strong)), new No(e.listParagraph || {}), new Lo(e.hyperlink || {}), new Oo(e.footnoteReference || {}), new Co(e.footnoteText || {}), new ko(e.footnoteTextChar || {})]
+          }, e.strong)), new Go(e.listParagraph || {}), new $o(e.hyperlink || {}), new Vo(e.footnoteReference || {}), new Ko(e.footnoteText || {}), new Xo(e.footnoteTextChar || {})]
         };
       }
 
     }
 
-    class Ho {
-      constructor(e, t = {}) {
-        var r, n, s, i, o, a, c;
-        if (this.currentRelationshipId = 1, this.headers = [], this.footers = [], this.coreProperties = new di(Object.assign(Object.assign({}, e), {
-          creator: null !== (r = e.creator) && void 0 !== r ? r : "Un-named",
-          revision: null !== (n = e.revision) && void 0 !== n ? n : 1,
-          lastModifiedBy: null !== (s = e.lastModifiedBy) && void 0 !== s ? s : "Un-named"
-        })), this.numbering = new oo(e.numbering ? e.numbering : {
+    class ta {
+      constructor(e) {
+        var t, r, n, s, i, o, a;
+
+        if (this.currentRelationshipId = 1, this.headers = [], this.footers = [], this.coreProperties = new Ci(Object.assign(Object.assign({}, e), {
+          creator: null !== (t = e.creator) && void 0 !== t ? t : "Un-named",
+          revision: null !== (r = e.revision) && void 0 !== r ? r : 1,
+          lastModifiedBy: null !== (n = e.lastModifiedBy) && void 0 !== n ? n : "Un-named"
+        })), this.numbering = new _o(e.numbering ? e.numbering : {
           config: []
-        }), this.comments = new ur(null !== (i = e.comments) && void 0 !== i ? i : {
+        }), this.comments = new fr(null !== (s = e.comments) && void 0 !== s ? s : {
           children: []
-        }), this.fileRelationships = new gn(), this.customProperties = new bi(null !== (o = e.customProperties) && void 0 !== o ? o : []), this.appProperties = new oi(), this.footnotesWrapper = new Li(), this.contentTypes = new pi(), this.documentWrapper = new yn({
+        }), this.fileRelationships = new Fn(), this.customProperties = new Bi(null !== (i = e.customProperties) && void 0 !== i ? i : []), this.appProperties = new Ti(), this.footnotesWrapper = new Yi(), this.contentTypes = new ki(), this.documentWrapper = new Bn({
           background: e.background
-        }), this.settings = new ho({
+        }), this.settings = new Io({
           compatibilityModeVersion: e.compatabilityModeVersion,
           compatibility: e.compatibility,
           evenAndOddHeaders: !!e.evenAndOddHeaderAndFooters,
-          trackRevisions: null === (a = e.features) || void 0 === a ? void 0 : a.trackRevisions,
-          updateFields: null === (c = e.features) || void 0 === c ? void 0 : c.updateFields
-        }), this.media = t.template && t.template.media ? t.template.media : new Bi(), t.template && (this.currentRelationshipId = t.template.currentRelationshipId + 1), t.template && e.externalStyles) throw Error("can not use both template and external styles");
-
-        if (t.template && t.template.styles) {
-          const e = new Mo();
-          this.styles = e.newInstance(t.template.styles);
-        } else if (e.externalStyles) {
-          const t = new Mo();
+          trackRevisions: null === (o = e.features) || void 0 === o ? void 0 : o.trackRevisions,
+          updateFields: null === (a = e.features) || void 0 === a ? void 0 : a.updateFields
+        }), this.media = new to(), e.externalStyles) {
+          const t = new Qo();
           this.styles = t.newInstance(e.externalStyles);
         } else if (e.styles) {
-          const t = new Uo().newInstance(e.styles.default);
-          this.styles = new Do(Object.assign(Object.assign({}, t), e.styles));
+          const t = new ea().newInstance(e.styles.default);
+          this.styles = new qo(Object.assign(Object.assign({}, t), e.styles));
         } else {
-          const e = new Uo();
-          this.styles = new Do(e.newInstance());
+          const e = new ea();
+          this.styles = new qo(e.newInstance());
         }
 
-        if (this.addDefaultRelationships(), t.template && t.template.headers) for (const e of t.template.headers) this.addHeaderToDocument(e.header, e.type);
-        if (t.template && t.template.footers) for (const e of t.template.footers) this.addFooterToDocument(e.footer, e.type);
+        this.addDefaultRelationships();
 
         for (const t of e.sections) this.addSection(t);
 
@@ -13267,7 +13459,7 @@
       }
 
       createHeader(e) {
-        const t = new Fi(this.media, this.currentRelationshipId++);
+        const t = new eo(this.media, this.currentRelationshipId++);
 
         for (const r of e.options.children) t.add(r);
 
@@ -13275,21 +13467,21 @@
       }
 
       createFooter(e) {
-        const t = new _i(this.media, this.currentRelationshipId++);
+        const t = new Hi(this.media, this.currentRelationshipId++);
 
         for (const r of e.options.children) t.add(r);
 
         return this.addFooterToDocument(t), t;
       }
 
-      addHeaderToDocument(e, t = Le.DEFAULT) {
+      addHeaderToDocument(e, t = Tt.DEFAULT) {
         this.headers.push({
           header: e,
           type: t
         }), this.documentWrapper.Relationships.createRelationship(e.View.ReferenceId, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/header", `header${this.headers.length}.xml`), this.contentTypes.addHeader(this.headers.length);
       }
 
-      addFooterToDocument(e, t = Le.DEFAULT) {
+      addFooterToDocument(e, t = Tt.DEFAULT) {
         this.footers.push({
           footer: e,
           type: t
@@ -13358,12 +13550,12 @@
 
     }
 
-    const zo = "";
+    const ra = "";
 
-    class jo extends s {
+    class na extends s {
       constructor(e = {}) {
-        super("w:instrText"), this.properties = e, this.root.push(new V({
-          space: v.PRESERVE
+        super("w:instrText"), this.properties = e, this.root.push(new q({
+          space: _.PRESERVE
         }));
         let t = "TOC";
         this.properties.captionLabel && (t = `${t} \\a "${this.properties.captionLabel}"`), this.properties.entriesFromBookmark && (t = `${t} \\b "${this.properties.entriesFromBookmark}"`), this.properties.captionLabelIncludingNumbers && (t = `${t} \\c "${this.properties.captionLabelIncludingNumbers}"`), this.properties.sequenceAndPageNumbersSeparator && (t = `${t} \\d "${this.properties.sequenceAndPageNumbersSeparator}"`), this.properties.tcFieldIdentifier && (t = `${t} \\f "${this.properties.tcFieldIdentifier}"`), this.properties.hyperlink && (t = `${t} \\h`), this.properties.tcFieldLevelRange && (t = `${t} \\l "${this.properties.tcFieldLevelRange}"`), this.properties.pageNumbersEntryLevelsRange && (t = `${t} \\n "${this.properties.pageNumbersEntryLevelsRange}"`), this.properties.headingStyleRange && (t = `${t} \\o "${this.properties.headingStyleRange}"`), this.properties.entryAndPageNumberSeparator && (t = `${t} \\p "${this.properties.entryAndPageNumberSeparator}"`), this.properties.seqFieldIdentifierForPrefix && (t = `${t} \\s "${this.properties.seqFieldIdentifierForPrefix}"`), this.properties.stylesWithLevels && this.properties.stylesWithLevels.length && (t = `${t} \\t "${this.properties.stylesWithLevels.map(e => `${e.styleName},${e.level}`).join(",")}"`), this.properties.useAppliedParagraphOutlineLevel && (t = `${t} \\u`), this.properties.preserveTabInEntries && (t = `${t} \\w`), this.properties.preserveNewLineInEntries && (t = `${t} \\x`), this.properties.hideTabAndPageNumbersInWebView && (t = `${t} \\z`), this.root.push(t);
@@ -13371,33 +13563,33 @@
 
     }
 
-    class Wo extends s {
+    class sa extends s {
       constructor() {
         super("w:sdtContent");
       }
 
     }
 
-    class Ko extends s {
+    class ia extends s {
       constructor(e) {
-        super("w:sdtPr"), this.root.push(new N("w:alias", e));
+        super("w:sdtPr"), this.root.push(new O("w:alias", e));
       }
 
     }
 
-    class Go extends s {
+    class oa extends Vr {
       constructor(e = "Table of Contents", t) {
-        super("w:sdt"), this.root.push(new Ko(e));
-        const r = new Wo(),
-              n = new In({
-          children: [new me({
-            children: [new W(!0), new jo(t), new K()]
+        super("w:sdt"), this.root.push(new ia(e));
+        const r = new sa(),
+              n = new Vn({
+          children: [new ye({
+            children: [new V(!0), new na(t), new X()]
           })]
         });
         r.addChildElement(n);
-        const s = new In({
-          children: [new me({
-            children: [new G()]
+        const s = new Vn({
+          children: [new ye({
+            children: [new $()]
           })]
         });
         r.addChildElement(s), this.root.push(r);
@@ -13405,14 +13597,14 @@
 
     }
 
-    class Vo {
+    class aa {
       constructor(e, t) {
         this.styleName = e, this.level = t;
       }
 
     }
 
-    class $o {
+    class ca {
       constructor(e = {
         children: []
       }) {
@@ -13421,7 +13613,7 @@
 
     }
 
-    class Xo {
+    class ua {
       constructor(e = {
         children: []
       }) {
@@ -13430,7 +13622,7 @@
 
     }
 
-    class qo extends o {
+    class la extends o {
       constructor() {
         super(...arguments), this.xmlKeys = {
           id: "w:id"
@@ -13439,112 +13631,114 @@
 
     }
 
-    class Zo extends s {
+    class ha extends s {
       constructor(e) {
-        super("w:footnoteReference"), this.root.push(new qo({
+        super("w:footnoteReference"), this.root.push(new la({
           id: e
         }));
       }
 
     }
 
-    class Yo extends me {
+    class pa extends ye {
       constructor(e) {
         super({
           style: "FootnoteReference"
-        }), this.root.push(new Zo(e));
+        }), this.root.push(new ha(e));
       }
 
     }
 
-    class Jo extends s {
+    class da extends s {
       constructor(e) {
-        super("w:ins"), this.root.push(new J({
+        super("w:ins"), this.root.push(new te({
           id: e.id,
           author: e.author,
           date: e.date
-        })), this.addChildElement(new we(e));
+        })), this.addChildElement(new be(e));
       }
 
     }
 
-    class Qo extends s {
+    class fa extends s {
       constructor() {
-        super("w:delInstrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:delInstrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("PAGE");
       }
 
     }
 
-    class ea extends s {
+    class ma extends s {
       constructor() {
-        super("w:delInstrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:delInstrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("NUMPAGES");
       }
 
     }
 
-    class ta extends s {
+    class wa extends s {
       constructor() {
-        super("w:delInstrText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:delInstrText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push("SECTIONPAGES");
       }
 
     }
 
-    class ra extends s {
+    class ga extends s {
       constructor(e) {
-        super("w:delText"), this.root.push(new V({
-          space: v.PRESERVE
+        super("w:delText"), this.root.push(new q({
+          space: _.PRESERVE
         })), this.root.push(e);
       }
 
     }
 
-    class na extends s {
+    class ya extends s {
       constructor(e) {
-        super("w:del"), this.root.push(new J({
+        super("w:del"), this.root.push(new te({
           id: e.id,
           author: e.author,
           date: e.date
-        })), this.deletedTextRunWrapper = new sa(e), this.addChildElement(this.deletedTextRunWrapper);
+        })), this.deletedTextRunWrapper = new ba(e), this.addChildElement(this.deletedTextRunWrapper);
       }
 
     }
 
-    class sa extends s {
+    class ba extends s {
       constructor(e) {
-        if (super("w:r"), this.root.push(new pe(e)), e.children) {
+        if (super("w:r"), this.root.push(new me(e)), e.children) {
           for (const t of e.children) if ("string" != typeof t) this.root.push(t);else switch (t) {
-            case A.CURRENT:
-              this.root.push(new W()), this.root.push(new Qo()), this.root.push(new K()), this.root.push(new G());
+            case I.CURRENT:
+              this.root.push(new V()), this.root.push(new fa()), this.root.push(new X()), this.root.push(new $());
               break;
 
-            case A.TOTAL_PAGES:
-              this.root.push(new W()), this.root.push(new ea()), this.root.push(new K()), this.root.push(new G());
+            case I.TOTAL_PAGES:
+              this.root.push(new V()), this.root.push(new ma()), this.root.push(new X()), this.root.push(new $());
               break;
 
-            case A.TOTAL_PAGES_IN_SECTION:
-              this.root.push(new W()), this.root.push(new ta()), this.root.push(new K()), this.root.push(new G());
+            case I.TOTAL_PAGES_IN_SECTION:
+              this.root.push(new V()), this.root.push(new wa()), this.root.push(new X()), this.root.push(new $());
               break;
 
             default:
-              this.root.push(new ra(t));
+              this.root.push(new ga(t));
           }
-        } else e.text && this.root.push(new ra(e.text));
-        if (e.break) for (let t = 0; t < e.break; t++) this.root.splice(1, 0, new z());
+        } else e.text && this.root.push(new ga(e.text));
+        if (e.break) for (let t = 0; t < e.break; t++) this.root.splice(1, 0, new G());
       }
 
     }
 
-    var ia = r(6085),
-        oa = r(3479);
+    var va = r(6085),
+        xa = r(3479);
 
-    class aa {
-      format(e, t = {}) {
+    class _a {
+      format(e, t = {
+        stack: []
+      }) {
         const r = e.prepForXml(t);
         if (r) return r;
         throw Error("XMLComponent did not format correctly");
@@ -13552,7 +13746,7 @@
 
     }
 
-    class ca {
+    class Ea {
       replace(e, t, r) {
         let n = e;
         return t.forEach((e, t) => {
@@ -13566,7 +13760,7 @@
 
     }
 
-    class ua {
+    class Ta {
       replace(e, t) {
         let r = e;
 
@@ -13577,8 +13771,8 @@
 
     }
 
-    var la,
-        ha = function (e, t, r, n) {
+    var Aa,
+        Sa = function (e, t, r, n) {
       return new (r || (r = Promise))(function (s, i) {
         function o(e) {
           try {
@@ -13609,11 +13803,11 @@
 
     !function (e) {
       e.NONE = "", e.WITH_2_BLANKS = "  ", e.WITH_4_BLANKS = "    ", e.WITH_TAB = "\t";
-    }(la || (la = {}));
+    }(Aa || (Aa = {}));
 
-    class pa {
+    class Ia {
       static toString(e, t) {
-        return ha(this, void 0, void 0, function* () {
+        return Sa(this, void 0, void 0, function* () {
           const r = this.compiler.compile(e, t);
           return yield r.generateAsync({
             type: "string",
@@ -13624,7 +13818,7 @@
       }
 
       static toBuffer(e, t) {
-        return ha(this, void 0, void 0, function* () {
+        return Sa(this, void 0, void 0, function* () {
           const r = this.compiler.compile(e, t);
           return yield r.generateAsync({
             type: "nodebuffer",
@@ -13635,7 +13829,7 @@
       }
 
       static toBase64String(e, t) {
-        return ha(this, void 0, void 0, function* () {
+        return Sa(this, void 0, void 0, function* () {
           const r = this.compiler.compile(e, t);
           return yield r.generateAsync({
             type: "base64",
@@ -13646,7 +13840,7 @@
       }
 
       static toBlob(e, t) {
-        return ha(this, void 0, void 0, function* () {
+        return Sa(this, void 0, void 0, function* () {
           const r = this.compiler.compile(e, t);
           return yield r.generateAsync({
             type: "blob",
@@ -13667,31 +13861,32 @@
 
     }
 
-    pa.compiler = new class {
+    Ia.compiler = new class {
       constructor() {
-        this.formatter = new aa(), this.imageReplacer = new ca(), this.numberingReplacer = new ua();
+        this.formatter = new _a(), this.imageReplacer = new Ea(), this.numberingReplacer = new Ta();
       }
 
       compile(e, t) {
-        const r = new ia(),
+        const r = new va(),
               n = this.xmlifyFile(e, t),
               s = new Map(Object.entries(n));
 
         for (const [, e] of s) if (Array.isArray(e)) for (const t of e) r.file(t.path, t.data);else r.file(e.path, e.data);
 
-        for (const t of e.Media.Array) {
-          const e = t.stream;
-          r.file(`word/media/${t.fileName}`, e);
-        }
+        for (const {
+          stream: t,
+          fileName: n
+        } of e.Media.Array) r.file(`word/media/${n}`, t);
 
         return r;
       }
 
       xmlifyFile(e, t) {
         const r = e.Document.Relationships.RelationshipCount + 1,
-              n = oa(this.formatter.format(e.Document.View, {
+              n = xa(this.formatter.format(e.Document.View, {
           viewWrapper: e.Document,
-          file: e
+          file: e,
+          stack: []
         }), {
           indent: t,
           declaration: {
@@ -13704,9 +13899,10 @@
           Relationships: {
             data: (() => (s.forEach((t, n) => {
               e.Document.Relationships.createRelationship(r + n, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image", `media/${t.fileName}`);
-            }), oa(this.formatter.format(e.Document.Relationships, {
+            }), xa(this.formatter.format(e.Document.Relationships, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13724,9 +13920,10 @@
           },
           Styles: {
             data: (() => {
-              const r = oa(this.formatter.format(e.Styles, {
+              const r = xa(this.formatter.format(e.Styles, {
                 viewWrapper: e.Document,
-                file: e
+                file: e,
+                stack: []
               }), {
                 indent: t,
                 declaration: {
@@ -13739,9 +13936,10 @@
             path: "word/styles.xml"
           },
           Properties: {
-            data: oa(this.formatter.format(e.CoreProperties, {
+            data: xa(this.formatter.format(e.CoreProperties, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13752,9 +13950,10 @@
             path: "docProps/core.xml"
           },
           Numbering: {
-            data: oa(this.formatter.format(e.Numbering, {
+            data: xa(this.formatter.format(e.Numbering, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13765,9 +13964,10 @@
             path: "word/numbering.xml"
           },
           FileRelationships: {
-            data: oa(this.formatter.format(e.FileRelationships, {
+            data: xa(this.formatter.format(e.FileRelationships, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13777,9 +13977,10 @@
             path: "_rels/.rels"
           },
           HeaderRelationships: e.Headers.map((r, n) => {
-            const s = oa(this.formatter.format(r.View, {
+            const s = xa(this.formatter.format(r.View, {
               viewWrapper: r,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13789,9 +13990,10 @@
             return this.imageReplacer.getMediaData(s, e.Media).forEach((e, t) => {
               r.Relationships.createRelationship(t, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image", `media/${e.fileName}`);
             }), {
-              data: oa(this.formatter.format(r.Relationships, {
+              data: xa(this.formatter.format(r.Relationships, {
                 viewWrapper: r,
-                file: e
+                file: e,
+                stack: []
               }), {
                 indent: t,
                 declaration: {
@@ -13802,9 +14004,10 @@
             };
           }),
           FooterRelationships: e.Footers.map((r, n) => {
-            const s = oa(this.formatter.format(r.View, {
+            const s = xa(this.formatter.format(r.View, {
               viewWrapper: r,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13814,9 +14017,10 @@
             return this.imageReplacer.getMediaData(s, e.Media).forEach((e, t) => {
               r.Relationships.createRelationship(t, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image", `media/${e.fileName}`);
             }), {
-              data: oa(this.formatter.format(r.Relationships, {
+              data: xa(this.formatter.format(r.Relationships, {
                 viewWrapper: r,
-                file: e
+                file: e,
+                stack: []
               }), {
                 indent: t,
                 declaration: {
@@ -13827,9 +14031,10 @@
             };
           }),
           Headers: e.Headers.map((r, n) => {
-            const s = oa(this.formatter.format(r.View, {
+            const s = xa(this.formatter.format(r.View, {
               viewWrapper: r,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13844,9 +14049,10 @@
             };
           }),
           Footers: e.Footers.map((r, n) => {
-            const s = oa(this.formatter.format(r.View, {
+            const s = xa(this.formatter.format(r.View, {
               viewWrapper: r,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13861,9 +14067,10 @@
             };
           }),
           ContentTypes: {
-            data: oa(this.formatter.format(e.ContentTypes, {
+            data: xa(this.formatter.format(e.ContentTypes, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13873,9 +14080,10 @@
             path: "[Content_Types].xml"
           },
           CustomProperties: {
-            data: oa(this.formatter.format(e.CustomProperties, {
+            data: xa(this.formatter.format(e.CustomProperties, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13886,9 +14094,10 @@
             path: "docProps/custom.xml"
           },
           AppProperties: {
-            data: oa(this.formatter.format(e.AppProperties, {
+            data: xa(this.formatter.format(e.AppProperties, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13899,9 +14108,10 @@
             path: "docProps/app.xml"
           },
           FootNotes: {
-            data: oa(this.formatter.format(e.FootNotes.View, {
+            data: xa(this.formatter.format(e.FootNotes.View, {
               viewWrapper: e.FootNotes,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13911,9 +14121,10 @@
             path: "word/footnotes.xml"
           },
           FootNotesRelationships: {
-            data: oa(this.formatter.format(e.FootNotes.Relationships, {
+            data: xa(this.formatter.format(e.FootNotes.Relationships, {
               viewWrapper: e.FootNotes,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13923,9 +14134,10 @@
             path: "word/_rels/footnotes.xml.rels"
           },
           Settings: {
-            data: oa(this.formatter.format(e.Settings, {
+            data: xa(this.formatter.format(e.Settings, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13936,9 +14148,10 @@
             path: "word/settings.xml"
           },
           Comments: {
-            data: oa(this.formatter.format(e.Comments, {
+            data: xa(this.formatter.format(e.Comments, {
               viewWrapper: e.Document,
-              file: e
+              file: e,
+              stack: []
             }), {
               indent: t,
               declaration: {
@@ -13952,192 +14165,453 @@
       }
 
     }();
+    var Na = r(5575);
 
-    var da = function (e, t, r, n) {
-      return new (r || (r = Promise))(function (s, i) {
+    const Ra = new _a(),
+          ka = e => (0, u.xml2js)(e, {
+      compact: !1,
+      captureSpacesBetweenElements: !0
+    }),
+          Ca = e => {
+      var t;
+      return null !== (t = ka(xa(Ra.format(new ge({
+        text: e
+      })))).elements[0].elements) && void 0 !== t ? t : [];
+    },
+          Oa = e => Object.assign(Object.assign({}, e), {
+      attributes: {
+        "xml:space": "preserve"
+      }
+    }),
+          La = (e, t) => {
+      var r, n;
+      return null !== (n = null === (r = e.elements) || void 0 === r ? void 0 : r.filter(e => e.name === t)[0].elements) && void 0 !== n ? n : [];
+    };
+
+    var Da;
+    !function (e) {
+      e[e.START = 0] = "START", e[e.MIDDLE = 1] = "MIDDLE", e[e.END = 2] = "END";
+    }(Da || (Da = {}));
+
+    const Pa = ({
+      paragraphElement: e,
+      renderedParagraph: t,
+      originalText: r,
+      replacementText: n
+    }) => {
+      const s = t.text.indexOf(r),
+            i = s + r.length - 1;
+      let o = Da.START;
+
+      for (const r of t.runs) for (const {
+        text: t,
+        index: a,
+        start: c,
+        end: u
+      } of r.parts) switch (o) {
+        case Da.START:
+          if (s >= c) {
+            const l = s - c,
+                  h = Math.min(i, u) - c,
+                  p = r.text.substring(l, h + 1);
+            if ("" === p) continue;
+            const d = t.replace(p, n);
+            Fa(e.elements[r.index].elements[a], d), o = Da.MIDDLE;
+            continue;
+          }
+
+          break;
+
+        case Da.MIDDLE:
+          if (i <= u) {
+            const n = t.substring(i - c + 1);
+            Fa(e.elements[r.index].elements[a], n);
+            const s = e.elements[r.index].elements[a];
+            e.elements[r.index].elements[a] = Oa(s), o = Da.END;
+          } else Fa(e.elements[r.index].elements[a], "");
+
+      }
+
+      return e;
+    },
+          Fa = (e, t) => (e.elements = Ca(t), e),
+          Ba = (e, t) => {
+      var r, n, s, i;
+
+      for (let o = 0; o < (null !== (r = e.elements) && void 0 !== r ? r : []).length; o++) {
+        const r = e.elements[o];
+
+        if ("element" === r.type && "w:r" === r.name) {
+          const e = (null !== (n = r.elements) && void 0 !== n ? n : []).filter(e => "element" === e.type && "w:t" === e.name);
+
+          for (const r of e) if ((null === (s = r.elements) || void 0 === s ? void 0 : s[0]) && (null === (i = r.elements[0].text) || void 0 === i ? void 0 : i.includes(t))) return o;
+        }
+      }
+
+      throw new Error("Token not found");
+    },
+          Ma = (e, t) => {
+      var r, n;
+      let s = 0;
+      const i = null !== (n = null === (r = e.elements) || void 0 === r ? void 0 : r.map((e, r) => {
+        var n, i;
+
+        if ("element" === e.type && "w:t" === e.name) {
+          const o = (null !== (i = null === (n = e.elements) || void 0 === n ? void 0 : n[0].text) && void 0 !== i ? i : "").split(t).map(t => Object.assign(Object.assign(Object.assign({}, e), Oa(e)), {
+            elements: Ca(t)
+          }));
+          return s = r, o;
+        }
+
+        return e;
+      }).flat()) && void 0 !== n ? n : [];
+      return {
+        left: Object.assign(Object.assign({}, JSON.parse(JSON.stringify(e))), {
+          elements: i.slice(0, s + 1)
+        }),
+        right: Object.assign(Object.assign({}, JSON.parse(JSON.stringify(e))), {
+          elements: i.slice(s + 1)
+        })
+      };
+    },
+          Ua = new _a(),
+          Ha = (e, t, r, n, s) => {
+      for (const i of n) {
+        const n = t.children.map(e => ka(xa(Ua.format(e, s)))).map(e => e.elements[0]);
+
+        switch (t.type) {
+          case Ya.DOCUMENT:
+            {
+              const t = za(e, i.path),
+                    r = Wa(i.path);
+              t.elements.splice(r, 1, ...n);
+              break;
+            }
+
+          case Ya.PARAGRAPH:
+          default:
+            {
+              const t = ja(e, i.path);
+              Pa({
+                paragraphElement: t,
+                renderedParagraph: i,
+                originalText: r,
+                replacementText: "ɵ"
+              });
+              const s = Ba(t, "ɵ"),
+                    {
+                left: o,
+                right: a
+              } = Ma(t.elements[s], "ɵ");
+              t.elements.splice(s, 1, o, ...n, a);
+              break;
+            }
+        }
+      }
+
+      return e;
+    },
+          ja = (e, t) => {
+      let r = e;
+
+      for (let e = 1; e < t.length; e++) {
+        const n = t[e],
+              s = r.elements;
+        if (!s) throw new Error("Could not find element");
+        r = s[n];
+      }
+
+      return r;
+    },
+          za = (e, t) => ja(e, t.slice(0, t.length - 1)),
+          Wa = e => e[e.length - 1],
+          Ga = e => {
+      if ("w:p" !== e.element.name) throw new Error(`Invalid node type: ${e.element.name}`);
+      if (!e.element.elements) return {
+        text: "",
+        runs: [],
+        index: -1,
+        path: []
+      };
+      let t = 0;
+      const r = e.element.elements.map((e, t) => ({
+        element: e,
+        i: t
+      })).filter(({
+        element: e
+      }) => "w:r" === e.name).map(({
+        element: e,
+        i: r
+      }) => {
+        const n = Ka(e, r, t);
+        return t += n.text.length, n;
+      }).filter(e => !!e).map(e => e);
+      return {
+        text: r.reduce((e, t) => e + t.text, ""),
+        runs: r,
+        index: e.index,
+        path: Va(e)
+      };
+    },
+          Ka = (e, t, r) => {
+      if (!e.elements) return {
+        text: "",
+        parts: [],
+        index: -1,
+        start: r,
+        end: r
+      };
+      let n = r;
+      const s = e.elements.map((e, t) => {
+        var r, s;
+        return "w:t" === e.name && e.elements && e.elements.length > 0 ? {
+          text: null !== (s = null === (r = e.elements[0].text) || void 0 === r ? void 0 : r.toString()) && void 0 !== s ? s : "",
+          index: t,
+          start: n,
+          end: (() => {
+            var t, r;
+            return n += (null !== (r = null === (t = e.elements[0].text) || void 0 === t ? void 0 : t.toString()) && void 0 !== r ? r : "").length - 1, n;
+          })()
+        } : void 0;
+      }).filter(e => !!e).map(e => e);
+      return {
+        text: s.reduce((e, t) => e + t.text, ""),
+        parts: s,
+        index: t,
+        start: r,
+        end: n
+      };
+    },
+          Va = e => e.parent ? [...Va(e.parent), e.index] : [e.index],
+          Xa = e => {
+      var t, r;
+      return null !== (r = null === (t = e.element.elements) || void 0 === t ? void 0 : t.map((t, r) => ({
+        element: t,
+        index: r,
+        parent: e
+      }))) && void 0 !== r ? r : [];
+    },
+          $a = (e, t) => {
+      let r = [];
+      const n = [...Xa({
+        element: e,
+        index: 0,
+        parent: void 0
+      })];
+      let s;
+
+      for (; n.length > 0;) s = n.shift(), "w:p" === s.element.name ? r = [...r, Ga(s)] : n.push(...Xa(s));
+
+      return r.filter(e => e.text.includes(t));
+    },
+          qa = (e, t, r, n, s) => {
+      const i = La(e, "Relationships");
+      return i.push({
+        attributes: {
+          Id: `rId${t}`,
+          Type: r,
+          Target: n,
+          TargetMode: s
+        },
+        name: "Relationship",
+        type: "element"
+      }), i;
+    },
+          Za = (e, t, r) => {
+      La(e, "Types").push({
+        attributes: {
+          ContentType: t,
+          Extension: r
+        },
+        name: "Default",
+        type: "element"
+      });
+    };
+
+    var Ya;
+    !function (e) {
+      e.DOCUMENT = "file", e.PARAGRAPH = "paragraph";
+    }(Ya || (Ya = {}));
+
+    const Ja = new Ea(),
+          Qa = (e, t) => {
+      return r = void 0, n = void 0, i = function* () {
+        var r, n;
+        const s = yield va.loadAsync(e),
+              i = new Map(),
+              o = {
+          Media: new to()
+        },
+              a = new Map(),
+              c = [],
+              u = [];
+        let l = !1;
+        const h = new Map();
+
+        for (const [e, r] of Object.entries(s.files)) {
+          if (!e.endsWith(".xml") && !e.endsWith(".rels")) {
+            h.set(e, yield r.async("nodebuffer"));
+            continue;
+          }
+
+          const n = ka(yield r.async("text"));
+
+          if (e.startsWith("word/") && !e.endsWith(".xml.rels")) {
+            const r = {
+              file: o,
+              viewWrapper: {
+                Relationships: {
+                  createRelationship: (t, r, n, s) => {
+                    u.push({
+                      key: e,
+                      hyperlink: {
+                        id: t,
+                        link: n
+                      }
+                    });
+                  }
+                }
+              },
+              stack: []
+            };
+            i.set(e, r);
+
+            for (const [s, i] of Object.entries(t.patches)) {
+              const t = `{{${s}}}`,
+                    o = $a(n, t);
+              Ha(n, Object.assign(Object.assign({}, i), {
+                children: i.children.map(t => {
+                  if (t instanceof Jr) {
+                    const r = new Zr(t.options.children, (0, Ae.EL)());
+                    return u.push({
+                      key: e,
+                      hyperlink: {
+                        id: r.linkId,
+                        link: t.options.link
+                      }
+                    }), r;
+                  }
+
+                  return t;
+                })
+              }), t, o, r);
+            }
+
+            const s = Ja.getMediaData(JSON.stringify(n), r.file.Media);
+            s.length > 0 && (l = !0, c.push({
+              key: e,
+              mediaDatas: s
+            }));
+          }
+
+          a.set(e, n);
+        }
+
+        for (const {
+          key: e,
+          mediaDatas: t
+        } of c) {
+          const n = `word/_rels/${e.split("/").pop()}.rels`,
+                s = null !== (r = a.get(n)) && void 0 !== r ? r : tc();
+          a.set(n, s);
+          const i = La(s, "Relationships").map(e => {
+            var t, r, n;
+            return (e => {
+              const t = parseInt(e.substring(3), 10);
+              return isNaN(t) ? 0 : t;
+            })(null !== (n = null === (r = null === (t = e.attributes) || void 0 === t ? void 0 : t.Id) || void 0 === r ? void 0 : r.toString()) && void 0 !== n ? n : "");
+          }).reduce((e, t) => Math.max(e, t), 0) + 1,
+                o = Ja.replace(JSON.stringify(a.get(e)), t, i);
+          a.set(e, JSON.parse(o));
+
+          for (let e = 0; e < t.length; e++) {
+            const {
+              fileName: r
+            } = t[e];
+            qa(s, i + e, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image", `media/${r}`);
+          }
+        }
+
+        for (const {
+          key: e,
+          hyperlink: t
+        } of u) {
+          const r = `word/_rels/${e.split("/").pop()}.rels`,
+                s = null !== (n = a.get(r)) && void 0 !== n ? n : tc();
+          a.set(r, s), qa(s, t.id, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", t.link, xt.EXTERNAL);
+        }
+
+        if (l) {
+          const e = a.get("[Content_Types].xml");
+          if (!e) throw new Error("Could not find content types file");
+          Za(e, "image/png", "png"), Za(e, "image/jpeg", "jpeg"), Za(e, "image/jpeg", "jpg"), Za(e, "image/bmp", "bmp"), Za(e, "image/gif", "gif");
+        }
+
+        const p = new va();
+
+        for (const [e, t] of a) {
+          const r = ec(t);
+          p.file(e, r);
+        }
+
+        for (const [e, t] of h) p.file(e, t);
+
+        for (const {
+          stream: e,
+          fileName: t
+        } of o.Media.Array) p.file(`word/media/${t}`, e);
+
+        return p.generateAsync({
+          type: "nodebuffer",
+          mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          compression: "DEFLATE"
+        });
+      }, new ((s = void 0) || (s = Promise))(function (e, t) {
         function o(e) {
           try {
-            c(n.next(e));
+            c(i.next(e));
           } catch (e) {
-            i(e);
+            t(e);
           }
         }
 
         function a(e) {
           try {
-            c(n.throw(e));
+            c(i.throw(e));
           } catch (e) {
-            i(e);
+            t(e);
           }
         }
 
-        function c(e) {
-          var t;
-          e.done ? s(e.value) : (t = e.value, t instanceof r ? t : new r(function (e) {
-            e(t);
+        function c(t) {
+          var r;
+          t.done ? e(t.value) : (r = t.value, r instanceof s ? r : new s(function (e) {
+            e(r);
           })).then(o, a);
         }
 
-        c((n = n.apply(e, t || [])).next());
+        c((i = i.apply(r, n || [])).next());
       });
-    };
-
-    const fa = {
-      "http://schemas.openxmlformats.org/officeDocument/2006/relationships/header": "header",
-      "http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer": "footer",
-      "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image": "image",
-      "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink": "hyperlink"
-    };
-    var ma;
-    !function (e) {
-      e.HEADER = "header", e.FOOTER = "footer", e.IMAGE = "image", e.HYPERLINK = "hyperlink";
-    }(ma || (ma = {}));
-
-    class wa {
-      extract(e) {
-        return da(this, void 0, void 0, function* () {
-          const t = yield ia.loadAsync(e),
-                r = yield t.files["word/document.xml"].async("text"),
-                n = yield t.files["word/_rels/document.xml.rels"].async("text"),
-                s = this.extractDocumentRefs(r),
-                i = this.findReferenceFiles(n),
-                o = new Bi();
-          return {
-            headers: yield this.createHeaders(t, s, i, o, 0),
-            footers: yield this.createFooters(t, s, i, o, s.headers.length),
-            currentRelationshipId: s.footers.length + s.headers.length,
-            styles: yield t.files["word/styles.xml"].async("text"),
-            titlePageIsDefined: this.checkIfTitlePageIsDefined(r),
-            media: o
-          };
-        });
-      }
-
-      createFooters(e, t, r, n, s) {
-        return da(this, void 0, void 0, function* () {
-          const i = t.footers.map((t, i) => da(this, void 0, void 0, function* () {
-            const o = r.find(e => e.id === t.id);
-            if (null === o || !o) throw new Error(`Can not find target file for id ${t.id}`);
-            const a = yield e.files[`word/${o.target}`].async("text"),
-                  l = (0, c.xml2js)(a, {
-              compact: !1,
-              captureSpacesBetweenElements: !0
-            });
-            if (!l.elements) return;
-            const h = l.elements.reduce((e, t) => "w:ftr" === t.name ? t : e),
-                  p = u(h),
-                  d = new _i(n, s + i, p);
-            return yield this.addRelationshipToWrapper(o, e, d, n), {
-              type: t.type,
-              footer: d
-            };
-          })).filter(e => !!e);
-          return Promise.all(i);
-        });
-      }
-
-      createHeaders(e, t, r, n, s) {
-        return da(this, void 0, void 0, function* () {
-          const i = t.headers.map((t, i) => da(this, void 0, void 0, function* () {
-            const o = r.find(e => e.id === t.id);
-            if (null === o || !o) throw new Error(`Can not find target file for id ${t.id}`);
-            const a = yield e.files[`word/${o.target}`].async("text"),
-                  l = (0, c.xml2js)(a, {
-              compact: !1,
-              captureSpacesBetweenElements: !0
-            });
-            if (!l.elements) return;
-            const h = l.elements.reduce((e, t) => "w:hdr" === t.name ? t : e),
-                  p = u(h),
-                  d = new Fi(n, s + i, p);
-            return yield this.addRelationshipToWrapper(o, e, d, n), {
-              type: t.type,
-              header: d
-            };
-          })).filter(e => !!e);
-          return Promise.all(i);
-        });
-      }
-
-      addRelationshipToWrapper(e, t, r, n) {
-        return da(this, void 0, void 0, function* () {
-          const s = t.files[`word/_rels/${e.target}.rels`];
-          if (!s) return;
-          const i = yield s.async("text"),
-                o = this.findReferenceFiles(i).filter(e => e.type === ma.IMAGE),
-                a = this.findReferenceFiles(i).filter(e => e.type === ma.HYPERLINK);
-
-          for (const e of o) {
-            const s = ia.support.arraybuffer ? "arraybuffer" : "nodebuffer",
-                  i = yield t.files[`word/${e.target}`].async(s),
-                  o = n.addMedia(i, {
-              width: 100,
-              height: 100
-            });
-            r.Relationships.createRelationship(e.id, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image", `media/${o.fileName}`);
-          }
-
-          for (const e of a) r.Relationships.createRelationship(e.id, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", e.target, Ce.EXTERNAL);
-        });
-      }
-
-      findReferenceFiles(e) {
-        const t = (0, c.xml2js)(e, {
-          compact: !0
-        });
-        return (Array.isArray(t.Relationships.Relationship) ? t.Relationships.Relationship : [t.Relationships.Relationship]).map(e => {
-          if (void 0 === e._attributes) throw Error("relationship element has no attributes");
-          return {
-            id: this.parseRefId(e._attributes.Id),
-            type: fa[e._attributes.Type],
-            target: e._attributes.Target
-          };
-        }).filter(e => null !== e.type);
-      }
-
-      extractDocumentRefs(e) {
-        const t = (0, c.xml2js)(e, {
-          compact: !0
-        })["w:document"]["w:body"]["w:sectPr"],
-              r = t["w:headerReference"];
-        let n;
-        n = void 0 === r ? [] : Array.isArray(r) ? r : [r];
-        const s = n.map(e => {
-          if (void 0 === e._attributes) throw Error("header reference element has no attributes");
-          return {
-            type: e._attributes["w:type"],
-            id: this.parseRefId(e._attributes["r:id"])
-          };
-        }),
-              i = t["w:footerReference"];
-        let o;
-        return o = void 0 === i ? [] : Array.isArray(i) ? i : [i], {
-          headers: s,
-          footers: o.map(e => {
-            if (void 0 === e._attributes) throw Error("footer reference element has no attributes");
-            return {
-              type: e._attributes["w:type"],
-              id: this.parseRefId(e._attributes["r:id"])
-            };
-          })
-        };
-      }
-
-      checkIfTitlePageIsDefined(e) {
-        return void 0 !== (0, c.xml2js)(e, {
-          compact: !0
-        })["w:document"]["w:body"]["w:sectPr"]["w:titlePg"];
-      }
-
-      parseRefId(e) {
-        const t = /^rId(\d+)$/.exec(e);
-        if (null === t) throw new Error("Invalid ref id");
-        return parseInt(t[1], 10);
-      }
-
-    }
-
-    var ga = r(5575);
+      var r, n, s, i;
+    },
+          ec = e => (0, u.js2xml)(e),
+          tc = () => ({
+      declaration: {
+        attributes: {
+          version: "1.0",
+          encoding: "UTF-8",
+          standalone: "yes"
+        }
+      },
+      elements: [{
+        type: "element",
+        name: "Relationships",
+        attributes: {
+          xmlns: "http://schemas.openxmlformats.org/package/2006/relationships"
+        },
+        elements: []
+      }]
+    });
   })(), n;
 })());
 
@@ -17902,7 +18376,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ 2560);
 /**
- * @license Angular v14.2.8
+ * @license Angular v14.2.12
  * (c) 2010-2022 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -24640,7 +25114,7 @@ function isPlatformWorkerUi(platformId) {
  */
 
 
-const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.8');
+const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.12');
 /**
  * @license
  * Copyright Google LLC All Rights Reserved.
@@ -26596,6 +27070,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "ɵɵtextInterpolateV": () => (/* binding */ ɵɵtextInterpolateV),
 /* harmony export */   "ɵɵtrustConstantHtml": () => (/* binding */ ɵɵtrustConstantHtml),
 /* harmony export */   "ɵɵtrustConstantResourceUrl": () => (/* binding */ ɵɵtrustConstantResourceUrl),
+/* harmony export */   "ɵɵvalidateIframeAttribute": () => (/* binding */ ɵɵvalidateIframeAttribute),
 /* harmony export */   "ɵɵviewQuery": () => (/* binding */ ɵɵviewQuery)
 /* harmony export */ });
 /* harmony import */ var rxjs__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! rxjs */ 228);
@@ -26604,7 +27079,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rxjs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rxjs */ 6646);
 /* harmony import */ var rxjs_operators__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rxjs/operators */ 1203);
 /**
- * @license Angular v14.2.8
+ * @license Angular v14.2.12
  * (c) 2010-2022 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -32747,56 +33222,2110 @@ function setAllowDuplicateNgModuleIdsForTest(allowDuplicates) {
  */
 
 /**
- * Most of the use of `document` in Angular is from within the DI system so it is possible to simply
- * inject the `DOCUMENT` token and are done.
+ * Defines a schema that allows an NgModule to contain the following:
+ * - Non-Angular elements named with dash case (`-`).
+ * - Element properties named with dash case (`-`).
+ * Dash case is the naming convention for custom elements.
  *
- * Ivy is special because it does not rely upon the DI and must get hold of the document some other
- * way.
- *
- * The solution is to define `getDocument()` and `setDocument()` top-level functions for ivy.
- * Wherever ivy needs the global document, it calls `getDocument()` instead.
- *
- * When running ivy outside of a browser environment, it is necessary to call `setDocument()` to
- * tell ivy what the global `document` is.
- *
- * Angular does this for us in each of the standard platforms (`Browser`, `Server`, and `WebWorker`)
- * by calling `setDocument()` when providing the `DOCUMENT` token.
+ * @publicApi
  */
 
 
-let DOCUMENT = undefined;
+const CUSTOM_ELEMENTS_SCHEMA = {
+  name: 'custom-elements'
+};
 /**
- * Tell ivy what the `document` is for this platform.
+ * Defines a schema that allows any property on any element.
  *
- * It is only necessary to call this if the current platform is not a browser.
+ * This schema allows you to ignore the errors related to any unknown elements or properties in a
+ * template. The usage of this schema is generally discouraged because it prevents useful validation
+ * and may hide real errors in your template. Consider using the `CUSTOM_ELEMENTS_SCHEMA` instead.
  *
- * @param document The object representing the global `document` in this environment.
+ * @publicApi
  */
 
-function setDocument(document) {
-  DOCUMENT = document;
+const NO_ERRORS_SCHEMA = {
+  name: 'no-errors-schema'
+};
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+let shouldThrowErrorOnUnknownElement = false;
+/**
+ * Sets a strict mode for JIT-compiled components to throw an error on unknown elements,
+ * instead of just logging the error.
+ * (for AOT-compiled ones this check happens at build time).
+ */
+
+function ɵsetUnknownElementStrictMode(shouldThrow) {
+  shouldThrowErrorOnUnknownElement = shouldThrow;
 }
 /**
- * Access the object that represents the `document` for this platform.
- *
- * Ivy calls this whenever it needs to access the `document` object.
- * For example to create the renderer or to do sanitization.
+ * Gets the current value of the strict mode.
  */
 
 
-function getDocument() {
-  if (DOCUMENT !== undefined) {
-    return DOCUMENT;
-  } else if (typeof document !== 'undefined') {
-    return document;
-  } // No "document" can be found. This should only happen if we are running ivy outside Angular and
-  // the current platform is not a browser. Since this is not a supported scenario at the moment
-  // this should not happen in Angular apps.
-  // Once we support running ivy outside of Angular we will need to publish `setDocument()` as a
-  // public API. Meanwhile we just return `undefined` and let the application fail.
+function ɵgetUnknownElementStrictMode() {
+  return shouldThrowErrorOnUnknownElement;
+}
+
+let shouldThrowErrorOnUnknownProperty = false;
+/**
+ * Sets a strict mode for JIT-compiled components to throw an error on unknown properties,
+ * instead of just logging the error.
+ * (for AOT-compiled ones this check happens at build time).
+ */
+
+function ɵsetUnknownPropertyStrictMode(shouldThrow) {
+  shouldThrowErrorOnUnknownProperty = shouldThrow;
+}
+/**
+ * Gets the current value of the strict mode.
+ */
 
 
-  return undefined;
+function ɵgetUnknownPropertyStrictMode() {
+  return shouldThrowErrorOnUnknownProperty;
+}
+/**
+ * Validates that the element is known at runtime and produces
+ * an error if it's not the case.
+ * This check is relevant for JIT-compiled components (for AOT-compiled
+ * ones this check happens at build time).
+ *
+ * The element is considered known if either:
+ * - it's a known HTML element
+ * - it's a known custom element
+ * - the element matches any directive
+ * - the element is allowed by one of the schemas
+ *
+ * @param element Element to validate
+ * @param lView An `LView` that represents a current component that is being rendered
+ * @param tagName Name of the tag to check
+ * @param schemas Array of schemas
+ * @param hasDirectives Boolean indicating that the element matches any directive
+ */
+
+
+function validateElementIsKnown(element, lView, tagName, schemas, hasDirectives) {
+  // If `schemas` is set to `null`, that's an indication that this Component was compiled in AOT
+  // mode where this check happens at compile time. In JIT mode, `schemas` is always present and
+  // defined as an array (as an empty array in case `schemas` field is not defined) and we should
+  // execute the check below.
+  if (schemas === null) return; // If the element matches any directive, it's considered as valid.
+
+  if (!hasDirectives && tagName !== null) {
+    // The element is unknown if it's an instance of HTMLUnknownElement, or it isn't registered
+    // as a custom element. Note that unknown elements with a dash in their name won't be instances
+    // of HTMLUnknownElement in browsers that support web components.
+    const isUnknown = // Note that we can't check for `typeof HTMLUnknownElement === 'function'`,
+    // because while most browsers return 'function', IE returns 'object'.
+    typeof HTMLUnknownElement !== 'undefined' && HTMLUnknownElement && element instanceof HTMLUnknownElement || typeof customElements !== 'undefined' && tagName.indexOf('-') > -1 && !customElements.get(tagName);
+
+    if (isUnknown && !matchingSchemas(schemas, tagName)) {
+      const isHostStandalone = isHostComponentStandalone(lView);
+      const templateLocation = getTemplateLocationDetails(lView);
+      const schemas = `'${isHostStandalone ? '@Component' : '@NgModule'}.schemas'`;
+      let message = `'${tagName}' is not a known element${templateLocation}:\n`;
+      message += `1. If '${tagName}' is an Angular component, then verify that it is ${isHostStandalone ? 'included in the \'@Component.imports\' of this component' : 'a part of an @NgModule where this component is declared'}.\n`;
+
+      if (tagName && tagName.indexOf('-') > -1) {
+        message += `2. If '${tagName}' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the ${schemas} of this component to suppress this message.`;
+      } else {
+        message += `2. To allow any element add 'NO_ERRORS_SCHEMA' to the ${schemas} of this component.`;
+      }
+
+      if (shouldThrowErrorOnUnknownElement) {
+        throw new RuntimeError(304
+        /* RuntimeErrorCode.UNKNOWN_ELEMENT */
+        , message);
+      } else {
+        console.error(formatRuntimeError(304
+        /* RuntimeErrorCode.UNKNOWN_ELEMENT */
+        , message));
+      }
+    }
+  }
+}
+/**
+ * Validates that the property of the element is known at runtime and returns
+ * false if it's not the case.
+ * This check is relevant for JIT-compiled components (for AOT-compiled
+ * ones this check happens at build time).
+ *
+ * The property is considered known if either:
+ * - it's a known property of the element
+ * - the element is allowed by one of the schemas
+ * - the property is used for animations
+ *
+ * @param element Element to validate
+ * @param propName Name of the property to check
+ * @param tagName Name of the tag hosting the property
+ * @param schemas Array of schemas
+ */
+
+
+function isPropertyValid(element, propName, tagName, schemas) {
+  // If `schemas` is set to `null`, that's an indication that this Component was compiled in AOT
+  // mode where this check happens at compile time. In JIT mode, `schemas` is always present and
+  // defined as an array (as an empty array in case `schemas` field is not defined) and we should
+  // execute the check below.
+  if (schemas === null) return true; // The property is considered valid if the element matches the schema, it exists on the element,
+  // or it is synthetic, and we are in a browser context (web worker nodes should be skipped).
+
+  if (matchingSchemas(schemas, tagName) || propName in element || isAnimationProp(propName)) {
+    return true;
+  } // Note: `typeof Node` returns 'function' in most browsers, but on IE it is 'object' so we
+  // need to account for both here, while being careful with `typeof null` also returning 'object'.
+
+
+  return typeof Node === 'undefined' || Node === null || !(element instanceof Node);
+}
+/**
+ * Logs or throws an error that a property is not supported on an element.
+ *
+ * @param propName Name of the invalid property
+ * @param tagName Name of the tag hosting the property
+ * @param nodeType Type of the node hosting the property
+ * @param lView An `LView` that represents a current component
+ */
+
+
+function handleUnknownPropertyError(propName, tagName, nodeType, lView) {
+  // Special-case a situation when a structural directive is applied to
+  // an `<ng-template>` element, for example: `<ng-template *ngIf="true">`.
+  // In this case the compiler generates the `ɵɵtemplate` instruction with
+  // the `null` as the tagName. The directive matching logic at runtime relies
+  // on this effect (see `isInlineTemplate`), thus using the 'ng-template' as
+  // a default value of the `tNode.value` is not feasible at this moment.
+  if (!tagName && nodeType === 4
+  /* TNodeType.Container */
+  ) {
+    tagName = 'ng-template';
+  }
+
+  const isHostStandalone = isHostComponentStandalone(lView);
+  const templateLocation = getTemplateLocationDetails(lView);
+  let message = `Can't bind to '${propName}' since it isn't a known property of '${tagName}'${templateLocation}.`;
+  const schemas = `'${isHostStandalone ? '@Component' : '@NgModule'}.schemas'`;
+  const importLocation = isHostStandalone ? 'included in the \'@Component.imports\' of this component' : 'a part of an @NgModule where this component is declared';
+
+  if (KNOWN_CONTROL_FLOW_DIRECTIVES.has(propName)) {
+    // Most likely this is a control flow directive (such as `*ngIf`) used in
+    // a template, but the directive or the `CommonModule` is not imported.
+    const correspondingImport = KNOWN_CONTROL_FLOW_DIRECTIVES.get(propName);
+    message += `\nIf the '${propName}' is an Angular control flow directive, ` + `please make sure that either the '${correspondingImport}' directive or the 'CommonModule' is ${importLocation}.`;
+  } else {
+    // May be an Angular component, which is not imported/declared?
+    message += `\n1. If '${tagName}' is an Angular component and it has the ` + `'${propName}' input, then verify that it is ${importLocation}.`; // May be a Web Component?
+
+    if (tagName && tagName.indexOf('-') > -1) {
+      message += `\n2. If '${tagName}' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' ` + `to the ${schemas} of this component to suppress this message.`;
+      message += `\n3. To allow any property add 'NO_ERRORS_SCHEMA' to ` + `the ${schemas} of this component.`;
+    } else {
+      // If it's expected, the error can be suppressed by the `NO_ERRORS_SCHEMA` schema.
+      message += `\n2. To allow any property add 'NO_ERRORS_SCHEMA' to ` + `the ${schemas} of this component.`;
+    }
+  }
+
+  reportUnknownPropertyError(message);
+}
+
+function reportUnknownPropertyError(message) {
+  if (shouldThrowErrorOnUnknownProperty) {
+    throw new RuntimeError(303
+    /* RuntimeErrorCode.UNKNOWN_BINDING */
+    , message);
+  } else {
+    console.error(formatRuntimeError(303
+    /* RuntimeErrorCode.UNKNOWN_BINDING */
+    , message));
+  }
+}
+/**
+ * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
+ * and must **not** be used in production bundles. The function makes megamorphic reads, which might
+ * be too slow for production mode and also it relies on the constructor function being available.
+ *
+ * Gets a reference to the host component def (where a current component is declared).
+ *
+ * @param lView An `LView` that represents a current component that is being rendered.
+ */
+
+
+function getDeclarationComponentDef(lView) {
+  !ngDevMode && throwError('Must never be called in production mode');
+  const declarationLView = lView[DECLARATION_COMPONENT_VIEW];
+  const context = declarationLView[CONTEXT]; // Unable to obtain a context.
+
+  if (!context) return null;
+  return context.constructor ? getComponentDef(context.constructor) : null;
+}
+/**
+ * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
+ * and must **not** be used in production bundles. The function makes megamorphic reads, which might
+ * be too slow for production mode.
+ *
+ * Checks if the current component is declared inside of a standalone component template.
+ *
+ * @param lView An `LView` that represents a current component that is being rendered.
+ */
+
+
+function isHostComponentStandalone(lView) {
+  !ngDevMode && throwError('Must never be called in production mode');
+  const componentDef = getDeclarationComponentDef(lView); // Treat host component as non-standalone if we can't obtain the def.
+
+  return !!componentDef?.standalone;
+}
+/**
+ * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
+ * and must **not** be used in production bundles. The function makes megamorphic reads, which might
+ * be too slow for production mode.
+ *
+ * Constructs a string describing the location of the host component template. The function is used
+ * in dev mode to produce error messages.
+ *
+ * @param lView An `LView` that represents a current component that is being rendered.
+ */
+
+
+function getTemplateLocationDetails(lView) {
+  !ngDevMode && throwError('Must never be called in production mode');
+  const hostComponentDef = getDeclarationComponentDef(lView);
+  const componentClassName = hostComponentDef?.type?.name;
+  return componentClassName ? ` (used in the '${componentClassName}' component template)` : '';
+}
+/**
+ * The set of known control flow directives and their corresponding imports.
+ * We use this set to produce a more precises error message with a note
+ * that the `CommonModule` should also be included.
+ */
+
+
+const KNOWN_CONTROL_FLOW_DIRECTIVES = new Map([['ngIf', 'NgIf'], ['ngFor', 'NgFor'], ['ngSwitchCase', 'NgSwitchCase'], ['ngSwitchDefault', 'NgSwitchDefault']]);
+/**
+ * Returns true if the tag name is allowed by specified schemas.
+ * @param schemas Array of schemas
+ * @param tagName Name of the tag
+ */
+
+function matchingSchemas(schemas, tagName) {
+  if (schemas !== null) {
+    for (let i = 0; i < schemas.length; i++) {
+      const schema = schemas[i];
+
+      if (schema === NO_ERRORS_SCHEMA || schema === CUSTOM_ELEMENTS_SCHEMA && tagName && tagName.indexOf('-') > -1) {
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Flags for renderer-specific style modifiers.
+ * @publicApi
+ */
+
+
+var RendererStyleFlags2;
+
+(function (RendererStyleFlags2) {
+  // TODO(misko): This needs to be refactored into a separate file so that it can be imported from
+  // `node_manipulation.ts` Currently doing the import cause resolution order to change and fails
+  // the tests. The work around is to have hard coded value in `node_manipulation.ts` for now.
+
+  /**
+   * Marks a style as important.
+   */
+  RendererStyleFlags2[RendererStyleFlags2["Important"] = 1] = "Important";
+  /**
+   * Marks a style as using dash case naming (this-is-dash-case).
+   */
+
+  RendererStyleFlags2[RendererStyleFlags2["DashCase"] = 2] = "DashCase";
+})(RendererStyleFlags2 || (RendererStyleFlags2 = {}));
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Disallowed strings in the comment.
+ *
+ * see: https://html.spec.whatwg.org/multipage/syntax.html#comments
+ */
+
+
+const COMMENT_DISALLOWED = /^>|^->|<!--|-->|--!>|<!-$/g;
+/**
+ * Delimiter in the disallowed strings which needs to be wrapped with zero with character.
+ */
+
+const COMMENT_DELIMITER = /(<|>)/;
+const COMMENT_DELIMITER_ESCAPED = '\u200B$1\u200B';
+/**
+ * Escape the content of comment strings so that it can be safely inserted into a comment node.
+ *
+ * The issue is that HTML does not specify any way to escape comment end text inside the comment.
+ * Consider: `<!-- The way you close a comment is with ">", and "->" at the beginning or by "-->" or
+ * "--!>" at the end. -->`. Above the `"-->"` is meant to be text not an end to the comment. This
+ * can be created programmatically through DOM APIs. (`<!--` are also disallowed.)
+ *
+ * see: https://html.spec.whatwg.org/multipage/syntax.html#comments
+ *
+ * ```
+ * div.innerHTML = div.innerHTML
+ * ```
+ *
+ * One would expect that the above code would be safe to do, but it turns out that because comment
+ * text is not escaped, the comment may contain text which will prematurely close the comment
+ * opening up the application for XSS attack. (In SSR we programmatically create comment nodes which
+ * may contain such text and expect them to be safe.)
+ *
+ * This function escapes the comment text by looking for comment delimiters (`<` and `>`) and
+ * surrounding them with `_>_` where the `_` is a zero width space `\u200B`. The result is that if a
+ * comment contains any of the comment start/end delimiters (such as `<!--`, `-->` or `--!>`) the
+ * text it will render normally but it will not cause the HTML parser to close/open the comment.
+ *
+ * @param value text to make safe for comment node by escaping the comment open/close character
+ *     sequence.
+ */
+
+function escapeCommentText(value) {
+  return value.replace(COMMENT_DISALLOWED, text => text.replace(COMMENT_DELIMITER, COMMENT_DELIMITER_ESCAPED));
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+// Keeps track of the currently-active LViews.
+
+
+const TRACKED_LVIEWS = new Map(); // Used for generating unique IDs for LViews.
+
+let uniqueIdCounter = 0;
+/** Gets a unique ID that can be assigned to an LView. */
+
+function getUniqueLViewId() {
+  return uniqueIdCounter++;
+}
+/** Starts tracking an LView. */
+
+
+function registerLView(lView) {
+  ngDevMode && assertNumber(lView[ID], 'LView must have an ID in order to be registered');
+  TRACKED_LVIEWS.set(lView[ID], lView);
+}
+/** Gets an LView by its unique ID. */
+
+
+function getLViewById(id) {
+  ngDevMode && assertNumber(id, 'ID used for LView lookup must be a number');
+  return TRACKED_LVIEWS.get(id) || null;
+}
+/** Stops tracking an LView. */
+
+
+function unregisterLView(lView) {
+  ngDevMode && assertNumber(lView[ID], 'Cannot stop tracking an LView that does not have an ID');
+  TRACKED_LVIEWS.delete(lView[ID]);
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * The internal view context which is specific to a given DOM element, directive or
+ * component instance. Each value in here (besides the LView and element node details)
+ * can be present, null or undefined. If undefined then it implies the value has not been
+ * looked up yet, otherwise, if null, then a lookup was executed and nothing was found.
+ *
+ * Each value will get filled when the respective value is examined within the getContext
+ * function. The component, element and each directive instance will share the same instance
+ * of the context.
+ */
+
+
+class LContext {
+  constructor(
+  /**
+   * ID of the component's parent view data.
+   */
+  lViewId,
+  /**
+   * The index instance of the node.
+   */
+  nodeIndex,
+  /**
+   * The instance of the DOM node that is attached to the lNode.
+   */
+  native) {
+    this.lViewId = lViewId;
+    this.nodeIndex = nodeIndex;
+    this.native = native;
+  }
+  /** Component's parent view data. */
+
+
+  get lView() {
+    return getLViewById(this.lViewId);
+  }
+
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Returns the matching `LContext` data for a given DOM node, directive or component instance.
+ *
+ * This function will examine the provided DOM element, component, or directive instance\'s
+ * monkey-patched property to derive the `LContext` data. Once called then the monkey-patched
+ * value will be that of the newly created `LContext`.
+ *
+ * If the monkey-patched value is the `LView` instance then the context value for that
+ * target will be created and the monkey-patch reference will be updated. Therefore when this
+ * function is called it may mutate the provided element\'s, component\'s or any of the associated
+ * directive\'s monkey-patch values.
+ *
+ * If the monkey-patch value is not detected then the code will walk up the DOM until an element
+ * is found which contains a monkey-patch reference. When that occurs then the provided element
+ * will be updated with a new context (which is then returned). If the monkey-patch value is not
+ * detected for a component/directive instance then it will throw an error (all components and
+ * directives should be automatically monkey-patched by ivy).
+ *
+ * @param target Component, Directive or DOM Node.
+ */
+
+
+function getLContext(target) {
+  let mpValue = readPatchedData(target);
+
+  if (mpValue) {
+    // only when it's an array is it considered an LView instance
+    // ... otherwise it's an already constructed LContext instance
+    if (isLView(mpValue)) {
+      const lView = mpValue;
+      let nodeIndex;
+      let component = undefined;
+      let directives = undefined;
+
+      if (isComponentInstance(target)) {
+        nodeIndex = findViaComponent(lView, target);
+
+        if (nodeIndex == -1) {
+          throw new Error('The provided component was not found in the application');
+        }
+
+        component = target;
+      } else if (isDirectiveInstance(target)) {
+        nodeIndex = findViaDirective(lView, target);
+
+        if (nodeIndex == -1) {
+          throw new Error('The provided directive was not found in the application');
+        }
+
+        directives = getDirectivesAtNodeIndex(nodeIndex, lView, false);
+      } else {
+        nodeIndex = findViaNativeElement(lView, target);
+
+        if (nodeIndex == -1) {
+          return null;
+        }
+      } // the goal is not to fill the entire context full of data because the lookups
+      // are expensive. Instead, only the target data (the element, component, container, ICU
+      // expression or directive details) are filled into the context. If called multiple times
+      // with different target values then the missing target data will be filled in.
+
+
+      const native = unwrapRNode(lView[nodeIndex]);
+      const existingCtx = readPatchedData(native);
+      const context = existingCtx && !Array.isArray(existingCtx) ? existingCtx : createLContext(lView, nodeIndex, native); // only when the component has been discovered then update the monkey-patch
+
+      if (component && context.component === undefined) {
+        context.component = component;
+        attachPatchData(context.component, context);
+      } // only when the directives have been discovered then update the monkey-patch
+
+
+      if (directives && context.directives === undefined) {
+        context.directives = directives;
+
+        for (let i = 0; i < directives.length; i++) {
+          attachPatchData(directives[i], context);
+        }
+      }
+
+      attachPatchData(context.native, context);
+      mpValue = context;
+    }
+  } else {
+    const rElement = target;
+    ngDevMode && assertDomNode(rElement); // if the context is not found then we need to traverse upwards up the DOM
+    // to find the nearest element that has already been monkey patched with data
+
+    let parent = rElement;
+
+    while (parent = parent.parentNode) {
+      const parentContext = readPatchedData(parent);
+
+      if (parentContext) {
+        const lView = Array.isArray(parentContext) ? parentContext : parentContext.lView; // the edge of the app was also reached here through another means
+        // (maybe because the DOM was changed manually).
+
+        if (!lView) {
+          return null;
+        }
+
+        const index = findViaNativeElement(lView, rElement);
+
+        if (index >= 0) {
+          const native = unwrapRNode(lView[index]);
+          const context = createLContext(lView, index, native);
+          attachPatchData(native, context);
+          mpValue = context;
+          break;
+        }
+      }
+    }
+  }
+
+  return mpValue || null;
+}
+/**
+ * Creates an empty instance of a `LContext` context
+ */
+
+
+function createLContext(lView, nodeIndex, native) {
+  return new LContext(lView[ID], nodeIndex, native);
+}
+/**
+ * Takes a component instance and returns the view for that component.
+ *
+ * @param componentInstance
+ * @returns The component's view
+ */
+
+
+function getComponentViewByInstance(componentInstance) {
+  let patchedData = readPatchedData(componentInstance);
+  let lView;
+
+  if (isLView(patchedData)) {
+    const contextLView = patchedData;
+    const nodeIndex = findViaComponent(contextLView, componentInstance);
+    lView = getComponentLViewByIndex(nodeIndex, contextLView);
+    const context = createLContext(contextLView, nodeIndex, lView[HOST]);
+    context.component = componentInstance;
+    attachPatchData(componentInstance, context);
+    attachPatchData(context.native, context);
+  } else {
+    const context = patchedData;
+    const contextLView = context.lView;
+    ngDevMode && assertLView(contextLView);
+    lView = getComponentLViewByIndex(context.nodeIndex, contextLView);
+  }
+
+  return lView;
+}
+/**
+ * This property will be monkey-patched on elements, components and directives.
+ */
+
+
+const MONKEY_PATCH_KEY_NAME = '__ngContext__';
+/**
+ * Assigns the given data to the given target (which could be a component,
+ * directive or DOM node instance) using monkey-patching.
+ */
+
+function attachPatchData(target, data) {
+  ngDevMode && assertDefined(target, 'Target expected'); // Only attach the ID of the view in order to avoid memory leaks (see #41047). We only do this
+  // for `LView`, because we have control over when an `LView` is created and destroyed, whereas
+  // we can't know when to remove an `LContext`.
+
+  if (isLView(data)) {
+    target[MONKEY_PATCH_KEY_NAME] = data[ID];
+    registerLView(data);
+  } else {
+    target[MONKEY_PATCH_KEY_NAME] = data;
+  }
+}
+/**
+ * Returns the monkey-patch value data present on the target (which could be
+ * a component, directive or a DOM node).
+ */
+
+
+function readPatchedData(target) {
+  ngDevMode && assertDefined(target, 'Target expected');
+  const data = target[MONKEY_PATCH_KEY_NAME];
+  return typeof data === 'number' ? getLViewById(data) : data || null;
+}
+
+function readPatchedLView(target) {
+  const value = readPatchedData(target);
+
+  if (value) {
+    return isLView(value) ? value : value.lView;
+  }
+
+  return null;
+}
+
+function isComponentInstance(instance) {
+  return instance && instance.constructor && instance.constructor.ɵcmp;
+}
+
+function isDirectiveInstance(instance) {
+  return instance && instance.constructor && instance.constructor.ɵdir;
+}
+/**
+ * Locates the element within the given LView and returns the matching index
+ */
+
+
+function findViaNativeElement(lView, target) {
+  const tView = lView[TVIEW];
+
+  for (let i = HEADER_OFFSET; i < tView.bindingStartIndex; i++) {
+    if (unwrapRNode(lView[i]) === target) {
+      return i;
+    }
+  }
+
+  return -1;
+}
+/**
+ * Locates the next tNode (child, sibling or parent).
+ */
+
+
+function traverseNextElement(tNode) {
+  if (tNode.child) {
+    return tNode.child;
+  } else if (tNode.next) {
+    return tNode.next;
+  } else {
+    // Let's take the following template: <div><span>text</span></div><component/>
+    // After checking the text node, we need to find the next parent that has a "next" TNode,
+    // in this case the parent `div`, so that we can find the component.
+    while (tNode.parent && !tNode.parent.next) {
+      tNode = tNode.parent;
+    }
+
+    return tNode.parent && tNode.parent.next;
+  }
+}
+/**
+ * Locates the component within the given LView and returns the matching index
+ */
+
+
+function findViaComponent(lView, componentInstance) {
+  const componentIndices = lView[TVIEW].components;
+
+  if (componentIndices) {
+    for (let i = 0; i < componentIndices.length; i++) {
+      const elementComponentIndex = componentIndices[i];
+      const componentView = getComponentLViewByIndex(elementComponentIndex, lView);
+
+      if (componentView[CONTEXT] === componentInstance) {
+        return elementComponentIndex;
+      }
+    }
+  } else {
+    const rootComponentView = getComponentLViewByIndex(HEADER_OFFSET, lView);
+    const rootComponent = rootComponentView[CONTEXT];
+
+    if (rootComponent === componentInstance) {
+      // we are dealing with the root element here therefore we know that the
+      // element is the very first element after the HEADER data in the lView
+      return HEADER_OFFSET;
+    }
+  }
+
+  return -1;
+}
+/**
+ * Locates the directive within the given LView and returns the matching index
+ */
+
+
+function findViaDirective(lView, directiveInstance) {
+  // if a directive is monkey patched then it will (by default)
+  // have a reference to the LView of the current view. The
+  // element bound to the directive being search lives somewhere
+  // in the view data. We loop through the nodes and check their
+  // list of directives for the instance.
+  let tNode = lView[TVIEW].firstChild;
+
+  while (tNode) {
+    const directiveIndexStart = tNode.directiveStart;
+    const directiveIndexEnd = tNode.directiveEnd;
+
+    for (let i = directiveIndexStart; i < directiveIndexEnd; i++) {
+      if (lView[i] === directiveInstance) {
+        return tNode.index;
+      }
+    }
+
+    tNode = traverseNextElement(tNode);
+  }
+
+  return -1;
+}
+/**
+ * Returns a list of directives extracted from the given view based on the
+ * provided list of directive index values.
+ *
+ * @param nodeIndex The node index
+ * @param lView The target view data
+ * @param includeComponents Whether or not to include components in returned directives
+ */
+
+
+function getDirectivesAtNodeIndex(nodeIndex, lView, includeComponents) {
+  const tNode = lView[TVIEW].data[nodeIndex];
+  let directiveStartIndex = tNode.directiveStart;
+  if (directiveStartIndex == 0) return EMPTY_ARRAY;
+  const directiveEndIndex = tNode.directiveEnd;
+  if (!includeComponents && tNode.flags & 2
+  /* TNodeFlags.isComponentHost */
+  ) directiveStartIndex++;
+  return lView.slice(directiveStartIndex, directiveEndIndex);
+}
+
+function getComponentAtNodeIndex(nodeIndex, lView) {
+  const tNode = lView[TVIEW].data[nodeIndex];
+  let directiveStartIndex = tNode.directiveStart;
+  return tNode.flags & 2
+  /* TNodeFlags.isComponentHost */
+  ? lView[directiveStartIndex] : null;
+}
+/**
+ * Returns a map of local references (local reference name => element or directive instance) that
+ * exist on a given element.
+ */
+
+
+function discoverLocalRefs(lView, nodeIndex) {
+  const tNode = lView[TVIEW].data[nodeIndex];
+
+  if (tNode && tNode.localNames) {
+    const result = {};
+    let localIndex = tNode.index + 1;
+
+    for (let i = 0; i < tNode.localNames.length; i += 2) {
+      result[tNode.localNames[i]] = lView[localIndex];
+      localIndex++;
+    }
+
+    return result;
+  }
+
+  return null;
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+let _icuContainerIterate;
+/**
+ * Iterator which provides ability to visit all of the `TIcuContainerNode` root `RNode`s.
+ */
+
+
+function icuContainerIterate(tIcuContainerNode, lView) {
+  return _icuContainerIterate(tIcuContainerNode, lView);
+}
+/**
+ * Ensures that `IcuContainerVisitor`'s implementation is present.
+ *
+ * This function is invoked when i18n instruction comes across an ICU. The purpose is to allow the
+ * bundler to tree shake ICU logic and only load it if ICU instruction is executed.
+ */
+
+
+function ensureIcuContainerVisitorLoaded(loader) {
+  if (_icuContainerIterate === undefined) {
+    // Do not inline this function. We want to keep `ensureIcuContainerVisitorLoaded` light, so it
+    // can be inlined into call-site.
+    _icuContainerIterate = loader();
+  }
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+// Note: This hack is necessary so we don't erroneously get a circular dependency
+// failure based on types.
+
+
+const unusedValueExportToPlacateAjd$4 = 1;
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+// Note: This hack is necessary so we don't erroneously get a circular dependency
+// failure based on types.
+
+const unusedValueExportToPlacateAjd$3 = 1;
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Gets the parent LView of the passed LView, if the PARENT is an LContainer, will get the parent of
+ * that LContainer, which is an LView
+ * @param lView the lView whose parent to get
+ */
+
+function getLViewParent(lView) {
+  ngDevMode && assertLView(lView);
+  const parent = lView[PARENT];
+  return isLContainer(parent) ? parent[PARENT] : parent;
+}
+/**
+ * Retrieve the root view from any component or `LView` by walking the parent `LView` until
+ * reaching the root `LView`.
+ *
+ * @param componentOrLView any component or `LView`
+ */
+
+
+function getRootView(componentOrLView) {
+  ngDevMode && assertDefined(componentOrLView, 'component');
+  let lView = isLView(componentOrLView) ? componentOrLView : readPatchedLView(componentOrLView);
+
+  while (lView && !(lView[FLAGS] & 256
+  /* LViewFlags.IsRoot */
+  )) {
+    lView = getLViewParent(lView);
+  }
+
+  ngDevMode && assertLView(lView);
+  return lView;
+}
+/**
+ * Returns the context information associated with the application where the target is situated. It
+ * does this by walking the parent views until it gets to the root view, then getting the context
+ * off of that.
+ *
+ * @param viewOrComponent the `LView` or component to get the root context for.
+ */
+
+
+function getRootContext(viewOrComponent) {
+  const rootView = getRootView(viewOrComponent);
+  ngDevMode && assertDefined(rootView[CONTEXT], 'Root view has no context. Perhaps it is disconnected?');
+  return rootView[CONTEXT];
+}
+/**
+ * Gets the first `LContainer` in the LView or `null` if none exists.
+ */
+
+
+function getFirstLContainer(lView) {
+  return getNearestLContainer(lView[CHILD_HEAD]);
+}
+/**
+ * Gets the next `LContainer` that is a sibling of the given container.
+ */
+
+
+function getNextLContainer(container) {
+  return getNearestLContainer(container[NEXT]);
+}
+
+function getNearestLContainer(viewOrContainer) {
+  while (viewOrContainer !== null && !isLContainer(viewOrContainer)) {
+    viewOrContainer = viewOrContainer[NEXT];
+  }
+
+  return viewOrContainer;
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+const unusedValueToPlacateAjd$2 = unusedValueExportToPlacateAjd$7 + unusedValueExportToPlacateAjd$5 + unusedValueExportToPlacateAjd$4 + unusedValueExportToPlacateAjd$3 + unusedValueExportToPlacateAjd$8;
+/**
+ * NOTE: for performance reasons, the possible actions are inlined within the function instead of
+ * being passed as an argument.
+ */
+
+function applyToElementOrContainer(action, renderer, parent, lNodeToHandle, beforeNode) {
+  // If this slot was allocated for a text node dynamically created by i18n, the text node itself
+  // won't be created until i18nApply() in the update block, so this node should be skipped.
+  // For more info, see "ICU expressions should work inside an ngTemplateOutlet inside an ngFor"
+  // in `i18n_spec.ts`.
+  if (lNodeToHandle != null) {
+    let lContainer;
+    let isComponent = false; // We are expecting an RNode, but in the case of a component or LContainer the `RNode` is
+    // wrapped in an array which needs to be unwrapped. We need to know if it is a component and if
+    // it has LContainer so that we can process all of those cases appropriately.
+
+    if (isLContainer(lNodeToHandle)) {
+      lContainer = lNodeToHandle;
+    } else if (isLView(lNodeToHandle)) {
+      isComponent = true;
+      ngDevMode && assertDefined(lNodeToHandle[HOST], 'HOST must be defined for a component LView');
+      lNodeToHandle = lNodeToHandle[HOST];
+    }
+
+    const rNode = unwrapRNode(lNodeToHandle);
+
+    if (action === 0
+    /* WalkTNodeTreeAction.Create */
+    && parent !== null) {
+      if (beforeNode == null) {
+        nativeAppendChild(renderer, parent, rNode);
+      } else {
+        nativeInsertBefore(renderer, parent, rNode, beforeNode || null, true);
+      }
+    } else if (action === 1
+    /* WalkTNodeTreeAction.Insert */
+    && parent !== null) {
+      nativeInsertBefore(renderer, parent, rNode, beforeNode || null, true);
+    } else if (action === 2
+    /* WalkTNodeTreeAction.Detach */
+    ) {
+      nativeRemoveNode(renderer, rNode, isComponent);
+    } else if (action === 3
+    /* WalkTNodeTreeAction.Destroy */
+    ) {
+      ngDevMode && ngDevMode.rendererDestroyNode++;
+      renderer.destroyNode(rNode);
+    }
+
+    if (lContainer != null) {
+      applyContainer(renderer, action, lContainer, parent, beforeNode);
+    }
+  }
+}
+
+function createTextNode(renderer, value) {
+  ngDevMode && ngDevMode.rendererCreateTextNode++;
+  ngDevMode && ngDevMode.rendererSetText++;
+  return renderer.createText(value);
+}
+
+function updateTextNode(renderer, rNode, value) {
+  ngDevMode && ngDevMode.rendererSetText++;
+  renderer.setValue(rNode, value);
+}
+
+function createCommentNode(renderer, value) {
+  ngDevMode && ngDevMode.rendererCreateComment++;
+  return renderer.createComment(escapeCommentText(value));
+}
+/**
+ * Creates a native element from a tag name, using a renderer.
+ * @param renderer A renderer to use
+ * @param name the tag name
+ * @param namespace Optional namespace for element.
+ * @returns the element created
+ */
+
+
+function createElementNode(renderer, name, namespace) {
+  ngDevMode && ngDevMode.rendererCreateElement++;
+  return renderer.createElement(name, namespace);
+}
+/**
+ * Removes all DOM elements associated with a view.
+ *
+ * Because some root nodes of the view may be containers, we sometimes need
+ * to propagate deeply into the nested containers to remove all elements in the
+ * views beneath it.
+ *
+ * @param tView The `TView' of the `LView` from which elements should be added or removed
+ * @param lView The view from which elements should be added or removed
+ */
+
+
+function removeViewFromContainer(tView, lView) {
+  const renderer = lView[RENDERER];
+  applyView(tView, lView, renderer, 2
+  /* WalkTNodeTreeAction.Detach */
+  , null, null);
+  lView[HOST] = null;
+  lView[T_HOST] = null;
+}
+/**
+ * Adds all DOM elements associated with a view.
+ *
+ * Because some root nodes of the view may be containers, we sometimes need
+ * to propagate deeply into the nested containers to add all elements in the
+ * views beneath it.
+ *
+ * @param tView The `TView' of the `LView` from which elements should be added or removed
+ * @param parentTNode The `TNode` where the `LView` should be attached to.
+ * @param renderer Current renderer to use for DOM manipulations.
+ * @param lView The view from which elements should be added or removed
+ * @param parentNativeNode The parent `RElement` where it should be inserted into.
+ * @param beforeNode The node before which elements should be added, if insert mode
+ */
+
+
+function addViewToContainer(tView, parentTNode, renderer, lView, parentNativeNode, beforeNode) {
+  lView[HOST] = parentNativeNode;
+  lView[T_HOST] = parentTNode;
+  applyView(tView, lView, renderer, 1
+  /* WalkTNodeTreeAction.Insert */
+  , parentNativeNode, beforeNode);
+}
+/**
+ * Detach a `LView` from the DOM by detaching its nodes.
+ *
+ * @param tView The `TView' of the `LView` to be detached
+ * @param lView the `LView` to be detached.
+ */
+
+
+function renderDetachView(tView, lView) {
+  applyView(tView, lView, lView[RENDERER], 2
+  /* WalkTNodeTreeAction.Detach */
+  , null, null);
+}
+/**
+ * Traverses down and up the tree of views and containers to remove listeners and
+ * call onDestroy callbacks.
+ *
+ * Notes:
+ *  - Because it's used for onDestroy calls, it needs to be bottom-up.
+ *  - Must process containers instead of their views to avoid splicing
+ *  when views are destroyed and re-added.
+ *  - Using a while loop because it's faster than recursion
+ *  - Destroy only called on movement to sibling or movement to parent (laterally or up)
+ *
+ *  @param rootView The view to destroy
+ */
+
+
+function destroyViewTree(rootView) {
+  // If the view has no children, we can clean it up and return early.
+  let lViewOrLContainer = rootView[CHILD_HEAD];
+
+  if (!lViewOrLContainer) {
+    return cleanUpView(rootView[TVIEW], rootView);
+  }
+
+  while (lViewOrLContainer) {
+    let next = null;
+
+    if (isLView(lViewOrLContainer)) {
+      // If LView, traverse down to child.
+      next = lViewOrLContainer[CHILD_HEAD];
+    } else {
+      ngDevMode && assertLContainer(lViewOrLContainer); // If container, traverse down to its first LView.
+
+      const firstView = lViewOrLContainer[CONTAINER_HEADER_OFFSET];
+      if (firstView) next = firstView;
+    }
+
+    if (!next) {
+      // Only clean up view when moving to the side or up, as destroy hooks
+      // should be called in order from the bottom up.
+      while (lViewOrLContainer && !lViewOrLContainer[NEXT] && lViewOrLContainer !== rootView) {
+        if (isLView(lViewOrLContainer)) {
+          cleanUpView(lViewOrLContainer[TVIEW], lViewOrLContainer);
+        }
+
+        lViewOrLContainer = lViewOrLContainer[PARENT];
+      }
+
+      if (lViewOrLContainer === null) lViewOrLContainer = rootView;
+
+      if (isLView(lViewOrLContainer)) {
+        cleanUpView(lViewOrLContainer[TVIEW], lViewOrLContainer);
+      }
+
+      next = lViewOrLContainer && lViewOrLContainer[NEXT];
+    }
+
+    lViewOrLContainer = next;
+  }
+}
+/**
+ * Inserts a view into a container.
+ *
+ * This adds the view to the container's array of active views in the correct
+ * position. It also adds the view's elements to the DOM if the container isn't a
+ * root node of another view (in that case, the view's elements will be added when
+ * the container's parent view is added later).
+ *
+ * @param tView The `TView' of the `LView` to insert
+ * @param lView The view to insert
+ * @param lContainer The container into which the view should be inserted
+ * @param index Which index in the container to insert the child view into
+ */
+
+
+function insertView(tView, lView, lContainer, index) {
+  ngDevMode && assertLView(lView);
+  ngDevMode && assertLContainer(lContainer);
+  const indexInContainer = CONTAINER_HEADER_OFFSET + index;
+  const containerLength = lContainer.length;
+
+  if (index > 0) {
+    // This is a new view, we need to add it to the children.
+    lContainer[indexInContainer - 1][NEXT] = lView;
+  }
+
+  if (index < containerLength - CONTAINER_HEADER_OFFSET) {
+    lView[NEXT] = lContainer[indexInContainer];
+    addToArray(lContainer, CONTAINER_HEADER_OFFSET + index, lView);
+  } else {
+    lContainer.push(lView);
+    lView[NEXT] = null;
+  }
+
+  lView[PARENT] = lContainer; // track views where declaration and insertion points are different
+
+  const declarationLContainer = lView[DECLARATION_LCONTAINER];
+
+  if (declarationLContainer !== null && lContainer !== declarationLContainer) {
+    trackMovedView(declarationLContainer, lView);
+  } // notify query that a new view has been added
+
+
+  const lQueries = lView[QUERIES];
+
+  if (lQueries !== null) {
+    lQueries.insertView(tView);
+  } // Sets the attached flag
+
+
+  lView[FLAGS] |= 64
+  /* LViewFlags.Attached */
+  ;
+}
+/**
+ * Track views created from the declaration container (TemplateRef) and inserted into a
+ * different LContainer.
+ */
+
+
+function trackMovedView(declarationContainer, lView) {
+  ngDevMode && assertDefined(lView, 'LView required');
+  ngDevMode && assertLContainer(declarationContainer);
+  const movedViews = declarationContainer[MOVED_VIEWS];
+  const insertedLContainer = lView[PARENT];
+  ngDevMode && assertLContainer(insertedLContainer);
+  const insertedComponentLView = insertedLContainer[PARENT][DECLARATION_COMPONENT_VIEW];
+  ngDevMode && assertDefined(insertedComponentLView, 'Missing insertedComponentLView');
+  const declaredComponentLView = lView[DECLARATION_COMPONENT_VIEW];
+  ngDevMode && assertDefined(declaredComponentLView, 'Missing declaredComponentLView');
+
+  if (declaredComponentLView !== insertedComponentLView) {
+    // At this point the declaration-component is not same as insertion-component; this means that
+    // this is a transplanted view. Mark the declared lView as having transplanted views so that
+    // those views can participate in CD.
+    declarationContainer[HAS_TRANSPLANTED_VIEWS] = true;
+  }
+
+  if (movedViews === null) {
+    declarationContainer[MOVED_VIEWS] = [lView];
+  } else {
+    movedViews.push(lView);
+  }
+}
+
+function detachMovedView(declarationContainer, lView) {
+  ngDevMode && assertLContainer(declarationContainer);
+  ngDevMode && assertDefined(declarationContainer[MOVED_VIEWS], 'A projected view should belong to a non-empty projected views collection');
+  const movedViews = declarationContainer[MOVED_VIEWS];
+  const declarationViewIndex = movedViews.indexOf(lView);
+  const insertionLContainer = lView[PARENT];
+  ngDevMode && assertLContainer(insertionLContainer); // If the view was marked for refresh but then detached before it was checked (where the flag
+  // would be cleared and the counter decremented), we need to decrement the view counter here
+  // instead.
+
+  if (lView[FLAGS] & 512
+  /* LViewFlags.RefreshTransplantedView */
+  ) {
+    lView[FLAGS] &= ~512
+    /* LViewFlags.RefreshTransplantedView */
+    ;
+    updateTransplantedViewCount(insertionLContainer, -1);
+  }
+
+  movedViews.splice(declarationViewIndex, 1);
+}
+/**
+ * Detaches a view from a container.
+ *
+ * This method removes the view from the container's array of active views. It also
+ * removes the view's elements from the DOM.
+ *
+ * @param lContainer The container from which to detach a view
+ * @param removeIndex The index of the view to detach
+ * @returns Detached LView instance.
+ */
+
+
+function detachView(lContainer, removeIndex) {
+  if (lContainer.length <= CONTAINER_HEADER_OFFSET) return;
+  const indexInContainer = CONTAINER_HEADER_OFFSET + removeIndex;
+  const viewToDetach = lContainer[indexInContainer];
+
+  if (viewToDetach) {
+    const declarationLContainer = viewToDetach[DECLARATION_LCONTAINER];
+
+    if (declarationLContainer !== null && declarationLContainer !== lContainer) {
+      detachMovedView(declarationLContainer, viewToDetach);
+    }
+
+    if (removeIndex > 0) {
+      lContainer[indexInContainer - 1][NEXT] = viewToDetach[NEXT];
+    }
+
+    const removedLView = removeFromArray(lContainer, CONTAINER_HEADER_OFFSET + removeIndex);
+    removeViewFromContainer(viewToDetach[TVIEW], viewToDetach); // notify query that a view has been removed
+
+    const lQueries = removedLView[QUERIES];
+
+    if (lQueries !== null) {
+      lQueries.detachView(removedLView[TVIEW]);
+    }
+
+    viewToDetach[PARENT] = null;
+    viewToDetach[NEXT] = null; // Unsets the attached flag
+
+    viewToDetach[FLAGS] &= ~64
+    /* LViewFlags.Attached */
+    ;
+  }
+
+  return viewToDetach;
+}
+/**
+ * A standalone function which destroys an LView,
+ * conducting clean up (e.g. removing listeners, calling onDestroys).
+ *
+ * @param tView The `TView' of the `LView` to be destroyed
+ * @param lView The view to be destroyed.
+ */
+
+
+function destroyLView(tView, lView) {
+  if (!(lView[FLAGS] & 128
+  /* LViewFlags.Destroyed */
+  )) {
+    const renderer = lView[RENDERER];
+
+    if (renderer.destroyNode) {
+      applyView(tView, lView, renderer, 3
+      /* WalkTNodeTreeAction.Destroy */
+      , null, null);
+    }
+
+    destroyViewTree(lView);
+  }
+}
+/**
+ * Calls onDestroys hooks for all directives and pipes in a given view and then removes all
+ * listeners. Listeners are removed as the last step so events delivered in the onDestroys hooks
+ * can be propagated to @Output listeners.
+ *
+ * @param tView `TView` for the `LView` to clean up.
+ * @param lView The LView to clean up
+ */
+
+
+function cleanUpView(tView, lView) {
+  if (!(lView[FLAGS] & 128
+  /* LViewFlags.Destroyed */
+  )) {
+    // Usually the Attached flag is removed when the view is detached from its parent, however
+    // if it's a root view, the flag won't be unset hence why we're also removing on destroy.
+    lView[FLAGS] &= ~64
+    /* LViewFlags.Attached */
+    ; // Mark the LView as destroyed *before* executing the onDestroy hooks. An onDestroy hook
+    // runs arbitrary user code, which could include its own `viewRef.destroy()` (or similar). If
+    // We don't flag the view as destroyed before the hooks, this could lead to an infinite loop.
+    // This also aligns with the ViewEngine behavior. It also means that the onDestroy hook is
+    // really more of an "afterDestroy" hook if you think about it.
+
+    lView[FLAGS] |= 128
+    /* LViewFlags.Destroyed */
+    ;
+    executeOnDestroys(tView, lView);
+    processCleanups(tView, lView); // For component views only, the local renderer is destroyed at clean up time.
+
+    if (lView[TVIEW].type === 1
+    /* TViewType.Component */
+    ) {
+      ngDevMode && ngDevMode.rendererDestroy++;
+      lView[RENDERER].destroy();
+    }
+
+    const declarationContainer = lView[DECLARATION_LCONTAINER]; // we are dealing with an embedded view that is still inserted into a container
+
+    if (declarationContainer !== null && isLContainer(lView[PARENT])) {
+      // and this is a projected view
+      if (declarationContainer !== lView[PARENT]) {
+        detachMovedView(declarationContainer, lView);
+      } // For embedded views still attached to a container: remove query result from this view.
+
+
+      const lQueries = lView[QUERIES];
+
+      if (lQueries !== null) {
+        lQueries.detachView(tView);
+      }
+    } // Unregister the view once everything else has been cleaned up.
+
+
+    unregisterLView(lView);
+  }
+}
+/** Removes listeners and unsubscribes from output subscriptions */
+
+
+function processCleanups(tView, lView) {
+  const tCleanup = tView.cleanup;
+  const lCleanup = lView[CLEANUP]; // `LCleanup` contains both share information with `TCleanup` as well as instance specific
+  // information appended at the end. We need to know where the end of the `TCleanup` information
+  // is, and we track this with `lastLCleanupIndex`.
+
+  let lastLCleanupIndex = -1;
+
+  if (tCleanup !== null) {
+    for (let i = 0; i < tCleanup.length - 1; i += 2) {
+      if (typeof tCleanup[i] === 'string') {
+        // This is a native DOM listener
+        const idxOrTargetGetter = tCleanup[i + 1];
+        const target = typeof idxOrTargetGetter === 'function' ? idxOrTargetGetter(lView) : unwrapRNode(lView[idxOrTargetGetter]);
+        const listener = lCleanup[lastLCleanupIndex = tCleanup[i + 2]];
+        const useCaptureOrSubIdx = tCleanup[i + 3];
+
+        if (typeof useCaptureOrSubIdx === 'boolean') {
+          // native DOM listener registered with Renderer3
+          target.removeEventListener(tCleanup[i], listener, useCaptureOrSubIdx);
+        } else {
+          if (useCaptureOrSubIdx >= 0) {
+            // unregister
+            lCleanup[lastLCleanupIndex = useCaptureOrSubIdx]();
+          } else {
+            // Subscription
+            lCleanup[lastLCleanupIndex = -useCaptureOrSubIdx].unsubscribe();
+          }
+        }
+
+        i += 2;
+      } else {
+        // This is a cleanup function that is grouped with the index of its context
+        const context = lCleanup[lastLCleanupIndex = tCleanup[i + 1]];
+        tCleanup[i].call(context);
+      }
+    }
+  }
+
+  if (lCleanup !== null) {
+    for (let i = lastLCleanupIndex + 1; i < lCleanup.length; i++) {
+      const instanceCleanupFn = lCleanup[i];
+      ngDevMode && assertFunction(instanceCleanupFn, 'Expecting instance cleanup function.');
+      instanceCleanupFn();
+    }
+
+    lView[CLEANUP] = null;
+  }
+}
+/** Calls onDestroy hooks for this view */
+
+
+function executeOnDestroys(tView, lView) {
+  let destroyHooks;
+
+  if (tView != null && (destroyHooks = tView.destroyHooks) != null) {
+    for (let i = 0; i < destroyHooks.length; i += 2) {
+      const context = lView[destroyHooks[i]]; // Only call the destroy hook if the context has been requested.
+
+      if (!(context instanceof NodeInjectorFactory)) {
+        const toCall = destroyHooks[i + 1];
+
+        if (Array.isArray(toCall)) {
+          for (let j = 0; j < toCall.length; j += 2) {
+            const callContext = context[toCall[j]];
+            const hook = toCall[j + 1];
+            profiler(4
+            /* ProfilerEvent.LifecycleHookStart */
+            , callContext, hook);
+
+            try {
+              hook.call(callContext);
+            } finally {
+              profiler(5
+              /* ProfilerEvent.LifecycleHookEnd */
+              , callContext, hook);
+            }
+          }
+        } else {
+          profiler(4
+          /* ProfilerEvent.LifecycleHookStart */
+          , context, toCall);
+
+          try {
+            toCall.call(context);
+          } finally {
+            profiler(5
+            /* ProfilerEvent.LifecycleHookEnd */
+            , context, toCall);
+          }
+        }
+      }
+    }
+  }
+}
+/**
+ * Returns a native element if a node can be inserted into the given parent.
+ *
+ * There are two reasons why we may not be able to insert a element immediately.
+ * - Projection: When creating a child content element of a component, we have to skip the
+ *   insertion because the content of a component will be projected.
+ *   `<component><content>delayed due to projection</content></component>`
+ * - Parent container is disconnected: This can happen when we are inserting a view into
+ *   parent container, which itself is disconnected. For example the parent container is part
+ *   of a View which has not be inserted or is made for projection but has not been inserted
+ *   into destination.
+ *
+ * @param tView: Current `TView`.
+ * @param tNode: `TNode` for which we wish to retrieve render parent.
+ * @param lView: Current `LView`.
+ */
+
+
+function getParentRElement(tView, tNode, lView) {
+  return getClosestRElement(tView, tNode.parent, lView);
+}
+/**
+ * Get closest `RElement` or `null` if it can't be found.
+ *
+ * If `TNode` is `TNodeType.Element` => return `RElement` at `LView[tNode.index]` location.
+ * If `TNode` is `TNodeType.ElementContainer|IcuContain` => return the parent (recursively).
+ * If `TNode` is `null` then return host `RElement`:
+ *   - return `null` if projection
+ *   - return `null` if parent container is disconnected (we have no parent.)
+ *
+ * @param tView: Current `TView`.
+ * @param tNode: `TNode` for which we wish to retrieve `RElement` (or `null` if host element is
+ *     needed).
+ * @param lView: Current `LView`.
+ * @returns `null` if the `RElement` can't be determined at this time (no parent / projection)
+ */
+
+
+function getClosestRElement(tView, tNode, lView) {
+  let parentTNode = tNode; // Skip over element and ICU containers as those are represented by a comment node and
+  // can't be used as a render parent.
+
+  while (parentTNode !== null && parentTNode.type & (8
+  /* TNodeType.ElementContainer */
+  | 32
+  /* TNodeType.Icu */
+  )) {
+    tNode = parentTNode;
+    parentTNode = tNode.parent;
+  } // If the parent tNode is null, then we are inserting across views: either into an embedded view
+  // or a component view.
+
+
+  if (parentTNode === null) {
+    // We are inserting a root element of the component view into the component host element and
+    // it should always be eager.
+    return lView[HOST];
+  } else {
+    ngDevMode && assertTNodeType(parentTNode, 3
+    /* TNodeType.AnyRNode */
+    | 4
+    /* TNodeType.Container */
+    );
+
+    if (parentTNode.flags & 2
+    /* TNodeFlags.isComponentHost */
+    ) {
+      ngDevMode && assertTNodeForLView(parentTNode, lView);
+      const encapsulation = tView.data[parentTNode.directiveStart].encapsulation; // We've got a parent which is an element in the current view. We just need to verify if the
+      // parent element is not a component. Component's content nodes are not inserted immediately
+      // because they will be projected, and so doing insert at this point would be wasteful.
+      // Since the projection would then move it to its final destination. Note that we can't
+      // make this assumption when using the Shadow DOM, because the native projection placeholders
+      // (<content> or <slot>) have to be in place as elements are being inserted.
+
+      if (encapsulation === ViewEncapsulation$1.None || encapsulation === ViewEncapsulation$1.Emulated) {
+        return null;
+      }
+    }
+
+    return getNativeByTNode(parentTNode, lView);
+  }
+}
+/**
+ * Inserts a native node before another native node for a given parent.
+ * This is a utility function that can be used when native nodes were determined.
+ */
+
+
+function nativeInsertBefore(renderer, parent, child, beforeNode, isMove) {
+  ngDevMode && ngDevMode.rendererInsertBefore++;
+  renderer.insertBefore(parent, child, beforeNode, isMove);
+}
+
+function nativeAppendChild(renderer, parent, child) {
+  ngDevMode && ngDevMode.rendererAppendChild++;
+  ngDevMode && assertDefined(parent, 'parent node must be defined');
+  renderer.appendChild(parent, child);
+}
+
+function nativeAppendOrInsertBefore(renderer, parent, child, beforeNode, isMove) {
+  if (beforeNode !== null) {
+    nativeInsertBefore(renderer, parent, child, beforeNode, isMove);
+  } else {
+    nativeAppendChild(renderer, parent, child);
+  }
+}
+/** Removes a node from the DOM given its native parent. */
+
+
+function nativeRemoveChild(renderer, parent, child, isHostElement) {
+  renderer.removeChild(parent, child, isHostElement);
+}
+/** Checks if an element is a `<template>` node. */
+
+
+function isTemplateNode(node) {
+  return node.tagName === 'TEMPLATE' && node.content !== undefined;
+}
+/**
+ * Returns a native parent of a given native node.
+ */
+
+
+function nativeParentNode(renderer, node) {
+  return renderer.parentNode(node);
+}
+/**
+ * Returns a native sibling of a given native node.
+ */
+
+
+function nativeNextSibling(renderer, node) {
+  return renderer.nextSibling(node);
+}
+/**
+ * Find a node in front of which `currentTNode` should be inserted.
+ *
+ * This method determines the `RNode` in front of which we should insert the `currentRNode`. This
+ * takes `TNode.insertBeforeIndex` into account if i18n code has been invoked.
+ *
+ * @param parentTNode parent `TNode`
+ * @param currentTNode current `TNode` (The node which we would like to insert into the DOM)
+ * @param lView current `LView`
+ */
+
+
+function getInsertInFrontOfRNode(parentTNode, currentTNode, lView) {
+  return _getInsertInFrontOfRNodeWithI18n(parentTNode, currentTNode, lView);
+}
+/**
+ * Find a node in front of which `currentTNode` should be inserted. (Does not take i18n into
+ * account)
+ *
+ * This method determines the `RNode` in front of which we should insert the `currentRNode`. This
+ * does not take `TNode.insertBeforeIndex` into account.
+ *
+ * @param parentTNode parent `TNode`
+ * @param currentTNode current `TNode` (The node which we would like to insert into the DOM)
+ * @param lView current `LView`
+ */
+
+
+function getInsertInFrontOfRNodeWithNoI18n(parentTNode, currentTNode, lView) {
+  if (parentTNode.type & (8
+  /* TNodeType.ElementContainer */
+  | 32
+  /* TNodeType.Icu */
+  )) {
+    return getNativeByTNode(parentTNode, lView);
+  }
+
+  return null;
+}
+/**
+ * Tree shakable boundary for `getInsertInFrontOfRNodeWithI18n` function.
+ *
+ * This function will only be set if i18n code runs.
+ */
+
+
+let _getInsertInFrontOfRNodeWithI18n = getInsertInFrontOfRNodeWithNoI18n;
+/**
+ * Tree shakable boundary for `processI18nInsertBefore` function.
+ *
+ * This function will only be set if i18n code runs.
+ */
+
+let _processI18nInsertBefore;
+
+function setI18nHandling(getInsertInFrontOfRNodeWithI18n, processI18nInsertBefore) {
+  _getInsertInFrontOfRNodeWithI18n = getInsertInFrontOfRNodeWithI18n;
+  _processI18nInsertBefore = processI18nInsertBefore;
+}
+/**
+ * Appends the `child` native node (or a collection of nodes) to the `parent`.
+ *
+ * @param tView The `TView' to be appended
+ * @param lView The current LView
+ * @param childRNode The native child (or children) that should be appended
+ * @param childTNode The TNode of the child element
+ */
+
+
+function appendChild(tView, lView, childRNode, childTNode) {
+  const parentRNode = getParentRElement(tView, childTNode, lView);
+  const renderer = lView[RENDERER];
+  const parentTNode = childTNode.parent || lView[T_HOST];
+  const anchorNode = getInsertInFrontOfRNode(parentTNode, childTNode, lView);
+
+  if (parentRNode != null) {
+    if (Array.isArray(childRNode)) {
+      for (let i = 0; i < childRNode.length; i++) {
+        nativeAppendOrInsertBefore(renderer, parentRNode, childRNode[i], anchorNode, false);
+      }
+    } else {
+      nativeAppendOrInsertBefore(renderer, parentRNode, childRNode, anchorNode, false);
+    }
+  }
+
+  _processI18nInsertBefore !== undefined && _processI18nInsertBefore(renderer, childTNode, lView, childRNode, parentRNode);
+}
+/**
+ * Returns the first native node for a given LView, starting from the provided TNode.
+ *
+ * Native nodes are returned in the order in which those appear in the native tree (DOM).
+ */
+
+
+function getFirstNativeNode(lView, tNode) {
+  if (tNode !== null) {
+    ngDevMode && assertTNodeType(tNode, 3
+    /* TNodeType.AnyRNode */
+    | 12
+    /* TNodeType.AnyContainer */
+    | 32
+    /* TNodeType.Icu */
+    | 16
+    /* TNodeType.Projection */
+    );
+    const tNodeType = tNode.type;
+
+    if (tNodeType & 3
+    /* TNodeType.AnyRNode */
+    ) {
+      return getNativeByTNode(tNode, lView);
+    } else if (tNodeType & 4
+    /* TNodeType.Container */
+    ) {
+      return getBeforeNodeForView(-1, lView[tNode.index]);
+    } else if (tNodeType & 8
+    /* TNodeType.ElementContainer */
+    ) {
+      const elIcuContainerChild = tNode.child;
+
+      if (elIcuContainerChild !== null) {
+        return getFirstNativeNode(lView, elIcuContainerChild);
+      } else {
+        const rNodeOrLContainer = lView[tNode.index];
+
+        if (isLContainer(rNodeOrLContainer)) {
+          return getBeforeNodeForView(-1, rNodeOrLContainer);
+        } else {
+          return unwrapRNode(rNodeOrLContainer);
+        }
+      }
+    } else if (tNodeType & 32
+    /* TNodeType.Icu */
+    ) {
+      let nextRNode = icuContainerIterate(tNode, lView);
+      let rNode = nextRNode(); // If the ICU container has no nodes, than we use the ICU anchor as the node.
+
+      return rNode || unwrapRNode(lView[tNode.index]);
+    } else {
+      const projectionNodes = getProjectionNodes(lView, tNode);
+
+      if (projectionNodes !== null) {
+        if (Array.isArray(projectionNodes)) {
+          return projectionNodes[0];
+        }
+
+        const parentView = getLViewParent(lView[DECLARATION_COMPONENT_VIEW]);
+        ngDevMode && assertParentView(parentView);
+        return getFirstNativeNode(parentView, projectionNodes);
+      } else {
+        return getFirstNativeNode(lView, tNode.next);
+      }
+    }
+  }
+
+  return null;
+}
+
+function getProjectionNodes(lView, tNode) {
+  if (tNode !== null) {
+    const componentView = lView[DECLARATION_COMPONENT_VIEW];
+    const componentHost = componentView[T_HOST];
+    const slotIdx = tNode.projection;
+    ngDevMode && assertProjectionSlots(lView);
+    return componentHost.projection[slotIdx];
+  }
+
+  return null;
+}
+
+function getBeforeNodeForView(viewIndexInContainer, lContainer) {
+  const nextViewIndex = CONTAINER_HEADER_OFFSET + viewIndexInContainer + 1;
+
+  if (nextViewIndex < lContainer.length) {
+    const lView = lContainer[nextViewIndex];
+    const firstTNodeOfView = lView[TVIEW].firstChild;
+
+    if (firstTNodeOfView !== null) {
+      return getFirstNativeNode(lView, firstTNodeOfView);
+    }
+  }
+
+  return lContainer[NATIVE];
+}
+/**
+ * Removes a native node itself using a given renderer. To remove the node we are looking up its
+ * parent from the native tree as not all platforms / browsers support the equivalent of
+ * node.remove().
+ *
+ * @param renderer A renderer to be used
+ * @param rNode The native node that should be removed
+ * @param isHostElement A flag indicating if a node to be removed is a host of a component.
+ */
+
+
+function nativeRemoveNode(renderer, rNode, isHostElement) {
+  ngDevMode && ngDevMode.rendererRemoveNode++;
+  const nativeParent = nativeParentNode(renderer, rNode);
+
+  if (nativeParent) {
+    nativeRemoveChild(renderer, nativeParent, rNode, isHostElement);
+  }
+}
+/**
+ * Performs the operation of `action` on the node. Typically this involves inserting or removing
+ * nodes on the LView or projection boundary.
+ */
+
+
+function applyNodes(renderer, action, tNode, lView, parentRElement, beforeNode, isProjection) {
+  while (tNode != null) {
+    ngDevMode && assertTNodeForLView(tNode, lView);
+    ngDevMode && assertTNodeType(tNode, 3
+    /* TNodeType.AnyRNode */
+    | 12
+    /* TNodeType.AnyContainer */
+    | 16
+    /* TNodeType.Projection */
+    | 32
+    /* TNodeType.Icu */
+    );
+    const rawSlotValue = lView[tNode.index];
+    const tNodeType = tNode.type;
+
+    if (isProjection) {
+      if (action === 0
+      /* WalkTNodeTreeAction.Create */
+      ) {
+        rawSlotValue && attachPatchData(unwrapRNode(rawSlotValue), lView);
+        tNode.flags |= 4
+        /* TNodeFlags.isProjected */
+        ;
+      }
+    }
+
+    if ((tNode.flags & 64
+    /* TNodeFlags.isDetached */
+    ) !== 64
+    /* TNodeFlags.isDetached */
+    ) {
+      if (tNodeType & 8
+      /* TNodeType.ElementContainer */
+      ) {
+        applyNodes(renderer, action, tNode.child, lView, parentRElement, beforeNode, false);
+        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
+      } else if (tNodeType & 32
+      /* TNodeType.Icu */
+      ) {
+        const nextRNode = icuContainerIterate(tNode, lView);
+        let rNode;
+
+        while (rNode = nextRNode()) {
+          applyToElementOrContainer(action, renderer, parentRElement, rNode, beforeNode);
+        }
+
+        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
+      } else if (tNodeType & 16
+      /* TNodeType.Projection */
+      ) {
+        applyProjectionRecursive(renderer, action, lView, tNode, parentRElement, beforeNode);
+      } else {
+        ngDevMode && assertTNodeType(tNode, 3
+        /* TNodeType.AnyRNode */
+        | 4
+        /* TNodeType.Container */
+        );
+        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
+      }
+    }
+
+    tNode = isProjection ? tNode.projectionNext : tNode.next;
+  }
+}
+
+function applyView(tView, lView, renderer, action, parentRElement, beforeNode) {
+  applyNodes(renderer, action, tView.firstChild, lView, parentRElement, beforeNode, false);
+}
+/**
+ * `applyProjection` performs operation on the projection.
+ *
+ * Inserting a projection requires us to locate the projected nodes from the parent component. The
+ * complication is that those nodes themselves could be re-projected from their parent component.
+ *
+ * @param tView The `TView` of `LView` which needs to be inserted, detached, destroyed
+ * @param lView The `LView` which needs to be inserted, detached, destroyed.
+ * @param tProjectionNode node to project
+ */
+
+
+function applyProjection(tView, lView, tProjectionNode) {
+  const renderer = lView[RENDERER];
+  const parentRNode = getParentRElement(tView, tProjectionNode, lView);
+  const parentTNode = tProjectionNode.parent || lView[T_HOST];
+  let beforeNode = getInsertInFrontOfRNode(parentTNode, tProjectionNode, lView);
+  applyProjectionRecursive(renderer, 0
+  /* WalkTNodeTreeAction.Create */
+  , lView, tProjectionNode, parentRNode, beforeNode);
+}
+/**
+ * `applyProjectionRecursive` performs operation on the projection specified by `action` (insert,
+ * detach, destroy)
+ *
+ * Inserting a projection requires us to locate the projected nodes from the parent component. The
+ * complication is that those nodes themselves could be re-projected from their parent component.
+ *
+ * @param renderer Render to use
+ * @param action action to perform (insert, detach, destroy)
+ * @param lView The LView which needs to be inserted, detached, destroyed.
+ * @param tProjectionNode node to project
+ * @param parentRElement parent DOM element for insertion/removal.
+ * @param beforeNode Before which node the insertions should happen.
+ */
+
+
+function applyProjectionRecursive(renderer, action, lView, tProjectionNode, parentRElement, beforeNode) {
+  const componentLView = lView[DECLARATION_COMPONENT_VIEW];
+  const componentNode = componentLView[T_HOST];
+  ngDevMode && assertEqual(typeof tProjectionNode.projection, 'number', 'expecting projection index');
+  const nodeToProjectOrRNodes = componentNode.projection[tProjectionNode.projection];
+
+  if (Array.isArray(nodeToProjectOrRNodes)) {
+    // This should not exist, it is a bit of a hack. When we bootstrap a top level node and we
+    // need to support passing projectable nodes, so we cheat and put them in the TNode
+    // of the Host TView. (Yes we put instance info at the T Level). We can get away with it
+    // because we know that that TView is not shared and therefore it will not be a problem.
+    // This should be refactored and cleaned up.
+    for (let i = 0; i < nodeToProjectOrRNodes.length; i++) {
+      const rNode = nodeToProjectOrRNodes[i];
+      applyToElementOrContainer(action, renderer, parentRElement, rNode, beforeNode);
+    }
+  } else {
+    let nodeToProject = nodeToProjectOrRNodes;
+    const projectedComponentLView = componentLView[PARENT];
+    applyNodes(renderer, action, nodeToProject, projectedComponentLView, parentRElement, beforeNode, true);
+  }
+}
+/**
+ * `applyContainer` performs an operation on the container and its views as specified by
+ * `action` (insert, detach, destroy)
+ *
+ * Inserting a Container is complicated by the fact that the container may have Views which
+ * themselves have containers or projections.
+ *
+ * @param renderer Renderer to use
+ * @param action action to perform (insert, detach, destroy)
+ * @param lContainer The LContainer which needs to be inserted, detached, destroyed.
+ * @param parentRElement parent DOM element for insertion/removal.
+ * @param beforeNode Before which node the insertions should happen.
+ */
+
+
+function applyContainer(renderer, action, lContainer, parentRElement, beforeNode) {
+  ngDevMode && assertLContainer(lContainer);
+  const anchor = lContainer[NATIVE]; // LContainer has its own before node.
+
+  const native = unwrapRNode(lContainer); // An LContainer can be created dynamically on any node by injecting ViewContainerRef.
+  // Asking for a ViewContainerRef on an element will result in a creation of a separate anchor
+  // node (comment in the DOM) that will be different from the LContainer's host node. In this
+  // particular case we need to execute action on 2 nodes:
+  // - container's host node (this is done in the executeActionOnElementOrContainer)
+  // - container's host node (this is done here)
+
+  if (anchor !== native) {
+    // This is very strange to me (Misko). I would expect that the native is same as anchor. I
+    // don't see a reason why they should be different, but they are.
+    //
+    // If they are we need to process the second anchor as well.
+    applyToElementOrContainer(action, renderer, parentRElement, anchor, beforeNode);
+  }
+
+  for (let i = CONTAINER_HEADER_OFFSET; i < lContainer.length; i++) {
+    const lView = lContainer[i];
+    applyView(lView[TVIEW], lView, renderer, action, parentRElement, anchor);
+  }
+}
+/**
+ * Writes class/style to element.
+ *
+ * @param renderer Renderer to use.
+ * @param isClassBased `true` if it should be written to `class` (`false` to write to `style`)
+ * @param rNode The Node to write to.
+ * @param prop Property to write to. This would be the class/style name.
+ * @param value Value to write. If `null`/`undefined`/`false` this is considered a remove (set/add
+ *        otherwise).
+ */
+
+
+function applyStyling(renderer, isClassBased, rNode, prop, value) {
+  if (isClassBased) {
+    // We actually want JS true/false here because any truthy value should add the class
+    if (!value) {
+      ngDevMode && ngDevMode.rendererRemoveClass++;
+      renderer.removeClass(rNode, prop);
+    } else {
+      ngDevMode && ngDevMode.rendererAddClass++;
+      renderer.addClass(rNode, prop);
+    }
+  } else {
+    let flags = prop.indexOf('-') === -1 ? undefined : RendererStyleFlags2.DashCase;
+
+    if (value == null
+    /** || value === undefined */
+    ) {
+      ngDevMode && ngDevMode.rendererRemoveStyle++;
+      renderer.removeStyle(rNode, prop, flags);
+    } else {
+      // A value is important if it ends with `!important`. The style
+      // parser strips any semicolons at the end of the value.
+      const isImportant = typeof value === 'string' ? value.endsWith('!important') : false;
+
+      if (isImportant) {
+        // !important has to be stripped from the value for it to be valid.
+        value = value.slice(0, -10);
+        flags |= RendererStyleFlags2.Important;
+      }
+
+      ngDevMode && ngDevMode.rendererSetStyle++;
+      renderer.setStyle(rNode, prop, value, flags);
+    }
+  }
+}
+/**
+ * Write `cssText` to `RElement`.
+ *
+ * This function does direct write without any reconciliation. Used for writing initial values, so
+ * that static styling values do not pull in the style parser.
+ *
+ * @param renderer Renderer to use
+ * @param element The element which needs to be updated.
+ * @param newValue The new class list to write.
+ */
+
+
+function writeDirectStyle(renderer, element, newValue) {
+  ngDevMode && assertString(newValue, '\'newValue\' should be a string');
+  renderer.setAttribute(element, 'style', newValue);
+  ngDevMode && ngDevMode.rendererSetStyle++;
+}
+/**
+ * Write `className` to `RElement`.
+ *
+ * This function does direct write without any reconciliation. Used for writing initial values, so
+ * that static styling values do not pull in the style parser.
+ *
+ * @param renderer Renderer to use
+ * @param element The element which needs to be updated.
+ * @param newValue The new class list to write.
+ */
+
+
+function writeDirectClass(renderer, element, newValue) {
+  ngDevMode && assertString(newValue, '\'newValue\' should be a string');
+
+  if (newValue === '') {
+    // There are tests in `google3` which expect `element.getAttribute('class')` to be `null`.
+    renderer.removeAttribute(element, 'class');
+  } else {
+    renderer.setAttribute(element, 'class', newValue);
+  }
+
+  ngDevMode && ngDevMode.rendererSetClassName++;
 }
 /**
  * @license
@@ -32932,6 +35461,109 @@ function newTrustedFunctionForDev(...args) {
   return fn.bind(_global); // When Trusted Types support in Function constructors is widely available,
   // the implementation of this function can be simplified to:
   // return new Function(...args.map(a => trustedScriptFromString(a)));
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Validation function invoked at runtime for each binding that might potentially
+ * represent a security-sensitive attribute of an <iframe>.
+ * See `IFRAME_SECURITY_SENSITIVE_ATTRS` in the
+ * `packages/compiler/src/schema/dom_security_schema.ts` script for the full list
+ * of such attributes.
+ *
+ * @codeGenApi
+ */
+
+
+function ɵɵvalidateIframeAttribute(attrValue, tagName, attrName) {
+  const lView = getLView();
+  const tNode = getSelectedTNode();
+  const element = getNativeByTNode(tNode, lView); // Restrict any dynamic bindings of security-sensitive attributes/properties
+  // on an <iframe> for security reasons.
+
+  if (tNode.type === 2
+  /* TNodeType.Element */
+  && tagName.toLowerCase() === 'iframe') {
+    const iframe = element; // Unset previously applied `src` and `srcdoc` if we come across a situation when
+    // a security-sensitive attribute is set later via an attribute/property binding.
+
+    iframe.src = '';
+    iframe.srcdoc = trustedHTMLFromString(''); // Also remove the <iframe> from the document.
+
+    nativeRemoveNode(lView[RENDERER], iframe);
+    const errorMessage = ngDevMode && `Angular has detected that the \`${attrName}\` was applied ` + `as a binding to an <iframe>${getTemplateLocationDetails(lView)}. ` + `For security reasons, the \`${attrName}\` can be set on an <iframe> ` + `as a static attribute only. \n` + `To fix this, switch the \`${attrName}\` binding to a static attribute ` + `in a template or in host bindings section.`;
+    throw new RuntimeError(-910
+    /* RuntimeErrorCode.UNSAFE_IFRAME_ATTRS */
+    , errorMessage);
+  }
+
+  return attrValue;
+}
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * Most of the use of `document` in Angular is from within the DI system so it is possible to simply
+ * inject the `DOCUMENT` token and are done.
+ *
+ * Ivy is special because it does not rely upon the DI and must get hold of the document some other
+ * way.
+ *
+ * The solution is to define `getDocument()` and `setDocument()` top-level functions for ivy.
+ * Wherever ivy needs the global document, it calls `getDocument()` instead.
+ *
+ * When running ivy outside of a browser environment, it is necessary to call `setDocument()` to
+ * tell ivy what the global `document` is.
+ *
+ * Angular does this for us in each of the standard platforms (`Browser`, `Server`, and `WebWorker`)
+ * by calling `setDocument()` when providing the `DOCUMENT` token.
+ */
+
+
+let DOCUMENT = undefined;
+/**
+ * Tell ivy what the `document` is for this platform.
+ *
+ * It is only necessary to call this if the current platform is not a browser.
+ *
+ * @param document The object representing the global `document` in this environment.
+ */
+
+function setDocument(document) {
+  DOCUMENT = document;
+}
+/**
+ * Access the object that represents the `document` for this platform.
+ *
+ * Ivy calls this whenever it needs to access the `document` object.
+ * For example to create the renderer or to do sanitization.
+ */
+
+
+function getDocument() {
+  if (DOCUMENT !== undefined) {
+    return DOCUMENT;
+  } else if (typeof document !== 'undefined') {
+    return document;
+  } // No "document" can be found. This should only happen if we are running ivy outside Angular and
+  // the current platform is not a browser. Since this is not a supported scenario at the moment
+  // this should not happen in Angular apps.
+  // Once we support running ivy outside of Angular we will need to publish `setDocument()` as a
+  // public API. Meanwhile we just return `undefined` and let the application fail.
+
+
+  return undefined;
 }
 /**
  * @license
@@ -35034,7 +37666,7 @@ class Version {
  */
 
 
-const VERSION = new Version('14.2.8');
+const VERSION = new Version('14.2.12');
 /**
  * @license
  * Copyright Google LLC All Rights Reserved.
@@ -35068,321 +37700,6 @@ const NOT_FOUND_CHECK_ONLY_ELEMENT_INJECTOR = {};
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
-
-/**
- * Defines a schema that allows an NgModule to contain the following:
- * - Non-Angular elements named with dash case (`-`).
- * - Element properties named with dash case (`-`).
- * Dash case is the naming convention for custom elements.
- *
- * @publicApi
- */
-
-const CUSTOM_ELEMENTS_SCHEMA = {
-  name: 'custom-elements'
-};
-/**
- * Defines a schema that allows any property on any element.
- *
- * This schema allows you to ignore the errors related to any unknown elements or properties in a
- * template. The usage of this schema is generally discouraged because it prevents useful validation
- * and may hide real errors in your template. Consider using the `CUSTOM_ELEMENTS_SCHEMA` instead.
- *
- * @publicApi
- */
-
-const NO_ERRORS_SCHEMA = {
-  name: 'no-errors-schema'
-};
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-let shouldThrowErrorOnUnknownElement = false;
-/**
- * Sets a strict mode for JIT-compiled components to throw an error on unknown elements,
- * instead of just logging the error.
- * (for AOT-compiled ones this check happens at build time).
- */
-
-function ɵsetUnknownElementStrictMode(shouldThrow) {
-  shouldThrowErrorOnUnknownElement = shouldThrow;
-}
-/**
- * Gets the current value of the strict mode.
- */
-
-
-function ɵgetUnknownElementStrictMode() {
-  return shouldThrowErrorOnUnknownElement;
-}
-
-let shouldThrowErrorOnUnknownProperty = false;
-/**
- * Sets a strict mode for JIT-compiled components to throw an error on unknown properties,
- * instead of just logging the error.
- * (for AOT-compiled ones this check happens at build time).
- */
-
-function ɵsetUnknownPropertyStrictMode(shouldThrow) {
-  shouldThrowErrorOnUnknownProperty = shouldThrow;
-}
-/**
- * Gets the current value of the strict mode.
- */
-
-
-function ɵgetUnknownPropertyStrictMode() {
-  return shouldThrowErrorOnUnknownProperty;
-}
-/**
- * Validates that the element is known at runtime and produces
- * an error if it's not the case.
- * This check is relevant for JIT-compiled components (for AOT-compiled
- * ones this check happens at build time).
- *
- * The element is considered known if either:
- * - it's a known HTML element
- * - it's a known custom element
- * - the element matches any directive
- * - the element is allowed by one of the schemas
- *
- * @param element Element to validate
- * @param lView An `LView` that represents a current component that is being rendered
- * @param tagName Name of the tag to check
- * @param schemas Array of schemas
- * @param hasDirectives Boolean indicating that the element matches any directive
- */
-
-
-function validateElementIsKnown(element, lView, tagName, schemas, hasDirectives) {
-  // If `schemas` is set to `null`, that's an indication that this Component was compiled in AOT
-  // mode where this check happens at compile time. In JIT mode, `schemas` is always present and
-  // defined as an array (as an empty array in case `schemas` field is not defined) and we should
-  // execute the check below.
-  if (schemas === null) return; // If the element matches any directive, it's considered as valid.
-
-  if (!hasDirectives && tagName !== null) {
-    // The element is unknown if it's an instance of HTMLUnknownElement, or it isn't registered
-    // as a custom element. Note that unknown elements with a dash in their name won't be instances
-    // of HTMLUnknownElement in browsers that support web components.
-    const isUnknown = // Note that we can't check for `typeof HTMLUnknownElement === 'function'`,
-    // because while most browsers return 'function', IE returns 'object'.
-    typeof HTMLUnknownElement !== 'undefined' && HTMLUnknownElement && element instanceof HTMLUnknownElement || typeof customElements !== 'undefined' && tagName.indexOf('-') > -1 && !customElements.get(tagName);
-
-    if (isUnknown && !matchingSchemas(schemas, tagName)) {
-      const isHostStandalone = isHostComponentStandalone(lView);
-      const templateLocation = getTemplateLocationDetails(lView);
-      const schemas = `'${isHostStandalone ? '@Component' : '@NgModule'}.schemas'`;
-      let message = `'${tagName}' is not a known element${templateLocation}:\n`;
-      message += `1. If '${tagName}' is an Angular component, then verify that it is ${isHostStandalone ? 'included in the \'@Component.imports\' of this component' : 'a part of an @NgModule where this component is declared'}.\n`;
-
-      if (tagName && tagName.indexOf('-') > -1) {
-        message += `2. If '${tagName}' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the ${schemas} of this component to suppress this message.`;
-      } else {
-        message += `2. To allow any element add 'NO_ERRORS_SCHEMA' to the ${schemas} of this component.`;
-      }
-
-      if (shouldThrowErrorOnUnknownElement) {
-        throw new RuntimeError(304
-        /* RuntimeErrorCode.UNKNOWN_ELEMENT */
-        , message);
-      } else {
-        console.error(formatRuntimeError(304
-        /* RuntimeErrorCode.UNKNOWN_ELEMENT */
-        , message));
-      }
-    }
-  }
-}
-/**
- * Validates that the property of the element is known at runtime and returns
- * false if it's not the case.
- * This check is relevant for JIT-compiled components (for AOT-compiled
- * ones this check happens at build time).
- *
- * The property is considered known if either:
- * - it's a known property of the element
- * - the element is allowed by one of the schemas
- * - the property is used for animations
- *
- * @param element Element to validate
- * @param propName Name of the property to check
- * @param tagName Name of the tag hosting the property
- * @param schemas Array of schemas
- */
-
-
-function isPropertyValid(element, propName, tagName, schemas) {
-  // If `schemas` is set to `null`, that's an indication that this Component was compiled in AOT
-  // mode where this check happens at compile time. In JIT mode, `schemas` is always present and
-  // defined as an array (as an empty array in case `schemas` field is not defined) and we should
-  // execute the check below.
-  if (schemas === null) return true; // The property is considered valid if the element matches the schema, it exists on the element,
-  // or it is synthetic, and we are in a browser context (web worker nodes should be skipped).
-
-  if (matchingSchemas(schemas, tagName) || propName in element || isAnimationProp(propName)) {
-    return true;
-  } // Note: `typeof Node` returns 'function' in most browsers, but on IE it is 'object' so we
-  // need to account for both here, while being careful with `typeof null` also returning 'object'.
-
-
-  return typeof Node === 'undefined' || Node === null || !(element instanceof Node);
-}
-/**
- * Logs or throws an error that a property is not supported on an element.
- *
- * @param propName Name of the invalid property
- * @param tagName Name of the tag hosting the property
- * @param nodeType Type of the node hosting the property
- * @param lView An `LView` that represents a current component
- */
-
-
-function handleUnknownPropertyError(propName, tagName, nodeType, lView) {
-  // Special-case a situation when a structural directive is applied to
-  // an `<ng-template>` element, for example: `<ng-template *ngIf="true">`.
-  // In this case the compiler generates the `ɵɵtemplate` instruction with
-  // the `null` as the tagName. The directive matching logic at runtime relies
-  // on this effect (see `isInlineTemplate`), thus using the 'ng-template' as
-  // a default value of the `tNode.value` is not feasible at this moment.
-  if (!tagName && nodeType === 4
-  /* TNodeType.Container */
-  ) {
-    tagName = 'ng-template';
-  }
-
-  const isHostStandalone = isHostComponentStandalone(lView);
-  const templateLocation = getTemplateLocationDetails(lView);
-  let message = `Can't bind to '${propName}' since it isn't a known property of '${tagName}'${templateLocation}.`;
-  const schemas = `'${isHostStandalone ? '@Component' : '@NgModule'}.schemas'`;
-  const importLocation = isHostStandalone ? 'included in the \'@Component.imports\' of this component' : 'a part of an @NgModule where this component is declared';
-
-  if (KNOWN_CONTROL_FLOW_DIRECTIVES.has(propName)) {
-    // Most likely this is a control flow directive (such as `*ngIf`) used in
-    // a template, but the directive or the `CommonModule` is not imported.
-    const correspondingImport = KNOWN_CONTROL_FLOW_DIRECTIVES.get(propName);
-    message += `\nIf the '${propName}' is an Angular control flow directive, ` + `please make sure that either the '${correspondingImport}' directive or the 'CommonModule' is ${importLocation}.`;
-  } else {
-    // May be an Angular component, which is not imported/declared?
-    message += `\n1. If '${tagName}' is an Angular component and it has the ` + `'${propName}' input, then verify that it is ${importLocation}.`; // May be a Web Component?
-
-    if (tagName && tagName.indexOf('-') > -1) {
-      message += `\n2. If '${tagName}' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' ` + `to the ${schemas} of this component to suppress this message.`;
-      message += `\n3. To allow any property add 'NO_ERRORS_SCHEMA' to ` + `the ${schemas} of this component.`;
-    } else {
-      // If it's expected, the error can be suppressed by the `NO_ERRORS_SCHEMA` schema.
-      message += `\n2. To allow any property add 'NO_ERRORS_SCHEMA' to ` + `the ${schemas} of this component.`;
-    }
-  }
-
-  reportUnknownPropertyError(message);
-}
-
-function reportUnknownPropertyError(message) {
-  if (shouldThrowErrorOnUnknownProperty) {
-    throw new RuntimeError(303
-    /* RuntimeErrorCode.UNKNOWN_BINDING */
-    , message);
-  } else {
-    console.error(formatRuntimeError(303
-    /* RuntimeErrorCode.UNKNOWN_BINDING */
-    , message));
-  }
-}
-/**
- * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
- * and must **not** be used in production bundles. The function makes megamorphic reads, which might
- * be too slow for production mode and also it relies on the constructor function being available.
- *
- * Gets a reference to the host component def (where a current component is declared).
- *
- * @param lView An `LView` that represents a current component that is being rendered.
- */
-
-
-function getDeclarationComponentDef(lView) {
-  !ngDevMode && throwError('Must never be called in production mode');
-  const declarationLView = lView[DECLARATION_COMPONENT_VIEW];
-  const context = declarationLView[CONTEXT]; // Unable to obtain a context.
-
-  if (!context) return null;
-  return context.constructor ? getComponentDef(context.constructor) : null;
-}
-/**
- * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
- * and must **not** be used in production bundles. The function makes megamorphic reads, which might
- * be too slow for production mode.
- *
- * Checks if the current component is declared inside of a standalone component template.
- *
- * @param lView An `LView` that represents a current component that is being rendered.
- */
-
-
-function isHostComponentStandalone(lView) {
-  !ngDevMode && throwError('Must never be called in production mode');
-  const componentDef = getDeclarationComponentDef(lView); // Treat host component as non-standalone if we can't obtain the def.
-
-  return !!componentDef?.standalone;
-}
-/**
- * WARNING: this is a **dev-mode only** function (thus should always be guarded by the `ngDevMode`)
- * and must **not** be used in production bundles. The function makes megamorphic reads, which might
- * be too slow for production mode.
- *
- * Constructs a string describing the location of the host component template. The function is used
- * in dev mode to produce error messages.
- *
- * @param lView An `LView` that represents a current component that is being rendered.
- */
-
-
-function getTemplateLocationDetails(lView) {
-  !ngDevMode && throwError('Must never be called in production mode');
-  const hostComponentDef = getDeclarationComponentDef(lView);
-  const componentClassName = hostComponentDef?.type?.name;
-  return componentClassName ? ` (used in the '${componentClassName}' component template)` : '';
-}
-/**
- * The set of known control flow directives and their corresponding imports.
- * We use this set to produce a more precises error message with a note
- * that the `CommonModule` should also be included.
- */
-
-
-const KNOWN_CONTROL_FLOW_DIRECTIVES = new Map([['ngIf', 'NgIf'], ['ngFor', 'NgFor'], ['ngSwitchCase', 'NgSwitchCase'], ['ngSwitchDefault', 'NgSwitchDefault']]);
-/**
- * Returns true if the tag name is allowed by specified schemas.
- * @param schemas Array of schemas
- * @param tagName Name of the tag
- */
-
-function matchingSchemas(schemas, tagName) {
-  if (schemas !== null) {
-    for (let i = 0; i < schemas.length; i++) {
-      const schema = schemas[i];
-
-      if (schema === NO_ERRORS_SCHEMA || schema === CUSTOM_ELEMENTS_SCHEMA && tagName && tagName.indexOf('-') > -1) {
-        return true;
-      }
-    }
-  }
-
-  return false;
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
 
 const ERROR_ORIGINAL_ERROR = 'ngOriginalError';
 
@@ -35470,59 +37787,6 @@ class ErrorHandler {
  * found in the LICENSE file at https://angular.io/license
  */
 
-/**
- * Disallowed strings in the comment.
- *
- * see: https://html.spec.whatwg.org/multipage/syntax.html#comments
- */
-
-
-const COMMENT_DISALLOWED = /^>|^->|<!--|-->|--!>|<!-$/g;
-/**
- * Delimiter in the disallowed strings which needs to be wrapped with zero with character.
- */
-
-const COMMENT_DELIMITER = /(<|>)/;
-const COMMENT_DELIMITER_ESCAPED = '\u200B$1\u200B';
-/**
- * Escape the content of comment strings so that it can be safely inserted into a comment node.
- *
- * The issue is that HTML does not specify any way to escape comment end text inside the comment.
- * Consider: `<!-- The way you close a comment is with ">", and "->" at the beginning or by "-->" or
- * "--!>" at the end. -->`. Above the `"-->"` is meant to be text not an end to the comment. This
- * can be created programmatically through DOM APIs. (`<!--` are also disallowed.)
- *
- * see: https://html.spec.whatwg.org/multipage/syntax.html#comments
- *
- * ```
- * div.innerHTML = div.innerHTML
- * ```
- *
- * One would expect that the above code would be safe to do, but it turns out that because comment
- * text is not escaped, the comment may contain text which will prematurely close the comment
- * opening up the application for XSS attack. (In SSR we programmatically create comment nodes which
- * may contain such text and expect them to be safe.)
- *
- * This function escapes the comment text by looking for comment delimiters (`<` and `>`) and
- * surrounding them with `_>_` where the `_` is a zero width space `\u200B`. The result is that if a
- * comment contains any of the comment start/end delimiters (such as `<!--`, `-->` or `--!>`) the
- * text it will render normally but it will not cause the HTML parser to close/open the comment.
- *
- * @param value text to make safe for comment node by escaping the comment open/close character
- *     sequence.
- */
-
-function escapeCommentText(value) {
-  return value.replace(COMMENT_DISALLOWED, text => text.replace(COMMENT_DELIMITER, COMMENT_DELIMITER_ESCAPED));
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
 
 function normalizeDebugBindingName(name) {
   // Attribute names with `$` (eg `x-y$`) are valid per spec, but unsupported by some browsers
@@ -35543,450 +37807,6 @@ function normalizeDebugBindingValue(value) {
   } catch (e) {
     return '[ERROR] Exception while trying to serialize the value';
   }
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-// Keeps track of the currently-active LViews.
-
-
-const TRACKED_LVIEWS = new Map(); // Used for generating unique IDs for LViews.
-
-let uniqueIdCounter = 0;
-/** Gets a unique ID that can be assigned to an LView. */
-
-function getUniqueLViewId() {
-  return uniqueIdCounter++;
-}
-/** Starts tracking an LView. */
-
-
-function registerLView(lView) {
-  ngDevMode && assertNumber(lView[ID], 'LView must have an ID in order to be registered');
-  TRACKED_LVIEWS.set(lView[ID], lView);
-}
-/** Gets an LView by its unique ID. */
-
-
-function getLViewById(id) {
-  ngDevMode && assertNumber(id, 'ID used for LView lookup must be a number');
-  return TRACKED_LVIEWS.get(id) || null;
-}
-/** Stops tracking an LView. */
-
-
-function unregisterLView(lView) {
-  ngDevMode && assertNumber(lView[ID], 'Cannot stop tracking an LView that does not have an ID');
-  TRACKED_LVIEWS.delete(lView[ID]);
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * The internal view context which is specific to a given DOM element, directive or
- * component instance. Each value in here (besides the LView and element node details)
- * can be present, null or undefined. If undefined then it implies the value has not been
- * looked up yet, otherwise, if null, then a lookup was executed and nothing was found.
- *
- * Each value will get filled when the respective value is examined within the getContext
- * function. The component, element and each directive instance will share the same instance
- * of the context.
- */
-
-
-class LContext {
-  constructor(
-  /**
-   * ID of the component's parent view data.
-   */
-  lViewId,
-  /**
-   * The index instance of the node.
-   */
-  nodeIndex,
-  /**
-   * The instance of the DOM node that is attached to the lNode.
-   */
-  native) {
-    this.lViewId = lViewId;
-    this.nodeIndex = nodeIndex;
-    this.native = native;
-  }
-  /** Component's parent view data. */
-
-
-  get lView() {
-    return getLViewById(this.lViewId);
-  }
-
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * Returns the matching `LContext` data for a given DOM node, directive or component instance.
- *
- * This function will examine the provided DOM element, component, or directive instance\'s
- * monkey-patched property to derive the `LContext` data. Once called then the monkey-patched
- * value will be that of the newly created `LContext`.
- *
- * If the monkey-patched value is the `LView` instance then the context value for that
- * target will be created and the monkey-patch reference will be updated. Therefore when this
- * function is called it may mutate the provided element\'s, component\'s or any of the associated
- * directive\'s monkey-patch values.
- *
- * If the monkey-patch value is not detected then the code will walk up the DOM until an element
- * is found which contains a monkey-patch reference. When that occurs then the provided element
- * will be updated with a new context (which is then returned). If the monkey-patch value is not
- * detected for a component/directive instance then it will throw an error (all components and
- * directives should be automatically monkey-patched by ivy).
- *
- * @param target Component, Directive or DOM Node.
- */
-
-
-function getLContext(target) {
-  let mpValue = readPatchedData(target);
-
-  if (mpValue) {
-    // only when it's an array is it considered an LView instance
-    // ... otherwise it's an already constructed LContext instance
-    if (isLView(mpValue)) {
-      const lView = mpValue;
-      let nodeIndex;
-      let component = undefined;
-      let directives = undefined;
-
-      if (isComponentInstance(target)) {
-        nodeIndex = findViaComponent(lView, target);
-
-        if (nodeIndex == -1) {
-          throw new Error('The provided component was not found in the application');
-        }
-
-        component = target;
-      } else if (isDirectiveInstance(target)) {
-        nodeIndex = findViaDirective(lView, target);
-
-        if (nodeIndex == -1) {
-          throw new Error('The provided directive was not found in the application');
-        }
-
-        directives = getDirectivesAtNodeIndex(nodeIndex, lView, false);
-      } else {
-        nodeIndex = findViaNativeElement(lView, target);
-
-        if (nodeIndex == -1) {
-          return null;
-        }
-      } // the goal is not to fill the entire context full of data because the lookups
-      // are expensive. Instead, only the target data (the element, component, container, ICU
-      // expression or directive details) are filled into the context. If called multiple times
-      // with different target values then the missing target data will be filled in.
-
-
-      const native = unwrapRNode(lView[nodeIndex]);
-      const existingCtx = readPatchedData(native);
-      const context = existingCtx && !Array.isArray(existingCtx) ? existingCtx : createLContext(lView, nodeIndex, native); // only when the component has been discovered then update the monkey-patch
-
-      if (component && context.component === undefined) {
-        context.component = component;
-        attachPatchData(context.component, context);
-      } // only when the directives have been discovered then update the monkey-patch
-
-
-      if (directives && context.directives === undefined) {
-        context.directives = directives;
-
-        for (let i = 0; i < directives.length; i++) {
-          attachPatchData(directives[i], context);
-        }
-      }
-
-      attachPatchData(context.native, context);
-      mpValue = context;
-    }
-  } else {
-    const rElement = target;
-    ngDevMode && assertDomNode(rElement); // if the context is not found then we need to traverse upwards up the DOM
-    // to find the nearest element that has already been monkey patched with data
-
-    let parent = rElement;
-
-    while (parent = parent.parentNode) {
-      const parentContext = readPatchedData(parent);
-
-      if (parentContext) {
-        const lView = Array.isArray(parentContext) ? parentContext : parentContext.lView; // the edge of the app was also reached here through another means
-        // (maybe because the DOM was changed manually).
-
-        if (!lView) {
-          return null;
-        }
-
-        const index = findViaNativeElement(lView, rElement);
-
-        if (index >= 0) {
-          const native = unwrapRNode(lView[index]);
-          const context = createLContext(lView, index, native);
-          attachPatchData(native, context);
-          mpValue = context;
-          break;
-        }
-      }
-    }
-  }
-
-  return mpValue || null;
-}
-/**
- * Creates an empty instance of a `LContext` context
- */
-
-
-function createLContext(lView, nodeIndex, native) {
-  return new LContext(lView[ID], nodeIndex, native);
-}
-/**
- * Takes a component instance and returns the view for that component.
- *
- * @param componentInstance
- * @returns The component's view
- */
-
-
-function getComponentViewByInstance(componentInstance) {
-  let patchedData = readPatchedData(componentInstance);
-  let lView;
-
-  if (isLView(patchedData)) {
-    const contextLView = patchedData;
-    const nodeIndex = findViaComponent(contextLView, componentInstance);
-    lView = getComponentLViewByIndex(nodeIndex, contextLView);
-    const context = createLContext(contextLView, nodeIndex, lView[HOST]);
-    context.component = componentInstance;
-    attachPatchData(componentInstance, context);
-    attachPatchData(context.native, context);
-  } else {
-    const context = patchedData;
-    const contextLView = context.lView;
-    ngDevMode && assertLView(contextLView);
-    lView = getComponentLViewByIndex(context.nodeIndex, contextLView);
-  }
-
-  return lView;
-}
-/**
- * This property will be monkey-patched on elements, components and directives.
- */
-
-
-const MONKEY_PATCH_KEY_NAME = '__ngContext__';
-/**
- * Assigns the given data to the given target (which could be a component,
- * directive or DOM node instance) using monkey-patching.
- */
-
-function attachPatchData(target, data) {
-  ngDevMode && assertDefined(target, 'Target expected'); // Only attach the ID of the view in order to avoid memory leaks (see #41047). We only do this
-  // for `LView`, because we have control over when an `LView` is created and destroyed, whereas
-  // we can't know when to remove an `LContext`.
-
-  if (isLView(data)) {
-    target[MONKEY_PATCH_KEY_NAME] = data[ID];
-    registerLView(data);
-  } else {
-    target[MONKEY_PATCH_KEY_NAME] = data;
-  }
-}
-/**
- * Returns the monkey-patch value data present on the target (which could be
- * a component, directive or a DOM node).
- */
-
-
-function readPatchedData(target) {
-  ngDevMode && assertDefined(target, 'Target expected');
-  const data = target[MONKEY_PATCH_KEY_NAME];
-  return typeof data === 'number' ? getLViewById(data) : data || null;
-}
-
-function readPatchedLView(target) {
-  const value = readPatchedData(target);
-
-  if (value) {
-    return isLView(value) ? value : value.lView;
-  }
-
-  return null;
-}
-
-function isComponentInstance(instance) {
-  return instance && instance.constructor && instance.constructor.ɵcmp;
-}
-
-function isDirectiveInstance(instance) {
-  return instance && instance.constructor && instance.constructor.ɵdir;
-}
-/**
- * Locates the element within the given LView and returns the matching index
- */
-
-
-function findViaNativeElement(lView, target) {
-  const tView = lView[TVIEW];
-
-  for (let i = HEADER_OFFSET; i < tView.bindingStartIndex; i++) {
-    if (unwrapRNode(lView[i]) === target) {
-      return i;
-    }
-  }
-
-  return -1;
-}
-/**
- * Locates the next tNode (child, sibling or parent).
- */
-
-
-function traverseNextElement(tNode) {
-  if (tNode.child) {
-    return tNode.child;
-  } else if (tNode.next) {
-    return tNode.next;
-  } else {
-    // Let's take the following template: <div><span>text</span></div><component/>
-    // After checking the text node, we need to find the next parent that has a "next" TNode,
-    // in this case the parent `div`, so that we can find the component.
-    while (tNode.parent && !tNode.parent.next) {
-      tNode = tNode.parent;
-    }
-
-    return tNode.parent && tNode.parent.next;
-  }
-}
-/**
- * Locates the component within the given LView and returns the matching index
- */
-
-
-function findViaComponent(lView, componentInstance) {
-  const componentIndices = lView[TVIEW].components;
-
-  if (componentIndices) {
-    for (let i = 0; i < componentIndices.length; i++) {
-      const elementComponentIndex = componentIndices[i];
-      const componentView = getComponentLViewByIndex(elementComponentIndex, lView);
-
-      if (componentView[CONTEXT] === componentInstance) {
-        return elementComponentIndex;
-      }
-    }
-  } else {
-    const rootComponentView = getComponentLViewByIndex(HEADER_OFFSET, lView);
-    const rootComponent = rootComponentView[CONTEXT];
-
-    if (rootComponent === componentInstance) {
-      // we are dealing with the root element here therefore we know that the
-      // element is the very first element after the HEADER data in the lView
-      return HEADER_OFFSET;
-    }
-  }
-
-  return -1;
-}
-/**
- * Locates the directive within the given LView and returns the matching index
- */
-
-
-function findViaDirective(lView, directiveInstance) {
-  // if a directive is monkey patched then it will (by default)
-  // have a reference to the LView of the current view. The
-  // element bound to the directive being search lives somewhere
-  // in the view data. We loop through the nodes and check their
-  // list of directives for the instance.
-  let tNode = lView[TVIEW].firstChild;
-
-  while (tNode) {
-    const directiveIndexStart = tNode.directiveStart;
-    const directiveIndexEnd = tNode.directiveEnd;
-
-    for (let i = directiveIndexStart; i < directiveIndexEnd; i++) {
-      if (lView[i] === directiveInstance) {
-        return tNode.index;
-      }
-    }
-
-    tNode = traverseNextElement(tNode);
-  }
-
-  return -1;
-}
-/**
- * Returns a list of directives extracted from the given view based on the
- * provided list of directive index values.
- *
- * @param nodeIndex The node index
- * @param lView The target view data
- * @param includeComponents Whether or not to include components in returned directives
- */
-
-
-function getDirectivesAtNodeIndex(nodeIndex, lView, includeComponents) {
-  const tNode = lView[TVIEW].data[nodeIndex];
-  let directiveStartIndex = tNode.directiveStart;
-  if (directiveStartIndex == 0) return EMPTY_ARRAY;
-  const directiveEndIndex = tNode.directiveEnd;
-  if (!includeComponents && tNode.flags & 2
-  /* TNodeFlags.isComponentHost */
-  ) directiveStartIndex++;
-  return lView.slice(directiveStartIndex, directiveEndIndex);
-}
-
-function getComponentAtNodeIndex(nodeIndex, lView) {
-  const tNode = lView[TVIEW].data[nodeIndex];
-  let directiveStartIndex = tNode.directiveStart;
-  return tNode.flags & 2
-  /* TNodeFlags.isComponentHost */
-  ? lView[directiveStartIndex] : null;
-}
-/**
- * Returns a map of local references (local reference name => element or directive instance) that
- * exist on a given element.
- */
-
-
-function discoverLocalRefs(lView, nodeIndex) {
-  const tNode = lView[TVIEW].data[nodeIndex];
-
-  if (tNode && tNode.localNames) {
-    const result = {};
-    let localIndex = tNode.index + 1;
-
-    for (let i = 0; i < tNode.localNames.length; i += 2) {
-      result[tNode.localNames[i]] = lView[localIndex];
-      localIndex++;
-    }
-
-    return result;
-  }
-
-  return null;
 }
 /**
  * @license
@@ -36179,1308 +37999,6 @@ function getExpressionChangedErrorDetails(lView, bindingIndex, oldValue, newValu
     oldValue,
     newValue
   };
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * Flags for renderer-specific style modifiers.
- * @publicApi
- */
-
-
-var RendererStyleFlags2;
-
-(function (RendererStyleFlags2) {
-  // TODO(misko): This needs to be refactored into a separate file so that it can be imported from
-  // `node_manipulation.ts` Currently doing the import cause resolution order to change and fails
-  // the tests. The work around is to have hard coded value in `node_manipulation.ts` for now.
-
-  /**
-   * Marks a style as important.
-   */
-  RendererStyleFlags2[RendererStyleFlags2["Important"] = 1] = "Important";
-  /**
-   * Marks a style as using dash case naming (this-is-dash-case).
-   */
-
-  RendererStyleFlags2[RendererStyleFlags2["DashCase"] = 2] = "DashCase";
-})(RendererStyleFlags2 || (RendererStyleFlags2 = {}));
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-let _icuContainerIterate;
-/**
- * Iterator which provides ability to visit all of the `TIcuContainerNode` root `RNode`s.
- */
-
-
-function icuContainerIterate(tIcuContainerNode, lView) {
-  return _icuContainerIterate(tIcuContainerNode, lView);
-}
-/**
- * Ensures that `IcuContainerVisitor`'s implementation is present.
- *
- * This function is invoked when i18n instruction comes across an ICU. The purpose is to allow the
- * bundler to tree shake ICU logic and only load it if ICU instruction is executed.
- */
-
-
-function ensureIcuContainerVisitorLoaded(loader) {
-  if (_icuContainerIterate === undefined) {
-    // Do not inline this function. We want to keep `ensureIcuContainerVisitorLoaded` light, so it
-    // can be inlined into call-site.
-    _icuContainerIterate = loader();
-  }
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-// Note: This hack is necessary so we don't erroneously get a circular dependency
-// failure based on types.
-
-
-const unusedValueExportToPlacateAjd$4 = 1;
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-// Note: This hack is necessary so we don't erroneously get a circular dependency
-// failure based on types.
-
-const unusedValueExportToPlacateAjd$3 = 1;
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * Gets the parent LView of the passed LView, if the PARENT is an LContainer, will get the parent of
- * that LContainer, which is an LView
- * @param lView the lView whose parent to get
- */
-
-function getLViewParent(lView) {
-  ngDevMode && assertLView(lView);
-  const parent = lView[PARENT];
-  return isLContainer(parent) ? parent[PARENT] : parent;
-}
-/**
- * Retrieve the root view from any component or `LView` by walking the parent `LView` until
- * reaching the root `LView`.
- *
- * @param componentOrLView any component or `LView`
- */
-
-
-function getRootView(componentOrLView) {
-  ngDevMode && assertDefined(componentOrLView, 'component');
-  let lView = isLView(componentOrLView) ? componentOrLView : readPatchedLView(componentOrLView);
-
-  while (lView && !(lView[FLAGS] & 256
-  /* LViewFlags.IsRoot */
-  )) {
-    lView = getLViewParent(lView);
-  }
-
-  ngDevMode && assertLView(lView);
-  return lView;
-}
-/**
- * Returns the context information associated with the application where the target is situated. It
- * does this by walking the parent views until it gets to the root view, then getting the context
- * off of that.
- *
- * @param viewOrComponent the `LView` or component to get the root context for.
- */
-
-
-function getRootContext(viewOrComponent) {
-  const rootView = getRootView(viewOrComponent);
-  ngDevMode && assertDefined(rootView[CONTEXT], 'Root view has no context. Perhaps it is disconnected?');
-  return rootView[CONTEXT];
-}
-/**
- * Gets the first `LContainer` in the LView or `null` if none exists.
- */
-
-
-function getFirstLContainer(lView) {
-  return getNearestLContainer(lView[CHILD_HEAD]);
-}
-/**
- * Gets the next `LContainer` that is a sibling of the given container.
- */
-
-
-function getNextLContainer(container) {
-  return getNearestLContainer(container[NEXT]);
-}
-
-function getNearestLContainer(viewOrContainer) {
-  while (viewOrContainer !== null && !isLContainer(viewOrContainer)) {
-    viewOrContainer = viewOrContainer[NEXT];
-  }
-
-  return viewOrContainer;
-}
-/**
- * @license
- * Copyright Google LLC All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-const unusedValueToPlacateAjd$2 = unusedValueExportToPlacateAjd$7 + unusedValueExportToPlacateAjd$5 + unusedValueExportToPlacateAjd$4 + unusedValueExportToPlacateAjd$3 + unusedValueExportToPlacateAjd$8;
-/**
- * NOTE: for performance reasons, the possible actions are inlined within the function instead of
- * being passed as an argument.
- */
-
-function applyToElementOrContainer(action, renderer, parent, lNodeToHandle, beforeNode) {
-  // If this slot was allocated for a text node dynamically created by i18n, the text node itself
-  // won't be created until i18nApply() in the update block, so this node should be skipped.
-  // For more info, see "ICU expressions should work inside an ngTemplateOutlet inside an ngFor"
-  // in `i18n_spec.ts`.
-  if (lNodeToHandle != null) {
-    let lContainer;
-    let isComponent = false; // We are expecting an RNode, but in the case of a component or LContainer the `RNode` is
-    // wrapped in an array which needs to be unwrapped. We need to know if it is a component and if
-    // it has LContainer so that we can process all of those cases appropriately.
-
-    if (isLContainer(lNodeToHandle)) {
-      lContainer = lNodeToHandle;
-    } else if (isLView(lNodeToHandle)) {
-      isComponent = true;
-      ngDevMode && assertDefined(lNodeToHandle[HOST], 'HOST must be defined for a component LView');
-      lNodeToHandle = lNodeToHandle[HOST];
-    }
-
-    const rNode = unwrapRNode(lNodeToHandle);
-
-    if (action === 0
-    /* WalkTNodeTreeAction.Create */
-    && parent !== null) {
-      if (beforeNode == null) {
-        nativeAppendChild(renderer, parent, rNode);
-      } else {
-        nativeInsertBefore(renderer, parent, rNode, beforeNode || null, true);
-      }
-    } else if (action === 1
-    /* WalkTNodeTreeAction.Insert */
-    && parent !== null) {
-      nativeInsertBefore(renderer, parent, rNode, beforeNode || null, true);
-    } else if (action === 2
-    /* WalkTNodeTreeAction.Detach */
-    ) {
-      nativeRemoveNode(renderer, rNode, isComponent);
-    } else if (action === 3
-    /* WalkTNodeTreeAction.Destroy */
-    ) {
-      ngDevMode && ngDevMode.rendererDestroyNode++;
-      renderer.destroyNode(rNode);
-    }
-
-    if (lContainer != null) {
-      applyContainer(renderer, action, lContainer, parent, beforeNode);
-    }
-  }
-}
-
-function createTextNode(renderer, value) {
-  ngDevMode && ngDevMode.rendererCreateTextNode++;
-  ngDevMode && ngDevMode.rendererSetText++;
-  return renderer.createText(value);
-}
-
-function updateTextNode(renderer, rNode, value) {
-  ngDevMode && ngDevMode.rendererSetText++;
-  renderer.setValue(rNode, value);
-}
-
-function createCommentNode(renderer, value) {
-  ngDevMode && ngDevMode.rendererCreateComment++;
-  return renderer.createComment(escapeCommentText(value));
-}
-/**
- * Creates a native element from a tag name, using a renderer.
- * @param renderer A renderer to use
- * @param name the tag name
- * @param namespace Optional namespace for element.
- * @returns the element created
- */
-
-
-function createElementNode(renderer, name, namespace) {
-  ngDevMode && ngDevMode.rendererCreateElement++;
-  return renderer.createElement(name, namespace);
-}
-/**
- * Removes all DOM elements associated with a view.
- *
- * Because some root nodes of the view may be containers, we sometimes need
- * to propagate deeply into the nested containers to remove all elements in the
- * views beneath it.
- *
- * @param tView The `TView' of the `LView` from which elements should be added or removed
- * @param lView The view from which elements should be added or removed
- */
-
-
-function removeViewFromContainer(tView, lView) {
-  const renderer = lView[RENDERER];
-  applyView(tView, lView, renderer, 2
-  /* WalkTNodeTreeAction.Detach */
-  , null, null);
-  lView[HOST] = null;
-  lView[T_HOST] = null;
-}
-/**
- * Adds all DOM elements associated with a view.
- *
- * Because some root nodes of the view may be containers, we sometimes need
- * to propagate deeply into the nested containers to add all elements in the
- * views beneath it.
- *
- * @param tView The `TView' of the `LView` from which elements should be added or removed
- * @param parentTNode The `TNode` where the `LView` should be attached to.
- * @param renderer Current renderer to use for DOM manipulations.
- * @param lView The view from which elements should be added or removed
- * @param parentNativeNode The parent `RElement` where it should be inserted into.
- * @param beforeNode The node before which elements should be added, if insert mode
- */
-
-
-function addViewToContainer(tView, parentTNode, renderer, lView, parentNativeNode, beforeNode) {
-  lView[HOST] = parentNativeNode;
-  lView[T_HOST] = parentTNode;
-  applyView(tView, lView, renderer, 1
-  /* WalkTNodeTreeAction.Insert */
-  , parentNativeNode, beforeNode);
-}
-/**
- * Detach a `LView` from the DOM by detaching its nodes.
- *
- * @param tView The `TView' of the `LView` to be detached
- * @param lView the `LView` to be detached.
- */
-
-
-function renderDetachView(tView, lView) {
-  applyView(tView, lView, lView[RENDERER], 2
-  /* WalkTNodeTreeAction.Detach */
-  , null, null);
-}
-/**
- * Traverses down and up the tree of views and containers to remove listeners and
- * call onDestroy callbacks.
- *
- * Notes:
- *  - Because it's used for onDestroy calls, it needs to be bottom-up.
- *  - Must process containers instead of their views to avoid splicing
- *  when views are destroyed and re-added.
- *  - Using a while loop because it's faster than recursion
- *  - Destroy only called on movement to sibling or movement to parent (laterally or up)
- *
- *  @param rootView The view to destroy
- */
-
-
-function destroyViewTree(rootView) {
-  // If the view has no children, we can clean it up and return early.
-  let lViewOrLContainer = rootView[CHILD_HEAD];
-
-  if (!lViewOrLContainer) {
-    return cleanUpView(rootView[TVIEW], rootView);
-  }
-
-  while (lViewOrLContainer) {
-    let next = null;
-
-    if (isLView(lViewOrLContainer)) {
-      // If LView, traverse down to child.
-      next = lViewOrLContainer[CHILD_HEAD];
-    } else {
-      ngDevMode && assertLContainer(lViewOrLContainer); // If container, traverse down to its first LView.
-
-      const firstView = lViewOrLContainer[CONTAINER_HEADER_OFFSET];
-      if (firstView) next = firstView;
-    }
-
-    if (!next) {
-      // Only clean up view when moving to the side or up, as destroy hooks
-      // should be called in order from the bottom up.
-      while (lViewOrLContainer && !lViewOrLContainer[NEXT] && lViewOrLContainer !== rootView) {
-        if (isLView(lViewOrLContainer)) {
-          cleanUpView(lViewOrLContainer[TVIEW], lViewOrLContainer);
-        }
-
-        lViewOrLContainer = lViewOrLContainer[PARENT];
-      }
-
-      if (lViewOrLContainer === null) lViewOrLContainer = rootView;
-
-      if (isLView(lViewOrLContainer)) {
-        cleanUpView(lViewOrLContainer[TVIEW], lViewOrLContainer);
-      }
-
-      next = lViewOrLContainer && lViewOrLContainer[NEXT];
-    }
-
-    lViewOrLContainer = next;
-  }
-}
-/**
- * Inserts a view into a container.
- *
- * This adds the view to the container's array of active views in the correct
- * position. It also adds the view's elements to the DOM if the container isn't a
- * root node of another view (in that case, the view's elements will be added when
- * the container's parent view is added later).
- *
- * @param tView The `TView' of the `LView` to insert
- * @param lView The view to insert
- * @param lContainer The container into which the view should be inserted
- * @param index Which index in the container to insert the child view into
- */
-
-
-function insertView(tView, lView, lContainer, index) {
-  ngDevMode && assertLView(lView);
-  ngDevMode && assertLContainer(lContainer);
-  const indexInContainer = CONTAINER_HEADER_OFFSET + index;
-  const containerLength = lContainer.length;
-
-  if (index > 0) {
-    // This is a new view, we need to add it to the children.
-    lContainer[indexInContainer - 1][NEXT] = lView;
-  }
-
-  if (index < containerLength - CONTAINER_HEADER_OFFSET) {
-    lView[NEXT] = lContainer[indexInContainer];
-    addToArray(lContainer, CONTAINER_HEADER_OFFSET + index, lView);
-  } else {
-    lContainer.push(lView);
-    lView[NEXT] = null;
-  }
-
-  lView[PARENT] = lContainer; // track views where declaration and insertion points are different
-
-  const declarationLContainer = lView[DECLARATION_LCONTAINER];
-
-  if (declarationLContainer !== null && lContainer !== declarationLContainer) {
-    trackMovedView(declarationLContainer, lView);
-  } // notify query that a new view has been added
-
-
-  const lQueries = lView[QUERIES];
-
-  if (lQueries !== null) {
-    lQueries.insertView(tView);
-  } // Sets the attached flag
-
-
-  lView[FLAGS] |= 64
-  /* LViewFlags.Attached */
-  ;
-}
-/**
- * Track views created from the declaration container (TemplateRef) and inserted into a
- * different LContainer.
- */
-
-
-function trackMovedView(declarationContainer, lView) {
-  ngDevMode && assertDefined(lView, 'LView required');
-  ngDevMode && assertLContainer(declarationContainer);
-  const movedViews = declarationContainer[MOVED_VIEWS];
-  const insertedLContainer = lView[PARENT];
-  ngDevMode && assertLContainer(insertedLContainer);
-  const insertedComponentLView = insertedLContainer[PARENT][DECLARATION_COMPONENT_VIEW];
-  ngDevMode && assertDefined(insertedComponentLView, 'Missing insertedComponentLView');
-  const declaredComponentLView = lView[DECLARATION_COMPONENT_VIEW];
-  ngDevMode && assertDefined(declaredComponentLView, 'Missing declaredComponentLView');
-
-  if (declaredComponentLView !== insertedComponentLView) {
-    // At this point the declaration-component is not same as insertion-component; this means that
-    // this is a transplanted view. Mark the declared lView as having transplanted views so that
-    // those views can participate in CD.
-    declarationContainer[HAS_TRANSPLANTED_VIEWS] = true;
-  }
-
-  if (movedViews === null) {
-    declarationContainer[MOVED_VIEWS] = [lView];
-  } else {
-    movedViews.push(lView);
-  }
-}
-
-function detachMovedView(declarationContainer, lView) {
-  ngDevMode && assertLContainer(declarationContainer);
-  ngDevMode && assertDefined(declarationContainer[MOVED_VIEWS], 'A projected view should belong to a non-empty projected views collection');
-  const movedViews = declarationContainer[MOVED_VIEWS];
-  const declarationViewIndex = movedViews.indexOf(lView);
-  const insertionLContainer = lView[PARENT];
-  ngDevMode && assertLContainer(insertionLContainer); // If the view was marked for refresh but then detached before it was checked (where the flag
-  // would be cleared and the counter decremented), we need to decrement the view counter here
-  // instead.
-
-  if (lView[FLAGS] & 512
-  /* LViewFlags.RefreshTransplantedView */
-  ) {
-    lView[FLAGS] &= ~512
-    /* LViewFlags.RefreshTransplantedView */
-    ;
-    updateTransplantedViewCount(insertionLContainer, -1);
-  }
-
-  movedViews.splice(declarationViewIndex, 1);
-}
-/**
- * Detaches a view from a container.
- *
- * This method removes the view from the container's array of active views. It also
- * removes the view's elements from the DOM.
- *
- * @param lContainer The container from which to detach a view
- * @param removeIndex The index of the view to detach
- * @returns Detached LView instance.
- */
-
-
-function detachView(lContainer, removeIndex) {
-  if (lContainer.length <= CONTAINER_HEADER_OFFSET) return;
-  const indexInContainer = CONTAINER_HEADER_OFFSET + removeIndex;
-  const viewToDetach = lContainer[indexInContainer];
-
-  if (viewToDetach) {
-    const declarationLContainer = viewToDetach[DECLARATION_LCONTAINER];
-
-    if (declarationLContainer !== null && declarationLContainer !== lContainer) {
-      detachMovedView(declarationLContainer, viewToDetach);
-    }
-
-    if (removeIndex > 0) {
-      lContainer[indexInContainer - 1][NEXT] = viewToDetach[NEXT];
-    }
-
-    const removedLView = removeFromArray(lContainer, CONTAINER_HEADER_OFFSET + removeIndex);
-    removeViewFromContainer(viewToDetach[TVIEW], viewToDetach); // notify query that a view has been removed
-
-    const lQueries = removedLView[QUERIES];
-
-    if (lQueries !== null) {
-      lQueries.detachView(removedLView[TVIEW]);
-    }
-
-    viewToDetach[PARENT] = null;
-    viewToDetach[NEXT] = null; // Unsets the attached flag
-
-    viewToDetach[FLAGS] &= ~64
-    /* LViewFlags.Attached */
-    ;
-  }
-
-  return viewToDetach;
-}
-/**
- * A standalone function which destroys an LView,
- * conducting clean up (e.g. removing listeners, calling onDestroys).
- *
- * @param tView The `TView' of the `LView` to be destroyed
- * @param lView The view to be destroyed.
- */
-
-
-function destroyLView(tView, lView) {
-  if (!(lView[FLAGS] & 128
-  /* LViewFlags.Destroyed */
-  )) {
-    const renderer = lView[RENDERER];
-
-    if (renderer.destroyNode) {
-      applyView(tView, lView, renderer, 3
-      /* WalkTNodeTreeAction.Destroy */
-      , null, null);
-    }
-
-    destroyViewTree(lView);
-  }
-}
-/**
- * Calls onDestroys hooks for all directives and pipes in a given view and then removes all
- * listeners. Listeners are removed as the last step so events delivered in the onDestroys hooks
- * can be propagated to @Output listeners.
- *
- * @param tView `TView` for the `LView` to clean up.
- * @param lView The LView to clean up
- */
-
-
-function cleanUpView(tView, lView) {
-  if (!(lView[FLAGS] & 128
-  /* LViewFlags.Destroyed */
-  )) {
-    // Usually the Attached flag is removed when the view is detached from its parent, however
-    // if it's a root view, the flag won't be unset hence why we're also removing on destroy.
-    lView[FLAGS] &= ~64
-    /* LViewFlags.Attached */
-    ; // Mark the LView as destroyed *before* executing the onDestroy hooks. An onDestroy hook
-    // runs arbitrary user code, which could include its own `viewRef.destroy()` (or similar). If
-    // We don't flag the view as destroyed before the hooks, this could lead to an infinite loop.
-    // This also aligns with the ViewEngine behavior. It also means that the onDestroy hook is
-    // really more of an "afterDestroy" hook if you think about it.
-
-    lView[FLAGS] |= 128
-    /* LViewFlags.Destroyed */
-    ;
-    executeOnDestroys(tView, lView);
-    processCleanups(tView, lView); // For component views only, the local renderer is destroyed at clean up time.
-
-    if (lView[TVIEW].type === 1
-    /* TViewType.Component */
-    ) {
-      ngDevMode && ngDevMode.rendererDestroy++;
-      lView[RENDERER].destroy();
-    }
-
-    const declarationContainer = lView[DECLARATION_LCONTAINER]; // we are dealing with an embedded view that is still inserted into a container
-
-    if (declarationContainer !== null && isLContainer(lView[PARENT])) {
-      // and this is a projected view
-      if (declarationContainer !== lView[PARENT]) {
-        detachMovedView(declarationContainer, lView);
-      } // For embedded views still attached to a container: remove query result from this view.
-
-
-      const lQueries = lView[QUERIES];
-
-      if (lQueries !== null) {
-        lQueries.detachView(tView);
-      }
-    } // Unregister the view once everything else has been cleaned up.
-
-
-    unregisterLView(lView);
-  }
-}
-/** Removes listeners and unsubscribes from output subscriptions */
-
-
-function processCleanups(tView, lView) {
-  const tCleanup = tView.cleanup;
-  const lCleanup = lView[CLEANUP]; // `LCleanup` contains both share information with `TCleanup` as well as instance specific
-  // information appended at the end. We need to know where the end of the `TCleanup` information
-  // is, and we track this with `lastLCleanupIndex`.
-
-  let lastLCleanupIndex = -1;
-
-  if (tCleanup !== null) {
-    for (let i = 0; i < tCleanup.length - 1; i += 2) {
-      if (typeof tCleanup[i] === 'string') {
-        // This is a native DOM listener
-        const idxOrTargetGetter = tCleanup[i + 1];
-        const target = typeof idxOrTargetGetter === 'function' ? idxOrTargetGetter(lView) : unwrapRNode(lView[idxOrTargetGetter]);
-        const listener = lCleanup[lastLCleanupIndex = tCleanup[i + 2]];
-        const useCaptureOrSubIdx = tCleanup[i + 3];
-
-        if (typeof useCaptureOrSubIdx === 'boolean') {
-          // native DOM listener registered with Renderer3
-          target.removeEventListener(tCleanup[i], listener, useCaptureOrSubIdx);
-        } else {
-          if (useCaptureOrSubIdx >= 0) {
-            // unregister
-            lCleanup[lastLCleanupIndex = useCaptureOrSubIdx]();
-          } else {
-            // Subscription
-            lCleanup[lastLCleanupIndex = -useCaptureOrSubIdx].unsubscribe();
-          }
-        }
-
-        i += 2;
-      } else {
-        // This is a cleanup function that is grouped with the index of its context
-        const context = lCleanup[lastLCleanupIndex = tCleanup[i + 1]];
-        tCleanup[i].call(context);
-      }
-    }
-  }
-
-  if (lCleanup !== null) {
-    for (let i = lastLCleanupIndex + 1; i < lCleanup.length; i++) {
-      const instanceCleanupFn = lCleanup[i];
-      ngDevMode && assertFunction(instanceCleanupFn, 'Expecting instance cleanup function.');
-      instanceCleanupFn();
-    }
-
-    lView[CLEANUP] = null;
-  }
-}
-/** Calls onDestroy hooks for this view */
-
-
-function executeOnDestroys(tView, lView) {
-  let destroyHooks;
-
-  if (tView != null && (destroyHooks = tView.destroyHooks) != null) {
-    for (let i = 0; i < destroyHooks.length; i += 2) {
-      const context = lView[destroyHooks[i]]; // Only call the destroy hook if the context has been requested.
-
-      if (!(context instanceof NodeInjectorFactory)) {
-        const toCall = destroyHooks[i + 1];
-
-        if (Array.isArray(toCall)) {
-          for (let j = 0; j < toCall.length; j += 2) {
-            const callContext = context[toCall[j]];
-            const hook = toCall[j + 1];
-            profiler(4
-            /* ProfilerEvent.LifecycleHookStart */
-            , callContext, hook);
-
-            try {
-              hook.call(callContext);
-            } finally {
-              profiler(5
-              /* ProfilerEvent.LifecycleHookEnd */
-              , callContext, hook);
-            }
-          }
-        } else {
-          profiler(4
-          /* ProfilerEvent.LifecycleHookStart */
-          , context, toCall);
-
-          try {
-            toCall.call(context);
-          } finally {
-            profiler(5
-            /* ProfilerEvent.LifecycleHookEnd */
-            , context, toCall);
-          }
-        }
-      }
-    }
-  }
-}
-/**
- * Returns a native element if a node can be inserted into the given parent.
- *
- * There are two reasons why we may not be able to insert a element immediately.
- * - Projection: When creating a child content element of a component, we have to skip the
- *   insertion because the content of a component will be projected.
- *   `<component><content>delayed due to projection</content></component>`
- * - Parent container is disconnected: This can happen when we are inserting a view into
- *   parent container, which itself is disconnected. For example the parent container is part
- *   of a View which has not be inserted or is made for projection but has not been inserted
- *   into destination.
- *
- * @param tView: Current `TView`.
- * @param tNode: `TNode` for which we wish to retrieve render parent.
- * @param lView: Current `LView`.
- */
-
-
-function getParentRElement(tView, tNode, lView) {
-  return getClosestRElement(tView, tNode.parent, lView);
-}
-/**
- * Get closest `RElement` or `null` if it can't be found.
- *
- * If `TNode` is `TNodeType.Element` => return `RElement` at `LView[tNode.index]` location.
- * If `TNode` is `TNodeType.ElementContainer|IcuContain` => return the parent (recursively).
- * If `TNode` is `null` then return host `RElement`:
- *   - return `null` if projection
- *   - return `null` if parent container is disconnected (we have no parent.)
- *
- * @param tView: Current `TView`.
- * @param tNode: `TNode` for which we wish to retrieve `RElement` (or `null` if host element is
- *     needed).
- * @param lView: Current `LView`.
- * @returns `null` if the `RElement` can't be determined at this time (no parent / projection)
- */
-
-
-function getClosestRElement(tView, tNode, lView) {
-  let parentTNode = tNode; // Skip over element and ICU containers as those are represented by a comment node and
-  // can't be used as a render parent.
-
-  while (parentTNode !== null && parentTNode.type & (8
-  /* TNodeType.ElementContainer */
-  | 32
-  /* TNodeType.Icu */
-  )) {
-    tNode = parentTNode;
-    parentTNode = tNode.parent;
-  } // If the parent tNode is null, then we are inserting across views: either into an embedded view
-  // or a component view.
-
-
-  if (parentTNode === null) {
-    // We are inserting a root element of the component view into the component host element and
-    // it should always be eager.
-    return lView[HOST];
-  } else {
-    ngDevMode && assertTNodeType(parentTNode, 3
-    /* TNodeType.AnyRNode */
-    | 4
-    /* TNodeType.Container */
-    );
-
-    if (parentTNode.flags & 2
-    /* TNodeFlags.isComponentHost */
-    ) {
-      ngDevMode && assertTNodeForLView(parentTNode, lView);
-      const encapsulation = tView.data[parentTNode.directiveStart].encapsulation; // We've got a parent which is an element in the current view. We just need to verify if the
-      // parent element is not a component. Component's content nodes are not inserted immediately
-      // because they will be projected, and so doing insert at this point would be wasteful.
-      // Since the projection would then move it to its final destination. Note that we can't
-      // make this assumption when using the Shadow DOM, because the native projection placeholders
-      // (<content> or <slot>) have to be in place as elements are being inserted.
-
-      if (encapsulation === ViewEncapsulation$1.None || encapsulation === ViewEncapsulation$1.Emulated) {
-        return null;
-      }
-    }
-
-    return getNativeByTNode(parentTNode, lView);
-  }
-}
-/**
- * Inserts a native node before another native node for a given parent.
- * This is a utility function that can be used when native nodes were determined.
- */
-
-
-function nativeInsertBefore(renderer, parent, child, beforeNode, isMove) {
-  ngDevMode && ngDevMode.rendererInsertBefore++;
-  renderer.insertBefore(parent, child, beforeNode, isMove);
-}
-
-function nativeAppendChild(renderer, parent, child) {
-  ngDevMode && ngDevMode.rendererAppendChild++;
-  ngDevMode && assertDefined(parent, 'parent node must be defined');
-  renderer.appendChild(parent, child);
-}
-
-function nativeAppendOrInsertBefore(renderer, parent, child, beforeNode, isMove) {
-  if (beforeNode !== null) {
-    nativeInsertBefore(renderer, parent, child, beforeNode, isMove);
-  } else {
-    nativeAppendChild(renderer, parent, child);
-  }
-}
-/** Removes a node from the DOM given its native parent. */
-
-
-function nativeRemoveChild(renderer, parent, child, isHostElement) {
-  renderer.removeChild(parent, child, isHostElement);
-}
-/** Checks if an element is a `<template>` node. */
-
-
-function isTemplateNode(node) {
-  return node.tagName === 'TEMPLATE' && node.content !== undefined;
-}
-/**
- * Returns a native parent of a given native node.
- */
-
-
-function nativeParentNode(renderer, node) {
-  return renderer.parentNode(node);
-}
-/**
- * Returns a native sibling of a given native node.
- */
-
-
-function nativeNextSibling(renderer, node) {
-  return renderer.nextSibling(node);
-}
-/**
- * Find a node in front of which `currentTNode` should be inserted.
- *
- * This method determines the `RNode` in front of which we should insert the `currentRNode`. This
- * takes `TNode.insertBeforeIndex` into account if i18n code has been invoked.
- *
- * @param parentTNode parent `TNode`
- * @param currentTNode current `TNode` (The node which we would like to insert into the DOM)
- * @param lView current `LView`
- */
-
-
-function getInsertInFrontOfRNode(parentTNode, currentTNode, lView) {
-  return _getInsertInFrontOfRNodeWithI18n(parentTNode, currentTNode, lView);
-}
-/**
- * Find a node in front of which `currentTNode` should be inserted. (Does not take i18n into
- * account)
- *
- * This method determines the `RNode` in front of which we should insert the `currentRNode`. This
- * does not take `TNode.insertBeforeIndex` into account.
- *
- * @param parentTNode parent `TNode`
- * @param currentTNode current `TNode` (The node which we would like to insert into the DOM)
- * @param lView current `LView`
- */
-
-
-function getInsertInFrontOfRNodeWithNoI18n(parentTNode, currentTNode, lView) {
-  if (parentTNode.type & (8
-  /* TNodeType.ElementContainer */
-  | 32
-  /* TNodeType.Icu */
-  )) {
-    return getNativeByTNode(parentTNode, lView);
-  }
-
-  return null;
-}
-/**
- * Tree shakable boundary for `getInsertInFrontOfRNodeWithI18n` function.
- *
- * This function will only be set if i18n code runs.
- */
-
-
-let _getInsertInFrontOfRNodeWithI18n = getInsertInFrontOfRNodeWithNoI18n;
-/**
- * Tree shakable boundary for `processI18nInsertBefore` function.
- *
- * This function will only be set if i18n code runs.
- */
-
-let _processI18nInsertBefore;
-
-function setI18nHandling(getInsertInFrontOfRNodeWithI18n, processI18nInsertBefore) {
-  _getInsertInFrontOfRNodeWithI18n = getInsertInFrontOfRNodeWithI18n;
-  _processI18nInsertBefore = processI18nInsertBefore;
-}
-/**
- * Appends the `child` native node (or a collection of nodes) to the `parent`.
- *
- * @param tView The `TView' to be appended
- * @param lView The current LView
- * @param childRNode The native child (or children) that should be appended
- * @param childTNode The TNode of the child element
- */
-
-
-function appendChild(tView, lView, childRNode, childTNode) {
-  const parentRNode = getParentRElement(tView, childTNode, lView);
-  const renderer = lView[RENDERER];
-  const parentTNode = childTNode.parent || lView[T_HOST];
-  const anchorNode = getInsertInFrontOfRNode(parentTNode, childTNode, lView);
-
-  if (parentRNode != null) {
-    if (Array.isArray(childRNode)) {
-      for (let i = 0; i < childRNode.length; i++) {
-        nativeAppendOrInsertBefore(renderer, parentRNode, childRNode[i], anchorNode, false);
-      }
-    } else {
-      nativeAppendOrInsertBefore(renderer, parentRNode, childRNode, anchorNode, false);
-    }
-  }
-
-  _processI18nInsertBefore !== undefined && _processI18nInsertBefore(renderer, childTNode, lView, childRNode, parentRNode);
-}
-/**
- * Returns the first native node for a given LView, starting from the provided TNode.
- *
- * Native nodes are returned in the order in which those appear in the native tree (DOM).
- */
-
-
-function getFirstNativeNode(lView, tNode) {
-  if (tNode !== null) {
-    ngDevMode && assertTNodeType(tNode, 3
-    /* TNodeType.AnyRNode */
-    | 12
-    /* TNodeType.AnyContainer */
-    | 32
-    /* TNodeType.Icu */
-    | 16
-    /* TNodeType.Projection */
-    );
-    const tNodeType = tNode.type;
-
-    if (tNodeType & 3
-    /* TNodeType.AnyRNode */
-    ) {
-      return getNativeByTNode(tNode, lView);
-    } else if (tNodeType & 4
-    /* TNodeType.Container */
-    ) {
-      return getBeforeNodeForView(-1, lView[tNode.index]);
-    } else if (tNodeType & 8
-    /* TNodeType.ElementContainer */
-    ) {
-      const elIcuContainerChild = tNode.child;
-
-      if (elIcuContainerChild !== null) {
-        return getFirstNativeNode(lView, elIcuContainerChild);
-      } else {
-        const rNodeOrLContainer = lView[tNode.index];
-
-        if (isLContainer(rNodeOrLContainer)) {
-          return getBeforeNodeForView(-1, rNodeOrLContainer);
-        } else {
-          return unwrapRNode(rNodeOrLContainer);
-        }
-      }
-    } else if (tNodeType & 32
-    /* TNodeType.Icu */
-    ) {
-      let nextRNode = icuContainerIterate(tNode, lView);
-      let rNode = nextRNode(); // If the ICU container has no nodes, than we use the ICU anchor as the node.
-
-      return rNode || unwrapRNode(lView[tNode.index]);
-    } else {
-      const projectionNodes = getProjectionNodes(lView, tNode);
-
-      if (projectionNodes !== null) {
-        if (Array.isArray(projectionNodes)) {
-          return projectionNodes[0];
-        }
-
-        const parentView = getLViewParent(lView[DECLARATION_COMPONENT_VIEW]);
-        ngDevMode && assertParentView(parentView);
-        return getFirstNativeNode(parentView, projectionNodes);
-      } else {
-        return getFirstNativeNode(lView, tNode.next);
-      }
-    }
-  }
-
-  return null;
-}
-
-function getProjectionNodes(lView, tNode) {
-  if (tNode !== null) {
-    const componentView = lView[DECLARATION_COMPONENT_VIEW];
-    const componentHost = componentView[T_HOST];
-    const slotIdx = tNode.projection;
-    ngDevMode && assertProjectionSlots(lView);
-    return componentHost.projection[slotIdx];
-  }
-
-  return null;
-}
-
-function getBeforeNodeForView(viewIndexInContainer, lContainer) {
-  const nextViewIndex = CONTAINER_HEADER_OFFSET + viewIndexInContainer + 1;
-
-  if (nextViewIndex < lContainer.length) {
-    const lView = lContainer[nextViewIndex];
-    const firstTNodeOfView = lView[TVIEW].firstChild;
-
-    if (firstTNodeOfView !== null) {
-      return getFirstNativeNode(lView, firstTNodeOfView);
-    }
-  }
-
-  return lContainer[NATIVE];
-}
-/**
- * Removes a native node itself using a given renderer. To remove the node we are looking up its
- * parent from the native tree as not all platforms / browsers support the equivalent of
- * node.remove().
- *
- * @param renderer A renderer to be used
- * @param rNode The native node that should be removed
- * @param isHostElement A flag indicating if a node to be removed is a host of a component.
- */
-
-
-function nativeRemoveNode(renderer, rNode, isHostElement) {
-  ngDevMode && ngDevMode.rendererRemoveNode++;
-  const nativeParent = nativeParentNode(renderer, rNode);
-
-  if (nativeParent) {
-    nativeRemoveChild(renderer, nativeParent, rNode, isHostElement);
-  }
-}
-/**
- * Performs the operation of `action` on the node. Typically this involves inserting or removing
- * nodes on the LView or projection boundary.
- */
-
-
-function applyNodes(renderer, action, tNode, lView, parentRElement, beforeNode, isProjection) {
-  while (tNode != null) {
-    ngDevMode && assertTNodeForLView(tNode, lView);
-    ngDevMode && assertTNodeType(tNode, 3
-    /* TNodeType.AnyRNode */
-    | 12
-    /* TNodeType.AnyContainer */
-    | 16
-    /* TNodeType.Projection */
-    | 32
-    /* TNodeType.Icu */
-    );
-    const rawSlotValue = lView[tNode.index];
-    const tNodeType = tNode.type;
-
-    if (isProjection) {
-      if (action === 0
-      /* WalkTNodeTreeAction.Create */
-      ) {
-        rawSlotValue && attachPatchData(unwrapRNode(rawSlotValue), lView);
-        tNode.flags |= 4
-        /* TNodeFlags.isProjected */
-        ;
-      }
-    }
-
-    if ((tNode.flags & 64
-    /* TNodeFlags.isDetached */
-    ) !== 64
-    /* TNodeFlags.isDetached */
-    ) {
-      if (tNodeType & 8
-      /* TNodeType.ElementContainer */
-      ) {
-        applyNodes(renderer, action, tNode.child, lView, parentRElement, beforeNode, false);
-        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
-      } else if (tNodeType & 32
-      /* TNodeType.Icu */
-      ) {
-        const nextRNode = icuContainerIterate(tNode, lView);
-        let rNode;
-
-        while (rNode = nextRNode()) {
-          applyToElementOrContainer(action, renderer, parentRElement, rNode, beforeNode);
-        }
-
-        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
-      } else if (tNodeType & 16
-      /* TNodeType.Projection */
-      ) {
-        applyProjectionRecursive(renderer, action, lView, tNode, parentRElement, beforeNode);
-      } else {
-        ngDevMode && assertTNodeType(tNode, 3
-        /* TNodeType.AnyRNode */
-        | 4
-        /* TNodeType.Container */
-        );
-        applyToElementOrContainer(action, renderer, parentRElement, rawSlotValue, beforeNode);
-      }
-    }
-
-    tNode = isProjection ? tNode.projectionNext : tNode.next;
-  }
-}
-
-function applyView(tView, lView, renderer, action, parentRElement, beforeNode) {
-  applyNodes(renderer, action, tView.firstChild, lView, parentRElement, beforeNode, false);
-}
-/**
- * `applyProjection` performs operation on the projection.
- *
- * Inserting a projection requires us to locate the projected nodes from the parent component. The
- * complication is that those nodes themselves could be re-projected from their parent component.
- *
- * @param tView The `TView` of `LView` which needs to be inserted, detached, destroyed
- * @param lView The `LView` which needs to be inserted, detached, destroyed.
- * @param tProjectionNode node to project
- */
-
-
-function applyProjection(tView, lView, tProjectionNode) {
-  const renderer = lView[RENDERER];
-  const parentRNode = getParentRElement(tView, tProjectionNode, lView);
-  const parentTNode = tProjectionNode.parent || lView[T_HOST];
-  let beforeNode = getInsertInFrontOfRNode(parentTNode, tProjectionNode, lView);
-  applyProjectionRecursive(renderer, 0
-  /* WalkTNodeTreeAction.Create */
-  , lView, tProjectionNode, parentRNode, beforeNode);
-}
-/**
- * `applyProjectionRecursive` performs operation on the projection specified by `action` (insert,
- * detach, destroy)
- *
- * Inserting a projection requires us to locate the projected nodes from the parent component. The
- * complication is that those nodes themselves could be re-projected from their parent component.
- *
- * @param renderer Render to use
- * @param action action to perform (insert, detach, destroy)
- * @param lView The LView which needs to be inserted, detached, destroyed.
- * @param tProjectionNode node to project
- * @param parentRElement parent DOM element for insertion/removal.
- * @param beforeNode Before which node the insertions should happen.
- */
-
-
-function applyProjectionRecursive(renderer, action, lView, tProjectionNode, parentRElement, beforeNode) {
-  const componentLView = lView[DECLARATION_COMPONENT_VIEW];
-  const componentNode = componentLView[T_HOST];
-  ngDevMode && assertEqual(typeof tProjectionNode.projection, 'number', 'expecting projection index');
-  const nodeToProjectOrRNodes = componentNode.projection[tProjectionNode.projection];
-
-  if (Array.isArray(nodeToProjectOrRNodes)) {
-    // This should not exist, it is a bit of a hack. When we bootstrap a top level node and we
-    // need to support passing projectable nodes, so we cheat and put them in the TNode
-    // of the Host TView. (Yes we put instance info at the T Level). We can get away with it
-    // because we know that that TView is not shared and therefore it will not be a problem.
-    // This should be refactored and cleaned up.
-    for (let i = 0; i < nodeToProjectOrRNodes.length; i++) {
-      const rNode = nodeToProjectOrRNodes[i];
-      applyToElementOrContainer(action, renderer, parentRElement, rNode, beforeNode);
-    }
-  } else {
-    let nodeToProject = nodeToProjectOrRNodes;
-    const projectedComponentLView = componentLView[PARENT];
-    applyNodes(renderer, action, nodeToProject, projectedComponentLView, parentRElement, beforeNode, true);
-  }
-}
-/**
- * `applyContainer` performs an operation on the container and its views as specified by
- * `action` (insert, detach, destroy)
- *
- * Inserting a Container is complicated by the fact that the container may have Views which
- * themselves have containers or projections.
- *
- * @param renderer Renderer to use
- * @param action action to perform (insert, detach, destroy)
- * @param lContainer The LContainer which needs to be inserted, detached, destroyed.
- * @param parentRElement parent DOM element for insertion/removal.
- * @param beforeNode Before which node the insertions should happen.
- */
-
-
-function applyContainer(renderer, action, lContainer, parentRElement, beforeNode) {
-  ngDevMode && assertLContainer(lContainer);
-  const anchor = lContainer[NATIVE]; // LContainer has its own before node.
-
-  const native = unwrapRNode(lContainer); // An LContainer can be created dynamically on any node by injecting ViewContainerRef.
-  // Asking for a ViewContainerRef on an element will result in a creation of a separate anchor
-  // node (comment in the DOM) that will be different from the LContainer's host node. In this
-  // particular case we need to execute action on 2 nodes:
-  // - container's host node (this is done in the executeActionOnElementOrContainer)
-  // - container's host node (this is done here)
-
-  if (anchor !== native) {
-    // This is very strange to me (Misko). I would expect that the native is same as anchor. I
-    // don't see a reason why they should be different, but they are.
-    //
-    // If they are we need to process the second anchor as well.
-    applyToElementOrContainer(action, renderer, parentRElement, anchor, beforeNode);
-  }
-
-  for (let i = CONTAINER_HEADER_OFFSET; i < lContainer.length; i++) {
-    const lView = lContainer[i];
-    applyView(lView[TVIEW], lView, renderer, action, parentRElement, anchor);
-  }
-}
-/**
- * Writes class/style to element.
- *
- * @param renderer Renderer to use.
- * @param isClassBased `true` if it should be written to `class` (`false` to write to `style`)
- * @param rNode The Node to write to.
- * @param prop Property to write to. This would be the class/style name.
- * @param value Value to write. If `null`/`undefined`/`false` this is considered a remove (set/add
- *        otherwise).
- */
-
-
-function applyStyling(renderer, isClassBased, rNode, prop, value) {
-  if (isClassBased) {
-    // We actually want JS true/false here because any truthy value should add the class
-    if (!value) {
-      ngDevMode && ngDevMode.rendererRemoveClass++;
-      renderer.removeClass(rNode, prop);
-    } else {
-      ngDevMode && ngDevMode.rendererAddClass++;
-      renderer.addClass(rNode, prop);
-    }
-  } else {
-    let flags = prop.indexOf('-') === -1 ? undefined : RendererStyleFlags2.DashCase;
-
-    if (value == null
-    /** || value === undefined */
-    ) {
-      ngDevMode && ngDevMode.rendererRemoveStyle++;
-      renderer.removeStyle(rNode, prop, flags);
-    } else {
-      // A value is important if it ends with `!important`. The style
-      // parser strips any semicolons at the end of the value.
-      const isImportant = typeof value === 'string' ? value.endsWith('!important') : false;
-
-      if (isImportant) {
-        // !important has to be stripped from the value for it to be valid.
-        value = value.slice(0, -10);
-        flags |= RendererStyleFlags2.Important;
-      }
-
-      ngDevMode && ngDevMode.rendererSetStyle++;
-      renderer.setStyle(rNode, prop, value, flags);
-    }
-  }
-}
-/**
- * Write `cssText` to `RElement`.
- *
- * This function does direct write without any reconciliation. Used for writing initial values, so
- * that static styling values do not pull in the style parser.
- *
- * @param renderer Renderer to use
- * @param element The element which needs to be updated.
- * @param newValue The new class list to write.
- */
-
-
-function writeDirectStyle(renderer, element, newValue) {
-  ngDevMode && assertString(newValue, '\'newValue\' should be a string');
-  renderer.setAttribute(element, 'style', newValue);
-  ngDevMode && ngDevMode.rendererSetStyle++;
-}
-/**
- * Write `className` to `RElement`.
- *
- * This function does direct write without any reconciliation. Used for writing initial values, so
- * that static styling values do not pull in the style parser.
- *
- * @param renderer Renderer to use
- * @param element The element which needs to be updated.
- * @param newValue The new class list to write.
- */
-
-
-function writeDirectClass(renderer, element, newValue) {
-  ngDevMode && assertString(newValue, '\'newValue\' should be a string');
-
-  if (newValue === '') {
-    // There are tests in `google3` which expect `element.getAttribute('class')` to be `null`.
-    renderer.removeAttribute(element, 'class');
-  } else {
-    renderer.setAttribute(element, 'class', newValue);
-  }
-
-  ngDevMode && ngDevMode.rendererSetClassName++;
 }
 /**
  * @license
@@ -42886,7 +43404,7 @@ class ComponentFactory extends ComponentFactory$1 {
     // dynamically. Default to 'div' if this component did not specify any tag name in its selector.
 
     const elementName = this.componentDef.selectors[0][0] || 'div';
-    const hostRNode = rootSelectorOrNode ? locateHostElement(hostRenderer, rootSelectorOrNode, this.componentDef.encapsulation) : createElementNode(rendererFactory.createRenderer(null, this.componentDef), elementName, getNamespace(elementName));
+    const hostRNode = rootSelectorOrNode ? locateHostElement(hostRenderer, rootSelectorOrNode, this.componentDef.encapsulation) : createElementNode(hostRenderer, elementName, getNamespace(elementName));
     const rootFlags = this.componentDef.onPush ? 32
     /* LViewFlags.Dirty */
     | 256
@@ -54442,6 +54960,7 @@ const angularCoreEnv = (() => ({
   'ɵɵsanitizeUrlOrResourceUrl': ɵɵsanitizeUrlOrResourceUrl,
   'ɵɵtrustConstantHtml': ɵɵtrustConstantHtml,
   'ɵɵtrustConstantResourceUrl': ɵɵtrustConstantResourceUrl,
+  'ɵɵvalidateIframeAttribute': ɵɵvalidateIframeAttribute,
   'forwardRef': forwardRef,
   'resolveForwardRef': resolveForwardRef
 }))();
@@ -61385,7 +61904,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rxjs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rxjs */ 1640);
 /* harmony import */ var rxjs_operators__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! rxjs/operators */ 635);
 /**
- * @license Angular v14.2.8
+ * @license Angular v14.2.12
  * (c) 2010-2022 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -70802,7 +71321,7 @@ UntypedFormBuilder.ɵprov = /* @__PURE__ */_angular_core__WEBPACK_IMPORTED_MODUL
  */
 
 
-const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.8');
+const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.12');
 /**
  * @license
  * Copyright Google LLC All Rights Reserved.
@@ -70888,7 +71407,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/common */ 4666);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ 2560);
 /**
- * @license Angular v14.2.8
+ * @license Angular v14.2.12
  * (c) 2010-2022 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -73748,7 +74267,7 @@ DomSanitizerImpl.ɵprov = /* @__PURE__ */_angular_core__WEBPACK_IMPORTED_MODULE_
  */
 
 
-const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_1__.Version('14.2.8');
+const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_1__.Version('14.2.12');
 /**
  * @license
  * Copyright Google LLC All Rights Reserved.
@@ -73892,7 +74411,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rxjs_operators__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! rxjs/operators */ 1308);
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! @angular/platform-browser */ 4497);
 /**
- * @license Angular v14.2.8
+ * @license Angular v14.2.12
  * (c) 2010-2022 Google LLC. https://angular.io/
  * License: MIT
  */
@@ -77263,7 +77782,7 @@ function validateNode(route, fullPath, requireStandaloneComponents) {
       , `Invalid configuration of route '${fullPath}': Array cannot be specified`);
     }
 
-    if (!route.component && !route.loadComponent && !route.children && !route.loadChildren && route.outlet && route.outlet !== PRIMARY_OUTLET) {
+    if (!route.redirectTo && !route.component && !route.loadComponent && !route.children && !route.loadChildren && route.outlet && route.outlet !== PRIMARY_OUTLET) {
       throw new _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵRuntimeError"](4014
       /* RuntimeErrorCode.INVALID_ROUTE_CONFIG */
       , `Invalid configuration of route '${fullPath}': a componentless route without children or loadChildren cannot have a named outlet set`);
@@ -82115,8 +82634,11 @@ function getBootstrapListener() {
     injector.get(ROUTER_PRELOADER, null, _angular_core__WEBPACK_IMPORTED_MODULE_0__.InjectFlags.Optional)?.setUpPreloading();
     injector.get(ROUTER_SCROLLER, null, _angular_core__WEBPACK_IMPORTED_MODULE_0__.InjectFlags.Optional)?.init();
     router.resetRootComponentType(ref.componentTypes[0]);
-    bootstrapDone.next();
-    bootstrapDone.complete();
+
+    if (!bootstrapDone.closed) {
+      bootstrapDone.next();
+      bootstrapDone.unsubscribe();
+    }
   };
 }
 /**
@@ -82671,7 +83193,7 @@ function provideRouterInitializer() {
  */
 
 
-const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.8');
+const VERSION = new _angular_core__WEBPACK_IMPORTED_MODULE_0__.Version('14.2.12');
 /**
  * @license
  * Copyright Google LLC All Rights Reserved.
