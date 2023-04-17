@@ -4901,7 +4901,7 @@ module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup"
   \***************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter an ICT Item","description":"Do not exceed 50 characters and 8 ICTs","errorMessages":{"maxlength":"The maximum length has exceeded 50"},"controlName":"ictItemTextfield1","validations":["required","maxLength(50)"],"next":"","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter an ICT Item","description":"Do not exceed 25 characters and 8 ICTs","errorMessages":{"maxlength":"The maximum length has exceeded 25"},"controlName":"ictItemTextfield1","validations":["required","maxLength(25)"],"next":"","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
