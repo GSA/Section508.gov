@@ -103,6 +103,41 @@ This is a self-report assessment with 11 dimensions which are categorized as:
 Yes. At the end of the assessment tool, there will be an open-ended question (see Question 105 General Information) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide any additional narrative you would like. When referencing a specific question, please put the Dimension (e.g., Conformance Metrics) and the question number (e.g., Question 76).
 
 ## Who will send the assessment link to the reporting tool?	
-Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. Note: Since the email is sent from a collection tool, the email sender may appear as "ogpsurveysupport@research.gsa.gov".
+Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. 
 
-**Reviewed/Updated:** April 2023
+NOTE: Since the email is sent from a collection tool, the email sender may appear as "ogpsurveysupport@research.gsa.gov".
+
+## Is this assessment criteria the same data collected for the Program Maturity Report (PMR)?
+No. While this data collection asks some similar questions, it is more robust in its scope.
+
+## What is "Section 752" referencing?
+Section 752 is referencing a specific section of the Consolidated Appropriations Act of 2023 which stipulates timelines and requirements for OMB, GSA, and USAB to collect data on government-wide accessibility. 
+
+## How do I update my agency's component list in the designee sign up form?
+To update the list of agency/component dropdowns within the designee registration tool, please contact <Section.508@gsa.gov>. You may also select "Other" in the registration link for your agency POC/designee; a text field is presented on the next page for you to input the appropriate agency/component.
+
+## Can one point of contact (POC) submit responses for multiple components within the agency?
+Yes. The same POC can register for multiple agencies but each agency will have its own specific link to the online response tool. The designated POC will need to ensure the correct link is used to report agency-specific responses.
+
+## What happens if my agency does not submit answers by the August 11th deadline?
+Agencies that fail to complete the assessment by the deadline will be listed as non-responsive; which will be conveyed to Congress in the summary report.
+
+## Can more than one individual register as the agency point of contact (POC) and have access to the response tool?
+Please limit agency registration to one POC per agency. Once your agency POC has submitted thier information in the POC registration tool, they will receive a unique link for your agency's report submission. Once the response tool link is opened, the tool will lock to that specific user. To unlock the response tool for a different user, you must contact GSA at <Section.508@gsa.gov> for a manual unlock.
+
+## Does GSA know the format of the report to Congress and the anticipated narrative or context?
+GSA has not yet drafted an outline. GSA anticipates similarities to the most recent DOJ/GSA report but with additional narrative text. GSA anticipates the report will include data visualizations, diagrams, and narrative analysis to accompany recommendations.
+
+## When will agency response(s) be available to the “parent” agencies and how will access to the responses be provided?
+When responses are submitted, GSA will receive notice from the online response tool. GSA will then package those responses to provide parent agencies on a yet-to-be-determined regular basis.
+
+## Will agencies be able to send segments of questions to appropriate agency responders or will there be online capability to assign certain questions to agency stakeholders for completion?
+No, the reporting tool will not have the functionality to be able to portion out different sections of questions for other individuals to submit responses. Each agency should coordinate information gathering outside of the response tool for the agency point of contact to submit on behalf of their agency.
+
+## Will additional office hours be available?
+Yes, GSA anticipates having office hours through early August, though the frequency may vary. Please continue to check the [Events]({{site.baseurl}}/events/) page as office hours are scheduled.
+
+## What answer should I select if my agency is in between two options, such as A and B?
+Select the best response that is most representative of your agency's current status in that area with respect to disability.
+
+**Reviewed/Updated:** April 18, 2023
