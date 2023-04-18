@@ -140,4 +140,4 @@ Yes, GSA anticipates having office hours through early August, though the freque
 ## What answer should I select if my agency is in between two options, such as A and B?
 Select the best response that is most representative of your agency's current status in that area with respect to disability.
 
-**Reviewed/Updated:** April 18, 2023
+**Reviewed/Updated:** April 2023
