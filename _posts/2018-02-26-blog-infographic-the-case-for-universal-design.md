@@ -77,7 +77,7 @@ description: Current trends in accessibility and technology promote universal de
     </li>
   </ol>
   
-  <div align="center">
+  <div>
     <h2>
       Commit to accessible IT by embracing universal design.
     </h2>
