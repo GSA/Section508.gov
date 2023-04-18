@@ -10,7 +10,7 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
 
 ## Key Questions
 
-  * Do you have a Section 508 policy (or policies) that establish roles, responsibilities, and expectations to support a <u>sustainable</u> agency-wide approach to managing Section 508 compliance risk?
+  * Do you have a Section 508 policy (or policies) that establish roles, responsibilities, and expectations to support a **sustainable** agency-wide approach to managing Section 508 compliance risk?
   * What steps does your agency take to inform and equip agency stakeholders to follow your Section 508 policy(s)?
   * What governance mechanisms do you use to ensure conformance with your Section 508 policy(s)?
   * How often do you review and revise your Section 508 Policy(s) to keep pace with regulatory, organizational, and technology changes?
