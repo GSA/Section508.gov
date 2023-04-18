@@ -11,13 +11,9 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
 
 ## AED COP Guidance
 
-## &nbsp;
-
 The resources in this section were developed by the Accessible Electronic Documents Community of Practice (AED COP).
 
 ### Adobe Acrobat Portable Document Format (PDF)
-
-### &nbsp;
 
   * [PDF Baseline Test Process][2] (MS Word, September 2017)
   * [PDF Detailed Checklist][3] (MS Word, September 2017)
@@ -25,21 +21,15 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 ### Training Videos
 
-### &nbsp;
-
   * [How to Test and Remediate PDFs for Accessibility – closed captioned][5] (YouTube Playlist, October 2017)
 
 ## Agency-Developed Guidance
-
-## &nbsp;
 
 The resources in this section were developed by Federal agencies, and shared here for your convenience.
 
   * [Resources for Developers and Document Authors][6] - Guidance from SSA on how to develop and author accessible electronic content
 
 ## Related Resources
-
-## &nbsp;
 
   * [Create Accessible Digital Products][7]
   * [Adobe Acrobat accessibility support][8]
