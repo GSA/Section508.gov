@@ -300,7 +300,9 @@ class ArtDocxDownloadComponent {
             let elem = elements[i];
             switch (elem.nodeName) {
                 case 'P':
-                    docElems.push(this.parseParagraph(elem));
+                    if (elem.textContent !== '') { // To avoid any empty space
+                        docElems.push(this.parseParagraph(elem));
+                    }
                     break;
                 case 'OL':
                     docElems = docElems.concat(this.parseList(elem, true, olNbr));
