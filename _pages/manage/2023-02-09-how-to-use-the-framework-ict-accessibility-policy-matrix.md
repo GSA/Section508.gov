@@ -72,7 +72,7 @@ As shown in <b>Table 1</b> on the following page, the ICT Accessibility Policy N
     </div>
 </div>
 
-<h3 id="standards" class="subheading">
+<h3 class="subheading">
   ICT Accessibility Policy Need/Engagement Ratings
 </h3>
 The below descriptions of ratings facilitate interpretation of the ICT Accessibility Policy Need/Engagement Matrix <b>(Table 1)</b>.
@@ -91,7 +91,7 @@ The below descriptions of ratings facilitate interpretation of the ICT Accessibi
     <li><b>Very Low</b>: Low priority gap or no gap exists; no impact to the agency is likely; suggested monitoring on an as needed basis.
     </li>
 </ul>
-<h3 id="standards" class="subheading">
+<h3 class="subheading">
   ICT Accessibility Policy Need Prioritization
 </h3>
 While agencies would ideally update all policies that have been determined to need updated ICT accessibility language, the reality is that agencies vary widely in terms of the resources needed to make these changes. For example, with <b>Table 1</b> as point of reference, the twenty-four Chief Financial Officer (CFO) Act Agencies likely have the funding and personnel to remediate all policies with a “Low” overall outcome or higher<sup>1</sup>. At the same time, many small and independent agencies contend with funding and personnel limitations, and may set a higher threshold (e.g., “Moderate” or “High”) to prioritize their policy remediation efforts, even if their policy portfolios are also comparatively smaller. Thus, each agency will have to make its own determination about which policies to prioritize for remediation based on its available resources, personnel, and its assessment of Section 508 compliance risks.
