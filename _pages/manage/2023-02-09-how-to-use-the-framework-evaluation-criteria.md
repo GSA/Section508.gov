@@ -10,11 +10,11 @@ created: December 09, 2023
 <h2 id="standards">
   Description of Evaluation Criteria
 </h2>
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Determination of Importance
 </h3>
 The IT Accessibility Policy Framework uses two criteria, <b>Sufficiency</b> and <b>Importance</b>, to evaluate agency policies for ICT accessibility language. These criteria, applied in combination across your agency’s policy directive, allow you to holistically determine which policies have the greatest need of remediation.
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Sufficiency
 </h3>
 The <b>Sufficiency</b> criteria is used to evaluate the adequacy of required Section 508 language within a given policy. A rating is assessed based on whether or not the policy is deficient with respect to the ICT accessibility requirements/information that you would expect in that document. To determine the <b>Sufficiency</b> rating for a given policy, consider searching for ICT accessibility keywords, assessing its scope, and identifying the paragraph(s) that contain ICT accessibility language.
@@ -27,12 +27,12 @@ The <b>Sufficiency</b> criteria is used to evaluate the adequacy of required Sec
 <li><b>Essential Accessibility Information Missing</b>: Fully insufficient, missing most/all ICT accessibility language; missing most/all critical ICT accessibility-related requirements or language.</li>
 </ul>
 
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Importance
 </h3>
 <b>Importance</b> is a composite of two criteria, <b>Relevance</b> and <b>Level of Detail</b>, which are described below. The determination of overall <b>Importance</b> with respect to accessibility considerations based on ratings from these two sub-criteria is then summarized.
 
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Relevance
 </h3>
 The <b>Relevance</b> criteria is used to evaluate the alignment of subject matter to ICT accessibility. A rating is given to a policy to determine its importance to ICT accessibility.
@@ -45,7 +45,7 @@ The <b>Relevance</b> criteria is used to evaluate the alignment of subject matte
   <li><b>Not Relevant</b>: Policy is not related to ICT accessibility; no ICT accessibility requirements should or need to be included in the policy.</li>
 </ul>
 
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Level of Detail
 </h3>
 The <b>Level of Detail</b> criteria is used to classify the type of a policy and its intended use (i.e., strategic vs. tactical).
@@ -55,7 +55,7 @@ The <b>Level of Detail</b> criteria is used to classify the type of a policy and
   <li><b>Operational Guidance/Standard Operating Procedures (SOPs)</b>: Tactical level documents that generally provide specific instructions to execute tasks (Tactical Level Document).</li>
 </ul>
 
-<h3 id="standards" class = "subheading">
+<h3 class = "subheading">
   Determination of Importance
 </h3>
 Determination of Importance
