@@ -37,7 +37,7 @@ iaaf_2022:
                 file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
           - name: 'Track B: Create Amazing Content'
             name_breakout: 'Videos for All: Strategies for Developing Audio Described Videos'
-            track_id: day1breakout1a
+            track_id: day1breakout1b
             description: While video and multimedia can be great vehicles to communicate with the public and with internal audiences, making those videos fully accessible can be a challenge! This workshop will offer tips and tricks for generating audio described videos, including strategies for developing audio descriptions for both technical and general audiences.
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
@@ -429,7 +429,7 @@ iaaf_2022:
         type: welcome
         time_start: 2022-10-13 10:50:00
         time_end: 2022-10-13 11:05:00
-        session_id: day3general1
+        session_id: day3keynoteintro1
         description: 
         subtitle: 
         roles: #list each roles as you intend the display on the page
