@@ -74,7 +74,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Spoken words should have text equivalents. Sounds and other audio elements necessary to understand and enjoy the entertainment experience should be captioned. Audio elements that are often overlooked by captioners include additional information provided verbally for a text element on a presentation slide.</li>
 <li dir="ltr">The style of captioned elements (e.g., speaker names, sounds) should be consistent throughout a project.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg padding-x-1">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
@@ -137,7 +137,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Description should only occur during non-dialogue pauses; description should never occur over dialogue, musical numbers or sound effects unless absolutely necessary.</li>
 <li dir="ltr">Describers should ensure that elements important to the narrative are described before additional details are provided. If time allows, the describer can include additional descriptions about the setting, a character's physical appearance and/or clothing to enhance the experience.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg padding-x-1">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp" target="_blank">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
@@ -213,7 +213,7 @@ title: 'Create Accessible Synchronized Media Content'
 </div>
 </div>
 <hr />
-<div class="border-base radius-lg border-1px padding-x-1" style="width: 100%; background-color: #f5f9fc; padding: 5px;">
+<div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
 <h3 dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
