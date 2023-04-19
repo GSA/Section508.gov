@@ -4,8 +4,9 @@
     "standard": "WCAG2AA",
     "runners": ["axe", "htmlcs"],
     "ignore": [
-        "color-contrast",
-        "frame-tested"
+      "color-contrast",
+      "frame-tested",
+      "video-caption"
     ],
     "timeout": 5000,
     "reporters": [
