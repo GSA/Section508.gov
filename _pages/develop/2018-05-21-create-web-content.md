@@ -30,7 +30,7 @@ redirect_from:
 <p>Open source code has additional requirements to make the content accessible.</p>
 <ul>
 <li><a href="https://medium.com/@kaelig/making-open-source-accessible-for-all-8131429913b1" class="ext">Making Open-Source Accessible for All</a> - Medium article</li>
-<li><a href="https://opensource.com/life/15/2/why-open-source-needs-accessibility-standards" class="ext">Why Open Source Needs Accessibility Standards</a> - opensourse.com article on the responsibility for developers to make open-source code accessible</li>
+<li><a href="https://opensource.com/life/15/2/why-open-source-needs-accessibility-standards" class="ext">Why Open Source Needs Accessibility Standards</a> - opensource.com article on the responsibility for developers to make open-source code accessible</li>
 <li><a href="https://www.ow2.org/bin/view/OSAi/" class="ext">Open Source Accessibility initiative (OSAi)</a> - Advocates for open and compliant digital solutions, and promotes accessibility in open-source projects</li>
 </ul>
 <h2>JavaScript Frameworks</h2>
