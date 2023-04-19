@@ -11,7 +11,7 @@ created: December 09, 2023
   Useful Links
 </h2>
 
-<h3 id="standards" class = "subheading">
+<h3 class="subheading">
   Laws, Policies, and Guidance
 </h3>
 <ul>
@@ -32,7 +32,7 @@ created: December 09, 2023
     <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 of the Rehabilitation Act of 1973, as amended</a></li>
     <li><a href="https://www.fiscal.treasury.gov/ussgl/">USSGL homepage</a></li>
 </ul>
-<h3 id="standards" class = "subheading">
+<h3 class="subheading">
   Communities, Councils, and Teams
 </h3>
 <ul>
@@ -40,7 +40,7 @@ created: December 09, 2023
     <li><a href="https://www.cio.gov/">Federal Chief Information Officer Council homepage</a></li>
     <li><a href="https://www.section508.gov/">Section508.gov</a></li>
 </ul>
-<h3 id="standards" class = "subheading">
+<h3 class="subheading">
   Tools
 </h3>
 <ul>
