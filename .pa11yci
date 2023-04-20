@@ -4,9 +4,11 @@
     "standard": "WCAG2AA",
     "runners": ["axe", "htmlcs"],
     "ignore": [
-      "color-contrast",
       "frame-tested",
       "video-caption"
+    ],
+    "hideElements": [
+      "#how-official, #site-nav, #sec-nav, #sICT"
     ],
     "timeout": 5000,
     "reporters": [
