@@ -53,7 +53,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx0/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m02.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/create/spreadsheets/aed-cop-xlsx02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m02.png" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
