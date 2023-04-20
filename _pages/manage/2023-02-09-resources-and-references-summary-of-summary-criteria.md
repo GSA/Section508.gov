@@ -13,8 +13,8 @@ created: December 09, 2023
 <p class="table-heading"><b>Table 1. Sufficiency ratings and corresponding descriptions.</b></p>
 <table class = "it-table">
   <tr>
-    <th style="width:25%">Rating</th>
-    <th>Description</th>
+    <th scoope="col" style="width:25%">Rating</th>
+    <th scoope="col">Description</th>
   </tr>
   <tr>
     <td>Fully Sufficient</td>
@@ -40,8 +40,8 @@ created: December 09, 2023
 <p class="table-heading"><b>Table 2. Relevance ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
-    <th style="width:25%">Rating</th>
-    <th>Description</th>
+    <th scope="col" style="width:25%">Rating</th>
+    <th scope="col">Description</th>
   </tr>
   <tr>
     <td>Highly Relevant</td>
@@ -67,8 +67,8 @@ created: December 09, 2023
 <p class="table-heading"><b>Table 3. Level of Detail ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
-    <th style="width:25%">Rating</th>
-    <th>Description</th>
+    <th scope="col" style="width:25%">Rating</th>
+    <th scope="col">Description</th>
   </tr>
   <tr>
     <td>Organizational Purpose/Governing Guidelines</td>
@@ -87,8 +87,8 @@ created: December 09, 2023
 <p class="table-heading"><b>Table 4. ICT Policy Need ratings and corresponding descriptions.</b></p>
 <table class = "it-table" style="width:100%">
   <tr>
-    <th style="width:25%">Rating</th>
-    <th>Description</th>
+    <th scope="col" style="width:25%">Rating</th>
+    <th scope="col">Description</th>
   </tr>
   <tr>
     <td>Critical</td>

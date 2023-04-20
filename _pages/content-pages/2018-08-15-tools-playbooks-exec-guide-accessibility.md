@@ -168,33 +168,33 @@ Better accessibility supports many areas of information assurance, including sec
 
 </ul>
 
-<ul role="list">
-<li role="listitem" dir="ltr">
+<ul>
+<li dir="ltr">
   Adequately staff the accessibility function across your agency. Include staff with skills and expertise in:
   
-  <ul role="list">
-    <li role="listitem" dir="ltr">
+  <ul>
+    <li dir="ltr">
       Project management;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       IT governance;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       IT acquisition;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       Accessibility testing and validation;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       Use of assistive technology;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       Compliance analysis;
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       Training; and
     </li>
-    <li role="listitem" dir="ltr">
+    <li dir="ltr">
       Communications.
     </li>
   </ul>
@@ -260,14 +260,14 @@ Better accessibility supports many areas of information assurance, including sec
   Collaborate within and across agencies to accurately baseline your IT Accessibility/508 program and leverage existing best practices and resources.
 </p>
 
-<ul role="list">
-<li role="listitem" dir="ltr">
+<ul>
+<li dir="ltr">
   Participate in the <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank">Chief Information Officer Council Accessibility Community of Practice (ACOP)</a>.
-  <ul role="list">
-    <li role="listitem"  dir="ltr">
+  <ul>
+    <li dir="ltr">
       Assign at least one agency representative to the ACOP (preferably a senior-level government manager).
     </li>
-    <li role="listitem"  dir="ltr">
+    <li dir="ltr">
       Assign representatives to each of the ACOP&rsquo;s subcommittees, and contribute to the development of tools, training and best practices to help agencies improve accessibility.
     </li>
   </ul>
