@@ -12,8 +12,8 @@ created: December 09, 2023
 <p class="table-heading"><b>Table 1. List of acronyms and associated meanings.</b></p>
 <table class = "list-of-acronyms-table">
   <tr>
-    <th style="width:20%">Acronym</th>
-    <th>Meaning</th>
+    <th scope="col" style="width:20%">Acronym</th>
+    <th scope="col">Meaning</th>
   </tr>
   <tr>
     <td>A11y</td>
