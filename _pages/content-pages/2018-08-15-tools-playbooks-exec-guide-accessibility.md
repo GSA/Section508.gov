@@ -122,16 +122,16 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul>
 <li dir="ltr">
-  <a href="https://www.ssa.gov/accessibility/508_overview.html" target="_blank">Accessibility Help</a> - SSA
+  <a href="https://www.ssa.gov/accessibility/508_overview.html" target="_blank">Accessibility Support</a> - SSA
 </li>
 <li dir="ltr">
   <a href="https://www.dhs.gov/accessibility" target="_blank">Accessibility</a> - DHS
 </li>
 <li dir="ltr">
-  <a href="https://www.va.gov/web/standards/accessibility.cfm" target="_blank">Web Governance - Accessibility</a> - VA
+  <a href="https://www.va.gov/accessibility-at-va/" target="_blank">Accessibility at VA</a> - VA
 </li>
 <li dir="ltr">
-  <a href="https://www.usa.gov/policies#item-211457" target="_blank">Website accessibility</a> - USA.gov
+  <a href="https://www.usa.gov/accessibility-policy" target="_blank">Accessibility Policy</a> - USA.gov
 </li>
 </ul>
 

@@ -8,7 +8,7 @@
       "video-caption"
     ],
     "hideElements": [
-      "#how-official, #site-nav, #sec-nav, #sICT"
+      "#how-official, #site-nav, #sec-nav, #sICT, #create-cards, nav li a, nav li span"
     ],
     "timeout": 5000,
     "reporters": [

@@ -59,4 +59,4 @@ Many individuals who are interested in testing to validate the conformance of a 
 
  [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [2]: https://agilemanifesto.org/
- [3]: http://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/
+ [3]: https://astqb.org/certifications/
