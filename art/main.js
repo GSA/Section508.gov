@@ -1289,14 +1289,14 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function LandingPageComponent_art_generic_text_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 4)(2, "div", 5)(3, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 3)(2, "div", 4)(3, "b");
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtext"](4);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](5, "div", 6)(6, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](7, "art-button", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](5, "div", 5)(6, "div");
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](7, "art-button", 6);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](8, "div", 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](9, "art-button", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](8, "div", 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](9, "art-button", 6);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()()()();
 } if (rf & 2) {
     const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
@@ -1306,15 +1306,6 @@ function LandingPageComponent_art_generic_text_2_Template(rf, ctx) { if (rf & 1)
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("btnTile", true)("buttonData", ctx_r0.getStartedBtn);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("btnTile", true)("buttonData", ctx_r0.getUploadICTBtn);
-} }
-function LandingPageComponent_art_generic_text_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 9);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelement"](2, "div", 10);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
-} if (rf & 2) {
-    const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("innerHTML", ctx_r1.landingPageService.getSampleProLang(), _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵsanitizeHtml"]);
 } }
 class LandingPageComponent {
     /**
@@ -1356,18 +1347,13 @@ class LandingPageComponent {
     }
 }
 LandingPageComponent.ɵfac = function LandingPageComponent_Factory(t) { return new (t || LandingPageComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdirectiveInject"](src_app_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdirectiveInject"](src_app_shared_services_landing_page_landing_page_service__WEBPACK_IMPORTED_MODULE_0__.LandingPageService)); };
-LandingPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdefineComponent"]({ type: LandingPageComponent, selectors: [["art-landing-page"]], decls: 5, vars: 2, consts: [["aria-label", "Landing Banner"], ["art-generic-text-layout", "top-border"], [4, "ngIf"], ["art-generic-text-layout", "background-color"], [1, "margin-2"], [1, "font-serif-lg", "margin-bottom-3"], [1, "art-flex"], [3, "btnTile", "buttonData"], [1, "art-btn"], [1, "padding-x-3", "padding-y-1", "margin-top-5"], [3, "innerHTML"]], template: function LandingPageComponent_Template(rf, ctx) { if (rf & 1) {
+LandingPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdefineComponent"]({ type: LandingPageComponent, selectors: [["art-landing-page"]], decls: 3, vars: 1, consts: [["aria-label", "Landing Banner"], ["art-generic-text-layout", "top-border"], [4, "ngIf"], [1, "margin-2"], [1, "font-serif-lg", "margin-bottom-3"], [1, "art-flex"], [3, "btnTile", "buttonData"], [1, "art-btn"]], template: function LandingPageComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](0, "section", 0)(1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtemplate"](2, LandingPageComponent_art_generic_text_2_Template, 10, 5, "art-generic-text", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementStart"](3, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵtemplate"](4, LandingPageComponent_art_generic_text_4_Template, 3, 1, "art-generic-text", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵelementEnd"]()();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](2);
         _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx.lpButtonHeader);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵadvance"](2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵproperty"]("ngIf", ctx.landingPageService && ctx.landingPageService.getSampleProLang);
     } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_5__.NgIf, _shared_components_art_button_art_button_component__WEBPACK_IMPORTED_MODULE_2__.ArtButtonComponent, _shared_components_art_generic_text_art_generic_text_component__WEBPACK_IMPORTED_MODULE_3__.ArtGenericTextComponent], styles: [".art-btn[_ngcontent-%COMP%] {\n  margin-left: 0.5rem;\n}\n@media screen and (max-width: 414px) {\n  .art-btn[_ngcontent-%COMP%] {\n    margin-left: 0rem;\n    margin-top: 0.5rem;\n  }\n}\n.art-flex[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: space-evenly;\n}\n@media screen and (max-width: 414px) {\n  .art-flex[_ngcontent-%COMP%] {\n    display: block;\n    margin-left: 0rem;\n    margin-top: 0.5rem;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImxhbmRpbmctcGFnZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLG1CQUFBO0FBQ0o7QUFBSTtFQUZKO0lBR1EsaUJBQUE7SUFDQSxrQkFBQTtFQUdOO0FBQ0Y7QUFDQTtFQUNJLGFBQUE7RUFDQSw2QkFBQTtBQUVKO0FBREk7RUFISjtJQUlRLGNBQUE7SUFDQSxpQkFBQTtJQUNBLGtCQUFBO0VBSU47QUFDRiIsImZpbGUiOiJsYW5kaW5nLXBhZ2UuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYXJ0LWJ0bntcbiAgICBtYXJnaW4tbGVmdDowLjVyZW07XG4gICAgQG1lZGlhICBzY3JlZW4gYW5kICAobWF4LXdpZHRoOiA0MTRweCkge1xuICAgICAgICBtYXJnaW4tbGVmdDogMHJlbTtcbiAgICAgICAgbWFyZ2luLXRvcDogMC41cmVtO1xuICAgICB9XG5cbn1cblxuLmFydC1mbGV4e1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1ldmVubHk7XG4gICAgQG1lZGlhICBzY3JlZW4gYW5kICAobWF4LXdpZHRoOiA0MTRweCkge1xuICAgICAgICBkaXNwbGF5OiBibG9jaztcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDByZW07XG4gICAgICAgIG1hcmdpbi10b3A6IDAuNXJlbTtcbiAgICAgfVxufSJdfQ== */"] });
 
 
@@ -3958,9 +3944,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _assets_data_lp_button_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../assets/data/lp-button.json */ 8296);
 /* harmony import */ var _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../assets/data/buttons.json */ 3373);
-/* harmony import */ var _assets_data_sample_procurement_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../assets/data/sample-procurement.json */ 4209);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/core */ 2560);
-
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ 2560);
 
 
 
@@ -3994,13 +3978,6 @@ class LandingPageService {
         return _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_1__.uploadICT;
     }
     /**
-     * @description Getting the data for the Sample Procurement Language in 3 Steps in the json file
-     * @returns string
-     */
-    getSampleProLang() {
-        return _assets_data_sample_procurement_json__WEBPACK_IMPORTED_MODULE_2__.data;
-    }
-    /**
      * @description used to update the destination
      * @param nextPage
      * @type NextPage
@@ -4017,7 +3994,7 @@ class LandingPageService {
     }
 }
 LandingPageService.ɵfac = function LandingPageService_Factory(t) { return new (t || LandingPageService)(); };
-LandingPageService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵdefineInjectable"]({ token: LandingPageService, factory: LandingPageService.ɵfac, providedIn: 'root' });
+LandingPageService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineInjectable"]({ token: LandingPageService, factory: LandingPageService.ɵfac, providedIn: 'root' });
 var NextPage;
 (function (NextPage) {
     NextPage["getStarted"] = "getStarted";
@@ -4917,16 +4894,6 @@ module.exports = JSON.parse('{"buttonHeader":"Select a button below to get 508 L
 /***/ ((module) => {
 
 module.exports = JSON.parse('{"it-prod":["E201.1","E208.1"],"it-serv":["E208.1","E602.1","E603.1"],"excep-nat-sec":["E202.3"],"excep-mon-spa":["E202.5"],"excep-alter":["E202.6"],"excep-fed-con":["E202.4"],"excep-und-bur":["E202.6"],"elec-yes":["E205.1","E205.2","E205.3","E205.4","E301.1","E302.1","E302.2","E302.3","E302.4","E302.5","E302.6","E302.7","E302.8","E302.9"],"content-website-yes":["E205.1","E205.2","E205.3","E205.4","E503.1"],"content-website-no":["E205.1","E205.2","E205.3","E205.4","E205.4.1"],"content-public-yes":["E205.2"],"content-public-no":["E205.3"],"comm-yes":["E205.3"],"soft-no-user-interface":["E501.1","E207.1","E207.2"],"soft-assistive":["E501.1","E502.1","E207.1","E207.2"],"soft-idk":["E207.1"],"software-web-app":["E207.1","E207.2","E207.3","E301.1","E302.1","E302.2","E302.3","E302.4","E302.5","E302.6","E302.7","E302.8","E302.9","E503.1","E503.2","E503.3","E503.4"],"software-auth-tool":["E207.1","E207.2","E207.3","E503.1","E502.4","E503.2","E503.3","E503.4","E504.1","E504.2","E504.3","E504.4"],"software-infra":["E502.4","E207.1","E207.2","E207.3","E503.1","E503.2","E503.3","E503.4"],"software-other":["E503.1"],"soft-serv-saas":["E207.1","E503.1"],"soft-serv-paas":["E207.1","E503.1"],"soft-serv-other":["E207.1","E503.1"],"soft-serv-idk":["E207.1","E503.1"],"soft-web-yes":["E207.2","E503.1"],"soft-web-no":["E207.3"],"soft-create-yes":["E504.2","E504.3","E504.4"],"hardware-computer":["E206.1","E301.1","E302.1","E302.2","E302.3","E302.4","E302.5","E302.6","E302.7","E302.8","E302.9","E401.1","E402.1","E402.2","E402.3","E402.4","E402.5","E403.1","E404.1","E405.1","E406.1","E407.1","E407.2","E407.3","E407.4","E407.5","E407.6","E407.7","E407.8","E408.1","E408.2","E408.3","E409.1","E410.1","E411.1","E412.1","E412.2","E412.3","E412.4","E412.5","E412.6","E412.7","E413.1","E414.1","E415.1"],"hardware-other":["E206.1"],"hardware-none":["E206.1"],"server-iaas-yes":["E206.1"],"server-iaas-no":["E206.1"],"server-iaas-idk":["E206.1"],"support-tech":["E603.1","E603.2","E603.3"],"support-call":["E603.1","E603.2","E603.3"],"support-doc":["E602.1","E602.2","E602.3","E602.4"],"support-train":["E603.1","E603.2","E603.3"]}');
-
-/***/ }),
-
-/***/ 4209:
-/*!*************************************************!*\
-  !*** ./src/assets/data/sample-procurement.json ***!
-  \*************************************************/
-/***/ ((module) => {
-
-module.exports = JSON.parse('{"data":"<div id=\'target\' style=\'background-color: #f5f9fc; padding:10px 20px 20px 20px\'> <h2> <strong>Sample Procurement Language in 3 Steps</strong> </h2> <p> Have a standard procurement and want to help potential vendors understand the government\'s requirements and the process on how to deliver accessible products and services? Find the sample you need from the 40+ samples listed below, then cut and paste the sample language into your procurement documentation. The sample language covers such factors as: Program Need, Deliverable Requirements, and Evaluation and Acceptance Factors. </p> <ol style=\'font-weight: bold;\'> <li> <p> <strong>Download</strong> the <a target=\'_blank\' href=\'https://assets.section508.gov/files/ART%20Contract%20Language%20Template.pdf\' style=\'font-weight: normal;\'> ART Contract Language Template </a> </p> </li> <li> <p> <strong>Select and download</strong> <span style=\'font-weight: normal;\'> the sample procurement language from the list below: </span> </p> </li> </ol> <div class=\'grid-row grid-gap\'> <div class=\'desktop:grid-col-4\'> <ul class=\'list_1\'> <li> <a href=\'https://www.section508.gov/sample-procurement/call-contacthelp-desk-center-services\'>Call (Contact/Help Desk) Center Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/cloud-computing\'>Cloud Computing</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/computer-based-training\'>Computer-based Training</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/computer-monitor\'>Computer Monitor</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/computer-printer\'>Computer Printer</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/computer-printer-maintenance \'>Computer Printer Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/content-management-systems\'>Content Management Systems</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/data-services-or-information-retrieval-systems\'>Data Services or Information Retrieval Systems</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/desktop-or-portable-computer\'>Desktop or Portable Computer</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/desktop-or-portable-computer-maintenance\'>Desktop or Portable Computer Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/digital-camera\'>Digital Camera</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/ebooks\'>eBooks</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/ebooks-reader\'>eBooks Reader</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/electronic-documents\'>Electronic Documents</a> </li> </ul> </div> <div class=\'desktop:grid-col-4\'> <ul class=\'list_1\'> <li> <a href=\'https://www.section508.gov/sample-procurement/fax-machine \'>Fax Only</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/gps-navigation-device\'>GPS Navigation Device</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/information-content-services\'>Information Content Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/information-kioskstransaction-machines\'>Information Kiosk Transaction Machines</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/internet-and-intranet-websites-and-web-based-content\'>Internet and Intranet websites and web based content</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/intranet-or-internet-services\'>Internet or Intranet Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/ip-telephones\'>IP Telephones</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/keyboard-or-keypad\'>Keyboard or Keypad</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/management-information-system-services\'>Management Information System Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/mobile-application\'>Mobile Application</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/multifunction-machine\'>Multifunction Machines</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/multifunction-machines-maintenance \'>Multifunction Machines Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/servers\'>Servers</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/smartphone\'>Smartphone</a> </li> </ul> </div> <div class=\'desktop:grid-col-4\'> <ul class=\'list_1\'> <li> <a href=\'https://www.section508.gov/sample-procurement/smartphone-maintenance \'>Smartphone Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/electronic-software \'>Software</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/software-development-services\'>Software Development Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/software-maintenance-services \'>Software Maintenance Services</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/voip-services\'>VoIP Service</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/video-and-imaging-input-devices\'>Video and Imaging Input Devices</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/video-teleconferencing\'>Video Teleconferencing</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/video-teleconference-maintenance \'>Video Teleconferencing Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/web-application\'>Web Application</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/web-application-maintenance\'>Web Application Maintenance</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/web-based-collaboration-tools\'>Web-based Collaboration Tools</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/web-based-information-documentation-and-support \'>Web-based Information, Documentation and Support</a> </li> <li> <a href=\'https://www.section508.gov/sample-procurement/web-based-training\'>Web-based Training</a> </li> </ul> </div> </div> <ol start=\'3\' style=\'font-weight: bold; margin-top: 10px;\'> <li> <p> <strong>Follow the instructions to copy/paste </strong> <span style=\'font-weight: normal;\'>the standard language from the two documents into your procurement document </span> </p> </li> </ol> </div>"}');
 
 /***/ }),
 
