@@ -54,15 +54,15 @@ The goals of GSA's analysis are to:
 
 GSA and OMB will evaluate and approximate agency maturity across the following core dimensions:
 <ol type="a">
-    <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
-    <li>Policies, Procedures, and Standards - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
-    <li> Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
-    <li> Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
-    <li>Human Capital, Culture, and Leadership - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
-    <li>Technology Lifecycle Activities - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
-    <li> Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
-    <li> Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
-    <li>Training - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
+    <li><strong>IT Accessibility Program Office</strong> - Measuring how well program governance, risk management, and compliance is managed.</li>
+    <li><strong>Policies, Procedures, and Standards</strong> - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
+    <li><strong>Communications</strong> - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
+    <li><strong>Content Creation</strong> - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
+    <li><strong>Human Capital, Culture, and Leadership</strong> - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+    <li><strong>Technology Lifecycle Activities</strong> - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
+    <li><strong>Testing and Validation</strong> - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+    <li><strong>Acquisition and Procurement</strong> - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+    <li><strong>Training</strong> - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
 </ol>
 
 The report will be submitted to Congress no later than December 29. The report will also be made available on a public website.
@@ -76,18 +76,18 @@ When it is not possible to ascertain the number of employee or contractor hours 
 
 ## How is the assessment laid out?
 This is a self-report assessment with 11 dimensions which are categorized as:
-    <ol type="a">
-    <li> General Information questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
-    <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
-    <li>Policies, Procedures, and Standards - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
-    <li> Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
-    <li> Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
-    <li>Human Capital, Culture, and Leadership - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
-    <li>Technology Lifecycle Activities - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
-    <li> Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
-    <li> Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
-    <li>Training - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
-    <li>Conformance Metrics that measure how well your agency’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia</li>
+<ol type="a">
+    <li><strong>General Information</strong> questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
+    <li><strong>IT Accessibility Program Office</strong> - Measuring how well program governance, risk management, and compliance is managed.</li>
+    <li><strong>Policies, Procedures, and Standards</strong> - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
+    <li><strong>Communications</strong> - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
+    <li><strong>Content Creation</strong> - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
+    <li><strong>Human Capital, Culture, and Leadership</strong> - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+    <li><strong>Technology Lifecycle Activities</strong> - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
+    <li><strong>Testing and Validation</strong> - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+    <li><strong>Acquisition and Procurement</strong> - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+    <li><strong>Training</strong> - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
+    <li><strong>Conformance Metrics</strong> that measure how well your agency’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia</li>
 </ol>
 
 ## How do I determine frequency of activities?
