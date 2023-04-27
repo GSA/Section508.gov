@@ -71,7 +71,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="coontractor"><strong>Contractor:</strong></span> A person who enters into a contract with any agency or department of the United States government and is paid for services, material, equipment, and/or supplies. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies. With respect to accessibility of information and communications technology, contractors may perform services such as testing, remediation, development, training, or other program services as needed. 
 
-- <span id="coordinator"><strong>Coordinator:</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
+- <span id="coordinator"><strong>Coordinator (also Section 508 Coordinator):</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
 
 <h2>
   <span id="sectionD">D</span>
