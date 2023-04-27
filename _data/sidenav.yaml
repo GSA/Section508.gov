@@ -499,7 +499,7 @@ create:
         url: create/spreadsheets/training-videos/
       - name: Tips and Tricks
         url: create/spreadsheets/
-  - name: Create a PDFs
+  - name: Create a PDF
     url: '#'
     children:
       - name: Authoring Guides

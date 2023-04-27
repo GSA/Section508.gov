@@ -31,11 +31,11 @@ The policy type Human Resources Management refers to policies that apply to the 
   <table class="it-table">
     <thead>
     <tr>
-      <th id="PS">Policy Subtype</th>
-      <th id="DES" class="columnD">Description</th>
-      <th id="PG" class="columnPG">Potential Gaps</th>
-      <th id="RI" class="columnRI">Recommended Inclusions</th>
-      <th id="RPL" class="columnRPL">Recommended Policy Language</th>
+      <th scope="col" id="PS">Policy Subtype</th>
+      <th scope="col" id="DES" class="columnD">Description</th>
+      <th scope="col" id="PG" class="columnPG">Potential Gaps</th>
+      <th scope="col" id="RI" class="columnRI">Recommended Inclusions</th>
+      <th scope="col" id="RPL" class="columnRPL">Recommended Policy Language</th>
     </tr>
     </thead>
     <tbody id="table-body">

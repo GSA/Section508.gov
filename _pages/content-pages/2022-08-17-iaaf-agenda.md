@@ -54,7 +54,7 @@ created: 1600981839
                       {% for bio in site.bios_iaaf %}
                         {% if bio.bio_id == bio_id %}
                         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
+                          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.affiliation_short }}    
                         </div>
                         {% endif %}
                       {% endfor %}
@@ -91,7 +91,7 @@ created: 1600981839
                     {% for bio in site.bios_iaaf %}
                       {% if bio.bio_id == bio_id %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
                       </div>
                       {% endif %}
                     {% endfor %}
@@ -129,7 +129,7 @@ created: 1600981839
                   {% for bio in site.bios_iaaf %}
                     {% if bio.bio_id == bio_id %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
+                      <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2022#{{ bio_id }}">{{ bio.display_name }}</a></b>, </span>{{ bio.position}}, {{ bio.affiliation_long }}    
                     </div>
                     {% endif %}
                   {% endfor %}
