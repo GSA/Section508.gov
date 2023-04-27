@@ -69,6 +69,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> See [Fully Conform](#fully-conform). 
 
+- <span id="coontractor"><strong>Contractor:</strong></span> A person who enters into a contract with any agency or department of the United States government and is paid for services, material, equipment, and/or supplies. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies. With respect to accessibility of information and communications technology, contractors may perform services such as testing, remediation, development, training, or other program services as needed. 
+
 - <span id="coordinator"><strong>Coordinator:</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
 
 <h2>
@@ -76,6 +78,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 </h2>
 
 - <span id="deploying"><strong>Deploying:</strong></span> Bring into effective action; utilize, publish, or distribute.
+
+- <span id="digital-content"><strong>Digital Content:</strong></span> Overarching term to include all forms of electronic ICT, such as: multimedia, electronic documents, PDFs, social media, web content, etc. See also [Electronic Content](#electronic-content).
 
 - <span id="dimension"><strong>Dimension:</strong></span> An aspect or category on which an agency's accessibility maturity is measured.
 
@@ -87,7 +91,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> An e-government line of business (e-gov LoB) is defined as an intra-agency shared service, a line of business, or a multi-agency collaboration established by the Office of Management and Budget under M-04-08.
 
-- <span id="electronic-content"><strong>Electronic Content:</strong></span> Information and Communications Technology (ICT) that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
+- <span id="electronic-content"><strong>Electronic Content:</strong></span> Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions (see [36 CFR 1194, E103](https://www.access-board.gov/ict/#E103-definitions)), including Electronic Content  that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
 
 <h2>
   <span id="sectionF">F</span>
