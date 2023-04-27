@@ -63,19 +63,23 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="communication"><strong>Communication:</strong></span> The way in which agencies and their organizations communicate with internal and external audiences.
 
-- <span id="complaint:"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a Federal employee, applicant for Federal employment, or member of the public with a disability  initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by "any individual with a disability...alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology" ([§794d. Electronic and information technology (f)(1)(A)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)) [i.e., fails to provide accessible ICT]. Administrative complaints are "filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity." ([§794d. Electronic and information technology (f)(](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)2)). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other agency personnel to fully gather this information ([DOJ Civil Rights Division iii. Administrative Complaints](https://www.justice.gov/crt/iii-administrative-complaints)). 
+- <span id="complaint:"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a Federal employee, applicant for Federal employment, or member of the public with a disability  initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by "any individual with a disability...alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology" ([§794d. Electronic and information technology (f)(1)(A)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)) [i.e., fails to provide accessible ICT]. Administrative complaints are "filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity." ([§794d. Electronic and information technology (f)(2)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other agency personnel to fully gather this information ([DOJ Civil Rights Division iii. Administrative Complaints](https://www.justice.gov/crt/iii-administrative-complaints)). 
 
   Complaints differ from public feedback responses that your agency receives through the mechanism provided to meet the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint. 
 
 - <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> See [Fully Conform](#fully-conform). 
 
-- <span id="coordinator"><strong>Coordinator:</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
+- <span id="contractor"><strong>Contractor:</strong></span> A person who enters into a contract with any agency or department of the United States government and is paid for services, material, equipment, and/or supplies. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies. With respect to accessibility of information and communications technology, contractors may perform services such as testing, remediation, development, training, or other program services as needed. 
+
+- <span id="coordinator"><strong>Coordinator (also Section 508 Coordinator):</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
 
 <h2>
   <span id="sectionD">D</span>
 </h2>
 
 - <span id="deploying"><strong>Deploying:</strong></span> Bring into effective action; utilize, publish, or distribute.
+
+- <span id="digital-content"><strong>Digital Content:</strong></span> Overarching term to include all forms of electronic ICT, such as: multimedia, electronic documents, PDFs, social media, web content, etc. See also [Electronic Content](#electronic-content).
 
 - <span id="dimension"><strong>Dimension:</strong></span> An aspect or category on which an agency's accessibility maturity is measured.
 
@@ -87,7 +91,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> An e-government line of business (e-gov LoB) is defined as an intra-agency shared service, a line of business, or a multi-agency collaboration established by the Office of Management and Budget under M-04-08.
 
-- <span id="electronic-content"><strong>Electronic Content:</strong></span> Information and Communications Technology (ICT) that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
+- <span id="electronic-content"><strong>Electronic Content:</strong></span> Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions (see [36 CFR 1194, E103](https://www.access-board.gov/ict/#E103-definitions)), including Electronic Content  that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
 
 <h2>
   <span id="sectionF">F</span>
