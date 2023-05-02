@@ -19,12 +19,12 @@ Prior to participating in an office hours event, please ensure that you are fami
 
 ## Event Details
 **DATE:** May 23, 2023  
-**TIME:** 2:00 PM - 3:00 PM (EST)  
+**TIME:** 2:30 PM - 3:30 PM (EST)  
 **WHERE:** Virtual  
 **WHO:** Agency points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Friday, May 19 at 1:30 PM ET. [Sign up today!][7]   
+[Registration][7] is now open and will close Friday, May 23 at 2:00 PM ET. [Sign up today!][7]   
 
 This virtual meeting is supported by Microsoft Teams. Please feel free to attend via your personal device.  
 
