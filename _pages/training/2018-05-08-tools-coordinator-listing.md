@@ -108,7 +108,7 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-John Trifilitti - <john.trifiletti@usda.gov>
+Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
 
 * **Agricultural Research Service (ARS)** <br>Yvette Anderson <yvette.anderson@usda.gov>
