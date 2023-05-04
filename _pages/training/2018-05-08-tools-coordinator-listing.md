@@ -111,11 +111,10 @@ Angela Parham	- <angela.parham@usda.gov>
 Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
 
-* **Agricultural Research Service (ARS)** <br>Yvette Anderson <yvette.anderson@usda.gov>
-* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>
-* **National Agricultural Library (NAL)** <br>Ricardo Romero - <ricardo.romero@usda.gov>
-* **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>
-* **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>
+* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
+* **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
 
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
@@ -212,7 +211,7 @@ Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
 ### National Guard Bureau
 Nguyen D. Lam - 703-601-2637 - <nguyen.d.lam.civ@army.mil>  
 ### National Reconnaissance Office
-Tara Mathis - 703-808-6989 - <tara.mathis@nro.mil>
+John O. Adeika - 703-808-2186 - <adeikajo@nro.mil>  
 ### Navy
 Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 
@@ -571,8 +570,6 @@ Marc Seawright - 650-684-0951 - <marc.seawright@eeoc.gov>
 Pierrette McIntire (BACKUP) - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
 ### Election Assistance Commission (EAC)
 William Jackson - 202-740-5676 - <bjackson@eac.gov>
-### Executive Office of the President (EOP)
-VACANT
 
 <span id="F" ></span>
 
@@ -677,7 +674,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: April 17, 2023
+**Reviewed/Updated**: May 4, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
