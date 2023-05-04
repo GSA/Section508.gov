@@ -61,7 +61,7 @@ created: 1601325079
             {% if session.roles %}
               {% for role in session.roles %}
                 {% if role.who contains bio.bio_id %}
-                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}</span></em></a>, Day {{ day.day }}<br> 
+                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2022#{{ session.session_id }}"><em><span>{% if session.subtitle %} {{ session.subtitle }}{% else %} {{ session.name }}{% endif %}</span></em></a>, Day {{ day.day }}<br> 
                 {% endif %}
               {% endfor %}
             {% endif %}
@@ -69,7 +69,7 @@ created: 1601325079
               {% for track in session.tracks %}
                 {% for role in track.roles %}
                   {% if role.who contains bio.bio_id %}
-                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/agenda-2022#{{ track.track_id }}"><em><span> {{ track.name_breakout }}</span></em></a>, Day {{ day.day }}<br> 
+                  <em><span>{% if role.name %}{{ role.name }}: {% else %}Speaker: {% endif %}</span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2022#{{ track.track_id }}"><em><span> {{ track.name_breakout }}</span></em></a>, Day {{ day.day }}<br> 
                 {% endif %}
                 {% endfor %}
               {% endfor %}

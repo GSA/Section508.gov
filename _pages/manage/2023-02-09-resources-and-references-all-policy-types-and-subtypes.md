@@ -17,12 +17,12 @@ The Table of Policy Types and Subtypes (<b>Table 1</b>) lists and describes all 
 <div class="q-table">
 <table class = "it-table">
       <tr>
-        <th>Policy Type</th>
-        <th style="width:25%;">Policy Type Description</th>
-        <th style="width:9.5%;">Likely Relevance for Policy Type (Y/N)</th>
-        <th>Policy Subtype</th>
-        <th style="width:25%;">Policy Subtype Description</th>
-        <th style="width:9.5%;">Likely Relevance for Policy Subtype (Y/N)</th>
+        <th scope="col">Policy Type</th>
+        <th scope="col" style="width:25%;">Policy Type Description</th>
+        <th scope="col" style="width:9.5%;">Likely Relevance for Policy Type (Y/N)</th>
+        <th scope="col">Policy Subtype</th>
+        <th scope="col" style="width:25%;">Policy Subtype Description</th>
+        <th scope="col" style="width:9.5%;">Likely Relevance for Policy Subtype (Y/N)</th>
       </tr>
       <tr>
         <td>Acquisitions and Procurement</td>

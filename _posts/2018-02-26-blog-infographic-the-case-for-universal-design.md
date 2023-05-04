@@ -21,9 +21,9 @@ description: Current trends in accessibility and technology promote universal de
     To help CIOs explain the benefits of universal design, we created an infographic that outlines three key benefits of universal design. We hope that CIOs, 508 Program Coordinators, and customer advocates throughout the federal government will find it helpful to build a case for universal design at their agencies. We recommend getting started by creating actionable digital goals that use universal design principles, as outlined in the recent article <a href="{{site.baseurl}}/blog/Universal-Design-What-is-it">Universal Design: What is it?</a>. Accessibility cannot be an afterthought. It must be a key component of IT strategy from the beginning.
   </p>
   
-  <h3>
+  <h2>
     Benefits of Universal Design
-  </h3>
+  </h2>
   
   <p>
     The Centre for Excellence in Universal Design defines universal design as "the design and composition of an environment so that it can be <strong>accessed, understood and used to the greatest extent possible </strong>by all people regardless of their age, size, ability or disability."
@@ -43,9 +43,9 @@ description: Current trends in accessibility and technology promote universal de
   
   <ol>
     <li>
-      <h4>
+      <h3>
         Save Money
-      </h4>      
+      </h3>      
       <p>
         Universal Design costs less in the long term, as "unmet and unforeseen" user requirements can be captured in the beginning, instead of being tacked on later, often at additional expense.
       </p>      
@@ -54,9 +54,9 @@ description: Current trends in accessibility and technology promote universal de
       </p>
     </li>    
     <li>
-      <h4>
+      <h3>
         Drive Innovation
-      </h4>      
+      </h3>      
       <p>
         Universal Design leads to better, innovative products, as multidisciplinary teams work together to address unique user requirements, creating solutions that are accessible for all.
       </p>      
@@ -65,9 +65,9 @@ description: Current trends in accessibility and technology promote universal de
       </p>
     </li>    
     <li>
-      <h4>
+      <h3>
         Engage the Workforce
-      </h4>      
+      </h3>      
       <p>
         Universal Design empowers more employees to use and access content, making it easier to attract, retain and develop employees with and without disabilities.
       </p>      
@@ -77,7 +77,7 @@ description: Current trends in accessibility and technology promote universal de
     </li>
   </ol>
   
-  <div align="center">
+  <div>
     <h2>
       Commit to accessible IT by embracing universal design.
     </h2>
@@ -95,9 +95,9 @@ description: Current trends in accessibility and technology promote universal de
     For more information, contact <a href="mailto:section.508@gsa.gov">section.508@gsa.gov</a>
   </p>
   
-  <h4>
+  <h3>
     References
-  </h4>
+  </h3>
   
   <ol>
     <li>

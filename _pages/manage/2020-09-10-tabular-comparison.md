@@ -25,12 +25,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.  The included examples were also changed to match those used in the Revised 508 Standards.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 2.101 Definitions</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(b)...</p>
@@ -53,12 +56,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 7.103 Agency-head responsibilities</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(q) Ensuring that acquisition planners specify needs and develop plans, drawings, work statements, specifications, or other product descriptions that address Electronic and Information Technology Accessibility Standards (see 36 CFR part 1194) in proposed acquisitions (see 11.002(e)) and that these standards are included in requirements planning, as appropriate (see subpart 39.2).</p>
@@ -74,12 +80,15 @@ created: September 22, 2020
 
 <p>Paragraph (b)(5)(iv) is a new requirement to identify the specific 508 standards that apply to ICT acquisitions. What was paragraph (b)(5)(iv) is now (b)(5)(v), however the content of this paragraph has not changed as shown below.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 7.105 Contents of written acquisition plans</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>N/A</p>
@@ -108,12 +117,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 10.001 Policy</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(a)…</p>
@@ -134,12 +146,15 @@ created: September 22, 2020
 
 <p>This change requires agencies to identify the needs of current and future users with disabilities and to proactively determine how ICT functionality will be available to these users.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 11.002 Policy</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(f) In accordance with Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), requiring activities must prepare requirements documents for electronic and information technology that comply with the applicable accessibility standards issued by the Architectural and Transportation Barriers Compliance Board at 36 CFR part 1194 (see subpart 39.2).</p>
@@ -161,12 +176,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 12.202 Market research and description of agency need</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(d) Requirements documents for electronic and information technology must comply with the applicable accessibility standards issued by the Architectural and Transportation Barriers Compliance Board at 36 CFR part 1194 (see subpart 39.2).</p>
@@ -181,12 +199,15 @@ created: September 22, 2020
 <h3>Part 39 - Acquisition Of Information Technology</h3>
 <h4>Part 39.000 Scope of Part</h4>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.000 Scope of Part</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(b) Electronic and information technology.</p>
@@ -202,12 +223,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.001 Applicability</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>This part applies to the acquisition of information technology by or for the use of agencies except for acquisitions of information technology for national security systems.</p>
@@ -225,12 +249,15 @@ created: September 22, 2020
 
 <p>The change in this section replaces “accommodations” with “accessibility”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.101 Policy</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>OMB Circular A-130, including consideration of security of resources, protection of privacy, national security and emergency preparedness, accommodations for individuals with disabilities, and energy efficiency;</p>
@@ -247,12 +274,15 @@ created: September 22, 2020
 
 <p>The main change in this section is replacing “EIT” with “ICT”.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.201 Scope of subpart</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(a) This subpart implements section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), and the Architectural and Transportation Barriers Compliance Board Electronic and Information Technology (EIT) Accessibility Standards (36 CFR part 1194).</p>
@@ -276,12 +306,15 @@ created: September 22, 2020
 
 <p>This section reformats (b)(1)(2)(3) as (b) and (c).  Paragraphs (e) and (f) for Legacy ICT are new and are derived from the Revised 508 Standards.  The previous (c)(2) has moved to 39.205(3)(c).</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.203 Applicability</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>(a) Unless an exception at 39.204 applies, acquisitions of EIT supplies and services must meet the applicable accessibility standards at 36 CFR part 1194.</p>
@@ -323,12 +356,15 @@ created: September 22, 2020
 
 <p>The main changes in this section are some exceptions being grouped as exemptions. The micro-purchase exception has also been removed.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.204 Exceptions</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>The requirements in 39.203 do not apply to EIT that -</p>
@@ -359,12 +395,15 @@ created: September 22, 2020
 
 <p>This section is new. Some General Exceptions from the Revised 508 Standards are listed in this section as exemptions.</p>
 
-<table role="presentation" class="usa-table">
-    <tbody>
+<table class="usa-table">
+    <caption>Changes to 39.205 Exemptions</caption>
+    <thead>
         <tr>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</td>
-            <td width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</td>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Previous Rule</th>
+            <th scope="col" width="50%" style="background-color: #007eb5; color: #ffffff;">Updated Rule</th>
         </tr>
+    </thead>
+    <tbody>
         <tr valign="top">
             <td>
                 <p>N/A</p>

@@ -12,7 +12,7 @@ All Federal departments or agencies covered by Section 508 of the Rehabilitation
 The majority of the questions are required but there are several optional questions. Some questions are dependent on previous answers and will not be provided if they do not apply to your agency. For example, if you select that your agency does not use automated testing tools, you will not be presented  additional questions about automated testing tools in your agency.
 
 ## Is there a way for me to gather all my answers offline?
-Agencies may use the following <a href="https://assets.section508.gov/files/reports/FY2023%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" download>spreadsheet (XLSX)</a> to help collect the information; however, responses **must** be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment Criteria pages.
+Agencies may use the following <a href="https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" download>spreadsheet (XLSX)</a> to help collect the information; however, responses **must** be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment Criteria pages.
 
 ## What do I input and/or select if I don't know an answer?
 If an agency is unable to provide the requested information because it is currently unavailable, the agency should select “Unknown” or “N/A”. In rare instances, you may need to input "0" into a text field. Agencies will have opportunities to collect any unavailable information during future reporting periods of the annual assessment.
@@ -54,15 +54,15 @@ The goals of GSA's analysis are to:
 
 GSA and OMB will evaluate and approximate agency maturity across the following core dimensions:
 <ol type="a">
-    <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed</li>
-    <li>Policies, Procedures, and Standards - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility</li>
-    <li>Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements</li>
-    <li>Technology Lifecycle Activities - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance</li>
-    <li>Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims</li>
-    <li>Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues</li>
-    <li> Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible</li>
-    <li>Training - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements</li>
-    <li>Human Capital, Culture, and Leadership - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning</li>
+    <li><strong>IT Accessibility Program Office</strong> - Measuring how well program governance, risk management, and compliance is managed.</li>
+    <li><strong>Policies, Procedures, and Standards</strong> - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
+    <li><strong>Communications</strong> - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
+    <li><strong>Content Creation</strong> - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
+    <li><strong>Human Capital, Culture, and Leadership</strong> - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+    <li><strong>Technology Lifecycle Activities</strong> - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
+    <li><strong>Testing and Validation</strong> - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+    <li><strong>Acquisition and Procurement</strong> - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+    <li><strong>Training</strong> - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
 </ol>
 
 The report will be submitted to Congress no later than December 29. The report will also be made available on a public website.
@@ -77,17 +77,17 @@ When it is not possible to ascertain the number of employee or contractor hours 
 ## How is the assessment laid out?
 This is a self-report assessment with 11 dimensions which are categorized as:
 <ol type="a">
-    <li>General questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
-    <li>Conformance Metrics that measure how well your agency’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia</li>
-    <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
-    <li>Policies, Procedures, and Standards - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
-    <li>Acquisition and Procurement - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
-    <li>Technology Lifecycle Activities - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
-    <li>Testing and Validation - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
-    <li>Communications - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
-    <li>Content Creation - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
-    <li>Training - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
-    <li>Human Capital, Culture, and Leadership - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+    <li><strong>General Information</strong> questions ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</li>
+    <li><strong>IT Accessibility Program Office</strong> - Measuring how well program governance, risk management, and compliance is managed.</li>
+    <li><strong>Policies, Procedures, and Standards</strong> - Measuring the extent to which agencies establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
+    <li><strong>Communications</strong> - Measuring how well agencies communicate and monitor all ICT accessibility program activities, including tracking and resolving non-compliance issues.</li>
+    <li><strong>Content Creation</strong> - Measuring the extent to which agencies make their digital content (e.g., websites, documents, video and other media, social media, electronic forms, and digital signatures) accessible.</li>
+    <li><strong>Human Capital, Culture, and Leadership</strong> - Measuring your agency's leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+    <li><strong>Technology Lifecycle Activities</strong> - Measuring the extent to which agencies incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
+    <li><strong>Testing and Validation</strong> - Measuring the extent to which agencies conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+    <li><strong>Acquisition and Procurement</strong> - Measuring the extent to which agencies include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+    <li><strong>Training</strong> - Measuring the extent to which agencies train stakeholders on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
+    <li><strong>Conformance Metrics</strong> that measure how well your agency’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia</li>
 </ol>
 
 ## How do I determine frequency of activities?
@@ -103,6 +103,41 @@ This is a self-report assessment with 11 dimensions which are categorized as:
 Yes. At the end of the assessment tool, there will be an open-ended question (see Question 105 General Information) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide any additional narrative you would like. When referencing a specific question, please put the Dimension (e.g., Conformance Metrics) and the question number (e.g., Question 76).
 
 ## Who will send the assessment link to the reporting tool?	
-Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. Note: Since the email is sent from a collection tool, the email sender may appear as "ogpsurveysupport@research.gsa.gov".
+Registered POCs will recieve, on or about June 1st, an email from "Section.508@gsa.gov" with instructions to access to tool. If you do not receive this email, check your email's junk folder. 
+
+NOTE: Since the email is sent from a collection tool, the email sender may appear as "ogpsurveysupport@research.gsa.gov".
+
+## Is this assessment criteria the same data collected for the Program Maturity Report (PMR)?
+No. While this data collection asks some similar questions, it is more robust in its scope.
+
+## What is "Section 752" referencing?
+Section 752 is referencing a specific section of the Consolidated Appropriations Act of 2023 which stipulates timelines and requirements for OMB, GSA, and USAB to collect data on government-wide accessibility. 
+
+## How do I update my agency's component list in the designee sign up form?
+To update the list of agency/component dropdowns within the designee registration tool, please contact <Section.508@gsa.gov>. You may also select "Other" in the registration link for your agency POC/designee; a text field is presented on the next page for you to input the appropriate agency/component.
+
+## Can one point of contact (POC) submit responses for multiple components within the agency?
+Yes. The same POC can register for multiple agencies but each agency will have its own specific link to the online response tool. The designated POC will need to ensure the correct link is used to report agency-specific responses.
+
+## What happens if my agency does not submit answers by the August 11th deadline?
+Agencies that fail to complete the assessment by the deadline will be listed as non-responsive; which will be conveyed to Congress in the summary report.
+
+## Can more than one individual register as the agency point of contact (POC) and have access to the response tool?
+Please limit agency registration to one POC per agency. Once your agency POC has submitted thier information in the POC registration tool, they will receive a unique link for your agency's report submission. Once the response tool link is opened, the tool will lock to that specific user. To unlock the response tool for a different user, you must contact GSA at <Section.508@gsa.gov> for a manual unlock.
+
+## Does GSA know the format of the report to Congress and the anticipated narrative or context?
+GSA has not yet drafted an outline. GSA anticipates similarities to the most recent DOJ/GSA report but with additional narrative text. GSA anticipates the report will include data visualizations, diagrams, and narrative analysis to accompany recommendations.
+
+## When will agency response(s) be available to the “parent” agencies and how will access to the responses be provided?
+When responses are submitted, GSA will receive notice from the online response tool. GSA will then package those responses to provide parent agencies on a yet-to-be-determined regular basis.
+
+## Will agencies be able to send segments of questions to appropriate agency responders or will there be online capability to assign certain questions to agency stakeholders for completion?
+No, the reporting tool will not have the functionality to be able to portion out different sections of questions for other individuals to submit responses. Each agency should coordinate information gathering outside of the response tool for the agency point of contact to submit on behalf of their agency.
+
+## Will additional office hours be available?
+Yes, GSA anticipates having office hours through early August, though the frequency may vary. Please continue to check the [Events]({{site.baseurl}}/events/) page as office hours are scheduled.
+
+## What answer should I select if my agency is in between two options, such as A and B?
+Select the best response that is most representative of your agency's current status in that area with respect to disability.
 
 **Reviewed/Updated:** April 2023

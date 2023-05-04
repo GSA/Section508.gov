@@ -67,21 +67,22 @@ Karen Garrison - 816-926-2678 - <karen.garrison@usda.gov>
   * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
 
-### Food, Nutrition and Consumer Services	
-VACANT
+### Food, Nutrition and Consumer Services	(FNCS)
+Elisha Owens - <elisha.owens@usda.gov>  
+Ronald Hodges - <ronald.hodges@usda.gov>  
 
 * **Center for Nutrition Policy and Promotion (CNPP)**  
 * **Food and Nutrition Service (FNS)**  
 
-### Food Safety and Inspection Service
+### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
-### Forest Service
+### Forest Service (FS)
 VACANT
-### Information Management Services Branch
+### Information Management Services Branch (IFSB)
 VACANT
-### National Agricultural Statistics Service
+### National Agricultural Statistics Service (NASS)
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
-### Natural Resources Conservation Service
+### Natural Resources Conservation Service (NRCS)
 Karen Garrison 816-926-2678 - <karen.garrison@usda.gov>
 ### Office of the Assistant Secretary for Civil Rights (OASCR)  
 Casandra Taylor	- <cassandra.taylor@usda.gov>  
@@ -91,7 +92,7 @@ Tania	Jones - <tania.jones@usda.gov>
 Mivrat Sewadeh - <mirvat.sewadeh@usda.gov>
 ### Office of the Chief Financial Officer (OCFO)
 Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
-### Office of the Chief Information Officer
+### Office of the Chief Information Officer (OCIO)
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
 * **DISC-EAS** <br>VACANT    
@@ -107,7 +108,7 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-John Trifilitti - <john.trifiletti@usda.gov>
+Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
 
 * **Agricultural Research Service (ARS)** <br>Yvette Anderson <yvette.anderson@usda.gov>
@@ -172,8 +173,8 @@ Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
 Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
-Lewis	R. Taylor, Lt Col - 703-681-1529 - <lewis.r.taylor12.mil@health.mil>
 ### Defense Information Systems Agency (DISA)
+Stephanie	Rozario-Hamilton (Acting)	- 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
 
 * **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
@@ -206,7 +207,6 @@ VACANT
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>  
-Julie M. Hartmann (BACKUP) - <julie.m.hartmann.ctr@ndu.edu>  
 ### National Geospatial Intelligence Agency
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
 ### National Guard Bureau
@@ -252,7 +252,7 @@ Kate Maynor Sweeney - <kate.maynor@hhs.gov>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
-Biff LeVee (Acting) - 301-427-1897 - <biff.levee@ahrq.gov>
+VACANT
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
@@ -371,7 +371,7 @@ Jennifer K. Cantilena - 202-568-4102 - <jennifer.k.cantilena2@usdoj.gov>
 ### Civil Division
 Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Sean Cononie - 202-598-3205 - <sean.cononie@usdoj.gov>  
+Armbrister Gowdy - 202-598-9226 - <armbrister.gowdy@usdoj.gov>  
 Randy Abramson - 202-598-9631 - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
@@ -542,6 +542,7 @@ Janice MacLean - 202-394-6541 - <janice.maclean@sba.gov>
 ----------------------------------------------------
 ## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>  
+Amanda Miller (BACKUP) - 410-965-0716 - <amanda.miller@ssa.gov>  
 
 ----------------------------------------------------
 ## <span id="A" ></span> Small and Independent Agencies
@@ -596,8 +597,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-Theodosia Villatoro-Sorto - 202-360-131 - <tvillatoro-sorto@fmshrc.gov>  
-Tammy Russell - 202-434-9977 - <trussell@fmshrc.gov>  
+Michaell Williams - <mwilliams@fmshrc.com>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
@@ -640,7 +640,7 @@ Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>
 Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
 
 ### Office of Special Counsel
-Wing Leung - 202-653-5822 - <wleung@osc.gov>
+VACANT  
 
 <span id="P"></span>
 
@@ -677,7 +677,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: February 23, 2023
+**Reviewed/Updated**: April 17, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

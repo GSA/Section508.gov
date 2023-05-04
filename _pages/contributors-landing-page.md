@@ -20,8 +20,8 @@ title: Section508.gov Content Contribution
             </li>
         </ul>
     </div>
-    <div id="contrib-grid" aria-label="Contributors Grid" class="grid-container margin-bottom-2 border-1px border-base-light radius-md shadow-2">
-        <div id="contributor-tab" class="contribs-tab" aria-label="Contributors Tab">
+    <div id="contrib-grid" class="grid-container margin-bottom-2 border-1px border-base-light radius-md shadow-2">
+        <div id="contributor-tab" class="contribs-tab">
             {% for contributor in site.contributors %}
                 {% if contributor.contributor_type == "individual" %}
                     <div class="grid-row flex-wrap margin-y-1 padding-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
@@ -53,7 +53,7 @@ title: Section508.gov Content Contribution
                 {% endif %}
             {% endfor %}
         </div>
-        <div id="agency-tab" class="contribs-tab display-none" aria-label="Agency Tab">
+        <div id="agency-tab" class="contribs-tab display-none">
             {% for contributor in site.contributors %}
                 {% if contributor.contributor_type == "organization" %}
                     <div class="grid-row">
