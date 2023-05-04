@@ -453,7 +453,6 @@ Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>
 ----------------------------------------------------
 ## <span id="usdol" ></span>Department of Labor (DOL)
 Brandon Jubar - 202-693-4289 - <jubar.brandon.t@dol.gov>  
-Elizabeth	Small -	202-693-1065	- <small.elizabeth@dol.gov>  
 
 ----------------------------------------------------
 ## <span id="usdos" ></span>Department of State (USDS)
