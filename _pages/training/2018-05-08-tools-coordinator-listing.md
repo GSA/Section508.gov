@@ -108,7 +108,7 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-John Trifilitti - <john.trifiletti@usda.gov>
+Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
 
 * **Agricultural Research Service (ARS)** <br>Yvette Anderson <yvette.anderson@usda.gov>
@@ -371,7 +371,7 @@ Jennifer K. Cantilena - 202-568-4102 - <jennifer.k.cantilena2@usdoj.gov>
 ### Civil Division
 Benjamin Jones - 202-305-7605 - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Sean Cononie - 202-598-3205 - <sean.cononie@usdoj.gov>  
+Armbrister Gowdy - 202-598-9226 - <armbrister.gowdy@usdoj.gov>  
 Randy Abramson - 202-598-9631 - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - 202-598-3002 - <donte.turner@usdoj.gov>
