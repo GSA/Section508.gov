@@ -4347,7 +4347,6 @@ class ArtFormTemplateComponent {
      * @returns void
      */
     ngOnInit() {
-        console.log(JSON.parse(JSON.stringify(this.formConfig)));
         // Setting each Form
         this.formConfig.forEach((eachConfig, outerIndex) => {
             //Init  each form
