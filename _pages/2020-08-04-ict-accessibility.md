@@ -368,7 +368,7 @@ sidenav: false
     <strong>E207.2.1 Word Substitution</strong> When Applying WCAG to Non-Web Software For non-Web software, wherever the term “Web page” or “page” appears in WCAG 2.0 Level A and AA Success Criteria and Conformance Requirements, the term “software” shall be substituted for the terms “Web page” and “page”. In addition, in Success Criterion in 1.4.2, the phrase “in software” shall be substituted for the phrase “on a Web page.”
   </p>
   
-  <p id="e207_1__e207_2__e207_2_1__e207_3">
+  <p id="e207_3">
     <strong>E207.3 Complete Process for Non-Web Software</strong> Where non-Web software requires multiple steps to accomplish an activity, all software related to the activity to be accomplished shall conform to WCAG 2.0 as specified in E207.2.
   </p>
 </div>
@@ -1019,7 +1019,7 @@ sidenav: false
     <strong>602.3 Electronic Support Documentation. </strong>Documentation in electronic format, including Web-based self-service support, shall conform to Level A and Level AA Success Criteria and Conformance Requirements in WCAG 2.0 (incorporated by reference, see 702.10.1).
   </p>
   
-  <p aria-label="602.4 Alternate Formats for Non-Electronic Support Documentation. 1">
+  <p>
     <strong>602.4 Alternate Formats for Non-Electronic Support Documentation. </strong>Where support documentation is only provided in non-electronic formats, alternate formats usable by individuals with disabilities shall be provided upon request.
   </p>
 </div>

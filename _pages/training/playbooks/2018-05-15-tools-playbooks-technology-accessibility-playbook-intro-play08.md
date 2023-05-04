@@ -18,7 +18,7 @@ The following play identifies how to ensure accessibility needs are identified a
 
 <u><strong>General Preparation:</strong></u>
 
-  * Study the FAR, particularly parts that specifically address 508 (Sections 10, 11, 12.2, and 39.2).
+  * Study the Federal Acquisition Regulation (FAR), particularly parts that specifically address 508 (Sections 10, 11, 12.2, and 39.2). [The accessibility requirements in FAR](https://www.section508.gov/manage/laws-and-policies/far-update-comparison/) were updated in 2021 to align with the “Revised 508 Standards”. 
   * Identify and understand your agency&rsquo;s acquisition policies and procedures used to acquire technology.
   * Determine if adequate consideration of Section 508 Standards is already included in these policies and procedures &ndash; if not work with the appropriate stakeholders to change this.
   * Develop criteria for when and how accessibility and Section 508 requirements, exceptions, terms and conditions, evaluation methods, acceptance criteria, and related proposal response requirements are included in solicitations.
@@ -63,9 +63,9 @@ The following play identifies how to ensure accessibility needs are identified a
 
   * [Section 508 Standards][2]
   * [OMB Government-wide Section 508 Strategic Plan][4]
-  * Section 508 and the Federal Acquisition Regulations (FAR)
   * [GSA&rsquo;s Guidance on Creating Section 508 Compliant Solicitations][5]
   * [GSA&rsquo;s Guidance on Acquisition for Accessible EIT][6]
+  * [Tabular Comparison of the Previous FAR Text Against the 2021 Update](https://www.section508.gov/manage/laws-and-policies/far-update-comparison/)
 
 <div>
   <hr />

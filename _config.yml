@@ -94,7 +94,7 @@ secondary_navigation:
   - name: Blogs & Updates
     url: /blog/
   - name: My Agency’s 508 PM
-    url: /tools/coordinator-listing/
+    url: /tools/program-manager-listing/
   - name: About Us
     url: /content/about-us/
 
@@ -133,6 +133,8 @@ collections:
   contributors:
     output: true
     permalink: /:collection/:name:output_ext
+  bios_iaaf:
+    output: false
 
 permalink: pretty
 

@@ -1,0 +1,19 @@
+{
+  "defaults": {
+    "concurrency": 1,
+    "standard": "WCAG2AA",
+    "runners": ["axe", "htmlcs"],
+    "ignore": [
+      "frame-tested",
+      "video-caption",
+      "color-contrast"
+    ],
+    "hideElements": [
+      "#how-official, #site-nav, #sec-nav, #sICT, #create-cards, nav li a, nav li span"
+    ],
+    "timeout": 5000,
+    "reporters": [
+        "cli"
+    ]
+  }
+}

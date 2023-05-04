@@ -1,0 +1,599 @@
+# Reference 
+# session_types: welcome, keynote, general, panel, break
+# time_start/time_end format: YYYY-MM-DD HH:MM:SS
+# use single quotes ' to escape ":" or "-" errors in titles or descriptions 
+
+iaaf_2022:
+  - day: 1
+    time_start: 2022-10-11 12:00:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2022-10-11 16:10:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2022-10-11 12:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2022-10-11 12:10:00
+        session_id: day1welcome
+        description:
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #bio_id for this person 
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 12:10:00
+        time_end: 2022-10-11 13:00:00
+        session_id: day1breakout1
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'Accessible Meetings: Integrating Captioning in Conference Platforms'
+            track_id: day1breakout1a
+            description: During this session you will learn how to integrate Real-Time Captioning/Computer Assisted Real-Time Transcription (CART), and key requirements for public events & webinars.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: mcgowan-brianna #bio_id for this person 
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: wendy-cheng #bio_id for this person 
+            downloads:
+              - link_name: Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
+                file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Videos for All: Strategies for Developing Audio Described Videos'
+            track_id: day1breakout1b
+            description: While video and multimedia can be great vehicles to communicate with the public and with internal audiences, making those videos fully accessible can be a challenge! This workshop will offer tips and tricks for generating audio described videos, including strategies for developing audio descriptions for both technical and general audiences.
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who:  lesley-earl #bio_id for this person 
+              - name: Presenter
+                who: alison-lemon
+              - name: Presenter
+                who: andrew-wiley
+            downloads:
+              - link_name: Videos for All - IAAF 2022 (PPTX)
+                file_name: Videos%20for%20All%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 13:00:00
+        time_end: 2022-10-11 13:10:00
+        session_id: day1break1
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 13:10:00
+        time_end: 2022-10-11 14:00:00
+        session_id: day1breakout2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'The Human Reason for Accessibility (Part 1)'
+            track_id: day1breakout2a
+            description: Presenters will introduce foundational accessibility concepts, such as ableism, disability, social vs. medical models of disability, and societal benefits of accessibility.
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: angie-fuoco #bio_id for this person 
+              - name: Presenter
+                who: andrew-nielson
+            downloads:
+              - link_name: The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)
+                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Captioning Multimedia - Is It As Complicated As It Sounds?'
+            track_id: day1breakout2b
+            description: While captioning might seem straightforward - it's as simple as typing out what you hear, right? And auto-captioning is available everywhere - providing good captioning takes a little something extra. In this workshop, you’ll learn about captioning types for prerecorded media, best practices for grammar and editing, captioning workflows, and some of the latest tools to quickly and correctly caption your videos, no matter what platform you want to load them into.
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: lesley-earl #bio_id for this person 
+            downloads:
+              - link_name: Captioning Multimedia - IAAF 2022 (PPTX)
+                file_name: Captioning%20Multimedia%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 14:00:00
+        time_end: 2022-10-11 14:10:00
+        session_id: day1break2
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 14:10:00
+        time_end: 2022-10-11 15:00:00
+        session_id: day1breakout3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'The Human Reason for Accessibility (Part 2)'
+            track_id: day1breakout3a
+            description: Presenters will build on Part 1, foundational concepts of accessibility, to explore with attendees how we can help remove environmental, institutional, and attitudinal barriers to an accessible workplace.  
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: angie-fuoco #bio_id for this person 
+              - name: Presenter
+                who: andrew-nielson
+            downloads:
+              - link_name: The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)
+                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Section 508 PMs - What You Need To Know'
+            track_id: day1breakout3b
+            description: New to managing a 508 program? Not sure where to start? Feeling a bit overwhelmed? Remember, you don’t need to know everything on day one. In this session get inspired by hearing how Accessibility Programs, across agencies, use the Section 508 Playbook to learn, grow, and adapt it to their cultural and technical environment.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michael-horton #bio_id for this person 
+              - name: Presenter
+                who: gary-morin
+              - name: Presenter
+                who: angela-watkins
+            downloads:
+              - link_name: Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
+                file_name: Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-11 15:00:00
+        time_end: 2022-10-11 15:10:00
+        session_id: day1break3
+        descrioption:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2022-10-11 15:10:00
+        time_end: 2022-10-11 16:00:00
+        session_id: day1breakout4
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'Creating Accessible PDF Forms'
+            track_id: day1breakout4a
+            description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: sharma-siddhartha
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: regina-wendling #bio_id for this person 
+            downloads:
+              - link_name: Creating Accessible PDF Forms - IAAF 2022 (PPTX)
+                file_name: Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Section 508 PMs - Using What You Know'
+            track_id: day1breakout4b
+            description: "Building on the previous session, Section508 PMs - What You Need to Know, panelists will discuss using best practices in the real world, baselining, and moving forward."
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michael-horton #use bio_id 
+              - name: Panelist
+                who: tim-creagan
+              - name: Panelist
+                who: lolita-horne
+              - name: Panelist
+                who: gary-morin
+              - name: Panelist
+                who: angela-watkins
+            downloads:
+              - link_name: 
+                file_name: #This file was rejected. Please confirm is in S3 before making live #
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2022-10-11 16:00:00
+        time_end: 2022-10-11 16:10:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #use bio_id
+          - name: 
+            who: stephen-harding
+  - day: 2
+    time_start: 2022-10-12 10:00:00
+    time_end: 2022-10-12 16:00:00
+    sessions: 
+      - name: 'Welcome and Speaker Introduction'
+        type: welcome
+        time_start: 2022-10-12 10:00:00
+        time_end: 2022-10-12 10:05:00
+        session_id: day2welcome
+        description: 
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: gary-morin #bio_id for this person 
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-12 10:05:00
+        time_end: 2022-10-12 11:00:00
+        session_id: day2general1
+        subtitle: "Agency Co-host Greetings"
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator
+            who: dennis-papula
+          - name: Panelist
+            who: jason-hitchcock
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: antoinette-johnson #bio_id for this person 
+          - name: Panelist 
+            who: kate-sweeney
+          - name: Panelist 
+            who: mark-urban
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-12 11:00:00
+        time_end: 2022-10-12 11:05:00
+        session_id: day2break1
+        descrioption:
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2022-10-12 11:05:00
+        time_end: 2022-10-12 11:40:00
+        session_id: day2keynote
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: kimberly-knackstedt #bio_id for this person 
+          - name: Moderator
+            who: andrew-nielson
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Transition'
+        type: break
+        time_start: 2022-10-12 11:40:00
+        time_end: 2022-10-12 11:50:00
+        session_id: day2break2
+        description:
+      - name: 'General Session'
+        type: panel
+        time_start: 2022-10-12 11:50:00
+        time_end: 2022-10-12 12:30:00
+        session_id: day2panel1
+        subtitle: 'Using Technology to Enhance Intersectional Neurodiverse Accessibility at Work'
+        description: Neurodiversity/Neurodivergence has been defined the range of differences in individual brain function and behavioral traits, regarded as part of normal variation in the human population.  Neurodiversity also describes the idea that people experience and interact with the world around them in many different ways; there is no one "right" way of thinking, learning, and behaving, and differences are not viewed as deficits ( Singer 2016, Mottron 2004, Harvard 2022). As more companies broaden their investment in DEIA programs, more leaders are adding neuodiversity/neurodivergence to their business vocabularies and programming (DICE, 2021). However, while a growing number of companies are still refining HR processes to hire and retain neurodivere talent; at present, however,  there are still many barriers and more work needs to be done. This panel will briefly discuss what intersectional neurodiversity means, the business case for neurodiversity, how each panelist is expanding accessibility though technology for DEIA and for Neurodiverse people with the workplace, how success is measured, best practices and next steps to create  holistic inclusive workplaces.
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: rhonda-moore #bio_id for this person 
+          - name: Panelist
+            who: susan-daniels
+          - name: Panelist
+            who: paula-escuadra
+          - name: Panelist
+            who: lawrence-fung
+          - name: Panelist
+            who: jim-hogan
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Lunch'
+        type: break
+        time_start: 2022-10-12 12:30:00
+        time_end: 2022-10-12 13:00:00
+        session_id: day2break3
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 13:00:00
+        time_end: 2022-10-12 13:45:00
+        session_id: day2breakout1
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: "Workplace Mental Health - Why It's More Important Than Ever to Focus on the Mental Health of Your Employees."
+            track_id: day2breakout1a
+            description: Struggling with human emotions is a universal experience, yet mental health is a topic that gets stigmatized every day in our society. Mental health awareness is on the rise, particularly as COVID-19 continues to drive an epidemic of stress and burnout. That's why it's more important than ever for companies to prioritize employee well-being and mental health. This presents unique challenges in the workplace, going beyond just providing mental health options to creating a workplace in which all employees truly feel supported by employers and connected to one another. This presentation will share one agency's efforts to establish a work culture that embraces mental health, talks about it, and supports employee mental health through the establishment of an Employee Resource Group accessible to all employees and contractors within the National Science Foundation.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: wilson-alex #bio_id for this person 
+              - name: Presenter 
+                who: macey-cox 
+              - name: Presenter
+                who: emily-follit
+            downloads:
+              - link_name: Workplace Mental Health - IAAF 2022 (PPTX)
+                file_name: Workplace%20Mental%20Health%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: 'Striving for Universal Access: Image Descriptions'        
+            track_id: day2breakout1b
+            description: Since the summer of 2020, more than 1,000 fully accessible textual descriptions of works of art in the National Gallery of Art's collection have gone live and cover 60% of traffic to museum's collection pages. Learn how we leveraged a large-scale, interdepartmental project to make this a reality, from documenting the process through published description guidelines, to focusing on all users through an inclusive design approach which supports the National Gallery's mission for universal access.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: joyce-katie
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who:  lorena-bradford #use bio_id 
+              - name: Presenter
+                who: deanna-wood
+            downloads:
+              - link_name: Striving for Universal Access - IAAF 2022 (PPTX)
+                file_name: Striving%20for%20Universal%20Access%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-12 13:45:00
+        time_end: 2022-10-12 14:00:00
+        session_id: day2break4
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 14:00:00
+        time_end: 2022-10-12 14:45:00
+        session_id: day2breakout2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: "Beyond 508 Compliance: A Four-Point Hybrid Testing Approach"
+            track_id: day2breakout2a
+            description: For our new ONRR.gov site, we wanted to ensure the site is accessible from the start. We decided to use a four-point hybrid testing approach. The first step is running automated Lighthouse accessibility reports. We followed up with manual testing with NVDA screen reader. We then worked with a SME with visual disability to review the website. Finally, we iterated the needed fixes with our developer. We'll present learnings from this process.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: oden-dennis
+              - name: Presenter
+                who: lindsay-goldstein
+              - name: Presenter
+                who: christine-thomas
+            downloads:
+              - link_name: Beyond 508 Compliance - A Four-Point Hybrid Testing Approach - IAAF 2022 (PPTX)
+                file_name: Beyond%20508%20Compliance%20-%20A%20Four-Point%20Hybrid%20Testing%20Approach%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: "Mission Accessible Getting the Job Done"
+            track_id: day2breakout2b
+            description: "Mission Accessible, inspired by Mission Impossible, consists of five daily missions delivered via email. Each mission, usually no more than 5 minutes, is focused on one of the following areas ':' Vision, Hearing, Mobility, Speech, and Cognitive. Those participating report out if they completed it and any other observations. It can help people walk in someone else's shoe while learning about features they may not have been aware of (e.g., dictation, and using short cut keys)."
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: tim-creagan
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: angela-watkins #use bio_id
+            downloads:
+              - link_name: Mission Accessible - IAAF 2022 (PPTX)
+                file_name: Mission%20Accessible%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-12 14:45:00
+        time_end: 2022-10-12 15:00:00
+        session_id: day2break5
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-12 15:00:00
+        time_end: 2022-10-12 15:45:00
+        session_id: day2breakout3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'Phases of "Advancing Accessibility" in a Small Agency'
+            track_id: day2breakout3a
+            description: "Sharing Phases of \"Advancing Accessibility\": <ul><li>Awareness - People learn about the topic of accessibility</li><li>Acknowledgment - People accept that accessibility is important or how it impacts them and the way they work</li><li>Adaption - People start to change their behavior about accessibility</li><li>Adoption - People's changed behavior becomes habit when considering accessibility</li><li>Advocacy - People help and encourage others to adhere to and apply better behaviors regarding accessibility</li></ul>"
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: avis-ryan
+              - name: Presenter
+                who: marcelle-salley-owens
+              - name: Presenter
+                who: angela-watkins  
+            downloads:
+              - link_name: Advancing Accessibility within a Small Agency - IAAF 2022 (PPTX)
+                file_name: Advancing%20Accessibility%20within%20a%20Small%20Agency%20-%20IAAF%202022.pptx
+          - name: 'Track B: Create Amazing Content'
+            name_breakout: "The UniDescription Project: Audio Describing the World, One Brochure at a Time"         
+            track_id: day2breakout3b
+            description: "For years, the National Park Service and University of Hawaii have partnered to audio describe print brochures. The results: A website rich with resources, open source editing tools, hundreds of trained staff, and over 160 brochures available on an app. All results are informed by research, and collaborators who are blind or low vision. This presentation will provide background, demo the audio description tools you can use, and hear a collaborator's perspective."
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: wilkes-martha #use bio_id
+              - name: Presenter 
+                who: michelle-hartley 
+              - name: Presenter
+                who: brett-oppegaard
+              - name: Presenter
+                who: patrick-sheehan
+            downloads:
+              - link_name: The UniDescription Project - IAAF 2022 (PPTX)
+                file_name: The%20UniDescription%20Project%20-%20IAAF%202022.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2022-10-12 15:45:00
+        time_end: 2022-10-12 16:00:00
+        session_id: day2close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 3
+    time_start: 2022-10-13 10:00:00
+    time_end: 2022-10-13 16:30:00
+    sessions: 
+      - name: 'Opening Remarks'
+        type: welcome
+        time_start: 2022-10-13 10:00:00
+        time_end: 2022-10-13 10:10:00
+        session_id: day3welcome1
+        description:
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: daniel-pomeroy #bio_id for this person 
+      - name: 'Welcome'
+        type: welcome
+        time_start: 2022-10-13 10:10:00
+        time_end: 2022-10-13 10:25:00
+        session_id: day3welcome2
+        description: 
+        subtitle: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: katy-kale #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-13 10:25:00
+        time_end: 2022-10-13 10:35:00
+        session_id: day3general1
+        description: 
+        subtitle: "Government-wide IT Accessibility Program Update"
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: andrew-nielson #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 10:35:00
+        time_end: 2022-10-13 10:50:00
+        session_id: day3break1
+        descrioption:
+      - name: 'Greetings and Keynote Introduction'
+        type: welcome
+        time_start: 2022-10-13 10:50:00
+        time_end: 2022-10-13 11:05:00
+        session_id: day3keynoteintro1
+        description: 
+        subtitle: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: krystal-brumfield #bio_id for this person
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2022-10-13 11:05:00
+        time_end: 2022-10-13 11:40:00
+        session_id: day3keynote
+        roles: #list each roles as you intend the display on the page
+          - name:  #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: day-al-mohamed #bio_id for this person 
+          - name: Moderator
+            who: andrea-oneal
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 11:40:00
+        time_end: 2022-10-13 11:50:00
+        session_id: day3break2
+        description:
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-13 11:50:00
+        time_end: 2022-10-13 12:35:00
+        session_id: day3breakout1
+        description: "The Intelligence Community (IC) Information Technology (IT) Accessibility Program Maturity Model, which we developed with the IC IT Accessibility Program Community of Interest (COI). This model was designed to help the Director of National Intelligence (DNI), the IC Chief Information Officer, and IC Elements assess effectiveness of their IT accessibility programs, identify gaps, and help develop the necessary capabilities to improve future performance."
+        subtitle: 'Accessibility Maturity Models'
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator
+            who: michael-horton
+          - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: nancy-casper #bio_id for this person 
+          - name: Presenter
+            who: shannon-paschel
+          - name: Presenter
+            who: rosemary-speers
+        downloads:
+              - link_name: Accessibility Maturity Models - IAAF 2022 (PPTX)
+                file_name: Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2022-10-13 12:35:00
+        time_end: 2022-10-13 13:00:00
+        session_id: day3break3
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 13:00:00
+        time_end: 2022-10-13 13:45:00
+        session_id: day3breakout2
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'WCAG 3 - Current Status and Ways to Get Involved'            
+            track_id: day3breakout2a
+            description: "The Accessibility Guidelines Working Group is working on WCAG 3, the next generation of digital accessibility standards. This presentation will:<ol><li>Review the goals for WCAG 3</li><li>Discuss the current status of the work</li><li>Provide an opportunity for immediate feedback</li><li>Review ways to keep up to date and provide ongoing feedback.</li></ol>"
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: bruce-bailey
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: rachael-montgomery #use bio_id 
+            downloads:
+              - link_name: WCAG 3 - IAAF 2022 (PPTX) 
+                file_name: WCAG%203%20-%20IAAF%202022.pptx
+          - name: 'Track B: Section 508 Wildcard'
+            name_breakout: 'Best Practices for Achieving Digital Accessibility'            
+            track_id: day3breakout2b
+            description: "Federal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviFederal acquisition processes for procuring Information and Communication Technology (ICT) provide key opportunities to ensure accessible technology is purchased. Best Practices are shared on how Federal Agencies procure accessible ICT as required by Section 508 of the Rehabilitation Act. The audience is guided through key acquisition lifecycle stages and shows how and when to incorporate digital accessibility requirements. Accessibility Conformance Report creation and evaluation is also reviewed."
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: small-elizabeth #use bio_id
+              - name: Presenter
+                who: betsy-sirk
+            downloads:
+              - link_name: Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX) 
+                file_name: Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 13:45:00
+        time_end: 2022-10-13 14:00:00
+        session_id: day3break4
+        descrioption:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2022-10-13 14:00:00
+        time_end: 2022-10-13 14:45:00
+        session_id: day3breakout3
+        tracks:
+          - name: 'Track A: Lead Our Agencies Toward Access'
+            name_breakout: 'A Different Perspective for Looking at Accessibility'
+            track_id: day3breakout3a
+            description: 'In 2022 the 1-in-4 Americans with disabilities continue to experience inequities due to accessibility barriers to electronic information technology (EIT). Access to EIT is a civil right. Even when provided with a reasonable accommodation PWD must identify their own work-a-rounds to reduce barriers. Join us to experience the world from an alternative point of view as panelist share tips and tricks they use daily to increase their productivity and opportunities for inclusion in the workplace.'
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: wilkes-martha
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: annette-carr #bio_id for this person
+            downloads:
+              - link_name: A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)
+                file_name: A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx
+          - name: 'Track B: Section 508 Wildcard'
+            name_breakout: 'Demystifying Section 508: Creating and Evaluating Accessibility Conformance Reports'            
+            track_id: day3breakout3b
+            description: The US Federal Government buys more Information and Communication Technology (ICT) than it builds. To ensure the most accessible ICT is purchased, the Government relies on Industry to provide Accessibility Conformance Reports (ACRs). This presentation shows how ACR creation is a win-win situation for Industry and Government. NASA shares its guide to help industry develop ACRs and promote an understanding of Section 508 by both Industry and Government. Best practices in ACR evaluation are shared.
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator
+                who: angela-watkins
+              - name: Panelist #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: antonio-haileselassie #use bio_id 
+              - name: Panelist
+                who: betsy-sirk
+            downloads:
+              - link_name: Demystifying Section 508 - IAAF 2022 (PPTX) 
+                file_name: Demystifying%20Section%20508%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2022-10-13 14:45:00
+        time_end: 2022-10-13 15:00:00
+        session_id: day3break5
+        descrioption:
+      - name: 'General Session'
+        type: general
+        time_start: 2022-10-13 15:00:00
+        time_end: 2022-10-13 15:45:00
+        session_id: day3general2
+        subtitle: "Unlocking The Power Of Accessibility - Recognizing & Embracing Your Superpower" 
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: yvette-gibson #bio_id for this person 
+          - name: Panelist
+            who: anjali-forber-pratt
+          - name: Panelist
+            who: sachin-pavithran
+          - name: Panelist
+            who: taryn-williams
+        downloads:
+          - link_name:
+            file_name:
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2022-10-13 15:45:00
+        time_end: 2022-10-13 16:00:00
+        session_id: day3close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: yvette-gibson #use bio_id
+          - name: 
+            who: stephen-harding
+        downloads:
+          - link_name: Chair and Committee Members - IAAF 2022 (PPTX) 
+            file_name: Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx            
+      - name: 'IAAF "After Party"' 
+        type: welcome
+        time_start: 2022-10-13 16:00:00
+        time_end: 2022-10-13 16:30:00
+        session_id: day3afterparty
+        subtitle: 'Stay online to connect with hosts, presenters, and participants from across the country.'
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: #bio_id for this person             

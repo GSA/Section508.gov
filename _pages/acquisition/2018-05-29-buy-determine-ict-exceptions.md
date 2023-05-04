@@ -270,5 +270,5 @@ Contact your agency&rsquo;s [Section 508 Coordinator][10] or email us at <sectio
  [6]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E101-general
  [7]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [8]: {{site.baseurl}}/buy/determine-ict-standards
- [9]: {{site.baseurl}}/buy/accessibility-requirements-tool
- [10]: {{site.baseurl}}/tools/coordinator-listing
+ [9]: {{site.baseurl}}/art/
+ [10]: {{site.baseurl}}/tools/program-manager-listing/

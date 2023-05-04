@@ -6,3 +6,5 @@ node_modules
 .jekyll-cache/
 .idea
 .DS_Store
+Gemfile.lock
+package-lock.json

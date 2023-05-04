@@ -21,9 +21,9 @@ The Glossary items correspond to titles of available Quick Links. You can search
 
 <!----------------------------------------->
 
-<div id="C" class="term-heading" role="rowheader">
+<h3 id="C" class="term-heading">
   Call (Contact/Help Desk) Center Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -36,15 +36,11 @@ Service deliverables relevant to Section 508 considerations are EIT Information 
 
 The EIT-related service deliverables are contractor provided operation, maintenance and/or support of ongoing government Call Center activities. Call Centers, also called Contact Centers and Help Desks can include inbound (from customers) or outbound (to customers) or blended (inbound and outbound) calls. Call Centers also can include a variety of media including telephony, email and internet chat. Other Call Center technologies include automatic call distribution for incoming calls what ever the media and automated dialing for outbound telephony.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Cloud Computing
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -91,15 +87,11 @@ Security is a main concern for government. There is a need to verify security at
 
 Cloud Computing may involve a dedicated server, telecommunications products, computers and computer hardware, but these are additional EIT deliverables that require Government Product Accessibility Templates.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!------------------------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Computer-based Training
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -117,15 +109,11 @@ In addition, if training information is intended to be made available in a multi
 
 If acquisition of telecommunications products or information kiosks or computer hardware is required to deliver the training these are additional EIT deliverables requiring their own Government Product Accessibility Templates.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Computer Monitor
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -145,15 +133,11 @@ The first computer monitors used Cathode ray tubes (CRTs), which was the dominan
 
 Originally, computer monitors were used for data processing while television receivers were used for entertainment. From the 1980s onwards, computers (and their monitors) have been used for both data processing and entertainment, while televisions have implemented some computer functionality. The common aspect ratio of televisions, and then computer monitors, has also changed from 4:3 to 16:9."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Computer Printer and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -184,17 +168,11 @@ Most computer printers include driver software and some, for example dye sublima
 
 Maintenance for Computer Printers includes driver and application software updates and must conform to applicable Section 508 Standards from Section 1194.21, even if they are not actually used.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="D" class="term-heading" role="rowheader">
+<h3 id="D" class="term-heading">
   Data Services or Information Retrieval Systems
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -219,15 +197,11 @@ Service deliverables relevant to Section 508 considerations are EIT Information 
 
 EIT-related labor hour deliverables included in this Quick Link are contractor provided management, operation, maintenance and/or support of government data services or information retrieval systems. There is no standard or quasi-standard (e.g. Wikipedia) definition for data services. Date services and information retrieval systems are generally a combination of software and web applications for accessing and integrating data across organizations and components within organizations.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Desktop/Portable Computer and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -257,15 +231,11 @@ Maintenance for Portable Computers covers keyboards, keypads, touchscreens, styl
 
 Maintenance for Portable Computers covers monitors included with portable computers.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Digital Camera
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -281,17 +251,11 @@ Digital cameras can do things film cameras cannot: displaying images on a screen
 
 Digital cameras contain embedded software that can perform a variety of image processing functions. In addition, digital cameras often come with software that can be loaded on a computer for use in image processing camera images that must conform to Section 508, even if there is no intention of using it.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   eBooks
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -303,15 +267,11 @@ An electronic book (also e-book, ebook, digital book) is a book-length publicati
 
 Note: eBooks are moving toward a free open standard format called ePUB (electronic publication). ePub version 2.0.1 uses XHTML 1.1 to render the content of the eBbook. eBooks published in the ePUB format are subject to technical provisions included in Section 1194.22 Web-based Internet and Intranet Information and Applications and 1194.31 Functional Performance Criteria. eBooks published in proprietary formats are only subject to 1194.31 Functional Performance Criteria. eBook Content in proprietary formats, however, should be subject to technical requirements similar to 14 technical requirements included in 1194.22 (see Summary) to meet these Functional Performance Criteria.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   eBooks Reader
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -323,17 +283,12 @@ There are three Quick Links associated with eBooks: eBooks or publications in di
 
 An e-book reader is similar in form to a tablet computer. A tablet computer typically has a faster screen capable of higher refresh rates which makes them more suitable for interaction. The main advantages of e-book readers are better readability of their screens especially in bright sunlight and longer battery life. This is achieved by using electronic paper technology to display content to readers. Any device that can display text on a screen can act as an e-book reader, but without the advantages of the e-paper technology." ([http://en.wikipedia.org/wiki/Comparison\_of\_e-book_readers][2])
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
-<!----------------------------------------->
 
 <!--------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   eBooks Software
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -346,27 +301,20 @@ There are three Quick Links associated with eBooks: eBooks or publications in di
 
 Most eBook applications include a web-based user interface, while some use standard web browsers. In addition, some eBook software includes word processing functions for authoring eBooks.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
 
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Electronic Documents
-</div>
+</h3>
 
 "An electronic document is any electronic media content (other than computer programs or system files) that are intended to be used in either an electronic form or as printed output." (<http://en.wikipedia.org/wiki/Electronic_document>).
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div id="F" class="term-heading" role="rowheader">
+<h3 id="F" class="term-heading">
   Fax Only
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -378,15 +326,11 @@ A facsimile (fax) machine, "processes the contents (text or images) [of scanned,
 
 Internet or "online faxing" sends and receives document facsimiles via an Internet connection usually with a Web interface. No special equipment or software beyond computers, printers, and a Web browser are required. Fax machines may come with driver software. This software, whether it is used or not, is subject to Section 508 requirements, specifically 1194.21 Software Applications and Operating Systems.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div id="G" class="term-heading" role="rowheader">
+<h3 id="G" class="term-heading">
   GPS Navigation Device
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -421,15 +365,11 @@ Consumer GPS navigation devices include:
 
 This Quick Link is for Dedicated GPS navigation systems. Dedicated devices are typically two types, either handheld or devices intended for use in automobiles. GPS that are used in automobiles can be either mobile or a permanently installed component. Mobile automotive GPS systems can be used outside the car.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div id="I" class="term-heading" role="rowheader">
+<h3 id="I" class="term-heading">
   Information Content Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -447,15 +387,11 @@ EIT Information Content refers to the delivery of EIT-related expertise, and ski
 
 Further, the formats in which the knowledge is delivered might be EIT. The current Section 508 technical standards explicitly cover three types of delivery, namely web-based information, videos, and multimedia. Electronic documents and reports available from word processing, spreadsheet, presentation, graphic, and database software are covered through the provisions for information, documentation and support detailed in 1194.41. The software used by the service provider to create electronic documents does not have to conform to Section 508. The documents delivered using the software must conform.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Internet or Intranet Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -479,15 +415,11 @@ The EIT-related service deliverables in this Quick Link include contractor provi
 
 Finally, cloud computing is an Internet/Intranet Service, but there is a separate Quick Link specifically for Cloud Computing because of its increasing importance to federal agencies.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   IP Telephones
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -495,21 +427,15 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-This Quick Link refers only to IP phones. Traditional phones and cell phones are the subject of other Quick Link s. In addition, Plain Old Telephone Service (POTS), VoIP, and wireless telephone services are the subject of other Quick Links . In addition,. As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." (<https://www.access-board.gov/ict/guide/telecom_tutorial.html>)
+This Quick Link refers only to IP phones. Traditional phones and cell phones are the subject of other Quick Link s. In addition, Plain Old Telephone Service (POTS), VoIP, and wireless telephone services are the subject of other Quick Links . In addition,. As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." ([https://www.access-board.gov/ict/guide/telecom_tutorial.html][9])
 
 Different types of "telephones" and telephone services have proliferated in recent years. Wireless phones have all but replaced traditional telephones deliver communication over wires. "Voice over IP (VoIP) is a general term for a family of transmission technologies for delivery of voice communications over IP networks such as the Internet or other packet-switched networks. Other terms frequently encountered and synonymous with VoIP are IP telephony, Internet telephony, voice over broadband (VoBB), broadband telephony, and broadband phone." ([http://en.wikipedia.org/wiki/Voice\_over\_IP][5]). VoIP includes both Softphones and PC-based VoIP. Softphones look very much like traditional phones, but use the Internet or private IP Networks to communicate. PC-based VoIP uses a computer's microphone and speakers or headset to communicate. In addition, PC-based and Softphone-bases systems can interoperate.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="K" class="term-heading" role="rowheader">
+<h3 id="K" class="term-heading">
   Keyboards and Keypads
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -532,17 +458,12 @@ Keypads are defined in two ways by the Merriam-Webster dictionary:
 * "A small set of keys that is part of a larger keyboard or another device (such as a telephone or calculator)" (<https://www.merriam-webster.com/dictionary/keypad>)
 * "a small, usually numerical keyboard" (<https://www.merriam-webster.com/dictionary/keypad>)
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
 
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="M" class="term-heading" role="rowheader">
+<h3 id="M" class="term-heading">
   Management Information System Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -561,15 +482,11 @@ According to Wikipedia ([http://en.wikipedia.org/wiki/Management\_information\_s
 
 "An MIS is a planned system of the collecting, processing, storing and disseminating data in the form of information needed to carry out the functions of management. In a way it is a documented report of the activities that were planned and executed."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Mobile Application
-</div>
+</h3>
 
 Definition of Deliverable
 
@@ -577,17 +494,11 @@ A mobile app is a computer program designed to run on smartphones, tablet comput
 
 The term "app" is a shortening of the term "application software". (<http://en.wikipedia.org/wiki/Mobile_app>)
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Multifunction Machines and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -601,12 +512,6 @@ A multifunctional machine or multifunctional printer (MFP) "is an office machine
 Multifunctional machines typically include driver software and some come with application software to support advanced functionality such as optical character recognition, photo editing, etc. Both driver software and application software would be subject to Section 1194.21 Software applications and operating systems, even if there is no intention of using the application software.
 
 Maintenance for Multifunction Machine includes both driver and application software updates and must conform to applicable Section 508 Standards from Section 1194.21, even if they are not actually used.
-
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
-<!----------------------------------------->
 
 <!---------------
 
@@ -830,9 +735,9 @@ EIT-related labor hour service deliverables are contractor provided operation, m
 
 <!----------------------------------------->
 
-<div id="P" class="term-heading" role="rowheader">
+<h3 id="P" class="term-heading">
   Pointing Devices
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -856,17 +761,11 @@ Further, Pointing Devices are defined in Wikipedia as:
 
 "A pointing device is any human interface device that allows a user to input spatial data to a computer. In the case of mice and touch screens, this is usually achieved by detecting movement across a physical surface. Analog devices, such as 3D mice, joysticks, or pointing sticks , function by reporting their angle of deflection. Movements of the pointing device are echoed on the screen by movements of the cursor, creating a simple, intuitive way to navigate a computer's GUI."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="S" class="term-heading" role="rowheader">
+<h3 id="S" class="term-heading">
   Scientific Instruments
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -920,15 +819,11 @@ Scientific Instruments are part of laboratory equipment, but are considered more
 
 If a scientific instrument is integrated with a computer or a monitor, the computer (and associated operating system) and the monitor would be separate EIT deliverables, requiring their own Government Product Accessibility Templates (GPAT). If the computer included application software, this software would be another EIT deliverable requiring its own GPAT.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Server
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -963,15 +858,11 @@ Definition of Deliverable
 
 Server computers are often mistakenly considered as "back office" exceptions from Section 508 requirements. In general, server hardware is part of the back office as it is located in "spaces frequented only by service personnel for maintenance, repair, or occasional monitoring". However, servers have operating systems and application software that interacts with the user. Further, computer hardware is more than occasionally frequented. It is no much different than a desktop computer.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Smartphone and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -994,15 +885,11 @@ Smartphones include telecommunications functions. Maintenance of Smartphone will
 
 Many Smartphones are essentially PDAs with telecommunications functions. Maintenanace will cover Section 1194.26.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Software Development Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1043,15 +930,11 @@ According to Wikipedia (<http://en.wikipedia.org/wiki/Software_maintenance>)
 
 "Software maintenance in software engineering is the modification of a software product after delivery to correct faults, to improve performance or other attributes, or to adapt the product to a modified environment."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Software- Application and Operating System Software
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1228,15 +1111,11 @@ Definition of Deliverable
 
 The accessibility requirements for either application software or operating system software are the same.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Software-Driver Software
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1251,15 +1130,12 @@ Definition of Deliverable
 "In computing, a device driver or software driver is a computer program that operates or controls a particular type of device that is attached to a computer. A driver typically communicates with the device through the computer bus or communications subsystem to which the hardware connects. When a calling program invokes a routine in the driver, the driver issues commands to the device. Once the device sends data back to the driver, the driver may invoke routines in the original calling program. Drivers are hardware-dependent and operating-system-specific. They usually provide the interrupt handling required for any necessary asynchronous time-dependent hardware interface."  
 (<http://en.wikipedia.org/wiki/Device_driver>)
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
 
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Software Maintenance Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1293,15 +1169,11 @@ A **programmer** is responsible for writing source code, but a **developer** cou
 
 There are no differences in the roles however in terms of the applicability of Section 508 provisions.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!--------------------------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Systems Administration
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1333,17 +1205,11 @@ According to Wikipedia (<http://en.wikipedia.org/wiki/System_administrator>):
 
 Systems Administrators "are usually charged with installing, supporting, and maintaining servers or other computer systems, and planning for and responding to service outages and other problems. Other duties might include scripting or light programming, project management for systems-related projects, supervising or training computer operators, and being the consultant for computer problems beyond the knowledge of technical support staff. A system administrator must demonstrate a blend of technical skills and responsibility in order to perform their job well."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="T" class="term-heading" role="rowheader">
+<h3 id="T" class="term-heading">
   Telephone Services (not including VoIP)
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1352,21 +1218,15 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-This Quick Link refers only to Traditional Plain Old Telephone Service (POTS). Voice over Internet Protocol (VoIP) and wireless telephone service are the subject of other Quick Links . In addition, telephones, both traditional and IP phones are also the subject of Quick Links . As the Access Board states, "Federal procurement officials need to understand that each product in the t ransmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." (<http://www.access-board.gov/sec508/telecomm-course.htm#Transmission/Conducting%20Information>)
+This Quick Link refers only to Traditional Plain Old Telephone Service (POTS). Voice over Internet Protocol (VoIP) and wireless telephone service are the subject of other Quick Links . In addition, telephones, both traditional and IP phones are also the subject of Quick Links . As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." (<https://www.access-board.gov/ict/guide/telecom_tutorial.html>)
 
 "Plain old telephone service (POTS), which is the voice-grade telephone service that remains the basic form of residential and small business service connection to the telephone network in most parts of the world. The name is a retronym, and is a reflection of the telephone service still available after the advent of more advanced forms of telephony such as ISDN, mobile phones and VoIP. POTS has been available almost since the introduction of the public telephone system in the late 19th century, in a form mostly unchanged to the normal user despite the introduction of Touch-Tone dialing, electronic telephone exchanges and fiber-optic communication into the public switched telephone network (PSTN)." ([http://en.wikipedia.org/wiki/Plain\_old\_telephone_service][8])
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="V" class="term-heading" role="rowheader">
+<h3 id="V" class="term-heading">
   VoIP Services
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1375,21 +1235,17 @@ UNSPSC Code:
 
 Definition of Deliverable
 
-This Quick Link refers only to VoIP. Traditional Plain Old Telephone Service (POTS), and wireless telephone service are the subject of other Quick Links. In addition, telephones, traditional, cell, and IP phones are also the subject of Quick Links . As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." ([http://www.access-board.gov/sec508/telecomm-course.htm#Transmission/Cond...][9])
+This Quick Link refers only to VoIP. Traditional Plain Old Telephone Service (POTS), and wireless telephone service are the subject of other Quick Links. In addition, telephones, traditional, cell, and IP phones are also the subject of Quick Links . As the Access Board states, "Federal procurement officials need to understand that each product in the transmission path must be examined for compliance with this provision. The overall telecommunications system (both services and hardware) must be selected to ensure that valid signals will not be corrupted along the way to the user." ([https://www.access-board.gov/ict/guide/telecom_tutorial.html][9])
 
 "Voice over IP (VoIP) is a general term for a family of transmission technologies for delivery of voice communications over IP networks such as the Internet or other packet-switched networks. Other terms frequently encountered and synonymous with VoIP are IP telephony, Internet telephony, voice over broadband (VoBB), broadband telephony, and broadband phone." ([http://en.wikipedia.org/wiki/Voice\_over\_IP][5]). VoIP includes both Softphones and PC-based VoIP. Softphones look very much like traditional phones, but use the Internet or private IP Networks to communicate. PC-based VoIP uses a computer's microphone and speakers or headset to communicate. In addition, PC-based and Softphone-bases systems can interoperate.
 
 VoIP is a telecommunications service, if telecommunications products, such as IP phones, Webcams, microphones, headphones or IP telephones are also needed, these products are additional deliverables that require their own Government Product Accessibility Templates.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Video and Imaging Input Devices
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1416,15 +1272,11 @@ Further, Imaging and Video Input Devices are defined in Wikipedia as:
 
 "Video input devices are used to digitize images or video from the outside world into the computer. The information can be stored in a multitude of formats depending on the user's requirement."
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Video Teleconferencing and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1463,17 +1315,11 @@ There are basically two kinds of VTC systems:
 
 Video teleconferencing systems typically involve both software and Web applications. Maintenance for Video-Teleconferencing includes any new, modifications, patches, updates, etc to software applications, drivers and web-applications that are explicitly included in the maintenance SOW.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<!----------------------------------------->
-
-<div id="W" class="term-heading" role="rowheader">
+<h3 id="W" class="term-heading">
   Web Application and Maintenance
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1657,15 +1503,11 @@ Web Application Maintenance applies to any new, modifications, patches, updates,
 
 Web Application Maintenance applies to any new, modifications, patches, updates, etc to video and multi-media productions that are explicitly included in the maintenance SOW.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Web-based Collaboration Tools
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1694,15 +1536,11 @@ Other typical features of a web conference include:
 
 Web conferencing is often sold as a service, hosted on a web server controlled by the vendor. Offerings vary per vendor but most hosted services provide a cost per user per minute model, a monthly flat fee model and a seat model. Some vendors also provide a server side solution which allows the customer to host their own web conferencing service on their own servers." (<http://en.wikipedia.org/wiki/Web_conferencing>)
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Web-based Information, Documentation and Support
-</div>
+</h3>
 
 &nbsp;
 
@@ -1722,15 +1560,11 @@ Overall, the following guidelines for information, documentation and support sho
 
 Service deliverables generally include information and documentation in the form of reports. Since these reports are shared in electronic formats, either as email attachments or posted on internal and/or external websites, all electronic documents should be accessible.
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
 <!----------------------------------------->
 
-<div class="term-heading" role="rowheader">
+<h3 class="term-heading">
   Web-based Training
-</div>
+</h3>
 
 UNSPSC Code:
 
@@ -1753,10 +1587,6 @@ A virtual program (or a virtual course of studies) is a study program in which a
 
 1194.22 Web-based intranet and Internet applications and information are the means of delivering training. If acquisition of telecommunications products (e.g. for Voice over Internet Protocol (VoIP)) or telecommunications services or information kiosks or computer products is also required, these are additional EIT deliverables, each requiring a Government Product Accessibility Template (GPAT).
 
-<div class="link-top">
-  <a href="#top">Top</a>
-</div>
-
  [1]: http://en.wikipedia.org/wiki/Computer-based_training#Computer-Based_Training
  [2]: http://en.wikipedia.org/wiki/Comparison_of_e-book_readers
  [3]: https://wiki.mobileread.com/wiki/E-book_software
@@ -1765,4 +1595,4 @@ A virtual program (or a virtual course of studies) is a study program in which a
  [6]: http://en.wikipedia.org/wiki/Input_device#High-degree_of_freedom_input_devices
  [7]: http://en.wikipedia.org/wiki/Management_information_systems
  [8]: http://en.wikipedia.org/wiki/Plain_old_telephone_service
- [9]: http://www.access-board.gov/sec508/telecomm-course.htm#Transmission/Conducting%20Information
+ [9]: https://www.access-board.gov/ict/guide/telecom_tutorial.html

@@ -42,7 +42,7 @@ Provide the number (#) evaluated and percentage (%) conformant with technical st
   * Number of Internet web pages evaluated (numeric value only - no commas)
   * Percent (%) of Internet web pages found to be conformant (numeric value only - no percentage sign)
   * Number of Intranet web pages evaluated (numeric value only - no commas)
-  * Percent (%) of Intranet web pages evaluated (numeric value only - no percentage sign)
+  * Percent (%) of Intranet web pages found to be conformant (numeric value only - no percentage sign)
 
   
-**Reviewed/Updated**: December 2019
+**Reviewed/Updated**: January 2023

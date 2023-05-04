@@ -18,15 +18,17 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
 <p>Take advantage of high volume (automated) 508 compliance scanning tools, but be aware of their limitations.</p>
 
 
-<ul role="list">
-<li role="listitem">Automated scanning tools cannot apply human subjectivity, and therefore either produce excessive false positives or&mdash;when configured to eliminate false positives&mdash;test for only a small portion of the requirements.</li>
-<ul role="list">
-<li role="listitem">Determine the best strategic mix of false-positive generation vs. coverage of your agency requirements by ensuring the tool vendor defines and quantifies the method and accuracy of its rule sets in regard to its alignment with your agency&rsquo;s standards and expectations.</li>
-</ul>
-<li role="listitem">Consider whether or how server-based automated scanning tools will be able to access content secured behind firewalls and password- or otherwise protected content.</li>
-<li role="listitem">Select tools that test using the document&rsquo;s native format. Tools that scan documents often convert files into HTML before testing. This conversion process reduces the fidelity and accuracy of conformance testing.</li>
-<li role="listitem">Your agency may need to deploy multiple scanning tools to cover multiple content types (e.g., HTML, Word, Excel, and PDF). It can be a challenge to extract and aggregate results to identify trends and focus remediation efforts.</li>
-<li role="listitem">Plan and deliver reporting tailored to your stakeholders. You may want to provide output from scanning tools directly to developers. Additional work may be required to integrate results into dashboard reporting to tell your organizational story.</li>
+<ul>
+  <li>Automated scanning tools cannot apply human subjectivity, and therefore either produce excessive false positives or&mdash;when configured to eliminate false positives&mdash;test for only a small portion of the requirements.
+    <ul>
+      <li>Determine the best strategic mix of false-positive generation vs. coverage of your agency requirements by ensuring the tool vendor defines and quantifies the method and accuracy of its rule sets in regard to its alignment with your agency&rsquo;s standards and expectations.
+      </li>
+    </ul>
+  </li>
+  <li>Consider whether or how server-based automated scanning tools will be able to access content secured behind firewalls and password- or otherwise protected content.</li>
+  <li>Select tools that test using the document&rsquo;s native format. Tools that scan documents often convert files into HTML before testing. This conversion process reduces the fidelity and accuracy of conformance testing.</li>
+  <li>Your agency may need to deploy multiple scanning tools to cover multiple content types (e.g., HTML, Word, Excel, and PDF). It can be a challenge to extract and aggregate results to identify trends and focus remediation efforts.</li>
+  <li>Plan and deliver reporting tailored to your stakeholders. You may want to provide output from scanning tools directly to developers. Additional work may be required to integrate results into dashboard reporting to tell your organizational story.</li>
 </ul>
 
 
@@ -101,15 +103,16 @@ There are several ways to validate conformance to the   [Revised 508 Standards][
 <p>A hybrid testing approach is usually the best solution to handle a large volume of electronic content. Consider the following:</p>
 
 
-<ul role="list">
-<li role="listitem">Ensure developers build accessibility into code during development.</li>
-<li role="listitem">Whenever possible, perform manual testing prior to publishing new content.</li>
-<li role="listitem">Use stand-alone automated testing tools to identify obvious errors and augment manual testing.</li>
-<li role="listitem">Integrate automated rules sets into developer operations to add increased scale to 508 validation efforts for applications prior to release.</li>
-<ul role="list">
-<li role="listitem">Use automated scanning tools to scan as much electronic content as possible and periodically conduct manual testing on high priority published content. Focus on content that is returning poor test results in scans and is frequently accessed.</li>
-  </ul>
-  </ul>
+<ul>
+  <li>Ensure developers build accessibility into code during development.</li>
+  <li>Whenever possible, perform manual testing prior to publishing new content.</li>
+  <li>Use stand-alone automated testing tools to identify obvious errors and augment manual testing.</li>
+  <li>Integrate automated rules sets into developer operations to add increased scale to 508 validation efforts for applications prior to release.
+    <ul>
+    <li>Use automated scanning tools to scan as much electronic content as possible and periodically conduct manual testing on high priority published content. Focus on content that is returning poor test results in scans and is frequently accessed.</li>
+    </ul>
+  </li>
+</ul>
   
   
 </div>

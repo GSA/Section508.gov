@@ -42,7 +42,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
     
 <tr >
       <td>
-        <a href="{{site.baseurl}}/tools/coordinator-listing">Agency Section 508 Program Manager</a>
+        <a href="{{site.baseurl}}/tools/program-manager-listing/">Agency Section 508 Program Manager</a>
       </td>
       
       <td>
@@ -173,7 +173,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
             In collaboration with the Access Board, provide Section 508 technical assistance, tools, and workforce development support to Federal agencies.
           </li>
           <li>
-            Lead development and management of tools, such as <a href="{{site.baseurl}}">Section508.gov</a> and the <a href="{{site.baseurl}}/buy/accessibility-requirements-tool"> Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities.
+            Lead development and management of tools, such as <a href="{{site.baseurl}}">Section508.gov</a> and the <a href="{{site.baseurl}}/art/"> Accessibility Requirements Tool</a>, for use by the acquisition, IT, and Section 508 coordinator communities.
           </li>
         </ul>
       </td>

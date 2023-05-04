@@ -9,6 +9,10 @@ created: 1527019072
 
 ## 2022
 ### IT Accessibility Community Meetings
+December 7, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers shared what CDC is doing currently and planning around the need for accessible communication that is plain, clear, and inclusive, and will share some examples of recent work. Additionally, the speakers discussed how the world around us is shaped by our perspective, and so is our understanding of what we call disabilities.
+
+* [Captioned Text - DEC 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-DEC2022%29.docx)
+
 June 14, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
 * [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
@@ -164,7 +168,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
 [8]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2020%29.docx
 [9]: https://assets.section508.gov/files/Access-Israel-at-U.S-GSA-%28ITACM-2020-12-01%29.pptx
 [10]: https://assets.section508.gov/files/Section-508-in-2020–The-Year-in-Review-%28ITACM-2020-12-01%29.pptx
-[11]: {{site.baseurl}}/buy/accessibility-requirements-tool
+[11]: {{site.baseurl}}/art/
 [12]: https://srt.app.cloud.gov/
 [13]: https://assets.section508.gov/files/Captioned Text (ITACM - AUG2020).docx
 [14]: https://assets.section508.gov/files/Sections-of-the-Rehabilitation-Act-of-1973-%28ITACM-AUG_2020%29%20%281%29.pptx

@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: wide
 sidenav: false
 permalink: content/guide-accessible-web-design-development/
-type: page
+type: develop
 title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
+contributors: usab
+description: "Guide to Accessible Web Design & Development"
 ---
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
@@ -130,9 +132,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
   * User must be able to configure auto-updates to content.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="captcha">
   CAPTCHA
@@ -150,9 +149,6 @@ If the purpose of non-text content is to confirm the content is being accessed b
 
   * Select a CAPTCHA provider that is already conformant to 508 standards. 3rd party CAPTCHA tools generally do not allow customization. Select a CAPTCHA that does not rely on images.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="changing_content">
   Changing (Dynamic) Content
@@ -185,9 +181,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
   * Best Practice: Do not use content that automatically moves, blinks, or scrolls.
   * User must be able to configure auto-updates to content.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="contrast">
   Contrast
@@ -211,9 +204,6 @@ The visual presentation of text and images of text has a contrast ratio of at le
   * Test color contrast with the [WebAIM color contrast checker][4]
   * Ensure style guidelines for your organization meet the minimum contrast requirements.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="flashing">
   Flashing
@@ -227,9 +217,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 
 Best Practice: Do not have content that flashes.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="forms">
   Forms
@@ -358,9 +345,6 @@ For web pages that cause legal commitments or financial transactions for the use
 
   * If your form is of the covered type, choose from the available options (Reversible, Checked, Confirmed) to meet this requirement.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="frames_iFrames">
   Frames & iFrames
@@ -382,9 +366,6 @@ A mechanism is available to bypass blocks of content that are repeated on multip
       * [H64: Using the title attribute of the frame and iframe elements][13]
   * iFrames - Provide [accessible name/accessible description][14] for each &lt;iframe&gt;
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="headings">
   Headings
@@ -410,9 +391,6 @@ Information, structure, and relationships conveyed through presentation can be p
       * Best Practice: Do not skip heading levels or go out of sequence. If the default size of the headings is too big for the look you have in mind, use styles to change the size, rather than jumping down to a lower heading level.
   * Do not use heading tags <h1> through <h6> for non-heading content
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="images">
   Images
@@ -492,9 +470,6 @@ For all user interface components (including but not limited to: form elements; 
 
   * Provide the name, role, state, value of all components.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="keyboard_and_focus">
   Keyboard and Focus
@@ -559,9 +534,6 @@ When any component receives focus, it does not initiate a change of context.
 
 Don't use javascript to perform a function that changes the page's context on the focus event (onfocus).
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="language">
   Language
@@ -599,9 +571,6 @@ The human language of each passage or phrase in the content can be programmatica
 
   * For passages in a language other than the default language of the page, place a lang attribute with the appropriate value on the element or a parent element that contains the passage.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="links_and_buttons">
   Links and Buttons
@@ -628,9 +597,6 @@ This requirement covers both links and buttons.
     * ARIA links do not have any native styling or functionality, so you will need to add things like keyboard support, underline and color.
     * Use CSS to change the cursor to a pointer (in most browsers this looks like a hand). If you don't, the cursor will look like a text selector, which will be confusing to sighted users.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="multiple_ways">
   Multiple Ways
@@ -650,9 +616,6 @@ More than one way is available to locate a web page within a set of web pages ex
     * A list of links to all other web pages
     * Linking to all of the pages on the site from the home page
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="page_title">
   Page Title
@@ -686,9 +649,6 @@ Web pages have titles that describe topic or purpose.
     </head>
     {% endraw %}{% endhighlight %}
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="parsing">
   Parsing
@@ -706,9 +666,6 @@ Note: Start and end tags that are missing a critical character in their formatio
   * Start and end tags that are missing a critical character in their formation, such as a closing angle bracket, or a mismatched attribute value quotation mark, are not complete.
   * IDs MUST be unique.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="repetitive_content">
   Repetitive Content
@@ -753,9 +710,6 @@ Components that have the same functionality within a set of web pages are identi
 
   * Building a website or web application using templates and reusable components provides familiarity and consistency for its users.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="resizable_text">
   Resizable Text
@@ -770,9 +724,6 @@ Except for captions and images of text, text can be resized without assistive te
   * Web pages should be designed to be "responsive" to the size of the display on which they are viewed. Performing a 200% zoom should not affect the content or functionality of the page.
   * If you need to specify height and width, using em units in padding can help keep things in proportion because em units are relative to font size.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="sensory_characteristics">
   Sensory Characteristics
@@ -794,9 +745,6 @@ Color is not used as the only visual means of conveying information, indicating 
 
   * Where color is used to convey meaning, include another visual element (like a symbol or text) to convey the same meaning.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="stylesheet">
   Stylesheet
@@ -831,9 +779,6 @@ When the sequence in which content is presented affects its meaning, a [correct 
 
   * Avoid using position: absolute to place content on page. It may not be read by in the correct order by assistive technology.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="synchronized_media">
   Synchronized Media
@@ -936,9 +881,6 @@ Where user controls are provided for program selection, ICT shall provide user c
 
   * Select a media player with caption controls and audio description controls that meet this requirement.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="tables">
   Tables
@@ -981,9 +923,6 @@ Information, structure, and relationships conveyed through presentation can be p
         </tbody>
     </table>
     {% endraw %}{% endhighlight %}
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="timed_events">
   Timed Events
@@ -1032,9 +971,6 @@ Failure to meet this requirement could interfere with any use of the page. Refer
 
   * Best Practice: Ensure that mechanism to control the content is easy to locate, is keyboard operable, and is clearly labelled as to its purpose.
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="wcag_conformance_requirements">
   WCAG Conformance Requirements
@@ -1127,9 +1063,6 @@ In addition, the following success criteria apply to all content on the page, in
   </li>
 </ul>
 
-<p dir="rtl">
-  <a href="#top">Back to Top</a>
-</p>
 
 <h2 id="other_resources">
   Other Resources
@@ -1143,7 +1076,7 @@ In addition, the following success criteria apply to all content on the page, in
 
 Created by the CIO Council’s [Accessibility Community of Practice][40], this information is presented in categories that align to the Baseline Tests for Revised 508 Standards, which cover all WCAG 2.0 Level A and AA requirements, and will be the basis of the updated [Trusted Tester][41] Test Process.
 
-**Reviewed/Updated**: March 2019
+**Reviewed/Updated**: January 2023
 
 
  [1]: https://www.w3.org/TR/WCAG20/

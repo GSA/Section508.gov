@@ -16,7 +16,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr"><a href="#user-controls">User Controls for Captions and Audio Descriptions</a></li>
 <li dir="ltr"><a href="#resources">Resources</a></li>
 </ul>
-<p dir="ltr">Reach out to your agency <a href="{{site.baseurl}}/tools/coordinator-listing">Section 508 Program Manager</a> or to the Government-wide IT Accessibility Program if you have any additional questions.</p>
+<p dir="ltr">Reach out to your agency <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a> or to the Government-wide IT Accessibility Program if you have any additional questions.</p>
 <h2 id="training-videos">Training Videos</h2>
 <hr />
 <div class="grid-row grid-gap">
@@ -74,7 +74,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Spoken words should have text equivalents. Sounds and other audio elements necessary to understand and enjoy the entertainment experience should be captioned. Audio elements that are often overlooked by captioners include additional information provided verbally for a text element on a presentation slide.</li>
 <li dir="ltr">The style of captioned elements (e.g., speaker names, sounds) should be consistent throughout a project.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
@@ -137,7 +137,7 @@ title: 'Create Accessible Synchronized Media Content'
 <li dir="ltr">Description should only occur during non-dialogue pauses; description should never occur over dialogue, musical numbers or sound effects unless absolutely necessary.</li>
 <li dir="ltr">Describers should ensure that elements important to the narrative are described before additional details are provided. If time allows, the describer can include additional descriptions about the setting, a character's physical appearance and/or clothing to enhance the experience.</li>
 </ul>
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;" class="border-base radius-lg">
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h3 dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp" target="_blank">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
@@ -187,7 +187,7 @@ title: 'Create Accessible Synchronized Media Content'
 </ul>
 <p><small>* B-roll is the supplemental or alternative video footage (photographs, and animation) captured for creating the video.<br /> ** Transcript is a text description of the video content to ensure equal understanding of information.</small></p>
 <br />
-<div><center><img style="width: 100%;" src="https://assets.section508.gov/files/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></center></div>
+<div><img style="width: 100%;" src="https://assets.section508.gov/files/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
 <br />
 <p><strong>NOTE:</strong> As federal agencies can establish policy and design guidelines which meet or exceed the minimum standards of Section 508 (for example, an agency requires open captions for all videos), producers should confirm agency requirements when planning new media content.</p>
 <br />
@@ -213,7 +213,7 @@ title: 'Create Accessible Synchronized Media Content'
 </div>
 </div>
 <hr />
-<div class="border-base radius-lg border-1px" style="width: 100%; background-color: #f5f9fc; padding: 5px;">
+<div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
 <h3 dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
@@ -222,15 +222,16 @@ title: 'Create Accessible Synchronized Media Content'
 </div>
 <p class="rteright"><a href="#top">Back to Top</a></p>
 <h2 dir="ltr"><strong>Checklist</strong></h2>
-<br />
-<table role="presentation" class="usa-table">
+<table class="usa-table">
+<thead>
+    <tr>
+        <th scope="col" style="background-color: #007eb5; color: #ffffff;">ID</th>
+        <th scope="col" style="background-color: #007eb5; color: #ffffff;">Program Type</th>
+        <th scope="col" style="background-color: #007eb5; color: #ffffff;">Yes/No</th>
+        <th scope="col" style="background-color: #007eb5; color: #ffffff; width: 50%;">Notes</th>
+    </tr>
+</thead>
 <tbody>
-<tr>
-<td style="background-color: #007eb5; color: #ffffff;">ID</td>
-<td style="background-color: #007eb5; color: #ffffff;">Program Type</td>
-<td style="background-color: #007eb5; color: #ffffff;">Yes/No</td>
-<td style="background-color: #007eb5; color: #ffffff; width: 50%;">Notes</td>
-</tr>
 <tr>
 <td>1.0</td>
 <td>Video Program with Sound</td>

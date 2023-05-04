@@ -19,7 +19,7 @@ Although there are other possible methods to complete an ACR, this part of the g
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col">The VPAT&reg; is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
     <div class="tablet:grid-col" style="text-align: center">
-        <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" alt="" aria-labelledby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" alt="ITI's VPAT" aria-describedby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
         <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT&reg; Homepage</span></div>
     </div>
   </div>
@@ -40,7 +40,7 @@ Although there are other possible methods to complete an ACR, this part of the g
     </ul>
     </div>
     <div class="tablet:grid-col" style="text-align: center">
-        <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" alt="" aria-labelledby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" alt="VPAT 2.4" aria-describedby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
         <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT&reg; v2.4</span></div>
     </div>
   </div>
@@ -270,7 +270,7 @@ Below is an example of what these three columns look like for the Revised Sectio
   </li>
 </ul>
 
-**Reviewed/Updated**:  July 2022
+**Reviewed/Updated**:  November 2022
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: https://www.itic.org/policy/accessibility/vpat

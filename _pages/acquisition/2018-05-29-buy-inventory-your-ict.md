@@ -122,69 +122,71 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
 
 Use the chart below to figure out which ICT items will need a checklist, for solicitations that include multiple ICT products, services, or components. Note, the [Accessibility Requirements Tool (ART)][11] will generate a list of accessibility requirements for each ICT item, and compile them into one requirements listing, broken out by ICT Item.
 
-<table role="presentation" class="table table-responsive usa-table usa-table--borderless usa-table--striped">
-  <tbody>
+<table class="table table-responsive usa-table usa-table--borderless usa-table--striped">
+  <thead>
     <tr>
-      <td>
+      <th scope="col">
         <h3>
           <strong>Type of ICT Item</strong>
         </h3>
-      </td>
-    <td>
+      </th scope="col">
+    <th scope="col">
         <h3>
           <strong>Checklists Needed</strong>
         </h3>
-      </td>
+      </th scope="col">
     </tr>
-<tr>
-      <td>
-        <p>
-          <strong>Single</strong> commercial off-the-shelf (COTS) item
-        </p>
-      </td>
-    <td>
-        <p>
-          Prepare <strong>one checklist</strong> for the item, including required support services and electronic documentation.
-        </p>
-      </td>
-    </tr>
-<tr>
-      <td>
-        <p>
-          <strong>Multiple</strong> commercial off-the-shelf (COTS) items
-        </p>
-      </td>
-    <td>
-        <p>
-          Prepare <strong>a separate checklist for each COTS item</strong>, including required support services and electronic documentation.
-        </p>
-      </td>
-    </tr>
-<tr>
-      <td>
-        <p>
-          <strong>Single</strong> custom developed, configured, or installed item that contains ICT
-        </p>
-      </td>
-    <td>
-        <p>
-          Prepare <strong>one checklist</strong> for the item, including all ICT components, as well as required support services and electronic documentation.
-        </p>
-      </td>
-    </tr>
-<tr>
-      <td>
-        <p>
-          <strong>Multiple</strong> custom developed, configured, or installed items that each contain ICT
-        </p>
-      </td>
-    <td>
-        <p>
-          Prepare a <strong>separate checklist for each item</strong>, including required support services and electronic documentation.
-        </p>
-      </td>
-    </tr>
-<tr>
+  </thead>
+  <tbody>
+    <tr>
+          <td>
+            <p>
+              <strong>Single</strong> commercial off-the-shelf (COTS) item
+            </p>
+          </td>
+        <td>
+            <p>
+              Prepare <strong>one checklist</strong> for the item, including required support services and electronic documentation.
+            </p>
+          </td>
+        </tr>
+    <tr>
+          <td>
+            <p>
+              <strong>Multiple</strong> commercial off-the-shelf (COTS) items
+            </p>
+          </td>
+        <td>
+            <p>
+              Prepare <strong>a separate checklist for each COTS item</strong>, including required support services and electronic documentation.
+            </p>
+          </td>
+        </tr>
+    <tr>
+          <td>
+            <p>
+              <strong>Single</strong> custom developed, configured, or installed item that contains ICT
+            </p>
+          </td>
+        <td>
+            <p>
+              Prepare <strong>one checklist</strong> for the item, including all ICT components, as well as required support services and electronic documentation.
+            </p>
+          </td>
+        </tr>
+    <tr>
+          <td>
+            <p>
+              <strong>Multiple</strong> custom developed, configured, or installed items that each contain ICT
+            </p>
+          </td>
+        <td>
+            <p>
+              Prepare a <strong>separate checklist for each item</strong>, including required support services and electronic documentation.
+            </p>
+          </td>
+        </tr>
+    <tr>
       <td>
         <p>
           ICT support services only
@@ -234,8 +236,8 @@ Contact your agency’s [Section 508 Coordinator][15] or email us at <section.50
  [8]: #5
  [9]: #6
  [10]: #7
- [11]: {{site.baseurl}}/buy/accessibility-requirements-tool
- [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [13]: {{site.baseurl}}/buy/determine-ict-exceptions
- [14]: {{site.baseurl}}/buy/determine-ict-standards
- [15]: {{site.baseurl}}/tools/coordinator-listing
+ [11]: {{site.baseurl}}/art/
+ [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
+ [13]: {{site.baseurl}}/buy/determine-ict-exceptions/
+ [14]: {{site.baseurl}}/buy/determine-ict-standards/
+ [15]: {{site.baseurl}}/tools/program-manager-listing/

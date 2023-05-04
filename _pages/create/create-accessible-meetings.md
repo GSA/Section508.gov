@@ -87,25 +87,22 @@ Confirm that the availability and accessibility of features is available for the
 <h2 dir="ltr" id="accommodate-audience-needs">Accommodate Audience Needs</h2>
 <p dir="ltr">Depending on the size of your meeting or event, and the technology and features selected for use, you should plan to build accessibility into each aspect of your meeting:</p>
 <ul>
-<li><p><strong>Accessible Documents:</strong> Presentation documents such as PowerPoint, Word, and PDF must be accessible and, whenever possible, distributed ahead of the meeting to allow attendees to pre-read or reference at their own pace during the meeting. For more information, visit <a href="{{site.baseurl}}/create">Create Accessible Digital Products</a>.</p></li>
-<li>
-<strong>Captioning:</strong> For attendees who are deaf or hard-of-hearing, conference materials that include an audio component should have a text version accompanying it (e.g., open or closed captioning). This includes all training and informational video and multimedia productions which support the agency’s mission (both live and pre-recorded).
-<ul>
-<li><i>Real-Time (Live):</i> Provide real-time, two-way captioning (e.g., <a href="https://www.federalrelay.us" target="_blank">Communication Access Realtime Translation (CART) available through your agency</a>) to enable participants to interact and participate in the meeting via a professional captioner. </li>
-<li><i>Automated:</i> Virtual platforms have increasingly integrated automated speech to text translation into their products. While these solutions may be serviceable for some, others may lack a human captioner’s ability to translate heavily accented speech, acronyms and jargon, as well as provide an indication of speaker change, grammar and punctuation. Be prepared to provide professional real-time, human-generated captions. </li>
-</ul>
-</li>
-<li style="list-style-type: none;"><div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;">
-<strong>NOTE:</strong> Some virtual meeting platforms allow an untrained participant to type captions. This method is not recommended due to the difficulty in providing quality, synchronized translation. 
-</div></li>
-<li><strong>Sign Language Interpreters (ASL):</strong> Some deaf and hard-of-hearing participants may find it difficult to participate using captions (e.g., lots of reading is tiring, quality of captions due to garbled speech, reading or comprehension disabilities) and may request a sign language interpreter. Conversely, be aware there may be individuals who are deaf/hard-of-hearing in attendance who prefer not to use sign language to communicate and that they may require real-time captioning services.</li>
-<li><strong>Audio Descriptions:</strong> Blind and low-vision users who are unable to see visual information will rely on oral or pre-recorded audio that describes the text, images, graphics, charts, animations and video that comprise the visual portion of the presentation.</li>
-<li><strong>Other Communications Services:</strong> While captioning and ASL translation services are most commonly known, there are a number of other services that are available to individuals with disabilities such as Video Relay Service, Video Remote Interpreting, Captioned Telephone, and more. Additionally, print media may be made available in Braille and large print.</li>
-<li><strong>Maintain flexibility:</strong> Allow for as many different types of connections as possible (e.g. internet-based audio, telephone audio, audio only, video only) as some users' interpretation services might only be available via voice/telephone or might be the best option to meet their particular needs.</li>
-<li><strong>Moderators and Technical Support:</strong> Ensure that all participants have access to someone who can help them navigate the technical environment. Remember that not everyone uses, or is familiar with the platform being used for your meeting.</li>
-<li style="list-style-type: none;"><div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;">
-<strong>NOTE:</strong> When the participants are a group of individuals known personally by the organizer as not having any communication impairments, and when the meeting is not intended to be recorded or rebroadcast, accommodations services may not be required. Generally speaking, if you are not sure, ask.
-</div></li>
+  <li><strong>Accessible Documents:</strong> Presentation documents such as PowerPoint, Word, and PDF must be accessible and, whenever possible, distributed ahead of the meeting to allow attendees to pre-read or reference at their own pace during the meeting. For more information, visit <a href="{{site.baseurl}}/create">Create Accessible Digital Products</a>.</li>
+  <li><strong>Captioning:</strong> For attendees who are deaf or hard-of-hearing, conference materials that include an audio component should have a text version accompanying it (e.g., open or closed captioning). This includes all training and informational video and multimedia productions which support the agency’s mission (both live and pre-recorded).
+    <ul>
+      <li><i>Real-Time (Live):</i> Provide real-time, two-way captioning (e.g., <a href="https://www.federalrelay.us" target="_blank">Communication Access Realtime Translation (CART) available through your agency</a>) to enable participants to interact and participate in the meeting via a professional captioner. </li>
+      <li><i>Automated:</i> Virtual platforms have increasingly integrated automated speech to text translation into their products. While these solutions may be serviceable for some, others may lack a human captioner’s ability to translate heavily accented speech, acronyms and jargon, as well as provide an indication of speaker change, grammar and punctuation. Be prepared to provide professional real-time, human-generated captions. </li>
+    </ul>
+  </li>
+  <li style="list-style-type: none;"><div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;"><strong>NOTE:</strong> Some virtual meeting platforms allow an untrained participant to type captions. This method is not recommended due to the difficulty in providing quality, synchronized translation. </div></li>
+  <li><strong>Sign Language Interpreters (ASL):</strong> Some deaf and hard-of-hearing participants may find it difficult to participate using captions (e.g., lots of reading is tiring, quality of captions due to garbled speech, reading or comprehension disabilities) and may request a sign language interpreter. Conversely, be aware there may be individuals who are deaf/hard-of-hearing in attendance who prefer not to use sign language to communicate and that they may require real-time captioning services.</li>
+  <li><strong>Audio Descriptions:</strong> Blind and low-vision users who are unable to see visual information will rely on oral or pre-recorded audio that describes the text, images, graphics, charts, animations and video that comprise the visual portion of the presentation.</li>
+  <li><strong>Other Communications Services:</strong> While captioning and ASL translation services are most commonly known, there are a number of other services that are available to individuals with disabilities such as Video Relay Service, Video Remote Interpreting, Captioned Telephone, and more. Additionally, print media may be made available in Braille and large print.</li>
+  <li><strong>Reduce Background Noise and Other Sounds:</strong> For virtual, in-person, or hybrid meetings, host must ensure that the meeting environment is free from background noises and other sounds that may distract, discomfort, or potentially harm participants. As attendees adjust their speaker volume, and use headphones or hearing aids to amplify sounds, speakers and participants should select onsite venues, and prepare virtual meeting spaces that are free of extraneous noises and sounds such as traffic and construction, desktop and device alerts and notifications, office equipment, and our pets and little ones.</li>
+  <li><strong>Maintain flexibility:</strong> Allow for as many different types of connections as possible (e.g. internet-based audio, telephone audio, audio only, video only) as some users' interpretation services might only be available via voice/telephone or might be the best option to meet their particular needs.</li>
+  <li><strong>Moderators and Technical Support:</strong> Ensure that all participants have access to someone who can help them navigate the technical environment. Remember that not everyone uses, or is familiar with the platform being used for your meeting.</li>
+  <li style="list-style-type: none;"><div style="width: 100%; border: 1px solid black; background-color: #f5f9fc; padding: 5px;"><strong>NOTE:</strong> When the participants are a group of individuals known personally by the organizer as not having any communication impairments, and when the meeting is not intended to be recorded or rebroadcast, accommodations services may not be required. Generally speaking, if you are not sure, ask.
+  </div></li>
 </ul>
 <p class="rteright"><a href="#top">Back to top</a></p>
 
@@ -228,15 +225,15 @@ Conduct a dry-run or practice meeting and affirmed hosts, moderators and present
 <ul>
 <li dir="ltr">Establish communication with support team</li>
 <li dir="ltr">Turn your camera on, whenever possible, to enable lip reading</li>
-<li dir="ltr">Ensure proper microphone positioning</li>
+<li dir="ltr">Ensure proper microphone positioning, and enable noise reduction</li>
+<li dir="ltr">Prepare a quiet meeting space free of extraneous noises and sounds</li>
 <li dir="ltr">Wear high contrast clothing</li>
 <li dir="ltr">Ensure adequate lighting</li>
 <li dir="ltr">Welcome guests and establish (and enforce) meeting rules</li>
 <li dir="ltr">Inform attendees when meeting is being recorded, allowing sufficient time for individuals to turn off their camera and microphone, or disconnect from the meeting</li>
 <li dir="ltr">Ask that attendees ensure that their full name is displayed for reference</li>
-<li dir="ltr">
-Ask participants who joining by telephone to identify themselves by their number
-<ul><li dir="ltr">Note: Captioners typically call in to meetings by telephone</li></ul>
+<li dir="ltr">Ask participants who join by telephone to identify themselves by their number
+  <ul><li dir="ltr">Note: Captioners typically call in to meetings by telephone</li></ul>
 </li>
 <li dir="ltr">Ask whether all attendees have what they need for effective communication</li>
 <li dir="ltr">Describe what’s on the screen (this also helps people who are participating by telephone/audio only)</li>
@@ -251,7 +248,8 @@ Ask participants who joining by telephone to identify themselves by their number
 <li dir="ltr">Familiarize yourself with platform controls like volume, mute, and reduced noise</li>
 <li dir="ltr">Arrive on-time - if not a little early</li>
 <li dir="ltr">Ensure that your full name is spelled correctly for other participants to reference</li>
-<li dir="ltr">Understand and follow participation rules<p></p></li>
+<li dir="ltr">Understand and follow participation rules</li>
+<li dir="ltr">Remain muted when not speaking, and when speaking ensure that your meeting space is free of extraneous noises and sounds</li>
 <li dir="ltr">Participate using speech, chat, polls, Q&amp;A, and “raise hand”</li>
 </ul>
 <h3 dir="ltr">Tech Check</h3>
@@ -297,7 +295,6 @@ Fine tune your video
 <ul>
 <li dir="ltr"><a href="{{site.baseurl}}/create">Create Accessible Digital Products</a></li>
 <li dir="ltr"><a href="{{site.baseurl}}/create/universal-design">Universal Design and Accessibility</a></li>
-<li dir="ltr"><a href="https://www.gsa.gov/fedrelay/" class="ext">FedRelay</a></li>
 <li dir="ltr"><a href="https://www.w3.org/WAI/people-use-web/" class="ext">How People with Disabilities Used the Web</a> (W3C WCAG)</li>
 <li dir="ltr"><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf">Making Meetings Accessible</a> (CDC.gov)</li>
 <li dir="ltr"><a href="https://www1.nyc.gov/assets/mopd/downloads/pdf/virtual-meetings-accessibility-guide.pdf">NYC Accessible Virtual Meetings Guide</a> (NYC.gov)</li>
@@ -351,4 +348,4 @@ Meeting Platform Accessibility Guides
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
 
-**Reviewed/Updated:** March 2022
+**Reviewed/Updated:** February 2023

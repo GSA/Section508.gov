@@ -38,7 +38,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 {%- endif -%}
 
 <aside class="usa-layout-docs__sidenav desktop:grid-col-3 padding-bottom-4">
-    <nav aria-label="Secondary Navigation">
+    <nav id="sec-nav" aria-label="Secondary Navigation">
         <ul class="usa-sidenav menu">
             {%- for link in links -%}
             {%- assign href = link.url -%}
@@ -48,7 +48,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             {%- endif -%}
             {%- if link.children -%}
             <li class="usa-sidenav__item list {% if current %} active usa-current{% endif %}">
-                <a href="javascript:void(0);" class="header-menu-text" aria-label="{{ link.name }} - Submenu">{{- link.name -}}</a>
+                <a href="javascript:void(0);" class="header-menu-text" aria-label="{{ link.name }} - Submenu" aria-expanded="false">{{- link.name -}}</a>
                 <ul class="usa-sidenav__sublist items">
                     {%- for children in link.children -%}
                     {%- assign currentChild = false -%}
@@ -57,7 +57,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
                     {%- endif -%}
                     {%- if children.grandchildren -%}
                     <li class="usa-sidenav__item list {% if currentChild %} active usa-current {% endif %}">
-                            <a href="javascript:void(0);" aria-label="{{ children.name }} - Submenu">{{- children.name -}}</a>
+                            <a href="javascript:void(0);" aria-label="{{ children.name }} - Submenu" aria-expanded="false">{{- children.name -}}</a>
                          <ul class="usa-sidenav__sublist items">
                           {%- for grandchildren in children.grandchildren -%}
                              {%- assign currentGrandchild = false -%}
