@@ -10,8 +10,8 @@
 
     For example, if your agency has:
     - A Section 508 Program Manager who is Full Time = 1 FTE for the 508 Program.
-    - An administrative assistant who works 50-50 in both Section 508 and Section 504 areas = 0.5FTE for the 508 Program.
-    - An employee who works one day a week on Section 508 training for the 508 Program, and the rest of the week on other training for the agency = 0.2FTE for the 508 program.
+    - An administrative assistant who works 50-50 in both Section 508 and Section 504 areas = 0.5 FTE for the 508 Program.
+    - An employee who works one day a week on Section 508 training for the 508 Program, and the rest of the week on other training for the agency = 0.2 FTE for the 508 program.
 -   
   qid: q2
   uid: u2
@@ -41,7 +41,7 @@
 
     If your agency is not sure how to estimate the salary plus benefits for each federal FTE, use the grade salary below that best align with each of your agency's federal FTEs. Then, add each FTE staff salary and all other Section 508 program allocated spending to determine your agency’s estimated Section 508 program budget. 
 
-    **NOTE:** The salaries listed below are the Washington, DC metro area locality pay rates for Grades 1-15, Step 1 multipled by 1.31 to estimate the salary plus benefits (rounded up to the nearest dollar). If estimating use these numbers even if the federal FTE is not located in the DC metro area.
+    **NOTE:** The salaries listed below are the Washington, DC metro area locality pay rates for Grades 1-15, Step 1 multiplied by 1.31 to estimate the salary plus benefits (rounded up to the nearest dollar). If estimating, use these numbers even if the federal FTE is not located in the DC metro area.
 
     - Grade 1: $34,757
     - Grade 2: $39.083
@@ -59,14 +59,14 @@
     - Grade 14: $165,365
     - Grade 15: $194,514
 
-    For example: Your agency Section 508 Program has 2 FTEs (one at Grade 12 and one at Grade 14) and an additional $500,000 for contractor support and accessibility tools.
-    $117,683 + $165,365+ $500,000= $783,048. Round to nearest thousand and report $783,000. 
+    For example: Your agency Section 508 Program has 2 FTEs (one at Grade 12 and one at Grade 14) and an additional $500,000 for contractor support and accessibility tools. $117,683 + $165,365+ $500,000= $783,048. Round to nearest thousand and report $783,000. 
+ 
 -   
   qid: q6
   uid: u6
   descr: |
     A description of each response option is provided below:
-      <ol type="a" start="2">
+      <ol>
         <li>Ad hoc/informal:
           <p>If not all your ICT acquisitions considered the needs of users with disabilities, then select this item and any other items in this list as appropriate.</p>
           <p>If any acquisitions or developments used heuristic analysis (i.e., general design principles) of user needs, or other informal methods, select this item.</p>
@@ -131,16 +131,21 @@
   descr: |
     This question asks if any Section 508 training is mandatory for any of the listed employee groups. 
 
-    **NOTE:** This question is not asking about which particular topic(s) are covered in Section 508 training, but in answering this question your agency may consider Section 508 training such as acquisitions, internal development, how to make electronic documents accessible, accessibility testing, or other training that provides specific direction on how to incorporate accessibility considerations into processes, policies, and/or procedures.
+    **NOTE:** This question is not asking about which particular topic(s) are covered in Section 508 training, but in answering this question your agency may consider Section 508 training such as, but not limited to:
+    - acquisitions, 
+    - internal development, 
+    - how to make electronic documents accessible, 
+    - accessibility testing, and/or 
+    - other training that provides specific direction on how to incorporate accessibility considerations into processes, policies, and/or procedures.
 -   
   qid: q10
   uid: u10
   descr: |
-    The automated tools may be an application your agency developed, purchased from a vendor, or supplied by another government department. 
+    An automated testing tool is one where the evaluation of Section 508 conformance requirements is determined solely by the tool. The automated tool(s) may be an application your agency developed, purchased from a vendor, or supplied by another government department. 
 
     "Your agency uses" includes tools even if they are used only by contractors to provide information to your agency.
 
-    Comprehensive, large-scale monitoring does not include browser plug-ins that only scan a single web page once (i.e., a user selects to run the manual testing tool(s) , such as ANDI.) 
+    Comprehensive, large-scale monitoring does not include browser plug-ins that only scan a single web page once (i.e., a user selects to run the manual testing tool(s), such as ANDI.) 
 -   
   qid: q11
   uid: u11
@@ -169,7 +174,7 @@
 
     Below are two examples of scenarios where a significant delay was caused by lack of ICT interoperability with assistive technology:
     - A project team regularly references a knowledge repository that has known accessibility issues, but it is used anyway because no current team members have a disability.  The agency realizes that a detailee slated to join the team would be unable to perform their work duties due to the inaccessible repository. The agency decides to significantly delay the detailee's start date until the accessibility issues in the repository are remediated. 
-    - A summer internship program where the protocol is to provide interns government furnished laptops. A fully qualified intern makes a timely request for the JAWS screen-reader to be installed on their government furnished laptop.  Due to lack of interoperability, this intern is not able to get JAWS working until 35 days after her peers have begun work, because a non-standard GFE laptop configuration must be approved and ordered to support her assistive technology. 
+    - A summer internship program where the protocol is to provide interns government furnished (GFE) laptops. A fully qualified intern makes a timely request for the JAWS screen-reader to be installed on their government furnished laptop.  Due to lack of interoperability, this intern is not able to get JAWS working until 35 days after her peers have begun work, because a non-standard GFE laptop configuration must be approved and ordered to support her assistive technology. 
 -   
   qid: q16
   uid: u16
@@ -235,13 +240,13 @@
   descr: |
     When answering this question, consider the level of resources (e.g., training, tools, time, support) your agency can provide to meet your agency’s Section 508 program needs. 
 
-    For example, your agency 508 Program Manager requests and receieves the following resources to support the agency Section 508 program:
+    For example, your agency 508 Program Manager requests and receives the following resources to support the agency Section 508 program:
     - time allocated for all Section 508 team staff to take relevant Section 508 training, 
     - attendance to a bootcamp for accessible coding, 
     - trainer led training on the agency-specific content management system for the Section 508 PM, 
-    - support and resources for automated testing tools approval and installation for enterpise use, 
-    - multiple vendor demonstrations of accessibility and assitive technology tools, and
-    - leadership support to facilitate and enable communication with multple stakeholders within the organization.
+    - support and resources for automated testing tools approval and installation for enterprise use, 
+    - multiple vendor demonstrations of accessibility and assistive technology tools, and
+    - leadership support to facilitate and enable communication with multiple stakeholders within the organization.
 -   
   qid: q28
   uid: u28
@@ -338,7 +343,7 @@
     1. Determine whether each web page tested “passes” or “fails” Section 508 conformance.
       - “Pass” means that the web page meets all applicable Section 508 technical requirements.
     2. Total Percentage = [total number of passing web pages divided by the total number of web pages tested] x 100%.
-    3.  Example: 20 web pages are tested. 13 web pages are found to be fully conformant. 7 web pages have one or more Section 508 defects present. 13/20 = .65 x 100 = 65% of web pages fully conform to Section 508 standards. Round to the nearest whole number when necessary.
+    3. For example: 20 web pages are tested. 13 web pages are found to be fully conformant. 7 web pages have one or more Section 508 defects present. 13/20 = .65 x 100 = 65% of web pages fully conform to Section 508 standards. Round to the nearest whole number when necessary.
 -   
   qid: q65
   uid: u65
@@ -401,12 +406,6 @@
   uid: u70
   descr: |
     Only estimate the number of unique web pages that were tested for accessibility manually, with an automated tool, and/or both manually and with an automated tool during the current reporting period (June 1, 2022 through May 31, 2023).
-
-    If, during this reporting period, your agency only tested the required digital content elements in Question 78  for this assessment, answer "10” web pages for this question. 
-
-    If, during this reporting period your agency tested additional pages, then your agency’s answer should include the 10 required plus the additional number your agency tested as part of your agency’s regular program.
-
-    **NOTE:** If a web application appears on a single web page (single URL), count it as one web page. Only estimate the number of unique web pages that were tested for accessibility manually, with an automated tool, and/or both manually and with an automated tool during the current reporting period (June 1, 2022 through May 31, 2023).
 
     If, during this reporting period, your agency only tested the required digital content elements in Question 78  for this assessment, answer "10” web pages for this question. 
 
@@ -491,9 +490,7 @@
   descr: |
     Review your agency's accessibility statement to validate that it includes **all** the required information. 
 
-    For example:"...If you have a problem viewing any material on GSA.gov, or another GSA website, while using assistive technologies, please contact our Section 508 coordinators at cio508help@gsa.gov or 202-208-0799 for assistance. You may also send your concerns directly to the page owners by locating the contact(s) on each page. In your email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
-    
-    "...Last Reviewed: 2023-03-07"
+    For example: "...If you have a problem viewing any material on GSA.gov, or another GSA website, while using assistive technologies, please contact our Section 508 coordinators at cio508help@gsa.gov or 202-208-0799 for assistance. You may also send your concerns directly to the page owners by locating the contact(s) on each page. In your email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
 
     For additional examples, and directions on how to find the accessibility statement on your agency’s site, see "[Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/)" on Section508.gov.
 
@@ -691,7 +688,7 @@
   qid: q92
   uid: u92
   descr: |
-    Please refer to the definition of Fully Conform before answering this question. 
+    Please refer to the definition of [Fully Conform](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF) before answering this question. 
 
     Your agency’s feedback/complaint process may only include providing a phone number and/or email address as the method to submit feedback or a complaint. If this content is provided digitally (e.g., on a web page, email signature, etc.), the entire user path to reach that information to access/activate the phone/email address should fully conform to all applicable Section 508 standards. 
 
@@ -721,7 +718,7 @@
   qid: q98
   uid: u98
   descr: |
-    The feedback mechanism for Section 508 related issues is required as part of the “OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” of 2013 (see page 3 of the plan, available at [https://www.whitehouse.gov/omb/management/office-federal-procurement-policy/](https://www.whitehouse.gov/omb/management/office-federal-procurement-policy/)).
+    The feedback mechanism for Section 508 related issues is required as part of the “OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” of 2013 (see page 3 of the plan, available at [https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)).
 -   
   qid: q99
   uid: u99

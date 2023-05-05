@@ -302,7 +302,6 @@ end example -->
             <p> Select all that apply: </p>
             <p>
             <ol type="a">
-                <li>None</li>
                 <li>Ad hoc/informal</li>
                 <li>Disabilities are included in customer/user personas</li>
                 <li>Individuals with disabilities are consulted when defining customer/user needs</li>
