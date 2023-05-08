@@ -2370,12 +2370,15 @@ const _c1 = function (a0) { return { "usa-input--error": a0 }; };
 class ArtTextFieldComponent {
     constructor() {
         this.hidden = false;
+        //Default value for maxLength
+        this.maxLength = 1000;
         this.fromControl = new _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControl();
     }
     ngOnInit() {
         this.fromControl = this.control;
         this.control?.statusChanges.subscribe(() => {
         });
+        this.maxLength = this.formData?.maxLength ? this.formData?.maxLength : 100;
     }
     /**
      * @description used to check if this formcontrol has any error based on the validations from its configuration, wit the max char length to be 25
@@ -2392,7 +2395,7 @@ class ArtTextFieldComponent {
     }
 }
 ArtTextFieldComponent.ɵfac = function ArtTextFieldComponent_Factory(t) { return new (t || ArtTextFieldComponent)(); };
-ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: ArtTextFieldComponent, selectors: [["art-text-field"]], inputs: { formData: "formData", control: "control", hidden: "hidden" }, decls: 8, vars: 15, consts: [[1, "usa-form-group", 3, "ngClass", "hidden"], [1, "margin-bottom-0"], ["class", "usa-label ", 3, "for", 4, "ngIf"], ["class", "usa-checkbox__label-description usa-hint", 4, "ngIf"], ["class", "usa-error-message", "role", "alert", "for", "input-error", 4, "ngIf"], ["autocomplete", "off", "name", "input", 1, "usa-input", 3, "ngClass", "id", "placeholder", "formControl"], [1, "usa-label", 3, "for"], [1, "usa-checkbox__label-description", "usa-hint"], ["role", "alert", "for", "input-error", 1, "usa-error-message"]], template: function ArtTextFieldComponent_Template(rf, ctx) { if (rf & 1) {
+ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComponent"]({ type: ArtTextFieldComponent, selectors: [["art-text-field"]], inputs: { formData: "formData", control: "control", hidden: "hidden" }, decls: 8, vars: 16, consts: [[1, "usa-form-group", 3, "ngClass", "hidden"], [1, "margin-bottom-0"], ["class", "usa-label ", 3, "for", 4, "ngIf"], ["class", "usa-checkbox__label-description usa-hint", 4, "ngIf"], ["class", "usa-error-message", "role", "alert", "for", "input-error", 4, "ngIf"], ["autocomplete", "off", "name", "input", 1, "usa-input", 3, "maxlength", "ngClass", "id", "placeholder", "formControl"], [1, "usa-label", 3, "for"], [1, "usa-checkbox__label-description", "usa-hint"], ["role", "alert", "for", "input-error", 1, "usa-error-message"]], template: function ArtTextFieldComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 0)(1, "div", 1)(2, "b");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
@@ -2402,7 +2405,7 @@ ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](7, "input", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](11, _c0, ctx.displayError()))("hidden", ctx.hidden);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](12, _c0, ctx.displayError()))("hidden", ctx.hidden);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](3);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.formData == null ? null : ctx.formData.title);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
@@ -2412,9 +2415,9 @@ ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngIf", ctx.displayError());
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](13, _c1, ctx.displayError()))("id", "input" + ctx.fromControl)("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("maxlength", ctx.maxLength)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](14, _c1, ctx.displayError()))("id", "input" + ctx.fromControl)("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵattribute"]("aria-label", (ctx.formData == null ? null : ctx.formData.title) + " " + ctx.fromControl.value);
-    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.DefaultValueAccessor, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.NgControlStatus, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControlDirective], styles: ["input[_ngcontent-%COMP%], .usa-error-message[_ngcontent-%COMP%] {\n  width: 15rem;\n}\n\n.usa-form-group[_ngcontent-%COMP%] {\n  margin-top: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtBQUNKIiwiZmlsZSI6ImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaW5wdXQsIC51c2EtZXJyb3ItbWVzc2FnZXtcbiAgICB3aWR0aDogMTVyZW07XG59XG5cbi51c2EtZm9ybS1ncm91cHtcbiAgICBtYXJnaW4tdG9wOiAwcHg7XG59XG4iXX0= */"] });
+    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.DefaultValueAccessor, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.NgControlStatus, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.MaxLengthValidator, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControlDirective], styles: ["input[_ngcontent-%COMP%], .usa-error-message[_ngcontent-%COMP%] {\n  width: 15rem;\n}\n\n.usa-form-group[_ngcontent-%COMP%] {\n  margin-top: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtBQUNKIiwiZmlsZSI6ImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaW5wdXQsIC51c2EtZXJyb3ItbWVzc2FnZXtcbiAgICB3aWR0aDogMTVyZW07XG59XG5cbi51c2EtZm9ybS1ncm91cHtcbiAgICBtYXJnaW4tdG9wOiAwcHg7XG59XG4iXX0= */"] });
 var ErrorText;
 (function (ErrorText) {
     ErrorText["maxlength"] = "maxlength";
@@ -5050,7 +5053,7 @@ module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup"
   \************************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"maxLength":75,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
