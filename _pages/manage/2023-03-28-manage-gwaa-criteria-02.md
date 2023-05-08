@@ -53,7 +53,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -109,7 +109,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -163,7 +163,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -217,7 +217,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -271,7 +271,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">

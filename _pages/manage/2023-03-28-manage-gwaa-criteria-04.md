@@ -10,10 +10,12 @@ title: " - Government-wide Section 508 Assessment Criteria"
 <p>Questions in this section ask about your agency's internal and external communication accessibility considerations. If your agency does not release communications, please select N/A as needed.  </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
+<!-- 
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
+-->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->
@@ -61,7 +63,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -117,7 +119,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -175,7 +177,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -234,7 +236,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
