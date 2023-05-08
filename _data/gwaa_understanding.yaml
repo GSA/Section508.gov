@@ -66,7 +66,7 @@
   uid: u6
   descr: |
     A description of each response option is provided below:
-      <ol>
+      <ol type="a">
         <li>Ad hoc/informal:
           <p>If not all your ICT acquisitions considered the needs of users with disabilities, then select this item and any other items in this list as appropriate.</p>
           <p>If any acquisitions or developments used heuristic analysis (i.e., general design principles) of user needs, or other informal methods, select this item.</p>
@@ -490,7 +490,7 @@
   descr: |
     Review your agency's accessibility statement to validate that it includes **all** the required information. 
 
-    For example: "...If you have a problem viewing any material on GSA.gov, or another GSA website, while using assistive technologies, please contact our Section 508 coordinators at cio508help@gsa.gov or 202-208-0799 for assistance. You may also send your concerns directly to the page owners by locating the contact(s) on each page. In your email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
+    For example:<br> "...If you have a problem viewing any material on GSA.gov, or another GSA website, while using assistive technologies, please contact our Section 508 coordinators at cio508help@gsa.gov or 202-208-0799 for assistance. You may also send your concerns directly to the page owners by locating the contact(s) on each page. In your email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.... Last reviewed: 2023-03-07"
 
     For additional examples, and directions on how to find the accessibility statement on your agency’s site, see "[Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/)" on Section508.gov.
 
