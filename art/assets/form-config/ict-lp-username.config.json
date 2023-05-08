@@ -1,0 +1,24 @@
+[
+    {
+        "formElements":[
+        { 
+            "elementType":"text",
+            "label": "",
+            "title": "",
+            "placeholder":"Please enter your name",
+            "description": "Do not exceed 75 characters",
+            "errorMessages": {"maxlength":"The maximum length has exceeded 75"},
+            "controlName": "ictItemTextfield2",
+            "validations": [ "required", "maxLength(75)"],
+            "next":"",
+            "formSection": "",
+            "value": "",
+            "hidden":false,
+            "options": []
+        }
+    ],
+        "formButtons": {"none":"none"},
+        "clearForm": true,
+        "disable": false
+    }
+]

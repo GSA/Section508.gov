@@ -1041,73 +1041,103 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-function IctListingPageComponent_div_2_Template(rf, ctx) { if (rf & 1) {
-    const _r5 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div")(1, "div", 6)(2, "div", 7)(3, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()()();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](5, "div", 8)(6, "art-file-upload", 9);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("getFileData", function IctListingPageComponent_div_2_Template_art_file_upload_getFileData_6_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r5); const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r4.onFileReceive($event)); });
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()()();
-} if (rf & 2) {
-    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r0.artIctLpService.getUploadBtn().description);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](2);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("maxFilesNbr", ctx_r0.maxItems - ctx_r0.ictItems.length)("maxFile", ctx_r0.maxItems)("maxLength", ctx_r0.artIctLpService.getMaxLength());
-} }
-function IctListingPageComponent_art_generic_text_3_i_8_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "i", 15);
+function IctListingPageComponent_art_generic_text_2_i_8_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "i", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
+    const ctx_r5 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r6.artIctLpService.getErrorMsg());
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r5.artIctLpService.getErrorMsg());
 } }
-function IctListingPageComponent_art_generic_text_3_Template(rf, ctx) { if (rf & 1) {
-    const _r8 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 10)(2, "b");
+function IctListingPageComponent_art_generic_text_2_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 6)(2, "b");
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](3);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](4, "div", 11)(5, "p", 12);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](4, "div", 7)(5, "p", 8);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](6);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](7, "art-form-template", 13);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("formData", function IctListingPageComponent_art_generic_text_3_Template_art_form_template_formData_7_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r8); const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r7.onFormSubmitted($event)); });
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](8, IctListingPageComponent_art_generic_text_3_i_8_Template, 2, 1, "i", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](7, "art-form-template", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](8, IctListingPageComponent_art_generic_text_2_i_8_Template, 2, 1, "i", 10);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
+} if (rf & 2) {
+    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r0.artIctLpService.getUserQuestion());
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r0.artIctLpService.getUserInputLabel(), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formConfig", ctx_r0.nameFormConfig)("scanChange", ctx_r0.scanChange)("formList", ctx_r0.formList);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r0.ictItems.length >= ctx_r0.maxItems);
+} }
+function IctListingPageComponent_div_3_Template(rf, ctx) { if (rf & 1) {
+    const _r7 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div")(1, "div", 12)(2, "div", 13)(3, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](4);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()()();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](5, "div", 14)(6, "art-file-upload", 15);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("getFileData", function IctListingPageComponent_div_3_Template_art_file_upload_getFileData_6_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r7); const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r6.onFileReceive($event)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()()();
 } if (rf & 2) {
     const ctx_r1 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r1.artIctLpService.getSectionTitle());
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r1.artIctLpService.getInputLabel(), " ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formConfig", ctx_r1.formConfig)("scanChange", ctx_r1.scanChange);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r1.ictItems.length >= ctx_r1.maxItems);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](4);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r1.artIctLpService.getUploadBtn().description);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](2);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("maxFilesNbr", ctx_r1.maxItems - ctx_r1.ictItems.length)("maxFile", ctx_r1.maxItems)("maxLength", ctx_r1.artIctLpService.getMaxLength());
 } }
-function IctListingPageComponent_span_5_Template(rf, ctx) { if (rf & 1) {
-    const _r12 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "span")(1, "art-ict-item", 16);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("delete", function IctListingPageComponent_span_5_Template_art_ict_item_delete_1_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r12); const ctx_r11 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r11.onItemDelete($event)); });
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
-} if (rf & 2) {
-    const eachIctItem_r9 = ctx.$implicit;
-    const index_r10 = ctx.index;
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("index", index_r10 + 1)("ictItem", eachIctItem_r9);
-} }
-function IctListingPageComponent_div_6_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 17);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](1, "art-button", 18);
+function IctListingPageComponent_art_generic_text_4_i_8_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "i", 11);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    const ctx_r8 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("buttonData", ctx_r3.artIctLpService.getContBtl())("disabled", ctx_r3.ictItems.length <= 0);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r8.artIctLpService.getErrorMsg());
+} }
+function IctListingPageComponent_art_generic_text_4_Template(rf, ctx) { if (rf & 1) {
+    const _r10 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "art-generic-text")(1, "div", 6)(2, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](4, "div", 7)(5, "p", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtext"](6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](7, "art-form-template", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("formData", function IctListingPageComponent_art_generic_text_4_Template_art_form_template_formData_7_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r10); const ctx_r9 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r9.onFormSubmitted($event)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](8, IctListingPageComponent_art_generic_text_4_i_8_Template, 2, 1, "i", 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
+} if (rf & 2) {
+    const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate"](ctx_r2.artIctLpService.getSectionTitle());
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtextInterpolate1"](" ", ctx_r2.artIctLpService.getInputLabel(), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("formConfig", ctx_r2.formConfig)("scanChange", ctx_r2.scanChange);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx_r2.ictItems.length >= ctx_r2.maxItems);
+} }
+function IctListingPageComponent_span_6_Template(rf, ctx) { if (rf & 1) {
+    const _r14 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵgetCurrentView"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "span")(1, "art-ict-item", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("delete", function IctListingPageComponent_span_6_Template_art_ict_item_delete_1_listener($event) { _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵrestoreView"](_r14); const ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"](); return _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresetView"](ctx_r13.onItemDelete($event)); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
+} if (rf & 2) {
+    const eachIctItem_r11 = ctx.$implicit;
+    const index_r12 = ctx.index;
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("index", index_r12 + 1)("ictItem", eachIctItem_r11);
+} }
+function IctListingPageComponent_div_7_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 18);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelement"](1, "art-button", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
+} if (rf & 2) {
+    const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("buttonData", ctx_r4.artIctLpService.getContBtl())("disabled", ctx_r4.ictItems.length <= 0);
 } }
 class IctListingPageComponent {
     /**
@@ -1130,6 +1160,11 @@ class IctListingPageComponent {
          */
         this.formConfig = [];
         /**
+         * @description Provide all the configuration for the forms and elements which will be created for name field
+         * @type FormTemplateInterface
+         */
+        this.nameFormConfig = [];
+        /**
          * @description Used to trigger the ngOnChanges function to listing to any input property change
          * @type any
          */
@@ -1144,6 +1179,7 @@ class IctListingPageComponent {
         * @type string
         */
         this.nextPage = src_app_shared_services_landing_page_landing_page_service__WEBPACK_IMPORTED_MODULE_0__.NextPage;
+        this.formList = [];
     }
     ngOnInit() {
         this.maxItems = this.artIctLpService.getMaxItems();
@@ -1152,8 +1188,11 @@ class IctListingPageComponent {
             this.router.navigateByUrl("/");
         }
         // Getting the form configuration
-        this.formConfig = this.artIctLpService.getConfigurations();
+        this.formConfig = this.artIctLpService.getICTConfigurations();
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
+        // Getting the form configuration
+        this.nameFormConfig = this.artIctLpService.getNameConfiguration();
+        this.nameTempPlaceHolder = this.nameFormConfig[0].formElements[0].placeholder;
     }
     /**
      * @description Before the page is getting destructed, the form needs to be disable if it was enable before
@@ -1165,6 +1204,9 @@ class IctListingPageComponent {
             this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
             this.scanChange = "false";
         }
+        const controlName = this.nameFormConfig[0].formElements[0].controlName;
+        const valueOjt = (this.formList[0].value);
+        this.artIctLpService.setUserName(valueOjt[controlName]);
     }
     /**
      * @return void
@@ -1242,17 +1284,20 @@ class IctListingPageComponent {
     }
 }
 IctListingPageComponent.ɵfac = function IctListingPageComponent_Factory(t) { return new (t || IctListingPageComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_9__.Router), _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](src_app_shared_services_landing_page_landing_page_service__WEBPACK_IMPORTED_MODULE_0__.LandingPageService), _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](src_app_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdirectiveInject"](src_app_shared_services_art_ict_lp_art_ict_lp_service__WEBPACK_IMPORTED_MODULE_2__.ArtIctLpService)); };
-IctListingPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdefineComponent"]({ type: IctListingPageComponent, selectors: [["app-ict-listing-page"]], decls: 7, vars: 4, consts: [["art-generic-text-layout", "top-border"], [1, "margin-3"], [4, "ngIf"], [1, "margin-left-2", "margin-top-1"], [4, "ngFor", "ngForOf"], ["class", "margin-top-5", 4, "ngIf"], [1, "margin-bottom-neg-1"], [1, "font-serif-lg"], ["id", "art-upload-button-container", 1, "margin-left-2", "margin-bottom-3"], [3, "maxFilesNbr", "maxFile", "maxLength", "getFileData"], [1, "font-serif-lg", "margin-bottom-1"], [1, "margin-left-2"], [1, "margin-bottom-0"], [3, "formConfig", "scanChange", "formData"], ["class", "usa-error-message font-sans-2xs", 4, "ngIf"], [1, "usa-error-message", "font-sans-2xs"], [3, "index", "ictItem", "delete"], [1, "margin-top-5"], [3, "buttonData", "disabled"]], template: function IctListingPageComponent_Template(rf, ctx) { if (rf & 1) {
+IctListingPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵdefineComponent"]({ type: IctListingPageComponent, selectors: [["app-ict-listing-page"]], decls: 8, vars: 5, consts: [["art-generic-text-layout", "top-border"], [1, "margin-3"], [4, "ngIf"], [1, "margin-left-2", "margin-top-1"], [4, "ngFor", "ngForOf"], ["class", "margin-top-5", 4, "ngIf"], [1, "font-serif-lg", "margin-bottom-1"], [1, "margin-left-2"], [1, "margin-bottom-0"], [3, "formConfig", "scanChange", "formList"], ["class", "usa-error-message font-sans-2xs", 4, "ngIf"], [1, "usa-error-message", "font-sans-2xs"], [1, "margin-bottom-neg-1"], [1, "font-serif-lg"], ["id", "art-upload-button-container", 1, "margin-left-2", "margin-bottom-3"], [3, "maxFilesNbr", "maxFile", "maxLength", "getFileData"], [3, "formConfig", "scanChange", "formData"], [3, "index", "ictItem", "delete"], [1, "margin-top-5"], [3, "buttonData", "disabled"]], template: function IctListingPageComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 0)(1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](2, IctListingPageComponent_div_2_Template, 7, 4, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](3, IctListingPageComponent_art_generic_text_3_Template, 9, 5, "art-generic-text", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](4, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](5, IctListingPageComponent_span_5_Template, 2, 2, "span", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](2, IctListingPageComponent_art_generic_text_2_Template, 9, 6, "art-generic-text", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](3, IctListingPageComponent_div_3_Template, 7, 4, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](4, IctListingPageComponent_art_generic_text_4_Template, 9, 5, "art-generic-text", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](5, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](6, IctListingPageComponent_span_6_Template, 2, 2, "span", 4);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](6, IctListingPageComponent_div_6_Template, 2, 2, "div", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](7, IctListingPageComponent_div_7_Template, 2, 2, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementEnd"]()();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx.artIctLpService.getUserQuestion());
+        _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx.nextPage.uploadICT === ctx.landingPageService.getNextPage());
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", ctx.artIctLpService.getSectionTitle() && ctx.nextPage.getStarted === ctx.landingPageService.getNextPage());
@@ -1369,16 +1414,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "SummaryPageComponent": () => (/* binding */ SummaryPageComponent)
 /* harmony export */ });
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/core */ 2560);
 /* harmony import */ var _shared_services_art_508_lang_art_508_lang_service__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../shared/services/art-508-lang/art-508-lang.service */ 5583);
 /* harmony import */ var _shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../shared/services/ict-item/ict-item.service */ 7719);
-/* harmony import */ var ngx_clipboard__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ngx-clipboard */ 1691);
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @angular/router */ 124);
+/* harmony import */ var ngx_clipboard__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ngx-clipboard */ 1691);
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/router */ 124);
 /* harmony import */ var src_app_shared_services_form_page_form_page_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! src/app/shared/services/form-page/form-page.service */ 1491);
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @angular/common */ 4666);
-/* harmony import */ var _shared_components_step_indicator_step_indicator_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../shared/components/step-indicator/step-indicator.component */ 340);
-/* harmony import */ var _features_art_docx_download_art_docx_download_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../features/art-docx-download/art-docx-download.component */ 742);
-/* harmony import */ var _shared_components_art_save_json_art_save_json_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../shared/components/art-save-json/art-save-json.component */ 5632);
+/* harmony import */ var src_app_shared_services_art_ict_lp_art_ict_lp_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! src/app/shared/services/art-ict-lp/art-ict-lp.service */ 5767);
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @angular/common */ 4666);
+/* harmony import */ var _shared_components_step_indicator_step_indicator_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../shared/components/step-indicator/step-indicator.component */ 340);
+/* harmony import */ var _features_art_docx_download_art_docx_download_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../features/art-docx-download/art-docx-download.component */ 742);
+/* harmony import */ var _shared_components_art_save_json_art_save_json_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../shared/components/art-save-json/art-save-json.component */ 5632);
+
 
 
 
@@ -1390,25 +1437,26 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function SummaryPageComponent_p_49_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](0, "p")(1, "b");
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](2, "Item that contains ICT: ");
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "p")(1, "b");
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](2, "Item that contains ICT: ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
 } if (rf & 2) {
-    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](3);
-    _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtextInterpolate1"]("", ctx_r0.ictItems[ctx_r0.currentIndex].name, " ");
+    const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵnextContext"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](3);
+    _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtextInterpolate1"]("", ctx_r0.ictItems[ctx_r0.currentIndex].name, " ");
 } }
 const _c0 = function () { return { btnName: "Save as word (.docx)", fileName: "Language" }; };
 const _c1 = function () { return { btnName: "Save for later (.json)", fileName: "jsonData.json" }; };
 class SummaryPageComponent {
-    constructor(art508LangService, ictItemService, clipboardService, router, formPageService) {
+    constructor(art508LangService, ictItemService, clipboardService, router, formPageService, artIctLpService) {
         this.art508LangService = art508LangService;
         this.ictItemService = ictItemService;
         this.clipboardService = clipboardService;
         this.router = router;
         this.formPageService = formPageService;
+        this.artIctLpService = artIctLpService;
         /**
          * @description Used to trigger the ngOnChanges function to listing to any input property change
          * @type any
@@ -1423,9 +1471,13 @@ class SummaryPageComponent {
          */
         this.maxIndex = 0;
         /**
-         * Will be populated from 508MappingService
+         * Will be populated from 508MappingService for the copy to clipboard
          */
-        this.languageGenerated = [];
+        this.languageGeneratedCopy = [];
+        /**
+         * Will be populated from 508MappingService for the Docx download
+         */
+        this.languageGeneratedDoc = [];
         /**
          * Will be populated from 508MappingService, UI only
          */
@@ -1435,8 +1487,14 @@ class SummaryPageComponent {
          * ICTItems can be populated from ICTItemService
          */
         this.ictItems = [];
+        /**
+         * @description Name of a user entered on the ICTPage or upload page. It was an optional filed
+         */
+        this.userName = '';
     }
     ngOnInit() {
+        // Getting the name of the user.
+        this.userName = this.artIctLpService.getUserName();
         // Get form data from the ICT service.
         this.ictItems = this.ictItemService.get();
         //if there is no icItems, return to landingPageComponent
@@ -1450,10 +1508,19 @@ class SummaryPageComponent {
             const langKeyWords = JSON.parse(JSON.stringify(item.langKeyWords));
             const langGenerated = this.art508LangService.get508Languages(langKeyWords) ? this.art508LangService.get508Languages(langKeyWords) : "<p><b>No Language can be generated based on your selection!</b></p>";
             const footer = this.formPageService.getDocxFooterText();
+            const solicitationPhase = this.formPageService.getConfigurations();
+            let solicitationPhaseValue = "";
+            solicitationPhase[0].formElements[0].options?.forEach((optionItem, optionIndex) => {
+                if (optionItem.value == langKeyWords["sol-type"]["sol-type"]) {
+                    solicitationPhaseValue = optionItem.label;
+                }
+            });
             //508MapoingService call for language, for download anc clipboard
-            this.languageGenerated.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName ? "<h3>" + this.userName + "</h3>" : '') + "<h3>" + solicitationPhaseValue + "</h3> <p> </p> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
             // For UI only
             this.languageGeneratedUI.push("<p> <h3>" + item.name + "</h3></p>\n" + langGenerated);
+            // Copy to clipboard Only
+            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
         });
         this.stepsData.activeId = "00";
     }
@@ -1479,7 +1546,7 @@ class SummaryPageComponent {
         }
     }
     copyToClipboard() {
-        this.clipboardService.copyFromContent(this.languageGenerated[this.currentIndex]);
+        this.clipboardService.copyFromContent(this.languageGeneratedCopy[this.currentIndex]);
     }
     onAmendForm(index) {
         this.formPageService.setFormPage(index);
@@ -1490,91 +1557,91 @@ class SummaryPageComponent {
         this.stepsData.activeId = this.stepsData.tabs[this.currentIndex].id;
     }
 }
-SummaryPageComponent.ɵfac = function SummaryPageComponent_Factory(t) { return new (t || SummaryPageComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdirectiveInject"](_shared_services_art_508_lang_art_508_lang_service__WEBPACK_IMPORTED_MODULE_0__.Art508LangService), _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdirectiveInject"](_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdirectiveInject"](ngx_clipboard__WEBPACK_IMPORTED_MODULE_7__.ClipboardService), _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_8__.Router), _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdirectiveInject"](src_app_shared_services_form_page_form_page_service__WEBPACK_IMPORTED_MODULE_2__.FormPageService)); };
-SummaryPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdefineComponent"]({ type: SummaryPageComponent, selectors: [["app-summary-page"]], decls: 57, vars: 13, consts: [[3, "stepsData", "activeTab", "currentIndex", "getSelectedTab"], [1, "usa-media-block", "ogp-flex-space"], [1, "ogp-btn"], [1, "ogp-btn", "usa-button", "usa-button--outline", "float-right", 3, "click"], ["type", "", 1, "usa-button", "usa-button--accent-warm", 3, "click"], [3, "params", "markup"], [1, "width-full", 3, "saveAsInfo", "ictItem"], [1, "grid-row", "grid-gap", "margin-top-4"], [1, "usa-layout-docs__main", "desktop:grid-col-12", "usa-prose", "usa-layout-docs"], [1, "site-preview-heading"], ["id", "section-result"], ["role", "region", "aria-labelledby", "summary-box-key-information", 1, "usa-summary-box"], [1, "usa-summary-box__body"], [1, "usa-summary-box__heading"], ["id", "summary-box-key-information", 1, "usa-summary-box__heading"], [1, "usa-summary-box__text"], [1, "example-spacing", "usa-prose", "margin-top-1", "font-sans-sm"], ["id", "art-section-508-requirements"], ["id", "results"], [1, "section-1-results"], ["id", "copy-requirements"], [4, "ngIf"], [1, "margin-bottom-5", 3, "innerHTML"], [1, "width-full"], [1, "ogp-btn", "usa-button", "usa-button--base", 3, "disabled", "click"]], template: function SummaryPageComponent_Template(rf, ctx) { if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](0, "atr-step-indicator", 0);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵlistener"]("getSelectedTab", function SummaryPageComponent_Template_atr_step_indicator_getSelectedTab_0_listener($event) { return ctx.onSelectedTabReceive($event); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](1, "div", 1)(2, "div", 2)(3, "button", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_3_listener() { return ctx.onAmendForm(ctx.currentIndex); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](4, "Return to Form");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](5, "div", 2)(6, "button", 4);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_6_listener() { return ctx.copyToClipboard(); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](7, "Copy All 508 Standards Language");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](8, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](9, "art-docx-download", 5);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](10, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](11, "art-save-json", 6);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](12, "div", 7)(13, "main", 8)(14, "h2", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](15, "Section 508 Requirements for Your Solicitation");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](16, "section", 10)(17, "div", 11)(18, "div", 12)(19, "h3", 13);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](20, "Why is this important?");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](21, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](22, " By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology products required to be offered by the vendor in their proposals, as well as requirements to ensure technology services provided will support the agency\u2019s ability to comply with the Section 508 law. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](23, "h3", 14);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](24, "Instructions");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](25, "div", 15)(26, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](27, "Copy and paste the language below into your procurement (include in the SOW, PWS, or SOO)");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](28, "ol")(29, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](30, " Include the Section 508 Requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](31, "i");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](32, "(do not copy these instructions into the solicitation)");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](33, ". ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](34, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](35, " The ART output can be included as a separate document labeled as your 508 requirements or as part of your requirements sections of your contract. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](36, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](37, " If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](38, "li");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](39, " Review the Section 508 requirements. If you have any questions about the requirements, contact your agency 508 program manager. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](40, "section", 16)(41, "h2", 17);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](42, "Section 508 Requirements");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](43, "section")(44, "div", 18);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](45, "div", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](46, "div", 20)(47, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](48, " Section 508 of the Rehabilitation Act, as amended by the Workforce Investment Act of 1998 (P.L. 105-220) requires that when Federal agencies develop, procure, maintain, or use information and communication technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public who have disabilities must have access to, and use of, information and data that is comparable to people without disabilities. ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtemplate"](49, SummaryPageComponent_p_49_Template, 4, 1, "p", 21);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelement"](50, "div", 22);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()()();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](51, "div", 1)(52, "div", 23)(53, "button", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_53_listener() { return ctx.onPrevious(); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](54, "Previous ICT");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementStart"](55, "button", 24);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_55_listener() { return ctx.onNext(); });
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵtext"](56, "Next ICT");
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵelementEnd"]()()();
+SummaryPageComponent.ɵfac = function SummaryPageComponent_Factory(t) { return new (t || SummaryPageComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](_shared_services_art_508_lang_art_508_lang_service__WEBPACK_IMPORTED_MODULE_0__.Art508LangService), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](_shared_services_ict_item_ict_item_service__WEBPACK_IMPORTED_MODULE_1__.IctItemService), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](ngx_clipboard__WEBPACK_IMPORTED_MODULE_8__.ClipboardService), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](_angular_router__WEBPACK_IMPORTED_MODULE_9__.Router), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](src_app_shared_services_form_page_form_page_service__WEBPACK_IMPORTED_MODULE_2__.FormPageService), _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdirectiveInject"](src_app_shared_services_art_ict_lp_art_ict_lp_service__WEBPACK_IMPORTED_MODULE_3__.ArtIctLpService)); };
+SummaryPageComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵdefineComponent"]({ type: SummaryPageComponent, selectors: [["app-summary-page"]], decls: 57, vars: 13, consts: [[3, "stepsData", "activeTab", "currentIndex", "getSelectedTab"], [1, "usa-media-block", "ogp-flex-space"], [1, "ogp-btn"], [1, "ogp-btn", "usa-button", "usa-button--outline", "float-right", 3, "click"], ["type", "", 1, "usa-button", "usa-button--accent-warm", 3, "click"], [3, "params", "markup"], [1, "width-full", 3, "saveAsInfo", "ictItem"], [1, "grid-row", "grid-gap", "margin-top-4"], [1, "usa-layout-docs__main", "desktop:grid-col-12", "usa-prose", "usa-layout-docs"], [1, "site-preview-heading"], ["id", "section-result"], ["role", "region", "aria-labelledby", "summary-box-key-information", 1, "usa-summary-box"], [1, "usa-summary-box__body"], [1, "usa-summary-box__heading"], ["id", "summary-box-key-information", 1, "usa-summary-box__heading"], [1, "usa-summary-box__text"], [1, "example-spacing", "usa-prose", "margin-top-1", "font-sans-sm"], ["id", "art-section-508-requirements"], ["id", "results"], [1, "section-1-results"], ["id", "copy-requirements"], [4, "ngIf"], [1, "margin-bottom-5", 3, "innerHTML"], [1, "width-full"], [1, "ogp-btn", "usa-button", "usa-button--base", 3, "disabled", "click"]], template: function SummaryPageComponent_Template(rf, ctx) { if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](0, "atr-step-indicator", 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵlistener"]("getSelectedTab", function SummaryPageComponent_Template_atr_step_indicator_getSelectedTab_0_listener($event) { return ctx.onSelectedTabReceive($event); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](1, "div", 1)(2, "div", 2)(3, "button", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_3_listener() { return ctx.onAmendForm(ctx.currentIndex); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](4, "Return to Form");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](5, "div", 2)(6, "button", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_6_listener() { return ctx.copyToClipboard(); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](7, "Copy All 508 Standards Language");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](8, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](9, "art-docx-download", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](10, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](11, "art-save-json", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](12, "div", 7)(13, "main", 8)(14, "h2", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](15, "Section 508 Requirements for Your Solicitation");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](16, "section", 10)(17, "div", 11)(18, "div", 12)(19, "h3", 13);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](20, "Why is this important?");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](21, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](22, " By including Section 508 requirements in the solicitation, you are ensuring potential Offerors know which Section 508 standards apply to commercially available technology products required to be offered by the vendor in their proposals, as well as requirements to ensure technology services provided will support the agency\u2019s ability to comply with the Section 508 law. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](23, "h3", 14);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](24, "Instructions");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](25, "div", 15)(26, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](27, "Copy and paste the language below into your procurement (include in the SOW, PWS, or SOO)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](28, "ol")(29, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](30, " Include the Section 508 Requirements generated by ART in your Statement of Work, Performance Work Statement, or Statement of Objectives. These requirements apply to the specific technology products and services you are buying. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](31, "i");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](32, "(do not copy these instructions into the solicitation)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](33, ". ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](34, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](35, " The ART output can be included as a separate document labeled as your 508 requirements or as part of your requirements sections of your contract. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](36, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](37, " If you copied and pasted Section 508 language from an earlier contract or solicitation, remove this old language in its entirety and replace it with the language generated by ART. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](38, "li");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](39, " Review the Section 508 requirements. If you have any questions about the requirements, contact your agency 508 program manager. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](40, "section", 16)(41, "h2", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](42, "Section 508 Requirements");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](43, "section")(44, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](45, "div", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](46, "div", 20)(47, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](48, " Section 508 of the Rehabilitation Act, as amended by the Workforce Investment Act of 1998 (P.L. 105-220) requires that when Federal agencies develop, procure, maintain, or use information and communication technology (ICT), it shall be accessible to people with disabilities. Federal employees and members of the public who have disabilities must have access to, and use of, information and data that is comparable to people without disabilities. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtemplate"](49, SummaryPageComponent_p_49_Template, 4, 1, "p", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelement"](50, "div", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()()();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](51, "div", 1)(52, "div", 23)(53, "button", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_53_listener() { return ctx.onPrevious(); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](54, "Previous ICT");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementStart"](55, "button", 24);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵlistener"]("click", function SummaryPageComponent_Template_button_click_55_listener() { return ctx.onNext(); });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵtext"](56, "Next ICT");
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵelementEnd"]()()();
     } if (rf & 2) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("stepsData", ctx.stepsData)("activeTab", ctx.stepsData.activeId)("currentIndex", ctx.currentIndex);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("params", _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵpureFunction0"](11, _c0))("markup", ctx.languageGenerated[ctx.currentIndex]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("saveAsInfo", _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵpureFunction0"](12, _c1))("ictItem", ctx.ictItems[ctx.currentIndex]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("ngIf", ctx.ictItems[ctx.currentIndex] && ctx.ictItems[ctx.currentIndex].name);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("innerHTML", ctx.languageGeneratedUI[ctx.currentIndex], _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵsanitizeHtml"]);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("disabled", ctx.currentIndex == 0);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵadvance"](2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵproperty"]("disabled", ctx.currentIndex == ctx.maxIndex);
-    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_9__.NgIf, _shared_components_step_indicator_step_indicator_component__WEBPACK_IMPORTED_MODULE_3__.StepIndicatorComponent, _features_art_docx_download_art_docx_download_component__WEBPACK_IMPORTED_MODULE_4__.ArtDocxDownloadComponent, _shared_components_art_save_json_art_save_json_component__WEBPACK_IMPORTED_MODULE_5__.ArtSaveJsonComponent], styles: [".align-center[_ngcontent-%COMP%] {\n  text-align: center;\n}\n\n.ogp-flex-space[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: space-between;\n}\n\n@media screen and (max-width: 414px) {\n  .ogp-flex-space[_ngcontent-%COMP%] {\n    flex-direction: column;\n  }\n}\n\n@media screen and (max-width: 414px) {\n  .ogp-btn[_ngcontent-%COMP%] {\n    margin-top: 0.5rem;\n    margin-right: 0rem !important;\n    width: 100%;\n  }\n  art-save-json[_ngcontent-%COMP%] {\n    display: block;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN1bW1hcnktcGFnZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGtCQUFBO0FBQ0o7O0FBRUE7RUFDSSxhQUFBO0VBQ0EsOEJBQUE7QUFDSjs7QUFBSTtFQUhKO0lBSVEsc0JBQUE7RUFHTjtBQUNGOztBQUNBO0VBQ0k7SUFDSSxrQkFBQTtJQUNBLDZCQUFBO0lBQ0EsV0FBQTtFQUVOO0VBQ0U7SUFDSSxjQUFBO0VBQ047QUFDRiIsImZpbGUiOiJzdW1tYXJ5LXBhZ2UuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYWxpZ24tY2VudGVye1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm9ncC1mbGV4LXNwYWNle1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xuICAgIEBtZWRpYSAgc2NyZWVuIGFuZCAgKG1heC13aWR0aDogNDE0cHgpIHtcbiAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgfVxufVxuXG5cbkBtZWRpYSAgc2NyZWVuIGFuZCAgKG1heC13aWR0aDogNDE0cHgpIHtcbiAgICAub2dwLWJ0bntcbiAgICAgICAgbWFyZ2luLXRvcDogMC41cmVtO1xuICAgICAgICBtYXJnaW4tcmlnaHQ6IDByZW0gIWltcG9ydGFudDtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgfVxuXG4gICAgYXJ0LXNhdmUtanNvbntcbiAgICAgICAgZGlzcGxheTogYmxvY2s7XG4gICAgfVxuIH1cbiJdfQ== */"] });
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("stepsData", ctx.stepsData)("activeTab", ctx.stepsData.activeId)("currentIndex", ctx.currentIndex);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("params", _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵpureFunction0"](11, _c0))("markup", ctx.languageGeneratedDoc[ctx.currentIndex]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("saveAsInfo", _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵpureFunction0"](12, _c1))("ictItem", ctx.ictItems[ctx.currentIndex]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](38);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("ngIf", ctx.ictItems[ctx.currentIndex] && ctx.ictItems[ctx.currentIndex].name);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("innerHTML", ctx.languageGeneratedUI[ctx.currentIndex], _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵsanitizeHtml"]);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("disabled", ctx.currentIndex == 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵadvance"](2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_7__["ɵɵproperty"]("disabled", ctx.currentIndex == ctx.maxIndex);
+    } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_10__.NgIf, _shared_components_step_indicator_step_indicator_component__WEBPACK_IMPORTED_MODULE_4__.StepIndicatorComponent, _features_art_docx_download_art_docx_download_component__WEBPACK_IMPORTED_MODULE_5__.ArtDocxDownloadComponent, _shared_components_art_save_json_art_save_json_component__WEBPACK_IMPORTED_MODULE_6__.ArtSaveJsonComponent], styles: [".align-center[_ngcontent-%COMP%] {\n  text-align: center;\n}\n\n.ogp-flex-space[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: space-between;\n}\n\n@media screen and (max-width: 414px) {\n  .ogp-flex-space[_ngcontent-%COMP%] {\n    flex-direction: column;\n  }\n}\n\n@media screen and (max-width: 414px) {\n  .ogp-btn[_ngcontent-%COMP%] {\n    margin-top: 0.5rem;\n    margin-right: 0rem !important;\n    width: 100%;\n  }\n  art-save-json[_ngcontent-%COMP%] {\n    display: block;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN1bW1hcnktcGFnZS5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGtCQUFBO0FBQ0o7O0FBRUE7RUFDSSxhQUFBO0VBQ0EsOEJBQUE7QUFDSjs7QUFBSTtFQUhKO0lBSVEsc0JBQUE7RUFHTjtBQUNGOztBQUNBO0VBQ0k7SUFDSSxrQkFBQTtJQUNBLDZCQUFBO0lBQ0EsV0FBQTtFQUVOO0VBQ0U7SUFDSSxjQUFBO0VBQ047QUFDRiIsImZpbGUiOiJzdW1tYXJ5LXBhZ2UuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYWxpZ24tY2VudGVye1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLm9ncC1mbGV4LXNwYWNle1xuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xuICAgIEBtZWRpYSAgc2NyZWVuIGFuZCAgKG1heC13aWR0aDogNDE0cHgpIHtcbiAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgfVxufVxuXG5cbkBtZWRpYSAgc2NyZWVuIGFuZCAgKG1heC13aWR0aDogNDE0cHgpIHtcbiAgICAub2dwLWJ0bntcbiAgICAgICAgbWFyZ2luLXRvcDogMC41cmVtO1xuICAgICAgICBtYXJnaW4tcmlnaHQ6IDByZW0gIWltcG9ydGFudDtcbiAgICAgICAgd2lkdGg6IDEwMCU7XG4gICAgfVxuXG4gICAgYXJ0LXNhdmUtanNvbntcbiAgICAgICAgZGlzcGxheTogYmxvY2s7XG4gICAgfVxuIH1cbiJdfQ== */"] });
 
 
 /***/ }),
@@ -3280,11 +3347,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "ArtIctLpService": () => (/* binding */ ArtIctLpService)
 /* harmony export */ });
-/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ 2508);
+/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @angular/forms */ 2508);
 /* harmony import */ var _assets_form_config_ict_lp_config_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../../../assets/form-config/ict-lp.config.json */ 5893);
-/* harmony import */ var _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../assets/data/buttons.json */ 3373);
-/* harmony import */ var _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../assets/data/ict-lp.json */ 5284);
-/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/core */ 2560);
+/* harmony import */ var _assets_form_config_ict_lp_username_config_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../../assets/form-config/ict-lp-username.config.json */ 3022);
+/* harmony import */ var _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../assets/data/buttons.json */ 3373);
+/* harmony import */ var _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../assets/data/ict-lp.json */ 5284);
+/* harmony import */ var _assets_data_ict_lp_username_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../../assets/data/ict-lp-username.json */ 6116);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @angular/core */ 2560);
+
+
 
 
 
@@ -3300,6 +3371,15 @@ class ArtIctLpService {
          * @description Configuration for the ICT Listing Page input field, loading config for one Form
          */
         this.formConfig = _assets_form_config_ict_lp_config_json__WEBPACK_IMPORTED_MODULE_0__;
+        /**
+        * @description Configuration for the ICT Listing Page Name filed, loading config for one Form
+        */
+        this.userFormConfig = _assets_form_config_ict_lp_username_config_json__WEBPACK_IMPORTED_MODULE_1__;
+        /**
+         * @description Will stored the name of the user entered on the ictPage or upload page. It is an option field
+         * @type string
+         */
+        this.userName = '';
     }
     /**
      * @description Generation validation error from the configurations: Only required and maxLength has be configure, additional validations will have ot be added
@@ -3313,11 +3393,11 @@ class ArtIctLpService {
         const validations = [];
         strValidation.forEach((eachVal) => {
             if (eachVal.includes("required"))
-                validations.push(_angular_forms__WEBPACK_IMPORTED_MODULE_3__.Validators.required);
+                validations.push(_angular_forms__WEBPACK_IMPORTED_MODULE_5__.Validators.required);
             if (eachVal.includes("maxLength")) {
                 const length = eachVal.slice(eachVal.indexOf("(") + 1, eachVal.indexOf(")"));
                 this.charCount = +length;
-                validations.push(_angular_forms__WEBPACK_IMPORTED_MODULE_3__.Validators.maxLength(this.charCount));
+                validations.push(_angular_forms__WEBPACK_IMPORTED_MODULE_5__.Validators.maxLength(this.charCount));
             }
         });
         return validations;
@@ -3332,60 +3412,95 @@ class ArtIctLpService {
     /**
      * @description Configuration for one form
      * @return: FormTemplateInterface
+     * @param: FormTemplateInterface[]
      */
-    getConfigurations() {
-        this.formConfig.forEach((eachForm, outterIndex) => {
+    getConfigurations(formConfigTemp, formConfigJson) {
+        formConfigTemp.forEach((eachForm, outterIndex) => {
             eachForm.formElements.forEach((eachElt, index) => {
-                eachElt.validations = this.generateValidations(_assets_form_config_ict_lp_config_json__WEBPACK_IMPORTED_MODULE_0__[outterIndex].formElements[index].validations);
+                eachElt.validations = this.generateValidations(formConfigJson[outterIndex].formElements[index].validations);
             });
         });
-        return this.formConfig;
+        return formConfigTemp;
+    }
+    getNameConfiguration() {
+        return this.getConfigurations(this.userFormConfig, _assets_form_config_ict_lp_username_config_json__WEBPACK_IMPORTED_MODULE_1__);
+    }
+    getICTConfigurations() {
+        return this.getConfigurations(this.formConfig, _assets_form_config_ict_lp_config_json__WEBPACK_IMPORTED_MODULE_0__);
     }
     /**
      * @description Getting the label, the description and destination text for the upload button on the ict listing page
      * @returns IButtonInterface
      */
     getUploadBtn() {
-        return _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_1__.uploadICT;
+        return _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_2__.uploadICT;
     }
     /**
     * @description Getting the label, the description and destination text for the continue button on the ict listing page
     * @returns IButtonInterface
     */
     getContBtl() {
-        return _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_1__["continue"];
+        return _assets_data_buttons_json__WEBPACK_IMPORTED_MODULE_2__["continue"];
     }
     /**
     * @description Get the error message for the landing page, generated when the number of ICT items has reached the max
     * @returns string
     */
     getErrorMsg() {
-        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.errorMessage;
+        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_3__.errorMessage;
     }
     /**
      * @description Get the section title for the landing page
      * @returns string
      */
     getSectionTitle() {
-        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.sectionTitle;
+        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_3__.sectionTitle;
     }
     /**
-     * @description Get the error message for Input Label on the ICT page
+     * @description Get the username text for the landing page
+     * @returns string
+     */
+    getUserQuestion() {
+        return _assets_data_ict_lp_username_json__WEBPACK_IMPORTED_MODULE_4__.userName;
+    }
+    /**
+     * @description Get the data for Input Label for the ict item on the ICT page
      * @returns string
      */
     getInputLabel() {
-        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.inputLabel;
+        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_3__.inputLabel;
+    }
+    /**
+     * @description Get the dat for Input Label for the Name field on the ICT page
+     * @returns string
+     */
+    getUserInputLabel() {
+        return _assets_data_ict_lp_username_json__WEBPACK_IMPORTED_MODULE_4__.inputLabel;
     }
     /**
   * @description Return the maximum number of items that should be allowed
   * @returns number
   */
     getMaxItems() {
-        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_2__.maxItems;
+        return _assets_data_ict_lp_json__WEBPACK_IMPORTED_MODULE_3__.maxItems;
+    }
+    /**
+     * @description to return the username stored on the ICT page or upload page
+     * @return string
+     */
+    getUserName() {
+        return this.userName;
+    }
+    /**
+     * @param name
+     * @description used to store the name of the user entered on the ICT page or upload page
+     */
+    setUserName(name) {
+        this.userName = name;
     }
 }
 ArtIctLpService.ɵfac = function ArtIctLpService_Factory(t) { return new (t || ArtIctLpService)(); };
-ArtIctLpService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_4__["ɵɵdefineInjectable"]({ token: ArtIctLpService, factory: ArtIctLpService.ɵfac, providedIn: 'root' });
+ArtIctLpService.ɵprov = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_6__["ɵɵdefineInjectable"]({ token: ArtIctLpService, factory: ArtIctLpService.ɵfac, providedIn: 'root' });
 
 
 /***/ }),
@@ -4612,15 +4727,17 @@ class ArtFormTemplateComponent {
      * @rerun void
      */
     onFormSubmit(index) {
-        if (this.formCompletetion.find(eachComp => !eachComp) === false && !this.formConfig[0].formButtons.add) {
-            alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
-        }
-        else {
-            const data = this.formList.map(eachForm => eachForm.value);
-            this.formData.emit(data);
-            //Will reset the form based on the its configuration
-            if (this.formConfig[index].clearForm)
-                this.formList[index].reset();
+        if (!this.formConfig[index].formButtons.none) { //will emit data if there is a button on the template page. Some template don't hae the submit button
+            if (this.formCompletetion.find(eachComp => !eachComp) === false && !this.formConfig[0].formButtons.add) {
+                alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
+            }
+            else {
+                const data = this.formList.map(eachForm => eachForm.value);
+                this.formData.emit(data);
+                //Will reset the form based on the its configuration
+                if (this.formConfig[index].clearForm)
+                    this.formList[index].reset();
+            }
         }
     }
     /**
@@ -4735,7 +4852,7 @@ ArtFormTemplateComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_M
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵloadQuery"]()) && (ctx.locRefFormGroup = _t);
     } }, hostBindings: function ArtFormTemplateComponent_HostBindings(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵlistener"]("scroll", function ArtFormTemplateComponent_scroll_HostBindingHandler() { return ctx.onWindowScroll(); }, false, _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵresolveWindow"]);
-    } }, inputs: { formConfig: "formConfig", scanChange: "scanChange", pageIndex: "pageIndex" }, outputs: { formData: "formData", pageNumber: "pageNumber" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵNgOnChangesFeature"]], decls: 5, vars: 3, consts: [[1, "grid-row"], ["class", "tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6", 4, "ngIf"], [1, "tablet:grid-col-8", "tablet:margin-bottom-0"], [3, "ngClass", 4, "ngFor", "ngForOf"], ["class", "ogp-flex", 4, "ngIf"], [1, "tablet:grid-col-3", "margin-bottom-3", "tablet:margin-bottom-0", "tablet:margin-right-6"], [3, "sideMenu", "menuItemSelected"], [3, "ngClass"], ["formGroupAnchor", ""], [3, "formGroup", "hidden", "ngSubmit"], [1, "grid-row", 3, "hidden", "ngClass"], ["class", "form-section", 3, "id", 4, "ngFor", "ngForOf"], ["tabindex", "0", "aria-label", "Content is loading, additional information is being displayed", "class", "ogp-flex-center", 4, "ngIf"], ["aria-label", "Add an ICT Item", "class", "usa-button usa-button--accent-warm art-add-btn", "type", "submit", 3, "disabled", "id", 4, "ngIf"], [1, "form-section", 3, "id"], ["class", "font-sans-lg  margin-bottom-2", 3, "ngClass", 4, "ngIf"], ["class", "margin-top-2", 4, "ngIf"], [1, "font-sans-lg", "margin-bottom-2", 3, "ngClass"], [1, "margin-top-2"], [3, "formData", "hidden", "control", "eltClicked", 4, "ngIf"], [4, "ngIf"], [3, "formData", "formGroup", "dataUpdated", "eltClicked", 4, "ngIf"], [3, "formData", "hidden", "control", "eltClicked"], [3, "formData", "hidden", "formGroup", "eltClicked"], [3, "formData", "formGroup", "dataUpdated", "eltClicked"], ["tabindex", "0", "aria-label", "Content is loading, additional information is being displayed", 1, "ogp-flex-center"], [1, "lds-ripple"], ["aria-label", "Add an ICT Item", "type", "submit", 1, "usa-button", "usa-button--accent-warm", "art-add-btn", 3, "disabled", "id"], [1, "ogp-flex"], [1, "", 3, "disabled", "buttonData", "click"], ["class", "ogp-btn", 3, "buttonData", "click", 4, "ngIf"], ["class", "ogp-btn usa-button usa-button--accent-warm", "type", "submit", 3, "disabled", "click", 4, "ngIf"], ["class", "ogp-btn", 4, "ngIf"], [1, "ogp-btn", 3, "buttonData", "click"], ["type", "submit", 1, "ogp-btn", "usa-button", "usa-button--accent-warm", 3, "disabled", "click"], [1, "ogp-btn"], [3, "saveAsInfo", "ictItem"]], template: function ArtFormTemplateComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, inputs: { formList: "formList", formConfig: "formConfig", scanChange: "scanChange", pageIndex: "pageIndex" }, outputs: { formData: "formData", pageNumber: "pageNumber" }, features: [_angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵNgOnChangesFeature"]], decls: 5, vars: 3, consts: [[1, "grid-row"], ["class", "tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6", 4, "ngIf"], [1, "tablet:grid-col-8", "tablet:margin-bottom-0"], [3, "ngClass", 4, "ngFor", "ngForOf"], ["class", "ogp-flex", 4, "ngIf"], [1, "tablet:grid-col-3", "margin-bottom-3", "tablet:margin-bottom-0", "tablet:margin-right-6"], [3, "sideMenu", "menuItemSelected"], [3, "ngClass"], ["formGroupAnchor", ""], [3, "formGroup", "hidden", "ngSubmit"], [1, "grid-row", 3, "hidden", "ngClass"], ["class", "form-section", 3, "id", 4, "ngFor", "ngForOf"], ["tabindex", "0", "aria-label", "Content is loading, additional information is being displayed", "class", "ogp-flex-center", 4, "ngIf"], ["aria-label", "Add an ICT Item", "class", "usa-button usa-button--accent-warm art-add-btn", "type", "submit", 3, "disabled", "id", 4, "ngIf"], [1, "form-section", 3, "id"], ["class", "font-sans-lg  margin-bottom-2", 3, "ngClass", 4, "ngIf"], ["class", "margin-top-2", 4, "ngIf"], [1, "font-sans-lg", "margin-bottom-2", 3, "ngClass"], [1, "margin-top-2"], [3, "formData", "hidden", "control", "eltClicked", 4, "ngIf"], [4, "ngIf"], [3, "formData", "formGroup", "dataUpdated", "eltClicked", 4, "ngIf"], [3, "formData", "hidden", "control", "eltClicked"], [3, "formData", "hidden", "formGroup", "eltClicked"], [3, "formData", "formGroup", "dataUpdated", "eltClicked"], ["tabindex", "0", "aria-label", "Content is loading, additional information is being displayed", 1, "ogp-flex-center"], [1, "lds-ripple"], ["aria-label", "Add an ICT Item", "type", "submit", 1, "usa-button", "usa-button--accent-warm", "art-add-btn", 3, "disabled", "id"], [1, "ogp-flex"], [1, "", 3, "disabled", "buttonData", "click"], ["class", "ogp-btn", 3, "buttonData", "click", 4, "ngIf"], ["class", "ogp-btn usa-button usa-button--accent-warm", "type", "submit", 3, "disabled", "click", 4, "ngIf"], ["class", "ogp-btn", 4, "ngIf"], [1, "ogp-btn", 3, "buttonData", "click"], ["type", "submit", 1, "ogp-btn", "usa-button", "usa-button--accent-warm", 3, "disabled", "click"], [1, "ogp-btn"], [3, "saveAsInfo", "ictItem"]], template: function ArtFormTemplateComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵtemplate"](1, ArtFormTemplateComponent_div_1_Template, 2, 1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵelementStart"](2, "div", 2);
@@ -4863,7 +4980,17 @@ module.exports = JSON.parse('{"title":"Before You Go","data":"We\'re always work
   \*************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":"<p class=\'first-par\'>The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href=\'https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines\'>Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as <a href=\'https://www.section508.gov/content/glossary/#ict\'>Information and Communication Technology (ICT)</a>. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href=\'https://www.section508.gov/manage/laws-and-policies/\'>Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that’s accessible to all.</p><b>Note:</b> Do not use the browser\'s back and refresh buttons. You will lose your information using the browser buttons."}');
+module.exports = JSON.parse('{"data":"<p class=\'first-par\'>The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href=\'https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines\'>Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as <a href=\'https://www.section508.gov/content/glossary/#ict\'>Information and Communication Technology (ICT)</a>. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href=\'https://www.section508.gov/manage/laws-and-policies/\'>Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that’s accessible to all.</p><b>Note:</b> Do not use the browser\'s back and refresh buttons. You will lose your information using the browser buttons. Information in ART is only stored locally on your computer and the Government of the USA does not have access to the information you place into the tool. "}');
+
+/***/ }),
+
+/***/ 6116:
+/*!**********************************************!*\
+  !*** ./src/assets/data/ict-lp-username.json ***!
+  \**********************************************/
+/***/ ((module) => {
+
+module.exports = JSON.parse('{"errorMessage":"Please enter a valid name","userName":"What is your name?","inputLabel":"Please put your name as Point of contact for this document. This field is optional. The name entered will be reflected on the output document and can be edited after download."}');
 
 /***/ }),
 
@@ -4914,6 +5041,16 @@ module.exports = JSON.parse('{"data":"<strong>Reviewed/Updated: </strong>April 2
 /***/ ((module) => {
 
 module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup","controlName":"sol-type","formSection":"Solicitation Phase","title":"","label":"Select one of the options below","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","hidden":false,"value":"","options":[{"elementType":"radioButton","controlName":"proj-plan","label":"Project Planning","description":"I want to identify the applicable Section 508 standards I need to address during project planning","value":"red","validations":[],"next":"ict-group","formSection":""},{"elementType":"radioButton","controlName":"mark-research","label":"Market Research","description":"I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for information (RFI).","value":"green","validations":[],"next":"ict-mark-research-group","formSection":""},{"elementType":"radioButton","controlName":"solic-dev","label":"Solicitation Development","description":"I want to obtain Section 508 requirements to include in my statement of work","value":"blue","validations":[],"next":"ict-group","formSection":""}]},{"elementType":"checkboxGroup","controlName":"ict-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchasing ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"exemptions-group","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none","validations":[],"next":"exemptions-group","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"ict-mark-research-group","label":"What type of ICT do you have? Please select all that apply.","title":"","hidden":true,"placeholder":"For example, 123 45 6789","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","formSection":"ICT Type","value":"","options":[{"elementType":"checkbox","controlName":"it-prod-mr","formSection":"What is the name of your procurement?","title":"Project Planning","label":"ICT Products","placeholder":"","description":"I am purchasing ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)","errorMessages":{},"validations":[],"next":"done","value":false,"options":[]},{"elementType":"checkbox","controlName":"it-serv-mr","label":"ICT Services","title":"Market research","placeholder":"","description":"I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)","errorMessages":{},"validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"None of the above","placeholder":"","description":"","errorMessages":{},"controlName":"it-none-mr","validations":[],"next":"done","formSection":"What is the name of your procurement?","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"exemptions-group","formSection":"Exemptions & Exceptions","title":"","hidden":true,"label":"","description":"","placeholder":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"No exemptions apply","description":"","value":false,"controlName":"excep-none","validations":[],"next":"elec-group","formSection":"","onlyOption":true},{"elementType":"checkbox","label":"I don’t have one / I don’t know","description":"","value":false,"controlName":"excep-idk","validations":[],"next":"elec-group","formSection":"","onlyOption":true},{"elementType":"checkbox","label":"National Security Exemption","ariaLabel":"Exemptions & Exceptions: National Security Exemption - Check if your system qualifies as a national security system","description":"Check if your system qualifies as a <a href=\'https://www.govinfo.gov/content/pkg/USCODE-2014-title40/pdf/USCODE-2014-title40-subtitleIII-chap111-sec11103.pdf\' target=\'_blank\' >national security system</a>","value":false,"controlName":"excep-nat-sec","validations":[],"next":"elec-group","additionalNext":["excep-nbr"],"formSection":""},{"elementType":"checkbox","label":"ICT Functions Located in Maintenance and Monitoring Spaces Exception","description":"","value":false,"controlName":"excep-mon-spa","validations":[],"next":"elec-group","additionalNext":["excep-nbr"],"formSection":""},{"elementType":"checkbox","label":"Fundamental Alteration Exception","description":"","value":false,"controlName":"excep-alter","validations":[],"next":"elec-group","additionalNext":["excep-nbr"],"formSection":""},{"elementType":"checkbox","label":"Federal Contracts Exception","description":"This is not a common exception applied to procurements","value":false,"controlName":"excep-fed-con","validations":[],"next":"elec-group","additionalNext":["excep-nbr"],"formSection":""},{"elementType":"checkbox","label":"Undue Burden Exception","description":"","value":false,"controlName":"excep-und-bur","validations":[],"next":"elec-group","additionalNext":["excep-nbr"],"formSection":""}]},{"elementType":"text","controlName":"excep-nbr","label":"Exemptions Authorization Number","title":"Please provide an Exemption Authorization Number, if any:","placeholder":"--- -- ----","hidden":true,"description":"For example, 123 45 6789","errorMessages":{"maxlength":"The maximum length has exceeded 9"},"validations":[],"next":"","formSection":"","value":"","options":[]},{"elementType":"radioButtonGroup","formSection":"Does your solicitation include electronic content?","menuItem":"Electronic Content","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-group","validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"elec-yes","controlName":"elec-yes","validations":[],"next":"elec-web-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"elec-no","controlName":"elec-no","validations":[],"next":"soft-criteria-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"","title":"Will this electronic content be made available through a website?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"elec-web-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-website-yes","controlName":"content-website-yes","validations":[],"next":"soft-criteria-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-website-no","controlName":"content-website-no","validations":[],"next":"content-group","formSection":""}]},{"elementType":"radioButtonGroup","label":"I.e. Electronic forms, surveys, web, multimedia, document templates, etc.","title":"Is your product public facing?","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"content-group","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"content-public-yes","controlName":"content-public-yes","validations":[],"next":"soft-criteria-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"content-public-no","controlName":"content-public-yes","validations":[],"next":"agency-comm","formSection":""}]},{"elementType":"radioButtonGroup","title":"Is your product agency official communication?","label":"i.e. emergency notification, educational or training material, program or policy announcement, a survey questionnaire, etc.","placeholder":"","hidden":true,"description":"","errorMessages":{"required":"Select one option."},"controlName":"agency-comm","validations":["required"],"next":"","formSection":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"comm-yes","controlName":"comm-yes","validations":[],"next":"soft-criteria-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"comm-no","controlName":"comm-no","validations":[],"next":"soft-criteria-group","formSection":"","info":"Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4."}]},{"elementType":"checkboxGroup","controlName":"soft-criteria-group","formSection":"Does the software meet any of the following criteria?","menuItem":"Software","title":"","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Does not have an end-user interface (i.e. user screens)","description":"","value":false,"controlName":"soft-no-user-interface","validations":[],"next":"hardware-group","formSection":""},{"elementType":"checkbox","label":"Principal function is assistive technology","description":"","value":false,"controlName":"soft-assistive","validations":[],"next":"hardware-group","formSection":""},{"elementType":"checkbox","label":"I don’t know","description":"","value":false,"controlName":"soft-idk","validations":[],"onlyOption":true,"next":"software-group","formSection":""},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"soft-none","validations":[],"next":"software-group","formSection":"","onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"software-group","formSection":"","title":"Are you purchasing any software items, deliverables, or licenses?","hidden":true,"label":"<i>Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</i><br><br>(Check all that apply)","placeholder":"","description":"","errorMessages":{"maxlength":"Select at leas one option"},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Web, desktop, server, mobile client applications","title":"","placeholder":"","ariaLabel":"Are you purchasing any software items, deliverables, or licenses? Web, desktop, server, mobile client applications: Time and attendance software, DHS productivity applications, Web forms/applications, Call Center Support applications, Workflow applications, Content management systems, Learning management systems.","description":"Time and attendance software<br>DHS productivity applications<br>Web forms/applications<br>Call Center Support applications<br>Workflow applications<br>Content management systems<br>Learning management systems<br>","errorMessages":{},"controlName":"software-web-app","validations":[],"next":"soft-serv-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software authoring tools and platforms","title":"","placeholder":"","ariaLabel":"Are you purchasing any software items, deliverables, or licenses? Software authoring tools and platforms: Microsoft Office, Adobe Acrobat Professional, Adobe InDesign, PDF Generators and Converters, Graphing and Charting Programs.","description":"Microsoft Office<br>Adobe Acrobat Professional<br>Adobe InDesign<br>PDF Generators and Converters<br>Graphing and Charting Programs<br>","errorMessages":{},"controlName":"software-auth-tool","validations":[],"next":"soft-serv-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Software Infrastructure","title":"","ariaLabel":"Are you purchasing any software items, deliverables, or licenses? Software Infrastructure: Operating Systems, Browsers, Systems/network administration software, Remote access software, User authentication software, Virtual meeting tools.","placeholder":"","description":"Operating Systems<br>Browsers<br>Systems/network administration software<br>Remote access software<br>User authentication software<br>Virtual meeting tools<br>","errorMessages":{},"controlName":"software-infra","validations":[],"next":"soft-serv-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"Other","ariaLabel":"Are you purchasing any software items, deliverables, or licenses? Other.","title":"","placeholder":"","description":"","errorMessages":{},"controlName":"software-other","validations":[],"next":"soft-serv-group","formSection":"","value":false,"options":[]},{"elementType":"checkbox","label":"None of the above","title":"","ariaLabel":"Are you purchasing any software items, deliverables, or licenses? None of the above.","placeholder":"","description":"","errorMessages":{},"controlName":"software-none","validations":[],"next":"hardware-group","formSection":"","value":false,"options":[],"onlyOption":true}]},{"elementType":"checkboxGroup","controlName":"soft-serv-group","formSection":"","title":"Will the software be provided through any of the following types of cloud services agreements? (Check all that apply)","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"checkbox","label":"Software as a Service (SaaS)","description":"","value":false,"controlName":"soft-serv-saas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"checkbox","label":"Platform as a Service (PaaS)","description":"","value":false,"controlName":"soft-serv-paas","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"checkbox","label":"Other Cloud Services arrangement","description":"","value":false,"controlName":"soft-serv-other","validations":[],"next":"soft-web-group","formSection":""},{"elementType":"checkbox","label":"I don’t know","description":"","value":false,"controlName":"soft-serv-idk","validations":[],"next":"soft-web-group","formSection":"","onlyOption":true},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"soft-serv-none","validations":[],"next":"hardware-group","formSection":"","onlyOption":true}]},{"elementType":"radioButtonGroup","controlName":"soft-web-group","formSection":"","title":"Will this software be accessible through a web browser?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"soft-web-yes","controlName":"soft-web-yes","validations":[],"next":"soft-create-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"soft-web-no","controlName":"soft-web-no","validations":[],"next":"soft-create-group","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"soft-create-group","formSection":"","title":"Will this software be used to create electronic content (e.g. an authoring tool that is used to create HTML pages, reports, surveys, charts, dashboards, etc.)?","label":"","hidden":true,"placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"soft-create-yes","controlName":"soft-create-yes","validations":[],"next":"hardware-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"soft-create-no","controlName":"soft-create-no","validations":[],"next":"hardware-group","formSection":""}]},{"elementType":"checkboxGroup","menuItem":"Hardware","title":"","hidden":true,"label":"Where components of ICT are hardware and transmit information or have a user interface, such components shall conform to the requirements in Chapter 4. Hardware is considered a tangible device, equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, and keyboards.<br><br> Please select all that apply.","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"hardware-group","validations":["required"],"next":"","formSection":"Are you purchasing any hardware items, deliverables, or licenses?","value":"","options":[{"elementType":"checkbox","label":"Computers and laptops","description":"","value":false,"controlName":"hardware-computer","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Tablet","description":"","value":false,"controlName":"hardware-tablet","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Printers, Scanners, or Copiers","description":"","value":false,"controlName":"hardware-printer","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Multi-function office machines","description":"","value":false,"controlName":"hardware-multi-func","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Peripheral Equipment (i.e. keyboard, mouse)","description":"","value":false,"controlName":"hardware-peripheral","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Information kiosks and transaction machines","description":"","value":false,"controlName":"hardware-kiosk","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Mobile phones","description":"","value":false,"controlName":"hardware-mobile","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Video Teleconference Equipment","description":"","value":false,"controlName":"hardware-video-telecon","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Video Displays or Monitors","description":"","value":false,"controlName":"hardware-video-monitor","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"Servers","description":"","value":false,"controlName":"hardware-server","validations":[],"next":"server-iaas-group","formSection":""},{"elementType":"checkbox","label":"Other","description":"","value":false,"controlName":"hardware-other","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"hardware-none","onlyOption":true,"validations":[],"next":"support-doc-group","formSection":""}]},{"elementType":"radioButtonGroup","controlName":"server-iaas-group","formSection":"","title":"Will the server require physical installation or is provided through an Infrastructure as a Service (IaaS) agreement?","hidden":true,"label":"","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"validations":["required"],"next":"","value":"","options":[{"elementType":"radioButton","label":"Yes","description":"","value":"server-iaas-yes","controlName":"server-iaas-yes","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"radioButton","label":"No","description":"","value":"server-iaas-no","controlName":"server-iaas-no","validations":[],"next":"support-doc-group","formSection":""},{"elementType":"radioButton","label":"I don\'t know","description":"","value":"server-iaas-idk","controlName":"server-iaas-idk","validations":[],"next":"support-doc-group","formSection":""}]},{"elementType":"checkboxGroup","title":"","menuItem":"Support Documentation & Services","hidden":true,"label":"What ICT support documentation or service are your procuring?","placeholder":"","description":"","errorMessages":{"required":"Select one option."},"controlName":"support-doc-group","validations":["required"],"next":"","formSection":"Support Documentation & Services","value":"","options":[{"elementType":"checkbox","label":"Automated self-service & Technical support","description":"","value":false,"controlName":"support-tech","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"Help Desk or Call service center","description":"","value":false,"controlName":"support-call","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"Product documentation","description":"","value":false,"controlName":"support-doc","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"Training Service","description":"","value":false,"controlName":"support-train","validations":[],"next":"done","formSection":""},{"elementType":"checkbox","label":"None of the above","description":"","value":false,"controlName":"support-none","validations":[],"next":"done","formSection":"","onlyOption":true}]}],"formButtons":{"submit":"Get 508 Results"},"clearForm":true,"disable":false}]');
+
+/***/ }),
+
+/***/ 3022:
+/*!************************************************************!*\
+  !*** ./src/assets/form-config/ict-lp-username.config.json ***!
+  \************************************************************/
+/***/ ((module) => {
+
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
