@@ -57,7 +57,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -108,7 +108,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -160,7 +160,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -209,7 +209,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -232,7 +232,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/criteria-11/"> Next > </a>
 </div>
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** May 2023
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>

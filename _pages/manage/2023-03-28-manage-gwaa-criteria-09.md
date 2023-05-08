@@ -10,10 +10,12 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
 <p>Questions in this section ask about your agency's level of inclusion of ICT accessibility in procurement lifecycle processes. If your agency does not procure ICT, release solicitations, or  participate in development of business needs, please select N/A as needed.</p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
+<!-- 
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
+-->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->
@@ -57,7 +59,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -109,7 +111,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -165,7 +167,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -218,7 +220,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -274,7 +276,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -324,7 +326,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding this question
+                        Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
@@ -347,7 +349,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/criteria-10/"> Next > </a>
 </div>
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** May 2023
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>
