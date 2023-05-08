@@ -294,7 +294,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/criteria-03/"> Next > </a>
 </div>
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** May 2023
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>

@@ -2088,7 +2088,7 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
         < Previous</a>
 </div>
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** May 2023
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>
