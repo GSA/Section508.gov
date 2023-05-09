@@ -19,7 +19,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
 <!-- begin insert criteria -->
 
 <!-- Q:058-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q58" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 58 </h3>
@@ -72,7 +72,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:059-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q59" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 59 </h3>
@@ -123,7 +123,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:060-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q60" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 60 </h3>
@@ -175,7 +175,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:061-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q61" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 61 </h3>

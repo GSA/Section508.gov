@@ -19,7 +19,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
 <!-- begin insert criteria -->
 
 <!-- Q:022-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q22" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 22 </h3>
@@ -68,7 +68,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:023-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q23" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 23 </h3>
@@ -124,7 +124,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:024-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q24" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 24 </h3>
@@ -178,7 +178,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:025-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q25" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 25 </h3>
@@ -232,7 +232,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:026-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q26" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 26 </h3>

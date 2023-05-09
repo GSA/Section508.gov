@@ -19,7 +19,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
 <!-- begin insert criteria -->
 
 <!-- Q:027-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q27" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 27 </h3>
@@ -71,7 +71,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
     </div>
 </div>
 <!-- Q:028-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q28" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 28 </h3>
@@ -122,7 +122,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
     </div>
 </div>
 <!-- Q:029-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q29" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 29 </h3>
@@ -177,7 +177,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
     </div>
 </div>
 <!-- Q:030-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q30" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 30 </h3>

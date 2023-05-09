@@ -21,7 +21,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
 <!-- begin insert criteria -->
 
 <!-- Q:031-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q31" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 31 </h3>
@@ -78,7 +78,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:032-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q32" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 32 </h3>
@@ -134,7 +134,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:033-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q33" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 33 </h3>
@@ -192,7 +192,7 @@ title: " - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:034-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q34" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 34 </h3>

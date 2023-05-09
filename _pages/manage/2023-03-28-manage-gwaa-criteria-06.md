@@ -19,7 +19,7 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
 <!-- begin insert criteria -->
 
 <!-- Q:038-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q38" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 38 </h3>
@@ -70,7 +70,7 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
     </div>
 </div>
 <!-- Q:039-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q39" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 39 </h3>
@@ -118,7 +118,7 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
     </div>
 </div>
 <!-- Q:040-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q40" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 40 </h3>
@@ -172,7 +172,7 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
     </div>
 </div>
 <!-- Q:041-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q41" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 41 </h3>

@@ -21,7 +21,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
 <!-- begin insert criteria -->
 
 <!-- Q:052-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q52" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 52 </h3>
@@ -74,7 +74,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     </div>
 </div>
 <!-- Q:053-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q53" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 53 </h3>
@@ -126,7 +126,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     </div>
 </div>
 <!-- Q:054-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q54" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 54 </h3>
@@ -182,7 +182,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     </div>
 </div>
 <!-- Q:055-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q55" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 55 </h3>
@@ -235,7 +235,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     </div>
 </div>
 <!-- Q:056-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q56" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 56 </h3>
@@ -291,7 +291,7 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
     </div>
 </div>
 <!-- Q:057-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q57" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 57 </h3>

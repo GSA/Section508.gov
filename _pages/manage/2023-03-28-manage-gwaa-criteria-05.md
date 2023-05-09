@@ -19,7 +19,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 <!-- begin insert criteria -->
 
 <!-- Q:035-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q35" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 35 </h3>
@@ -70,7 +70,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:036-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q36" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 36 </h3>
@@ -121,7 +121,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:037-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q37" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 37 </h3>

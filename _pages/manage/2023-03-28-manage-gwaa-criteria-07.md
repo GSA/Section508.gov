@@ -21,7 +21,7 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
 <!-- begin insert criteria -->
 
 <!-- Q:042-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q42" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 42 </h3>
@@ -75,7 +75,7 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:043-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q43" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 43 </h3>
@@ -131,7 +131,7 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:044-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q44" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 44 </h3>
@@ -182,7 +182,7 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
     </div>
 </div>
 <!-- Q:045-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q45" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 45 </h3>
