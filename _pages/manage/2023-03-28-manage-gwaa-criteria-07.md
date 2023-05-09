@@ -56,14 +56,14 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -112,14 +112,14 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -163,14 +163,14 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -215,14 +215,14 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -248,11 +248,16 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
 <script>
     $("#expand-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "true");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").removeAttr("hidden");
     });
     $("#collapse-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "false");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").attr("hidden","");
+    });
+    $(".understand_button").on("click", function(){
+        $(this).toggleClass("radius-bottom-lg");
     });
 </script>
 
