@@ -200,7 +200,11 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 <!-- Unhide hash/anchor from external url -->
 <script>
     $(function(){
-        var u_hash = window.location.hash;
-        $(u_hash).removeAttr("hidden");
+        var window_hash = window.location.hash;
+        if ($(window_hash).hasClass("usa-card")){
+            let u_hash = window_hash.replace("q", "u");
+            $(u_hash).removeAttr("hidden");
+            $(u_hash).prev().attr("aria-expanded", "true");
+        }
     });
 </script>
