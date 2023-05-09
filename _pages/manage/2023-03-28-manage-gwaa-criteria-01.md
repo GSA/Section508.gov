@@ -50,14 +50,14 @@ Agency POCs will receive a link via email to the reporting tool no later than Ju
                         <h4 class="usa-accordion__heading">
                             <button
                             type="button"
-                            class="usa-accordion__button understand_button padding-left-3"
+                            class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                             aria-expanded="false"
                             aria-controls="{{ each.uid }}"
                             >
                             Understanding Question {{ each.uid | replace: "u", "" }}
                             </button>
                         </h4>
-                        <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                        <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                             <div class="margin-x-auto margin-y-0">
                                 {{ each.descr | markdownify }}
                             </div>
@@ -72,7 +72,7 @@ end example -->
 <!-- begin insert criteria -->
 
 <!-- Q:001-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q1" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 1 </h3>
@@ -92,14 +92,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -111,7 +111,7 @@ end example -->
     </div>
 </div>
 <!-- Q:002-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q2" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 2 </h3>
@@ -131,14 +131,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -150,7 +150,7 @@ end example -->
     </div>
 </div>
 <!-- Q:003-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q3" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 3 </h3>
@@ -177,14 +177,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -196,7 +196,7 @@ end example -->
     </div>
 </div>
 <!-- Q:004-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q4" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 4 </h3>
@@ -227,14 +227,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -246,7 +246,7 @@ end example -->
     </div>
 </div>
 <!-- Q:005-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q5" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 5 </h3>
@@ -272,14 +272,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -291,7 +291,7 @@ end example -->
     </div>
 </div>
 <!-- Q:006-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q6" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 6 </h3>
@@ -324,14 +324,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -343,7 +343,7 @@ end example -->
     </div>
 </div>
 <!-- Q:007-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q7" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 7 </h3>
@@ -377,14 +377,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -396,7 +396,7 @@ end example -->
     </div>
 </div>
 <!-- Q:008-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q8" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 8 </h3>
@@ -424,14 +424,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -443,7 +443,7 @@ end example -->
     </div>
 </div>
 <!-- Q:009-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q9" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 9 </h3>
@@ -477,14 +477,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -496,7 +496,7 @@ end example -->
     </div>
 </div>
 <!-- Q:010-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q10" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 10 </h3>
@@ -521,14 +521,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -540,7 +540,7 @@ end example -->
     </div>
 </div>
 <!-- Q:011-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q11" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 11 </h3>
@@ -573,14 +573,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -592,7 +592,7 @@ end example -->
     </div>
 </div>
 <!-- Q:012-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q12" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 12 </h3>
@@ -623,14 +623,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -642,7 +642,7 @@ end example -->
     </div>
 </div>
 <!-- Q:013-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q13" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 13 </h3>
@@ -673,14 +673,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -692,7 +692,7 @@ end example -->
     </div>
 </div>
 <!-- Q:014-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q14" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 14 </h3>
@@ -719,14 +719,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -738,7 +738,7 @@ end example -->
     </div>
 </div>
 <!-- Q:015-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q15" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 15 </h3>
@@ -769,14 +769,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -788,7 +788,7 @@ end example -->
     </div>
 </div>
 <!-- Q:016-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q16" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 16 </h3>
@@ -818,14 +818,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -837,7 +837,7 @@ end example -->
     </div>
 </div>
 <!-- Q:017-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q17" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 17 </h3>
@@ -862,14 +862,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -881,7 +881,7 @@ end example -->
     </div>
 </div>
 <!-- Q:018-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q18" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 18 </h3>
@@ -906,14 +906,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -925,7 +925,7 @@ end example -->
     </div>
 </div>
 <!-- Q:019-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q19" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 19 </h3>
@@ -950,14 +950,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -969,7 +969,7 @@ end example -->
     </div>
 </div>
 <!-- Q:020-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q20" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 20 </h3>
@@ -1006,14 +1006,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -1025,7 +1025,7 @@ end example -->
     </div>
 </div>
 <!-- Q:021-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q21" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 21 </h3>
@@ -1061,14 +1061,14 @@ end example -->
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -1093,18 +1093,28 @@ end example -->
 <script>
     $("#expand-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "true");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").removeAttr("hidden");
     });
     $("#collapse-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "false");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").attr("hidden","");
+    });
+    $(".understand_button").on("click", function(){
+        $(this).toggleClass("radius-bottom-lg");
     });
 </script>
 
 <!-- Unhide hash/anchor from external url -->
 <script>
     $(function(){
-        var u_hash = window.location.hash;
-        $(u_hash).removeAttr("hidden");
+        var window_hash = window.location.hash;
+        if ($(window_hash).hasClass("usa-card")){
+            let u_hash = window_hash.replace("q", "u");
+            $(u_hash).removeAttr("hidden");
+            $(u_hash).prev().children(".understand_button").attr("aria-expanded", "true");
+            $(u_hash).prev().children(".understand_button").toggleClass("radius-bottom-lg");
+        }
     });
 </script>

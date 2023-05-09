@@ -19,7 +19,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 <!-- begin insert criteria -->
 
 <!-- Q:035-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q35" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 35 </h3>
@@ -51,14 +51,14 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -70,7 +70,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:036-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q36" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 36 </h3>
@@ -102,14 +102,14 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -121,7 +121,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
     </div>
 </div>
 <!-- Q:037-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q37" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 37 </h3>
@@ -156,14 +156,14 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
                     <h4 class="usa-accordion__heading">
                         <button
                         type="button"
-                        class="usa-accordion__button understand_button padding-left-3"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
                         Understanding Question {{ each.uid | replace: "u", "" }}
                         </button>
                     </h4>
-                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary">
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
                         <div class="margin-x-auto margin-y-0">
                             {{ each.descr | markdownify }}
                         </div>
@@ -189,18 +189,28 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 <script>
     $("#expand-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "true");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").removeAttr("hidden");
     });
     $("#collapse-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "false");
+        $(".understand_button").toggleClass("radius-bottom-lg");
         $(".understand_content").attr("hidden","");
+    });
+    $(".understand_button").on("click", function(){
+        $(this).toggleClass("radius-bottom-lg");
     });
 </script>
 
 <!-- Unhide hash/anchor from external url -->
 <script>
     $(function(){
-        var u_hash = window.location.hash;
-        $(u_hash).removeAttr("hidden");
+        var window_hash = window.location.hash;
+        if ($(window_hash).hasClass("usa-card")){
+            let u_hash = window_hash.replace("q", "u");
+            $(u_hash).removeAttr("hidden");
+            $(u_hash).prev().children(".understand_button").attr("aria-expanded", "true");
+            $(u_hash).prev().children(".understand_button").toggleClass("radius-bottom-lg");
+        }
     });
 </script>
