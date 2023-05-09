@@ -320,7 +320,8 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
         if ($(window_hash).hasClass("usa-card")){
             let u_hash = window_hash.replace("q", "u");
             $(u_hash).removeAttr("hidden");
-            $(u_hash).prev().attr("aria-expanded", "true");
+            $(u_hash).prev().children(".understand_button").attr("aria-expanded", "true");
+            $(u_hash).prev().children(".understand_button").toggleClass("radius-bottom-lg");
         }
     });
 </script>
