@@ -2343,7 +2343,7 @@ function ArtTextFieldComponent_label_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("for", "input" + ctx_r0.fromControl);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("for", "input" + (ctx_r0.formData == null ? null : ctx_r0.formData.controlName));
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx_r0.formData == null ? null : ctx_r0.formData.label);
 } }
@@ -2415,7 +2415,7 @@ ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngIf", ctx.displayError());
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("maxlength", ctx.maxLength)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](14, _c1, ctx.displayError()))("id", "input" + ctx.fromControl)("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("maxlength", ctx.maxLength)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](14, _c1, ctx.displayError()))("id", "input" + (ctx.formData == null ? null : ctx.formData.controlName))("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵattribute"]("aria-label", (ctx.formData == null ? null : ctx.formData.title) + " " + ctx.fromControl.value);
     } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.DefaultValueAccessor, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.NgControlStatus, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.MaxLengthValidator, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControlDirective], styles: ["input[_ngcontent-%COMP%], .usa-error-message[_ngcontent-%COMP%] {\n  width: 15rem;\n}\n\n.usa-form-group[_ngcontent-%COMP%] {\n  margin-top: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtBQUNKIiwiZmlsZSI6ImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaW5wdXQsIC51c2EtZXJyb3ItbWVzc2FnZXtcbiAgICB3aWR0aDogMTVyZW07XG59XG5cbi51c2EtZm9ybS1ncm91cHtcbiAgICBtYXJnaW4tdG9wOiAwcHg7XG59XG4iXX0= */"] });
 var ErrorText;
@@ -4244,10 +4244,10 @@ function ArtFormTemplateComponent_div_3_div_4_Template(rf, ctx) { if (rf & 1) {
 } if (rf & 2) {
     const index_r13 = ctx.index;
     const ctx_r39 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    const outerIndex_r6 = ctx_r39.index;
     const eachFormConfig_r5 = ctx_r39.$implicit;
+    const outerIndex_r6 = ctx_r39.index;
     const ctx_r9 = _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpropertyInterpolate1"]("id", "form-section-", ctx_r9.controlList.length * outerIndex_r6 + index_r13, "");
+    _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵpropertyInterpolate1"]("id", "form-section-", eachFormConfig_r5.formElements[0].formSectionId ? eachFormConfig_r5.formElements[0].formSectionId : ctx_r9.controlList.length * outerIndex_r6 + index_r13, "");
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵproperty"]("ngIf", !eachFormConfig_r5.formElements[index_r13].hidden && eachFormConfig_r5.formElements[index_r13].formSection);
     _angular_core__WEBPACK_IMPORTED_MODULE_8__["ɵɵadvance"](1);
@@ -4983,7 +4983,7 @@ module.exports = JSON.parse('{"title":"Before You Go","data":"We\'re always work
   \*************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":"<p class=\'first-par\'>The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href=\'https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines\'>Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as <a href=\'https://www.section508.gov/content/glossary/#ict\'>Information and Communication Technology (ICT)</a>. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href=\'https://www.section508.gov/manage/laws-and-policies/\'>Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that’s accessible to all.</p><b>Note:</b> Do not use the browser\'s back and refresh buttons. You will lose your information using the browser buttons. Information in ART is only stored locally on your computer, and the US Government does not have access to the information you place into the tool. If you wish to keep your work, please save the data locally for future use by using the \'Save of later\' button. You can reload a previously saved form using the \'Continue where you left off\' button."}');
+module.exports = JSON.parse('{"data":"<p class=\'first-par\'>The Accessibility Requirements Tool (ART) is a step-by-step guide to help you easily identify relevant accessibility requirements from the <a href=\'https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines\'>Revised 508 Standards</a>, and incorporate them into your procurement and contracting documentation, as well as <a href=\'https://www.section508.gov/content/glossary/#ict\'>Information and Communication Technology (ICT)</a>. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with <a href=\'https://www.section508.gov/manage/laws-and-policies/\'>Section 508 of the Rehabilitation Act</a>. Use ART to buy and build technology that’s accessible to all.</p><b>Note:</b> Do not use the browser\'s back and refresh buttons. You will lose your information using the browser buttons. Information in ART is only stored locally on your computer, and the US Government does not have access to the information you place into the tool. If you wish to keep your work, please save the data locally for future use by using the \' Save for later (.json)\' button. You can reload a previously saved form using the \'Continue where you left off\' button."}');
 
 /***/ }),
 
@@ -5053,7 +5053,7 @@ module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup"
   \************************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"maxLength":75,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"formSectionId":"2023-05-09-9-49","maxLength":75,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
