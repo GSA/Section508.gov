@@ -12,6 +12,7 @@
             "validations": [ "required", "maxLength(75)"],
             "next":"",
             "formSection": "",
+            "ariaLabel": "Please enter your name",
             "value": "",
             "hidden":false,
             "formSectionId":"2023-05-09-9-49",

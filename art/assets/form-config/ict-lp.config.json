@@ -11,6 +11,7 @@
         "controlName": "ictItemTextfield1",
         "validations": [ "required", "maxLength(50)"],
         "next":"",
+        "ariaLabel": "Please enter an ICT Item",
         "formSection": "",
         "value": "",
         "hidden":false,

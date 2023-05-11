@@ -2416,7 +2416,7 @@ ArtTextFieldComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODU
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("ngIf", ctx.displayError());
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("maxlength", ctx.maxLength)("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵpureFunction1"](14, _c1, ctx.displayError()))("id", "input" + (ctx.formData == null ? null : ctx.formData.controlName))("placeholder", ctx.formData == null ? null : ctx.formData.placeholder)("formControl", ctx.fromControl);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵattribute"]("aria-label", (ctx.formData == null ? null : ctx.formData.title) + " " + ctx.fromControl.value);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵattribute"]("aria-label", (ctx.formData == null ? null : ctx.formData.ariaLabel) ? ctx.formData == null ? null : ctx.formData.ariaLabel : (ctx.formData == null ? null : ctx.formData.title) + " " + ctx.fromControl.value);
     } }, dependencies: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.DefaultValueAccessor, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.NgControlStatus, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.MaxLengthValidator, _angular_forms__WEBPACK_IMPORTED_MODULE_2__.FormControlDirective], styles: ["input[_ngcontent-%COMP%], .usa-error-message[_ngcontent-%COMP%] {\n  width: 15rem;\n}\n\n.usa-form-group[_ngcontent-%COMP%] {\n  margin-top: 0px;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksWUFBQTtBQUNKOztBQUVBO0VBQ0ksZUFBQTtBQUNKIiwiZmlsZSI6ImFydC10ZXh0LWZpZWxkLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaW5wdXQsIC51c2EtZXJyb3ItbWVzc2FnZXtcbiAgICB3aWR0aDogMTVyZW07XG59XG5cbi51c2EtZm9ybS1ncm91cHtcbiAgICBtYXJnaW4tdG9wOiAwcHg7XG59XG4iXX0= */"] });
 var ErrorText;
 (function (ErrorText) {
@@ -5061,7 +5061,7 @@ module.exports = JSON.parse('[{"formElements":[{"elementType":"radioButtonGroup"
   \************************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","value":"","hidden":false,"formSectionId":"2023-05-09-9-49","maxLength":75,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter your name","description":"Do not exceed 75 characters","errorMessages":{"maxlength":"The maximum length has exceeded 75"},"controlName":"ictItemTextfield2","validations":["required","maxLength(75)"],"next":"","formSection":"","ariaLabel":"Please enter your name","value":"","hidden":false,"formSectionId":"2023-05-09-9-49","maxLength":75,"options":[]}],"formButtons":{"none":"none"},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
@@ -5071,7 +5071,7 @@ module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"",
   \***************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter an ICT Item","description":"Do not exceed 50 characters and 8 ICTs","errorMessages":{"maxlength":"The maximum length has exceeded 50"},"controlName":"ictItemTextfield1","validations":["required","maxLength(50)"],"next":"","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
+module.exports = JSON.parse('[{"formElements":[{"elementType":"text","label":"","title":"","placeholder":"Please enter an ICT Item","description":"Do not exceed 50 characters and 8 ICTs","errorMessages":{"maxlength":"The maximum length has exceeded 50"},"controlName":"ictItemTextfield1","validations":["required","maxLength(50)"],"next":"","ariaLabel":"Please enter an ICT Item","formSection":"","value":"","hidden":false,"options":[]}],"formButtons":{"add":"Add "},"clearForm":true,"disable":false}]');
 
 /***/ }),
 
