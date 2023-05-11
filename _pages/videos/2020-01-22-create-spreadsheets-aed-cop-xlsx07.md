@@ -23,13 +23,13 @@ Learn how to add links to a worksheet so that each link has a unique and descrip
 
 ## Related Spreadsheet Video Series Modules
 
-  * [Module 0: Introduction & Background][1]
-  * [Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order][2]
-  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][3]
-  * [Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text][4]
-  * [Module 4: Making Vital Background Information Accessible][5]
-  * [Module 5: Using Built-In Features to Create Data Tables][6]
-  * [Module 6: Adding Alternative Text to Images and Other Objects][7]
+  * [Module 0: Introduction & Background][0]
+  * [Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order][1]
+  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][2]
+  * [Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text][3]
+  * [Module 4: Making Vital Background Information Accessible][4]
+  * [Module 5: Using Built-In Features to Create Data Tables][5]
+  * [Module 6: Adding Alternative Text to Images and Other Objects][6]
   * **Module 7: Creating Links with Unique and Descriptive Names**
   * [Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate][8]
   * [Module 9: Excluding Flashing Objects][9]
@@ -43,8 +43,9 @@ Learn how to add links to a worksheet so that each link has a unique and descrip
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: May 2023
 
+ [0]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00/
  [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/
  [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/
  [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/
