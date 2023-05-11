@@ -23,9 +23,9 @@ Discover how to use visual characteristics, such as color, size, shape, and loca
 
 ## Related Spreadsheet Video Series Modules
 
-  * [Module 0: Introduction & Background][1]
-  * [Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order][2]
-  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][3]
+  * [Module 0: Introduction & Background][0]
+  * [Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order][1]
+  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][2]
   * **Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text**
   * [Module 4: Making Vital Background Information Accessible][4]
   * [Module 5: Using Built-In Features to Create Data Tables][5]
@@ -43,8 +43,9 @@ Discover how to use visual characteristics, such as color, size, shape, and loca
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: May 2023
 
+ [0]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00/
  [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/
  [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/
  [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/
