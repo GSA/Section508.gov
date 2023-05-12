@@ -9,11 +9,17 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
 <H2 id="conformance-metrics">Conformance Metrics</H2>
 <p>Questions in Conformance Metrics ask about specific data points and outcomes related to measuring your program inclusion of ICT accessibility. </p>
 
+<!-- Expand/Collapse All "Understanding" Content -->
+<div class="margin-y-3 margin-x-1">
+    <button id="expand-all" class="usa-button">Expand All</button>
+    <button id="collapse-all" class="usa-button">Collapse All</button>
+</div>
+
 <div class="usa-card-group">
 <!-- begin insert criteria -->
 
 <!-- Q:062-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q62" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 62 </h3>
@@ -29,10 +35,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u62" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:063-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q63" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 63 </h3>
@@ -42,10 +73,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     agency were evaluated for Section 508 conformance in the reporting period. (*Required) </strong></p>
             <p> Open response-whole number </p>
         </div>
+        {% assign this-uid = "u63" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:064-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q64" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 64 </h3>
@@ -59,10 +115,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u64" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:065-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q65" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 65 </h3>
@@ -77,10 +158,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u65" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:066-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q66" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 66 </h3>
@@ -94,10 +200,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u66" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:067-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q67" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 67 </h3>
@@ -111,10 +242,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u67" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:068-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q68" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 68 </h3>
@@ -128,10 +284,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u68" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:069-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q69" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 69 </h3>
@@ -147,10 +328,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u69" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:070-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q70" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 70 </h3>
@@ -166,10 +372,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u70" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:071-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q71" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 71 </h3>
@@ -183,10 +414,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u71" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:072-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q72" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 72 </h3>
@@ -201,10 +457,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u72" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:073-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q73" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 73 </h3>
@@ -218,10 +499,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u73" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:074-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q74" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 74 </h3>
@@ -235,10 +541,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u74" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:075-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q75" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 75 </h3>
@@ -252,10 +583,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u75" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:076-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q76" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 76 </h3>
@@ -272,10 +628,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u76" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:077-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q77" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 77 </h3>
@@ -297,10 +678,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> This question is only required if Question 76 Conformance Metrics is Yes. </p>
             </div>
         </div>
+        {% assign this-uid = "u77" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:078-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q78" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 78 </h3>
@@ -329,10 +735,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> Layout of this question in the reporting tool may appear differently. </p>
             </div>
         </div>
+        {% assign this-uid = "u78" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:079-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q79" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 79 </h3>
@@ -363,10 +794,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> Layout of this question in the reporting tool may appear differently. </p>
             </div>
         </div>
+        {% assign this-uid = "u79" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:080-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q80" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 80 </h3>
@@ -397,10 +853,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> Layout of this question in the reporting tool may appear differently. </p>
             </div>
         </div>
+        {% assign this-uid = "u80" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:081-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q81" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 81 </h3>
@@ -429,10 +910,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> Layout of this question in the reporting tool may appear differently. </p>
             </div>
         </div>
+        {% assign this-uid = "u81" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:082-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q82" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 82 </h3>
@@ -450,10 +956,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u82" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:083-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q83" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 83 </h3>
@@ -472,10 +1003,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u83" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:084-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q84" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 84 </h3>
@@ -492,10 +1048,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u84" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:085-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q85" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 85 </h3>
@@ -513,10 +1094,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u85" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:086-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q86" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 86 </h3>
@@ -547,10 +1153,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u86" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:087-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q87" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 87 </h3>
@@ -571,10 +1202,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u87" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:088-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q88" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 88 </h3>
@@ -593,10 +1249,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u88" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:089-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q89" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 89 </h3>
@@ -614,10 +1295,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u89" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:090-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q90" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 90 </h3>
@@ -635,10 +1341,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u90" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:091-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q91" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 91 </h3>
@@ -656,10 +1387,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u91" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:092-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q92" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 92 </h3>
@@ -677,10 +1433,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u92" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:093-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q93" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 93 </h3>
@@ -698,10 +1479,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u93" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:094-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q94" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 94 </h3>
@@ -719,10 +1525,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u94" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:095-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q95" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 95 </h3>
@@ -739,10 +1570,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u95" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:096-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q96" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 96 </h3>
@@ -763,10 +1619,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u96" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:097-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q97" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 97 </h3>
@@ -787,10 +1668,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     than 0. </p>
             </div>
         </div>
+        {% assign this-uid = "u97" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:098-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q98" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 98 </h3>
@@ -809,10 +1715,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u98" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:099-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q99" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 99 </h3>
@@ -832,10 +1763,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> This question is only required if Question 98 Conformance Metrics is Yes. </p>
             </div>
         </div>
+        {% assign this-uid = "u99" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:100-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q100" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 100 </h3>
@@ -856,10 +1812,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 <p><strong>NOTE:</strong> This question is only required if Question 98 Conformance Metrics is Yes. </p>
             </div>
         </div>
+        {% assign this-uid = "u100" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:101-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q101" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 101 </h3>
@@ -880,10 +1861,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u101" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:102-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q102" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 102 </h3>
@@ -911,10 +1917,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u102" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:103-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q103" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 103 </h3>
@@ -930,10 +1961,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
             </ol>
             </p>
         </div>
+        {% assign this-uid = "u103" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:104-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q104" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 104 </h3>
@@ -957,10 +2013,35 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                 </p>
             </div>
         </div>
+        {% assign this-uid = "u104" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 <!-- Q:105-->
-<div class="usa-card tablet:grid-col-12">
+<div id="q105" class="usa-card tablet:grid-col-12">
     <div class="usa-card__container border-top">
         <div class="usa-card__header">
             <h3 class="usa-card__heading"> Question 105 </h3>
@@ -971,6 +2052,31 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
                     this assessment? (Optional) </strong></p>
             <p> Open response-text </p>
         </div>
+        {% assign this-uid = "u105" %}{% comment %} Modify this-uid for each understanding content/article {% endcomment %}
+        {% for each in site.data.gwaa_understanding %}
+            {% if each.uid == this-uid %}
+            <!-- Understanding -->
+            <div class="border-top-05 border-primary margin-top-1">
+                <div class="usa-accordion">
+                    <h4 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button understand_button padding-left-3 radius-bottom-lg"
+                        aria-expanded="false"
+                        aria-controls="{{ each.uid }}"
+                        >
+                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        </button>
+                    </h4>
+                    <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
+                        <div class="margin-x-auto margin-y-0">
+                            {{ each.descr | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
 
@@ -982,4 +2088,34 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
         < Previous</a>
 </div>
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** May 2023
+
+<!-- Expand/Collapse All Understanding Content script -->
+<script>
+    $("#expand-all").on("click", function (){
+        $(".understand_button").attr("aria-expanded", "true");
+        $(".understand_button").toggleClass("radius-bottom-lg");
+        $(".understand_content").removeAttr("hidden");
+    });
+    $("#collapse-all").on("click", function (){
+        $(".understand_button").attr("aria-expanded", "false");
+        $(".understand_button").toggleClass("radius-bottom-lg");
+        $(".understand_content").attr("hidden","");
+    });
+    $(".understand_button").on("click", function(){
+        $(this).toggleClass("radius-bottom-lg");
+    });
+</script>
+
+<!-- Unhide hash/anchor from external url -->
+<script>
+    $(function(){
+        var window_hash = window.location.hash;
+        if ($(window_hash).hasClass("usa-card")){
+            let u_hash = window_hash.replace("q", "u");
+            $(u_hash).removeAttr("hidden");
+            $(u_hash).prev().children(".understand_button").attr("aria-expanded", "true");
+            $(u_hash).prev().children(".understand_button").toggleClass("radius-bottom-lg");
+        }
+    });
+</script>

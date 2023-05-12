@@ -43,8 +43,9 @@ Learn the minimum steps needed to ensure your Microsoft Excel worksheet is Secti
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: May 2023
 
+ [0]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00/
  [1]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/
  [2]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/
  [3]: {{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/
