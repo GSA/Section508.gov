@@ -101,6 +101,33 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="formal"><strong>Formal:</strong></span> Officially sanctioned or recognized.
 
+- <span id="frequency"><strong>Frequency:</strong></span> Several places throughout the assessment criteria use the following frequency scale: 
+    - Never: 0%
+    - Sometimes/Some: Activities that are performed approximately 1%-24% of the time.
+    - Regularly: Activities that are performed approximately 25%-59% of the time.
+    - Frequently: Activities that are performed approximately 60%-89% of the time.
+    - Almost always: Activities that are performed approximately 90% or more of the time.
+
+    **NOTE** that the scale of frequency is not an evenly distributed linear scale.
+
+    A specific range is provided for each response (e.g., "25% to 59%"); it is not expected that your agency tracks the exact percentage for every item in the assessment (e.g., "Yes, my agency does XYZ 59.75% of the time, so that's 'Frequently'"). Your agency can make an estimate based on your agency's collective experience (e.g., "Yes, my agency does XYZ more than half the time – maybe even a bit more than half of the time. I think this is something my agency does 'Frequently'").
+
+    **Subjectivity and Interpretation**
+
+    Many of the question responses contain multiple items which may be difficult to assess as individual elements. For example, one of the responses for Question 55 is:
+
+    "d) Contract deliverables that are required to be Section 508 conformant are frequently verified prior to acceptance, including required remediation when necessary."
+
+    There are two parts to this response option: verification, and remediation. Are both items done 'Frequently'? Is verification 'frequent' and remediation is 'almost always'? There may be cases where there is not an exact answer, but please provide your agency’s best estimation of what happens in practice.
+
+    **Agency Goals versus Practice**
+
+    Please select the most appropriate response for what happens in practice at your agency. For example, one of the responses for Question 46 is:
+
+    "c) Agency requires a standard Section 508 conformance validation test process in formal policy and web content testers regularly follow the required test process.”
+
+    If it is true that your agency includes this requirement in formal policy, but in actual practice web content testers sometimes follow the required test process, please select the response that aligns with your agency practice rather than the requirement. In this situation, your agency response will be b) (Sometimes) rather than c) (Regularly) because the former more accurately reflects day to day activities.
+
 - <span id="frequently"><strong>Frequently:</strong></span> Activities that are performed 60%-89% of the time.
 
 - <span id="full-time-equivalent"><strong>FTE or Full-time Equivalent:</strong></span> The total number of regular straight-time hours worked (i.e., not including overtime or holiday hours worked) by employees divided by the number of compensable hours applicable to each fiscal year. Annual leave, sick leave, compensatory time off and other approved leave categories are considered "hours worked" for purposes of defining full-time equivalent employment that is reported. 
@@ -156,6 +183,9 @@ The following terms are referenced by reporting criteria of the annual Governmen
 - <span id="public-facing"><strong>Public Facing:</strong></span> Content which is made generally available to members of the public. Examples include, but are not limited to, internet websites, posts to social media, and email subscription services.
 
 - <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Established in the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf), the agency's standard feedback mechanism provides the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program. Submissions under this feedback mechanism do not inherently count as a Complaint but are considered a "public feedback response".
+
+- <span id="publication-process"><strong>Publication Process:</strong></span> A publication process for making content available on agency websites, but could also mean distribution of content via an email newsletter. More than one publication process may be followed depending on the publication method. 
+
 
 - <span id="program-manager"><strong>Program Manager:</strong></span> See [Section 508 Program Manager](#section-508-program-manager).
 
