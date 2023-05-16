@@ -184,7 +184,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Established in the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf), the agency's standard feedback mechanism provides the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program. Submissions under this feedback mechanism do not inherently count as a Complaint but are considered a "public feedback response".
 
-- <span id="publication-process"><strong>Publication Process:</strong></span> A process for publication for making content available on agency websites, but could also mean distribution of content via an email newsletter. More than one publication process may be followed depending on the publication method. 
+- <span id="publication-process"><strong>Publication Process:</strong></span> A publication process for making content available on agency websites, but could also mean distribution of content via an email newsletter. More than one publication process may be followed depending on the publication method. 
 
 
 - <span id="program-manager"><strong>Program Manager:</strong></span> See [Section 508 Program Manager](#section-508-program-manager).
