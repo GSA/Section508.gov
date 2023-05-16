@@ -124,17 +124,33 @@ Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
-Jennifer Jessup - 571-279-4434 - <jjessup@doc.gov>
-### National Institute of Standards and Technology (NIST)
-Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
-### National Oceanic and Atmospheric Administration (NOAA)
-Natalie Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>
-### U.S. Census Bureau
+Jennifer Jessup - 571-279-4434 - <jjessup@doc.gov>  
+### Bureau of Economic Analysis (BEA)
+Alexander Minor - <Alexander.Minor@bea.gov>  
+### Bureau of Industry and Security (BIS)
+Ida Mix - <ida.mix@bis.doc.gov>  
+### Bureau of the Census (CENSUS)
 David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
+### Economic Development Administration (EDA)
+John Atwood - <jatwood@eda.gov>  
+### International Trade Administration (ITA)
+Lois Mockbee - <lois.mockabee@trade.gov>  
+### Minority Business Development Agency (MBDA) 
+Brenda Jenkins - <bjenkins@doc.gov>  
+### National Institute of Standards and Technology (NIST)
+Kathy Lynch - 301-975-2864 - <kathy.lynch@nist.gov>  
+### National Oceanic and Atmospheric Administration (NOAA)
+Natalie D. Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>  
+### National Technical Information Service (NTIS)
+Charlie Franz - <cfranz@ntia.doc.gov>  
+### National Telecommunications and Information Administration (NTIA)
+Todd McKeever - <tmckeever@ntis.gov>  
+* **First Responder Network Authority (FirstNet)**<br>Matthew Olenn - <matthew.olenn@firstnet.gov>  
+
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>  
 Maureen Brown - 703-756-1788 - <maureen.brown@uspto.gov>  
-Patricia Kless - 703-756-1977 - <patricia.kless@uspto.gov>
+Patricia Kless - 703-756-1977 - <patricia.kless@uspto.gov>  
 
 ----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense (DOD)
