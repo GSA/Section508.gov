@@ -1,0 +1,69 @@
+
+<!-- Bordered section-->
+<div art-generic-text-layout="top-border">
+
+    <div class="margin-3">
+        <!-- Upload ICT section-->
+        <div *ngIf="nextPage.uploadICT === landingPageService.getNextPage()" >
+            <!-- Get Upload button container section-->
+            <div class="margin-bottom-neg-1">
+                <div class ="font-serif-lg">
+                    <b>{{artIctLpService.getUploadBtn().description}}</b>
+                </div>
+            </div>
+
+            <!-- File upload section-->
+            <div id="art-upload-button-container" class="margin-left-2 margin-bottom-3">
+                <art-file-upload 
+                    (getFileData)="onFileReceive($event)" 
+                    [maxFilesNbr]="maxItems - ictItems.length"
+                    [maxFile]="maxItems"
+                    [maxLength] = "artIctLpService.getMaxLength()"
+                >
+                </art-file-upload>
+            </div>
+        </div>
+
+        <!-- Input field section-->
+        <art-generic-text *ngIf="artIctLpService.getSectionTitle() && nextPage.getStarted === landingPageService.getNextPage()">
+                <div class ="font-serif-lg margin-bottom-1">
+                    <b>{{artIctLpService.getSectionTitle()}}</b>
+                </div>
+                <div class="margin-left-2">
+                    <p class="margin-bottom-0">
+                        {{artIctLpService.getInputLabel()}}
+                    </p>
+                    <!-- Input field -->
+                    <art-form-template 
+                        [formConfig]="formConfig" 
+                        [scanChange]="scanChange"
+                        (formData)="onFormSubmitted($event)"
+                    ></art-form-template>
+                    <i class="usa-error-message font-sans-2xs" *ngIf="ictItems.length >= maxItems">{{artIctLpService.getErrorMsg()}}</i>
+                </div>         
+        </art-generic-text>
+         <!-- Listing ICT Items -->
+         <div class="margin-left-2 margin-top-1">
+            <span *ngFor= "let eachIctItem of ictItems; let index = index">
+                <art-ict-item 
+                    [index] = "index + 1"
+                    [ictItem]="eachIctItem"
+                    (delete)="onItemDelete($event)"
+                >
+                </art-ict-item>
+            </span>
+        </div>  
+        <!-- Continue button-->
+        <div class="margin-top-5" *ngIf="ictItems">
+            <art-button  
+                [buttonData] = "artIctLpService.getContBtl()" 
+                [disabled]="ictItems.length <= 0"
+                >
+            </art-button>
+        </div>
+    </div>
+</div>
+
+
+
+

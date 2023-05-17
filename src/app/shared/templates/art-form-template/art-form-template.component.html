@@ -1,0 +1,94 @@
+<div class="grid-row">
+<div *ngIf="sideMenu.sideNavItems.length > 0" class="tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6">
+    <art-side-navigation (menuItemSelected)="onSideNavItemSelected($event)" [sideMenu]="sideMenu"></art-side-navigation>
+</div>
+
+<!-- Will display all ICT FORM 1..10-->
+<div class="tablet:grid-col-8 tablet:margin-bottom-0">
+
+<div #formGroupAnchor *ngFor="let eachFormConfig of formConfig; let outerIndex = index ; let last = last" [ngClass]="{'ogp-display-none':outerIndex !== navIndex,'ogp-display-bloc':outerIndex === navIndex}">
+    <form  [formGroup]="formList[outerIndex]" (ngSubmit)="onFormSubmit(outerIndex)" [hidden]="outerIndex !== navIndex">
+        <!-- For each form, it will list all the control or form element-->
+        <div [hidden]="outerIndex !== navIndex" class="grid-row" 
+            [ngClass]="{
+                        'flex-row':eachFormConfig.formButtons.add,
+                        'flex-align-end':eachFormConfig.formButtons.add,  
+                        'flex-column':!eachFormConfig.formButtons.add}"
+                        >
+            
+            <div *ngFor="let eachControl of allControlList[outerIndex]; let index = index; let first=first" 
+                 class="form-section" id="form-section-{{controlList.length*outerIndex + index }}"
+                 >
+                <h2 
+                    *ngIf="!eachFormConfig.formElements[index].hidden && eachFormConfig.formElements[index].formSection" 
+                    class="font-sans-lg  margin-bottom-2" 
+                    [ngClass]="{'margin-top-3':'index!==first'}">
+                    <b>{{eachFormConfig.formElements[index].formSection}}</b>
+                </h2>
+                <div class="margin-top-2" *ngIf="!eachFormConfig.formElements[index].hidden"  >
+                    <art-text-field 
+                        *ngIf="eachFormConfig.formElements[index].elementType === 'text'"  
+                        [formData]="eachFormConfig.formElements[index]" 
+                        [hidden]="false"
+                        (eltClicked) = "onElementClick($event, outerIndex)"
+                        [control] = "eachControl">
+                    </art-text-field>
+                    <!-- Radio Button Group -->
+                    <div *ngIf="eachFormConfig.formElements[index].elementType === 'radioButtonGroup' && !eachFormConfig.formElements[index].hidden">
+                        <art-radiobutton-group 
+                            [formData]="eachFormConfig.formElements[index]" 
+                            [hidden]="false"
+                            (eltClicked) = "onElementClick($event,outerIndex )"
+                            [formGroup]="eachControl"></art-radiobutton-group>
+                    </div>
+
+                    <art-checkbox-group *ngIf="eachFormConfig.formElements[index].elementType === 'checkboxGroup' && !eachFormConfig.formElements[index].hidden"
+                        [formData]="eachFormConfig.formElements[index]"
+                        [formGroup]="eachControl"
+                        [dataUpdated]="eltUpdated"    
+                        (eltClicked) = "onElementClick($event, outerIndex)"                   
+                        >
+                    </art-checkbox-group>
+                </div>
+            </div>
+            <div tabindex = "0" aria-label="Content is loading, additional information is being displayed" class="ogp-flex-center" *ngIf="loading">
+                <div class="lds-ripple"><div></div><div></div></div>
+            </div>
+            <!-- This button will be disable if the form is not valid and if the value is null-->
+            <button 
+                *ngIf="eachFormConfig.formButtons.add"
+                [disabled]="!formList[outerIndex].valid || formList[outerIndex].value === null" 
+                id="art-add-btn for index {{outerIndex}}" 
+                aria-label="Add an ICT Item"
+                class="usa-button usa-button--accent-warm art-add-btn" 
+                type="submit">{{eachFormConfig.formButtons.add}}
+            </button>
+        </div>
+    </form>
+    <br>
+</div>
+<div *ngIf="this.router.url.includes('form-page')" class="ogp-flex">
+    <div>
+        <art-button class="ogp-btn" [disabled]="navIndex === 0" class="" [buttonData]="backButton" (click)="navBackForm()"> </art-button>
+        <art-button class="ogp-btn" *ngIf="navIndex <= formConfig.length - 2" [buttonData]="nextButton" (click)="navNextForm()"> </art-button>
+        <button 
+            *ngIf="navIndex === formConfig.length - 1"
+            [disabled]="" 
+            class="ogp-btn usa-button usa-button--accent-warm" 
+            type="submit"
+            (click)="onFormSubmit(0)">
+            {{formConfig[0].formButtons.submit}}
+            
+        </button>
+    </div>
+    <div class="ogp-btn" *ngIf="formConfig[0].formButtons.submit">
+        <art-save-json [saveAsInfo]="{btnName:'Save for later (.json)', fileName:'jsonData.json'}" [ictItem]="currentFormData" ></art-save-json>
+
+        
+        <!-- <button 
+            (click)="onReset()"
+            class="usa-button usa-button--secondary" 
+            type="button">Clear Form
+        </button> -->
+    </div>
+</div>

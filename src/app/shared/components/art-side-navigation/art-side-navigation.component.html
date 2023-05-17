@@ -1,0 +1,11 @@
+<nav aria-label="Side navigation, please use the enter key or the mouse to make a selection!" class="art-side-navigation">
+    <ul class="usa-sidenav">
+        <li class="usa-sidenav__item" *ngFor="let menuItem of sideMenu?.sideNavItems; let last = last; let index=index">
+            <a href="javascript:void(0);" class="side-nav-link {{ menuItem?.id == sideMenu?.activeId ? 'usa-current' : '' }}"
+               (click)="menuItemClicked(menuItem.id, false)"
+               (keydown.Tab) = "tabKeyPress($event, last)"
+               >{{ menuItem.name }}
+            </a>
+        </li>
+    </ul>
+</nav>

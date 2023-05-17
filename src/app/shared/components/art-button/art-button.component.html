@@ -1,0 +1,9 @@
+<button 
+    [disabled]="disabled"
+    type="button" 
+    class="usa-button " 
+    [ngClass] = "{'ogp-tile':btnTile, 'usa-button--accent-warm': buttonData?.btnClass == 'warm', 'usa-button--base': buttonData?.btnClass == 'base'}"
+    [attr.aria-label]="buttonData?.ariaLabel"
+    (click)="buttonClicked()">
+        {{buttonData?.label}}
+</button>

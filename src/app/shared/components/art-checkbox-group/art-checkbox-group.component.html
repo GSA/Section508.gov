@@ -1,0 +1,23 @@
+<div [hidden] = "hidden" class="usa-form-group">
+    <div  class="margin-bottom-2"><b>{{formData?.title}}</b></div>
+    <fieldset class="usa-fieldset">
+        <p class="usa-legend margin-y-0" [innerHTML]="formData?.label"></p>
+
+        <div class="usa-checkbox" *ngFor="let formItem of formData?.options" [ngClass]="{'is-active':getControls(formItem.controlName).value}">
+            <input
+                    class="usa-checkbox__input"
+                    id="{{ formItem.controlName}}"
+                    type="checkbox"
+                    name="{{ formItem.controlName}}"
+                    [formControl]="getControls(formItem.controlName)"
+                    (click)="onClicked(formItem)"
+                    [attr.aria-label] = "formPageService.generateAriaLabel(formItem,formData)"
+                    />
+            <label class="usa-checkbox__label art-bold" for="{{ formItem.controlName}}" > {{formItem.label}}
+                <span class="usa-checkbox__label-description " [innerHTML]="formItem.description">
+                </span>
+            </label>
+        </div>
+
+    </fieldset>
+</div>

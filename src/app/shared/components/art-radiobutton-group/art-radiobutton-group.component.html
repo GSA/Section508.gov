@@ -1,0 +1,39 @@
+<div [formGroup]="formGroup" [hidden]="hidden">
+    <div  class="margin-bottom-2"><b>{{formData?.title}}</b></div>
+    <fieldset class="usa-fieldset">
+        <p *ngIf="formData?.label" class="usa-legend margin-y-0">{{formData?.label}}</p>
+        <!-- TODO: Show Error message here -->
+        <div *ngFor="let button of formData?.options, let i=index">
+            <div class="usa-radio">
+                <input
+                 (click)="onClicked(button)"
+                  class="usa-radio__input usa-radio__input--tile"
+                  id="radio_answer_{{button.controlName}}_{{i}}"
+                  type="radio"
+                  formControlName="{{formData?.controlName}}"
+                  value="{{button.value}}"
+                  [attr.name]="formData?.controlName"
+                  formPageService
+                  [attr.aria-label] = "formPageService.generateAriaLabel(button,formData)"
+                />
+                <label  
+                    id = "radio_label_{{button.controlName}}_{{i}}" 
+                    class="usa-radio__label" 
+                    [ngClass]="{'art-bold': button.description}"  
+                    for="radio_answer_{{button.controlName}}_{{i}}"
+                    >{{button.label}}
+                    <span *ngIf="button.description" class="usa-checkbox__label-description" [innerHTML]="button.description"></span>
+                </label>
+            </div>
+        </div>
+        <div *ngFor="let eachOpt of formData?.options">
+            <div *ngIf="formGroup.value[formData!.controlName] === eachOpt.value && eachOpt.info" class="usa-alert usa-alert--info usa-alert--no-icon margin-top-2">
+                <div class="usa-alert__body">
+                  <p class="usa-alert__text">
+                    {{eachOpt.info}}
+                  </p>
+                </div>
+            </div>
+        </div>
+    </fieldset>
+</div>

@@ -1,0 +1,22 @@
+
+<div class="usa-form-group" [ngClass]="{'usa-form-group--error':displayError()}"  [hidden]="hidden">
+  <div  class="margin-bottom-0"><b>{{formData?.title}}</b></div>
+
+  <label *ngIf="formData?.label" class="usa-label " [for]="'input'+fromControl"
+    >{{formData?.label}}</label
+  >
+  <span class="usa-checkbox__label-description usa-hint" *ngIf="formData?.description" >{{formData?.description}}</span>
+
+  <span *ngIf="displayError()" class="usa-error-message" role="alert" for="input-error">{{displayError()}}</span>
+
+  <input
+    class="usa-input" [ngClass]="{'usa-input--error':displayError()}"
+    autocomplete="off"
+    [id]="'input'+fromControl"
+    [attr.aria-label] = "formData?.title + ' ' + fromControl.value"
+    [placeholder]="formData?.placeholder"
+    name="input"
+    [formControl]="fromControl"
+  />
+</div>
+
