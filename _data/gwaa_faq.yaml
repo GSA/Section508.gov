@@ -47,7 +47,7 @@
   id: 10
   q: Will there be a working session or sessions to review the questions and receive any clarifications needed?
   a: |
-    Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 11th. Please check the [Support page](https://www.section508.gov/manage/section-508-assessment/support/) and [Events page](https://www.section508.gov/events/) for all sessions and how to register. The GSA Government-wide IT Accessibility team will also use the May and July Section 508 Program Manager huddles will dedicate time to answering questions on the report.
+    Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 11th. Please check the <a href="../support/" target="_blank">Support page</a> and <a href="../../../events/" target="_blank">Events page</a> for all sessions and how to register. The GSA Government-wide IT Accessibility team will also use the May and July Section 508 Program Manager huddles will dedicate time to answering questions on the report.
 -  
   id: 11
   q: As a department/agency with components, what information should I report on?
@@ -205,7 +205,7 @@
   id: 28
   q: Will additional office hours be available?
   a: |
-    Yes, GSA anticipates having office hours through early August, though the frequency may vary. Please continue to check the [Events](https://www.section508.gov/events/) page as office hours are scheduled.
+    Yes, GSA anticipates having office hours through early August, though the frequency may vary. Please continue to check the <a href="../../../events/" target="_blank">Events page</a> page as office hours are scheduled.
 -  
   id: 29
   q: What answer should I select if my agency is in between two options, such as A and B?

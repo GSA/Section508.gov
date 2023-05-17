@@ -13,13 +13,15 @@ title: "Government-wide Section 508 Assessment Frequently Asked Questions"
 
 {% for faq in site.data.gwaa_faq %}
 <div class="usa-accordion">
-    <h2 class="usa-accordion__heading">
-        <button type="button" class="usa-accordion__button faq_button" aria-expanded="false" aria-controls="faq-{{ faq.id }}">
+    <h2 class="usa-accordion__heading" id="q-{{ faq.id }}">
+        <button type="button" class="usa-accordion__button faq_button" aria-expanded="false" aria-controls="a-{{ faq.id }}">
         {{ faq.q }}
         </button>
     </h2>
-    <div id="faq-{{ faq.id }}" class="usa-accordion__content faq_content usa-prose">
+    <div id="a-{{ faq.id }}" class="usa-accordion__content faq_content usa-prose">
+        <div class="margin-x-auto">
         {{ faq.a | markdownify }}
+        </div>
     </div>
 </div>
 {% endfor %}
