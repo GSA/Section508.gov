@@ -8,12 +8,7 @@
     "start": "bundle exec jekyll serve",
     "start:art": "",
     "test": "bundle exec htmlproofer _site --http-status-ignore '0,403'; pa11y-ci '_site/**/*.html'",
-    "federalist": "
-    if [ 12 -gt 10 ]
-then
-echo Current Branch: ${BRANCH}.
-pwd
-fi"
+    "federalist": " echo 'It is working'"
   },
   "dependencies": {
     "uswds": "~2.13.2"
