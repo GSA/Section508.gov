@@ -8,7 +8,7 @@
     "start": "bundle exec jekyll serve",
     "start:art": "",
     "test": "bundle exec htmlproofer _site --http-status-ignore '0,403'; pa11y-ci '_site/**/*.html'",
-    "federalist": " url = 'https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/'; echo 'It is working -->' $url${BRANCH}; [ ${BRANCH} = 'main' ] && echo 'TEST';  [ ${BRANCH} != 'main' ] && echo $url${BRANCH}"
+    "federalist": " bash ./angular-build.sh; url = 'https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/'; echo 'It is working -->' $url${BRANCH}; [ ${BRANCH} = 'main' ] && echo 'TEST';  [ ${BRANCH} != 'main' ] && echo $url${BRANCH}"
   },
   "dependencies": {
     "uswds": "~2.13.2"
