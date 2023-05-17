@@ -285,7 +285,7 @@ Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
-Erin Washington - 240-276-0571 - <erin.washington@samhsa.hhs.gov>
+Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
 
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
