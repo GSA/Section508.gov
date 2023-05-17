@@ -2,7 +2,7 @@
     "events":
     [
         {
-        "title": "Acquisition and Procurement", 
+        "title": "Acquisition and Procurement",
         "content" :
         [
             {
@@ -27,7 +27,7 @@
                 "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the Accessibility Requirements Tool (ART) tool for guided assistance to identify relevant accessibility requirements: https://app.buyaccessible.gov/."
             }
         ]
-        }  
-        
+        } 
+       
     ]
-}
+ } 

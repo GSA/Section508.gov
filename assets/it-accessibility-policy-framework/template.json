@@ -2,7 +2,7 @@
     "events":
     [
         {
-        "title": "Acquisition and Procurement", 
+        "title": "Acquisition and Procurement",
         "content" :
         [
             {
@@ -26,9 +26,9 @@
                 "rInclusions": "",
                 "rPolicy": ""
             }
-
+ 
         ]
-        }  
-        
+        } 
+       
     ]
-}
+ } 
