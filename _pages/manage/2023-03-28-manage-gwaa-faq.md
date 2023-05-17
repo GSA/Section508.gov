@@ -13,7 +13,7 @@ title: "Government-wide Section 508 Assessment Frequently Asked Questions"
 
 {% for faq in site.data.gwaa_faq %}
 <div class="usa-accordion">
-    <h2 class="usa-accordion__heading" id="q-{{ faq.id }}">
+    <h2 class="usa-accordion__heading faq_heading" id="q-{{ faq.id }}">
         <button type="button" class="usa-accordion__button faq_button" aria-expanded="false" aria-controls="a-{{ faq.id }}">
         {{ faq.q }}
         </button>
@@ -37,5 +37,17 @@ title: "Government-wide Section 508 Assessment Frequently Asked Questions"
     $("#collapse-all").on("click", function (){
         $(".faq_button").attr("aria-expanded", "false");
         $(".faq_content").attr("hidden","");
+    });
+</script>
+
+<!-- Unhide hash/anchor from external url -->
+<script>
+    $(function(){
+        var window_hash = window.location.hash;
+        if ($(window_hash).hasClass("faq_heading")){
+            let a_hash = window_hash.replace("q", "a");
+            $(a_hash).removeAttr("hidden");
+            $(a_hash).prev().children(".faq_button").attr("aria-expanded", "true");
+        }
     });
 </script>
