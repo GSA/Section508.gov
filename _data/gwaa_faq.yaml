@@ -118,12 +118,32 @@
   q: How do I determine frequency of activities?
   a: |
     <ol type="a">
-      <li>Never: 0%</li>
-      <li>Sometimes/Some: Activities that are performed approximately 1%-24% of the time.</li>
-      <li>Regularly: Activities that are performed approximately 25%-59% of the time.</li>
-      <li>Frequently: Activities that are performed approximately 60%-89% of the time.</li>
-      <li>Almost always: Activities that are performed approximately 90% or more of the time.</li>
+      <li><strong>Never</strong>: 0%</li>
+      <li><strong>Sometimes/Some</strong>: Activities that are performed approximately 1%-24% of the time.</li>
+      <li><strong>Regularly</strong>: Activities that are performed approximately 25%-59% of the time.</li>
+      <li><strong>Frequently</strong>: Activities that are performed approximately 60%-89% of the time.</li>
+      <li><strong>Almost always</strong>: Activities that are performed approximately 90% or more of the time.</li>
     </ol>
+
+    **NOTE** that the scale of frequency is not an evenly distributed linear scale.
+
+    A specific range is provided for each response (e.g., "25% to 59%"); it is not expected that your agency tracks the exact percentage for every item in the assessment (e.g., "Yes, my agency does XYZ 59.75% of the time, so that's 'Frequently'"). Your agency can make an estimate based on your agency's collective experience (e.g., "Yes, my agency does XYZ more than half the time – maybe even a bit more than half of the time. I think this is something my agency does 'Frequently'").
+
+    **Subjectivity and Interpretation**
+
+    Many of the question responses contain multiple items which may be difficult to assess as individual elements. For example, one of the responses for Question 55 is:
+
+    "d) Contract deliverables that are required to be Section 508 conformant are frequently verified prior to acceptance, including required remediation when necessary."
+
+    There are two parts to this response option: verification, and remediation. Are both items done 'Frequently'? Is verification 'frequent' and remediation is 'almost always'? There may be cases where there is not an exact answer, but please provide your agency’s best estimation of what happens in practice.
+
+    **Agency Goals versus Practice**
+
+    Please select the most appropriate response for what happens in practice at your agency. For example, one of the responses for Question 46 is:
+
+    "c) Agency requires a standard Section 508 conformance validation test process in formal policy and web content testers regularly follow the required test process.”
+
+    If it is true that your agency includes this requirement in formal policy, but in actual practice web content testers sometimes follow the required test process, please select the response that aligns with your agency practice rather than the requirement. In this situation, your agency response will be b) (Sometimes) rather than c) (Regularly) because the former more accurately reflects day to day activities.
 -  
   id: 17
   q: Will I be able to write open-ended explanations to answer selections?
