@@ -101,7 +101,7 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
-## Office of Ethics
+### Office of Ethics
 Jordon Murphy - <jordon.murphy@usda.gov>
 ### Office of General Council (OGC)
 Jamie Lyons - <jamie.lyons@usda.gov>
@@ -110,8 +110,9 @@ Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
 Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
+Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
-* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - <ricardo.s.romero@usda.gov>  
 * **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
