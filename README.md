@@ -248,21 +248,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Build Locally
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build:dev` to build the project. The build artifacts will be stored in the `art/` directory.
 
 ## Dev Build
 
 Run `npm run build:dev` to build the project with configurations for the development environment. The build artifacts will be stored in the `dist/` directory.
-
-## Build
-
-Run `npm run build:test` to build the project with configurations for the test environment. The build artifacts will be stored in the `dist/` directory.
-
-## Build
-
-Run `npm run build:prod` to build the project with configurations for the production environment. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 

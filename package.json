@@ -10,10 +10,6 @@
     "ng": "ng",
     "start:ang": "ng serve --configuration development",
     "build:ang": "ng build --configuration dev",
-    "build:ang-dev": "ng build --configuration dev --base-href=https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/development-art/art/",
-    "build:ang-test": "ng build --configuration test --base-href=https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/test-art/art/",
-    "build:ang-staging": "ng build --configuration staging --base-href=https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/preview/gsa/section508.gov/staging-art/art/",
-    "build:ang-prod": "ng build --configuration production --base-href=https://www.section508.gov/art/",
     "watch": "ng build --watch --configuration development",
     "test:ang": "ng test",
     "federalist": " bash ./angular-build.sh; "
