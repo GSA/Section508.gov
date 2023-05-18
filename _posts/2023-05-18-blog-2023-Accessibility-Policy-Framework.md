@@ -13,6 +13,8 @@ All too often, digital accessibility is not top of mind for the agency policymak
 ## What is the Policy Framework?
 To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the IT Accessibility Policy Framework (the policy framework) to help agencies assess to what extent your agency’s policies should include accessibility information, and whether or not they include the appropriate amount and type of accessibility information. It offers your agency guidance on how to holistically assess internal policies against standard criteria, and how to update your IT accessibility language accordingly.
 
+<button type="" class="usa-button margin-left-auto">Test Button</button>
+
 The policy framework organizes policies into three categories:
 * Organizational Purpose/Governing Guidelines that specify the need for creation of additional policies, rules and/or directives (Strategic Level Document)
 * Office Rules, Policies, and Directives that define goals and high-level ways of working (Operational Level Document)
@@ -32,9 +34,9 @@ First, collect your agency’s policies and directives, including only those tha
 
 <table class="usa-table"> 
     <caption>
-        Policy Review Template Excerpt
+        Table 1. Policy Review Template Excerpt
     </caption>
-    <thead>
+    <thead, class="">
         <tr>
             <th scope="col">General Policy Type</th>
             <th scope="col">Agency-specific Policy Type</th>
@@ -91,10 +93,11 @@ First, collect your agency’s policies and directives, including only those tha
 
 Next, analyze relevant policies, assessing them for Importance to Accessibility and Sufficiency of Accessibility Information. You can visualize the policy analysis with the Information and Communications Technology (ICT) Accessibility Policy Need/Engagement Matrix shown below.
 
-<p class="table-heading"><b>Table 1. ICT Accessibility Policy Need/Engagement Matrix.</b></p>
 <div class="table-it">
     <div class="column-table">
         <table id="table2-it">
+            <caption>Table 2. ICT Accessibility Policy Need/Engagement Matrix
+            </caption>
             <tr>
                 <tr>
                     <td colspan="2" rowspan="2" style= "width:15%;border:none;opacity:0;">Blank matrix origin</td>
