@@ -322,9 +322,8 @@ Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.
 ### Office of the Inspector General&nbsp;(OIG)
 Robert Fritzen - 202-981-6244 - <robert.fritzen@oig.dhs.gov>  
 Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
-### Science and Technology (S&T)
-VACANT    
-Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
+### Science and Technology Directorate (S&T)
+Heather Erhuanga - 202-941-8731	-	<heather.erhuanga@hq.dhs.gov>  
 ### Transportation Security Administration (TSA)
 Matthew Bryne - 571-318-0307 - <matthew.byrne@tsa.dhs.gov>  
 Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
@@ -599,7 +598,7 @@ Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 Patcharee "Pat"	Phongsvirajati - 202-694-1242 - <pphongsvirajati@fec.gov>  
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
-Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
+Dornesia Webster - 202-502-6561 - <dornesia.webster@ferc.gov>  
 ### Federal Housing Finance Agency (FHFA)
 Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
