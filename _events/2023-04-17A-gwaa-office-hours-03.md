@@ -13,7 +13,6 @@ The Office of Management and Budget (OMB), General Services Administration (GSA)
 Prior to participating in an office hours event, please ensure that you are familiar with the guidance resources below, which will allow us to address questions not fully covered by these resources: 
 - [Instructions][1]
 - [Assessment Criteria][2] 
-- [Supplemental Guide][3]
 - [Frequently Asked Questions (FAQ)][4]
 - [Definition of Terms][5]
 
@@ -34,7 +33,6 @@ This virtual meeting is supported by Zoom for Government (FedRAMP certified). Pl
 
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
-[3]: {{site.baseurl}}/manage/section-508-assessment/supplemental-guide/
 [4]: {{site.baseurl}}/manage/section-508-assessment/faq/
 [5]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
 [6]: {{site.baseurl}}/events/
