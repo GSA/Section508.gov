@@ -20,13 +20,13 @@ Prior to participating in an office hours event, please ensure that you are fami
 ## Event Details
 **DATE:** June 6, 2023  
 **TIME:** 11:00 AM - 12:30 PM (EST)  
-**WHERE:** Virtual via Zoom for Government  
+**WHERE:** Virtual  
 **WHO:** Agency points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
 [Registration][7] is now open and will close Tuesday, June 6 at 10:30 AM ET. [Sign up today!][7]   
 
-This virtual meeting is supported by Microsoft Teams. Please feel free to attend via your personal device.  
+This virtual meeting is supported by Zoom for Government. Please feel free to attend via your personal device.  
 
 *Note: **You must join the meeting using your first and last name** (inclusion of agency affiliation is optional). Nicknames and phone numbers will not be given access.
 
