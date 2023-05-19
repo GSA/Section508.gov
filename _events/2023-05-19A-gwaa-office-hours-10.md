@@ -19,8 +19,8 @@ Prior to participating in an office hours event, please ensure that you are fami
 
 ## Event Details
 **DATE:** June 6, 2023  
-**TIME:** 11:00 PM - 12:30 PM (EST)  
-**WHERE:** Virtual via Zoom for Government
+**TIME:** 11:00 AM - 12:30 PM (EST)  
+**WHERE:** Virtual via Zoom for Government  
 **WHO:** Agency points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
