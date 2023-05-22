@@ -6,12 +6,12 @@ title: 'Play 6: Collaborate with the federal accessibility community'
 created: 1526408722
 ---
 
-A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program.
+A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. Join the IT [Accessibility/508 Community mailing list](https://www.section508.gov/manage/join-the-508-community/). This collaboration can lead to a more mature and comprehensive program.
 
 ## Key Questions
 
-  * Do you participate in interagency technology accessibility forums?
-  * How do you collaborate with the Section 508 Program Managers of other federal agencies to learn about and contribute to best practices?
+  * Do you participate in [interagency technology accessibility forums](https://www.section508.gov/iaaf/)?
+  * How do you collaborate with the [Section 508 Program Managers](https://www.section508.gov/tools/coordinator-listing/) of other federal agencies to learn about and contribute to best practices?
   * How has collaboration accelerated your Section 508 program&rsquo;s maturity and lowered implementation costs?
 
 ## Checklist
