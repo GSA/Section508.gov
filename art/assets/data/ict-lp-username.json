@@ -1,0 +1,5 @@
+{
+    "errorMessage":"Please enter a valid name",
+    "userName":"What is your name?",
+    "inputLabel":"Please put your name as Point of Contact for this document. This field is optional. The name entered will be reflected on the output document and can be edited after download."
+}
