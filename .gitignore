@@ -8,3 +8,4 @@ node_modules
 .DS_Store
 Gemfile.lock
 package-lock.json
+/.vs/Section508.gov/FileContentIndex
