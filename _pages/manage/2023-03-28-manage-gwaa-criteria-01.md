@@ -14,7 +14,7 @@ These questions are broken down into eleven different criteria; nine focus on ma
 Agency POCs will receive a link via email to the reporting tool no later than June 1st to submit the information. Feel free to use the following <a href="https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" download>spreadsheet (XLSX)</a> to help you collect the information; however, responses <strong>must</strong> be submitted using the reporting tool. You may also simply print the criteria questions directly from this page as a guide.
 
 <H2 id="general-information">General Information</H2>
-<p>Questions in this section ask about information and metrics related to the activities of your agency's Section 508 Program’s (or equivalent) activities.</p>
+<p>Questions in this section ask about information and metrics related to the activities of your agency's Section 508 Program (or equivalent) activities.</p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-y-3 margin-x-1">

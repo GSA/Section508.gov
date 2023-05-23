@@ -101,7 +101,7 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
-## Office of Ethics
+### Office of Ethics
 Jordon Murphy - <jordon.murphy@usda.gov>
 ### Office of General Council (OGC)
 Jamie Lyons - <jamie.lyons@usda.gov>
@@ -110,8 +110,9 @@ Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
 Millie Abdi - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
+Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
-* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - <ricardo.s.romero@usda.gov>  
 * **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
@@ -124,17 +125,33 @@ Kelly Kuykendall - <kelly.kuykendall@usda.gov>
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
-Jennifer Jessup - 571-279-4434 - <jjessup@doc.gov>
-### National Institute of Standards and Technology (NIST)
-Kathy Lynch - 301.975.2864 - <kathy.lynch@nist.gov>
-### National Oceanic and Atmospheric Administration (NOAA)
-Natalie Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>
-### U.S. Census Bureau
+Jennifer Jessup - 571-279-4434 - <jjessup@doc.gov>  
+### Bureau of Economic Analysis (BEA)
+Alexander Minor - <Alexander.Minor@bea.gov>  
+### Bureau of Industry and Security (BIS)
+Ida Mix - <ida.mix@bis.doc.gov>  
+### Bureau of the Census (CENSUS)
 David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
+### Economic Development Administration (EDA)
+John Atwood - <jatwood@eda.gov>  
+### International Trade Administration (ITA)
+Lois Mockbee - <lois.mockabee@trade.gov>  
+### Minority Business Development Agency (MBDA) 
+Brenda Jenkins - <bjenkins@doc.gov>  
+### National Institute of Standards and Technology (NIST)
+Kathy Lynch - 301-975-2864 - <kathy.lynch@nist.gov>  
+### National Oceanic and Atmospheric Administration (NOAA)
+Natalie D. Smith - 301-713-3525 x213 - <natalie.d.smith@noaa.gov>  
+### National Technical Information Service (NTIS)
+Charlie Franz - <cfranz@ntia.doc.gov>  
+### National Telecommunications and Information Administration (NTIA)
+Todd McKeever - <tmckeever@ntis.gov>  
+* **First Responder Network Authority (FirstNet)**<br>Matthew Olenn - <matthew.olenn@firstnet.gov>  
+
 ### U.S. Patent and Trademark Office (USPTO)
 Mark Reumann - 571-272-6473 - <mark.reumann@uspto.gov>  
 Maureen Brown - 703-756-1788 - <maureen.brown@uspto.gov>  
-Patricia Kless - 703-756-1977 - <patricia.kless@uspto.gov>
+Patricia Kless - 703-756-1977 - <patricia.kless@uspto.gov>  
 
 ----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense (DOD)
@@ -269,7 +286,7 @@ Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
-Erin Washington - 240-276-0571 - <erin.washington@samhsa.hhs.gov>
+Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
 
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
@@ -305,9 +322,8 @@ Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.
 ### Office of the Inspector General&nbsp;(OIG)
 Robert Fritzen - 202-981-6244 - <robert.fritzen@oig.dhs.gov>  
 Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
-### Science and Technology (S&T)
-VACANT    
-Lynette Smith (BACKUP) - 202-254-5769 - <lynette.smith@associates.hq.dhs.gov>
+### Science and Technology Directorate (S&T)
+Heather Erhuanga - 202-941-8731	-	<heather.erhuanga@hq.dhs.gov>  
 ### Transportation Security Administration (TSA)
 Matthew Bryne - 571-318-0307 - <matthew.byrne@tsa.dhs.gov>  
 Erich Pfleeger (BACKUP) - 571-227-3509 - <erich.pfleeger@tsa.dhs.gov>
@@ -582,7 +598,7 @@ Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
 Patcharee "Pat"	Phongsvirajati - 202-694-1242 - <pphongsvirajati@fec.gov>  
 FEC IT Accessibility Program - <508coordinator@fec.gov>
 ### Federal Energy Regulatory Commission (FERC)
-Brittany Summers -&nbsp;202-502-6582 - <brittany.summers@ferc.gov>
+Dornesia Webster - 202-502-6561 - <dornesia.webster@ferc.gov>  
 ### Federal Housing Finance Agency (FHFA)
 Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
@@ -673,7 +689,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: May 4, 2023
+**Reviewed/Updated**: May 17, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
