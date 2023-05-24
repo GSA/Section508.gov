@@ -682,6 +682,8 @@
   descr: |
     Please refer to the definition of [Fully Conform](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF) before answering this question. 
 
+    Your agency is responsible for ensuring all ICT it procures, creates, maintains or <strong>USES</strong> is accessible. If your agency’s employees receive an electronic W-2 provided or produced by another agency, do not assume the W-2 conforms to Section 508 standards. Test your agency’s W-2 and select the best response. 
+    
     **NOTE:** If your agency only sends paper W-2 forms to employees, select N/A. If your agency sends employees an electronic document (either by request or automatically), then it should be tested as an electronic document. If your agency allows employees to access an online copy of their W-2, then that system should be tested as a web page.
 -   
   qid: q92
