@@ -1,0 +1,24 @@
+<atr-step-indicator [stepsData]="stepsData"  [update] = "updateStep" (getSelectedTab)="onSelectedTabReceive($event)"></atr-step-indicator>
+
+<div *ngIf="ictItemService.get().length > 0 && loading" class ="font-serif-xl margin-bottom-neg-1">
+    <div class="grid-row">
+        <div class="tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6">
+        </div>
+        <div class="tablet:grid-col-8 tablet:margin-bottom-0" class="ogp-title">
+            <b>How can ART help you?</b>
+        </div>
+    </div>
+    
+</div>
+<div *ngIf="ictItemService.get().length > 0 && loading;" class="">
+        <art-form-template
+                [formConfig]="formConfig"
+                [scanChange]="scanChange"
+                [pageIndex]="pageNumber"
+                (formData)="onFormSubmitted($event)"
+                (pageNumber)="onPageChanged($event)"
+        ></art-form-template>
+</div>
+<div class="ogp-flex" *ngIf="!loading">
+        <div class="lds-ripple"><div></div><div></div></div>
+</div>

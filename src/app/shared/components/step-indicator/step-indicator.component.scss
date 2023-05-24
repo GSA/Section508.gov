@@ -1,0 +1,31 @@
+.step-indicator-selected{
+    font-weight: 700;
+    color:#069;
+}
+.step-indicator-button{
+    background: none;
+    border: none;
+    padding: 0!important;
+    font-family: arial, sans-serif;
+    cursor: pointer;
+    outline: none !important; 
+}
+.usa-step-indicator__segment{
+    cursor: pointer;
+}
+.step-indicator-button:hover{
+    font-weight: 700;
+    color:rgb(145, 65, 20);
+}
+
+.step-indicator-button:focus{
+    font-weight: 700;
+    color:rgb(145, 65, 20);
+}
+
+.truncate{
+    width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
