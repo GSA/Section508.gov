@@ -2,8 +2,10 @@ import { Injectable } from '@angular/core';
 import { ValidationErrors, ValidatorFn, Validators } from '@angular/forms';
 import { FormTemplateInterface } from '../../models/form-template.interface';
 import  formConfigJsons  from '../../../../assets/form-config/ict-lp.config.json';
+import  userNameFormConfigJson  from '../../../../assets/form-config/ict-lp-username.config.json';
 import  Buttons  from '../../../../assets/data/buttons.json';
 import  IctLp  from '../../../../assets/data/ict-lp.json';
+import  IctLpUserContent  from '../../../../assets/data/ict-lp-username.json';
 import { IButtonInterface } from '../../models/IButtonInterface';
 
 
@@ -25,6 +27,18 @@ export class ArtIctLpService {
    * @description Configuration for the ICT Listing Page input field, loading config for one Form
    */
    private formConfig: FormTemplateInterface[] = formConfigJsons;
+
+   /**
+   * @description Configuration for the ICT Listing Page Name filed, loading config for one Form
+   */
+   private userFormConfig: FormTemplateInterface[] = userNameFormConfigJson;
+
+   /**
+    * @description Will stored the name of the user entered on the ictPage or upload page. It is an option field
+    * @type string
+    */
+   private userName: string = '';
+   
 
    /**
     * @description Generation validation error from the configurations: Only required and maxLength has be configure, additional validations will have ot be added
@@ -58,14 +72,23 @@ export class ArtIctLpService {
   /**
    * @description Configuration for one form
    * @return: FormTemplateInterface
+   * @param: FormTemplateInterface[]
    */
-  getConfigurations(): FormTemplateInterface[]{
-    this.formConfig.forEach((eachForm, outterIndex)=>{
+  private getConfigurations(formConfigTemp: FormTemplateInterface[], formConfigJson:any): FormTemplateInterface[]{
+    formConfigTemp.forEach((eachForm, outterIndex)=>{
       eachForm.formElements.forEach((eachElt, index)=>{
-        eachElt.validations = this.generateValidations(formConfigJsons[outterIndex].formElements[index].validations);
+        eachElt.validations = this.generateValidations(formConfigJson[outterIndex].formElements[index].validations);
       });
     });
-    return this.formConfig;
+    return formConfigTemp;
+  }
+
+  getNameConfiguration(): FormTemplateInterface[]{
+    return this.getConfigurations(this.userFormConfig, userNameFormConfigJson);
+  }
+
+  getICTConfigurations(): FormTemplateInterface[]{
+    return this.getConfigurations(this.formConfig, formConfigJsons );
   }
 
   /**
@@ -100,11 +123,27 @@ export class ArtIctLpService {
   }
 
   /**
-   * @description Get the error message for Input Label on the ICT page
+   * @description Get the username text for the landing page
+   * @returns string
+   */
+   getUserQuestion(): string{
+    return IctLpUserContent['userName'];
+  }
+
+  /**
+   * @description Get the data for Input Label for the ict item on the ICT page
    * @returns string
    */
    getInputLabel(): string{
     return IctLp['inputLabel'];
+  }
+
+  /**
+   * @description Get the dat for Input Label for the Name field on the ICT page
+   * @returns string
+   */
+  getUserInputLabel(): string{
+    return IctLpUserContent['inputLabel'];
   }
 
      /**
@@ -113,5 +152,21 @@ export class ArtIctLpService {
    */
     getMaxItems(): number{
       return IctLp['maxItems'];
+    }
+
+    /**
+     * @description to return the username stored on the ICT page or upload page
+     * @return string
+     */
+    getUserName(): string{
+      return this.userName;
+    }
+
+    /**
+     * @param name 
+     * @description used to store the name of the user entered on the ICT page or upload page
+     */
+    setUserName(name:string){
+      this.userName = name;
     }
 }

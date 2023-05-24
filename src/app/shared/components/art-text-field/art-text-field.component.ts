@@ -19,6 +19,9 @@ export class ArtTextFieldComponent implements OnInit {
   @Input() formData:FormElement | undefined;
   @Input() control:AbstractControl<any, any> | undefined;
   @Input() hidden: boolean = false;
+
+  //Default value for maxLength
+  maxLength:number | null = 1000;
   
   fromControl:FormControl = new FormControl();
 
@@ -26,6 +29,8 @@ export class ArtTextFieldComponent implements OnInit {
     this.fromControl = <FormControl>this.control;
     this.control?.statusChanges.subscribe(()=>{
     });
+
+    this.maxLength = this.formData?.maxLength ? this.formData?.maxLength: 100;
   }
 
   /** 

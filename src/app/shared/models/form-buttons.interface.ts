@@ -19,4 +19,10 @@ export interface FormButtons{
      * @description: To submit the form, with only one field. This button is place on the same line as the input field
      */
     add?:string;
+
+    /**
+     * @type string
+     * @description: A form without a submit button, it will be hidden
+     */
+    none?:string;
 }

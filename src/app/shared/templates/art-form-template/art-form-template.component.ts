@@ -26,7 +26,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
    * @description An array of forms. Can have any any number of form, each form having its own sent of controls
    * @type Array<FormGroup>
    */
-  formList: FormGroup[] = [];
+  @Input() formList: FormGroup[] = [];
 
   /**
    * @description All the elements for all any number of forms
@@ -445,13 +445,16 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
    * @rerun void
    */
   onFormSubmit(index:number):void{
-    if (this.formCompletetion.find(eachComp => !eachComp) === false &&  !this.formConfig[0].formButtons.add) {
-      alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
-    } else{
-      const data = this.formList.map(eachForm =>eachForm.value);
-      this.formData.emit(data);
-      //Will reset the form based on the its configuration
-      if(this.formConfig[index].clearForm) this.formList[index].reset();
+    if(!this.formConfig[index].formButtons.none)
+    {  //will emit data if there is a button on the template page. Some template don't hae the submit button
+      if (this.formCompletetion.find(eachComp => !eachComp) === false &&  !this.formConfig[0].formButtons.add) {
+        alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
+      } else{
+        const data = this.formList.map(eachForm =>eachForm.value);
+        this.formData.emit(data);
+        //Will reset the form based on the its configuration
+        if(this.formConfig[index].clearForm) this.formList[index].reset();
+      }
     }
   }
 

@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { ArtSaveJsonComponent } from './art-save-json.component';
 import {By} from "@angular/platform-browser";
 
-fdescribe('ArtSaveJsonComponent', () => {
+describe('ArtSaveJsonComponent', () => {
   let component: ArtSaveJsonComponent;
   let fixture: ComponentFixture<ArtSaveJsonComponent>;
   let saveAsInfoObject:any = {btnName:"Download Json", fileName:"jsonData.json"}

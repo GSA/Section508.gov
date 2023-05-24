@@ -17,7 +17,9 @@
                         >
             
             <div *ngFor="let eachControl of allControlList[outerIndex]; let index = index; let first=first" 
-                 class="form-section" id="form-section-{{controlList.length*outerIndex + index }}"
+                 class="form-section" id="form-section-{{eachFormConfig.formElements[0].formSectionId? 
+                    eachFormConfig.formElements[0].formSectionId:
+                    controlList.length*outerIndex + index }}"
                  >
                 <h2 
                     *ngIf="!eachFormConfig.formElements[index].hidden && eachFormConfig.formElements[index].formSection" 
@@ -66,6 +68,14 @@
         </div>
     </form>
     <br>
+    <!-- Will display the information box to tell the user the form is completed when all field on that form are checked-->
+    <div *ngIf="formCompletetion[this.navIndex] === true" class="usa-alert usa-alert--info usa-alert--no-icon margin-bottom-3 margin-top-neg-1">
+        <div class="usa-alert__body">
+          <p class="usa-alert__text">
+            You have completed the form.
+          </p>
+        </div>
+    </div>
 </div>
 <div *ngIf="this.router.url.includes('form-page')" class="ogp-flex">
     <div>

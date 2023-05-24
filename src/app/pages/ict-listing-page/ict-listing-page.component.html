@@ -3,6 +3,25 @@
 <div art-generic-text-layout="top-border">
 
     <div class="margin-3">
+
+         <!-- Input field section for the name. WIll be visible for the upload page and Ict page-->
+         <art-generic-text *ngIf="artIctLpService.getUserQuestion()">
+            <div class ="font-serif-lg margin-bottom-1">
+                <b>{{artIctLpService.getUserQuestion()}}</b>
+            </div>
+            <div class="margin-left-2">
+                <p class="margin-bottom-0">
+                    {{artIctLpService.getUserInputLabel()}}
+                </p>
+                <!-- Input field -->
+                <art-form-template 
+                    [formConfig]="nameFormConfig" 
+                    [scanChange]="scanChange"
+                    [formList]="formList"
+                ></art-form-template>
+            </div>         
+         </art-generic-text>
+
         <!-- Upload ICT section-->
         <div *ngIf="nextPage.uploadICT === landingPageService.getNextPage()" >
             <!-- Get Upload button container section-->

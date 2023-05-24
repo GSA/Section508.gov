@@ -81,6 +81,12 @@ export interface FormElement {
 
     /**
      * @type string
+     * @description: Id of the she Section where this element should be. Will be used by the parent component, the From component
+     */
+     formSectionId?: string;
+
+    /**
+     * @type string
      * @description: Will use to display the menu item label when the menu Item is used
      */
      menuItem?: string;
@@ -108,6 +114,12 @@ export interface FormElement {
      * @type string
      */
     info?:string;
+
+    /**
+     * @description Used to set the max length for a text field 
+     * @type number
+     */
+    maxLength?: number
 }
 
 export enum  ElementType{

@@ -6,6 +6,7 @@ import {IctItemService} from "../../shared/services/ict-item/ict-item.service";
 import { IStepIndicator } from 'src/app/shared/models/step-indicator.interface';
 import { Router } from '@angular/router';
 import { FormPageService } from 'src/app/shared/services/form-page/form-page.service';
+import { ArtIctLpService } from 'src/app/shared/services/art-ict-lp/art-ict-lp.service';
 
 @Component({
     selector: 'app-summary-page',
@@ -25,7 +26,8 @@ export class SummaryPageComponent implements OnInit {
     public ictItemService: IctItemService,
     private clipboardService:ClipboardService,
     private router: Router,
-    private formPageService:FormPageService
+    private formPageService:FormPageService,
+    private artIctLpService:ArtIctLpService
   ) {}
 
 
@@ -40,9 +42,14 @@ export class SummaryPageComponent implements OnInit {
     maxIndex: number = 0;
     
     /**
-     * Will be populated from 508MappingService
+     * Will be populated from 508MappingService for the copy to clipboard
      */
-    languageGenerated:string[] = [];
+    languageGeneratedCopy:string[] = [];
+
+    /**
+     * Will be populated from 508MappingService for the Docx download
+     */
+    languageGeneratedDoc:string[] = [];
 
     /**
      * Will be populated from 508MappingService, UI only
@@ -55,8 +62,17 @@ export class SummaryPageComponent implements OnInit {
      * ICTItems can be populated from ICTItemService
      */
     ictItems: ICTInterface[] = [];
+
+    /**
+     * @description Name of a user entered on the ICTPage or upload page. It was an optional filed
+     */
+    userName:string = '';
  
     ngOnInit(): void {
+
+        // Getting the name of the user.
+        this.userName = this.artIctLpService.getUserName();
+
         // Get form data from the ICT service.
         this.ictItems = this.ictItemService.get();
         
@@ -65,7 +81,7 @@ export class SummaryPageComponent implements OnInit {
             this.router.navigateByUrl('');
         }
         this.maxIndex = this.ictItems.length-1;
-        
+
         this.ictItems.forEach((item, index) =>{
 
             //Populate step data indicator
@@ -73,10 +89,21 @@ export class SummaryPageComponent implements OnInit {
             const langKeyWords = JSON.parse(JSON.stringify(item.langKeyWords));
             const langGenerated = this.art508LangService.get508Languages(langKeyWords) ? this.art508LangService.get508Languages(langKeyWords) : "<p><b>No Language can be generated based on your selection!</b></p>"
             const footer = this.formPageService.getDocxFooterText();
+            const solicitationPhase = this.formPageService.getConfigurations();
+            let solicitationPhaseValue = "";
+            solicitationPhase[0].formElements[0].options?.forEach((optionItem, optionIndex)=>{
+                if(optionItem.value == langKeyWords["sol-type"]["sol-type"] ){
+                    solicitationPhaseValue = optionItem.label;
+                }
+             });
+              
             //508MapoingService call for language, for download anc clipboard
-            this.languageGenerated.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName? "<h3>" + this.userName + "</h3>":'')  + "<h3>" + solicitationPhaseValue  + "</h3> <p> </p> <h3>" +item.name + "</h3></p>\n" + langGenerated + footer);
             // For UI only
             this.languageGeneratedUI.push("<p> <h3>" + item.name + "</h3></p>\n" + langGenerated);
+            // Copy to clipboard Only
+            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+
         });
 
         this.stepsData.activeId = "00";
@@ -108,7 +135,7 @@ export class SummaryPageComponent implements OnInit {
     }
 
     copyToClipboard(){
-        this.clipboardService.copyFromContent(this.languageGenerated[this.currentIndex]);
+        this.clipboardService.copyFromContent(this.languageGeneratedCopy[this.currentIndex]);
     }
 
     onAmendForm(index:number){

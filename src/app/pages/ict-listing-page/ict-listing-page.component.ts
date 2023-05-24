@@ -6,6 +6,7 @@ import { ArtIctLpService } from 'src/app/shared/services/art-ict-lp/art-ict-lp.s
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { LandingPageService, NextPage } from 'src/app/shared/services/landing-page/landing-page.service';
 import { Router } from '@angular/router';
+import { FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-ict-listing-page',
@@ -27,6 +28,12 @@ export class IctListingPageComponent implements OnInit, OnDestroy {
   formConfig:FormTemplateInterface[] = [];
 
   /**
+   * @description Provide all the configuration for the forms and elements which will be created for name field
+   * @type FormTemplateInterface
+   */
+  nameFormConfig:FormTemplateInterface[] = [];
+
+  /**
    * @description Used to trigger the ngOnChanges function to listing to any input property change
    * @type any
    */
@@ -45,10 +52,18 @@ export class IctListingPageComponent implements OnInit, OnDestroy {
   tempPlaceHolder:string | undefined;
 
   /**
+   * @description store the value of the placeholder for an element for the name field
+   * @type string
+   */
+  nameTempPlaceHolder:string | undefined;
+
+  /**
   * @description enum to set predefined string 
   * @type string
   */
   nextPage = NextPage;
+
+  formList: FormGroup[] = [];
 
   /**
    * @description using the ictItemService component and artIctLpService service
@@ -68,8 +83,14 @@ export class IctListingPageComponent implements OnInit, OnDestroy {
       this.router.navigateByUrl("/");
     }
     // Getting the form configuration
-    this.formConfig = this.artIctLpService.getConfigurations();
+    this.formConfig = this.artIctLpService.getICTConfigurations();
     this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
+
+    // Getting the form configuration
+    this.nameFormConfig = this.artIctLpService.getNameConfiguration();
+    this.nameTempPlaceHolder = this.nameFormConfig[0].formElements[0].placeholder;
+
+    
 
   }
 
@@ -83,6 +104,10 @@ export class IctListingPageComponent implements OnInit, OnDestroy {
       this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
       this.scanChange="false";
     }
+
+    const controlName = this.nameFormConfig[0].formElements[0].controlName;
+    const valueOjt = (this.formList[0].value);
+    this.artIctLpService.setUserName(valueOjt[controlName]);
   } 
 
   /**
