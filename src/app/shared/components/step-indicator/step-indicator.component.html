@@ -1,0 +1,20 @@
+<!-- progress bar -->
+<div class="usa-step-indicator usa-step-indicator--counters-sm" aria-label="progress">
+  <ol class="usa-step-indicator__segments">
+    <li *ngFor="let tab of stepsData.tabs;let stepIndex=index" id="{{tab.id}}" class="usa-step-indicator__segment" 
+      [ngClass]="{'usa-step-indicator__segment--current': activeTab==tab.id, 'usa-step-indicator__segment--complete': currentIndex>stepIndex}"  
+      (click)="tabSelected(stepIndex, tab.id)">
+      <span class="usa-step-indicator__segment-label">
+        <button 
+          class="step-indicator-button" 
+          [title] = "tab.name"
+          [ngClass]="{'step-indicator-selected': activeTab==tab.id, 'truncate':tab.name.indexOf(' ') < 0}">
+          {{tab.name}}
+        </button> 
+        <span *ngIf="currentIndex>stepIndex"  class="usa-sr-only">completed</span>
+        <span *ngIf="currentIndex<stepIndex"  class="usa-sr-only">not completed</span>
+      </span>
+    </li>
+  </ol>
+</div>
+  

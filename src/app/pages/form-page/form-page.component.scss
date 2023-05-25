@@ -1,0 +1,20 @@
+art-side-navigation {
+  height: 100%;
+}
+
+.ogp-flex{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.ogp-title{
+  font-size: 2rem;
+}
+
+@media  screen and  (max-width: 414px) {
+  .ogp-title{
+      margin-bottom: 1rem;
+      font-size: 1.5rem;
+  }
+}

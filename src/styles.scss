@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  font-family: "Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol" !important;
+}
+[art-generic-text-layout="top-border"] {
+    border: 1px solid lightgray;
+    border-top: 3px solid #162E51;
+    border-radius: 5px;
+}
+  
+[art-generic-text-layout="background-color"] {
+background: #f5f9fc;
+}
+  
+[art-generic-text-layout="border"] {
+border: 1px solid #71767a;
+border-radius: 0.5rem;
+}
+a {
+    color: #1e6ad6;
+}
+
+.art-flex{
+  display: flex;
+}
+
+.lds-ripple {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.lds-ripple div {
+  position: absolute;
+  border: 4px solid #035da2;
+  opacity: 1;
+  border-radius: 50%;
+  animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+.lds-ripple div:nth-child(2) {
+  animation-delay: -0.5s;
+}
+@keyframes lds-ripple {
+  0% {
+    top: 28px;
+    left: 28px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  100% {
+    top: -1px;
+    left: -1px;
+    width: 58px;
+    height: 58px;
+    opacity: 0;
+  }
+}
+
