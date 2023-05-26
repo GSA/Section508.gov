@@ -1,0 +1,43 @@
+<section aria-label="Official Government Site Banner" class="page-landing-page layout-demo  art-default-font">
+    <a  class="usa-skipnav" href="#main-content" >Skip to main content</a>
+    <art-section508-banner [url] = "url"></art-section508-banner>
+    <div class="usa-overlay"></div>
+</section>
+<art-section508-header [url] = "url"></art-section508-header>
+  
+<art-banner 
+    id="main-content"
+    *ngIf="artContentDataService && artContentDataService.getBannerData()"
+    [title]="artContentDataService.getBannerData().title" 
+    [header]="artContentDataService.getBannerData().header" >
+</art-banner>
+
+<section class="usa-graphic-list usa-section art-banner">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+            <div class="tablet: grid-col">
+                <!-- Header display -->
+                <div class="margin-bottom-2">
+                    <art-generic-text *ngIf="artContentDataService && artContentDataService.getHeader">
+                        <div [innerHTML]="artContentDataService.getHeader()"></div>
+                    </art-generic-text>
+                </div>
+                <!-- Any content from the routing url will be displayed here -->
+                <router-outlet></router-outlet>
+                <!-- Footer display-->
+                <div art-generic-text-layout="border" class="margin-top-5">
+                    <div class="padding-x-2 padding-bottom-3 margin-top-3"  *ngIf="artContentDataService && artContentDataService.getFooter()">
+                        <art-generic-text [title]="artContentDataService.getFooter().title" class="margin-top-3">
+                            <div class="margin-top-2">
+                                <div [innerHTML]="artContentDataService.getFooter().data"></div>
+                            </div>
+                        </art-generic-text>
+                    </div>
+                </div>
+                <div class="margin-y-2" [innerHTML]="artContentDataService.getUpdatedDate()"> </div>
+            </div>
+        </div>
+    </div>
+</section>
+<art-section508-footer [url] = "url"></art-section508-footer>
+<back-to-top></back-to-top>

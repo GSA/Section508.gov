@@ -1,0 +1,42 @@
+.art-add-btn{
+    height: 2.5rem;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+    @media  screen and  (max-width: 414px) {
+       width: 15rem; 
+       border-top-left-radius: 0.25rem;
+       border-bottom-left-radius: 0.25rem;
+       margin-top: .75rem;
+    }
+}
+
+.ogp-flex{
+    display: flex;
+    justify-content: space-between;
+    @media  screen and  (max-width: 414px) {
+        flex-direction: column;
+    }
+}
+
+.ogp-display-none{
+    display: none;
+}
+
+.ogp-display-bloc{
+    display: block;
+}
+
+.ogp-flex-center{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+@media  screen and  (max-width: 414px) {
+    .ogp-btn{
+        margin-top: 0.5rem;
+        margin-right: 0rem !important;
+    }
+ }
+  

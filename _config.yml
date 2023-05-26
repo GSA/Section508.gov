@@ -195,6 +195,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - docker-compose.yml
+  - src
+  - angular-build.sh
+  - angular.json
+  - karma.conf.js
+  - tsconfig.app.json
+  - tsconfig.json
+  - tsconfig.spec.json
 
 assets:
   autoprefixer:
