@@ -6,7 +6,8 @@ type: manage
 title: 'Revised 508 Standards Roadmap'
 created: 1527574221
 redirect_from:
-- program-roadmap/
+- Refresh-Toolkit/
+- refresh-toolkit/
 ---
 
 <p dir="ltr">
