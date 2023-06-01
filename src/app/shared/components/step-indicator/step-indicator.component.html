@@ -5,7 +5,7 @@
       [ngClass]="{'usa-step-indicator__segment--current': activeTab==tab.id, 'usa-step-indicator__segment--complete': currentIndex>stepIndex}"  
       (click)="tabSelected(stepIndex, tab.id)">
       <span class="usa-step-indicator__segment-label">
-        <button 
+        <button id="{{tab.id}}"
           class="step-indicator-button" 
           [title] = "tab.name"
           [ngClass]="{'step-indicator-selected': activeTab==tab.id, 'truncate':tab.name.indexOf(' ') < 0}">

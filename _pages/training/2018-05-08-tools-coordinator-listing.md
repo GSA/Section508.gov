@@ -651,7 +651,7 @@ L. Tanai White - 443-654-0257 - <ltwhite@nsa.gov>
 Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>  
 Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
 
-### Office of Special Counsel
+### Office of Special Counsel (OSC)
 VACANT  
 
 <span id="P"></span>
@@ -663,7 +663,7 @@ Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>
 Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
 <span id="R" ></span>
 
-### Railroad Retirement Board
+### Railroad Retirement Board (RRB)
 Robert LaBerry - 312-751-7153 - <robert.laberry@rrb.gov>
 
 <span id="S" ></span>
@@ -673,8 +673,8 @@ Sharvon Jones - 202-551-5251 - <jonessh@sec.gov>
 
 <span id="T" ></span>
 
-### Tennessee Valley Authority
-VACANT
+### Tennessee Valley Authority (TVA)
+Gregory G. Jackson - 256-683-6296 - <ggjackson@tva.gov>  
 
 <span id="U" ></span>
 
@@ -689,7 +689,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: May 17, 2023
+**Reviewed/Updated**: May 31, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
