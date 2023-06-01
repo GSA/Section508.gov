@@ -671,6 +671,9 @@ Robert LaBerry - 312-751-7153 - <robert.laberry@rrb.gov>
 ### Securities and Exchange Commission (SEC)
 Sharvon Jones - 202-551-5251 - <jonessh@sec.gov>
 
+### Selective Service System (SSS)
+Shawn Jackson - 703-605-4089 - <sjackson@sss.gov>  
+
 <span id="T" ></span>
 
 ### Tennessee Valley Authority (TVA)
@@ -689,7 +692,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: May 31, 2023
+**Reviewed/Updated**: June 1, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
