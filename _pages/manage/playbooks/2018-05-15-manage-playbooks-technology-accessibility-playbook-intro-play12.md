@@ -50,6 +50,12 @@ An understanding of accessibility and Section 508 compliance should be an essent
 
 &nbsp;
 
+<div id="prev-next-section" style="justify-content: space-around;">
+    <a class="prev-page" title="Go to Play 11"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11"> < Play 11
+    </a>
+</div>
+
  [1]: {{site.baseurl}}/tools
  [2]: https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592
  [3]: http://developer.apple.com/library/mac/documentation/Accessibility/Conceptual/AccessibilityMacOSX/

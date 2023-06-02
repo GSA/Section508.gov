@@ -49,6 +49,15 @@ Prior to beginning a technology project, work with usability professionals and r
   
 &nbsp;
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 6" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play06"> < Play 6
+    </a>
+    <a class="prev-page" title="Go to Play 8"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play08"> Play 8 >
+    </a>
+</div>
+
  [1]: http://www.usability.gov/what-and-why/accessibility.html
  [2]: http://marketingland.com/measuring-accessibility-user-experience-ux-searcher-experience-139546
  [3]: https://it.wisc.edu/

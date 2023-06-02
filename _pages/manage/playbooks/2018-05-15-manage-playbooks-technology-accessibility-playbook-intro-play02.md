@@ -89,6 +89,15 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
 &nbsp;
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 1" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play01"> < Play 1</a>
+    <a class="prev-page" title="Go to Play 3"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play03"> 
+      Play 3 >
+    </a>
+</div>
+
  [1]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf
  [2]: https://assets.section508.gov/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
  [3]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf

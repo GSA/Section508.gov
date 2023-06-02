@@ -55,4 +55,13 @@ An effective agency Section 508 program can identify and manage risks, gain mana
 
 &nbsp;
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 2" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play02"> < Play 2</a>
+    <a class="prev-page" title="Go to Play 4"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04"> 
+      Play 4 >
+    </a>
+</div>
+
  [1]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf

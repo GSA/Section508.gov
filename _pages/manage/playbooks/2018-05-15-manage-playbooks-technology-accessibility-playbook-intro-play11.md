@@ -54,6 +54,15 @@ Play 10 describes how to test and validate Section 508 conformance. Testing will
   * [For Help Desk, Ai Squared popular screen magnification][2]
 
 &nbsp;
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 10" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10"> < Play 10    
+      </a>
+    <a class="prev-page" title="Go to Play 12"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play12"> Play 12 >
+    </a>
+</div>
+
 
  [1]: http://www.freedomscientific.com/Support
  [2]: https://support.zendesk.com/hc/en-us?_ga=2.218071126.1124779054.1631404887-836831031.1631404887

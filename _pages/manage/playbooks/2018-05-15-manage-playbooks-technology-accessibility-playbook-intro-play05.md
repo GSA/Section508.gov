@@ -47,5 +47,14 @@ We need talented people working in government who have expertise creating and de
 
 &nbsp;
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 4" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04"> < Play 4</a>
+    <a class="prev-page" title="Go to Play 6"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play06"> 
+      Play 6 >
+    </a>
+</div>
+
  [1]: https://www.access-board.gov/ict/
  [2]: https://www.dhs.gov/trusted-tester

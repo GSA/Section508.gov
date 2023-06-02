@@ -66,6 +66,15 @@ Achieving Section 508 compliance requires a comprehensive, programmatic approach
   * [Section 508 Leadership Core Competencies recommended by the CIO Council Accessibility Committee][2]
   * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][3]
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Introduction" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/"> < Introduction</a>
+    <a class="prev-page" title="Go to Play 2"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play02"> 
+      Play 2 >
+    </a>
+</div>
+
  [1]: #Footnote1
  [2]: https://assets.section508.gov/files/508_Leadership_Core_Competency_Model.pdf
  [3]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

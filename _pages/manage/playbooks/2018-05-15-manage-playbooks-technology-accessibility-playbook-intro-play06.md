@@ -41,5 +41,14 @@ A successful 508 Section Program should not be established in isolation. Active 
 
 &nbsp;
 
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 5" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play05"> < Play 5</a>
+    <a class="prev-page" title="Go to Play 7"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07"> 
+      Play 7 >
+    </a>
+</div>
+
  [1]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [2]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

@@ -58,6 +58,15 @@ Many individuals who are interested in testing to validate the conformance of a 
   * [ISTQB Software Testing Certification][3]
 
 &nbsp;
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 9" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09"> < Play 9
+    </a>
+    <a class="prev-page" title="Go to Play 11"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11"> Play 11 >
+    </a>
+</div>
+
 
  [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [2]: https://agilemanifesto.org/
