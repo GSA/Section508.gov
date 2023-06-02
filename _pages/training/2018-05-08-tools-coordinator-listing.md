@@ -406,7 +406,9 @@ Mike Barylski - 703-605-1328 - <mike.barylski@usdoj.gov>
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
-Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>
+Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>  
+Alisha Hurtado (BACKUP) - <alisha.hurtado@usdoj.gov>  
+Matthew C. Rasmussen (BACKUP) - <matthew.c.rasmussen@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -692,7 +694,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 1, 2023
+**Reviewed/Updated**: June 2, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
