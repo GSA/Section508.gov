@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play06/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play06/
+type: manage
 layout: page
 title: 'Play 6: Collaborate with the federal accessibility community'
 created: 1526408722
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play06/
 ---
 
 A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program.

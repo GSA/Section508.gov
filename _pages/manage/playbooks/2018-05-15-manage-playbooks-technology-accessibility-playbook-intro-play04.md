@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play04/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play04/
+type: manage
 layout: page
 title: 'Play 4: Establish a Section 508 Policy'
 created: 1526408633
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play04/
 ---
 
 The cornerstone of an accessibility program is an agency-wide Section 508 policy. The policy must identify how the agency will manage accessibility compliance through technology acquisition, development, authoring, configuration, deployment, and maintenance activities. The policy must define clear roles and responsibilities. The policy must clarify the authorities and shared responsibility with other agency stakeholders for implementing Section 508 across the agency.

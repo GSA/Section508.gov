@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play08/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play08/
+type: manage
 layout: page
 title: 'Play 8: Integrate accessibility needs into market research and acquisition processes'
 created: 1526408818
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play08/
 ---
 
 The following play identifies how to ensure accessibility needs are identified and addressed in the planning, requirements gathering, research, evaluation, and acceptance components of the acquisition process.

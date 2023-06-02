@@ -1,10 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/
+type: manage
 layout: page
 title: 'Technology Accessibility Playbook'
 created: 1526408212
 redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/
 - content/technology-accessibility-playbook/
 ---
 

@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: false
-permalink: tools/playbooks/exec-guide-accessibility/
-type: page
+permalink: manage/playbooks/exec-guide-accessibility/
+type: manage
 title: 'Executive Guide to Federal IT Accessibility'
 created: 1534360384
+redirect_from:
+- tools/playbooks/exec-guide-accessibility/
 ---
 
 <div class="col-lg-12 col-sm-12 col-xs-12">

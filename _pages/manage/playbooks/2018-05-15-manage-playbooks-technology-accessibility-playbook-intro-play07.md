@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play07/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play07/
+type: manage
 layout: page
 title: 'Play 7: Integrate accessibility needs into requirements and design processes'
 created: 1526408767
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play07/
 ---
 
 We must begin technology projects by identifying the needs of people with disabilities who use and support the technology, and account for the ways the technology will fit into their lives. We must understand their preferences and expectations for using our technology to ensure it works for all, not just some users. These factors should not only inform technical and design decisions, but also IT investment, acquisition, development, and deployment.

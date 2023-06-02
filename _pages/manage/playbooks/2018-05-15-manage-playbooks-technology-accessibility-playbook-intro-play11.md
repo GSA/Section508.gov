@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play11/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play11/
+type: manage
 layout: page
 title: 'Play 11: Track and resolve accessibility issues'
 created: 1526408939
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play11/
 ---
 
 Play 10 describes how to test and validate Section 508 conformance. Testing will produce a list of issues that need to be tracked, prioritized, and resolved over the long term. End users may also report technology accessibility issues that need to be assessed, tracked, prioritized, and resolved. Regardless of the source of the problem, the resolution may pose a cost to the agency. If the issue is non-conformance with Section 508, the agency has to guard against perpetuating the error in future upgrades and procurements.

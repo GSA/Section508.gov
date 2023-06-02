@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play01/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play01/
+type: manage
 layout: page
 title: 'Play 1:  Establish a Section 508 Program Manager to lead compliance efforts'
 created: 1526408449
+redirect_from: 
+- tools/playbooks/technology-accessibility-playbook-intro/play01/
 ---
 
 Achieving Section 508 compliance requires a comprehensive, programmatic approach to managing compliance activities throughout an agency. The scope of agency technology dependence is broad and continuously growing. Agencies need a well-qualified Section 508 Program Manager [[1]][1] who has the ability, visibility, and authority to lead agency compliance activities to ensure digital services and technology solutions are accessible to disabled users.
