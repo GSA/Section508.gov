@@ -392,4 +392,4 @@ IT Accessibility is a team effort that requires strong support from agency leade
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [5]: https://www.section508.gov/
- [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro
+ [6]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro

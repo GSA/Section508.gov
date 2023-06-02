@@ -81,15 +81,15 @@ The Section 508 law is broad in scope, applying to all technology the federal go
  [2]: https://standards.usa.gov/
  [3]: https://playbook.cio.gov/techfar/
  [4]: {{site.baseurl}}/
- [5]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play01
- [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02
- [7]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play03
- [8]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play04
- [9]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play05
- [10]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play06
- [11]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07
- [12]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play08
- [13]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09
- [14]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10
- [15]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11
- [16]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play12
+ [5]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play01
+ [6]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play02
+ [7]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play03
+ [8]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04
+ [9]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play05
+ [10]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play06
+ [11]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07
+ [12]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play08
+ [13]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09
+ [14]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10
+ [15]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11
+ [16]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play12
