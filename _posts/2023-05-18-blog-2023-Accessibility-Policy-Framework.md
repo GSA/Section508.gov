@@ -13,8 +13,6 @@ All too often, digital accessibility is not top of mind for the agency policymak
 ## What is the Policy Framework?
 To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the IT Accessibility Policy Framework (the policy framework) to help agencies assess to what extent your agency’s policies should include accessibility information, and whether or not they include the appropriate amount and type of accessibility information. It offers your agency guidance on how to holistically assess internal policies against standard criteria, and how to update your IT accessibility language accordingly.
 
-<button type="" class="usa-button margin-left-auto">Test Button</button>
-
 The policy framework organizes policies into three categories:
 * Organizational Purpose/Governing Guidelines that specify the need for creation of additional policies, rules and/or directives (Strategic Level Document)
 * Office Rules, Policies, and Directives that define goals and high-level ways of working (Operational Level Document)
@@ -36,7 +34,7 @@ First, collect your agency’s policies and directives, including only those tha
     <caption>
         Table 1. Policy Review Template Excerpt
     </caption>
-    <thead, class="">
+    <thead class="">
         <tr>
             <th scope="col">General Policy Type</th>
             <th scope="col">Agency-specific Policy Type</th>
