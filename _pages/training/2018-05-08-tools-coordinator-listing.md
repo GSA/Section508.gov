@@ -573,6 +573,8 @@ Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>
 Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
+### Consumer Product Safety Commission (CPSC)
+Bryan Burnett -	301-504-7654 - <bburnett@cpsc.gov>  
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
 
