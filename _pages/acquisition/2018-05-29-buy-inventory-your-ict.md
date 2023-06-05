@@ -37,7 +37,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * [Support Documentation and Services][10]
 
 <h2 id="0">
-  <strong>Electronic Content - Examples</strong>
+  Electronic Content - Examples
 </h2>
 
   * Websites and web-based content (Internet & Intranet)
@@ -50,11 +50,11 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Subscription services (e.g., news feeds, alert services, professional journals)
 
 <h2 id="1">
-  <strong>Software - Examples</strong>
+  Software - Examples
 </h2>
 
 <h3 id="2">
-  <strong>Web, desktop, server, mobile client applications</strong>
+  Web, desktop, server, mobile client applications
 </h3>
 
   * Time and attendance software
@@ -66,7 +66,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Learning management systems
 
 <h3 id="3">
-  <strong>Authoring tools</strong>
+  Authoring tools
 </h3>
 
   * Microsoft Office
@@ -76,7 +76,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Graphing and Charting Programs
 
 <h3 id="4">
-  <strong>Software infrastructure</strong>
+  Software infrastructure
 </h3>
 
   * Operating Systems
@@ -88,7 +88,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Virtual meeting tools (e.g., VOIP, screen shares, remote meetings)
 
 <h3 id="5">
-  <strong>Service offerings</strong>
+  Service offerings
 </h3>
 
   * Software as a Service (SaaS)
@@ -96,7 +96,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Infrastructure as a Service (IaaS)
 
 <h2 id="6">
-  <strong>Hardware - Examples</strong>
+  Hardware - Examples
 </h2>
 
   * Computers & laptops
@@ -110,7 +110,7 @@ We’ve provided some examples below of items that qualify as ICT. Either scroll
   * Mobile phones
 
 <h2 id="7">
-  <strong>Support Documentation and Services - Examples</strong>
+  Support Documentation and Services - Examples
 </h2>
 
   * Training Services
@@ -127,14 +127,14 @@ Use the chart below to figure out which ICT items will need a checklist, for sol
     <tr>
       <th scope="col">
         <h3>
-          <strong>Type of ICT Item</strong>
+          Type of ICT Item
         </h3>
-      </th scope="col">
+      </th>
     <th scope="col">
         <h3>
-          <strong>Checklists Needed</strong>
+          Checklists Needed
         </h3>
-      </th scope="col">
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -204,7 +204,7 @@ Use the chart below to figure out which ICT items will need a checklist, for sol
 
 
 
-## **What’s Next?**
+## What’s Next?
 
 See the other steps in this process:
 
@@ -213,7 +213,7 @@ See the other steps in this process:
   * [Step 2: Determine ICT Exceptions][13]
   * [Step 3: Determine Which Standards Apply][14]
 
-## **Related Resources**
+## Related Resources
 
   * [Revised 508 Standards Applicability Checklist][2] (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items 
   * [Accessibility Requirements Tool][11] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language.
