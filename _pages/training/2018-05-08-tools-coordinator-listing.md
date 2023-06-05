@@ -686,6 +686,8 @@ Gregory G. Jackson - 256-683-6296 - <ggjackson@tva.gov>
 
 ### U.S. Agency for Global Media (USAGM)
 VACANT
+### U.S. Consumer Product Safety Commission (CPSC)
+Bryan Burnett -	301-504-7654 - <bburnett@cpsc.gov>  
 ### U.S. Courts, Northern District of Iowa (USDC-NI)
 VACANT
 ### U.S. Courts, Western District of Wisconsin (USDC-WDW)
