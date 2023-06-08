@@ -30,11 +30,11 @@ You can promote digital equity for all by directly assisting federal employees w
 ## How should I evaluate and update policies for IT accessibility?
 First, collect your agency’s policies and directives, including only those that are relevant to IT. Conduct and consolidate your policy review using the Policy Review Template (excerpt shown below).
 
-<table class="usa-table"> 
+<table class="usa-table it-table"> 
     <caption>
         Table 1. Policy Review Template Excerpt
     </caption>
-    <thead class="">
+    <thead>
         <tr>
             <th scope="col">General Policy Type</th>
             <th scope="col">Agency-specific Policy Type</th>
