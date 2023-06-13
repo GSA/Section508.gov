@@ -170,8 +170,6 @@ Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>
   * **United States Army Materiel Command** <br>John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
-### Center for Development of Security Excellence (CDSE)
-Richard L. Price - 410-689-7743 - <richard.l.price6.civ@mail.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -182,6 +180,10 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
+
+* **Center for Development of Security Excellence (CDSE)** <br>
+Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
+
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - 410-981-0308 - <stephen.johnson@dc3.mil>  
 Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
@@ -504,7 +506,7 @@ VACANT
 ### FINCEN
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
-Robin A. Meissner (Acting) - 240-613-3309 - <robin.a.meissner@irs.gov>  
+Courtney M. Williams - 469-801-0209 - <courtney.m.williams@irs.gov>  
 Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
