@@ -512,6 +512,8 @@ create:
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
         url: create/pdfs/
+  - name: Authoring Tool Requirements
+    url: 'create/authoring-tools/'
   - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media
