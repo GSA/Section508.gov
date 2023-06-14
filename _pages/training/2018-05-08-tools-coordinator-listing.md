@@ -239,7 +239,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – 202-685-9418 – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
-  * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – 202-400-5793 – <charlotte.n.reines.civ@us.navy.mil>  
+  * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – 202-400-5793 – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
   * **Office of Naval Research** <br>VACANT
 
@@ -699,7 +699,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 2, 2023
+**Reviewed/Updated**: June 14, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
