@@ -267,7 +267,7 @@ Sandra Logan (BACKUP)
 ----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Maynor Sweeney - <kate.maynor@hhs.gov>
+Kate Sweeney - <kate.sweeney@hhs.gov.>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
