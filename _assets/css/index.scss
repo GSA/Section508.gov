@@ -561,6 +561,12 @@ div[role=rowheader] {
     background-color: #073763;
     color: white;
   }
+  thead th 
+  {
+    background-color: #073763;
+    color: white;
+    padding: 0.5rem 0.5rem;
+  }
   tr 
   {
     td 
@@ -640,6 +646,13 @@ div[role=rowheader] {
     border-collapse: collapse;
     width:100%; 
     float: right;
+    caption {
+      font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+      font-size: 0.94rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      text-align: left;
+    }
     td, th {
       border:1px solid black;
       width: 60px;

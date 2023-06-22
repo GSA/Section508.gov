@@ -1,10 +1,12 @@
 ---
 layout: page 
 sidenav: false 
-permalink: tools/playbooks/accessibility-playbook-quick-guide/ 
-type: page 
+permalink: manage/playbooks/accessibility-playbook-quick-guide/ 
+type: manage 
 title: 'Quick Guide to IT Accessibility for Program Managers' 
 created: 1548787236
+redirect_from:
+- tools/playbooks/accessibility-playbook-quick-guide/ 
 ---
 
 Learn how to build an effective information technology (IT) accessibility program, and ensure that the technology your

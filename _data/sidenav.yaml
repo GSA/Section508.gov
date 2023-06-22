@@ -61,6 +61,8 @@ manage:
             url: manage/reporting/questions/
           - name: Program Maturity Report Downloads
             url: manage/reporting/section-508-program-maturity-reports/
+  - name: Playbooks
+    url: manage/playbooks
   - name: Law and Policy
     url: '#'
     children:
@@ -384,8 +386,6 @@ training:
         url: 'buy/solicitation-review-tool/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
-      - name: View a Playbook
-        url: 'tools/playbooks/'
       - name: Glossary of Terms
         url: 'content/glossary/'
 develop:
@@ -512,6 +512,8 @@ create:
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
         url: create/pdfs/
+  - name: Authoring Tool Requirements
+    url: 'create/authoring-tools/'
   - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
   - name: Synchronized Media

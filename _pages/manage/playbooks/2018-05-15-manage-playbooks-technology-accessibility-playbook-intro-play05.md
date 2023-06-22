@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play05/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play05/
+type: manage
 layout: page
 title: 'Play 5: Develop a Section 508 Program Team'
 created: 1526408684
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play05/
 ---
 
 We need talented people working in government who have expertise creating and delivering accessible digital services and technology. This includes bringing in seasoned project managers, acquisition professionals, testing and validation experts, compliance analysts, Section 508 Program teams, as well as training and communication professionals. When outside help is needed, teams should work with requiring officers to ensure agency teams are paired with contractors who are good at both assessing and supporting Section 508 compliance activities. The makeup and experience requirements of a Section 508 Program Team will vary depending on the size of the agency, the maturity of the compliance program, and the agency&rsquo;s use of digital services and technology solutions.
@@ -44,6 +46,15 @@ We need talented people working in government who have expertise creating and de
   * [Trusted Tester Training and certification program][2]
 
 &nbsp;
+
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 4" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04"> < Play 4</a>
+    <a class="prev-page" title="Go to Play 6"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play06"> 
+      Play 6 >
+    </a>
+</div>
 
  [1]: https://www.access-board.gov/ict/
  [2]: https://www.dhs.gov/trusted-tester

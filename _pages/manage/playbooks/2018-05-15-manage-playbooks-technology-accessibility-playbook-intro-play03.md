@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play03/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play03/
+type: manage
 layout: page
 title: 'Play 3: Develop a Section 508 Accessibility Roadmap'
 created: 1526408550
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play03/
 ---
 
 An effective agency Section 508 program can identify and manage risks, gain management support, and implement corrective changes to agency policies, processes, and technologies to ensure Section 508 compliance. After you gauge the maturity of your Section 508 program (see previous play), develop a Section 508 Accessibility Roadmap to identify key agency activities and a phased approach to reach the next level of maturity. An Accessibility Roadmap will help set goals and priorities, and provide a framework for sustained improvement.
@@ -52,5 +54,14 @@ An effective agency Section 508 program can identify and manage risks, gain mana
 [Section 508 OMB Dashboard/Reporting Template][1]
 
 &nbsp;
+
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 2" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play02"> < Play 2</a>
+    <a class="prev-page" title="Go to Play 4"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04"> 
+      Play 4 >
+    </a>
+</div>
 
  [1]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf

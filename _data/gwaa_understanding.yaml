@@ -278,11 +278,15 @@
   uid: u47
   descr: |
     Comprehensive manual conformance validation testing means a manual testing approach is provided for all Section 508 requirements. Trusted Tester Conformance Test Process for Web is an example of a comprehensive manual conformance validation test approach. 
+
+    **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q48
   uid: u48
   descr: |
     Comprehensive, large-scale web content validation means using automated accessibility testing tools to test (or scan) all or a significant portion of your web content.
+
+    **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q49
   uid: u49
@@ -315,6 +319,8 @@
     **NOTE:** When seeking the above information from your agency’s web team, your agency point of contact (POC) will also need certain information on the most frequently used digital content elements of your agency website, as required by Questions 79, 80, and 81.
 
     **NOTE:** For websites operated in collaboration between multiple agencies, only count the pages if your agency is considered the primary owner or manager of the website.
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q63
   uid: u63
@@ -326,6 +332,8 @@
     If, during this reporting period your agency tested additional pages, then your agency’s answer should include the 10 required plus the additional number your agency tested as part of your agency’s regular program.
 
     **NOTE:** If a web application appears on a single web page (single URL), count it as one web page. 
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q64
   uid: u64
@@ -343,6 +351,8 @@
       - “Pass” means that the web page meets all applicable Section 508 technical requirements.
     2. Total Percentage = [total number of passing web pages divided by the total number of web pages tested] x 100%.
     3. For example: 20 web pages are tested. 13 web pages are found to be fully conformant. 7 web pages have one or more Section 508 defects present. 13/20 = .65 x 100 = 65% of web pages fully conform to Section 508 standards. Round to the nearest whole number when necessary.
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q65
   uid: u65
@@ -358,6 +368,8 @@
     4. For example: 20 web pages are tested. The defects found per page are: 45, 75, 80, 12, 30, 48, 53, 90, 5, 16, 20, 22, 4, 8, 16, 11, 21, 13, 9, 0 = 578. 578/20 = 28.9. Round to the nearest whole number and report 29.
 
     **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q66
   uid: u66
@@ -369,6 +381,8 @@
     **NOTE:** The sum of responses to Questions 66, 67 and 68 should equal the total given in Question 63’s response.
 
     **NOTE:** Some examples of automated test tools are given in the response options for Question 11. 
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q67
   uid: u67
@@ -380,6 +394,8 @@
     **NOTE:** The sum of responses to Questions 66, 67 and 68 should equal the total given in Question 63’s response.
 
     **NOTE:** Some examples of manual testing methodologies are given in the response options for Question 13. 
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q68
   uid: u68
@@ -389,6 +405,8 @@
     **NOTE:** For each web page tested, a combined methodology is "AND"; not "OR". In other words, if your agency uses an automated test for a certain set of pages, and your agency uses a manual test for other pages, enter those results in Questions 66 and Question 67 respectively instead of here.
 
     **NOTE:** The sum of responses to Questions 66, 67 and 68 should equal the total number given in Question 63’s response.
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q69
   uid: u69
@@ -528,6 +546,8 @@
     Please report the total number of each type of Success Criteria/Section 508 standard failure found on the 10 web pages. For example, if on your agency Home page, there are 8 instances of missing alternative text on the page, report “8” for 1.1.1 Non-text Content. On the second page, there are no instances of failures for 1.1.1 Non-text Content; report zero. 
 
     If a given Success Criteria does not apply to the page tested, report zero.
+
+     **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
 -   
   qid: q80
   uid: u80
