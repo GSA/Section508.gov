@@ -411,7 +411,6 @@ Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
 Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>  
 Alisha Hurtado (BACKUP) - <alisha.hurtado@usdoj.gov>  
-Matthew C. Rasmussen (BACKUP) - <matthew.c.rasmussen@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -511,7 +510,7 @@ Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
-Susan O'Brien - 202-981-1547 - <susan.obrien@occ.treas.gov>  
+Rodney Kent - 202-731-9893 - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Special Inspector General for Troubled Asset Relief Fund (SIGTARP)
 VACANT
@@ -699,7 +698,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 14, 2023
+**Reviewed/Updated**: June 26, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
