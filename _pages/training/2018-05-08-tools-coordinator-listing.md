@@ -410,7 +410,6 @@ Mike Barylski - 703-605-1328 - <mike.barylski@usdoj.gov>
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
 Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>  
-Alisha Hurtado (BACKUP) - 202-567-1118 - <alisha.hurtado@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
