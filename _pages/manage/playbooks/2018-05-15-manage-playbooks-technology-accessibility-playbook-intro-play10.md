@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play10/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play10/
+type: manage
 layout: page
 title: 'Play 10: Conduct Section 508 testing'
 created: 1526408906
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play10/
 ---
 
 While an expert review of Section 508 conformance claims may provide an indication of accessibility, rigorous testing is required to validate these claims. Section 508 conformance is complex. Vendors and development teams may not fully understand what conformance requires. Therefore, testing is needed to reduce the risk of unknowingly implementing inaccessible technology. Testing needs to be performed regardless of the source, including commercial-off-the-shelf, open source, or custom built technology by your agency, a vendor, or another agency. You can use automated testing tools to augment validation efforts; however, by themselves automated tools can only provide partial coverage of the Section 508 standards. In order to validate full conformance, hands-on testing using a repeatable, systematic testing methodology is needed. In addition, you can use informal reviews by Section 508 experts throughout the development process to identify potential issues before the technology is ready for full Section 508 conformance testing.
@@ -56,6 +58,15 @@ Many individuals who are interested in testing to validate the conformance of a 
   * [ISTQB Software Testing Certification][3]
 
 &nbsp;
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 9" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09"> < Play 9
+    </a>
+    <a class="prev-page" title="Go to Play 11"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11"> Play 11 >
+    </a>
+</div>
+
 
  [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [2]: https://agilemanifesto.org/

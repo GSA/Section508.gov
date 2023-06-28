@@ -8,7 +8,7 @@ title: "Government-wide Section 508 Assessment Definition of Terms"
 The following terms are referenced by reporting criteria of the annual Government-wide Section 508 Assessment. For terms relating to Section 508, see [Glossary of Section 508 Terms]({{site.baseurl}}/content/glossary/).
 
 <p style="text-align:center;">
-  <a href="#sectionA">A</a> | <a href="#sectionB">B</a> | <a href="#sectionC">C</a> | <a href="#sectionD">D</a> | <a href="#sectionE">E</a> | <a href="#sectionF">F</a> | <a href="#sectionG">G</a> | <a href="#sectionI">I</a> | <a href="#sectionL">L</a> | <a href="#sectionM">M</a> | <a href="#sectionO">O</a> | <a href="#sectionP">P</a> | <a href="#sectionR">R</a> | <a href="#sectionS">S</a> | <a href="#sectionT">T</a> | <a href="#sectionU">U</a> | <a href="#sectionV">V</a> | <a href="#sectionW">W</a>
+  <a href="#sectionA">A</a> | <a href="#sectionB">B</a> | <a href="#sectionC">C</a> | <a href="#sectionD">D</a> | <a href="#sectionE">E</a> | <a href="#sectionF">F</a> | <a href="#sectionG">G</a> | <a href="#sectionI">I</a> |  <a href="#sectionK">K</a> | <a href="#sectionL">L</a> | <a href="#sectionM">M</a> | <a href="#sectionO">O</a> | <a href="#sectionP">P</a> | <a href="#sectionR">R</a> | <a href="#sectionS">S</a> | <a href="#sectionT">T</a> | <a href="#sectionU">U</a> | <a href="#sectionV">V</a> | <a href="#sectionW">W</a>
 </p>
 
 <h2>
@@ -63,6 +63,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="capital-planning-and-investment-control"><strong>Capital Planning and Investment Control (CPIC):</strong></span> A systematic approach to selecting, managing, and evaluating information technology investments.
 
+- <span id="closed-function"><strong> Closed Functionality:</strong></span> Characteristics that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so that users may not adjust settings due to a policy such as Desktop Core Configuration.
+
 - <span id="communication"><strong>Communication:</strong></span> The way in which agencies and their organizations communicate with internal and external audiences.
 
 - <span id="complaint:"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a Federal employee, applicant for Federal employment, or member of the public with a disability  initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by "any individual with a disability...alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology" ([§794d. Electronic and information technology (f)(1)(A)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)) [i.e., fails to provide accessible ICT]. Administrative complaints are "filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity." ([§794d. Electronic and information technology (f)(2)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other agency personnel to fully gather this information ([DOJ Civil Rights Division iii. Administrative Complaints](https://www.justice.gov/crt/iii-administrative-complaints)). 
@@ -96,6 +98,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 - <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> An e-government line of business (e-gov LoB) is defined as an intra-agency shared service, a line of business, or a multi-agency collaboration established by the Office of Management and Budget under M-04-08.
 
 - <span id="electronic-content"><strong>Electronic Content:</strong></span> Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions (see [36 CFR 1194, E103](https://www.access-board.gov/ict/#E103-definitions)), including Electronic Content  that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
+
+- <span id="extranet"><strong>Extranet:</strong></span> A private network that can only be accessed by authorized users. For the purposes of this assessment, extranet is included in questions related to internet web pages.
 
 <h2>
   <span id="sectionF">F</span>
@@ -152,9 +156,15 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="ict-accessibility"><strong>ICT accessibility:</strong></span> Term used sometime interchangeably with Section 508 standards, IT accessibility, and the Web Content Accessibility Guidelines, but could also refer to the accessibility of ICT in more general terms than only conformance to particular accessibility standards.
 
-- <span id="internet"><strong>Internet:</strong></span> A network of information that can be accessed by the public.
+- <span id="internet"><strong>Internet:</strong></span> A network of information that can be accessed by the public. For the purposes of this assessment, [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) should be reported under internet-related questions.  
 
 - <span id="intranet"><strong>Intranet:</strong></span> A private or internal network within an organization used for, but not limited to: a central repository; collaboration; communication; access to information; social networking; project management; and streamlining of everyday activities and operations.
+
+<h2>
+  <span id="sectionK">K</span>
+</h2>
+
+- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information and/or services on a digital screen that is locked down so that users may not adjust settings nor install or attach assistive technology.
 
 <h2>
   <span id="sectionL">L</span>

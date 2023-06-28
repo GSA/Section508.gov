@@ -69,7 +69,7 @@ Karen Garrison - 816-926-2678 - <karen.garrison@usda.gov>
 
 ### Food, Nutrition and Consumer Services	(FNCS)
 Elisha Owens - <elisha.owens@usda.gov>  
-Ronald Hodges - <ronald.hodges@usda.gov>  
+Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>  
 
 * **Center for Nutrition Policy and Promotion (CNPP)**  
 * **Food and Nutrition Service (FNS)**  
@@ -112,7 +112,7 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 ### Research, Education and Economics (REE)
 Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
-* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - <ricardo.s.romero@usda.gov>  
+* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - 202-570-8236 - <ricardo.s.romero@usda.gov>  
 * **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
@@ -170,8 +170,6 @@ Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>
   * **United States Army Materiel Command** <br>John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
-### Center for Development of Security Excellence (CDSE)
-Richard L. Price - 410-689-7743 - <richard.l.price6.civ@mail.mil>  
 ### Computer/Electronic Accommodations Program (CAP)
 VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -182,6 +180,10 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
+
+* **Center for Development of Security Excellence (CDSE)** <br>
+Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
+
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - 410-981-0308 - <stephen.johnson@dc3.mil>  
 Jillian Langley - 410-694-6435 - <jillian.langley.ctr@dc3.mil>
@@ -208,7 +210,7 @@ Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>
 David Elliot - 916-231-1629 - <david.s.elliott24.civ@mail.mil>  
 Kevin Butters - 916-999-2726 - <kevin.f.butters.civ@mail.mil>  
 ### Defense POW/MIA Accounting Agency (DPAA) 
-Gayle D. Oshiro – <gayle.d.oshiro.civ@mail.mil>  
+Gayle D. Oshiro - 808-204-3225 – <gayle.d.oshiro.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
@@ -234,9 +236,10 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** <br>Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** <br>Bruce Shea - 901-874-3480 - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
+  * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – 202-685-9418 – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
+  * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – 202-400-5793 – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
   * **Office of Naval Research** <br>VACANT
 
@@ -264,7 +267,7 @@ Sandra Logan (BACKUP)
 ----------------------------------------------------
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Maynor Sweeney - <kate.maynor@hhs.gov>
+Kate Sweeney - <kate.sweeney@hhs.gov.>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
 ### Agency for Healthcare Research and Quality (AHRQ)
@@ -286,7 +289,7 @@ Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
-Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
+Alex Karakcheyev - 202-770-9724 - <olexiy.karakcheyev@samhsa.hhs.gov>  
 
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
@@ -406,7 +409,7 @@ Mike Barylski - 703-605-1328 - <mike.barylski@usdoj.gov>
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
-Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>
+Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -449,7 +452,6 @@ Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>
 ### Office of the Deputy Attorney General
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Inspector General
-Beth Cvrkel - 202-307-6347 - <beth.cvrkel@usdoj.gov>  
 Maurice A. Jones - 202-353-9398 - <maurice.a.jones@usdoj.gov>
 ### Office of Tribal Justice
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
@@ -501,12 +503,12 @@ VACANT
 ### FINCEN
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
-Robin A. Meissner (Acting) - 240-613-3309 - <robin.a.meissner@irs.gov>  
+Courtney M. Williams - 469-801-0209 - <courtney.m.williams@irs.gov>  
 Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
-Susan O'Brien - 202-981-1547 - <susan.obrien@occ.treas.gov>  
+Rodney Kent - 202-731-9893 - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Special Inspector General for Troubled Asset Relief Fund (SIGTARP)
 VACANT
@@ -570,6 +572,8 @@ Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>
 Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
+### Consumer Product Safety Commission (CPSC)
+Bryan Burnett -	301-504-7654 - <bburnett@cpsc.gov>  
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
 
@@ -609,7 +613,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-Michaell Williams - <mwilliams@fmshrc.com>  
+VACANT   
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
@@ -671,6 +675,9 @@ Robert LaBerry - 312-751-7153 - <robert.laberry@rrb.gov>
 ### Securities and Exchange Commission (SEC)
 Sharvon Jones - 202-551-5251 - <jonessh@sec.gov>
 
+### Selective Service System (SSS)
+Shawn Jackson - 703-605-4089 - <sjackson@sss.gov>  
+
 <span id="T" ></span>
 
 ### Tennessee Valley Authority (TVA)
@@ -689,7 +696,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: May 31, 2023
+**Reviewed/Updated**: June 27, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

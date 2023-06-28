@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: false
-permalink: tools/playbooks/exec-guide-accessibility/
-type: page
+permalink: manage/playbooks/exec-guide-accessibility/
+type: manage
 title: 'Executive Guide to Federal IT Accessibility'
 created: 1534360384
+redirect_from:
+- tools/playbooks/exec-guide-accessibility/
 ---
 
 <div class="col-lg-12 col-sm-12 col-xs-12">
@@ -390,4 +392,4 @@ IT Accessibility is a team effort that requires strong support from agency leade
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [5]: https://www.section508.gov/
- [6]: {{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro
+ [6]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro

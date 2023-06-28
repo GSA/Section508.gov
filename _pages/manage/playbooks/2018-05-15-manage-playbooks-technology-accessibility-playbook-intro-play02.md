@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play02/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play02/
+type: manage
 layout: page
 title: 'Play 2: Assess your Section 508 program maturity'
 created: 1526408495
+redirect_from: 
+- tools/playbooks/technology-accessibility-playbook-intro/play02/
 ---
 
 Some agencies have not established a formal Section 508 compliance program. Other agencies are just beginning to establish a Section 508 program, and they need to establish policies, procedures, training and communications to build awareness of what is required and who is responsible for addressing compliance needs. Agencies further along may have dedicated resources to perform testing to validate Section 508 conformance claims, but do not have a systematic approach to perform testing. Mature agencies demonstrate the ability to measure and monitor conformance to policies and actual compliance levels, and they use data to drive decision making to improve the effectiveness of their overall Section 508 program. Section 508 activities appropriate for mature organizations may not be appropriate for less mature organizations that do not have an adequate foundation to build upon. Therefore, an assessment of your agency&rsquo;s Section 508 program maturity is essential to gauge where you are, and to determine what steps are necessary to improve your program.
@@ -86,6 +88,15 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
   * [IT Dashboard.gov - For agency E-Gov Act accessibility related summaries][6]
 
 &nbsp;
+
+<div id="prev-next-section">
+    <a class="prev-page" title="Go to Play 1" 
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play01"> < Play 1</a>
+    <a class="prev-page" title="Go to Play 3"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play03"> 
+      Play 3 >
+    </a>
+</div>
 
  [1]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf
  [2]: https://assets.section508.gov/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX

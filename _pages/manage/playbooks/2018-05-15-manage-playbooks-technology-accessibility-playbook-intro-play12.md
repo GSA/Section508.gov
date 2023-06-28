@@ -1,9 +1,11 @@
 ---
-permalink: tools/playbooks/technology-accessibility-playbook-intro/play12/
-type: training
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play12/
+type: manage
 layout: page
 title: 'Play 12: Educate the workforce'
 created: 1526408982
+redirect_from:
+- tools/playbooks/technology-accessibility-playbook-intro/play12/
 ---
 
 An understanding of accessibility and Section 508 compliance should be an essential component of agency workforce development.&nbsp;&nbsp; Increasing the awareness of the needs of people with disabilities, as well as agency legal requirements to address those needs, is an important step towards gaining the support and cooperation from agency staff to implement a mature Section 508 Program.
@@ -47,6 +49,12 @@ An understanding of accessibility and Section 508 compliance should be an essent
   * [For Developers, Dragon Naturally Speaking HTML Programming Guide][5]
 
 &nbsp;
+
+<div id="prev-next-section" style="justify-content: space-around;">
+    <a class="prev-page" title="Go to Play 11"
+      href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11"> < Play 11
+    </a>
+</div>
 
  [1]: {{site.baseurl}}/tools
  [2]: https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592
