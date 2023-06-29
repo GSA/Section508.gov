@@ -21,13 +21,13 @@ redirect_from:
 - manage/reporting/section-508-program-maturity-reports/ #only one redirect for this page, as there is no legacy page
 ---
 
+**The [Government-wide Section 508 Assessment Instructions]({{site.baseurl}}/manage/section-508-assessment/) and corresponding report replaces the previously required semi-annual Section 508 Program Mturity Report.**
+
 The <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" class="usa-link--external">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> issued by the Office of Management and Budget (OMB) on January 23, 2013 aims to improve how agencies manage Section 508 and IT accessibility responsibilities by increasing transparency, strengthening accountability, and improving collaboration.
 
 Federal agencies have been required to report to OMB twice per year on their Section 508 program maturity and effectiveness. GSA’s Government-wide IT Accessibility Program analyzes these reports to identify ways to increase collaboration across agencies, reduce redundancies, and develop solutions to improve the management of government accessibility programs. Executive summary reports, along with a companion supplemental report, are provided to OMB, U.S. Access Board, and Chief Information Officers (CIO) Council Accessibility Community of Practice (ACOP).
 
 On December 29, 2023 the President signed the <a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651" target="_blank" class="usa-link--external">Consolidated Appropriations Act, 2023</a> which, in Section 752, tasked the Office of Management and Budget (OMB), in consultation with the General Services Administration (GSA) and the U.S. Access Board (USAB), to update criteria and instructions for evaluating agencies’ Section 508 efforts.  Section 752 requires federal agencies to report on the implementation of Section 508 in accordance with the updated criteria and instructions by August 11, 2023, and annually thereafter.
-
-**The [Government-wide Section 508 Assessment Instructions]({{site.baseurl}}/manage/section-508-assessment/) and corresponding report replaces the previously required semi-annual Section 508 Program Mturity Report.**
 
 ## Report Downloads
 In a <a href="https://www.aging.senate.gov/imo/media/doc/letter_to_gsa_administrator_robin_carnahan_re_section_508_compliance.pdf" target="_blank" class="usa-link--external">letter to GSA Administrator Robin Carnahan regarding Section 508 compliance</a>, members of the Special Committee on Aging, Committee on Homeland Security and Governmental Affairs, and Committee on Health, Education, Labor and Pensions requested that GSA provide all summary reports, trend analysis, or other analyses or recommendations from 2019 through 2022.
