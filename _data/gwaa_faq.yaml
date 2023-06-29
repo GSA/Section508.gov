@@ -211,3 +211,10 @@
   q: What answer should I select if my agency is in between two options, such as A and B?
   a: |
     Select the best response that is most representative of your agency's current status in that area with respect to disability.
+-  
+  id: 30
+  q: How should agencies respond if they use processes, policies, or procedures implemented by their parent agency? 
+  a: |
+    It is acceptable if an agency utilizes parent agency processes, policies, and/or services and each agency should answer appropriately for how they utilize or implement the parent agency process/policy/service, etc. For example, it is acceptable to answer that an agency has a complaint process even if that agency relies on the complaint process of the parent agency.
+    
+    Where agency-specific data should be reported are for questions such as FTEs and budget; an agency should not report parent agency budget/resources but instead give an honest report of their specific agency.  Agency-specific data should also be reported for Conformance Metrics and most of the General Information questions; agencies should submit their own data without duplication of the parent agency when answering specific outcome-related questions. 
