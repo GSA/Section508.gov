@@ -365,7 +365,8 @@ Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - 202-208-5412 - <rashee_nelson@doioig.gov>  
 ### Office of Navajo & Hopi Indian Relocation
-Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
+Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>  
+June Beyal (BACKUP) - <jbeyal@onhir.gov>  
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
