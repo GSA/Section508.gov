@@ -222,12 +222,12 @@
   id: 31
   q: Will I be able to edit my agency's data up until the deadline of August 11, 2023, even if I have submitted the data before the deadline?
   a: |
-    Your agency’s responses cannot be edited after submission without the reporting tool being unlocked by GSA. If edits are necessary, you should email GSA's Government-wide IT Accessibility Program at section.508@gsa.gov. Edits or submissions will not be permitted after the submission period closes on August 11, 2023. Please note that the unlocking of your agency's assessment may not be immediate; please review your answers prior to Submit to avoid any additional delay. 
+    Your agency’s responses cannot be edited after submission without manual steps to unlock your response. If edits are necessary after submission, email GSA's Government-wide IT Accessibility Program at section.508@gsa.gov. Edits or submissions will not be permitted after the submission period closes on August 11, 2023. Please note that unlocking your agency's assessment may not be immediate; please carefully review your answers prior to submission to avoid any additional delay. 
 -  
   id: 32
   q: Where can I find the information shared and discussed during office hours?
   a: |
-    Office Hours are not recorded and transcripts are not available for distribution. Based on these meetings, our team regularly updates these FAQs and the Understanding content associated with criteria to help agencies best answer each question. Please note that not all criteria have additional Understanding content.
+    Office Hours are not recorded and transcripts are not available for distribution. However, based on these sessions, our team regularly updates these FAQs and the "Understanding Question [X]" content associated with assessment criteria to help agencies better understand each question. Please note that not all criteria have additional Understanding content.
 -  
   id: 33
   q: What is the best way to navigate the submission tool? 
