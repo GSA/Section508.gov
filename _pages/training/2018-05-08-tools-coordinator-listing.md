@@ -77,7 +77,7 @@ Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-VACANT
+Dennis - Lapcewich - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -697,7 +697,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 27, 2023
+**Reviewed/Updated**: July 5, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

@@ -23,11 +23,11 @@ Discover how to use lists to organize and structure content so that assistive te
 
 ## Related Presentation Video Series Modules
 
-  * [Module 0: Introduction & Background][1]
-  * [Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order][2]
-  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient&nbsp;][3]
-  * [Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text][4]
-  * [Module 4: Formatting Columns Correctly][5]
+  * [Module 0: Introduction & Background][0]
+  * [Module 1: Creating the Presentation's Layout Design and Establishing the Logical Reading Order][1]
+  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][2]
+  * [Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text][3]
+  * [Module 4: Formatting Columns Correctly][4]
   * **Module 5: Formatting Lists Properly**
   * [Module 6: Using Built-In Features to Create Data Tables][6]
   * [Module 7: Adding Alternative Text to Images and Other Objects][7]
@@ -46,13 +46,14 @@ Discover how to use lists to organize and structure content so that assistive te
 </div>
 </div>
 
-**Updated**: December 2019
+**Updated**: July 2023
 
- [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
- [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
- [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
- [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
- [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [0]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
+ [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
+ [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
+ [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/
+ [4]: {{site.baseurl}}/training/presentations/aed-cop-pptx04/
+ [5]: {{site.baseurl}}/training/presentations/aed-cop-pptx05/
  [6]: {{site.baseurl}}/training/presentations/aed-cop-pptx06/
  [7]: {{site.baseurl}}/training/presentations/aed-cop-pptx07/
  [8]: {{site.baseurl}}/training/presentations/aed-cop-pptx08/

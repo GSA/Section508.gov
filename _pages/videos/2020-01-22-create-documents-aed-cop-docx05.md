@@ -23,11 +23,11 @@ Learn how to use built-in features to create layout tables and both simple and c
 
 ## Related Documents Video Series Modules
 
-  * [Module 0: Introduction & Background][1]
-  * [Module 1: Save as a Word Document (.docx) with a Descriptive Filename][2]
-  * [Module 2: Use Styles to Create Headings][3]
-  * [Module 3: Use Built-in Features to Create Lists][4]
-  * [Module 4: Use Built-in Features to Organize Content][5]
+  * [Module 0: Introduction & Background][0]
+  * [Module 1: Save as a Word Document (.docx) with a Descriptive Filename][1]
+  * [Module 2: Use Styles to Create Headings][2]
+  * [Module 3: Use Built-in Features to Create Lists][3]
+  * [Module 4: Use Built-in Features to Organize Content][4]
   * **Module 5: Use Built-in Features to Create Layout and Data Tables**
   * [Module 6: Identify Distinct Languages][6]
   * [Module 7: Create Unambiguous Names for Links][7]
@@ -46,8 +46,9 @@ Learn how to use built-in features to create layout tables and both simple and c
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: July 2023
 
+ [0]: {{site.baseurl}}/training/documents/aed-cop-docx00/
  [1]: {{site.baseurl}}/training/documents/aed-cop-docx01/
  [2]: {{site.baseurl}}/training/documents/aed-cop-docx02/
  [3]: {{site.baseurl}}/training/documents/aed-cop-docx03/
