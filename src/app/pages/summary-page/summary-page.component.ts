@@ -98,11 +98,11 @@ export class SummaryPageComponent implements OnInit {
              });
               
             //508MapoingService call for language, for download anc clipboard
-            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName? "<h3>" + this.userName + "</h3>":'')  + "<h3>" + solicitationPhaseValue  + "</h3> <p> </p> <h3>" +item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2>ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName? "<h3>" + this.userName + "</h3>":'')  + "<h3>" + solicitationPhaseValue  + "</h3> <p> </p> <h3>" +item.name + "</h3></p>\n" + langGenerated + footer);
             // For UI only
             this.languageGeneratedUI.push("<p> <h3>" + item.name + "</h3></p>\n" + langGenerated);
             // Copy to clipboard Only
-            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2>ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
 
         });
 
@@ -146,7 +146,7 @@ export class SummaryPageComponent implements OnInit {
         const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
 
         console.log(tempLanguageGenerated);
-        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<h2>","").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
+        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){
