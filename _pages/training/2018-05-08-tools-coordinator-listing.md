@@ -77,7 +77,7 @@ Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-Dennis - Lapcewich - <dennis.lapcewich@usda.gov>  
+Dennis Lapcewich - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -525,7 +525,6 @@ Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
-David Segovia - <segovia.david@epa.gov>  
 Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ----------------------------------------------------
@@ -697,7 +696,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: July 5, 2023
+**Reviewed/Updated**: July 6, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
