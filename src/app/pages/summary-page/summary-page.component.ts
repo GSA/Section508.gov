@@ -135,7 +135,18 @@ export class SummaryPageComponent implements OnInit {
     }
 
     copyToClipboard(){
-        this.clipboardService.copyFromContent(this.languageGeneratedCopy[this.currentIndex]);
+        let regex = /(<([^>]+)>)/ig;
+        let regexStrong = /(<strong>)/ig;
+        let regexH3 = /(<h3>)/ig;
+        let regexP = /(<p>)/ig;
+        let regexLi = /(<li>)/ig;
+        let regexTab = /(    )/ig;
+        let regex2Space = /(  )/ig;
+
+        const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
+
+        console.log(tempLanguageGenerated);
+        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<h2>","").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){
