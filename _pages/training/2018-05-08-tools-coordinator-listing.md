@@ -525,7 +525,7 @@ Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
-Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
+Sarah Sorathia - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ----------------------------------------------------
 ## <span id="usgsa" ></span>General Services Administration (GSA)
