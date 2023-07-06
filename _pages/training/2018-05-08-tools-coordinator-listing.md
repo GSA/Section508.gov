@@ -69,7 +69,7 @@ Karen Garrison - 816-926-2678 - <karen.garrison@usda.gov>
 
 ### Food, Nutrition and Consumer Services	(FNCS)
 Elisha Owens - <elisha.owens@usda.gov>  
-Ronald Hodges - <ronald.hodges@usda.gov>  
+Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>  
 
 * **Center for Nutrition Policy and Promotion (CNPP)**  
 * **Food and Nutrition Service (FNS)**  
@@ -77,7 +77,7 @@ Ronald Hodges - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-VACANT
+Dennis - Lapcewich - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -112,7 +112,7 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 ### Research, Education and Economics (REE)
 Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
-* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - <ricardo.s.romero@usda.gov>  
+* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - 202-570-8236 - <ricardo.s.romero@usda.gov>  
 * **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
@@ -210,7 +210,7 @@ Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>
 David Elliot - 916-231-1629 - <david.s.elliott24.civ@mail.mil>  
 Kevin Butters - 916-999-2726 - <kevin.f.butters.civ@mail.mil>  
 ### Defense POW/MIA Accounting Agency (DPAA) 
-Gayle D. Oshiro – <gayle.d.oshiro.civ@mail.mil>  
+Gayle D. Oshiro - 808-204-3225 – <gayle.d.oshiro.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
@@ -289,7 +289,7 @@ Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
-Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
+Alex Karakcheyev - 202-770-9724 - <olexiy.karakcheyev@samhsa.hhs.gov>  
 
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
@@ -365,7 +365,8 @@ Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - 202-208-5412 - <rashee_nelson@doioig.gov>  
 ### Office of Navajo & Hopi Indian Relocation
-Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
+Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>  
+June Beyal (BACKUP) - <jbeyal@onhir.gov>  
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
@@ -410,8 +411,6 @@ Mike Barylski - 703-605-1328 - <mike.barylski@usdoj.gov>
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
 Julie Enyeart - 202-718-4740 - <julie.enyeart@usdoj.gov>  
-Alisha Hurtado (BACKUP) - <alisha.hurtado@usdoj.gov>  
-Matthew C. Rasmussen (BACKUP) - <matthew.c.rasmussen@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -454,7 +453,6 @@ Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>
 ### Office of the Deputy Attorney General
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
 ### Office of the Inspector General
-Beth Cvrkel - 202-307-6347 - <beth.cvrkel@usdoj.gov>  
 Maurice A. Jones - 202-353-9398 - <maurice.a.jones@usdoj.gov>
 ### Office of Tribal Justice
 Benjamin L. Schwarten - 202-532-5168 - <benjamin.l.schwarten@usdoj.gov>  
@@ -511,7 +509,7 @@ Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
-Susan O'Brien - 202-981-1547 - <susan.obrien@occ.treas.gov>  
+Rodney Kent - 202-731-9893 - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Special Inspector General for Troubled Asset Relief Fund (SIGTARP)
 VACANT
@@ -616,7 +614,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-Michaell Williams - <mwilliams@fmshrc.com>  
+VACANT   
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
@@ -699,7 +697,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 14, 2023
+**Reviewed/Updated**: July 5, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

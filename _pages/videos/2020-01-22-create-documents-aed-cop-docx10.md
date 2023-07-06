@@ -23,16 +23,16 @@ Assistive technology cannot access information in text boxes unless they are pla
 
 ## Related Documents Video Series Modules
 
-  * [Module 0: Introduction & Background][1]
-  * [Module 1: Save as a Word Document (.docx) with a Descriptive Filename][2]
-  * [Module 2: Use Styles to Create Headings][3]
-  * [Module 3: Use Built-in Features to Create Lists][4]
-  * [Module 4: Use Built-in Features to Organize Content][5]
-  * [Module 5: Use Built-in Features to Create Layout and Data Tables][6]
-  * [Module 6: Identify Distinct Languages][7]
-  * [Module 7: Create Unambiguous Names for Links][8]
-  * [Module 8: Duplicate Vital Information in Headers, Footers and Watermarks][9]
-  * [Module 9: Create Accessible Images and Other Objects][10]
+  * [Module 0: Introduction & Background][0]
+  * [Module 1: Save as a Word Document (.docx) with a Descriptive Filename][1]
+  * [Module 2: Use Styles to Create Headings][2]
+  * [Module 3: Use Built-in Features to Create Lists][3]
+  * [Module 4: Use Built-in Features to Organize Content][4]
+  * [Module 5: Use Built-in Features to Create Layout and Data Tables][5]
+  * [Module 6: Identify Distinct Languages][6]
+  * [Module 7: Create Unambiguous Names for Links][7]
+  * [Module 8: Duplicate Vital Information in Headers, Footers and Watermarks][8]
+  * [Module 9: Create Accessible Images and Other Objects][9]
   * **Module 10: Create Accessible Textboxes**
   * [Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning][11]
   * [Module 12: Create the Required Color Contrast][12]
@@ -46,8 +46,9 @@ Assistive technology cannot access information in text boxes unless they are pla
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: July 2023
 
+ [0]: {{site.baseurl}}/training/documents/aed-cop-docx00/
  [1]: {{site.baseurl}}/training/documents/aed-cop-docx01/
  [2]: {{site.baseurl}}/training/documents/aed-cop-docx02/
  [3]: {{site.baseurl}}/training/documents/aed-cop-docx03/

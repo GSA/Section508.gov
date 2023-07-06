@@ -211,3 +211,27 @@
   q: What answer should I select if my agency is in between two options, such as A and B?
   a: |
     Select the best response that is most representative of your agency's current status in that area with respect to disability.
+-  
+  id: 30
+  q: How should agencies respond if they use processes, policies, or procedures implemented by their parent agency? 
+  a: |
+    It is acceptable if an agency utilizes parent agency processes, policies, and/or services and each agency should answer appropriately for how they utilize or implement the parent agency process/policy/service, etc. For example, it is acceptable to answer that an agency has a complaint process even if that agency relies on the complaint process of the parent agency.
+    
+    Where agency-specific data should be reported are for questions such as FTEs and budget; an agency should not report parent agency budget/resources but instead give an honest report of their specific agency.  Agency-specific data should also be reported for Conformance Metrics and most of the General Information questions; agencies should submit their own data without duplication of the parent agency when answering specific outcome-related questions. 
+-  
+  id: 31
+  q: Will I be able to edit my agency's data up until the deadline of August 11, 2023, even if I have submitted the data before the deadline?
+  a: |
+    Your agency’s responses cannot be edited after submission without manual steps to unlock your response. If edits are necessary after submission, email GSA's Government-wide IT Accessibility Program at section.508@gsa.gov. Edits or submissions will not be permitted after the submission period closes on August 11, 2023. Please note that unlocking your agency's assessment may not be immediate; please carefully review your answers prior to submission to avoid any additional delay. 
+-  
+  id: 32
+  q: Where can I find the information shared and discussed during office hours?
+  a: |
+    Office Hours are not recorded and transcripts are not available for distribution. However, based on these sessions, our team regularly updates these FAQs and the "Understanding Question [X]" content associated with assessment criteria to help agencies better understand each question. Please note that not all criteria have additional Understanding content.
+-  
+  id: 33
+  q: What is the best way to navigate the submission tool? 
+  a: |
+    We recommend gathering all responses prior to accessing and entering data into the submission tool. This will facilitate your agency's ability to start at the beginning of the submission tool and answer questions in order. We encourage agencies to use the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) to gather responses.
+
+    The submission tool does not have a Back button, however, the Table of Contents allows you to move between sections of the assessment once all required questions on the current screen have been completed. Use the Table of Contents to navigate between sections to ensure complete and accurate responses for each applicable question. 
