@@ -24,8 +24,8 @@ Learn the minimum steps needed to ensure your powerpoint presentation is Section
 ## Related Presentation Video Series Modules
 
   * **Module 0: Introduction & Background**
-  * [Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order][1]
-  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient&nbsp;][2]
+  * [Module 1: Creating the Presentation's Layout Design and Establishing the Logical Reading Order][1]
+  * [Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient][2]
   * [Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text][3]
   * [Module 4: Formatting Columns Correctly][4]
   * [Module 5: Formatting Lists Properly][5]
@@ -46,8 +46,9 @@ Learn the minimum steps needed to ensure your powerpoint presentation is Section
 </div>
 </div>
 
-**Updated**: December 2019
+**Updated**: July 2023
 
+ [0]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
  [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
  [2]: {{site.baseurl}}/training/presentations/aed-cop-pptx02/
  [3]: {{site.baseurl}}/training/presentations/aed-cop-pptx03/

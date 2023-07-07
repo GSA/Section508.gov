@@ -46,8 +46,9 @@ Learn about the Accessible Electronic Document Community of Practice (AED CoP) a
 </div>
 </div>
 
-**Updated**: March 2023
+**Updated**: July 2023
 
+ [0]: {{site.baseurl}}/training/documents/aed-cop-docx00/
  [1]: {{site.baseurl}}/training/documents/aed-cop-docx01/
  [2]: {{site.baseurl}}/training/documents/aed-cop-docx02/
  [3]: {{site.baseurl}}/training/documents/aed-cop-docx03/

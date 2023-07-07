@@ -231,6 +231,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="significantly"><strong>Significantly:</strong></span> In a way that is large or important enough to be noticed or have an effect.
 
+- <span id="solicitation"><strong>Solicitation:</strong></span> Any request to submit offers or quotations to the Government. Solicitations under sealed bid procedures are called "invitations for bids." Solicitations under negotiated procedures are called "requests for proposals." Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the [FAR](https://www.acquisition.gov/far/part-2)).
+
 - <span id="sometimes"><strong>Sometimes:</strong></span> Used to describe activities that are performed 1%-24% of the time. 
 
 - <span id="sufficient"><strong>Sufficient:</strong></span> Enough to meet the needs of a proposed end.

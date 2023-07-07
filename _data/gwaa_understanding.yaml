@@ -529,6 +529,8 @@
     Please report the total number of each type of Success Criteria/Section 508 standard failure found on the 10 web pages. For example, if on your agency’s Benefits page, there are 16 instances of missing alternative text on the page, report “16” for 1.1.1 Non-text Content. On the second page, there are no instances of failures for 1.1.1 Non-text Content; report zero. 
 
     If a given Success Criteria does not apply to the page tested, report zero.
+
+    Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
 -   
   qid: q79
   uid: u79
@@ -548,6 +550,8 @@
     If a given Success Criteria does not apply to the page tested, report zero.
 
      **NOTE:** Please include [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) web pages when answering this question.
+
+     Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
 -   
   qid: q80
   uid: u80
@@ -563,6 +567,8 @@
     Please report the total number of each type of Success Criteria failure found in the 10 electronic documents. For example, if in your agency Factsheet, there are 12 instances of missing alternative text in the electronic document, report “12” for 1.1.1 Non-text Content. In the second document, there are no instances of failures for 1.1.1 Non-text Content; report zero. 
 
     If a given Success Criteria does not apply to the electronic document tested, report zero.
+    
+    Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
 -   
   qid: q81
   uid: u81
@@ -576,6 +582,8 @@
     Please report the total number of each type of Success Criteria failure/Section 508 Standard found on the 5 videos. For example, if on your agency’s About Us video, there are 10 instances of inaccurate captions, report “10” for 1.2.2 Captions (Prerecorded). In the second video, there are no instances of failures for 1.2.2 Captions (Prerecorded); report zero. 
 
     If a given Success Criteria does not apply to the video tested, report zero.
+
+    Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
 -   
   qid: q82
   uid: u82
@@ -644,6 +652,8 @@
   qid: q86
   uid: u86
   descr: |
+    Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
+
     To determine your agency’s most widely-distributed multifunction printer, your agency POC may need to reach out to those who are responsible for purchasing printers across your agency. This could be the Information Technology department or another department.
 
     To answer this question accurately, along with the interface elements (for direct or remote use of the printer), the [Section 508 Hardware requirements](https://www.access-board.gov/ict/#E206-hardware) must also be tested in order to assess full conformance.
@@ -655,6 +665,14 @@
   qid: q87
   uid: u87
   descr: |
+    Each response assumes the software is used by the public, as specified in the question.
+    
+    To determine applicability of this question:
+    - Does your agency custom develop any desktop software or native mobile applications? If no, this question does not apply. If yes, move to the next bullet.
+    - Is the agency custom developed desktop software or native mobile application used by the public? If no, this question does not apply. If yes, this question applies; answer accordingly.
+    
+    If members of the public use the software, even for a limited community, this question would apply.
+
     Please refer to the definition of [Fully Conform](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF) before answering this question. 
 
     If your agency develops this type of software, there may be an associated Accessibility Conformance Report (ACR), or it may be considered a Government Off-The-Shelf (GOTS) system. If this is the case, an ACR or Government PAT (GPAT) may exist.
@@ -739,7 +757,7 @@
   qid: q98
   uid: u98
   descr: |
-    The feedback mechanism for Section 508 related issues is required as part of the “OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act” of 2013 (see page 3 of the plan, available at [https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)).
+    The feedback mechanism for Section 508 related issues is required as part of the [OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (see page 3 of the plan).
 -   
   qid: q99
   uid: u99

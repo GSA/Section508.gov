@@ -45,22 +45,7 @@ manage:
       - name: Find your Program Manager
         url: tools/program-manager-listing/
       - name: Semi-Annual Program Maturity Report (PMR)
-        url: '#'
-        grandchildren:
-          - name: PMR Maturity Reporting
-            url: manage/reporting/
-          - name: PMR Reporting FAQ
-            url: manage/reporting/faq/
-          - name: PMR Measure Website Conformance
-            url: manage/reporting/guidelines-conformance/
-          - name: PMR Maturity Assessment Guidelines
-            url: manage/reporting/guidelines-program-maturity/
-          - name: PMR Roll Up Agency Accessibility Metrics
-            url: manage/reporting/guidelines-roll-up-metrics/
-          - name: PMR Reporting Questions
-            url: manage/reporting/questions/
-          - name: Program Maturity Report Downloads
-            url: manage/reporting/section-508-program-maturity-reports/
+        url: manage/pmr/
   - name: Playbooks
     url: manage/playbooks
   - name: Law and Policy

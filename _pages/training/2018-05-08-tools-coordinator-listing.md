@@ -77,7 +77,7 @@ Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-VACANT
+Dennis Lapcewich - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -365,7 +365,8 @@ Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - 202-208-5412 - <rashee_nelson@doioig.gov>  
 ### Office of Navajo & Hopi Indian Relocation
-Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>
+Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>  
+June Beyal (BACKUP) - <jbeyal@onhir.gov>  
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
@@ -524,8 +525,7 @@ Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
 
 ----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
-David Segovia - <segovia.david@epa.gov>  
-Sarah Sorathia (BACKUP) - 202-564-1204 - <sorathia.Sarah@epa.gov>
+Sarah Sorathia - 202-564-1204 - <sorathia.Sarah@epa.gov>
 
 ----------------------------------------------------
 ## <span id="usgsa" ></span>General Services Administration (GSA)
@@ -696,7 +696,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: June 27, 2023
+**Reviewed/Updated**: July 6, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
