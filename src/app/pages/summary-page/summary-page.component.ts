@@ -98,11 +98,11 @@ export class SummaryPageComponent implements OnInit {
              });
               
             //508MapoingService call for language, for download anc clipboard
-            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName? "<h3>" + this.userName + "</h3>":'')  + "<h3>" + solicitationPhaseValue  + "</h3> <p> </p> <h3>" +item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedDoc.push("<p><h2>Accessibility Requirements Tool</h2><h2>ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3> </h3>" + (this.userName? "<h3>" + this.userName + "</h3>":'')  + "<h3>" + solicitationPhaseValue  + "</h3> <p> </p> <h3>" +item.name + "</h3></p>\n" + langGenerated + footer);
             // For UI only
             this.languageGeneratedUI.push("<p> <h3>" + item.name + "</h3></p>\n" + langGenerated);
             // Copy to clipboard Only
-            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2> ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
+            this.languageGeneratedCopy.push("<p><h2>Accessibility Requirements Tool</h2><h2>ICT Accessibility Requirements Statement per Section 508 of the Rehabilitation Act</h2> <h3>" + item.name + "</h3></p>\n" + langGenerated + footer);
 
         });
 
@@ -135,7 +135,27 @@ export class SummaryPageComponent implements OnInit {
     }
 
     copyToClipboard(){
-        this.clipboardService.copyFromContent(this.languageGeneratedCopy[this.currentIndex]);
+        // remove <> and anything inside
+        const regex = /(<([^>]+)>)/ig;
+        // Remove <strong>
+        const regexStrong = /(<strong>)/ig;
+        // Remove (<h3>)
+        const regexH3 = /(<h3>)/ig;
+        // Remove (<p>)
+        const regexP = /(<p>)/ig;
+        // Remove (<li>)
+        const regexLi = /(<li>)/ig;
+        // Remove <li id= ..> with nay attribute inside
+        const regexLiWithAttr = /(<li([^>]+)>)/ig;
+        // Remove tab which is 4 spaces
+        const regexTab = /(    )/ig;
+        // Remove double spaces
+        const regex2Space = /(  )/ig;
+
+        const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
+
+        console.log(tempLanguageGenerated);
+        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){
