@@ -135,18 +135,27 @@ export class SummaryPageComponent implements OnInit {
     }
 
     copyToClipboard(){
-        let regex = /(<([^>]+)>)/ig;
-        let regexStrong = /(<strong>)/ig;
-        let regexH3 = /(<h3>)/ig;
-        let regexP = /(<p>)/ig;
-        let regexLi = /(<li>)/ig;
-        let regexTab = /(    )/ig;
-        let regex2Space = /(  )/ig;
+        // remove <> and anything inside
+        const regex = /(<([^>]+)>)/ig;
+        // Remove <strong>
+        const regexStrong = /(<strong>)/ig;
+        // Remove (<h3>)
+        const regexH3 = /(<h3>)/ig;
+        // Remove (<p>)
+        const regexP = /(<p>)/ig;
+        // Remove (<li>)
+        const regexLi = /(<li>)/ig;
+        // Remove <li id= ..> with nay attribute inside
+        const regexLiWithAttr = /(<li([^>]+)>)/ig;
+        // Remove tab which is 4 spaces
+        const regexTab = /(    )/ig;
+        // Remove double spaces
+        const regex2Space = /(  )/ig;
 
         const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
 
         console.log(tempLanguageGenerated);
-        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
+        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){
