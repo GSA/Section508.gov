@@ -164,8 +164,8 @@ training:
       - name: "Section 508 Awareness"
         url: "https://training.section508.gov/508-training/courses/new/index.html"
         external: true
-      - name: "Section 508: What It Is and Why It's Important?"
-        url: 'https://training.section508.gov/508-training/courses/508-basics/index.html'
+      - name: "Section 508: What is It and Why is It Important to You?"
+        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it/index.html'
         external: true
       - name: "Accessibility of ICT: An Overview for Government Executives"
         url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
