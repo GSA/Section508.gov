@@ -38,9 +38,7 @@ export class FormPageService {
   <li>Describe plans for features that do not fully conform to the Section 508 Standards.</li>
   <li>Describe "typical" user scenarios and tasks, including individuals with disabilities, to ensure fair and accurate accessibility testing of the ICT product or service being offered.</li>
 
-  </ol>
-
-  <h3>Acceptance Criteria</h3>
+  </ol><h3>Acceptance Criteria</h3>
   <ol start="1">
   <li>Prior to acceptance, the government reserves the right to perform testing on required ICT items to validate the offeror’s Section 508 conformance claims. If the government determines that Section 508 conformance claims provided by the offeror represent an inaccurate level of conformance than what is actually delivered to the agency, the government shall, at its option, require the offeror to remediate the delivered item to align with the required Section 508 conformance claims prior to acceptance.</li>
   </ol>
