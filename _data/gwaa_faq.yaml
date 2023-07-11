@@ -235,3 +235,8 @@
     We recommend gathering all responses prior to accessing and entering data into the submission tool. This will facilitate your agency's ability to start at the beginning of the submission tool and answer questions in order. We encourage agencies to use the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) to gather responses.
 
     The submission tool does not have a Back button, however, the Table of Contents allows you to move between sections of the assessment once all required questions on the current screen have been completed. Use the Table of Contents to navigate between sections to ensure complete and accurate responses for each applicable question. 
+-  
+  id: 34
+  q: If an ACR/VPAT states that a Success Criteria or Section 508 Standard “partially supports”, how should agencies use this data to inform response? 
+  a: |
+    "Partially supports” denotes that there is at least one component of the ICT product that fails that criterion, thus the ICT does not fully conform to Section 508 requirements. Report “no” for any question that asks if that ICT is fully conformant. 
