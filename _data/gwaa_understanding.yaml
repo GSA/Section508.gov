@@ -653,6 +653,8 @@
   uid: u86
   descr: |
     Please refer to the appropriate tab in the [assessment spreadsheet (XLSX)](https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx) for the layout of this question in the submission tool.
+    
+    This question is asking for results for **one** multifunction printer.
 
     To determine your agency’s most widely-distributed multifunction printer, your agency POC may need to reach out to those who are responsible for purchasing printers across your agency. This could be the Information Technology department or another department.
 
