@@ -486,6 +486,8 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>  
 Lisa L. Edwards - 817-222-4277 - <lisa.l.edwards@faa.gov>
+### National Highway Traffic Safety Administration (NHTSA)
+Purushottam "Puru" Subedi - 202-366-1015 - <p.subedi@dot.gov>  
 
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
@@ -696,7 +698,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: July 6, 2023
+**Reviewed/Updated**: July 18, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
