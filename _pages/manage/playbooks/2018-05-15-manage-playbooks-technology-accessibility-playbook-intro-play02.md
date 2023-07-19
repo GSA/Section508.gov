@@ -84,8 +84,7 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
   * [Training - How to Measure Your Agency's 508 Program Training][2]
   * [Section 508 OMB Dashboard/Reporting Template][3]
   * [Section 508 OMB Dashboard/Reporting Template Instructions][4]
-  * [Digital Service Contracting Professional Training and Development Program][5]
-  * [IT Dashboard.gov - For agency E-Gov Act accessibility related summaries][6]
+  * [IT Dashboard.gov - For agency E-Gov Act accessibility related summaries][5]
 
 &nbsp;
 
@@ -102,5 +101,4 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
  [2]: https://assets.section508.gov/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
  [3]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf
  [4]: {{site.baseurl}}/manage/reporting
- [5]: https://www.challenge.gov/challenge/digital-service-contracting-professional-training-and-development-program-challenge/
- [6]: https://itdashboard.gov/
+ [5]: https://itdashboard.gov/
