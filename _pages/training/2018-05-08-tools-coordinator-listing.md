@@ -180,6 +180,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
+Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.mil@mail.mil>  
 
 * **Center for Development of Security Excellence (CDSE)** <br>
 Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
@@ -575,7 +576,8 @@ Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
 ### Consumer Product Safety Commission (CPSC)
-Bryan Burnett -	301-504-7654 - <bburnett@cpsc.gov>  
+Arun Acharya - 240-478-7465 - <aacharya@cpsc.gov>  
+Bryan Burnett (BACKUP) -	301-504-7654 - <bburnett@cpsc.gov>
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
 
