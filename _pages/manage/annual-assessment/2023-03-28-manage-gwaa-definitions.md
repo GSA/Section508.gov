@@ -21,6 +21,10 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets the applicable Section 508 Technical Standards. Currently, the most common way an ACR is completed is by using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template created by the IT Industry Council (ITI).
 
+- <span id="accessibility-policy"><strong>Accessibility policy:</strong></span> Agency’s policy for implementing Section 508 requirements throughout the agency.
+
+- <span id="accessibility-statement"><strong>Accessibility statement:</strong></span> The statement on your agency’s primary website, including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
+
 - <span id="alternative-format"><strong>Alternative Format:</strong></span> An alternate approach to presenting print information. Common alternate formats include but are not limited to braille, large (18 point) print, audio narration, and/or an electronic version of the content.
 
 - <span id="alternative-means-plan"><strong>Alternative Means Plan:</strong></span> Documentation that establishes a framework and outlines the strategies for meeting the access needs of people with disabilities until the identified Section 508 compliance defect(s) are remediated. The recommended workarounds and accommodations provided in the plan will ensure people with disabilities can continue to use the product. May be referred to as "Accommodation Plan". 
