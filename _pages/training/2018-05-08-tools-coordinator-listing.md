@@ -77,7 +77,7 @@ Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-Dennis Lapcewich - <dennis.lapcewich@usda.gov>  
+Dennis Lapcewich - 360-953-1347 - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -97,7 +97,7 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
 * **DISC-EAS** <br>VACANT    
 * **DISC-EAS-SAAS** <br>Jerome Davin - <jerome.davin@usda.gov>  
-* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - <holly.beckstrom@usda.gov>
+* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - 816-823-2160 - <holly.beckstrom@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
@@ -507,7 +507,7 @@ VACANT
 ### FINCEN
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
-Courtney M. Williams - 469-801-0209 - <courtney.m.williams@irs.gov>  
+Courtney M. Williams - 214-385-5861 - <courtney.m.williams@irs.gov>  
 Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
@@ -700,7 +700,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: July 18, 2023
+**Reviewed/Updated**: July 24, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
