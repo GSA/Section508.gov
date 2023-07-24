@@ -247,6 +247,11 @@
     - multiple vendor demonstrations of accessibility and assistive technology tools, and
     - leadership support to facilitate and enable communication with multiple stakeholders within the organization.
 -   
+  qid: q27
+  uid: u27
+  descr: |
+    The accessibility policy referenced here is your agency’s policy for implementing Section 508 requirements throughout the agency.
+-   
   qid: q28
   uid: u28
   descr: |
@@ -496,7 +501,7 @@
   qid: q76
   uid: u76
   descr: |
-    Verify that your agency has an accessibility statement published. This may be a link (e.g., in your agency’s website footer) to an accessibility statement on the domain website. The statement may be its own page or within a page which contains several website policies.
+    Verify that your agency has an accessibility statement published on your agency’s primary website. This may be a link (e.g., in your agency’s website footer) to an accessibility statement on the domain website. The statement may be its own page or within a page which contains several website policies.
 
     For example: "The General Services Administration is committed to providing access to our websites for all visitors with disabilities. Section 508 is a federal law that requires agencies to provide individuals with disabilities access to electronic and information technology and data comparable to those who do not have disabilities, unless an undue burden would be imposed on the agency…"
 
