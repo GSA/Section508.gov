@@ -81,7 +81,7 @@ The table below lists the roles and responsibilities for Federal Section 508 pro
       <td>
         <ul>
           <li>
-            Ensure that individuals involved in acquisition planning and requirements generabasetion specify needs; develop plans, specifications, etc., that address IT accessibility using standards issued in 36 CFR part 1194.
+            Ensure that individuals involved in acquisition planning and requirements generation specify needs; develop plans, specifications, etc., that address IT accessibility using standards issued in 36 CFR part 1194.
           </li>
         </ul>
       </td>
@@ -278,7 +278,7 @@ Read the  [Strategic Plan for Improving Management of Section 508 of the Rehabil
 
 &nbsp;
 
-**Reviewed/Updated:** May 2018
+**Reviewed/Updated:** July 2023
 
 &nbsp;
 
