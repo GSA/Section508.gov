@@ -113,7 +113,7 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
 * **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - 202-570-8236 - <ricardo.s.romero@usda.gov>  
-* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
 
@@ -700,7 +700,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: July 24, 2023
+**Reviewed/Updated**: July 28, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
