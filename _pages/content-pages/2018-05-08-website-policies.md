@@ -17,7 +17,7 @@ This page explains website policies, procedures, and required links for the Sect
 
 ## Accessibility Policy
 
-General Services Administration (GSA) is committed to providing access to all individuals&mdash;with or without disabilities&mdash;seeking information on this website. We've built this website to conform to the [Section 508 of the Rehabilitation Act][5] (as amended), which requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us.
+General Services Administration (GSA) is committed to providing access to all individuals&mdash;with or without disabilities&mdash;seeking information on this website. We've built this website to conform to [Section 508 of the Rehabilitation Act][5] (as amended), which requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities.
 
 ### If you have trouble viewing content
 
