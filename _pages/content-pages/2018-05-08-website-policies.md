@@ -81,14 +81,16 @@ Most material on our site is free of copyright and may be copied and distributed
 
 We sometimes use photos or graphics that we licensed or that are restricted. Check to see if there is a copyright or photo credit. You should determine for yourself whether or not an item is protected by copyright or in the public domain, and then satisfy any copyright or use restrictions when publishing or distributing materials from our website. You need to request permission from the original source to use those materials. Transmission or reproduction of protected items beyond what is allowed by fair use or other exemptions requires written permission from the copyright holder. 
 
-If you have any questions about these policies, please [contact us]({{site.baseurl}}/about-us/).
+[Learn about copyrighted government works](https://www.usa.gov/copyrighted-government-works).
+
+If you have any questions about reuse and copyright, please [contact us]({{site.baseurl}}/about-us/).
 
 ## Required Links
 
 Federal agencies are required to provide the following links/information on our websites.
 
   * [GSA Privacy Policy][8]
-      * [Section508.gov Privacy Policy][9]
+  * [Section508.gov Privacy Policy][9]
   * [Budget and Performance][10]
   * [Orders & Directives][11]
   * [Freedom of Information Act Requests][12]
