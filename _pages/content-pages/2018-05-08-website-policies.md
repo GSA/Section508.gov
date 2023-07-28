@@ -19,7 +19,7 @@ This page explains website policies, procedures, and required links for the Sect
 
 General Services Administration (GSA) is committed to providing access to all individuals&mdash;with or without disabilities&mdash;seeking information on this website. We've built this website to conform to [Section 508 of the Rehabilitation Act][5] (as amended), which requires that all individuals with disabilities (whether federal employees or members of the general public) have access to, and use of, information and data comparable to that provided to individuals without disabilities.
 
-### If you have trouble viewing content
+### If you have trouble viewing content, give us feedback
 
 If you have difficulty accessing information on this site, particularly if using assistive technology, including screen readers, eye tracking devices, or voice recognition software, please contact us. You can do this by [emailing us][6] with the following information:
 
