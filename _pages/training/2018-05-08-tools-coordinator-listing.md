@@ -133,7 +133,7 @@ Ida Mix - <ida.mix@bis.doc.gov>
 ### Bureau of the Census (CENSUS)
 David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
 ### Economic Development Administration (EDA)
-John Atwood - <jatwood@eda.gov>  
+Alec Todd - <atodd@eda.gov>  
 ### International Trade Administration (ITA)
 Lois Mockbee - <lois.mockabee@trade.gov>  
 ### Minority Business Development Agency (MBDA) 
@@ -701,7 +701,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: August 2, 2023
+**Reviewed/Updated**: August 4, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
