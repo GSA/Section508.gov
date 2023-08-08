@@ -1,0 +1,166 @@
+-  
+  id: 1
+  q: What is ICT?
+  a: |
+    As defined by Section 508 of the Rehabilitation Act, Information and Communication Technology (ICT) is information technology and other equipment, systems, technologies, or processes for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data, information, and any associated content. Examples of ICT include but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents {Section 508, E103.4 Defined Terms}.
+-  
+  id: 2
+  q: What is ICT Accessibility (also known as digital accessibility)?
+  a: |
+    Information and Communication Technology (ICT) is considered accessible if individuals with disabilities who are federal employees or members of the public have equal or comparable access and use of information and data compared to those without a recognized disability.
+-  
+  id: 3
+  q: What is Section 508?
+  a: |
+    Section 508 of the Rehabilitation Act of 1973 requires that all users have equivalent access to ICT developed, procured, maintained, or used by federal agencies. The Section 508 Standards, which are part of the Federal Acquisition Regulation, ensure access for people with physical, sensory, or cognitive disabilities.
+-  
+  id: 4
+  q: What is included within Section 508?
+  a: |
+    Section 508 pertains to access for people with physical, sensory, and cognitive disabilities. Applicable ICT under 508 includes but is not limited to computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.
+-  
+  id: 5
+  q: Section 508 is just for web pages, right? 
+  a: |
+    No, Section 508 Standards apply to all ICT including digital content (documents, presentations, spreadsheets, etc.), websites, mobile applications, software, and hardware.  Hardware includes but is not limited to: computers, printers, video cameras, and kiosks (i.e., hoteling interfaces, physical security access points, check-in desk computers, etc.).
+-  
+  id: 6
+  q: Who makes the ICT Accessibility standards? 
+  a: |
+    Section 508 mandates the U.S. Access Board to create and periodically review ICT Accessibility standards. GSA, in coordination with the U.S. Access Board, is responsible for providing technical assistance to agencies to meet these standards.
+-  
+  id: 7
+  q: Who has responsibility for making content accessible?
+  a: |
+    All federal employees creating, reviewing and revising content are responsible for making sure the content they produce is accessible to those with disabilities.
+-  
+  id: 8
+  q: Where can I find resources to make content accessible?
+  a: |
+    [Section508.gov](https://www.section508.gov/) has an ever expanding [library of resources](https://www.section508.gov/create/) to assist users in creating, updating and remediating digital content. Additional resources are also available from other sources [including digital](https://digital.gov/2015/06/05/using-section-508-guidance-to-improve-the-accessibility-of-government-services/).gov.
+-  
+  id: 9
+  q: I don't have much free time, can I find resources specifically targeted at my role within my agency? 
+  a: |
+    Currently [section508.gov](https://www.section508.gov/) is broken down by type of content not role. However, certain content is targeted for specific roles. For instance, [the technology accessibility playbook](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/) is targeted solely for designers and developers, while the [broader policy and management section](https://www.section508.gov/manage/) is primarily targeted at Section 508 Program Managers (PMs) and agency IT executives.
+-  
+  id: 10
+  q: Where can I find training on accessibility?
+  a: |
+    [Section508.gov](https://www.section508.gov/) has an ever expanding [library of training resources](https://www.section508.gov/training/) that includes information on accessible content creation and website development and testing.
+-  
+  id: 11
+  q: Do ICT products I buy need to be accessible?
+  a: |
+    Yes. Subpart 39.2 of the FAR states that:
+    <ol type="a">
+      <li>Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by federal employees who are not individuals with disabilities; and</li>
+      <li>Members of the public with disabilities seeking information or services from an agency have access to and use of information and data that is comparable to the access to and use of information and data by members of the public who are not individuals with disabilities.</li>
+    </ol>
+-  
+  id: 12
+  q: For accessibility conformance reports, does partially support mean the ICT product or software is conformant or not?
+  a: |
+    When a product supports a relevant accessibility standard, it means that the functionality of the product has at least one method that meets the criterion without known defects or meets with equivalent facilitation. If it only partially supports the criterion, then some functionality of the product does not meet the criterion. Thus, an assessment of "partially supports" technically means that the product is not conformant to the standard in question.
+-  
+  id: 13
+  q: Where can I find the Section 508 requirements online?
+  a: |
+    The [revised Section 508 Requirements](https://www.access-board.gov/) can be found on the U.S. Access Board website. 
+    
+    Additionally, the Federal Acquisition Regulation (the FAR) was recently amended to include updated Section 508 rules. This new rule is titled: [Federal Acquisition Regulation: Section 508-Based Standards in Information and Communication Technology](https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication).
+-  
+  id: 14
+  q: I am a new 508 Program Manager and don't know where to start. Where do I start?
+  a: |
+    If you are a new Section 508 Program Manager, please reach out to <section.508@gsa.gov> for our 508 PM welcome package. Additionally, please see the [Technology Accessibility Playbook](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/) and the [broader Policy and Management section](https://www.section508.gov/manage/) on [Section508.gov](https://www.section508.gov/).
+-  
+  id: 15
+  q: I am an agency executive. How do I help my team set up/improve an ICT accessibility/Section 508 shop?
+  a: |
+    The Government-wide IT Accessibility Team has a great guide for executives to ensure they have an appropriate, effective 508 Program. Reach out the the team at section.508.gov with any additional questions, guidance or best practice needs.
+-  
+  id: 16
+  q: What are top 5 issues I can easily fix with documents?
+  a: |
+    Some top issues can be fixed if creators:
+    <ul>
+      <li>Use appropriate alternative text for images</li>
+      <li>Use built in styles for headings</li>
+      <li>Use built in features for bullets and lists</li>
+      <li>Create links with descriptive, unambiguous text (i.e. don't just say "click HERE")</li>
+      <li>Ensure sufficient color contrast for text and images of text</li>
+    </ul>
+-  
+  id: 17
+  q: What are top 5 issues I can easily fix with presentations?
+  a: |
+    Some top issues can be fixed if creators:
+    <ul>
+      <li>Use appropriate alternative text for images</li>
+      <li>Create a logical reading order for each slide</li>
+      <li>Use built in features for bullets and lists</li>
+      <li>Create links with descriptive, unambiguous text (i.e. don't just say "click HERE")</li>
+      <li>Ensure sufficient color contrast for text and images of text</li>
+    </ul>
+-  
+  id: 18
+  q: What are top 5 issues I can easily fix with spreadsheets?
+  a: |
+   Some top issues can be fixed if creators:
+    <ul>
+      <li>Use appropriate alternative text for images to convey same meaning as a graph or image</li>
+      <li>Use built-in features to create tables and name tables appropriately</li>
+      <li>Don't convey meaning (on graphs and charts) using only color</li>
+      <li>Provide alternate means of conveying information other than graphs or charts (i.e., include necessary information in narrative form or in a summary table)</li>
+      <li>Create links with descriptive, unambiguous text (i.e. don't just say "click HERE")</li>
+    </ul>
+-  
+  id: 19
+  q: What are top 5 issues I can easily fix with web page development?
+  a: |
+    Some top issues can be fixed if developers:
+    <ul>
+      <li>Ensure all interactive components are in a logical keyboard focus order</li>
+      <li>Add sufficient programmatic accessible names and descriptions for all interactive components</li>
+      <li>Use semantically correct data table markup</li>
+      <li>Include visible focus for all interactive components</li>
+      <li>Ensure sufficient color contrast for text and images of text</li>
+    </ul>
+-  
+  id: 20
+  q: What are top 5 issues I can easily fix with software development?
+  a: |
+    Some top issues can be fixed if developers:
+    <ul>
+      <li>Ensure all interactive components are in a logical keyboard focus order</li>
+      <li>Add sufficient programmatic accessible names and descriptions for all interactive components</li>
+      <li>Use semantically correct data table markup</li>
+      <li>Include visible focus for all interactive components</li>
+      <li>Ensure sufficient color contrast for text and images of text</li>
+    </ul>
+-  
+  id: 21
+  q: How can I verify and validate the ICT product I am buying or selling is accessible?
+  a: |
+    Verification that an IT product is accessible before or after purchase can usually be done using an Accessibility Conformance Report (ACR), also sometimes referred to as test/tests results or as a VPAT (Voluntary Product Accessibility Template that is essentially the template users fill out to create an ACR). Industry is expected to test its products against the applicable Section 508 Technical Standards and then report the test results indicating which standards the product supports, partially supports, or does not support. This is so agencies can consider accessibility when purchasing the product. If the product supports all the applicable Section 508 Technical Standards, the product is considered compliant with Section 508. If a product does not have an ACR, purchasers are highly encourage to request one from the vendor before purchase.
+-  
+  id: 22
+  q: How do I know which product is the most accessible?
+  a: |
+    If a purchaser must choose between several ICT products, they should compare the products' Accessibility Conformance Reports against one another to determine which product is the most accessible (i.e., has the highest conformance to related Section 508 standards). When ICT that fully conforms to the Revised 508 Standards is not commercially available, procure ICT that conforms best with the Standards and is consistent with meeting the agency’s business needs. For federal government ICT, this exception can only be claimed by federal agencies and components. Find more [information on exceptions](https://www.section508.gov/buy/determine-ict-exceptions/) on [section508.gov](https://www.section508.gov/).
+-  
+  id: 23
+  q: How should I decide which product to purchase when none of the available products are fully accessible?
+  a: |
+    If a purchaser must choose between several ICT products, they should compare the products' Accessibility Conformance Reports against one another to determine which product is the most accessible (i.e., has the highest conformance to related Section 508 standards).
+-  
+  id: 24
+  q: How can I ensure my virtual meetings, webinars, and conferences are accessible?
+  a: |
+    The Government-wide IT Accessibility Team has published [guidance for creating accessible virtual meetings](https://www.section508.gov/create/accessible-meetings/),conferences and webinars.
+-  
+  id: 25
+  q: What do we need in a baseline Section 508/ICT Accessibility policy?
+  a: |
+    The cornerstone of an accessibility program is an agency-wide Section 508 policy. The policy must identify how the agency will manage accessibility compliance through technology acquisition, development, authoring, configuration, deployment, and maintenance activities. The policy must define clear roles and responsibilities. The policy must clarify the authorities and shared responsibility with other agency stakeholders for implementing Section 508 across the agency. For more information visit [this Section 508 policy creation guidance page on Section508.gov](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/play04/).

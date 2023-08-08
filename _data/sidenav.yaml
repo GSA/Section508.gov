@@ -29,6 +29,8 @@ manage:
         url: manage/deia-guidance/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
+      - name: How 508 Standards Benefit Persons With Disabilities
+        url: manage/how-508-standards-benefit-pwd/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -153,6 +155,8 @@ manage:
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
         url: manage/section-508-assessment/definition-of-terms/
+  - name: ICT Accessibility Frequently Asked Questions
+    url: manage/accessibility-faq/
 training:
   - name: Training, Tools & Events
     url: 'training/'
