@@ -11,7 +11,7 @@ title: "ICT Accessibility Frequently Asked Questions"
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
 
-{% for faq in site.data.accessibility_faq.yaml %}
+{% for faq in site.data.accessibility_faq %}
 <div class="usa-accordion">
     <h2 class="usa-accordion__heading faq_heading" id="q-{{ faq.id }}">
         <button type="button" class="usa-accordion__button faq_button" aria-expanded="false" aria-controls="a-{{ faq.id }}">
