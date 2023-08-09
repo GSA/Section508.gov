@@ -93,4 +93,4 @@ In response to a global health epidemic, how agencies gather, collaborate, discu
   * [Meeting Management Techniques](/create/accessible-meetings/#meeting-management-techniques)
 * [Create Accessible Digital Products](/create/) - Guidance, how-tos, and video tutorials on creating documents, audio and video media presentations, and other content
 
-**Reviewed/Updated:** December 20, 2021
+**Reviewed/Updated:** August 2023
