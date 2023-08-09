@@ -155,6 +155,8 @@ manage:
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
         url: manage/section-508-assessment/definition-of-terms/
+  - name: ICT Accessibility Frequently Asked Questions
+    url: manage/accessibility-faq/
 training:
   - name: Training, Tools & Events
     url: 'training/'
