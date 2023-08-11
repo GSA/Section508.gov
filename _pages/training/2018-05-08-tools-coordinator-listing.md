@@ -13,7 +13,7 @@ redirect_from:
 
 Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated Section 508 PM below.
 
-If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
+If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address.
 
 
 ## Departments and CFO Act Agencies
@@ -703,7 +703,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: August 7, 2023
+**Reviewed/Updated**: August 11, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
