@@ -177,9 +177,6 @@ training:
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
         url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
         external: true
-      - name: "Accessibility of ICT: An Overview for Government Executives"
-        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
-        external: true
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
         external: true
@@ -187,7 +184,10 @@ training:
         url: 'https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
         external: true
       - name: "Procuring Section 508 Conformant ICT Products and Services"
-        url: 'https://training.section508.gov/508-training/courses/procurement-new/index.html'
+        url: 'https://training.section508.gov/508-training/courses/procuring-conformant-ict/index.html'
+        external: true
+      - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
+        url: 'https://training.section508.gov/508-training/courses/soliciting-and-evaluating-acrs/index.html'
         external: true
       - name: "Training via FAI"
         url: 'training-home#FAI'
