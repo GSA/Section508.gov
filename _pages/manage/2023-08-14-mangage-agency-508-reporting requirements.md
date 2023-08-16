@@ -6,11 +6,11 @@ type: manage
 title: 'Section 508/ICT Accessibility Conformance for Federal Agencies'
 created: August 16, 2023
 ---
-Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. <strong>Table 1</stong> outlines those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
+Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. <strong>Table 1</strong> outlines those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
 
 
 <table class="usa-table">
-    <caption>Agency Section 508-related reporting requirements</caption>
+    <caption>Table 1. Agency Section 508-related reporting requirements</caption>
     <thead>
         <tr>
             <th scope="col" width="12.5%" style="background-color: #003c71; color: #ffffff;">Reporting Activity</th>
@@ -90,7 +90,7 @@ Federal agencies are required to participate in reporting activities on the matu
 <div>
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
   <ol>
-    <li id="fn1"> - Agencies are defined here as all federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), including component agencies separate from parent agencies/departments. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn1"> Agencies are defined here as all federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), including component agencies separate from parent agencies/departments. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
     <li id="fn2">Agencies are defined here as all federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d). <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
     <li id="fn3">The [most recent and final report](https://www.section508.gov/manage/pmr/) was issued in the Summer 2023. The [Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/) and corresponding report replace this previously required semi-annual Section 508 Program Maturity Report. <a href="#fr3" aria-label="Back to content"> ↩ </a></li>
   </ol>
