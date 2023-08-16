@@ -47,7 +47,7 @@ Federal agencies are required to participate in reporting activities on the matu
                 <a href="https://www.justice.gov/crt/section-508-home-page-0">DOJ Biennial Report</a>
             </td>
             <td>
-                The Attorney General is required to submit to the President and Congress <a href="https://www.justice.gov/crt/section-508-home-page-0">a report containing information on and recommendations regarding the state of federal department and agency compliance</a> with Section 508 of the Rehabilitation Act, as amended. This report is submitted every other year; with<a href="https://www.justice.gov/crt/page/file/1569331/download">the most recent report</a> submitted in February 2023.
+                The Attorney General is required to submit to the President and Congress <a href="https://www.justice.gov/crt/section-508-home-page-0">a report containing information on and recommendations regarding the state of federal department and agency compliance</a> with Section 508 of the Rehabilitation Act, as amended. This report is submitted every other year; with <a href="https://www.justice.gov/crt/page/file/1569331/download">the most recent report</a> submitted in February 2023.
             </td>
             <td>
                 Section 508 of the Rehabilitation Act of 1973, as amended
