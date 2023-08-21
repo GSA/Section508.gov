@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/agency-508-reporting-requirements/
 type: manage
-title: 'Section 508/ICT Accessibility Conformance for Federal Agencies'
+title: 'Section 508/ICT Accessibility Conformance Reporting for Federal Agencies'
 created: August 22, 2023
 ---
 Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. The sections below outline those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
