@@ -31,7 +31,7 @@ Federal agencies are required to participate in reporting activities on the matu
 * **Authority:** OMB memorandum, “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act”
 * **Owner:** GSA
 * **Agencies Required to Respond:** CFO Act agencies
-* **Frequen**cy:** Semi-annually (every six months)
+* **Frequency:** Semi-annually (every six months)
 * **Status:** Rescinded
     
 <hr>
