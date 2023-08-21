@@ -16,6 +16,7 @@ Federal agencies are required to participate in reporting activities on the matu
 * **Frequency:** Annual
 * **Status:** Active
 
+
 ## DOJ Biennial Report
 * **Description:** For the [DOJ Biennial Report](https://www.justice.gov/crt/section-508-home-page-0), The Attorney General is required to submit to the President and Congress a report containing information on and recommendations regarding the state of federal department and agency compliance with Section 508 of the Rehabilitation Act, as amended. This report is submitted every other year; with [the most recent report](https://www.justice.gov/crt/page/file/1569331/download) submitted in February 2023.
 * **Authority:** Section 508 of the Rehabilitation Act of 1973, as amended
@@ -23,6 +24,7 @@ Federal agencies are required to participate in reporting activities on the matu
 * **Agencies Required to Respond:** All agencies subject to Section 508[^2]
 * **Frequency:** Biennial (every two years)
 * **Status:** Active
+
 
 ## Semi-Annual Program Maturity Report (PMR)
 * **Description:** For the [Semi-Annual Program Maturity Report (PMR)](https://www.section508.gov/manage/pmr), [CFO Act agencies must self-report](https://assets.section508.gov/files/reports/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf) on five program maturity metrics, website compliance metrics on certain web pages tested for compliance, and the percentage of tested pages that fully conformed to the technical standards.[^3]
