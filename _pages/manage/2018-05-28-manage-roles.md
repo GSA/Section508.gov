@@ -94,7 +94,7 @@ The tables below list the roles and responsibilities for agency officials, conte
 <table class="roles-table table table-responsive usa-table usa-table--borderless usa-table--striped">
   <tbody>
     <tr>
-        <div id="employees">
+        <div id="stakeholders">
         <caption>
           <h2>Key Agency Stakeholders</h2>
           </caption>
