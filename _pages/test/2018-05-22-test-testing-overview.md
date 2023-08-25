@@ -79,7 +79,8 @@ Use the below guidance to validate rulesets for automated web accessibility test
 <li>Note: Some testing tools may include tests beyond Section 508, such as WCAG 2.0 AAA, WCAG 2.X, WAI-ARIA, and accessibility best practices. These settings may flag failures that are not failures of Section 508 technical requirements. </li></ul>
 <li>Thoroughly review tool documentation provided by the vendor in order to understand the purpose, scope, and applicability of each rule in the ruleset.</li>
 <ul>
-<li>Be advised that some tests in the ruleset may not fully test for a specific Success Criteria. For example, WCAG 1.1.1 requires that text alternatives serve an equivalent purpose for meaningful images. The ruleset may be able to test if a text alternative is provided, but it may not be able to test if the text alternative is equivalent. </ul>
+<li>Be advised that some tests in the ruleset may not fully test for a specific Success Criteria. For example, WCAG 1.1.1 requires that text alternatives serve an equivalent purpose for meaningful images. The ruleset may be able to test if a text alternative is provided, but it may not be able to test if the text alternative is equivalent.</li> 
+</ul>
 </ol>
 <li>Explore customization options:</li>
 <ol type="a">
