@@ -84,7 +84,8 @@ Use the below guidance to validate rulesets for automated web accessibility test
 </ol>
 <li>Explore customization options:</li>
 <ol type="a">
-<li>Verify that the selected tool allows customization of rulesets – ability to add, modify, or disable rules, etc. – to adapt the ruleset to agency-specific needs and requirements. Modifications to the ruleset may be needed based on outcomes in Step 3.</li></ol>
+<li>Verify that the selected tool allows customization of rulesets – ability to add, modify, or disable rules, etc. – to adapt the ruleset to agency-specific needs and requirements. Modifications to the ruleset may be needed based on outcomes in Step 3.
+</li></ol>
 <li>Assess each ruleset for reliability, accuracy, and degree of alignment with agency requirements and testing methodologies in your technology environment:</li>
 <ol type="a">
 <li>Identify the tool ruleset to assess (e.g., Section 508, WCAG 2.0 AA, etc.)</li>
@@ -122,7 +123,7 @@ Use the below guidance to validate rulesets for automated web accessibility test
 <pre><code>&lt;h1&gt;This is a meaningful image of agency logo&lt;/h1&gt;
 &lt;img src="GSAagencylogo.jpeg" alt="General Services Administration starmark logo"&gt;.</code></pre>
 <li><a href="https://section508coordinators.github.io/Dev-Automation/">DHS’s GitHub code repository contains detailed code examples</a></li>
-<li><a href="https://section508coordinators.github.io/baselinealignment/index.html">ICT Baseline Alignment Framework includes test cases in GitHub that may be used to validate tool rules</a>
+<li><a href="https://section508coordinators.github.io/baselinealignment/index.html">ICT Baseline Alignment Framework includes test cases in GitHub that may be used to validate tool rules</a></li>
 </ol>
 </ul>
 <li>Perform tool test on the test case.</li>
