@@ -135,7 +135,7 @@ Use the below guidance to validate rulesets for automated web accessibility test
 </ul>
 <li>After constructing a viable initial ruleset framework by passing the internal test cases, test the resulting rule by scanning against multiple sites or applications to help identify false positives and false negatives to correct rule detection.</li>
 <ul>
-<li>Disable inaccurate rules or obtain developer assistance to customize the rule to increase reliability in your environment.<li>
+<li>Disable inaccurate rules or obtain developer assistance to customize the rule to increase reliability in your environment.</li>
 </ul>
 <li>Repeat steps <strong>3.a-3.h</strong> to continue testing until you have a ruleset that provides an acceptable level of accuracy in your environment.</li>
 </ol>
