@@ -64,7 +64,7 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 </ul>
 <h3>Validate Rulesets</h3>
 <p>Validating rulesets for automated accessibility testing tools is a crucial step in ensuring accurate and reliable test results that align with an agency’s <a href="{{site.baseurl}}/test">testing methodology</a>. A ruleset defines the criteria against which the test tool evaluates content for accessibility conformance. By validating test tool rulesets, the tester has more control over the accuracy, reliability, and relevance of the test results. Validating rulesets limits defects unrelated to Section 508, excludes potential issues not aligned with an agency’s testing methodology, and eliminates false positives and negatives. </p>
-<br  />
+
 <p>Use the below guidance to validate rulesets for automated web accessibility testing tools:</p>
 
 <ol type="1">
