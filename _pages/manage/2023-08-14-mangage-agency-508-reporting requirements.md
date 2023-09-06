@@ -27,7 +27,7 @@ Federal agencies are required to participate in reporting activities on the matu
 
 
 ## Semi-Annual Program Maturity Report (PMR)
-* **Description:** For the [Semi-Annual Program Maturity Report (PMR)](https://www.section508.gov/manage/pmr), CFO Act agencies must self-report on five program maturity metrics, website compliance metrics on certain web pages tested for compliance, and the percentage of tested pages that fully conformed to the technical standards.[^3]
+* **Description:** The [Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment) replaces the previously required semi-annual Section 508 Program Maturity Report. For the [Semi-Annual Program Maturity Report (PMR)](https://www.section508.gov/manage/pmr), CFO Act agencies were previously required to self-report on five program maturity metrics, website compliance metrics on certain web pages tested for compliance, and the percentage of tested pages that fully conformed to the technical standards.[^3]
 * **Authority:** OMB memorandum, “Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act”
 * **Owner:** GSA
 * **Agencies Required to Respond:** CFO Act agencies
