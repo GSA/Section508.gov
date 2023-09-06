@@ -2,11 +2,14 @@
     <a
       *ngIf="buttonIsEnabled"
       (click)="generateZip()"
+      (keydown.enter)="generateZip()"
+      (keyup.space)="generateZip()"
       class="usa-button usa-button--accent-warm usa-tooltip__trigger"
       data-position="right"
       title=""
       aria-describedby="tooltip-307973"
-      tabindex="0">
+      tabindex="0"
+      role="button">
       {{ saveAsInfo.btnName }}
     </a>
     <span
