@@ -1,4 +1,10 @@
-<atr-step-indicator [stepsData]="stepsData" (getSelectedTab)="onSelectedTabReceive($event)" [activeTab]="stepsData.activeId" [currentIndex] = "currentIndex" ></atr-step-indicator>
+<div class="ogp-flex-space">
+  <atr-step-indicator [stepsData]="stepsData" (getSelectedTab)="onSelectedTabReceive($event)" [activeTab]="stepsData.activeId" [currentIndex] = "currentIndex" ></atr-step-indicator>
+  <div class="ogp-btn" *ngIf="ictItems.length > 1">
+    <art-save-zip [saveAsInfo]="{btnName:'Download all ICTs', fileName:'jsonData'}" [ictItems]="ictItems" class="width-full">
+    </art-save-zip>
+  </div>
+</div>
 <div class="usa-media-block ogp-flex-space">
   <div class="ogp-btn">
     <button (click)="onAmendForm(currentIndex)" class="ogp-btn usa-button usa-button--outline float-right">Return to Form</button>

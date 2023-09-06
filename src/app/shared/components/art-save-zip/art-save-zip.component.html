@@ -1,0 +1,19 @@
+<span class="usa-tooltip width-full">
+    <a
+      *ngIf="buttonIsEnabled"
+      (click)="generateZip()"
+      class="usa-button usa-button--accent-warm usa-tooltip__trigger"
+      data-position="right"
+      title=""
+      aria-describedby="tooltip-307973"
+      tabindex="0">
+      {{ saveAsInfo.btnName }}
+    </a>
+    <span
+      class="usa-tooltip__body"
+      id="tooltip-307973"
+      role="tooltip"
+      aria-hidden="true">
+      This allows you to download a zipped file with all ITC forms.
+    </span>
+  </span>
