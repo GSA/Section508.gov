@@ -1,7 +1,7 @@
 <div class="ogp-flex-space">
   <atr-step-indicator [stepsData]="stepsData" (getSelectedTab)="onSelectedTabReceive($event)" [activeTab]="stepsData.activeId" [currentIndex] = "currentIndex" ></atr-step-indicator>
   <div class="ogp-btn" *ngIf="ictItems.length > 1">
-    <art-save-zip [saveAsInfo]="{btnName:'Download all ICTs', fileName:'jsonData'}" [ictItems]="ictItems" class="width-full">
+    <art-save-zip [saveAsInfo]="{btnName:'Download all ICTs (.zip)', fileName:'jsonData'}" [ictItems]="ictItems" class="width-full">
     </art-save-zip>
   </div>
 </div>
