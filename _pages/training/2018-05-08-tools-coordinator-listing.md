@@ -193,10 +193,11 @@ Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Information Systems Agency (DISA)
-Stephanie	Rozario-Hamilton (Acting)	- 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
-Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
+Fariba Beg - <fariba.beg.civ@mail.mil>  
+Stephanie	Rozario-Hamilton - 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 
-* **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+* **Joint Service Provider (JSP)** <br>DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+* **Joint Interoperability Test Command (JITC)** <br>Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
 
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - 202-231-3226 - <vanessa.hill2@dodiis.mil>   
@@ -711,7 +712,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: August 31, 2023
+**Reviewed/Updated**: September 13, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
