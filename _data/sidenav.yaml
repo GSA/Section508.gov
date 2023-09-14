@@ -195,7 +195,7 @@ training:
     url: '#'
     children:
       - name: "Accessibility Requirerments Tool"
-        url: 'training/art/introducing-art/'
+        url: 'training/art/introducing-art/' 
       - name: Document       
         url: '#'
         grandchildren:
