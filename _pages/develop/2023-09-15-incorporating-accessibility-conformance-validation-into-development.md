@@ -3,7 +3,8 @@ layout: page
 sidenav: true
 permalink: develop/incorporating-accessibility-conformance-validation-into-development/ 
 type: develop
-title: "Effective methods and tools for incorporating accessibility conformance validation within development processes"
+title: 'Effective methods and tools for incorporating accessibility conformance validation within development processes'
+created: 20230915
 ---
 
 <h1>Effective methods and tools for incorporating accessibility conformance validation within development processes</h1>
@@ -43,7 +44,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <h2>Design:</h2>
 <ol>
 <li>Integrate accessibility requirements in user stories and personas, wireframes, prototypes, user interface components, and color palettes. </li>
-<li>Utilize accessible design patterns and guidelines to ensure a more inclusive user interface. See <a href="{{site.baseurl}}/develop/universal-design/">Design</a>. </li>
+<li>Utilize accessible design patterns and guidelines to ensure a more inclusive user interface. See <a href="{{site.baseurl}}/develop/universal-design/">Design on Section508.gov</a>. </li>
 <li>Consider accessibility principles and involve users with disabilities in the design review process. </li>
 <li>Develop and maintain accessibility style guides that align with the organization's design and development principles. These guides should include code snippets, design patterns, and accessibility best practices for reference during development. </li>
 <li>Encourage collaboration between designers, developers, and accessibility experts. </li>
@@ -52,7 +53,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <h2>Develop:</h2>
 <ol>
 <li>Foster a culture of accessibility within the development team. </li>
-<li>Provide resources and educational materials on accessibility best practices. See <a href="{{site.baseurl}}/develop/software-websites/">Develop</a> for more information. </li>
+<li>Provide resources and educational materials on accessibility best practices. See <a href="{{site.baseurl}}/develop/software-websites/">Develop on Section508.gov</a> for more information. </li>
 <li>Provide developers and content creators with the knowledge and skills required to build accessible products through accessibility training sessions tailored to specific roles and technologies, accessibility conferences, webinars, and workshops, and other learning opportunities to stay updated with the latest trends and best practices. </li>
 <li>Utilize an agile approach for iterative development and testing where possible. </li>
 <li>Integrate automated accessibility testing tools into the development environment. These tools can automatically scan content and identify accessibility issues based on predefined rulesets. Popular automated testing tools offer command-line interfaces, browser extensions, and application programming interfaces (APIs) that can easily be incorporated into the development workflow. </li>
