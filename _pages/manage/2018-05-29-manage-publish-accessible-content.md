@@ -32,4 +32,4 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
  [1]: {{site.baseurl}}/create
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [3]: {{site.baseurl}}/manage/support-accessible-content
- [4]: {{site.baseurl}}develop/incorporating-accessibility-conformance-validation-into-development
+ [4]: {{site.baseurl}}/develop/incorporating-accessibility-conformance/
