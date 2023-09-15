@@ -7,8 +7,6 @@ title: "Effective methods and tools for incorporating accessibility conformance 
 created: 20230915
 ---
 
-<h1>Effective methods and tools for incorporating accessibility conformance validation within development processes</h1>
-
 The integration of accessibility conformance validation, or accessibility testing, throughout the development life cycle reduces testing burden and results in a more accessible Information and Communications Technology (ICT) product. Below are steps you can take to integrate methods and tools for accessibility conformance validation into your development life cycle. 
 
 Note: While some steps may only apply to software or web development, most of the steps broadly apply to any development life cycle including documents, web content, software, or hardware. 
@@ -23,8 +21,8 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <li>Deploy</li>
 <li>Operate and Maintain</li>
 </ol>
-
-## Plan:
+<div id="Plan">
+<h2>Plan:</h2>
 <ol>
 <li>Specify when accessibility testing will occur. The ideal time is at each step or gate in the life cycle. </li>
 <li>Identify what types of accessibility testing should be performed (manual, automated, or hybrid) and when each methodology should be utilized. Use this to inform the overall Test Plan. See the <a href="https://www.hhs.gov/sites/default/files/ocio/eplc/EPLC%20Archive%20Documents/39-Test%20Plan/eplc_test_plan_practices_guide.pdf">Department of Health and Human Services’ (HHS) Test Plan practices guide</a> for an overview of what to include in a test plan. </li><ul>
@@ -35,12 +33,16 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <li>Familiarize team members with accessibility features and support within design and development tools. </li>
 <li>Foster a culture of accessibility so all team members understand their role in ensuring the accessibility of the product and are committed to fulfilling that role. </li>
 </ol>
+</div>
+<div id="Gather">
 <h2>Gather requirements: </h2>
 <ol>
 <li>Include applicable Section 508 requirements in business requirements. Use the <a href="{{site.baseurl}}/art">Accessibility Requirements Tool (ART)</a> to generate applicable Section 508 requirements. </li>
 <li>Embed accessibility requirements into the initial stages of the development process. </li>
 <li>Include people with disabilities in requirements gathering. If this is not possible, integrate accessibility requirements in user stories and personas during the requirements stage. </li>
 </ol>
+</div>
+<div id="Design">
 <h2>Design:</h2>
 <ol>
 <li>Integrate accessibility requirements in user stories and personas, wireframes, prototypes, user interface components, and color palettes. </li>
@@ -50,6 +52,8 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <li>Encourage collaboration between designers, developers, and accessibility experts. </li>
 <li>Use accessibility checklists. See <a href="{{site.baseurl}}/test"> Test on Section508.gov</a> for examples of accessibility checklists. </li>
 </ol>
+</div>
+<div id="Develop">
 <h2>Develop:</h2>
 <ol>
 <li>Foster a culture of accessibility within the development team. </li>
@@ -76,16 +80,19 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 </ul>
 <li>Use accessibility linters to write accessible code. Linters are plugins or extensions that are integrated into code editors or build tools to analyze the codebase and provide real-time feedback to developers.</li>
 </ol>
+</div>
+<div id="Test">
 <h2>Test:</h2>
 <ol>
 <li>Ensure accessibility is part of User Acceptance Testing. </li>
 <li>Disseminate resources and educational materials on <a href="{{site.baseurl}}/test">accessibility testing</a>, such as  Trusted Tester, electronic documents, audio, video, and multimedia. </li>
 <li>Identify <a href="{{site.baseurl}}/test/testing-overview/">automated and manual accessibility testing needs</a>. </li> <ul>
 <li>Integrate accessibility testing into development workflows. </li>
-<li>See Design where CI/CD is specifically mentioned above. </li> </ul>
+<li>See <a href= "#Design">Design</a> where CI/CD is specifically mentioned above. </li> </ul>
 <li>Include user testing and involve people with disabilities in testing efforts. </li>
 <li>Implement an accessibility-specific defect tracking system to document, prioritize, and manage accessibility issues throughout the development life cycle. This system should include details on issue severity, location, impacted content, and suggested remediation strategies. </li>
-<li>Also see Design above. </li> </ol>
+<li>Also see <a href= "#Design">Design</a> above. </li> </ol>
+</div>
 
 <h2>Deploy:</h2>
 <ol>
@@ -95,11 +102,11 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <li>Create an accommodation plan for each defect to assist users who may encounter accessibility issues. </li></ol>
 <h2>Operate and Maintain:</h2>
 <ol>
-<li>Once deployed, any updates or changes should follow the steps above (Plan, Gather Requirements, Design, Develop, Test) to ensure accessibility testing is built into the life cycle. </li>
+<li>Once deployed, any updates or changes should follow the steps above (<a href= "#Plan">Plan</a>, <a href= "#Gather">Gather Requirements</a>, <a href= "#Design">Design</a>, <a href= "#Develop">Develop</a>, <a href= "#Test">Test</a>) to ensure accessibility testing is built into the life cycle. </li>
 <li>Stay abreast of updates to <a href="https://www.access-board.gov/ict/">Section 508 standards</a>; consider incorporating the latest Web Content Accessibility Guidelines (WCAG) requirements for future proofing (as of September 2023, WCAG 2.2 is pending release). </li>
 <li>Conduct periodic accessibility testing to identify new accessibility defects. </li>
 <ul>
-<li>See Design and Test above.  </li></ul>
+<li>See <a href= "#Design">Design</a> and <a href= "#Test">Test</a> above.  </li></ul>
 <li>Monitor customer feedback and accessibility complaints. </li>
 <li>Generate and disseminate resources and educational materials on accessibility for content creators. </li>
 <li>Monitor continuously and iterate on quality metrics identified in the QASPs. </li>
