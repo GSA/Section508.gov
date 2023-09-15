@@ -1,9 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/incorporating-accessibility-conformance-validation-into-development 
+permalink: /develop/incorporating-accessibility-conformance-validation-into-development 
 type: develop
-title: 'Effective methods and tools for incorporating accessibility conformance validation within development processes'
+title: "Effective methods and tools for incorporating accessibility conformance validation within development processes"
 created: 20230915
 ---
 
