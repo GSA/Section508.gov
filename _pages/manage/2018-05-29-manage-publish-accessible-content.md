@@ -20,6 +20,7 @@ These tips will help your agency publish content in an accessible way.
 ## Related Resources
 
   * [Build Support for Accessible Content][3] - Follow the stages of content production to ensure your organization publishes accessible content.
+  * [Effective methods and tools for incorporating accessibility conformance validation within development processes][4]
 
 This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
@@ -31,3 +32,4 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
  [1]: {{site.baseurl}}/create
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [3]: {{site.baseurl}}/manage/support-accessible-content
+ [4]: {{site.baseurl}}develop/incorporating-accessibility-conformance-validation-into-development
