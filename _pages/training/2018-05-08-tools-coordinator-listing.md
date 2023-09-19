@@ -180,7 +180,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
-Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.mil@mail.mil>  
+Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.civ@mail.mil>  
 
 * **Center for Development of Security Excellence (CDSE)** <br>
 Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
@@ -483,7 +483,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
-Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
+VACANT  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
@@ -712,7 +712,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: September 13, 2023
+**Reviewed/Updated**: September 19, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
