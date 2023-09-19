@@ -27,7 +27,7 @@ This guidance was developed by the U.S. Federal Government Revised 508 Standards
   
 
 
-**Reviewed/Updated:** May 2018
+**Reviewed/Updated:** September 2023
 
  [1]: {{site.baseurl}}/create
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
