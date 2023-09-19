@@ -7,6 +7,7 @@ title: "IT Accessibility Policy Framework - Introduction"
 created: December 09, 2023
 redirect_from:
 - manage/policy-framework/
+- policy-framework/
 ---
 
 <h2 id="standards">
