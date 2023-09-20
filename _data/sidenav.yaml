@@ -400,6 +400,8 @@ develop:
         url: develop/applicability-conformance/
       - name: Develop Web Content
         url: develop/web-content/
+      - name: Incorporating accessibility conformance validation within development
+        url: develop/incorporating-accessibility-conformance/     
 test:
   - name: Testing
     url: 'test/'

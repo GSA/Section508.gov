@@ -191,10 +191,10 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <h2>Related Resources</h2>
 <ul>
 <li><a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Follow the stages of content production to ensure your organization publishes accessible content.</li>
+<li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective methods and tools for incorporating accessibility conformance validation within development processes</a></li>
 </ul>
 <p><br />This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.</p>
-<p><strong>Reviewed/Updated: </strong>August 2023</p>
-
+<p><strong>Reviewed/Updated: </strong>September 2023</p>
             
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: #Automated
