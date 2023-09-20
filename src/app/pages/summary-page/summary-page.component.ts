@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
-import { ClipboardService } from 'ngx-clipboard';
 import {Art508LangService} from '../../shared/services/art-508-lang/art-508-lang.service';
 import {IctItemService} from "../../shared/services/ict-item/ict-item.service";
 import { IStepIndicator } from 'src/app/shared/models/step-indicator.interface';
@@ -24,12 +23,10 @@ export class SummaryPageComponent implements OnInit {
   constructor(
     private art508LangService: Art508LangService,
     public ictItemService: IctItemService,
-    private clipboardService:ClipboardService,
     private router: Router,
     private formPageService:FormPageService,
     private artIctLpService:ArtIctLpService
   ) {}
-
 
     /**
      * To position the currently active item
@@ -155,7 +152,8 @@ export class SummaryPageComponent implements OnInit {
         const tempLanguageGenerated = this.languageGeneratedCopy[this.currentIndex].trim();
 
         console.log(tempLanguageGenerated);
-        this.clipboardService.copyFromContent(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
+        const copy = require('clipboard-copy');
+        copy(tempLanguageGenerated.replace("<p><table>","").replace("<h2>","").replace("</ol><h3>","\n").replace("<h2>","\n\n").replace(regexLi,"\n- ").replace(regexLiWithAttr,"\n- ").replace(regexH3,"\n\n").replace(regexP,"\n\n").replace(regex,"").replace(regexTab,"").replace(regex2Space,"").trim());
     }
 
     onAmendForm(index:number){

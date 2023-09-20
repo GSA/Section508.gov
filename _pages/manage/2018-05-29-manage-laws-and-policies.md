@@ -7,6 +7,7 @@ title: 'IT Accessibility Laws and Policies'
 created: 1527612022
 redirect_from:
 - summary-section508-standards/
+- section508-laws/
 ---
 
 [Section 508 Policy][1]  

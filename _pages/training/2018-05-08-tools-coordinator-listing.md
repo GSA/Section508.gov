@@ -13,7 +13,7 @@ redirect_from:
 
 Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find your agency’s designated Section 508 PM below.
 
-If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please contact us at <section.508@gsa.gov>.
+If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address.
 
 
 ## Departments and CFO Act Agencies
@@ -77,7 +77,7 @@ Ronald Hodges - 703-457-6802 - <ronald.hodges@usda.gov>
 ### Food Safety and Inspection Service (FSIS)
 Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
-Dennis Lapcewich - <dennis.lapcewich@usda.gov>  
+Dennis Lapcewich - 360-953-1347 - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
 VACANT
 ### National Agricultural Statistics Service (NASS)
@@ -97,7 +97,7 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
 * **DISC-EAS** <br>VACANT    
 * **DISC-EAS-SAAS** <br>Jerome Davin - <jerome.davin@usda.gov>  
-* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - <holly.beckstrom@usda.gov>
+* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - 816-823-2160 - <holly.beckstrom@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
@@ -113,7 +113,7 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
 * **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - 202-570-8236 - <ricardo.s.romero@usda.gov>  
-* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov><br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
 
@@ -133,7 +133,7 @@ Ida Mix - <ida.mix@bis.doc.gov>
 ### Bureau of the Census (CENSUS)
 David Whittington - 301-763-5515 - <david.j.whittington@census.gov>  
 ### Economic Development Administration (EDA)
-John Atwood - <jatwood@eda.gov>  
+Alec Todd - <atodd@eda.gov>  
 ### International Trade Administration (ITA)
 Lois Mockbee - <lois.mockabee@trade.gov>  
 ### Minority Business Development Agency (MBDA) 
@@ -180,6 +180,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
+Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.mil@mail.mil>  
 
 * **Center for Development of Security Excellence (CDSE)** <br>
 Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
@@ -275,8 +276,9 @@ VACANT
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
-Cora Tracy (Acting)	- 443-938-3815 - <cora.tracy@cms.hhs.gov>  
-Scott Shippy (BACKUP, Acting)	- 443-847-0344 - <scott.shippy@cms.hhs.gov>  
+Aaron Allen - <aaron.allen@cms.hhs.gov>  
+Cora Tracy (BACKUP)	- 443-938-3815 - <cora.tracy@cms.hhs.gov>  
+Scott Shippy (BACKUP)	- 443-847-0344 - <scott.shippy@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
 Heather Chafin - 240-876-8354 - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
@@ -486,6 +488,12 @@ Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>  
 Lisa L. Edwards - 817-222-4277 - <lisa.l.edwards@faa.gov>
+### Federal Railroad Administration (FRA)
+Venkata "Anil" Perakam - 202-853-7209 - <venkata.perakam@dot.gov>  
+### Maritime Administration (MARAD)
+La Tisa T. Wilder - 202-366-4894 - <latisa.wilder@dot.gov>  
+### National Highway Traffic Safety Administration (NHTSA)
+Purushottam "Puru" Subedi - 202-366-1015 - <p.subedi@dot.gov>  
 
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
@@ -504,7 +512,7 @@ VACANT
 ### FINCEN
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
-Courtney M. Williams - 469-801-0209 - <courtney.m.williams@irs.gov>  
+Courtney M. Williams - 214-385-5861 - <courtney.m.williams@irs.gov>  
 Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
@@ -573,7 +581,8 @@ Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
 ### Consumer Product Safety Commission (CPSC)
-Bryan Burnett -	301-504-7654 - <bburnett@cpsc.gov>  
+Arun Acharya - 240-478-7465 - <aacharya@cpsc.gov>  
+Bryan Burnett (BACKUP) -	301-504-7654 - <bburnett@cpsc.gov>
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
 
@@ -691,12 +700,14 @@ VACANT
 VACANT
 ### U.S. Courts, Western District of Wisconsin (USDC-WDW)
 Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
+### U.S. International Development Finance Corporation (DFC)
+Pramila Adhikari - 202-787-9544 - <pramila.adhikari@dfc.gov>  
 ### U.S. International Trade Commission (USITC)
 Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: July 6, 2023
+**Reviewed/Updated**: August 16, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
