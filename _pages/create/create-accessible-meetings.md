@@ -76,7 +76,7 @@ Confirm that the availability and accessibility of features is available for the
 <li dir="ltr">Service animals, such as guide dogs, must be permitted to accompany the individual with a disability to all areas of the facility where customers are normally allowed to go</li>
 <li dir="ltr">Ushers and guides who may provide oral or electronic descriptions/maps of meeting room layouts, emergency exit locations, and amenities prior to the beginning of the conference/presentation</li>
 <li dir="ltr">High-contrast color and large print for materials, maps, books, signs, menus, forms, and displays</li>
-<li dir="ltr">Real-time captioning, translators, ASL and foriegn language interpreters, and note takers</li>
+<li dir="ltr">Real-time captioning, translators, ASL and foreign language interpreters, and note takers</li>
 <li dir="ltr">Preferred seating for individuals making use of sign language interpretation. Take into account that the interpreter needs to be either next to the speaker/presenter or seated in a sight line to allow the deaf person to see the speaker/presenter beyond the interpreter</li>
 <li dir="ltr">Assistive listening device availability for participants to improve the auditory reception of speech or sound information. These devices, which can be used alone or in conjunction with personal hearing aids, involve a microphone-transmitter unit, either worn by the speaker or placed close to the sound source and a receiver worn by the listener</li>
 <li dir="ltr">Adjustable room lighting to increase the contrast - and thus the visibility - of audiovisual materials</li>
@@ -348,4 +348,4 @@ Meeting Platform Accessibility Guides
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
 
-**Reviewed/Updated:** February 2023
+**Reviewed/Updated:** July 2023

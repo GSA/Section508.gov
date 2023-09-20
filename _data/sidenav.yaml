@@ -29,6 +29,8 @@ manage:
         url: manage/deia-guidance/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
+      - name: How 508 Standards Benefit Persons With Disabilities
+        url: manage/how-508-standards-benefit-pwd/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
         grandchildren:
@@ -153,6 +155,8 @@ manage:
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
         url: manage/section-508-assessment/definition-of-terms/
+  - name: ICT Accessibility Frequently Asked Questions
+    url: manage/accessibility-faq/
 training:
   - name: Training, Tools & Events
     url: 'training/'
@@ -164,17 +168,14 @@ training:
       - name: "Section 508 Awareness"
         url: "https://training.section508.gov/508-training/courses/new/index.html"
         external: true
-      - name: "Section 508: What It Is and Why It's Important?"
-        url: 'https://training.section508.gov/508-training/courses/508-basics/index.html'
+      - name: "Section 508: What is It and Why is It Important to You?"
+        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it/index.html'
         external: true
       - name: "Accessibility of ICT: An Overview for Government Executives"
         url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
         external: true
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
         url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
-        external: true
-      - name: "Accessibility of ICT: An Overview for Government Executives"
-        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
         external: true
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
@@ -183,7 +184,10 @@ training:
         url: 'https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
         external: true
       - name: "Procuring Section 508 Conformant ICT Products and Services"
-        url: 'https://training.section508.gov/508-training/courses/procurement-new/index.html'
+        url: 'https://training.section508.gov/508-training/courses/procuring-conformant-ict/index.html'
+        external: true
+      - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
+        url: 'https://training.section508.gov/508-training/courses/soliciting-and-evaluating-acrs/index.html'
         external: true
       - name: "Training via FAI"
         url: 'training-home#FAI'
