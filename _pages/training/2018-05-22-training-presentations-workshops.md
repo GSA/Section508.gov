@@ -4,28 +4,52 @@ sidenav: true
 permalink: training/presentations-workshops/
 type: training
 title: 'Accessibility Presentations and Workshop Materials'
-created: 1527019072
 ---
+## 2023
+### IT Accessibility Community Meetings
+#### August 8, 2023
+The fourth IT Accessibility Community Meeting of the year continued the theme, “Let’s Take Flight & Continue To Soar” focused on “continuing the meaningful work through unending leadership by example and being the change we want to see ” while reconnecting with our broader accessibility community members and charting the path forward. Attendees traveled to the worlds of Accessible Word to PDF where they were taken on a journey to make an inaccessible Word document accessible during a live demo. If you are new to document accessibility this is a great introduction to showing how easy accessibility can be. Additionally, attendees had the opportunity to take part in an in-flight journey with one of our Soaring Section 508 Superheroes, who shared their accessibility experience as a person who has experienced a lifetime with ADHD.
+
+* [Captioned Text - AUG 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-AUG2023%29.docx)
+
+#### June 13, 2023 
+The third IT Accessibility Community Meeting of the year continued the theme, “Let’s Take Flight & Continue To Soar” focused on “continuing the meaningful work through unending leadership by example and being the change we want to see ” while reconnecting with our broader accessibility community members and charting the path forward. During this session we held a targeted focus group that gave participants the opportunity to provide feedback on the website. This includes both content updates and suggestions for new content that should be included on section508.gov.
+
+* [Captioned Text - JUN 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-JUN2023%29.docx)
+
+#### April 25, 2023 
+The second IT Accessibility Community Meeting of the year continued the theme, “Let’s Take Flight & Continue To Soar” focused on “continuing the meaningful work through unending leadership by example and being the change we want to see ” while reconnecting with our broader accessibility community members and charting the path forward. Attendees heard how the US Census Bureau discusses their experience in standing up a Section 508 Program Office.
+
+* [Captioned Text - APR 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-APR2023%29.docx)
+
+#### February 14, 2023 
+The second IT Accessibility Community Meeting of the year introduced the theme, “Let’s Take Flight & Continue To Soar” and focused on "continuing the meaningful work through unending leadership by example and being the change we want to see" while reconnecting with our broader accessibility community members and charting the path forward. 
+
+* [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-FEB2023%29.docx)
 
 ## 2022
 ### IT Accessibility Community Meetings
-December 7, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers shared what CDC is doing currently and planning around the need for accessible communication that is plain, clear, and inclusive, and will share some examples of recent work. Additionally, the speakers discussed how the world around us is shaped by our perspective, and so is our understanding of what we call disabilities.
+#### December 7, 2022 
+Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers shared what CDC is doing currently and planning around the need for accessible communication that is plain, clear, and inclusive, and will share some examples of recent work. Additionally, the speakers discussed how the world around us is shaped by our perspective, and so is our understanding of what we call disabilities.
 
 * [Captioned Text - DEC 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-DEC2022%29.docx)
 
-June 14, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
+#### June 14, 2022 
+Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
 * [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
 * [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://assets.section508.gov/files/presentations/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)
 * [Captioned Text - JUN 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-JUN2022%29.docx)
 
-April 19, 2022 - Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where our participants heard from four speakers.
+#### April 19, 2022 
+Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where our participants heard from four speakers.
 
 * [SRT Data Process - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/SRT+Data+Process+-+ITACM+APR+2022.pptx)
 * [Market Research - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/Market+Research+-+ITACM+APR+2022.pptx)
 * [Captioned Text - APR 2022 (DOCX)](https://assets.section508.gov/files/presentations/Captioned-Text-%28ITACM-APR2022%29.docx)
 
-February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is *“Be The Change In Accessibility: Design & Development”* where you’ll hear from two speakers.
+#### February 8, 2022
+Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is *“Be The Change In Accessibility: Design & Development”* where you’ll hear from two speakers.
 
 * [MS Word Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/MS%20Word%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
 * [PDF Accessibility Checklist (Alternate Description) (PDF)](https://assets.section508.gov/files/PDF%20Accessibility%20Checklist%20%28Alternate%20Description%29.pdf)
@@ -35,25 +59,30 @@ February 8, 2022 - Our overall theme, *"Be The Change In Accessibility,”* focu
 ## 2021
 
 ### IT Accessibility Community Meetings
-December 7, 2021 - Our theme, “Winter Break: Accessibility Lights, DEIA Camera…ACTION” continued to focus on reconnecting our broader accessibility community members and charting the path forward. The topics discussed at the meeting included: DEIA and the Accessibility Community; What is The Big Picture; and Using the Tools We Have To Accomplish the Goal.
+#### December 7, 2021
+Our theme, “Winter Break: Accessibility Lights, DEIA Camera…ACTION” continued to focus on reconnecting our broader accessibility community members and charting the path forward. The topics discussed at the meeting included: DEIA and the Accessibility Community; What is The Big Picture; and Using the Tools We Have To Accomplish the Goal.
 
 * [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-DEC2021%29.docx)
 
-August 4, 2021 - Our theme, “Moving Forward: Leaving No One Behind,” continued to focus on reconnecting our broader accessibility community and looking at the path ahead. This session was part-two of how a leader with no accessibility experience became a ‘508 Evangelist’ and began fundamentally changing how an organization thought about, and approached, accessibility. Topics included: Linking & Leverage; Building a Foundation; Changing the Narrative; and Enforcement Is NOT the Answer.
+#### August 4, 2021
+Our theme, “Moving Forward: Leaving No One Behind,” continued to focus on reconnecting our broader accessibility community and looking at the path ahead. This session was part-two of how a leader with no accessibility experience became a ‘508 Evangelist’ and began fundamentally changing how an organization thought about, and approached, accessibility. Topics included: Linking & Leverage; Building a Foundation; Changing the Narrative; and Enforcement Is NOT the Answer.
 
 * [Building on the Fundamentals (PPTX)](https://assets.section508.gov/files/ITACM-Presentation-04AUG2021.pptx)
 * [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-AUG2021%29.docx)
 
-June 8, 2021 - In this session, Brandon Jular (Department of Labor) shared his journey from a new leader with no accessibility experience to becoming a ‘508 Evangelist,’ and began fundamentally changing how an organization thought about and approached accessibility.
+#### June 8, 2021
+In this session, Brandon Jular (Department of Labor) shared his journey from a new leader with no accessibility experience to becoming a ‘508 Evangelist,’ and began fundamentally changing how an organization thought about and approached accessibility.
 
 * [Getting the Support You Need: Strategically leveraging high-level support (PPTX)](https://assets.section508.gov/files/GSA-Accessibility-Community-Meeting-08JUN2021.pptx)
 * [Transcript (DOCX)](https://assets.section508.gov/files/Captioned-Text-%28ITACM-JUN2021%29.docx)
 
-April 6, 2021 - Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs<sup>&trade;</sup>).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.
+#### April 6, 2021
+Focusing on the acquisition of information and communications technology, four presenters from Federal and State accessibility programs shared a quick review of approaches on how to evaluate Accessibility Conformance Reports (ACRs) developed from Voluntary Product Accessibility Templates (VPATs<sup>&trade;</sup>).  This was followed by four concurrent breakout sessions where each presenter led a breakout group to compare multiple products against the agency's RFP requirements as the evaluation committee.
 
 * [Transcript (DOCX)][1]
 
-February 9, 2021 - Featuring the slogan, “Moving Forward: Change is Necessary”, this meeting featured presentations by DHS, GSA, NASA, and the Information Technology Industry Association (ITI) on Accessibility Conformance Report (ACR) creation, evaluation and validation processes. Additionally, the International Association of Accessibility Professionals (IAAP) shared information on improving the accessibility profession through education and certification.
+#### February 9, 2021
+Featuring the slogan, “Moving Forward: Change is Necessary”, this meeting featured presentations by DHS, GSA, NASA, and the Information Technology Industry Association (ITI) on Accessibility Conformance Report (ACR) creation, evaluation and validation processes. Additionally, the International Association of Accessibility Professionals (IAAP) shared information on improving the accessibility profession through education and certification.
 
 * [Refining and Evaluating ACRs and VPATs (PPTX)][2]
 * [Get Certified (PPTX)][3]
@@ -63,7 +92,8 @@ February 9, 2021 - Featuring the slogan, “Moving Forward: Change is Necessary�
 
 ### CSUN Assistive Technology Conference
 
-March 8-13, 2020 - The California State University, Northridge (CSUN) hosted the 35th annual CSUN Assistive Technology Conference which is designed as an inclusive event for researchers, practitioners, exhibitors, end users and other participants to share knowledge and best practices in the field of assistive technology. Among the many workshops and presentations scheduled for the conference were those created by accessibility professionals from the U.S. Access Board, the GSA IT Accessibility Team, and the Department of Homeland Security including:
+#### March 8-13, 2020
+The California State University, Northridge (CSUN) hosted the 35th annual CSUN Assistive Technology Conference which is designed as an inclusive event for researchers, practitioners, exhibitors, end users and other participants to share knowledge and best practices in the field of assistive technology. Among the many workshops and presentations scheduled for the conference were those created by accessibility professionals from the U.S. Access Board, the GSA IT Accessibility Team, and the Department of Homeland Security including:
 
 * [How to Be Successful in the Trusted Tester Certification Process (PPT)][5] - Tips on how to be successful for individuals seeking Trusted Tester certification and the benefits for those doing business with the U.S. federal government.
 * [Section 508 ICT Testing Baseline (PPT)][6]&nbsp;- Explains how the ICT Testing Baseline will be used by federal agencies to align their accessibility testing processes to produce consistent test results for Section 508 conformance.
@@ -71,30 +101,35 @@ March 8-13, 2020 - The California State University, Northridge (CSUN) hosted the
 
 ### IT Accessibility Community Meetings
 
-December 01, 2020 - “Moving Forward: Winter Break” - Access Israel shared information about their organization and how they promote accessibility to improve the quality of life for people with various disabilities in Israel. The primary goal is that all those with disabilities are integrated into society with dignity, respect, equal rights and high level of independence. Attendees also enjoyed a year-in-review presentation by Tim Creagan, U.S. Access Board.
+#### December 01, 2020
+“Moving Forward: Winter Break” - Access Israel shared information about their organization and how they promote accessibility to improve the quality of life for people with various disabilities in Israel. The primary goal is that all those with disabilities are integrated into society with dignity, respect, equal rights and high level of independence. Attendees also enjoyed a year-in-review presentation by Tim Creagan, U.S. Access Board.
 
 * [Captioned-Text-(ITACM-DEC2020)][8]
 * [Access Israel at U.S. - GSA][9] (PPT, DEC 2020)
 * [Section 508 in 2020 - The Year in Review][10] (PPT, DEC 2020)
 
-August 11, 2020 - Under the theme of “Back to School,” the Department of Veterans Affairs (VA) and the National Institutes of Health (NIH) National Cancer Institute led a review and discussion of seven sections of the Rehabilitation Act of 1973, and the relationship between disability programs and reasonable accommodations. Participants also received an update on the changes to the [Accessibility Requirements Tool][11] (ART) and [Solicitations Review Tool][12] (SRT) from the GSA Office of Government-wide Policy IT Accessibility Program.
+#### August 11, 2020
+Under the theme of “Back to School,” the Department of Veterans Affairs (VA) and the National Institutes of Health (NIH) National Cancer Institute led a review and discussion of seven sections of the Rehabilitation Act of 1973, and the relationship between disability programs and reasonable accommodations. Participants also received an update on the changes to the [Accessibility Requirements Tool][11] (ART) and [Solicitations Review Tool][12] (SRT) from the GSA Office of Government-wide Policy IT Accessibility Program.
 
 * [Captioned Text (ITACM - AUG2020)][13]
 * [Sections of the Rehabilitation Act of 1973][14] (PPT, Aug 2020)
 
-June 30, 2020 - The Office of Personnel Management (OPM) and the Federal Deposit Insurance Corporation (FDIC) participated in an informative event with a focus on creating effective performance management frameworks and position descriptions; including how a position description can be used to establish a Section 508 Program led by a dedicated Program Manager.&nbsp;
+#### June 30, 2020
+The Office of Personnel Management (OPM) and the Federal Deposit Insurance Corporation (FDIC) participated in an informative event with a focus on creating effective performance management frameworks and position descriptions; including how a position description can be used to establish a Section 508 Program led by a dedicated Program Manager.&nbsp;
 
 * [Captioned-Text-(APMM-JUN2020)][15]
 * [Best Practices for Creating a Position Description and the Importance of Updated PDs][16] (PPT, June 2020)
 * [Writing Position Descriptions][17] (PPT, June 2020)
 
-April 7, 2020 - The Department of Health and Human Services (HHS) Centers for Medicare and Medicaid Services (CMS) shared an overview of their Section 508 Program, the program’s structure, education and awareness campaigns, and future planning. The GSA government-wide IT Accessibility Team shared information on effective testing approaches, and gave a brief demo of the [ANDI testing tool][18].
+#### April 7, 2020
+The Department of Health and Human Services (HHS) Centers for Medicare and Medicaid Services (CMS) shared an overview of their Section 508 Program, the program’s structure, education and awareness campaigns, and future planning. The GSA government-wide IT Accessibility Team shared information on effective testing approaches, and gave a brief demo of the [ANDI testing tool][18].
 
 * [Transcript][19] (MS-DOC, April 2020)
 * [April Accessibility Program Managers Meeting Presentation][20] (MS-PPT, April 2020)
 * [A 508 Program on the Move: Centers for Medicare and Medicaid Services][21] (CMS) (MS-PPT, April, 2020)
 
-February 4, 2020 - Featuring the slogan, "Moving Forward," this meeting featured presentations by Program Maturity Census Bureau Section 508 Program Managers sharing best practices, lessons learned and plans for 2020.
+#### February 4, 2020
+Featuring the slogan, "Moving Forward," this meeting featured presentations by Program Maturity Census Bureau Section 508 Program Managers sharing best practices, lessons learned and plans for 2020.
 
 * [Transcript][22] (MS-DOC, February 2020)
 * [February Accessibility Program Managers Meeting Presentations][23] (MS-PPT, December 2019)
@@ -103,21 +138,25 @@ February 4, 2020 - Featuring the slogan, "Moving Forward," this meeting featured
 
 ### IT Accessibility Community Meetings
 
-December 10, 2019 - Featuring the slogan, “What Have We Learned? Our Journey Forward,” &nbsp;this meeting featured three presentations by Section 508 Program Managers sharing lessons learned and plans for 2020.
+#### December 10, 2019
+Featuring the slogan, “What Have We Learned? Our Journey Forward,” &nbsp;this meeting featured three presentations by Section 508 Program Managers sharing lessons learned and plans for 2020.
 
 * [Transcript][24] (MS-DOC, December 2019)
 * [FY 2019 Lessons Learned from a 508 PM][25] (MS-PPT, December 2019)
 
-August 1, 2019 - Our summer program manager’s meeting featured presentations on the Digital Dashboard Accessibility Module, website reports to agency CIOs, and expanding scans for additional WCAG 2.0 standards.
+#### August 1, 2019
+Our summer program manager’s meeting featured presentations on the Digital Dashboard Accessibility Module, website reports to agency CIOs, and expanding scans for additional WCAG 2.0 standards.
 
 * [Transcript][26] (MS-DOC, December 2019)
 * [August Accessibility Program Managers Meeting Presentations][27] (MS-PPT, December 2019)
 
-June 5, 2019 - The [Solicitation Review Tool][12] (SRT) was introduced during this bimonthly accessibility community meeting, which also included a product demo, discussions on machine learning, and a review of analytics results. In addition, we discussed the inclusion of Section 508 in the acquisition lifecycle, and using the Acquisition Requirements Tool (ART) to generate ICT requirements.
+#### June 5, 2019
+The [Solicitation Review Tool][12] (SRT) was introduced during this bimonthly accessibility community meeting, which also included a product demo, discussions on machine learning, and a review of analytics results. In addition, we discussed the inclusion of Section 508 in the acquisition lifecycle, and using the Acquisition Requirements Tool (ART) to generate ICT requirements.
 
 * [Transcript][28] (MS-DOC, December 2019)
 
-April 8, 2019 - Bimonthly meeting topics included discussions on performance metrics and training needs, and an update on training offered by the Access Board.
+#### April 8, 2019
+Bimonthly meeting topics included discussions on performance metrics and training needs, and an update on training offered by the Access Board.
 
 * [Transcript][29] (MS-DOC, December 2019)
 * [Performance Measures for Federal Accessibility Programs][30] (MS-PPT, December 2019)
@@ -134,10 +173,9 @@ February 6, 2018 - Bi-monthly meeting of the Accessibility Community, featuring 
 * [Resources for Section 508 Program Managers][35] (MS-PPT, February 2018)
 
 ## 2017
-
 ### Section 508 Federal Day
-
-December 5, 2017 - The meeting featured speakers from Microsoft, who shared the latest on creating accessible content.
+#### December 5, 2017
+The meeting featured speakers from Microsoft, who shared the latest on creating accessible content.
 
 * [Welcome and Modernization of IT][36] (MS-PPT, December 2017)
 * [Inclusive Documents][37] - Authoring Accessible Content (MS-PPT, December 2017)
@@ -156,7 +194,7 @@ December 5, 2017 - The meeting featured speakers from Microsoft, who shared the 
   </div>
 </div>
 
-**Reviewed/Updated**: March 2022
+**Reviewed/Updated**: August 2023
 
 [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
 [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
