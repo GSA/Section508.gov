@@ -9,35 +9,20 @@ redirect_from:
 - create/universal-design/
 ---
 
-<div class="grid-row grid-gap">
-  <div class="desktop:grid-col-8">
-    <p>
-      Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. Universal design, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
-    </p>
-  </div>
-  
-  <div class="desktop:grid-col-4" style="margin-bottom: 15px;">
-    <img alt="Universal design is a concept in which products and environments are designed to be usable by all people, to the greatest extent possible, without the need for adaption or specialized design." src="https://assets.section508.gov/files/universal-design-callout-2.PNG" style="width: 100%;">
-  </div>
+ <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
+  <strong>Universal design</strong> is a concept in which products and environments are designed to be <strong>usable by all</strong> people, to the greatest extent possible, without the need for adaption or specialized design.
 </div>
 
-<p>
-      Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
-    </p>
-<p>
-      Through universal design, your agency will:
-    </p>
-<ol>
-      <li>
-        <strong>Save money </strong>by investing in the most accessible products from the start;
-      </li>
-      <li>
-        <strong>Innovate </strong>and create products for everyone regardless of ability; and
-      </li>
-      <li>
-        <strong>Engage staff, </strong>promote inclusivity, and pave the way for more people with disabilities to join the workforce.
-      </li>
-    </ol>
+Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. Universal design, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
+
+Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
+
+Through universal design, your agency will:
+
+* **Save money** by investing in the most accessible products from the start;  
+* **Innovate** and create products for everyone regardless of ability; and  
+* **Engage staff**, promote inclusivity, and pave the way for more people with disabilities to join the workforce.  
+
 Invest in universal design to transform the way your agency serves citizens, regardless of ability, and create tools and products that are easier for everyone to use.
 
 ## **Training Videos**
@@ -91,7 +76,7 @@ If you have questions or want to share your experiences using universal design, 
   </div>
 </div>
 
-**Reviewed/Updated:** March 2022
+**Reviewed/Updated:** August 2023
 
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
