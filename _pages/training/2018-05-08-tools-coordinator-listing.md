@@ -180,7 +180,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
-Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.mil@mail.mil>  
+Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.civ@mail.mil>  
 
 * **Center for Development of Security Excellence (CDSE)** <br>
 Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
@@ -193,10 +193,11 @@ Jaye Miller - 317-212-3198 - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - 703-681-1529 - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Information Systems Agency (DISA)
-Stephanie	Rozario-Hamilton (Acting)	- 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
-Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
+Fariba Beg - <fariba.beg.civ@mail.mil>  
+Stephanie	Rozario-Hamilton - 301-225-4048 - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 
-* **Joint Service Provider (JSP)** - DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+* **Joint Service Provider (JSP)** <br>DaShawn Laurel - 703-309-5808 - <dashawn.laurel.civ@mail.mil>  
+* **Joint Interoperability Test Command (JITC)** <br>Angela M. Edwards - 520-538-7408 - <angela.m.edwards10.civ@mail.mil>  
 
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - 202-231-3226 - <vanessa.hill2@dodiis.mil>   
@@ -482,18 +483,22 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
-Ivan Amir - 202-366-0850 - <ivan.amir@dot.gov>  
+VACANT  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
 Sheree Peters - 817-222-4290 - <sheree.peters@faa.gov>  
 Lisa L. Edwards - 817-222-4277 - <lisa.l.edwards@faa.gov>
+### Federal Motor Carrier Safety Administration (FMCSA)  
+Martin Erb - 202-366-8200 - <martin.erb@dot.gov>  
 ### Federal Railroad Administration (FRA)
 Venkata "Anil" Perakam - 202-853-7209 - <venkata.perakam@dot.gov>  
 ### Maritime Administration (MARAD)
 La Tisa T. Wilder - 202-366-4894 - <latisa.wilder@dot.gov>  
 ### National Highway Traffic Safety Administration (NHTSA)
 Purushottam "Puru" Subedi - 202-366-1015 - <p.subedi@dot.gov>  
+### Pipeline and Hazardous Materials Safety Administration (PHMSA)
+Paul Mounkhaty - 202-366-4146 - <paul.mounkhaty@dot.gov>  
 
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
@@ -707,7 +712,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: August 16, 2023
+**Reviewed/Updated**: September 19, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
