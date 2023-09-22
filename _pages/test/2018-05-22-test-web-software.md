@@ -5,6 +5,7 @@ permalink: test/web-software/
 type: test
 title: 'Accessibility Testing for Websites and Software'
 created: 1527026399
+contributors: usab
 ---
 
 Web designers, developers, and content managers play a key role in ensuring websites and digital tools are accessible, and conform to the [Revised 508 Standards][1] and the [W3C Web Content Accessibility Guidelines (WCAG)][2] 2.0 Level AA.
