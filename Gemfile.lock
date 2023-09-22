@@ -136,7 +136,6 @@ GEM
     tzinfo-data (1.2021.5)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.7.0)
     yell (2.2.2)
     zeitwerk (2.6.7)
@@ -151,13 +150,12 @@ DEPENDENCIES
   html-proofer (~> 3.18)
   jekyll (~> 4.0)
   jekyll-assets!
-  jekyll-feed (~> 0.15)
+  jekyll-feesd (~> 0.15)
   jekyll-paginate-v2 (= 3.0.0)
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data
-  wdm (~> 0.1.0)
 
 RUBY VERSION
    ruby 2.6.6p146
