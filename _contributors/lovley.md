@@ -10,7 +10,7 @@ affiliation_short: FCC
 affiliation_long: Federal Communications Commission
 position: Section 508 Program Manager
 location: Washington, DC 
-image_url: https://assets.section508.gov/files/bio-images/lovley-rebecca.jpeg
+image_url: https://assets.section508.gov/files/bio-images/lovley-rebecca.jpg
 email: rebecca.lovley@fcc.gov
 permalink: /:collection/:name:output_ext
 ---
