@@ -111,6 +111,40 @@ layout: base
               </li>
           {% endif %}
         {% endfor %}
+        {% for posts in site.posts %}
+          {% if posts.contributors contains this_contributor %}
+              <li class="usa-card tablet:grid-col-6">
+                <div class="usa-card__container">
+                  <div class="usa-card__header">
+                    <span class="text-primary-vivid">Blog</span>
+                    <h3 class="usa-card__heading text-primary-dark">{{ posts.title }}</h3>
+                  </div>
+                  <div class="usa-card__body padding-y-0">
+                    <p>
+                      {% if posts.description %}
+                        {{ posts.description | markdownify }}
+                      {% endif %}
+                    </p>
+                  </div>
+                  <div class="padding-x-2 padding-y-1">
+                    <div class="grid-row flex-wrap grid-gap-1">
+                      {%- assign collaborators = posts.contributors -%}
+                      {% for contributors in site.contributors %}
+                      {% if contributors.contributor_type == "individual" %}
+                        {% if collaborators contains contributors.contributor_id %}
+                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
+                        {% endif %}
+                      {% endif %}
+                      {% endfor %}
+                    </div>
+                  </div>
+                  <div class="usa-card__footer">
+                    <a href="{{ site.baseurl }}{{ posts.url }}" class="usa-button" aria-label="View Page: {{ posts.title }}">View Page</a>
+                  </div>
+                </div>
+              </li>
+          {% endif %}
+        {% endfor %}
         </ul>
       </main>
     </div>

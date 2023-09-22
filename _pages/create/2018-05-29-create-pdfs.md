@@ -37,8 +37,8 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 ### Other Tips
 
-  * When generating PDF documents through conversion from another format, or through an automated tool, ensure the resulting PDF file is properly tagged to support accessibility.
-  * If using an authoring tool, make sure the tool is capable of generating accessible PDF documents that conform to PDF/UA (some do not).
+  * When generating PDF documents through conversion from another format, or through an automated tool, ensure the resulting PDF file is properly tagged to support accessibility.  
+  * If using an authoring tool, make sure the tool is capable of generating accessible PDF documents that conform to PDF/UA (some do not). PDF/UA provides a standardized framework for software to create, test and remediate accessible PDFs. PDF/UA and WCAG should be complimentary. See also [PDF Techniques for WCAG 2.0][14].
 
 ## Agency-Developed Guidance
 
@@ -65,8 +65,7 @@ The resources in this section were developed by Federal agencies, and shared her
   </div>
 </div>
 
-<p><b>Reviewed/Updated: </b>February 2021</p>  
-
+**Reviewed/Updated:** August 2023
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
@@ -81,3 +80,4 @@ The resources in this section were developed by Federal agencies, and shared her
  [11]: https://www.w3.org/WAI/tutorials/images/decision-tree/
  [12]: https://www.adobe.com/accessibility/products/acrobat.html
  [13]: https://www.w3.org/WAI/train
+ [14]: https://www.w3.org/TR/WCAG20-TECHS/pdf

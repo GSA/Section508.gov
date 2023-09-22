@@ -5,11 +5,15 @@ permalink: test/trusted-tester/
 type: test
 title: 'Trusted Tester and ICT Testing Baseline'
 created: 1527031851
+contributors: usab
 ---
 
 ## ICT Testing Baseline
 
 Baseline tests&nbsp;of Information and Communication Technology (ICT) attempt to reduce ambiguity, increase consistency of results, and emphasize&nbsp;methods and techniques to reliably meet federal accessibility requirements.
+
+The [ICT Testing Baseline for Web][1] provides an approach to standardize and improve web accessibility conformance test processes throughout the federal government. Agencies may use the Baseline for Web as the foundation of their test methodology to evaluate web content for Section 508 conformance. Agencies may select testing tools that best suit their environment and include additional agency-specific tests. Including Baseline results in test reports can improve reporting transparency. The Baseline for Web improves the accuracy and completeness of web accessibility test results and the test methodologies that provide them. The Baseline for Web is a best practice and resource for web accessibility professionals and stakeholders. By improving conformance testing, it also helps ensure that web content is accessible to people with disabilities. 
+Note: Add after the first sentence/paragraph.
 
 The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the [Revised 508 Standards][2], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to **create** an accessibility test process.
 
@@ -41,7 +45,7 @@ Email the Department of Homeland Security (DHS) Accessibility Helpdesk at <acces
 
 The resources on this page were created through interagency collaborative efforts sponsored under the  [Accessibility Community of Practice (ACoP)][9], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards.][2]
 
-**Reviewed/Updated:** February 2023
+**Reviewed/Updated:** September 2023
 
  [1]: https://ictbaseline.access-board.gov/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines

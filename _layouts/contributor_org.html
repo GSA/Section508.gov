@@ -38,6 +38,12 @@ layout: base
               </li>
           {% endif %}
         {% endfor %}
+        {% for posts in site.posts %}
+          {% if posts.contributors contains this_contributor %}
+              <li class="margin-y-1"><a href="{{ site.baseurl }}{{ posts.url }}">{{ posts.title }}</a>
+              </li>
+          {% endif %}
+        {% endfor %}
         </ul>
       </main>
     </div>

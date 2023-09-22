@@ -5,9 +5,18 @@ permalink: test/web-software/
 type: test
 title: 'Accessibility Testing for Websites and Software'
 created: 1527026399
+contributors: usab
 ---
 
 Web designers, developers, and content managers play a key role in ensuring websites and digital tools are accessible, and conform to the [Revised 508 Standards][1] and the [W3C Web Content Accessibility Guidelines (WCAG)][2] 2.0 Level AA.
+
+## ICT Testing Baseline
+
+The [ICT Testing Baseline for Web][20] establishes the minimum tests for Section 508 conformance to be included in test methodologies for web content in the federal government. It is tool agnostic and supports the use of automated and manual testing tools to ensure a comprehensive and accurate assessment of web accessibility. Results from a baseline-aligned test process provide full coverage of all Section 508 requirements. A test process that aligns with the ICT Testing Baseline for Web can reliably and consistently determine if web content meets these requirements. The ICT Testing Baseline also supports harmonization of interpretation of the 508 Standards in test methodologies and sharing of conformance test results. 
+
+The ICT Testing Baseline describes what to evaluate for conformance to [the Revised 508 Standards][21], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to ***create*** an accessibility test process or validate an existing test process for completeness.
+
+Email the ICT Baseline Working Group at <ictbaseline@gsa.gov> with questions.
 
 ## Trusted Tester Program
 
@@ -92,7 +101,7 @@ A collection of tools and training from the World Wide Web Consortium (W3C).
 
 The resources on this page were created through interagency collaborative efforts sponsored under the [Accessibility Community of Practice (ACoP)][19], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards][1]. (Note, resources created and hosted by Federal agencies other than GSA are not included in this endorsement.)
 
-**Reviewed/Updated:** September 2020
+**Reviewed/Updated:** September 2023
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: http://www.w3.org/WAI/intro/wcag.php
@@ -113,3 +122,5 @@ The resources on this page were created through interagency collaborative effort
  [17]: {{site.baseurl}}/test
  [18]: {{site.baseurl}}/test/about-testing-tools
  [19]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
+ [20]: https://ictbaseline.access-board.gov/
+ [21]: https://www.access-board.gov/ict/
