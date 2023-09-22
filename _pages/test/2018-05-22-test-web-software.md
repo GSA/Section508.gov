@@ -13,7 +13,7 @@ Web designers, developers, and content managers play a key role in ensuring webs
 
 The [ICT Testing Baseline for Web][20] establishes the minimum tests for Section 508 conformance to be included in test methodologies for web content in the federal government. It is tool agnostic and supports the use of automated and manual testing tools to ensure a comprehensive and accurate assessment of web accessibility. Results from a baseline-aligned test process provide full coverage of all Section 508 requirements. A test process that aligns with the ICT Testing Baseline for Web can reliably and consistently determine if web content meets these requirements. The ICT Testing Baseline also supports harmonization of interpretation of the 508 Standards in test methodologies and sharing of conformance test results. 
 
-The ICT Testing Baseline describes how to evaluate conformance to [the Revised 508 Standards][21], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to ***create*** an accessibility test process.
+The ICT Testing Baseline describes what to evaluate for conformance to [the Revised 508 Standards][21], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to ***create*** an accessibility test process or validate an existing test process for completeness.
 
 Email the ICT Baseline Working Group at <ictbaseline@gsa.gov> with questions.
 
