@@ -150,7 +150,7 @@ DEPENDENCIES
   html-proofer (~> 3.18)
   jekyll (~> 4.0)
   jekyll-assets!
-  jekyll-feesd (~> 0.15)
+  jekyll-feed (~> 0.15)
   jekyll-paginate-v2 (= 3.0.0)
   jekyll-redirect-from
   jekyll-seo-tag
