@@ -78,8 +78,9 @@ Additional related laws include:
 ### OMB Memos
 
 <ul>
+  <li><a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" class="usa-link--external text-top">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act of 2013 (PDF)</a></li>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" target="_blank" class="usa-link--external text-top">M-17-06 - Policies for Federal Agency Public Websites and Digital Services (PDF)</a></li>
+  <!--<li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" target="_blank" class="usa-link--external text-top">M-17-06 - Policies for Federal Agency Public Websites and Digital Services (PDF)</a></li>-->
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf" target="_blank" class="usa-link--external text-top">M-16-20 Category Management Policy 16-3: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Services (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf" target="_blank" class="usa-link--external text-top">M-13-13 - Open Data Policy - Managing Information as an Asset (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/procurement_memo/improving_accessibility_gov_info_07192010.pdf" target="_blank" class="usa-link--external text-top">OMB Improving the Accessibility of Government Information (PDF) - July 2010</a></li>
