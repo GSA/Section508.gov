@@ -391,6 +391,8 @@ develop:
         url: 'develop/universal-design/'
       - name: Video Training
         url: 'develop/universal-design-video-series/'
+      - name: Accessible Fonts and Typography  
+        url:  'develop/fonts-typography/'
   - name: Develop
     url: '#'
     children:
