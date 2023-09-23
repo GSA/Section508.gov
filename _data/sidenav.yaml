@@ -511,6 +511,8 @@ create:
     url: 'create/authoring-tools/'
   - name: Create Accessible Meetings
     url: 'create/accessible-meetings/'
+  - name: Creating Accessible Equations and Formulas
+    url: 'create/accessible-equations-formulas/'      
   - name: Synchronized Media
     url: 'create/synchronized-media/'
   - name: Video, Audio, Social
