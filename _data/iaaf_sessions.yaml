@@ -596,4 +596,18 @@ iaaf_2022:
         subtitle: 'Stay online to connect with hosts, presenters, and participants from across the country.'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: #bio_id for this person             
+            who: #bio_id for this person  
+iaaf_2023:
+  - day: 1
+    time_start: 2023-09-07 10:00:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2023-09-09 16:00:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2023-09-07 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2023-09-07 10:15:00
+        session_id: day1welcome
+        description:
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: michael-horton #bio_id for this person 
