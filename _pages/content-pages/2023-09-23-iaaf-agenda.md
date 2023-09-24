@@ -26,16 +26,16 @@ created: 2023-09-23
     {% if session.type == "general" %}{% assign session-class = "olive" %}{% assign descr-class = "lt-olive" %}{% endif %}
     {% if session.type == "keynote" %}{% assign session-class = "brown" %}{% assign descr-class = "lt-olive" %}{% endif %}
     {% if session.type == "panel" %}{% assign session-class = "olive" %}{% assign descr-class = "lt-olive" %}{% endif %}
-      <!-- START SESSION ROW -->
+          <!-- START SESSION ROW -->
       {% if session.type == "break" %}
       <div class="grid-row break">
-        <div class="grid-col-12 cell dark padding-1">{{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br><span class="session-type">{{ session.name }}</span></div>
+        <div class="grid-col-12 cell dark padding-1">{{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br><span class="session-type">{{ session.name }} {% if session.room != nil %} - {{ session.room }}{% endif %}</span></div>
       </div>
       {% else %}
         <div class="grid-row">
           <div class="desktop:grid-col-3 tablet:grid-col-3 cell {{ session-class }} padding-1" id="{{ session.session_id }}">
             {{ session.time_start | date: "%l:%M %p" }} – {{ session.time_end | date: "%l:%M %p" }}<br>
-            <span class="session-type">{{ session.name }}</span>
+            <span class="session-type">{{ session.name }}{% if session.type != "breakout" %}{% if session.room != nil %} - {{ session.room }}{% endif %}{% endif %}</span>
           </div>
             {% if session.type == "breakout" %}
               <!-- BREAKOUT TRACK -->
@@ -70,6 +70,15 @@ created: 2023-09-23
                         <span class="speaker-name"><a href="https://assets.section508.gov/files/presentations/iaaf/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                       </div>
                     {% endfor %}
+                  {% endif %}
+                  <!-- ROOM NAME -->
+                  {% if track.room != nil %}
+                    <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                      <span class="session-type text-highlight margin-top-3">Room Name:</span>
+                    </div>
+                      <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
+                        <span class="speaker-name">{{ track.room }}</span>
+                      </div>                  
                   {% endif %}
                 </div>
               {% endfor %}
@@ -159,7 +168,7 @@ created: 2023-09-23
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
   <div class="padding-1">
     <p class="text-large"><strong>Thank you</strong></p>
-    <p>To all keynote speakers; breakout session moderators and panelists; attendees; IAAF volunteers, exhibitors and volunteers.</p>
+    <p>To all keynote speakers, breakout session moderators and panelists, attendees, IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
 <p><strong>Reviewed/Updated: </strong>September 2023</p>
