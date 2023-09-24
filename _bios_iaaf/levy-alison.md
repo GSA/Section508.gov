@@ -13,6 +13,12 @@ email:
 image_url: https://assets.section508.gov/files/bio-images/levy-alison.png
 iaaf_years: 1800, 2023 #Remove 1800 when individual has attended two or more conferences
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Alison Sutton Levy joined the U.S. Access Board in June 2022 as the Director of the Office of Information and Technical Services (OTIS) where she oversees the technical assistance team for both the built and digital environments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. OTIS currently includes a team of eight staff members who write the
+
+guidelines and standards, provide answers to technical questions via a hotline and email, and present training in person and virtually.
+
+Alison most recently served as the Manager of the U.S. Department of Transportation’s Disability Resource Center (DRC). The DRC is a centrally funded office that supports internal supervisors and employees in creating an accessible and inclusive workplace through recruitment, hiring, outreach, education, and reasonable accommodations.
+
+As a person with disabilities, and with over 30 years of experience in the disability profession, Alison has worked toward improving workplace attitudes and accessibility, and in providing equal opportunity in the post-secondary, public, and private sectors. She is a person with disabilities and is fluent in American Sign Language.
