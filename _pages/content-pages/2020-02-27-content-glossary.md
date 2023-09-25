@@ -151,7 +151,10 @@ created: 1582828796
       <strong><span id="existing-ict">Existing ICT</span>:</strong> ICT that was procured, maintained or used on or before January 18, 2018.
     </li>
     <li>
-      <strong><span id="eit"> Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
+      <strong><span id="eit">Electronic and Information Technology (EIT)</span>:</strong> Superseded by <a href="#ict">Information and Communication Technology (ICT)</a>
+    </li>
+    <li>
+      <strong><span id="exec-agency">Executive agency</span>:</strong> "'Executive agency' means an Executive department, a Government corporation, and an independent establishment," as per <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title5/pdf/USCODE-2011-title5-partI-chap1-sec105.pdf" target="_blank" class="usa-link--external text-top">5 U.S.C. § 105 (PDF)</a>
     </li>
   </ul>
   

@@ -4,7 +4,7 @@ title: USAB Contributions
 contributor_id: usab
 contributor_type: organization
 display_name: U.S. Access Board
-affiliation_short: Access Board
+affiliation_short: USAB
 affiliation_long: United States Access Board
 location: Washington, D.C.
 image_url: https://www.access-board.gov/assets/usab-seal-3434bb095b86097807eb2d66a260dd525c446dd44b6ad6501af681f1249db7c53547e80df339d825255b88cf9877870200eed73e88341c61d1a204ba5a9d94a7.svg
