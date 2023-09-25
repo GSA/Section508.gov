@@ -391,7 +391,7 @@ develop:
         url: 'develop/universal-design/'
       - name: Video Training
         url: 'develop/universal-design-video-series/'
-        - name: Accessible Design Using USWDS
+      - name: Accessible Design Using USWDS
         url: 'develop/accessible-design-using-USWDS/'
   - name: Develop
     url: '#'
