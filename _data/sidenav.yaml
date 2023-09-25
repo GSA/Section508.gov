@@ -388,11 +388,11 @@ develop:
     url: '#'
     children:
       - name: Universal Design
-        url: 'develop/universal-design/'
+        url: develop/universal-design/
       - name: Video Training
-        url: 'develop/universal-design-video-series/'
-      - name: Accessible Design Using USWDS
-        url: 'develop/accessible-design-using-USWDS/'
+        url: develop/universal-design-video-series/
+      - name: Accessible Design Using the USWDS
+        url: develop/accessible-design-using-uswds/
   - name: Develop
     url: '#'
     children:
