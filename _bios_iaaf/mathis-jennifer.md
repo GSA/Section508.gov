@@ -1,8 +1,8 @@
 ---
-title: Jennfier Mathis
-bio_id: mathis-jennfier
-display_name: Jennfier Mathis
-first_name: Jennfier
+title: Jennifer Mathis
+bio_id: mathis-jennifer
+display_name: Jennifer Mathis
+first_name: Jennifer
 last_name: Mathis
 affiliation_long: 
 affiliation_short: 
@@ -10,6 +10,6 @@ position:
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/mathis-jennfier.jpg
-iaaf_years: 2023
+image_url: https://assets.section508.gov/files/bio-images/mathis-jennifer.jpg
+iaaf_years: 
 ---

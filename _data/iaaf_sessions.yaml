@@ -641,27 +641,27 @@ iaaf_2023:
             room: Training Room #1234
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: mcgowan-brianna #bio_id for this person 
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: wendy-cheng #bio_id for this person 
+                who: gary-morin #bio_id for this person 
+              - name: Presenter
+                who: dansby-dee
             downloads:
-              - link_name: Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)
-                file_name: Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Applied Acessibility Concepts'
             name_breakout: 'How to Use ART & SRT'
             track_id: day1breakout1b
             description: While video and multimedia can be great vehicles to communicate with the public and with internal audiences, making those videos fully accessible can be a challenge! This workshop will offer tips and tricks for generating audio described videos, including strategies for developing audio descriptions for both technical and general audiences.
             room: Training Room #5678
             roles: #list each roles as you intend the display on the page
-              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who:  lesley-earl #bio_id for this person 
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who:  wilson-alex #bio_id for this person 
               - name: Presenter
-                who: alison-lemon
+                who: mcgowan-brianne
               - name: Presenter
-                who: andrew-wiley
+                who: arthur-brunson
             downloads:
-              - link_name: Videos for All - IAAF 2022 (PPTX)
-                file_name: Videos%20for%20All%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 11:15:00
@@ -684,8 +684,8 @@ iaaf_2023:
               - name: Presenter
                 who: andrew-nielson
             downloads:
-              - link_name: The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)
-                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Applied Acessibility Concepts'
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
@@ -694,8 +694,8 @@ iaaf_2023:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: lesley-earl #bio_id for this person 
             downloads:
-              - link_name: Captioning Multimedia - IAAF 2022 (PPTX)
-                file_name: Captioning%20Multimedia%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
       - name: 'Lunch'
         type: break
         time_start: 2023-11-07 12:30:00
@@ -719,22 +719,22 @@ iaaf_2023:
               - name: Presenter
                 who: andrew-nielson
             downloads:
-              - link_name: The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)
-                file_name: The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Applied Acessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
             description: New to managing a 508 program? Not sure where to start? Feeling a bit overwhelmed? Remember, you don’t need to know everything on day one. In this session get inspired by hearing how Accessibility Programs, across agencies, use the Section 508 Playbook to learn, grow, and adapt it to their cultural and technical environment.
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: michael-horton #bio_id for this person 
+                who: sid-sharma #bio_id for this person 
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: elzi-erin #bio_id for this person 
               - name: Presenter
-                who: gary-morin
-              - name: Presenter
-                who: angela-watkins
+                who: mcnally-alexandriaå
             downloads:
-              - link_name: Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)
-                file_name: Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -757,8 +757,8 @@ iaaf_2023:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: regina-wendling #bio_id for this person 
             downloads:
-              - link_name: Creating Accessible PDF Forms - IAAF 2022 (PPTX)
-                file_name: Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Applied Acessibility Concepts'
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
@@ -775,8 +775,8 @@ iaaf_2023:
               - name: Panelist
                 who: angela-watkins
             downloads:
-              - link_name: 
-                file_name: #This file was rejected. Please confirm is in S3 before making live #
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -1199,7 +1199,7 @@ iaaf_2023:
         time_start: 2023-11-09 16:45:00
         time_end: 2023-11-09 18:00:00
         session_id: day3afterparty
-        subtitle: 'Connect with available hosts, presenters, and participants at the restaurant.'
+        subtitle: 'Connect with available hosts, presenters, and participants at a local restaurant.'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person

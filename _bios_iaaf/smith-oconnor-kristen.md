@@ -11,7 +11,7 @@ office: Office of Government-wide Policy
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/smith-oconnor-kristen.jpg
-iaaf_years: 1800, 2023
+iaaf_years: 2023
 ---
 Kristen Smith-O’Connor is a Senior ICT Accessibility Specialist with the Office of Government-wide Policy at the General Services Administration (GSA). Mrs. Smith-O’Connor draws on over twelve years of experience in digital accessibility, ranging from document remediation, to web/software testing, to accessibility program maturation and brings a wealth of knowledge to assist Federal Agencies in complying with Section 508. 
 

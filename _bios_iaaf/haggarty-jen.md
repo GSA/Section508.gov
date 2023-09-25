@@ -1,7 +1,7 @@
 ---
 title: Susan Haggerty
 bio_id: haggerty-susan
-display_name: Susan "Jen" Haggerty
+display_name: Susan 'Jen' Haggerty
 first_name: Jen
 last_name: Haggerty
 affiliation_long: 

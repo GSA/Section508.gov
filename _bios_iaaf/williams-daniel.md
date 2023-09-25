@@ -1,7 +1,7 @@
 ---
 title: Daniel Williams
 bio_id: williams-daniel
-display_name: Daniel "Dan" Williams
+display_name: Daniel 'Dan' Williams
 first_name: Dan
 last_name: Williams
 affiliation_long: General Services Administration
