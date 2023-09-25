@@ -124,4 +124,4 @@ The following resources were used in the creation of this resource:
     <li><a href="https://www.nvaccess.org/download/" target="_blank" class="usa-link--external">NVDA (free screen reader software similar to JAWS)</a></li>
 </ul>
 
-**Reviewed/Updated** September 2023
+**Reviewed/Updated:** September 2023
