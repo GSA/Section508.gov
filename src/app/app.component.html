@@ -24,6 +24,12 @@
                 </div>
                 <!-- Any content from the routing url will be displayed here -->
                 <router-outlet></router-outlet>
+                <!-- embedded video-->
+                <div class="margin-y-2">
+                    <video controls="controls" poster="https://assets.section508.gov/files/thumbnails/training-art-video-poster.png" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px">
+                        <source src="https://assets.section508.gov/files/art-introduction-oc.mp4" type="video/mp4" />
+                    </video>
+                </div>
                 <!-- Footer display-->
                 <div art-generic-text-layout="border" class="margin-top-5">
                     <div class="padding-x-2 padding-bottom-3 margin-top-3"  *ngIf="artContentDataService && artContentDataService.getFooter()">
