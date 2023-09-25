@@ -4,6 +4,7 @@ sidenav: true
 permalink: develop/accessible-design-using-uswds/
 type: develop
 title: "Accessible Design Using the US Web Design System (USWDS)"
+contributors: proctor-justen, gsa
 created:
 ---
 
