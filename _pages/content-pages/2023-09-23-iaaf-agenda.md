@@ -71,10 +71,10 @@ created: 2023-09-23
                       </div>
                     {% endfor %}
                   {% endif %}
-                  <!-- ROOM NAME -->
+                  <!-- LOCATION -->
                   {% if track.room != nil %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="session-type text-highlight margin-top-3">Room Name:</span>
+                      <span class="session-type text-highlight margin-top-3">Location:</span>
                     </div>
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
                         <span class="speaker-name">{{ track.room }}</span>
