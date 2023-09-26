@@ -619,7 +619,7 @@ iaaf_2023:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person 
-          - name:
+          - name: 
             who: aiken-brooke
       - name: 'Break'
         type: break
@@ -651,7 +651,7 @@ iaaf_2023:
             name_breakout: 'How to Use ART & SRT'
             track_id: day1breakout1b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who:  wilson-alex #bio_id for this person 
@@ -678,7 +678,7 @@ iaaf_2023:
             name_breakout: 'Section 508: Testing Tools & Microsoft Ease of Access Center'
             track_id: day1breakout2a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
@@ -693,7 +693,7 @@ iaaf_2023:
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: ring-donna #bio_id for this person 
@@ -719,7 +719,7 @@ iaaf_2023:
             name_breakout: 'Section 508: Common Issues for Documents & Applications'
             track_id: day1breakout3a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
@@ -734,7 +734,7 @@ iaaf_2023:
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: sid-sharma #bio_id for this person 
@@ -761,7 +761,7 @@ iaaf_2023:
             name_breakout: 'Presentation on Audio Descriptions'
             track_id: day1breakout4a
             description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: frith-chet #bio_id for this person
@@ -774,7 +774,7 @@ iaaf_2023:
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: watkins-angela #use bio_id 
@@ -821,7 +821,7 @@ iaaf_2023:
         description:
         room: 'Blair Auditorium' 
         roles: 
-          - name: Speaker #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: burns-sylvia #bio_id for this person 
       - name: 'General Session'
         type: general
@@ -832,16 +832,8 @@ iaaf_2023:
         description: 
         room: 'Blair Auditorium'
         roles: #list each roles as you intend the display on the page
-          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+          - name: Introduction #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: andrew-nielson #bio_id for this person 
-          - name: Panelist
-            who: 
-          - name: Panelist 
-            who:  
-          - name: Panelist 
-            who: 
-          - name: Panelist 
-            who: 
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
@@ -880,7 +872,7 @@ iaaf_2023:
             name_breakout: "GSA General Update"
             track_id: day2breakout1a
             description: Gain insights into the Government-wide IT Accessibility Program's achievements over the past year and get a glimpse of what the future holds - and how you can be part of our success.
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: tim-creagan #bio_id for this person 
@@ -899,7 +891,7 @@ iaaf_2023:
             name_breakout: 'User Research and Personas for BARD Mobile'
             track_id: day2breakout1b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: whittington-david #bio_id for this person 
@@ -916,7 +908,7 @@ iaaf_2023:
             name_breakout: 'Using USWDS Critical Checklists to Develop Accessibility Skills Across Government Teams'
             track_id: day2breakout1c
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: martin-beth #bio_id for this person 
@@ -945,7 +937,7 @@ iaaf_2023:
             name_breakout: "Shared Services Canada"
             track_id: day2breakout2a
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: nguyen-frances #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: andrew-nielson #bio_id for this person 
@@ -960,7 +952,7 @@ iaaf_2023:
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
             track_id: day2breakout2b
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: martin-beth #bio_id for this person 
@@ -973,7 +965,7 @@ iaaf_2023:
             name_breakout: 'Improving Digital Accessibility: A year long strategic plan to improve the accessibility of digital products'
             track_id: day2breakout2c
             description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            room: Room 2345 and through Webex
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: jolivette-tracy #bio_id for this person 
@@ -1027,7 +1019,8 @@ iaaf_2023:
         time_start: 2023-11-08 16:30:00
         time_end: 2023-11-08 18:00:00
         session_id: day3afterparty
-        subtitle: 'Connect with available hosts, presenters, and participants at a local restaurant.' # Connect with available hosts, presenters, and participants at Quincy Hall.<br><br>4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br>[https://www.quincyhallbar.com/](https://www.quincyhallbar.com/)
+        subtitle: Connect with available hosts, presenters, and participants at a local restaurant.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com/" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person            
@@ -1051,7 +1044,7 @@ iaaf_2023:
         room: 'Blair Auditorium' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: burns-slyvia #bio_id for this person 
+            who: sachin-pavithran #bio_id for this person 
       - name: 'Keynote'
         type: keynote
         time_start: 2023-11-09 10:15:00
@@ -1236,8 +1229,8 @@ iaaf_2023:
         time_start: 2023-11-09 16:45:00
         time_end: 2023-11-09 18:00:00
         session_id: day3afterparty
-        subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.<br><br>4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com/" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
-        location: Connect with available hosts, presenters, and participants at Quincy Hall.<br><br>4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com/" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
+        subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com/" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person
