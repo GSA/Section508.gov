@@ -4,7 +4,7 @@ sidenav: true
 permalink: develop/fonts-typography/
 type: develop
 title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
-contributors: bailey-bruce, usab
+contributors: usab
 ---
 In the realm of digital content creation, a frequently asked question is, “What does it mean for an accessible font to be accessible?”
 
