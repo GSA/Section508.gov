@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/laws-and-policies/
 type: manage
 title: 'IT Accessibility Laws and Policies'
-contributors: creagan, usab
+contributors: usab
 created: 2023-09-23
 redirect_from:
 - summary-section508-standards/
