@@ -11,7 +11,7 @@ description: Accessibility in Procurement guide developed by TTS to ensure acces
 ## Requests for Quotes (RFQs)/Request for Proposals(RFPs) - “Solicitations”
 When developing a solicitation, there are multiple ways to include Accessibility as an evaluation factor or required item in the vendor’s response. In addition to ART, which populates the language for a specific requirement, it is in the Government’s best interest to ensure the vendors understand the specific requirements as it relates to Accessibility. Plain Language is also an essential part of Accessibility in the procurement process.
  
-(Sample Evaluation criteria for Accessibility)
+(Sample Evaluation criteria for Accessibility)[^1]
 
 ### Solicitation
 GSA has a Solicitation Review Tool ([SRT](https://www.section508.gov/buy/solicitation-review-tool/)) which can be used to aid in this phase of the process. With SRT, agencies will have the [information to inform decisions](https://www.section508.gov/buy/solicitation-review-tool/) on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
@@ -72,13 +72,7 @@ The contractor is subject to regulations governing ICT. ICT must be accessible t
 
 An AQL is completed when testing is successfully completed using the contractor’s ACR.
 
-
+[^1]: To be developed.
 
 **Reviewed/Updated**:  September 2023
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.itic.org/policy/accessibility/vpat
- [3]: {{site.baseurl}}/sell
- [4]: {{site.baseurl}}/buy/request-accessibility-information
- [5]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
- 

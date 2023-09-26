@@ -52,9 +52,3 @@ Please provide a copy of the most updated version of the appropriate Voluntary P
 
 **Reviewed/Updated**:  September 2023
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://www.itic.org/policy/accessibility/vpat
- [3]: {{site.baseurl}}/sell
- [4]: {{site.baseurl}}/buy/request-accessibility-information
- [5]: https://www.sewp.nasa.gov/documents/Section_508_Guide_111821.pdf
- 
