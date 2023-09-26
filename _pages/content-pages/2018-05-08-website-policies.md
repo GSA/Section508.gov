@@ -5,6 +5,8 @@ permalink: website-policies/
 type: page
 title: 'Website Policies'
 created: 1525801797
+redirect_from: 
+- copyright/
 ---
 
 This page explains website policies, procedures, and required links for the Section508.gov website.
