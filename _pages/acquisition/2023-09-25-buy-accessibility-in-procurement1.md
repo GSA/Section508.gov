@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/accessibility-in-procurement-pre-solicitation1/
 type: acquisition
 title: 'Accessibility In Procurement I: Pre-Soliciation'
-contributors: proctor
+contributors: proctor, gsatts
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including pre-soliciation activities. 
 ---
 
@@ -29,15 +29,15 @@ In some instances, a particular dollar threshold will require higher-level appro
 The Information Technology (IT) office should be involved as early as possible to ensure all agency and federal-level approvals are met. Keep in mind, this process can be lengthy and impact the acquisition of a particular product, especially with regards to security requirements.
 
 ### Accessibility Requirements
-Before doing market research, understanding accessibility regulations will help you identify compliant products. An RFI can request a vendor to provide an updated [Voluntary Product Accessibility Template](https://www.itic.org/policy/accessibility/vpat) (VPAT®) or comparable Accessible Conformance Report (ACR). It may also be publicly available if a vendor opts to post it to its website.
+Before doing market research, understanding accessibility regulations will help you identify compliant products. An RFI can request a vendor to provide an updated [Voluntary Product Accessibility Template (VPAT®)](https://www.itic.org/policy/accessibility/vpat) or comparable Accessible Conformance Report (ACR). It may also be publicly available if a vendor opts to post it to its website.
 
 It is critical that one or more of the stakeholders be familiar with the VPAT® or ACR. An agency may have a point of contact who may serve as the Subject Matter Expert (SME) to review and comment on accessibility claims made by a vendor. This will be necessary during
-the process, especially evaluating accessibility during pre- and post-award. Currently, TTS and GSA 508 POCs are Dan Perkins (daniel.perkins@gsa.gov) and Chuck Popelka (charles.Popelka@gsa.gov).
+the process, especially evaluating accessibility during pre- and post-award. Currently, TTS and GSA 508 POCs are Dan Perkins (daniel.perkins@gsa.gov) and Chuck Popelka (charles.Popelka@gsa.gov). 
 
 ### VPAT® [Templates](https://www.itic.org/policy/accessibility/vpat)
-● [VPAT Revised Section 508 Edition (March 2022)](https://www.itic.org/dotAsset/353efda0-598d-4593-aa53-f4f1f0f61d82.doc)
-● [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
-● [VPAT WCAG Edition (March 2022)](https://www.itic.org/dotAsset/7edcd54d-c6a6-4649-8375-4a0f0c68eff2.doc)
+* [VPAT Revised Section 508 Edition (March 2022)(DOC)](https://www.itic.org/dotAsset/353efda0-598d-4593-aa53-f4f1f0f61d82.doc)
+* [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+* [VPAT WCAG Edition (March 2022) (DOC)](https://www.itic.org/dotAsset/7edcd54d-c6a6-4649-8375-4a0f0c68eff2.doc)
 
 ## Alternatives
 What if a product or service does not meet all of the Accessibility requirements? [Section E202.7 Best Meets](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions) of the Revised 508 Standards states that if one cannot find an accessible commercial solution, an agency should procure the ICT solution that *best meets* the standards consistent with business needs. If no technically acceptable alternative fully conforms to the Revised 508 Standards, select the alternative that best meets the standards when making an award, and request a “best meets” exception. Where product features or components are not fully accessible, the agency is required to make available, upon request, [an alternative means of accessing](https://www.section508.gov/buy/) the information or functions supported by the ICT. 

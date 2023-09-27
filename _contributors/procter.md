@@ -6,11 +6,11 @@ contributor_type: individual
 display_name: Justen Proctor
 first_name: Justen
 last_name: Proctor
-affiliation_short: GSA TTS
-affiliation_long: General Services Administration Technology Transformation Services
+affiliation_long: Technology Transformation Services (TTS) at the General Services Administration
+affiliation_short: GSA
 position: Contracting Officer
 location: Washington, DC 
-image_url: 
+image_url: https://assets.section508.gov/files/bio-images/proctor-justen.jpg
 email: justen.proctor@gsa.gov
 permalink: /:collection/:name:output_ext
 ---
