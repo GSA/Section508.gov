@@ -1,20 +1,20 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/accessibility-in-procurement-pre-solicitation2/
+permalink: buy/accessibility-in-procurement-pre-solicitation-2/
 type: acquisition
 title: 'Accessibility In Procurement II: Solicitation & Post-Solicitation'
 contributors: proctor, gsatts
 description: Accessibility in Procurement guide developed by TTS to ensure accessibility considerations are taken into account when purchasing ICT; including solicitation and post-soliciation activities. 
 ---
 
-## Requests for Quotes (RFQs)/Request for Proposals(RFPs) - “Solicitations”
+## Requests for Quotes (RFQs)/Request for Proposals (RFPs) - “Solicitations”
 When developing a solicitation, there are multiple ways to include Accessibility as an evaluation factor or required item in the vendor’s response. In addition to ART, which populates the language for a specific requirement, it is in the Government’s best interest to ensure the vendors understand the specific requirements as it relates to Accessibility. Plain Language is also an essential part of Accessibility in the procurement process.
  
 (Sample Evaluation criteria for Accessibility)[^1]
 
 ### Solicitation
-GSA has a Solicitation Review Tool ([SRT](https://www.section508.gov/buy/solicitation-review-tool/)) which can be used to aid in this phase of the process. With SRT, agencies will have the [information to inform decisions](https://www.section508.gov/buy/solicitation-review-tool/) on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
+GSA has a Solicitation Review Tool ([SRT](https://www.section508.gov/buy/solicitation-review-tool/)) which can be used to aid in this phase of the process. With SRT, agencies will have the information to inform decisions on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
 
 ### Section 508 Language
 TTS has its own Section 508 language, and the acquisition team is advised to ensure it is using the most recent version. It may be tailored accordingly. 
@@ -44,16 +44,16 @@ The Government also has the option to use a vendor’s “sandbox” or tool to 
 Complete each Voluntary Procurement Accessibility Template (**VPAT**®) or similar Accessibility Conformance Report (ACR) in accordance with the instructions provided in the appropriate template. Each ACR must address the applicable Section 508 requirements referenced in the Work Statement. Each ACR shall state exactly how the ICT meets the applicable standards in the remarks/explanations column, or through additional narrative. All "Not Applicable" (N/A) responses must be explained in the remarks/explanations column or through additional narrative. Address each standard individually and with specificity, and clarify whether conformance is achieved throughout the entire ICT Item (for example - user functionality, administrator functionality, and reporting), or only in limited areas of the ICT
 Item.
 
-<ol>
+<ol type="i">
     <li>Provide a description of the evaluation methods used to support Section 508 conformance claims. The agency reserves the right, prior to making an award decision, to perform testing on some or all of the vendor’s proposed ICT items to validate Section 508 conformance claims made in the ACR.</li>
-        <ol>
+        <ol type="A">
         <li> Describe your approach to incorporating universal design principles to ensure ICTproducts or services are designed to support disabled users.</li>
         <li> Describe plans for features that do not fully conform to the Section 508 Standards.</li>
         <li> Describe “typical” user scenarios and tasks, including individuals with disabilities, to ensure fair and accurate accessibility testing of the ICT product or service being offered.</li>
         </ol>
 </ol>
 
-Prior to acceptance, the Government reserves the right to perform testing on required ICT items to validate the contract holder’s Section 508 conformance claims. If the Government determines that Section 508 conformance claims provided by the contract holder represent a higher level of conformance than what is actually provided to the agency, the Government shall, at its option, [require the contract holder to remediate the item](https://nitaac.nih.gov/sites/default/files/2021-08/instructions-and-evaluations-code-development-far16.5-20210506-508-compliant-0.docx) to align with the contract holder’s original Section 508 conformance claims prior to acceptance.
+Prior to acceptance, the Government reserves the right to perform testing on required ICT items to validate the contract holder’s Section 508 conformance claims. If the Government determines that Section 508 conformance claims provided by the contract holder represent a higher level of conformance than what is actually provided to the agency, the Government shall, at its option, <a href="https://nitaac.nih.gov/sites/default/files/2021-08/instructions-and-evaluations-code-development-far16.5-20210506-508-compliant-0.docx" target="_blank" class="usa-link--external">require the contract holder to remediate the item (DOCX)</a> to align with the contract holder’s original Section 508 conformance claims prior to acceptance.
 
 ## Post-Award
 This phase is one that may be overlooked, especially in terms of Accessibility. Maintaining accessibility is crucial as simple updates or modifications can render a product inaccessible or broken.

@@ -459,9 +459,9 @@ acquisition:
         url: '#'
         grandchildren:
           - name: "Accessibility In Procurement I: Pre-Soliciation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation1/'
-          - name: "Accessibility In Procurement I: Soliciation & Post-Solicitation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation2/'         
+            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
+          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
   - name: Sell
     url: '#'
     children:
