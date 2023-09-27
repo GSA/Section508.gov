@@ -78,7 +78,7 @@ If you are interested in presenting a workshop or discussion, please complete th
 
 This year's IAAF will be held November 7-9 and began with a full day of workshops on Tuesday followed by two, full-day sessions on Wednesday and Thursday featuring the usual mix of presenters and speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
 
-For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/agenda-2023/">2023 IAAF Agenda</a>.
+For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>.
 
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation will be provided in all plenary and breakout sessions, and Real Time Captioning (CART) will be available in all sessions with URL for mobile or computer viewing.
