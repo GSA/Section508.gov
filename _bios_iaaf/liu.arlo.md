@@ -4,9 +4,9 @@ bio_id: liu-arlo
 display_name: Arlo Liu
 first_name: Arlo
 last_name: Liu
-affiliation_long: 
-affiliation_short: 
-position: 
+affiliation_long: Environmental Protection Agency
+affiliation_short: EPA
+position: Web Content Management
 office: 
 location: 
 email: 

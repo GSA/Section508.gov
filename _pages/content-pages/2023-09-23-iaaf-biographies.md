@@ -16,7 +16,7 @@ created: 2023-09-23
   {% assign last_initial = "" %}
   {% assign this_year = 2023 %}
   {% for bio in site.bios_iaaf %}
-    {% if bio.iaaf_years == this_year %}
+    {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year %}
       {% assign last_initial_new = bio.last_name | slice: 0 %}
       {% assign last_initial_new = last_initial_new | upcase %}
       {% if last_initial_new != last_initial %}
@@ -35,7 +35,7 @@ created: 2023-09-23
 {% assign last_initial = "" %}
 {% assign this_year = 2023 %}
 {% for bio in site.bios_iaaf %}
-  {% if bio.iaaf_years == this_year %}
+  {% if bio.iaaf_years == this_year or bio.iaaf_years contains this_year %}
     {% assign last_initial_new = bio.last_name | slice: 0 %}
     {% assign last_initial_new = last_initial_new | upcase %}
     {% if last_initial_new != last_initial %}

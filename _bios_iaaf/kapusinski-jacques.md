@@ -4,8 +4,8 @@ bio_id: kapusinski-jacques
 display_name: Jacques Kapusinski
 first_name: Jacques
 last_name: Kapusinski
-affiliation_long: 
-affiliation_short: 
+affiliation_long: Environmental Protection Agency
+affiliation_short: EPA
 position: 
 office: 
 location: 

@@ -6,7 +6,7 @@ first_name: Danny
 last_name: Guzman
 affiliation_long: Federal Deposit Insurance Corporation
 affiliation_short: FDIC
-position: 
+position: Section 508 Subject Matter Specialist
 office: 
 location: Arlington, VA
 email: 

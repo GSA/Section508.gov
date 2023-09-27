@@ -4,8 +4,8 @@ bio_id: jolivette-tracy
 display_name: Tracy Jolivette
 first_name: Tracy
 last_name: Jolivette
-affiliation_long: 
-affiliation_short: 
+affiliation_long: United States Geological Survey
+affiliation_short: USGS 
 position: 
 office: 
 location: 
