@@ -68,6 +68,12 @@ title: Section508.gov Content Contribution
                                     <li class="margin-y-1"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                                 {% endif %}
                             {% endfor %}
+                            {% for posts in site.posts %}
+                                {% assign contribs = posts.contributors | downcase %}
+                                {% if contribs contains this_agency %}
+                                    <li class="margin-y-1"><a href="{{ site.baseurl }}{{ posts.url }}">{{ posts.title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
                         </ul>
                     </div>
                 {% endif %}

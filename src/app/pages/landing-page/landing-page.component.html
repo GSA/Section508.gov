@@ -19,3 +19,10 @@
     </div>
 </section>
 
+<div class="margin-top-5" *ngIf="landingPageService && landingPageService.getVideoFooter()">
+    <art-generic-text [title]="landingPageService.getVideoFooter().title" class="margin-top-3">
+        <div class="margin-top-2">
+            <div [innerHTML]="landingPageService.getVideoFooter().data"></div>
+        </div>
+    </art-generic-text>
+</div>

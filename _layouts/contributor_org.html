@@ -22,7 +22,7 @@ layout: base
 
         {% if page.image_url %}
         <div>
-          <img src="{{page.image_url}}" class="circle-card" alt="Photo: {{ page.display_name }}">
+          <img src="{{page.image_url}}" height="160px" alt="Photo: {{ page.display_name }}">
         </div>
         {% endif %}
         <h1>{{ page.display_name }} ({{ page.affiliation_short }})</h1>
@@ -35,6 +35,12 @@ layout: base
         {% for pages in site.pages %}
           {% if pages.contributors contains this_contributor %}
               <li class="margin-y-1"><a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a>
+              </li>
+          {% endif %}
+        {% endfor %}
+        {% for posts in site.posts %}
+          {% if posts.contributors contains this_contributor %}
+              <li class="margin-y-1"><a href="{{ site.baseurl }}{{ posts.url }}">{{ posts.title }}</a>
               </li>
           {% endif %}
         {% endfor %}

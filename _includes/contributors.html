@@ -31,7 +31,7 @@
     {% for contributor in site.contributors %}
       {% if page_contributors contains contributor.contributor_id and contributor.contributor_type == org %}
         <li class="margin-bottom-1">
-            <img src="{{ contributor.image_url }}" class="circle-6" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
+            <img src="{{ contributor.image_url }}" height="48px" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
             <a href="{{ site.baseurl }}{{ contributor.url }}" class="margin-left-1"> {{ contributor.display_name }}</a>
         </li>
       {% endif %}
