@@ -49,6 +49,12 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 * * *
 
+## Design with _Everyone_ in Mind
+Usability testing (UT) helps you gather quantitative and qualitative data from representative users - including those with disabilities. 
+User testing and design personas should include people with disabilities and combined with evaluating conformance to Section 508 Standards and in accordance with other accessibility guidelines to identify a complete set of usability issues and opportunities for improvement. 
+
+See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/) for more information on including accessibility considerations in your designs. 
+
 ## Learn More About Universal Design
 
   * [Universal Design - What is it?][1]

@@ -16,4 +16,4 @@ At its 20 centers and facilities across the country – and the only National La
 
 NASA also leads a Moon to Mars exploration approach, which includes working with U.S. industry, international partners, and academia to develop new technology, and send science research and soon humans to explore the Moon on Artemis missions that will help prepare for human exploration of the Red Planet. In addition to those major missions, the agency shares what it learns so that its information can make life better for people worldwide. For example, companies use NASA discoveries and technologies to create new products for the public. To ensure future success for the agency and the nation, NASA also supports education efforts in STEM with an emphasis on increasing diversity in our future workforce. 
 
-Source: [https://www.nasa.gov/about/index.html](https://www.nasa.gov/about/index.html)
+Source: [https://www.nasa.gov/about/](https://www.nasa.gov/about/index.html)

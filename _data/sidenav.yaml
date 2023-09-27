@@ -402,7 +402,7 @@ develop:
         url: develop/applicability-conformance/
       - name: Develop Web Content
         url: develop/web-content/
-      - name: Incorporating accessibility conformance validation within development
+      - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/     
 test:
   - name: Testing
@@ -414,6 +414,8 @@ test:
         url: 'test/testing-overview/'
       - name: Trusted Tester and ICT Testing Baseline
         url: 'test/trusted-tester/'
+      - name: Tips for Usability Testing with People with Disabilities
+        url: 'test/usability-testing-with-people-with-disabilities/'
   - name: Electronic Documents
     url: '#'
     children:

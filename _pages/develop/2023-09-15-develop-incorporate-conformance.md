@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: develop/incorporating-accessibility-conformance/
 type: develop
-title: "Effective methods and tools for incorporating accessibility conformance validation within development processes"
+title: "Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes"
 created: 20230915
 ---
 
@@ -89,7 +89,7 @@ Seven phases of the development process are shown below<sup><strong><a href="#fn
 <li>Identify <a href="{{site.baseurl}}/test/testing-overview/">automated and manual accessibility testing needs</a>. </li> <ul>
 <li>Integrate accessibility testing into development workflows. </li>
 <li>See <a href= "#Design">Design</a> where CI/CD is specifically mentioned above. </li> </ul>
-<li>Include user testing and involve people with disabilities in testing efforts. </li>
+<li>Include user testing and <a href="{{site.baseurl}}/test/usability-testing-with-people-with-disabilities/">involve people with disabilities</a> in testing efforts.</li>
 <li>Implement an accessibility-specific defect tracking system to document, prioritize, and manage accessibility issues throughout the development life cycle. This system should include details on issue severity, location, impacted content, and suggested remediation strategies. </li>
 <li>Also see <a href= "#Design">Design</a> above. </li> </ol>
 </div>
