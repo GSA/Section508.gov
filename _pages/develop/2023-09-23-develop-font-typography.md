@@ -12,7 +12,7 @@ First, neither Web Content Accessibility Guidelines (WCAG) nor Section 508 speci
 
 An accessible font means using a typeface designed for easy reading by a diverse audience, including individuals with visual impairments such as low vision or reading disability such as dyslexia.  Accessible typography ensures that textual information is accessible to all users, irrespective of their abilities or disabilities.
 
-## What is in “The Law” about Typography?
+## What is in Regulation about Typography?
 Before delving into recommendations from experts found on the internet, let’s explore the Section 508 Standards and other regulations that help authors choose their text.
 
 ### Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA)
@@ -24,7 +24,7 @@ The ADA and ABA accessibility standards require sans-serif fonts in a few places
 
 ### Section 508 Standards
 <ul>
-    <li><a href="https://www.access-board.gov/ict/#402.4" class="usa-link--external text-top">402.4 Characters on Display Screens [for ICT with closed functionality]:</a> At least one mode of characters displayed on the screen should be in a sans serif font.  Where ICT does not provide a screen enlargement feature, characters should be 3/16 inch (4.8 mm) high at a minimum based on the uppercase letter “I.”  Characters should contrast their background with either light characters on a dark background or dark characters on a light background.</li>
+    <li><a href="https://www.access-board.gov/ict/#402.4" class="usa-link--external text-top">402.4 Characters on Display Screens [for ICT with closed functionality]:</a> At least one mode of characters displayed on the screen shall be in a sans serif font. Where ICT does not provide a screen enlargement feature, characters shall be 3/16 inch (4.8 mm) high minimum based on the uppercase letter “I”. Characters shall contrast with their background with either light characters on a dark background or dark characters on a light background.</li>
 </ul>
 
 ### Why Sans Serif?
