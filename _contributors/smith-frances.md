@@ -11,6 +11,6 @@ affiliation_long: United States Forest Service
 position: Visual Information Specialist
 location: Fort Collins, CO
 email: frances.smith@usda.gov
-image_url: https://assets.section508.gov/files/bio-images/smith-frances.jpg
+image_url: https://assets.section508.gov/files/bio-images/blank-profile.jpg
 permalink: /:collection/:name:output_ext
 ---
