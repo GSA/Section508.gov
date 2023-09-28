@@ -390,7 +390,9 @@ develop:
       - name: Universal Design
         url: develop/universal-design/
       - name: Video Training
-        url: develop/universal-design-video-series/
+        url: 'develop/universal-design-video-series/'
+      - name: Accessible Fonts and Typography  
+        url:  'develop/fonts-typography/'
       - name: Accessible Design Using the USWDS
         url: develop/accessible-design-using-uswds/
   - name: Develop
