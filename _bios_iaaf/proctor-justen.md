@@ -2,13 +2,13 @@
 title: Justen Proctor
 bio_id: proctor-justen
 display_name: Justen Proctor
-first_name: Justen
+first_name: Justen 
 last_name: Proctor
-affiliation_long: General Services Administration
 affiliation_short: GSA
-position: Senior Contracting Officer
-office: Technology Transformation Services
-location: Washington, DC
+affiliation_long: General Services Administration
+position: Senior Contracting Officer 
+office: Technology Transformation Services 
+location: Washington, DC and Boston, MA
 email: 
 image_url: https://assets.section508.gov/files/bio-images/proctor-justen.jpg
 iaaf_years: 2023

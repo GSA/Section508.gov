@@ -596,4 +596,635 @@ iaaf_2022:
         subtitle: 'Stay online to connect with hosts, presenters, and participants from across the country.'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: #bio_id for this person             
+            who: #bio_id for this person  
+iaaf_2023:
+  - day: 1
+    time_start: 2023-11-07 09:00:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2023-11-07 16:15:00
+    sessions: 
+      - name: 'Registration'
+        type: break
+        time_start: 2023-11-07 09:00:00
+        time_end: 2023-11-07 10:00:00
+        session_id: day1reg
+        description:
+        room: 'Main Lobby'
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2023-11-07 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2023-11-07 10:20:00
+        session_id: day1welcome
+        description:
+        room: 'Blair Auditorium'
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person 
+          - name: 
+            who: aiken-brooke
+      - name: 'Break'
+        type: break
+        time_start: 2023-11-07 10:20:00
+        time_end: 2023-11-07 10:30:00
+        session_id: day1break0
+        description: 
+        room:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2023-11-07 10:30:00
+        time_end: 2023-11-07 11:15:00
+        session_id: day1breakout1
+        tracks:
+          - name: 'Track A: Accessibility Fundamentals '
+            name_breakout: 'Designing PowerPoint Templates for Accessibility'
+            track_id: day1breakout1a
+            description: This course is designed to help students become familiar with the PowerPoint layout, placeholders, and the many benefits of designing for accessibility. In addition, students will learn how to apply the 508 requirements and use the built-in Microsoft Accessibility Checker.
+            room: Training Room and via Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: gary-morin #bio_id for this person 
+              - name: Presenter
+                who: dansby-dee
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Applied Acessibility Concepts'
+            name_breakout: 'How to Use ART & SRT'
+            track_id: day1breakout1b
+            description: "During this demo, we will introduce the enhanced Accessibility Requirements Tool (ART), a step-by-step guide to help you easily identify relevant accessibility requirements for Information and Communication Technology (ICT) from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all."
+            room: Training Room and via Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who:  wilson-alex #bio_id for this person 
+              - name: Presenter
+                who: mcgowan-brianna
+              - name: Presenter
+                who: brunson-arthur
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2023-11-07 11:15:00
+        time_end: 2023-11-07 11:30:00
+        session_id: day1break1
+        description:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2023-11-07 11:30:00
+        time_end: 2023-11-07 12:30:00
+        session_id: day1breakout2
+        tracks:
+          - name: 'Track A: Accessibility Fundamentals'
+            name_breakout: 'Section 508: Testing Tools & Microsoft Ease of Access Center'
+            track_id: day1breakout2a
+            description: "During this session you will learn about several free testing tools that you can use to ensure your ICT products are Section 508 Compliant. We will give an overview of Microsoft’s Ease of Access, JAWS and NVDA, the Color Contrast Analyzer, ANDI, and Microsoft Accessibility Insights. Please see the PPT presentation to download these tools in advance if you would like to follow along."
+            room: Training Room Only
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: aiken-brooke #bio_id for this person 
+              - name: Presenter
+                who: meltz-jennfier
+              - name: Presenter
+                who: guzman-danny
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Applied Acessibility Concepts'
+            name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
+            track_id: day1breakout2b
+            description: 
+            room: Training Room and via Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: ring-donna #bio_id for this person 
+              - name: Presenter
+                who: crowell-pierce
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2023-11-07 12:30:00
+        time_end: 2023-11-07 14:00:00
+        session_id: day1break2
+        description:
+        room: FDIC's 1st Floor Cafeteria or Local Restaurant
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2023-11-07 14:00:00
+        time_end: 2023-11-07 14:45:00
+        session_id: day1breakout3
+        tracks:
+          - name: 'Track A: Accessibility Fundamentals'
+            name_breakout: 'Section 508: Common Issues for Documents & Applications'
+            track_id: day1breakout3a
+            description: 
+            room: Training Room Only
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: aiken-brooke #bio_id for this person 
+              - name: Presenter
+                who: greener-matthew
+              - name: Presenter
+                who: vallarta-alfred
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Applied Acessibility Concepts'
+            name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
+            track_id: day1breakout3b
+            description: "Applying both automated and manual testing methods is necessary to meet 508 compliance - but where to begin? What tools and methods to choose? In this session, ONRR will present what they've learned from applying a variety of both automated and manual testing methods &#59; the methodology and advantages of each tool, what each one does not detect, and how they have incorporated the results into their Agile development cycle to make improvements to their websites."
+            room: Training Room and via Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: sharma-siddhartha #bio_id for this person 
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: elzi-erin #bio_id for this person 
+              - name: Presenter
+                who: mcnally-alexandria
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2023-11-07 14:45:00
+        time_end: 2023-11-07 15:00:00
+        session_id: day1break3
+        description:
+      - name: 'Workshop'
+        type: breakout
+        time_start: 2023-11-07 15:00:00
+        time_end: 2023-11-07 15:45:00
+        session_id: day1breakout4
+        tracks:
+          - name: 'Track A: Accessibility Fundamentals'
+            name_breakout: 'Presentation on Audio Descriptions'
+            track_id: day1breakout4a
+            description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
+            room: Training Room Only
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: frith-chet #bio_id for this person
+              - name: Presenter 
+                who: patrick-sheehan
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Applied Acessibility Concepts'
+            name_breakout: 'Accessible Customer Experience & Shared Services'
+            track_id: day1breakout4b
+            description: 
+            room: Training Room Only
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: angela-watkins #use bio_id 
+              - name: Panelist
+                who: rodriguez-karla
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2023-11-07 14:45:00
+        time_end: 2023-11-07 15:00:00
+        session_id: day1break3
+        description:
+        room: 'Return to Blair Auditorium'
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2023-11-07 16:00:00
+        time_end: 2023-11-07 16:15:00
+        session_id: day1close
+        description: 
+        room: 'Blair Auditorium and via Webex'
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: frith-chet #use bio_id
+          - name: 
+            who: levy-alison
+  - day: 2
+    time_start: 2023-11-08 09:00:00
+    time_end: 2023-11-08 16:30:00
+    sessions: 
+      - name: 'Registration'
+        type: break
+        time_start: 2023-11-08 09:00:00
+        time_end: 2023-11-08 10:00:00
+        session_id: day2reg
+        description:
+        room: 'Main Lobby'
+      - name: 'Welcome'
+        type: welcome
+        time_start: 2023-11-08 10:00:00
+        time_end: 2023-11-08 10:15:00
+        session_id: day2welcome
+        description:
+        room: 'Blair Auditorium' 
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: burns-sylvia #bio_id for this person 
+      - name: 'General Session'
+        type: general
+        time_start: 2023-11-08 10:15:00
+        time_end: 2023-11-08 11:15:00
+        session_id: day2general1
+        subtitle: "Keynote Panel Discussion"
+        description: 
+        room: 'Blair Auditorium'
+        roles: #list each roles as you intend the display on the page
+          - name: Introduction #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: andrew-nielson #bio_id for this person 
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-08 11:15:00
+        time_end: 2023-11-08 11:25:00
+        session_id: day2break1
+        description:
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2023-11-08 11:25:00
+        time_end: 2023-11-08 12:10:00
+        session_id: day2keynote
+        description: 
+        room: 'Blair Auditorium'
+        roles: #list each roles as you intend the display on the page
+          - name: # Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: #frith-chet #bio_id for this person 
+          - name: #Speaker
+            who: #andrew-nielson
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Lunch/Exhibits'
+        type: break
+        time_start: 2023-11-08 12:10:00
+        time_end: 2023-11-08 13:30:00
+        session_id: day2break2
+        description:
+        room: FDIC's 1st Floor Cafeteria or Local Restaurant        
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2023-11-08 13:30:00
+        time_end: 2023-11-08 14:15:00
+        session_id: day2breakout1
+        tracks:
+          - name: 'Track A: Government Operations'
+            name_breakout: "GSA General Update"
+            track_id: day2breakout1a
+            description: "Gain insights into the Government-wide IT Accessibility Program's achievements over the past year and get a glimpse of what the future holds - and how you can be part of our success."
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: tim-creagan #bio_id for this person 
+              - name: Panelist 
+                who: andrew-nielson 
+              - name: Panelist
+                who: michael-horton
+              - name: Panelist
+                who: smith-oconnor-kristen
+              - name: Panelist
+                who: wilson-alex                                 
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Interactive & Emerging Technologies '
+            name_breakout: 'User Research and Personas for BARD Mobile'
+            track_id: day2breakout1b
+            description: "The National Library Service for the Blind and Print Disabled's BARD Mobile apps provide access to tens of thousands of books to patrons with disabilities including blindness, low-vision, cognitive, and print disabilities. Over the last 3 years, a cross-department team at the Library has conducted user research and developed personas to improve BARD Mobile and other NLS services. In this presentation, we will present the resulting persona and talk about what we learned about the diverse needs of NLS patrons."
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: whittington-david #bio_id for this person 
+              - name: Presenter 
+                who: armstrong-willa
+              - name: Presenter
+                who: kim-julia 
+              - name: Presenter 
+                who: stengel-wendy
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track C: Management & Leadership Principles in Accessibility'
+            name_breakout: 'Using USWDS Critical Checklists to Develop Accessibility Skills Across Government Teams'
+            track_id: day2breakout1c
+            description: In this session, members of the U.S. Web Design System core team will share plain-language checklists they're developing for checking the accessibility of individual components (the building blocks of websites). They'll show how any agency team — technical or not — can use these checklists to perform baseline manual accessibility testing (like keyboard testing, screen reader testing, mobile testing, and zoom magnification testing) on their own sites. They will also describe their iterative design and development process for these checklists, including content development and UX research.
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: martin-beth #bio_id for this person 
+              - name: Panelist 
+                who: cole-amy
+              - name: Panelist 
+                who: contrino-jacline
+              - name: Panelist 
+                who: williams-daniel
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-08 14:15:00
+        time_end: 2023-11-08 14:25:00
+        session_id: day2break3
+        description:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2023-11-08 14:25:00
+        time_end: 2023-11-08 15:10:00
+        session_id: day2breakout2
+        tracks:
+          - name: 'Track A: Government Operations'
+            name_breakout: "Shared Services Canada"
+            track_id: day2breakout2a
+            description:  
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: nguyen-frances #bio_id for this person 
+              - name: Panelist
+                who: glick-stal-leah
+              - name: Panelist
+                who: rolleman-benjamin                           
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Interactive & Emerging Technologies '
+            name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
+            track_id: day2breakout2b
+            description:  
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: martin-beth #bio_id for this person 
+              - name: Presenter 
+                who: udoewa-victor
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track C: Management & Leadership Principles in Accessibility'
+            name_breakout: 'Improving Digital Accessibility: A year long strategic plan to improve the accessibility of digital products'
+            track_id: day2breakout2c
+            description:  
+            room: Training Room and through Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: jolivette-tracy #bio_id for this person 
+              - name: panelist
+                who: dearie-jessica
+              - name: panelist                
+                who: mosuela-joanne
+              - name: panelist                
+                who: kapusinski-jacques
+              - name: panelist                
+                who: liu-arlo
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-08 15:10:00
+        time_end: 2023-11-08 15:20:00
+        session_id: day2break4
+        description:
+        room: Return to Blair Auditorium
+      - name: 'General Session'
+        type: general
+        time_start: 2023-11-08 15:20:00
+        time_end: 2023-11-08 16:20:00
+        session_id: day2general1
+        subtitle: "Real Talk- A Conversation with Section 508 Program Managers"
+        description: Section 508 of the Rehabilitation Act requires the U.S. Federal Government to buy, build, and implement Information and Communication Technology (ICT) that is accessible to all its employees and members of the public. Section 508 Program Managers are responsible for a wide array of functions ensuring digital accessibility through ICT acquisition, development, electronic content creation, agency policy, compliance enforcement, outreach and training, and much more. <br><br>Join us to hear this experienced panel share its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.
+        room: 'Blair Auditorium'
+        roles: #list each roles as you intend the display on the page
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: betsy-sirk
+          - name: Panelist
+            who: sharma-siddhartha
+          - name: Panelist 
+            who: mark-urban
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2023-11-08 16:20:00
+        time_end: 2023-11-08 16:30:00
+        session_id: day2close
+        description: 
+        room: Return to Blair Auditorium
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: frith-chet #use bio_id
+      - name: 'IAAF "After Party"' 
+        type: welcome
+        time_start: 2023-11-08 16:30:00
+        time_end: 2023-11-08 18:00:00
+        session_id: day3afterparty
+        subtitle: Connect with available hosts, presenters, and participants at a local restaurant.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: #bio_id for this person            
+  - day: 3
+    time_start: 2023-11-09 09:00:00
+    time_end: 2023-11-09 16:30:00
+    sessions: 
+      - name: 'Registration'
+        type: break
+        time_start: 2023-11-09 09:00:00
+        time_end: 2023-11-09 10:00:00
+        session_id: day3reg
+        description:
+        room: 'Main Lobby'
+      - name: 'Welcome'
+        type: welcome
+        time_start: 2023-11-09 10:00:00
+        time_end: 2023-11-09 10:15:00
+        session_id: day3welcome
+        description:
+        room: 'Blair Auditorium' 
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sachin-pavithran #bio_id for this person 
+      - name: 'Keynote'
+        type: keynote
+        time_start: 2023-11-09 10:15:00
+        time_end: 2023-11-09 11:15:00
+        session_id: day3keynote
+        description: 
+        subtitle: A Fireside Chat with Accessibility Leaders
+        room: 'Blair Auditorium'
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: levy-alison #bio_id for this person 
+          #- name: Panelist
+          #  who: brewer-judy
+          #- name: Panelist
+          #  who: katy-kale
+          - name: Panelist
+            who: mathis-jennifer
+          #- name: Panelist
+          #  who: sachin-pavithran
+        downloads:
+          - link_name: 
+            file_name:
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-09 11:15:00
+        time_end: 2023-11-09 11:30:00
+        session_id: day3break1
+        description:
+      - name: 'General Session'
+        type: general
+        time_start: 2023-11-09 11:30:00
+        time_end: 2023-11-09 12:30:00
+        session_id: day3general1
+        subtitle: "Co-sponsor Remarks"
+        description: 
+        room: 'Blair Auditorium and via Webex'
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: #bio_id for this person 
+      - name: 'Lunch/Exhibits'
+        type: break
+        time_start: 2023-11-09 12:30:00
+        time_end: 2023-11-09 13:30:00
+        session_id: day3break2
+        description:
+        room: FDIC's 1st Floor Cafeteria or Local Restaurant        
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2023-11-08 13:30:00
+        time_end: 2023-11-08 14:20:00
+        session_id: day3breakout1
+        tracks:
+          - name: 'Track A: Government Operations'
+            name_breakout: "Procuring Accessible ICT"
+            track_id: day3breakout1a
+            description: 
+            room: 'Breakout Room and via Webex'
+            roles: #list each roles as you intend the display on the page
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: proctor-justen #bio_id for this person                              
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Interactive & Emerging Technologies '
+            name_breakout: 'AI-generated Alt-text: The future of Image Accessibility?'
+            track_id: day3breakout1b
+            description: "What happens when you ask a robot to write your alt-text? Can commercial products available today do a competent job? We tasked several mass market AI computer vision models with writing quality alt-text for different types of images commonly found on federal websites. Then we compared the output from computers, experienced alt-text writers, and inexperienced alt text writers. Who did it best? Attend this session to learn what worked, what didn’t, and what surprised us. (No prior AI knowledge required.)"
+            room: 'Breakout Room and via Webex' 
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: haggerty-susan #bio_id for this person 
+              - name: Presenters
+                who: larrimore-laura
+              - name: Presenters
+                who: verigan-teresa
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track C: Management & Leadership Principles in Accessibility'
+            name_breakout: 'Should You Compromise on Your Greatest Abilities When You Have a Disability?'
+            track_id: day3breakout1c
+            description: The career journey of one individual from linguist to accommodations specialist.
+            room: 'Breakout Room and via Webex'
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: aiken-brooke #bio_id for this person 
+              - name: Speaker 
+                who: shah-rajiv
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-08 14:20:00
+        time_end: 2023-11-08 14:30:00
+        session_id: day3break3
+        description:
+      - name: 'Breakout Session'
+        type: breakout
+        time_start: 2023-11-08 14:30:00
+        time_end: 2023-11-08 15:15:00
+        session_id: day3breakout2
+        tracks:
+          - name: 'Track A: Government Operations'
+            name_breakout: "A Retrospective on the Annual Section 508 Assessment"
+            track_id: day3breakout2a
+            description: "Did the depth of detail in the Section 508 Assessment criteria catch you off guard? Listen to how one agency seized this assessment as a chance to enhance the quality of the products they procure, create, and employ."
+            room: 'Breakout Room and via Webex'
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: michael-horton #bio_id for this person
+              - name: Presenter
+                who: kate-sweeney 
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track B: Interactive & Emerging Technologies '
+            name_breakout: 'An overview of new web accessibility requirements from WCAG 2.2 and 2.1'
+            track_id: day3breakout2b
+            description: "WCAG 2.0 Level AA became the web accessibility requirement under Section 508 in March of 2017.  WCAG 2.1 became a finalized standard in June of 2018.  The Europe Union has been using WCAG 2.1 for five years.  WCAG 2.2 is on the cusp of release.  If your agency is using only WCAG 2.0 Level AA to audit your web properties, what accessibility features are you missing?  Bruce and Rachael will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2."
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: tim-creagan #bio_id for this person 
+              - name: Presenter
+                who: bruce-bailey
+              - name: Presenter
+                who: bradley-montgomery-rachael
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+          - name: 'Track C: Management & Leadership Principles in Accessibility'
+            name_breakout: 'Cultivating & Managing an Inclusive Culture'
+            track_id: day3breakout3c
+            description: 
+            room: Virtual Presentation via Webex
+            roles: #list each roles as you intend the display on the page
+              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: sharma-siddhartha #bio_id for this person 
+              - name: Presenter 
+                who: faied-maroya
+              - name: Presenter 
+                who: goldstein-lindsay
+            downloads:
+              - link_name: #File Name - IAAF 2022 (PPTX)
+                file_name: #File%20Name%20-%20IAAF%202022.pptx
+      - name: 'Break - Transition'
+        type: break
+        time_start: 2023-11-08 15:15:00
+        time_end: 2023-11-08 15:30:00
+        session_id: day3break4
+        description:
+        room: Return to Blair Auditorium
+      - name: 'General Session'
+        type: general
+        time_start: 2023-11-08 15:30:00
+        time_end: 2023-11-08 16:30:00
+        session_id: day2general3
+        subtitle: "A Discussion About Accessible Workplaces and Collaboration"
+        description: 
+        room: 'Blair Auditorium and via Webex' 
+        roles: #list each roles as you intend the display on the page
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrea-oneal
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2023-11-08 16:30:00
+        time_end: 2023-11-08 16:45:00
+        session_id: day2close
+        description: 
+        room: Blair Auditorium
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id          
+          - name: 
+            who: aiken-brooke
+      - name: 'IAAF "After Party"' 
+        type: welcome
+        time_start: 2023-11-09 16:45:00
+        time_end: 2023-11-09 18:00:00
+        session_id: day3afterparty
+        subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: #bio_id for this person 
