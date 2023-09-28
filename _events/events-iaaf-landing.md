@@ -10,10 +10,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-
-<p style="text-align:center;">
-  <img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2022. Seals and logos for the General Services Administration, U.S. Access Board, CIO Council, Federal Deposit Insurance Corporation, and Department of Veterans Affairs." src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"/>
-</p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2022. Seals and logos for the General Services Administration, U.S. Access Board, CIO Council, Federal Deposit Insurance Corporation, and Department of Veterans Affairs." src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF 2023
 Our teams are busy making plans for the 2023 Interagency Accessibility Forum (IAAF) and to celebrate accessibility as the foundation for the Federal Government to serve as a model where all employees are treated with dignity and respect. While additional planning is needed before we're able to share event details, the 2023 IAAF will be held on November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center.  
@@ -24,21 +21,25 @@ The 2023 IAAF conference sessions being held on November 8-9 will be available f
 
 The 2023 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), the U.S. Access Board (USAB), Federal Deposit Insurance Corporation (FDIC), and Department of Veterans (VA) Affairs in partnership with other federal agencies.
 
-## Call for Proposals 
+<!--## Call for Proposals 
 The IAAF Planning Committee invites government employees, and contractors in partnership with government employees to submit proposals for consideration to host a workshop, presentation, or panel discussion. 
 
-If you are interested in presenting a workshop or discussion, please complete the <a href="https://assets.section508.gov/files/presentations/IAAF 2023 Call for Proposals.pdf" target="_blank">call for proposals (PDF)</a> and submit as an attachement to <iaaf@gsa.gov> by Friday, June 30, 2023. 
+If you are interested in presenting a workshop or discussion, please complete the <a href="https://assets.section508.gov/files/presentations/IAAF 2023 Call for Proposals.pdf" target="_blank">call for proposals (PDF)</a> and submit as an attachement to <iaaf@gsa.gov> by Friday, June 30, 2023.-->
 
 ## Event Details
 <div class="grid-row">
   <div class="tablet:grid-col-9">
+    <div class="grid-row">
+      <div class="grid-col tablet:grid-col-1"><strong>Who: </strong></div>
+      <div class="grid-col tablet:grid-col-11">Accessibility professionals<br>Exhibitors of accessible products and services - space is limited</div>
+    </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>What: </strong></div>
       <div class="grid-col tablet:grid-col-11">2023 Interagency Accessibility Forum (IAAF)</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attenance<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
+      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attenance - virtual attencance options available options<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
@@ -51,13 +52,11 @@ If you are interested in presenting a workshop or discussion, please complete th
       <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-11">Both in-person and virtual attendance to this event is offered at no cost</div>
     </div>
-    <!--
-    <h3>Registration</h3>
-    <p><a href="https://gsa.zoomgov.com/webinar/register/" target="_blank">Register Now!</a> to join us for the 2023 Interagency Accessibility Forum.</p>
-  </div>
-  <div class="tablet:grid-col-3 text-center">
-    <a href="https://gsa.zoomgov.com/webinar/register/" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
-    -->
+    <!-- <h3>Registration</h3>
+      <p><a href="" target="_blank">Register Now!</a> to join us for the 2023 Interagency Accessibility Forum.</p>
+    </div>
+    <div class="tablet:grid-col-3 text-center">
+      <a href="" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a> -->
   </div>
 </div>
 
@@ -74,29 +73,22 @@ If you are interested in presenting a workshop or discussion, please complete th
   </div>
 </div>
 
-<!--
-## Additional Event Information
-<ul>
-<li><a href="#event-agenda">Event Agenda</a></li>
-<li><a href="#accessibility-accommodations-and-services">Accessibility Accommodations and Services</a></li>
-<li><a href="#check-your-tech">Check Your Tech</a></li>
-</ul> 
- 
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
-<p>This year&rsquo;s IAAF was held October 11-13 and began with a half-day of workshops on Tuesday followed by two, half-day sessions on Wednesday and Thursday featuring plenary presenters and speakers, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.</p>
-<p>Attendees enjoyed keynote addresses by Kim Knackstedt – Senior Fellow and Co-Director of The Century Foundation’s Disability Economic Justice Collaborative, and Day Al-Mohamed – Author, Filmmaker, and Disability Policy Executive.</p>
-<p>For more details on the three-day virtual event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/agenda-2023/">2023 IAAF Agenda</a>.</p> 
+
+This year's IAAF will be held November 7-9 and began with a full day of workshops on Tuesday followed by two, full-day sessions on Wednesday and Thursday featuring the usual mix of presenters and speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
+
+For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>.
 
 ## Accessibility Accommodations and Services
-<p>American Sign Language (ASL) interpretation will be provided in all plenary and breakout sessions, and Real Time Captioning (CART) will be available in all sessions with URL for mobile or computer viewing.</p>
-<p>If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 20, 2023.</p>
-<p>If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.</p>
+American Sign Language (ASL) interpretation will be provided in all plenary and breakout sessions, and Real Time Captioning (CART) will be available in all sessions with URL for mobile or computer viewing.
+
+If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 20, 2023. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
-<p>The 2023 IAAF will be a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom app, but can also be accessed via web browser and telephone (audio-only).</p>
-<p>We encourage all attendees to set up and test your Zoom app ahead of the event by visiting the <a class="ext" href="https://support.zoom.us/hc/en-us">Zoom Help Center</a>, <a class="ext" href="https://zoom.us/download" target="_blank">Download Center</a> and <a class="ext" href="https://zoom.us/test">Join a Test Meeting</a>. Keyboard users may also preview Zoom&rsquo;s <a class="ext" href="https://support.zoom.us/hc/en-us/articles/205683899-Hot-Keys-and-Keyboard-for-Zoom" target="_blank">Hot Keys &amp; Keyboard Shortcuts</a> resources for Windows, macOS, iOS, and Linux operating systems.</p>
--->
+The 2023 IAAF will returning as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser <!--and telephone (audio-only)-->.
+
+We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started">Webex Help Center</a>, to <a class="ext" href="https://www.webex.com/downloads.html" target="_blank">download Webex</a>, <a href="https://help.webex.com/en-us/article/n3rosq0/Get-started-with-Webex-Webinars" target="_blank" class="usa-link--external">get stated with Webex webinars</a>, and <a class="ext" href="https://zoom.us/test">Join a Test Meeting</a>. Keyboard users may also preview Webex <a class="ext" href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank">Keyboard navigation and shortcuts</a> resources for Windows, macOS, iOS, and web browsers.
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <a href="mailto:iaaf@gsa.gov">iaaf@gsa.gov.</a>
@@ -105,9 +97,11 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   <div class="usa-summary-box__body">
     <h2 class="usa-summary-box__heading" id="summary-box-key-information">IAAF Archives</h2>
     <div class="usa-summary-box__text">
-      <p>Since 2013, the U.S. General Services Administration (GSA) along with federal agency partners has hosted the annual Interagency Accessibility Forum (IAAF) for agency representatives to learn about federal accessibility policies and how they can adapt Section 508 standards to prioritize IT accessibility.</p>
-      <p>Over the years, conference attendees have heard from a range of presenters, panelists, and keynote speakers across a variety of topics, perspectives, and experiences. Notable speakers include former and active members of Congress, commission chairs and other senior leaders within government and the accessibility community.</p>
-      <p><strong>Visit:</strong> <a href="{{site.baseurl}}/iaaf/archives">Interagency Accessibility Forum (IAAF) Archives</a></p>
+      Since 2013, the U.S. General Services Administration (GSA) along with federal agency partners has hosted the annual Interagency Accessibility Forum (IAAF) for agency representatives to learn about federal accessibility policies and how they can adapt Section 508 standards to prioritize IT accessibility.
+      
+      Over the years, conference attendees have heard from a range of presenters, panelists, and keynote speakers across a variety of topics, perspectives, and experiences. Notable speakers include former and active members of Congress, commission chairs and other senior leaders within government and the accessibility community.
+      
+      <strong>Visit:</strong> <a href="{{site.baseurl}}/iaaf/archives">Interagency Accessibility Forum (IAAF) Archives</a>
     </div>
   </div>
 </div>

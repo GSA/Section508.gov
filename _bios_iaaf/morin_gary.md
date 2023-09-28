@@ -11,7 +11,7 @@ office: National Cancer Institute (NCI)
 location: Bethesda, MD
 email: 
 image_url: https://assets.section508.gov/files/bio-images/morin-gary.png
-iaaf_years: 2020
+iaaf_years: 2023
 ---
 Gary M. Morin joined the National Cancer Institute’s [Office of Communications and Public Liaison (OCPL)](https://www.cancer.gov/about-nci/organization/ocpl) as their Section 508 Coordinator in March 2020. In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI). Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public. He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements. Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s [Office on Equity, Diversity, and Inclusion (EDI)](https://www.edi.nih.gov/) (2001 – 2008) and the [Office of the Chief Information Officer](https://ocio.nih.gov/Pages/default.aspx) (2008 - 2020).
 

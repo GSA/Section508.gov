@@ -11,6 +11,6 @@ office: Office of Government-wide Policy
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/wilson-alex.png
-iaaf_years: 2022
+iaaf_years: 2022, 2023
 ---
 Alex Wilson is a program analyst within GSA’s Office of Government-wide Policy (OGP). Alex works within the Digital Strategies, Government-wide IT Accessibility and Content Management teams supporting content creation, metrics & analytics, content rationalization and strategic planning efforts, among other activities. Alex is a disabled Army combat veteran.

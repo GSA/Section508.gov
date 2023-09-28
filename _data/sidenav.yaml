@@ -388,11 +388,13 @@ develop:
     url: '#'
     children:
       - name: Universal Design
-        url: 'develop/universal-design/'
+        url: develop/universal-design/
       - name: Video Training
         url: 'develop/universal-design-video-series/'
       - name: Accessible Fonts and Typography  
         url:  'develop/fonts-typography/'
+      - name: Accessible Design Using the USWDS
+        url: develop/accessible-design-using-uswds/
   - name: Develop
     url: '#'
     children:
@@ -402,7 +404,7 @@ develop:
         url: develop/applicability-conformance/
       - name: Develop Web Content
         url: develop/web-content/
-      - name: Incorporating accessibility conformance validation within development
+      - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/     
 test:
   - name: Testing
@@ -414,6 +416,8 @@ test:
         url: 'test/testing-overview/'
       - name: Trusted Tester and ICT Testing Baseline
         url: 'test/trusted-tester/'
+      - name: Tips for Usability Testing with People with Disabilities
+        url: 'test/usability-testing-with-people-with-disabilities/'
   - name: Electronic Documents
     url: '#'
     children:
@@ -457,6 +461,13 @@ acquisition:
         url: 'buy/solicitation-review-tool/'
       - name: 508 Standards and Exceptions Chart & Examples
         url: 'buy/standards-exceptions/'
+      - name: Accessibility In Procurement
+        url: '#'
+        grandchildren:
+          - name: "Accessibility In Procurement I: Pre-Soliciation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
+          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
   - name: Sell
     url: '#'
     children:
