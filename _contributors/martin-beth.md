@@ -6,7 +6,7 @@ contributor_type: individual
 display_name: Beth Martin
 first_name: Beth 
 last_name: Martin
-affiliation_long: National Institutes of Health
+affiliation_long: Office of Personnel Management
 affiliation_short: OPM
 position: User Experience (UX) Designer
 location: Washington, DC
