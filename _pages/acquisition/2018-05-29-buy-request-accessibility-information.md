@@ -140,6 +140,7 @@ If a maximum page count is required for submissions, exclude the accessibility i
 ## **Related Resources**
 
   * [Buy Accessible Products and Services][7]
+  * [Understanding Vendor Claims in Accessibility Conformance Reports (ACRs) for Section 508 Conformance][9]
   * [Accessibility Requirements Tool (ART)][8] - ART can help you determine which accessibility requirements and exceptions apply when purchasing ICT products and services
 
 _These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._
@@ -156,3 +157,4 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
  [6]: {{site.baseurl}}/sell/vpat/
  [7]: {{site.baseurl}}/buy/
  [8]: {{site.baseurl}}/art/
+ [9]: {{site.baseurl}}/buy/understand-claims/
