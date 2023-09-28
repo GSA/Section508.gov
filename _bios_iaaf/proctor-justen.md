@@ -6,8 +6,8 @@ first_name: Justen
 last_name: Proctor
 affiliation_short: GSA
 affiliation_long: General Services Administration
-position: Senior Contracting Officer at the Technology Transformation Services
-office:  
+position: Senior Contracting Officer 
+office: Technology Transformation Services 
 location: Washington, DC and Boston, MA
 email: 
 image_url: https://assets.section508.gov/files/bio-images/proctor-justen.jpg

@@ -26,6 +26,7 @@ import { RadiobuttonGroupComponent } from './shared/components/art-radiobutton-g
 import { ArtSaveJsonComponent } from './shared/components/art-save-json/art-save-json.component';
 import { BackToTopComponent} from "./shared/components/back-to-top/back-to-top.component";
 import { SummaryPageComponent } from './pages/summary-page/summary-page.component';
+import { ArtSaveZipComponent } from './shared/components/art-save-zip/art-save-zip.component';
 
 
 
@@ -55,7 +56,8 @@ import { SummaryPageComponent } from './pages/summary-page/summary-page.componen
     RadiobuttonGroupComponent,
     BackToTopComponent,
     SummaryPageComponent,
-    TestComponent
+    TestComponent,
+    ArtSaveZipComponent
   ],
   imports: [
     BrowserModule,
