@@ -615,7 +615,7 @@ iaaf_2023:
         time_end: 2023-11-07 10:20:00
         session_id: day1welcome
         description:
-        room: 'Blair Auditorium'
+        room: 'Bair Auditorium'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person 
@@ -789,14 +789,14 @@ iaaf_2023:
         time_end: 2023-11-07 15:00:00
         session_id: day1break3
         description:
-        room: 'Return to Blair Auditorium'
+        room: 'Return to Bair Auditorium'
       - name: 'Closing' 
         type: welcome
         time_start: 2023-11-07 16:00:00
         time_end: 2023-11-07 16:15:00
         session_id: day1close
         description: 
-        room: 'Blair Auditorium and via Webex'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: frith-chet #use bio_id
@@ -819,7 +819,7 @@ iaaf_2023:
         time_end: 2023-11-08 10:15:00
         session_id: day2welcome
         description:
-        room: 'Blair Auditorium' 
+        room: 'Bair Auditorium' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: burns-sylvia #bio_id for this person 
@@ -830,7 +830,7 @@ iaaf_2023:
         session_id: day2general1
         subtitle: "Keynote Panel Discussion"
         description: 
-        room: 'Blair Auditorium'
+        room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
           - name: Introduction #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: andrew-nielson #bio_id for this person 
@@ -846,7 +846,7 @@ iaaf_2023:
         time_end: 2023-11-08 12:10:00
         session_id: day2keynote
         description: 
-        room: 'Blair Auditorium'
+        room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
           - name: # Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: #frith-chet #bio_id for this person 
@@ -986,7 +986,7 @@ iaaf_2023:
         time_end: 2023-11-08 15:20:00
         session_id: day2break4
         description:
-        room: Return to Blair Auditorium
+        room: Return to Bair Auditorium
       - name: 'General Session'
         type: general
         time_start: 2023-11-08 15:20:00
@@ -994,7 +994,7 @@ iaaf_2023:
         session_id: day2general1
         subtitle: "Real Talk- A Conversation with Section 508 Program Managers"
         description: Section 508 of the Rehabilitation Act requires the U.S. Federal Government to buy, build, and implement Information and Communication Technology (ICT) that is accessible to all its employees and members of the public. Section 508 Program Managers are responsible for a wide array of functions ensuring digital accessibility through ICT acquisition, development, electronic content creation, agency policy, compliance enforcement, outreach and training, and much more. <br><br>Join us to hear this experienced panel share its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.
-        room: 'Blair Auditorium'
+        room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: betsy-sirk
@@ -1008,7 +1008,7 @@ iaaf_2023:
         time_end: 2023-11-08 16:30:00
         session_id: day2close
         description: 
-        room: Return to Blair Auditorium
+        room: Return to Bair Auditorium
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: frith-chet #use bio_id
@@ -1039,7 +1039,7 @@ iaaf_2023:
         time_end: 2023-11-09 10:15:00
         session_id: day3welcome
         description:
-        room: 'Blair Auditorium' 
+        room: 'Bair Auditorium' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: sachin-pavithran #bio_id for this person 
@@ -1050,7 +1050,7 @@ iaaf_2023:
         session_id: day3keynote
         description: 
         subtitle: A Fireside Chat with Accessibility Leaders
-        room: 'Blair Auditorium'
+        room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: levy-alison #bio_id for this person 
@@ -1078,7 +1078,7 @@ iaaf_2023:
         session_id: day3general1
         subtitle: "Co-sponsor Remarks"
         description: 
-        room: 'Blair Auditorium and via Webex'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: #bio_id for this person 
@@ -1194,7 +1194,7 @@ iaaf_2023:
         time_end: 2023-11-08 15:30:00
         session_id: day3break4
         description:
-        room: Return to Blair Auditorium
+        room: Return to Bair Auditorium
       - name: 'General Session'
         type: general
         time_start: 2023-11-08 15:30:00
@@ -1202,7 +1202,7 @@ iaaf_2023:
         session_id: day2general3
         subtitle: "A Discussion About Accessible Workplaces and Collaboration"
         description: 
-        room: 'Blair Auditorium and via Webex' 
+        room: 'Bair Auditorium and via Webex' 
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrea-oneal
@@ -1212,7 +1212,7 @@ iaaf_2023:
         time_end: 2023-11-08 16:45:00
         session_id: day2close
         description: 
-        room: Blair Auditorium
+        room: Bair Auditorium
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id          
