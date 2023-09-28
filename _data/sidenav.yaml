@@ -459,6 +459,13 @@ acquisition:
         url: 'buy/solicitation-review-tool/'
       - name: 508 Standards and Exceptions Chart & Examples
         url: 'buy/standards-exceptions/'
+      - name: Accessibility In Procurement
+        url: '#'
+        grandchildren:
+          - name: "Accessibility In Procurement I: Pre-Soliciation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
+          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
   - name: Sell
     url: '#'
     children:
