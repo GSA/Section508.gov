@@ -1,6 +1,6 @@
 ---
 layout: contributor_org
-title: FS Contributions
+title: Forest Service Contributions
 contributor_id: usfs
 contributor_type: organization
 display_name: U.S. Forest Service
@@ -10,6 +10,6 @@ location: Washington, D.C.
 image_url: https://www.fs.usda.gov/themes/custom/fs_uswds/logo.svg
 permalink: /:collection/:name:output_ext
 ---
-The United States Forest Service (Forest Service) is a federal agency under the U.S. Department of Agriculture that manages 193 million acres of land, roughly the size of Texas. The Forest Service manages public lands in the form of national forests and grasslands, provide technical and financial assistance to state, private, and tribal forestry agencies and make up the largest forestry research organization in the world.
+The United States Forest Service (Forest Service) is a federal agency under the U.S. Department of Agriculture that manages 193 million acres of land, roughly the size of Texas. The Forest Service manages public lands in the form of national forests and grasslands, provides technical and financial assistance to state, private, and tribal forestry agencies and makes up the largest forestry research organization in the world.
 
 Source: [https://www.fs.usda.gov/about-agency/meet-forest-service](https://www.fs.usda.gov/about-agency/meet-forest-service)
