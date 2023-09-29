@@ -11,7 +11,7 @@ It is quite common for those who work with equations and use screen reader techn
 
 For example, the - (dash) is a heavily used key with many purposes, such as a ˗ (minus) symbol in equations. Assistive technologies, especially screen readers, will identify this symbol to the end user as either dash or minus. It makes a difference what you “type” as to which description the end user will receive. This is determined by the Unicode designation assigned to the character.
 
-There is an alternative for simple mathematical modifiers that is equivalent to the Unicode designation. Instead of using the number row of keys along the top of a standard keyboard, use the Numeric Keypad (Figure 1). When Num Lock (Clear on a mac keyboard) is activated, the numeric keyboard becomes active as a calculator. Instructions are sent to the computer to use the correct mathematical operator based on the user's input from the numeric keypad. However, this is very limited with only have five basic operators available to you:˗ (minus), + (plus), × (multiplication), ÷ (division represented as a / forward slash), and = (equals).
+However, this is very limited as you only have 5 basic operators available to you for simple mathematical modifiers that is equivalent to the Unicode designation. Instead of using the number row of keys along the top of a standard keyboard, use the Numeric Keypad (Figure 1). When Num Lock (Clear on a mac keyboard) is activated, the numeric keyboard becomes active as a calculator. Instructions are sent to the computer to use the correct mathematical operator based on the user's input from the numeric keypad. However, this is very limited with only have five basic operators available to you: ˗ (minus), + (plus), × (multiplication), ÷ (division represented as a / forward slash), and = (equals).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
     <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-keypad.jpg" alt="Numerical Keypad" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1"></div>
@@ -34,7 +34,7 @@ You can search for any character within any font that is installed on your compu
 For Mac users, there’s a semi-hidden way to access special symbol sets in Unicode and a more obscure method of searching for specific symbols across all macOS-included Unicode characters. This is using the Character Viewer (Figure 3). The easiest way to access the viewer is to go to the top menu bar and choose Edit → Special Characters (at the very bottom). This way you can access the Character Viewer at least in a lot of programs including Safari.
 
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
-    <p>In Microsoft Word, insert Unicode characters by typing the 4- or 5-digit number followed by <strong>Alt</strong>* + the <strong>x</strong> key.</p>
+    <p>In Microsoft Word, insert Unicode characters by typing the 4- or 5-digit number followed by <strong>Alt</strong> + the <strong>x</strong> key.</p>
     <p>For example, an em dash (—) is typed as <strong>2014 Alt x</strong></p>
 </div>
 
@@ -77,7 +77,7 @@ Equations must meet the same expectations as text when it comes to Section 508 r
 
 You create an image of the equation. Turning the equation into an image is the best option available today when implementing 508 requirements. It does take some extra steps when converting an equation into an image and ensuring that image conveys the same information as a text-based equation. And, the alt text needs to include the linearized form of the equation.
 
-There are two free resources that can help you create equation images, convert an equation image to text, and even work with handwritten equations and theories. Plus, they provide you with a critical piece you will need - a linearized text-based version of the equation (your alt text).
+There are free resources that can help you create equation images, convert an equation image to text, and even work with handwritten equations and theories. Plus, they provide you with a critical piece you will need - a linearized text-based version of the equation (your alt text). For this resource, MathCast is used to demonstrate the graphic process for equations.
    
 ### MathCast
 
@@ -113,7 +113,7 @@ The two main points to take away from this resource are:
 * Use the correct Unicode character for the mathematical operator.
 * You need a linearized form of the equation as part of your alt text when using equation graphics.
 
-Equations, formulas, and theories are not that difficult to make accessible. You need to use the right tools and the correct Unicode character to make these types of visuals read properly. There are other equation editors on the market you may be interested in;therefore, do the research to find one you like and are comfortable with when understanding how equations are created and read by assistive technologies.
+Equations, formulas, and theories are not that difficult to make accessible. You need to use the right tools and the correct Unicode character to make these types of visuals read properly. There are other equation editors on the market you may be interested in; therefore, do the research to find one you like and are comfortable with when understanding how equations are created and read by assistive technologies.
 
 ## Resources
 
