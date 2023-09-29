@@ -15,7 +15,7 @@ redirect_from:
 
 Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. Universal design, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
 
-Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
+Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting [universal design principles can help](https://digital.gov/2017/05/09/benefits-of-accessible-design/) your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
 
 Through universal design, your agency will:
 

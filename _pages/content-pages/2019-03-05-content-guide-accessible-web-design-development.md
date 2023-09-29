@@ -11,6 +11,8 @@ description: "Guide to Accessible Web Design & Development"
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].
 
+The profound impact of disability on user experience cannot be underestimated, shaping not only accessibility but also the very essence of inclusivity in design. A study by the [World Bank shows that](https://www.linkedin.com/pulse/why-website-accessibility-matters-oliver-broadhurst/) accessibility technology can make website navigation possible or easier for 57% of all computer users. 
+
 If you are a developer, designer, or content manager, keep reading! Bookmark this guide and refer to it whenever you’re developing new content, websites or digital tools.
 ## How To Use This Guide
 Major topics are listed below in alphabetical order. Click on a topic name to jump to that topic for an explanation of the [WCAG][1] requirements (also known as Success Criteria) related to that topic.

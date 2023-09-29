@@ -24,7 +24,9 @@ Examples include:
 
 The Revised 508 Standards include an exception when working in a raw text format, so an application such as Notepad (which can be used as an authoring tool) complies with the Revised 508 Standards, because it only functions as an editor of plain text files.
 
-If accessibility is not considered from the start of the creative process, special (and often-unsuccessful) workarounds must be employed to make the output accessible (i.e., meet the standards). Such workarounds are usually found by trial and error, rarely documented, and usually not shared within the authoring or developer community. In the worst case, accessibility simply may not be addressed because authors and developers are unaware of their responsibilities, or the resources available to meet those responsibilities
+If accessibility is not considered from the start of the creative process, special (and often-unsuccessful) workarounds must be employed to make the output accessible (i.e., meet the standards). Such workarounds are usually found by trial and error, rarely documented, and usually not shared within the authoring or developer community. Early incorporation of accessibility in a creative or redesign process can also be significantly easier and less expensive than making improvements to an existing product later as a separate project. A [Forrester Research study](https://digital.gov/2017/05/09/benefits-of-accessible-design/) found that implementing accessible web design minimizes the rate at which users abandon websites, which results in an estimated additional $2.4 million in annual revenue.
+
+In the worst case, accessibility simply may not be addressed because authors and developers are unaware of their responsibilities, or the resources available to meet those responsibilities
 
 ### Output Requirements
 
