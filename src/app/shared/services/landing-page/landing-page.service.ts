@@ -64,7 +64,7 @@ export class LandingPageService {
    * @description Getting the video footer data from the json file
    * @returns title:string, data:string
    */
-  getVideoFooter(): {title:string, data:string}{
+  getVideoFooter(): {data:string}{
     return VideoFooter;
   }
   
