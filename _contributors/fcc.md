@@ -11,3 +11,5 @@ image_url: https://assets.section508.gov/files/images/fcc.png
 permalink: /:collection/:name:output_ext
 ---
 The Federal Communications Commission regulates interstate and international communications by radio, television, wire, satellite, and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the Commission is the federal agency responsible for implementing and enforcing America’s communications law and regulations.
+
+Source: [https://www.fcc.gov/about/overview](https://www.fcc.gov/about/overview)
