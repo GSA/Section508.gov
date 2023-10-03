@@ -1017,7 +1017,7 @@ iaaf_2023:
         time_start: 2023-11-08 16:30:00
         time_end: 2023-11-08 18:00:00
         session_id: day3afterparty
-        subtitle: Connect with available hosts, presenters, and participants at a local restaurant.
+        subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.
         description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1200,12 +1200,18 @@ iaaf_2023:
         time_start: 2023-11-08 15:30:00
         time_end: 2023-11-08 16:30:00
         session_id: day2general3
-        subtitle: "A Discussion About Accessible Workplaces and Collaboration"
-        description: 
+        subtitle: "The Accessibility-Powered Future of Work"
+        description: This moderated closing plenary discussion will explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).
         room: 'Bair Auditorium and via Webex' 
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrea-oneal
+          - name: Panelist
+            who: geevarghese-anupa
+          - name: Panelist
+            who: hardy-chuck
+          - name: Panelist 
+            who: jamal-natasha
       - name: 'Closing' 
         type: welcome
         time_start: 2023-11-08 16:30:00

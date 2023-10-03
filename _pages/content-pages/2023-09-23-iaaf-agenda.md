@@ -171,4 +171,4 @@ created: 2023-09-23
     <p>To all keynote speakers, breakout session moderators and panelists, attendees, IAAF volunteers, exhibitors and volunteers.</p>
   </div>
 </div>
-<p><strong>Reviewed/Updated: </strong>September 2023</p>
+<p><strong>Reviewed/Updated: </strong>October 2023</p>

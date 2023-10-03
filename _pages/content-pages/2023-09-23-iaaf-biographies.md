@@ -88,4 +88,4 @@ created: 2023-09-23
   {% endif %}
 {% endfor %}
 </div>
-<p><strong>Reviewed/Updated: </strong>September, 2023</p>
+<p><strong>Reviewed/Updated: </strong>October, 2023</p>
