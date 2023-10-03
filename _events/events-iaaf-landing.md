@@ -56,14 +56,14 @@ If you are interested in presenting a workshop or discussion, please complete th
     <div class="tablet:grid-col-3 text-center">
       <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
   </div>
-      <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
-        <div class="usa-summary-box__body">
-          <h4 class="usa-summary-box__heading" id="summary-box-key-information">Exhibitor Registration</h4>
-          <div class="usa-summary-box__text">
-            <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and sevices on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
-          </div>
+    <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
+      <div class="usa-summary-box__body">
+        <h4 id="summary-box-key-information">Exhibitor Registration</h4>
+        <div class="usa-summary-box__text">
+          <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and sevices on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
         </div>
       </div>
+    </div>
 </div>
 
 ### Save the Date to Your Calendar
