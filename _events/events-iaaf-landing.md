@@ -37,7 +37,7 @@ If you are interested in presenting a workshop or discussion, please complete th
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attenance - virtual attencance options available options<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
+      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attenance - virtual attencance options available<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
@@ -50,12 +50,20 @@ If you are interested in presenting a workshop or discussion, please complete th
       <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-11">Both in-person and virtual attendance to this event is offered at no cost</div>
     </div>
-    <!-- <h3>Registration</h3>
-      <p><a href="" target="_blank">Register Now!</a> to join us for the 2023 Interagency Accessibility Forum.</p>
+    <h3>Registration</h3>
+      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum.</p> 
     </div>
     <div class="tablet:grid-col-3 text-center">
-      <a href="" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a> -->
+      <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
   </div>
+      <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
+        <div class="usa-summary-box__body">
+          <h4 class="usa-summary-box__heading" id="summary-box-key-information">Exhibitor Registration</h4>
+          <div class="usa-summary-box__text">
+            <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and sevices on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
+          </div>
+        </div>
+      </div>
 </div>
 
 ### Save the Date to Your Calendar
@@ -103,4 +111,5 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
     </div>
   </div>
 </div>
-**Reviewed/Updated:** August 2023
+
+**Reviewed/Updated:** October 2023
