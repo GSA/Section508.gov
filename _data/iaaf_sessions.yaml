@@ -828,12 +828,12 @@ iaaf_2023:
         time_start: 2023-11-08 10:15:00
         time_end: 2023-11-08 11:15:00
         session_id: day2general1
-        subtitle: "Keynote Panel Discussion"
+        subtitle: 
         description: 
         room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
-          - name: Introduction #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: andrew-nielson #bio_id for this person 
+          - name:  #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: martorana-clare #bio_id for this person 
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
