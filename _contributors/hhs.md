@@ -10,6 +10,6 @@ location: Washington, D.C.
 image_url: https://assets.section508.gov/files/bio-images/hhs.png
 permalink: /:collection/:name:output_ext
 ---
-The Federal Communications Commission regulates interstate and international communications by radio, television, wire, satellite, and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the Commission is the federal agency responsible for implementing and enforcing America’s communications law and regulations.
+The mission of the U.S. Department of Health and Human Services (HHS) is to enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.
 
 Source: [https://www.hhs.gov/about/](https://www.hhs.gov/about/index.html)
