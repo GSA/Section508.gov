@@ -3,6 +3,7 @@ import { ICTInterface } from '../../models/ict.interface';
 import  LpButton  from '../../../../assets/data/lp-button.json';
 import  Buttons  from '../../../../assets/data/buttons.json';
 import { IButtonInterface } from '../../models/IButtonInterface';
+import VideoFooter from "../../../../assets/data/video-footer.json";
 
 
 @Injectable({
@@ -57,6 +58,14 @@ export class LandingPageService {
    */
    getNextPage(): NextPage{
     return this.destination;
+  }
+
+  /**
+   * @description Getting the video footer data from the json file
+   * @returns title:string, data:string
+   */
+  getVideoFooter(): {data:string}{
+    return VideoFooter;
   }
   
 }

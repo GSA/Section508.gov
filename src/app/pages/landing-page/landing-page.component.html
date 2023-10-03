@@ -19,3 +19,8 @@
     </div>
 </section>
 
+<div class="margin-top-5" *ngIf="landingPageService && landingPageService.getVideoFooter()">
+    <div class="margin-top-2">
+        <div [innerHTML]="landingPageService.getVideoFooter().data"></div>
+    </div>
+</div>
