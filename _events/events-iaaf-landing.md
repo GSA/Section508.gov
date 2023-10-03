@@ -13,11 +13,9 @@ redirect_from:
 <p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2022. Seals and logos for the General Services Administration, U.S. Access Board, CIO Council, Federal Deposit Insurance Corporation, and Department of Veterans Affairs." src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF 2023
-Our teams are busy making plans for the 2023 Interagency Accessibility Forum (IAAF) and to celebrate accessibility as the foundation for the Federal Government to serve as a model where all employees are treated with dignity and respect. While additional planning is needed before we're able to share event details, the 2023 IAAF will be held on November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center.  
+The 10th annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. The 2023 IAAF will be held November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center and available for in-person or virtual attendance.
 
 <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
-
-The 2023 IAAF conference sessions being held on November 8-9 will be available for in-person or virtual attendance, with the workshops hosted on Tuesday, November 7, available to in-person attendees.   
 
 The 2023 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), the U.S. Access Board (USAB), Federal Deposit Insurance Corporation (FDIC), and Department of Veterans (VA) Affairs in partnership with other federal agencies.
 
