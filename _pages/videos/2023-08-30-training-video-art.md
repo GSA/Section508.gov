@@ -11,7 +11,7 @@ This video provides a demonstration of how you can use the Accessibility Require
 
 ## Related Resources
 
-  * [Accesibility Requirements Tool (ART)][2]
+  * [Accessibility Requirements Tool (ART)][2]
   * [Buy Accessible Products and Services][3]
   * [Define Accessibility Criteria in Contracts][4]
   * [Solicitations Review Tool (SRT)][5]  
