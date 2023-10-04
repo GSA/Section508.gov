@@ -37,7 +37,7 @@ If you are interested in presenting a workshop or discussion, please complete th
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attenance - virtual attencance options available<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
+      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attendance - virtual attendance options available<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
@@ -60,7 +60,7 @@ If you are interested in presenting a workshop or discussion, please complete th
       <div class="usa-summary-box__body">
         <h4 id="summary-box-key-information">Exhibitor Registration</h4>
         <div class="usa-summary-box__text">
-          <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and sevices on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
+          <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and services on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
         </div>
       </div>
     </div>
@@ -82,7 +82,7 @@ If you are interested in presenting a workshop or discussion, please complete th
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held November 7-9 and began with a full day of workshops on Tuesday followed by two, full-day sessions on Wednesday and Thursday featuring the usual mix of presenters and speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
+This year's IAAF will be held November 7-9 and begin with a full day of workshops on Tuesday followed by two, full-day sessions on Wednesday and Thursday featuring the usual mix of presenters and speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
 
 For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>.
 
@@ -92,7 +92,7 @@ American Sign Language (ASL) interpretation will be provided in all plenary and 
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 20, 2023. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
-The 2023 IAAF will returning as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser <!--and telephone (audio-only)-->.
+The 2023 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser <!--and telephone (audio-only)-->.
 
 We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started">Webex Help Center</a>, to <a class="ext" href="https://www.webex.com/downloads.html" target="_blank">download Webex</a>, <a href="https://help.webex.com/en-us/article/n3rosq0/Get-started-with-Webex-Webinars" target="_blank" class="usa-link--external">get stated with Webex webinars</a>, and <a class="ext" href="https://zoom.us/test">Join a Test Meeting</a>. Keyboard users may also preview Webex <a class="ext" href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank">Keyboard navigation and shortcuts</a> resources for Windows, macOS, iOS, and web browsers.
 
