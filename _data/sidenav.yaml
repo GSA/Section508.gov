@@ -196,7 +196,7 @@ training:
   - name: Video Training
     url: '#'
     children:
-      - name: "Accessibility Requirerments Tool"
+      - name: "Accessibility Requirements Tool"
         url: 'training/art/introducing-art/' 
       - name: Document       
         url: '#'
