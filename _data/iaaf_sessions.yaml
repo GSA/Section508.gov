@@ -647,7 +647,7 @@ iaaf_2023:
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
-          - name: 'Track B: Applied Acessibility Concepts'
+          - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'How to Use ART & SRT'
             track_id: day1breakout1b
             description: "During this demo, we will introduce the enhanced Accessibility Requirements Tool (ART), a step-by-step guide to help you easily identify relevant accessibility requirements for Information and Communication Technology (ICT) from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all."
@@ -683,13 +683,13 @@ iaaf_2023:
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
               - name: Presenter
-                who: meltz-jennfier
+                who: meltz-jennifer
               - name: Presenter
                 who: guzman-danny
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
-          - name: 'Track B: Applied Acessibility Concepts'
+          - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
             description: 
@@ -730,7 +730,7 @@ iaaf_2023:
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
-          - name: 'Track B: Applied Acessibility Concepts'
+          - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
             description: "Applying both automated and manual testing methods is necessary to meet 508 compliance - but where to begin? What tools and methods to choose? In this session, ONRR will present what they've learned from applying a variety of both automated and manual testing methods &#59; the methodology and advantages of each tool, what each one does not detect, and how they have incorporated the results into their Agile development cycle to make improvements to their websites."
@@ -770,7 +770,7 @@ iaaf_2023:
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
-          - name: 'Track B: Applied Acessibility Concepts'
+          - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
             description: 
