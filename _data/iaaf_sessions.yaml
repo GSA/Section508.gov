@@ -991,13 +991,15 @@ iaaf_2023:
         type: general
         time_start: 2023-11-08 15:20:00
         time_end: 2023-11-08 16:20:00
-        session_id: day2general1
+        session_id: day2general2
         subtitle: "Real Talk- A Conversation with Section 508 Program Managers"
         description: Section 508 of the Rehabilitation Act requires the U.S. Federal Government to buy, build, and implement Information and Communication Technology (ICT) that is accessible to all its employees and members of the public. Section 508 Program Managers are responsible for a wide array of functions ensuring digital accessibility through ICT acquisition, development, electronic content creation, agency policy, compliance enforcement, outreach and training, and much more. <br><br>Join us to hear this experienced panel share its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.
         room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
-          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: betsy-sirk
+          - name: Panelist 
+            who: ritz-courtney
           - name: Panelist
             who: sharma-siddhartha
           - name: Panelist 
