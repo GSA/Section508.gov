@@ -12,3 +12,4 @@ echo 'Base href -> ' $url;
 #if the code is pushed on any pther brnach, they will be using federalist cloud from url
 [ ${BRANCH} != 'main' ] && ng build --configuration dev --base-href=$url;
 echo 'Angular build completed!'; 
+node src/app.js
