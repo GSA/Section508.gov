@@ -648,7 +648,7 @@ iaaf_2023:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Applied Accessibility Concepts'
-            name_breakout: 'How to Use ART & SRT'
+            name_breakout: 'How to Use the Accessibility Requirements Tool (ART)'
             track_id: day1breakout1b
             description: "During this demo, we will introduce the enhanced Accessibility Requirements Tool (ART), a step-by-step guide to help you easily identify relevant accessibility requirements for Information and Communication Technology (ICT) from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all."
             room: Training Room and via Webex
@@ -828,12 +828,16 @@ iaaf_2023:
         time_start: 2023-11-08 10:15:00
         time_end: 2023-11-08 11:15:00
         session_id: day2general1
-        subtitle: 
-        description: 
+        subtitle: Digital Accessibility in the Federal Workplace
+        description: This moderated plenary discussion will explore the role of agency leadership in promoting, prioritizing, and improving digital accessibility in the federal workplace and how investments in measuring accessibility cultivate an accessibility inclusive work environment.
         room: 'Bair Auditorium'
         roles: #list each roles as you intend the display on the page
-          - name:  #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: martorana-clare #bio_id for this person 
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: martorana-clare #bio_id for this person
+          - name: 
+            who: 
+          - name: 
+            who: 
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
