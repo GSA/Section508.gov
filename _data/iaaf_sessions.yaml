@@ -635,7 +635,7 @@ iaaf_2023:
         session_id: day1breakout1
         tracks:
           - name: 'Track A: Accessibility Fundamentals '
-            name_breakout: 'Designing PowerPoint Templates for Accessibility'
+            name_breakout: 'Design PowerPoint Templates for Accessibility'
             track_id: day1breakout1a
             description: This course is designed to help students become familiar with the PowerPoint layout, placeholders, and the many benefits of designing for accessibility. In addition, students will learn how to apply the 508 requirements and use the built-in Microsoft Accessibility Checker.
             room: Training Room and via Webex
@@ -645,10 +645,16 @@ iaaf_2023:
               - name: Presenter
                 who: dansby-dee
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Design PPT Templates for Accessibility - IAAF 2023.pptx (PPTX)
+                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20-%20IAAF%202023.pptx
+              - link_name: #Design PPT Templates for Accessibility Design Catalog - IAAF 2023.pptx (PPTX)
+                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20-%20IAAF%202023.pptx
+              - link_name: #Design PPT Templates for Accessibility Design Catalog Supplemental - IAAF2023.docx (PPTX)
+                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20Supplemental%20-%20IAAF2023.docx
+              - link_name: #Design PPT Templates for Accessibility Workbook - IAAF2023.docx (PPTX)
+                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Workbook%20-%20IAAF2023.docx
           - name: 'Track B: Applied Accessibility Concepts'
-            name_breakout: 'How to Use the Accessibility Requirements Tool (ART)'
+            name_breakout: 'How to use ART'
             track_id: day1breakout1b
             description: "During this demo, we will introduce the enhanced Accessibility Requirements Tool (ART), a step-by-step guide to help you easily identify relevant accessibility requirements for Information and Communication Technology (ICT) from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all."
             room: Training Room and via Webex
@@ -660,8 +666,8 @@ iaaf_2023:
               - name: Presenter
                 who: brunson-arthur
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #How to use ART - IAAF 2023.pptx (PPTX)
+                file_name: #How%20to%20use%20ART%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 11:15:00
@@ -687,8 +693,8 @@ iaaf_2023:
               - name: Presenter
                 who: guzman-danny
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Testing Tools and Ease of Access - IAAF 2023.pptx (PPTX)
+                file_name: #Testing%20Tools%20and%20Ease%20of%20Access%20-%20IAAF%202023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
@@ -716,7 +722,7 @@ iaaf_2023:
         session_id: day1breakout3
         tracks:
           - name: 'Track A: Accessibility Fundamentals'
-            name_breakout: 'Section 508: Common Issues for Documents & Applications'
+            name_breakout: 'Section 508: Common Issues for Documents'
             track_id: day1breakout3a
             description: 
             room: Training Room Only
@@ -728,8 +734,8 @@ iaaf_2023:
               - name: Presenter
                 who: vallarta-alfred
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Section 508 Common Issues for Documents - IAAF 2023.pptx (PPTX)
+                file_name: #Section%20508%20Common%20Issues%20for%20Documents%20-%20IAAF%202023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
@@ -743,8 +749,8 @@ iaaf_2023:
               - name: Presenter
                 who: mcnally-alexandria
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Testing for Compliance - IAAF 2023.pptx (PPTX)
+                file_name: #Testing%20for%20Compliance%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -781,8 +787,8 @@ iaaf_2023:
               - name: Panelist
                 who: rodriguez-karla
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Accessible Customer Experience and Shared Services - IAAF 2023.pptx (PPTX)
+                file_name: #Accessible%20Customer%20Experience%20and%20Shared%20Services%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -923,8 +929,8 @@ iaaf_2023:
               - name: Panelist 
                 who: williams-daniel
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Using USWDS Critical Checklists - IAAF 2023.pptx (PPTX)
+                file_name: #Using%20USWDS%20Critical%20Checklists%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 14:15:00
@@ -938,7 +944,7 @@ iaaf_2023:
         session_id: day2breakout2
         tracks:
           - name: 'Track A: Government Operations'
-            name_breakout: "Shared Services Canada"
+            name_breakout: "Shared Services Canada - Update on our Accessible ICT Procurement Pilot"
             track_id: day2breakout2a
             description:  
             room: Training Room and through Webex
@@ -950,8 +956,8 @@ iaaf_2023:
               - name: Panelist
                 who: rolleman-benjamin                           
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #SSC Accessible ICT Procurement Update - IAAF 2023.pptx (PPTX)
+                file_name: #SSC%20Accessible%20ICT%20Procurement%20Update%20-%20IAAF%202023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
             track_id: day2breakout2b
@@ -982,8 +988,8 @@ iaaf_2023:
               - name: panelist                
                 who: liu-arlo
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #Improving Digital Accessibility - IAAF.pptx (PPTX)
+                file_name: #Improving%20Digital%20Accessibility%20-%20IAAF.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:10:00
