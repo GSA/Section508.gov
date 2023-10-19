@@ -618,9 +618,7 @@ iaaf_2023:
         room: 'Bair Auditorium'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person 
-          - name: 
-            who: aiken-brooke
+            who: daniel-pomeroy #bio_id for this person 
       - name: 'Break'
         type: break
         time_start: 2023-11-07 10:20:00
@@ -764,12 +762,12 @@ iaaf_2023:
         session_id: day1breakout4
         tracks:
           - name: 'Track A: Accessibility Fundamentals'
-            name_breakout: 'Presentation on Audio Descriptions'
+            name_breakout: 'Creating Accessible PDF Documents with Signatures'
             track_id: day1breakout4a
             description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
             room: Training Room Only
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: frith-chet #bio_id for this person
               - name: Presenter 
                 who: patrick-sheehan
@@ -805,9 +803,7 @@ iaaf_2023:
         room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: frith-chet #use bio_id
-          - name: 
-            who: levy-alison
+            who: levy-alison #use bio_id
   - day: 2
     time_start: 2023-11-08 09:00:00
     time_end: 2023-11-08 16:30:00
@@ -840,10 +836,10 @@ iaaf_2023:
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: martorana-clare #bio_id for this person
-          - name: 
-            who: 
-          - name: 
-            who: 
+          - name: Panelist
+            who: burns-sylvia
+          - name: Panelist
+            who: orr-martha
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
@@ -884,15 +880,13 @@ iaaf_2023:
             description: "Gain insights into the Government-wide IT Accessibility Program's achievements over the past year and get a glimpse of what the future holds - and how you can be part of our success."
             room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: tim-creagan #bio_id for this person 
-              - name: Panelist 
-                who: andrew-nielson 
-              - name: Panelist
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: andrew-nielson #bio_id for this person 
+              - name: Presenter
                 who: michael-horton
-              - name: Panelist
+              - name: Presenter
                 who: smith-oconnor-kristen
-              - name: Panelist
+              - name: Presenter
                 who: wilson-alex                                 
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
@@ -1068,8 +1062,8 @@ iaaf_2023:
             who: levy-alison #bio_id for this person 
           #- name: Panelist
           #  who: brewer-judy
-          #- name: Panelist
-          #  who: katy-kale
+          - name: Panelist
+            who: katy-kale
           - name: Panelist
             who: mathis-jennifer
           #- name: Panelist
@@ -1088,7 +1082,7 @@ iaaf_2023:
         time_start: 2023-11-09 11:30:00
         time_end: 2023-11-09 12:30:00
         session_id: day3general1
-        subtitle: "Co-sponsor Remarks"
+        subtitle: "Department of Veteran Affairs"
         description: 
         room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
@@ -1174,7 +1168,7 @@ iaaf_2023:
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'An overview of new web accessibility requirements from WCAG 2.2 and 2.1'
             track_id: day3breakout2b
-            description: "WCAG 2.0 Level AA became the web accessibility requirement under Section 508 in March of 2017.  WCAG 2.1 became a finalized standard in June of 2018.  The Europe Union has been using WCAG 2.1 for five years.  WCAG 2.2 is on the cusp of release.  If your agency is using only WCAG 2.0 Level AA to audit your web properties, what accessibility features are you missing?  Bruce and Rachael will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2."
+            description: "WCAG 2.0 Level AA became the web accessibility requirement under Section 508 in March of 2017. WCAG 2.1 became a finalized standard in June of 2018.  The Europe Union has been using WCAG 2.1 for five years.  WCAG 2.2 is on the cusp of release.  If your agency is using only WCAG 2.0 Level AA to audit your web properties, what accessibility features are you missing?  Bruce and Rachael will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2."
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: tim-creagan #bio_id for this person 

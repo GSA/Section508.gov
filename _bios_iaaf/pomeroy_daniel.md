@@ -11,7 +11,7 @@ office: Office of Government-wide Policy
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/pomeroy-dan.png
-iaaf_years: 2020
+iaaf_years: 2020, 2023
 ---
 Dan Pomeroy currently serves as the Deputy Associate Administrator in the Office of Technology Policy within the Office of Government-wide Policy at the General Services Administration (GSA). Dan’s work is focused on enabling Federal CIOs to deliver world-class information technology services across government, particularly in the areas of accessibility, identity credentialing, digital services, IT infrastructure modernization, and IT capital planning. In 2020, Dan established a dedicated emerging technology policy office in GSA.
 
