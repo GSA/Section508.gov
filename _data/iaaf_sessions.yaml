@@ -1066,8 +1066,8 @@ iaaf_2023:
             who: katy-kale
           - name: Panelist
             who: mathis-jennifer
-          #- name: Panelist
-          #  who: sachin-pavithran
+          - name: Panelist
+            who: sachin-pavithran
         downloads:
           - link_name: 
             file_name:
@@ -1158,10 +1158,8 @@ iaaf_2023:
             description: "Did the depth of detail in the Section 508 Assessment criteria catch you off guard? Listen to how one agency seized this assessment as a chance to enhance the quality of the products they procure, create, and employ."
             room: 'Breakout Room and via Webex'
             roles: #list each roles as you intend the display on the page
-              - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-                who: michael-horton #bio_id for this person
-              - name: Presenter
-                who: kate-sweeney 
+              - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+                who: kate-sweeney #bio_id for this person
             downloads:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
