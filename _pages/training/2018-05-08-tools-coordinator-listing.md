@@ -223,15 +223,15 @@ James O. Taylor - 571-616-6713 - <james.o.taylor52.civ@mail.mil>
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
 VACANT
-### Missile Defense Agency
+### Missile Defense Agency (MDA)
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - 202-685-3714 - <irina.ryan.civ@ndu.edu>  
-### National Geospatial Intelligence Agency
+### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - 571-557-0117 - <kelali.k.dogbe@nga.mil>
-### National Guard Bureau
+### National Guard Bureau (NGB)
 Nguyen D. Lam - 703-601-2637 - <nguyen.d.lam.civ@army.mil>  
-### National Reconnaissance Office
+### National Reconnaissance Office (NRO)
 John O. Adeika - 703-808-2186 - <adeikajo@nro.mil>  
 ### Navy
 Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
@@ -248,7 +248,8 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
 ### U.S. European Command (EUCOM)
 VACANT
 ### U.S. Northern Command (USNORTHCOM)
-Donald Hopper - 719-554-7838 - <donald.w.hopper.civ@mail.mil>
+Katherine	S. Nichols - 719-554-4927 - <katherine.s.nichols2.civ@mail.mil>  
+Lt. Col. Matthew J. McAlister - 719-554-9454 - <matthew.j.mcalister.mil@mail.mil>  
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
@@ -714,7 +715,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: September 19, 2023
+**Reviewed/Updated**: October 24, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
