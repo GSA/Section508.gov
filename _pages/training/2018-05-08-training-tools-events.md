@@ -7,7 +7,7 @@ title: 'Accessibility Training, Tools, and Events'
 created: 1525805876
 ---
 
-Learn how you can make your agency's electornic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
+Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
 {: .text-gray-50 }
 
 <section class="usa-section">
