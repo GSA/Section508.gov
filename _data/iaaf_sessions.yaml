@@ -840,6 +840,8 @@ iaaf_2023:
             who: burns-sylvia
           - name: Panelist
             who: orr-martha
+          - name: Panelist
+            who: shive-david
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
@@ -1214,6 +1216,8 @@ iaaf_2023:
             who: geevarghese-anupa
           - name: Panelist
             who: hardy-chuck
+          - name: Panelist
+            who: croft-jennifer
           - name: Panelist 
             who: jamal-natasha
       - name: 'Closing' 
