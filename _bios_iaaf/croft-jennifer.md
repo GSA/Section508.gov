@@ -4,7 +4,7 @@ bio_id: croft-jennifer
 display_name: Jennifer Croft
 first_name: Jennifer
 last_name: Croft
-affiliation_long: Office fo Personnel Management
+affiliation_long: Office of Personnel Management
 affiliation_short: OPM
 position: Diversity Program Manager
 office: 
