@@ -91,13 +91,68 @@ American Sign Language (ASL) interpretation will be provided in all plenary and 
 
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 20, 2023. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
+## Entry & Security
+The FDIC building security policy requires that all individuals entering the hotel/training facility present government issued photo identification. Please arrive 30 minutes prior to your scheduled event in order to process through security.
+
+Building Access - Security has been notified of your visit. The security guards may ask you to identify whom you are visiting or the meeting you are attending. Please also remember to bring identification. The FDIC accepts the following forms of ID:
+
+* State Driver’s License with photograph (Most efficient method)
+* State non-driver’s identification card with photograph
+* Military identification
+* Valid United States Passport
+* Government issued photographic identification card  with prior approval
+* INS Identification card
+* Foreign Passport with prior approval from FDIC (pre-registered)
+* FDIC Sponsor Verification
+* FDIC will not authorize access to the facility when presented the following sources of identification:
+  * Foreign student identification card
+  * Non-photographic identification card
+  * Any expired identification card
+  * Any other form of identification that is not listed above
+
+## Lunch
+Lunch and snacks are available for purchase at FDIC's cafeteria. There are also several restaurants within a few blocks of the campus. FDIC is a cashless facility, below are the hours of operation for the FDIC cafeteria and coffee kiosk.
+
+### Cafeteria - Location 1st Floor C Building
+6:45 a.m. - 9:00 a.m. Full Breakfast  
+9:00 a.m. - 11:00 a.m. Continental Breakfast (Coffee, Juice, Pastries, Fruit, etc.)  
+11:00 a.m. - 11:30 a.m.Closed  
+11:30 a.m. - 2:15 p.m. Lunch  
+2:15 p.m. - 3:00 p.m.Snack Service  
+
+### Coffee Kiosk - Location 2nd Floor C Building  
+Monday to Thursday - 6:45am to 4:00pm  
+
+## Lodging
+If you are traveling from out of town, FDIC has a limited number of rooms available. To book a room or inquire about rates, please reach out to lodging request. Additional hotels located in the proximity of FDIC.
+
+## Transportation
+
+The Virginia Square Orange Line Metro Stop is directly across Fairfax Drive (next to Starbucks) from the FDIC Seidman Center.
+
+**Directions:** The training will be conducted at the FDIC’s Seidman Center training facility located near the Virginia Square Metro stop. When you come off the escalator from the Virginia Square Metro (Orange Line), turn around 180 degrees and the FDIC’s Seidman Center training facility will be diagonally across the intersection from where you’re standing, on the corner of Fairfax Drive and North Monroe Street. Walk to the right, up Fairfax Drive and entering the far center building off the courtyard, near the flag poles. Security will direct you from there.
+
+## Parking
+
+There is paid street parking on nearby streets (some have a two-hour limit). There are also several parking garages nearby that offer a full-day rate. Parkopedia
+
+## Service Animals
+
+Service animal relief has been designated at the courtyard in front of the main entrance of the FDIC Building.
+
 ## Check Your Tech
 The 2023 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser <!--and telephone (audio-only)-->.
 
-We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started">Webex Help Center</a>, to <a class="ext" href="https://www.webex.com/downloads.html" target="_blank">Download Webex</a>, <a href="https://help.webex.com/en-us/article/n3rosq0/Get-started-with-Webex-Webinars" target="_blank" class="usa-link--external">Get started with Webex webinars</a>, and <a class="ext" href="https://www.webex.com/test-meeting.html" target="_blank" class="usa-link--external">Join a Test Meeting</a>. Keyboard users may also preview Webex <a class="ext" href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank">Keyboard navigation and shortcuts</a> resources for Windows, macOS, iOS, and web browsers.
+We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started" target="_blank" class="usa-link--external">Webex Help Center</a>, to: 
+
+* <a href="https://www.webex.com/downloads.html" target="_blank" class="usa-link--external">Download Webex</a>
+* <a href="https://help.webex.com/en-us/article/n3rosq0/Get-started-with-Webex-Webinars" target="_blank" class="usa-link--external">Get started with Webex webinars</a>
+* <a href="https://www.webex.com/test-meeting.html" target="_blank" class="usa-link--external">Join a Test Meeting</a> 
+* <a href="https://help.webex.com/en-us/article/8l0y08/Join-a-webinar" target="_blank" class="usa-link--external">Joining via a browser or via the desktop app</a>
+* <a href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank" class="usa-link--external">Preview keyboard navigation and shortcuts</a> and resources for Windows, macOS, iOS, and web browsers.
 
 ## Contact the IAAF Host Committee
-If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <a href="mailto:iaaf@gsa.gov">iaaf@gsa.gov.</a>
+If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>. Questions about the FDIC facility can be sent to <Section508@fdic.gov>
 
 <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
   <div class="usa-summary-box__body">
