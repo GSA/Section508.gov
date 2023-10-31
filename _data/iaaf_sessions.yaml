@@ -778,7 +778,7 @@ iaaf_2023:
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
             description: 
-            room: Training Room Only
+            room: Training Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: angela-watkins #use bio_id 
