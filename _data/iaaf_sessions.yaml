@@ -1213,11 +1213,11 @@ iaaf_2023:
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrea-oneal
           - name: Panelist
+            who: croft-jennifer
+          - name: Panelist
             who: geevarghese-anupa
           - name: Panelist
             who: hardy-chuck
-          - name: Panelist
-            who: croft-jennifer
           - name: Panelist 
             who: jamal-natasha
       - name: 'Closing' 

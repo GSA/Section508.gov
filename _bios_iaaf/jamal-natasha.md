@@ -4,7 +4,7 @@ bio_id: jamal-natasha
 display_name: Natasha Jamal
 first_name: Natasha 
 last_name: Jamal
-affiliation_long: U.S. Digital Service @ The White House
+affiliation_long: U.S. Digital Service
 affiliation_short: USDS
 position: Director of Diversity, Equity, Inclusion and Accessibility
 office: 
