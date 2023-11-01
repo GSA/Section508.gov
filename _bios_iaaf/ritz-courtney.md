@@ -6,7 +6,7 @@ first_name: Courtney
 last_name: Ritz
 affiliation_long: National Aeronautics and Space Administration
 affiliation_short: NASA
-position: Program Manager
+position: IT Accessibility Lead
 office: 
 location: Greenbelt, MD
 email: 
