@@ -1107,9 +1107,9 @@ iaaf_2023:
         session_id: day3breakout1
         tracks:
           - name: 'Track A: Government Operations'
-            name_breakout: "Procuring Accessible ICT"
+            name_breakout: "Accessibility in Procurement"
             track_id: day3breakout1a
-            description: 
+            description: Procurement plays an integral role in Accessibility.  There are many people passionate about accessibility in procurement but just don't know where to start.  Mr. Proctor developed a guide that helps to bridge that gap by putting passion into practice and moving beyond "ticking a checkbox." 
             room: 'Breakout Room and via Webex'
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
