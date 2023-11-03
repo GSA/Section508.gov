@@ -1029,7 +1029,7 @@ iaaf_2023:
         time_end: 2023-11-08 18:00:00
         session_id: day3afterparty
         subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.
-        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.<br><br>Not a government-sponsored event. All purchases are the responsibility of the attendee.
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person            
@@ -1242,7 +1242,7 @@ iaaf_2023:
         time_end: 2023-11-09 18:00:00
         session_id: day3afterparty
         subtitle: Connect with available hosts, presenters, and participants at Quincy Hall.
-        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.
+        description: 4001 Fairfax Drive<br>Arlington, VA 22203<br>(703) 567-4098<br><a href="https://www.quincyhallbar.com" target="_blank" class="usa-link--external">https://www.quincyhallbar.com/</a>.<br><br>Not a government-sponsored event. All purchases are the responsibility of the attendee.
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person 

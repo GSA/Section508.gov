@@ -13,8 +13,8 @@ email:
 image_url: https://assets.section508.gov/files/bio-images/brewer-judy.jpg
 iaaf_years: 2023
 ---
-Judy Brewer is the Assistant Director at the White House Office of Science and Technology (OSTP).
+Judy Brewer is Assistant Director for Accessibility at the White House Office of Science and Technology Policy (OSTP), where she works science and technology policies that impact people with disabilities. These include strengthening digital accessibility policies that are essential to disability rights, including through improvements to the ADA and Section 508 implementation; promoting equitable access to accessible technologies; helping build paths for responsible AI; opening the STEM pipeline for people with disabilities; and improving health science equity.
 
-OSTP works to strengthen and advance American science and technology by collaborating with federal departments and agencies and with Congress to create bold visions, unified strategies, clear plans, wise policies, and effective, equitable programs for science and technology.
+Prior to working at the White House, Judy served for several months as a Digital Accessibility Expert at the Partnership for Public Service, a non-partisan non-profit focused on building better government. For the previous 25 years she led the World Wide Web Consortium’s Web Accessibility Initiative (WAI), which develops the internationally recognized Web Content Accessibility Guidelines (WCAG); and served as a Principal Research Scientist at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). Her experience includes work on digital accessibility, assistive technology, disability advocacy, international standards development, and development of technology policies and practices to advance equity and inclusion.
 
-Prior to her work with OSTP, Judy Brewer served for 25 years as WAI Director with W3C (World Wide Web Consortium). She is an internationally recognized expert on accessibility.
+ 
