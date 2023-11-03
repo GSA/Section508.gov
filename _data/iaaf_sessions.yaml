@@ -615,7 +615,7 @@ iaaf_2023:
         time_end: 2023-11-07 10:20:00
         session_id: day1welcome
         description:
-        room: 'Bair Auditorium'
+        room: 'Bair Auditorium and via Webex'
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: daniel-pomeroy #bio_id for this person 
@@ -636,7 +636,7 @@ iaaf_2023:
             name_breakout: 'Design PowerPoint Templates for Accessibility'
             track_id: day1breakout1a
             description: This course is designed to help students become familiar with the PowerPoint layout, placeholders, and the many benefits of designing for accessibility. In addition, students will learn how to apply the 508 requirements and use the built-in Microsoft Accessibility Checker.
-            room: Training Room and via Webex
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: gary-morin #bio_id for this person 
@@ -655,7 +655,7 @@ iaaf_2023:
             name_breakout: 'How to use ART'
             track_id: day1breakout1b
             description: "During this demo, we will introduce the enhanced Accessibility Requirements Tool (ART), a step-by-step guide to help you easily identify relevant accessibility requirements for Information and Communication Technology (ICT) from the Revised 508 Standards, and incorporate them into your procurement and contracting documentation. GSA’s IT Accessibility Program developed ART as part of its mission to provide technical assistance to federal agencies, to improve compliance with Section 508 of the Rehabilitation Act. Use ART to buy and build technology that’s accessible to all."
-            room: Training Room and via Webex
+            room: Bair Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who:  wilson-alex #bio_id for this person 
@@ -682,7 +682,7 @@ iaaf_2023:
             name_breakout: 'Section 508: Testing Tools & Microsoft Ease of Access Center'
             track_id: day1breakout2a
             description: "During this session you will learn about several free testing tools that you can use to ensure your ICT products are Section 508 Compliant. We will give an overview of Microsoft’s Ease of Access, JAWS and NVDA, the Color Contrast Analyzer, ANDI, and Microsoft Accessibility Insights. Please see the PPT presentation to download these tools in advance if you would like to follow along."
-            room: Training Room Only
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
@@ -697,7 +697,7 @@ iaaf_2023:
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
             description: 
-            room: Training Room and via Webex
+            room: Bair Auditorium Room and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: ring-donna #bio_id for this person 
@@ -723,7 +723,7 @@ iaaf_2023:
             name_breakout: 'Section 508: Common Issues for Documents'
             track_id: day1breakout3a
             description: 
-            room: Training Room Only
+            room: Hove Auditorium Room Only
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
@@ -738,7 +738,7 @@ iaaf_2023:
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
             description: "Applying both automated and manual testing methods is necessary to meet 508 compliance - but where to begin? What tools and methods to choose? In this session, ONRR will present what they've learned from applying a variety of both automated and manual testing methods &#59; the methodology and advantages of each tool, what each one does not detect, and how they have incorporated the results into their Agile development cycle to make improvements to their websites."
-            room: Training Room and via Webex
+            room: Bair Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: sharma-siddhartha #bio_id for this person 
@@ -765,7 +765,7 @@ iaaf_2023:
             name_breakout: 'Creating Accessible PDF Documents with Signatures'
             track_id: day1breakout4a
             description: Learn how to make your PDF forms Section 508 conformant using Adobe tools.
-            room: Training Room Only
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: frith-chet #bio_id for this person
@@ -778,7 +778,7 @@ iaaf_2023:
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
             description: 
-            room: Training Room and through Webex
+            room: Bair Auditorium Room and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: angela-watkins #use bio_id 
@@ -821,7 +821,7 @@ iaaf_2023:
         time_end: 2023-11-08 10:15:00
         session_id: day2welcome
         description:
-        room: 'Bair Auditorium' 
+        room: 'Bair Auditorium and via Webex' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: burns-sylvia #bio_id for this person 
@@ -832,7 +832,7 @@ iaaf_2023:
         session_id: day2general1
         subtitle: Digital Accessibility in the Federal Workplace
         description: This moderated plenary discussion will explore the role of agency leadership in promoting, prioritizing, and improving digital accessibility in the federal workplace and how investments in measuring accessibility cultivate an accessibility inclusive work environment.
-        room: 'Bair Auditorium'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: martorana-clare #bio_id for this person
@@ -845,27 +845,27 @@ iaaf_2023:
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 11:15:00
-        time_end: 2023-11-08 11:25:00
+        time_end: 2023-11-08 11:30:00
         session_id: day2break1
         description:
       - name: 'Keynote'
         type: keynote
-        time_start: 2023-11-08 11:25:00
-        time_end: 2023-11-08 12:10:00
+        time_start: 2023-11-08 11:30:00
+        time_end: 2023-11-08 12:00:00
         session_id: day2keynote
         description: 
-        room: 'Bair Auditorium'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: # Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: #frith-chet #bio_id for this person 
+            who: bradsher-tanya #bio_id for this person 
           - name: #Speaker
-            who: #andrew-nielson
+            who: #
         downloads:
           - link_name: 
             file_name:
       - name: 'Lunch/Exhibits'
         type: break
-        time_start: 2023-11-08 12:10:00
+        time_start: 2023-11-08 12:00:00
         time_end: 2023-11-08 13:30:00
         session_id: day2break2
         description:
@@ -880,7 +880,7 @@ iaaf_2023:
             name_breakout: "GSA General Update"
             track_id: day2breakout1a
             description: "Gain insights into the Government-wide IT Accessibility Program's achievements over the past year and get a glimpse of what the future holds - and how you can be part of our success."
-            room: Training Room and through Webex
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: andrew-nielson #bio_id for this person 
@@ -897,7 +897,7 @@ iaaf_2023:
             name_breakout: 'User Research and Personas for BARD Mobile'
             track_id: day2breakout1b
             description: "The National Library Service for the Blind and Print Disabled's BARD Mobile apps provide access to tens of thousands of books to patrons with disabilities including blindness, low-vision, cognitive, and print disabilities. Over the last 3 years, a cross-department team at the Library has conducted user research and developed personas to improve BARD Mobile and other NLS services. In this presentation, we will present the resulting persona and talk about what we learned about the diverse needs of NLS patrons."
-            room: Training Room and through Webex
+            room: Room B3022 and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: whittington-david #bio_id for this person 
@@ -914,7 +914,7 @@ iaaf_2023:
             name_breakout: 'Using USWDS Critical Checklists to Develop Accessibility Skills Across Government Teams'
             track_id: day2breakout1c
             description: In this session, members of the U.S. Web Design System core team will share plain-language checklists they're developing for checking the accessibility of individual components (the building blocks of websites). They'll show how any agency team — technical or not — can use these checklists to perform baseline manual accessibility testing (like keyboard testing, screen reader testing, mobile testing, and zoom magnification testing) on their own sites. They will also describe their iterative design and development process for these checklists, including content development and UX research.
-            room: Training Room and through Webex
+            room: Bair Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: martin-beth #bio_id for this person 
@@ -943,7 +943,7 @@ iaaf_2023:
             name_breakout: "Shared Services Canada - Update on our Accessible ICT Procurement Pilot"
             track_id: day2breakout2a
             description:  
-            room: Training Room and through Webex
+            room: Room B3022 and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: nguyen-frances #bio_id for this person 
@@ -958,7 +958,7 @@ iaaf_2023:
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
             track_id: day2breakout2b
             description:  
-            room: Training Room and through Webex
+            room: Hove Auditorium Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: martin-beth #bio_id for this person 
@@ -971,7 +971,7 @@ iaaf_2023:
             name_breakout: 'Improving Digital Accessibility: A year long strategic plan to improve the accessibility of digital products'
             track_id: day2breakout2c
             description:  
-            room: Training Room and through Webex
+            room: Bair Auditorium Room and through Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: jolivette-tracy #bio_id for this person 
@@ -1000,7 +1000,7 @@ iaaf_2023:
         session_id: day2general2
         subtitle: "Real Talk- A Conversation with Section 508 Program Managers"
         description: Section 508 of the Rehabilitation Act requires the U.S. Federal Government to buy, build, and implement Information and Communication Technology (ICT) that is accessible to all its employees and members of the public. Section 508 Program Managers are responsible for a wide array of functions ensuring digital accessibility through ICT acquisition, development, electronic content creation, agency policy, compliance enforcement, outreach and training, and much more. <br><br>Join us to hear this experienced panel share its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.
-        room: 'Bair Auditorium'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: betsy-sirk
@@ -1050,7 +1050,7 @@ iaaf_2023:
         time_end: 2023-11-09 10:15:00
         session_id: day3welcome
         description:
-        room: 'Bair Auditorium' 
+        room: 'Bair Auditorium and via Webex' 
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: sachin-pavithran #bio_id for this person 
@@ -1061,7 +1061,7 @@ iaaf_2023:
         session_id: day3keynote
         description: 
         subtitle: A Fireside Chat with Accessibility Leaders
-        room: 'Bair Auditorium'
+        room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: levy-alison #bio_id for this person 
@@ -1087,12 +1087,18 @@ iaaf_2023:
         time_start: 2023-11-09 11:30:00
         time_end: 2023-11-09 12:30:00
         session_id: day3general1
-        subtitle: "Department of Veteran Affairs"
+        subtitle: "Accessibility Round Table with the Department of Veterans Affairs"
         description: 
         room: 'Bair Auditorium and via Webex'
         roles: #list each roles as you intend the display on the page
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
-            who: #bio_id for this person 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
+            who: orr-martha #bio_id for this person 
+          - name: Panelist
+            who: frith-chet
+          - name: Panelist
+            who: larson-merissa
+          - name: Panelist
+            who: patrick-sheehan         
       - name: 'Lunch/Exhibits'
         type: break
         time_start: 2023-11-09 12:30:00
@@ -1110,7 +1116,7 @@ iaaf_2023:
             name_breakout: "Accessibility in Procurement"
             track_id: day3breakout1a
             description: Procurement plays an integral role in Accessibility.  There are many people passionate about accessibility in procurement but just don't know where to start.  Mr. Proctor developed a guide that helps to bridge that gap by putting passion into practice and moving beyond "ticking a checkbox." 
-            room: 'Breakout Room and via Webex'
+            room: 'Hove Auditorium and via Webex'
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: proctor-justen #bio_id for this person                              
@@ -1121,7 +1127,7 @@ iaaf_2023:
             name_breakout: 'AI-generated Alt-text: The future of Image Accessibility?'
             track_id: day3breakout1b
             description: "What happens when you ask a robot to write your alt-text? Can commercial products available today do a competent job? We tasked several mass market AI computer vision models with writing quality alt-text for different types of images commonly found on federal websites. Then we compared the output from computers, experienced alt-text writers, and inexperienced alt text writers. Who did it best? Attend this session to learn what worked, what didn’t, and what surprised us. (No prior AI knowledge required.)"
-            room: 'Breakout Room and via Webex' 
+            room: 'Bair Auditorium and via Webex' 
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: haggerty-susan #bio_id for this person 
@@ -1136,7 +1142,7 @@ iaaf_2023:
             name_breakout: 'Should You Compromise on Your Greatest Abilities When You Have a Disability?'
             track_id: day3breakout1c
             description: The career journey of one individual from linguist to accommodations specialist.
-            room: 'Breakout Room and via Webex'
+            room: 'Room B3022 and via Webex'
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
@@ -1161,7 +1167,7 @@ iaaf_2023:
             name_breakout: "A Retrospective on the Annual Section 508 Assessment"
             track_id: day3breakout2a
             description: "Did the depth of detail in the Section 508 Assessment criteria catch you off guard? Listen to how one agency seized this assessment as a chance to enhance the quality of the products they procure, create, and employ."
-            room: 'Breakout Room and via Webex'
+            room: 'Bair Auditorium and Virtual Presentation via Webex'
             roles: #list each roles as you intend the display on the page
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: kate-sweeney #bio_id for this person
@@ -1169,10 +1175,10 @@ iaaf_2023:
               - link_name: #File Name - IAAF 2022 (PPTX)
                 file_name: #File%20Name%20-%20IAAF%202022.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
-            name_breakout: 'An overview of new web accessibility requirements from WCAG 2.2 and 2.1'
+            name_breakout: 'An Overview of New Web Accessibility Requirements from WCAG 2.2 and 2.1'
             track_id: day3breakout2b
             description: "WCAG 2.0 Level AA became the web accessibility requirement under Section 508 in March of 2017. WCAG 2.1 became a finalized standard in June of 2018.  The Europe Union has been using WCAG 2.1 for five years.  WCAG 2.2 is on the cusp of release.  If your agency is using only WCAG 2.0 Level AA to audit your web properties, what accessibility features are you missing?  Bruce and Rachael will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2."
-            room: Virtual Presentation via Webex
+            room: Room B3022 and Virtual Presentation via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: tim-creagan #bio_id for this person 
@@ -1187,7 +1193,7 @@ iaaf_2023:
             name_breakout: 'Cultivating & Managing an Inclusive Culture'
             track_id: day3breakout3c
             description: 
-            room: Virtual Presentation via Webex
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: sharma-siddhartha #bio_id for this person 
@@ -1230,12 +1236,12 @@ iaaf_2023:
         time_end: 2023-11-08 16:45:00
         session_id: day2close
         description: 
-        room: Bair Auditorium
+        room: Bair Auditorium and via Webex
         roles: #list each roles as you intend the display on the page
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #use bio_id          
           - name: 
             who: aiken-brooke
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id          
       - name: 'IAAF "After Party"' 
         type: welcome
         time_start: 2023-11-09 16:45:00
