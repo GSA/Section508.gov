@@ -4,9 +4,9 @@ bio_id: patrick-sheehan
 display_name: Patrick Sheehan
 first_name: Patrick
 last_name: Sheehan
-affiliation_long: U.S. Department of Veterans Affairs
+affiliation_long: Department of Veterans Affairs
 affiliation_short: VA
-position: Chief, Section 508 Office, Section 508 Program Manager
+position: Section 508 Program Manager
 office: 
 location: Washington, DC
 email: 

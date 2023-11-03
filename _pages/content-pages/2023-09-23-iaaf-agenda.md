@@ -165,6 +165,13 @@ created: 2023-09-23
   </div>
 {% endfor %}
 
+## Exhibitors
+<p>The following vendors will be exhibiting outside of the Bair Auditorium Wednesday or Thursday during the conference. Exhibitor participation was performed through an open registration and selected on a first-come, first-serve basis. The GSA, USAB, Federal CIO Council, FDIC, VA, partner and contributing agencies do not endorse the products, services, and claims of participating vendors.</p>
+<p>Explore products and services designed to support and enhance the lives of people with disabilities and others.</p>
+<ul>
+  <li><strong><a href="https://www.neweditions.net/services/accessibility-services">New Editions Consulting, Inc.</a></strong>: New Editions Consulting, Inc., is an award winning, customer-focused, woman-owned small business with a demonstrated history of managing Federal contracts related to disability and accessibility. With more than 20 years of experience, we help clients understand Section 508 Standards, Web Content Accessibility Guidelines (WCAG) 2.1 Level A, AA, and AAA Success Criteria, and the legal, technical, and policy framework of digital accessibility.</li>
+</ul>
+
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
   <div class="padding-1">
     <p class="text-large"><strong>Thank you</strong></p>
