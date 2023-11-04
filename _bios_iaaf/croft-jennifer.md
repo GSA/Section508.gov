@@ -10,7 +10,7 @@ position: Diversity Program Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/blank-profile.jpg
+image_url: https://assets.section508.gov/files/bio-images/croft-jennifer.jpg
 iaaf_years: 2023
 ---
 Jennifer Croft is a Diversity Program Manager at the Office of Diversity, Equity, Inclusion, and Accessibility (ODEIA) within OPM. In this position, her role is to advise OPM and federal agency leaders on the implementation of Executive Order 14035 on DEIA in the Federal Government; recommending concrete strategies and best practices to recruit, hire, include, develop, retain, engage, and motivate a diverse, results-oriented, high-performing workforce. 
