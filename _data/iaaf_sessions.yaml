@@ -723,7 +723,7 @@ iaaf_2023:
             name_breakout: 'Section 508: Common Issues for Documents'
             track_id: day1breakout3a
             description: 
-            room: Hove Auditorium Room Only
+            room: Hove Auditorium and via Webex
             roles: #list each roles as you intend the display on the page
               - name: Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: aiken-brooke #bio_id for this person 
