@@ -984,8 +984,8 @@ iaaf_2023:
               - name: panelist                
                 who: liu-arlo
             downloads:
-              - link_name: #Improving Digital Accessibility - IAAF (PPTX)
-                file_name: #Improving%20Digital%20Accessibility%20-%20IAAF.pptx
+              - link_name: #Improving Digital Accessibility - IAAF 2023 (PPTX)
+                file_name: #Improving%20Digital%20Accessibility%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:10:00
