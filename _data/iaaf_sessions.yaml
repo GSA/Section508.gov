@@ -791,8 +791,8 @@ iaaf_2023:
                 file_name: Accessible%20Customer%20Experience%20and%20Shared%20Services%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
-        time_start: 2023-11-07 14:45:00
-        time_end: 2023-11-07 15:00:00
+        time_start: 2023-11-07 15:45:00
+        time_end: 2023-11-07 16:00:00
         session_id: day1break3
         description:
         room: 'Return to Bair Auditorium'
