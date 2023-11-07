@@ -643,14 +643,14 @@ iaaf_2023:
               - name: Presenter
                 who: dansby-dee
             downloads:
-              - link_name: #Design PPT Templates for Accessibility - IAAF 2023.pptx (PPTX)
-                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20-%20IAAF%202023.pptx
-              - link_name: #Design PPT Templates for Accessibility Design Catalog - IAAF 2023.pptx (PPTX)
-                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20-%20IAAF%202023.pptx
-              - link_name: #Design PPT Templates for Accessibility Design Catalog Supplemental - IAAF2023.docx (PPTX)
-                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20Supplemental%20-%20IAAF2023.docx
-              - link_name: #Design PPT Templates for Accessibility Workbook - IAAF2023.docx (PPTX)
-                file_name: #Design%20PPT%20Templates%20for%20Accessibility%20Workbook%20-%20IAAF2023.docx
+              - link_name: Design PPT Templates for Accessibility - IAAF 2023 (PPTX)
+                file_name: Design%20PPT%20Templates%20for%20Accessibility%20-%20IAAF%202023.pptx
+              - link_name: Design PPT Templates for Accessibility Design Catalog - IAAF 2023 (PPTX)
+                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20-%20IAAF%202023.pptx
+              - link_name: Design PPT Templates for Accessibility Design Catalog Supplemental - IAAF2023 (DOCX)
+                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Design%20Catalog%20Supplemental%20-%20IAAF2023.docx
+              - link_name: Design PPT Templates for Accessibility Workbook - IAAF2023 (DOCX)
+                file_name: Design%20PPT%20Templates%20for%20Accessibility%20Workbook%20-%20IAAF2023.docx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'How to use ART'
             track_id: day1breakout1b
@@ -664,8 +664,8 @@ iaaf_2023:
               - name: Presenter
                 who: brunson-arthur
             downloads:
-              - link_name: #How to use ART - IAAF 2023.pptx (PPTX)
-                file_name: #How%20to%20use%20ART%20-%20IAAF%202023.pptx
+              - link_name: How to use ART - IAAF 2023 (PPTX)
+                file_name: How%20to%20use%20ART%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 11:15:00
@@ -691,8 +691,8 @@ iaaf_2023:
               - name: Presenter
                 who: guzman-danny
             downloads:
-              - link_name: #Testing Tools and Ease of Access - IAAF 2023.pptx (PPTX)
-                file_name: #Testing%20Tools%20and%20Ease%20of%20Access%20-%20IAAF%202023.pptx
+              - link_name: Testing Tools and Ease of Access - IAAF 2023 (PPTX)
+                file_name: Testing%20Tools%20and%20Ease%20of%20Access%20-%20IAAF%202023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Remediation: The Next Step in an Effective 508 Program'
             track_id: day1breakout2b
@@ -704,8 +704,8 @@ iaaf_2023:
               - name: Presenter
                 who: crowell-pierce
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: Remediation - The Next Step in an Effective 508 Program - IAAF 2023 (PPTX)
+                file_name: Remediation%20-%20The%20Next%20Step%20in%20an%20Effective%20508%20Program%20-%20IAAF%202023.pptx
       - name: 'Lunch'
         type: break
         time_start: 2023-11-07 12:30:00
@@ -732,8 +732,8 @@ iaaf_2023:
               - name: Presenter
                 who: vallarta-alfred
             downloads:
-              - link_name: #Section 508 Common Issues for Documents - IAAF 2023.pptx (PPTX)
-                file_name: #Section%20508%20Common%20Issues%20for%20Documents%20-%20IAAF%202023.pptx
+              - link_name: Section 508 Common Issues for Documents - IAAF 2023 (PPTX)
+                file_name: Section%20508%20Common%20Issues%20for%20Documents%20-%20IAAF%202023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
@@ -747,8 +747,8 @@ iaaf_2023:
               - name: Presenter
                 who: mcnally-alexandria
             downloads:
-              - link_name: #Testing for Compliance - IAAF 2023.pptx (PPTX)
-                file_name: #Testing%20for%20Compliance%20-%20IAAF%202023.pptx
+              - link_name: Testing for Compliance - IAAF 2023 (PPTX)
+                file_name: Testing%20for%20Compliance%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -772,8 +772,8 @@ iaaf_2023:
               - name: Presenter 
                 who: patrick-sheehan
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: Creating Accessible PDF Documents with Signatures - IAAF 2023 (PPTX)
+                file_name: Creating%20Accessible%20PDF%20Documents%20with%20Signatures%20-%20IAAF%202023.pptx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Accessible Customer Experience & Shared Services'
             track_id: day1breakout4b
@@ -785,8 +785,8 @@ iaaf_2023:
               - name: Panelist
                 who: rodriguez-karla
             downloads:
-              - link_name: #Accessible Customer Experience and Shared Services - IAAF 2023.pptx (PPTX)
-                file_name: #Accessible%20Customer%20Experience%20and%20Shared%20Services%20-%20IAAF%202023.pptx
+              - link_name: Accessible Customer Experience and Shared Services - IAAF 2023 (PPTX)
+                file_name: Accessible%20Customer%20Experience%20and%20Shared%20Services%20-%20IAAF%202023.pptx
       - name: 'Break'
         type: break
         time_start: 2023-11-07 14:45:00
@@ -891,8 +891,8 @@ iaaf_2023:
               - name: Presenter
                 who: wilson-alex                                 
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #GWITAP Activity Update - IAAF 2023 (PPTX)
+                file_name: #GWITAP%20Activity%20Update%20-%20IAAF%202023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'User Research and Personas for BARD Mobile'
             track_id: day2breakout1b
@@ -925,7 +925,7 @@ iaaf_2023:
               - name: Panelist 
                 who: williams-daniel
             downloads:
-              - link_name: #Using USWDS Critical Checklists - IAAF 2023.pptx (PPTX)
+              - link_name: #Using USWDS Critical Checklists - IAAF 2023 (PPTX)
                 file_name: #Using%20USWDS%20Critical%20Checklists%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
@@ -952,7 +952,7 @@ iaaf_2023:
               - name: Panelist
                 who: rolleman-benjamin                           
             downloads:
-              - link_name: #SSC Accessible ICT Procurement Update - IAAF 2023.pptx (PPTX)
+              - link_name: #SSC Accessible ICT Procurement Update - IAAF 2023 (PPTX)
                 file_name: #SSC%20Accessible%20ICT%20Procurement%20Update%20-%20IAAF%202023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
@@ -984,7 +984,7 @@ iaaf_2023:
               - name: panelist                
                 who: liu-arlo
             downloads:
-              - link_name: #Improving Digital Accessibility - IAAF.pptx (PPTX)
+              - link_name: #Improving Digital Accessibility - IAAF (PPTX)
                 file_name: #Improving%20Digital%20Accessibility%20-%20IAAF.pptx
       - name: 'Break - Transition'
         type: break
