@@ -51,19 +51,20 @@ If you are interested in presenting a workshop or discussion, please complete th
       <div class="grid-col tablet:grid-col-11">Both in-person and virtual attendance to this event is offered at no cost</div>
     </div>
     <h3>Registration</h3>
-      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum. Registration for in-person attendance closed on Monday, October 30th at 5:00 PM.</p> 
+      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum. Registration for virtual attendance is available throughout Thursday at 3:30 PM ET</p> 
+      <p>Registration for in-person attendance closed on Monday, October 30th at 5:00 PM and is no longer available.</p> 
     </div>
     <div class="tablet:grid-col-3 text-center">
       <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
   </div>
-    <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
+    <!-- <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
       <div class="usa-summary-box__body">
         <h4 id="summary-box-key-information">Exhibitor Registration</h4>
         <div class="usa-summary-box__text">
           <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and services on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
         </div>
       </div>
-    </div>
+    </div> -->
 </div>
 
 ### Save the Date to Your Calendar
@@ -167,4 +168,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** October 2023
+**Reviewed/Updated:** November 2023
