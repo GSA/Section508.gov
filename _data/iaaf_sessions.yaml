@@ -734,6 +734,8 @@ iaaf_2023:
             downloads:
               - link_name: Section 508 Common Issues for Documents - IAAF 2023 (PPTX)
                 file_name: Section%20508%20Common%20Issues%20for%20Documents%20-%20IAAF%202023.pptx
+              - link_name: Sample Document 508 Compliance Demo - IAAF 2023 (DOCX)
+                file_name: Sample%20Document%20508%20Compliance%20Demo.docx
           - name: 'Track B: Applied Accessibility Concepts'
             name_breakout: 'Testing for Compliance: A Comparison of Tools and Methods'
             track_id: day1breakout3b
