@@ -51,8 +51,7 @@ If you are interested in presenting a workshop or discussion, please complete th
       <div class="grid-col tablet:grid-col-11">Both in-person and virtual attendance to this event is offered at no cost</div>
     </div>
     <h3>Registration</h3>
-      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum. Registration for virtual attendance is available throughout Thursday at 3:30 PM ET</p> 
-      <p>Registration for in-person attendance closed on Monday, October 30th at 5:00 PM and is no longer available.</p> 
+      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum. Registration for <strong>virtual/online attendance</strong> is available through Thursday at 3:30 PM ET. <strong>Registration for in-person attendance closed on October 30th and is no longer available.</strong></p>
     </div>
     <div class="tablet:grid-col-3 text-center">
       <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>

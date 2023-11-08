@@ -860,8 +860,6 @@ iaaf_2023:
         roles: #list each roles as you intend the display on the page
           - name: # Moderator #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
             who: bradsher-tanya #bio_id for this person 
-          - name: #Speaker
-            who: #
         downloads:
           - link_name: 
             file_name:
@@ -893,8 +891,8 @@ iaaf_2023:
               - name: Presenter
                 who: wilson-alex                                 
             downloads:
-              - link_name: #GWITAP Activity Update - IAAF 2023 (PPTX)
-                file_name: #GWITAP%20Activity%20Update%20-%20IAAF%202023.pptx
+              - link_name: GWITAP Activity Update - IAAF 2023 (PPTX)
+                file_name: GWITAP%20Activity%20Update%20-%20IAAF%202023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'User Research and Personas for BARD Mobile'
             track_id: day2breakout1b
@@ -927,8 +925,8 @@ iaaf_2023:
               - name: Panelist 
                 who: williams-daniel
             downloads:
-              - link_name: #Using USWDS Critical Checklists - IAAF 2023 (PPTX)
-                file_name: #Using%20USWDS%20Critical%20Checklists%20-%20IAAF%202023.pptx
+              - link_name: Using USWDS Critical Checklists - IAAF 2023 (PPTX)
+                file_name: Using%20USWDS%20Critical%20Checklists%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 14:15:00
@@ -954,8 +952,8 @@ iaaf_2023:
               - name: Panelist
                 who: rolleman-benjamin                           
             downloads:
-              - link_name: #SSC Accessible ICT Procurement Update - IAAF 2023 (PPTX)
-                file_name: #SSC%20Accessible%20ICT%20Procurement%20Update%20-%20IAAF%202023.pptx
+              - link_name: SSC Accessible ICT Procurement Update - IAAF 2023 (PPTX)
+                file_name: SSC%20Accessible%20ICT%20Procurement%20Update%20-%20IAAF%202023.pptx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'Applying Radical Participatory Design in the Context of Digital Accessibility'
             track_id: day2breakout2b
@@ -986,8 +984,8 @@ iaaf_2023:
               - name: panelist                
                 who: liu-arlo
             downloads:
-              - link_name: #Improving Digital Accessibility - IAAF 2023 (PPTX)
-                file_name: #Improving%20Digital%20Accessibility%20-%20IAAF%202023.pptx
+              - link_name: Improving Digital Accessibility - IAAF 2023 (PPTX)
+                file_name: Improving%20Digital%20Accessibility%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:10:00
@@ -1013,8 +1011,8 @@ iaaf_2023:
           - name: Panelist 
             who: mark-urban
         downloads:
-          - link_name: #Real Talk - A Conversation with Section 508 Program Managers - IAAF 2023 (PPTX)
-            file_name: #Real%20Talk%20-%20A%20Conversation%20with%20Section%20508%20Program%20Managers%20-%20IAAF%202023.pptx
+          - link_name: Real Talk - A Conversation with Section 508 Program Managers - IAAF 2023 (PPTX)
+            file_name: Real%20Talk%20-%20A%20Conversation%20with%20Section%20508%20Program%20Managers%20-%20IAAF%202023.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2023-11-08 16:20:00
@@ -1189,8 +1187,8 @@ iaaf_2023:
               - name: Presenter
                 who: bradley-montgomery-rachael
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: #508 Missing WCAG 21-22 - IAAF 2023 (PPTX)
+                file_name: #508%20Missing%20WCAG%2021-22%20-%20IAAF%202023.pptx
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Cultivating & Managing an Inclusive Culture'
             track_id: day3breakout3c
