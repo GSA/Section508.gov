@@ -1121,8 +1121,8 @@ iaaf_2023:
               - name: Presenter #use in order, case-sensitive: Moderator, Speaker, Introduction, Presenter, Instructor, Panelist
                 who: proctor-justen #bio_id for this person                              
             downloads:
-              - link_name: #File Name - IAAF 2022 (PPTX)
-                file_name: #File%20Name%20-%20IAAF%202022.pptx
+              - link_name: Accessibility in Procurement Guide - IAAF 2023 (DOCX)
+                file_name: Accessibility in Procurement Guide - IAAF 2023.docx
           - name: 'Track B: Interactive & Emerging Technologies '
             name_breakout: 'AI-generated Alt-text: The future of Image Accessibility?'
             track_id: day3breakout1b
@@ -1136,8 +1136,8 @@ iaaf_2023:
               - name: Presenters
                 who: verigan-teresa
             downloads:
-              - link_name: #AI-Generated Alt-Text - IAAF 2023 (PDF)
-                file_name: #AI-Generated%20Alt-Text%20-%20IAAF%202023.pdf
+              - link_name: AI-Generated Alt-Text - IAAF 2023 (PDF)
+                file_name: AI-Generated%20Alt-Text%20-%20IAAF%202023.pdf
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Should You Compromise on Your Greatest Abilities When You Have a Disability?'
             track_id: day3breakout1c
@@ -1149,8 +1149,8 @@ iaaf_2023:
               - name: Speaker 
                 who: shah-rajiv
             downloads:
-              - link_name: #Should You Compromise on Your Greatest Abilities When You Have a Disability - IAAF 2023 (PPTX)
-                file_name: #Should%20You%20Compromise%20on%20Your%20Greatest%20Abilities%20When%20You%20Have%20a%20Disability%20-%20IAAF%202023.pptx
+              - link_name: Should You Compromise on Your Greatest Abilities When You Have a Disability - IAAF 2023 (PPTX)
+                file_name: Should%20You%20Compromise%20on%20Your%20Greatest%20Abilities%20When%20You%20Have%20a%20Disability%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 14:20:00
@@ -1187,8 +1187,8 @@ iaaf_2023:
               - name: Presenter
                 who: bradley-montgomery-rachael
             downloads:
-              - link_name: #508 Missing WCAG 21-22 - IAAF 2023 (PPTX)
-                file_name: #508%20Missing%20WCAG%2021-22%20-%20IAAF%202023.pptx
+              - link_name: 508 Missing WCAG 21-22 - IAAF 2023 (PPTX)
+                file_name: 508%20Missing%20WCAG%2021-22%20-%20IAAF%202023.pptx
           - name: 'Track C: Management & Leadership Principles in Accessibility'
             name_breakout: 'Cultivating & Managing an Inclusive Culture'
             track_id: day3breakout3c
@@ -1202,8 +1202,8 @@ iaaf_2023:
               - name: Presenter 
                 who: goldstein-lindsay
             downloads:
-              - link_name: #Cultivating and Managing an Inclusive Culture at ONRR - IAAF 2023 (PPTX)
-                file_name: #Cultivating%20and%20Managing%20an%20Inclusive%20Culture%20at%20ONRR%20-%20IAAF%202023.pptx
+              - link_name: Cultivating and Managing an Inclusive Culture at ONRR - IAAF 2023 (PPTX)
+                file_name: Cultivating%20and%20Managing%20an%20Inclusive%20Culture%20at%20ONRR%20-%20IAAF%202023.pptx
       - name: 'Break - Transition'
         type: break
         time_start: 2023-11-08 15:15:00
