@@ -1,3 +1,5 @@
+---
+---
 /*
   Customize US Web Design System SASS
   See all at designsystem.digital.gov/documentation/settings
@@ -7,16 +9,20 @@
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
 $theme-font-type-sans: "public-sans";
 $theme-show-notifications: false;
-@import "uswds";
+@import "scss/packages/required";
+@import "scss/packages/global";
+
+@import "scss/packages/uswds-components";
+@import "scss/packages/uswds-utilities";
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-  background-image: asset_url("hero-blue-world-crop.jpg")
+  background-image: url("../images/hero-blue-world-crop.jpg")
 //  background-position: 50%;
 //  background-size: cover;
 }
 .usa-hero.mission {
-  background-image: asset_url("absolutvision@2x.png")
+  background-image: url("../images/absolutvision@2x.png")
   //  background-position: 50%;
   //  background-size: cover;
 }
@@ -194,47 +200,47 @@ a{
   background: #edf5ff;
 }
 .buy{
-  background-image: asset_url("icons/Icon-awesome-shopping-bag.svg");
+  background-image: url("../images/icons/Icon-awesome-shopping-bag.svg");
   background-repeat: no-repeat;
   background-position: 20px 7px;
 }
 .news{
-  background-image: asset_url("icons/Icon-awesome-newspaper.svg");
+  background-image: url("../images/icons/Icon-awesome-newspaper.svg");
   background-repeat: no-repeat;
   background-position: 17px 12px;
 }
 .tools{
-  background-image: asset_url("icons/Icon-awesome-tools.svg");
+  background-image: url("../images/icons/Icon-awesome-tools.svg");
   background-repeat: no-repeat;
   background-position: 15px 8px;
 }
 .buy-content{
-  background-image: asset_url("rupixen.png");
+  background-image: url("../images/rupixen.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 .design-content{
-  background-image: asset_url("design.png");
+  background-image: url("../images/design.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 .test-content{
-  background-image: asset_url("test.png");
+  background-image: url("../images/test.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 .training-content{
-  background-image: asset_url("training.png");
+  background-image: url("../images/training.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 .news-content{
-  background-image: asset_url("markus.png");
+  background-image: url("../images/markus.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
 .tools-content{
-  background-image: asset_url("jo-szczepanska.png");
+  background-image: url("../images/jo-szczepanska.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
@@ -964,4 +970,71 @@ div[role=rowheader] {
       }
     }
   }
+}
+
+@media screen and (min-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        background-color: transparent !important;
+        background-image: url("../img/angle-arrow-up-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: "";
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button[aria-expanded="true"]:hover::after {
+        background-image: url("../img/angle-arrow-up-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+        transform: rotate(0deg) !important;
+    }
+
+    .usa-banner__button::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        width: 0.5rem;
+        margin-left: 4px;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__button:hover::after {
+        background-image: url("../img/angle-arrow-down-primary-hover.svg"), linear-gradient(transparent, transparent);
+        background-color: transparent !important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .usa-banner__button[aria-expanded="true"]::after {
+        border: 0;
+        background-image: url("../img/close-blue-60v-alt.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 1rem;
+        content: '';
+        display: inline-block;
+        height: 3rem;
+        width: 3rem;
+        margin-left: 0;
+        background-color: transparent !important;
+    }
+
+    .usa-banner__header-action::after {
+        background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 0.5rem;
+        content: '';
+        display: inline-block;
+        height: 0.5rem;
+        width: 0.5rem;
+        margin-left: 2px;
+        background-color: transparent !important;
+    }
 }
