@@ -13,18 +13,20 @@ redirect_from:
 <p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2022. Seals and logos for the General Services Administration, U.S. Access Board, CIO Council, Federal Deposit Insurance Corporation, and Department of Veterans Affairs." src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF 2023
-The 10th annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. The 2023 IAAF will be held November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center and available for in-person or virtual attendance.
+The 10th annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. The 2023 IAAF was held November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center and available for in-person or virtual attendance.
 
 <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
-The 2023 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), the U.S. Access Board (USAB), Federal Deposit Insurance Corporation (FDIC), and Department of Veterans (VA) Affairs in partnership with other federal agencies.
+The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), the U.S. Access Board (USAB), Federal Deposit Insurance Corporation (FDIC), and Department of Veterans (VA) Affairs in partnership with other federal agencies.
+
+For details and downloads from the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>. 
 
 <!--## Call for Proposals 
 The IAAF Planning Committee invites government employees, and contractors in partnership with government employees to submit proposals for consideration to host a workshop, presentation, or panel discussion. 
 
 If you are interested in presenting a workshop or discussion, please complete the <a href="https://assets.section508.gov/files/presentations/IAAF 2023 Call for Proposals.pdf" target="_blank">call for proposals (PDF)</a> and submit as an attachement to <iaaf@gsa.gov> by Friday, June 30, 2023.-->
 
-## Event Details
+<!-- ## Event Details
 <div class="grid-row">
   <div class="tablet:grid-col-9">
     <div class="grid-row">
@@ -56,14 +58,14 @@ If you are interested in presenting a workshop or discussion, please complete th
     <div class="tablet:grid-col-3 text-center">
       <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
   </div>
-    <!-- <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
+    <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
       <div class="usa-summary-box__body">
         <h4 id="summary-box-key-information">Exhibitor Registration</h4>
         <div class="usa-summary-box__text">
           <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and services on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
         </div>
       </div>
-    </div> -->
+    </div>
 </div>
 
 ### Save the Date to Your Calendar
@@ -141,7 +143,7 @@ There is paid street parking on nearby streets (some have a two-hour limit). The
 Service animal relief has been designated at the courtyard in front of the main entrance of the FDIC Building.
 
 ## Check Your Tech
-The 2023 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser <!--and telephone (audio-only)-->.
+The 2023 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser and telephone (audio-only). 
 
 We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started" target="_blank" class="usa-link--external">Webex Help Center</a>, to: 
 
@@ -150,9 +152,10 @@ We encourage all attendees to set up and test your Webex app ahead of the event 
 * <a href="https://www.webex.com/test-meeting.html" target="_blank" class="usa-link--external">Join a Test Meeting</a> 
 * <a href="https://help.webex.com/en-us/article/8l0y08/Join-a-webinar" target="_blank" class="usa-link--external">Joining via a browser or via the desktop app</a>
 * <a href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank" class="usa-link--external">Preview keyboard navigation and shortcuts</a> and resources for Windows, macOS, iOS, and web browsers.
+-->
 
 ## Contact the IAAF Host Committee
-If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>. Questions about the FDIC facility can be sent to <Section508@fdic.gov>
+If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
 
 <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
   <div class="usa-summary-box__body">
