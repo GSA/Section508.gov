@@ -1038,3 +1038,20 @@ div[role=rowheader] {
         background-color: transparent !important;
     }
 }
+
+.usa-link--external::after {
+    -webkit-mask: url(../img/usa-icons/launch.svg) no-repeat center/1.75ex 1.75ex;
+    display: inline-block !important;
+    color: rgb(23, 99, 207);
+    background: none;
+    background-color: currentColor;
+    display: inline-block;
+    height: 1.75ex;
+    width: 1.75ex;
+    content: "";
+    margin-left: 2px;
+    background-position: center;
+    display: inline;
+    padding-left: 1.75ex;
+    vertical-align: middle;
+}
