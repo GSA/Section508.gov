@@ -1,9 +1,10 @@
 source "https://rubygems.org"
-ruby '>= 2.6.3'
+ruby '>= 3.1.3'
 
-gem "jekyll", "~> 4.0"
+gem "jekyll", "~> 4.2.2"
 gem "execjs", "2.7.0" # https://github.com/rails/execjs/issues/99
 gem "autoprefixer-rails"
+gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
@@ -11,7 +12,6 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', "3.0.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-assets', git: "https://github.com/envygeeks/jekyll-assets"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
