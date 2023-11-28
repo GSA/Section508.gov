@@ -715,7 +715,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: November 2023
+**Reviewed/Updated**: November 20, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
