@@ -3,9 +3,11 @@ import { FormTemplateInterface } from 'src/app/shared/models/form-template.inter
 import { FormPageService } from 'src/app/shared/services/form-page/form-page.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 import { Router } from '@angular/router';
+import { ArtIctLpAddService } from 'src/app/shared/services/art-ict-lp-add/art-ict-lp-add.service';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { ElementType } from 'src/app/shared/models/form-element.interface';
-import {IStepIndicator} from "../../shared/models/step-indicator.interface";
+import { IStepIndicator } from "../../shared/models/step-indicator.interface";
+import { FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-form-page',
@@ -14,7 +16,11 @@ import {IStepIndicator} from "../../shared/models/step-indicator.interface";
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {
 
-
+  /**
+   * @description limit the maximum of ICT items that can be added
+   * @type number
+   */
+   index: number = 0;
   /**
    * @description Used to trigger the ngOnChanges function to listing to any input property change
    * @type any
@@ -37,32 +43,58 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
    * @description Provide all the configuration for the forms and elements which will be created
    * @type FormTemplateInterface
    */
-  formConfig:FormTemplateInterface[] = [];
+   formConfig: FormTemplateInterface[] = [];
 
+  /**
+  * @description Provide all the configuration for the forms and elements which will be created
+  * @type FormTemplateInterface
+  */
+  formIctConfig: FormTemplateInterface[] = [];
+
+  nameFormConfig: FormTemplateInterface[] = [];
   /**
    * @description Steps data for StepIndicatorComponent.
    * @type IStepIndicator
    */
-  stepsData: IStepIndicator = {tabs:[],activeId:'0'};
+  stepsData: IStepIndicator = { tabs: [], activeId: '0' };
+
+  /**
+  * @description to store all the ICT Items created or uploaded
+  * @type: ICTInterface[]
+  */
+  ictItems: ICTInterface[] = [];
 
   /**
    * @description Flag to update step indicator.
    * @type boolean
    */
-  updateStep: boolean = false;
+   updateStep: boolean = false;
 
+   /**
+    * @description store the value of the placeholder for an element
+    * @type string
+    */
+   tempPlaceHolder: string | undefined;
+
+   formList: FormGroup[] = [];
 
   constructor(
     private formPageService: FormPageService, 
     public ictItemService: IctItemService,
     private changeDetectorRef: ChangeDetectorRef,
-    private router:Router) { }
+    private router:Router,
+    public artIctLpAddService: ArtIctLpAddService) { }
 
   ngOnInit(): void {
-    
+
+      this.index = this.artIctLpAddService.getMaxItems();
      // Getting the form configuration, creating a new address, any update will no change this.formPageService data
      this.formConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
-   
+
+      // Getting the form configuration
+      this.formIctConfig = this.artIctLpAddService.getICTConfigurations();
+      this.tempPlaceHolder = this.formIctConfig[0].formElements[0].placeholder;
+
      // Redirect to the home page if there is no ictitem/ on page reload
     if(this.ictItemService.get().length <= 0) this.router.navigateByUrl("/");
 
@@ -124,7 +156,49 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
       // Saved the updatde items, will be used when ever the user returns to the form to repopulated values
       this.ictItemService.reSet(itcItems);
       this.router.navigateByUrl(('/summary-page'));
-  }
+    }
+
+  /**
+  * @return void
+  * @description When the user submit an project or ICT name, it will call the addIctItem function
+  * @param data 
+  */
+    onFormAdded(dataArr: any): void {
+        const data = dataArr[0];
+        const key = Object.keys(data)[0];
+        const val = data[key];
+        const tempIctItem: ICTInterface = { name: val, langKeyWords: data, timeStamp: (Date.now()).toString() }
+        this.addIctItem(tempIctItem);
+    }
+
+    /**
+ * @description Used to add an ICT item to the ictItem array
+ * @type: ICTInterface
+ * @return void
+ */
+    addIctItem(ictItem: ICTInterface): void {
+        this.index = this.stepsData.tabs.length;
+        // No action needed if the mx item is reached
+        if (this.ictItems.length >= this.index && this.index < 8 && this.formIctConfig[0].disable) {
+            return;
+        }
+
+        if (this.ictItems.length < this.index) {
+            this.ictItems.push(ictItem);
+            this.ictItemService.set(this.ictItems);
+            this.stepsData.tabs.push({
+                name: ictItem.name,
+                id: (this.stepsData.tabs.length - 1).toString()
+            });
+        }
+
+        // if the max item number has been reached, disable the form
+        if (this.index >= 7) {
+            this.formIctConfig[0].disable = true;
+            this.formIctConfig[0].formElements[0].placeholder = "";
+            this.scanChange = "true";
+        }
+    }
 
   /**
    * @description Update page number on step navigation click.
@@ -132,5 +206,13 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
    */
   onSelectedTabReceive(event:number){
     this.pageNumber = event;
-  }
+    }
+
+    ngOnDestroy(): void {
+        if (this.ictItems.length <= this.index && this.formIctConfig[0].disable) {
+            this.formIctConfig[0].disable = false;
+            this.formIctConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
+            this.scanChange = "false";
+        }
+    }
 }

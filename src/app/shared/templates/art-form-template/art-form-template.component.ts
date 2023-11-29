@@ -26,7 +26,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
    * @description An array of forms. Can have any any number of form, each form having its own sent of controls
    * @type Array<FormGroup>
    */
-  @Input() formList: FormGroup[] = [];
+    @Input() formList: FormGroup[] = [];
+    @Input() showButtonControls: boolean = true;
 
   /**
    * @description All the elements for all any number of forms
