@@ -15,7 +15,11 @@ import { FormGroup } from '@angular/forms';
   styleUrls: ['./form-page.component.scss']
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {
-
+  /**
+  * @description limit the maximum of ICT items that can be added
+  * @type number
+  */
+   maxLength: number = 0;
   /**
    * @description limit the maximum of ICT items that can be added
    * @type number
@@ -87,7 +91,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
   ngOnInit(): void {
 
-      this.index = this.artIctLpAddService.getMaxItems();
+      this.maxLength = this.artIctLpAddService.getMaxItems();
      // Getting the form configuration, creating a new address, any update will no change this.formPageService data
      this.formConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
@@ -179,8 +183,15 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     addIctItem(ictItem: ICTInterface): void {
         this.index = this.stepsData.tabs.length;
         // No action needed if the mx item is reached
-        if (this.ictItems.length >= this.index && this.index < 8 && this.formIctConfig[0].disable) {
+        if (this.ictItems.length >= this.index && this.index < this.maxLength && this.formIctConfig[0].disable) {
             return;
+        }
+
+        // if the max item number has been reached, disable the form
+        if (this.index >= this.maxLength - 1) {
+            this.formIctConfig[0].disable = true;
+            this.formIctConfig[0].formElements[0].placeholder = "";
+            this.scanChange = "true";
         }
 
         if (this.ictItems.length < this.index) {
@@ -190,13 +201,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
                 name: ictItem.name,
                 id: (this.stepsData.tabs.length - 1).toString()
             });
-        }
-
-        // if the max item number has been reached, disable the form
-        if (this.index >= 7) {
-            this.formIctConfig[0].disable = true;
-            this.formIctConfig[0].formElements[0].placeholder = "";
-            this.scanChange = "true";
         }
     }
 
