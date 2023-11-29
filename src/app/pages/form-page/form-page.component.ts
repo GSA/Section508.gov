@@ -181,14 +181,14 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
  * @return void
  */
     addIctItem(ictItem: ICTInterface): void {
-        this.index = this.stepsData.tabs.length;
+        this.index = this.stepsData.tabs.length + 1;
         // No action needed if the mx item is reached
         if (this.ictItems.length >= this.index && this.index < this.maxLength && this.formIctConfig[0].disable) {
             return;
         }
 
         // if the max item number has been reached, disable the form
-        if (this.index >= this.maxLength - 1) {
+        if (this.index >= this.maxLength) {
             this.formIctConfig[0].disable = true;
             this.formIctConfig[0].formElements[0].placeholder = "";
             this.scanChange = "true";
@@ -199,7 +199,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.ictItemService.set(this.ictItems);
             this.stepsData.tabs.push({
                 name: ictItem.name,
-                id: (this.stepsData.tabs.length - 1).toString()
+                id: (this.stepsData.tabs.length).toString()
             });
         }
     }

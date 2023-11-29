@@ -2,10 +2,8 @@ import { Injectable } from '@angular/core';
 import { ValidationErrors, ValidatorFn, Validators } from '@angular/forms';
 import { FormTemplateInterface } from '../../models/form-template.interface';
 import  formConfigJsons  from '../../../../assets/form-config/ict-lp-add.config.json';
-import  userNameFormConfigJson  from '../../../../assets/form-config/ict-lp-username.config.json';
 import  Buttons  from '../../../../assets/data/buttons.json';
 import  IctLp  from '../../../../assets/data/ict-lp-add.json';
-import  IctLpUserContent  from '../../../../assets/data/ict-lp-username.json';
 
 
 
@@ -26,11 +24,6 @@ export class ArtIctLpAddService {
    * @description Configuration for the ICT Listing Page input field, loading config for one Form
    */
    private formConfig: FormTemplateInterface[] = formConfigJsons;
-
-   /**
-   * @description Configuration for the ICT Listing Page Name filed, loading config for one Form
-   */
-   private userFormConfig: FormTemplateInterface[] = userNameFormConfigJson;
 
    /**
     * @description Will stored the name of the user entered on the ictPage or upload page. It is an option field
@@ -95,23 +88,6 @@ export class ArtIctLpAddService {
       return IctLp['errorMessage'];
     }
 
-  /**
-   * @description Get the username text for the landing page
-   * @returns string
-   */
-   getUserQuestion(): string{
-    return IctLpUserContent['userName'];
-  }
-
-
-  /**
-   * @description Get the dat for Input Label for the Name field on the ICT page
-   * @returns string
-   */
-  getUserInputLabel(): string{
-    return IctLpUserContent['inputLabel'];
-  }
-
      /**
    * @description Return the maximum number of items that should be allowed
    * @returns number
@@ -120,19 +96,4 @@ export class ArtIctLpAddService {
       return IctLp['maxItems'];
     }
 
-    /**
-     * @description to return the username stored on the ICT page or upload page
-     * @return string
-     */
-    getUserName(): string{
-      return this.userName;
-    }
-
-    /**
-     * @param name 
-     * @description used to store the name of the user entered on the ICT page or upload page
-     */
-    setUserName(name:string){
-      this.userName = name;
-    }
 }
