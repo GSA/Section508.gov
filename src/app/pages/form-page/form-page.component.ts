@@ -15,6 +15,8 @@ import { FormGroup } from '@angular/forms';
   styleUrls: ['./form-page.component.scss']
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {
+
+    scanChange: any = "";
   /**
   * @description limit the maximum of ICT items that can be added
   * @type number
@@ -29,7 +31,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
    * @description Used to trigger the ngOnChanges function to listing to any input property change
    * @type any
    */
-  scanChange:any = "";
 
   /**
    * @description To display a loading container as the form is loading
@@ -47,15 +48,14 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
    * @description Provide all the configuration for the forms and elements which will be created
    * @type FormTemplateInterface
    */
-   formConfig: FormTemplateInterface[] = [];
+   formQConfig: FormTemplateInterface[] = [];
 
   /**
   * @description Provide all the configuration for the forms and elements which will be created
   * @type FormTemplateInterface
   */
-  formIctConfig: FormTemplateInterface[] = [];
+  formConfig: FormTemplateInterface[] = [];
 
-  nameFormConfig: FormTemplateInterface[] = [];
   /**
    * @description Steps data for StepIndicatorComponent.
    * @type IStepIndicator
@@ -78,9 +78,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     * @description store the value of the placeholder for an element
     * @type string
     */
-   tempPlaceHolder: string | undefined;
-
-   formList: FormGroup[] = [];
+    tempPlaceHolder: string | undefined;
 
   constructor(
     private formPageService: FormPageService, 
@@ -93,19 +91,19 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
       this.maxLength = this.artIctLpAddService.getMaxItems();
      // Getting the form configuration, creating a new address, any update will no change this.formPageService data
-     this.formConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
+     this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
       // Getting the form configuration
-      this.formIctConfig = this.artIctLpAddService.getICTConfigurations();
-      this.tempPlaceHolder = this.formIctConfig[0].formElements[0].placeholder;
+      this.formConfig = this.artIctLpAddService.getICTConfigurations();
+      this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
 
      // Redirect to the home page if there is no ictitem/ on page reload
     if(this.ictItemService.get().length <= 0) this.router.navigateByUrl("/");
 
     // Letting the form to load before nay initialization
     setTimeout(() => {
-      this.formConfig.splice(0,1); // The default configuration from line 64 is still here and were never remover. Here we are removing the default configuration
-      this.formPageService.prepopulateData(this.formConfig,this.ictItemService.get());
+      this.formQConfig.splice(0,1); // The default configuration from line 64 is still here and were never remover. Here we are removing the default configuration
+      this.formPageService.prepopulateData(this.formQConfig,this.ictItemService.get());
       this.loading = true;
     }, 1000);
 
@@ -115,10 +113,10 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         name: eachIctItem.name,
         id: index.toString()
       });
-      //if(index > 0) { Removed this if condition   so the default configuration is still on the formConfig and by adding this, we will have an addional denerated form we wll be using
+      //if(index > 0) { Removed this if condition   so the default configuration is still on the formQConfig and by adding this, we will have an addional denerated form we wll be using
         const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-'+Date.now().toString()+'-'.concat(index.toString()),eachIctItem);
         tempConfig.id = index;
-        this.formConfig.push(tempConfig);
+        this.formQConfig.push(tempConfig);
       //}
     });
 
@@ -172,7 +170,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         const key = Object.keys(data)[0];
         const val = data[key];
         const tempIctItem: ICTInterface = { name: val, langKeyWords: data, timeStamp: (Date.now()).toString() }
-        this.addIctItem(tempIctItem);
+        this.addIctItem(tempIctItem, dataArr);
     }
 
     /**
@@ -180,27 +178,34 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
  * @type: ICTInterface
  * @return void
  */
-    addIctItem(ictItem: ICTInterface): void {
+    addIctItem(ictItem: ICTInterface, dataArr: any): void {
         this.index = this.stepsData.tabs.length + 1;
         // No action needed if the mx item is reached
-        if (this.ictItems.length >= this.index && this.index < this.maxLength && this.formIctConfig[0].disable) {
+        if (this.ictItems.length >= this.index && this.index < this.maxLength && this.formConfig[0].disable) {
             return;
-        }
-
-        // if the max item number has been reached, disable the form
-        if (this.index >= this.maxLength) {
-            this.formIctConfig[0].disable = true;
-            this.formIctConfig[0].formElements[0].placeholder = "";
-            this.scanChange = "true";
         }
 
         if (this.ictItems.length < this.index) {
             this.ictItems.push(ictItem);
-            this.ictItemService.set(this.ictItems);
+
+
             this.stepsData.tabs.push({
                 name: ictItem.name,
                 id: (this.stepsData.tabs.length).toString()
             });
+
+            let index = this.stepsData.tabs.length - 1;
+            const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), ictItem);
+            tempConfig.id = index;
+            this.formQConfig.push(tempConfig);
+            this.ictItemService.reSet(this.ictItems);
+        }
+
+        // if the max item number has been reached, disable the form
+        if (this.index >= this.maxLength) {
+            this.formConfig[0].disable = true;
+            this.formConfig[0].formElements[0].placeholder = "";
+            this.scanChange = "true";
         }
     }
 
@@ -213,9 +218,9 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     }
 
     ngOnDestroy(): void {
-        if (this.ictItems.length <= this.index && this.formIctConfig[0].disable) {
-            this.formIctConfig[0].disable = false;
-            this.formIctConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
+        if (this.ictItems.length <= this.index && this.formConfig[0].disable) {
+            this.formConfig[0].disable = false;
+            this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
             this.scanChange = "false";
         }
     }

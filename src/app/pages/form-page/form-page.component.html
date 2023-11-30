@@ -1,7 +1,7 @@
 <atr-step-indicator [stepsData]="stepsData" [update]="updateStep" (getSelectedTab)="onSelectedTabReceive($event)"></atr-step-indicator>
 <!-- Input field section-->
 <art-generic-text>
-  <art-form-template [formConfig]="formIctConfig"
+  <art-form-template [formConfig]="formConfig"
                      [scanChange]="scanChange"
                      [showButtonControls]=false
                      (formData)="onFormAdded($event)"></art-form-template>
@@ -19,7 +19,7 @@
 
 </div>
 <div *ngIf="ictItemService.get().length > 0 && loading;" class="">
-    <art-form-template [formConfig]="formConfig"
+    <art-form-template [formConfig]="formQConfig"
                        [scanChange]="scanChange"
                        [pageIndex]="pageNumber"
                        (formData)="onFormSubmitted($event)"
