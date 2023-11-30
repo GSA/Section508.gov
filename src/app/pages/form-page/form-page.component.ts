@@ -7,7 +7,7 @@ import { ArtIctLpAddService } from 'src/app/shared/services/art-ict-lp-add/art-i
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { ElementType } from 'src/app/shared/models/form-element.interface';
 import { IStepIndicator } from "../../shared/models/step-indicator.interface";
-import { FormGroup } from '@angular/forms';
+import { FormGroup, FormControl } from '@angular/forms';
 
 @Component({
   selector: 'app-form-page',
@@ -79,6 +79,8 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     * @type string
     */
     tempPlaceHolder: string | undefined;
+
+    formList: FormGroup[] = [];
 
   constructor(
     private formPageService: FormPageService, 
@@ -195,10 +197,12 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
 
             let index = this.stepsData.tabs.length - 1;
+
             const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), ictItem);
             tempConfig.id = index;
+            let outerIndex = this.formList.length - 1;
             this.formQConfig.push(tempConfig);
-            this.ictItemService.reSet(this.ictItems);
+            this.formList.push(new FormGroup(this.formList[0].controls));
         }
 
         // if the max item number has been reached, disable the form
@@ -217,11 +221,11 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     this.pageNumber = event;
     }
 
-    ngOnDestroy(): void {
-        if (this.ictItems.length <= this.index && this.formConfig[0].disable) {
-            this.formConfig[0].disable = false;
-            this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
-            this.scanChange = "false";
-        }
-    }
+    //ngOnDestroy(): void {
+    //    if (this.ictItems.length <= this.index && this.formConfig[0].disable) {
+    //        this.formConfig[0].disable = false;
+    //        this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
+    //        this.scanChange = "false";
+    //    }
+    //}
 }

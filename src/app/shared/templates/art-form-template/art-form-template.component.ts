@@ -133,9 +133,18 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
       this.formConfig.forEach((eachConfig, outerIndex) => {
         if(this.formList[outerIndex ]){
           if(this.formConfig[outerIndex].disable) this.formList[outerIndex].disable();
-          if(this.formConfig[outerIndex] && !this.formConfig[outerIndex].disable) this.formList[outerIndex].enable();
+            if (this.formConfig[outerIndex] && !this.formConfig[outerIndex].disable) this.formList[outerIndex].enable();
         }
       });
+
+      let outerIndex = this.formList.length - 1;
+      if (this.formList.length > 1) {
+          this.allControlList.push([]);
+          Object.keys(this.formList[outerIndex].controls).forEach(key => {
+              this.allControlList[this.allControlList.length-1].push(this.formList[outerIndex].controls[key]);
+          });
+      }
+
       this.navIndex = this.pageIndex;
     this.sideNavConfig();
   }
@@ -451,10 +460,14 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
       if (this.formCompletetion.find(eachComp => !eachComp) === false &&  !this.formConfig[0].formButtons.add) {
         alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
       } else{
-        const data = this.formList.map(eachForm =>eachForm.value);
-        this.formData.emit(data);
+          const data = this.formList.map(eachForm => eachForm.value);
+          this.formData.emit(data);
+
+
+         
+
         //Will reset the form based on the its configuration
-        if(this.formConfig[index].clearForm) this.formList[index].reset();
+          if (this.formConfig[index].clearForm) this.formList[index].reset();
       }
     }
   }
