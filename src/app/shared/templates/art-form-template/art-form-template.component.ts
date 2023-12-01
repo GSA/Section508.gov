@@ -138,19 +138,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
           if(this.formConfig[outerIndex].disable) this.formList[outerIndex].disable();
             if (this.formConfig[outerIndex] && !this.formConfig[outerIndex].disable) this.formList[outerIndex].enable();
           }
+          if (this.formList.length > this.allControlList.length) {
+              this.allControlList.push([]);
+              Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
+                  let control = this.formList[this.formList.length - 1].controls[key];
+                  control.reset();
+                  control.markAsUntouched();
+                  control.setErrors(null);
+                  this.allControlList[this.allControlList.length - 1].push(control);
+              });
+          }
       });
-
-      if (this.formList.length != this.allControlList.length) {
-          this.allControlList.push([]);
-          Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
-              let control = this.formList[this.formList.length - 1].controls[key];
-              control.reset();
-              control.markAsUntouched();
-              control.setErrors(null);
-              this.allControlList[this.allControlList.length - 1].push(control);
-          });
-      }
-
       this.navIndex = this.pageIndex;
     this.sideNavConfig();
   }
