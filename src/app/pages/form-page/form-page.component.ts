@@ -7,7 +7,7 @@ import { ArtIctLpAddService } from 'src/app/shared/services/art-ict-lp-add/art-i
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { ElementType } from 'src/app/shared/models/form-element.interface';
 import { IStepIndicator } from "../../shared/models/step-indicator.interface";
-import { FormGroup, FormControl, AbstractControl, AbstractControlOptions } from '@angular/forms';
+import { FormGroup, FormControl, AbstractControl, AbstractControlOptions, FormBuilder } from '@angular/forms';
 
 @Component({
   selector: 'app-form-page',
@@ -87,7 +87,8 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     public ictItemService: IctItemService,
     private changeDetectorRef: ChangeDetectorRef,
     private router:Router,
-    public artIctLpAddService: ArtIctLpAddService) { }
+      public artIctLpAddService: ArtIctLpAddService,
+      private formBuilder: FormBuilder  ) { }
 
   ngOnInit(): void {
 
@@ -201,8 +202,10 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), ictItem);
             tempConfig.id = index;
             this.formQConfig.push(tempConfig);
-            var cloneFormList = Object.assign({}, this.formList[0]);
-            this.formList.push(cloneFormList);
+            let existingFormGroup: any = {};
+            var cloneFormList = Object.assign<FormGroup, FormGroup>(existingFormGroup, this.formList[0]);
+            this.formList.push(new FormGroup(cloneFormList.controls));
+            console.log(this.formList);
         }
 
         // if the max item number has been reached, disable the form

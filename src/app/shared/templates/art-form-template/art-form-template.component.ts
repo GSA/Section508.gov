@@ -181,17 +181,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
       this.formCompletetion.push(false);
 
       //Only for debugging TOBE REMOVED
-      this.formList[outerIndex].valueChanges.subscribe((data)=>{
+      //this.formList[outerIndex].valueChanges.subscribe((data)=>{
 
-        //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
-        setTimeout(()=>{
-          this.updateDownloadData();
-          //Loop all the field and display any elements which are needed based on the user answer
-          this.autoDisplayFields(outerIndex);
-          this.sideNavConfig();
-          this.loading = false;
-        },1000);
-      });
+      //  //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
+      //  setTimeout(()=>{
+      //    this.updateDownloadData();
+      //    //Loop all the field and display any elements which are needed based on the user answer
+      //    this.autoDisplayFields(outerIndex);
+      //    this.sideNavConfig();
+      //    this.loading = false;
+      //  },1000);
+      //});
    
       
       //create controls elements for each form
