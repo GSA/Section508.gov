@@ -6,6 +6,35 @@ type: manage
 title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
+- manage/section-508-assessment/2023/message-from-gsa-administrator/
+- manage/section-508-assessment/2023/executive-summary/
+- manage/section-508-assessment/2023/introduction/
+- manage/section-508-assessment/2023/background/
+- manage/section-508-assessment/2023/findings/summary/
+- manage/section-508-assessment/2023/findings/compliance-outcomes/
+- manage/section-508-assessment/2023/findings/maturity-dimension/
+- manage/section-508-assessment/2023/findings/program-staff/
+- manage/section-508-assessment/2023/findings/testing-lifecycle/
+- manage/section-508-assessment/2023/findings/acquisition/
+- manage/section-508-assessment/2023/findings/complaints/
+- manage/section-508-assessment/2023/findings/category-overview/
+- manage/section-508-assessment/2023/findings/category-very-low/
+- manage/section-508-assessment/2023/findings/category-low/
+- manage/section-508-assessment/2023/findings/category-moderate/
+- manage/section-508-assessment/2023/findings/category-high/
+- manage/section-508-assessment/2023/findings/category-very-high/
+- manage/section-508-assessment/2023/recommendations/
+- manage/section-508-assessment/2023/gsa-efforts-recent/
+- manage/section-508-assessment/2023/gsa-efforts-upcoming/
+- manage/section-508-assessment/2023/gsa-efforts-other/
+- manage/section-508-assessment/2023/observations/
+- manage/section-508-assessment/2023/appendix-a-terms/
+- manage/section-508-assessment/2023/appendix-a-acronyms/
+- manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
+- manage/section-508-assessment/2023/appendix-c-methods/
+- manage/section-508-assessment/2023/appendix-d-overview/
+- manage/section-508-assessment/2023/appendix-d-reporting-entities/
+- manage/section-508-assessment/2023/assessment-data-downloads/
 ---
 
 ## Assessment Requirement
