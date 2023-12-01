@@ -122,7 +122,10 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
    * @type EventEmitter
    * @description to track the page number on the form.
    */
-  @Output()  pageNumber = new EventEmitter<number>();
+    @Output() pageNumber = new EventEmitter<number>();
+
+
+    newICTAdded: boolean = false;
   
   /**
    * @description will listening to any input property change, will capture if a disable property for a form has been update to disable or enable that form
@@ -134,14 +137,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
         if(this.formList[outerIndex ]){
           if(this.formConfig[outerIndex].disable) this.formList[outerIndex].disable();
             if (this.formConfig[outerIndex] && !this.formConfig[outerIndex].disable) this.formList[outerIndex].enable();
-        }
+          }
       });
 
-      let outerIndex = this.formList.length - 1;
-      if (this.formList.length > 1) {
+      if (this.formList.length != this.allControlList.length) {
           this.allControlList.push([]);
-          Object.keys(this.formList[outerIndex].controls).forEach(key => {
-              this.allControlList[this.allControlList.length-1].push(this.formList[outerIndex].controls[key]);
+          Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
+              let control = this.formList[this.formList.length - 1].controls[key];
+              control.reset();
+              control.markAsUntouched();
+              control.setErrors(null);
+              this.allControlList[this.allControlList.length - 1].push(control);
           });
       }
 
@@ -461,11 +467,10 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges {
         alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
       } else{
           const data = this.formList.map(eachForm => eachForm.value);
+          this.newICTAdded = true;
           this.formData.emit(data);
 
-
          
-
         //Will reset the form based on the its configuration
           if (this.formConfig[index].clearForm) this.formList[index].reset();
       }
