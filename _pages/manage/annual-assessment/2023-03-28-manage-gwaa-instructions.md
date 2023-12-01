@@ -6,6 +6,7 @@ type: manage
 title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
+- 2023-congressional-report/
 - manage/section-508-assessment/2023/message-from-gsa-administrator/
 - manage/section-508-assessment/2023/executive-summary/
 - manage/section-508-assessment/2023/introduction/
