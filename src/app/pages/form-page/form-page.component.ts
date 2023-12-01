@@ -201,13 +201,8 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), ictItem);
             tempConfig.id = index;
             this.formQConfig.push(tempConfig);
-
-            const result: FormGroup[] = [];
-            let existingFormControls = this.formList[0];
-            this.formList.push(this.formList[0]);
-
-            //let newFormGroup = new FormGroup(result)
-            //this.formList.push(newFormGroup);
+            var cloneFormList = Object.assign({}, this.formList[0]);
+            this.formList.push(cloneFormList);
         }
 
         // if the max item number has been reached, disable the form
