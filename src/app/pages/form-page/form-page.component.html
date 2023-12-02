@@ -20,9 +20,9 @@
 </div>
 <div *ngIf="ictItemService.get().length > 0 && loading;" class="">
     <art-form-template [formConfig]="formQConfig"
+                       [formList]="formList"
                        [scanChange]="scanChange"
                        [pageIndex]="pageNumber"
-                       [formList]="formList"
                        (formData)="onFormSubmitted($event)"
                        (pageNumber)="onPageChanged($event)"></art-form-template>
 </div>
