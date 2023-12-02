@@ -18,7 +18,7 @@ export class SummaryPageComponent implements OnInit {
    * @description Used to trigger the ngOnChanges function to listing to any input property change
    * @type any
    */
-  resultData:any = "";
+    resultData: any = "";
 
   constructor(
     private art508LangService: Art508LangService,
@@ -89,9 +89,9 @@ export class SummaryPageComponent implements OnInit {
             const solicitationPhase = this.formPageService.getConfigurations();
             let solicitationPhaseValue = "";
             solicitationPhase[0].formElements[0].options?.forEach((optionItem, optionIndex)=>{
-                //if(optionItem.value == langKeyWords["sol-type"]["sol-type"] ){
+                if(optionItem.value == langKeyWords["sol-type"]["sol-type"] ){
                     solicitationPhaseValue = optionItem.label;
-                //}
+                }
              });
               
             //508MapoingService call for language, for download anc clipboard

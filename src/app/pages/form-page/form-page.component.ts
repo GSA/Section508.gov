@@ -101,7 +101,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
         this.maxLength = this.artIctLpAddService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
-        this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
+       this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
         // Getting the form configuration
         this.formConfig = this.artIctLpAddService.getICTConfigurations();
@@ -125,9 +125,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
             //if(index > 0) { Removed this if condition   so the default configuration is still on the formQConfig and by adding this, we will have an addional denerated form we wll be using
             const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), eachIctItem);
-            tempConfig.id = index;
             this.formQConfig.push(tempConfig);
-            //}
         });
 
         // Load the form page based on which the user selection was on the summary page ot be amended, it is 0 by default
@@ -166,7 +164,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         })
 
         // Saved the updatde items, will be used when ever the user returns to the form to repopulated values
-        //this.ictItemService.reSet(itcItems);
+        this.ictItemService.reSet(itcItems);
         this.router.navigateByUrl(('/summary-page'));
     }
 
