@@ -166,7 +166,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         })
 
         // Saved the updatde items, will be used when ever the user returns to the form to repopulated values
-        this.ictItemService.reSet(itcItems);
+        //this.ictItemService.reSet(itcItems);
         this.router.navigateByUrl(('/summary-page'));
     }
 
@@ -196,8 +196,9 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         }
 
         if (this.ictItems.length < this.index) {
-            this.ictItems.push(ictItem);
-
+            var ictAll = this.ictItemService.get();
+            ictAll.push(ictItem);
+            this.ictItemService.reSet(ictAll);
 
             this.stepsData.tabs.push({
                 name: ictItem.name,
