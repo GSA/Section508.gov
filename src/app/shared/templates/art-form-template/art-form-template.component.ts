@@ -567,7 +567,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
     }
 
     addNewICT(outerIndex: number) {
-        if (this.formConfig[0] && this.formConfig[0].formElements.length == 17) {
             //Initialize form
             this.formCompletetion.push(false);
 
@@ -594,7 +593,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                     this.loading = false;
                 }, 1000);
            });
-        }
     }
 
     /**

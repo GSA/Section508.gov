@@ -205,21 +205,10 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
 
             let outerIndex = this.formQConfig.length;
-
             let formTemplateInterface = this.formPageService.generateNewConfig(this.formQConfig[0], (outerIndex+1).toString(), ictItem);
-
             formTemplateInterface.id = outerIndex;
-            //create form config
-            //const tempConfig = Object.assign({}, this.formQConfig[0]);
-            //tempConfig.id = this.formQConfig.length;
-            //tempConfig.clearForm = true;
-
-
-            //Init  each form
             this.formList.push(new FormGroup({}));
-
             this.formQConfig.push(formTemplateInterface);
-
             //create controls elements for each form
             this.formQConfig[this.formQConfig.length - 1].formElements.forEach((eachFormElement, index) => {
                 if (eachFormElement.elementType === ElementType.text) {
@@ -232,16 +221,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
             //send message to art form template
             this.artMessageService.sendMessage(outerIndex);
-
-            //let index = this.stepsData.tabs.length - 1;
-            //const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), ictItem);
-            //tempConfig.id = index;
-            //this.formQConfig.push(tempConfig);
-
-            //let existingFormGroup: any = {};
-            //var cloneFormList = Object.assign<FormGroup, FormGroup>(existingFormGroup, this.formList[0]);
-            //this.formList.push(new FormGroup(cloneFormList.controls));
-            //console.log(this.formList);
         }
 
         // if the max item number has been reached, disable the form
