@@ -3,7 +3,7 @@ import { FormTemplateInterface } from 'src/app/shared/models/form-template.inter
 import { FormPageService } from 'src/app/shared/services/form-page/form-page.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 import { Router } from '@angular/router';
-import { ArtIctLpAddService } from 'src/app/shared/services/art-ict-lp-add/art-ict-lp-add.service';
+import { ArtIctLpService } from 'src/app/shared/services/art-ict-lp/art-ict-lp.service';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { ElementType } from 'src/app/shared/models/form-element.interface';
 import { IStepIndicator } from "../../shared/models/step-indicator.interface";
@@ -94,17 +94,17 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         public artMessageService: ArtMessageService,
         private changeDetectorRef: ChangeDetectorRef,
         private router: Router,
-        public artIctLpAddService: ArtIctLpAddService,
+        public artIctLpService: ArtIctLpService,
         private formBuilder: FormBuilder) { }
 
     ngOnInit(): void {
 
-        this.maxLength = this.artIctLpAddService.getMaxItems();
+        this.maxLength = this.artIctLpService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
        this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
         // Getting the form configuration
-        this.formConfig = this.artIctLpAddService.getICTConfigurations();
+        this.formConfig = this.artIctLpService.getICTConfigurations();
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
 
         // Redirect to the home page if there is no ictitem/ on page reload
@@ -121,7 +121,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.formQConfig.splice(0, 1); // The default configuration from line 64 is still here and were never remover. Here we are removing the default configuration
             this.formPageService.prepopulateData(this.formQConfig, this.ictItemService.get());
             this.loading = true;
-        }, 1000);
+        }, 500);
 
         // Creating custom formName for each formElement and generation each configuration
         this.ictItemService.get().forEach((eachIctItem, index) => {

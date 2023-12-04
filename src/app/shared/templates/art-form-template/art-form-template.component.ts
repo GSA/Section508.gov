@@ -195,7 +195,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 this.autoDisplayFields(outerIndex);
                 this.sideNavConfig();
                 this.loading = false;
-              },1000);
+              },500);
             });
 
 
@@ -591,7 +591,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                     this.autoDisplayFields(outerIndex);
                     this.sideNavConfig();
                     this.loading = false;
-                }, 1000);
+                }, 500);
            });
     }
 
