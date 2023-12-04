@@ -5,7 +5,7 @@
                      [scanChange]="scanChange"
                      [showButtonControls]=false
                      (formData)="onFormAdded($event)"></art-form-template>
-  <i class="usa-error-message font-sans-2xs" *ngIf="index >= maxLength">{{artIctLpService.getErrorMsg()}}</i>
+  <i class="usa-error-message font-sans-2xs" *ngIf="index >= maxLength">{{artIctLpAddService.getErrorMsg()}}</i>
 </art-generic-text>
 
 <div *ngIf="ictItemService.get().length > 0 && loading" class="font-serif-xl margin-bottom-neg-1">

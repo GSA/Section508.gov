@@ -3,7 +3,7 @@ import { FormTemplateInterface } from 'src/app/shared/models/form-template.inter
 import { FormPageService } from 'src/app/shared/services/form-page/form-page.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 import { Router } from '@angular/router';
-import { ArtIctLpService } from 'src/app/shared/services/art-ict-lp/art-ict-lp.service';
+import { ArtIctLpAddService } from 'src/app/shared/services/art-ict-lp-add/art-ict-lp-add.service';
 import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { ElementType } from 'src/app/shared/models/form-element.interface';
 import { IStepIndicator } from "../../shared/models/step-indicator.interface";
@@ -94,17 +94,17 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         public artMessageService: ArtMessageService,
         private changeDetectorRef: ChangeDetectorRef,
         private router: Router,
-        public artIctLpService: ArtIctLpService,
+        public artIctLpAddService: ArtIctLpAddService,
         private formBuilder: FormBuilder) { }
 
     ngOnInit(): void {
 
-        this.maxLength = this.artIctLpService.getMaxItems();
+        this.maxLength = this.artIctLpAddService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
        this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
         // Getting the form configuration
-        this.formConfig = this.artIctLpService.getICTConfigurations();
+        this.formConfig = this.artIctLpAddService.getICTConfigurations();
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
 
         // Redirect to the home page if there is no ictitem/ on page reload
