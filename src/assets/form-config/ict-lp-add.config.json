@@ -5,7 +5,7 @@
         "elementType":"text",
         "label": "",
         "title": "",
-        "placeholder":"Add an Additional ICT",
+        "placeholder":"Add an additional ICT item",
         "description": "Do not exceed 50 characters and 8 ICTs",
         "errorMessages": {"maxlength":"The maximum length has exceeded 50"},
         "controlName": "ictItemTextfield1",
