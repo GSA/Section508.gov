@@ -109,6 +109,12 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
         // Redirect to the home page if there is no ictitem/ on page reload
         if (this.ictItemService.get().length <= 0) this.router.navigateByUrl("/");
+        if (this.ictItemService.get().length >= this.maxLength) {
+            this.index = this.maxLength;
+            this.formConfig[0].disable = true;
+            this.formConfig[0].formElements[0].placeholder = "";
+            this.scanChange = "true";
+        }
 
         // Letting the form to load before nay initialization
         setTimeout(() => {
