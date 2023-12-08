@@ -612,12 +612,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     @HostListener("window:scroll", []) onWindowScroll() {
         const allSections = document.querySelectorAll(`.form-section`);
-        let currLink: number = -1;
+        let currLink: number = -2;
+        var pointer = 0;
         allSections.forEach((section, index) => {
-            let pos = section.getBoundingClientRect();
-            if (pos.bottom > 20 && currLink < 0 && this.getMenuIds().includes(index)) {
-                currLink = this.sideMenu.activeId = index;
+            if (pointer > 0) {
+                let pos = section.getBoundingClientRect();
+                console.log(pos.bottom);
+                if (pos.bottom > 20 && currLink < 0 && this.getMenuIds().includes(index-1)) {
+                    currLink = this.sideMenu.activeId = index-1;
+                }
             }
+            pointer++;
         });
     }
 
