@@ -29,3 +29,10 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+@media screen and (max-width:40em) {
+    .truncate {
+        width: 200px;
+        text-align:left;
+    }
+}
