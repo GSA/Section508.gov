@@ -617,7 +617,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         allSections.forEach((section, index) => {
             if (pointer > 0) {
                 let pos = section.getBoundingClientRect();
-                console.log(pos.bottom);
                 if (pos.bottom > 20 && currLink < 0 && this.getMenuIds().includes(index-1)) {
                     currLink = this.sideMenu.activeId = index-1;
                 }
