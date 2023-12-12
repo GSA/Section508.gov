@@ -310,6 +310,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         //Getting all the option of that group {it-prod:false,it-serv:true ,it-none:false}
         const vals = JSON.parse(JSON.stringify(parentControl!.value));
 
+
         /**
          *  - this.objectNotNull(vals) => At least a  value should not be null on the current element. For user selection
          *  - eltSelectedName === "" => for recurssion or form on load, no direct click by the user
@@ -320,6 +321,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
              * the parent/group has many options, on the user click on one option, we want to cancel and hide them all next of each option
              * We are looping through all the option of the group
              * */
+
             parentElt!.options!.forEach(parentOption => {
                 // From on option of the group, we are getting the group element it will open if a user have selected that option
                 const nextElt = parentOption.next;
@@ -341,7 +343,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                     // If the element that need to be hideen along exits, hide it. 
                     if (tempFormEltAdd) tempFormEltAdd.hidden = true;
                     // Clearing all the data for the other option child
-                    this.formList[index].get(nextElt)?.reset();
+
                     // Going to all the formElement
                     this.formConfig[index].formElements.forEach(eachElement => {
                         //If the element matching the next element
@@ -352,16 +354,24 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                             if (this.elementSelected && this.elementSelected.additionalNext && this.elementSelected.additionalNext.length > 0) {
                                 //We are checking if that controlName is matching any controlName in our list and hide it.
                                 this.formConfig[index].formElements.forEach((elt, eltIndex) => {
-                                    if (elt.controlName === this.elementSelected?.additionalNext![0]) elt.hidden = true;
+                                    if (elt.controlName === this.elementSelected?.additionalNext![0]) {
+                                        elt.hidden = true;
+                                    }
+                                    this.formList[index].get(nextEltAdd!)?.reset();
                                 })
                             }
                             this.formList[index].get(eachElement.controlName)?.enable();
+
                             // check if any next of each options on the element hidden has a value
                             this.clearHiddenElts(index, tempFormElt, "");
                         }
                     })
                 }
             });
+        }
+        if (eltSelectedName === "" && parentElt?.controlName == "ict-group") {
+            alert("Changing the options in Solicitation Phase will clears the rest of form.");
+            this.formList[index].reset();
         }
     }
 
