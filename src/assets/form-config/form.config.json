@@ -24,7 +24,9 @@
                     "value":"red", 
                     "validations":[],
                     "next":"ict-group",
-                    "formSection":""
+                    "formSection": "",
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
+                  
                 },
                 {
                     "elementType":"radioButton",
@@ -44,7 +46,9 @@
                     "value":"blue",
                     "validations":[],
                     "next":"ict-group",
-                    "formSection":""}
+                    "formSection": "",
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
+                }
             ]
       
         },
@@ -74,7 +78,7 @@
                 "description": "I am purchasing ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)",
                 "errorMessages": {},
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "value": false,
                 "options": []
               },
@@ -87,7 +91,7 @@
                 "description": "I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)",
                 "errorMessages": {},
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "formSection": "What is the name of your procurement?",
                 "value": false,
                 "options": []
@@ -101,7 +105,7 @@
                 "errorMessages": {},
                 "controlName": "it-none",
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "formSection": "What is the name of your procurement?",
                 "value": false,
                 "options": [],

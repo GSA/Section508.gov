@@ -260,7 +260,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             });
             return result;
         })
-
         //If an element is clicked and it is not a page load, get the formElement data for that element. It will always stored the latest element selected adn will only be updated if a n element is selected
         if (elt && elt.controlName) {
             this.elementSelected = parentControl?.options?.find(eachElt => eachElt.controlName === elt.controlName);
@@ -360,7 +359,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                     this.formList[index].get(nextEltAdd!)?.reset();
                                 })
                             }
-                            this.formList[index].get(eachElement.controlName)?.enable();
+                            //this.formList[index].get(eachElement.controlName)?.enable();
 
                             // check if any next of each options on the element hidden has a value
                             this.clearHiddenElts(index, tempFormElt, "");
@@ -369,10 +368,10 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 }
             });
         }
-        if (eltSelectedName === "" && parentElt?.controlName == "ict-group") {
-            alert("Changing the options in Solicitation Phase will clears the rest of form.");
-            this.formList[index].reset();
-        }
+        //if (eltSelectedName === "" && parentElt?.controlName == "ict-group") {
+        //    alert("Changing the options in Solicitation Phase will clears the rest of form.");
+        //    this.formList[index].reset();
+        //}
     }
 
     /**
@@ -383,7 +382,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     autoDisplayFields(outerIndex: number): void {
             //Looping to all the elements on the form
-            this.formConfig[outerIndex].formElements.forEach(eachElement => {
+        this.formConfig[outerIndex].formElements.forEach(eachElement => {
 
                 //If any elements has a value set or if the user selected a value
                 if ((eachElement.elementType === ElementType.text && this.formList[outerIndex].value[eachElement.controlName]) ||
@@ -443,9 +442,16 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                     this.formCompletetion[outerIndex] = true;
                                 } else this.formCompletetion[outerIndex] = false;
                             });
+
                             // Looping to all the element t be displayed as well. For now ont one item on the array
                             this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
-                                if (elt.controlName === additionNext[0]) elt.hidden = false;
+                                if (additionNext && additionNext.length > 0) {
+                                    additionNext.forEach(adnxt => {
+                                        if (elt.controlName === adnxt) {
+                                            elt.hidden = false;
+                                        }
+                                    });
+                                }
                             })
                         });
                     } else {
