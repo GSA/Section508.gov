@@ -195,7 +195,7 @@
                     "value":false, 
                     "controlName":"excep-none",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 },
@@ -206,7 +206,7 @@
                     "value":false, 
                     "controlName":"excep-idk",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 },
@@ -218,7 +218,7 @@
                     "value":false, 
                     "controlName":"excep-nat-sec",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -229,7 +229,7 @@
                     "value":false, 
                     "controlName":"excep-mon-spa",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -240,7 +240,7 @@
                     "value":false, 
                     "controlName":"excep-alter",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""},
                 {
@@ -250,7 +250,7 @@
                     "value":false, 
                     "controlName":"excep-fed-con",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -261,7 +261,7 @@
                     "value":false, 
                     "controlName":"excep-und-bur",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 }
@@ -342,7 +342,7 @@
                     "value":"content-website-yes", 
                     "controlName":"content-website-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -378,7 +378,7 @@
                     "value":"content-public-yes", 
                     "controlName":"content-public-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -414,7 +414,7 @@
                     "value":"comm-yes", 
                     "controlName":"comm-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -423,7 +423,7 @@
                     "value":"comm-no",
                     "controlName":"comm-no",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":"",
                     "info": "Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4."
                 }
@@ -452,7 +452,7 @@
                     "value":false, 
                     "controlName":"soft-no-user-interface",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -461,7 +461,7 @@
                     "value":false,
                     "controlName":"soft-assistive",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -472,7 +472,7 @@
                     "controlName":"soft-idk",
                     "validations":[],
                     "onlyOption": true,
-                    "next":"software-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -481,7 +481,7 @@
                     "value":false,
                     "controlName":"soft-none",
                     "validations":[],
-                    "next":"software-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 }
@@ -491,8 +491,8 @@
         {
             "elementType": "checkboxGroup",
             "controlName": "software-group",
-            "formSection": "",
-            "title": "Are you purchasing any software items, deliverables, or licenses?",
+            "formSection": "Are you purchasing any software items, deliverables, or licenses?",
+            "title": "",
             "hidden":true,
             "label": "<i>Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</i><br><br>(Check all that apply)",
             "placeholder": "",
@@ -572,7 +572,7 @@
                 "errorMessages": {},
                 "controlName": "software-none",
                 "validations": [],
-                "next": "hardware-group",
+                "next": "",
                 "formSection": "",
                 "value": false,
                 "options": [],
@@ -640,7 +640,7 @@
                     "value":false,
                     "controlName":"soft-serv-none",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 }
@@ -705,7 +705,7 @@
                     "value":"soft-create-yes", 
                     "controlName":"soft-create-yes",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -714,7 +714,7 @@
                     "value":"soft-create-no",
                     "controlName":"soft-create-no",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -876,7 +876,7 @@
                     "value":"server-iaas-yes", 
                     "controlName":"server-iaas-yes",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -885,7 +885,7 @@
                     "value":"server-iaas-no",
                     "controlName":"server-iaas-no",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
