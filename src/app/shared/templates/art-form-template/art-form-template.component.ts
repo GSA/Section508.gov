@@ -325,8 +325,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
                 //Getting the FormElement for group element that will be opened if a user selected on option on the group element/parent
                 const tempFormElt = this.findFormElement(index, nextElt);
-                //The formElement of the groupElement that would be hidden with tempFormElt 
-                const tempFormEltAdd = nextEltAdd ? this.findFormElement(index, nextEltAdd[0] ? nextEltAdd![0] : "") : null;
                 /*
                 * Even though it is the same control name, all need to be clear, until autoDisplayFields redisplay them and it should not be the last item and shouldn't be hidden
                 * To clear anf hide that group element
@@ -334,11 +332,11 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 * - That element should not be already hidden unless the element to removed along with it exits
                 * 
                 **/
-                if (nextElt !== 'done' && (tempFormElt?.hidden === false || tempFormEltAdd)) {
-                    // If the element that need to be hideen along exits, hide it. 
+                nextEltAdd?.forEach(nextEltAdd => {
+                    let tempFormEltAdd = this.findFormElement(index, nextEltAdd);
                     if (tempFormEltAdd) tempFormEltAdd.hidden = true;
-                    // Clearing all the data for the other option child
-
+                })
+                if (nextElt !== 'done' && tempFormElt?.hidden === false) {
                     // Going to all the formElement
                     this.formConfig[index].formElements.forEach(eachElement => {
                         //If the element matching the next element
@@ -349,13 +347,18 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                             if (this.elementSelected && this.elementSelected.additionalNext && this.elementSelected.additionalNext.length > 0) {
                                 //We are checking if that controlName is matching any controlName in our list and hide it.
                                 this.formConfig[index].formElements.forEach((elt, eltIndex) => {
-                                    if (elt.controlName === this.elementSelected?.additionalNext![0]) {
-                                        elt.hidden = true;
+
+                                    if (this.elementSelected?.additionalNext && this.elementSelected?.additionalNext.length > 0) {
+                                        this.elementSelected?.additionalNext.forEach(adnxt => {
+                                            if (elt.controlName === adnxt) {
+                                                elt.hidden = true;
+                                            }
+                                        });
                                     }
                                     this.formList[index].get(nextEltAdd!)?.reset();
                                 })
                             }
-                            //this.formList[index].get(eachElement.controlName)?.enable();
+                            this.formList[index].get(eachElement.controlName)?.enable();
 
                             // check if any next of each options on the element hidden has a value
                             this.clearHiddenElts(index, tempFormElt, "");
@@ -364,10 +367,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 }
             });
         }
-        //if (eltSelectedName === "" && parentElt?.controlName == "ict-group") {
-        //    alert("Changing the options in Solicitation Phase will clears the rest of form.");
-        //    this.formList[index].reset();
-        //}
     }
 
     /**
@@ -428,26 +427,23 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
                             if (eltSelected[indexVal] && eltSelected[indexVal].next && elt.controlName.includes(eltSelected[indexVal]!.next)) {
                                 elt.hidden = false;
-                                //if another element should be display at the same time of the current element, we are saving that element
-                                if (eltSelected[indexVal].additionalNext && eltSelected[indexVal].additionalNext.length > 0) {
-                                    additionNext = eltSelected[indexVal].additionalNext;
-                                }
                             }
-                        });                     
+                            if (eltSelected[indexVal].additionalNext && eltSelected[indexVal].additionalNext.length > 0) {
+                                  additionNext = eltSelected[indexVal].additionalNext;
+                            }
+                        });           
 
-                        this.formCompletetion[outerIndex] = this.autoValidation(outerIndex);
-
-
-                        // Looping to all the element t be displayed as well. For now ont one item on the array
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
                             if (additionNext && additionNext.length > 0) {
                                 additionNext.forEach(adnxt => {
                                     if (elt.controlName === adnxt) {
-                                        elt.hidden = false;
+                                       elt.hidden = false;
                                     }
                                 });
                             }
-                        })
+                        });
+
+                        this.formCompletetion[outerIndex] = this.autoValidation(outerIndex);
                     });
                 } else {
                     // All the form(all elements on the form) key value are stored

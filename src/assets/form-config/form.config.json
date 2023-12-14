@@ -922,7 +922,7 @@
                     "value":false, 
                     "controlName":"support-tech",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -941,7 +941,7 @@
                     "value":false,
                     "controlName":"support-doc",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -951,7 +951,7 @@
                     "value":false, 
                     "controlName":"support-train",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -960,7 +960,7 @@
                     "value":false,
                     "controlName":"support-none",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 }
