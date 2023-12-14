@@ -449,45 +449,9 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                     additionNext = eltSelected[indexVal].additionalNext;
                                 }
                             }
-
-                            //if (eltSelected[indexVal].validations && eltSelected[indexVal].value) {
-                            //    this.formCompletetion[outerIndex] = true;
-                            //} else this.formCompletetion[outerIndex] = false;
-                        });
-
-                        //if (additionNext.length > 0 || eltSelected[indexVal].next) {
-                        //    var isvalidForm = true;
-
-                        //    if (additionNext) {
-                        //        additionNext.forEach(adnext => {
-                        //            var controls = this.formConfig[outerIndex].formElements.filter(el => el.controlName === adnext);
-                        //            if (controls && controls.length > 0) {
-                        //                let control = controls[0];
-                        //                if (control.validations && control.options?.filter(el => el.value).length === 0) {
-                        //                    isvalidForm = false;
-                        //                }
-                        //            }
-                        //        });
-                        //    }
-
-                        //    if (eltSelected[indexVal].next) {
-                        //        var controls = this.formConfig[outerIndex].formElements.filter(el => el.controlName === eltSelected[indexVal].next);
-                        //        if (controls && controls.length > 0) {
-                        //            let control = controls[0];
-                        //            if (control.validations && control.options?.filter(el => el.value).length === 0) {
-                        //                isvalidForm = false;
-                        //            }
-                        //        }
-                        //    }
-
-                        //    this.formCompletetion[outerIndex] = isvalidForm;
-                        //}
-                        //else {
-                        //    this.formCompletetion[outerIndex] = false;
-                        //}
+                        });                     
 
                         this.formCompletetion[outerIndex] = this.autoValidation(outerIndex);
-                        console.log(eltSelected[indexVal]);
 
                         // Looping to all the element t be displayed as well. For now ont one item on the array
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
