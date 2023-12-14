@@ -11,7 +11,7 @@ import { ArtSideMenuInterface } from "../../models/art-side-menu.interface";
 import { Subscription } from 'rxjs/internal/Subscription';
 import { Observable } from 'rxjs/internal/Observable';
 import { ArtMessageService } from '../../services/art-message/art-message-service';
-import { Subject, takeUntil } from 'rxjs';
+import { count, Subject, takeUntil } from 'rxjs';
 
 @Component({
     selector: 'art-form-template',
@@ -19,7 +19,7 @@ import { Subject, takeUntil } from 'rxjs';
     styleUrls: ['./art-form-template.component.scss']
 })
 export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
-     
+
     constructor(private fb: FormBuilder,
         public router: Router,
         public ictItemService: IctItemService,
@@ -169,9 +169,9 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
         //Setup the new ict added subscription
         if (this.formConfig[0] && this.formConfig[0].formElements.length == 17) {
-            this.messageSubscription =   this.artMessageService.receiveMessage().subscribe((message) => {
-                    this.addNewICT(message)
-                });
+            this.messageSubscription = this.artMessageService.receiveMessage().subscribe((message) => {
+                this.addNewICT(message)
+            });
         }
 
 
@@ -186,18 +186,19 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
 
             //Only for debugging TOBE REMOVED
-           this.formList[outerIndex].valueChanges.subscribe((data)=>{
+            //this.formList[outerIndex].valueChanges.subscribe((data) => {
 
-              //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
-              setTimeout(()=>{
-                this.updateDownloadData();
-                //Loop all the field and display any elements which are needed based on the user answer
-                this.autoDisplayFields(outerIndex);
-                this.sideNavConfig();
-                this.loading = false;
-              },500);
-            });
+            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
+            // setTimeout(() => {
+            //this.updateDownloadData();
+            ////Loop all the field and display any elements which are needed based on the user answer
+            //this.autoDisplayFields(outerIndex);
+            //this.sideNavConfig();
+            //this.loading = false;
+            //   }, 500);
+            // });
 
+            this.refreshView(outerIndex);
 
             //create controls elements for each form
             eachConfig.formElements.forEach((eachFormElement, index) => {
@@ -243,6 +244,16 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         }
     }
 
+    refreshView(outerIndex: number): void {
+        setTimeout(() => {
+            this.updateDownloadData();
+            //Loop all the field and display any elements which are needed based on the user answer
+            this.autoDisplayFields(outerIndex);
+            this.sideNavConfig();
+            this.loading = false;
+        }, 500);
+    }
+
 
     /**
      * 
@@ -265,9 +276,10 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             this.elementSelected = parentControl?.options?.find(eachElt => eachElt.controlName === elt.controlName);
         }
 
+        this.refreshView(outerIndex);
+
         //Except the option the user clicked on, all other option children will be clear out and hidden until the children element has done as next property "done" 
         this.clearHiddenElts(outerIndex, parentControl, elt.controlName);
-
     }
 
     /**
@@ -381,96 +393,130 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      * @returns void
      */
     autoDisplayFields(outerIndex: number): void {
-            //Looping to all the elements on the form
+        //Looping to all the elements on the form
         this.formConfig[outerIndex].formElements.forEach(eachElement => {
 
-                //If any elements has a value set or if the user selected a value
-                if ((eachElement.elementType === ElementType.text && this.formList[outerIndex].value[eachElement.controlName]) ||
-                    (eachElement.elementType !== ElementType.text &&
-                        this.formList[outerIndex].value[eachElement.controlName] &&
-                        Object.keys(this.formList[outerIndex].value[eachElement.controlName]).length > 0 &&
-                        Object.keys(this.formList[outerIndex].value[eachElement.controlName]).find(key => !!this.formList[outerIndex].value[eachElement.controlName][key])
-                    )
-                ) {
-                    // If the field selected is not a text
-                    if (eachElement.elementType !== ElementType.text) {
-                        // All the form(all elements on the form) key value are stored
-                        const formKeysValues: any = this.formList[outerIndex].value[eachElement.controlName]; //{sot-type: 'red'} or {sof-type:true, elec-com:false ...}
-                        //Only extract the keys from the form results which have values
-                        const allKeysWithValues: string[] | undefined = Object.keys(formKeysValues).filter(key => !!formKeysValues[key]); // one or many keys have a value [fot-type, elec-com]
-                        //Only extract the values which have been selected by the user input
-                        const values = allKeysWithValues.map(eachVal => formKeysValues[eachVal!]);
+            //If any elements has a value set or if the user selected a value
+            if ((eachElement.elementType === ElementType.text && this.formList[outerIndex].value[eachElement.controlName]) ||
+                (eachElement.elementType !== ElementType.text &&
+                    this.formList[outerIndex].value[eachElement.controlName] &&
+                    Object.keys(this.formList[outerIndex].value[eachElement.controlName]).length > 0 &&
+                    Object.keys(this.formList[outerIndex].value[eachElement.controlName]).find(key => !!this.formList[outerIndex].value[eachElement.controlName][key])
+                )
+            ) {
+                // If the field selected is not a text
+                if (eachElement.elementType !== ElementType.text) {
+                    // All the form(all elements on the form) key value are stored
+                    const formKeysValues: any = this.formList[outerIndex].value[eachElement.controlName]; //{sot-type: 'red'} or {sof-type:true, elec-com:false ...}
+                    //Only extract the keys from the form results which have values
+                    const allKeysWithValues: string[] | undefined = Object.keys(formKeysValues).filter(key => !!formKeysValues[key]); // one or many keys have a value [fot-type, elec-com]
+                    //Only extract the values which have been selected by the user input
+                    const values = allKeysWithValues.map(eachVal => formKeysValues[eachVal!]);
 
-                        const eltSelected: any[] = [];
-                        //Going over all the values selected
-                        values.forEach((eachVal, indexVal) => {
-                            /*
-                             * Storing the list of all the elements the users interacted with. for radio or checkbox
-                             * WHen a user clicked on a control. It can capture the option with value by matching the element name with all values(key is the controlname) stored in   allKeysWithValues
-                            **/
-                            const optWithValue = eachElement.options!.find((elt, index) => elt.controlName === allKeysWithValues[indexVal]);
-                            /*
-                             * elt.value === eachVal is for prepopulated scenarious, when a user navigates back on the page.
-                             * we can directly get the value from the value property because all the elt has been updated
-                             * this option is needed only if the controlForm has not value, nothing has been selected by the user
-                            **/
-                            const optWithValuePrepo = eachElement.options!.find((elt, index) => elt.value === eachVal)
+                    const eltSelected: any[] = [];
+                    //Going over all the values selected
+                    values.forEach((eachVal, indexVal) => {
+                        /*
+                         * Storing the list of all the elements the users interacted with. for radio or checkbox
+                         * WHen a user clicked on a control. It can capture the option with value by matching the element name with all values(key is the controlname) stored in   allKeysWithValues
+                        **/
+                        const optWithValue = eachElement.options!.find((elt, index) => elt.controlName === allKeysWithValues[indexVal]);
+                        /*
+                         * elt.value === eachVal is for prepopulated scenarious, when a user navigates back on the page.
+                         * we can directly get the value from the value property because all the elt has been updated
+                         * this option is needed only if the controlForm has not value, nothing has been selected by the user
+                        **/
+                        const optWithValuePrepo = eachElement.options!.find((elt, index) => elt.value === eachVal)
 
-                            //Storing all the element selected, or having values on page loaded
-                            eltSelected.push(optWithValue ? optWithValue : optWithValuePrepo);
+                        //Storing all the element selected, or having values on page loaded
+                        eltSelected.push(optWithValue ? optWithValue : optWithValuePrepo);
 
-                            //Parent control of the element selected
-                            const parentControl = this.formConfig[outerIndex].formElements.find(data => {
-                                const result = data.options?.find(eachOption => {
-                                    return eachOption.controlName === eltSelected[0].controlName;
-                                });
-                                return result;
-                            })
-                            // For any option element having additionNext field set up
-                            let additionNext: string[] = [];
-                            //Based on the element selected, capture the next value and setting it to visible
-                            this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
-                                if (eltSelected[indexVal] && eltSelected[indexVal].next && elt.controlName.includes(eltSelected[indexVal]!.next)) {
-                                    elt.hidden = false;
-                                    //if another element should be display at the same time of the current element, we are saving that element
-                                    if (eltSelected[indexVal].additionalNext && eltSelected[indexVal].additionalNext.length > 0) {
-                                        additionNext = eltSelected[indexVal].additionalNext;
-                                    }
-                                }
-
-                                if (eltSelected[indexVal].next === 'done') {
-                                    this.formCompletetion[outerIndex] = true;
-                                } else this.formCompletetion[outerIndex] = false;
+                        //Parent control of the element selected
+                        const parentControl = this.formConfig[outerIndex].formElements.find(data => {
+                            const result = data.options?.find(eachOption => {
+                                return eachOption.controlName === eltSelected[0].controlName;
                             });
-
-                            // Looping to all the element t be displayed as well. For now ont one item on the array
-                            this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
-                                if (additionNext && additionNext.length > 0) {
-                                    additionNext.forEach(adnxt => {
-                                        if (elt.controlName === adnxt) {
-                                            elt.hidden = false;
-                                        }
-                                    });
-                                }
-                            })
-                        });
-                    } else {
-                        // All the form(all elements on the form) key value are stored
-                        const value: any = this.formList[outerIndex].value[eachElement.controlName]; //{sot-type: 'red'} or {sof-type:true, elec-com:false ...}
-
-                        let eltSelected: any;
-                        //Going over all the values selected
-                        // Storing the list of all the elements the users interacted with. for radio or checkbox
-                        eltSelected = eachElement;
+                            return result;
+                        })
+                        // For any option element having additionNext field set up
+                        let additionNext: string[] = [];
                         //Based on the element selected, capture the next value and setting it to visible
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
-                            if (eltSelected && eltSelected.next && elt.controlName.includes(eltSelected!.next)) {
+                            if (eltSelected[indexVal] && eltSelected[indexVal].next && elt.controlName.includes(eltSelected[indexVal]!.next)) {
                                 elt.hidden = false;
+                                //if another element should be display at the same time of the current element, we are saving that element
+                                if (eltSelected[indexVal].additionalNext && eltSelected[indexVal].additionalNext.length > 0) {
+                                    additionNext = eltSelected[indexVal].additionalNext;
+                                }
+                            }
+
+                            //if (eltSelected[indexVal].validations && eltSelected[indexVal].value) {
+                            //    this.formCompletetion[outerIndex] = true;
+                            //} else this.formCompletetion[outerIndex] = false;
+                        });
+
+                        //if (additionNext.length > 0 || eltSelected[indexVal].next) {
+                        //    var isvalidForm = true;
+
+                        //    if (additionNext) {
+                        //        additionNext.forEach(adnext => {
+                        //            var controls = this.formConfig[outerIndex].formElements.filter(el => el.controlName === adnext);
+                        //            if (controls && controls.length > 0) {
+                        //                let control = controls[0];
+                        //                if (control.validations && control.options?.filter(el => el.value).length === 0) {
+                        //                    isvalidForm = false;
+                        //                }
+                        //            }
+                        //        });
+                        //    }
+
+                        //    if (eltSelected[indexVal].next) {
+                        //        var controls = this.formConfig[outerIndex].formElements.filter(el => el.controlName === eltSelected[indexVal].next);
+                        //        if (controls && controls.length > 0) {
+                        //            let control = controls[0];
+                        //            if (control.validations && control.options?.filter(el => el.value).length === 0) {
+                        //                isvalidForm = false;
+                        //            }
+                        //        }
+                        //    }
+
+                        //    this.formCompletetion[outerIndex] = isvalidForm;
+                        //}
+                        //else {
+                        //    this.formCompletetion[outerIndex] = false;
+                        //}
+
+                        this.formCompletetion[outerIndex] = this.autoValidation(outerIndex);
+                        console.log(eltSelected[indexVal]);
+
+                        // Looping to all the element t be displayed as well. For now ont one item on the array
+                        this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
+                            if (additionNext && additionNext.length > 0) {
+                                additionNext.forEach(adnxt => {
+                                    if (elt.controlName === adnxt) {
+                                        elt.hidden = false;
+                                    }
+                                });
                             }
                         })
-                    }
+                    });
+                } else {
+                    // All the form(all elements on the form) key value are stored
+                    const value: any = this.formList[outerIndex].value[eachElement.controlName]; //{sot-type: 'red'} or {sof-type:true, elec-com:false ...}
+
+                    let eltSelected: any;
+                    //Going over all the values selected
+                    // Storing the list of all the elements the users interacted with. for radio or checkbox
+                    eltSelected = eachElement;
+                    //Based on the element selected, capture the next value and setting it to visible
+                    this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
+                        if (eltSelected && eltSelected.next && elt.controlName.includes(eltSelected!.next)) {
+                            elt.hidden = false;
+                        }
+                    })
                 }
-            });
+            }
+        });
     }
 
     /**
@@ -583,32 +629,32 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
     }
 
     addNewICT(outerIndex: number) {
-            //Initialize form
-            this.formCompletetion.push(false);
+        //Initialize form
+        this.formCompletetion.push(false);
 
-            this.allControlList.push([]);
-            Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
-                let control = this.formList[this.formList.length - 1].controls[key];
-                control.reset();
-                control.markAsUntouched();
-                control.setErrors(null);
-                this.allControlList[this.allControlList.length - 1].push(control);
-            });
+        this.allControlList.push([]);
+        Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
+            let control = this.formList[this.formList.length - 1].controls[key];
+            control.reset();
+            control.markAsUntouched();
+            control.setErrors(null);
+            this.allControlList[this.allControlList.length - 1].push(control);
+        });
 
-            this.autoDisplayFields(outerIndex);
+        this.autoDisplayFields(outerIndex);
 
-            //Only for debugging TOBE REMOVED
-            this.formList[outerIndex]?.valueChanges.subscribe((data) => {
+        //Only for debugging TOBE REMOVED
+        this.formList[outerIndex]?.valueChanges.subscribe((data) => {
 
-                //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
-                setTimeout(() => {
-                    this.updateDownloadData();
-                    //Loop all the field and display any elements which are needed based on the user answer
-                    this.autoDisplayFields(outerIndex);
-                    this.sideNavConfig();
-                    this.loading = false;
-                }, 500);
-           });
+            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
+            setTimeout(() => {
+                this.updateDownloadData();
+                //Loop all the field and display any elements which are needed based on the user answer
+                this.autoDisplayFields(outerIndex);
+                this.sideNavConfig();
+                this.loading = false;
+            }, 500);
+        });
     }
 
     /**
@@ -633,8 +679,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         allSections.forEach((section, index) => {
             if (pointer > 0) {
                 let pos = section.getBoundingClientRect();
-                if (pos.bottom > 20 && currLink < 0 && this.getMenuIds().includes(index-1)) {
-                    currLink = this.sideMenu.activeId = index-1;
+                if (pos.bottom > 20 && currLink < 0 && this.getMenuIds().includes(index - 1)) {
+                    currLink = this.sideMenu.activeId = index - 1;
                 }
             }
             pointer++;
@@ -645,4 +691,42 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         this.messageSubscription?.unsubscribe();
     }
 
+    autoValidation(outerIndex: number): boolean {
+        var counters = [];
+        if (this.allControlList) {
+            let parentForm = this.allControlList[outerIndex][0];
+            let formElements = this.formConfig[outerIndex].formElements;
+            let additionalNext: any;
+            switch (parentForm.value["sol-type"]) {
+                case "red":
+                    additionalNext = (this.formConfig[outerIndex].formElements[0].options?.at(0))?.additionalNext;
+                    break;
+                case "green":
+                    additionalNext = [];
+                    additionalNext.push((this.formConfig[outerIndex].formElements[0].options?.at(1))?.next);
+                    break;
+                case "blue":
+                    additionalNext = (this.formConfig[outerIndex].formElements[0].options?.at(2))?.additionalNext;
+                    break;
+            }
+            if (additionalNext) {
+                formElements = formElements.filter(el => additionalNext?.includes(el.controlName));
+                for (var i = 0; i < formElements.length; i++) {
+                    let element = formElements[i];
+                    if (element.options) {
+                        let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
+                        let optionControl: FormControl[] = this.allControlList[outerIndex][optionIndex].value;
+                        let optionKeys = Object.keys(optionControl);
+                        if (optionKeys.length > 0 && ((optionKeys.length > 1 && Object.values(optionControl).filter(op => op).length > 0) || (optionKeys.length === 1 && Object.values(optionControl)[0]))) {
+                            counters.push(true);
+                        }
+                        else {
+                            counters.push(false);
+                        }
+                    }
+                }
+            }
+        }
+        return counters.filter(ct => !ct).length===0;
+    }
 }

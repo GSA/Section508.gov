@@ -22,7 +22,7 @@
                     "label":"Project Planning",
                     "description":"I want to identify the applicable Section 508 standards I need to address during project planning",
                     "value":"red", 
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-group",
                     "formSection": "",
                     "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
@@ -34,7 +34,7 @@
                     "label":"Market Research",
                     "description":"I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for information (RFI).",
                     "value":"green",
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-mark-research-group",
                     "formSection":""
                 },
@@ -44,7 +44,7 @@
                     "label":"Solicitation Development",
                     "description":"I want to obtain Section 508 requirements to include in my statement of work",
                     "value":"blue",
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-group",
                     "formSection": "",
                     "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
