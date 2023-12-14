@@ -186,19 +186,16 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
 
             //Only for debugging TOBE REMOVED
-            //this.formList[outerIndex].valueChanges.subscribe((data) => {
+            this.formList[outerIndex].valueChanges.subscribe((data) => {
 
             //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
-            // setTimeout(() => {
-            //this.updateDownloadData();
-            ////Loop all the field and display any elements which are needed based on the user answer
-            //this.autoDisplayFields(outerIndex);
-            //this.sideNavConfig();
-            //this.loading = false;
-            //   }, 500);
-            // });
-
-            this.refreshView(outerIndex);
+            setTimeout(() => {
+                this.updateDownloadData();
+                this.autoDisplayFields(outerIndex);
+                this.sideNavConfig();
+                this.loading = false;
+               }, 500);
+            });
 
             //create controls elements for each form
             eachConfig.formElements.forEach((eachFormElement, index) => {
@@ -244,17 +241,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         }
     }
 
-    refreshView(outerIndex: number): void {
-        setTimeout(() => {
-            this.updateDownloadData();
-            //Loop all the field and display any elements which are needed based on the user answer
-            this.autoDisplayFields(outerIndex);
-            this.sideNavConfig();
-            this.loading = false;
-        }, 500);
-    }
-
-
     /**
      * 
      * @param elt 
@@ -275,8 +261,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         if (elt && elt.controlName) {
             this.elementSelected = parentControl?.options?.find(eachElt => eachElt.controlName === elt.controlName);
         }
-
-        this.refreshView(outerIndex);
 
         //Except the option the user clicked on, all other option children will be clear out and hidden until the children element has done as next property "done" 
         this.clearHiddenElts(outerIndex, parentControl, elt.controlName);
@@ -452,6 +436,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                         });                     
 
                         this.formCompletetion[outerIndex] = this.autoValidation(outerIndex);
+
 
                         // Looping to all the element t be displayed as well. For now ont one item on the array
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
