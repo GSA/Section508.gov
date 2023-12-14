@@ -188,13 +188,13 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             //Only for debugging TOBE REMOVED
             this.formList[outerIndex].valueChanges.subscribe((data) => {
 
-            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
-            setTimeout(() => {
-                this.updateDownloadData();
-                this.autoDisplayFields(outerIndex);
-                this.sideNavConfig();
-                this.loading = false;
-               }, 500);
+                //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
+                setTimeout(() => {
+                    this.updateDownloadData();
+                    this.autoDisplayFields(outerIndex);
+                    this.sideNavConfig();
+                    this.loading = false;
+                }, 500);
             });
 
             //create controls elements for each form
@@ -332,10 +332,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 * - That element should not be already hidden unless the element to removed along with it exits
                 * 
                 **/
-                nextEltAdd?.forEach(nextEltAdd => {
-                    let tempFormEltAdd = this.findFormElement(index, nextEltAdd);
-                    if (tempFormEltAdd) tempFormEltAdd.hidden = true;
-                })
                 if (nextElt !== 'done' && tempFormElt?.hidden === false) {
                     // Going to all the formElement
                     this.formConfig[index].formElements.forEach(eachElement => {
@@ -429,15 +425,15 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                 elt.hidden = false;
                             }
                             if (eltSelected[indexVal].additionalNext && eltSelected[indexVal].additionalNext.length > 0) {
-                                  additionNext = eltSelected[indexVal].additionalNext;
+                                additionNext = eltSelected[indexVal].additionalNext;
                             }
-                        });           
+                        });
 
                         this.formConfig[outerIndex].formElements.forEach((elt, eltIndex) => {
                             if (additionNext && additionNext.length > 0) {
                                 additionNext.forEach(adnxt => {
                                     if (elt.controlName === adnxt) {
-                                       elt.hidden = false;
+                                        elt.hidden = false;
                                     }
                                 });
                             }
@@ -636,6 +632,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         this.messageSubscription?.unsubscribe();
     }
 
+    
     autoValidation(outerIndex: number): boolean {
         var counters = [];
         if (this.allControlList) {
@@ -654,8 +651,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                     additionalNext = (this.formConfig[outerIndex].formElements[0].options?.at(2))?.additionalNext;
                     break;
             }
-            if (additionalNext) {
-                formElements = formElements.filter(el => additionalNext?.includes(el.controlName));
+            formElements = formElements.filter(el => !el.hidden && el.controlName != "sol-type");
+            if (formElements) {
                 for (var i = 0; i < formElements.length; i++) {
                     let element = formElements[i];
                     if (element.options) {
@@ -672,6 +669,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 }
             }
         }
-        return counters.filter(ct => !ct).length===0;
+        return counters.filter(ct => !ct).length === 0;
     }
 }
