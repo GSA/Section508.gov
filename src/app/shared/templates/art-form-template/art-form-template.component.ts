@@ -261,7 +261,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         if (elt && elt.controlName) {
             this.elementSelected = parentControl?.options?.find(eachElt => eachElt.controlName === elt.controlName);
         }
-
+        this.resetForm(elt, outerIndex);
         //Except the option the user clicked on, all other option children will be clear out and hidden until the children element has done as next property "done" 
         this.clearHiddenElts(outerIndex, parentControl, elt.controlName);
     }
@@ -632,7 +632,35 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         this.messageSubscription?.unsubscribe();
     }
 
-    
+    resetForm(elt: any, outerIndex: number): void {
+        var counters = [];
+        if (this.allControlList) {
+            let formElements = this.formConfig[outerIndex].formElements;
+            formElements = formElements.filter(el => !el.hidden && el.controlName != "sol-type");
+            switch (elt.value) {
+                case "red":
+                case "blue":
+                case "green":
+                    if (formElements) {
+                        for (var i = 0; i < formElements.length; i++) {
+                           this.formList[outerIndex].get(formElements[i].controlName)?.reset();
+                           formElements[i].hidden = true;
+                            let element = formElements[i];
+                            if (element.options) {
+                                let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
+                                let optionControl = this.allControlList[outerIndex][optionIndex];
+                                optionControl.markAsUntouched();
+                                optionControl.reset();
+                                optionControl.setErrors(null);
+                                optionControl.enable();
+                            }
+                        }
+                    }
+                    break;
+            }
+        }
+    }
+
     autoValidation(outerIndex: number): boolean {
         var counters = [];
         if (this.allControlList) {
