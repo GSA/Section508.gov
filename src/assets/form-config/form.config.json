@@ -742,7 +742,7 @@
                     "value":false, 
                     "controlName":"hardware-computer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -751,7 +751,7 @@
                     "value":false,
                     "controlName":"hardware-tablet",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -761,7 +761,7 @@
                     "value":false,
                     "controlName":"hardware-printer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -771,7 +771,7 @@
                     "value":false, 
                     "controlName":"hardware-multi-func",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -780,7 +780,7 @@
                     "value":false,
                     "controlName":"hardware-peripheral",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -790,7 +790,7 @@
                     "value":false,
                     "controlName":"hardware-kiosk",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -799,7 +799,7 @@
                     "value":false, 
                     "controlName":"hardware-mobile",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -808,7 +808,7 @@
                     "value":false,
                     "controlName":"hardware-video-telecon",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -818,7 +818,7 @@
                     "value":false,
                     "controlName":"hardware-video-monitor",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -837,7 +837,7 @@
                     "value":false,
                     "controlName":"hardware-other",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -848,7 +848,7 @@
                     "controlName":"hardware-none",
                     "onlyOption": true,
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -895,7 +895,7 @@
                     "value":"server-iaas-idk",
                     "controlName":"server-iaas-idk",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
