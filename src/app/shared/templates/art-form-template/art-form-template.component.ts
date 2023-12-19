@@ -649,9 +649,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                             if (element.options) {
                                 let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
                                 let optionControl = this.allControlList[outerIndex][optionIndex];
-                                optionControl.markAsUntouched();
                                 optionControl.reset();
-                                optionControl.setErrors(null);
                                 optionControl.enable();
                             }
                         }
@@ -683,7 +681,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             if (formElements) {
                 for (var i = 0; i < formElements.length; i++) {
                     let element = formElements[i];
-                    if (element.options) {
+                    if (element.options?.length!=0) {
                         let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
                         let optionControl: FormControl[] = this.allControlList[outerIndex][optionIndex].value;
                         let optionKeys = Object.keys(optionControl);
