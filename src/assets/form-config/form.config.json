@@ -481,8 +481,8 @@
                     "value":false,
                     "controlName":"soft-none",
                     "validations":[],
-                    "next":"",
-                    "formSection":"software-group",
+                    "next":"software-group",
+                    "formSection":"",
                     "onlyOption": true
                 }
             ]
