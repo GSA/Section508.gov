@@ -25,7 +25,7 @@
                     "validations":["required"],
                     "next":"ict-group",
                     "formSection": "",
-                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","hardware-group","support-doc-group" ]
                   
                 },
                 {
@@ -47,7 +47,7 @@
                     "validations":["required"],
                     "next":"ict-group",
                     "formSection": "",
-                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","software-group","hardware-group","support-doc-group" ]
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","hardware-group","support-doc-group" ]
                 }
             ]
       
@@ -385,7 +385,7 @@
                     "label":"No",
                     "description":"",
                     "value":"content-public-no",
-                    "controlName":"content-public-yes",
+                    "controlName":"content-public-no",
                     "validations":[],
                     "next":"agency-comm",
                     "formSection":""
@@ -472,7 +472,7 @@
                     "controlName":"soft-idk",
                     "validations":[],
                     "onlyOption": true,
-                    "next":"",
+                    "next":"software-group",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -482,7 +482,7 @@
                     "controlName":"soft-none",
                     "validations":[],
                     "next":"",
-                    "formSection":"",
+                    "formSection":"software-group",
                     "onlyOption": true
                 }
             ]
@@ -491,8 +491,8 @@
         {
             "elementType": "checkboxGroup",
             "controlName": "software-group",
-            "formSection": "Are you purchasing any software items, deliverables, or licenses?",
-            "title": "",
+            "formSection": "",
+            "title": "Are you purchasing any software items, deliverables, or licenses?",
             "hidden":true,
             "label": "<i>Programs, procedures, rules, and related data and documentation that direct the use and operation of ICT and instruct it to perform a given task or function. Software includes, but is not limited to, applications, non-Web software, and platform software.</i><br><br>(Check all that apply)",
             "placeholder": "",
