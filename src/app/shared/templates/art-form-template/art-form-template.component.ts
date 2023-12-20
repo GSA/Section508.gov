@@ -354,6 +354,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                     this.formList[index].get(nextEltAdd!)?.reset();
                                 })
                             }
+                            this.formList[index].get(nextElt)?.reset();
                             this.formList[index].get(eachElement.controlName)?.enable();
 
                             // check if any next of each options on the element hidden has a value
