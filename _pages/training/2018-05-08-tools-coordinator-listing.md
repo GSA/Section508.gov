@@ -16,6 +16,12 @@ Agency Section 508 Program Managers (PMs) are your first point of contact for qu
 If your agency doesn't have a designated Section 508 PM, contact your agency CIO office for assistance. To update this list, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address.
 
 
+<fieldset style="border-radius:5px;"><legend>&nbsp;<strong>Agency Action</strong>&nbsp;</legend>
+As per <a href="https://www.whitehouse.gov/wp-content/uploads/2023/12/M-24-08-Strengthening-Digital-Accessibility-and-the-Management-of-Section-508-of-the-Rehabilitation-Act.pdf" target="_blank" class="usa-link usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a> agencies are required to report to OMB the name and contact information of the agency-wide Section 508 Program Manager. Please complete and submit the following online form to respond to this action. 
+<br><br>
+<button type="button" class="usa-button" onclick="location.href='https://feedback.gsa.gov/jfe/form/SV_ehBggwQIBSXfOAu'">Report Agency-wide Section 508 Program Manager</button>
+</fieldset>
+
 ## Departments and CFO Act Agencies
 
 [Agency for International Development][1]  
@@ -715,7 +721,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: November 20, 2023
+**Reviewed/Updated**: December 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
