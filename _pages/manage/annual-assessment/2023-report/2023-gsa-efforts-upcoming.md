@@ -27,7 +27,7 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 * <strong>Independent Testing:</strong> Create a framework to conduct limited independent testing of agency public websites and electronic documents. This will allow the assessment team to validate reported data through “spot checks” and promote more consistent data for the Assessment.
 
-#### Policy and Best Practices
+### Policy and Best Practices
 
 * [Section508.gov]({{site.baseurl}}) is the primary resource for agencies to successfully manage and implement Section 508 requirements, including multiple citations within Federal Acquisition Regulation (FAR). GSA identifies and fills content gaps and stakeholder needs on Section508.gov through continuous analysis and outreach.<sup><a href="#fn35" id="fr35">35</a></sup>
 
@@ -41,7 +41,7 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 * Eases the burden of market research and ambiguity around product accessibility.
 
-#### Strategic Engagement
+### Strategic Engagement
 
 * GSA will continue to lead the Interagency Accessibility Forum (IAAF) in FY24 and bimonthly Accessibility Community meetings.
 
@@ -51,7 +51,7 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 * GSA will conduct other governmentwide and external engagements with federal partners and industry, as well as continue collaboration with the Access Board’s Section 508 Best Practices webinar series.
 
-#### Technical Assistance, Tools, and Training
+### Technical Assistance, Tools, and Training
 
 *  In conjunction with promotion of the OpenACR Editor, GSA is developing the OpenACR Index – a central index of completed, vendor-provided machine readable ACRs. This tool will allow product vendors to list their product ACRs with other product-identifying information. Product buyers and users will be able to search, share, and compare product ACRs across government for repeatability, cost effectiveness, efficiency and ease of use, among other benefits. The OpenACR Index will also provide an API to make it easier for digital marketplaces – both within government and in the commercial marketplace – to obtain product accessibility information and display it alongside product descriptions and specifications. GSA expects to release the minimum viable product version within FY24.
 
