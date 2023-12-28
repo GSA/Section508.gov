@@ -7,11 +7,11 @@ title: 'Understanding Vendor Claims in Accessibility Conformance Reports for Sec
 created: 2023-09-27
 ---
 
-In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)](https://www.section508.gov/sell/vpat/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's compliance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.
+In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)](https://www.section508.gov/sell/vpat/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's conformance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.
 
 ## 1. Supports
 
-When a vendor claims that a product “supports" Section 508, it implies that the product is designed and developed with accessibility in mind and fully complies with the relevant accessibility standards. In this context, "supports" indicates that the product is accessible to people with disabilities, and it should work seamlessly for users relying on assistive technologies such as screen readers, voice recognition software, or alternative input devices. A product that fully "supports" Section 508 is generally a safe choice for organizations seeking to meet accessibility requirements.
+When a vendor claims that a product “supports" Section 508, it implies that the product is designed and developed with accessibility in mind and fully conforms with the relevant accessibility standards. In this context, "supports" indicates that the product is accessible to people with disabilities, and it should work seamlessly for users relying on assistive technologies such as screen readers, voice recognition software, or alternative input devices. A product that fully "supports" Section 508 is generally a safe choice for organizations seeking to meet accessibility requirements.
 
 ## 2. Partially Supports
 
@@ -19,7 +19,7 @@ A vendor may state that their product "partially supports" Section 508. This ind
 
 ## 3. Does Not Support
 
-When a product is marked as "does not support" Section 508, it means that the vendor has not incorporated accessibility features or has made minimal efforts to comply with accessibility standards. “Does not support” can also be interpreted to mean that the product ***does not conform*** to the Section 508 standards. Purchasers should exercise caution when considering such products, especially if they plan to use them in a government or federally funded context where Section 508 conformance is mandatory. In cases where a product "does not support" accessibility, organizations may need to invest significant resources in retrofitting or finding alternative solutions to meet accessibility requirements.
+When a product is marked as "does not support" Section 508, it means that the vendor has not incorporated accessibility features or has made minimal efforts to conform with accessibility standards. “Does not support” can also be interpreted to mean that the product ***does not conform*** to the Section 508 standards. Purchasers should exercise caution when considering such products, especially if they plan to use them in a government or federally funded context where Section 508 conformance is mandatory. In cases where a product "does not support" accessibility, organizations may need to invest significant resources in retrofitting or finding alternative solutions to meet accessibility requirements.
 
 ## 4. Not Applicable
 
@@ -27,13 +27,13 @@ Sometimes, a vendor may indicate that a specific standard within the VPAT is "no
 
 ## 5. Not Evaluated
 
-A note of "not evaluated" in an ACR indicates that the vendor has not conducted an assessment or evaluation of the product's accessibility in relation to the particular Section 508 standards in question. This could mean that the vendor has not yet assessed the product for accessibility or has not included the evaluation results in the ACR. In such cases, purchasers should seek clarification from the vendor regarding their plans for accessibility evaluation and whether future assessments will be available. It is important to note that "not evaluated" does not provide any assurance of accessibility compliance and should prompt further inquiries and considerations.
+A note of "not evaluated" in an ACR indicates that the vendor has not conducted an assessment or evaluation of the product's accessibility in relation to the particular Section 508 standards in question. This could mean that the vendor has not yet assessed the product for accessibility or has not included the evaluation results in the ACR. In such cases, purchasers should seek clarification from the vendor regarding their plans for accessibility evaluation and whether future assessments will be available. It is important to note that "not evaluated" does not provide any assurance of accessibility and should prompt further inquiries and considerations.
 
 ## Verify Vendor Conformance Claims
 
 Whenever possible, purchasers should conduct independent conformance validation testing and evaluation to verify vendor accessibility conformance claims. For Web-based products, purchasers can refer to the ICT Accessibility Testing Baseline for Web and consider using a “Baseline-aligned” test process, such as the Trusted Tester process (see [Trusted Tester and ICT Testing Baseline](https://www.section508.gov/test/trusted-tester/)).
 
-Understanding vendor claims in ACRs regarding Section 508 compliance is essential for organizations aiming to provide equal access to digital information and services.Purchasers should always review ACRs thoroughly, seek clarification from vendors if necessary, and align their product choices with the specific accessibility needs of their user base and their compliance obligations under Section 508. By doing so, they can make informed decisions that promote digital inclusivity and accessibility for all.
+Understanding vendor claims in ACRs regarding Section 508 conformance is essential for organizations aiming to provide equal access to digital information and services. Purchasers should always review ACRs thoroughly, seek clarification from vendors if necessary, and align their product choices with the specific accessibility needs of their user base and their agency's compliance obligations under Section 508. By doing so, they can make informed decisions that promote digital inclusivity and accessibility for all.
 
 ## Related Resources
 

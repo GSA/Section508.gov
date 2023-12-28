@@ -47,7 +47,7 @@ Item.
 <ol type="i">
     <li>Provide a description of the evaluation methods used to support Section 508 conformance claims. The agency reserves the right, prior to making an award decision, to perform testing on some or all of the vendor’s proposed ICT items to validate Section 508 conformance claims made in the ACR.</li>
         <ol type="A">
-        <li> Describe your approach to incorporating universal design principles to ensure ICTproducts or services are designed to support disabled users.</li>
+        <li> Describe your approach to incorporating universal design principles to ensure ICT products or services are designed to support disabled users.</li>
         <li> Describe plans for features that do not fully conform to the Section 508 Standards.</li>
         <li> Describe “typical” user scenarios and tasks, including individuals with disabilities, to ensure fair and accurate accessibility testing of the ICT product or service being offered.</li>
         </ol>
