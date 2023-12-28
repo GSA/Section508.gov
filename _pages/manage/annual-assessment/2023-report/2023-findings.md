@@ -46,7 +46,7 @@ We noted several patterns with respect to the reported data. Key highlights of t
 
 GSA provided a comprehensive analysis on submissions, with the majority of the findings below generated using [descriptive statistics]({{base.siteurl}}/manage/section-508-assessment/2023/appendix-c-methods/#descriptive-statistics) alongside several findings further supported using regression analysis to understand and predict relationships between factors related to accessibility.<sup><a href="#fn8" id="fr8">8</a></sup> Detailed findings are described below, which include:
 
-* <strong>[overnment-wide Findings]({{base.siteurl}}/manage/section-508-assessment/2023/findings/)</strong>: Includes broader analysis focused on: 
+* <strong>[Government-wide Findings]({{base.siteurl}}/manage/section-508-assessment/2023/findings/)</strong>: Includes broader analysis focused on: 
 
   * <strong>[Key Compliance Outcomes]({{base.siteurl}}/manage/section-508-assessment/2023/findings-compliance/)</strong>: including details of full conformance for frequently used ICT
 
