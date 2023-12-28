@@ -8,7 +8,7 @@ redirect_from:
 ---
 This section incorporates findings presented throughout this document along with contextual considerations to provide recommendations to enhance Section 508 implementation and improve Section 508 compliance across the federal government. The below recommendations do not include logistical implications – such as resourcing requirements or timelines – but are intended as high-level considerations that would improve the state of accessibility throughout the federal government. Feasibility assessments and prioritization based on impact, level of effort, return on investment and other considerations should be a factor in prioritizing investment across the recommendations, particularly those that would involve significant resource investment to execute.
 
-Additional targeted [recommendations, based on each overall performance category]({{base.siteurl}}/section-508-assessment/2023/findings/summary/), are included in the previous section and are tailored to reporting entity outcomes from each maturity and conformance bracket.
+Additional targeted [recommendations, based on each overall performance category]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-overview/), are included in the previous section and are tailored to reporting entity outcomes from each maturity and conformance bracket.
 
 ## Assessment-Driven Recommendations
 * <strong>Congress should consider updating Section 508 of the Rehabilitation Act (29 U .S .C . 794(d) to include:</strong>
