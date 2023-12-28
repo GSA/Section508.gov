@@ -5,7 +5,7 @@ permalink: manage/section-508-assessment/2023/appendix-d-entity-summary/
 type: report2023
 title: "Entity Summary Report"
 ---
-<div class="margin-bottom-4 margin-top-neg-2" style="color:#71767A">Return to <a href="{{base.siteurl}}/manage/section-508-assessment/2023/appendix-d-reporting-entities/">Appendix D: Reporting Entities</a>.</div>
+<div class="margin-bottom-4 margin-top-neg-2" style="color:#71767A">Return to <a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-reporting-entities/">Appendix D: Reporting Entities</a>.</div>
 
 <div class="grid-container padding-x-0 margin-bottom-2">
   <div class="grid-row padding-x-auto">
@@ -250,7 +250,7 @@ title: "Entity Summary Report"
 </div>
 
 <div style="width: 100%; border: 1px solid black; background-color: #D8E7F5;" class="border-base radius-lg padding-1">
-  <p>For a explanation of this data, refer to <a class="text-primary-dark" href="{{base.siteurl}}/manage/section-508-assessment/2023/appendix-d-overview/">Appendix D: Overview Data By Reporting Entities</a>.</p>
+  <p>For a explanation of this data, refer to <a class="text-primary-dark" href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-overview/">Appendix D: Overview Data By Reporting Entities</a>.</p>
 </div>
 
 <p><strong>Reviewed/Updated</strong>: December 2023</p>
@@ -295,6 +295,12 @@ title: "Entity Summary Report"
           document.getElementById("m-index-link").innerText = entity_data[i].m_index;
           document.getElementById("c-index").innerText = entity_data[i].c_index;
           document.getElementById("c-index-link").innerText = entity_data[i].c_index;
+
+          //Adjust "see recommendations for..." maturity and conformance href
+          var mLower = entity_data[i].m_index.toLowerCase().replace(" ", "-");
+          var cLower = entity_data[i].c_index.toLowerCase().replace(" ", "-");
+          var rec_href = "/manage/section-508-assessment/2023/findings/category-" + mLower + "/#" + mLower + "-maturity---" + cLower + "-conformance";
+          document.getElementById("g-index").setAttribute("href", rec_href);
   
           //Adjust grid index sprite with index-specific CSS class
           const gIndex = entity_data[i].c_index_short.toLowerCase() + entity_data[i].m_index_short.toLowerCase();
