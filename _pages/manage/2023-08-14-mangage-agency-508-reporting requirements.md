@@ -9,7 +9,7 @@ created: August 22, 2023
 Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. The sections below outline those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
 
 ## Governmentwide Section 508 Assessment Report
-* **Description:** For the Governmentwide Section 508 Assessment Report, OMB and GSA are required to submit a [report to Congress]({{base.siteurl}}/manage/section-508-assessment/annual-reports/) on the state of federal department and agency Section 508 implementation progress, providing a comprehensive summary and analysis of agency responses to [assessment criteria]({{base.siteurl}}/manage/section-508-assessment). This report is submitted every year.
+* **Description:** For the Governmentwide Section 508 Assessment Report, OMB and GSA are required to submit a [report to Congress]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) on the state of federal department and agency Section 508 implementation progress, providing a comprehensive summary and analysis of agency responses to [assessment criteria]({{site.baseurl}}/manage/section-508-assessment). This report is submitted every year.
 * **Authority:** Section 752(b) of H.R.2617
 * **Owner:** OMB & GSA
 * **Agencies Required to Respond:** All agencies subject to Section 508[^1]

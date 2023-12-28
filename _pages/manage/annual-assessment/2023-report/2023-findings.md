@@ -50,7 +50,7 @@ GSA provided a comprehensive analysis on submissions, with the majority of the f
 
   * <strong>[Key Compliance Outcomes]({{site.baseurl}}/manage/section-508-assessment/2023/findings/compliance-outcomes/)</strong>: including details of full conformance for frequently used ICT
 
-  * <strong>[Maturity of Programs]({{site.baseurl}}/manage/section-508-assessment/2023/findings/maturity-dimensions/)</strong>: including expansive look across business functions related to accessibility
+  * <strong>[Maturity of Programs]({{site.baseurl}}/manage/section-508-assessment/2023/findings/maturity-dimension/)</strong>: including expansive look across business functions related to accessibility
 
   * <strong>[Section 508 Program and Staff Performance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/program-staff/)</strong>: including how staff size impacts maturity and conformance
 

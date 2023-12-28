@@ -10,38 +10,38 @@ As discussed above, this Assessment groups reporting entities into categories th
 Below are the results from all 25 overall performance categories for this Assessment that encompass all 249 respondents.
 
 ## Very-Low Maturity Categories
-* [Very Low Maturity - Very Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---very-low-conformance)
-* [Very Low Maturity - Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---low-conformance)
-* [Very Low Maturity - Moderate Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---moderate-conformance)
-* [Very Low Maturity - High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---high-conformance)
-* [Very Low Maturity - Very High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---very-high-conformance)
+* [Very Low Maturity - Very Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---very-low-conformance)
+* [Very Low Maturity - Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---low-conformance)
+* [Very Low Maturity - Moderate Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---moderate-conformance)
+* [Very Low Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---high-conformance)
+* [Very Low Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-low/#very-low-maturity---very-high-conformance)
 
 ## Low Maturity Categories
-* [Low Maturity - Very Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---very-low-conformance)
-* [Low Maturity - Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---low-conformance)
-* [Low Maturity - Moderate Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---moderate-conformance)
-* [Low Maturity - High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---high-conformance)
-* [Low Maturity - Very High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---very-high-conformance)
+* [Low Maturity - Very Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---very-low-conformance)
+* [Low Maturity - Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---low-conformance)
+* [Low Maturity - Moderate Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---moderate-conformance)
+* [Low Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---high-conformance)
+* [Low Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-low/#low-maturity---very-high-conformance)
 
 ## Moderate Maturity Categories
-* [Moderate Maturity - Very Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---very-low-conformance)
-* [Moderate Maturity - Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---low-conformance)
-* [Moderate Maturity - Moderate Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---moderate-conformance)
-* [Moderate Maturity - High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---high-conformance)
-* [Moderate Maturity - Very High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---very-high-conformance)
+* [Moderate Maturity - Very Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---very-low-conformance)
+* [Moderate Maturity - Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---low-conformance)
+* [Moderate Maturity - Moderate Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---moderate-conformance)
+* [Moderate Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---high-conformance)
+* [Moderate Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-moderate/#moderate-maturity---very-high-conformance)
 
 ## High Maturity Categories
-* [High Maturity - Very Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---very-low-conformance)
-* [High Maturity - Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---low-conformance)
-* [High Maturity - Moderate Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---moderate-conformance)
-* [High Maturity - High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---high-conformance)
-* [High Maturity - Very High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---very-high-conformance)
+* [High Maturity - Very Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---very-low-conformance)
+* [High Maturity - Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---low-conformance)
+* [High Maturity - Moderate Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---moderate-conformance)
+* [High Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---high-conformance)
+* [High Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-high/#high-maturity---very-high-conformance)
 
 ## Very-High Maturity Categories
-* [Very High Maturity - Very Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-low-conformance)
-* [Very High Maturity - Low Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---low-conformance)
-* [Very High Maturity - Moderate Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---moderate-conformance) 
-* [Very High Maturity - High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---high-conformance)
-* [Very High Maturity - Very High Conformance]({{base.siteurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-high-conformance)
+* [Very High Maturity - Very Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-low-conformance)
+* [Very High Maturity - Low Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---low-conformance)
+* [Very High Maturity - Moderate Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---moderate-conformance) 
+* [Very High Maturity - High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---high-conformance)
+* [Very High Maturity - Very High Conformance]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-very-high/#very-high-maturity---very-high-conformance)
 
 **Reviewed/Updated**: December 2023
