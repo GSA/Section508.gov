@@ -34,7 +34,7 @@ Important governmentwide initiatives and resources have developed out of the leg
 <div>
     <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
     <ol start="37">
-        <li id="fn37">As noted in <a href="{{base.siteurl}}manage/section-508-assessment/2023/background/#federal-law-and-policy-on-ict-accessibility">Federal Law and Policy on ICT Accessibility</a>. <a href="#fr37" aria-label="Back to content">↩</a></li>
+        <li id="fn37">As noted in <a href="{{site.baseurl}}manage/section-508-assessment/2023/background/#federal-law-and-policy-on-ict-accessibility">Federal Law and Policy on ICT Accessibility</a>. <a href="#fr37" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 

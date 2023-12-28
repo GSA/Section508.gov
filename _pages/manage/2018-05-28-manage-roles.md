@@ -39,7 +39,7 @@ The tables below list the roles and responsibilities for agency officials, conte
       <td>
         <ul>
           <li>Manage an agency Section 508 program on behalf of the agency Chief Information Officer (CIO), to include developing and maintaining agency policies, guidance, and best practices.</li>
-          <li>Provide consultation to, or participate in, agency capital planning and/or business case development and IT governance to ensure <a href="{{base.siteurl}}/content/glossary/#ict">Information and CommunicationTechnology (ICT)</a> appropriately considers Section 508 across the IT and acquisition lifecycles.</li>
+          <li>Provide consultation to, or participate in, agency capital planning and/or business case development and IT governance to ensure <a href="{{site.baseurl}}/content/glossary/#ict">Information and CommunicationTechnology (ICT)</a> appropriately considers Section 508 across the IT and acquisition lifecycles.</li>
           <li>Partner with other Section 508 Coordinators throughout the Federal Government to assist in meeting Section 508 goals and objectives.</li>
         </ul>
       </td>

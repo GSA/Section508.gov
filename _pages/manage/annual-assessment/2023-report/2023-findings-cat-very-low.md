@@ -30,7 +30,7 @@ title: "Overall Performance Category Findings and Recommendations: Very Low Matu
 - 19 of the 21 reporting entities in this category (90%) said they did not have resources to test their videos for Section 508 conformance. The other two tested the requested 5 videos.
 
 ### Overall Recommendations:
-Reporting entities that fall into the Very Low Maturity - Very Low Conformance category need to improve in multiple areas across maturity and conformance. A more specific focus on training will likely have added benefits beyond simply improving their training maturity. Additionally, providing or linking to training and content creation resources for content, such as [Training on Section508.gov]({{base.siteurl}}/training/) or [Create on Section508.gov]({{base.siteurl}}/create/), could pay dividends moving forward. Furthermore, GSA also recommends providing additional resources particularly to test digital content for conformance.
+Reporting entities that fall into the Very Low Maturity - Very Low Conformance category need to improve in multiple areas across maturity and conformance. A more specific focus on training will likely have added benefits beyond simply improving their training maturity. Additionally, providing or linking to training and content creation resources for content, such as [Training on Section508.gov]({{site.baseurl}}/training/) or [Create on Section508.gov]({{site.baseurl}}/create/), could pay dividends moving forward. Furthermore, GSA also recommends providing additional resources particularly to test digital content for conformance.
 
 <!-- VL-L -->
 ## Very Low Maturity - Low Conformance

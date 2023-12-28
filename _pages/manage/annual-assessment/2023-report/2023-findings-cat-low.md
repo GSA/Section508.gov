@@ -132,7 +132,7 @@ Reporting entities in the Low-High category had several maturity dimensions high
 
 * Both reporting entities in this category said Section 508 conformance is regularly included as a technical evaluation factor in solicitations.
 
-* Both reporting entities in this category do not have a Section 508 training plan or the capacity to provide Section 508 training at all (<a href='{{base.siteurl}}/manage/section-508-assessment/criteria-10/#q58'>Q58</a> and <a href='{{base.siteurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a>).
+* Both reporting entities in this category do not have a Section 508 training plan or the capacity to provide Section 508 training at all (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q58'>Q58</a> and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a>).
 
 ## Overall Recommendations:
 Reporting entities in this Low-Very High category had a few standout dimensions with a few below- expected scores . Reporting entities in this category should look to improve their accessibility communications processes. Additionally, although their actual conformance scores were relatively high, their testing maturity was relatively low . We also recommend they invest in their testing infrastructure and processes to ensure repeatability of conformance testing, robustness of testing processes, and overall Section 508 conformance.

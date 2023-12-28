@@ -5,7 +5,7 @@ permalink: manage/section-508-assessment/2023/appendix-a-acronyms/
 type: report2023
 title: "Appendix A: Acronyms List"
 ---
-The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{base.siteurl}}/manage/section-508-assessment/definition-of-terms/).
+The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
 
 <table class="usa-table usa-table--borderless striped">	
 <caption>Table A2. List of acronyms and full terms</caption>	

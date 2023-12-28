@@ -71,7 +71,7 @@ Overall, while some reporting entities perform well with respect to meeting acce
     <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
     <ol start="1">
         <li id="fn1">Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. <a href="#fr1" aria-label="Back to content">↩</a></li>
-        <li id="fn2">Additional and expanded recommendations can be found in the <a href="{{base.siteurl}}/manage/section-508-assessment/2023/recommendations/">Governmentwide Recommendations</a> section. <a href="#fr2" aria-label="Back to content">↩</a></li>
+        <li id="fn2">Additional and expanded recommendations can be found in the <a href="{{site.baseurl}}/manage/section-508-assessment/2023/recommendations/">Governmentwide Recommendations</a> section. <a href="#fr2" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 
