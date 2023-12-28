@@ -66,7 +66,7 @@ As GSA uses reporting entity data to support evidence-based decision making, we 
                             <div class="callout-box-check"></div>
                             <div class="callout-box-text">
                                 <h4>(b)(1)(A)</h4>
-                                To meet the requirements of (b)(1)(A), the Assessment evaluates and summarizes governmentwide and reporting entity Section 508 compliance in the [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/), according to the 105 Assessment criteria. Furthermore, [Appendix D]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-overview/) provides a one page summary of compliance data for each reporting entity.
+                                To meet the requirements of (b)(1)(A), the Assessment evaluates and summarizes governmentwide and reporting entity Section 508 compliance in the <a href="/manage/section-508-assessment/2023/findings/summary/">Findings</a>, according to the 105 Assessment criteria. Furthermore, <a href="/manage/section-508-assessment/2023/appendix-d-overview/">Appendix D</a> provides a one page summary of compliance data for each reporting entity.
                             </div>
                         </div>
                     </li>
@@ -75,7 +75,7 @@ As GSA uses reporting entity data to support evidence-based decision making, we 
                             <div class="callout-box-check"></div>
                             <div class="callout-box-text">
                             <h4>(b)(1)(B)</h4>
-                            To meet the requirements of (b)(1)(B), in the [Recent GSA Efforts to Support Section 508 Compliance]({{site.baseurl}}/manage/section-508-assessment/2023/gsa-efforts-recent/) section, the Assessment describes efforts of the GSA Administrator to help reporting entities collect and submit their assessment data, as well as related efforts to improve Section 508 compliance.
+                            To meet the requirements of (b)(1)(B), in the <a href="/manage/section-508-assessment/2023/gsa-efforts-recent/">Recent GSA Efforts to Support Section 508 Compliance</a> section, the Assessment describes efforts of the GSA Administrator to help reporting entities collect and submit their assessment data, as well as related efforts to improve Section 508 compliance.
                             </div>
                         </div>
                     </li>
@@ -84,7 +84,7 @@ As GSA uses reporting entity data to support evidence-based decision making, we 
                         <div class="callout-box-check"></div>
                         <div class="callout-box-text">
                             <h4>(b)(1)(C)</h4>
-                            To meet the requirements in (b)(1)(C), in the [Recommendations]({{site.baseurl}}/manage/section-508-assessment/2023/recommendations/) section, the Assessment proposes how Congress and reporting entities may improve Section 508 programs and Section 508 compliance governmentwide.
+                            To meet the requirements in (b)(1)(C), in the <a href="/manage/section-508-assessment/2023/recommendations/">Recommendations</a> section, the Assessment proposes how Congress and reporting entities may improve Section 508 programs and Section 508 compliance governmentwide.
                             </div>
                         </div>
                     </li>
@@ -94,7 +94,7 @@ As GSA uses reporting entity data to support evidence-based decision making, we 
                 <div style="width: 100%;" class="border-base padding-1 callout-box-top-left">
                     <div class="callout-box-check"></div>
                     <div class="callout-box-text"><h4>(b)(2)</h4>
-                        To meet the requirements of (b)(2), data is publicly available in the [Assessment Data & Downloads]({{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/) section, including respondent data as an “<a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim" target="_blank">open Government data asset</a>”.
+                        To meet the requirements of (b)(2), data is publicly available in the <a href="/manage/section-508-assessment/2023/assessment-data-downloads/">Assessment Data & Downloads</a> section, including respondent data as an “<a href="https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim" target="_blank">open Government data asset</a>”.
                     </div>
                 </div>
             </li>
@@ -108,7 +108,7 @@ This Assessment report is organized into four main sections:
 
 * [Background]({{site.baseurl}}/manage/section-508-assessment/2023/background/) summarizes relevant federal law and policy related to the advancement of ICT accessibility and Section 508 compliance.
 
-* [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/) highlight governmentwide and reporting entity specific trends found in the Section 508 compliance data using the previously described methods. 
+* [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/summary/) highlight governmentwide and reporting entity specific trends found in the Section 508 compliance data using the previously described methods. 
 
 * [Recommendations]({{site.baseurl}}/manage/section-508-assessment/2023/recommendations/) propose ways to improve Section 508 compliance that are based on statistical analysis of reporting entity data and contextual knowledge.
 
