@@ -58,25 +58,6 @@ This appears at the top of the page letting the user know it's an official gover
   <div class="usa-overlay"></div>
 </section>
 
-{% comment %}
-- The following appears under the official government website banner alerting users of a time-sensitive requirement.
-- Comment out code when not in use. gray bg = usa-banner
-{% endcomment %}
-
-<section id="alert_banner" aria-label="Special Notification Banner" class="page-landing-page layout-demo">
-  <div class="usa-banner__header bg-primary-lighter">
-    <div class="usa-banner__inner grid-row">
-      <div class="grid-col-10 font-sans-md">
-        <strong class="text-secondary-darker">Action for CFO Act Agencies (per OMB Memo M-24-08)</strong>: <a href="https://feedback.gsa.gov/jfe/form/SV_ehBggwQIBSXfOAu" class="text-primary-darker">Identify your Section 508 Program Manager</a>
-      </div>
-      <div class="grid-col-fill">
-        <button id="dismiss_alert" type="button" class="usa-button float-right margin-right-05 primary-background-color padding-1">
-          <svg class="usa-icon usa-icon--size-3" role="img" aria-labelledby="dismiss-title">
-            <title id="dismiss-title">Dismiss message</title>
-            <use xlink:href="/assets/img/sprite.svg#close"></use>
-          </svg>
-        </button>
-      </div>
-    </div>
-  </div>
-</section>
+{% if site.data.alert.display == true %}
+{% include header_alert.html%}
+{% endif %}
