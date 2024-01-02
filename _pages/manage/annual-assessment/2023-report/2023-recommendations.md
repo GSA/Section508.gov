@@ -54,6 +54,6 @@ Mandatory training would increase knowledge and understanding of accessibility c
 * <strong>Strengthen ICT Accessibility Competencies: <span style="color:#14671B">Congress</span></strong> should explore ways to strengthen accessibility capabilities within the federal workforce. <strong><span style="color:#14671B">Agencies</span></strong> should consider incorporating accessibility competencies into relevant position descriptions and performance measures. Accessibility is a shared responsibility with many contributors to an agency’s overall compliance success.
 
 * <strong>Share Best Practices: <span style="color:#14671B">Agencies</span></strong> should more actively engage with the digital accessibility community, GSA, and the Access Board to develop and share best practices. More active participation, such as attending meetings or collaborating on specific initiatives, will increase the body of knowledge, investment in outcomes, and consistency and standardization
-in approaches to ensuring long-term improvement in conforming to ICTand Section 508 standards across the federal government.
+in approaches to ensuring long-term improvement in conforming to ICT and Section 508 standards across the federal government.
 
 **Reviewed/Updated**: December 2023
