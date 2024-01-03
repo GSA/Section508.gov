@@ -20,6 +20,10 @@ This banner is located under menu navigation bar, to display the title of each l
 {%- if page.type == 'create' -%}
 {%- assign header = 'Content Creation' -%}
 {%- endif -%}
+{%- if page.type == 'report2023' -%}
+{%- assign header = 'FY 23 Governmentwide Section 508 Assessment' -%}
+{%- assign subtitle = 'True' -%}
+{%- endif -%}
 
 <section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
     <div class="grid-container">
@@ -34,6 +38,9 @@ This banner is located under menu navigation bar, to display the title of each l
                 <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
                     {{page.title}}
                 </h1>
+                {% if subtitle %}
+                <span id="subtitle" class="text-white font-sans-lg margin-top-0 margin-bottom-0"></span>
+                {% endif %}
             </div>
         </div>
     </div>

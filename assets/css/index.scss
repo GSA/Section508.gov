@@ -17,7 +17,7 @@ $theme-show-notifications: false;
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-    background-image: url("../images/training-class.jpg")
+    background-image: url("https://assets.section508.gov/files/images/hero-assessment-report.jpg")
     //  background-position: 50%;
     //  background-size: cover;
 }
@@ -460,7 +460,8 @@ div[role=rowheader] {
 }
 @media (min-width: 40em) {
   .usa-hero__callout {
-    max-width: 24rem;
+    //original max-width was 24rem
+    max-width: 29rem;
   }
 
   .topics {
@@ -1080,4 +1081,402 @@ div[role=rowheader] {
         content: "";
         vertical-align: baseline;
     }
+}
+
+
+.list-arrow {
+  list-style-type:'\2192'; 
+  padding: 10px; 
+  margin:-12px;
+}
+
+.num-circle-light {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 4em; 
+  font-weight:bold; 
+  background: #D8E7F5;
+  color:#1A5293;
+}
+
+.num-circle-dark {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 4em; 
+  font-weight:bold; 
+  background: #1A5293;
+  color:#D8E7F5;
+}
+
+.table-row-blue {
+  background-color:#193C6D;
+}
+
+.table-row-lowest {
+  background-color:#E5B7AE !important;
+}
+
+.table-row-highest {
+  background-color:#D9EAD2 !important;
+}
+
+/* Grid Index Sprites - By Entity Summary Page */
+/* Row 1 - Very High Conformance */
+#grid-index.vhvl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) 0px -60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vhl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -255px -60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vhm {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -500px -60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vhh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -750px -60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vhvh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -1000px -60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Row 2 - High Conformance */
+#grid-index.hvl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) 0px -300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.hl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -255px -300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.hm {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -500px -300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.hh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -750px -300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.hvh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -1000px -300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Row 3 - Moderate Conformance */
+#grid-index.mvl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) 0px -540px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.ml {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -255px -540px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.mm {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -500px -540px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.mh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -750px -540px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.mvh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -1000px -540px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Row 4 - Low Conformance */
+#grid-index.lvl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) 0px -780px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.ll {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -255px -780px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.lm {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -500px -780px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.lh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -750px -780px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.lvh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -1000px -780px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Row 5 - Very Low Conformance */
+#grid-index.vlvl {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) 0px -1020px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vll {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -255px -1020px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vlm {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -500px -1020px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vlh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -750px -1020px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#grid-index.vlvh {
+  width: 160px;
+  height: 160px;
+  background: url(https://assets.section508.gov/files/reports/cr-2023/g-index_sprite.png) -1000px -1020px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-item-spacer li {
+  margin-bottom:15px;
+}
+
+.bg-blue-0 { background-color: #ffffff !important; text-align:center;}
+.bg-blue-1 { background-color: #fcfdff !important; text-align:center;}
+.bg-blue-2 { background-color: #f8fbff !important; text-align:center;}
+.bg-blue-3 { background-color: #f4f8ff !important; text-align:center;}
+.bg-blue-4 { background-color: #f0f6ff !important; text-align:center;}
+.bg-blue-5 { background-color: #ecf3fe !important; text-align:center;}
+.bg-blue-6 { background-color: #e9f1fe !important; text-align:center;}
+.bg-blue-8 { background-color: #e1ecfe !important; text-align:center;}
+.bg-blue-9 { background-color: #dde9fd !important; text-align:center;}
+.bg-blue-12 { background-color: #d2e2fd !important; text-align:center;}
+.bg-blue-21 { background-color: #afccfb !important; text-align:center;}
+.bg-blue-23 { background-color: #a8c7fa !important; text-align:center;}
+.bg-blue-25 { background-color: #a0c2fa !important; text-align:center;}
+.bg-blue-27 { background-color: #98bdf9 !important; text-align:center;}
+.bg-blue-37 { background-color: #72a4f7 !important; text-align:center;}
+.bg-blue-39 { background-color: #6a9ff6 !important; text-align:center;}
+
+.center {text-align: center}
+.center-important {text-align: center !important;}
+
+.striped tbody tr:nth-child(odd) td, .striped tbody tr:nth-child(odd) th {
+  background-color: #F7F9FD;
+}
+
+.callout-box-top-left {
+  border-top-left-radius: 1.0rem;
+  border: 0px solid #d9e8f6; 
+  border-bottom-width: 5px; 
+  border-bottom-color: #005EA2; 
+  background-color: #D8E7F5;
+  margin-top: 20px; 
+  padding-top: 20px;
+  padding-left: 20px; 
+}
+.callout-box-check {
+  background-image: url('https://assets.section508.gov/files/images/icon-checkmark.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-x {
+  background-image: url('https://assets.section508.gov/files/images/icon-incorrect.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-avg {
+  background-image: url('https://assets.section508.gov/files/images/icon-average.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-clock {
+  background-image: url('https://assets.section508.gov/files/images/icon-clock.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-figure {
+  background-image: url('https://assets.section508.gov/files/images/icon-figure.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-gear {
+  background-image: url('https://assets.section508.gov/files/images/icon-gear.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-website {
+  background-image: url('https://assets.section508.gov/files/images/icon-website.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+.callout-box-clipboard {
+  background-image: url('https://assets.section508.gov/files/images/icon-clipboard.png'); 
+  background-repeat: no-repeat;
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin-top:5px;
+}
+
+.callout-box-text {
+  margin-left: 55px;
+  width:auto;
+}
+.callout-box-top-left h4 {
+  margin-bottom:0.1rem;
+  margin-top:0rem;
+}
+.callout-box-bottom-left {
+  border-bottom-left-radius: 1.0rem;
+  border: 0px solid #d9e8f6; 
+  border-top-width: 5px; 
+  border-top-color: #005EA2; 
+  background-color: #D8E7F5;
+  margin-top: 5px; 
+  padding-top: 20px;
+  padding-left: 20px; 
 }

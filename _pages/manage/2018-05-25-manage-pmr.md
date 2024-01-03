@@ -109,6 +109,6 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
   * [Assess Maturity of Your Agency’s 508 Program](https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro/play02) - Play 2 from the [Technology Accessibility Playbook](/tools/playbooks/technology-accessibility-playbook-intro)
   * [Trusted Tester and ICT Testing Baseline](https://www.section508.gov/test/trusted-tester/)
 
-For any questions about the government-wide Section 508 reporting, please [contact us]({{base.siteurl}}/contact-us/).
+For any questions about the government-wide Section 508 reporting, please [contact us]({{site.baseurl}}/contact-us/).
 
 **Reviewed/Updated**: July 2023

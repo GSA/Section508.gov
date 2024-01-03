@@ -117,12 +117,12 @@ Your agency’s policies should include that your agency is obligated to:
 
 Learn how to maintain your agency’s policies through the links below:
 
-* [Updating Agency Accessibility Policy]({{base.siteurl}}/manage/laws-and-policies/update-agency-policies/)
-* [IT Accessibility Policy Framework]({{base.siteurl}}/manage/policy-framework/introduction/)
+* [Updating Agency Accessibility Policy]({{site.baseurl}}/manage/laws-and-policies/update-agency-policies/)
+* [IT Accessibility Policy Framework]({{site.baseurl}}/manage/policy-framework/introduction/)
 
 ### Workforce Policies
 
-​​In addition to accessibility-related policies, other agency policies often require the development or use of specific ICT by the agency’s workforce. In order for an agency’s accessibility effort to be successful, employees and organizations must integrate accessibility into outcomes. In addition, other policies should be reviewed and updated to ensure that accessibility adequately addresses individual and organizational [roles & responsibilities]({{base.siteurl}}/manage/roles/) including:
+​​In addition to accessibility-related policies, other agency policies often require the development or use of specific ICT by the agency’s workforce. In order for an agency’s accessibility effort to be successful, employees and organizations must integrate accessibility into outcomes. In addition, other policies should be reviewed and updated to ensure that accessibility adequately addresses individual and organizational [roles & responsibilities]({{site.baseurl}}/manage/roles/) including:
 
 * [Agency Program Management]({{site.baseurl}}/manage/roles/#management)
 * [Key Agency Stakeholders]({{site.baseurl}}/manage/roles/#stakeholders)

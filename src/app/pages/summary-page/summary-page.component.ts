@@ -18,7 +18,7 @@ export class SummaryPageComponent implements OnInit {
    * @description Used to trigger the ngOnChanges function to listing to any input property change
    * @type any
    */
-  resultData:any = "";
+    resultData: any = "";
 
   constructor(
     private art508LangService: Art508LangService,

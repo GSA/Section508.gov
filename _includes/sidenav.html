@@ -36,6 +36,9 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
 {%- if page.type == 'create' -%}
     {%- assign links = site.data.sidenav.create -%}
 {%- endif -%}
+{%- if page.type == 'report2023' -%}
+    {%- assign links = site.data.sidenav.report2023 -%}
+{%- endif -%}
 
 <aside class="usa-layout-docs__sidenav desktop:grid-col-3 padding-bottom-4">
     <nav id="sec-nav" aria-label="Secondary Navigation">

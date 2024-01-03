@@ -155,6 +155,8 @@ manage:
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
         url: manage/section-508-assessment/definition-of-terms/
+      - name: Annual Reports
+        url: 'manage/section-508-assessment/annual-reports/'
   - name: Agency Section 508 Reporting Requirements
     url: manage/agency-508-reporting-requirements/
   - name: ICT Accessibility Frequently Asked Questions
@@ -171,7 +173,7 @@ training:
         url: "https://training.section508.gov/508-training/courses/new/index.html"
         external: true
       - name: "Section 508: What is It and Why is It Important to You?"
-        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it/index.html'
+        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html'
         external: true
       - name: "Accessibility of ICT: An Overview for Government Executives"
         url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
@@ -534,3 +536,82 @@ create:
     url: 'create/video-social/'
   - name: Electronic Signature
     url: 'create/electronic-signatures/'
+#
+# Custom SideNav for Each Accessibility Report to Congress
+report2023:
+  - name: 'Message from the GSA Administrator'
+    url: 'manage/section-508-assessment/2023/message-from-gsa-administrator/'
+  - name: 'Executive Summary'
+    url: 'manage/section-508-assessment/2023/executive-summary/'
+  - name: 'Introduction'
+    url: 'manage/section-508-assessment/2023/introduction/'
+  - name: 'Background'
+    url: 'manage/section-508-assessment/2023/background/'
+  - name: Governmentwide Findings and Category-level Findings & Recommendations
+    url: '#'
+    children:
+      - name: 'Findings Summary'
+        url: 'manage/section-508-assessment/2023/findings/summary/'
+      - name: 'Governmentwide Findings'
+        url: '#'
+        grandchildren:
+          - name: 'Key Compliance Outcomes'
+            url: 'manage/section-508-assessment/2023/findings/compliance-outcomes/'
+          - name: 'Maturity Dimension Key Findings'
+            url: 'manage/section-508-assessment/2023/findings/maturity-dimension/'
+          - name: 'Section 508 Program and Staff Analysis Summary'
+            url: 'manage/section-508-assessment/2023/findings/program-staff/'
+          - name: 'Accessibility Conformance Testing and Technology Lifecycle'
+            url: 'manage/section-508-assessment/2023/findings/testing-lifecycle/'
+          - name: 'Acquisition and Procurement'
+            url: 'manage/section-508-assessment/2023/findings/acquisition/'
+          - name: 'Complaints'
+            url: 'manage/section-508-assessment/2023/findings/complaints/'
+      - name: 'Overall Performance Category Findings and Recommendations (For Each Maturity - Conformance Category)'
+        url: '#'
+        grandchildren:
+          - name: Overview
+            url: 'manage/section-508-assessment/2023/findings/category-overview/' 
+          - name: Very Low Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-very-low/'
+          - name: Low Maturity Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-low/'
+          - name: Moderate Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-moderate/'
+          - name: High Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-high/'
+          - name: Very High Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-very-high/'
+  - name: Recommendations
+    url: 'manage/section-508-assessment/2023/recommendations/'
+  - name: 'Recent and Upcoming GSA Efforts to Improve Section 508 Compliance'
+    url: '#'            
+    children:
+      - name: 'Recent GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-recent/'
+      - name: 'Upcoming GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-upcoming/'
+      - name: 'Other Activities Under Consideration Beyond FY24'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-other/'
+  - name: 'Observations and Acknowledgements'
+    url: 'manage/section-508-assessment/2023/observations/'
+  - name: 'Appendix A: Terms, Definitions, and Acronyms'
+    url: '#'            
+    children:
+      - name: 'Terms and Definitions'
+        url: 'manage/section-508-assessment/2023/appendix-a-terms/'
+      - name: 'Acronyms List'
+        url: 'manage/section-508-assessment/2023/appendix-a-acronyms/'
+  - name: 'Appendix B: Federal Initiatives and Resources on ICT Accessibility'
+    url: 'manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/'
+  - name: 'Appendix C: Methods'
+    url: 'manage/section-508-assessment/2023/appendix-c-methods/'
+  - name: 'Appendix D: Overview Data By Reporting Entity'
+    url: '#'            
+    children:
+      - name: 'Overview'
+        url: 'manage/section-508-assessment/2023/appendix-d-overview/'
+      - name: 'Departments and Large Agencies'
+        url: 'manage/section-508-assessment/2023/appendix-d-reporting-entities/'
+  - name: 'Assessment Data & Downloads'
+    url:  'manage/section-508-assessment/2023/assessment-data-downloads/'

@@ -100,8 +100,8 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
 * **DISC-EAS** <br>VACANT    
-* **DISC-EAS-SAAS** <br>Jerome Davin - <jerome.davin@usda.gov>  
-* **Informaiton Security Center (ICS)** <br>Holly J. Becktstrom - 816-823-2160 - <holly.beckstrom@usda.gov>
+* **DISC-EAS-SAAS** <br>VACANT
+* **Cybersecurity and Privacy Operations Center (CPOC)** <br>Holly J. Becktstrom - 816-823-2160 - <holly.beckstrom@usda.gov>
 
 ### Office of Communications (OC)
 Ben Weaver - <ben.weaver@usda.gov>
@@ -124,7 +124,7 @@ Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
 ### Trade and Foreign Agricultural Affairs (TFAA)
-Kelly Kuykendall - <kelly.kuykendall@usda.gov>
+VACANT
 
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
@@ -539,7 +539,7 @@ Rodney Dunwoody (BACKUP) - 202-354-7791 - <rodney.dunwoody@usmint.treas.gov>
 
 ----------------------------------------------------
 ## <span id="usdova" ></span>Department of Veterans Affairs (VA)
-Pat Sheehan - 301-922-2995 - <pat.sheehan@va.gov>
+Chet Frith - 904-615-7906 - <chet.frith@va.gov>  
 
 ----------------------------------------------------
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
@@ -632,7 +632,7 @@ Douglas Jones (BACKUP) - 202-606-5483
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
-VACANT   
+Theodosia Villatoro-Sorto - (202)233-3882 - <tvillatoro-sorto@fmshrc.gov>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)

@@ -1,24 +1,31 @@
-<atr-step-indicator [stepsData]="stepsData"  [update] = "updateStep" (getSelectedTab)="onSelectedTabReceive($event)"></atr-step-indicator>
+<atr-step-indicator [stepsData]="stepsData" [update]="updateStep" (getSelectedTab)="onSelectedTabReceive($event)"></atr-step-indicator>
+<!-- Input field section-->
+<art-generic-text>
+  <art-form-template [formConfig]="formConfig"
+                     [scanChange]="scanChange"
+                     [showButtonControls]=false
+                     (formData)="onFormAdded($event)"></art-form-template>
+  <i class="usa-error-message font-sans-2xs" *ngIf="index >= maxLength">{{artIctLpAddService.getErrorMsg()}}</i>
+</art-generic-text>
 
-<div *ngIf="ictItemService.get().length > 0 && loading" class ="font-serif-xl margin-bottom-neg-1">
+<div *ngIf="ictItemService.get().length > 0 && loading" class="font-serif-xl margin-bottom-neg-1">
     <div class="grid-row">
         <div class="tablet:grid-col-3 margin-bottom-3 tablet:margin-bottom-0 tablet:margin-right-6">
         </div>
-        <div class="tablet:grid-col-8 tablet:margin-bottom-0" class="ogp-title">
+        <div class="tablet:grid-col-8 tablet:margin-bottom-0 ogp-title">
             <b>How can ART help you?</b>
         </div>
     </div>
-    
+
 </div>
 <div *ngIf="ictItemService.get().length > 0 && loading;" class="">
-        <art-form-template
-                [formConfig]="formConfig"
-                [scanChange]="scanChange"
-                [pageIndex]="pageNumber"
-                (formData)="onFormSubmitted($event)"
-                (pageNumber)="onPageChanged($event)"
-        ></art-form-template>
+    <art-form-template [formConfig]="formQConfig"
+                       [formList]="formList"
+                       [scanChange]="scanChange"
+                       [pageIndex]="pageNumber"
+                       (formData)="onFormSubmitted($event)"
+                       (pageNumber)="onPageChanged($event)"></art-form-template>
 </div>
 <div class="ogp-flex" *ngIf="!loading">
-        <div class="lds-ripple"><div></div><div></div></div>
+    <div class="lds-ripple"><div></div><div></div></div>
 </div>
