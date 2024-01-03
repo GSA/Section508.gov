@@ -22,9 +22,11 @@
                     "label":"Project Planning",
                     "description":"I want to identify the applicable Section 508 standards I need to address during project planning",
                     "value":"red", 
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-group",
-                    "formSection":""
+                    "formSection": "",
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","hardware-group","support-doc-group" ]
+                  
                 },
                 {
                     "elementType":"radioButton",
@@ -32,7 +34,7 @@
                     "label":"Market Research",
                     "description":"I want to obtain product documentation and/or capability statements to determine the availability of accessible products and services using a Request for information (RFI).",
                     "value":"green",
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-mark-research-group",
                     "formSection":""
                 },
@@ -42,9 +44,11 @@
                     "label":"Solicitation Development",
                     "description":"I want to obtain Section 508 requirements to include in my statement of work",
                     "value":"blue",
-                    "validations":[],
+                    "validations":["required"],
                     "next":"ict-group",
-                    "formSection":""}
+                    "formSection": "",
+                    "additionalNext": [ "exemptions-group", "elec-group", "soft-criteria-group","hardware-group","support-doc-group" ]
+                }
             ]
       
         },
@@ -74,7 +78,7 @@
                 "description": "I am purchasing ICT Products (example: web and non-web-based electronic content, software, licenses, hardware)",
                 "errorMessages": {},
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "value": false,
                 "options": []
               },
@@ -87,7 +91,7 @@
                 "description": "I am purchasing ICT Services (example: cloud services; contractor services to develop, modify, install, configure, integrate, maintain, or host ICT)",
                 "errorMessages": {},
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "formSection": "What is the name of your procurement?",
                 "value": false,
                 "options": []
@@ -101,7 +105,7 @@
                 "errorMessages": {},
                 "controlName": "it-none",
                 "validations": [],
-                "next": "exemptions-group",
+                "next": "",
                 "formSection": "What is the name of your procurement?",
                 "value": false,
                 "options": [],
@@ -191,7 +195,7 @@
                     "value":false, 
                     "controlName":"excep-none",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 },
@@ -202,7 +206,7 @@
                     "value":false, 
                     "controlName":"excep-idk",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 },
@@ -214,7 +218,7 @@
                     "value":false, 
                     "controlName":"excep-nat-sec",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -225,7 +229,7 @@
                     "value":false, 
                     "controlName":"excep-mon-spa",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -236,7 +240,7 @@
                     "value":false, 
                     "controlName":"excep-alter",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""},
                 {
@@ -246,7 +250,7 @@
                     "value":false, 
                     "controlName":"excep-fed-con",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 },
@@ -257,7 +261,7 @@
                     "value":false, 
                     "controlName":"excep-und-bur",
                     "validations":[],
-                    "next":"elec-group",
+                    "next":"excep-nbr",
                     "additionalNext": ["excep-nbr"],
                     "formSection":""
                 }
@@ -311,7 +315,7 @@
                     "value":"elec-no",
                     "controlName":"elec-no",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -338,7 +342,7 @@
                     "value":"content-website-yes", 
                     "controlName":"content-website-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -374,14 +378,14 @@
                     "value":"content-public-yes", 
                     "controlName":"content-public-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
                     "label":"No",
                     "description":"",
                     "value":"content-public-no",
-                    "controlName":"content-public-yes",
+                    "controlName":"content-public-no",
                     "validations":[],
                     "next":"agency-comm",
                     "formSection":""
@@ -410,7 +414,7 @@
                     "value":"comm-yes", 
                     "controlName":"comm-yes",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -419,7 +423,7 @@
                     "value":"comm-no",
                     "controlName":"comm-no",
                     "validations":[],
-                    "next":"soft-criteria-group",
+                    "next":"",
                     "formSection":"",
                     "info": "Electronic content that is not public facing shall conform to the accessibility requirements specified in E205.4."
                 }
@@ -448,7 +452,7 @@
                     "value":false, 
                     "controlName":"soft-no-user-interface",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -457,7 +461,7 @@
                     "value":false,
                     "controlName":"soft-assistive",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -568,7 +572,7 @@
                 "errorMessages": {},
                 "controlName": "software-none",
                 "validations": [],
-                "next": "hardware-group",
+                "next": "",
                 "formSection": "",
                 "value": false,
                 "options": [],
@@ -636,7 +640,7 @@
                     "value":false,
                     "controlName":"soft-serv-none",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 }
@@ -701,7 +705,7 @@
                     "value":"soft-create-yes", 
                     "controlName":"soft-create-yes",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -710,7 +714,7 @@
                     "value":"soft-create-no",
                     "controlName":"soft-create-no",
                     "validations":[],
-                    "next":"hardware-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -738,7 +742,7 @@
                     "value":false, 
                     "controlName":"hardware-computer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -747,7 +751,7 @@
                     "value":false,
                     "controlName":"hardware-tablet",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -757,7 +761,7 @@
                     "value":false,
                     "controlName":"hardware-printer",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -767,7 +771,7 @@
                     "value":false, 
                     "controlName":"hardware-multi-func",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -776,7 +780,7 @@
                     "value":false,
                     "controlName":"hardware-peripheral",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -786,7 +790,7 @@
                     "value":false,
                     "controlName":"hardware-kiosk",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -795,7 +799,7 @@
                     "value":false, 
                     "controlName":"hardware-mobile",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -804,7 +808,7 @@
                     "value":false,
                     "controlName":"hardware-video-telecon",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -814,7 +818,7 @@
                     "value":false,
                     "controlName":"hardware-video-monitor",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -833,7 +837,7 @@
                     "value":false,
                     "controlName":"hardware-other",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -844,7 +848,7 @@
                     "controlName":"hardware-none",
                     "onlyOption": true,
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -872,7 +876,7 @@
                     "value":"server-iaas-yes", 
                     "controlName":"server-iaas-yes",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"radioButton",
@@ -881,7 +885,7 @@
                     "value":"server-iaas-no",
                     "controlName":"server-iaas-no",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -891,7 +895,7 @@
                     "value":"server-iaas-idk",
                     "controlName":"server-iaas-idk",
                     "validations":[],
-                    "next":"support-doc-group",
+                    "next":"",
                     "formSection":""
                 }
             ]
@@ -918,7 +922,7 @@
                     "value":false, 
                     "controlName":"support-tech",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -937,7 +941,7 @@
                     "value":false,
                     "controlName":"support-doc",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""
                 },
                 {
@@ -947,7 +951,7 @@
                     "value":false, 
                     "controlName":"support-train",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":""},
                 {
                     "elementType":"checkbox",
@@ -956,7 +960,7 @@
                     "value":false,
                     "controlName":"support-none",
                     "validations":[],
-                    "next":"done",
+                    "next":"",
                     "formSection":"",
                     "onlyOption": true
                 }
