@@ -6,24 +6,33 @@ type: manage
 title: 'Developing a Website Accessibility Statement'
 ---
 
-The Office of Management and Budget (OMB) memorandum, [“Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act“][1] requires federal agencies to increase transparency by providing the public with a standard feedback mechanism and statement available on agency websites, specifically:
-
-> *"Federal agencies will include an accessibility statement on all inter- and intranet websites. Secondary sites can link to the accessibility statement on the domain website. The accessibility statement should, at a minimum, include contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program."*
+The Office of Management and Budget (OMB) memorandum, [“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“][1] requires federal agencies to maintain an accessibility statement on their websites.
 
 ## Why Publish an Accessibility Statement
-
 While federal agencies are required to provide an accessibility statement, we encourage all digital product owners to include information about an organization’s commitment towards providing equal access to information. In brief, it’s the perfect opportunity to engage customers with disabilities by highlighting relevant information to improve their customer experience. 
 
 People who visit the website, particularly individuals with disabilities, will appreciate the open acknowledgement that accessibility is a key driver for the website. Users will also appreciate the ease of access to contact information and speedy responses and resolution should they encounter any barriers while using your website or digital service.
 
+We recommend that each agency craft a message highlighting the agency’s commitment to ensuring equivalent access to information for people with disabilities, and provide information on the various points of contact, resources and services available to visitors and customers. 
+
 ## What to Include in an Accessibility Statement
+Per M-24-08, A. Establish Digital Accessibility Programs and Policies, agencies shall maintain a digital accessibility statement on Federal websites that provides or links to the following information:
 
-We recommend that each agency craft a message highlighting the agency’s commitment to ensuring equivalent access to information for people with disabilities, and provide information on the various points of contact, resources and services available to visitors and customers. However, accessibility statements should – at a minimum – be evaluated for each of the following four requirements:
+* The accessibility standard applied to the website and any known limitations or alternative versions, as appropriate;
 
-* *Has an Accessibility Statement* – A link to an accessibility statement is included on the domain website – either by itself, or within a page which contains several website policies (best practice is to include in the website’s footer)<br><br>
-* *Includes Section 508 Program Point of Contact* – The statement includes contact information for the agency Section 508 Program – such as the Section 508 PM’s email address, or a general mailbox managed by the Section 508 Program (either directly, or using an online form)<br><br>
-* *Includes Last Date Updated* – The date the page was last updated or reviewed (recommend at least an annual review), and<br><br>
-* *Provides or describes feedback mechanism* – Website visitors have the ability to provide comments and/or feedback regarding the agency Section 508 Program
+* The contact information for the Section 508 program manager (name and email address);
+
+* A public feedback mechanism that allows members of the public to report accessibility problems with agency websites and digital services to the agency’s Section 508 program as well as relevant implementation teams;
+
+* Instructions for filing a complaint alleging a violation of Section 508;
+
+* Information about the agency’s reasonable accommodations procedures for Federal employees and job applicants, consistent with Section 501 of the Rehabilitation Act;
+
+* Instructions on the use of the telecommunications relay service;
+
+* Links to any relevant, publicly available organizational policies or procedures on digital accessibility; and
+
+* Date that the digital accessibility statement was last updated or reviewed.
 
 ## Where to Publish an Accessibility Statement
 
@@ -50,6 +59,7 @@ Another acceptable approach is to include the accessibility statement among a se
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="fcc-statement">Figure 3: Screenshot of the FCC's accessibility statement using the link text 'Website Policies & Notices' among eight other links such as Privacy Policy, FOIA, Enforcement, and About the FCC.</span></div>
 </div>
 
+<!--
 ## Examples of Accessibility Statements
 
 * [Department of Homeland Security (DHS)][2]
@@ -61,10 +71,11 @@ Another acceptable approach is to include the accessibility statement among a se
 * [U.S. Access Board (USAB)][8]
 
 <p>&nbsp;</p>
+-->
 
-**Reviewed/Updated:** March 2023
+**Reviewed/Updated:** December 2023
 
-[1]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
+[1]: https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/
 [2]: https://www.dhs.gov/accessibility
 [3]: https://www.state.gov/section-508-accessibility-statement/
 [4]: https://doi.gov/accessibility
