@@ -15,8 +15,8 @@ Annual assessment reports are made available on this website in HTML or as a dow
 * [FY 23 Governmentwide Section 508 Assessment (PDF)][2]
 * [Assessment Data & Downloads][3] 
 
-[1]:{{base.site.url}}/manage/section-508-assessment/2023/message-from-gsa-administrator/
-[2]:{{base.site.url}}/manage/section-508-assessment/2023/assessment-data-downloads/
-[3]:{{base.site.url}}/manage/section-508-assessment/2023/assessment-data-downloads/
+[1]:{{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/
+[2]:{{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/
+[3]:{{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/
 
 **Reviewed/Updated:** December 2023
