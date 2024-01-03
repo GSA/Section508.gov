@@ -120,7 +120,7 @@ Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
 ### Trade and Foreign Agricultural Affairs (TFAA)
-Kelly Kuykendall - <kelly.kuykendall@usda.gov>
+VACANT
 
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
