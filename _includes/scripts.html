@@ -23,3 +23,22 @@
 
 <script src="{{ site.baseurl }}/assets/js/uswds.min.js?{{ site.time | date: '%s%N' }}"></script>
 <script src="{{ site.baseurl }}/assets/js/app.js?{{ site.time | date: '%s%N' }}"></script>
+
+{% comment %}
+- The script below hides the alert banner for time-sensitive alerts.
+- Comment out code when not in use.
+{% endcomment %}
+<script>
+  $(document).ready(function(){
+    // Check if the user already dismissed alert banner
+    if (window.localStorage.getItem('dismiss_alert')) {
+        $('#alert_banner').hide();
+    }
+
+    $("#dismiss_alert").click(function(){
+        // Save on LocalStorage
+        window.localStorage.setItem('dismiss_alert', true);
+        $('#alert_banner').hide();
+    }); 
+  });
+</script>
