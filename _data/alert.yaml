@@ -1,3 +1,4 @@
+#USE THIS FILE TO DISPLAY MESSAGES AT THE TOP OF ALL PAGES ON THE WEBSITE
 display: true #Use 'true' or 'false' to show or hide alert message
 dismissable: true #Use 'true' or 'false'
 reset_dismiss: 2024-01-02 #Date of alert or alert update 'YYYY-MM-DD' as the local storage value that manages the dismissability
