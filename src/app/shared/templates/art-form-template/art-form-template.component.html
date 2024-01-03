@@ -77,9 +77,9 @@
         </div>
     </div>
 </div>
-<div *ngIf="this.router.url.includes('form-page')" class="ogp-flex">
+<div *ngIf="this.router.url.includes('form-page') && showButtonControls" class="ogp-flex">
     <div>
-        <art-button class="ogp-btn" [disabled]="navIndex === 0" class="" [buttonData]="backButton" (click)="navBackForm()"> </art-button>
+        <art-button class="ogp-btn" [disabled]="navIndex === 0" [buttonData]="backButton" (click)="navBackForm()"> </art-button>
         <art-button class="ogp-btn" *ngIf="navIndex <= formConfig.length - 2" [buttonData]="nextButton" (click)="navNextForm()"> </art-button>
         <button 
             *ngIf="navIndex === formConfig.length - 1"
@@ -101,4 +101,6 @@
             type="button">Clear Form
         </button> -->
     </div>
+</div>
+
 </div>
