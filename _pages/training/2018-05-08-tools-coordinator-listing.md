@@ -165,6 +165,11 @@ Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
 Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
+
+* **Defense Equal Opportunity Management Institute (DEOMI)**<br>
+Jay Steinke - 321-494-1310 - <jay.steinke.1@us.af.mil>  
+Muhammad Waheed	- <muhammad.waheed@us.af.mil>  
+
 ### Air National Guard
 VACANT
 ### Army
@@ -566,7 +571,7 @@ John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-Bethany Letalien - 202-606-2242 - <bethany.Letalien@opm.gov>  
+Bethany Letalien - 202-486-9225 - <bethany.Letalien@opm.gov>  
 Megan Rocus - 202-606-3127 - <megan.rocus@opm.gov>  
 
 ----------------------------------------------------
