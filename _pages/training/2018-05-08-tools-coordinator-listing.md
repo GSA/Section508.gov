@@ -173,7 +173,7 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 ### Air National Guard
 VACANT
 ### Army
-Meredith L. Burkhart - <meredith.l.burkhart.civ@army.mil>  
+Curtiss A. Branham - 703-697-9380 – <curtiss.a.branham.civ@mail.mil>   
 
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
@@ -724,7 +724,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: December 2023
+**Reviewed/Updated**: December 08, 2023
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
