@@ -528,7 +528,7 @@ VACANT
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Courtney M. Williams - 214-385-5861 - <courtney.m.williams@irs.gov>  
-Theresa	J. Oleshytsky - <theresa.j.oleshytsky@irs.gov>  
+Terri A. Triggs - <terri.a.triggs@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
