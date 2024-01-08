@@ -202,7 +202,7 @@ Note: Reporting entity summaries will open in a new browser window or tab based 
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=NIGC" target="_blank">National Indian Gaming Commission (NIGC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=NPS" target="_blank">National Park Service (NPS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=ONRR" target="_blank">Office of Natural Resources Revenue (ONRR)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=OSMR" target="_blank">Office of Surface Mining Reclamation and Enforcement (OSMR)</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=OSMRE" target="_blank">Office of Surface Mining Reclamation and Enforcement (OSMRE)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=FWS" target="_blank">United States Fish and Wildlife Service (FWS)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=USGS" target="_blank">United States Geological Survey (USGS)</a></li>
 </ol>
