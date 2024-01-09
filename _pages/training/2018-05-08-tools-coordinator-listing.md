@@ -282,8 +282,10 @@ Sandra Logan (BACKUP)
 Kate Sweeney - <kate.sweeney@hhs.gov.>
 ### Administration for Children and Families (ACF)
 Janean Chambers - 202-795-7299 - <jchambers@acf.hhs.gov>
+### Administration for Community Living (ACL)
+Steven Verber - <accessibility@acl.hhs.gov>  
 ### Agency for Healthcare Research and Quality (AHRQ)
-VACANT
+Tim Erny - <ahrqsection508@ahrq.hhs.gov>  
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
@@ -294,7 +296,6 @@ Scott Shippy (BACKUP)	- 443-847-0344 - <scott.shippy@cms.hhs.gov>
 Heather Chafin - 240-876-8354 - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
 Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>  
-Julia Sothoron - (BACKUP) 301-443-3719 - <jsothoron@hrsa.gov>
 ### Indian Health Service (IHS)
 Kevin Fulbright - 301-526-9652 - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
