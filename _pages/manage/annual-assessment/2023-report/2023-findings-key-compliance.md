@@ -263,9 +263,9 @@ To comprehensively and quantitatively assess Section 508 compliance across the f
 As Figure 4 below depicts, reporting entities fall across the scale from zero to five on both axes, with a <strong>heavy concentration of reporting entities located in the bottom and left</strong> of the graph. The red trend line shows an upward trend, <strong>indicating that generally, as a reporting entity’s maturity increased, their conformance also tended to increase</strong>. Thus, reporting entities with greater capacity to execute activities related to accessibility, such as testing or training, tended to have more conformant ICT products.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2023/figure-4.jpg" alt="" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2023/figure-4.jpg" alt="A scatter plot shows the distribution of agencies on a 0-to-5 scale across the x-axis representing maturity (m-index) and the y-axis representing conformance (c-index), with a heavy concentration of respondents located in the bottom and left of the graph. A dark red trend line shows an upward trend, indicating that, as respondent’s maturity increased, their conformance also generally tended to increase. Table 3 further details the number of respondents who fell into specific brackets." aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Scatter plot of reporting entity conformance vs. maturity values [NEEDS ALT TEXT]</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Percentage of respondents submitting conformance testing results for the top intranet and internet web pages, electronic documents, and videos (Q78 to Q81)</span>
     </div>
 </div>
 
