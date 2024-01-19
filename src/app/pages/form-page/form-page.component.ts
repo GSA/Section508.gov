@@ -101,7 +101,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
         this.maxLength = this.artIctLpAddService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
-       this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
+        this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
         // Getting the form configuration
         this.formConfig = this.artIctLpAddService.getICTConfigurations();
@@ -210,7 +210,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
 
             let outerIndex = this.formQConfig.length;
-            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (outerIndex+1).toString(), ictItem);
+            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (outerIndex + 1).toString(), ictItem);
             formTemplateInterface.id = outerIndex;
             this.formList.push(new FormGroup({}));
             this.formQConfig.push(formTemplateInterface);
@@ -250,5 +250,15 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
             this.scanChange = "false";
         }
+    }
+
+    /**
+    * @return void
+    * @description When the user submit an project or ICT name, it will call the addIctItem function
+    * @param data 
+    */
+    onFormDeleteIct(deleteIndex: any): void {
+        this.formQConfig.splice(deleteIndex, 1);
+        this.stepsData.tabs.splice(deleteIndex, 1);
     }
 }

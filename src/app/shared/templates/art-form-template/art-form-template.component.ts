@@ -128,6 +128,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     @Output() pageNumber = new EventEmitter<number>();
 
+    @Output() deleteIctData = new EventEmitter<number>();
 
     newICTAdded: boolean = false;
 
@@ -644,8 +645,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 case "green":
                     if (formElements) {
                         for (var i = 0; i < formElements.length; i++) {
-                           this.formList[outerIndex].get(formElements[i].controlName)?.reset();
-                           formElements[i].hidden = true;
+                            this.formList[outerIndex].get(formElements[i].controlName)?.reset();
+                            formElements[i].hidden = true;
                             let element = formElements[i];
                             if (element.options) {
                                 let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
@@ -682,7 +683,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             if (formElements) {
                 for (var i = 0; i < formElements.length; i++) {
                     let element = formElements[i];
-                    if (element.options?.length!=0) {
+                    if (element.options?.length != 0) {
                         let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
                         let optionControl: FormControl[] = this.allControlList[outerIndex][optionIndex].value;
                         let optionKeys = Object.keys(optionControl);
@@ -697,5 +698,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             }
         }
         return counters.filter(ct => !ct).length === 0;
+    }
+
+    deleteICT() {
+        if (confirm("You are about to delete the current ICT and all data associated with that ICT. Do you wish to proceed?") == true) {
+            if (this.navIndex <= this.formConfig.length - 1) {
+                this.deleteIctData.emit(this.navIndex);
+                this.navIndex--;
+                this.pageNumber.emit(this.navIndex);
+                this.updateDownloadData()
+                document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+        }
     }
 }
