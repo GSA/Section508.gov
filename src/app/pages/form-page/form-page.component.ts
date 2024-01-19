@@ -258,6 +258,10 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     * @param data 
     */
     onFormDeleteIct(deleteIndex: any): void {
+        this.formQConfig[deleteIndex].formElements.forEach((eachFormElement) => {
+            this.formList[deleteIndex].reset(eachFormElement.controlName);
+        });
+        this.formList.splice(deleteIndex, 1);
         this.formQConfig.splice(deleteIndex, 1);
         this.stepsData.tabs.splice(deleteIndex, 1);
     }

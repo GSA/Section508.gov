@@ -704,6 +704,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         if (confirm("You are about to delete the current ICT and all data associated with that ICT. Do you wish to proceed?") == true) {
             if (this.navIndex <= this.formConfig.length - 1) {
                 this.deleteIctData.emit(this.navIndex);
+                this.allControlList.splice(this.navIndex,1);
                 this.navIndex--;
                 this.pageNumber.emit(this.navIndex);
                 this.updateDownloadData()
