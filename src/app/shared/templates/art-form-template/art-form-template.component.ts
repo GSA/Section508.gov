@@ -134,6 +134,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
     private messageSubscription: any;
 
+    private subscriptions: Subscription[] = [];
+
     /**
      * @description will listening to any input property change, will capture if a disable property for a form has been update to disable or enable that form
      * @returns void
@@ -162,6 +164,22 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     allControlList: any[][] = [];
 
+    setupSubscriptions(outerIndex: number) {
+        //Only for debugging TOBE REMOVED
+        let subscription = this.formList[outerIndex].valueChanges.subscribe((data) => {
+
+            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
+            setTimeout(() => {
+                this.updateDownloadData();
+                this.autoDisplayFields(outerIndex);
+                this.sideNavConfig();
+                this.loading = false;
+            }, 500);
+        });
+
+        this.subscriptions.push(subscription);
+    }
+
     /**
      * @description Form Initialization
      * @returns void
@@ -186,17 +204,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             this.formCompletetion.push(false);
 
 
-            //Only for debugging TOBE REMOVED
-            this.formList[outerIndex].valueChanges.subscribe((data) => {
-
-                //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
-                setTimeout(() => {
-                    this.updateDownloadData();
-                    this.autoDisplayFields(outerIndex);
-                    this.sideNavConfig();
-                    this.loading = false;
-                }, 500);
-            });
+            this.setupSubscriptions(outerIndex);
 
             //create controls elements for each form
             eachConfig.formElements.forEach((eachFormElement, index) => {
@@ -586,17 +594,13 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
 
         this.autoDisplayFields(outerIndex);
 
-        //Only for debugging TOBE REMOVED
-        this.formList[outerIndex]?.valueChanges.subscribe((data) => {
+        this.subscriptions.forEach((subscription, index) => {
+            subscription.unsubscribe();
+        });
+        this.subscriptions = [];
 
-            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
-            setTimeout(() => {
-                this.updateDownloadData();
-                //Loop all the field and display any elements which are needed based on the user answer
-                this.autoDisplayFields(outerIndex);
-                this.sideNavConfig();
-                this.loading = false;
-            }, 500);
+        this.formConfig.forEach((eachConfig, outerIndex) => {
+            this.setupSubscriptions(outerIndex);
         });
     }
 
@@ -703,8 +707,17 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
     deleteICT() {
         if (confirm("You are about to delete the current ICT and all data associated with that ICT. Do you wish to proceed?") == true) {
             if (this.navIndex <= this.formConfig.length - 1) {
+                this.subscriptions.forEach((subscription, index)=> {
+                    subscription.unsubscribe();
+                });
+                this.subscriptions = [];
                 this.deleteIctData.emit(this.navIndex);
-                this.allControlList.splice(this.navIndex,1);
+                this.allControlList.splice(this.navIndex, 1);
+
+                this.formConfig.forEach((eachConfig, outerIndex)=>{
+                    this.setupSubscriptions(outerIndex); 
+                });
+
                 this.navIndex--;
                 this.pageNumber.emit(this.navIndex);
                 this.updateDownloadData()
