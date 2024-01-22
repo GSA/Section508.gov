@@ -264,13 +264,10 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         this.formList.splice(deleteIndex, 1);
         this.formQConfig.splice(deleteIndex, 1);
         this.stepsData.tabs.splice(deleteIndex, 1);
-        let existingId = (deleteIndex+1).toString();
-        let newIndex = (deleteIndex).toString();
-        let stepData = this.stepsData.tabs.find(sd => sd.id === existingId);
-        if (stepData) {
-            stepData.id = (Number.parseInt(stepData.id) - 1).toString();
-            this.stepsData.tabs[Number.parseInt(newIndex)] = stepData;
-        }
-        this.stepsData.activeId = (newIndex).toString();
+        let newId = 0;
+        this.stepsData.tabs.forEach((tab, tabIndex) => {
+            tab.id = newId.toString();
+            newId++;
+        })
     }
 }

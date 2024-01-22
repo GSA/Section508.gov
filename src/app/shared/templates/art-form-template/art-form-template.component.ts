@@ -712,7 +712,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 });
                 this.subscriptions = [];
                 this.deleteIctData.emit(this.navIndex);
-                this.formCompletetion[this.navIndex] = false;
+
+                this.formCompletetion.splice(this.navIndex, 1);
                 this.allControlList.splice(this.navIndex, 1);
 
                 this.formConfig.forEach((eachConfig, outerIndex)=>{
