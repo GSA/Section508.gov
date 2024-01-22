@@ -596,7 +596,7 @@ Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
 ### Consumer Product Safety Commission (CPSC)
-Arun Acharya - 240-478-7465 - <aacharya@cpsc.gov>  
+Bertie Hamilton - <bhamilton@cpsc.gov>  
 Bryan Burnett (BACKUP) -	301-504-7654 - <bburnett@cpsc.gov>
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
@@ -724,7 +724,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: December 08, 2023
+**Reviewed/Updated**: January, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
