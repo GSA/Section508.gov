@@ -529,14 +529,6 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             this.pageNumber.emit(this.navIndex);
             this.updateDownloadData()
             document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
-            this.subscriptions.forEach((subscription, index) => {
-                subscription.unsubscribe();
-            });
-            this.subscriptions = [];
-
-            this.formConfig.forEach((eachConfig, outerIndex) => {
-                this.setupSubscriptions(outerIndex);
-            });
         }
     }
 
@@ -565,6 +557,14 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             alert("You have one or more unanswered questions. Please respond to all questions to get the appropriate Section 508 results.");
         } else {
             if (this.navIndex < this.formConfig.length - 1) {
+                this.subscriptions.forEach((subscription, index) => {
+                    subscription.unsubscribe();
+                });
+                this.subscriptions = [];
+
+                this.formConfig.forEach((eachConfig, outerIndex) => {
+                    this.setupSubscriptions(outerIndex);
+                });
                 this.navIndex++;
                 this.pageNumber.emit(this.navIndex);
                 this.updateDownloadData()
