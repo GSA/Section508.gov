@@ -271,5 +271,9 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             tab.id = newId.toString();
             newId++;
         })
+        this.index--;
+        this.formConfig[0].disable = false;
+        this.formConfig[0].formElements[0].placeholder = "";
+        this.scanChange = "false";
     }
 }
