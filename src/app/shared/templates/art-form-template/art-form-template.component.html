@@ -83,7 +83,7 @@
                     {{formConfig[0].formButtons.submit}}
 
                 </button>
-                <button class="ogp-btn usa-button usa-button--secondary ogp-btn-delete" type="button" (click)="deleteICT()" [disabled]="navIndex === 0" aria-controls="delete-modal" data-open-modal>Delete Current ICT</button>
+                <button class="ogp-btn usa-button usa-button--secondary ogp-btn-delete" type="button" (click)="deleteICT()"  *ngIf="navIndex > 0" aria-controls="delete-modal" data-open-modal>Delete Current ICT</button>
             </div>
             <div class="ogp-btn" *ngIf="formConfig[0].formButtons.submit">
                 <art-save-json [saveAsInfo]="{btnName:'Save (.json)', fileName:'jsonData.json'}" [ictItem]="currentFormData"></art-save-json>
