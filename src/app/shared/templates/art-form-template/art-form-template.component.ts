@@ -529,6 +529,14 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             this.pageNumber.emit(this.navIndex);
             this.updateDownloadData()
             document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
+            this.subscriptions.forEach((subscription, index) => {
+                subscription.unsubscribe();
+            });
+            this.subscriptions = [];
+
+            this.formConfig.forEach((eachConfig, outerIndex) => {
+                this.setupSubscriptions(outerIndex);
+            });
         }
     }
 
