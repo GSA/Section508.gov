@@ -582,7 +582,9 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
     addNewICT(outerIndex: number) {
         //Initialize form
         this.formCompletetion.push(false);
-
+        this.subscriptions.forEach((subscription, index) => {
+            subscription.unsubscribe();
+        });
         this.allControlList.push([]);
         Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
             let control = this.formList[this.formList.length - 1].controls[key];
@@ -590,18 +592,12 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             control.markAsUntouched();
             control.setErrors(null);
             this.allControlList[this.allControlList.length - 1].push(control);
-        });
-
-        this.autoDisplayFields(outerIndex);
-
-        this.subscriptions.forEach((subscription, index) => {
-            subscription.unsubscribe();
-        });
+        });       
         this.subscriptions = [];
-
         this.formConfig.forEach((eachConfig, outerIndex) => {
             this.setupSubscriptions(outerIndex);
         });
+        this.autoDisplayFields(outerIndex);      
     }
 
     /**

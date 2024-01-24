@@ -210,7 +210,8 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
 
             let outerIndex = this.formQConfig.length;
-            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (outerIndex + 1).toString(), ictItem);
+            let uniqueId = (this.stepsData.tabs.length - 1).toString() + '-' + Date.now().toString(36) + Math.random().toString(36).substring(2);
+            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (uniqueId).toString(), ictItem);
             this.formList.push(new FormGroup({}));
             this.formQConfig.push(formTemplateInterface);
             //create controls elements for each form
