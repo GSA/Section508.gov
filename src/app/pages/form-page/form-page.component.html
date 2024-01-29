@@ -24,7 +24,8 @@
                        [scanChange]="scanChange"
                        [pageIndex]="pageNumber"
                        (formData)="onFormSubmitted($event)"
-                       (pageNumber)="onPageChanged($event)"></art-form-template>
+                       (pageNumber)="onPageChanged($event)"
+                       (deleteIctData)="onFormDeleteIct($event)"></art-form-template>
 </div>
 <div class="ogp-flex" *ngIf="!loading">
     <div class="lds-ripple"><div></div><div></div></div>

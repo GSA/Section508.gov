@@ -101,7 +101,7 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
 
         this.maxLength = this.artIctLpAddService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
-       this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
+        this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
 
         // Getting the form configuration
         this.formConfig = this.artIctLpAddService.getICTConfigurations();
@@ -210,8 +210,8 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             });
 
             let outerIndex = this.formQConfig.length;
-            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (outerIndex+1).toString(), ictItem);
-            formTemplateInterface.id = outerIndex;
+            let uniqueId = (this.stepsData.tabs.length - 1).toString() + '-' + Date.now().toString(36) + Math.random().toString(36).substring(2);
+            let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (uniqueId).toString(), ictItem);
             this.formList.push(new FormGroup({}));
             this.formQConfig.push(formTemplateInterface);
             //create controls elements for each form
@@ -250,5 +250,31 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.formConfig[0].formElements[0].placeholder = this.tempPlaceHolder;
             this.scanChange = "false";
         }
+    }
+
+    /**
+    * @return void
+    * @description When the user submit an project or ICT name, it will call the addIctItem function
+    * @param data 
+    */
+    onFormDeleteIct(deleteIndex: any): void {
+        this.formQConfig[deleteIndex].formElements.forEach((eachFormElement) => {
+            this.formList[deleteIndex].reset(eachFormElement.controlName);
+        });
+        this.formList.splice(deleteIndex, 1);
+        this.formQConfig.splice(deleteIndex, 1);
+        this.stepsData.tabs.splice(deleteIndex, 1);
+        const ict = this.ictItemService.get();
+        ict.splice(deleteIndex, 1);
+        this.ictItemService.reSet(ict);
+        let newId = 0;
+        this.stepsData.tabs.forEach((tab, tabIndex) => {
+            tab.id = newId.toString();
+            newId++;
+        })
+        this.index--;
+        this.formConfig[0].disable = false;
+        this.formConfig[0].formElements[0].placeholder = "";
+        this.scanChange = "false";
     }
 }

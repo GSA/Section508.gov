@@ -128,10 +128,13 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     @Output() pageNumber = new EventEmitter<number>();
 
+    @Output() deleteIctData = new EventEmitter<number>();
 
     newICTAdded: boolean = false;
 
     private messageSubscription: any;
+
+    private subscriptions: Subscription[] = [];
 
     /**
      * @description will listening to any input property change, will capture if a disable property for a form has been update to disable or enable that form
@@ -161,6 +164,22 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     allControlList: any[][] = [];
 
+    setupSubscriptions(outerIndex: number) {
+        //Only for debugging TOBE REMOVED
+        let subscription = this.formList[outerIndex].valueChanges.subscribe((data) => {
+
+            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
+            setTimeout(() => {
+                this.updateDownloadData();
+                this.autoDisplayFields(outerIndex);
+                this.sideNavConfig();
+                this.loading = false;
+            }, 500);
+        });
+
+        this.subscriptions.push(subscription);
+    }
+
     /**
      * @description Form Initialization
      * @returns void
@@ -185,17 +204,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             this.formCompletetion.push(false);
 
 
-            //Only for debugging TOBE REMOVED
-            this.formList[outerIndex].valueChanges.subscribe((data) => {
-
-                //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed //
-                setTimeout(() => {
-                    this.updateDownloadData();
-                    this.autoDisplayFields(outerIndex);
-                    this.sideNavConfig();
-                    this.loading = false;
-                }, 500);
-            });
+            this.setupSubscriptions(outerIndex);
 
             //create controls elements for each form
             eachConfig.formElements.forEach((eachFormElement, index) => {
@@ -573,7 +582,9 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
     addNewICT(outerIndex: number) {
         //Initialize form
         this.formCompletetion.push(false);
-
+        this.subscriptions.forEach((subscription, index) => {
+            subscription.unsubscribe();
+        });
         this.allControlList.push([]);
         Object.keys(this.formList[this.formList.length - 1].controls).forEach(key => {
             let control = this.formList[this.formList.length - 1].controls[key];
@@ -581,22 +592,12 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             control.markAsUntouched();
             control.setErrors(null);
             this.allControlList[this.allControlList.length - 1].push(control);
+        });       
+        this.subscriptions = [];
+        this.formConfig.forEach((eachConfig, outerIndex) => {
+            this.setupSubscriptions(outerIndex);
         });
-
-        this.autoDisplayFields(outerIndex);
-
-        //Only for debugging TOBE REMOVED
-        this.formList[outerIndex]?.valueChanges.subscribe((data) => {
-
-            //clearHiddenElts should be run first to clear and removed the data which was displayed when another option is clicked before any other element should be displayed 
-            setTimeout(() => {
-                this.updateDownloadData();
-                //Loop all the field and display any elements which are needed based on the user answer
-                this.autoDisplayFields(outerIndex);
-                this.sideNavConfig();
-                this.loading = false;
-            }, 500);
-        });
+        this.autoDisplayFields(outerIndex);      
     }
 
     /**
@@ -644,8 +645,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                 case "green":
                     if (formElements) {
                         for (var i = 0; i < formElements.length; i++) {
-                           this.formList[outerIndex].get(formElements[i].controlName)?.reset();
-                           formElements[i].hidden = true;
+                            this.formList[outerIndex].get(formElements[i].controlName)?.reset();
+                            formElements[i].hidden = true;
                             let element = formElements[i];
                             if (element.options) {
                                 let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
@@ -682,7 +683,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             if (formElements) {
                 for (var i = 0; i < formElements.length; i++) {
                     let element = formElements[i];
-                    if (element.options?.length!=0) {
+                    if (element.options?.length != 0) {
                         let optionIndex = this.formConfig[outerIndex].formElements.indexOf(element);
                         let optionControl: FormControl[] = this.allControlList[outerIndex][optionIndex].value;
                         let optionKeys = Object.keys(optionControl);
@@ -697,5 +698,29 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
             }
         }
         return counters.filter(ct => !ct).length === 0;
+    }
+
+    deleteICT() {
+        if (confirm("You are about to delete the current ICT and all data associated with that ICT. Do you wish to proceed?") == true) {
+            if (this.navIndex <= this.formConfig.length - 1) {
+                this.subscriptions.forEach((subscription, index)=> {
+                    subscription.unsubscribe();
+                });
+                this.subscriptions = [];
+                this.deleteIctData.emit(this.navIndex);
+
+                this.formCompletetion.splice(this.navIndex, 1);
+                this.allControlList.splice(this.navIndex, 1);
+
+                this.formConfig.forEach((eachConfig, outerIndex)=>{
+                    this.setupSubscriptions(outerIndex); 
+                });
+
+                this.navIndex--;
+                this.pageNumber.emit(this.navIndex);
+                this.updateDownloadData()
+                document.documentElement.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+        }
     }
 }
