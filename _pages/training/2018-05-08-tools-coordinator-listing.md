@@ -298,7 +298,40 @@ Lauren Taylor - 301-443-4726 - <ltaylor1@hrsa.gov>
 ### Indian Health Service (IHS)
 Kevin Fulbright - 301-526-9652 - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
-Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>
+Antonio Haileselassie - 301-402-4452 - <antonio.haileselassie@nih.gov>  
+Jason Hitchcock (Backup) - 301-594-6192 - <jason.hitchcock@nih.gov>  
+
+  * **Center for Information Technology (CIT)** <br>Nischal Mangu - 571-428-9281 - <nischal.mangu@nih.gov>  
+  * **Center for Scientific Review (CSR)** <br>Patricia Young - 301-435-1060 - <youngp@csr.nih.gov>  
+  * **Clinical Center (CC)** <br>Cindy Fisher - 301-594-5792 - <cindy.fisher@nih.gov>  
+  * **John E Fogarty International Center (FIC)** <br>Alisa McCullar - 301-402-8997 - <mccullaa@mail.nih.gov>  
+  * **National Cancer Institute (NCI)** <br>Gary Morin - 240-276-6920 - <moring@mail.nih.gov>  
+  * **National Center for Advancing Translational Sciences (NCATS)** <br>Sam Michael - 301-827-7796 - <michaelsg@mail.nih.gov>  
+  * **National Center for Complementary and Integrative Health (NCCIH)** <br>Irene Liu - 301-402-6525 - <irene.liu@nih.gov>  
+  * **National Eye Institute (NEI)** <br>Lesley Earl - 301-496-5248 - <lesley.earl@nih.gov>  
+  * **National Heart Lung and Blood Institute (NHLBI)** <br>Carmen Davis - 301-594-3257 - <carmen.davis@nih.gov>  
+  * **National Human Genome Research Institute (NHGRI)** <br>Britny Kish - 301-594-0632 - <britny.kish@nih.gov>  
+  * **National Inst of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)** <br>Dave Johnson - 301-496-8190 - <dave.johnson2@nih.gov>  
+  * **National Institute of Allergy and Infectious Diseases (NIAID)** <br>Tori Garten - 240-627-3691 - <tori.garten@nih.gov>  
+  * **National Institute of Biomedical Imaging and Bioengineering (NIBIB)** <br>Roberta Albert - 301-496-8610 - <roberta.albert@nih.gov>  
+  * **National Institute of Child Health and Human Development (NICHD)** <br>Li Huang - 301-435-3878 - <huangli@mail.nih.gov>  
+  * **National Institute of Dental and Craniofacial Research (NIDCR)** <br>Jessica Henry - 301-827-4823 - <jessica.henry@nih.gov>  
+  * **National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)** <br>Angela Thomas - 301-480-6796 - <angela.thomas@nih.gov>  
+  * **National Institute of Environmental Health Sciences (NIEHS)** <br>Cheryl Thompson - 984-287-3329 - <thompsonc2@niehs.nih.gov>  
+  * **National Institute of General Medical Sciences (NIGMS)** <br>Jennifer Sizemore - 301-594-2664 - <jennifer.sizemore@nih.gov>  
+  * **National Institute of Mental Health (NIMH)** <br>James Petersen - 301-443-6346 - <jpeters2@mail.nih.gov>  
+  * **National Institute of Neurological Disorders and Stroke (NINDS)** <br>Cesar Garzon - 301-435-0627 - <cesar.garzon@nih.gov>  
+  * **National Institute of Nursing Research (NINR)** <br>Edmond Byrnes - 301-496-0235 - <edmond.byrnes@nih.gov>  
+  * **National Institute on Aging (NIA )** <br>Kelly Ohaver - 301-402-9365 - <kelly.ohaver@nih.gov>  
+  * **National Institute on Alcohol Abuse and Alcoholism (NIAAA)** <br>Toni Calzone - 301-496-9844 - <tcalzone@dicbr.niaaa.nih.gov>  
+  * **National Institute on Deafness and Communication Disorders (NIDCD)** <br>Heidi Rosvold-Brenholtz - 301-496-2675 - <heidi.rosvold-brenholtz@nih.gov>  
+  * **National Institute on Drug Abuse (NIDA)** <br>Mark Fleming - 301-827-5250 - <mfleming@nida.nih.gov>  
+  * **National Institute on Minority Health and Health Disparities (NIMHD)** <br>Edgar Dews - 301-594-8424 - <edgar.dews@nih.gov>  
+  * **National Library of Medicine (NLM)** <br>Rex Shuler - 301-496-8460 - <shulerr@mail.nlm.nih.gov>  
+  * **Office of Research Facilities Development and Operations (ORF)** <br>Susan Permu - 240-507-3415 - <permuts@mail.nih.gov>  
+  * **Office of Research Services (ORS)** <br>Ida	Shuler - 301-525-8103 - <ida.yengoyan@nih.gov>  
+  * **Office of the Director (OD)** <br>Christina Simmons - 301-402-7250 - <simmonsc@od.nih.gov>  
+
 ### Office of the Secretary Division
 Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
