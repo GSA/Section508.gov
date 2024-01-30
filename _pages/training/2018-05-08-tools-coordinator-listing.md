@@ -112,14 +112,14 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-Millie Abdi - <misale.abdi@oig.usda.gov>  
+Millie Abdi - 202-281-0348 - <misale.abdi@oig.usda.gov>  
 ### Research, Education and Economics (REE)
 Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 
-* **Agricultural Research Service (ARS)** <br>Ricardo S. Romero - 202-570-8236 - <ricardo.s.romero@usda.gov>  
+* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>  
 * **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov>  
-* **National Agricultural Statistics Service (NASS)** <br>Rich Holcomb <rich.holcomb@usda.gov>  
-* **National Institute of Food and Agriculture (NIFA)** <br>Michael Quizon - 816-908-3277 - <michael.quizon@usda.gov>  
+* **National Agricultural Statistics Service (NASS)** <br>David Larkin - <david.larkin@usda.gov>  
+* **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
@@ -168,7 +168,7 @@ Mia K. Day - 703-697-4593 - <mia.day@us.af.mil>
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Jay Steinke - 321-494-1310 - <jay.steinke.1@us.af.mil>  
-Muhammad Waheed	- <muhammad.waheed@us.af.mil>  
+Muhammad Waheed	- 443-600-1457 - <muhammad.waheed@us.af.mil>  
 
 ### Air National Guard
 VACANT
@@ -288,7 +288,7 @@ Tim Erny - <ahrqsection508@ahrq.hhs.gov>
 ### Centers For Disease Control and Prevention (CDC)
 Mark Urban - 919-541-0562 - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
-Aaron Allen - <aaron.allen@cms.hhs.gov>  
+Aaron Allen - 410-786-1119 - <aaron.allen@cms.hhs.gov>  
 Cora Tracy (BACKUP)	- 443-938-3815 - <cora.tracy@cms.hhs.gov>  
 Scott Shippy (BACKUP)	- 443-847-0344 - <scott.shippy@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
@@ -528,7 +528,7 @@ VACANT
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
 Courtney M. Williams - 214-385-5861 - <courtney.m.williams@irs.gov>  
-Terri A. Triggs - <terri.a.triggs@irs.gov>  
+Terri A. Triggs - 240-613-4174 - <terri.a.triggs@irs.gov>  
 ### Office of the Inspector General
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
