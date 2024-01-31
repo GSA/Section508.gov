@@ -1,24 +1,22 @@
 ---
-title: Biannual Section 508 Program Maturity Report
+title: Governmentwide Section 508 Assessment
 event-type: recuring-event
-event-frequency: semiannual (twice annually)
+event-frequency: annually (once annually)
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Monday, Aug 16 2021 #otherwise use end-date
+end-date: Saturday, Aug 11 2035 #otherwise use end-date
 overview: 
 image:
 image-alt: 
 permalink: /event/section-508-program-maturity-report/
-decription: Section508.gov Event Announcement | The Section 508 Program Maturity Report is a biannual accessibility status report submission required by the Office of Management and Budget Integrated Data Collection (IDC) Requirements.
+decription: The Governmentwide Section 508 Assessment is an annual accessibility status report submission required by the Congress.
 ---
 
-The <a href ="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank"> OMB Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> aims to improve how agencies manage Section 508 and IT accessibility responsibilities by increasing transparency, strengthening accountability, and improving collaboration.
+On December 29, 2022 the President signed the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617">Consolidated Appropriations Act, 2023</a> which, in Section 752, tasked the Office of Management and Budget (OMB), in consultation with the General Services Administration (GSA) and the U.S. Access Board (USAB), to update criteria and instructions for evaluating agencies’ Section 508 efforts. Section 752 requires federal agencies to report on the implementation of Section 508 in accordance with the updated criteria and instructions by August 11, 2023, and annually thereafter.
 
-Federal agencies are required to report to the Office of Management and Budget (OMB) twice per year on their IT accessibility/Section 508 program maturity and effectiveness. The CIO Council’s Accessibility Community of Practice (ACOP) and GSA’s Government-wide IT Accessibility Program analyze these reports to find ways to improve collaboration across agencies, reduce redundancies, and develop solutions to improve the management of government accessibility programs.
+**Target Audience:** All agencies subject to Section 508 of the Rehabilitation Act of 1973, as amended  
+**Reporting Periods:** Reports are due once per year  
+**Information and Dates:** <a href = "{{site.baseurl}}/manage/section-508-assessment/" target="_blank">Governmentwide Section 508 Assessment</a>
 
-**Target Audience:** Section 508 Program Managers  
-**Reporting Periods:** Reports are due twice per year, in February and August  
-**Information and Dates:** <a href = "https://www.section508.gov/manage/reporting" target="_blank"> Monitor and Report Progress </a>
-
-**Reviewed/Updated:** September 2021
+**Reviewed/Updated:** January 2024
 
