@@ -188,8 +188,7 @@ Erin Connolly - 703-915-0004 - <erin.connolly@dau.edu>
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - 804-416-9160 - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
-Dr. Barbara	C. Jackson - 571-305-6439 - <barbara.c.jackson.civ@mail.mil>  
-Elizabeth J. Garza-Guidara (BACKUP) - 240-460-8622 - <elizabeth.j.garzaguidara.civ@mail.mil>  
+Elizabeth J. Garza-Guidara - 240-460-8622 - <elizabeth.j.garzaguidara.civ@mail.mil>  
 
 * **Center for Development of Security Excellence (CDSE)** <br>
 Caroline S. Zambrowicz - 410-689-1356 - <caroline.s.zambrowicz.civ@mail.mil>  
@@ -757,7 +756,7 @@ Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-**Reviewed/Updated**: January, 2024
+**Reviewed/Updated**: February, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
