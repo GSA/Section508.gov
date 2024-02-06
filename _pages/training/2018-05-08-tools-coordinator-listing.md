@@ -213,7 +213,7 @@ Paula Castro (Backup) - 301-394-5194 - <paula.castro@dodiis.mil>
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - 571-363-8753 - <richard.harmon@dla.mil>  
-DLA Helpdesk - <508compliance@dla.mil>
+DLA Section 508 Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Wendy Miner (Acting) – 202-409-1306 – <wendy.d.miner.civ@mail.mil>  
 ### Defense Microelectronics Activity (DMEA)  
@@ -225,7 +225,7 @@ Gayle D. Oshiro - 808-204-3225 – <gayle.d.oshiro.civ@mail.mil>
 David Frasher - 703-601-4459 - <david.frasher@dsca.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
-DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
+DTIC Section 508 Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
@@ -339,7 +339,8 @@ Alex Karakcheyev - 202-770-9724 - <olexiy.karakcheyev@samhsa.hhs.gov>
 ----------------------------------------------------
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
 ### Department-wide
-Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
+Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>  
+DHS Section 508 Helpdesk - <accessibility@hq.dhs.gov>   
 ### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - 202-254-7454 - <leslie.porter@hq.dhs.gov>  
 Dester Njike - 240-705-0921 - <dester.njike@associates.hq.dhs.gov>
@@ -565,7 +566,7 @@ Terri A. Triggs - 240-613-4174 - <terri.a.triggs@irs.gov>
 Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 ### Office of the Comptroller of the Currency (OCC)
 Rodney Kent - 202-731-9893 - <rodney.kent@occ.treas.gov>  
-IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
+PCC Section 508 Helpdesk - <rim@occ.treas.gov>  
 ### Special Inspector General for Troubled Asset Relief Fund (SIGTARP)
 VACANT
 ### Treasury Inspector General for Tax Administration (TIGTA)
@@ -667,14 +668,17 @@ VACANT
 VACANT  
 Douglas Jones (BACKUP) - 202-606-5483  
 Heather Brown (BACKUP) - 202-606-5462  
-FMCS Helpdesk	<fmcs508@fmcs.gov>  
+FMCS Section 508 Helpdesk	<fmcs508@fmcs.gov>  
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
 Theodosia Villatoro-Sorto - (202)233-3882 - <tvillatoro-sorto@fmshrc.gov>  
 ### Federal Reserve Board of Governors
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
 ### Federal Retirement Thrift Investment Board (FRTIB)
 Jasjit Matharu - 202-864-8582 - <jasjit.matharu@frtib.gov>  
-FRTIB Section 508 Team - <Section508@frtib.gov>  
+FRTIB Section 508 Helpdesk - <Section508@frtib.gov>  
+### Federal Trade Commission (FTC)
+Trevor Beierschmitt - 202-326-3614 - <tbeierschmitt@ftc.gov>  
+FTC Section 508 Helpdesk - <section508compliance@ftc.gov>  
 
 <span id="G" ></span>
 
