@@ -41,9 +41,9 @@ Learn how you can make your agency's electronic information and digital services
       </header>
       <div class="usa-card__body">
         <p>Attend current, upcoming, and view our recurring events.</p>
-        <ul class="add-list-reset">
-          <li><a href="{{site.baseurl}}/iaaf/">Annual Interagency Accessibility Forum (IAAF) 2022</a></li>
-        </ul>
+        <!-- <ul class="add-list-reset">
+          <li><a href="{{site.baseurl}}/iaaf/">Annual Interagency Accessibility Forum (IAAF)</a></li>
+        </ul> -->
       </div>
     </div>
   </li>
