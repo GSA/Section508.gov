@@ -2,7 +2,7 @@
 layout: post
 permalink: blog/accessibility-conformance-report-update-feb2024/
 type: article
-title: 'GAS Announces Updates to the Accessibility Requirements Tool (ART) Improving User Experience'
+title: 'GSA Announces Updates to the Accessibility Requirements Tool (ART) Improving the User Experience'
 tags: Acquisition #choose one or more: Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
 created: 2024-02-05
 description: The General Services Administration (GSA) announces updates to the Accessibility Requirements Tool (ART) with improvements to the user experience and ease-of-use based on user feedback.
