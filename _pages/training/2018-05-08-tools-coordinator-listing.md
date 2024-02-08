@@ -174,6 +174,7 @@ Muhammad Waheed	- 443-600-1457 - <muhammad.waheed@us.af.mil>
 VACANT
 ### Army
 Curtiss A. Branham - 703-697-9380 – <curtiss.a.branham.civ@mail.mil>   
+ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - 586-282-5860 - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - 586-282-3124 - <john.m.cobb.civ@army.mil>  
