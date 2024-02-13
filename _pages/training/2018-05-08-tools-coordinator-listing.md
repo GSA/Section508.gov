@@ -249,6 +249,7 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - 240-309-0349 - <arnetta.lamae.civ@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – 202-685-9418 – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
+  * **Naval Research Laboratory (NRL)** <br>Keith A. Rohwer - 202-767-9225 - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – 202-400-5793 – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
   * **Office of Naval Research** <br>VACANT
