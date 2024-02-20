@@ -5,6 +5,13 @@ permalink: training/presentations-workshops/
 type: training
 title: 'Accessibility Presentations and Workshop Materials'
 ---
+## 2024
+### IT Accessibility Community Meetings
+#### February 13, 2024
+The GSA Government-wide IT Accessibility Program hosted federal employees and others for a presentation on how to use the [IT Accessibility Policy Framework]({{base.siteurl}}/manage/policy-framework/introduction/) to improve the conformance of Information and Communications Technology (ICT). The framework is designed to help organizations evaluate and update their agency’s IT accessibility policies and procedures. Following an overview of the framework, attendees participated in an instructor-led workshop where they used the [Policy Review Template (XLXS)](https://assets.section508.gov/files/Policy+Review+Template.xlsx) workbook to assess sample policies.
+
+* [IT Accessibility Policy Framework - ITACM FEB 2024 (PPTX)](https://assets.section508.gov/files/presentations/IT%20Accessibility%20Policy%20Framework%20-%20ITACM%20FEB%202024.pptx)  
+
 ## 2023
 ### IT Accessibility Community Meetings
 #### August 8, 2023
