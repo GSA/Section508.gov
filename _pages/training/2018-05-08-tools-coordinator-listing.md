@@ -12,13 +12,7 @@ redirect_from:
 ---
 Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find an agency’s designated Section 508 PM below.
 
-<fieldset style="border-radius:5px;"><legend>&nbsp;<strong>Agency Action: Identify Your Section 508 Program Manager</strong>&nbsp;</legend>
-<p>Per <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>, agencies are required to report to OMB the name and contact information of the agency-wide Section 508 Program Manager. Please complete and submit the following online form by January 20, 2024 to respond to this action. 
-<br><br>
-<button type="button" class="usa-button" onclick="location.href='https://feedback.gsa.gov/jfe/form/SV_ehBggwQIBSXfOAu'">Report Agency-wide Section 508 Program Manager</button></p>
-</fieldset>
-
-After January 20, 2024, to update your agency or component-agency listing, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address. If your agency doesn't have a designated Section 508 PM, contact your agency CIO's office for assistance. 
+To update your agency or component-agency listing, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address. If your agency doesn't have a designated Section 508 PM, contact your agency CIO's office for assistance. 
 
 ## Departments and CFO Act Agencies
 

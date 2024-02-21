@@ -201,7 +201,7 @@ The meeting featured speakers from Microsoft, who shared the latest on creating 
   </div>
 </div>
 
-**Reviewed/Updated**: August 2023
+**Reviewed/Updated**: February 2024
 
 [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
 [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
