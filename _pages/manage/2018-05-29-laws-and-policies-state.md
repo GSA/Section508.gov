@@ -3,20 +3,20 @@ layout: page
 sidenav: true
 permalink: manage/laws-and-policies/state/
 type: manage
-title: 'State Policy'
+title: 'State-level Accessibility Law and Policy'
 created: 1527605841
 ---
 <p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. 
 
-Your state not listed? [Send us][1] your policy or site information and we'll display it here. Also, if you are a State or Local government employee, you are also welcome to join the [Section 508/IT Accessibility Community][26].
+If your state is not listed, please [contact us][1] and share you your policy and website information and we'll display it here. Also, if you are a State, Local, Territorial, or Tribal government employee, you are also welcome to join the [Section 508/IT Accessibility Community][26].
 
 Go to States Beginning With: [A][2] \| [C][3] \| [I][4] \| [K][5] \| [L][6] \| [M][7] \| [N][8] \| [O][9] \| [V][10]
 
 <p id="A" name="A"> </p> 
 
 ## [Alabama][12]
-_Accessibility Policy_ In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
+_Alabama.gov_ In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
 
 ## [Arizona][13]  
 _AZ.gov - Assessment and Evaluation_  
@@ -84,7 +84,7 @@ _EITA" Electronic and Information Technology Accessibility Law_ In 2004, the Okl
 ## [Virginia Information Technologies Agency (VITA)][25]  
 Realizing in 2004 that accessible technologies serve all users regardless of their ability, the Virginia General Assembly and the Governor of Virginia enacted supporting state legislation. By state Code, all Virginia state executive branch agencies and institutions of higher education now are required to comply with the regulations that implement the electronic and information technology accessibility standards of the Rehabilitation Act of 1973, as amended, and any regulations as may be prescribed by Virginia Information Technologies Agency (VITA). In support of the legislation VITA implemented the Virginia Information Technology Accessibility Standard. The standard is incorporated in Virginia's Enterprise Architecture and designated as Information Technology Resource Management (ITRM) Standard GOV103-00.
 
-**Reviewed/Updated**: November 2022
+**Reviewed/Updated**: February 2024
 
  [1]: {{site.baseurl}}/contact-us
  [2]: #A "Go to States beginning with A"
