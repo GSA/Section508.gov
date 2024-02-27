@@ -77,7 +77,6 @@ Kyna Fernandez - <kyna.fernandez@usda.gov>
 ### Forest Service (FS)
 Dennis Lapcewich - 360-953-1347 - <dennis.lapcewich@usda.gov>  
 ### Information Management Services Branch (IFSB)
-VACANT
 ### National Agricultural Statistics Service (NASS)
 Rich Holcomb - 202-720-6690 - <rich.holcomb@usda.gov>
 ### Natural Resources Conservation Service (NRCS)
@@ -93,8 +92,8 @@ Patrice Poree - 202-923-8886 - <patrice.poree@usda.gov>
 ### Office of the Chief Information Officer (OCIO)
 
 * **CEC** <br>Rachel	Stanton	- <rachael.stanton@usda.gov>  
-* **DISC-EAS** <br>VACANT    
-* **DISC-EAS-SAAS** <br>VACANT
+* **DISC-EAS**  
+* **DISC-EAS-SAAS**  
 * **Cybersecurity and Privacy Operations Center (CPOC)** <br>Holly J. Becktstrom - 816-823-2160 - <holly.beckstrom@usda.gov>
 
 ### Office of Communications (OC)
@@ -118,7 +117,6 @@ Lisa Wilcox - 202-999-9619 - <lisa.wilcox@usda.gov>
 ### Rural Development
 Ryan Schneider - <ryan.schneider@usda.gov>
 ### Trade and Foreign Agricultural Affairs (TFAA)
-VACANT
 
 ----------------------------------------------------
 ## <span id="usdoc"></span>Department of Commerce (DOC)
@@ -165,7 +163,6 @@ Jay Steinke - 321-494-1310 - <jay.steinke.1@us.af.mil>
 Muhammad Waheed	- 443-600-1457 - <muhammad.waheed@us.af.mil>  
 
 ### Air National Guard
-VACANT
 ### Army
 Curtiss A. Branham - 703-697-9380 – <curtiss.a.branham.civ@mail.mil>   
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
@@ -175,7 +172,6 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - 813-826-2483 - <marty.gilliam@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
-VACANT
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - 703-526-4152 - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
@@ -224,7 +220,6 @@ DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>
 ### Defense Threat Reduction Agency (DTRA)
 Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
 ### Joint Non-Lethal Weapons Program
-VACANT
 ### Missile Defense Agency (MDA)
 Pamela Whitehead - 256-450-4183 - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
@@ -245,17 +240,15 @@ Christopher Julka - 703-697-0031 - <christopher.a.julka@navy.mil>
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw - 619-200-1923 – <darlene.shaw@navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – 202-400-5793 – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - 757-444-3913 - <joel.c.stewart.civ@us.navy.mil>  
-  * **Office of Naval Research** <br>VACANT
+  * **Office of Naval Research**
 
 ### U.S. European Command (EUCOM)
-VACANT
 ### U.S. Northern Command (USNORTHCOM)
 Katherine	S. Nichols - 719-554-4927 - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - 719-554-9454 - <matthew.j.mcalister.mil@mail.mil>  
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Transportation Command (TRANSCOM)
-VACANT
 ### Washington Headquarters Service (WHS)
 Glenn T. Buchter - <glenn.t.buchter.civ@mail.mil>  
 
@@ -350,7 +343,6 @@ Janice Fenlason - 202-705-9758 - <janice.fenlason@fema.dhs.gov>
 Thonya Cook - 301-473-3659 - <thonya.cook@fema.dhs.gov>  
 Justin Peterson (BACKUP) - 301-447-1163 - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
-VACANT  
 #### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - 912-267-2194 - <rosemary.jones@fletc.dhs.gov>
 ### Headquarters (HQ)
@@ -358,7 +350,6 @@ Brandon Pace - 202-618-1897 - <brandon.pace@hq.dhs.gov>
 ### Immigration and Customs Enforcement (ICE)
 Arva Parker - 202-732-7434 - <arva.parker@ice.dhs.gov>  
 ### Intelligence & Analysis (IA)
-VACANT
 ### Office of Biometric Identity Management&nbsp;(OBIM)
 Walter L. Hoo - 202-295-0811 - <walter.l.hoo@obim.dhs.gov>  
 Laura A. Hoffman (BACKUP) - 202-637-9699 - <laura.a.hoffman@associates.obim.dhs.gov>
@@ -399,7 +390,6 @@ Robert Garcia - 703-787-1067 - <robert.garcia@bsee.gov>
 ### Bureau of Trust Funds Administration
 Neal Herbert - 208-781-8477 - <neal_herbert@btfa.gov>  
 ### Interior Business Center
-VACANT
 ### National Park Service (NPS)
 Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
@@ -520,7 +510,6 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
-VACANT  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
@@ -540,7 +529,6 @@ Paul Mounkhaty - 202-366-4146 - <paul.mounkhaty@dot.gov>
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
 ### Department-wide
-VACANT
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
 Cassandra Williams - 202-453-2117 - <cassandra.williams@ttb.gov>
 ### Bureau of Engraving and Printing
@@ -550,7 +538,6 @@ Elizabeth Burke - 202-504-3786 - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - 202-653-0331 - <jonesmw@cdfi.treas.gov>
 ### Departmental Offices
-VACANT
 ### FINCEN
 LaChelle Dempsey-Reed - 703-905-3509 - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
@@ -562,7 +549,6 @@ Tracy George - 202-927-5229 - <georget@oig.treas.gov>
 Rodney Kent - 202-731-9893 - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Special Inspector General for Troubled Asset Relief Fund (SIGTARP)
-VACANT
 ### Treasury Inspector General for Tax Administration (TIGTA)
 Jerry Kim - 202-657-7727 - <jerry.kim@tigta.treas.gov>
 ### U.S. Mint
@@ -657,9 +643,7 @@ Dornesia Webster - 202-502-6561 - <dornesia.webster@ferc.gov>
 ### Federal Housing Finance Agency (FHFA)
 Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
 ### Federal Labor Relations Authority (FLRA)
-VACANT
 ### Federal Mediation and Conciliation Service (FMCS)  
-VACANT  
 Douglas Jones (BACKUP) - 202-606-5483  
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
@@ -709,7 +693,6 @@ Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>
 Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
 
 ### Office of Special Counsel (OSC)
-VACANT  
 
 <span id="P"></span>
 
@@ -739,9 +722,7 @@ Gregory G. Jackson - 256-683-6296 - <ggjackson@tva.gov>
 <span id="U" ></span>
 
 ### U.S. Agency for Global Media (USAGM)
-VACANT
 ### U.S. Courts, Northern District of Iowa (USDC-NI)
-VACANT
 ### U.S. Courts, Western District of Wisconsin (USDC-WDW)
 Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
 ### U.S. International Development Finance Corporation (DFC)
