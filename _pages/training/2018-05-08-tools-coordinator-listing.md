@@ -339,7 +339,7 @@ Nicshan Floyd (Acting) - 202-295-7076 - <nicshan.floyd@hq.dhs.gov>
 Leslie Porter - 202-254-7454 - <leslie.porter@hq.dhs.gov>  
 Dester Njike - 240-705-0921 - <dester.njike@associates.hq.dhs.gov>
 ### Customs and Border Protection (CBP)
-Timothy Monaghan - 571-468-6684 - <timothy.monaghan@cbp.dhs.gov>  
+John M. Buckley - 541-468-6497 - <john.m.buckley@cbp.dhs.gov>  
 Amanda C. Haney&nbsp;(BACKUP) - 571-468-6497 - <amanda.c.haney@cbp.dhs.gov>
 ### Cybersecurity & Infrastructure Security Agency (CISA)
 Matthew "Matti" Ricciardi	- <matthew.ricciardi@cisa.dhs.gov>   
@@ -420,7 +420,7 @@ Tracy Jolivette - 303-236-4884 - <tjolivette@usgs.gov>
 ----------------------------------------------------
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
-Dwayne Spriggs - <dwayne.spriggs@usdoj.gov>  
+Dwayne Spriggs - <Section508ProgramManager@usdoj.gov>  
 ### Antitrust Division
 Elizabeth (Beth) Gundermann - 202-631-9057 - <beth.gundermann@usdoj.gov>  
 Richard Hess - 202-532-4455 - <richard.hess2@usdoj.gov>
