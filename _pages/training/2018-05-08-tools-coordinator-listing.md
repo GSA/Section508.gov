@@ -41,7 +41,7 @@ To update your agency or component-agency listing, please email us at <section.5
 [Small Business Administration][23]  
 [Social Security Administration][24]
 ## Small and Independent Agencies
-Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topC" ></span> [C][26] |<span id="topD" ></span> [D][27] |<span id="topE" ></span> [E][28] |<span id="topF" ></span> [F][29] |<span id="topG" ></span> [G][30] |<span id="topI" ></span> [I][31] |<span id="topM" ></span> [M][32] |<span id="topN" ></span> [N][33] |<span id="topO" ></span> [O][34] |<span id="topP" ></span> [P][35] |<span id="topR" ></span> [R][36] |<span id="topS" ></span> [S][37] |<span id="topT" ></span> [T][38] |<span id="topU" ></span> [U][39]
+Navigate to Small and Independent Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][31] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topJ" ></span> [J][34] |<span id="topL" ></span> [L][36] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
 
 <hr>
 
@@ -394,9 +394,6 @@ Neal Herbert - 208-781-8477 - <neal_herbert@btfa.gov>
 Alex Lindeman - 907-378-0366 - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - 202-208-5412 - <rashee_nelson@doioig.gov>  
-### Office of Navajo & Hopi Indian Relocation
-Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>  
-June Beyal (BACKUP) - <jbeyal@onhir.gov>  
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - 202-513-0782 - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - 202-513-0877 - <kathryn.jonell@sol.doi.gov>
@@ -510,6 +507,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
+Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
@@ -529,6 +527,7 @@ Paul Mounkhaty - 202-366-4146 - <paul.mounkhaty@dot.gov>
 ----------------------------------------------------
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
 ### Department-wide
+Nicolaos "Nick"	Totten - <nicolaos.totten@treasury.gov>  
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
 Cassandra Williams - 202-453-2117 - <cassandra.williams@ttb.gov>
 ### Bureau of Engraving and Printing
@@ -597,140 +596,379 @@ Pierce Crowell - 410-965-3475 - <pierce.crowell@ssa.gov>
 Amanda Miller (BACKUP) - 410-965-0716 - <amanda.miller@ssa.gov>  
 
 ----------------------------------------------------
+----------------------------------------------------
+
 ## <span id="A" ></span> Small and Independent Agencies
 
 ### Access Board (USAB)
-Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>
+Bruce Bailey - 202-272-0024 - (TTY) 202-272-0024 - <bailey@access-board.gov>  
+
+----------------------------------------------------
+### Administrative Conference of the United States (ACUS)
+----------------------------------------------------
+### Advisory Council on Historic Preservation (ACHP)
+----------------------------------------------------
+### African Development Foundation (ADF)
+----------------------------------------------------
+### Alyce Spotted Bear and Walter Soboleff Com. on Native Children (ASBWSCNC)
+----------------------------------------------------
+### American Battle Monuments Commission (ABMC)
+----------------------------------------------------
+### Appalachian Regional Commission (ARC)
+----------------------------------------------------
+
+<span id="B" ></span>
+
+### Barry Goldwater Scholarship and Excellence in Education Foundation
+Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  
+
+----------------------------------------------------
 
 <span id="C" ></span>
 
+### Central Intelligence Agency (CIA) 
+----------------------------------------------------
+### Chemical Safety and Hazard Investigation Board  (CSB)
+----------------------------------------------------
+### Commission for the Preservation of America's Heritage Abroad (CPAHA)
+----------------------------------------------------
+### Commission of Fine Arts (CFA)
+----------------------------------------------------
+### Commission on Civil Rights (CCR)
+----------------------------------------------------
+### Commission on Combating Synthetic Opioid Trafficking (CCSOT)
+----------------------------------------------------
 ### Committee for Purchase from People Who Are Blind or Severely Disabled (CPPBSD)
-Edward Yang - 703-603-2137 - <eyang@abilityone.gov>
+Edward Yang - 703-603-2137 - <eyang@abilityone.gov>  
+
+----------------------------------------------------
+### Commodity Futures Trading Commission (CFTC)
+----------------------------------------------------
 ### Consumer Financial Protection Bureau (CFPB)
-Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>
+Jennifer Horan - 202-435-7450 - <jennifer.horan@cfpb.gov>  
+
+----------------------------------------------------
 ### Consumer Product Safety Commission (CPSC)
 Bertie Hamilton - <bhamilton@cpsc.gov>  
-Bryan Burnett (BACKUP) -	301-504-7654 - <bburnett@cpsc.gov>
+Bryan Burnett (BACKUP) -	301-504-7654 - <bburnett@cpsc.gov>  
+
+----------------------------------------------------
 ### Corporation for National & Community Service (CNS)
 Otis Winters - 202-606-6812 - <owinters@cns.gov>  
+
+----------------------------------------------------
+### Corporation for Public Broadcasting (CPB)
+----------------------------------------------------
+### Corporation for Travel Promotion (CTP)
+----------------------------------------------------
+### Council of the Inspectors General on Integrity and Efficiency (CIGIE)
+----------------------------------------------------
+### Court Services and Offender Supervision Agency for the District (CSOSA)
+William Kirkendale - <william.kirkendale@csosa.gov>  
+
+----------------------------------------------------
 
 <span id="D" ></span>
 
 ### Defense Nuclear Facilities Safety Board (NDFSB)
-Jeremy Bingham - <jeremyb@dnfsb.gov>
+Jeremy Bingham - <jeremyb@dnfsb.gov>  
+
+----------------------------------------------------
+### Delta Regional Authority (DRA)
+----------------------------------------------------
+### Denali Commission (DC)
+----------------------------------------------------
 
 <span id="E" ></span>
 
+### Election Assistance Commission (EAC)
+William Jackson - 202-740-5676 - <bjackson@eac.gov> 
+
+----------------------------------------------------
 ### Equal Employment Opportunity Commission (EEOC)
 Marc Seawright - 650-684-0951 - <marc.seawright@eeoc.gov>  
 Pierrette McIntire (BACKUP) - 202-291-2655 - <pierrette.mcintire@eeoc.gov>  
-### Election Assistance Commission (EAC)
-William Jackson - 202-740-5676 - <bjackson@eac.gov>
+
+----------------------------------------------------
+### Export-Import Bank of the United States (EXIM)
+----------------------------------------------------
 
 <span id="F" ></span>
 
 ### Farm Credit Administration (FCA)
 Nicole Jacobs - 703-883-4336 - <jacobsn@fca.gov>  
+
+----------------------------------------------------
+### Farm Credit System Insurance Corporation (FCSIC)
+Nicole Jacobs - 703-883-4336 - <jacobsn@fca.gov>  
+
+----------------------------------------------------
 ### Federal Communication Commission (FCC)
-Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>
+Rebecca Lovley - 202-418-1957 - <rebecca.lovley@fcc.gov>  
+
+----------------------------------------------------
 ### Federal Deposit Insurance Corporation (FDIC)
-Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>
-### Federal Election Commission (FEC)
-Patcharee "Pat"	Phongsvirajati - 202-694-1242 - <pphongsvirajati@fec.gov>  
-FEC IT Accessibility Program - <508coordinator@fec.gov>
+Brooke Aiken - 703-516-5723 - <braiken@fdic.gov>  
+
+----------------------------------------------------
 ### Federal Energy Regulatory Commission (FERC)
 Dornesia Webster - 202-502-6561 - <dornesia.webster@ferc.gov>  
+
+----------------------------------------------------
+### Federal Financial Institutions Examination Council (FFIEC)
+----------------------------------------------------
+### Federal Home Loan Mortgage Corporation (FHLMC)
+----------------------------------------------------
 ### Federal Housing Finance Agency (FHFA)
-Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>
+Stuart Levy - 202-649-3610 - <stuart.Levy@fhfa.gov>  
+
+----------------------------------------------------
 ### Federal Labor Relations Authority (FLRA)
+----------------------------------------------------
+### Federal Maritime Commission (FMC)
+Lucille Marvin - <omd@fmc.gov>  
+
+----------------------------------------------------
 ### Federal Mediation and Conciliation Service (FMCS)  
 Douglas Jones (BACKUP) - 202-606-5483  
 Heather Brown (BACKUP) - 202-606-5462  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
+
+----------------------------------------------------
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
 Theodosia Villatoro-Sorto - (202)233-3882 - <tvillatoro-sorto@fmshrc.gov>  
-### Federal Reserve Board of Governors
+
+----------------------------------------------------
+### Federal Permitting Improvement Steering Council	(FPISC)
+----------------------------------------------------
+### Federal Reserve Board of Governors (FRBG)
 Melissa Lasbury - 202-452-2059 - <melissa.p.lasbury@frb.gov>  
+
+----------------------------------------------------
 ### Federal Retirement Thrift Investment Board (FRTIB)
 Jasjit Matharu - 202-864-8582 - <jasjit.matharu@frtib.gov>  
 FRTIB Section 508 Team - <Section508@frtib.gov>  
 
+----------------------------------------------------
+
 <span id="G" ></span>
 
-### Government Accountability Office (GAO)
-Leo Barbour - 202-512-3992 - <barbourl@gao.gov>
+<span id="H" ></span>
+
+### Harry S Truman Scholarship Foundation (HSTSF)
+----------------------------------------------------
 
 <span id="I" ></span>
 
-### Institute of Museum and Library Services
-Damishia King - 202-653-4686 - <dking@imls.gov>
+### Institute of Museum and Library Services (IMLS)
+Damishia King - 202-653-4686 - <dking@imls.gov>  
+
+----------------------------------------------------
+### Inter-American Foundation (IAF)
+Jacquelyn	Dolezal Morales - <jdolezalmorales@iaf.gov>  
+
+----------------------------------------------------
+
+<span id="I" ></span>
+
+### James Madison Memorial Fellowship Foundation (JMMFF)
+----------------------------------------------------
+### Japan-United States Friendship Commission (JUSFC)
+----------------------------------------------------
+### Legal Services Corporation (LSC)
+----------------------------------------------------
 
 <span id="M" ></span>
 
+### Marine Mammal Commission (MMC)
+----------------------------------------------------
 ### Merit Systems Protection Board (MSPB)
-Dennis Oden - 202-254-4723 - <dennis.oden@mspb.gov>
+Dennis Oden - 202-254-4723 - <dennis.oden@mspb.gov>  
+
+----------------------------------------------------
+### Military Compensation and Retirement Modernization Commission	(MCRMC)
+----------------------------------------------------
+### Millennium Challenge Corporation (MCC)
+----------------------------------------------------
+### Morris K. Udall and Stewart L. Udall Foundation	(MUSUF)
+----------------------------------------------------
 
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
 Eric Chaskes - 301-837-1586 - <eric.chaskes@nara.gov>  
 Jocelyn	Blakely-Hill - 301-837-0314 - <jocelyn.blakely-hill@nara.gov>  
+
+----------------------------------------------------
+### National Archives and Records Administration (NARA)
+----------------------------------------------------
+### National Capital Planning Commission (NCPC)
+----------------------------------------------------
+### National Commission on Military Aviation Safety	(NCMAS)
+----------------------------------------------------
+### National Commission on Military, National, and Public Service	(NCMNPS)
+----------------------------------------------------
+### National Council on Disability (NCD)
+----------------------------------------------------
 ### National Credit Union Administration (NCUA)
-Nickol Davenport - 703-548-2185 - <edavenport@ncua.gov>
+Nickol Davenport - 703-548-2185 - <edavenport@ncua.gov>  
+
+----------------------------------------------------
 ### National Endowment for the Arts (NEA)
-Joseph Galicia - 202-682-5752 - <galiciaj@arts.gov>
+Joseph Galicia - 202-682-5752 - <galiciaj@arts.gov>  
+
+----------------------------------------------------
 ### National Endowment for the Humanities (NEH)
-Tayna Peltz - 202-606-8399 - <tpeltz@neh.gov>
-### National Labor Relations Board 
-Andrew Martin - 202-273-3720 - <andrew.martin@nlrb.gov>
+Tayna Peltz - 202-606-8399 - <tpeltz@neh.gov>  
+
+----------------------------------------------------
+### National Labor Relations Board (NLRB)
+Andrew Martin - 202-273-3720 - <andrew.martin@nlrb.gov>  
+
+----------------------------------------------------
 ### National Security Agency (NSA)
 L. Tanai White - 443-654-0257 - <ltwhite@nsa.gov>  
+
+----------------------------------------------------
+### National Security Commission on Artificial Intelligence	(NSCAI)
+----------------------------------------------------
+### National Transportation Safety Board (NTSB)
+----------------------------------------------------
+### Neighborhood Reinvestment Corporation (NWA)
+----------------------------------------------------
+### Northern Border Regional Commission (NBRC)
+----------------------------------------------------
+### Nuclear Waste Technical Review Board (NWTRB)
+Jayson Bright - <bright@nwtrb.gov>  
+
+----------------------------------------------------
 
 <span id ="O" ></span>
 
 ### Occupational Safety and Health Review Commission (OSHRC)
-Johnathan Whitton – 202-606-5048 – <jwhitton@oshrc.gov>  
-Angela Tyler – 202-606-5392 – <atyler@oshrc.gov>
+Angela Bridges - <abridges@oshrc.gov>  
+Johnathan Whitton - <jwhitton@oshrc.gov>  
+Angela Tyler – <atyler@oshrc.gov>  
 
+----------------------------------------------------
+### Office of Government Ethics (OGE)
+Ty Cooper - <jtcooper@oge.gov>  
+
+----------------------------------------------------
+### Office of Navajo and Hopi Indian Relocation (ONHIR)
+Diane Pratte - 928-779-2727 - <dpratte@onhir.gov>  
+June Beyal (BACKUP) - <jbeyal@onhir.gov>  
+
+----------------------------------------------------
 ### Office of Special Counsel (OSC)
+Shola	Kalejaiye - <skalejaiye@osc.gov>  
+
+----------------------------------------------------
+### Office of the Director of National Intelligence (ODNI)
+----------------------------------------------------
+### Overseas Private Investment Corporation (OPIC)
+----------------------------------------------------
 
 <span id="P"></span>
 
-### Peace Corps
-Jennifer Hawkins - <accessibility@peacecorps.gov>
+### Peace Corps (PC)
+Jennifer Hawkins - <accessibility@peacecorps.gov>  
+
+----------------------------------------------------
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - 202-229-3181 - <watkins.angela@pbgc.gov>  
 Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
+
+----------------------------------------------------
+### Postal Regulatory Commission (PRC)  
+Stephen Perry - <stephen.perry@prc.gov>  
+
+----------------------------------------------------
+### Privacy and Civil Liberties Oversight Board (PCLOB)
+----------------------------------------------------
+### Public Buildings Reform Board (PBRB)
+----------------------------------------------------
+### Public Company Accounting Oversight Board (PCAOB)
+----------------------------------------------------
+
 <span id="R" ></span>
 
 ### Railroad Retirement Board (RRB)
-Robert LaBerry - 312-751-7153 - <robert.laberry@rrb.gov>
+Robert LaBerry - 312-751-7153 - <robert.laberry@rrb.gov>  
+
+----------------------------------------------------
 
 <span id="S" ></span>
 
 ### Securities and Exchange Commission (SEC)
-Sharvon Jones - 202-551-5251 - <jonessh@sec.gov>
+Sharvon Jones - 202-551-5251 - <jonessh@sec.gov>  
 
+----------------------------------------------------
+### Securities Investor Protection Corporation (SIPC)
+----------------------------------------------------
 ### Selective Service System (SSS)
 Shawn Jackson - 703-605-4089 - <sjackson@sss.gov>  
+
+----------------------------------------------------
+### Smithsonian Institution	(SI)
+----------------------------------------------------
+### Social Security Advisory Board (SSAB)
+----------------------------------------------------
+### Southeast Crescent Regional Commission (SCRC)
+----------------------------------------------------
+### Southwest Border Regional Commission (SBRC)
+----------------------------------------------------
+### Standard Setting Body	(SSB)
+----------------------------------------------------
+### State Justice Institute	(SJI)
+----------------------------------------------------
+### Surface Transportation Board (STB)
+----------------------------------------------------
 
 <span id="T" ></span>
 
 ### Tennessee Valley Authority (TVA)
 Gregory G. Jackson - 256-683-6296 - <ggjackson@tva.gov>  
 
+----------------------------------------------------
+
 <span id="U" ></span>
 
 ### U.S. Agency for Global Media (USAGM)
-### U.S. Courts, Northern District of Iowa (USDC-NI)
-### U.S. Courts, Western District of Wisconsin (USDC-WDW)
-Matt Schaefer - 608-261-5745 - <matt_schaefer@wiwb.uscourts.gov>
+J.R. Reeves - <jreeves@usagm.gov>  
+
+----------------------------------------------------
+### U.S. Army Corps of Engineers (USACE)
+Kelly Linick - <kelly.a.linick@usace.army.mil>  
+Sophia Epkey - <sophia.m.epkey@usace.army.mil>  
+Mary Rodkey - <mary.e.rodkey@usace.army.mil>  
+
+----------------------------------------------------
+### U.S. Court of Appeals for Veterans Claims (USCA-CAVC)
+----------------------------------------------------
+### U.S. Enrichment Corporation Fund (USECF)
+----------------------------------------------------
+### U.S. Holocaust Memorial Museum (USHMM)
+----------------------------------------------------
+### U.S. Institute of Peace (USIP)
+----------------------------------------------------
+### U.S. Interagency Council on Homelessness (USICH)
+----------------------------------------------------
 ### U.S. International Development Finance Corporation (DFC)
 Pramila Adhikari - 202-787-9544 - <pramila.adhikari@dfc.gov>  
+
+----------------------------------------------------
 ### U.S. International Trade Commission (USITC)
-Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>
+Carrin Brown - 202-205-2233 - <carrin.brown@usitc.gov>  
+
+----------------------------------------------------
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
+
+----------------------------------------------------
+### U.S. Trade and Development Agency (USTDA)
+----------------------------------------------------
+### United Mine Workers of America Benefit Funds (UMWA)
 
 **Reviewed/Updated**: February, 2024
 
@@ -759,17 +997,28 @@ Nadereh Nasir - <nadereh.nasir@usps.gov>
  [23]: #ussba "Go to Small Business Administration"
  [24]: #usssn "Go to Social Security Administration"
  [25]: #A "Go to agencies beginning with A"
- [26]: #C "Go to agencies beginning with C"
- [27]: #D "Go to agencies beginning with D"
- [28]: #E "Go to agencies beginning with E"
- [29]: #F "Go to agencies beginning with F"
- [30]: #G "Go to agencies beginning with G"
- [31]: #I "Go to agencies beginning with I"
- [32]: #M "Go to agencies beginning with M"
- [33]: #N "Go to agencies beginning with N"
- [34]: #O "Go to agencies beginning with O"
- [35]: #P "Go to agencies beginning with P"
- [36]: #R "Go to agencies beginning with R"
- [37]: #S "Go to agencies beginning with S"
- [38]: #T "Go to agencies beginning with T"
- [39]: #U "Go to agencies beginning with U"
+ [26]: #B "Go to agencies beginning with B"
+ [27]: #C "Go to agencies beginning with C"
+ [28]: #D "Go to agencies beginning with D"
+ [29]: #E "Go to agencies beginning with E"
+ [30]: #F "Go to agencies beginning with F"
+ [31]: #G "Go to agencies beginning with G"
+ [32]: #H "Go to agencies beginning with H"
+ [33]: #I "Go to agencies beginning with I"
+ [34]: #J "Go to agencies beginning with J"
+ [35]: #K "Go to agencies beginning with K"
+ [36]: #L "Go to agencies beginning with L"
+ [37]: #M "Go to agencies beginning with M"
+ [38]: #N "Go to agencies beginning with N"
+ [39]: #O "Go to agencies beginning with O"
+ [40]: #P "Go to agencies beginning with P"
+ [41]: #Q "Go to agencies beginning with Q"
+ [42]: #R "Go to agencies beginning with R"
+ [43]: #S "Go to agencies beginning with S"
+ [44]: #T "Go to agencies beginning with T"
+ [45]: #U "Go to agencies beginning with U"
+ [46]: #V "Go to agencies beginning with V"
+ [47]: #W "Go to agencies beginning with W"
+ [48]: #X "Go to agencies beginning with X"
+ [49]: #Y "Go to agencies beginning with Y"
+ [50]: #Z "Go to agencies beginning with Z"
