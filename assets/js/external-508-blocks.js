@@ -2,8 +2,8 @@
 sidenav: false
 ---
 {% assign myUrlPrefix = '' %}
-{% if site.url contains '/preview' %}
-{% assign myUrlPrefix = 'https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/' | append: site.url %}
+{% if site.baseurl contains '/preview' %}
+{% assign myUrlPrefix = 'https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov' %}
 {% else %}
 {% assign myUrlPrefix = site.url %}
 {% endif %}
