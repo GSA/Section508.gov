@@ -1,16 +1,22 @@
 ---
 sidenav: false
 ---
+{% assign myUrlPrefix = '' %}
+{% if site.url contains '/preview' %}
+{% assign myUrlPrefix = 'https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov/' | append: site.url %}
+{% else %}
+{% assign myUrlPrefix = site.url %}
+{% endif %}
 {% raw %}
 document.addEventListener('DOMContentLoaded', function() {
  let header = `{% endraw %}{% include header_banner.html %}{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}{% raw %}`;
  const footer = `{% endraw %}{% include footer.html %}{% raw %}`;
  header += '<div id="main-content"></div>';
  document.getElementById('header-508').innerHTML = header
-   .replace(/src="\//g, 'src="{% endraw %}{{ site.url }}{% raw %}/')
-   .replace(/href="\//g, 'href="{% endraw %}{{ site.url }}{% raw %}/');
+   .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
+   .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
  document.getElementById('footer-508').innerHTML = footer
-   .replace(/src="\//g, 'src="{% endraw %}{{ site.url }}{% raw %}/')
-   .replace(/href="\//g, 'href="{% endraw %}{{ site.url }}{% raw %}/');
+   .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
+   .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
 {% endraw %}
