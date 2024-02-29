@@ -2,9 +2,10 @@
 ---
 
 $theme-image-path: "https://www.section508.gov/assets/img";
-.section508-external-block {
+$theme-font-type-sans: "public-sans";
+$theme-show-notifications: false;
+
   @import "scss/packages/required";
   @import "scss/packages/global";
   @import "scss/packages/uswds-components";
   @import "scss/packages/uswds-utilities";
-}
