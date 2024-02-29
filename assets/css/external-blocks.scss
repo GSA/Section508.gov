@@ -9,3 +9,10 @@ $theme-show-notifications: false;
   @import "scss/packages/global";
   @import "scss/packages/uswds-components";
   @import "scss/packages/uswds-utilities";
+body {
+  overflow-x: hidden;
+}
+
+.usa-nav {
+  position: absolute;
+}
