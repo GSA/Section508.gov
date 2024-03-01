@@ -15,6 +15,7 @@ GSA's Government-wide IT Accessibility Program and members of the U.S. Access Bo
 * March 19 at 10:20 AM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1823" target="_blank">FED Talk - Section 508 Activities Update by USAB & GSA</a>
 * March 20 at 10:20 AM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1712" target="_blank">Section 508 ICT Testing Baseline Portfolio</a>
 * March 20 at 11:20 PM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1769" target="_blank">OpenACR - the Future of Accessibility Conformance Reporting</a>
+* March 21 at 12:00 PM PT - <a href="https://www.csun.edu/cod/conference/sessions/2024/index.php/public/website_pages/view/64" target="_blank">Birds of a Feather</a>
 * March 21 at 03:20 PM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1768" target="_blank">Analytical approach to the Government-Wide Annual Assessment</a>
 * March 21 at 04:20 PM PT - <a href="https://www.csun.edu/cod/conference/sessions/index.php/public/presentations/view/1783" target="_blank">Introduction to the Accessibility Requirements Tool (ART)</a>
 
