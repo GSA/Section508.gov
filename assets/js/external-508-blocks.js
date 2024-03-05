@@ -19,3 +19,15 @@ document.addEventListener('DOMContentLoaded', function() {
    .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
 {% endraw %}
+
+const express = require("express");
+const app = express();
+// Access-Control-Allow-Origin
+app.use((req, res, next) => {
+    res.setHeader("Access-Control-Allow-Origin", "https://federalist-7a132a2e-6307-4cd0-9f82-e30e871d214a.sites.pages.cloud.gov");
+    res.header(
+        "Access-Control-Allow-Headers",
+        "Origin, X-Requested-With, Content-Type, Accept"
+    );
+    next();
+});
