@@ -9,7 +9,7 @@ sidenav: false
 {% endif %}
 {% raw %}
 document.addEventListener('DOMContentLoaded', function() {
- let header = `{% endraw %}{% include header_banner.html %}{% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}{% raw %}`;
+    let header = `{% endraw %}{% include header_banner.html %} <div class="usa-overlay"></div> {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}{% raw %}`;
  const footer = `{% endraw %}{% include footer.html %}{% raw %}`;
  document.getElementById('header-508').innerHTML = header
    .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
