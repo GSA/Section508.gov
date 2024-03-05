@@ -218,3 +218,7 @@ sass:
   quiet_deps: true
   style: compressed
   verbose: true
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
