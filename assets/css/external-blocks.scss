@@ -1,8 +1,9 @@
 ---
 ---
 
-$theme-image-path: "https://www.section508.gov/assets/img";
-$theme-font-type-sans: "public-sans";
+$theme-image-path: "https://www.section508.gov/assets/img"
+;
+/*$theme-font-type-sans: "public-sans";*/
 $theme-show-notifications: false;
 
 @import "scss/packages/required";
@@ -93,4 +94,17 @@ body {
 
 .usa-nav__secondary-links a {
     color: #71767a !important;
+}
+
+.add-list-reset li {
+    margin-bottom: 0px !important;
+}
+
+.add-list-reset li a {
+    color: #1763cf !important;
+}
+
+.add-list-reset li a[target="_blank"]:after {
+    background-color: transparent !important;
+    mask:none !important;
 }
