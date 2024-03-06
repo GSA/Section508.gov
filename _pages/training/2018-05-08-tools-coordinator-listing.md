@@ -583,8 +583,8 @@ John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-Bethany Letalien - 202-486-9225 - <bethany.Letalien@opm.gov>  
-Megan Rocus - 202-606-3127 - <megan.rocus@opm.gov>  
+Bethany L. - <section508@opm.gov>  
+Megan Rocus - <megan.rocus@opm.gov>  
 
 ----------------------------------------------------
 ## <span id="ussba" ></span>Small Business Administration (SBA)
