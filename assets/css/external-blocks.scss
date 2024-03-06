@@ -113,7 +113,7 @@ body {
 }
 
 @media (min-width: 64em) {
-    .usa-banner__inner, .usa-navbar, .usa-nav__inner {
+    .usa-banner__inner, .usa-navbar, .usa-nav__inner, .usa-footer__primary-section .grid-container {
         padding-left: 1.25rem !important;
     }
     .usa-nav__primary > .usa-nav__primary-item > a:hover{
@@ -122,6 +122,13 @@ body {
     .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
         background-color: #098850;
     }
+    .usa-identifier__section {
+        margin-left: -1.25rem !important;
+    }
+}
+
+.usa-footer__primary-section p, .usa-identifier__identity p, .usa-identifier__container {
+    font-size: 16px;
 }
 
 .add-list-reset li {
@@ -130,9 +137,14 @@ body {
 
 .add-list-reset li a {
     color: #1763cf !important;
+    font-size: 16px;
 }
 
 .add-list-reset li a[target="_blank"]:after {
     background-color: transparent !important;
     mask: none !important;
+}
+
+.usa-identifier__required-links-item a{
+    font-size:15.04px;
 }
