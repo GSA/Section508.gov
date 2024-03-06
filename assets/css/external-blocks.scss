@@ -1,8 +1,7 @@
 ---
 ---
 
-$theme-image-path: "https://www.section508.gov/assets/img"
-;
+$theme-image-path: "https://www.section508.gov/assets/img";
 /*$theme-font-type-sans: "public-sans";*/
 $theme-show-notifications: false;
 
@@ -102,9 +101,14 @@ body {
 
 .add-list-reset li a {
     color: #1763cf !important;
+    font-size:16px !important;
 }
 
 .add-list-reset li a[target="_blank"]:after {
     background-color: transparent !important;
     mask:none !important;
+}
+
+.usa-footer usa-footer--big p{
+    font-size:16px;
 }
