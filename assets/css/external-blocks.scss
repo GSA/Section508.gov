@@ -95,6 +95,24 @@ body {
     color: #71767a !important;
 }
 
+.usa-banner__header-text, .usa-banner__header-action {
+    font-size: 0.75rem;
+}
+
+.usa-nav__secondary-item a, usa-nav__primary-item  a{
+    font-size: 14.08px;
+}
+
+.primary-background-color {
+    background-color: #2672de;
+}
+
+@media (min-width: 64em) {
+    .usa-nav__primary > .usa-nav__primary-item > a:hover {
+        color: #098850;
+    }
+}
+
 .add-list-reset li {
     margin-bottom: 0px !important;
 }
@@ -105,5 +123,5 @@ body {
 
 .add-list-reset li a[target="_blank"]:after {
     background-color: transparent !important;
-    mask:none !important;
+    mask: none !important;
 }
