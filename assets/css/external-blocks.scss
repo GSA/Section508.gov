@@ -112,7 +112,8 @@ body {
 }
 
 @media (min-width: 64em) {
-    .usa-nav__primary > .usa-nav__primary-item > a:hover {
+    .usa-nav__primary > .usa-nav__primary-item > a:hover,
+    .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
         color: #098850;
     }
 }
