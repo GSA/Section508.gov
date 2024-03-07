@@ -941,7 +941,6 @@ J.R. Reeves - <jreeves@usagm.gov>
 ### U.S. Army Corps of Engineers (USACE)
 Kelly Linick - <kelly.a.linick@usace.army.mil>  
 Sophia Epkey - <sophia.m.epkey@usace.army.mil>  
-Mary Rodkey - <mary.e.rodkey@usace.army.mil>  
 
 ----------------------------------------------------
 ### U.S. Court of Appeals for Veterans Claims (USCA-CAVC)
@@ -970,7 +969,7 @@ Nadereh Nasir - <nadereh.nasir@usps.gov>
 ----------------------------------------------------
 ### United Mine Workers of America Benefit Funds (UMWA)
 
-**Reviewed/Updated**: February, 2024
+**Reviewed/Updated**: March, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
