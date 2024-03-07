@@ -1,10 +1,12 @@
 ---
 layout: page
-sidenav: true
+sidenav: false
 permalink: tools/openacr-editor/
 type: training
 title: 'OpenACR Editor'
 created: 2023-11-28
+redirect_from:s
+- openacr-editor/
 redirect_to: 
-- https://gsa.github.io/openacr-editor/
+- https://acreditor.section508.gov/
 ---
