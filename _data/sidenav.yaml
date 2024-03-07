@@ -373,14 +373,18 @@ training:
     children:
       - name: Tools Overview
         url: 'tools/'
-      - name: Testing Tools for Web
-        url: 'test/web-software/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
+      - name: OpenACR Editor
+        url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
+      - name: Accessibility Playbooks
+        url: 'manage/playbooks/'
+      - name: Testing Tools for Web
+        url: 'test/web-software/'
       - name: Glossary of Terms
         url: 'content/glossary/'
 develop:
