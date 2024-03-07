@@ -381,7 +381,7 @@ training:
         url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
-      - name: Playbooks
+      - name: Accessibility Playbooks
         url: 'manage/playbooks/'
       - name: Testing Tools for Web
         url: 'test/web-software/'
