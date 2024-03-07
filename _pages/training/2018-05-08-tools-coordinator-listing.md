@@ -939,9 +939,6 @@ J.R. Reeves - <jreeves@usagm.gov>
 
 ----------------------------------------------------
 ### U.S. Army Corps of Engineers (USACE)
-Kelly Linick - <kelly.a.linick@usace.army.mil>  
-Sophia Epkey - <sophia.m.epkey@usace.army.mil>  
-
 ----------------------------------------------------
 ### U.S. Court of Appeals for Veterans Claims (USCA-CAVC)
 ----------------------------------------------------
