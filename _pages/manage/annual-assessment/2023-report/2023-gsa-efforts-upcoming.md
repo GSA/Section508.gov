@@ -35,11 +35,11 @@ GSA plans to do the following before and during the FY24 Assessment to hone crit
 
 * Traditional ACRs have been the standard tool for documenting and verifying the accessibility of digital products, and most product vendors use the Voluntary Product Accessibility Template (VPAT)® to create an ACR. However, the static nature of these reports, often presented in Microsoft Word or PDF document formats, has posed challenges in real-time evaluation and comparison. GSA has led the development of <a href="{{site.baseurl}}/tools/openacr-editor/" target="_blank">OpenACR</a>, a machine-readable ACR that hosts a description of the format and data schema and provides user instructions. GSA intends to provide recommendations to OMB around further development and adoption of this vital acquisition tool and encourage OpenACR Adoption. GSA will begin a more comprehensive promotion of this new tool that:
 
-* Allows users to easily share acquisition and product information.
+  * Allows users to easily share acquisition and product information.
 
-* Promotes repeatability of requirements gathering and solicitations in general.
+  * Promotes repeatability of requirements gathering and solicitations in general.
 
-* Eases the burden of market research and ambiguity around product accessibility.
+  * Eases the burden of market research and ambiguity around product accessibility.
 
 ### Strategic Engagement
 
