@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-09/
 type: manage
 title: "Acquisition and Procurement - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="acquisition-and-procurement">Acquisition and Procurement</H2>
