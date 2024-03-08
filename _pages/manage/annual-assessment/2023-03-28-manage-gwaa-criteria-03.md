@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-03/
 type: manage
 title: "Policies, Procedures, and Practices - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="policies-procedures-and-practices">Policies, Procedures, and Practices</H2>

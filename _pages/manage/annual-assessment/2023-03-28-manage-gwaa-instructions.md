@@ -6,6 +6,8 @@ type: manage
 title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
+redirect_to:
+- manage/section-508-assessment/fy24-announcement/
 ---
 
 ## Assessment Requirement
