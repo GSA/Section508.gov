@@ -583,7 +583,7 @@ John Beatty - 301-415-5774 - <john.beatty@nrc.gov>
 
 ----------------------------------------------------
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-Bethany L. - <section508@opm.gov>  
+B. L. - <section508@opm.gov>  
 Megan Rocus - <megan.rocus@opm.gov>  
 
 ----------------------------------------------------
