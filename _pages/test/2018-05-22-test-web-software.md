@@ -101,7 +101,7 @@ A collection of tools and training from the World Wide Web Consortium (W3C).
 
 The resources on this page were created through interagency collaborative efforts sponsored under the [Accessibility Community of Practice (ACoP)][19], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards][1]. (Note, resources created and hosted by Federal agencies other than GSA are not included in this endorsement.)
 
-**Reviewed/Updated:** September 2023
+**Reviewed/Updated:** March 2024
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: http://www.w3.org/WAI/intro/wcag.php
@@ -116,7 +116,7 @@ The resources on this page were created through interagency collaborative effort
  [11]: https://www.w3.org/WAI/Tools/
  [12]: {{site.baseurl}}/create/universal-design
  [13]: https://pages.18f.gov/accessibility/
- [14]: http://www.digitalgov.gov/services/mobile-application-testing-program/
+ [14]: https://digital.gov/services/mobile-application-testing-program/tester-information-for-the-federal-crowdsource-mobile-testing-program/
  [15]: http://www.ssa.gov/accessibility/bpl/default.htm
  [16]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [17]: {{site.baseurl}}/test
