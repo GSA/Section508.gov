@@ -507,7 +507,7 @@ Rich McCarthy - 202-768-0972 - <mccarthyrd@state.gov>
 ----------------------------------------------------
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
-Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>  
+LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Michelle Cribbs - 202-366-8792 - <michelle.cribbs@dot.gov>
 ### Federal Aviation Administration (FAA)
