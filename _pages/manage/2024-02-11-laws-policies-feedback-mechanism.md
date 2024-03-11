@@ -20,7 +20,7 @@ In order to successfully implement a feedback mechanism to collect, track, and r
             <li>Is Section 508 conformant (including a fully conformant webpage from which the feedback mechanism is located);</li>
             <li>Is included in applicable agency Section 508 policy(ies);</li>
             <li>Provides instructions on what data is to be collected and communication expectations throughout the resolution timeline;</li>
-            <li>Is available and easy to find within the agency website's accessibility statement; and</li>
+            <li>Is available and easy to find within the agency website's <a href="{{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/">accessibility statement</a>; and</li>
             <li>Facilitates collecting, tracking, and adjudicating the feedback received.</li>
         </ol>
     </li>
