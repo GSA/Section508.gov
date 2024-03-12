@@ -87,12 +87,17 @@ body {
     }
 }
 
+.usa-nav__secondary-links a:hover {
+    color: #005ea2;
+    text-decoration: underline;
+}
+
 .usa-navbar {
     height: 4rem;
 }
 
 .usa-nav__secondary-links a {
-    color: #71767a !important;
+    color: #71767a;
 }
 
 .usa-banner__header-text, .usa-banner__header-action {
