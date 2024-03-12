@@ -96,8 +96,9 @@ body {
     height: 4rem;
 }
 
-.usa-nav__secondary-links a {
-    color: #71767a !important;
+.usa-nav__secondary-links a,
+.usa-nav__secondary-links a:visited {
+    color: #71767a;
 }
 
 .usa-banner__header-text, .usa-banner__header-action {
