@@ -422,10 +422,9 @@ Thomas (Tom) Schlauch - <thomas.e.schlauch@usdoj.gov>
 Lisa Walbert - <lisa.k.walbert@usdoj.gov>  
 ### Environment & Natural Resources Division
 Joseph Groves - <joseph.groves@usdoj.gov>
-### Executive Office for Immigration Review
-Padma Venkatakrishnan - <padma.venkatakrishnan@usdoj.gov>  
+### Executive Office for Immigration Review (EOIR)
 Andrew Leftwich	- <andrew.leftwich@usdoj.gov>  
-Mike Barylski - <mike.barylski@usdoj.gov>  
+David Fruehwald (BACKUP) -	<david.fruehwald@usdoj.gov>  
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees

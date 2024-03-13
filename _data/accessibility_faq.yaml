@@ -73,7 +73,16 @@
   id: 14
   q: I am a new 508 Program Manager and don't know where to start. Where do I start?
   a: |
-    If you are a new Section 508 Program Manager, please reach out to <section.508@gsa.gov> for our 508 PM welcome package. Additionally, please see the [Technology Accessibility Playbook](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/) and the [broader Policy and Management section](https://www.section508.gov/manage/) on [Section508.gov](https://www.section508.gov/).
+    If you are a new <a href="https://www.section508.gov/tools/program-manager-listing/">Section 508 Program Manager</a> and new to digital accessibility, becoming familiar with Section 508 and the associated standards, and the roles and responsibilities of agency stakeholders is a good start. To aid in your transition to your position as Section 508 PM, we recommend the following links from this website:
+    <ul>
+      <li><a href="https://www.section508.gov/manage/laws-and-policies">IT Accessibility Laws and Policies</a></li>
+      <li><a href="https://www.section508.gov/manage/roles/">Roles and Responsibilities</a></li> 
+      <li><a href="https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a></li>
+      <li><a href="https://www.section508.gov/training">Accessibility Training</a></li>
+      <li><a href="https://www.section508.gov/manage/agency-508-reporting-requirements/">Section 508/ICT Accessibility Conformance Reporting for Federal Agencies</a></li>
+      <li><a href="https://www.section508.gov/buy">Buy Accessible Products and Services</a></li>
+      <li><a href="https://www.section508.gov/buy/accessibility-requirements-tool">Accessibility Requirements Tool</a></li>
+    </ul>
 -  
   id: 15
   q: I am an agency executive. How do I help my team set up/improve an ICT accessibility/Section 508 shop?
