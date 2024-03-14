@@ -53,6 +53,7 @@ Per M-24-08, “agencies shall maintain a digital accessibility statement on fed
           <li class="margin-bottom-1">Communicate clear timelines for remediation, if possible.</li>
           <li class="margin-bottom-1">Give users multiple options for submitting feedback, such as phone, e-mail, or a web-based feedback form.</li>
         </ul>
+      <strong>See: <a href="{{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/">Implementing a Public Feedback Mechanism</a> for additional guidance.</strong>
       </p>
     </div>
   </li>
