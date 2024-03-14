@@ -12,8 +12,8 @@ Use the best practices below to successfully implement a feedback mechanism to c
 
 <ol type="1">
     <li>As opposed to an <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank">Administrative Complaint</a> under Section 508, scope the type of public feedback the mechanism will collect. Agencies should clearly define what constitutes public feedback regarding accessibility issues "<a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">with agency websites and digital services</a>" and include the definition in their policy and on their public websites where applicable.  For example, public feedback may include a user emailing that they cannot navigate a webpage using specific Assistive Technology or that color contrast is not sufficient on a web page. 
-        <ol>
-            <li type="a">A public feedback response is defined as a submission using the agency's standard feedback mechanism that provides the ability for website visitors to provide comments or feedback. Submissions under this feedback mechanism do not inherently count as a complaint.</li>
+        <ol type="a">
+            <li>A public feedback response is defined as a submission using the agency's standard feedback mechanism that provides the ability for website visitors to provide comments or feedback. Submissions under this feedback mechanism do not inherently count as a complaint.</li>
             <li>Feedback on accessibility is not solely limited to web content; it also includes digital services. This could be an electronic document, a kiosk, etc.</li>
         </ol>
     </li>
@@ -37,13 +37,13 @@ At a minimum, the feedback mechanism should request the following data from the 
     <li>Point of contact email address (optional)</li>
     <li>Point of contact phone number (optional)</li>
     <li>URL or description of where the issue is located. Use this as an example of what the submitter can put but this should be optional.
-        <ol>
+        <ol  type="a">
             <li>Since digital services may be more than just a URL, consider other prompts to best understand the location of the accessibility issue.</li>
         </ol>
     </li>
     <li>A description of the problem encountered (required):</li>
     <li>Consider:
-        <ol>
+        <ol  type="a">
             <li>Asking the submitter to include the preferred format in which they want to receive any materials (optional).</li>
             <li>Asking the submitter for the best method of contact such as email, phone, etc. (optional).</li>
         </ol>
@@ -180,7 +180,7 @@ Agencies should have a tracking method for public accessibility feedback receive
         </ol>
     </li>
     <li>For each feedback submission, track, at a minimum:
-        <ol>
+        <ol  type="a">
             <li>All information that was submitted in initial intake including date submitted.</li>
             <li>Any communication with the submitter to further understand the accessibility issue(s).</li>
             <li>Notes pertinent to resolution such as defect number, defect logged with external vendor, internal or external communications, etc.</li>
