@@ -4,6 +4,8 @@ sidenav: true
 permalink: training/presentations-workshops/
 type: training
 title: 'Accessibility Presentations and Workshop Materials'
+redirect_from:
+- csun2024/
 ---
 ## 2024
 ### IT Accessibility Community Meetings
