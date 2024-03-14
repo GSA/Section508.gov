@@ -13,7 +13,7 @@ Use the best practices below to successfully implement a feedback mechanism to c
 <ol type="1">
     <li>As opposed to an <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank">Administrative Complaint</a> under Section 508, scope the type of public feedback the mechanism will collect. Agencies should clearly define what constitutes public feedback regarding accessibility issues "<a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">with agency websites and digital services</a>" and include the definition in their policy and on their public websites where applicable.  For example, public feedback may include a user emailing that they cannot navigate a webpage using specific Assistive Technology or that color contrast is not sufficient on a web page. 
         <ol>
-            <li type="a">A public feedback response is defined as the agency's standard feedback mechanism that provides the ability for website visitors to provide comments or feedback. Submissions under this feedback mechanism do not inherently count as a complaint.</li>
+            <li type="a">A public feedback response is defined as a submission using the agency's standard feedback mechanism that provides the ability for website visitors to provide comments or feedback. Submissions under this feedback mechanism do not inherently count as a complaint.</li>
             <li>Feedback on accessibility is not solely limited to web content; it also includes digital services. This could be an electronic document, a kiosk, etc.</li>
         </ol>
     </li>
@@ -30,7 +30,7 @@ Use the best practices below to successfully implement a feedback mechanism to c
 
 ### Feedback Mechanism Implementation
 
-At a minimum, the feedback mechanism should request the following data from the submitter and send the user confirmation of submission (see Feedback Tracking and Reporting for additional information regarding expectations of communications):
+At a minimum, the feedback mechanism should request the following data from the submitter and send the user confirmation of submission (see [Feedback Tracking and Reporting][1] for additional information regarding expectations of communications):
 
 <ol type="1">
     <li>Point of contact name (optional)</li>
@@ -95,14 +95,15 @@ Considerations:
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
     <h4>Example language for email mechanism implementation</h4>
     <p>If you believe there are websites or digital services with accessibility problems or you'd like to provide general accessibility feedback, you may make an inquiry or ask for help by emailing [insert email address]. We will confirm receipt of your inquiry within two business days and communicate throughout the process as we work to resolve your accessibility issue.</p>
+    <p>To ensure we can be most helpful to you, please include in your email:
+        <ul>
+            <li>A description of your accessibility problem with any information that will help us replicate the problem, such as browser, assistive technology, operating system.</li>
+            <li>The web address (URL) of the material with which you are having difficulty or specify the location of the issue if a URL cannot be provided.</li>
+            <li>Your contact information such as name.</li>
+            <li>If you'd like to receive communications regarding your issue.</li>
+        </ul>
+    </p>
 </div>
-
-To ensure we can be most helpful to you, please include in your email:
-
-1.  A description of your accessibility problem with any information that will help us replicate the problem, such as browser, assistive technology, operating system.
-2.  The web address (URL) of the material with which you are having difficulty or specify the location of the issue if a URL cannot be provided.
-3.  Your contact information such as name.
-4.  If you'd like to receive communications regarding your issue. 
 
 ### Online Web-based Form 
 
@@ -126,15 +127,16 @@ Considerations:
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
     <h4>Example language for online form implementation</h4>
     <p>If you believe there are websites or digital services with accessibility problems, or you'd like to provide general accessibility feedback, you may contact us using the form below. We will confirm receipt of your submission within two business days and communicate throughout the process as we work to resolve your accessibility issue.</p>
+    <p>Form field elements:
+        <ul>
+            <li>Name (optional): [text input field]</li>
+            <li>Email Address (optional): [text input field]</li>
+            <li>Web Address (URL) or location of issue of a URL cannot be provided (optional): [text input field]</li>
+            <li>Description of your accessibility problem including any information that will help us replicate the problem, such as browser, assistive technology, operating system) *(required): [text input field]</li>
+            <li>If you'd like to receive communications regarding your issue (optional): Yes/No checkbox</li>
+        </ul>
+    </p>
 </div>
-
-Form field elements:
-
--   Name (optional): [text input field]
--   Email Address (optional): [text input field]
--   Web Address (URL) or location of issue of a URL cannot be provided (optional): [text input field]
--   Description of your accessibility problem including any information that will help us replicate the problem, such as browser, assistive technology, operating system) *(required): [text input field]
--   If you'd like to receive communications regarding your issue (optional): Yes/No checkbox
 
 ### Phone number:
 
@@ -142,7 +144,7 @@ Agencies may choose to include a phone number as an additional method to provide
 
 ## Feedback Tracking and Reporting
 
-Agencies should have a tracking method for public accessibility feedback received. At a minimum, agencies should be able to perform ticket intake, assign a reference ID, and assign the ticket to the responsible party for resolution.This may be via an application or other ticketing system used within the agency, but may also include using a spreadsheet or equivalent to track especially for smaller agencies.
+Agencies should have a tracking method for public accessibility feedback received. At a minimum, agencies should be able to perform ticket intake, assign a reference ID, and assign the ticket to the responsible party for resolution. This may be via an application or other ticketing system used within the agency, but may also include using a spreadsheet or equivalent to track especially for smaller agencies.
 
 <ol type="1">
     <li>Clearly define roles and responsibilities:
@@ -155,7 +157,7 @@ Agencies should have a tracking method for public accessibility feedback receive
             <li>Define who will track submission progress, closure, etc.</li>
         </ol>
     </li>
-    <li>Define what the definition of "done" is so that each responsible party for adjudicating the feedback to resolution understands expectations.Ownership of resolution duties within each agency will vary by responsible party and most likely will not be the Section 508 program.
+    <li>Define what the definition of "done" is so that each responsible party for adjudicating the feedback to resolution understands expectations. Ownership of resolution duties within each agency will vary by responsible party and most likely will not be the Section 508 program.
         <ol type="a">
             <li>Set expectations for communication with the submitter. Considerations include:
                 <ol type="i">
@@ -193,5 +195,7 @@ Agencies should have a tracking method for public accessibility feedback receive
         </ol>
     </li>
 </ol>
+
+[1]: #feedback-tracking-and-reporting
 
 **Reviewed/Updated**: March 2024
