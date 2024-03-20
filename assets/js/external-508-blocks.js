@@ -20,7 +20,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('click', function () {
-    confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
+    if (document.getElementsByClassName('external-link') == "external-link") {
+        confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
+        //window.onbeforeunload = function () {
+        //    return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
+        //}
+    }
 });
 //function navigate() {
 //    if (window.location.href.indexOf("openacr") >= 0) {
