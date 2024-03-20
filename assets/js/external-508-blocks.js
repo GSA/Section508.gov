@@ -18,4 +18,13 @@ document.addEventListener('DOMContentLoaded', function() {
    .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
    .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
+
+//window.addEventListener("beforeunload", (event) => {
+//    // set a truthy value to property returnValue
+//    event.returnValue = true;
+//});
+window.onbeforeunload = closeEditorWarning;
+function closeEditorWarning() {
+    return 'Are you sure?';
+}
 {% endraw %}
