@@ -20,9 +20,11 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('click', function () {
-    alert(document.getElementsByClassName('external-link'))
     if (window.location.href.indexOf("openacr") >= 0) {
-        confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
+        if (confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.')) { }
+        else {
+            return false;
+        }
     }
 });
 
