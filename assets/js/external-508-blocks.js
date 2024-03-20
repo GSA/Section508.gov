@@ -19,7 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
 
-confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
+document.addEventListener('click', function () {
+    confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
+});
 //function navigate() {
 //    if (window.location.href.indexOf("openacr") >= 0) {
 //        window.onbeforeunload = function () {
