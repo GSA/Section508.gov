@@ -17,8 +17,16 @@ document.addEventListener('DOMContentLoaded', function() {
  document.getElementById('footer-508').innerHTML = footer
    .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
-    window.onbeforeunload = function () {
-        return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
-    };
+
 });
+
+
+$(document).ready(function (e) {
+    $('.external-link').on('click', function () {
+        window.onbeforeunload = function () {
+            return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
+        };
+    });
+});
+
 {% endraw %}

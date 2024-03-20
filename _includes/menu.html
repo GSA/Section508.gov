@@ -17,7 +17,7 @@ where we provide an easy way to manage your navigation system
         {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
         {% assign linkdir = nav_item.url |  replace: "/", ""  | lstrip %}
         <li class="usa-nav__primary-item">
-          <a aria-label="{{ nav_item.name | escape }} primary navigation" class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+          <a aria-label="{{ nav_item.name | escape }} primary navigation" class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %} external_link"
             href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
         </li>
         {% else %}
@@ -41,7 +41,7 @@ where we provide an easy way to manage your navigation system
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
+            <a href="{{ nav_item.url | prepend: site.baseurl }}" class="external_link">{{ nav_item.name | escape }}</a>
           </li>
           {% endfor %}
         </ul>
