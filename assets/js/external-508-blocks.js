@@ -19,11 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
 function navigate(anchorTag) {
-    console.log(anchorTag);
-    console.log(anchorTag.parentNode.nodeName);
-    console.log(anchorTag.parentNode.id);
+    let externalHeader = anchorTag.closest("#header-508");
 
-    if (anchorTag.parentNode.id === "header-508") {
+    if (externalHeader && externalHeader.className === "section508-external-block") {
         return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
     }
 }
