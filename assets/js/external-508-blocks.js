@@ -17,16 +17,11 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('footer-508').innerHTML = footer
         .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
-
-    var anchors = document.getElementById("footer-508").querySelectorAll('a');
-
-    for (var i = 0; i < anchors.length; i++) {
-        window.addEventListener('click', navigate(anchors[i]), 3000);
-    }
 });
 function navigate(anchorTag) {
     let externalHeader = anchorTag.closest("#header-508");
-    if (externalHeader && externalHeader.className === "section508-external-block") {
+    let externalFooter = anchorTag.closest("#footer-508");
+    if ((externalHeader && externalHeader.className === "section508-external-block") || (externalFooter && externalFooter.className === "section508-external-block")) {
         let result = confirm('Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.');
         if (result === false) {
             window.location.href = window.location.href;
