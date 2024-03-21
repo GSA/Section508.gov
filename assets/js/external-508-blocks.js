@@ -20,10 +20,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 function navigate(anchorTag) {
     let externalHeader = anchorTag.closest("#header-508");
-
     if (externalHeader && externalHeader.className === "section508-external-block") {
-        return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
+        window.onbeforeunload = function () {
+            return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
+        };     
     }
+    return false;
 }
 
 {% endraw %}
