@@ -18,9 +18,12 @@ document.addEventListener('DOMContentLoaded', function () {
         .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
 });
-document.addEventListener('click', function () {
-    if (window.location.href.indexOf("openacr") >= 0) {
+function navigate(this) {
+    console.log(this);
+    console.log(this.parentNode.nodeName);
+    if (this.parentNode.nodeName) {
         return 'Navigating to this link will navigate away from the ACR Editor. If you continue, you will lose the data you have entered so far. Click "Cancel" to remain in the ACR Editor. Click "OK" to proceed and lose any data already entered.';
     }
-});
+}
+
 {% endraw %}
