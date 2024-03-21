@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var anchors = document.getElementById("footer-508").querySelectorAll('a');
 
     for (var i = 0; i < anchors.length; i++) {
-        anchors[i].addEventListener('click', navigate(anchors[i]), false);
+        window.addEventListener('click', navigate(anchors[i]), 3000);
     }
 });
 function navigate(anchorTag) {
