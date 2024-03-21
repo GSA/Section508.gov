@@ -17,6 +17,12 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('footer-508').innerHTML = footer
         .replace(/src="\//g, 'src="{% endraw %}{{ myUrlPrefix }}{% raw %}/')
         .replace(/href="\//g, 'href="{% endraw %}{{ myUrlPrefix }}{% raw %}/');
+
+    var anchors = document.getElementById("footer-508").querySelectorAll('a');
+
+    for (var i = 0; i < anchors.length; i++) {
+        anchors[i].addEventListener('click', navigate(anchors[i]), false);
+    }
 });
 function navigate(anchorTag) {
     let externalHeader = anchorTag.closest("#header-508");
@@ -32,10 +38,5 @@ function navigate(anchorTag) {
     return false;
 }
 
-var anchors = document.getElementById("footer-508").querySelectorAll('a');
-
-for (var i = 0; i < anchors.length; i++) {
-    anchors[i].addEventListener('click', navigate(anchors[i]), false);
-}
 
 {% endraw %}
