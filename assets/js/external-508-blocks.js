@@ -32,7 +32,7 @@ function navigate(anchorTag) {
     return false;
 }
 
-var anchors = document.findElementById("footer-508").querySelectorAll('a');
+var anchors = document.getElementById("footer-508").querySelectorAll('a');
 
 for (var i = 0; i < anchors.length; i++) {
     anchors[i].addEventListener('click', navigate(anchors[i]), false);
