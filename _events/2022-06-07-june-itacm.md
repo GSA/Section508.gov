@@ -1,5 +1,5 @@
 ---
-title: June 2022 IT Accessibility Community Meeting
+title: IT Accessibility Community Meeting | June 2022 
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Tuesday, June 14 2022 13:00 #otherwise use end-date
