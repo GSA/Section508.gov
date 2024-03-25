@@ -162,7 +162,6 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 
 ### Air National Guard
 ### Army
-Curtiss A. Branham – <curtiss.a.branham.civ@mail.mil>   
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  

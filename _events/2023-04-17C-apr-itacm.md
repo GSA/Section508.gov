@@ -1,5 +1,5 @@
 ---
-title: April 2023 IT Accessibility Community Meeting
+title: IT Accessibility Community Meeting | April 2023
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
 end-date: Tuesday, April 25 2023 13:00 #otherwise use end-date
