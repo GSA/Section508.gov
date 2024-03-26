@@ -384,6 +384,8 @@ training:
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
         url: 'tools/openacr-editor/'
+      - name: OpenACR Repository
+        url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
       - name: Accessibility Playbooks
