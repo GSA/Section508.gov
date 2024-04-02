@@ -1492,3 +1492,9 @@ div[role=rowheader] {
 .border-top-none{
     border-top:none;
 }
+
+@media screen and (max-width: 640px) {
+    .margin-top-12 {
+        margin-top: 12px;
+    }
+}
