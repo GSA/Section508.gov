@@ -9,11 +9,15 @@
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
 $theme-font-type-sans: "public-sans";
 $theme-show-notifications: false;
-@import "scss/packages/required";
-@import "scss/packages/global";
+// @import "scss/packages/required";
+// @import "scss/packages/global";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
+// @import "scss/packages/uswds-components";
+// @import "scss/packages/uswds-utilities";
+
+@forward "uswds-components";
+@forward "uswds-global";
+@forward "uswds-utilities";
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {

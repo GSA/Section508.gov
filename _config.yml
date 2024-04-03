@@ -213,7 +213,7 @@ autoprefixer:
 sass:
   sass_dir: _sass
   load_paths:
-    - node_modules/uswds/dist/
+    - node_modules/@uswds/uswds/dist/scss/stylesheets/packages
   sourcemap: development
   quiet_deps: true
   style: compressed
