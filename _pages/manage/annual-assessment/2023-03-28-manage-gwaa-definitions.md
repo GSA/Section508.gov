@@ -4,8 +4,6 @@ sidenav: true
 permalink: manage/section-508-assessment/definition-of-terms/
 type: manage
 title: "Government-wide Section 508 Assessment Definition of Terms"
-redirect_to:
-- manage/section-508-assessment/
 ---
 The following terms are referenced by reporting criteria of the annual Government-wide Section 508 Assessment. For terms relating to Section 508, see [Glossary of Section 508 Terms]({{site.baseurl}}/content/glossary/).
 
