@@ -4,8 +4,6 @@ sidenav: true
 permalink: manage/section-508-assessment/faq/
 type: manage
 title: "Government-wide Section 508 Assessment Frequently Asked Questions"
-redirect_to:
-- manage/section-508-assessment/
 ---
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-bottom-3">
@@ -13,13 +11,23 @@ redirect_to:
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
 
+{% assign current_h = "" %} 
+{% comment %} Headings are: (1xx) Overview, (2xx) Submitting Data, (3xx) Interpreting Criteria, (4xx) Point of Contact Information, (5xx) Assistance. To reference directly, append '#q-id', e.g., section508.gov/manage/section-508-assessment/faq/#q-101 {% endcomment %}
+
 {% for faq in site.data.gwaa_faq %}
+
+{% if faq.h == current_h %} 
+    {% comment %}Do nothing{% endcomment %}
+{% else %}
+{% assign current_h = faq.h %}
+<h2>{{faq.h}}</h2>
+{% endif %}
 <div class="usa-accordion">
-    <h2 class="usa-accordion__heading faq_heading" id="q-{{ faq.id }}">
+    <h3 class="usa-accordion__heading faq_heading" id="q-{{ faq.id }}">
         <button type="button" class="usa-accordion__button faq_button" aria-expanded="false" aria-controls="a-{{ faq.id }}">
         {{ faq.q }}
         </button>
-    </h2>
+    </h3>
     <div id="a-{{ faq.id }}" class="usa-accordion__content faq_content usa-prose">
         <div class="margin-x-auto">
         {{ faq.a | markdownify }}
@@ -28,7 +36,7 @@ redirect_to:
 </div>
 {% endfor %}
 
-**Reviewed/Updated:** June 2023
+**Reviewed/Updated:** April 2024
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>
@@ -42,7 +50,7 @@ redirect_to:
     });
 </script>
 
-<!-- Unhide hash/anchor from external url -->
+<!-- Unhide hash/anchor from external url (#q-id, e.g., #q-2) -->
 <script>
     $(function(){
         var window_hash = window.location.hash;

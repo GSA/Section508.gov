@@ -17,23 +17,23 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionA">A</span>
 </h2>
 
-- <span id="agency"><strong>Agency:</strong></span> All Federal departments or agencies, and the United States Postal Service, covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
+- <span id="agency"><strong>Agency:</strong></span> In this context, it refers to all federal departments, agencies, and the U.S. Postal Service governed by Section 508. 
 
-  Within this document, the use of “agency” broadly applies to the organization for which this assessment is being completed. This could be a bureau, office, component, or at the department level (e.g., headquarters). Agency is not strictly used within the assessment to mean the sole organization responsible for a certain area of administration. For example, within the Department of Homeland Security (DHS), both Headquarters of DHS and Customs and Border Protection are considered agencies. 
+- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> - A representation of how the product meets applicable Section 508 technical standards, typically using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template or a test report.
 
-- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets the applicable Section 508 Technical Standards. Currently, the most common way an ACR is completed is by using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template created by the IT Industry Council (ITI).
+- <span id="accessibility-policy"><strong>Accessibility policy:</strong></span> Policy for implementing Section 508 or ICT accessibility requirements.
 
-- <span id="accessibility-policy"><strong>Accessibility policy:</strong></span> Agency’s policy for implementing Section 508 requirements throughout the agency.
+- <span id="accessibility-statement"><strong>Accessibility statement:</strong></span> 
+- The statement on your agency’s primary website, including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
+- The statement on the reporting entity’s primary website, including a number of requirements per [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/), including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
 
-- <span id="accessibility-statement"><strong>Accessibility statement:</strong></span> The statement on your agency’s primary website, including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
+- <span id="alternative-format"><strong>Alternative Format:</strong></span> Different ways to present printed information, such as braille, large print, audio, and electronic versions. 
 
-- <span id="alternative-format"><strong>Alternative Format:</strong></span> An alternate approach to presenting print information. Common alternate formats include but are not limited to braille, large (18 point) print, audio narration, and/or an electronic version of the content.
+- <span id="alternative-means-plan"><strong>Alternative Means Plan:</strong></span> Documentation that establishes a framework and outlines the strategies for meeting the access needs of people with disabilities until the identified Section 508 compliance defects are remediated. The recommended workarounds and accommodations provided in the plan will ensure people with disabilities can continue to use the product. May be referred to as “Accommodation Plan”.
 
-- <span id="alternative-means-plan"><strong>Alternative Means Plan:</strong></span> Documentation that establishes a framework and outlines the strategies for meeting the access needs of people with disabilities until the identified Section 508 compliance defect(s) are remediated. The recommended workarounds and accommodations provided in the plan will ensure people with disabilities can continue to use the product. May be referred to as "Accommodation Plan". 
+- <span id="affinity-group"><strong>Affinity Group:</strong></span> A community for employees with disabilities or health conditions, and their allies.
 
-- <span id="affinity-group"><strong>Affinity Group:</strong></span> A place for employees who identify as having a disability, cognitive or physical health condition, and their allies.
-
-- <span id="agency-official-communication"><strong>Agency Official Communication:</strong></span> [see [E205.3](https://www.access-board.gov/ict/#E205.3)]  Electronic content that is not public facing and constitutes official business that is in one or more of the following categories:
+- <span id="agency-official-communication"><strong>Agency Official Communication:</strong></span> [see [E205.3](https://www.access-board.gov/ict/#E205.3)] Electronic content that is not public facing and constitutes official business that is in one or more of the following categories:
 
   1.  An emergency notification;
 
@@ -53,114 +53,95 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
   9.  Intranet content designed as a Web page.
 
-- <span id="almost-always"><strong>Almost always:</strong></span> Activities that are performed 90% or more of the time.
+- <span id="almost-always"><strong>Almost always:</strong></span> Refers to actions performed approximately 90% of the time or more.
 
-- <span id="authentication-services"><strong>Authentication Services:</strong></span> A mechanism to confirm the identity of an entity, including two factor authentication. This includes logins (e.g., username/password), email verification, text message verification, RSA token, or any other authenticator services used to verify identity.
+- <span id="authentication-services"><strong>Authentication Services:</strong></span> Systems or mechanisms that verify user identity, including two-factor authentication such as logins, email or text verification, or RSA tokens.
 
 <h2>
   <span id="sectionB">B</span>
 </h2>
 
-- <span id="business-needs"><strong>Business Needs:</strong></span> Defined requirements, resources or methods organizations require to reach their business goals by implementing projects, transforming operations and purchasing goods and/or services.
+- <span id="business-needs"><strong>Business Needs:</strong></span> The necessary requirements, resources, or approaches an organization must identify and utilize to achieve its objectives through project implementation, operational changes, and procurement of goods and services.
 
 <h2>
   <span id="sectionC">C</span>
 </h2>
 
-- <span id="capital-planning-and-investment-control"><strong>Capital Planning and Investment Control (CPIC):</strong></span> A systematic approach to selecting, managing, and evaluating information technology investments.
+- <span id="capital-planning-and-investment-control"><strong>Capital Planning and Investment Control (CPIC):</strong></span> A systematic approach to ensure that IT investments align with overall business goals and deliver value. 
 
-- <span id="closed-function"><strong> Closed Functionality:</strong></span> Characteristics that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so that users may not adjust settings due to a policy such as Desktop Core Configuration.
+- <span id="closed-function"><strong> Closed Functionality:</strong></span> Features that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so that users may not adjust settings due to a policy such as Desktop Core Configuration.
 
-- <span id="communication"><strong>Communication:</strong></span> The way in which agencies and their organizations communicate with internal and external audiences.
+- <span id="communication"><strong>Communication:</strong></span> The method used to disseminate information to internal and external audiences.
 
-- <span id="complaint:"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a Federal employee, applicant for Federal employment, or member of the public with a disability  initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by "any individual with a disability...alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology" ([§794d. Electronic and information technology (f)(1)(A)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)) [i.e., fails to provide accessible ICT]. Administrative complaints are "filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity." ([§794d. Electronic and information technology (f)(2)](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm)). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other agency personnel to fully gather this information ([DOJ Civil Rights Division iii. Administrative Complaints](https://www.justice.gov/crt/iii-administrative-complaints)). 
+- <span id="complaint"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a federal employee, applicant for federal employment, or member of the public with a disability initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by “any individual with a disability…alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology” [(§794d. Electronic and information technology (f)(1)(A))](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) [i.e., fails to provide accessible ICT]. Administrative complaints are “filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.” [(§794d. Electronic and information technology (f)(2))](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other reporting entity personnel to fully gather this information (DOJ Civil Rights Division iii. Administrative Complaints). 
+Complaints differ from public feedback responses that your reporting entity receives through the mechanism provided to meet the[OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint.
 
-  Complaints differ from public feedback responses that your agency receives through the mechanism provided to meet the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint. 
+- <span id="comprehensive-lsm"><strong>Comprehensive, large-scale monitoring:</strong></span> Comprehensive, large-scale monitoring refers to a systematic and thorough process of evaluating digital content, platforms, or environments to ensure they adhere to required standards or guidelines.
 
-- <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> See [Fully Conform](#fully-conform). 
+- <span id="conformant"><strong>Conform (also Conformance/Conformant):</strong></span> Adherence to Section 508 standards, indicating full conformance. See <em>[Fully Conform](#fully-conform)</em>. Synonymous with <strong>Conformant</strong>.
 
-- <span id="continuity-of-operations"><strong>Continuity of Operations:</strong></span> Agency continues to perform their mission essential functions during an emergency or emergencies. 
+- <span id="continuity-of-operations"><strong>Continuity of Operations:</strong></span> The ability of an agency to maintain essential functions during emergencies.
 
-- <span id="contractor"><strong>Contractor:</strong></span> A person who enters into a contract with any agency or department of the United States government and is paid for services, material, equipment, and/or supplies. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies. With respect to accessibility of information and communications technology, contractors may perform services such as testing, remediation, development, training, or other program services as needed. 
+- <span id="contractor"><strong>Contractor:</strong></span> An individual or entity contracted by the government to provide services, material, equipment, or supplies. IT accessibility contractors may perform services such as testing, remediation, development, and training. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies. 
 
-- <span id="coordinator"><strong>Coordinator (also Section 508 Coordinator):</strong></span> See [Section 508 Program Manager](#section-508-program-manager). 
+- <span id="coordinator"><strong>Coordinator (also Section 508 Coordinator):</strong></span> Another term for a Section 508 Program Manager. See [Section 508 Program Manager](#section-508-program-manager). 
 
 <h2>
   <span id="sectionD">D</span>
 </h2>
 
-- <span id="deploying"><strong>Deploying:</strong></span> Bring into effective action; utilize, publish, or distribute.
+- <span id="deploying"><strong>Deploying:</strong></span> The act of making a solution available or operational. 
 
-- <span id="digital-content"><strong>Digital Content:</strong></span> Overarching term to include all forms of electronic ICT, such as: multimedia, electronic documents, PDFs, social media, web content, etc. See also [Electronic Content](#electronic-content).
+- <span id="digital-content"><strong>Digital Content:</strong></span> All types of electronic information, including multimedia, electronic documents, social media, and web content. See also [Electronic Content](#electronic-content).
 
-- <span id="dimension"><strong>Dimension:</strong></span> An aspect or category on which an agency's accessibility maturity is measured.
+- <span id="dimension"><strong>Dimension:</strong></span> Within the Assessment, used to delineate a category of Maturity related questions.
 
-- <span id="document:"><strong>Document:</strong></span> While not the technical definition of "document", for these questions the term "document" is used to refer to information created by word processing and other authoring tools commonly used to share information including, but not limited to,  Microsoft Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and Portable Document Format (PDF). 
+- <span id="document"><strong>Document:</strong></span> Files created with common office software for content generation and information sharing, such as Microsoft Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and Portable Document Format (PDF).
 
 <h2>
   <span id="sectionE">E</span>
 </h2>
 
-- <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> An e-government line of business (e-gov LoB) is defined as an intra-agency shared service, a line of business, or a multi-agency collaboration established by the Office of Management and Budget under M-04-08.
+- <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> Intra-agency collaborations for digital government services. See [OMB M-04-08](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf).
 
-- <span id="electronic-content"><strong>Electronic Content:</strong></span> Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions (see [36 CFR 1194, E103](https://www.access-board.gov/ict/#E103-definitions)), including Electronic Content  that is public facing or Agency Official Communication that is not public facing; as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content). 
+- <span id="electronic-content"><strong>Electronic Content:</strong></span> All forms of digital data and its encoding, covering both public and internal information as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content).
 
-- <span id="extranet"><strong>Extranet:</strong></span> A private network that can only be accessed by authorized users. For the purposes of this assessment, extranet is included in questions related to internet web pages.
+- <span id="extranet"><strong>Extranet:</strong></span> A network restricted to authorized individuals. For the purposes of this Assessment, extranet is included in questions related to internet web pages.
 
 <h2>
   <span id="sectionF">F</span>
 </h2>
 
-- <span id="feedback-loop"><strong>Feedback loop:</strong></span> A process of receiving feedback from stakeholders and responding by incorporating that feedback into processes, policies, and procedures for refinement. 
+- <span id="feedback-loop"><strong>Feedback loop:</strong></span> A method for integrating stakeholder feedback into refining processes, policies, and procedures.
 
-- <span id="formal"><strong>Formal:</strong></span> Officially sanctioned or recognized.
+- <span id="formal"><strong>Formal:</strong></span> Officially approved or recognized.
 
-- <span id="frequency"><strong>Frequency:</strong></span> Several places throughout the assessment criteria use the following frequency scale: 
-    - Never: 0%
-    - Sometimes/Some: Activities that are performed approximately 1%-24% of the time.
-    - Regularly: Activities that are performed approximately 25%-59% of the time.
-    - Frequently: Activities that are performed approximately 60%-89% of the time.
-    - Almost always: Activities that are performed approximately 90% or more of the time.
+- <span id="frequency"><strong>Frequency:</strong></span> Defines activity occurrence levels, not on a linear scale, as follows: 
+    - Never (0%), 
+    - Sometimes (approximately 1%-24%), 
+    - Regularly (approximately 25%-59%), 
+    - Frequently (approximately 60%-89%), 
+    - Almost always (approximately 90% or more). 
 
-    **NOTE** that the scale of frequency is not an evenly distributed linear scale.
+- <span id="frequently"><strong>Frequently:</strong></span> Activities that are performed approximately 60%-89% of the time.
 
-    A specific range is provided for each response (e.g., "25% to 59%"); it is not expected that your agency tracks the exact percentage for every item in the assessment (e.g., "Yes, my agency does XYZ 59.75% of the time, so that's 'Frequently'"). Your agency can make an estimate based on your agency's collective experience (e.g., "Yes, my agency does XYZ more than half the time – maybe even a bit more than half of the time. I think this is something my agency does 'Frequently'").
+- <span id="full-time-equivalent"><strong>FTE or Full-time Equivalent:</strong></span> A measure of employee hours equivalent to full-time work, including all paid hours.
 
-    **Subjectivity and Interpretation**
-
-    Many of the question responses contain multiple items which may be difficult to assess as individual elements. For example, one of the responses for Question 55 is:
-
-    "d) Contract deliverables that are required to be Section 508 conformant are frequently verified prior to acceptance, including required remediation when necessary."
-
-    There are two parts to this response option: verification, and remediation. Are both items done 'Frequently'? Is verification 'frequent' and remediation is 'almost always'? There may be cases where there is not an exact answer, but please provide your agency’s best estimation of what happens in practice.
-
-    **Agency Goals versus Practice**
-
-    Please select the most appropriate response for what happens in practice at your agency. For example, one of the responses for Question 46 is:
-
-    "c) Agency requires a standard Section 508 conformance validation test process in formal policy and web content testers regularly follow the required test process.”
-
-    If it is true that your agency includes this requirement in formal policy, but in actual practice web content testers sometimes follow the required test process, please select the response that aligns with your agency practice rather than the requirement. In this situation, your agency response will be b) (Sometimes) rather than c) (Regularly) because the former more accurately reflects day to day activities.
-
-- <span id="frequently"><strong>Frequently:</strong></span> Activities that are performed 60%-89% of the time.
-
-- <span id="full-time-equivalent"><strong>FTE or Full-time Equivalent:</strong></span> The total number of regular straight-time hours worked (i.e., not including overtime or holiday hours worked) by employees divided by the number of compensable hours applicable to each fiscal year. Annual leave, sick leave, compensatory time off and other approved leave categories are considered "hours worked" for purposes of defining full-time equivalent employment that is reported. 
-
-- <span id="fully-conform"><strong>Fully conform:</strong></span> For any ICT product to be conformant, the entire ICT product must meet all applicable Section 508 standards. For example, for a web page to fully conform to Section 508, the entire web page must meet all applicable 38 WCAG Level A and AA Success Criteria.
+- <span id="fully-conform"><strong>Fully conform:</strong></span> Requires that an entire ICT product meets every applicable Section 508 standard. For example, for a web page to fully conform to Section 508, the entire web page must meet all applicable 38 WCAG Level A and AA Success Criteria.
 
 <h2>
 <span id="sectionG">G</span>
 </h2>
 
-- <span id="government-off-the-shelf"><strong>Government Off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. The government agency controls all aspects of their GOTS product.
+- <span id="government-off-the-shelf"><strong>Government Off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. 
 
 <h2>
   <span id="sectionI">I</span>
 </h2>
 
-- <span id="information-and-communication-technology:"><strong>Information and Communication Technology:</strong></span> Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents.
+- <span id="information-and-communication-technology"><strong>Information and Communication Technology:</strong></span> Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents.
 
-- <span id="ict-accessibility"><strong>ICT accessibility:</strong></span> Term used sometime interchangeably with Section 508 standards, IT accessibility, and the Web Content Accessibility Guidelines, but could also refer to the accessibility of ICT in more general terms than only conformance to particular accessibility standards.
+- <span id="ict-accessibility"><strong>ICT accessibility:</strong></span> Term used interchangeably with Section 508 standards, IT accessibility, and the Web Content Accessibility Guidelines, but could also refer to the accessibility of ICT in more general terms than only conformance to particular accessibility standards.
 
 - <span id="internet"><strong>Internet:</strong></span> A network of information that can be accessed by the public. For the purposes of this assessment, [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) should be reported under internet-related questions.  
 
@@ -170,23 +151,23 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionK">K</span>
 </h2>
 
-- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information and/or services on a digital screen that is locked down so that users may not adjust settings nor install or attach assistive technology.
+- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information or services on a digital screen that is locked down so that users may not adjust settings nor install or attach assistive technology.
 
 <h2>
   <span id="sectionL">L</span>
 </h2>
 
-- <span id="lifecycle"><strong>Lifecycle (life cycle):</strong></span> Structured method(s) for the management of electronic information, technology and services which categorizes everything that should be done to accomplish a program or project into distinct phases. For this Section 508 Accessibility Assessment, the term is used to generally describe the phases of a product, including budgeting, procurement, development, testing, operation, content creation, and change management.
+- <span id="lifecycle"><strong>Lifecycle (life cycle):</strong></span> Phases a product goes through, including development, operation, and management. For this Assessment, the term typically refers to the phases of a product, including budgeting, procurement, development, testing, operation, content creation, and change management.
 
 <h2>
   <span id="sectionM">M</span>
 </h2>
 
-- <span id="manage"><strong>Manage:</strong></span> To handle, direct, govern, or control, maintain, etc. 
+- <span id="manage"><strong>Manage:</strong></span> To oversee or control processes or functions.
 
 - <span id="measure"><strong>Measure:</strong></span> A method to assess the quality, effect, importance, etc.
 
-- <span id="mid-level-management"><strong>Mid-level management:</strong></span> Mid-level, or middle management is the intermediate management level of a hierarchical organization that is subordinate to the executive management and responsible for 'team leading' line managers and/or 'specialist' line managers.
+- <span id="mid-level-management"><strong>Mid-level management:</strong></span> Managers between executive and front-line levels, guiding teams or departments.
 
 <h2>
   <span id="sectionO">O</span>
@@ -198,13 +179,13 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionP">P</span>
 </h2>
 
-- <span id="performance-plans"><strong>Performance Plans:</strong></span> Documented expectations of defined elements and standards that are understandable, measurable, attainable, fair, and challenging such that an employee knows what is needed to perform their job successfully. Performance plans are vital to the effectiveness of the performance appraisal process.
+- <span id="performance-plans"><strong>Performance Plans:</strong></span> Guidelines that set clear, measurable job performance expectations.
 
-- <span id="public-facing"><strong>Public Facing:</strong></span> Content which is made generally available to members of the public. Examples include, but are not limited to, internet websites, posts to social media, and email subscription services.
+- <span id="public-facing"><strong>Public Facing:</strong></span> Content accessible to the general public. 
 
-- <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Established in the [OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf), the agency's standard feedback mechanism provides the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program. Submissions under this feedback mechanism do not inherently count as a Complaint but are considered a "public feedback response".
+- <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Part of a mechanism to receive public input on Section 508 compliance; not inherently complaints. See [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). 
 
-- <span id="publication-process"><strong>Publication Process:</strong></span> A publication process for making content available on agency websites, but could also mean distribution of content via an email newsletter. More than one publication process may be followed depending on the publication method. 
+- <span id="publication-process"><strong>Publication Process:</strong></span> Methods for distributing content, including website posting or newsletters. More than one publication process may be followed depending on the publication method.
 
 
 - <span id="program-manager"><strong>Program Manager:</strong></span> See [Section 508 Program Manager](#section-508-program-manager).
@@ -213,13 +194,13 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionR">R</span>
 </h2>
 
-- <span id="regularly"><strong>Regularly:</strong></span> Activities that are performed 25%-59% of the time.
+- <span id="regularly"><strong>Regularly:</strong></span> Activities that are performed approximately 25%-59% of the time.
 
-- <span id="reimbursable-service"><strong>Reimbursable service:</strong></span> A reimbursable service in this context is defined as agreement between your agency and one or more agencies (or one or more non-Federal government public entities such as a state, local, territory or tribal government) which authorizes your agency to provide information and communication technology services to another agency then be reimbursed for the costs plus fees.
+- <span id="reimbursable-service"><strong>Reimbursable service:</strong></span> An agreement in which one agency provides ICT services to another and is then reimbursed for these services. 
 
-- <span id="risk"><strong>Risk:</strong></span> Generally considered in the IT sector as any exposure to harm, or loss to your agency information, systems and processes associated with the ownership, operation, involvement, influence and adoption of IT within an organization. When an agency fails to maintain an accessible IT portfolio, agencies can be exposed to civil rights and other legal challenges, financial loss, increased remediation or rework, and waste, as well as challenges with recruiting and maintaining a skilled workforce.
+- <span id="risk"><strong>Risk:</strong></span> Potential for harm, loss, or damage within the IT sector, unfavorably impacting systems, processes, and associated resources within an organization. Risk typically encompasses legal, financial, technological, and workforce challenges.
 
-- <span id="ruleset"><strong>Ruleset:</strong></span> A set of rules used by an automated tool. In this context, rulesets will check for common accessibility problems and may have a version associated (e.g., 508 Rules version 1.0.). May also be called rules, accessibility checks, or library.
+- <span id="ruleset"><strong>Ruleset:</strong></span> A collection of rules used by automated tools to identify accessibility issues. May also be called rules, accessibility checks, or library. 
 
 <h2>
   <span id="sectionS">S</span>
@@ -227,54 +208,48 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="section-508-conformant"><strong>Section 508 conformant:</strong></span> The entire ICT product meets all applicable Section 508 standards. For example, for a web page to be conformant, the entire web page must meet all applicable 38 WCAG Level A and AA Success Criteria.
 
-- <span id="section-508-conformance-validation-testing"><strong>Section 508 conformance validation testing:</strong></span> Testing to verify that an implementation meets the requirements of the Section 508 standards. The requirements or criteria for conformance must be specified.
+- <span id="section-508-conformance-validation-testing"><strong>Section 508 conformance validation testing:</strong></span> Testing to confirm that an IT implementation meets the requirements of the relevant Section 508 standards. The requirements or criteria for conformance must be specified.
 
-- <span id="section-508-program"><strong>Section 508 Program:</strong></span> Official or unofficial coordinated effort to ensure agency conformance to Section 508 Standards. A program exists where an individual has been designated with the duties and responsibilities of a Section 508 Program Manager; whether on a full-time basis or as an additional duty.
+- <span id="section-508-program"><strong>Section 508 Program or equivalent:</strong></span> An effort within a reporting entity to ensure that all of its IT meets  Section 508 standards, often led by a designated Program Manager.
 
-- <span id="section-508-program-manager"><strong>Section 508 Program Manager:</strong></span> Manager of an agency Section 508 program on behalf of the agency CIO, to include developing and maintaining agency policies, guidance, and best practices. Some agencies might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with [Section 508 Coordinator](#coordinator).
+- <span id="section-508-program-manager"><strong>Section 508 Program Manager:</strong></span> Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO, to include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See [M-24-08](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16) for additional roles and responsibilities. 
 
-- <span id="shared-service"><strong>Shared Service:</strong></span> A Federal shared service in this context is defined as information technology function that is provided for consumption by multiple organizations across Federal agencies by a single Federal Agency.
+- <span id="sso"><strong>Single Sign On:</strong></span> A system allowing one set of login credentials to access multiple applications. 
 
-- <span id="significantly"><strong>Significantly:</strong></span> In a way that is large or important enough to be noticed or have an effect.
+- <span id="solicitation"><strong>Solicitation:</strong></span> A request for bids or proposals from the federal government. Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the [FAR](https://www.acquisition.gov/far/part-2)).
 
-- <span id="solicitation"><strong>Solicitation:</strong></span> Any request to submit offers or quotations to the Government. Solicitations under sealed bid procedures are called "invitations for bids." Solicitations under negotiated procedures are called "requests for proposals." Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the [FAR](https://www.acquisition.gov/far/part-2)).
+- <span id="sometimes"><strong>Sometimes:</strong></span> Used to describe activities that are performed approximately 1%-24% of the time. 
 
-- <span id="sometimes"><strong>Sometimes:</strong></span> Used to describe activities that are performed 1%-24% of the time. 
-
-- <span id="sufficient"><strong>Sufficient:</strong></span> Enough to meet the needs of a proposed end.
+- <span id="sufficient"><strong>Sufficient:</strong></span> Adequate to meet the needs of a requirement.
 
 <h2>
   <span id="sectionT">T</span>
 </h2>
 
-- <span id="telework-agreement"><strong>Telework Agreement:</strong></span> Written agreement for anyone who works remotely (regularly or otherwise). May also be referred to as a remote work agreement. This may be an online form or an electronic document.
+- <span id="telework-agreement"><strong>Telework Agreement:</strong></span> A written agreement for remote work conditions.  May also be referred to as a remote work agreement. 
 
-- <span id="training-plan"><strong>Training Plan:</strong></span> A plan that defines who within the agency should receive training, the training schedule, and mandatory training.
+- <span id="training-plan"><strong>Training Plan:</strong></span> A plan that defines who within the reporting entity should receive training, the training schedule, and mandatory training.
 
 <h2>
   <span id="sectionU">U</span>
 </h2>
 
-- <span id="unique"><strong>Unique:</strong></span> Total number of pages that only appear once. A template for a dynamic content page, such as a search results page, should be counted once.
-
-- <span id="user-acceptance-testing"><strong>User Acceptance Testing (UAT):</strong></span> A phase of development/deployment in which the application is tested to ensure the application can handle real-world tasks and affirm that the performance meets development specifications, including ICT accessibility requirements, before being accepted by the agency/business representative. 
+- <span id="user-acceptance-testing"><strong>User Acceptance Testing (UAT):</strong></span> A phase of development or deployment in which the application is tested to ensure the application can handle real-world tasks and affirm that the performance meets development specifications, including ICT accessibility requirements, before being accepted by the reporting entity or business representative.
 
 <h2>
   <span id="sectionV">V</span>
 </h2>
 
-- <span id="voluntary-product-accessibility-template"><strong>VPAT® or Voluntary Product Accessibility Template:</strong></span> A product of the [Information Technology Industry Council](https://www.itic.org/policy/accessibility/vpat), the VPAT® is a reporting format for assisting buyers and sellers in identifying information and communications technology (ICT) products and services with accessibility features. A completed VPAT® is referred to as an Accessibility Conformance Report (ACR).
+- <span id="voluntary-product-accessibility-template"><strong>VPAT® or Voluntary Product Accessibility Template:</strong></span> A product of the [Information Technology Industry Council](https://www.itic.org/policy/accessibility/vpat), the VPAT® is a reporting format for assisting buyers and sellers in identifying ICT products and services with accessibility features. A completed VPAT® is referred to as an Accessibility Conformance Report (ACR).
 
 <h2>
   <span id="sectionW">W</span>
 </h2>
 
-- <span id="web-content-accessibility-guidelines"><strong>Web Content Accessibility Guidelines (WCAG):</strong></span> WCAG (current versions 2 and 2.1 (coming soon 2.2), levels A, AA, and AAA) is developed through the World Wide Web Consortium (W3C) process in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally. The WCAG documents explain how to make web content more accessible to people with disabilities. 
+- <span id="web-content-accessibility-guidelines"><strong>Web Content Accessibility Guidelines (WCAG):</strong></span> WCAG (current versions 2, 2.1, and 2.2  levels A, AA, and AAA) is developed through the World Wide Web Consortium (W3C) process in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally. The WCAG documents explain how to make web content more accessible to people with disabilities. 
 
-- <span id="webpage"><strong>Web page (webpage):</strong></span> A hypertext document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content, such as images and style sheets. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one (1) page.
+- <span id="webpage"><strong>Web page (webpage):</strong></span> A document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as 1 page.
 
-- <span id="website"><strong>Website:</strong></span> A website, and web-based application, consists of many web pages linked together under a common domain name.
+- <span id="website"><strong>Website:</strong></span> A website, and web-based application, consists of many web pages linked together under a common domain name such as “[agency].gov”.
 
-- <span id="website-accessibility-statement"><strong>Website Accessibility Statement:</strong></span> A statement included on all internet and intranet websites that, at a minimum, includes contact information for the agency Section 508 program, date of the last update, and the ability for website visitors to provide comments and/or feedback regarding the agency Section 508 program. See [Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/).
-
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** April 2024
