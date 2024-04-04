@@ -2382,7 +2382,7 @@
     - Find your entity's most recent solicitations where they are posted online (e.g., the System for Award Management [SAM.gov]; the GSA eBuy site).
     - Review the <a href="https://www.section508.gov/buy/solicitation-review-tool/" target="_blank">GSA Solicitation Review Tool (SRT)</a> results if your reporting entity uses the SRT.
 
-    NOTE: Refer to the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionI" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
+    NOTE: Refer to the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
 -   
   qid: q100
   uid: u100
@@ -2431,7 +2431,7 @@
       <li>No</li>
     </ol>
   u-descr: | 
-    Please see Definition of Terms for a description of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#shared=service" target="_blank">shared service</a>, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
+    Please see Definition of Terms for a description of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
 -   
   qid: q102
   uid: u102
