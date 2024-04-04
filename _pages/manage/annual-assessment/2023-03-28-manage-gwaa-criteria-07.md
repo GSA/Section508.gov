@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-07/
 type: manage
 title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="technology-lifecycle-activities">Technology Lifecycle Activities</H2>

@@ -26,7 +26,7 @@ title: "ICT Accessibility Frequently Asked Questions"
 </div>
 {% endfor %}
 
-**Reviewed/Updated:** August 2023
+**Reviewed/Updated:** March 2024
 
 <!-- Expand/Collapse All Accessibility FAQ Content script -->
 <script>

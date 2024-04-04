@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 type: report2023
 title: "Assessment Data & Downloads"
+redirect_from:
+- 2023-congressional-report-downloads/
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 23 Governmentwide Section 508 Assessment below, which includes:
 

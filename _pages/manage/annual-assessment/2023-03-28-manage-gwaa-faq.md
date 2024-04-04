@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/faq/
 type: manage
 title: "Government-wide Section 508 Assessment Frequently Asked Questions"
+redirect_to:
+- manage/section-508-assessment/
 ---
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-bottom-3">

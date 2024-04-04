@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-08/
 type: manage
 title: "Testing and Validation - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="testing-and-validation">Testing and Validation</H2>

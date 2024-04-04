@@ -39,7 +39,7 @@ The rule updated and reorganized the Section 508 Standards and Section 255 Guide
   <li><a href="https://www.acquisition.gov/far/part-10#FAR_10_001__d653e163" target="_blank" class="usa-link--external text-top">FAR 10.001(a)(3)(ix) - Procedures</a> - Requires agencies to assess the availability of ICT that meets all of the standards.</li>
   <li><a href="https://www.acquisition.gov/far/part-11#FAR_11_002__d659e210" target="_blank" class="usa-link--external text-top">FAR 11.002(f) - Policy</a> - Requires, for any component or portion of the product, documentation of the needs of users with disabilities, applicable standards, and where accessibility standards cannot be met due to an exception or exemption.</li>
   <li><a href="https://www.acquisition.gov/far/part-12#FAR_12_202__d709e34" target="_blank" class="usa-link--external text-top">FAR 12.202(d) - Market research and description of agency need</a> - Specifies that all accessibility standards be included in requirements document.</li>
-  <li><a href="https://www.acquisition.gov/far/part-39#FAR_39_203" target="_blank" class="usa-link--external text-top">39.203 Applicability</a> - Specifies requirements for <em>General/em> procurement of ICT</em>, <em>Indefinite-quantity contracts</em>, <em>Task order or delivery order</em>, and <em>Commercial products and commercial services</em>.</li>
+  <li><a href="https://www.acquisition.gov/far/part-39#FAR_39_203" target="_blank" class="usa-link--external text-top">39.203 Applicability</a> - Specifies requirements for <em>General</em> procurement of ICT</em>, <em>Indefinite-quantity contracts</em>, <em>Task order or delivery order</em>, and <em>Commercial products and commercial services</em>.</li>
   <li><a href="{{site.baseurl}}/manage/laws-and-policies/far-update-comparison">Tabular Comparison of the Previous FAR text against the 2021 Update</a></li>
 </ul>
 
@@ -78,7 +78,8 @@ Related laws include:
 ### Office of Management and Budget (OMB) Memos
 
 <ul>
-  <li><a href="https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
+  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
+  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" class="usa-link--external text-top">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act of 2013 (PDF)</a></li>
   <!--<li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" target="_blank" class="usa-link--external text-top">M-17-06 - Policies for Federal Agency Public Websites and Digital Services (PDF)</a></li>-->
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf" target="_blank" class="usa-link--external text-top">M-16-20 Category Management Policy 16-3: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Services (PDF)</a></li>

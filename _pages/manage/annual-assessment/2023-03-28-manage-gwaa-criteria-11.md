@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-11/
 type: manage
 title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="conformance-metrics">Conformance Metrics</H2>

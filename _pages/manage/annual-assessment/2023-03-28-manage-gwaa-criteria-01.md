@@ -6,6 +6,8 @@ type: manage
 title: "General Information - Government-wide Section 508 Assessment Criteria"
 redirect_from:
 - manage/section-508-assessment/criteria/
+redirect_to:
+- manage/section-508-assessment/
 ---
 Below is a list of the criteria agencies must use to evaluate the extent to which the information and communications technology (ICT) of the agency are accessible to and usable by individuals with disabilities. 
 

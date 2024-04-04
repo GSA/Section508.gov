@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-02/
 type: manage
 title: "IT Accessibility Program Office - Government-wide Section 508 Assessment Criteria"
+redirect_to:
+- manage/section-508-assessment/
 ---
 
 <H2 id="it-accessibility-program-office">IT Accessibility Program Office</H2>

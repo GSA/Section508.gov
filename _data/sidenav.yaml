@@ -59,8 +59,13 @@ manage:
         url: manage/laws-and-policies/international/
       - name: Laws and Policy Quick Reference Guide
         url: manage/laws-and-policies/quick-reference-guide/
-      - name: Developing a Website Accessibility Statement
-        url: manage/laws-and-policies/website-accessibility-statement/
+      - name: Website Accessibility Statements 
+        url: '#'
+        grandchildren:
+          - name: Developing a Website Accessibility Statement
+            url: manage/laws-and-policies/website-accessibility-statement/
+          - name: Implementing a Public Feedback Mechanism
+            url: manage/laws-and-policies/implementing-public-feedback-mechanism/        
       - name: State-level Accessibility Law and Policy
         url: manage/laws-and-policies/state/
       - name: Updating Agency Policy
@@ -124,37 +129,37 @@ manage:
     children:
       - name: Instructions
         url: manage/section-508-assessment/
-      - name: Assessment Criteria
-        url: '#'
-        grandchildren:
-        - name: General Information
-          url: manage/section-508-assessment/criteria-01/
-        - name: IT Accessibility Program Office
-          url: manage/section-508-assessment/criteria-02/
-        - name: Policies, Procedures, and Practices
-          url: manage/section-508-assessment/criteria-03/
-        - name: Communications
-          url: manage/section-508-assessment/criteria-04/
-        - name: Content Creation
-          url: manage/section-508-assessment/criteria-05/
-        - name: Human Capital, Culture, and Leadership
-          url: manage/section-508-assessment/criteria-06/
-        - name: Technology Lifecycle Activities
-          url: manage/section-508-assessment/criteria-07/
-        - name: Testing and Validation
-          url: manage/section-508-assessment/criteria-08/
-        - name: Acquisition and Procurement
-          url: manage/section-508-assessment/criteria-09/
-        - name: Training
-          url: manage/section-508-assessment/criteria-10/
-        - name: Conformance Metrics
-          url: manage/section-508-assessment/criteria-11/
-      - name: Frequently Asked Questions (FAQ)
-        url: manage/section-508-assessment/faq/
-      - name: Support
-        url: manage/section-508-assessment/support/
-      - name: Definition of Terms
-        url: manage/section-508-assessment/definition-of-terms/
+#      - name: Assessment Criteria
+#        url: '#'
+#        grandchildren:
+#        - name: General Information
+#          url: manage/section-508-assessment/criteria-01/
+#        - name: IT Accessibility Program Office
+#          url: manage/section-508-assessment/criteria-02/
+#        - name: Policies, Procedures, and Practices
+#          url: manage/section-508-assessment/criteria-03/
+#        - name: Communications
+#          url: manage/section-508-assessment/criteria-04/
+#        - name: Content Creation
+#          url: manage/section-508-assessment/criteria-05/
+#        - name: Human Capital, Culture, and Leadership
+#          url: manage/section-508-assessment/criteria-06/
+#        - name: Technology Lifecycle Activities
+#          url: manage/section-508-assessment/criteria-07/
+#        - name: Testing and Validation
+#          url: manage/section-508-assessment/criteria-08/
+#        - name: Acquisition and Procurement
+#          url: manage/section-508-assessment/criteria-09/
+#        - name: Training
+#          url: manage/section-508-assessment/criteria-10/
+#        - name: Conformance Metrics
+#          url: manage/section-508-assessment/criteria-11/
+#      - name: Frequently Asked Questions (FAQ)
+#        url: manage/section-508-assessment/faq/
+#      - name: Support
+#        url: manage/section-508-assessment/support/
+#      - name: Definition of Terms
+#        url: manage/section-508-assessment/definition-of-terms/
       - name: Annual Reports
         url: 'manage/section-508-assessment/annual-reports/'
   - name: Agency Section 508 Reporting Requirements
@@ -373,14 +378,18 @@ training:
     children:
       - name: Tools Overview
         url: 'tools/'
-      - name: Testing Tools for Web
-        url: 'test/web-software/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
+      - name: OpenACR Editor
+        url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
+      - name: Accessibility Playbooks
+        url: 'manage/playbooks/'
+      - name: Testing Tools for Web
+        url: 'test/web-software/'
       - name: Glossary of Terms
         url: 'content/glossary/'
 develop:
