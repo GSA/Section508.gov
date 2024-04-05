@@ -7,7 +7,7 @@ title: "Testing and Validation - Government-wide Section 508 Assessment Criteria
 ---
 
 <H2 id="testing-and-validation">Testing and Validation</H2>
-<p>This section asks about your reporting entity's level of inclusion of ICT accessibility in the testing and evaluation of agency products and services, including processes, tools, templates, best practices and guidance. If your reporting entity does not publish nor maintain any ICT, please select N/A as needed.  </p>
+<p>This section asks about your reporting entity's level of inclusion of ICT accessibility in the testing and evaluation of reporting entity's products and services, including processes, tools, templates, best practices and guidance. If your reporting entity does not publish nor maintain any ICT, please select N/A as needed.  </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-y-3 margin-x-1">

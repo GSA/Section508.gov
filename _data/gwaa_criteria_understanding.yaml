@@ -2296,6 +2296,7 @@
     Does the reporting entity's process for tracking and reporting Section 508 non-compliance related complaints incorporate complaints from contractors? (*Required)
   q-type: | 
     Select one:
+  q-note: This question is only required if Question 94 is Yes.
   q-options: |
     <ol type="a">
       <li>Yes</li>
@@ -2440,7 +2441,7 @@
       <li>Unknown</li>
       <li>N/A- services provided are not ICT services</li>
     </ol>
-  q-nate: This question is only required if Question 101 is Yes.
+  q-note: This question is only required if Question 101 is Yes.
   u-descr: | 
     Please refer to the definition of <a href="../definition-of-terms/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
 
