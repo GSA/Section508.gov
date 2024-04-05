@@ -17,9 +17,9 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="agency"><strong>Agency:</strong></span> In this context, it refers to all federal departments, agencies, and the U.S. Postal Service governed by Section 508. 
 
-- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> - A representation of how the product meets applicable Section 508 technical standards, typically using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template or a test report.
+- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets applicable Section 508 technical standards, typically using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template or a test report.
 
-- <span id="accessibility-policy"><strong>Accessibility Policy:</strong></span> Policy for implementing Section 508 or  Information and Communication Technology (ICT) accessibility requirements.
+- <span id="accessibility-policy"><strong>Accessibility Policy:</strong></span> Policy for implementing Section 508 or Information and Communication Technology (ICT) accessibility requirements.
 
 - <span id="accessibility-statement"><strong>Accessibility Statement:</strong></span> The statement on the reporting entity’s primary website, including a number of requirements per [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/), including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
 

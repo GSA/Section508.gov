@@ -2085,7 +2085,6 @@
     1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
       - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
       - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
-      - For hardware, there are 61 Section 508 provisions.
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
     3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
     4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 

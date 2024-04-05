@@ -79,7 +79,7 @@ Related laws include:
 
 <ul>
   <li><a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
-  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>
+  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" class="usa-link--external text-top">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act of 2013 (PDF)</a></li>
   <!--<li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" target="_blank" class="usa-link--external text-top">M-17-06 - Policies for Federal Agency Public Websites and Digital Services (PDF)</a></li>-->
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf" target="_blank" class="usa-link--external text-top">M-16-20 Category Management Policy 16-3: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Services (PDF)</a></li>
@@ -142,6 +142,6 @@ Learn how to maintain your agency’s policies through the links below:
 
 For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][1].
 
-**Reviewed/Updated:** September 2023
+**Reviewed/Updated:** April 2024
 
 [1]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/
