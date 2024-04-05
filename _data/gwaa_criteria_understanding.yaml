@@ -1896,14 +1896,14 @@
 
     Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria )] x 100
 
-    1) Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-    - For web content, there are a maximum of 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 standards related to media players).
-    - For software, there is a maximum of 34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 standards.
-    - For hardware, there is a maximum of 55 Section 508 standards.
-    - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
-    2) Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3) Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4) Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+      - For hardware, there are 61 Section 508 provisions.
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 
     For example, your reservation system is a web page and you determine all web requirements apply for a total of 41 applicable Section 508 requirements. According to the test report, 10 WCAG 2.0 AA criteria fail and 31 requirements pass. Next, divide the number of applicable requirements by the number of Section 508 requirements that pass (31/41= 0.756) and then multiply the answer by 100 to get your percentage = 75.6%. Round to the nearest whole number and select "c) Conforms to 50% - 90% of applicable Section 508 requirements."
 -   
@@ -1930,12 +1930,12 @@
 
     Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria )] x 100
 
-    1.) Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there are a maximum of 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 standards related to media players).
-      - For software, there are a maximum of 57 requirements (34 WCAG 2.0 AA Success Criteria [using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software] and 23 Section 508 standards).
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer( in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q82
   uid: u82
@@ -1960,12 +1960,12 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there is a maximum of 38 WCAG 2.0 AA Success Criteria. The three Section 508 standards related to media players will most likely not apply.
-      - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria [using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents]. 
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q83
   uid: u83
@@ -1990,12 +1990,12 @@
 
     Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there is a maximum of 38 WCAG 2.0 AA Success Criteria. The three Section 508 standards related to media players will most likely not apply to this question.
-      - For software, there are a maximum of 57 requirements (34 WCAG 2.0 AA Success Criteria [using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software] and 23 Section 508 standards).
-    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the n.umber of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.  
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q84
   uid: u84
@@ -2020,12 +2020,12 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there are a maximum of 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 standards related to media players).
-      - For software, there are a maximum of 57 requirements (34 WCAG 2.0 AA Success Criteria [using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software] and 23 Section 508 standards).
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 43) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q85
   uid: u85
@@ -2050,12 +2050,12 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there is a maximum of 38 WCAG 2.0 AA Success Criteria. The three Section 508 standards related to media players will most likely not apply to this question.
-      - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria [using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents]. 
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q86
   uid: u86
@@ -2082,13 +2082,13 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there are a maximum of 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 standards related to media players).
-      - For software, there are a maximum of 57 requirements (34 WCAG 2.0 AA Success Criteria [using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software] and 23 Section 508 standards).
-      - For hardware, there is a maximum of 55 Section 508 standards.
-    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1).
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+      - For hardware, there are 61 Section 508 provisions.
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q87
   uid: u87
@@ -2113,12 +2113,12 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there is a maximum of 38 WCAG 2.0 AA Success Criteria. The three Section 508 standards related to media players will most likely not apply to this question.
-      - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria [using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents]. 
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q88
   uid: u88
@@ -2143,12 +2143,12 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there is a maximum of 38 WCAG 2.0 AA Success Criteria. The three Section 508 standards related to media players will most likely not apply to this question.
-      - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria [using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents]. 
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
     2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
 -   
   qid: q89
   uid: u89
@@ -2173,13 +2173,13 @@
 
     Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
 
-    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT. Depending on the features and components of the ICT, all requirements may not apply; exclude those. 
-      - For web content, there are a maximum of 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 standards related to media players).
-      - For software, there are a maximum of 57 requirements (34 WCAG 2.0 AA Success Criteria [using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 standards].
-      - For electronic documents, there is a maximum of 34 WCAG 2.0 AA Success Criteria [using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents]. 
-    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1).
-    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass (in Step 2). 
-    4. Multiply the answer (in Step 3) by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.    
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2).
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
 -   
   qid: q90
   uid: u90
