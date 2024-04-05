@@ -29,7 +29,7 @@
           <li>Q9 asks about other ICT test processes used within the reporting entity.</li>
           <li>Q19-22 asks several questions to better understand the exceptions process.</li>
           <li>Q23 asks about how contractors are assessed for capabilities related to ICT services.</li>
-          <li>Q69b and 74b asks to explain how the percentage of fully conformant web pages was estimated.</li>
+          <li>Q69b and Q74b asks to explain how the percentage of fully conformant web pages was estimated.</li>
           <li>Q79a-d asks for a deeper dive into the enterprise wide virtual meeting platform.</li>
         </ul>
       </li>
@@ -54,7 +54,7 @@
       <li>Q71, Q76, Q77, and Q78 are no longer asking for the number of defects by WCAG or Section 508 requirement. Instead, respondents will select which WCAG or Section 508 requirements fail.</li>
       <li>Q51 was moved from the General Information dimension to the Testing and Validation dimension.</li>
       <li>Q66 was moved from the Testing and Validation dimension to the Training dimension.</li>
-      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q90, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
+      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q89, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
       <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
       <li>Five Three questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
