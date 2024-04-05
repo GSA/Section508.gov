@@ -211,7 +211,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="section-508-program-manager"><strong>Section 508 Program Manager:</strong></span> Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO whose duties include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See [M-24-08](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16) for additional roles and responsibilities. 
 
--<span id="shared-service"><strong>Shared Service:</strong></span> A federal shared service in this context is defined as an information technology function that is provided for consumption by multiple organizations across federal agencies by a single federal agency.
+- <span id="shared-service"><strong>Shared Service:</strong></span> A federal shared service in this context is defined as an information technology function that is provided for consumption by multiple organizations across federal agencies by a single federal agency.
 
 - <span id="sso"><strong>Single Sign On:</strong></span> A system allowing one set of login credentials to access multiple applications. 
 
