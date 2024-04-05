@@ -10,11 +10,12 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
 <p>This section asks about your agency's program management, reporting, benchmarking, risk management, continuous process improvement, and other business-related functions that align to the development, implementation, and maintenance of your agency's Section 508 program or equivalent. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
+<!-- Commented out as page has less than 1 Understanding
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
-
+-->
 <div class="usa-card-group">
 <!-- begin insert criteria -->
 {% for each in site.data.gwaa_criteria_understanding %}

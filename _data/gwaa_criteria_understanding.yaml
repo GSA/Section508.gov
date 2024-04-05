@@ -82,8 +82,6 @@
   q-type: |
     Select one:
   q-options: |
-    Select one:
-  u-descr: | 
     <ol type="a">
       <li>Head of reporting entity office or equivalent</li>
       <li>CIO Office or equivalent</li>
@@ -94,6 +92,8 @@
       <li>N/A - reporting entity has not established a formal program or office to implement and comply with Section 508</li>
       <li>Other [input text field]</li>
     </ol>
+  u-descr: | 
+    If the reporting entity's Section 508 program or equivalent is considered "cross-agency" or "multi departmental," use the department whose budget pays for the 508 Program Manager and their staff, or majority thereof.
 -   
   qid: q6
   uid: u6
@@ -122,7 +122,7 @@
   uid: u7
   dimension: general
   q-descr: | 
-    Estimate the total budget for the reporting entity's Section 508 Program or equivalent in FY24. Rounded to the nearest thousand (e.g., $345,000). If your budget is classified, please select "Classified" as the response. (*Required)
+    Estimate the total budget for the reporting entity's Section 508 Program or equivalent in FY24. Round to the nearest thousand (e.g., $345,000). If your budget is classified, please select "Classified" as the response. (*Required)
   q-type: |
     Select one:
   q-options: |

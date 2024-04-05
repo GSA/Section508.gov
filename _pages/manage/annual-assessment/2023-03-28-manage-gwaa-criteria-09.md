@@ -10,12 +10,10 @@ title: "Acquisition and Procurement - Government-wide Section 508 Assessment Cri
 <p>Questions in this section ask about your agency's level of inclusion of ICT accessibility in procurement lifecycle processes. If your agency does not procure ICT, release solicitations, or  participate in development of business needs, please select N/A as needed.</p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
-<!-- 
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
--->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->

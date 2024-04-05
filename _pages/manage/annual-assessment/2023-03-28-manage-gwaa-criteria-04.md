@@ -10,12 +10,10 @@ title: " - Government-wide Section 508 Assessment Criteria"
 <p>Questions in this section ask about your agency's internal and external communication accessibility considerations. If your agency does not release communications, please select N/A as needed.  </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
-<!-- 
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
--->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->

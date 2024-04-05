@@ -10,10 +10,12 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 <p>This section asks about your agency's development, testing, remediation, and conformance tracking of digital content, including but not limited to: documents, presentations, PDFs, spreadsheets, audio, video, multimedia, social media, and digital forms. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
+<!-- Commented out as page has less than 1 Understanding
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
+-->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->

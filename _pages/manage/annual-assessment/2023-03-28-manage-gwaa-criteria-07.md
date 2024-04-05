@@ -10,12 +10,10 @@ title: "Technology Lifecycle Activities - Government-wide Section 508 Assessment
 <p>This section asks about your agency's level of inclusion of accessibility in the technology lifecycle to include design, development, operation, and maintenance of ICT. If your agency does not have a formal technology lifecycle process, please select N/A as needed.</p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
-<!-- 
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
--->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->

@@ -35,7 +35,7 @@
       </li>
       <li>Additional answer choices have been added to:
         <ul>
-          <li>Q8 due to WCAG 2.2 release</li>
+          <li>Q8 due to WCAG 2.2 release.</li>
           <li>Q11, Q27, and Q28 based on FY23 “Other” inputs.</li>
         </ul>
       </li>
@@ -54,7 +54,7 @@
       <li>Q71, Q76, Q77, and Q78 are no longer asking for the number of defects by WCAG or Section 508 requirement. Instead, respondents will select which WCAG or Section 508 requirements fail.</li>
       <li>Q51 was moved from the General Information dimension to the Testing and Validation dimension.</li>
       <li>Q66 was moved from the Testing and Validation dimension to the Training dimension.</li>
-      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q90, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities with time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
+      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q90, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
       <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
       <li>Five Three questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
@@ -126,7 +126,7 @@
   h: Submitting Data
   q: Is there a way for me to gather all my answers offline?
   a: |
-    While reporting entities may use the following <a href="https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to help collect the information, responses must be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment criteria pages.
+    While reporting entities may use the following <a href="https://assets.section508.gov/files/reports/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to help collect the information, responses must be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment criteria pages.
 -  
   id: 202
   h: Submitting Data
@@ -158,13 +158,13 @@
   h: Submitting Data
   q: Will I be able to edit my reporting entity’s data up until the deadline of July 31, 2024, even if I have submitted the data before the deadline?
   a: |
-    Your reporting entity responses cannot be edited after submission without manual steps to unlock your response. If edits are necessary after submission, email GSA’s Government-wide IT Accessibility Program at section.508@gsa.gov. Edits or submissions will not be permitted after the submission period closes on July 31, 2024. NOTE: Unlocking your reporting entity’s responses may not be immediate. Please carefully review your answers prior to submission to avoid any additional delay.
+    Your reporting entity responses cannot be edited after submission without manual steps to unlock your response. If edits are necessary after submission, email GSA’s Government-wide IT Accessibility Program at <a href="mailto:section.508@gsa.gov">Section.508@gsa.gov</a>. Edits or submissions will not be permitted after the submission period closes on July 31, 2024. **NOTE:** Unlocking your reporting entity’s responses may not be immediate. Please carefully review your answers prior to submission to avoid any additional delay.
 -  
   id: 207
   h: Submitting Data
   q: What is the best way to navigate the reporting tool?
   a: |
-    We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://assets.section508.gov/files/reports/FY-23%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to gather responses.
+    We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://assets.section508.gov/files/reports/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to gather responses.
     
     While the reporting tool does not have a Back button, the Table of Contents allows you to move between sections of the survey once all required questions on the current screen have been completed. Use the Table of Contents to navigate between sections to ensure complete and accurate responses for each applicable question.
 -  

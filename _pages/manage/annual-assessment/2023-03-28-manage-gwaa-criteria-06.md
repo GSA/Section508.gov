@@ -10,10 +10,12 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
 <p>This section asks about your agency's leadership and professional development, and how ICT accessibility is integrated into mission-related strategic planning. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
+<!-- Commented out as page has less than 1 Understanding
 <div class="margin-y-3 margin-x-1">
     <button id="expand-all" class="usa-button">Expand All</button>
     <button id="collapse-all" class="usa-button">Collapse All</button>
 </div>
+-->
 
 <div class="usa-card-group">
 <!-- begin insert criteria -->
