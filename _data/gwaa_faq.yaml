@@ -16,26 +16,47 @@
   h: Overview
   q: What are the primary differences between the FY23 criteria and the FY24 criteria?
   a: |
-    The majority of the criteria remained unchanged in intent but language has been modified for clarity and answer selections have been truncated. Additional changes include:
+    Most of the criteria remained unchanged in intent but language has been modified for clarity and answer selections have been truncated. Additional changes include:
     <ul>
       <li>Questions have been renumbered throughout.</li>
       <li>All questions are required, however question dependencies apply.</li>
+      <li>“Reporting entity” is used instead of “agency”.</li>
+      <li>Frequency has been added directly to response options for clarity in never, sometimes, regularly, frequently, and almost always.</li>
+      <li>When a timeframe is needed for reporting, the reporting period has been added directly to applicable questions.</li>
       <li>Several new criteria have been added including:
         <ul>
           <li>Q1 asks for the total number of total federal employees within the reporting entity</li>
-          <li>Q14 asks about other ICT test processes used within the reporting entity.</li>
-          <li>Q21-24 asks several questions to better understand the exceptions process.</li>
-          <li>Q59 asks about how contractors are assessed for capabilities related to ICT services.</li>
-          <li>Q81 asks for a deeper dive into the enterprise wide virtual meeting platform.</li>
+          <li>Q9 asks about other ICT test processes used within the reporting entity.</li>
+          <li>Q19-22 asks several questions to better understand the exceptions process.</li>
+          <li>Q23 asks about how contractors are assessed for capabilities related to ICT services.</li>
+          <li>Q69b and 74b asks to explain how the percentage of fully conformant web pages was estimated.</li>
+          <li>Q79a-d asks for a deeper dive into the enterprise wide virtual meeting platform.</li>
         </ul>
       </li>
+      <li>Additional answer choices have been added to:
+        <ul>
+          <li>Q8 due to WCAG 2.2 release</li>
+          <li>Q11, Q27, and Q28 based on FY23 “Other” inputs.</li>
+        </ul>
+      </li>
+      <li>Answer choices have been significantly revised for the following criteria:
+      <ul>
+        <li>Q30-33</li>
+        <li>Q36 (specifically answer choice d)</li>
+        <li>Q39-42</li>
+        <li>Q53-57</li>
+        <li>Q60</li>
+        <li>Q62-63</li>
+        <li>Q65</li>
+      </ul>
+      </li>
       <li>Q68 a-d and Q73 a-d have been moved to a subset of questions to ensure respondents understand that we are looking for a total amount.</li>
-      <li>Q71, Q76, Q79, and Q80 are no longer asking for the number of defects by WCAG or Section 508 requirement. Instead, respondents will select which WCAG or Section 508 requirements fail.</li>
-      <li>Q50 was moved from the General Information dimension to the Testing and Validation dimension.</li>
+      <li>Q71, Q76, Q77, and Q78 are no longer asking for the number of defects by WCAG or Section 508 requirement. Instead, respondents will select which WCAG or Section 508 requirements fail.</li>
+      <li>Q51 was moved from the General Information dimension to the Testing and Validation dimension.</li>
       <li>Q66 was moved from the Testing and Validation dimension to the Training dimension.</li>
-      <li>To increase the scope of ICT asked about, there are 10 new ICT questions in lieu of the previous criteria for Q82-85 and Q87-92. We will cycle questions on a biennial basis. Expect to see the FY23 criteria cycled back in for FY25. This will allow entities time to fix known defects, hopefully resulting in higher conformance in FY25. We also changed the answer selections in this section. Instead of a binary yes or no related to Section 508 conformance, now there is a scale of conformance to better understand the extent of defects.</li>
-      <li>Q104 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
-      <li>Three questions have been removed altogether: one from Training, one from Content Creation, and the criteria regarding defects for enterprise-wide printers because of duplicative data, incorrectly scoped questions, or poor data.
+      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q90, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities with time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
+      <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
+      <li>Five Three questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
 -  
   id: 104
@@ -44,17 +65,17 @@
   a: |
     This is a self-report evaluation spanning across the following 11 dimensions:
     <ol>
-      <li>General Information questions ask about information and metrics related to the activities of your reporting entity’s Section 508 Program’s (or equivalent) activities.</li>
+      <li>General Information questions ask about information and metrics related to the activities of the reporting entity’s Section 508 Program’s (or equivalent) activities.</li>
       <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
       <li>Policies, Procedures, and Standards - Measuring the extent to which reporting entities establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
       <li>Communications - Measuring how well reporting entities communicate and monitor all ICT accessibility program activities, including tracking and resolving noncompliance issues.</li>
       <li>Content Creation - Measuring the extent to which reporting entities make their digital content on websites, documents, video and other media, social media, electronic forms, and digital signatures accessible.</li>
-      <li>Human Capital, Culture, and Leadership - Measuring your reporting entity’s leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+      <li>Human Capital, Culture, and Leadership - Measuring the reporting entity’s leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
       <li>Technology Lifecycle Activities - Measuring the extent to which reporting entities incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
       <li>Testing and Validation - Measuring the extent to which reporting entities conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
       <li>Acquisition and Procurement - Measuring the extent to which reporting entities include, review, and validate contracts for ICT accessibility compliance requirements.</li>
-      <li>Training - Measuring the extent to which reporting entities make training available for employees on roles and responsibilities related to compliance with Section 508 practices and requirements.</li>
-      <li>Conformance Metrics that measure how well your reporting entity’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia.</li>
+      <li>Training - Measuring the extent to which reporting entities make training available for employees related to compliance with Section 508 practices and requirements.</li>
+      <li>Conformance Metrics that measure how well the reporting entity’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia.</li>
     </ol>
 -  
   id: 105
@@ -67,7 +88,7 @@
   h: Overview
   q: What if I don't have resources to complete the requested testing?
   a: |
-    If you do not have staff, funding, or testing tools available to complete the requested testing of ICT products prior to the submission deadline, please test what you can. If you cannot test anything, please select “Unavailable—reporting entity does not have resources to test.” For Question 100 regarding ICT solicitations, if you are unable to review any of the previous 10 solicitations, please select “Unknown.”
+    If you do not have staff, funding, or testing tools available to complete the requested testing of ICT products prior to the submission deadline, please test what you can. If you cannot test anything, please select “Unavailable—reporting entity does not have resources to test.” For Question 99 regarding ICT solicitations, if you are unable to review any of the previous 10 solicitations, please select “Unknown.”
 -  
   id: 107
   h: Overview
@@ -163,7 +184,7 @@
   h: Interpreting Criteria
   q: Can my reporting entity rely solely on a vendor's Accessibility Conformance Report (ACR) to determine whether our product is fully accessible for this year's Assessment? 
   a: |
-    Yes, you may use a vendor’s ACR to report whether the ICT product(s) referenced in Conformance questions 81, 82, 83, 84, 85, 86, 88, and 91 fully conforms to all applicable Section 508 standards.
+    Yes, you may use an ACR to report whether the ICT product(s) fully conforms to all applicable Section 508 standards.
 -  
   id: 304
   h: Interpreting Criteria
@@ -215,7 +236,7 @@
   a: |
     Many of the question responses contain multiple items that may be difficult to assess as individual elements. For example, one of the responses for Question 60 is:
     
-    “d) Frequently verified prior to acceptance, including required remediation when necessary.”
+    “d) Frequently verified prior to acceptance, including required remediation when necessary (approximately 60%-89% of the time).”
 
     There are two parts to this response option: verification and remediation. Are both items done “Frequently?” Is verification “frequent” and remediation “almost always?” There may be cases where there is not an exact answer, but please provide your reporting entity’s best estimation of what happens in practice.
 -  
@@ -223,9 +244,9 @@
   h: Interpreting Criteria
   q: Reporting Entity Goals Versus Practice
   a: |
-    Please select the most appropriate response for what happens in practice at your reporting entity. For example, one of the responses for Question 51 is:
+    Please select the most appropriate response for what happens in practice at your reporting entity. For example, one of the responses for Question 50 is:
     
-    “c) Regularly.”
+    “c) Regularly (approximately 25%-59% of the time).”
     
     If it is true your reporting entity includes this requirement in formal policy but in practice web content testers sometimes follow the required test process, please select the response that aligns with your reporting entity practice rather than the requirement. In this situation, your reporting entity’s response will be “b) Sometimes” rather than “c) Regularly” because the former more accurately reflects day-to-day activities.
 -  
@@ -239,7 +260,7 @@
   h: Interpreting Criteria
   q: Will I be able to write open-ended explanations to answer selections?
   a: |
-    Yes. At the end of the survey, there will be an open-ended question (see Question 104) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide additional narrative you think is relevant. When referencing a specific question, please note the Dimension, such as  Conformance Metrics, and the question number, such as Question 77.
+    Yes. At the end of the survey, there will be an open-ended question (see Question 103) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide additional narrative you think is relevant. When referencing a specific question, please note the Dimension, such as  Conformance Metrics, and the question number, such as Question 70.
 -  
   id: 401
   h: Point of Contact Information
@@ -263,7 +284,7 @@
   h: Assistance
   q: Will there be working sessions to review the questions and receive any clarifications needed?
   a: |
-    Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 22. Please check the <a href="../manage/section-508-assessment/support/">Support page</a> and <a href="../events/">Events</a> page for more information and how to register. 
+    Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 17th. Please check the <a href="../manage/section-508-assessment/support/">Support page</a> and <a href="../events/">Events</a> page for more information and how to register. 
 -  
   id: 502
   h: Assistance
