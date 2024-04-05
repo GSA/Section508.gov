@@ -7,7 +7,7 @@ title: "Human Capital, Culture, and Leadership - Government-wide Section 508 Ass
 ---
 
 <H2 id="human-capital-culture-and-leadership">Human Capital, Culture, and Leadership</H2>
-<p>This section asks about your agency's leadership and professional development, and how ICT accessibility is integrated into mission-related strategic planning. </p>
+<p>This section asks about your reporting entity's leadership and professional development, and how ICT accessibility is integrated into mission-related strategic planning. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <!-- Commented out as page has less than 1 Understanding

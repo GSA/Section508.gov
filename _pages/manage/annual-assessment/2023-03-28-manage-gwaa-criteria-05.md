@@ -7,7 +7,7 @@ title: "Content Creation - Government-wide Section 508 Assessment Criteria"
 ---
 
 <H2 id="content-creation">Content Creation</H2>
-<p>This section asks about your agency's development, testing, remediation, and conformance tracking of digital content, including but not limited to: documents, presentations, PDFs, spreadsheets, audio, video, multimedia, social media, and digital forms. </p>
+<p>This section asks about your reporting entity's development, testing, remediation, and conformance tracking of digital content, including but not limited to: documents, presentations, PDFs, spreadsheets, audio, video, multimedia, social media, and digital forms. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <!-- Commented out as page has less than 1 Understanding

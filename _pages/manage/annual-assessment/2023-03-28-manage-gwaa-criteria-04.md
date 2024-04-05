@@ -3,11 +3,11 @@ layout: page
 sidenav: true
 permalink: manage/section-508-assessment/criteria-04/
 type: manage
-title: " - Government-wide Section 508 Assessment Criteria"
+title: "Communications - Government-wide Section 508 Assessment Criteria"
 ---
 
 <H2 id="communications">Communications</H2>
-<p>Questions in this section ask about your agency's internal and external communication accessibility considerations. If your agency does not release communications, please select N/A as needed.  </p>
+<p>Questions in this section ask about your reporting entity's internal and external communication accessibility considerations. If your agency does not release communications, please select N/A as needed.  </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-y-3 margin-x-1">

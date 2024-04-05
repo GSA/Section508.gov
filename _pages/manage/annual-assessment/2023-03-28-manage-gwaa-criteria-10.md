@@ -7,7 +7,7 @@ title: "Training - Government-wide Section 508 Assessment Criteria"
 ---
 
 <H2 id="training">Training</H2>
-<p>This section asks about your agency's development, use, and tracking of ICT accessibility related training. </p>
+<p>This section asks about your reporting entity's development, use, and tracking of ICT accessibility related training. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <!-- Commented out as page has less than 1 Understanding

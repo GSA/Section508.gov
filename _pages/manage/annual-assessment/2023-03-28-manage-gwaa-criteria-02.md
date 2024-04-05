@@ -7,7 +7,7 @@ title: "IT Accessibility Program Office - Government-wide Section 508 Assessment
 ---
 
 <H2 id="it-accessibility-program-office">IT Accessibility Program Office</H2>
-<p>This section asks about your agency's program management, reporting, benchmarking, risk management, continuous process improvement, and other business-related functions that align to the development, implementation, and maintenance of your agency's Section 508 program or equivalent. </p>
+<p>This section asks about your reporting entity's program management, reporting, benchmarking, risk management, continuous process improvement, and other business-related functions that align to the development, implementation, and maintenance of your reporting entity's Section 508 program or equivalent. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <!-- Commented out as page has less than 1 Understanding

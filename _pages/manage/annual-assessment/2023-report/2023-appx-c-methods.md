@@ -87,7 +87,7 @@ GSA developed a script to systematically validate reporting entity data by crite
 ## Descriptive Analysis
 We conducted a descriptive study of the data, akin to an inventory or initial exploration, to provide a holistic view of reporting entity data and determine key patterns and trends. We examined averages, frequency distributions, and other essential statistical parameters for each criteria, paying close attention to core areas that directly tie into our research questions. Two areas, reporting entity “business function maturity” and “operational conformance” (i.e., reporting entity conformance to the applicable requirements in the <a href="https://www.access-board.gov/ict/" target="_blank">ICT Standards and Guidelines</a>), emerged as key perspectives and points of interest during our discussions.
 
-First, we created an index to assess reporting entity business function maturity (m-index). This index quantified reporting entity responses to criteria across 9 dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities; Testing and Validation; Acquisition and Procurement; and Training. The m-index encompassed Questions 22 to 61 except <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q27'>Q27B</a>, and all were multiple choice format, equally weighted, and scored as follows:
+First, we created an index to assess reporting entity business function maturity (m-index). This index quantified reporting entity responses to criteria across 9 dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities; Testing and Validation; Acquisition and Procurement; and Training. The m-index encompassed Questions 22 to 61 except Q27B (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>), and all were multiple choice format, equally weighted, and scored as follows:
 
 * a) = 0; signifying very low
 
@@ -100,12 +100,12 @@ First, we created an index to assess reporting entity business function maturity
 * e) = 4; signifying very high
 
 
-Furthermore, a selection of “Unknown” received a 0, and a selection of “Not applicable or N/A” received a 4. For a few criteria (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q24'>Q24</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q30'>Q30</a>, and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-07/#q44'>Q44</a>), (f) = 4 also signifies Very High. We considered that argument and understood that scoring N/A as a “4” could inflate a reporting entity score for a dimension, but we nonetheless chose this so that all reporting entities had an equal number of questions to score (the denominator would be the same for each reporting entity) and no reporting entity was penalized with a low score for N/A (i.e., things that do not apply to them).
+Furthermore, a selection of “Unknown” received a 0, and a selection of “Not applicable or N/A” received a 4. For a few criteria (Q24, Q30, and Q44) (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>), (f) = 4 also signifies Very High. We considered that argument and understood that scoring N/A as a “4” could inflate a reporting entity score for a dimension, but we nonetheless chose this so that all reporting entities had an equal number of questions to score (the denominator would be the same for each reporting entity) and no reporting entity was penalized with a low score for N/A (i.e., things that do not apply to them).
 
-Second, we created an operational conformance (referred to as “conformance” or “c-index”) index to assess how well reporting entities performed per Section 508 requirements. Thus, this index quantified select reporting entity responses to 16 specific criteria in the Conformance section of criteria that directly relate to quantifiable compliance outcomes and included: <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q61'>Q61</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q79'>Q79</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q71'>Q71</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q78'>Q78</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a> to <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q85'>Q85</a>, and <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q87'>Q87</a> to <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q92'>Q92</a>. They were assigned numerical values and weighted as shown in [Table C2](#table-c2).
+Second, we created an operational conformance (referred to as “conformance” or “c-index”) index to assess how well reporting entities performed per Section 508 requirements. Thus, this index quantified select reporting entity responses to 16 specific criteria in the Conformance section of criteria that directly relate to quantifiable compliance outcomes and included: Q61, Q79, Q71, Q78, Q80 to Q85, and Q87 to Q92 (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>).  They were assigned numerical values and weighted as shown in [Table C2](#table-c2).
 
 <table id="table-c2" class="usa-table usa-table--borderless striped">
-<caption>Table C2. Topics, Conversion Approaches, and Weights of Conformance Criteria</caption>
+<caption>Table C2. Topics, Conversion Approaches, and Weights of Conformance Criteria (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>)</caption>
 <thead>
     <tr>
         <th scope="col">Topic</th>
@@ -117,43 +117,43 @@ Second, we created an operational conformance (referred to as “conformance” 
 <tbody>
     <tr>
         <th scope="row">Internet</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q61'>Q61</a></td>
+        <td>Q61</td>
         <td>Provided as a percentage by reporting entity; no conversion needed</td>
         <td>12.50%</td>
     </tr>
     <tr>
         <th scope="row">Internet</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q79'>Q79</a></td>
+        <td>Q79</td>
         <td>Converted the number of fully conformant public internet web pages into a percentage of the total public internet web pages the reporting entity specified</td>
         <td>12.50%</td>
     </tr>
     <tr>
         <th scope="row">Intranet</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q71'>Q71</a></td>
+        <td>Q71</td>
         <td>Provided as a percentage by reporting entity; no conversion needed</td>
         <td>12.50%</td>
     </tr>
     <tr>
         <th scope="row">Intranet</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q78'>Q78</a></td>
+        <td>Q78</td>
         <td>Converted the number of fully conformant internal intranet web pages into a percentage of the total internal intranet web pages the reporting entity specified</td>
         <td>12.50%</td>
     </tr>  
     <tr>
         <th scope="row">Documents</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a></td>
+        <td>Q80</td>
         <td>Converted the number of fully conformant electronic documents into a percentage of the total electronic documents the reporting entity specified</td>
         <td>12.50%</td>
     </tr>
     <tr>
         <th scope="row">Videos</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q81'>Q81</a></td>
+        <td>Q81</td>
         <td>Converted the number of fully conformant videos into a percentage of the total videos the reporting entity specified</td>
         <td>12.50%</td>
     </tr>
     <tr>
         <th scope="row">Miscellaneous</th>
-        <td><a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q82'>Q82</a> to <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q86'>Q86</a>, <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q88'>Q88</a> to <a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q92'>Q92</a></td>
+        <td>Q82 to Q86, Q88 to Q92</td>
         <td>
             <ul>
                 <li>Yes = 1</li>
@@ -187,27 +187,27 @@ Regression analysis describes a way to understand how different variables relate
 
 * Centers for Medicare and Medicaid (CMS) report to Congress, "<a href="https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/HomeHealthPPS/Downloads/HH-Report-to-Congress.pdf" target="_blank">Medicare Home Health Study: An Investigation on Access to Care and Payment for Vulnerable Patient Populations</a>" 
 
-Multivariable linear regression can explain how two or more independent variables affect a single dependent variable. In the Assessment, we conducted simple linear and multivariable linear regressions to understand how different variables within a reporting entity relate to one another to influence that reporting entity’s Section 508 compliance. Variables corresponded directly from criteria, and included but were not limited to the following:
+Multivariable linear regression can explain how two or more independent variables affect a single dependent variable. In the Assessment, we conducted simple linear and multivariable linear regressions to understand how different variables within a reporting entity relate to one another to influence that reporting entity’s Section 508 compliance. Variables corresponded directly from criteria (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>), and included but were not limited to the following:
 
-* Hours a Section 508 PM spends working on the reporting entity’s Section 508 Program every week (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-01/#q3'>Q3</a>)
+* Hours a Section 508 PM spends working on the reporting entity’s Section 508 Program every week (Q3)
 
-* Status of the reporting entity’s Section 508 Program (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q22'>Q22</a>)
+* Status of the reporting entity’s Section 508 Program (Q22)
 
-* Extent of resources available for the Section 508 Program (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-02/#q26'>Q26</a>)
+* Extent of resources available for the Section 508 Program (Q26)
 
-* Maturity of process for dealing with complaints about Section 508 issue (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-03/#q29'>Q29</a>)
+* Maturity of process for dealing with complaints about Section 508 issue (Q29)
 
-* Extent of Section 508 awareness training for employees (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q59'>Q59</a>)
+* Extent of Section 508 awareness training for employees (Q59)
 
-* Extent of ICT accessibility-related training for employees (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-10/#q60'>Q60</a>)
+* Extent of ICT accessibility-related training for employees (Q60)
 
-* Proportion of top 10 internal internet pages that are fully conformant (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q78'>Q78</a>)
+* Proportion of top 10 internal internet pages that are fully conformant (Q78)
 
-* Proportion of top 10 publicly available internet pages that are fully conformant (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q79'>Q79</a>)
+* Proportion of top 10 publicly available internet pages that are fully conformant (Q79)
 
-* Proportion of top 10 publicly available electronic documents that are fully conformant (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q80'>Q80</a>)
+* Proportion of top 10 publicly available electronic documents that are fully conformant (Q80)
 
-* Proportion of top 5 publicly available videos that are fully conformant (<a href='{{site.baseurl}}/manage/section-508-assessment/criteria-11/#q81'>Q81</a>)
+* Proportion of top 5 publicly available videos that are fully conformant (Q81)
 
 To examine the strength of these associations, we developed 42 regression equations to weigh the importance of each variable in determining the extent of a given reporting entity’s Section 508 compliance.<sup><a href="#fn38" id="fr38">38</a></sup> The regression equations summarized how these different variables within a reporting entity relate to that reporting entity’s level of compliance with Section 508 requirements. They clarified what drove reporting entity Section 508 compliance and where there might be opportunities for improvement. Four analyses (hypotheses) emerged as noteworthy which are described in detail in Findings under [Conformance Relationships: Regression Deep Dive]({{site.baseurl}}/manage/section-508-assessment/2023/findings/testing-lifecycle/#conformance-relationships-regression-deep-dive).
 

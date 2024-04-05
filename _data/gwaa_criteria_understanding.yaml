@@ -476,7 +476,7 @@
   u-descr: | 
     Users with disabilities do not have to be personnel within the reporting entity. For example, interoperability testing with Assistive Technology could be conducted by a firm hired to perform this function.
 
-    Engagement broadly refers to how real users contribute input, expertise, or feedback. Answer selection should reflect the reporting entity's honest assessment of how they engage users with disabilities to inform creation of user persona, defining user needs, etc.
+    Engagement broadly refers to how real users contribute input, expertise, or feedback. Answer selection should reflect the reporting entity's honest assessment of how they engage users with disabilities to inform creation of user personas, defining user needs, etc.
 -   
   qid: q25
   uid: u25
@@ -524,7 +524,7 @@
       <ol type="a">
         <li>Fosters a culture of "accessible by default"</li>
         <li>Specifically targets training for teams with known employees with disabilities</li>
-        <li>Internal communication highlight the importance of accessibility for all electronic content</li>
+        <li>Internal communication highlights the importance of accessibility for all electronic content</li>
         <li>Includes accessible content generation and other collaborative activities in policies, processes, or procedures</li>
         <li>Implements accessible templates for content creation</li>
         <li>Unknown</li>
@@ -613,7 +613,7 @@
   q-type: | 
     Select one:
   q-options: |
-    <ol>
+    <ol type="a">
       <li>No formal position nor duties assigned to perform the role of a Section 508 Program Manager or equivalent</li>
       <li>Section 508 Program Manager position has clearly defined roles and responsibilities but no personnel are currently performing the duties of the Section 508 Program Manager or equivalent</li>
       <li>Section 508 Program Manager or equivalent is currently staffed and has clearly defined roles, responsibilities, and Section 508-aligned performance measures</li>
@@ -664,7 +664,7 @@
   q-options: |
     <ol type="a">
       <li>Resource needs are unmet and no indication of plans for allocation</li>
-      <li>Resource need are identified but resources have not been allocated</li>
+      <li>Resource needs are unmet but resources are planned for allocation to meet needs in whole or in part</li>
       <li>Some resource needs are met (approximately 1%-59%)</li>
       <li>Most resource needs are met (approximately 60%-89%)</li>
       <li>All or almost all of resource needs are met (approximately 90% or more)</li>
@@ -719,7 +719,7 @@
   q-options: |
     <ol type="a">
       <li>ICT accessibility is not included in any reporting entity policies or directives</li>
-      <li>Reporting entity has a signed Section 508 policy only</li>
+      <li>Reporting entity has a draft Section 508 policy only</li>
       <li>ICT accessibility is included in some relevant policies or directives entity-wide</li>
       <li>ICT accessibility is included in most relevant policies or directives entity-wide</li>
       <li>Reporting entity includes consideration for ICT accessibility in its policy or directive creation, review, and management process, and almost all or all relevant policies include consideration for ICT accessibility requirements</li>
@@ -1006,7 +1006,7 @@
   qid: q50
   dimension: lifecycle
   q-descr: | 
-    How often is Section 508 conformance is integrated throughout technology development lifecycle activities? (*Required)
+    How often is Section 508 conformance integrated throughout technology development lifecycle activities? (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -1115,7 +1115,7 @@
       <li>N/A - reporting entity does not have any public online documents</li>
     </ol>
   u-descr: | 
-    Public, online documents (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#document" target="_blank">document</a>) are electronic documents available to the general public. 
+    Public, online documents (see the definition of <a href="../definition-of-terms/#document" target="_blank">document</a>) are electronic documents available to the general public. 
 -   
   qid: q56
   dimension: testing
@@ -1144,7 +1144,7 @@
     Select one:
   q-options: |
     <ol type="a">
-      <li>Never or rarely (0% of the time)</li>
+      <li>Never (0% of the time)</li>
       <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
       <li>Regularly (approximately 25%-59% of the time)</li>
       <li>Frequently (approximately 60%-89% of the time)</li>
@@ -1269,11 +1269,11 @@
     Select one:
   q-options: |
     <ol type="a">
-      <li>No Section 508 training plan defined</li>
-      <li>General Section 508 training plan defined but does not specify training needs and training curriculum by ICT roles and responsibilities</li>
-      <li>Section 508 training plan identifies training needs and training curriculum for some ICT roles and responsibilities (approximately 1%-50%)</li>
-      <li>Section 508 training plan identifies training needs and training curriculum for most ICT roles and responsibilities (approximately 51%-89%)</li>
-      <li>Section 508 training plan identifies training needs and training curriculum for almost all ICT roles and responsibilities (approximately 90% or more)</li>
+      <li>No Section 508 awareness training is offered</li>
+      <li>Section 508 awareness training is in development</li>
+      <li>An optional Section 508 awareness training is offered that employees sometimes take, but generally on an ad hoc basis</li>
+      <li>Required Section 508 awareness training as a one-time requirement such as part of employee onboarding</li>
+      <li>Required Section 508 awareness training on a regular basis such as annually</li>
       <li>Unknown</li>
     </ol>
 -   
@@ -1430,7 +1430,7 @@
     </ol>
   q-note: This question will show only if Question 68a is greater than 0.
   u-descr: | 
-    For a web page to be Section 508 conformant (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
 
     To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
 
@@ -1572,7 +1572,7 @@
   uid: u73b
   dimension: conformance
   q-descr: | 
-    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by a combination of both automated and manual testing? NOTE: The percentages entered in 73b, 73c, and 73d should add up to 100%. (*Required)
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by a combination of both automated and manual testing?**NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -1590,7 +1590,7 @@
   uid: u73c
   dimension: conformance
   q-descr: | 
-    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by automated testing? (*Required)
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by automated testing? (*Required) **NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%.
   q-type: | 
     Select one:
   q-options: |
@@ -1598,11 +1598,7 @@
       <li>Open response-whole number</li>
       <li>Unknown</li>
     </ol>
-  q-note:
-    <ul>
-      <li>This question is only required if Question 73a is greater than 0.</li>
-      <li>The percentages entered in 73b, 73c, and 73d should add up to 100%.</li>
-    </ul>
+  q-note: This question is only required if Question 73a is greater than 0.
   u-descr: | 
     If certain web pages were tested with automated tools only, enter that percentage here. As noted, this is for a specific reporting period; additional testing after the reporting period is not necessary in order to answer this question. 
 
@@ -1614,14 +1610,10 @@
   uid: u73d
   dimension: conformance
   q-descr: | 
-    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by manual testing? (*Required)
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by manual testing? (*Required) **NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%.
   q-type: | 
     Select one:
-  q-note: 
-    <ul>
-      <li>This question is only required if Question 73a is greater than 0.</li>
-      <li>The percentages entered in 73b, 73c, and 73d should add up to 100%.</li>
-    </ul>
+  q-note: This question is only required if Question 73a is greater than 0.
   q-options: |
     <ol type="a">
       <li>Open response-whole number</li>
@@ -1648,7 +1640,7 @@
     </ol>
   q-note: This question is only required if Question 73a is greater than 0.
   u-descr: | 
-    For a web page to be Section 508 conformant (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>"), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>"), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
 
     To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
 
@@ -1667,6 +1659,7 @@
     Please describe the methodology used to determine the estimated percentage of internal intranet web pages that fully conform to Section 508 in 74a. (*Required)
   q-options: |
     Open text field [character limit of 1000]
+  q-note: This question will only show if a is selected for Question 74a.
   u-descr: | 
     When responding to this question, please consider describing any of the following methods used:
 
@@ -1693,7 +1686,7 @@
   u-descr: | 
     If the reporting entity only tested the required 10 web pages in Question 76, please provide metrics here for only those pages. If the reporting entity tested additional pages within the reporting period, combine both data sets to report conformance metrics.
 
-    **NOTE:* Web-based applications with dynamic content or customizable views within a single page should be counted as one page. 
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page. 
 
     Below is an example of how to calculate the average number of Section 508 non-conformance issues per page:
 
@@ -1730,7 +1723,7 @@
 
     If the reporting entity does not have any internal intranet pages, please select N/A. If the reporting entity has less than 10 internal intranet pages, test all possible pages and report results. If the reporting entity has internal intranet pages but does not have resources to test, please select “Unavailable.”
 
-    NOTE: Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
 
     If the reporting entity tests web pages using automated tools only, they must switch to a different method to respond to this assessment. The reporting entity must use a manual test process or a combined manual and automated test process.
 
@@ -1742,7 +1735,7 @@
   uid: u77
   dimension: conformance
   q-descr: | 
-    Identify the reporting entity's top ten viewed electronic documents posted on the reporting entity's public website between June 1, 2023 and May 31, 2024. Test each document for full conformance to Section 508. This will require comprehensive manual testing in addition to any automated or a hybrid test process used. For each document, select each Section 508 standard or WCAG Success Criterion that has a failure. Please also provide the document name, document type, and document description. (*Required)
+    Identify the reporting entity's top ten viewed electronic documents posted on the reporting entity's public website between June 1, 2023 and May 31, 2024. Test each document for full conformance to Section 508. This will require comprehensive manual testing in addition to any automated or a hybrid test process used. For each document, select each Section 508 standard or WCAG Success Criterion that has a failure. Please also provide the document name, document URL, and document description. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -1752,7 +1745,7 @@
       <li>as results to report [If selected, show the following for each document:]</li>
       <ul>
         <li>Document Name</li>
-        <li>Document type:</li>
+        <li>Document URL:</li>
         <li>URL of document:</li>
         <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
       </ul>
@@ -1776,7 +1769,7 @@
   uid: u78
   dimension: conformance
   q-descr: | 
-    Identify the reporting entity's top five most-viewed videos between June 1, 2023 and May 31, 2024. Test each public or internal video for Section 508 conformance. For each video, select each Section 508 standard or WCAG Success Criterion that has a failure. Provide the video name, video description, and URL where the video resides, if applicable (please use generic names/descriptions if appropriate).  Select N/A if your reporting entity does not host or produce any videos. (*Required)
+    Identify the reporting entity's top five most-viewed videos between June 1, 2023 and May 31, 2024. Test each public or internal video for Section 508 conformance. For each video, select each Section 508 standard or WCAG Success Criterion that has a failure. Provide the video name, and URL where the video resides, if applicable (please use generic names/descriptions if appropriate).  Select N/A if your reporting entity does not host or produce any videos. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -2232,7 +2225,7 @@
   u-descr: | 
     For examples and directions see, [Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/).
 
-    **NOTE** for option i): Do not assume this website is fully Section 508 conformant (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>). If the page was fully tested for all 38 applicable WCAG Success Criteria prior to the reporting period using either manual methods or a combination of automated and manual methods, the results were documented, and the page remains unchanged since the test, the reporting entity may use those results to answer the "Section 508 conformant" part of this question.    
+    **NOTE** for option i): Do not assume this website is fully Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>). If the page was fully tested for all 38 applicable WCAG Success Criteria prior to the reporting period using either manual methods or a combination of automated and manual methods, the results were documented, and the page remains unchanged since the test, the reporting entity may use those results to answer the "Section 508 conformant" part of this question.    
 -   
   qid: q92
   uid: u92
@@ -2248,7 +2241,7 @@
     </ol>
   q-note: This question is only required if c is selected in Question 91.
   u-descr: | 
-    The feedback mechanism for Section 508-related issues is required as part of <a hef="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/"  target="_blank" class="usa-link--external">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
+    The feedback mechanism for Section 508-related issues is required as part of <a hef="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/"  target="_blank">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
 
     See Section508.gov for additional information on implementing a <a href="https://www.section508.gov/manage/laws-and-policies/implementing-public-feedback-mechanism/" target="_blank">public feedback mechanism</a>.
 
@@ -2256,13 +2249,13 @@
 
     If the person(s) responsible for addressing feedback from the public do not track the number of feedback items, answer “Unknown.”
 
-    **NOTE:** Public feedback (see the the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) on Section 508 is different from complaints (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#complaint">complaint</a>) pertaining to Section 508.
+    **NOTE:** Public feedback (see the the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) on Section 508 is different from complaints (see the definition of <a href="../definition-of-terms/#complaint">complaint</a>) pertaining to Section 508.
 -   
   qid: q93
   uid: u93
   dimension: conformance
   q-descr: | 
-    Of the total estimated public feedback responses about Section 508 accessibility issues that were received through the public feedback mechanism in the accessibility statement between June 1, 2023 and May 31, 2024, estimate how many were successfully addressed, resolved, or adjudicated. (*Required)
+    Of the total estimated public feedback responses about Section 508 accessibility issues that were received through the public feedback mechanism in the accessibility statement between June 1, 2023 and May 31, 2024, estimate how many were addressed, resolved, or adjudicated. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -2272,13 +2265,13 @@
     </ol>
   q-note: This question is only required if Question 92 is greater than 0.
   u-descr: | 
-    The feedback mechanism for Section 508-related issues is required as part of <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
+    The feedback mechanism for Section 508-related issues is required as part of <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
 
     See Section508.gov for additional information on implementing a <a href="https://www.section508.gov/manage/laws-and-policies/implementing-public-feedback-mechanism/" target="_blank">public feedback mechanism</a>.
 
-    Only include public feedback responses (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include feedback responses that remain in process, unresolved, ongoing, or any similar status.
+    Only include public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include feedback responses that remain in process, unresolved, ongoing, or any similar status.
 
-    NOTE: The number of feedback responses in Question 92 minus the number of closed feedback responses reported here (Question 93) should equal the number of currently open feedback responses within the reporting period (June 1, 2023, through May 31, 2024).    
+    **NOTE:** The number of feedback responses in Question 92 minus the number of closed feedback responses reported here (Question 93) should equal the number of currently open feedback responses within the reporting period (June 1, 2023, through May 31, 2024).    
 -   
   qid: q94
   uid: u94
@@ -2296,7 +2289,7 @@
   u-descr: | 
     For tracking, the reporting entity may use a help desk, IT system, spreadsheet, or another entity-specific method to track Section 508 complaints. Reporting may occur on a recurring basis or ad hoc, and reporting may be a formal report or informal, such as an email. Additionally, the reporting entity may use their parent agency process for Section 508 non-compliance related complaints; if so, please coordinate with the parent agency to answer complaint-related questions.
 
-    Please refer to the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#complaint" target="_blank">Complaint</a>.
+    Please refer to the definition of <a href="../definition-of-terms/#complaint" target="_blank">Complaint</a>.
 -   
   qid: q95
   dimension: conformance
@@ -2325,9 +2318,9 @@
       <li>Unknown</li>
     </ol>
   u-descr: | 
-    The reporting entity's Section 508 Program Office should be one of the primary points of contact for Section 508-related formal complaints (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#complaint" target="_blank">complaint</a>, but complaints may be handled in collaboration with or primarily by other departments. The reporting entity may need to contact other departments that handle such complaints, such as your parent agency, Human Resources, Civil Rights Office, or the points of contact for the Section 504 Office.
+    The reporting entity's Section 508 Program Office should be one of the primary points of contact for Section 508-related formal complaints (see the definition of <a href="../definition-of-terms/#complaint" target="_blank">complaint</a>, but complaints may be handled in collaboration with or primarily by other departments. The reporting entity may need to contact other departments that handle such complaints, such as your parent agency, Human Resources, Civil Rights Office, or the points of contact for the Section 504 Office.
 
-    **NOTE:** <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#complaint" target="_blank">Complaints</a> differ from public feedback responses (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a> the reporting entity receives.   
+    **NOTE:** <a href="../definition-of-terms/#complaint" target="_blank">Complaints</a> differ from public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a> the reporting entity receives.   
 -   
   qid: q97
   dimension: conformance
@@ -2356,7 +2349,7 @@
     </ol>
   q-note: This question is only required if Question 96 is greater than 0.
   u-descr: | 
-    The reporting entity response should include only those formal complaints (see the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#complaint" taget="_blank">complaint</a> that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include complaints that remain in process, unresolved, ongoing, or any similar status.
+    The reporting entity response should include only those formal complaints (see the definition of <a href="../definition-of-terms/#complaint" taget="_blank">complaint</a> that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include complaints that remain in process, unresolved, ongoing, or any similar status.
 
     **NOTE:** The number of complaints in Question 96 minus the number of closed complaints reported here (Question 98) should equal the number of open complaints within the reporting period.   
 -   
@@ -2374,7 +2367,7 @@
       <li>N/A- Reporting entity does not release ICT solicitations</li>
     </ol>
   u-descr: | 
-    "Each solicitation must include all applicable language requiring the ICT to be conformant to Section 508 requirements.
+    Each solicitation must include all applicable language requiring the ICT to be conformant to Section 508 requirements.
 
     To find the reporting entity's recent ICT-related solicitations:
 
@@ -2382,7 +2375,7 @@
     - Find your entity's most recent solicitations where they are posted online (e.g., the System for Award Management [SAM.gov]; the GSA eBuy site).
     - Review the <a href="https://www.section508.gov/buy/solicitation-review-tool/" target="_blank">GSA Solicitation Review Tool (SRT)</a> results if your reporting entity uses the SRT.
 
-    NOTE: Refer to the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
+    **NOTE:** Refer to the definition of <a href="../definition-of-terms/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
 -   
   qid: q100
   uid: u100
@@ -2430,8 +2423,9 @@
       <li>Yes</li>
       <li>No</li>
     </ol>
+  q-note: This question is only required if Question 101 is Yes.
   u-descr: | 
-    Please see Definition of Terms for a description of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
+    Please see Definition of Terms for a description of <a href="../definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="../definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="../definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
 -   
   qid: q102
   uid: u102
@@ -2450,7 +2444,7 @@
     </ol>
   q-nate: This question is only required if Question 101 is Yes.
   u-descr: | 
-    Please refer to the definition of <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
+    Please refer to the definition of <a href="../definition-of-terms/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
 
     If the product is supplied to another federal reporting entity or agency, it may be considered a Government Off-The-Shelf (GOTS) system. If this is the case, an ACR or Government Product Accessibility Template (GPAT) may be reviewed. 
 

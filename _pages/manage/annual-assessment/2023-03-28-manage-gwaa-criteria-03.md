@@ -7,7 +7,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
 ---
 
 <H2 id="policies-procedures-and-practices">Policies, Procedures, and Practices</H2>
-<p>The section asks about your agency's development, implementation, and continuous improvement of ICT accessibility related policies, procedures, directives and standards and the inclusion of digital accessibility into relevant policies across all business functions of your agency. </p>
+<p>The section asks about your reporting entity's development, implementation, and continuous improvement of ICT accessibility related policies, procedures, directives and standards and the inclusion of digital accessibility into relevant policies across all business functions of your reporting entity. </p>
 
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-y-3 margin-x-1">
