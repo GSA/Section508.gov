@@ -5,7 +5,7 @@ start-date: #only fill in start date if the events spans multiple days (24-hour 
 end-date: Tuesday, April 30 2024 14:00 #otherwise use end-date (24-hour time)
 image:
 image-alt: 
-permalink: /event/gwaa-office-hours-25apr2024/
+permalink: /event/gwaa-office-hours-30apr2024/
 description: "The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity point of contact can meet with our teams to discuss the criteria or other questions related to completing the assessment."
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity's point of contact can meet with the team to discuss questions related to completing the assessment.
