@@ -939,11 +939,11 @@
     Select one:
   q-options: |
     <ol type="a">
-      <li>Never (0% of the time)</li>
-      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
-      <li>Regularly (approximately 25%-59% of the time)</li>
-      <li>Frequently (approximately 60%-89% of the time)</li>
-      <li>Almost always and affinity groups have an active voice and role in ICT accessibility considerations (approximately 90% or more of the time)</li>
+      <li>Never</li>
+      <li>Sometimes but generally on an ad hoc basis (1-2 times a year)</li>
+      <li>Regularly through scheduled interactions (3-4 times a year)</li>
+      <li>Frequently through scheduled interactions (5-6 times a year)</li>
+      <li>Affinity groups have an active voice and role in ICT accessibility considerations and are engaged through scheduled interactions 7 or more times a year or interactions are integrated into development lifecycle feedback loops</li>
       <li>Unknown</li>
       <li>N/A - reporting entity does not have a Section 508 program or equivalent</li>
     </ol>
