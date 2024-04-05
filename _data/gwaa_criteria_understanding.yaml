@@ -2423,7 +2423,6 @@
       <li>Yes</li>
       <li>No</li>
     </ol>
-  q-note: This question is only required if Question 101 is Yes.
   u-descr: | 
     Please see Definition of Terms for a description of <a href="../definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="../definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="../definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
 -   
