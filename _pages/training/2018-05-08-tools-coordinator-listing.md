@@ -10,9 +10,9 @@ redirect_from:
 - 508-coordinator-listing/
 - content/coordinator-listing/
 ---
-Agency Section 508 Program Managers (PMs) are your first point of contact for questions about IT accessibility. Find an agency’s designated Section 508 PM below.
+OMB’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
-To update your agency or component-agency listing, please email us at <section.508@gsa.gov> with the Section 508 PM's name, phone number and email address. If your agency doesn't have a designated Section 508 PM, contact your agency CIO's office for assistance. 
+At the discretion of the agency CIO (or designee), subcomponents may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
 
 ## Departments and CFO Act Agencies
 
@@ -172,15 +172,11 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
-Erin Connolly - <erin.connolly@dau.edu>  
+Consuala Spencer - <consuala.spencer@dau.edu>  
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - <antonio.boston.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
-
-* **Center for Development of Security Excellence (CDSE)** <br>
-Caroline S. Zambrowicz - <caroline.s.zambrowicz.civ@mail.mil>  
-
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
@@ -215,7 +211,7 @@ David Frasher - <david.frasher@dsca.mil>
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
-Flynn Rosko - (BACKUP) - <flynn.j.rosko.civ@mail.mil>
+Bob Ciola - <robert.a.ciola.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
 Pamela Whitehead - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
@@ -537,7 +533,7 @@ Tracy George - <georget@oig.treas.gov>
 Rodney Kent - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Treasury Inspector General for Tax Administration (TIGTA)
-Jerry Kim - <jerry.kim@tigta.treas.gov>
+Buddy Rapczynski - <buddy.rapczynski@tigta.treas.gov>  
 ### U.S. Mint
 James Proctor - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (BACKUP) - <rodney.dunwoody@usmint.treas.gov>
@@ -862,7 +858,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ----------------------------------------------------
 
-**Reviewed/Updated**: March, 2024
+**Reviewed/Updated**: April, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
