@@ -1646,7 +1646,7 @@
 
     Sampling may be used to estimate a percentage. To determine an appropriate number of web pages to sample, you can use a free, web-based sample size calculator that accepts confidence level, margin of error, and population size. Enter search terms such as "sample size calculator" to find a suitable tool. Consider a 90% confidence level and 10% margin of error. 
 
-    NOTE: For population size, enter the same value you previously determined for Question 72 as the total number of public internet web pages.
+    **NOTE:** For population size, enter the same value you previously determined for Question 72 as the total number of public internet web pages.
 
     If the reporting entity has only tested the required 10 web pages in Question 76, please provide metrics here for only those pages. If  additional pages were tested within the reporting period, combine both data sets to report conformance metrics for the reporting entity's internet sites.
 
