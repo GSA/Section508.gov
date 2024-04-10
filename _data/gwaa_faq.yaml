@@ -56,7 +56,7 @@
       <li>Q66 was moved from the Testing and Validation dimension to the Training dimension.</li>
       <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q89, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
       <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
-      <li>Five Three questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
+      <li>Five questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
 -  
   id: 104
