@@ -44,7 +44,7 @@ The Trusted Tester training track includes a comprehensive range of courses, inc
 
 <h2>Get in Touch:</h2>
 For any questions or assistance, you can reach out to the DHS Accessibility Helpdesk at <a href= "mailto:Accessibility@HQ.DHS.gov">Accessibility@HQ.DHS.gov</a>.
-
+<br>
 Don't miss out on this opportunity to expand your knowledge and skills in web accessibility
 testing with Trusted Tester v5.1.3!
 
@@ -55,5 +55,5 @@ training and formal accessibility testing certification for utilizing the DHS Tr
 
 Agencies adopting this process only accept test results from individuals certified as Trusted
 Testers.
-
+<br>
 For more information and resources, explore the <a href="https://www.section508.gov/test/trusted-tester/">DHS Trusted Tester Process and Certification Program page</a> on Section508.gov. 
