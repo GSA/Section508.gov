@@ -8,6 +8,11 @@ created: 2024-04-12
 description: DHS recently announced the launch of the Trusted Tester for Web Certification courses version 5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more accessible and streamlined learning experience for participants.
 contributors: 
 ---
+<br>
+DHS recently announced the launch of the Trusted Tester for Web Certification courses version
+5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more
+accessible and streamlined learning experience for participants.
+<br>
 <h2>What's New in v5.1.3:</h2>
 <ol>
 <li><strong>Accessible Plain Language:</strong> The updated courses now feature plain language and
@@ -52,9 +57,7 @@ testing with Trusted Tester v5.1.3!
 <h2>About the DHS Trusted Tester Process:</h2>
 The DHS Trusted Tester Process is a manual testing approach aligned with the ICT Testing
 Baseline for Web, offering repeatable and reliable conformance test results. DHS provides
-training and formal accessibility testing certification for utilizing the DHS Trusted Tester Process.
-
-Agencies adopting this process only accept test results from individuals certified as Trusted
+training and formal accessibility testing certification for utilizing the DHS Trusted Tester Process. Agencies adopting this process only accept test results from individuals certified as Trusted
 Testers.
 <br>
 <br>
