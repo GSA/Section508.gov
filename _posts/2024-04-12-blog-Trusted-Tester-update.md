@@ -8,7 +8,6 @@ created: 2024-04-12
 description: DHS recently announced the launch of the Trusted Tester for Web Certification courses version 5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more accessible and streamlined learning experience for participants.
 contributors: 
 ---
-<br>
 DHS recently announced the launch of the Trusted Tester for Web Certification courses version
 5.1.3 (v5.1.3). This latest version brings a variety of improvements aimed at offering a more
 accessible and streamlined learning experience for participants.
