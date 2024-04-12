@@ -34,13 +34,14 @@ If you would like to register for the online courses, visit the Training Portal 
 <h2>Course Listing:</h2>
 The Trusted Tester training track includes a comprehensive range of courses, including:
 <ul>
-<li>What Is Section 508 and Why Is It Important?
+<li>What Is Section 508 and Why Is It Important?</li>
 <li>Section 508 Standards for Web</li>
 <li>Trusted Tester Tools for Web on Windows</li>
 <li>Trusted Tester - Training for Web on Windows</li>
 <li>Trusted Tester - Practice Exam for Web on Windows</li>
 <li>Trusted Tester - Certification Exam for Web on Windows</li>
 </ul>
+
 <h2>Get in Touch:</h2>
 For any questions or assistance, you can reach out to the DHS Accessibility Helpdesk at <a href= "mailto:Accessibility@HQ.DHS.gov">Accessibility@HQ.DHS.gov</a>.
 
