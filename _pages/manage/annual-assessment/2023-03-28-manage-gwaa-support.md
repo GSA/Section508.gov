@@ -4,8 +4,6 @@ sidenav: true
 permalink: manage/section-508-assessment/support/
 type: manage
 title: "Government-wide Section 508 Assessment Support"
-redirect_to:
-- manage/section-508-assessment/
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) have created a number of resources for agencies to use when preparing to submit their Section 508 assessment.
 
@@ -22,9 +20,10 @@ If these resources don’t answer your question, or you wish to report an issue 
 
 ## Office Hours
 During the reporting period, GSA, USAB and OMB will schedule “office hours” meetings, or times when your agency’s point of contact can meet with our team to discuss questions related to completing the assessment.
+
 For more information on upcoming office hours, visit [Events][5].
 
-**Reviewed/Updated:** April 2023
+**Reviewed/Updated:** April 2024
 
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
