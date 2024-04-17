@@ -1337,7 +1337,7 @@
 
     **NOTE:** For websites operated in collaboration between multiple reporting entities, only count the pages if your reporting entity is considered the primary owner or manager of the website.    
     
-    **NOTE:** For the purposes of this Assessment, extranet is included in questions related to internet web pages.    
+    **NOTE:** For the purposes of this Assessment, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE">extranet</a> is included in questions related to internet web pages.    
 -   
   qid: q68a
   uid: u68a
@@ -2108,7 +2108,7 @@
       <li>N/A- reporting entity does not have any publicly available fillable forms</li>
     </ol>
   u-descr: | 
-    To determine the most widely used public facing fillable form, refer to Understanding for Question 77. 
+    To determine the most widely used public facing <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable form</a>, refer to Understanding for Question 77. 
 
     To estimate a percentage of conformance, follow the formula and steps below:
 
