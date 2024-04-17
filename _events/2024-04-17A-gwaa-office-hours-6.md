@@ -1,11 +1,11 @@
 ---
-title: "Section 508 Assessment Office Hours #5 | May 14, 2024"
+title: "Section 508 Assessment Office Hours #6 | May 23, 2024"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days (24-hour time)
-end-date: Tuesday, May 14 2024 10:00 #otherwise use end-date (24-hour time)
+end-date: Thursday, May 23 2024 14:00 #otherwise use end-date (24-hour time)
 image:
 image-alt: 
-permalink: /event/gwaa-office-hours-14may2024/
+permalink: /event/gwaa-office-hours-23may2024/
 description: "The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity point of contact can meet with our teams to discuss the criteria or other questions related to completing the assessment."
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) will be hosting “office hours” meetings, or times when your reporting entity's point of contact can meet with the team to discuss questions related to completing the assessment.
@@ -17,13 +17,13 @@ Prior to participating in an office hours event, please ensure that you are fami
 - [Definition of Terms][5]
 
 ## Event Details
-**DATE:** May 14, 2024  
-**TIME:** 10:00 AM - 11:00 AM (EST)  
+**DATE:** May 23, 2024  
+**TIME:** 2:00 PM - 3:00 PM (EST)  
 **WHERE:** Virtual  
 **WHO:** Points of contact designated to support the annual Government-wide Section 508 Assessment  
 
 ## Registration
-[Registration][7] is now open and will close Tuesday, May 14 at 9:30 AM ET. [Sign up today!][7]   
+[Registration][7] is now open and will close Thursday, May 23 at 1:30 PM ET. [Sign up today!][7]   
 
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.  CART will be provided.
 
@@ -36,4 +36,4 @@ This virtual meeting is supported by Zoom for Government (FedRAMP certified). Pl
 [4]: {{site.baseurl}}/manage/section-508-assessment/faq/
 [5]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
 [6]: {{site.baseurl}}/events/
-[7]: https://gsa.zoomgov.com/meeting/register/vJItf-2uqDktGkes1UdDCp4dLUGmrEmW0pY
+[7]: https://gsa.zoomgov.com/meeting/register/vJItceurpzorHcOwEK5x79Gt6oSVAC9-Ll0
