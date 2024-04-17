@@ -22,6 +22,8 @@
       <li>Unknown</li>
     </ol>
   u-descr: | 
+    Estimate how many federal employees are currently employed and receiving a paycheck. 
+    
     Only include federal employees for the reporting entity. Parent agencies should not include other reporting entity federal staff when answering this question. 
 
     Exclude contractors from the total number of onboarded federal employees.

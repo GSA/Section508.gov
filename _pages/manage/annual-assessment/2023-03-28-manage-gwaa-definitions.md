@@ -111,7 +111,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="feedback-loop"><strong>Feedback loop:</strong></span> A method for integrating stakeholder feedback into refining processes, policies, and procedures.
 
-- <span id="fillable-form"><strong>Fillable form:</strong></span> Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields.
+- <span id="fillable-form"><strong>Fillable form:</strong></span> Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields with the intent to collect data. Exclude singular form fields such as a "Search" field where there is no intent to collect data.
 
 - <span id="formal"><strong>Formal:</strong></span> Officially approved or recognized.
 
