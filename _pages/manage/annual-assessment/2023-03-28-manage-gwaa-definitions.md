@@ -132,7 +132,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 <span id="sectionG">G</span>
 </h2>
 
-- <span id="government-off-the-shelf"><strong>Government Off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. 
+- <span id="government-off-the-shelf"><strong>Government off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. 
 
 <h2>
   <span id="sectionI">I</span>
