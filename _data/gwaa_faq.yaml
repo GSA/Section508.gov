@@ -127,15 +127,15 @@
   q: What has been updated since the criteria were released on April 9th??
   a: |
     As of April 18th, the following had been changed:
-  <ul>
-  <li>Added definition of fillable form.</li>
-  <li>Updated Understanding for Question 1 to include employees who are currently receiving a paycheck.</li> 
-  <li>Updated Understanding of Question 67 to explicitly add that extranet is included in questions related to internet web pages.</li> 
-  <li>Updated Understanding for Question 87 to include a definition of fillable form and scope the form to one that requires a PRA clearance.</li> 
-  <li>Added additional Office Hours through May.</li> 
-  </ul>
+    <ul>
+    <li>Added definition of fillable form.</li>
+    <li>Updated Understanding for Question 1 to include employees who are currently receiving a paycheck.</li> 
+    <li>Updated Understanding of Question 67 to explicitly add that extranet is included in questions related to internet web pages.</li> 
+    <li>Updated Understanding for Question 87 to include a definition of fillable form and scope the form to one that requires a PRA clearance.</li> 
+    <li>Added additional Office Hours through May.</li> 
+    </ul>
   -  
-id: 201
+  id: 201
   h: Submitting Data
   q: Is there a way for me to gather all my answers offline?
   a: |
