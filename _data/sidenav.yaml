@@ -488,9 +488,11 @@ acquisition:
     children:
       - name: Sell Accessible Products and Services
         url: sell/
-      - name: Voluntary Product Accessibility Template (VPAT)
-        url: sell/vpat/
-      - name: How to Create an ACR with a VPAT
+      - name: Accessibility Conformance Report (ACR)
+        url: sell/acr/
+      - name: OpenACR Editor
+        url: tools/openacr-editor/
+      - name: How to Create an ACR with a VPAT&reg;
         url: sell/how-to-create-acr-with-vpat/
       - name: ACR/VPAT FAQ
         url: sell/acr-vpat-faq/
