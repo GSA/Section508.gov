@@ -2110,7 +2110,7 @@
       <li>N/A- reporting entity does not have any publicly available fillable forms</li>
     </ol>
   u-descr: | 
-    Only consider <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
+    For purposes of this Assessment, only consider <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
 
     To estimate a percentage of conformance, follow the formula and steps below:
 
