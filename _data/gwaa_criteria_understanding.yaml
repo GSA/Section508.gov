@@ -22,6 +22,8 @@
       <li>Unknown</li>
     </ol>
   u-descr: | 
+    Estimate how many federal employees are currently employed and receiving a paycheck. 
+    
     Only include federal employees for the reporting entity. Parent agencies should not include other reporting entity federal staff when answering this question. 
 
     Exclude contractors from the total number of onboarded federal employees.
@@ -1336,6 +1338,8 @@
     **NOTE:** When seeking the above information from the web team, you may also need certain information on the most frequently used digital content on reporting entity websites in order to answer other Conformance Metrics questions. 
 
     **NOTE:** For websites operated in collaboration between multiple reporting entities, only count the pages if your reporting entity is considered the primary owner or manager of the website.    
+    
+    **NOTE:** For the purposes of this Assessment, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE">extranet</a> is included in questions related to internet web pages.    
 -   
   qid: q68a
   uid: u68a
@@ -2106,7 +2110,7 @@
       <li>N/A- reporting entity does not have any publicly available fillable forms</li>
     </ol>
   u-descr: | 
-    To determine the most widely used public facing fillable form, refer to Understanding for Question 77. 
+    For purposes of this Assessment, only consider <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
 
     To estimate a percentage of conformance, follow the formula and steps below:
 
