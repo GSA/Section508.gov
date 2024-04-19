@@ -5,6 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your 508 Program Manager'
 created: 1525805876
+modified: 2024-04-19
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -150,7 +151,7 @@ Patricia Kless - <patricia.kless@uspto.gov>
 ----------------------------------------------------
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
-Susan Jennifer (Jen) Haggerty - <susan.j.haggerty2.civ@mail.mil>  
+Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
@@ -193,7 +194,7 @@ Stephanie	Rozario-Hamilton - <stephanie.a.rozario-hamilton.civ@mail.mil>
 
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
-Paula Castro (Backup) - <paula.castro@dodiis.mil>    
+Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Richard Harmon - <richard.harmon@dla.mil>  
@@ -237,7 +238,9 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 Katherine	S. Nichols - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
 ### U.S. Southern Command (SOUTHCOM)
-Michael Kennedy - 305-437-1735 - <michael.b.kennedy.civ@mail.mil>
+Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
+### U.S. Space Command (USSPACECOM)
+Shawn "Ty" Yeager - <shawn.yaeger.1@usspacecom.mil>  
 ### Washington Headquarters Service (WHS)
 Glenn T. Buchter - <glenn.t.buchter.civ@mail.mil>  
 
@@ -610,6 +613,10 @@ Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>
 Edward Yang - <eyang@abilityone.gov>  
 
 ----------------------------------------------------
+### Commodity Futures Trading Commission (CFTC)
+Kate Cerveny - <kcerveny@cftc.gov>
+
+----------------------------------------------------
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - <jennifer.horan@cfpb.gov>  
 
@@ -716,7 +723,7 @@ Tekquell Watson - <twatson@IMLS.gov>
 
 ----------------------------------------------------
 ### Inter-American Foundation (IAF)
-Jacquelyn	Dolezal Morales - <jdolezalmorales@iaf.gov>  
+Duleep Sali - <dsahi@iaf.gov>  
 
 ----------------------------------------------------
 
@@ -748,7 +755,7 @@ Joseph Galicia - <galiciaj@arts.gov>
 
 ----------------------------------------------------
 ### National Endowment for the Humanities (NEH)
-Tayna Peltz - <tpeltz@neh.gov>  
+Ageliki Key - <akey@neh.gov>  
 
 ----------------------------------------------------
 ### National Labor Relations Board (NLRB)
