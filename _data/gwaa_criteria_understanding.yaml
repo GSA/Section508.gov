@@ -519,7 +519,7 @@
   uid: u26
   dimension: general
   q-descr: | 
-    Indicate what measures are taken by the reporting entity to ensure content generation and other collaborative activities (e.g., draft documents, presentations, wireframes, and other non-agency official communication) allow colleagues with disabilities to fully participate.
+    Indicate what measures are taken by the reporting entity to ensure content generation and other collaborative activities (e.g., draft documents, presentations, wireframes, and other non-agency official communication) allow colleagues with disabilities to fully participate. (*Required)
   q-type: | 
     Select all that apply:
   q-options: |
