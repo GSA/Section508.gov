@@ -367,7 +367,7 @@
   uid: u19
   dimension: general
   q-descr: | 
-    Does the reporting entity have a defined process for reviewing and approving Best Meets Exceptions?
+    Does the reporting entity have a defined process for reviewing and approving Best Meets Exceptions? (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -383,7 +383,7 @@
   qid: q20
   dimension: general
   q-descr: | 
-    Who has authority to sign off on Best Meets Exceptions?
+    Who has authority to sign off on Best Meets Exceptions? (*Required)
   q-type: | 
     Select all that apply:
   q-options: |
@@ -403,7 +403,7 @@
   uid: u21
   dimension: general
   q-descr: | 
-    Does the reporting entity have a defined process for reviewing and approving Fundamental Alteration and Undue Burden Exceptions?
+    Does the reporting entity have a defined process for reviewing and approving Fundamental Alteration and Undue Burden Exceptions? (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -420,7 +420,7 @@
   uid: u22
   dimension: general
   q-descr: | 
-    Who has authority to sign off on Fundamental Alteration and Undue Burden Exceptions?
+    Who has authority to sign off on Fundamental Alteration and Undue Burden Exceptions? (*Required)
   q-type: | 
     Select all that apply:
   q-options: |
@@ -440,7 +440,7 @@
   uid: u23
   dimension: general
   q-descr: | 
-    How does the reporting entity research and evaluate contractors in order to select the most capable of delivering ICT development services that meet applicable Section 508 requirements? Examples of ICT development services include ICT design and development, creation of electronic content, multimedia creation, and facilitation of technology-reliant meetings or conferences. 
+    How does the reporting entity research and evaluate contractors in order to select the most capable of delivering ICT development services that meet applicable Section 508 requirements? Examples of ICT development services include ICT design and development, creation of electronic content, multimedia creation, and facilitation of technology-reliant meetings or conferences. (*Required) 
   q-type: | 
     Select all that apply:
   q-options: |
