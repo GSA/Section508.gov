@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/laws-and-policies/website-accessibility-statement/
 type: manage
 title: 'Developing a Website Accessibility Statement'
+created: 
+modified: 2024-04-19
 ---
 
 The Office of Management and Budget (OMB) memorandum on [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)][1] requires federal agencies to maintain an accessibility statement on their websites.
@@ -106,19 +108,10 @@ Per M-24-08, “agencies shall maintain a digital accessibility statement on fed
   </li>
 </ol>
 
-<!--
 ## Examples of Accessibility Statements
 
-* [Department of Homeland Security (DHS)][2]
-* [Department of State (USDOS)][3]
-* [Department of the Interior (DOI)][4]
-* [Federal Communications Commission (FCC)][5]
-* [Federal Deposit Insurance Corporation (FDIC)][6]
-* [National Security Agency (NSA)][7]
-* [U.S. Access Board (USAB)][8]
-
-<p>&nbsp;</p>
--->
+* <a href="https://www.gsa.gov/website-information/accessibility-statement" target="_blank" class="usa-link--external">General Services Administration (GSA) Accessibility Statement</a>
+* <a href="https://www.nrc.gov/site-help/access.html" target="_blank" class="usa-link--external">U.S. Nuclear Regulatory Commission (NRC)Accessibility Statement</a>
 
 ## Where to Publish an Accessibility Statement
 
@@ -145,13 +138,6 @@ Websites not utilizing the USWDS’s Identifier component should ensure a link t
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3-statement">Figure 3: Example of an accessibility statement using the link text “Website Policies & Notices” among other links such as Privacy Policy, FOIA, No Fear Act and Contact Us.</span></div>
 </div>
 
-**Reviewed/Updated:** March 2024
+**Reviewed/Updated:** April 2024
 
 [1]: https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/
-[2]: https://www.dhs.gov/accessibility
-[3]: https://www.state.gov/section-508-accessibility-statement/
-[4]: https://doi.gov/accessibility
-[5]: https://www.fcc.gov/accessibility/program
-[6]: https://www.fdic.gov/accessibility/index.html
-[7]: https://www.nsa.gov/nsa-accessibility/
-[8]: https://www.access-board.gov/about/policy/accessibility.html

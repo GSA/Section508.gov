@@ -111,6 +111,8 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="feedback-loop"><strong>Feedback loop:</strong></span> A method for integrating stakeholder feedback into refining processes, policies, and procedures.
 
+- <span id="fillable-form"><strong>Fillable form:</strong></span> Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields with the intent to collect data. Exclude singular form fields such as a "Search" field where there is no intent to collect data. For the purpose of Assessment Question 87, only consider fillable forms that require a [Paperwork Reduction Act](https://pra.digital.gov/do-i-need-clearance/) clearance.
+
 - <span id="formal"><strong>Formal:</strong></span> Officially approved or recognized.
 
 - <span id="frequency"><strong>Frequency:</strong></span> Defines activity occurrence levels, not on a linear scale, as follows: 
@@ -130,7 +132,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 <span id="sectionG">G</span>
 </h2>
 
-- <span id="government-off-the-shelf"><strong>Government Off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. 
+- <span id="government-off-the-shelf"><strong>Government off-the-shelf (GOTS):</strong></span> Product that is developed with funding and specificity from a government agency. 
 
 <h2>
   <span id="sectionI">I</span>

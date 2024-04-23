@@ -13,7 +13,11 @@
 // $theme-font-type-sans: "public-sans";
 // $theme-show-notifications: false;
 
-@use 'uswds' as *;
+@use 'uswds' with (
+  $theme-show-notifications: false,
+  $theme-font-type-sans: "public-sans",
+);
+
 
 
 
@@ -1481,4 +1485,26 @@ div[role=rowheader] {
   margin-top: 5px; 
   padding-top: 20px;
   padding-left: 20px; 
+}
+
+.tools-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top:30px;
+}
+
+.border-top-none{
+    border-top:none;
+}
+
+@media screen and (max-width: 640px) {
+    .margin-top-12 {
+        margin-top: 12px;
+    }
+
+    .margin-top-neg{
+        margin-top:-8px;
+    }
 }

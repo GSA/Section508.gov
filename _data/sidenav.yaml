@@ -384,6 +384,8 @@ training:
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
         url: 'tools/openacr-editor/'
+      - name: OpenACR Repository
+        url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
       - name: Accessibility Playbooks
@@ -416,7 +418,9 @@ develop:
       - name: Develop Web Content
         url: develop/web-content/
       - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/     
+        url: develop/incorporating-accessibility-conformance/   
+      - name: How to Avoid Bias in Emerging Technologies
+        url: develop/avoid-bias-in-emerging-technologies/  
 test:
   - name: Testing
     url: 'test/'
@@ -486,9 +490,11 @@ acquisition:
     children:
       - name: Sell Accessible Products and Services
         url: sell/
-      - name: Voluntary Product Accessibility Template (VPAT)
-        url: sell/vpat/
-      - name: How to Create an ACR with a VPAT
+      - name: Accessibility Conformance Report (ACR)
+        url: sell/acr/
+      - name: OpenACR Editor
+        url: tools/openacr-editor/
+      - name: How to Create an ACR with a VPAT&reg;
         url: sell/how-to-create-acr-with-vpat/
       - name: ACR/VPAT FAQ
         url: sell/acr-vpat-faq/
