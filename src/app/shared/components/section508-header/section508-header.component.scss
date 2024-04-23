@@ -1,8 +1,6 @@
-.usa-nav__secondary-item {
-    &::before{
-      color: #ffffff !important;
-      content: "--" !important;
-    }
+
+.usa-nav__secondary-item + .usa-nav__secondary-item {
+  border-left: none !important; 
 }
 
 @media screen and (max-width: 1023px)  {
