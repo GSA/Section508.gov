@@ -2457,7 +2457,7 @@
   uid: u103
   dimension: conformance
   q-descr: | 
-    Please use this space to provide open-ended responses to the following prompts (responses to all are encouraged):(*Required)
+    Please use this space to provide open-ended responses to the following prompts (responses to all are encouraged): (*Required)
   q-type: | 
     Open response-text (2000 characters maximum) for each option
   q-options: |
