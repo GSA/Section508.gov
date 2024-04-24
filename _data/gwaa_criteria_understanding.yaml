@@ -163,7 +163,7 @@
   uid: u9
   dimension: general
   q-descr: | 
-    Which of the following ICT types does the reporting entity evaluate with a Section 508 conformance test process?
+    Which of the following ICT types does the reporting entity evaluate with a Section 508 conformance test process? (*Required)
   q-type: |
     Select all that apply
   q-options: |
@@ -2458,14 +2458,15 @@
   dimension: conformance
   q-descr: | 
     Please use this space to provide open-ended responses to the following prompts (responses to all are encouraged): (*Required)
-    <ol>
+  q-type: | 
+    Open response-text (2000 characters maximum) for each option
+  q-options: |
+    <ol type="a">
       <li>What changes has the reporting entity implemented in the past year to increase Section 508 compliance? Please be as specific as possible.</li>
       <li>What has been the impact of the above changes on Section 508 compliance within the reporting entity?</li>
       <li>Indicate the top 2-3 areas the entity’s Section 508 Program has focused improvement in since the FY23 Assessment?</li>
       <li>What challenges has the reporting entity faced in the past year with regards to Section 508 compliance?</li>
       <li>Is there anything additional to share regarding the reporting entity's Section 508 program or equivalent?</li>
     </ol>
-  q-options: |
-    Open response-text (2000 characters maximum)
   u-descr: | 
     Please use this text field to write any additional details or narrative about your program, answer selections, etc. When referencing a specific question, please include the question number.
