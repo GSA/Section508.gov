@@ -755,7 +755,7 @@
   uid: u37
   dimension: communications
   q-descr: | 
-    Indicate how often the reporting entity distributes communicates with employees and contractors about digital accessibility. (*Required)
+    Indicate how often the reporting entity distributes communications with employees and contractors about digital accessibility. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -1220,7 +1220,7 @@
     <ol type="a">
       <li>Needs are not considered</li>
       <li>Needs are sometimes considered or included but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
-      <li>Need are defined as part of the business needs assessment or equivalent and are regularly considered or included in ICT acquisitions (approximately 25%-59% of the time)</li>
+      <li>Needs are defined as part of the business needs assessment or equivalent and are regularly considered or included in ICT acquisitions (approximately 25%-59% of the time)</li>
       <li>Needs are defined as part of the business needs assessment or equivalent and are frequently considered or included (approximately 60%-89% of the time)</li>
       <li>Needs are integrated into business needs processes or equivalent, almost always included, and feedback loops are established for continuous refinement (approximately 90% or more of the time)</li>
       <li>Unknown</li>
@@ -2075,7 +2075,7 @@
       <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
       <li>Conforms to less than 50% of applicable Section 508 requirements</li>
       <li>Unknown</li>
-      <li>N/A- reporting entity does not have use any video player</li>
+      <li>N/A- reporting entity does not use any video player</li>
     </ol>
   u-descr: | 
     Please only consider the video player itself. Do not test and report on any multimedia.
