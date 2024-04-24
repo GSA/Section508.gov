@@ -7,13 +7,19 @@
 
 // Example - Override the background image in the hero component using SASS:
 // $theme-hero-image: asset_path("whatever-the-default-is.png");
-$theme-font-type-sans: "public-sans";
-$theme-show-notifications: false;
-@import "scss/packages/required";
-@import "scss/packages/global";
 
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
+
+
+// $theme-font-type-sans: "public-sans";
+// $theme-show-notifications: false;
+
+@use 'uswds' with (
+  $theme-show-notifications: false,
+  $theme-font-type-sans: "public-sans",
+);
+
+
+
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
@@ -440,9 +446,11 @@ div[role=rowheader] {
     max-width: calc( 35ch + 4rem );
     width: 100%;
   }
-  .usa-nav__secondary-links .usa-nav__secondary-item + .usa-nav__secondary-item::before{
-    visibility: hidden;
+
+  .usa-nav__secondary-item + .usa-nav__secondary-item {
+    border-left: none !important; 
   }
+
   .topics {
     ul {
       border-left: 6px solid #DBF6ED;

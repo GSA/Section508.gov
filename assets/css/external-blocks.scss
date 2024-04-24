@@ -1,14 +1,20 @@
 ---
 ---
 
-$theme-image-path: "https://www.section508.gov/assets/img";
-$theme-font-path: "https://gsa.github.io/openacr-editor-stage/fonts";
-$theme-show-notifications: false;
+// $theme-image-path: "https://www.section508.gov/assets/img";
+// $theme-font-path: "https://gsa.github.io/openacr-editor-stage/fonts";
+// $theme-show-notifications: false;
 
-@import "scss/packages/required";
-@import "scss/packages/global";
-@import "scss/packages/uswds-components";
-@import "scss/packages/uswds-utilities";
+// @import "scss/packages/required";
+// @import "scss/packages/global";
+// @import "scss/packages/uswds-components";
+// @import "scss/packages/uswds-utilities";
+
+@use 'uswds' with (
+$theme-image-path: "https://www.section508.gov/assets/img",
+$theme-font-path: "https://gsa.github.io/openacr-editor-stage/fonts",
+$theme-show-notifications: false,
+);
 
 body {
     overflow-x: hidden;
