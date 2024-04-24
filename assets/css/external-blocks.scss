@@ -160,3 +160,8 @@ body {
 .usa-identifier__required-links-item a{
     font-size:15.04px;
 }
+
+//Removed Search Bar Separators
+.usa-nav__secondary-item + .usa-nav__secondary-item {
+    border-left: none !important; 
+}
