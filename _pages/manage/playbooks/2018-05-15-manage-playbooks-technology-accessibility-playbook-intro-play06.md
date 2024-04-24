@@ -8,12 +8,16 @@ redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play06/
 ---
 
-A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program.
+A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program. If you are federal, state, local, tribal, or territorial government employee or contractor, you are eligible to please join the [Section 508/IT Accessibility Community mailing list](https://www.section508.gov/manage/join-the-508-community/).
 
 ## Key Questions
 
-  * Do you participate in interagency technology accessibility forums?
-  * How do you collaborate with the Section 508 Program Managers of other federal agencies to learn about and contribute to best practices?
+  * Do you participate in interagency technology accessibility forums? There are a number of recurring events available each year including:
+    * Bi-monthly IT Accessibility Community Meetings,
+    * Bi-monthly Section 508 Best Practices Webinars, and 
+    * Annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/).
+    * For these and other events and registration information, please visit [Events]({{site.basurl}}/events/). 
+  * How do you collaborate with the [Section 508 Program Managers](https://www.section508.gov/tools/coordinator-listing/) of other federal agencies to learn about and contribute to best practices?
   * How has collaboration accelerated your Section 508 program&rsquo;s maturity and lowered implementation costs?
 
 ## Checklist
