@@ -4,6 +4,8 @@ sidenav: true
 permalink: create/synchronized-media/
 type: create
 title: 'Create Accessible Synchronized Media Content'
+created: 2022-02-16
+modified: 2024-04-26
 ---
 <p dir="ltr" id="top">Do you know how to create accessible audio and video media? Are you familiar with the difference between audio-only, video-only, and synchronized media? This resource summarizes relevant <a class="ext" href="https://www.w3.org/TR/WCAG20/">Web Content Accessibility Guidelines (WCAG)</a> and Section 508 requirements and highlights specific considerations for content, planning, and development. It also clarifies how content creators should work together with designers and developers to ensure that federal websites and digital products meet the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>.</p>
 <h2 dir="ltr"><strong>Table of Contents</strong></h2>
@@ -322,4 +324,4 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="text-large"><strong>Before You Go</strong></p>
 <p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.</p>
 </div></div>
-<p><strong>Reviewed/Updated:</strong> February 16, 2022</p>
+<p><strong>Reviewed/Updated:</strong> April 2024</p>
