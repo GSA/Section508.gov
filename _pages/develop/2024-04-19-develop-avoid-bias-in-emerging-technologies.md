@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: develop/avoid-bias-in-emerging-technologies/
 type: develop
-title: "How to Avoid Bias in Emerging Technologies (MVP vs. Ideal)"
+title: "How to Avoid Bias in Emerging Technologies"
 created: 20240419
 ---
 
