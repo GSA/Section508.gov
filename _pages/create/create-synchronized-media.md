@@ -159,33 +159,32 @@ title: 'Create Accessible Synchronized Media Content'
 <p class="rteright"><a href="#top">Back to Top</a></p>
 <h2 id="planning-accessible"><strong>Planning Accessible Audio &amp; Video Media Content</strong></h2>
 <p>When creating new audio and video media content, producers must plan for captions, audio descriptions, and text transcripts to ensure that all users have access to the information. Fortunately for producers, determining which of the alternate methods is required is as quick and simple as answering this two-question workflow (see also, Figure 1):</p>
+
 <ul>
-<li><strong>Will we be using sound?</strong>
-<ul>
-<li>Yes, we will be using sound.
-<ul>
-<li><strong>Will we be using video?</strong>
-<ul>
-<li>Yes, we will be using sound and video together. This is called Synchronized Media and requires both captioning and audio description.</li>
-<li>No, we will be using sound only. This is called Audio-only Media, and requires a transcript** be published alongside the audio media player.</li>
+    <li><strong>Will we be using sound?</strong>
+        <ul>
+            <li>Yes, we will be using sound.
+                <ul>
+                    <li><strong>Will we be using video?</strong>
+                        <ul>
+                            <li>Yes, we will be using sound and video together. This is called Synchronized Media and requires both captioning and audio description.</li>
+                            <li>No, we will be using sound only. This is called Audio-only Media, and requires a transcript** be published alongside the audio media player.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>No, I am not using sound (just video).
+                <ul>
+                    <li>This is called Video-only Media and requires either a transcript or audio description.</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
 </ul>
-</li>
-</ul>
-</li>
-<li>No, I am not using sound (just video).
-<ul>
-<li><strong>Is the video b-roll*?</strong>
-<ul>
-<li>Yes, the video we are using is considered b-roll. This is the raw source media and does not have to meet any Section 508 requirements.</li>
-<li>No, the video we are using is content. This is called Video-only Media and requires either a transcript or audio description.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p><small>* B-roll is the supplemental or alternative video footage (photographs, and animation) captured for creating the video.<br /> ** Transcript is a text description of the video content to ensure equal understanding of information.</small></p>
+<p><small>* Transcript is a text description of the video content to ensure equal understanding of information.</small></p>
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
+<strong>Note:</strong> "B-roll," the raw source media collected to supplement the creation of a pre-recorded video, does not have to meet any Section 508 requirements.
+</div>
 <br />
 <div><img style="width: 100%;" src="https://assets.section508.gov/files/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
 <br />
