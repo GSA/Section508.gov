@@ -2127,7 +2127,7 @@
   uid: u88
   dimension: conformance
   q-descr: | 
-    Estimate the Section 508 conformance of the reporting entity's FY25 publicly published Congressional justification. (*Required)
+    Estimate the Section 508 conformance of the reporting entity's FY25 publicly published Congressional Justification. (*Required)
   q-type: | 
     Select one:
   q-options: |
@@ -2140,7 +2140,7 @@
       <li>N/A- reporting entity did not publish a Congressional Justification</li>
     </ol>
   u-descr: | 
-    If the reporting entity's parent agency hosts the published Congressional justification that includes the reporting entity, please coordinate testing of this content with your parent agency and report the same data as the parent agency for this question. 
+    The Congressional Justification is an annual budget request. If the reporting entity's parent agency hosts the published Congressional justification that includes the reporting entity, please coordinate testing of this content with your parent agency and report the same data as the parent agency for this question. 
 
     To estimate a percentage of conformance, follow the formula and steps below:
 
