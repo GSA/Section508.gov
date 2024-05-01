@@ -11,7 +11,7 @@ redirect_from:
 - 508-coordinator-listing/
 - content/coordinator-listing/
 ---
-OMB’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
+The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
 At the discretion of the agency CIO (or designee), subcomponents may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
 
@@ -528,7 +528,7 @@ Michael Jones - <jonesmw@cdfi.treas.gov>
 ### FINCEN
 LaChelle Dempsey-Reed - <lachelle.dempsey-reed@fincen.gov>
 ### Internal Revenue Service (IRS)
-Courtney M. Williams - <courtney.m.williams@irs.gov>  
+Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
 Terri A. Triggs - <terri.a.triggs@irs.gov>  
 ### Office of the Inspector General
 Tracy George - <georget@oig.treas.gov>
@@ -865,7 +865,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ----------------------------------------------------
 
-**Reviewed/Updated**: April, 2024
+**Reviewed/Updated**: May, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
