@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Assessment Requirement
+
 Section 508 of the Rehabilitation Act, codified at 29 U.S.C. § 794d, requires Federal departments and agencies and the United States Postal Service (hereinafter, “agencies”) to develop, procure, maintain, or use information and communications technology (ICT) that is accessible to people with disabilities and to give Federal employees contractors and members of the public with disabilities access to information comparable to the access available to those without disabilities.<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 
 Agencies subject to Section 508 are required to report on the implementation of Section 508 to the Office of Management and Budget (OMB) and the General Services Administration (GSA) through the Annual Section 508 Assessment.<sup><strong><a href="#fn2" id="fr2">2</a></strong></sup>
@@ -30,6 +31,7 @@ OMB or GSA may follow up with reporting entities to obtain additional informatio
 Reporting entities should use this Assessment to identify barriers that prevent employees and members of the public with disabilities equitable digital access,  especially as more government interactions move online. OMB may use this information to inform performance management discussions with agencies or assess and develop guidance to advance equitable digital access.
 
 ## Instructions for Reporting
+
 Reporting entity [Section 508 program managers](https://www.section508.gov/tools/program-manager-listing/) should serve as the primary point of contact (POC) for the Section 508 Assessment. If there is no Section 508 program manager currently assigned, the reporting entity should designate an individual to be the POC.
 
 Chief Information Officers (CIO) or equivalent of reporting entities will receive information from OMB including instructions the POC must use to register with GSA in order to receive access to the online Assessment reporting tool.
@@ -41,9 +43,11 @@ Once reporting closes, no further information can be entered into the reporting 
 **Note:** If the reporting entity needs to change or update the contact information associated with the account, please submit those changes to <Section.508@gsa.gov>. Change request emails should contain the new individual's name, title, phone number, and email address, and must be submitted by the Section 508 program manager or the highest-ranking individual in the reporting entity that is responsible for implementation of Section 508.
 
 ## How to Submit Your Assessment Report
+
 GSA will email reporting instructions to reporting entities’ POC with a link to the online reporting tool. Reporting entities will be able to enter information electronically between  June 1, 2024, and July 31, 2024. The reporting tool will not accept submissions after 11:59 p.m. ET on July 31, 2024.
 
 ## Key Dates
+
 <table class="usa-table usa-table--borderless">
   <caption>
     Table listing of five key dates related to the reporting required under Section 752 of the Consolidated Appropriations Act of 2023.
@@ -78,22 +82,20 @@ GSA will email reporting instructions to reporting entities’ POC with a link t
   </tbody>
 </table>
 
-
 ## Contact Information
+
 For questions about the Government-wide Section 508 Assessment, please email the GSA Government-wide IT Accessibility Program at <Section.508@gsa.gov>.
 
 <hr>
-
 <div>
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
   <ol>
     <li id="fn1"><a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">29 U.S.C § 794 (d);</a> - National security systems, as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11103.htm">Section 11103(a) of Title 40</a>, are exempt. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
-    <li id="fn2">See <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">29 U.S.C § 794 (d);</a> Pub. L. No: 117-328 (2023), <a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651">Section 752 of the Consolidated Appropriations Act, 2023</a>; and OMB Memorandum, <em><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/">"M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a></em> from December 21, 2023. <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn2">See <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm">29 USC 794-d</a> Pub. L. No: 117-328 (2023), and OMB Memorandum, <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/">"M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a> from December 21, 2023. <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
   </ol>
 </div>
-
 <div id="prev-next-section" style="justify-content: space-around;">
     <a class="prev-page" title="Go to Assessment Criteria" href="{{site.baseurl}}/manage/section-508-assessment/criteria-01/"> Criteria > </a>
 </div>
 
-**Reviewed/Updated:** April 2024
+**Reviewed/Updated:** May 2024
