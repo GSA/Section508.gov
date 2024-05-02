@@ -22,9 +22,9 @@ redirect_from:
 
 -   In addition to Section 508 of the Rehabilitation Act of 1973, there are a number of related and reinforcing [laws and policies]({{site.baseurl}}/manage/laws-and-policies/) you should know. In recent months, OMB issued the following for Heads of Executive Departments and Agencies reenforcing the importance of equal access to government information:
 
--   <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+    -   <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
--   <a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external">Delivering a Digital-First Public Experience (M-23-22)</a>
+    -   <a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external">Delivering a Digital-First Public Experience (M-23-22)</a>
 
 -   For more information and assistance in buying, building, creating, updating, testing, and remediating digital content to meet these standards, access the guidance on this website. 
 
