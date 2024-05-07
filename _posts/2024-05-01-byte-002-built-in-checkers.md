@@ -16,9 +16,9 @@ Before sharing or publishing your document, presentation, or spreadsheet, run th
 
 1.  On the Word ribbon, select the Review tab. 
 
-2.  Select Check Accessibility.
+2.  Select Check *Accessibility*.
 
-3. In the Accessibility panel that opens on the side, review the results. You'll see a list of errors, warnings, and tips with how-to-fix recommendations for each.
+3. In the *Accessibility* panel that opens on the side, review the results. You'll see a list of errors, warnings, and tips with how-to-fix recommendations for each.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
     <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/byte-001-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
@@ -27,7 +27,7 @@ Before sharing or publishing your document, presentation, or spreadsheet, run th
     </div>
 </div>
 
-Other authoring tools may include built-in accessibility checkers or similar plug-ins including tools to create or test PDF documents. In fact, these automated checkers may also be available to creators of websites, content management platforms, and software and mobile application development. However, it's important to know these automated checkers are limited in what they can accurately evaluate and may present false positives or fail to report issues. Therefore, to ensure your document, website or software application is fully accessible, manual testing must be performed as well.
+Other authoring tools may include built-in accessibility checkers or similar plug-ins including tools to create or test PDF documents. In fact, these automated checkers may also be available to creators of websites, content management platforms, and software and mobile application development. However, it's important to know these automated checkers are limited in what they can accurately evaluate and may present false positives or fail to report issues. Therefore, to ensure your document, website or software application is fully accessible, <strong>manual testing must be performed</strong> as well.
 
 Authoring guides, checklists and short video tutorials are available at [Create Accessible Documents]({{site.baseurl}}/create/documents/) to help you ensure your documents are accessible.
 
