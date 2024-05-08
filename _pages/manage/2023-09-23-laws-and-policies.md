@@ -6,11 +6,12 @@ type: manage
 title: 'IT Accessibility Laws and Policies'
 contributors: usab
 created: 2023-09-23
+updated: 2024-05-08
 redirect_from:
 - summary-section508-standards/
 - section508-laws/
 ---
-This guide highlights laws, policies and other regulations requiring federal agencies ensure employees and members of the public with disabilities have access to information comparable to the access available to others.
+This guide highlights laws, policies and other regulations requiring federal agencies ensure employees and members of the public with disabilities have access to information comparable to the access available to others. While individuals may benefit from an awareness of all related regulation, each of the guide's sections suggest where a particular audience may have a responsibility. 
 
 ## Section 508 of the Rehabilitation Act of 1973
 
@@ -21,14 +22,16 @@ The <a href="https://www.access-board.gov/" target="_blank" class="usa-link--ext
 The rule updated and reorganized the Section 508 Standards and Section 255 Guidelines in response to market trends and innovations in technology. The refresh also harmonized these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission, and with the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG 2.0), a globally recognized voluntary consensus standard for web content and ICT.
 
 ### Section 508 Standards
+<strong>Audience: </strong> Agency Section 508 Program Managers, requirements officials, developers and content creators.
 
 <ul>
   <li><a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external text-top">Information and Communication Technology (ICT) Final Standards and Guidelines (2017)</a> - Read the Standards and Guidelines.</li>
   <li><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" target="_blank" class="usa-link--external text-top">About the Update of the Section 508 Standards and Section 255 Guidelines for Information and Communication Technology</a> - High-level overview</li>
-  <li><a href="https://www.section508.gov/manage/laws-and-policies/quick-reference-guide" target="_blank" class="usa-link--external text-top">Revised Section 508 Standards Transition Guide</a> - An overview of changes your agency needs to make to transition to the Revised 508 Standards.</li>
+  <li><a href="{{sitebaseurl}}/manage/laws-and-policies/quick-reference-guide">Revised Section 508 Standards Transition Guide</a> - An overview of changes your agency needs to make to transition to the Revised 508 Standards.</li>
 </ul>
 
 ### Revised Federal Acquisition Regulation (FAR)
+<strong>Audience: </strong> Agency Section 508 Program Managers, procurement executives, contracting officers and representatives, and equivalents.
 
 <a href="https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication" target="_blank" class="usa-link--external text-top">Federal Acquisition Regulation: Section 508-Based Standards in Information and Communication Technology</a> as published August 11, 2021, includes the following key parts, subparts and sections for requirements and acquisition professionals:
 
@@ -44,6 +47,7 @@ The rule updated and reorganized the Section 508 Standards and Section 255 Guide
 </ul>
 
 ## Related Laws
+<strong>Audience: </strong> Agency Section 508 Program Managers, Web Managers, Human Resources, EEO, and Disability Employment Program Managers, or equivalents.
 
 It is important to understand Section 508 in the context of other laws related to federal disability policy. In addition to Section 508, the <a href="https://assets.section508.gov/files/rehabilitation-act-of-1973-amended-by-wioa.pdf" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (PDF)</a> has the following related sections:
 
@@ -66,9 +70,9 @@ Related laws include:
 </ul>
 
 ## Related Policies
+<strong>Audience: </strong> Agency leadership, Chief Information Officers, Section 508 Program Managers, Web Managers, Developers, and content creators, or equivalents.
 
 ### Executive Orders
-
 <ul>
   <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/" target="_blank" class="usa-link--external text-top">Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce</a></li>
   <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/" target="_blank" class="usa-link--external text-top">Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government</a></li> 
@@ -108,8 +112,9 @@ Related laws include:
 </ul>
 
 ## Agency Policies
+<strong>Audience: </strong> Agency Section 508 Program Managers, Human Resources, EEO, and Disability Employment Program Managers, or equivalents, or equivalents.
 
-Agencies should periodically review and update their Sections 508, 501, and 504 policies. Your agency's policies on how to  implement each section of the Rehabilitation Act should be closely aligned to clarify responsibilities and determine how to respond to claims of discrimination on the basis of disability.
+Agencies should periodically review and update their Sections 508, 501, and 504 policies. Your agency's policies on how to implement each section of the Rehabilitation Act should be closely aligned to clarify responsibilities and determine how to respond to claims of discrimination on the basis of disability.
 
 Your agency’s policies should include that your agency is obligated to:
 
@@ -122,6 +127,7 @@ Learn how to maintain your agency’s policies through the links below:
 * [IT Accessibility Policy Framework]({{site.baseurl}}/manage/policy-framework/introduction/)
 
 ### Workforce Policies
+<strong>Audience: </strong> Agency leadership, Section 508 Program Managers, Human Resources, EEO, and Disability Employment Program Managers, or equivalents.
 
 ​​In addition to accessibility-related policies, other agency policies often require the development or use of specific ICT by the agency’s workforce. In order for an agency’s accessibility effort to be successful, employees and organizations must integrate accessibility into outcomes. In addition, other policies should be reviewed and updated to ensure that accessibility adequately addresses individual and organizational [roles & responsibilities]({{site.baseurl}}/manage/roles/) including:
 
@@ -142,6 +148,6 @@ Learn how to maintain your agency’s policies through the links below:
 
 For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][1].
 
-**Reviewed/Updated:** April 2024
+**Reviewed/Updated:** May 2024
 
 [1]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/
