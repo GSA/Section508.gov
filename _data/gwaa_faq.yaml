@@ -58,6 +58,8 @@
       <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
       <li>Five questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
+
+    For a complete list of changes, please reference this <a href="https://assets.section508.gov/files/reports/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx">crosswalk between FY23 criteria to FY24 criteria.</a>
 -  
   id: 104
   h: Overview
@@ -138,6 +140,8 @@
     As of April 24th, "(*Required)" was added to Questions 9, Questions 19-23 and Question 26 to clarify that all questions are required this year. "Communicates" was changed to "communication" to fix an error in Question 37. Question 103's answer selections were updated to match the format in the submission tool.
 
     As of April 26th, Question 88 Understanding was updated to include that the Congressional Justification is an annual budget request.
+
+    As of May 7th, a crosswalk from FY23 criteria to FY24 criteria was uploaded to FAQ "What are the primary differences between the FY23 criteria and the FY24 criteria?"
 -  
   id: 201
   h: Submitting Data
