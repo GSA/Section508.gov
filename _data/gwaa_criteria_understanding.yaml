@@ -1930,6 +1930,8 @@
   u-descr: | 
     This question is only asking about the enterprise wide authoring tool used to create surveys, such as Qualtrics, SurveyMonkey, Google Forms, Microsoft Forms, etc. When answering this question, only consider the tool itself; do not consider the accessibility of surveys created using the tool. An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
 
+    If the entity has more than one enterprise wide authoring tool used to create surveys, select the most used tool or the tool used to generate surveys with the largest audience based on reporting entity mission.
+    
     To estimate a percentage of conformance, follow the formula and steps below:
 
     Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria )] x 100
