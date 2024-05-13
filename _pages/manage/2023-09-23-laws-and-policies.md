@@ -139,7 +139,7 @@ Learn how to maintain your agency’s policies through the links below:
 
 <ul>
   <li><a href="https://www.doi.gov/sites/doi.gov/files/elips/documents/375-dm-8_0.pdf" target="_blank" class="usa-link--external text-top">Example: Department of the Interior (DOI) (PDF)</a></li>
-  <li><a href="https://www.epa.gov/irmpoli8/section-508-policy-and-procedures" target="_blank" class="usa-link--external text-top">Example: Environmental Protection Agency (EPA) (PDF)</a></li>
+  <li><a href="https://www.epa.gov/irmpoli8/section-508-policy-and-procedures" target="_blank" class="usa-link--external text-top">Example: Environmental Protection Agency (EPA)</a></li>
   <li><a href="https://www.opm.gov/information-management/accessibility/OPMSection508Policy2021.pdf" target="_blank" class="usa-link--external text-top">Example: Office of Personnel Management (OPM) (PDF)</a></li>
 </ul>
 
