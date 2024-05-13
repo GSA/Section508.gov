@@ -138,10 +138,9 @@ Learn how to maintain your agency’s policies through the links below:
 ### Sample Policies
 
 <ul>
-  <li><a href="https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc" target="_blank" class="usa-link--external text-top">Example: Department of Homeland Security Section 508 Directive (DOC)</a></li>
-  <li><a href="https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf" target="_blank" class="usa-link--external text-top">Example: Veterans Administration Accessibility Policy (PDF)</a></li>
-  <li><a href="https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank" class="usa-link--external text-top">Example: SSA Internet Accessibility Policy (PDF)</a></li>
-  <li><a href="https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank" class="usa-link--external text-top">Example: Department of Justice Model Section 508 Complaint Process (DOC)</a></li>
+  <li><a href="https://www.doi.gov/sites/doi.gov/files/elips/documents/375-dm-8_0.pdf" target="_blank" class="usa-link--external text-top">Example: Department of the Interior (DOI) (PDF)</a></li>
+  <li><a href="https://www.epa.gov/irmpoli8/section-508-policy-and-procedures" target="_blank" class="usa-link--external text-top">Example: Environmental Protection Agency (EPA) (PDF)</a></li>
+  <li><a href="https://www.opm.gov/information-management/accessibility/OPMSection508Policy2021.pdf" target="_blank" class="usa-link--external text-top">Example: Office of Personnel Management (OPM) (PDF)</a></li>
 </ul>
 
 ### Accessibility Statements
