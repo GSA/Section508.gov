@@ -34,3 +34,7 @@ Authoring guides, checklists and short video tutorials are available at [Create 
 Creating a presentation, spreadsheet or PDF? You can learn how to create other accessible products by visiting [Create Accessible Digital Products]({{site.baseurl}}/create/) on this website.
 
 Still have questions? Reach out to your agency's [Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/) or contact us at <section.508@gsa.gov>.
+
+<div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
+To subscribe, manage or unsubscribe from <em>Accessibility Bytes</em>, visit <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1324" target="_blank" class="usa-link--external">GSA Email Updates</a>.
+</div>
