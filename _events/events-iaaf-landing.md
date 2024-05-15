@@ -10,18 +10,20 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2022. Seals and logos for the General Services Administration, U.S. Access Board, CIO Council, Federal Deposit Insurance Corporation, and Department of Veterans Affairs." src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Fall 2024." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
-## About IAAF 2023
-The 10th annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. The 2023 IAAF was held November 7-9, 2023 at the Federal Deposit Insurance Corporation (FDIC) L. William Seidman Center and available for in-person or virtual attendance.
+## About IAAF
+The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
 
-<img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<!-- <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;"> -->
 
-The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), the U.S. Access Board (USAB), Federal Deposit Insurance Corporation (FDIC), and Department of Veterans (VA) Affairs in partnership with other federal agencies.
+The 2024 Interagency Accessibility Forum (IAAF) will be hosted this fall by the Government-wide IT Accessibility Program in the Office of Government-wide Policy (OGP) at the General Services Administration (GSA) in partnership with federal agencies, and is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP).
 
-For details and downloads from the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>. 
+IAAF 2024 event information will be announced this summer.
 
-<!--## Call for Proposals 
+<!-- For details and downloads from the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>. 
+
+## Call for Proposals 
 The IAAF Planning Committee invites government employees, and contractors in partnership with government employees to submit proposals for consideration to host a workshop, presentation, or panel discussion. 
 
 If you are interested in presenting a workshop or discussion, please complete the <a href="https://assets.section508.gov/files/presentations/IAAF 2023 Call for Proposals.pdf" target="_blank">call for proposals (PDF)</a> and submit as an attachement to <iaaf@gsa.gov> by Friday, June 30, 2023.-->
@@ -170,4 +172,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** November 2023
+**Reviewed/Updated:** May 2024
