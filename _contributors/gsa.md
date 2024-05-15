@@ -3,9 +3,9 @@ layout: contributor_org
 title: GSA Contributions
 contributor_id: gsa
 contributor_type: organization
-display_name: Generanal Services Administration
+display_name: General Services Administration
 affiliation_short: GSA
-affiliation_long: Generanal Services Administration
+affiliation_long: General Services Administration
 location: Washington, D.C.
 image_url: https://assets.section508.gov/files/images/seals-logos/gsa.png
 permalink: /:collection/:name:output_ext
