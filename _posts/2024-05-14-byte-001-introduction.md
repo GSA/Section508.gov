@@ -10,7 +10,7 @@ contributors:
 redirect_from:
 - blog/accessibility-byte-0/
 ---
-<strong>Ever wonder what Section 508 is and why it’s so important, and what you can do to ensure your work is “accessible?”</strong>
+## Ever wonder what Section 508 is and why it’s so important, and what you can do to ensure your work is “accessible?”
 
 *Accessibility Bytes* is a new series from the team that brings you Section508.gov to share quick tips you can use to improve the accessibility of the information, communications, and technology you create for federal employees and members of the public.
 
