@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessibility-bytes/built-in-checkers/
+permalink: blog/accessibility-bytes/use-document-accessibility-checkers/
 type: article
 title: 'Accessibility Bytes #1: Use Document Accessibility Checkers'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
@@ -8,7 +8,8 @@ created: 2024-05-16
 description: '<strong>Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?</strong><p> Before sharing or publishing your document, presentation, or spreadsheet, run the built-in Accessibility Checker to make sure your Microsoft Office content does not have easily identifiable accessibility issues. Run the Word Accessibility Checker in three-steps.'
 contributors: 
 redirect_from:
-- blog/accessibility-bytes-1/
+- blog/accessibility-bytes/1/ #Allows users to navigate by number
+- blog/accessibility-bytes/built-in-checkers/ #This was original permalink, but modified permalink after release to match titles better.
 ---
 ## Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?
 
