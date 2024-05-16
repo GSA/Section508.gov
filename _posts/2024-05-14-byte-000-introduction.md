@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: blog/accessibility-byte-introduction/
+permalink: blog/accessibility-bytes/introduction/
 type: article
 title: 'Accessibility Bytes: Introduction'
 tags: Accessibility-Bytes Policy-and-Management #choose one or more: Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
@@ -8,7 +8,7 @@ created: 2024-05-14
 description: '<strong>Ever wonder what Section 508 is and why it’s so important? Or what you can do to ensure your work is “accessible?”</strong><p><em>Accessibility Bytes</em> is a new series from the team that brings you Section508.gov to share quick tips you can use to improve the accessibility of the information, communications, and technology you create for federal employees and members of the public.'
 contributors: 
 redirect_from:
-- blog/accessibility-byte-0/
+- blog/accessibility-bytes/0/ #Allows users to navigate by number
 ---
 ## Ever wonder what Section 508 is and why it’s so important, and what you can do to ensure your work is “accessible?”
 
@@ -33,3 +33,5 @@ Do you have questions about Section 508 at your agency? Reach out to your agency
 <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
 To subscribe, manage or unsubscribe from <em>Accessibility Bytes</em>, visit <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1324" target="_blank" class="usa-link--external">GSA Email Updates</a>.
 </div>
+
+**Reviewed/Updated:** May 2024
