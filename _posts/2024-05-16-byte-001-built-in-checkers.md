@@ -11,7 +11,7 @@ redirect_from:
 - blog/accessibility-bytes/1/ #Allows users to navigate by number
 - blog/accessibility-bytes/built-in-checkers/ #This was original permalink, but modified permalink after release to match titles better.
 ---
-## Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?
+<h2 style="line-height:1.2;">Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?</h2>
 
 Before sharing or publishing your document, presentation, or spreadsheet, run the built-in Accessibility Checker to make sure your Microsoft Office content does not have easily identifiable accessibility issues. Run the Word Accessibility Checker in three-steps:
 
@@ -37,7 +37,7 @@ Creating a presentation, spreadsheet or PDF? You can learn how to create other a
 Still have questions? Reach out to your agency's [Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/) or contact us at <Section.508@gsa.gov>.
 
 <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
-To subscribe, manage or unsubscribe from <em>Accessibility Bytes</em>, visit <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1324" target="_blank" class="usa-link--external">GSA Email Updates</a>.
+To subscribe to, manage, or unsubscribe from <em>Accessibility Bytes</em>, visit <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1324" target="_blank" class="usa-link--external">GSA Email Updates</a>.
 </div>
 
 **Reviewed/Updated:** May 2024
