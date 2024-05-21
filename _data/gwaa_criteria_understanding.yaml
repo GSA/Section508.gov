@@ -134,7 +134,7 @@
       <li>Unknown</li>
     </ol>
   u-descr: | 
-    Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
+    OMB will follow up with each entity who selects "Classified". Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
 -   
   qid: q8
   uid: u8
@@ -378,7 +378,7 @@
       <li>N/A - reporting entity does not procure ICT</li>
     </ol>
   u-descr: | 
-     A defined process means there is a repeatable framework for reviewing and approving these exceptions. This process may be followed by Acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity. 
+     A defined process means there is a repeatable framework for reviewing and approving this exception. The Best Meets exception may only be applied to procurement of commercially available ICT. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in this procurement exception process within the reporting entity.
 -   
   qid: q20
   dimension: general
@@ -414,7 +414,7 @@
       <li>N/A - reporting entity does not procure ICT</li>
     </ol>
   u-descr: | 
-     A defined process means there is a repeatable framework for reviewing and approving these exceptions. This process may be followed by Acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity.
+     A defined process means there is a repeatable framework for reviewing and approving these exceptions. The Fundamental Alternation and Undue Burden exceptions may be applied to ICT that is developed, used, maintained, or procured. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity.
 -   
   qid: q22
   uid: u22
@@ -868,6 +868,8 @@
       <li>Almost always (approximately 90% or more of the time)</li>
       <li>Unknown</li>
     </ol>
+  u-descr: |
+    Electronic content may be internal or external. Please only consider electronic content that is published.
 -   
   qid: q43
   dimension: hr
