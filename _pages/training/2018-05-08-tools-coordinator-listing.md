@@ -187,10 +187,9 @@ Jaye Miller - <jaye.p.miller.civ@mail.mil>
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <fariba.beg.civ@mail.mil>  
-Stephanie	Rozario-Hamilton - <stephanie.a.rozario-hamilton.civ@mail.mil>  
 
-* **Joint Service Provider (JSP)** <br>DaShawn Laurel - <dashawn.laurel.civ@mail.mil>  
-* **Joint Interoperability Test Command (JITC)** <br>Angela M. Edwards - <angela.m.edwards10.civ@mail.mil>  
+* **Joint Service Provider (JSP)**  
+* **Joint Interoperability Test Command (JITC)**  
 
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
@@ -362,7 +361,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ----------------------------------------------------
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Jeffrey Salit - <jeffrey.l.salit@hud.gov>
+Paul A. Scott - <paul.a.scott@hud.gov>  
 
 ----------------------------------------------------
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
@@ -709,6 +708,10 @@ Trevor Beierschmitt - <tbeierschmitt@ftc.gov>
 
 <span id="G" ></span>
 
+### Government Accountability Office (GAO)
+John Pak - <pakj@gao.gov>  
+
+----------------------------------------------------
 ### Gulf Coast Ecosystem Restoration Council (GCERC)
 Jeremy Roseboom - <jeremy.roseboom@restorethegulf.gov>  
 
