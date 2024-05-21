@@ -25,7 +25,7 @@ sidenav: false
 [E205.1 General][7]  
 [E205.2 Public Facing][8]  
 [E205.3 Agency Official Communication][9]  
-[E205.4 Accessibility Standars (WCAG 2.0)][9]  
+[E205.4 Accessibility Standards (WCAG 2.0)][9]  
 [E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents.][9]
 
 &nbsp;
