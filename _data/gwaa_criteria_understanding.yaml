@@ -130,11 +130,13 @@
   q-options: |
     <ol type="a">
       <li>Open response-whole number</li>
-      <li>Classified</li>
+      <li>Classified Note: OMB will follow up with entities that submit "Classified" to confirm.</li>
       <li>Unknown</li>
     </ol>
   u-descr: | 
-    OMB will follow up with each entity who selects "Classified". Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
+    Note: OMB will follow up with entities that submit "Classified" to confirm.
+    
+    Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
 -   
   qid: q8
   uid: u8
