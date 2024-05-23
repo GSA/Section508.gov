@@ -2441,7 +2441,7 @@
   uid: u102
   dimension: conformance
   q-descr: | 
-    You selected the reporting entity provides a shared service, reimbursable service or e-gov line of business to other agencies or public entities. Do the ICT services provided by the reporting entity fully conform to Section 508 standards? (*Required)
+    You selected the reporting entity provides a shared service, reimbursable service or E-Government line of business to other agencies or public entities. Do the ICT services provided by the reporting entity fully conform to Section 508 standards? (*Required)
   q-type: | 
     Select one:
   q-options: |
