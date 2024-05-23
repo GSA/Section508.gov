@@ -99,7 +99,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionE">E</span>
 </h2>
 
-- <span id="e-gov-line-of-business"><strong>e-gov line of business:</strong></span> Intra-agency collaborations for digital government services. See [OMB M-04-08](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf).
+- <span id="e-gov-line-of-business"><strong>E-Government line of business:</strong></span> Intra-agency collaborations for digital government services. See [OMB M-04-08](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf).
 
 - <span id="electronic-content"><strong>Electronic Content:</strong></span> All forms of digital data and its encoding, covering both public and internal information as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content).
 
@@ -253,4 +253,4 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="website"><strong>Website:</strong></span> A website, and web-based application, consists of many web pages linked together under a common domain name such as “[agency].gov.”
 
-**Reviewed/Updated:** April 2024
+**Reviewed/Updated:** May 2024

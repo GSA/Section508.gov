@@ -2423,7 +2423,7 @@
   uid: u101
   dimension: conformance
   q-descr: | 
-    Does the reporting entity provide a shared service, a reimbursable service, or e-gov line of business to other agencies or public entities? (*Required)
+    Does the reporting entity provide a shared service, a reimbursable service, or E-Government line of business to other agencies or public entities? (*Required)
   q-type: | 
     Select one:
   q-options: |
