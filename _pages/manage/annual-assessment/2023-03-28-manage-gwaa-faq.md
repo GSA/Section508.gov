@@ -36,7 +36,7 @@ title: "Government-wide Section 508 Assessment Frequently Asked Questions"
 </div>
 {% endfor %}
 
-**Reviewed/Updated:** April 2024
+**Reviewed/Updated:** May 2024
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>

@@ -130,10 +130,12 @@
   q-options: |
     <ol type="a">
       <li>Open response-whole number</li>
-      <li>Classified</li>
+      <li>Classified Note: OMB will follow up with entities that submit "Classified" to confirm.</li>
       <li>Unknown</li>
     </ol>
   u-descr: | 
+    Note: OMB will follow up with entities that submit "Classified" to confirm.
+    
     Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
 -   
   qid: q8
@@ -378,7 +380,7 @@
       <li>N/A - reporting entity does not procure ICT</li>
     </ol>
   u-descr: | 
-     A defined process means there is a repeatable framework for reviewing and approving these exceptions. This process may be followed by Acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity. 
+     A defined process means there is a repeatable framework for reviewing and approving this exception. The Best Meets exception may only be applied to procurement of commercially available ICT. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in this procurement exception process within the reporting entity.
 -   
   qid: q20
   dimension: general
@@ -414,7 +416,7 @@
       <li>N/A - reporting entity does not procure ICT</li>
     </ol>
   u-descr: | 
-     A defined process means there is a repeatable framework for reviewing and approving these exceptions. This process may be followed by Acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity.
+     A defined process means there is a repeatable framework for reviewing and approving these exceptions. The Fundamental Alternation and Undue Burden exceptions may be applied to ICT that is developed, used, maintained, or procured. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity.
 -   
   qid: q22
   uid: u22
@@ -854,6 +856,7 @@
     </ol>
 -   
   qid: q42
+  uid: u42 
   dimension: content
   q-descr: | 
     How often are Section 508 reviews integrated into the reporting entity's electronic content prior to publication? (*Required)
@@ -868,6 +871,8 @@
       <li>Almost always (approximately 90% or more of the time)</li>
       <li>Unknown</li>
     </ol>
+  u-descr: | 
+    Electronic content may be internal or external, but only consider content that is published.
 -   
   qid: q43
   dimension: hr
@@ -2421,7 +2426,7 @@
   uid: u101
   dimension: conformance
   q-descr: | 
-    Does the reporting entity provide a shared service, a reimbursable service, or e-gov line of business to other agencies or public entities? (*Required)
+    Does the reporting entity provide a shared service, a reimbursable service, or E-Government line of business to other agencies or public entities? (*Required)
   q-type: | 
     Select one:
   q-options: |

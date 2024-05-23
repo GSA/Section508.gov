@@ -142,6 +142,8 @@
     As of April 26th, Question 88 Understanding was updated to include that the Congressional Justification is an annual budget request.
 
     As of May 7th, a crosswalk from FY23 criteria to FY24 criteria was uploaded to FAQ "What are the primary differences between the FY23 criteria and the FY24 criteria?"
+
+    As of May 23rd, FAQs "Who will send the Assessment link to the reporting tool?" and "What is the best way to navigate the reporting tool?" were updated. Understanding was added to Question 7 (along with additional text for option b. Classified), Question 19, Question 21, Question 42, and Question 81. Question 101 was changed from "e-gov" to "E-Government."
 -  
   id: 201
   h: Submitting Data
@@ -153,9 +155,9 @@
   h: Submitting Data
   q: Who will send the Assessment link to the reporting tool?
   a: |
-    Registered POCs will receive on or about June 1 an email from “Section.508@gsa.gov” with instructions to access the tool. If you do not receive this email, check your email’s junk folder. 
+    Registered POCs will receive on or about June 1 an email from “Office of Government-wide Policy” with instructions to access the tool. If you do not receive this email, check your email’s junk folder. 
     
-    NOTE: Since the email is sent from a collection tool, the email sender may appear as “ogpsurveysupport@research.gsa.gov.”
+    NOTE: Since the email is sent from a collection tool, the email sender may appear as “surveys@research.gsa.gov.”
 -  
   id: 203
   h: Submitting Data
@@ -187,7 +189,7 @@
   a: |
     We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://assets.section508.gov/files/reports/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to gather responses.
     
-    While the reporting tool does not have a Back button, the Table of Contents allows you to move between sections of the survey once all required questions on the current screen have been completed. Use the Table of Contents to navigate between sections to ensure complete and accurate responses for each applicable question.
+    Within this submission response tool, your data is saved automatically—provided you use the same device and same browser—and you may return to the submission tool to continue entering information as many times as you need. You may navigate to different sections of the Assessment Criteria using the Table of Contents, Previous button or Next button. However, once you enter a section, you must answer all required criteria on the screen before moving to another section using the Table of Contents. You can use the Previous button to navigate backwards without answering all required questions on screen, but you cannot use the "Next" button within a section to skip questions without inputting an answer.
 -  
   id: 301
   h: Interpreting Criteria
