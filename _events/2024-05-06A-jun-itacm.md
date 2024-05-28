@@ -8,7 +8,7 @@ image-alt:
 permalink: /event/itacm-jun2024/
 description: Save-the-Date! The June IT Accessibility Community Meeting (ITACM) will be held on Tuesday, June 11, 2024 from 1:00 PM - 3:00 PM ET. During the meeting, document authors and others will learn how to create accessible tables in electronic documents. 
 ---
-The General Services Administration’s (GSA) Government-wide IT Accessibility Program will host the second bimonthly IT Accessibility Community Meeting of the year on Tuesday, June 11, 2024, from 1 PM to 3:00 PM ET.
+The General Services Administration’s (GSA) Government-wide IT Accessibility Program will host an IT Accessibility Community Meeting on Tuesday, June 11, 2024, from 1 PM to 3:00 PM ET.
 
 This session will introduce you to accessible tables in electronic documents. During the session, we will review tables in Word, Excel, and PowerPoint. We will convert a document to PDF with tables and remediate the document. The presentation will include information on:
 
@@ -30,7 +30,7 @@ Marra Piazza Brass, MSEd, Document Accessibility Specialist at the Consumer Fina
 **WHO:** Authors of electronic documents, content managers, publishers, and Section 508 Program Managers
 
 ## REGISTRATION
-<strong><a href="" target="_blank">Registration</a> is now open and will close Monday, June 10 at 12:00 PM ET.</strong> Sign up today!
+<a href="https://feedback.gsa.gov/jfe/form/SV_5u6Y2ayQOdhmP5A" target="_blank">Registration</a> is now open and will close Monday, June 10 at 12:00 PM ET. <strong><a href="https://feedback.gsa.gov/jfe/form/SV_5u6Y2ayQOdhmP5A" target="_blank">Sign up today!</a></strong>
 
 ## NOTICES
 * This virtual meeting is supported by Zoom for Government (FedRAMP certified). Feel free to attend via your personal device. 
