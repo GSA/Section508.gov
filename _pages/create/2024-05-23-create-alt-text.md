@@ -7,7 +7,7 @@ title: Authoring Meaningful Alternative Text
 created: 2024-05-23
 updated:
 ---
-## Purpose of Alt Text
+## Purpose of Alternative Text
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It's designed to make visual content accessible to people with vision disabilities.
 
 When a person uses assistive technology such as a screen reader, the screen reader will read the onscreen text aloud. When the screen reader reaches an image, it will read the alt text for that image so the user can know what the image is meant to convey. Images can provide illustrative information, or they can act as buttons and similar interactive elements, so the alt text must describe these aspects to the user so they can respond appropriately.

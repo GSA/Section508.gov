@@ -26,9 +26,9 @@ Alternative text, also known as alt text, is descriptive text that conveys the m
     <p>[low, steady music throughout]</p>
     <p>Voice Over (VO): What is Alternative Text?</p>
     <p>(VO):Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities. While there are other benefits of alt text for all users, this video focuses on people who use screen readers.</p>
-    <p>[Photo: Blind person using a computer with headphones]</p>
+    <p>[Video: Blind person using a computer with headphones]</p>
     <p>(VO):When a person uses a screen reader, the screen reader will read the onscreen text aloud using text-to-speech technology. When the screen reader reaches an image, it will announce that it has detected an image and read the alt text for that image so the user can know what the image is meant to convey.</p>
-    <p>[Photo: Another blind person using a computer with headphones]</p>
+    <p>[Video: Another blind person using a computer with headphones]</p>
     <p>(VO):Without alt text, people who use screen readers cannot access the information provided in the images. This is why alt text is a requirement in the Section 508 standards for creating digital content.</p>
     <p>[Screen Recording: Image in Microsoft Word. The cursor follows the instructions described in the voiceover.]</p>
     <p>(VO):Different authoring tools will have different ways of adding alt text. For example, to add alt text to an image in Microsoft Word, open the contextual menu (right-click) of the image, select “View Alt Text,” then enter text that appropriately describes the image and communicates its purpose.</p>
