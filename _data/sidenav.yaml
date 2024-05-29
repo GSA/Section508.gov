@@ -539,18 +539,27 @@ create:
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
         url: create/pdfs/
+  - name: Audio & Video
+    url: '#'
+    children:
+      - name: Audio & Video Media
+        url: 'create/audio-video/'
+      - name: Captions & Transcripts
+        url: 'create/captions-transcripts/'
+      - name: Synchronized Media
+        url: 'create/synchronized-media/'
+  - name: Alternative Text
+    url: 'create/alternative-text/'
   - name: Authoring Tool Requirements
     url: 'create/authoring-tools/'
-  - name: Create Accessible Meetings
+  - name: Electronic Signatures
+    url: 'create/electronic-signatures/'   
+  - name: Equations and Formulas
+    url: 'create/accessible-equations-formulas/'
+  - name: Meetings
     url: 'create/accessible-meetings/'
-  - name: Creating Accessible Equations and Formulas
-    url: 'create/accessible-equations-formulas/'      
-  - name: Synchronized Media
-    url: 'create/synchronized-media/'
-  - name: Video, Audio, Social
-    url: 'create/video-social/'
-  - name: Electronic Signature
-    url: 'create/electronic-signatures/'
+  - name: Social Media
+    url: 'create/social-media/'
 #
 # Custom SideNav for Each Accessibility Report to Congress
 report2023:
