@@ -478,6 +478,8 @@ acquisition:
         url: 'buy/solicitation-review-tool/'
       - name: 508 Standards and Exceptions Chart & Examples
         url: 'buy/standards-exceptions/'
+      - name: Authoring Tool Requirements
+        url: 'buy/authoring-tools/'
       - name: Accessibility In Procurement
         url: '#'
         grandchildren:
@@ -550,8 +552,6 @@ create:
         url: 'create/synchronized-media/'
   - name: Alternative Text
     url: 'create/alternative-text/'
-  - name: Authoring Tool Requirements
-    url: 'create/authoring-tools/'
   - name: Electronic Signatures
     url: 'create/electronic-signatures/'   
   - name: Equations and Formulas
