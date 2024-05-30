@@ -541,7 +541,7 @@ create:
         url: create/pdfs/training-videos/
       - name: Tips and Tricks
         url: create/pdfs/
-  - name: Audio & Video
+  - name: Audio & Video Media
     url: '#'
     children:
       - name: Audio- and Video-Only
