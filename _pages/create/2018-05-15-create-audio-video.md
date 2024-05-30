@@ -18,7 +18,7 @@ Video-only media refers to digital content, such as video without sound or silen
 To make video-only digital content accessible, provide either a text description of the video content, or an audio track that presents equivalent information. A text description for video-only content would be similar to a transcript with written audio descriptions, and an audio track would be narration that text description. For more information see [Creating Accessible Captions and Transcripts]({{site.baseurl}}/create/captions-transcripts/) and [Audio Descriptions]({{site.baseurl}}/create/synchronized-media/#audio-description).
 
 ## Synchronized Media
-Synchronized media, also called multimedia or "video," combines several media, such as audio and visual, to convey information and must conform to different standards than audio-only and video-only media. For more information, see [Synchronized Media]({{site.baseurl}}/create/synchronized-media/).
+Synchronized media, also referred to as multimedia or "video," combines several media, such as audio and visual, to convey information and must conform to different standards than audio-only and video-only media. For more information, see [Synchronized Media]({{site.baseurl}}/create/synchronized-media/).
 
 ## Media Players
 Digital media content, whether audio-only, video-only, or synchronized media requires a way to control the playback of that media. These media players must be tested to ensure they are accessible to people with disabilities and conform with applicable Section 508 Standards. For more information, see [Guide to Accessible Web Design & Development, Timed Events]({{site.baseurl}}/content/guide-accessible-web-design-development/#timed_events}}).
