@@ -544,7 +544,7 @@ create:
   - name: Audio & Video
     url: '#'
     children:
-      - name: Audio & Video Media
+      - name: Audio- and Video-Only
         url: 'create/audio-video/'
       - name: Captions & Transcripts
         url: 'create/captions-transcripts/'
