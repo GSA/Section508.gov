@@ -50,12 +50,12 @@ When determining how captions appear on a video, follow these guidelines:
 -   If you can customize the settings available within the video player, allow users to change caption settings, like the font size, color, and placement. Ensure that the captions are written so that changing these settings does not change their meaning, like when a change in the font size changes where the captions appear on the screen.
 
 ### Example
-In this example, the font, text size, color, and placement all meet Section 508 requirements and best practices. It is in the lower part of the screen, centered, and the text is in a sans serif font with a font size of 18 points. The text is white with a slightly translucent background, and is 44 characters long.
+In Figure 1, the font, text size, color, and placement all meet Section 508 requirements and best practices. It is in the lower part of the screen, centered, and the text is in a sans serif font with a font size of 18 points. The text is white with a slightly translucent background, and is 44 characters long.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-1.jpg" alt="Sample video screenshot with the caption, 'The screen reader will read the onscreen text aloud'" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Font, text size, color, and placement.</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Example of correct font, text size, color, and placement</span>
     </div>
 </div>
 
@@ -73,22 +73,22 @@ When working with auto-captioning, follow these guidelines:
 -   Adjust the line breaks so that each individual caption starts and ends at the most logical point, usually at a period or comma.
 
 ### Incorrect example
-Caption text: "soon. If doctor low agrees we can start the"
+In Figure 2, caption text reads: "soon. If doctor low agrees we can start the"
 
 In this incorrect example, the text is hard to read because of auto-caption errors.
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-2.jpg" alt="Sample video screenshot with the caption, 'soon. If doctor low agrees we can start the'" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-2.jpg" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Errors in automatically generated captions.</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Incorrect automatically generated captions.</span>
     </div>
 </div>
 
 ### Correct Example
-Caption text: "If Doctor Lowe agrees, we can start the treatment"
+In Figure 3, caption text reads: "If Doctor Lowe agrees, we can start the treatment"
 
 In this correct example, the grammar errors are fixed, the starting and ending time for each caption is adjusted for a more logical flow, and the captions are much more readable.
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-3.jpg" alt="Sample video screenshot with the caption, 'If Doctor Lowe agrees, we can start the treatment'" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-3.jpg" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Automatically generated captions after being corrected for readability.</span>
     </div>
@@ -107,11 +107,11 @@ Here are some situations where additional descriptors may need to be added:
 In all cases, read the text itself and determine whether the text alone conveys the full meaning. If it does not, use short descriptors to provide equivalent information.
 
 ### Example
-Caption text: "_(shouting)_ Pick _me_! I wanna go _first_!"
+In Figure 4, caption text reads: "_(shouting)_ Pick _me_! I wanna go _first_!"
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-4.jpg" alt="Sample video screenshot with the caption, '_(shouting)_ Pick _me_! I wanna go _first_!'" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-4.jpg" alt="" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Describing how a person speaks to convey meaning.</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Captions describing how a person speaks to convey meaning.</span>
     </div>
 </div>
 
@@ -127,35 +127,33 @@ If the speech is difficult to understand, follow these guidelines:
 -   If there is an excessive amount of filler words like "um" or "you know," and they obscure the meaning or make the captions difficult to read, some or all of them may be omitted. In these cases, ensure that the same meaning is still conveyed and the viewer has equivalent access to the content as it is experienced by hearing viewers.
 
 ### Example with Unedited Text
-Caption text: "_(calmly)_ I agree, but, um, I think...I think we could"
+In Figure 5, caption text reads: "_(calmly)_ I agree, but, um, I think...I think we could"
 
 In this example, there are filler words and gaps, but the content is still understandable. Because of this, the captions must display exactly what the speaker said, word for word.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-5.jpg" alt="Sample video screenshot with the caption, '_(calmly)_ I agree, but, um, I think...I think we could'" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-5.jpg" alt="" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5"><strong>Figure 5.</strong> Unedited unintelligible Speech and Filler Words.</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5"><strong>Figure 5.</strong> Captions displaying unedited unintelligible speech and filler words.</span>
     </div>
 </div>
 
 ### Example with Edited Text
-Caption text before editing: "So, um, if...I mean, if we can't, **um**...if we can't find, **uh, you know**, a solution to, **you know**,"
+In Figure 6, caption text before editing reads: "So, um, if...I mean, if we can't, **um**...if we can't find, **uh, you know**, a solution to, **you know**,"
 
-Caption text after editing, with words in **bold** removed: "So, um, if...I mean, if we can't...if we can't find...a solution to...this case,"
+In Figure 7, caption text after editing, with words in **bold** removed reads: "So, um, if...I mean, if we can't...if we can't find...a solution to...this case,"
 
 In this example, several of the filler words are removed, since it allows the reader to understand what is being said on an equivalent level as a hearing user. Notice that the captions still show some filler words and gaps to keep the intent and meaning as similar as possible.
 
-#### Filler words caption example before editing
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-6.jpg" alt="Sample video screenshot with the captions, 'So, um, if…I mean, if we can’t, um…if we can’t find, uh, you know, a solution to, you know,'" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-6.jpg" alt="" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-6"><strong>Figure 6.</strong> Filler words caption example before editing.</span>
     </div>
 </div>
 
-#### Filler words caption example after editing
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-7.jpg" alt="Sample video screenshot with the captions, 'So, um, if…I mean, if we can’t…if we can’t find…a solution to…this case,'" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-7.jpg" alt="" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-7"><strong>Figure 7.</strong> Filler words caption example after editing.</span>
     </div>
@@ -174,12 +172,12 @@ For sound effects, follow these guidelines:
 -   Describe when there is unexpected silence, like "no audible dialogue" when it is visible that a speaker's lips are moving.
 
 ### Example
-Caption text: _"(door opens; several dogs barking)"_
+In Figure 8, caption text reads: _"(door opens; several dogs barking)"_
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-8.jpg" alt="Sample video screenshot with the captions, '(door opens; several dogs barking)'" aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/captions-transcripts-figure-8.jpg" alt="" aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
     </div>
-    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Sound effects.</span>
+    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Captions displaying sound effects.</span>
     </div>
 </div>
 
