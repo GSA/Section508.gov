@@ -346,9 +346,11 @@ training:
             url: training/web-software/andi-training-videos/css-content-positioning/
           - name: "Module 18: Live Regions"
             url: training/web-software/andi-training-videos/live-regions/
+      - name: Creating Accessible Media
+        url: 'create/synchronized-media/creating-accessible-media/'
       - name: Color Contrast Analyzer
         url: 'training/web-software/andi-training-videos/color-contrast-analyzer/'
-      - name:  Universal Design and Accessibility
+      - name: Universal Design and Accessibility
         url: '#'
         grandchildren:
           - name: "An Introduction to Universal Design for Content Creators"
@@ -363,8 +365,8 @@ training:
           - name: "An Introduction to Universal Design for Procurement Professionals"
             url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
             external: true
-      - name: Creating Accessible Media
-        url: 'create/synchronized-media/creating-accessible-media/'
+      - name: 'What is Alternative Text?'
+        url: 'training/alt-text/what-is-alternative-text/'
   - name: Events
     url: 'events/'
   - name: IAAF 
@@ -560,6 +562,7 @@ create:
     url: 'create/accessible-meetings/'
   - name: Social Media
     url: 'create/social-media/'
+
 #
 # Custom SideNav for Each Accessibility Report to Congress
 report2023:
