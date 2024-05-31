@@ -1,10 +1,13 @@
 ---
 layout: page
 sidenav: true
-permalink: create/authoring-tools/
-type: create
+permalink: buy/authoring-tools/
+type: acquisition
 title: 'Authoring Tool Requirements'
-created: 1526591762
+created: 2018-05-17
+updated: 2024-05-30
+redirect_from:
+- create/authoring-tools/
 ---
 
 The [Revised 508 Standards][1] include new requirements for authoring tools. From the definitions section (E103.4) of the Revised 508 Standards:
@@ -44,7 +47,7 @@ If your software lets you create or edit content, or save content in PDF format,
 
 Clear authoring guidelines are usually a good indication that those tools can produce accessible outputs. See these [Accessibility Testing resources][3] for examples.
 
-**Reviewed/Updated:** May 2018
+**Reviewed/Updated:** May 2024
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#504-authoring-tools
