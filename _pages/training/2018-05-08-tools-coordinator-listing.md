@@ -155,7 +155,8 @@ Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>
 Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
-Mia K. Day - <mia.day@us.af.mil>
+Mia K. Day - <mia.day@us.af.mil>  
+Carlinda Lotson (BACKUP) - <carlinda.Lotson.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Jay Steinke - <jay.steinke.1@us.af.mil>  
