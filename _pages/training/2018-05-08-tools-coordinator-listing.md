@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: tools/program-manager-listing/
 type: training
-title: 'Find Your 508 Program Manager'
+title: 'Find Your Section 508 Program Manager'
 created: 1525805876
 modified: 2024-04-19
 redirect_from:
@@ -165,6 +165,7 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 ### Army
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
+  * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
   * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - <marty.gilliam@socom.mil>  
@@ -176,6 +177,7 @@ Jorge Valdez - <jorge.valdez@darpa.mil>
 Consuala Spencer - <consuala.spencer@dau.edu>  
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - <antonio.boston.civ@mail.mil>  
+William R. O'Brien (BACKUP) - <william.r.o'brien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
@@ -185,12 +187,10 @@ Jillian Langley - <jillian.langley.ctr@dc3.mil>
 Jaye Miller - <jaye.p.miller.civ@mail.mil>
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
+### Defense Human Resources Agency (DHRA)
+Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <fariba.beg.civ@mail.mil>  
-
-* **Joint Service Provider (JSP)**  
-* **Joint Interoperability Test Command (JITC)**  
-
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
@@ -199,14 +199,14 @@ DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>
 Richard Harmon - <richard.harmon@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
-Wendy Miner (Acting) – <wendy.d.miner.civ@mail.mil>  
+Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
 ### Defense Microelectronics Activity (DMEA)  
 David Elliot - <david.s.elliott24.civ@mail.mil>  
 Kevin Butters - <kevin.f.butters.civ@mail.mil>  
 ### Defense POW/MIA Accounting Agency (DPAA) 
-Gayle D. Oshiro – <gayle.d.oshiro.civ@mail.mil>  
+Malachi J. Morgan - <malachi.j.morgan.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
-David Frasher - <david.frasher@dsca.mil>
+Michael C. Scholz - <michael.c.schloz.civ@mail.mil>  
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
@@ -230,6 +230,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - <arnetta.lamae.civ@us.navy.mil>
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
+  * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
@@ -868,7 +869,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ----------------------------------------------------
 
-**Reviewed/Updated**: May, 2024
+**Reviewed/Updated**: June, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
