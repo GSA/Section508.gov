@@ -235,6 +235,10 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
+### Office of the Secretary of Defense (OSD)
+* **Chief Digital and Artificial Intelligence Officer (CDAO)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>  
+* **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
+
 ### U.S. Northern Command (USNORTHCOM)
 Katherine	S. Nichols - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
@@ -678,7 +682,7 @@ Dornesia Webster - <dornesia.webster@ferc.gov>
 
 ----------------------------------------------------
 ### Federal Housing Finance Agency (FHFA)
-Stuart Levy - <stuart.Levy@fhfa.gov>  
+James Myers - <james.myers@fhfa.gov>  
 
 ----------------------------------------------------
 ### Federal Maritime Commission (FMC)
