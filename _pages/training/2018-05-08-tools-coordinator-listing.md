@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: tools/program-manager-listing/
 type: training
-title: 'Find Your 508 Program Manager'
+title: 'Find Your Section 508 Program Manager'
 created: 1525805876
 modified: 2024-04-19
 redirect_from:
