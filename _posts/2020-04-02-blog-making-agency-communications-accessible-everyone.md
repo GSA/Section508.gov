@@ -41,7 +41,7 @@ The following tips will help you to create accessible digital content.
   * Describe meaningful images by including alternative (ALT) text with an equivalent description (or use ALT=&rdquo;&rdquo; where an image is ornamental).
   * Include column and row headings on data tables.
   * Visit our [Guide to Accessible Web Design & Development][3] for further guidance.
-  * The [US Web Design System][4] can also help you create more accessible customer experiences.
+  * The [U.S. Web Design System][4] can also help you create more accessible customer experiences.
 
 ## Videos and Virtual Meetings
 

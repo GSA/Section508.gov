@@ -1071,7 +1071,7 @@ In addition, the following success criteria apply to all content on the page, in
 </h2>
 
   * [Understanding Conformance][35] - W3C
-  * [US Web Design System][36] - User Interface (UI) Components
+  * [U.S. Web Design System][36] - User Interface (UI) Components
   * [WebAIM][37]
   * [ARIA is Spackle, Not Rebar][38]
   * [Accessible Name and Description Inspector (ANDI) Developer Tips][39]
