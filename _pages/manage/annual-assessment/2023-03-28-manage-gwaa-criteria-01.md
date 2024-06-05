@@ -78,7 +78,7 @@ Reporting entity POCs will receive a link via email to the reporting tool no lat
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/criteria-02/"> Next > </a>
 </div>
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** June 2024
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>
