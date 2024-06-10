@@ -24,8 +24,15 @@ site, this is the place to do it.
   <meta property="og:title" content="{{site.title}}">
   <meta name="description" content="{{site.description}}">
   <meta property="og:description" content="{{site.description}}">
-  <meta property="og:image" content="{{page.social_img}}">
+  {% comment %} Add a default og:image for social media sharing when not defined. {% endcomment %}
+  {% if page.social_img and page.social_img contains '://' and '.jpg' or '.png' %}
+  <meta property="og:image" content="{{page.social_img}}"> 
   <meta name="twitter:image" content="{{page.social_img}}" />
+  {% else %}
+  <meta property="og:image" content="https://assets.section508.gov/files/images/social-media-og-image.jpg">
+  <meta name="twitter:image" content="https://assets.section508.gov/files/images/social-media-og-image.jpg" />
+  {% endif %}
+  <!-- endif -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{site.twitter}}" />
   <meta name="twitter:title" content="{{site.title}}" />
