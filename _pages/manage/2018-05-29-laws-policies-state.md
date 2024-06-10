@@ -100,9 +100,9 @@ _<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-
 [11]: #K "Go to States beginning with K"
 [12]: #L "Go to States beginning with L"
 [13]: #M "Go to States beginning with M"
-[14]: #A "Go to States beginning with A"
-[15]: #N "Go to States beginning with N"
-[16]: #O P "Go to States beginning with O P"
+[14]: #N "Go to States beginning with N"
+[15]: #O "Go to States beginning with O"
+[16]: #P "Go to States beginning with P"
 [17]: #Q "Go to States beginning with Q"
 [18]: #R "Go to States beginning with R"
 [19]: #S "Go to States beginning with S"
@@ -115,25 +115,3 @@ _<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-
 [26]: #Z "Go to States beginning with Z"
 [27]: {{site.baseurl}}/contact-us
 [28]: https://www.section508.gov/manage/join-the-508-community/ "Join the IT Accessibility/508 Community"
-
-
-
- [12]: http://www.al.gov/terms-of-use "Go to Alabama's site"
- [13]: https://az.gov/policy/accessibility "Go to Arizona's site"
- [14]: https://www.dor.ca.gov/Home/Laws "Go to California's site"
- [15]: http://www.oshpd.ca.gov/Accessibility.html
- [16]: http://www.access.state.ct.us/policies/accesspolicy40.html "Go to Connecticut's site"
- [17]: http://www.dhs.state.il.us/page.aspx?item=32765 "Go to Illinois's site"
- [18]: http://www.in.gov/core/accessibility.html "Go to Indiana's site"
- [19]: https://ebit.ks.gov/itec/resources/policies/policy-1210 "Go to Kansas's site"
- [20]: https://www.louisiana.gov/accessibility-statement/ "Go to Louisiana's site"
- [21]: https://mn.gov/mnit/about-mnit/accessibility/ "Go to Minnesota's site"
- 
- [22]: http://at.mo.gov/it-access/ "Go to Missouri's site"
- [23]: https://its.ny.gov/document/accessibility-web-based-information-and-applications-compliance-reporting "Go to New York's site"
- [24]: http://www.ok.gov/accessibility "Go to Oklahoma's site"
- [25]: http://www.vita.virginia.gov "Go to Virginia Information Technologies Agency (VITA)'s site"
- 
- [27]: #top
- [28]: https://www.mass.gov/policy-advisory/enterprise-information-technology-accessibility-policy
- [29]: https://leg.colorado.gov/bills/hb21-1110 "Go to Colorado's site"
