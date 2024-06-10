@@ -236,7 +236,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
 ### Office of the Secretary of Defense (OSD)
-* **Chief Digital and Artificial Intelligence Officer (CDAO)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>  
+* **Chief Digital and Artificial Intelligence Officer (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
 * **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
 
 ### U.S. Northern Command (USNORTHCOM)
