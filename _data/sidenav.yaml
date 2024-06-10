@@ -55,8 +55,6 @@ manage:
     children:
       - name: IT Accessibility Laws and Policies Overview
         url: manage/laws-and-policies/
-      - name: International IT Accessibility Laws and Policies
-        url: manage/laws-and-policies/international/
       - name: Laws and Policy Quick Reference Guide
         url: manage/laws-and-policies/quick-reference-guide/
       - name: Website Accessibility Statements 
@@ -66,10 +64,12 @@ manage:
             url: manage/laws-and-policies/website-accessibility-statement/
           - name: Implementing a Public Feedback Mechanism
             url: manage/laws-and-policies/implementing-public-feedback-mechanism/        
-      - name: State-level Accessibility Law and Policy
-        url: manage/laws-and-policies/state/
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
+      - name: State-level Accessibility Law and Policy
+        url: manage/laws-and-policies/state/
+      - name: International IT Accessibility Laws and Policies
+        url: manage/laws-and-policies/international/
   - name: IT Accessibility Policy Framework
     url: '#'
     children:
