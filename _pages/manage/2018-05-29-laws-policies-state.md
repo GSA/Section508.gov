@@ -16,20 +16,20 @@ Go to States Beginning With: [A][1] \| [C][3] \| [I][9] \| [K][11] \| [L][12] \|
 <p id="A" name="A"> </p> 
 
 ## Alabama
-_<a href="http://www.al.gov/terms-of-use" target="_blank" class="usa-link--external">Alabama.gov Accessibility Policy</a>_ In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
+<a href="http://www.al.gov/terms-of-use" target="_blank" class="usa-link--external">Alabama.gov Accessibility Policy</a> In response to the need to ensure equal access to electronic and information technologies, the state of Alabama has developed a set of standards for Web page design. Just as environmental obstacles have inhibited individuals with disabilities, the Web poses an entirely new set of obstacles. In recognition of those individuals with visual, physical or developmental disabilities alabama.gov has adopted a policy to make government information accessible to all.
 
 ## Arizona
-_<a href="https://az.gov/policy/accessibility" target="_blank" class="usa-link--external">AZ.gov Accessibility Policy</a>_ To provide an accessibility model in which web content authors, format designers, and software developers within State agencies understand their roles in providing persons with disabilities, access to existing and developing State web sites. The following web page designs and features for completing the accessibility model are to be addressed for all State web sites.
+<a href="https://az.gov/policy/accessibility" target="_blank" class="usa-link--external">AZ.gov Accessibility Policy</a> To provide an accessibility model in which web content authors, format designers, and software developers within State agencies understand their roles in providing persons with disabilities, access to existing and developing State web sites. The following web page designs and features for completing the accessibility model are to be addressed for all State web sites.
 
 <p id="C" name="C"></p>
 
 ## California
-_<a href="https://www.dor.ca.gov/Home/Laws" target="_blank" class="usa-link--external">CA.gov State Digital Accessibility Laws</a>_ Government Code Section 7405 directs that state governmental entities follow Section 508 of the federal Rehabilitation Act requiring accessibility of electronic and information technology.
+<a href="https://www.dor.ca.gov/Home/Laws" target="_blank" class="usa-link--external">CA.gov State Digital Accessibility Laws</a> Government Code Section 7405 directs that state governmental entities follow Section 508 of the federal Rehabilitation Act requiring accessibility of electronic and information technology.
 
 Government Code Section 11135 prohibits discrimination on the basis of sex, race, color, religion, ancestry, national origin, ethnic group identification, age, mental disability, physical disability, medical condition, genetic information, marital status, or sexual orientation, be unlawfully denied full and equal access to the benefits of, or be unlawfully subjected to discrimination under, any program or activity that is conducted, operated, or administered by the state or by any state agency, is funded directly by the state, or receives any financial assistance from the state.
 
 ## Colorado 
-_<a href="https://leg.colorado.gov/bills/hb21-1110" target="_blank" class="usa-link--external">Colorado Laws For Persons With Disabilities</a>_ The act (HB21-1110) adds language to strengthen current Colorado law related to protections against discrimination on the basis of disability for persons with disabilities, specifically as those laws relate to accessibility to government information technology. 
+<a href="https://leg.colorado.gov/bills/hb21-1110" target="_blank" class="usa-link--external">Colorado Laws For Persons With Disabilities</a> The act (HB21-1110) adds language to strengthen current Colorado law related to protections against discrimination on the basis of disability for persons with disabilities, specifically as those laws relate to accessibility to government information technology. 
 
 ## Connecticut
 <a href="http://www.access.state.ct.us/policies/accesspolicy40.html" target="_blank" class="usa-link--external">State of Connecticut Universal Web Site Accessibility Policy for State Web Sites</a> This policy provides a set of established guidelines adopted by the the State of Connecticut and a checklist of design requirements which provides a quick reference for numerous design issues.
@@ -40,7 +40,7 @@ _<a href="https://leg.colorado.gov/bills/hb21-1110" target="_blank" class="usa-l
 The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" class="usa-link--external">Illinois Information Technology Accessibility Act (IITAA)</a> requires Illinois agencies and universities to ensure that their web sites, systems, and other information technologies are accessible to people with disabilities. While the Americans with Disabilities Act and Section 504 of the Rehabilitation Act require the State to address accessibility in general, the IITAA requires the State to establish and follow specific, functional accessibility standards and to address accessibility proactively.
 
 ## Indiana
-_<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-link--external">IN.gov Accessibility Policy</a>_ Indiana is committed to inclusion and universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.
+<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-link--external">IN.gov Accessibility Policy</a> Indiana is committed to inclusion and universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.
 
 <p id="K" name="K"></p>
 
