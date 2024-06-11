@@ -239,6 +239,8 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 * **Chief Digital and Artificial Intelligence Office (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
 * **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
 
+### Pentagon Force Protection Agency (PFPA)
+Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
 ### U.S. Northern Command (USNORTHCOM)
 Katherine	S. Nichols - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
