@@ -21,6 +21,19 @@ The California State University, Northridge (CSUN) hosted the 39th annual CSUN A
 * [Introduction to the Accessibility Requirements Tool (ART) (PPTX)](https://assets.section508.gov/files/presentations/Introduction-to-the-Accessibility-Requirements-Tool-(ART)-CSUN-2024.pptx) - Accessibility experts demonstrate how to use the Accessibility Requirements Tool (ART) to generate standardized Section 508 requirements language when procuring Information and Communication Technology (ICT) products and services.
 
 ### IT Accessibility Community Meetings
+#### June 11, 2024
+This session of the IT Accessibility Community Meeting introduces learners to accessible tables in electronic documents. During the session, we will review tables in Word, Excel, and PowerPoint. We will convert a document to PDF with tables and remediate the document. The presentation will include information on:
+
+* Creating tables in Microsoft Word, PowerPoint, and Excel
+* Converting to PDF
+* Remediating tables in PDF
+* Best practices for accessible tables
+
+Attendees who wish to follow along with the presenter can download files used in the live presentation
+
+* [Tables Training Worksheet for Documents (DOCX)](https://assets.section508.gov/files/presentations/2024-06-11-ITACM-Tables-Worksheet-for-Documents.docx)
+* [Tables Training Worksheet for PDF (PDF)](https://assets.section508.gov/files/presentations/2024-06-11-ITACM-Tables-Worksheet-for-PDF.pdf)
+
 #### February 13, 2024
 The GSA Government-wide IT Accessibility Program hosted federal employees and others for a presentation on how to use the [IT Accessibility Policy Framework]({{base.siteurl}}/manage/policy-framework/introduction/) to improve the conformance of Information and Communications Technology (ICT). The framework is designed to help organizations evaluate and update their agency’s IT accessibility policies and procedures. Following an overview of the framework, attendees participated in an instructor-led workshop where they used the [Policy Review Template (XLXS)](https://assets.section508.gov/files/Policy+Review+Template.xlsx) workbook to assess sample policies.
 
@@ -215,7 +228,7 @@ The meeting featured speakers from Microsoft, who shared the latest on creating 
   </div>
 </div>
 
-**Reviewed/Updated**: March 2024
+**Reviewed/Updated**: June 2024
 
 [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
 [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
