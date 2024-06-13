@@ -169,7 +169,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-  * **United States Special Operations Command (USSOCOM)** <br>Lynor Duncan - <lynor.duncan.civ@socom.mil>  
+  * **United States Special Operations Command (USSOCOM)** <br>Marty Gilliam - <marty.gilliam@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
