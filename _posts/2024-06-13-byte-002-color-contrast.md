@@ -2,8 +2,9 @@
 layout: post
 permalink: blog/accessibility-bytes/color-contrast/
 type: article
-title: 'Accessibility Bytes #2: Color Contrast'
+title: 'Accessibility Bytes No. 2: Color Contrast'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
+social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
 created: 2024-06-13
 description: '<strong>Do you know some people experience difficulty reading or understanding information when we use certain colors to format text in a document, webpage, or captioned video?</strong><p>Meeting the color contrast requirement ensures the visual presentation of text and images of text has a contrast ratio of at least 4.5:1.'
 contributors: 
