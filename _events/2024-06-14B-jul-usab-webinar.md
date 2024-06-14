@@ -2,7 +2,7 @@
 title: "Beyond Section 508 Digital Accessibility Requirements: An Overview of Web Accessibility Requirements from WCAG 2.1 and 2.2 | Webinar"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, July 31 2024 13:00 #otherwise use end-date
+end-date: Tuesday, July 30 2024 13:00 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-jul2024/
@@ -19,6 +19,6 @@ Questions for the presenter can be submitted during the registration process.
 * **Rachael Bradley Montgomery**, Accessibility Architect, Library of Congress
 
 ## Event Details
-**Tuesday, July 31, 2024**  
+**Tuesday, July 30, 2024**  
 **1:00 PM - 2:30 PM ET**  
 **Information and Registration:** <a href="https://www.accessibilityonline.org/ADA-Audio/session/?id=111123" target="_blank">Beyond Section 508 Digital Accessibility Requirements: An Overview of Web Accessibility Requirements from WCAG 2.1 and 2.2</a>
