@@ -42,7 +42,7 @@ At the discretion of the agency CIO (or designee), subcomponents may maintain a 
 [Small Business Administration][23]  
 [Social Security Administration][24]
 ## Small and Independent Agencies
-Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][31] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topJ" ></span> [J][34] |<span id="topL" ></span> [L][36] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
+Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="topB" ></span> [B][26] |<span id="topC" ></span> [C][27] |<span id="topD" ></span> [D][28] |<span id="topE" ></span> [E][29] |<span id="topF" ></span> [F][30] |<span id="topG" ></span> [G][31] |<span id="topH" ></span> [H][32] |<span id="topI" ></span> [I][33] |<span id="topJ" ></span> [J][34] |<span id="topL" ></span> [L][36] |<span id="topM" ></span> [M][37] |<span id="topN" ></span> [N][38] |<span id="topO" ></span> [O][39] |<span id="topP" ></span> [P][40] |<span id="topR" ></span> [R][42] |<span id="topS" ></span> [S][43] |<span id="topT" ></span> [T][44] |<span id="topU" ></span> [U][45]
 
 <hr>
 
@@ -155,7 +155,8 @@ Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>
 Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
-Mia K. Day - <mia.day@us.af.mil>
+Mia K. Day - <mia.day@us.af.mil>  
+Carlinda Lotson (BACKUP) - <carlinda.Lotson.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Jay Steinke - <jay.steinke.1@us.af.mil>  
@@ -168,7 +169,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-  * **United States Special Operations Command (SOCOM)** <br>Marty Gilliam - <marty.gilliam@socom.mil>  
+  * **United States Special Operations Command (USSOCOM)** <br>Marty Gilliam - <marty.gilliam@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -234,6 +235,12 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
+### Office of the Secretary of Defense (OSD)
+* **Chief Digital and Artificial Intelligence Office (CDAO)**<br> Daniel Holtzman - <daniel.c.holtzman.civ@mail.mil>  
+* **Defense Digital Service (DDS)**<br> Charity M. Jantzen - <charity.m.jantzen.civ@mail.mil>   
+
+### Pentagon Force Protection Agency (PFPA)
+Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
 ### U.S. Northern Command (USNORTHCOM)
 Katherine	S. Nichols - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
@@ -677,7 +684,7 @@ Dornesia Webster - <dornesia.webster@ferc.gov>
 
 ----------------------------------------------------
 ### Federal Housing Finance Agency (FHFA)
-Stuart Levy - <stuart.Levy@fhfa.gov>  
+James Myers - <james.myers@fhfa.gov>  
 
 ----------------------------------------------------
 ### Federal Maritime Commission (FMC)
@@ -709,10 +716,6 @@ Trevor Beierschmitt - <tbeierschmitt@ftc.gov>
 
 <span id="G" ></span>
 
-### Government Accountability Office (GAO)
-John Pak - <pakj@gao.gov>  
-
-----------------------------------------------------
 ### Gulf Coast Ecosystem Restoration Council (GCERC)
 Jeremy Roseboom - <jeremy.roseboom@restorethegulf.gov>  
 

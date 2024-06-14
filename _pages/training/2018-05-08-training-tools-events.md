@@ -8,11 +8,10 @@ created: 1525805876
 ---
 
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
-{: .text-gray-50 }
 
 <section class="usa-section">
 <ul class="usa-card-group">
-  <li class="tablet:grid-col-6 usa-card">
+  <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Onlinetraining">Online Training Courses</a></h2>
@@ -22,7 +21,7 @@ Learn how you can make your agency's electronic information and digital services
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-6 usa-card">
+  <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Trainingvideos">Video Training</a></h2>
@@ -32,9 +31,7 @@ Learn how you can make your agency's electronic information and digital services
       </div>
     </div>
   </li>
-</ul>
-<ul class="usa-card-group">
-  <li class="tablet:grid-col-6 usa-card">
+  <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/events/">Events</a></h2>
@@ -44,6 +41,19 @@ Learn how you can make your agency's electronic information and digital services
         <!-- <ul class="add-list-reset">
           <li><a href="{{site.baseurl}}/iaaf/">Annual Interagency Accessibility Forum (IAAF)</a></li>
         </ul> -->
+      </div>
+    </div>
+  </li>
+</ul>
+<ul class="usa-card-group">
+  <li class="tablet:grid-col-6 usa-card">
+    <div class="usa-card__container radius-md">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program)">DHS Trusted Tester Process & Certification Program</a></h2>
+      </header>
+      <div class="usa-card__body">
+        <p>Trusted Tester for Web Certification courses version 5.1.3 is now available.<br>
+        <a href="DHS Trusted Tester Training Self-Enrollment Portal" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
       </div>
     </div>
   </li>
