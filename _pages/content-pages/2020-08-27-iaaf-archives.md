@@ -4,8 +4,15 @@ sidenav: true
 permalink: iaaf/archives/
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
-created: 1598578742
+created: 2020-08-27
+updated: 2024-06-14
 --- 
+## 2023 Interagency Accessibility Forum
+
+The 2023 IAAF was held in November with a full day of workshops followed by two days of presenters, speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors. The event's presenters centered on ***Beyond Compliance: Building a Culture of Digital Accessibility***. 
+
+For details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2023).
+
 ## 2022 Interagency Accessibility Forum
 
 The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
@@ -387,5 +394,6 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards (PPTX)</a>
       </li>
     </ul>
-    <p><strong>Reviewed/Updated</strong>: December 2022</p>
 </div>
+
+**Reviewed/Updated:** June 2023
