@@ -71,7 +71,7 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
         < Previous</a>
 </div>
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** July 2024
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>
