@@ -1880,7 +1880,7 @@
     </ol>
   q-note: This question is only required if a is selected in Question 79a.
   u-descr: | 
-    When answering this question, consider the features of the platform and select whether or not the platform itself allows a way to perform each of the functions listed below.
+    When answering this question, consider the features of the platform and select whether or not the platform itself allows a way to perform each of the functions listed below. For the purpose of this question, "disable motion" is regarding ways to avoid rapid scrolling when screen sharing and other similar visual stimulation. Reaction animations should not be considered as "motion" for response to 79d.
 -   
   qid: q80
   uid: u80
