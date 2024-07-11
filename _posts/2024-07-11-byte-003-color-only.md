@@ -15,7 +15,7 @@ redirect_from:
 
 The previous Accessibility Byte discussed how the colors we used for text may make it difficult for some people to read or understand the information in a document, webpage and video captions.
 
-Meeting the use of color requirement ensures color is not the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. While color can be used, another visual method, such as a pattern or text label, should be used to convey information.
+Meeting the **use of color** requirement ensures color is not the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. While color can be used, another visual method, such as a pattern or text label, should be used to convey information.
 
 The following two images are an example of a nonconformant and conformant  chart showing everyone's favorite pizza topping combination---cheese, ham and pineapple. Figure 1 below is a doughnut chart using three shades of green with a legend at the bottom of the chart with the words cheese, ham and pineapple next to a small circle containing the sample color for the corresponding topping within the chart. No labels or text are used to describe each section.
 
