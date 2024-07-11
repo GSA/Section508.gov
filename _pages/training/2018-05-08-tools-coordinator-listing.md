@@ -220,7 +220,7 @@ Irina Ryan - <irina.ryan.civ@ndu.edu>
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
 ### National Guard Bureau (NGB)
-Nguyen D. Lam - <nguyen.d.lam.civ@army.mil>  
+Phyllis	R. Renner - <phyllis.r.renner.civ@army.mil>  
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -687,6 +687,10 @@ Dornesia Webster - <dornesia.webster@ferc.gov>
 James Myers - <james.myers@fhfa.gov>  
 
 ----------------------------------------------------
+### Federal Labor Relations Authority (FLRA)
+Dave Fontaine - <dfontaine@flra.gov>  
+
+----------------------------------------------------
 ### Federal Maritime Commission (FMC)
 Lucille Marvin - <omd@fmc.gov>  
 
@@ -855,6 +859,10 @@ Gregory G. Jackson - <ggjackson@tva.gov>
 J.R. Reeves - <jreeves@usagm.gov>  
 
 ----------------------------------------------------
+### U.S. Commission on Civil Rights (USCCR)
+Michele	Ramey -<section508@usccr.gov>  
+
+----------------------------------------------------
 ### U.S. International Development Finance Corporation (DFC)
 Pramila Adhikari - <pramila.adhikari@dfc.gov>  
 
@@ -872,7 +880,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ----------------------------------------------------
 
-**Reviewed/Updated**: June, 2024
+**Reviewed/Updated**: July, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
