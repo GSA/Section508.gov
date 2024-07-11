@@ -40,11 +40,8 @@ While there may be discussions and <a href="https://us.gozney.com/blogs/news/pin
 For more information on color standards, see: 
 
 * <a href="https://www.access-board.gov/ict/#302.3" target="_blank" class="usa-link--external">Functional Performance Criteria 302.3 Without Perception of Color | USAB</a>
-
 * [Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning](https://www.section508.gov/create/documents/aed-cop-docx11/)
-
 * <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#use-of-color" target="_blank" class="usa-link--external">WCAG 1.4.1 Use of Color | W3C</a>
-
 * <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0&currentsidebar=%23col_overview&levels=aaa#contrast-minimum" target="_blank" class="usa-link--external">WCAG 1.4.3 Contrast (Minimum) | W3C</a>
 
 Still have questions? Reach out to your agency's [Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/) or contact us at <Section.508@gsa.gov>.
