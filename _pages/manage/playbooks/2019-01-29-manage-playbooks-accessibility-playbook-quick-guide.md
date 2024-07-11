@@ -4,7 +4,8 @@ sidenav: false
 permalink: manage/playbooks/accessibility-playbook-quick-guide/ 
 type: manage 
 title: 'Quick Guide to IT Accessibility for Program Managers' 
-created: 1548787236
+created: 2019-01-29
+updated: 2024-07-11
 redirect_from:
 - tools/playbooks/accessibility-playbook-quick-guide/ 
 ---
@@ -256,7 +257,7 @@ agency buys, builds, and uses, is accessible for all.
       <a href="{{site.baseurl}}/create/universal-design">Universal Design</a>
   </li>
   <li>
-      <a href="https://accessibility.digital.gov/">Accessibility for Teams</a>
+      <a href="https://digital.gov/guides/accessibility-for-teams/">Accessibility for Teams</a>
   </li>
 </ul>
 
@@ -396,5 +397,5 @@ agency buys, builds, and uses, is accessible for all.
 </p>
 
 <p dir="ltr">
-  <strong>Reviewed/Updated</strong>: November 2022
+  <strong>Reviewed/Updated</strong>: July 2024
 </p>

@@ -3,7 +3,8 @@ layout: post
 permalink: blog/Introducing-Accessibility-for-Teams/
 type: article
 title: 'Introducing Accessibility for Teams'
-created: 1531930870
+created: 2018-07-18
+updated: 2024-07-11
 tags: Design-and-Develop
 description: Accessibility is a crucial part of government product design.
 ---
@@ -45,7 +46,7 @@ David Stenger, Carolyn Dew, Victor Zapanta, Kate Saul, Nikki Lee, Andrew Maier, 
 This DigitalGov Guide is maintained by the Accessibility Guild in TTS at GSA. In the government, accessibility isn&rsquo;t a nice-to-have,&nbsp;[it&rsquo;s the law][1]. Find out more about&nbsp;[Section 508][5]&nbsp;of the Rehabilitation Act of 1973, a law that requires all information and communications technology released by the government to be accessible to anybody with a disability. Learn about the&nbsp;[Section 508 Refresh][6]&nbsp;that went into effect in January 2018.
 
  [1]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
- [2]: https://accessibility.digital.gov/
+ [2]: https://digital.gov/guides/accessibility-for-teams/ 
  [3]: https://digital.gov/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/
  [4]: https://assets.section508.gov/files/Can%20you%20reach%20anything%20that%27s%20interactive%20using%20the%20tab%20key.png
  [5]: {{site.baseurl}}/manage/laws-and-policies
