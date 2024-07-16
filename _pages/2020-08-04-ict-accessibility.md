@@ -612,12 +612,6 @@ sidenav: false
   </p>
 </div>
 
-<div id="e402_2_1_information_displayed_on_screen">
-  <p>
-    <strong>402.2.1 Information Displayed On-Screen. </strong> Speech output shall be provided for all information displayed on-screen.
-  </p>
-</div>
-
 <div id="e402_2_speech_output_enabled_exception">
   <p>
     <strong>Exceptions from E402.2: </strong>
@@ -647,6 +641,13 @@ sidenav: false
     6. Speech output shall not be required for advertisements and other similar information unless they convey information that can be used for the transaction being conducted.
   </p>
 </div>
+
+<div id="e402_2_1_information_displayed_on_screen">
+  <p>
+    <strong>402.2.1 Information Displayed On-Screen. </strong> Speech output shall be provided for all information displayed on-screen.
+  </p>
+</div>
+
 
 <div id="e402_2_2__e402_2_3__e402_2_4">
   <p>
