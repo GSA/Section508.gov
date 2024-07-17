@@ -613,9 +613,16 @@ Guy T. Tate - <guy.t.tate@usace.army.mil>
 Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  
 
 ----------------------------------------------------
+### Bonneville Power Administration (BPA)
+Jenna A. Ramos - <jaramos@bpa.gov>  
 
-<span id="C" ></span>
+----------------------------------------------------
+<span id="C" ></span>  
 
+### Central Intelligence Agency (CIA)
+Michael W. - <iapo@ucia.gov>  
+
+----------------------------------------------------
 ### Committee for Purchase from People Who Are Blind or Severely Disabled (CPPBSD)
 Edward Yang - <eyang@abilityone.gov>  
 
@@ -775,6 +782,10 @@ Andrew Martin - <andrew.martin@nlrb.gov>
 ----------------------------------------------------
 ### National Security Agency (NSA)
 L. Tanai White - <ltwhite@nsa.gov>  
+
+----------------------------------------------------
+### Northern Border Regional Commission
+Rich Grogan - <rgrogan@nbrc.gov>  
 
 ----------------------------------------------------
 ### Nuclear Waste Technical Review Board (NWTRB)
