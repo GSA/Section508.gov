@@ -6,10 +6,10 @@ created: 1527569449
 layout: wide
 sidenav: false
 redirect_from:
-- /art/home/
-- /buy/art/home/
+- art/home/
+- buy/art/home/
 redirect_to:
-- /art/
+- art/
 ---
 
 <a href="{{site.baseurl}}/art/" class="usa-button usa-button--accent-warm">Start Using ART</a>
