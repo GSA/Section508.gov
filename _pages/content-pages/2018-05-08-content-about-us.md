@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: false
-permalink: /about-us/
+permalink: about-us/
 type: page
 title: 'About Us'
 created: 1525805230
@@ -50,7 +50,7 @@ If you have feedback or concerns related to the accessibility of this website, t
 
 If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at [CIO508Help@gsa.gov][5] or (202) 208-0799.
 
-**Reviewed/Updated:** May 2022
+**Reviewed/Updated:** July 2024
 
  [1]: https://www.access-board.gov
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
