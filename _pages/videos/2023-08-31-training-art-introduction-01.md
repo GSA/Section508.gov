@@ -16,7 +16,20 @@ This episode introduces users to the Accessibility Requirements Tool (ART), and 
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
-    <p>Transcript coming soon</p>
+    <p>[low, steady music throughout]</p>
+    <p>Voice Over (VO): What is ART and when do I need to use it?</p>
+    <p>(VO): The acronym "ART" stands for "Accessibility Requirements Tool."</p>
+    <p>(VO): ART is an open-source online tool that is designed to make the Section 508 procurement process easier by providing a step-by-step guide to generate your list of Section 508 requirements.</p>
+    <p>(VO): Section 508 standards require that when the federal government buys or builds Information Communication Technology, or "ICT," it must be accessible and usable by people with disabilities.</p>
+    <p>(VO): When you procure ICT for a federal government contract, you must determine which Section 508 standards apply to your specific procurement.</p>
+    <p>(VO): If you are less familiar with Section 508 standards, it can be difficult to review them and compile your list of requirements.</p>
+    <p>(VO): ART should be used at the beginning of your procurement process to ensure compliance and reduce the need for remediation.</p>
+    <p>(VO): ART will ask you a few simple questions about what ICT products or services you are buying or building.</p>
+    <p>(VO): No knowledge of Section 508 or accessibility is required.</p>
+    <p>(VO): However, you do need to know the nature of what you are procuring in order to get accurate Section 508 requirements for your procurement.</p>
+    <p>(VO): ART then generates a list of requirements based on your responses, which you can use throughout the procurement process.</p>
+    <p>(VO): This will make it much easier to assess existing products on the market, write your procurement and solicitation documents, and decide how any new technology solutions should be built.</p>
+    <p>(VO): This video is a product of the General Services Administration.</p>
   </div>
 </div> -->
 
