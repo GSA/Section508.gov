@@ -6,6 +6,16 @@ type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
 --- 
+## 2023 Interagency Accessibility Forum
+
+The 2023 IAAF was a three-day conference built on the theme ***Beyond Compliance: Building a Culture of Digital Accessibility*** and featured workshops, keynote addresses, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
+
+Attendees of this 10th annual IAAF enjoyed a return to an in-person (hybrid) event - our first since 2019, at the Federal Deposit Insurance Corporation (FDIC) offices in Arlington, Virginia. 
+
+The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Federal Deposit Insurance Corporation (FDIC) and Department of Veteran's Affairs (VA), in partnership with other federal agencies.
+
+For details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2023).
+
 ## 2022 Interagency Accessibility Forum
 
 The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
@@ -387,5 +397,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards (PPTX)</a>
       </li>
     </ul>
-    <p><strong>Reviewed/Updated</strong>: December 2022</p>
+    <p><strong>Reviewed/Updated</strong>: July 2024</p>
 </div>
