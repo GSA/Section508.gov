@@ -204,7 +204,18 @@ training:
     url: '#'
     children:
       - name: "Accessibility Requirements Tool"
-        url: 'training/art/introducing-art/' 
+        url: '#'
+        grandchildren:
+          - name: "What is ART and When Do I Need to Use It?"
+            url: 'training/art/introducing-art-01/'
+          - name: Where is ART and How Do I Use It?
+            url: 'training/art/introducing-art-02/'
+          - name: How Do I Use the Section 508 Requirements Created by ART?
+            url: 'training/art/introducing-art-03/'
+          - name: How Do I Generate a List for Multiple Procurements?
+            url: 'training/art/introducing-art-04/'
+          - name: How Do I Use JSON to Modify My Report?
+            url: 'training/art/introducing-art-05/'
       - name: Document       
         url: '#'
         grandchildren:
