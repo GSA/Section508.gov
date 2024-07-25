@@ -31,6 +31,16 @@ function navigate(anchorTag) {
             return true;
         }
     }
+    if ((externalHeader && externalHeader.className === "section508-external-block-baselinealignment") || (externalFooter && externalFooter.className === "section508-external-block-baselinealignment")) {
+        let result = confirm('Navigating to this link will navigate away from the Baselinealignment. Click "Cancel" to remain in the Baselinealignment. Click "OK" to proceed.');
+        if (result == false) {
+            //window.location.href = window.location.href;
+            window.location.reload(false);
+        }
+        else {
+            return true;
+        }
+    }
     return false;
 }
 
