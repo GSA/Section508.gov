@@ -6,6 +6,15 @@ title: '2018 Interagency Accessibility Forum'
 created: 1537886593
 tags: Events
 description: Federal employees (and contractors with a government email address) are invited to participate in the 2018 Interagency Accessibility Forum (IAAF) on Tuesday, October 9, 2018, in Washington, DC.
+topic: Events (events)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+  - Federal employee (fedemp)	
+  - 508 Program Manager (508pm) 
+  - Content Creators (creator)	
+  - Developers and Testers (dev-test)	
+  - Designer (design)
+resource-type: Blog article (blog)
 ---
 
 <p dir="ltr">
