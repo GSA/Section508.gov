@@ -36,7 +36,7 @@ format: HTML (html)
     <div id="{{ this-qid }}" class="usa-card tablet:grid-col-12">
         <div class="usa-card__container border-top">
             <div class="usa-card__header">
-                <h3 class="usa-card__heading"> Question {{ this-qid | replace: "q", "" }}</h3>
+                <h3 class="usa-card__heading"> Question {{ this-qid | replace: "q",  }}</h3>
             </div>
             <div class="usa-card__body">
                 <p><strong>{{ each.q-descr }}</strong></p>
@@ -60,7 +60,7 @@ format: HTML (html)
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        Understanding Question {{ each.uid | replace: "u",  }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
@@ -95,7 +95,7 @@ format: HTML (html)
     $("#collapse-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "false");
         $(".understand_button").toggleClass("radius-bottom-lg");
-        $(".understand_content").attr("hidden","");
+        $(".understand_content").attr("hidden",);
     });
     $(".understand_button").on("click", function(){
         $(this).toggleClass("radius-bottom-lg");
