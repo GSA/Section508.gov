@@ -11,14 +11,20 @@ This episode provides instruction on how to use ART to help you conduct market r
 
 <video controls="controls" poster="https://assets.section508.gov/files/thumbnails/training-art-poster-03.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/art-introduction-03-oc.mp4" type="video/mp4" /></video>
 
-<!-- <div class="usa-accordion usa-accordion--bordered">
+<div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
-    <p>Transcript coming soon</p>
+    <p>[low, steady music throughout]</p>
+    <p>Voice Over (VO): How do I use the Section 508 requirements created by ART?</p>
+    <p>(VO): After you use ART to generate the list of Section 508 requirements that apply to your ICT, you can use this list to help you conduct market research, write documentation such as a Statement of Work, and determine 508 requirements for new products or services.</p>
+    <p>(VO): To save your list of requirements, you can copy the text, download it as a Word document, or download it as a JSON file by selecting the respective button on the results page.</p>
+    <p>(VO): When you download the list of requirements as a Word document, you can save the file and make minor edits later on, if needed.</p>
+    <p>(VO): You can then include this list in the documentation that you create as part of your procurement documentation.</p>
+    <p>(VO): This video is a product of the General Services Administration.</p>
   </div>
-</div> -->
+</div>
 
 ## Related Training Videos
 

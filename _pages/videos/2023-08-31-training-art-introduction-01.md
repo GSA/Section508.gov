@@ -11,7 +11,7 @@ This episode introduces users to the Accessibility Requirements Tool (ART), and 
 
 <video controls="controls" poster="https://assets.section508.gov/files/thumbnails/training-art-poster-01.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/art-introduction-01-oc.mp4" type="video/mp4" /></video>
 
-<!-- <div class="usa-accordion usa-accordion--bordered">
+<div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
@@ -31,7 +31,7 @@ This episode introduces users to the Accessibility Requirements Tool (ART), and 
     <p>(VO): This will make it much easier to assess existing products on the market, write your procurement and solicitation documents, and decide how any new technology solutions should be built.</p>
     <p>(VO): This video is a product of the General Services Administration.</p>
   </div>
-</div> -->
+</div>
 
 ## Related Training Videos
 
