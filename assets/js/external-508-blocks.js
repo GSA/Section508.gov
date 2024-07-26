@@ -31,7 +31,7 @@ function navigate(anchorTag) {
             return true;
         }
     }
-    return true;
+    return false;
 }
 
 
