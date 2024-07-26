@@ -122,6 +122,9 @@ body {
         .usa-nav__primary > .usa-nav__primary-item > a {
             font-size: 1rem;
         }
+        .usa-identifier__required-link, .usa-identifier__required-link.usa-link {
+            font-size: 1rem;
+        }
     }
 
     .primary-background-color {
@@ -200,6 +203,3 @@ body {
         margin-top: 10px;
     }
 
-.usa-identifier__required-link, .usa-identifier__required-link.usa-link {
-    font-size:1rem;
-}
