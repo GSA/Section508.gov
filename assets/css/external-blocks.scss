@@ -142,7 +142,6 @@ body {
 
     .usa-footer__primary-section p, .usa-identifier__identity p, .usa-identifier__container {
         font-size: 16px;
-        margin-top:10px;
     }
 
     .add-list-reset li {
@@ -189,4 +188,8 @@ body {
     .usa-header [role=search] {
         max-width: calc(35ch + 4rem);
     }
+}
+
+.usa-footer__primary-section p{
+    margin-top:10px;
 }
