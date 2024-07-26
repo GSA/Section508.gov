@@ -74,7 +74,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 ---
 
-## Related ART Resources
+## Related Procurement Resources
 
   * [Accessibility Requirements Tool (ART)][7]
   * [Buy Accessible Products and Services][8]
