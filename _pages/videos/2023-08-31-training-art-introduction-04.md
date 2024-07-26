@@ -28,7 +28,7 @@ This episode demonstrates how to use ART to add and remove multiple items and ge
 * **How Do I Generate a List for Multiple Procurements?**
 * [How Do I Use JSON to Modify My Report?][5]
 
-## Related Procurement Resources
+## Related Acquisition Resources
 
   * [Accessibility Requirements Tool (ART)][7]
   * [Buy Accessible Products and Services][8]

@@ -28,7 +28,7 @@ This episode provides instruction on how to use ART to help you conduct market r
 * [How Do I Generate a List for Multiple Procurements?][4]
 * [How Do I Use JSON to Modify My Report?][5]
 
-## Related Procurement Resources
+## Related Acquisition Resources
 
   * [Accessibility Requirements Tool (ART)][7]
   * [Buy Accessible Products and Services][8]

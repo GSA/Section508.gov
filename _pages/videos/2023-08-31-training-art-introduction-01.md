@@ -41,7 +41,7 @@ This episode introduces users to the Accessibility Requirements Tool (ART), and 
 * [How Do I Generate a List for Multiple Procurements?][4]
 * [How Do I Use JSON to Modify My Report?][5]
 
-## Related Procurement Resources
+## Related Acquisition Resources
 
   * [Accessibility Requirements Tool (ART)][7]
   * [Buy Accessible Products and Services][8]

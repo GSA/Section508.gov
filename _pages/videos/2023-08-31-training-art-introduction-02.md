@@ -28,7 +28,7 @@ This episode provides information on where to find ART and how to start generati
 * [How Do I Generate a List for Multiple Procurements?][4]
 * [How Do I Use JSON to Modify My Report?][5]
 
-## Related Procurement Resources
+## Related Acquisition Resources
 
   * [Accessibility Requirements Tool (ART)][7]
   * [Buy Accessible Products and Services][8]
