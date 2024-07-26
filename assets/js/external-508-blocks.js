@@ -26,12 +26,13 @@ function navigate(anchorTag) {
         if (result == false) {
             //window.location.href = window.location.href;
             window.location.reload(false);
+            return false;
         }
         else {
             return true;
         }
     }
-    return false;
+    return true;
 }
 
 
