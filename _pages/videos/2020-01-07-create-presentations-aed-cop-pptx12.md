@@ -7,6 +7,16 @@ title: 'Module 12: Excluding Flashing Objects'
 created: 1578420068
 redirect_from:
  - create/presentations/aed-cop-pptx12/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 12: Excluding Flashing Objects)

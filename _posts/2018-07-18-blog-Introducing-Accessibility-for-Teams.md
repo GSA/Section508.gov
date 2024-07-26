@@ -7,6 +7,16 @@ created: 2018-07-18
 updated: 2024-07-11
 tags: Design-and-Develop
 description: Accessibility is a crucial part of government product design.
+topic: "Development (dev)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "Developers and Testers (dev-test)"
+- "508 Program Manager (508pm)"
+- "Content Creators (creator)"
+- "Federal employee (fedemp)"
+- "Information Technology Program and Project Managers (itpm)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 Accessibility is a crucial part of government product design. First,&nbsp;[it&rsquo;s the law][1]. Federal agencies face legal consequences when they don&rsquo;t meet accessibility requirements. Second, it affects us all. Whether you have a motor disability, you sprained your wrist playing dodgeball, you need a building to have a ramp for your wheelchair or stroller, or you literally just have your hands full, we all find ourselves unable to do certain things at different points in our lives. Accessible products are better products for everyone.

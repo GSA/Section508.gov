@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/compliance-outcomes/
 type: report2023
 title: "Governmentwide Findings: Key Compliance Outcomes"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 ## Key Compliance Outcomes
 It has been 37 years since the Rehabilitation Act Amendments added Section 508 and 25 years since the expanded Rehabilitation Act Amendments of 1998, and the federal government is overarchingly still procuring, developing, maintaining, and using non-conformant ICT. <strong>The government as a whole is not meeting the minimum standard or legal obligation to provide equal access to all members of the public and federal employees with disabilities.</strong>

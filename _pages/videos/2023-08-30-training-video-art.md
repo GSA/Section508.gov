@@ -4,6 +4,16 @@ layout: page
 permalink: training/art/introducing-art/
 type: training
 title: Introduction to the Accessibility Requirements Tool (ART)
+topic: "Tools (tools)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Acquisition (acq)"
+- "508 Program Manager (508pm)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+- "Contracting Officer (cor)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 This video provides a demonstration of how you can use the Accessibility Requirements Tool (ART). ART allows you to generate a list of Section 508 requirements that apply to the [Information and Communication Technology (ICT)][1] that you wish to procure. This video explains when you should use ART, how to create and edit your list of requirements using ART, and how to use the list that ART generates.
 

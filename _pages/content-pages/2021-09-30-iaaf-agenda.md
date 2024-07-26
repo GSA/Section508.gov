@@ -7,6 +7,16 @@ title: 'Interagency Accessibility Forum (IAAF) Archives - 2021 Event Agenda'
 created: 1600981839
 redirect_from:
 - iaaf/agenda-2021/
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 <p style="text-align:center;">

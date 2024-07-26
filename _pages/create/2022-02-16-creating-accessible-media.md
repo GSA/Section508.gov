@@ -4,6 +4,14 @@ sidenav: true
 permalink: create/synchronized-media/creating-accessible-media/
 type: create
 title: 'Creating Accessible Media'
+topic: "Content creation (create)"
+sub-topic: "Video/Audio/Multimedia"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <p>Get a brief overview on how to develop high quality audio, video, and multimedia that is accessible to users who cannot see visual information, or hear information conveyed using sound. Learn about text-based equivalents, captions and synchronized audio descriptions.</p>
 <hr>

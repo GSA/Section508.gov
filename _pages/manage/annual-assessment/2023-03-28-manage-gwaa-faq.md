@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/faq/
 type: manage
 title: "Government-wide Section 508 Assessment Frequently Asked Questions"
+topic: "Manage (program)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Federal employee (fedemp)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 <!-- Expand/Collapse All "Understanding" Content -->
 <div class="margin-bottom-3">

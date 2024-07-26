@@ -5,6 +5,15 @@ permalink: test/about-testing-tools/
 type: test
 title: 'About Testing Tools'
 created: 1527032627
+topic: "Testing (test)"
+sub-topic: "Documents"
+audience:
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Website Managers/Content Managers (wcm)"
+- "Information Technology Program and Project Managers (itpm)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Learn about the different types of accessibility testing tools (artifacts) developed by the Federal CIO Council Accessible Electronic Documents Community of Practice (AED COP). To find the actual testing tools, visit the [Test for Accessibility page][1] and select the type of content you want to test.

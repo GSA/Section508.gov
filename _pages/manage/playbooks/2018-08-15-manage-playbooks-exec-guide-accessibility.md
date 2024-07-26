@@ -7,6 +7,16 @@ title: 'Executive Guide to Federal IT Accessibility'
 created: 1534360384
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/
+topic: "Manage (program)"
+sub-topic: "Manage Accessibility for IT Program/Project Managers"
+audience:
+- "Agency Head (head)"
+- "Chief Information Officer (cio)"
+- "Chief Acquisition Officer (cao)"
+- "Manager/Exec (exec)"
+- "508 Program Manager (508pm)"
+resource-type: "Playbook"
+format: "HTML (html)"
 ---
 
 <div class="col-lg-12 col-sm-12 col-xs-12">

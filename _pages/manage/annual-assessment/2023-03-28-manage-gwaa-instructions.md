@@ -6,6 +6,16 @@ type: manage
 title: "Government-wide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
+topic: "Manage (program)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Federal employee (fedemp)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 ## Assessment Requirement

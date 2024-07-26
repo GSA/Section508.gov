@@ -5,6 +5,14 @@ permalink: create/spreadsheets/
 type: create
 title: 'Create Accessible Spreadsheets'
 created: 1526410073
+topic: "Content creation (create)"
+sub-topic: "Spreadsheets"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 How to create accessible Microsoft Excel spreadsheets that conform to the [Revised 508 Standards][1].

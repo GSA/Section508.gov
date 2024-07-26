@@ -5,6 +5,16 @@ permalink: manage/policy-framework/guidance-by-policy-type/information-technolog
 type: manage
 title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Manager/Exec (exec)"
+- "Federal employee (fedemp)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 id="standards">
   Information Technology Services

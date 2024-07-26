@@ -6,6 +6,15 @@ title: 'Accessibility Requirements Tool (ART) is Live!'
 created: 1516238754
 tags: Acquisition
 description: The Accessibility Requirements Tool (ART) is now live. Read on to learn how the tool can help your federal agency more easily develop and procure accessible technology.
+topic: "Tools (tools)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Acquisition (acq)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+- "508 Program Manager (508pm)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 The [Accessibility Requirements Tool (ART)][1] is now live. Read on to learn how the tool can help your federal agency more easily develop and procure accessible technology.

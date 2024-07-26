@@ -5,6 +5,16 @@ permalink: manage/program-manager-responsibilities/
 type: manage
 title: ' IT Accessibility/508 Program Manager Responsibilities'
 created: 1534188326
+topic: "Manage (program)"
+sub-topic: "Manage a 508 Program"
+audience:
+- "508 Program Manager (508pm)"
+- "Chief Information Officer (cio)"
+- "Agency Head (head)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 An IT Accessibility/508 Program Manager (PM) has a complex job that requires in-depth knowledge of agency information technology (IT) business and procurement processes, appreciation for the needs of individuals with disabilities, and a clear understanding of the laws, standards and policies that govern accessibility of IT in the Federal government.

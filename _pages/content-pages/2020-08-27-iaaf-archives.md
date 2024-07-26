@@ -5,6 +5,16 @@ permalink: iaaf/archives/
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 1598578742
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 --- 
 ## 2022 Interagency Accessibility Forum
 

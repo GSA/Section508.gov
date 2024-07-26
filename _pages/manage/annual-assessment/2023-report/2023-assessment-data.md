@@ -6,6 +6,16 @@ type: report2023
 title: "Assessment Data & Downloads"
 redirect_from:
 - 2023-congressional-report-downloads/
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 23 Governmentwide Section 508 Assessment below, which includes:
 

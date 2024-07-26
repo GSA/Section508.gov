@@ -8,6 +8,14 @@ contributors:
 social_img: 
 created: 2024-05-29
 updated:
+topic: "Content creation (create)"
+sub-topic: "Social Media"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 Accessible social media is crucial for fostering inclusivity and ensuring equal participation for all individuals, regardless of their abilities. By implementing accessibility features such as alt text for images, closed captions for videos, and screen reader compatibility, social media platforms can make content more accessible to people with disabilities, including those who are without or have limited vision, without or have limited hearing, without perception of color, or limited reach and strength. 
 

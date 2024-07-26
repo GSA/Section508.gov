@@ -7,6 +7,16 @@ title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
 contributors: usab
 description: "Guide to Accessible Web Design & Development"
+topic: "Development (dev)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "Developers and Testers (dev-test)"
+- "508 Program Manager (508pm)"
+- "Content Creators (creator)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Designer (design)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].

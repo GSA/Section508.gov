@@ -6,6 +6,16 @@ title: 'Executive Guide to Federal IT Accessibility Released'
 created: 1537886806
 tags: Policy-and-Management
 description: The federal government strives to deliver a level of service comparable to that of the best private sector organizations. As more government services move online, we have a responsibility to ensure equal access to services, particularly for people living with a disability.
+topic: "Manage (program)"
+sub-topic: "Manage Accessibility for IT Program/Project Managers"
+audience:
+- "Agency Head (head)"
+- "Chief Information Officer (cio)"
+- "Chief Acquisition Officer (cao)"
+- "Manager/Exec (exec)"
+- "508 Program Manager (508pm)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 

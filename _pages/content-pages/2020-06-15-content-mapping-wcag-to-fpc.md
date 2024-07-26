@@ -7,6 +7,16 @@ created: 1541532205
 tags:
 contributors: usab
 description: Mapping of WCAG 2.0 to the Section 508 Functional Performance Criteria
+topic: "Law (law)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">

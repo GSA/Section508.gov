@@ -6,6 +6,16 @@ type: acquisition
 title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)'
 contributors: haileselassie, sirk, nasa
 description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
+topic: "Acquisition/Sell (sell)"
+sub-topic: "VPAT/ACR Production & Eval"
+audience:
+- "Acquisition (acq)"
+- "508 Program Manager (508pm)"
+- "Agency Senior Procurement Executive (spe)"
+- "Chief Acquisition Officer (cao)"
+- "Information Technology Program and Project Managers (itpm)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 This page is intended to instruct users on how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][6]. For more information on ACRs and VPATs<sup>&trade;</sup> visit the Acquisition section of Section508.gov.

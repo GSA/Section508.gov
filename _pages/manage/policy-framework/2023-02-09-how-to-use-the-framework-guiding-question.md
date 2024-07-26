@@ -5,6 +5,15 @@ permalink: manage/policy-framework/how-to-use-the-framework/guiding-question/
 type: manage
 title: "IT Accessibility Policy Framework - Guiding Questions"
 created: December 09, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 id="standards">
   Guiding Questions to Evaluate Policies for ICT Accessibility Information

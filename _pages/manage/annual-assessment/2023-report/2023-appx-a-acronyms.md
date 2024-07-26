@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-a-acronyms/
 type: report2023
 title: "Appendix A: Acronyms List"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
 

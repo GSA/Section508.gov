@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/definition-of-terms/
 type: manage
 title: "Government-wide Section 508 Assessment Definition of Terms"
+topic: "Manage (program)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Federal employee (fedemp)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 The following terms are referenced by reporting criteria of the annual Government-wide Section 508 Assessment. For terms relating to Section 508, see [Glossary of Section 508 Terms]({{site.baseurl}}/content/glossary/).
 

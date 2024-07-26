@@ -7,6 +7,16 @@ title: 'Module 1: Save as a Word Document (.docx) with a Descriptive Filename'
 created: 1579720714
 redirect_from:
 - create/documents/aed-cop-docx01/
+topic: "Training (train)"
+sub-topic: "Documents"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 1: **Save as a Word Document &#40;.docx&#41; with a Descriptive Filename**)

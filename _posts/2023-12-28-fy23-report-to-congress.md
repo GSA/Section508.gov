@@ -7,6 +7,16 @@ tags: Policy-and-Management
 created: 2023-12-28
 description: The General Services Administration (GSA) just released a report on the current state of federal Section 508 compliance. The report, the FY23 Governmentwide Section 508 Assessment, evaluates reporting entities’ adherence to the criteria established by the White House Office of Management and Budget (OMB) in coordination with GSA, the White House Office of Science and Technology Policy (OSTP), and the U.S. Access Board (USAB). The report provides a baseline and recommendations for strengthening compliance initiatives and enhancing Section 508 activities across the federal government.
 contributors: 
+topic: "Law (law)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Public (public)"
+- "Agency Head (head)"
+- "508 Program Manager (508pm)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 The General Services Administration (GSA) just released a report on the current state of federal Section 508 compliance. The report, the FY23 Governmentwide Section 508 Assessment, evaluates reporting entities’ adherence to the criteria established by the White House Office of Management and Budget (OMB) in coordination with GSA, the White House Office of Science and Technology Policy (OSTP), and the U.S. Access Board (USAB)<sup><a href="#fn1" id="fr1">1</a></sup>. The report provides a baseline and recommendations for strengthening compliance initiatives and enhancing Section 508 activities across the federal government.
 

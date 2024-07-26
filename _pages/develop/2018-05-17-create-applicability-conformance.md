@@ -7,6 +7,14 @@ title: 'Applicability & Conformance Requirements'
 created: 1526574510
 redirect_from:
 - create/applicability-conformance/
+topic: "Development (dev)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Developers and Testers (dev-test)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+resource-type: "Law & Policy (law-policy)"
+format: "HTML (html)"
 ---
 
 ## Applicability
