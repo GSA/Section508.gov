@@ -5,6 +5,16 @@ permalink: buy/inventory-your-ict/
 type: acquisition
 title: 'Step 1: Inventory Your ICT'
 created: 1527568977
+topic: Acquisition/Buy (buy)
+sub-topic: Accessible Acquisition Info, Guidance & Best Practices
+audience:
+- Acquisition (acq)
+- Contracting Officer’s Representative (cor)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 Determining how the [Revised 508 Standards][1] apply to Federal IT procurement and development will ensure that any technology your agency buys or builds will be accessible. The first step in this process is to conduct an inventory. The other steps involve determining which exceptions and standards apply.

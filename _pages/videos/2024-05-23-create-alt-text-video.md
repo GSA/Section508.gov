@@ -6,6 +6,16 @@ type: training
 title: 'What is Alternative Text?'
 created: 2024-05-23
 updated:
+topic: Training (train)
+sub-topic: Graphics Specific (image descriptions)
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Public (public)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities. While there are other benefits of alt text for all users, this video focuses on people who use screen readers.
 

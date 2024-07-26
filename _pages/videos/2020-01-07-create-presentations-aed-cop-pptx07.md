@@ -7,6 +7,15 @@ title: 'Module 7: Adding Alternative Text to Images and Other Objects'
 created: 1578419831
 redirect_from:
  - create/presentations/aed-cop-pptx07/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 7: Adding Alternative Text to Images and Other Objects)

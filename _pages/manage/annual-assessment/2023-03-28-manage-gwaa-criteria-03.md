@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-03/
 type: manage
 title: "Policies, Procedures, and Practices - Government-wide Section 508 Assessment Criteria"
+topic: Manage (program)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Federal employee (fedemp)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 <H2 id="policies-procedures-and-practices">Policies, Procedures, and Practices</H2>
@@ -24,7 +34,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
     <div id="{{ this-qid }}" class="usa-card tablet:grid-col-12">
         <div class="usa-card__container border-top">
             <div class="usa-card__header">
-                <h3 class="usa-card__heading"> Question {{ this-qid | replace: "q", "" }}</h3>
+                <h3 class="usa-card__heading"> Question {{ this-qid | replace: "q",  }}</h3>
             </div>
             <div class="usa-card__body">
                 <p><strong>{{ each.q-descr }}</strong></p>
@@ -48,7 +58,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
                         aria-expanded="false"
                         aria-controls="{{ each.uid }}"
                         >
-                        Understanding Question {{ each.uid | replace: "u", "" }}
+                        Understanding Question {{ each.uid | replace: "u",  }}
                         </button>
                     </h4>
                     <div id="{{ each.uid }}" class="usa-accordion__content understand_content usa-prose padding-x-3 padding-y-0 bg-primary-lighter text-primary-darker border-top-05 border-primary radius-bottom-lg">
@@ -83,7 +93,7 @@ title: "Policies, Procedures, and Practices - Government-wide Section 508 Assess
     $("#collapse-all").on("click", function (){
         $(".understand_button").attr("aria-expanded", "false");
         $(".understand_button").toggleClass("radius-bottom-lg");
-        $(".understand_content").attr("hidden","");
+        $(".understand_content").attr("hidden",);
     });
     $(".understand_button").on("click", function(){
         $(this).toggleClass("radius-bottom-lg");

@@ -7,6 +7,16 @@ created: 1526408212
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/
 - content/technology-accessibility-playbook/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Chief Information Officer (cio)
+- Chief Acquisition Officer (cao)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 <div>

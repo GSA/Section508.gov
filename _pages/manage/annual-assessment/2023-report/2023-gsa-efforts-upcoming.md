@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-upcoming/
 type: report2023
 title: "Upcoming GSA Efforts to Support Section 508 Compliance"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 ## Governmentwide Accessibility Assessment Related Actions
 

@@ -7,6 +7,15 @@ title: 'Module 6: Using Built-In Features to Create Data Tables'
 created: 1578419777
 redirect_from:
  - create/presentations/aed-cop-pptx06/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 6: Using Built-In Features to Create Data Tables)

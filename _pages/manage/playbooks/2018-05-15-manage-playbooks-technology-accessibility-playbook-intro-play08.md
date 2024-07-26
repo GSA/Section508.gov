@@ -6,6 +6,16 @@ title: 'Play 8: Integrate accessibility needs into market research and acquisiti
 created: 1526408818
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play08/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 The following play identifies how to ensure accessibility needs are identified and addressed in the planning, requirements gathering, research, evaluation, and acceptance components of the acquisition process.

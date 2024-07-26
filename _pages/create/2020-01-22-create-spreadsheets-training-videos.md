@@ -5,6 +5,16 @@ permalink: create/spreadsheets/training-videos/
 type: create
 title: 'Spreadsheets Training Videos'
 created: 1579723548
+topic: Content creation (create)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Designer (design)
+- Public (public)
+resource-type: Training
+format: HTML (html)
 ---
 
 # How to Make an Accessible Spreadsheet in Microsoft Excel

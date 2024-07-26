@@ -5,6 +5,15 @@ permalink: buy/request-accessibility-information/
 type: acquisition
 title: 'Request Accessibility Information from Vendors & Contractors'
 created: 1527567946
+topic: Acquisition/Buy (buy)
+sub-topic: Accessible Acquisition Info, Guidance & Best Practices
+audience:
+- Contracting Officer’s Representative (cor)
+- Acquisition (acq)
+- Vendor (vendor)
+- Federal employee (fedemp)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 When purchasing software, hardware, electronic content, or support documentation and services (known as information and communication technology, or ICT), clearly state your accessibility requirements up-front, so potential vendors and contractors (offerors) can propose the best solution for your needs. All ICT procured, developed, maintained, or used by Federal agencies must conform to the [Revised 508 Standards][1].

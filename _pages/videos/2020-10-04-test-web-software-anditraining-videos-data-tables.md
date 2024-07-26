@@ -7,6 +7,16 @@ title: 'Module 15: Data Tables'
 created: 1601869602
 redirect_from:
 - test/web-software/andi-training-videos/data-tables/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1>Module 15: Data tables </h1>)

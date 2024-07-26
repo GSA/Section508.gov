@@ -5,6 +5,13 @@ permalink: privacy-policy/
 type: page
 title: 'Privacy Policy'
 created: 1525805575
+topic: About the program/site (about)
+sub-topic: N/A
+audience:
+- Public (public)
+- Federal employee (fedemp)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 ## <a name="_7io4k9tm7wg7"></a>Information Collected and Stored Automatically

@@ -5,6 +5,16 @@ permalink: buy/solicitation-review-tool/
 type: acquisition
 title: 'Solicitation Review Tool (SRT)'
 created: 1603286031
+topic: Acquisition/Buy (buy)
+sub-topic: Acquisition Tools
+audience:
+- Acquisition (acq)
+- Contracting Officer’s Representative (cor)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Tool (tool)
+format: HTML (html)
 ---
 
 <a href="https://srt.app.cloud.gov/" class="usa-button usa-button--accent-warm">Start Using SRT</a>

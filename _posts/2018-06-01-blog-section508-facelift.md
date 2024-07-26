@@ -6,6 +6,16 @@ title: 'Section508.gov Gets a Facelift!'
 created: 1527870039
 tags: Policy-and-Management
 description: The newly redesigned <a href="https://section508.gov/">Section508.gov website</a> is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel.
+topic: About the program/site (about)
+sub-topic: N/A
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 June 1, 2018 - The newly redesigned [Section508.gov website][1] is now live! We analyzed site usage and search data, as well as feedback from our user testing initiative, to develop the new look & feel. The site is now task-oriented, and common content is easier than ever to find.

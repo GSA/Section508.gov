@@ -6,6 +6,16 @@ title: 'OMB Issues Guidance on Strengthening Digital Accessibility and the Manag
 tags: Policy-and-Management
 created: 2023-12-27
 description: On December 21, 2023, the Office of Management and Budget (OMB) released M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act. This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government.
+topic: Policy (policy)
+sub-topic: Accessibility Law & Policy
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 On December 21, 2023, the Office of Management and Budget (OMB) released [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government. 
 

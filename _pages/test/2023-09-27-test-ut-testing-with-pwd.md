@@ -7,6 +7,16 @@ title: 'Tips for Usability Testing with People with Disabilities'
 contributors: martin-beth, opm
 created: 2023-09-27
 updated:
+topic: Testing (test)
+sub-topic: General Info and Best Practices
+audience:
+- 508 Program Manager (508pm)
+- Website Managers/Content Managers (wcm)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 ## What is Usability Testing?
 Usability testing (UT), a type of user experience (UX) research method, helps you gather quantitative and qualitative data from representative users. You can leverage UT to improve UX through iterative design based on the observations of real users. Once you identify interaction and design problems of a product or service, you can then test ways to solve those problems.

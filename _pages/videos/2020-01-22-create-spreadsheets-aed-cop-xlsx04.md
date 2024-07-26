@@ -7,6 +7,16 @@ title: 'Module 4: Making Vital Background Information Accessible'
 created: 1579723865
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx04/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 4: Making Vital Background Information Accessible)
