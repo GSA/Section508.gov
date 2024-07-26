@@ -8,6 +8,14 @@ contributors:
 social_img: 'https://assets.section508.gov/files/images/captions-transcripts-figure-4.jpg'
 created: 2024-05-29
 updated:
+topic: "Content creation (create)"
+sub-topic: "Video/Audio/Multimedia"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 Captions and transcripts are valuable tools that provide access to audio content. Captions describe dialogue, music, and sound effects in videos, while transcripts are documents that describe audio-only and video-only content, such as podcasts and animations.
 

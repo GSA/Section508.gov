@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/acquisition/
 type: report2023
 title: "Governmentwide Findings: Acquisition and Procurement"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 Including ICT accessibility requirements during procurement and ensuring that vendors are adhering to ICT contract requirements helps the government comply with Section 508 requirements for the ICT that it buys, builds, maintains or uses. <strong>In general, respondents reported they are deficient in ensuring Section 508 compliance is included during the Acquisition phase.</strong>
 

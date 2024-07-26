@@ -7,6 +7,16 @@ tags: Acquisition #choose one or more: Acquisition, Content-Creation, Design-and
 created: 2024-02-05
 description: The General Services Administration (GSA) announces updates to the Accessibility Requirements Tool (ART) with improvements to the user experience and ease-of-use based on user feedback.
 contributors: 
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Acquisition (acq)"
+- "508 Program Manager (508pm)"
+- "Chief Acquisition Officer (cao)"
+- "Product Managers (prodmgr)"
+- "Agency Senior Procurement Executive (spe)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 We are very excited to announce major updates to the Accessibility Requirements Tool (ART) based on your user feedback. We’ve come a long way since the Buy Accessible Wizard in the early days of the internet. Over many iterations to improve and continuously implement user feedback, ART provides the support you need to easily develop Section 508 requirements from information communication technology. The enhanced ART is a robust, modern platform that will change how we relate to accessibility by making it a forethought in our development, design, and procurements.  
 

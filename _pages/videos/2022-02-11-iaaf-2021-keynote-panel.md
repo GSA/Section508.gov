@@ -4,6 +4,16 @@ layout: page
 permalink: training/presentations-workshops/keynote-panel-discussion/
 type: training
 title: 'IAAF 2021 Keynote Address—Panel Discussion'
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental part of what the government stands for in supporting its employees and the American public. Join an inter-agency panel of accessibility practitioners as they share a brief look at this foundation ... its past, present, and future.

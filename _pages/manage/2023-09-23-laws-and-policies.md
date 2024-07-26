@@ -10,6 +10,16 @@ updated: 2024-05-08
 redirect_from:
 - summary-section508-standards/
 - section508-laws/
+topic: "Law (law)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Chief Information Officer (cio)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Law & Policy (law-policy)"
+format: "HTML (html)"
 ---
 This guide highlights laws, policies and other regulations requiring federal agencies ensure employees and members of the public with disabilities have access to information comparable to the access available to others. While individuals may benefit from an awareness of all related regulation, each of the guide's sections suggest where a particular audience may have a responsibility. 
 

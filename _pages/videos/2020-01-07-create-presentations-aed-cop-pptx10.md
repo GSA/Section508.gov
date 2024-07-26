@@ -7,6 +7,16 @@ title: 'Module 10: Formatting Text for the Intended Language'
 created: 1578419985
 redirect_from:
  - create/presentations/aed-cop-pptx10/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 10: Formatting Text for the Intended Language)

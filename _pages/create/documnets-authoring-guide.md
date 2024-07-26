@@ -4,6 +4,16 @@ sidenav: true
 permalink: create/documents/authoring-guides/
 type: create
 title: 'Documents Authoring Guides'
+topic: "Content creation (create)"
+sub-topic: "Documents"
+audience:
+- "Content Creators (creator)"
+- "Designer (design)"
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "Document (docx)"
 ---
 
 ## Microsoft Word 2016

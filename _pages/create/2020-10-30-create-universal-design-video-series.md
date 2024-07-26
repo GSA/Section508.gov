@@ -7,6 +7,13 @@ title: "An Introduction to Universal Design"
 created: 1604066026
 redirect_from:
 - create/universal-design-video-series/
+topic: "Development (dev)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "Developers and Testers (dev-test)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "Video & Synchronized Media (video)"
 ---
 
 This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.

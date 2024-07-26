@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/background/
 type: report2023
 title: "Background"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 ## Federal Law and Policy on ICT Accessibility
 Over the past 50 years, the federal government has passed a variety of statutes, regulations, and policies to advance ICT accessibility. In tandem with organizational shifts and initiatives to support PWD and ICT accessibility, key legislative and executive actions have emerged to advance digital equity across the federal government:

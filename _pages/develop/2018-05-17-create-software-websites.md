@@ -8,6 +8,14 @@ created: 2018-05-17
 updated: 2024-07-11
 redirect_from:
 - create/software-websites/
+topic: "Development (dev)"
+sub-topic: "Software"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 If you’re an author or developer of electronic documents, software applications, web content, operating systems, accessibility platforms, assistive technology, mobile environments, and modern development frameworks, you need to understand how the [Revised 508 Standards][1] (36 C.F.R. Part 1194) apply to your work.

@@ -7,6 +7,16 @@ redirect_from: iaaf-agenda/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2023
 created: 2023-09-23
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. November 7 - 9, 2023. Beyond Compliance: Building a Culture of Digital Accessibility" src="https://assets.section508.gov/files/images/iaaf-2023-web-banner-1.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>

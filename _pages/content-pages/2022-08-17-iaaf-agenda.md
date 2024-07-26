@@ -5,6 +5,16 @@ permalink: iaaf/archives/agenda-2022/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2022
 created: 1600981839
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2022. Unlocking the Power of Accessibility." src="https://assets.section508.gov/files/images/iaaf-2022-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>

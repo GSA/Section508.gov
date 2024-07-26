@@ -5,6 +5,16 @@ permalink: test/documents/
 type: test
 title: 'Accessibility Testing for Electronic Documents'
 created: 1527027750
+topic: "Testing (test)"
+sub-topic: "Documents"
+audience:
+- "Developers and Testers (dev-test)"
+- "508 Program Manager (508pm)"
+- "Content Creators (creator)"
+- "Designer (design)"
+- "Website Managers/Content Managers (wcm)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 The Accessible Electronic Documents Community of Practice (AED COP) of the Federal CIO Council has developed guidance for Federal agencies to evaluate digital content for conformance to the [Revised 508 Standards][1].

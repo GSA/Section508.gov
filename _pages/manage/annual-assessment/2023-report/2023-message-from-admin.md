@@ -7,6 +7,16 @@ title: "Message from the GSA Administrator"
 redirect_from:
 - manage/section-508-assessment/2023/
 - 2023-congressional-report/
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 The General Services Administration (GSA), in consultation with the Office of Management and Budget (OMB), submits this Governmentwide Section 508 Assessment (referred to hereafter as the “Assessment”) to the Senate Committees on Appropriations and Homeland Security and Governmental Affairs and the House Committees on Appropriations and Oversight and Accountability, pursuant to the reporting requirements in <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>.
 

@@ -5,6 +5,16 @@ permalink: manage/laws-and-policies/international/
 type: manage
 title: 'International Harmonization'
 created: 1527606769
+topic: "Law (law)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Developers and Testers (dev-test)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Chief Information Officer (cio)"
+resource-type: "Law & Policy (law-policy)"
+format: "HTML (html)"
 ---
 
 The Law enacting Section 508 (29 U.S.C. 794d) directed the Access Board to develop a standard for accessibility of EIT. That standard is the only standard in the US that federal agencies must follow when they develop, procure, maintain or use electronic and information technology. However, there are several government-supported efforts around the world working on a "standards approach" to ensuring accessibility of EIT (or ICT - Information and Communications Technology, a commonly used term worldwide) for people with disabilities. No single worldwide standard has been developed, and to date there is no plan to develop a single standard. Other efforts include:

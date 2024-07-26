@@ -5,6 +5,16 @@ permalink: training/presentations-workshops/keynote-kim-knackstedt/
 type: training
 title: IAAF 2021 Keynote Address — Kimberly Knackstedt
 created: 1578606586
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 Andrew Nielson, Director, Government-wide IT Accessibility Program at the General Services Administration, and Kimberly Knackstedt, Senior Fellow and Co-Director, Disability Economic Justice Collaborative at The Century Foundation, discuss disability as a human experience. 
 

@@ -6,6 +6,15 @@ type: create
 title: Authoring Meaningful Alternative Text
 created: 2024-05-23
 updated:
+topic: "Content creation (create)"
+sub-topic: "Graphics Specific (image descriptions)"
+audience:
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "508 Program Manager (508pm)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 ## Purpose of Alternative Text
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It's designed to make visual content accessible to people with vision disabilities.

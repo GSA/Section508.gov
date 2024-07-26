@@ -10,6 +10,16 @@ description: '<strong>Ever wonder what Section 508 is and why it’s so importan
 contributors: 
 redirect_from:
 - blog/accessibility-bytes/0/ #Allows users to navigate by number
+topic: "About the program/site (about)"
+sub-topic: "N/A"
+audience:
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 style="line-height:1.2;">Ever wonder what Section 508 is and why it’s so important, and what you can do to ensure your work is “accessible?”</h2>
 

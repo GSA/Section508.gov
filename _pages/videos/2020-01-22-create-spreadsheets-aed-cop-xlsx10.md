@@ -7,6 +7,16 @@ title: 'Module 10: Saving in the .xlsx Format With a Descriptive Filename'
 created: 1579724106
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx10/
+topic: "Training (train)"
+sub-topic: "Spreadsheets"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 10: Saving in the .xlsx Format with a Descriptive Filename)

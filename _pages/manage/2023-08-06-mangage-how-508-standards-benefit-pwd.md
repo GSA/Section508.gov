@@ -5,6 +5,16 @@ permalink: manage/how-508-standards-benefit-pwd/
 type: manage
 title: 'How Section 508 Standards Benefit PWD: Striving to Create a Culture of Disability Inclusion'
 created: August 06, 2023
+topic: "Manage (program)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "Manager/Exec (exec)"
+- "508 Program Manager (508pm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 Nearly half of the most popular federal websites (48%) failed a standard accessibility test on at least one of their three most frequently visited pages, according to a recent Information Technology and Innovation Foundation study.<sup>1</sup> While Section 508 of the Rehabilitation Act requires federal Information and Communication Technology (ICT) be accessible, inaccessible ICT continues to prevent federal employees from doing their jobs and customers with disabilities from accessing government services.<sup>2</sup>
 
