@@ -5,6 +5,16 @@ permalink: develop/fonts-typography/
 type: develop
 title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
 contributors: usab
+topic: Design (design)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- Designer (design)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 In the realm of digital content creation, people often ask, “What does it mean for an accessible font to be accessible?”
 

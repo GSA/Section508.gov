@@ -5,6 +5,15 @@ permalink: manage/support-information/
 type: manage
 title: "Support Information"
 created: December 09, 2023
+topic: Manage (program)
+sub-topic: N/A
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 <h2><strong>Have a Question or Comment?</strong></h2>

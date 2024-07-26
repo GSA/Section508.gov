@@ -4,6 +4,16 @@ sidenav: false
 type: page
 permalink: contributors/
 title: Section508.gov Content Contribution
+topic: About the program/site (about)
+sub-topic: N/A
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 {% include banner.html %}
 <div id="main-content" class="usa-layout-docs usa-section grid-container">

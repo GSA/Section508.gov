@@ -7,6 +7,15 @@ title: 'Module 5: Structure Headings'
 created: 1601856900
 redirect_from:
 - test/web-software/andi-training-videos/structure-headings/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- Federal employee (fedemp)
+- Website Managers/Content Managers (wcm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1>Module 5: Structure Headings </h1>)

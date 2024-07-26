@@ -7,6 +7,15 @@ title: 'Module 7: Creating Links with Unique and Descriptive Names'
 created: 1579723939
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx07/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 7: Creating Links with Unique and Descriptive Names)

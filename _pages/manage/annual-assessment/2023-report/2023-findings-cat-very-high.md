@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/category-very-high/
 type: report2023
 title: "Overall Performance Category Findings & Recommendations: Very High Maturity Categories"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 ## Very High Maturity - Very Low Conformance
 <div class="border-base padding-1 callout-box-bottom-left" style="width: auto;">

@@ -7,6 +7,15 @@ title: 'Module 8: Creating Links with Unique and Descriptive Names'
 created: 1578419887
 redirect_from:
  - create/presentations/aed-cop-pptx08/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 8: Creating Links with Unique and Descriptive Names)

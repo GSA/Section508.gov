@@ -6,13 +6,22 @@ title: 'Watch the Video! New Requirements: Section 508 Refresh'
 created: 1512526462
 tags: Policy-and-Management
 description: The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
+topic: Law (law)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Manager/Exec (exec)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 December 12, 2017 - The Americans with Disabilities Act, the Architectural Barriers Act, and the Rehabilitation Act collectively make the ins and outs of everyday life more accessible for people with disabilities.
 
 Within these regulations, Section 508 of the [Rehabilitation Act of 1973][1] establishes rules to ensure information and communication technology (ICT) is accessible. Section 508 was recently refreshed, and the [Revised 508 Standards][2] become effective for federal agencies on January 18, 2018. 
 
-<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Kw4jEGmaXbw" width="560" title="Video - New Requirements: Section 508 Refresh"></iframe></p>
+<p><iframe allowfullscreen= frameborder="0" height="315" src="https://www.youtube.com/embed/Kw4jEGmaXbw" width="560" title="Video - New Requirements: Section 508 Refresh"></iframe></p>
 
 <div>
   The revisions to the Standards will impact how agencies design their websites; build software; provide internal government communications; and change how we procure IT hardware and software. The goals of the refresh include:

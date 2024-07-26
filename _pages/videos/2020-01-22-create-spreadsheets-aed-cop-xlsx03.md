@@ -7,6 +7,16 @@ title: 'Module 3: Ensuring Color and Other Visual Characteristics are Also Descr
 created: 1579723678
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx03/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text)

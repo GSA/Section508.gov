@@ -5,6 +5,15 @@ permalink: manage/publish-accessible-content/
 type: manage
 title: 'Publish Accessible Content'
 created: 1527566954
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Website Managers/Content Managers (wcm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 These tips will help your agency publish content in an accessible way.

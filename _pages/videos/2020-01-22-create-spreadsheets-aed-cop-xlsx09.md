@@ -7,6 +7,15 @@ title: 'Module 9: Excluding Flashing Objects'
 created: 1579724090
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx09/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 9: Excluding Flashing Objects)
