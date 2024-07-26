@@ -184,3 +184,9 @@ body {
 .usa-menu-btn {
     height: 4rem;
 }
+
+@media (min-width: 64em) {
+    .usa-header [role=search] {
+        max-width: calc(35ch + 4rem);
+    }
+}
