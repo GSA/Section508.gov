@@ -299,3 +299,6 @@ Refer to the following for additional guidance on writing meaningful alt text.
 
 -   <a href="https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf" target="_blank" class="usa-link--external">Social Security Administration Guide: Alternate Text for Images (PDF)</a>
 -   <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM: Alternative Text</a>
+-   <a href="https://webaim.org/techniques/alttext/#context" target="_blank" class="usa-link--external">WebAIM: Alternative Text - Context is Everything</a>
+
+**Reviewed/Updated:** July 2024
