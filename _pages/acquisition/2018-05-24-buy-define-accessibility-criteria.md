@@ -7,7 +7,7 @@ title: 'Define Accessibility Criteria in Contracts'
 created: 1527181796
 ---
 
-When preparing solicitations, statements of work, or other procurement documents, clearly define your criteria to ensure the information and communication technology (ICT) your agency buys or builds is accessible and conforms to the [Revised 508 Standards][1]. Use the sample language below in your procurement documents to mitigate Section 508 compliance risk in IT procurement and development.
+When preparing (test) solicitations, statements of work, or other procurement documents, clearly define your criteria to ensure the information and communication technology (ICT) your agency buys or builds is accessible and conforms to the [Revised 508 Standards][1]. Use the sample language below in your procurement documents to mitigate Section 508 compliance risk in IT procurement and development.
 
   * Tailor these provisions and clauses to meet your needs.
   * Carefully assess the risk of implementing inaccessible ICT items.
