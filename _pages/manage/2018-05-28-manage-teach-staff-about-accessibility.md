@@ -5,6 +5,16 @@ permalink: manage/teach-staff-about-accessibility/
 type: manage
 title: 'Teach Staff about Accessibility'
 created: 1527553139
+topic: Manage (program)
+sub-topic: Other Accessibility Training or Tools
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Content Creators (creator)
+- Information Technology Program and Project Managers (itpm)
+- Manager/Exec (exec)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 Accessibility is not just a legal mandate, it is also good for business. Use these quick tips to help content creators, developers and other stakeholders adhere to the  [Revised 508 Standards][1], while delivering better content, products and systems to your customers.

@@ -5,6 +5,16 @@ permalink: manage/laws-and-policies/state/
 type: manage
 title: 'State-level Accessibility Law and Policy'
 created: 1527605841
+topic: Law (law)
+sub-topic: Accessibility Law & Policy
+audience:
+- Lawmakers and Policy Officials (law-policy)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Manager/Exec (exec)
+resource-type: Long form article
+format: HTML (html)
 ---
 <p name="top"> </p> 
 Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. 

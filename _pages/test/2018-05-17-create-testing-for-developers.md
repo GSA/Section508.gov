@@ -7,6 +7,16 @@ title: 'Testing Guidance for Developers'
 created: 1526587845
 redirect_from:
 - create/testing-for-developers/
+topic: Testing (test)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- Developers and Testers (dev-test)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+- Chief Information Officer (cio)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 The best way to meet the  [Revised 508 Standards][1] is to use the harmonized test methods published by the Federal CIO Council Accessibility Community of Practice (ACOP). These guidelines are designed to produce repeatable results and harmonize test practices across Federal agencies. The rule sets establish a minimum set of requirements, and you are encouraged to improve upon them.

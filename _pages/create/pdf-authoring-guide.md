@@ -4,6 +4,16 @@ sidenav: true
 permalink: create/pdfs/authoring-guides/
 type: create
 title: 'PDFs Authoring Guides'
+topic: Content creation (create)
+sub-topic: PDFs
+audience:
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- 508 Program Manager (508pm)
+resource-type: Process/How-to
+format: Document (docx)
 ---
 
 

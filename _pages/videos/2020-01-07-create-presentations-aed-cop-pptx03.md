@@ -7,6 +7,16 @@ title: 'Module 3: Ensuring Color and Other Visual Characteristics that Convey In
 created: 1578419581
 redirect_from:
  - create/presentations/aed-cop-pptx03/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text)

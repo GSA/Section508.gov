@@ -5,6 +5,16 @@ permalink: manage/track-report-conformance/
 type: manage
 title: 'Track and Report Conformance'
 created: 1527568792
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Website Managers/Content Managers (wcm)
+- Information Technology Program and Project Managers (itpm)
+- Chief Information Officer (cio)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 Drive incremental improvement by measuring and reporting 508 conformance issues.

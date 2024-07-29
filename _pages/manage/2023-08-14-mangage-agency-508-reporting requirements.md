@@ -5,6 +5,16 @@ permalink: manage/agency-508-reporting-requirements/
 type: manage
 title: 'Section 508/ICT Accessibility Conformance Reporting for Federal Agencies'
 created: August 22, 2023
+topic: Manage (program)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Manager/Exec (exec)
+- Information Technology Program and Project Managers (itpm)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Long form article
+format: HTML (html)
 ---
 Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. The sections below outline those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
 

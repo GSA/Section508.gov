@@ -6,6 +6,16 @@ title: 'Play 10: Conduct Section 508 testing'
 created: 1526408906
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play10/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 While an expert review of Section 508 conformance claims may provide an indication of accessibility, rigorous testing is required to validate these claims. Section 508 conformance is complex. Vendors and development teams may not fully understand what conformance requires. Therefore, testing is needed to reduce the risk of unknowingly implementing inaccessible technology. Testing needs to be performed regardless of the source, including commercial-off-the-shelf, open source, or custom built technology by your agency, a vendor, or another agency. You can use automated testing tools to augment validation efforts; however, by themselves automated tools can only provide partial coverage of the Section 508 standards. In order to validate full conformance, hands-on testing using a repeatable, systematic testing methodology is needed. In addition, you can use informal reviews by Section 508 experts throughout the development process to identify potential issues before the technology is ready for full Section 508 conformance testing.

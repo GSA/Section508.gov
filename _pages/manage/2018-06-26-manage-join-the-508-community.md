@@ -5,6 +5,16 @@ permalink: manage/join-the-508-community/
 type: manage 
 title: 'Section 508 IT Accessibility Community'
 created: 1530040376
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 Welcome to the Section 508 IT Accessibility Community (SEC508ITAC). This community consists of U.S. government professionals who work to enhance access to federal information technology (IT). We identify and promote best practices for compliance with Section 508 law and conformance to the Revised 508 Standards, both of which are shown below. We share successful practices and information and engage advocacy groups, industry, and academia around innovative solutions for accessible technology.
 

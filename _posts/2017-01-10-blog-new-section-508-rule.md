@@ -6,6 +6,16 @@ title: 'New Section 508 Rule: Transition Assistance is Coming'
 created: 1484058893
 tags: Policy-and-Management
 description: The United States Access Board has refreshed Section 508 of the Rehabilitation Act.
+topic: Law (law)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- 508 Program Manager (508pm)
+- Manager/Exec (exec)
+- Chief Information Officer (cio)
+- Lawmakers and Policy Officials (law-policy)
+- Chief Diversity and Inclusion Officer (cdio)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 January 10, 2017 - The United States Access Board has refreshed Section 508 of the Rehabilitation Act. The General Services Administration's Government-wide Section 508 Program, along with the Access Board, and the Accessibility Community of Practice, will guide agencies through the transition with training, tools, and communication resources.

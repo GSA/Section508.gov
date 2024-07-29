@@ -7,6 +7,15 @@ title: 'Module 9: Language of Parts'
 created: 1601867101
 redirect_from:
 - test/web-software/andi-training-videos/language-parts/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- Website Managers/Content Managers (wcm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1> Module 9: Language of Parts</h1>)

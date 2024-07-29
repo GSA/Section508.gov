@@ -5,6 +5,16 @@ permalink: buy/determine-ict-standards/
 type: acquisition
 title: 'Step 3: Determine Which Standards Apply'
 created: 1527569242
+topic: Acquisition/Buy (buy)
+sub-topic: Accessible Acquisition Info, Guidance & Best Practices
+audience:
+- Acquisition (acq)
+- Contracting Officer’s Representative (cor)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 To ensure that any technology your agency buys or builds will be accessible, you must determine which of the [Revised 508 Standards][1] apply to your Federal IT procurement and development project. (Note, this is the third and final step in [determining 508 standards and exceptions][2].)

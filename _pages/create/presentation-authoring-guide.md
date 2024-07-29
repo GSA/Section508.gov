@@ -4,6 +4,16 @@ sidenav: true
 permalink: create/presentations/authoring-guides/
 type: create
 title: 'Presentations Authoring Guides'
+topic: Content creation (create)
+sub-topic: Presentations
+audience:
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- 508 Program Manager (508pm)
+resource-type: Process/How-to
+format: Document (docx)
 ---
 ## Microsoft PowerPoint 2016
 

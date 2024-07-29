@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-other/
 type: report2023
 title: "Other Activities Under Consideration Beyond FY24"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 * GSA intends to provide OMB with targeted recommendations for developing a governmentwide digital accessibility blanket purchase agreement (BPA) that would make it easier for agencies to procure accessibility related tools and services.A digital accessibility- specific contract vehicle will allow users to:
 

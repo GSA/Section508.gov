@@ -7,6 +7,16 @@ title: 'Module 13: Saving in the .pptx Format with a Descriptive Filename'
 created: 1578420105
 redirect_from:
  - create/presentations/aed-cop-pptx13/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 13: Saving in the .pptx Format with a Descriptive Filename)

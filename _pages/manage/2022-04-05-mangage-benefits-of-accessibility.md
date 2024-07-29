@@ -5,6 +5,16 @@ permalink: manage/benefits-of-accessibility/
 type: manage
 title: 'Practical Reasons for Digital Accessibility: The benefits of digital accessibility and the risks and drawbacks of inaccessible content'
 created: April 5, 2022
+topic: Manage (program)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- 508 Program Manager (508pm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Long form article
+format: HTML (html)
 ---
 Digital accessibility is everyone's responsibility. When people create content, they must ensure that this content meets the [Revised Section 508 Standards](https://www.access-board.gov/ict) of the Rehabilitation Act. This is particularly true for content creators within the federal government. Federal websites display content that is intended to be accessible by everyone in the public. Content that is not accessible excludes stakeholders and potentially those in most need of the information an organization is trying to provide. Below are non-exhaustive lists of the benefits of ensuring accessibility and the potential consequences of non-conformance.
 
