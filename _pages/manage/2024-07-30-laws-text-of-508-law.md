@@ -1,4 +1,5 @@
 ---
+sidenav: true
 layout: page
 permalink: manage/laws-and-policies/section-508-law/
 type: manage

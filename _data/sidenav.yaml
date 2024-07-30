@@ -55,6 +55,8 @@ manage:
     children:
       - name: IT Accessibility Laws and Policies Overview
         url: manage/laws-and-policies/
+      - name: Section 508 of the Rehabilitation Act
+        url: manage/laws-and-policies/section-508-law/
       - name: Laws and Policy Quick Reference Guide
         url: manage/laws-and-policies/quick-reference-guide/
       - name: Website Accessibility Statements 
