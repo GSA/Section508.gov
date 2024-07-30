@@ -43,7 +43,7 @@ The Communications policy type refers to policies pertaining to all spoken and w
 
 <ul class="footnote">
   <li>
-    <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a>
+    <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a>
     <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup></sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
   </li>
   <li>

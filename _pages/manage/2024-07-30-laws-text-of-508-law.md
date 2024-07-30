@@ -45,16 +45,14 @@ created: 2024-07-30
             <li id="incorporation"><strong>Incorporation of standards</strong><br>
                 Not later than 6 months after the Access Board publishes the standards required under paragraph (2), the Federal Acquisition Regulatory Council shall revise the Federal Acquisition Regulation and each Federal department or agency shall revise the Federal procurement policies and directives under the control of the department or agency to incorporate those standards. Not later than 6 months after the Access Board revises any standards required under paragraph (2), the Council shall revise the Federal Acquisition Regulation and each appropriate Federal department or agency shall revise the procurement policies and directives, as necessary, to incorporate the revisions.
             </li>
-            <li>
-                <strong>Acquisition planning</strong><br>
+            <li id="acquisition-planning"><strong>Acquisition planning</strong><br>
                 In the event that a Federal department or agency determines that compliance with the standards issued by the Access Board under paragraph (2) relating to procurement imposes an undue burden, the documentation by the department or agency supporting the procurement shall explain why compliance creates an undue burden.
             </li>
             <li>
                 <strong>Exemption for national security systems</strong><br>
                 This section shall not apply to national security systems, as that term is defined in section 11103(a) of title 40.
             </li>
-            <li>
-                <strong>Construction</strong>
+            <li id="construction"><strong>Construction</strong>
                 <ol type="A">
                     <li>
                         <strong>Equipment</strong>
@@ -72,16 +70,13 @@ created: 2024-07-30
             </li>
         </ol>
     </li>
-    <li type="a">
-        <strong>Technical assistance</strong><br>
+    <li type="a" id="technical-assistance"><strong>Technical assistance</strong><br>
         The Administrator of General Services and the Access Board shall provide technical assistance to individuals and Federal departments and agencies concerning the requirements of this section.    
     </li>
-    <li type="a">
-        <strong>Agency evaluations</strong>
+    <li type="a" id="agency-evaluations"><strong>Agency evaluations</strong>
         Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
     </li>
-    <li type="a">
-        <strong>Reports</strong>
+    <li type="a" id="reports"><strong>Reports</strong>
         <ol>
             <li>
                 <strong>Interim report</strong>
@@ -93,12 +88,10 @@ created: 2024-07-30
             </li>
         </ol>
     </li>
-    <li type="a">
-        <strong>Cooperation</strong><br>
+    <li type="a" id="cooperation"><strong>Cooperation</strong><br>
         Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) of this section and prepare the reports under subsection (d) of this section.
     </li>
-    <li type="a">
-        <strong>Enforcement</strong><br>
+    <li type="a" id=""enforcement><strong>Enforcement</strong><br>
         <ol>
             <li>
                 <strong>General</strong><br>
@@ -123,15 +116,14 @@ created: 2024-07-30
             </li>
         </ol>
     </li>
-    <li type="a">
-        <strong>Application to other Federal laws</strong><br>
+    <li type="a" id="application-to-law"><strong>Application to other Federal laws</strong><br>
         This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
     </li>
 </ol>
 
 <div class="border-base radius-lg border-1px bg-primary-lighter">
   <div class="padding-1">
-    <p>The preceding is a reprint of Section 508 of the Rehabilitation Act, <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d. Electronic and information technology | GovInfo.gov</a>.</p>
+    <p><strong>NOTE:</strong> The preceding page is a reprint of Section 508 of the Rehabilitation Act available from <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d. Electronic and information technology | GovInfo.gov</a>.</p>
   </div>
 </div>
 
