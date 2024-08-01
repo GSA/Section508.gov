@@ -16,7 +16,7 @@ ICT, made accessible through thoughtful design, development, and integration wit
 
 <a class="hover-large" href="https://itif.org/publications/2021/06/03/improving-accessibility-federal-government-websites/"><sup>1</sup>Johnson, A., & Castro, D. (2022). Improving Accessibility of Federal Government Websites. ITIF. </a>
 <br>
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>2</sup> Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+<a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>2</sup> Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
 <br>
 <a class="hover-large" href="https://digital.gov/2017/05/09/benefits-of-accessible-design/"><sup>3</sup>Crawford, P. B. P. (2017, May 9). Benefits of Accessible Design. Digital.gov.</a>
 <br>
