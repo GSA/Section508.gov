@@ -275,8 +275,7 @@ Tim Erny - <ahrqsection508@ahrq.hhs.gov>
 Mark Urban - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
 Aaron Allen - <aaron.allen@cms.hhs.gov>  
-Cora Tracy (BACKUP)	- <cora.tracy@cms.hhs.gov>  
-Scott Shippy (BACKUP)	- <scott.shippy@cms.hhs.gov>  
+Stacey Holden (BACKUP) - <stacey.holden@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
 Heather Chafin - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
