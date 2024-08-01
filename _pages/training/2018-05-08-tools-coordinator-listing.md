@@ -394,8 +394,8 @@ Rashee Nelson - <rashee_nelson@doioig.gov>
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
-### Office of Surface Mining Reclamation and Enforcement
-John Pak - <jpak@osmre.gov>  
+### Office of Surface Mining Reclamation and Enforcement (OSMRE)
+Cricket Bidleman - <cbidleman@osmre.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
 Keon Sheffield - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
@@ -626,7 +626,7 @@ Jenna	A. Ramos	- <jaramos@bpa.gov>
 <span id="C" ></span>
 
 ### Central Intelligence Agency	(CIA)
-Michael	W. - <iapo@ucia.gov>  
+Richard	W. - <iapo@ucia.gov>  
 
 ---
 ### Commission of Fine Arts	(CFA)
