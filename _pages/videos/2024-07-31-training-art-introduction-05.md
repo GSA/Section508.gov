@@ -43,8 +43,8 @@ This episode explains how to upload a report file to resume using ART or modify 
 * [What is ART and When Do I Need to Use It?][5]}
 * [Where is ART and How Do I Use It?][2]
 * [How Do I Use the Section 508 Requirements Created by ART?][3]
-* **How Do I Generate a List for Multiple Procurements?**
-* [How Do I Use JSON to Modify My Report?][5]
+* [How Do I Generate a List for Multiple Procurements?][4]
+* **How Do I Use JSON to Modify My Report?**
 
 ## Related Acquisition Resources
 
