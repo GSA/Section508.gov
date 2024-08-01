@@ -91,7 +91,7 @@ created: 2024-07-30
     <li type="a" id="cooperation"><strong>Cooperation</strong><br>
         Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) of this section and prepare the reports under subsection (d) of this section.
     </li>
-    <li type="a" id=""enforcement><strong>Enforcement</strong><br>
+    <li type="a" id="enforcement"><strong>Enforcement</strong><br>
         <ol>
             <li>
                 <strong>General</strong><br>
