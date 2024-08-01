@@ -23,7 +23,7 @@
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-    background-image: url("https://assets.section508.gov/files/images/hero-gwaa.jpg")
+    background-image: url("https://assets.section508.gov/files/images/hero-bytes-3.jpg")
     //  background-position: 50%;
     //  background-size: cover;
 }
@@ -469,7 +469,7 @@ div[role=rowheader] {
 @media (min-width: 40em) {
   .usa-hero__callout {
     //original max-width was 24rem
-    max-width: 29rem;
+    max-width: 31rem;
   }
 
   .topics {
