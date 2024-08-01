@@ -155,7 +155,7 @@ created: 2024-07-30
     <p><strong>NOTE:</strong> The preceding page is a reprint of Section 508 of the Rehabilitation Act:
     <ul>
         <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d. Electronic and information technology | GovInfo.gov</a></li>
-        <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d-1. Electronic and information technology | GovInfo.gov</a></li>
+        <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d-1. Reports on accessibility of electronic information to individuals with disabilities | GovInfo.gov</a></li>
     </ul></p>
   </div>
 </div>
