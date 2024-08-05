@@ -262,7 +262,7 @@ The meeting featured speakers from Microsoft, who shared the latest on creating 
 * [Read the transcript for the Section 508 Federal Day event][42] (MS-Word, December 2017)
 --> 
 
-**Reviewed/Updated**: July 2024
+**Reviewed/Updated**: August 2024
 
 [1]: https://assets.section508.gov/files/Captioned-Text-%28ITACM-APR2021%29%20%281%29.docx
 [2]: https://assets.section508.gov/files/Refining and Evaluating ACRs and VPATS (ITACM 2021-02-09).pptx
