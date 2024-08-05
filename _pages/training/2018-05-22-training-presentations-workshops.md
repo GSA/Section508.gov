@@ -12,7 +12,7 @@ The information on this page includes available resources and captioned text fil
 ## 2024
 ### IT Accessibility Community Meetings
 #### August 6, 2024
-The event's presenter helps boost our accessibility testing skills with a training on DevTools - the powerful built-in web development tools, known as DevTools, available into Edge and Chrome browsers that allow testers to thoroughly inspect web pages and web apps.
+The event's presentation helps us boost our accessibility testing skills with a training on DevTools - the powerful built-in web development tools, known as DevTools, available into Edge and Chrome browsers that allow testers to thoroughly inspect web pages and web apps.
 
 In this training, participants learn how to:
 
