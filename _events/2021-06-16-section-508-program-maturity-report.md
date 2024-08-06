@@ -18,5 +18,5 @@ On December 29, 2022 the President signed the <a href="https://www.congress.gov/
 **Reporting Periods:** Reports are due once per year  
 **Information and Dates:** <a href = "{{site.baseurl}}/manage/section-508-assessment/" target="_blank">Governmentwide Section 508 Assessment</a>
 
-**Reviewed/Updated:** August 2024
+**Reviewed/Updated:** January 2024
 
