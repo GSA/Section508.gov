@@ -395,11 +395,12 @@ training:
         url: 'tools/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
+      - name: ART API Server
+        url: 'https://art-api.section508.gov/'
+        external: true
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
-        url: 'tools/openacr-editor/'
-      - name: OpenACR Repository
         url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
