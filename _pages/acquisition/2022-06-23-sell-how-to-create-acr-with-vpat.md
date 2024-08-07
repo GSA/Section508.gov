@@ -17,7 +17,10 @@ Although there are other possible methods to complete an ACR, this part of the g
 ## Step 1: Download the VPAT&reg;
 <div class="grid-container padding-x-0">
   <div class="grid-row grid-gap">
-    <div class="tablet:grid-col">The VPAT&reg; is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</div>
+    <div class="tablet:grid-col">
+      <p>The VPAT&reg; is a free template that may be downloaded by going to the <a href="https://www.itic.org/policy/accessibility/vpat">ITI website</a>. If you are selling to the U.S. federal government, then you must use the Revised Section 508 or the INT International Editions of the template  (which include all Revised Section 508 requirements).</p>
+      <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports in a machine-readable format.</div>
+    </div>
     <div class="tablet:grid-col" style="text-align: center">
         <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" alt="ITI's VPAT" aria-describedby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
         <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT&reg; Homepage</span></div>
@@ -79,7 +82,7 @@ The Success Criteria tables laid out in the VPAT&reg; template—Levels A, AA, a
 
 Only Level A and AA are required in an ACR intended to inform U.S. federal procurement. However, if your product does satisfy some (or all) Level AAA success criteria guidelines, then it is beneficial to complete that table as well, as it would provide additional motivation for federal agencies to purchase your product and attract a wider range of potential customers.
 Below is an example of what these three columns look like for the WCAG table:
-<table class="usa-table">
+<table class="usa-table tablet:grid-col">
   <caption>Three columns of VPAT&reg; WCAG table</caption>
     <thead>
         <tr>
@@ -135,7 +138,7 @@ The first column "Criteria" of the Revised Section 508 tables lists the Section 
 
 Below is an example of what these three columns look like for the Revised Section 508 table
 
-<table class="usa-table">
+<table class="usa-table tablet:grid-col">
 <caption>Three columns of VPAT&reg; Revised Section 508 table</caption>
   <thead>
     <tr>
@@ -187,13 +190,15 @@ Below is an example of what these three columns look like for the Revised Sectio
 </table>
 
 ## Step 6: Final checklist to make sure your ACR is complete
-<ul class="usa-icon-list">
+
+<ul class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Use the correct VPAT&reg; version -</strong> Make sure you’re using a current version of the VPAT&reg; to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT&reg; is 2.4. Any VPAT&reg; 2.x is acceptable. You may find the VPAT&reg; on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.
+      <strong>Use the correct VPAT&reg; version -</strong> Make sure you’re using a current version of the VPAT&reg; to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT&reg; is 2.4. Any VPAT&reg; 2.x is acceptable. You may find the VPAT&reg; on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.<p></p>
+      <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports in a machine-readable format.</div>
     </div>
   </li>
   <li class="usa-icon-list__item">
@@ -270,7 +275,7 @@ Below is an example of what these three columns look like for the Revised Sectio
   </li>
 </ul>
 
-**Reviewed/Updated**:  November 2022
+**Reviewed/Updated**:  August 2024
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: https://www.itic.org/policy/accessibility/vpat
