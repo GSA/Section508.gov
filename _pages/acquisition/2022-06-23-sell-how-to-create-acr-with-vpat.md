@@ -198,7 +198,7 @@ Below is an example of what these three columns look like for the Revised Sectio
     </div>
     <div class="usa-icon-list__content">
       <strong>Use the correct VPAT&reg; version -</strong> Make sure you’re using a current version of the VPAT&reg; to build your ACR! A current version addresses the Revised Section 508 Technical Standards. The current version of theVPAT&reg; is 2.4. Any VPAT&reg; 2.x is acceptable. You may find the VPAT&reg; on the ITI website at the following link: <a href="https://www.itic.org/policy/accessibility/vpat">https://www.itic.org/policy/accessibility/vpat</a>.<p></p>
-      <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports in a machine-readable format.</div>
+      <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports (ACR) in a machine-readable format.</div>
     </div>
   </li>
   <li class="usa-icon-list__item">
