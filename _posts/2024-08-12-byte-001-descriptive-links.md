@@ -40,18 +40,18 @@ To comply with Section 508 Standards and associated Web Content Accessibility Gu
 ### Examples for Implementing Accessible Hyperlinks
 
 #### Example 1: Descriptive Link Text
-<div class="border-base radius-lg border-1px padding-3" style="width: 100%; background-color: #444;">
-    <span class="font-mono-sm text-yellow">&lt;a href="annual-report.pdf">Download the annual report&lt;/a></span>
+<div class="code-box" style="width: 100%; background-color: #444;">
+    <span class="code-box-text">&lt;a href="annual-report.pdf">Download the annual report&lt;/a></span>
 </div>
 
 #### Example 2: Contextual Clarity
-<div class="border-base radius-lg border-1px padding-3" style="width: 100%; background-color: #444;">
-    <span class="font-mono-sm text-yellow">&lt;a href="accessibility-policy.html">Learn more about our accessibility policy&lt;/a></span>
+<div class="code-box" style="width: 100%; background-color: #444;">
+    <span class="code-box-text">&lt;a href="accessibility-policy.html">Learn more about our accessibility policy&lt;/a></span>
 </div>
 
 #### Example 3: Avoiding URLs as Link Text
-<div class="border-base radius-lg border-1px padding-3" style="width: 100%; background-color: #444;">
-    <span class="font-mono-sm text-yellow">&lt;a href="https://www.example.gov/accessibility-guidelines">View our accessibility guidelines&lt;/a></span>
+<div class="code-box" style="width: 100%; background-color: #444;">
+    <span class="code-box-text">&lt;a href="https://www.example.gov/accessibility-guidelines">View our accessibility guidelines&lt;/a></span>
 </div>
 
 ### How to Insert a Hyperlink in a Document
