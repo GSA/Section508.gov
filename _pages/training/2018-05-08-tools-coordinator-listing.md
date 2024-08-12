@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 1525805876
-modified: 2024-04-19
+modified: 2024-08-12
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -155,7 +155,6 @@ Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>
 Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
-Mia K. Day - <mia.day@us.af.mil>  
 Carlinda Lotson (BACKUP) - <carlinda.Lotson.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
@@ -390,9 +389,8 @@ Neal Herbert - <neal_herbert@btfa.gov>
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor
-Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
-Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
+### Office of the Solicitor (OS)
+Hadi Rizvi - <hadi.rizvi@sol.doi.gov>  
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
 Cricket Bidleman - <cbidleman@osmre.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
