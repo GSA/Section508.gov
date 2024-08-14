@@ -19,7 +19,7 @@ Hyperlinks are essential for content accessibility, enabling users to navigate c
 
 To comply with Section 508 Standards and associated Web Content Accessibility Guidelines (WCAG) 2.0 AA, it’s important to create hyperlinks that are clear, descriptive, and accessible to all users, including those using assistive technologies.
 
-### Key Principles for Accessible Hyperlinks
+## Key Principles for Accessible Hyperlinks
 1.  **Descriptive Link Text**
     - Ensure link text is meaningful and descriptive, indicating the purpose or destination of the link.
     - Avoid using vague terms like "click here" or "read more."
@@ -37,24 +37,24 @@ To comply with Section 508 Standards and associated Web Content Accessibility Gu
     -   Avoid overusing ARIA landmarks; rely on native HTML elements first.
     -   Use landmarks like **`role="link"`** sparingly and only when necessary.
 
-### Examples for Implementing Accessible Hyperlinks
+## Examples for Implementing Accessible Hyperlinks
 
-#### Example 1: Descriptive Link Text
+### Example 1: Descriptive Link Text
 <div class="code-box" style="width: 100%; background-color: #444;">
     <span class="code-box-text">&lt;a href="annual-report.pdf">Download the annual report&lt;/a></span>
 </div>
 
-#### Example 2: Contextual Clarity
+### Example 2: Contextual Clarity
 <div class="code-box" style="width: 100%; background-color: #444;">
     <span class="code-box-text">&lt;a href="accessibility-policy.html">Learn more about our accessibility policy&lt;/a></span>
 </div>
 
-#### Example 3: Avoiding URLs as Link Text
+### Example 3: Avoiding URLs as Link Text
 <div class="code-box" style="width: 100%; background-color: #444;">
     <span class="code-box-text">&lt;a href="https://www.example.gov/accessibility-guidelines">View our accessibility guidelines&lt;/a></span>
 </div>
 
-### How to Insert a Hyperlink in a Document
+## How to Insert a Hyperlink in a Document
 Many office productivity suites, such as Microsoft Office and Google Workspace, allow authors to insert hyperlinks. For example, to insert a hyperlink in a Microsoft Word document, use the following steps:
 
 1.  Highlight the document text that you want to make a hyperlink. 
@@ -81,12 +81,12 @@ Many office productivity suites, such as Microsoft Office and Google Workspace, 
 <strong>Pro Tip:</strong> To quickly insert a hyperlink in a Microsoft Word or Google Workspace document, simply highlight the text you want to make a hyperlink, then select <span class="font-mono-sm"><strong>CTRL-K</strong></span> on your keyboard to open the <span class="font-mono-sm"><strong>Insert Hyperlink</strong></span> dialog box.
 </div>
 
-### Testing Your Hyperlinks
+## Testing Your Hyperlinks
 *   **Visually Inspect**: Visually inspect documents and webpages to ensure link text provides the necessary context.
 *   **Programmatically Inspect:** For websites, use tools like [ANDI](https://www.section508.gov/test/web-software/#testing-tools-for-web) and browser-based developer inspection tools to ensure link text is read correctly for screen readers.
 *   **Color Contrast:** Verify the color contrast between links and their background meets WCAG 2.0 AA contrast requirements.
 
-### Additional Resources 
+## Additional Resources 
 * <a href="https://www.section508.gov/blog/accessibility-bytes/color-contrast/" target="_blank" class="usa-link--external">Accessibility Bytes No. 3: Color Contrast</a>
 * <a href="https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html" target="_blank" class="usa-link--external">Understanding SC 2.4.4: Link Purpose (In Context) (Level A) | W3</a>
 * <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1&showtechniques=249#contrast-minimum" target="_blank" class="usa-link--external">Understanding SC 1.4.3: Contrast (Minimum) (Level AA) | W3</a>
