@@ -5,6 +5,16 @@ permalink: create/documents/training-videos/
 type: create
 title: 'Documents Training Videos'
 created: 1579720537
+topic: "Content creation (create)"
+sub-topic: "Documents"
+audience:
+- "Content Creators (creator)"
+- "Designer (design)"
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "Video & Synchronized Media (video)"
 ---
 
 # How to Make an Accessible Document in Microsoft Word

@@ -6,6 +6,16 @@ title: 'Supporting Empowerment through Accessibility'
 created: 1541532205
 tags: Events
 description: In recognition of National Disability Employment Awareness Month (NDEAM), GSA hosted the Federal Interagency Accessibility Forum (IAAF) to celebrate the contributions of workers with disabilities, and educate people about the value of a workforce inclusive of all skills and talents.
+topic: Events (events)
+sub-topic: N/A
+audience:
+- federal employee (fedemp)
+- Manager/Exec (exec)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Public (public)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 <p style="margin:0in 0in 0.0001pt">

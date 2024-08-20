@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-c-methods/
 type: report2023
 title: "Appendix C: Methods"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 ## Overview
 

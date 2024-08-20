@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/accessibility-faq/
 type: manage
 title: "ICT Accessibility Frequently Asked Questions"
+topic: "Manage (program)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Content Creators (creator)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 <!-- Expand/Collapse All "Accessibility FAQ" Content -->
 <div class="margin-bottom-3">

@@ -5,6 +5,16 @@ permalink: manage/deia-guidance/
 type: manage
 title: "Integrating Accessibility into Agency Diversity, Equity, Inclusion and Accessibility (DEIA) Implementation Plans"
 created: December 16, 2021
+topic: "Manage (program)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "508 Program Manager (508pm)"
+- "Equal Employment Opportunity Officer (eeo)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Chief Diversity and Inclusion Officer (cdio)"
+- "Chief Human Capital Officer (chco)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Accessibility, the “A” in DEIA, is a foundation on which the federal workforce must build diversity, equity and inclusion for people with disabilities. Without accessibility, we cannot truly achieve the others.

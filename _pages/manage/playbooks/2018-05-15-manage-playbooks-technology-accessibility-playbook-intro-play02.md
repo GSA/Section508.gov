@@ -6,6 +6,16 @@ title: 'Play 2: Assess your Section 508 program maturity'
 created: 1526408495
 redirect_from: 
 - tools/playbooks/technology-accessibility-playbook-intro/play02/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 Some agencies have not established a formal Section 508 compliance program. Other agencies are just beginning to establish a Section 508 program, and they need to establish policies, procedures, training and communications to build awareness of what is required and who is responsible for addressing compliance needs. Agencies further along may have dedicated resources to perform testing to validate Section 508 conformance claims, but do not have a systematic approach to perform testing. Mature agencies demonstrate the ability to measure and monitor conformance to policies and actual compliance levels, and they use data to drive decision making to improve the effectiveness of their overall Section 508 program. Section 508 activities appropriate for mature organizations may not be appropriate for less mature organizations that do not have an adequate foundation to build upon. Therefore, an assessment of your agency&rsquo;s Section 508 program maturity is essential to gauge where you are, and to determine what steps are necessary to improve your program.

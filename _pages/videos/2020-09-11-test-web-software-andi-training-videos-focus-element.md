@@ -1,12 +1,22 @@
 ---
- sidenav: true
- layout: video
- permalink: training/web-software/andi-training-videos/focus-element/
- type: ANDI training
- title: 'Module 2: Focus Element'
- created: 1599835452 
- redirect_from:
+sidenav: true
+layout: video
+permalink: training/web-software/andi-training-videos/focus-element/
+type: ANDI training
+title: 'Module 2: Focus Element'
+created: 1599835452 
+redirect_from:
  - test/web-software/andi-training-videos/focus-element/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1>Module 2: Focus Element</h1>)

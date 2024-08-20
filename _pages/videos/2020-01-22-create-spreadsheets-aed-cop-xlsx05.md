@@ -7,6 +7,15 @@ title: 'Module 5: Using Built-In Features to Create Data Tables'
 created: 1579723887
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx05/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 5: Using Built-In Features to Create Data Tables)

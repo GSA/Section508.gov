@@ -7,6 +7,16 @@ title: "An Introduction to Universal Design"
 created: 1604066026
 redirect_from:
 - create/universal-design-video-series/
+topic: Development (dev)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- Developers and Testers (dev-test)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.

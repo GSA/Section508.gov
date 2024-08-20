@@ -7,6 +7,16 @@ title: 'Interagency Accessibility Forum (IAAF) Archives - 2021 Speaker and Prese
 created: 1601325079
 redirect_from:
 - iaaf/biographies-2021/
+topic: "Events (events)"
+sub-topic: "N/A"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 <p style="text-align:center;">

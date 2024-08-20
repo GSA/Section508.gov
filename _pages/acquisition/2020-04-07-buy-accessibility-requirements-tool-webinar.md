@@ -5,6 +5,15 @@ permalink: buy/accessibility-requirements-tool/webinar/
 type: acquisition
 title: 'Accessibility Requirements Tool (ART) Webinar'
 created: 1586283223
+topic: "Tools (tools)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Acquisition (acq)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+- "508 Program Manager (508pm)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 Learn how to define the accessible requirements for ICT solicitations using the Accessibility Requirements Tool (ART). Explore ART, and get an overview of ART’s purpose, interface design and key features, and the benefits you gain from using the tool in the acquisition and procurement process.

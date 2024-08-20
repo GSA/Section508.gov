@@ -5,6 +5,13 @@ permalink: buy/determine-508-standards-exceptions/
 type: acquisition
 title: 'Determine 508 Standards and Exceptions'
 created: 1527568791
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Contracting Officer’s Representative (cor)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 The [Revised 508 Standards][1] contain scoping and technical requirements for [information and communication technology](https://www.section508.gov/content/glossary/#ict) (ICT) purchased, built, maintained or used by Federal agencies. Agencies must comply with these Standards to ensure our technology is accessible and usable by individuals with disabilities.

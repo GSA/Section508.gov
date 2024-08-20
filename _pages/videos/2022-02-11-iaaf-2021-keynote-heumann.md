@@ -4,6 +4,16 @@ layout: page
 permalink: training/presentations-workshops/keynote-judy-heumann/
 type: training
 title: 'IAAF 2021 Keynote Address—Judy Heumann'
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 <a href="https://www.section508.gov/iaaf/biographies-2021#oneal">Andrea M. O'Neal</a>, Senior Advisor to the Administrator (Equity) at the General Services Administration, and <a href="https://www.section508.gov/iaaf/biographies-2021#heumann">Judith E. Heumann</a>, International Disability Rights Activist, discuss Diversity, Equity and Inclusion through the lens of accessibility.

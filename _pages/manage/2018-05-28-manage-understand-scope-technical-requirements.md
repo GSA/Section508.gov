@@ -5,6 +5,16 @@ permalink: manage/understand-scope-technical-requirements/
 type: manage
 title: 'Understand Content Scope and Technical Requirements'
 created: 1527551014
+topic: Manage (program)
+sub-topic: Manage Accessibility for IT Program/Project Managers
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Information Technology Program and Project Managers (itpm)
+- Product Managers (prodmgr)
+- Content Creators (creator)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 In the Revised 508 Standards, [Section E205 - Electronic Content][1] specifies which electronic content, including web, software, multimedia and electronic documents, must conform to the technical requirements.

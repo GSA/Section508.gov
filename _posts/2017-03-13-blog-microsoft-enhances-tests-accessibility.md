@@ -7,6 +7,16 @@ date: March 17, 2017
 tags: Testing
 created: 1489414442
 description: Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers.
+topic: "Testing (test)"
+sub-topic: "Various Electronic Content (i.e. Multiple)"
+audience:
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+- "Chief Information Officer (cio)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 March 17, 2017 - Section 508’s Coordinators are often asked about ways to test technology for accessibility. Over the last year, Microsoft has worked to make this easier for its customers. In particular, they have focused on making trustworthy technology for all employees and customers while also equipping them with information that will help them understand and validate product accessibility.

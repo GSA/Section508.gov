@@ -7,6 +7,16 @@ title: 'Module 12: iFrames'
 created: 1601868640
 redirect_from:
 - test/web-software/andi-training-videos/iframes/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (<h1>Module 12: iFrames </h1>)

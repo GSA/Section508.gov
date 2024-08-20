@@ -10,6 +10,16 @@ description: "<strong>Do you know that some people experience difficulty underst
 contributors: 
 redirect_from:
 - blog/accessibility-bytes/3/ #Allows users to navigate by number
+topic: "Design (design)"
+sub-topic: "Graphics Specific (image descriptions)"
+audience:
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 style="line-height:1.2;">Do you know that some people experience difficulty understanding and comprehending information when we use only colors to convey it?</h2>
 

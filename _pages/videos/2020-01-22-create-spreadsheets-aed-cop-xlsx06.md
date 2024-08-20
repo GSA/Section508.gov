@@ -7,6 +7,15 @@ title: 'Module 6: Adding Alternative Text to Images and Other Objects '
 created: 1579723919
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx06/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 6: Adding Alternative Text to Images and Other Objects)

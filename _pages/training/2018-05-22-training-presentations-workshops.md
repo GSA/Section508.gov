@@ -6,6 +6,14 @@ type: training
 title: 'Accessibility Presentations and Workshop Materials'
 redirect_from:
 - csun2024/
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "Public (public)"
+- "508 Program Manager (508pm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 The information on this page includes available resources and captioned text files 
 

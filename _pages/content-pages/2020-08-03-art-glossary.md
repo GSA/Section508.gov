@@ -5,6 +5,14 @@ permalink: art/glossary/
 type: page
 title: 'ART - Glossary'
 created: 1596488250
+topic: "Tools (tools)"
+sub-topic: "Acquisition Tools"
+audience:
+- "Acquisition (acq)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+resource-type: "Tool (tool)"
+format: "HTML (html)"
 ---
 
 ## Glossary Instructions 

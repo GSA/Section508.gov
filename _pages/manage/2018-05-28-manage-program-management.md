@@ -5,6 +5,15 @@ permalink: manage/program-management/
 type: manage
 title: " IT Accessibility Program Management"
 created: 1527541161
+topic: "Manage (program)"
+sub-topic: "Manage a 508 Program"
+audience:
+- "508 Program Manager (508pm)"
+- "Manager/Exec (exec)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Product Managers (prodmgr)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Learn how to manage a federal IT Accessibility Program, help your agency comply with Section 508 of the Rehabilitation Act, and use technology that conforms to the [Revised 508 Standards][1].

@@ -6,6 +6,16 @@ type: test
 title: 'Accessibility Testing for Websites and Software'
 created: 1527026399
 contributors: usab
+topic: "Testing (test)"
+sub-topic: "Websites"
+audience:
+- "Developers and Testers (dev-test)"
+- "508 Program Manager (508pm)"
+- "Content Creators (creator)"
+- "Designer (design)"
+- "Website Managers/Content Managers (wcm)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 Web designers, developers, and content managers play a key role in ensuring websites and digital tools are accessible, and conform to the [Revised 508 Standards][1] and the [W3C Web Content Accessibility Guidelines (WCAG)][2] 2.0 Level AA.

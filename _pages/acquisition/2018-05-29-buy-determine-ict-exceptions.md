@@ -5,6 +5,16 @@ permalink: buy/determine-ict-exceptions/
 type: acquisition
 title: 'Step 2: Determine ICT Exceptions'
 created: 1527569078
+topic: Acquisition/Buy (buy)
+sub-topic: Accessible Acquisition Info, Guidance & Best Practices
+audience:
+- Acquisition (acq)
+- Contracting Officer’s Representative (cor)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 <a id="top" name="top"></a>

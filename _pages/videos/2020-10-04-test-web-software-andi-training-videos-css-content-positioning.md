@@ -7,6 +7,16 @@ title: 'Module 17: CSS Content and Positioning'
 created: 1601870113
 redirect_from:
 - test/web-software/andi-training-videos/css-content-positioning/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1>Module 17: CSS Content and Positioning </h1>)

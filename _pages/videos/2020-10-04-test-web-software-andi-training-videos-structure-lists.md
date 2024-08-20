@@ -7,6 +7,15 @@ title: 'Module 7: Structure Lists'
 created: 1601866613
 redirect_from:
 - test/web-software/andi-training-videos/structure-lists/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- Website Managers/Content Managers (wcm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (<h1>Module 7: Structure Lists </h1>)

@@ -7,7 +7,16 @@ title: 'Quick Guide to IT Accessibility for Program Managers'
 created: 2019-01-29
 updated: 2024-07-11
 redirect_from:
-- tools/playbooks/accessibility-playbook-quick-guide/ 
+- tools/playbooks/accessibility-playbook-quick-guide/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Manager/Exec (exec)
+- Federal employee (fedemp)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 Learn how to build an effective information technology (IT) accessibility program, and ensure that the technology your

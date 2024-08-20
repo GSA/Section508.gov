@@ -5,6 +5,16 @@ permalink: create/presentations/training-videos/
 type: create
 title: 'Presentations Training Videos'
 created: 1578415169
+topic: Content creation (create)
+sub-topic: Presentations
+audience:
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- 508 Program Manager (508pm)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 # How to Author and Test Microsoft PowerPoint Presentations for Accessibility

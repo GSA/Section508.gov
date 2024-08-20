@@ -5,6 +5,14 @@ permalink: buy/standards-exceptions/
 type: acquisition
 title: '508 Standards and Exceptions Chart & Examples'
 created: 1527568596
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+audience:
+- "Acquisition (acq)"
+- "508 Program Manager (508pm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Template"
+format: "Document (docx)"
 ---
 
 When procuring information and communication technology (ICT), ensure your purchases conform to the [Revised 508 Standards][1] by clearly communicating the standards and exceptions that apply to **each item** in your solicitation. ICT includes software, hardware, electronic content, support documentation & services. 

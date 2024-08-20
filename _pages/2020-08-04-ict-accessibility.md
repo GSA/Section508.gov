@@ -5,6 +5,14 @@ title: 'ART - Listing of ICT Accessibility Requirements Statements'
 created: 1596557631
 layout: page
 sidenav: false
+topic: "Tools (tools)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Acquisition (acq)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+resource-type: "Tool (tool)"
+format: "HTML (html)"
 ---
 
 ## Table of Contents

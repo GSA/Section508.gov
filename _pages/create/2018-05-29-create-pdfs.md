@@ -5,6 +5,14 @@ permalink: create/pdfs/
 type: create
 title: 'Create Accessible PDFs'
 created: 1527621813
+topic: "Content creation (create)"
+sub-topic: "PDFs"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].

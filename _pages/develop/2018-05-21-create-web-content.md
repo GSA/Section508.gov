@@ -7,6 +7,13 @@ title: 'Developing Accessible Web Content'
 created: 1526946893
 redirect_from:
 - create/web-content/
+topic: "Development (dev)"
+sub-topic: "Content Creation Training or Tools"
+audience:
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <p>Learn how to build digital tools that conform to the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. Review the W3C’s Sufficient Techniques for examples of how to meet Success Criteria using specific technologies (relevant to HTML, CSS, server-side scripting, Flash, ARIA, etc.).</p>
 <ul>

@@ -7,6 +7,15 @@ title: 'Module 8: Duplicate Vital Information in Headers, Footers and Watermarks
 created: 1579721137
 redirect_from:
  - create/documents/aed-cop-docx08/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 8: Duplicate Vital Information in Headers, Footers and Watermarks)

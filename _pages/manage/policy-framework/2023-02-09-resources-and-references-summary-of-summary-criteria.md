@@ -5,6 +5,15 @@ permalink: manage/policy-framework/resources-and-references/summary-of-summary-c
 type: manage
 title: "IT Accessibility Policy Framework - Summary of Evaluation Criteria"
 created: December 09, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 id="standards">
   Summary of Evaluation Criteria

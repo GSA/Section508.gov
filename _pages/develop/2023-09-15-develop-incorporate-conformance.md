@@ -5,6 +5,14 @@ permalink: develop/incorporating-accessibility-conformance/
 type: develop
 title: "Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes"
 created: 20230915
+topic: "Development (dev)"
+sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
+audience:
+- "Developers and Testers (dev-test)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Product Managers (prodmgr)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 The integration of accessibility conformance validation, or accessibility testing, throughout the development life cycle reduces testing burden and results in a more accessible Information and Communications Technology (ICT) product. Below are steps you can take to integrate methods and tools for accessibility conformance validation into your development life cycle. 
