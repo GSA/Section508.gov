@@ -26,6 +26,163 @@ The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
 
 For details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2023).
 
+<ul class="usa-card-group">
+  <!-- S1 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Welcome & Opening Remarks - Day 2</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#burns-sylvia">Sylvia Burns</a>, Chief Information Officer and Chief Privacy Officer, FDIC, welcomes guests to the 10th Annual Interagency Accessibility Forum.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-welcome-opening-day-2/" class="usa-button">Listen: Welcome & Opening Remarks - Day 2</a>
+      </div>
+    </div>
+  </li>
+  <!-- S2 -->
+  <li class="usa-card tablet:grid-col-6">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Digital Accessibility in the Federal Workplace</h4>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/videos/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#martorana-clare">Clare Martorana</a>, Federal Chief Information Officer, OMB, moderates a discussion with distinguished guests explore the role of agency leadership in promoting, prioritizing, and improving digital accessibility in the federal workplace and how investments in measuring accessibility cultivate an accessibility inclusive work environment.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-digital-federal-workplace/" class="usa-button">Listen: Accessibility in Workplace</a>
+      </div>
+    </div>
+  </li>
+  <!-- S3 -->
+  <li class="usa-card tablet:grid-col-6">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Keynote Address with Tanya Bradsher</h4>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/videos/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#bradsher-tanya">Tanya Bradsher</a>, Deputy Secretary, VA, shared thoughts emphasizing the significance of accessibility, particularly through Section 508 of the Rehabilitation Act, which has been vital in improving the lives of people with disabilities. Bradsher highlighted the VA's commitment to making its services accessible as a core value ensuring that veterans can access their benefits with dignity and ease.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-keynote-tanya-bradsher/" class="usa-button">Listen: Keynote Address</a>
+      </div>
+    </div>
+  </li>
+  <!-- S4 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Real Talk: A Conversation with Section 508 Program Managers</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#sirk-betsy">Betsy Sirk</a>, leads a discussion with an experienced panel sharing its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-real-talk-508-pms/" class="usa-button">Listen: A Conversation with Section 508 PMs</a>
+      </div>
+    </div>
+  </li>
+  <!-- S5 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Welcome & Opening Remarks - Day 3</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#pavithran-sachin">Sachin Pavithran</a>, Executive Director, USAB, welcomes guests to the 10th Annual Interagency Accessibility Forum.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-welcome-opening-day-3/" class="usa-button">Watch: Welcome & Opening Remarks - Day 3</a>
+      </div>
+    </div>
+  </li>
+  <!-- S6 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">A Fireside Chat with Accessibility Leaders</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s6-thumbnail.jpg" alt="Alison Levy" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#levy-alison">Alison Levy</a>, Director, Office of Technical and Information Services, USAB, lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-fireside-chat-with-accessibility-leaders/" class="usa-button">Watch: A Fireside Chat with Accessibility Leaders</a>
+      </div>
+    </div>
+  </li>
+  <!-- S7 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Accessibility Round Table with the Department of Veterans Affairs</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#orr-martha">Martha Orr</a>, Deputy Chief Information Officer for Compliance, Risk, and Remediation, VA, ...</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/" class="usa-button">Watch: Accessibility Round Table with VA</a>
+      </div>
+    </div>
+  </li>
+  <!-- S8 -->
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">The Accessibility-Powered Future of Work</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s8-thumbnailss.jpg" alt="Andrea O'Neal" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#andrea-oneal">Andrea M. O’Neal</a>, Senior Advisor to the Administrator for Equity, General Services Administration, moderated a plenary discussion to explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/" class="usa-button">Watch: The Accessibility-Powered Future of Work</a>
+      </div>
+    </div>
+  </li>  
+</ul>
+
+---
+
 ## 2022 Interagency Accessibility Forum
 
 The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
