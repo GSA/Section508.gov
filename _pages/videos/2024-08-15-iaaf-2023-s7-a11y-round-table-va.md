@@ -16,11 +16,13 @@ created: 2024-08-15
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
+    <p><strong>Narrator</strong></p>
+    <p>Annual Interagency Accessibility Forum. Day 3, Accessibility Round Table with the Department of Veterans Affairs.</p>
     <p><strong>Brooke Aiken</strong></p>
-    <p>All right, so we are transitioning to another round table chat with the veterans administration.</p>
+    <p>All right, so we are transitioning to another round table chat with the Veterans Administration.</p>
     <p>So I will let Martha kick it off and welcome.</p>
     <p><strong>Martha Orr</strong></p>
-    <p>Thank you very much. And good morning, everyone. Very happy to be back. How are you all doing? Yay. Good. Yep. Yeah. Were all of you here yesterday for the other panel? Okay. For those of you who were, you'll remember my description of my festive fall outfit today, and I'm a little more somber. I'm still, you know, the same Martha Orr from the Department of Veterans Affairs, but today I have a more somber look with a black jacket, red blouse, and a faux suede skirt. So I'm glad you're all enjoying it.</p>
+    <p>Thank you very much. And good morning, everyone. Very happy to be back. How are you all doing? [Applause] Yay. Good. Yep. Yeah. Were all of you here yesterday for the other panel? Okay. For those of you who were, you'll remember my description of my festive fall outfit today, and I'm a little more somber. I'm still, you know, the same Martha Orr from the Department of Veterans Affairs, but today I have a more somber look with a black jacket, red blouse, and a faux suede skirt. So I'm glad you're all enjoying it.</p>
     <p>I don't know about you, but when I heard that last panel describing all of their accomplishments and all of the things that are coming, I thought to myself, "Wow, we're going to be on the other end of this, trying to interpret and implement all of this in a department for us, anyway, of about 450,000 employees by now, not to mention contractors, volunteers, residents, we call them baby dogs, those sorts of things." So it's a big, daunting assignment, if you will. I'm certainly, I was very privileged this last year to really learn about this area, about accessibility to meet the 508 compliance staff that moved into my organization a little over a year ago. I think we've made some great strides, and we're going to talk about that today.</p>
     <p>But what I really would like is an interactive session with all of you in some fashion. You're working on accessibility, you're implementing the concepts, you're having to deal with the same thing we are in terms of awareness, in terms of training. Oh, by the way, the enforcement—I loved the idea of weaving some enforcement themes into our awareness campaigns as well. Because I often think that people don't really understand. They understand you can put out policy and policy memos and guidance documents and guidance, but what happens if they just aren't implemented? I really would like to weave that into our awareness campaign as well, so people understand there are consequences. There can be consequences for not adhering to this.</p>
     <p>And it's been a long time, and we still aren't 100% compliant in our own agency, and we're working really hard to take the steps and make the plans to do so. So we have a panel of experts here today. We have people that have worked in this area for a very long time. And so that's why I'm excited to hear from you, to hear your questions, to hear your challenges, and get maybe some advice. And we'd like to vice versa, like to hear some things that maybe have worked for you that we can implement as well. So I really, as I said, I want this to be as interactive as possible. I will look for hands. There are no silly questions. Don't they all say that? Right? Oh, there's no silly questions. They're really, not in this room, what is said at the FDIC stays at the FDIC.</p>
@@ -319,7 +321,8 @@ created: 2024-08-15
     <p><strong>Martha Orr</strong></p>
     <p>Okay.</p>
     <p>So we will be back in a year at the next conference to let you know if we accomplished our goals.</p>
-    <p>Thank you all very much. Appreciate it.</p>
+    <p>Thank you all very much. Appreciate it. [Applause]</p>
+    <p><strong>Narrator</strong></p>
     <p>This now concludes this conversation for the annual Interagency Accessibility Forum.</p>    
   </div>
 </div>

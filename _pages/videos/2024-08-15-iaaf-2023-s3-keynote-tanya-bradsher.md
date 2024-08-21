@@ -18,6 +18,8 @@ Listen as [Tanya Bradsher]({{site.baseurl}}/http://127.0.0.1:4000/iaaf/archives/
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
+    <p><strong>Narrator</strong></p>
+    <p>Annual Interagency Accessibility Forum. Day 2 Keynote Speaker, Tanya Bradsher.</p>   
     <p><strong>Brooke Aiken</strong></p>
     <p>Welcome back everyone. It's my privilege and honor to introduce our keynote speaker, the Honorable Tanya Bradsher is the Veterans Affairs’ (VA) first woman deputy secretary, first woman of color to serve in the position, and the highest-ranking woman in the VA's more than 90-year history. A fourth-generation veteran, Miss Bradsher, a combat veteran of the Iraq War, served in the United States Army for 20 years and retired as a lieutenant colonel.</p>
     <p>Since retiring, she served as the VA's chief of staff and in senior positions with the Department of Homeland Security and on the white House National Security Council. Miss Bradsher believes deeply in honoring our nation's sacred obligation to serve veterans, their families, caregivers, and survivors, as well as they have served all of us. Please join me in welcoming the VA's 10th Deputy Secretary, Miss Tanya Bradsher, here this summer.</p>

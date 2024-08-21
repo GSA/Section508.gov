@@ -15,8 +15,8 @@ created: 2024-08-15
    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
  </h2>
     <div id="a1" class="usa-accordion__content usa-prose">
-        <p><strong>Voice Over</strong></p>
-        <p>Annual Interagency Accessibility Forum. Day 3, a fireside chat with accessibility leaders.</p>
+        <p><strong>Narrator</strong></p>
+        <p>Annual Interagency Accessibility Forum. Day 3, A Fireside Chat with Accessibility Leaders.</p>
         <p><strong>Alison Levy</strong></p>
         <p>So, thank you all for being here. Welcome to the fireside chat with accessibility leaders. My name is Alison Levy. As you heard a little earlier, I'm the Director of the Office of Technical and Information Services at the US Access Board. I work with Sachin, and I also want to give a shout-out to my team. I work with a team of ten people who are dedicated staff members working with accessibility in both the built and digital environments. So, thank you to all the staff who have really contributed to accessibility in both environments and for those of you who are here representing the Information and Communication Technology team.</p>
         <p>Today, I'm thrilled and absolutely honored to facilitate a fireside chat with four distinct leaders who I think, for the first time, are sharing a stage together. These folks represent the four cornerstones of digital accessibility in both the federal and public spaces. Please join me in giving them a round of applause before I give their introductions.</p>
@@ -416,7 +416,7 @@ created: 2024-08-15
         <p>But I also, I just have such warm feelings for this entire panel.</p>
         <p>I think a few of the panelists might feel like they see or hear a little too much from me, but I just thank you so much for being here, for giving us your time.</p>
         <p>Thank you for sharing some key accomplishments and for sharing your vision that will help drive this work going forward.</p>
-        <p>Again, please, another round of applause for the panel.</p>
+        <p>Again, please, another round of applause for the panel. [Applause]</p>
         <p>So, just a couple of quick logistical notes.</p>
         <p>We're going to come back here to this auditorium for our next panel.</p>
         <p>And for those online, same bat channel, same Zoom link.</p>
@@ -425,7 +425,7 @@ created: 2024-08-15
         <p>On the second floor, there's the coffee shop and also available on the first floor in the cafeteria.</p>
         <p>And again, bathrooms to your left at the doors here.</p>
         <p>Thank you.</p>
-        <p><strong>Voice Over</strong></p>
+        <p><strong>Narrator</strong></p>
         <p>This now concludes this conversation for the annual Interagency Accessibility Forum.</p>
     </div>
 </div>

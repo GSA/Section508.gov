@@ -18,6 +18,8 @@ created: 2024-08-15
     <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="a1">Transcript</button>
   </h2>
   <div id="a1" class="usa-accordion__content usa-prose">
+    <p><strong>Narrator</strong></p>
+    <p>Annual Interagency Accessibility Forum. Day two general session.</p>   
     <p><strong>Clare Martorana</strong></p>
     <p>Good morning, everyone. I hope you'll indulge me for a moment. I'm going to try and learn today. So, I'm Clare Martorana, the Federal Chief Information Officer. I am about five foot eight. I have gray hair. I'm wearing a neon pink blazer, kind of like Barbie.</p>
     <p>And I am honored to be here. I would, ask if you would indulge me if I could take a picture of the room, because I would like to bring this back to my colleagues at the White House and share with them what this huge crowd is. What an important event this is. So, if that's okay with y'all, I would love to just take a quick picture.</p>
@@ -221,7 +223,7 @@ created: 2024-08-15
     <p>So, it's about finding the, finding the way to yes, right? Securely and safely, where we're not compromising anything. So, I think the answer to that, is really about some of it is about the attitude that you're CISO office has and making them see that they are part of the team. You know, we can't, we can't do this without them because they do play an important role.</p>
     <p>But their role isn't to stop the mission from happening, which includes, you know, being cognizant of Section 508 and enabling, people, who have impairments to be able to be part of our workforce. Or for our citizens, you know, the people that we serve, to be able to partake of our services. It's all part of it, all has to just be included in, delivery.</p>
     <p><strong>Clare Martorana</strong></p>
-    <p>Great. Thank you all so much. We appreciate your time and hope you have a wonderful, rest of, the event. Thanks, everyone.</p>
+    <p>Great. Thank you all so much. We appreciate your time and hope you have a wonderful, rest of, the event. Thanks, everyone. [Applause]</p>
   </div>
 </div>
 
