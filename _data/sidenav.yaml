@@ -176,7 +176,7 @@ training:
   - name: Online Training Courses
     url: '#'
     children:
-      - name: "Section 508: What is It and Why is It Important to You?"
+      - name: "Section 508: What is It and Why is It Important?"
         url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html'
         external: true
       - name: "Accessibility of ICT: An Overview for Government Executives"
