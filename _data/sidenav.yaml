@@ -551,7 +551,7 @@ create:
       - name: Authoring Guides
         url: create/pdfs/authoring-guides/
       - name: Tags and Their Usage
-        url: create/pdfs/standard-tags-and-usage/
+        url: create/pdfs/common-tags-and-usage/
       - name: Tips and Tricks
         url: create/pdfs/
       - name: Video Training
