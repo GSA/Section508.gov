@@ -114,7 +114,7 @@ Heading tags designate the heading structure and hierarchy of the document. They
 </table>
 
 ### Block-Level Text Tags
-Bock-level text tags designate the main text components of a document, like body text and lists, among others. They exist directly below the <span class="code-text"><strong>&lt;Document></strong></span> tag.
+Block-level text tags designate the main text components of a document, like body text and lists, among others. They exist directly below the <span class="code-text"><strong>&lt;Document></strong></span> tag.
 
 <table class="usa-table usa-table--borderless">
   <caption>
