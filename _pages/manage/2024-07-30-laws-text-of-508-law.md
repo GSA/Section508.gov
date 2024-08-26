@@ -5,7 +5,10 @@ permalink: manage/laws-and-policies/section-508-law/
 type: manage
 title: 'Section 508 of the Rehabilitation Act, as amended'
 created: 2024-07-30
+updated: 2024-08-26
 ---
+On August 7, 1998, President Clinton signed into law the Rehabilitation Act Amendments of 1998, which covers access to federally funded programs and services. The law strengthens section 508 of the Rehabilitation Act and requires access to electronic and information technology provided by the Federal government. The law applies to all Federal agencies when they develop, procure, maintain, or use electronic and information technology.
+
 ## 29 U.S.C. §794d. Electronic and Information Technology
 <ol>
     <li id="794da" type="a"><strong>Requirements for Federal departments and agencies</strong>
@@ -109,7 +112,7 @@ created: 2024-07-30
 
 (Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, §2405, July 13, 2000, 114 Stat. 555.)
 
-## §794d–1. Reports on accessibility of electronic information to individuals with disabilities
+## 29 U.S.C. §794d–1. Reports on accessibility of electronic information to individuals with disabilities
 <ol type="a">
     <li id="794d-1a">&nbsp; 
         <ol>
@@ -160,4 +163,4 @@ created: 2024-07-30
   </div>
 </div>
 
-**Reviewed/Updated:** July 2024
+**Reviewed/Updated:** August 2024
