@@ -17,7 +17,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
-As with all types of data, structure is crucial to how readers navigate, access, and comprehend information. Tags are the structural foundation of an accessible Portable Document File (PDF). Each piece of content has a corresponding <span class="code-text"><strong>tag</strong></span> that dictates how it is understood and read by assistive technology. This guide helps document authors understanding why and how each commonly used tag is used in making an accessible PDF.
+As with all types of data, structure is crucial to how readers navigate, access, and comprehend information. Tags are the structural foundation of an accessible Portable Document File (PDF). Each piece of content has a corresponding <span class="code-text"><strong>tag</strong></span> that dictates how it is understood and read by assistive technology. This guide helps document authors understand why and how each commonly used tag is used in making an accessible PDF.
 
 ## Root Tag
 The first tag in any PDF should always be a <span class="code-text"><strong>&lt;Document></strong></span> tag. All tags within a PDF will either be nested directly below it within a container/grouping tag or within a block-level tag.
