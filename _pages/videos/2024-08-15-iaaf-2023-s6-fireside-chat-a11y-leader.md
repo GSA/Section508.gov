@@ -5,6 +5,19 @@ permalink: training/presentations-workshops/iaaf-2023-fireside-chat-with-accessi
 type: training
 title: 'IAAF 2023: A Fireside Chat with Accessibility Leaders'
 created: 2024-08-15
+updated: 2024-08-27
+topic: Training (train)
+sub-topic: 
+- IAAF
+- Presentations
+audience:
+- Acquisition (acq)
+- 508 Program Manager (508pm)
+- Chief Acquisition Officer (cao)
+- Agency Senior Procurement Executive (spe)
+- Contracting Officer (cor)z
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 [Alison Levy]({{site.baseurl}}/iaaf/archives/biographies-2023#levy-alison), Director, Office of Technical and Information Services, United States Access Board, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 

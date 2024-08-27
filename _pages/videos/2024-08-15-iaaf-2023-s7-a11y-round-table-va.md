@@ -5,6 +5,19 @@ permalink: training/presentations-workshops/iaaf-2023-accessibility-round-table/
 type: training
 title: 'IAAF 2023: Accessibility Round Table with the Department of Veterans Affairs'
 created: 2024-08-15
+updated: 2024-08-27
+topic: Training (train)
+sub-topic: 
+- IAAF
+- Presentations
+audience:
+- Acquisition (acq)
+- 508 Program Manager (508pm)
+- Chief Acquisition Officer (cao)
+- Agency Senior Procurement Executive (spe)
+- Contracting Officer (cor)z
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [Martha Orr]({{site.baseurl}}/http://iaaf/archives/biographies-2023#orr-martha), Deputy Chief Information Officer for Compliance, Risk, and Remediation, Department of Veterans Affairs, moderated a discussion among VA officials about.... 
