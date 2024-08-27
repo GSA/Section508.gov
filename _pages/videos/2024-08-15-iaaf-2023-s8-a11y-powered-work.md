@@ -5,6 +5,19 @@ permalink: training/presentations-workshops/iaaf-2023-accessibility-powered-futu
 type: training
 title: 'IAAF 2023: The Accessibility-Powered Future of Work'
 created: 2024-08-15
+updated: 2024-08-27
+topic: Training (train)
+sub-topic: 
+- IAAF
+- Presentations
+audience:
+- Acquisition (acq)
+- 508 Program Manager (508pm)
+- Chief Acquisition Officer (cao)
+- Agency Senior Procurement Executive (spe)
+- Contracting Officer (cor)z
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 <a href="https://www.section508.gov/iaaf/biographies-2023#">Andrea M. O’Neal</a>, Senior Advisor to the Administrator for Equity, General Services Administration, moderated a plenary discussion to explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).
