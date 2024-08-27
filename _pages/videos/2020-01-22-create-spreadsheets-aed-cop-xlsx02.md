@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 When choosing the color palette for your slide designs, close attention must be given to ensure there is a strong color contrast between the foreground and background. See examples of good and bad color contrast, and the how to use tools to determine if your spreadsheet has sufficient contrast.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m02-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

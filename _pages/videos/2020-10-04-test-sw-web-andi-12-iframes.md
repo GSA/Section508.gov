@@ -1,31 +1,32 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/links-buttons/
+permalink: training/web-software/andi-training-videos/iframes/
 type: ANDI training
-title: 'Module 3: Links & Buttons'
-created: 1599835706
+title: 'Module 12: iFrames'
+created: 1601868640
 redirect_from:
-- test/web-software/andi-training-videos/links-buttons/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+- test/web-software/andi-training-videos/iframes/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Public (public)
-resource-type: Training
-format: Video & Synchronized Media (video)
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
-[comment]: <> (<h1 class="page-header">Module 3: Links & Buttons </h1>)
+[comment]: <> (<h1>Module 12: iFrames </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
---------------------------------------
 
-Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1] links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-03-link-buttons-cc.mp4" type="video/mp4"></video>
+------------------
+
+Understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-12-iframes-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -41,7 +42,7 @@ Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1
       </li>
       <li class="views-row views-row-3 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content">Module 3: Links &amp; Buttons</span>
+            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons">Module 3: Links &amp; Buttons</a></span>
          </div>
       </li>
       <li class="views-row views-row-4 views-row-even">
@@ -77,7 +78,7 @@ Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
       </li>
       <li class="views-row views-row-12 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 12: iFrames</span>  </div>
       </li>
       <li class="views-row views-row-13 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
@@ -108,4 +109,4 @@ Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#interactive-element
+ [1]: {{site.baseurl}}/content/glossary#iframe

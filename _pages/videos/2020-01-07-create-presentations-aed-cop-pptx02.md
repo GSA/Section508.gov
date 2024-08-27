@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 When choosing the color palette for your slide&rsquo;s design, close attention must be given to ensuring that there is enough color contrast between foreground and background.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m02-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

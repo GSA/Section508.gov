@@ -28,7 +28,7 @@ format: Video & Synchronized Media (video)
 
 Flashing objects cannot be considered accessible because they can cause seizures and, therefore, should never be used. **Warning**: This video demonstrates a type of flashing object that should never be used.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m09.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m09-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

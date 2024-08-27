@@ -1,36 +1,38 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/language-parts/
+permalink: training/web-software/andi-training-videos/images/
 type: ANDI training
-title: 'Module 9: Language of Parts'
-created: 1601867101
+title: 'Module 4: Images'
+created: 1599836168
 redirect_from:
-- test/web-software/andi-training-videos/language-parts/
+- test/web-software/andi-training-videos/images/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
 - federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
+- 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1> Module 9: Language of Parts</h1>)
+[comment]: <> (<h1> Module 4: Images </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-09-language-parts-cc.mp4" type="video/mp4"></video>
+
+Discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-04-images-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
       <li class="views-row views-row-1 views-row-odd views-row-first">
          <div class="views-field views-field-title">        
-            <span class="field-content"><a class="active" href="{{site.baseurl}}/training/web-software/andi-training-videos/overview">Module 1: Overview of ANDI</a></span>  
+            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/overview"> Module 1: Overview of ANDI</a></span>  
          </div>
       </li>
       <li class="views-row views-row-2 views-row-even">
@@ -45,7 +47,7 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
       </li>
       <li class="views-row views-row-4 views-row-even">
          <div class="views-field views-field-title">
-            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/images">Module 4: Images</a></span>
+            <span class="field-content">Module 4: Images</span>
          </div>
       </li>
       <li class="views-row views-row-5 views-row-odd">
@@ -54,23 +56,19 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
-         <div class="views-field views-field-title">
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
       </li>
       <li class="views-row views-row-7 views-row-odd">
-         <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
-         <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
-         <div class="views-field views-field-title">        
-<span class="field-content">Module 9: Language of Parts</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -106,6 +104,3 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
-
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/content/glossary#user-agent

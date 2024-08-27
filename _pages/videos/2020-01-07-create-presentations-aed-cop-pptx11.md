@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Learn how to embed audio-only, video-only or multimedia files into your presentation so that individuals with disabilities have comparable access to the information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m11.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m11-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

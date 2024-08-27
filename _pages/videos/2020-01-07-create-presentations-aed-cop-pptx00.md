@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Learn the minimum steps needed to ensure your powerpoint presentation is Section 508 conformant.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-ppt-m00.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m00-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

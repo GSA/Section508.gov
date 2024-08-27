@@ -28,7 +28,7 @@ format: Video & Synchronized Media (video)
 
 Assistive Technology cannot infer meaning from images and other objects, such as pictures, images of text, images of tables, shapes, and icons with hyperlinks. Learn how to apply &ldquo;alt text&rdquo; to objects to ensure equivalent access the information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m07.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m07-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

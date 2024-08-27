@@ -1,37 +1,38 @@
 ---
-sidenav: true
-layout: video
-permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
-type: ANDI training
-title: 'Module 14: Color Contrast Analyzer'
-created: 1601869280
+sidenav: true 
+layout: video 
+permalink: training/web-software/andi-training-videos/overview/ 
+type: ANDI training 
+title: 'Module 1:Overview of ANDI'
+created: 1599834768
 redirect_from:
-- test/web-software/andi-training-videos/color-contrast-analyzer/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+- test/web-software/andi-training-videos/overview/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Public (public)
-resource-type: Training
-format: Video & Synchronized Media (video)
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
-[comment]: <> (<h1>Module 14: Color Contrast Analyzer</h1>)
+[comment]: <> (<h1 class="page-header">Module 1: Overview of ANDI</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
+----------------------------
 
-------------------
-Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-14-cca-cc.mp4" type="video/mp4"></video>
+Overview of the Accessible Name & Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs
+single page testing to automatically detect accessibility issues.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-01-overview-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
       <li class="views-row views-row-1 views-row-odd views-row-first">
          <div class="views-field views-field-title">        
-            <span class="field-content"><a class="active" href="{{site.baseurl}}/training/web-software/andi-training-videos/overview">Module 1: Overview of ANDI</a></span>  
+            <span class="field-content">Module 1: Overview of ANDI</span>  
          </div>
       </li>
       <li class="views-row views-row-2 views-row-even">
@@ -55,23 +56,19 @@ Learn how to use <a href="https://developer.paciellogroup.com/resources/contrast
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
-         <div class="views-field views-field-title">
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
       </li>
       <li class="views-row views-row-7 views-row-odd">
-         <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
-         <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
-         <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -83,7 +80,7 @@ Learn how to use <a href="https://developer.paciellogroup.com/resources/contrast
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content">Module 14: Color Contrast Analyzer</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
@@ -107,6 +104,3 @@ Learn how to use <a href="https://developer.paciellogroup.com/resources/contrast
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
-
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/test/web-software

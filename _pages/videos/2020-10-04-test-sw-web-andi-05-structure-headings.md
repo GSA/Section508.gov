@@ -1,16 +1,16 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/page-language/
+permalink: training/web-software/andi-training-videos/structure-headings/
 type: ANDI training
-title: 'Module 8: Page Language'
-created: 1601866940
+title: 'Module 5: Structure Headings'
+created: 1601856900
 redirect_from:
-- test/web-software/andi-training-videos/page-language/
+- test/web-software/andi-training-videos/structure-headings/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- federal employee (fedemp)
+- Federal employee (fedemp)
 - Website Managers/Content Managers (wcm)
 - Content Creators (creator)
 - Developers and Testers (dev-test)
@@ -18,14 +18,14 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 8: Page Language </h1>)
+[comment]: <> (<h1>Module 5: Structure Headings </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
 
-Learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-08-page-language-cc.mp4" type="video/mp4"></video>
+Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-05-structure-headings-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -51,7 +51,7 @@ Learn how to use the ANDI _Structures_ module to identify the page’s primary h
       </li>
       <li class="views-row views-row-5 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></span>
+            <span class="field-content">Module 5: Structure Headings</span>
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
@@ -64,7 +64,7 @@ Learn how to use the ANDI _Structures_ module to identify the page’s primary h
       </li>
       <li class="views-row views-row-8 views-row-even">
          <div class="views-field views-field-title">        
-<span class="field-content">Module 8: Page Language</span></div>
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
          <div class="views-field views-field-title">        
@@ -109,4 +109,3 @@ Learn how to use the ANDI _Structures_ module to identify the page’s primary h
 <p><strong>Updated:</strong> September 2020</p>
 
  [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/content/glossary#user-agent

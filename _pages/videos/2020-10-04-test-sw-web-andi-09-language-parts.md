@@ -1,12 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/structure-lists/
+permalink: training/web-software/andi-training-videos/language-parts/
 type: ANDI training
-title: 'Module 7: Structure Lists'
-created: 1601866613
+title: 'Module 9: Language of Parts'
+created: 1601867101
 redirect_from:
-- test/web-software/andi-training-videos/structure-lists/
+- test/web-software/andi-training-videos/language-parts/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
@@ -18,13 +18,13 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 7: Structure Lists </h1>)
+[comment]: <> (<h1> Module 9: Language of Parts</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-07-structure-list-cc.mp4" type="video/mp4"></video>
+Understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-09-language-parts-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -59,7 +59,7 @@ Discover how to use the ANDI _Structures_ module to inspect visually apparent li
       </li>
       <li class="views-row views-row-7 views-row-odd">
          <div class="views-field views-field-title">        
-<span class="field-content">Module 7: Structure Lists</span>  </div>
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
          <div class="views-field views-field-title">        
@@ -67,7 +67,7 @@ Discover how to use the ANDI _Structures_ module to inspect visually apparent li
       </li>
       <li class="views-row views-row-9 views-row-odd">
          <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
+<span class="field-content">Module 9: Language of Parts</span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
          <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
@@ -106,3 +106,6 @@ Discover how to use the ANDI _Structures_ module to inspect visually apparent li
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
+
+ [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+ [2]: {{site.baseurl}}/content/glossary#user-agent

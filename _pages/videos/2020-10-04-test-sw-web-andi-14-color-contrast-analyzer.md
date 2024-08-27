@@ -1,33 +1,31 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/frames/
+permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
 type: ANDI training
-title: 'Module 11: Frames'
-created: 1601868047
+title: 'Module 14: Color Contrast Analyzer'
+created: 1601869280
 redirect_from:
-- test/web-software/andi-training-videos/frames/
-topic: "Training (train)"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+- test/web-software/andi-training-videos/color-contrast-analyzer/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Public (public)"
-resource-type: "Training"
-format: "Video & Synchronized Media (video)"
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 11: Frames </h1>)
+[comment]: <> (<h1>Module 14: Color Contrast Analyzer</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-
-Learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
-
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-11-frames-cc.mp4" type="video/mp4"></video>
+Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-14-cca-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -85,7 +83,7 @@ Learn how to use the ANDI _Frames_ module to detect and verify that all [frames]
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 14: Color Contrast Analyzer</span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
@@ -110,4 +108,5 @@ Learn how to use the ANDI _Frames_ module to detect and verify that all [frames]
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#frames
+ [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+ [2]: {{site.baseurl}}/test/web-software

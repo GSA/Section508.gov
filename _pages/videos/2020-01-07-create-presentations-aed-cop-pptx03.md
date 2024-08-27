@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 Discover how to consider color and other visual characteristics, such as size, shape, and location are used to convey meaning when creating your presentation.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

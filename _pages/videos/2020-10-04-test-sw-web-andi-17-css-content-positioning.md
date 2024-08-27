@@ -1,31 +1,32 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/structure-headings/
+permalink: training/web-software/andi-training-videos/css-content-positioning/
 type: ANDI training
-title: 'Module 5: Structure Headings'
-created: 1601856900
+title: 'Module 17: CSS Content and Positioning'
+created: 1601870113
 redirect_from:
-- test/web-software/andi-training-videos/structure-headings/
+- test/web-software/andi-training-videos/css-content-positioning/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- Federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
 - Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 5: Structure Headings </h1>)
+[comment]: <> (<h1>Module 17: CSS Content and Positioning </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
 
-Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-05-structure-headings-cc.mp4" type="video/mp4"></video>
+Learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-17-css-position-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -51,7 +52,7 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
       </li>
       <li class="views-row views-row-5 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content">Module 5: Structure Headings</span>
+            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></span>
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
@@ -92,7 +93,7 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-17 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 17: CSS Content and Positioning</span>  </div>
       </li>
       <li class="views-row views-row-18 views-row-even views-row-last">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></span>  </div>
@@ -108,4 +109,4 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+ [1]: {{site.baseurl}}/content/glossary#css

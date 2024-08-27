@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 When laying out a document, it&rsquo;s sometimes necessary to structure content into columns. Learn how to use the built-in columns tool to ensure that content is read in the proper reading order.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m04.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m04-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 
