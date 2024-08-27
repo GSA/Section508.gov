@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 Discover how set up a document&rsquo;s properties, evaluate the accessibility of a document&rsquo;s content, and how to use Acrobat&rsquo;s Accessibility Full Check tool.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-pdf-m02-oc.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 

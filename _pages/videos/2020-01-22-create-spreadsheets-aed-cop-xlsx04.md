@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 Learn how to ensure that vital information, created as a watermark or placed in the Header or Footer of the slide, can be accessed by assistive technology.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m04.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m04-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

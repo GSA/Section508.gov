@@ -1,31 +1,33 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/color-contrast/
+permalink: training/web-software/andi-training-videos/andi-page-title/
 type: ANDI training
-title: 'Module 13: Color Contrast'
-created: 1601869147
+title: 'Module 10: Page Title'
+created: 1601867925
 redirect_from:
-- test/web-software/andi-training-videos/color-contrast/
-topic: Training (train)
-sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+- test/web-software/andi-training-videos/andi-page-title/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Developers and Testers (dev-test)
-- Content Creators (creator)
-- Public (public)
-resource-type: Training
-format: Video & Synchronized Media (video)
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
-[comment]: <> (<h1>Module 13: Color Contrast </h1>)
+[comment]: <> (<h1>Module 10: Page Title </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Discover how to use the ANDI _Color Contrast_ module to ensure that text has sufficient contrast with its background so that it can be read by people with moderately low vision (i.e. those who generally do not use contrast-enhancing assistive technology).
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-13-color-contrast-cc.mp4" type="video/mp4"></video>
+<div class="field-item even" property="content:encoded"><p>Discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.</p>
+</div>
+
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-10-page-title-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -71,7 +73,7 @@ Discover how to use the ANDI _Color Contrast_ module to ensure that text has suf
 <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content">Module 10: Page Title</span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -80,7 +82,7 @@ Discover how to use the ANDI _Color Contrast_ module to ensure that text has suf
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
       </li>
       <li class="views-row views-row-13 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content">Module 13: Color Contrast</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>

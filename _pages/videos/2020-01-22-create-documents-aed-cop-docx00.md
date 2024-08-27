@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Learn about the Accessible Electronic Document Community of Practice (AED CoP) and the topics covered in this video series.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m00.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m00-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Discover how to use the slide layout, themes and customized master slides to establish a logical reading order when creating your presentation.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

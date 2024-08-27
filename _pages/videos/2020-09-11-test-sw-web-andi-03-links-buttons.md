@@ -1,38 +1,37 @@
 ---
-sidenav: true 
-layout: video 
-permalink: training/web-software/andi-training-videos/overview/ 
-type: ANDI training 
-title: 'Module 1:Overview of ANDI'
-created: 1599834768
+sidenav: true
+layout: video
+permalink: training/web-software/andi-training-videos/links-buttons/
+type: ANDI training
+title: 'Module 3: Links & Buttons'
+created: 1599835706
 redirect_from:
-- test/web-software/andi-training-videos/overview/
-topic: "Training (train)"
-sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+- test/web-software/andi-training-videos/links-buttons/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- "federal employee (fedemp)"
-- "508 Program Manager (508pm)"
-- "Developers and Testers (dev-test)"
-- "Content Creators (creator)"
-- "Public (public)"
-resource-type: "Training"
-format: "Video & Synchronized Media (video)"
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1 class="page-header">Module 1: Overview of ANDI</h1>)
+[comment]: <> (<h1 class="page-header">Module 3: Links & Buttons </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
-----------------------------
+--------------------------------------
 
-Overview of the Accessible Name & Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs
-single page testing to automatically detect accessibility issues.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-01-overview-cc.mp4" type="video/mp4"></video>
+Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1] links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-03-link-buttons-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
       <li class="views-row views-row-1 views-row-odd views-row-first">
          <div class="views-field views-field-title">        
-            <span class="field-content">Module 1: Overview of ANDI</span>  
+            <span class="field-content"><a class="active" href="{{site.baseurl}}/training/web-software/andi-training-videos/overview">Module 1: Overview of ANDI</a></span>  
          </div>
       </li>
       <li class="views-row views-row-2 views-row-even">
@@ -42,7 +41,7 @@ single page testing to automatically detect accessibility issues.
       </li>
       <li class="views-row views-row-3 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons">Module 3: Links &amp; Buttons</a></span>
+            <span class="field-content">Module 3: Links &amp; Buttons</span>
          </div>
       </li>
       <li class="views-row views-row-4 views-row-even">
@@ -56,19 +55,23 @@ single page testing to automatically detect accessibility issues.
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
+         <div class="views-field views-field-title">
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
       </li>
       <li class="views-row views-row-7 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -104,3 +107,5 @@ single page testing to automatically detect accessibility issues.
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
+
+ [1]: {{site.baseurl}}/content/glossary#interactive-element

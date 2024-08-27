@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 When modifying a slide&rsquo;s layout, it may be necessary to structure content into columns. Learn how to ensure that content is read in the proper reading order by using the column tool.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m04.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m04-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

@@ -29,7 +29,7 @@ format: Video & Synchronized Media (video)
 
 Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust the reading and tab order, add alternative text to images and objects, and set document&rsquo;s language properties.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-pdf-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 

@@ -28,7 +28,7 @@ format: Video & Synchronized Media (video)
 
 Discover how to use the proofing language settings to programmatically set the document language and enable assistive technology to read and correctly pronounce content.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m06.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m06-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

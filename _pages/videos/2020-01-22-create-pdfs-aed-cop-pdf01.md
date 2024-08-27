@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Learn about the elements of a PDF and PDF tag types, where you &nbsp;can download the Accessibility PDF Checklist, how to convert documents to PDF, and how to test a PDF for accessibility.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-pdf-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 

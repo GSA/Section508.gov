@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Assistive technology cannot access information in text boxes unless they are placed &ldquo;in line with text.&rdquo; Learn how to ensure information within a text box is accessible.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m10-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

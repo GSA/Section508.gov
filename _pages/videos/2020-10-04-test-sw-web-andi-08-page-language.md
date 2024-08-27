@@ -1,12 +1,12 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/heading-levels/
+permalink: training/web-software/andi-training-videos/page-language/
 type: ANDI training
-title: 'Module 6: Heading Levels'
-created: 1601866444
+title: 'Module 8: Page Language'
+created: 1601866940
 redirect_from:
-- test/web-software/andi-training-videos/heading-levels/
+- test/web-software/andi-training-videos/page-language/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
@@ -18,14 +18,14 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 6: Heading Levels </h1>)
+[comment]: <> (<h1>Module 8: Page Language </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
 
-Understand how to use the ANDI _Structures_ module to verify that the page content contains logical heading levels and the heading levels are programmed accurately, and to provide descriptive headings for content structure.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-06-heading-levels-cc.mp4" type="video/mp4"></video>
+Learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-08-page-language-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -56,7 +56,7 @@ Understand how to use the ANDI _Structures_ module to verify that the page conte
       </li>
       <li class="views-row views-row-6 views-row-even">
          <div class="views-field views-field-title">
-<span class="field-content">Module 6: Heading Levels</span>  </div>
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
       </li>
       <li class="views-row views-row-7 views-row-odd">
          <div class="views-field views-field-title">        
@@ -64,7 +64,7 @@ Understand how to use the ANDI _Structures_ module to verify that the page conte
       </li>
       <li class="views-row views-row-8 views-row-even">
          <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
+<span class="field-content">Module 8: Page Language</span></div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
          <div class="views-field views-field-title">        
@@ -107,3 +107,6 @@ Understand how to use the ANDI _Structures_ module to verify that the page conte
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
+
+ [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+ [2]: {{site.baseurl}}/content/glossary#user-agent

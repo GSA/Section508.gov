@@ -29,7 +29,7 @@ format: "Video & Synchronized Media (video)"
 
 Discover how to use the language tool to programmatically set the presentation language to enable assistive technology to infer and correctly pronounce content.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m10-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 
