@@ -69,6 +69,7 @@ Per M-24-08, “agencies shall maintain a digital accessibility statement on fed
           <li class="margin-bottom-1">Briefly describe the formal Section 508 complaint procedures in plain language.</li>
           <li class="margin-bottom-1">Explain when someone should use the formal complaint procedures for Section 508 and when to use the public feedback mechanism. </li>
         </ul>
+        <strong>See: <a href="{{site.baseurl}}manage/laws-and-policies/Section-508-complaints-best-practices">Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process.</strong>
       </p>
     </div>
   </li>
@@ -138,6 +139,6 @@ Websites not utilizing the USWDS’s Identifier component should ensure a link t
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3-statement">Figure 3: Example of an accessibility statement using the link text “Website Policies & Notices” among other links such as Privacy Policy, FOIA, No Fear Act and Contact Us.</span></div>
 </div>
 
-**Reviewed/Updated:** April 2024
+**Reviewed/Updated:** August 2024
 
 [1]: https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/
