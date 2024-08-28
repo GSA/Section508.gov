@@ -523,37 +523,39 @@ create:
         url: 'create/documents/'
       - name: Authoring Guides
         url: create/documents/authoring-guides/
-      - name: Video Training
-        url: 'create/documents/training-videos/'
       - name: Tips and Tricks
         url: 'create/documents/#tips'
+      - name: Video Training
+        url: 'create/documents/training-videos/'
   - name: Create a Presentation
     url: '#'
     children:
       - name: Authoring Guides
         url: create/presentations/authoring-guides/
-      - name: Video Training
-        url: create/presentations/training-videos/
       - name: Tips and Tricks
         url: create/presentations/
+      - name: Video Training
+        url: create/presentations/training-videos/
   - name: Create a Spreadsheet
     url: '#'
     children:
       - name: Authoring Guides
         url: create/spreadsheets/authoring-guides/
-      - name: Video Training
-        url: create/spreadsheets/training-videos/
       - name: Tips and Tricks
         url: create/spreadsheets/
+      - name: Video Training
+        url: create/spreadsheets/training-videos/
   - name: Create a PDF
     url: '#'
     children:
       - name: Authoring Guides
         url: create/pdfs/authoring-guides/
-      - name: Video Training
-        url: create/pdfs/training-videos/
+      - name: Tags and Their Usage
+        url: create/pdfs/common-tags-and-usage/
       - name: Tips and Tricks
         url: create/pdfs/
+      - name: Video Training
+        url: create/pdfs/training-videos/
   - name: Audio & Video
     url: '#'
     children:
