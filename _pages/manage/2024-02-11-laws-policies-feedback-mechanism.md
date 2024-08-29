@@ -4,7 +4,16 @@ sidenav: true
 permalink: manage/laws-and-policies/implementing-public-feedback-mechanism/
 type: manage
 title: 'Implementing a Public Feedback Mechanism'
-
+topic: "Manage (program)"
+sub-topic: "Manage a 508 Program"
+audience:
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Chief Information Officer (cio)"
+- "Agency Head (head)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Use the best practices below to successfully implement a feedback mechanism to collect, track, and resolve digital accessibility issues.

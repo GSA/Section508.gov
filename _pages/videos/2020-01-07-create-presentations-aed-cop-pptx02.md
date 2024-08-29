@@ -7,6 +7,16 @@ title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Suf
 created: 1578419471
 redirect_from:
  - create/presentations/aed-cop-pptx02/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient)
@@ -19,7 +29,7 @@ redirect_from:
 
 When choosing the color palette for your slide&rsquo;s design, close attention must be given to ensuring that there is enough color contrast between foreground and background.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m02-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

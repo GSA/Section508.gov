@@ -5,6 +5,16 @@ permalink: training/presentations-workshops/2018-interagency-accessibility-forum
 type: page
 title: '2018 Interagency Accessibility Forum'
 created: 1537561274
+topic: "Events (events)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "Federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+- "Designer (design)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 <p dir="ltr">

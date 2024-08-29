@@ -7,6 +7,16 @@ title: 'Module 3: Ensuring Color and Other Visual Characteristics are Also Descr
 created: 1579723678
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx03/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to use visual characteristics, such as color, size, shape, and location to convey meaning when creating your worksheet.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

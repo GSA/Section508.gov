@@ -7,6 +7,16 @@ title: 'Module 3: Ensuring Color and Other Visual Characteristics that Convey In
 created: 1578419581
 redirect_from:
  - create/presentations/aed-cop-pptx03/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to consider color and other visual characteristics, such as size, shape, and location are used to convey meaning when creating your presentation.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

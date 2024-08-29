@@ -1,23 +1,31 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/andi-page-title/
+permalink: training/web-software/andi-training-videos/structure-headings/
 type: ANDI training
-title: 'Module 10: Page Title'
-created: 1601867925
+title: 'Module 5: Structure Headings'
+created: 1601856900
 redirect_from:
-- test/web-software/andi-training-videos/andi-page-title/
+- test/web-software/andi-training-videos/structure-headings/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- Federal employee (fedemp)
+- Website Managers/Content Managers (wcm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 10: Page Title </h1>)
+[comment]: <> (<h1>Module 5: Structure Headings </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-<div class="field-item even" property="content:encoded"><p>Discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.</p>
-</div>
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-10-page-title-cc.mp4" type="video/mp4"></video>
+Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-05-structure-headings-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -43,7 +51,7 @@ redirect_from:
       </li>
       <li class="views-row views-row-5 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></span>
+            <span class="field-content">Module 5: Structure Headings</span>
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
@@ -63,7 +71,7 @@ redirect_from:
 <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title"><span class="field-content">Module 10: Page Title</span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -99,3 +107,5 @@ redirect_from:
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
+
+ [1]: {{site.baseurl}}/content/glossary#programmatically-determinable

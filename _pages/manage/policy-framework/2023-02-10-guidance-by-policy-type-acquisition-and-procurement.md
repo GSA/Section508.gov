@@ -5,6 +5,16 @@ permalink: manage/policy-framework/guidance-by-policy-type/acquisition-and-procu
 type: manage
 title: "IT Accessibility Policy Framework - Acquisition and Procurement"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Acquisition (acq)"
+- "Manager/Exec (exec)"
+- "Federal employee (fedemp)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">
@@ -46,10 +56,10 @@ The policy type Acquisition and Procurement refers to policies that apply to the
 
 <ul class="footnote">
   <li>
-      <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a><a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup></sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017). (1998).</a>
+      <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a><a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup></sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017). (1998).</a>
   </li>
   <li>
-    <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>2</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a><a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup></sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+    <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>2</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).;</a><a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup></sup> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
   </li>
   <li>
     <a class="hover-large nolink"><sup>3</sup>Equal Opportunity for Workers with Disabilities, 48 C.F.R. § 52.222-36 (2020).</a>

@@ -5,6 +5,15 @@ permalink: manage/policy-framework/resources-and-references/useful-links/
 type: manage
 title: "IT Accessibility Policy Framework - Useful Links"
 created: December 09, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">
@@ -29,7 +38,7 @@ created: December 09, 2023
     <li><a href="https://www.govinfo.gov/content/pkg/PPP-2007-book1/pdf/PPP-2007-book1-doc-pg547.pdf">National Continuity Policy</a>, which establishes policy on COOP and PMEFs</li>
     <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf">Open Data Policy-Managing Information as an Asset</a> (OMB M-13-13)</li>
     <li><a href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf">Preparation, Submission, and Execution of the Budget</a> (Circular A-11)</li>
-    <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">Section 508 of the Rehabilitation Act of 1973, as amended</a></li>
+    <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act of 1973, as amended</a></li>
     <li><a href="https://www.fiscal.treasury.gov/ussgl/">USSGL homepage</a></li>
 </ul>
 <h3 class="subheading">

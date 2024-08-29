@@ -7,6 +7,16 @@ title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Suf
 created: 1579723645
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx02/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient)
@@ -19,7 +29,7 @@ redirect_from:
 
 When choosing the color palette for your slide designs, close attention must be given to ensure there is a strong color contrast between the foreground and background. See examples of good and bad color contrast, and the how to use tools to determine if your spreadsheet has sufficient contrast.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m02.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m02-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

@@ -7,6 +7,16 @@ title: 'Module 0: Introduction & Background'
 created: 1578418855
 redirect_from:
    - create/presentations/aed-cop-pptx00/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 0: Introduction & Background)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn the minimum steps needed to ensure your powerpoint presentation is Section 508 conformant.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-ppt-m00.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m00-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

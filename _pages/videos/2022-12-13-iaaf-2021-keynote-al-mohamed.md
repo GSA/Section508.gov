@@ -5,6 +5,16 @@ permalink: training/presentations-workshops/keynote-day-al-mohamed/
 type: training
 title: IAAF 2021 Keynote Address — Day Al Mohamed
 created: 1578606586
+topic: "Events (events)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
 

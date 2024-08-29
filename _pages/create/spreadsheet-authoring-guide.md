@@ -4,6 +4,16 @@ sidenav: true
 permalink: create/spreadsheets/authoring-guides/
 type: create
 title: 'Spreadsheets Authoring Guides'
+topic: Content creation (create)
+sub-topic: Spreadsheets
+audience:
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: Document (docx)
 ---
 
 ## Microsoft Excel 2016

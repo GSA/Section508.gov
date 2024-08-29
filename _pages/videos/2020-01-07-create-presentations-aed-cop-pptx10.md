@@ -7,6 +7,16 @@ title: 'Module 10: Formatting Text for the Intended Language'
 created: 1578419985
 redirect_from:
  - create/presentations/aed-cop-pptx10/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 10: Formatting Text for the Intended Language)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to use the language tool to programmatically set the presentation language to enable assistive technology to infer and correctly pronounce content.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m10-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

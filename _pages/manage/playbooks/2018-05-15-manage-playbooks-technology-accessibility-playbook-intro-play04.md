@@ -6,6 +6,16 @@ title: 'Play 4: Establish a Section 508 Policy'
 created: 1526408633
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play04/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 The cornerstone of an accessibility program is an agency-wide Section 508 policy. The policy must identify how the agency will manage accessibility compliance through technology acquisition, development, authoring, configuration, deployment, and maintenance activities. The policy must define clear roles and responsibilities. The policy must clarify the authorities and shared responsibility with other agency stakeholders for implementing Section 508 across the agency.

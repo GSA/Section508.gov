@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/observations/
 type: report2023
 title: "Observations and Acknowledgements"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 GSA, the Access Board, and OMB provided multiple channels to provide feedback on Assessment criteria and the annual Assessment as a whole. Below are noted observations and commentary based on feedback provided.
 

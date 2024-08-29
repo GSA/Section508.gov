@@ -5,6 +5,16 @@ permalink: manage/improve-digital-dashboard-scores/
 type: manage
 title: "How to Improve Digital Dashboard Accessibility Scores"
 created: 1603390069
+topic: "Manage (program)"
+sub-topic: "Manage a 508 Program"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Chief Information Officer (cio)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 In order to improve your agency&rsquo;s website accessibility scores within the Digital Dashboard tool, we must understand why we test, how tests are conducted, and the limitations of automated testing. The below guidance is intended to assist with improving website scores on the Digital Dashboard Accessibility module. For other Digital Dashboard questions, please visit the [frequently asked questions][1] on [DigitalDashboard.gov][2].

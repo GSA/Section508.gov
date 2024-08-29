@@ -1,22 +1,33 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/page-language/
+permalink: training/web-software/andi-training-videos/andi-page-title/
 type: ANDI training
-title: 'Module 8: Page Language'
-created: 1601866940
+title: 'Module 10: Page Title'
+created: 1601867925
 redirect_from:
-- test/web-software/andi-training-videos/page-language/
+- test/web-software/andi-training-videos/andi-page-title/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
-[comment]: <> (<h1>Module 8: Page Language </h1>)
+[comment]: <> (<h1>Module 10: Page Title </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
+<div class="field-item even" property="content:encoded"><p>Discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.</p>
+</div>
 
-Learn how to use the ANDI _Structures_ module to identify the page’s primary human language and ensure it is [programmatically identified][1] to ensure that content developers provide information in the web page that [user agents][2] (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-08-page-language-cc.mp4" type="video/mp4"></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-10-page-title-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -55,14 +66,14 @@ Learn how to use the ANDI _Structures_ module to identify the page’s primary h
       </li>
       <li class="views-row views-row-8 views-row-even">
          <div class="views-field views-field-title">        
-<span class="field-content">Module 8: Page Language</span></div>
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
          <div class="views-field views-field-title">        
 <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content">Module 10: Page Title</span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -98,6 +109,3 @@ Learn how to use the ANDI _Structures_ module to identify the page’s primary h
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
-
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/content/glossary#user-agent

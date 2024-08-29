@@ -7,6 +7,14 @@ title: 'Website Policies'
 created: 1525801797
 redirect_from: 
 - copyright/
+topic: About the program/site (about)
+sub-topic: General Info and Best Practices
+audience:
+- Public (public)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 This page explains website policies, procedures, and required links for the Section508.gov website.

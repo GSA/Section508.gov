@@ -4,6 +4,16 @@ permalink: manage/laws-and-policies/far-update-comparison/
 type: manage
 title: 'Tabular Comparison of the Previous FAR Text Against the 2021 Update'
 created: September 22, 2020
+topic: Law (law)
+sub-topic: Accessibility Law & Policy
+audience:
+- 508 Program Manager (508pm)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Contracting Officer’s Representative (cor)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 <p>On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for Information and Communication Technology (ICT). The final rule went into effect on January 18, 2018.</p>

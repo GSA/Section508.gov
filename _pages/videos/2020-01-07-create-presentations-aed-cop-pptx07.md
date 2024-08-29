@@ -7,6 +7,15 @@ title: 'Module 7: Adding Alternative Text to Images and Other Objects'
 created: 1578419831
 redirect_from:
  - create/presentations/aed-cop-pptx07/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 7: Adding Alternative Text to Images and Other Objects)
@@ -19,7 +28,7 @@ redirect_from:
 
 Assistive Technology cannot infer meaning from images and other objects, such as pictures, images of text, images of tables, shapes, and icons with hyperlinks. Learn how to apply &ldquo;alt text&rdquo; to objects to ensure equivalent access the information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m07.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m07-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

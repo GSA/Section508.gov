@@ -5,6 +5,16 @@ permalink: buy/understand-claims/
 type: acquisition
 title: 'Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance'
 created: 2023-09-27
+topic: Acquisition/Buy (buy)
+sub-topic: VPAT/ACR Production & Eval
+audience:
+- Acquisition (acq)
+- 508 Program Manager (508pm)
+- Contracting Officer’s Representative (cor)
+- Chief Acquisition Officer (cao)
+- Contracting Officer (cor)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)](https://www.section508.gov/sell/vpat/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's conformance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.

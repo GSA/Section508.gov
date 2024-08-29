@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/gsa-efforts-recent/
 type: report2023
 title: "Recent and Upcoming GSA Efforts to Improve Section 508 Compliance: Recent GSA Efforts to Support Section 508 Compliance"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 ## Recent GSA Efforts to Support Section 508 Compliance
 To meet the requirements of the Consolidated Appropriations Act, 2023, the following describes GSA’s efforts to help entities collect and submit their Assessment data and other related efforts to improve federal Section 508 compliance from December 29, 2022 up to date of publication.

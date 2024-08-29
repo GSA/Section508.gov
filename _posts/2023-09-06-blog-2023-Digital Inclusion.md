@@ -6,6 +6,13 @@ title: 'Fostering Digital Inclusion in the Federal Workplace: How Persons with D
 created: September 06, 2023
 tags: Policy-and-Management
 description: Detailed and heavily researched content article that details how persons with disabilities use ICT and the impacts on federal employees of conformance or non-conformance to ICT standards for those employees with disabilties.
+topic: "Manage (program)"
+sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 Persons with disabilities (PWD) face many barriers to accessing various types of [information and communication technologies](https://www.un.org/development/desa/dspd/2021/02/digital-technologies-for-social-inclusion/). The Americans with Disabilities Act (ADA) [defines a person with a disability](https://adata.org/faq/what-definition-disability-under-ada) as a person who has a physical or mental impairment that substantially limits one or more major life activity. Assistive technologies can help many individuals with different types of disabilities access ICT. However, assistive technologies often also rely on technologies to follow code specifications, best practices and conformance to accessibility standards to work effectively for PWD. Developing accessible ICT to support inclusive environments for individuals with disabilities [can be accomplished in a variety of ways](https://www.itu.int/en/action/accessibility/Documents/Pink_Report_Nov2013.pdf), including computer-based and web-based accessibility applications such as screen readers, speech recognition, video communication (for sign language communication and video relay interpretation), voice to text services (such as open and closed captioning), and visual assistance. Accessible ICT can play a major role in the [personal development and empowerment of PWD](https://www.itu.int/en/action/accessibility/Pages/hlmdd2013.aspx), in addition to being an institutional framework for inclusive development.

@@ -5,6 +5,15 @@ permalink: manage/policy-framework/guidance-by-policy-type/administrative-servic
 type: manage
 title: "IT Accessibility Policy Framework - Administrative Services"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">
@@ -49,16 +58,16 @@ The policy type Administrative Services refers to policies that apply to the pla
       <a class="hover-large nolink"><sup>1</sup>Policy subtypes within Administrative Services that may not be relevant for your agency include Acquisition and Procurement Services, Credit Card Management, General Supplies and Services, Parking Facility Management and Mail Management, and Transportation.</a>
     </li>
     <li>
-      <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>2</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>;<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
+      <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>2</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>;<a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"> ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
     </li>
     <li>
       <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>3</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
     </li>
     <li>
-      <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>4</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+      <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>4</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
     </li>
     <li>
-      <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>5</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+      <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>5</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
     </li>
     <li>
       <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>6</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>

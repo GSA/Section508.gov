@@ -5,6 +5,16 @@ permalink: manage/policy-framework/guidance-by-policy-type/information-technolog
 type: manage
 title: "IT Accessibility Policy Framework - Information Technology Services"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Manager/Exec (exec)"
+- "Federal employee (fedemp)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 id="standards">
   Information Technology Services
@@ -62,7 +72,7 @@ The policy type Information Technology Services refers to policies that apply to
     <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2001-title40/html/USCODE-2001-title40-chap25-sec1401.htm"><sup>6</sup>Clinger Cohen Act of 1996, 40 U.S.C. § 1401 et seq. (1996).; </a><a class="hover-large" href="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf"><sup></sup> Executive Office of the President, Office of Management and Budget. (2022, August). Preparation, Submission, and Execution of the Budget (Circular A-11). </a>
   </li>
   <li>
-    <a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>7</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+    <a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>7</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
   </li>
   <li>
     <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>8</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>

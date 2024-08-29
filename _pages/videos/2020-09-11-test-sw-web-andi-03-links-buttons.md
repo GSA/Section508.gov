@@ -1,25 +1,31 @@
 ---
- sidenav: true
- layout: video
- permalink: training/web-software/andi-training-videos/focus-element/
- type: ANDI training
- title: 'Module 2: Focus Element'
- created: 1599835452 
- redirect_from:
- - test/web-software/andi-training-videos/focus-element/
+sidenav: true
+layout: video
+permalink: training/web-software/andi-training-videos/links-buttons/
+type: ANDI training
+title: 'Module 3: Links & Buttons'
+created: 1599835706
+redirect_from:
+- test/web-software/andi-training-videos/links-buttons/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 2: Focus Element</h1>)
+[comment]: <> (<h1 class="page-header">Module 3: Links & Buttons </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
+--------------------------------------
 
-------------------
-
-Learn how to use the ANDI Focusable Elements modules to analyze all focusable [interactive elements][1] with keyboard access and visual focus.<br />
-Note: This ANDI module is not used to test visual focus.
-
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-02-focusable-element-cc.mp4" type="video/mp4"></video>
-
+Understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1] links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-03-link-buttons-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -30,12 +36,12 @@ Note: This ANDI module is not used to test visual focus.
       </li>
       <li class="views-row views-row-2 views-row-even">
          <div class="views-field views-field-title">
-            <span class="field-content">Module 2: Focus Element</span>
+            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/focus-element">Module 2: Focus Element</a></span>
          </div>
       </li>
       <li class="views-row views-row-3 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons">Module 3: Links &amp; Buttons</a></span>
+            <span class="field-content">Module 3: Links &amp; Buttons</span>
          </div>
       </li>
       <li class="views-row views-row-4 views-row-even">
@@ -49,19 +55,23 @@ Note: This ANDI module is not used to test visual focus.
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
+         <div class="views-field views-field-title">
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></span>  </div>
       </li>
       <li class="views-row views-row-7 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></span>  </div>
       </li>
       <li class="views-row views-row-9 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
+         <div class="views-field views-field-title">        
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
+         <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
       </li>
       <li class="views-row views-row-11 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
@@ -98,4 +108,4 @@ Note: This ANDI module is not used to test visual focus.
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
-[1]: {{site.baseurl}}/content/glossary#interactive-element
+ [1]: {{site.baseurl}}/content/glossary#interactive-element

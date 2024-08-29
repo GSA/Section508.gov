@@ -5,6 +5,14 @@ permalink: create/presentations/
 type: create
 title: 'Create Accessible Presentations'
 created: 1526359269
+topic: "Content creation (create)"
+sub-topic: "Presentations"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 How to create accessible Microsoft PowerPoint presentations.

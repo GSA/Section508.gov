@@ -7,6 +7,16 @@ title: 'Module 1: What is a PDF?'
 created: 1579721808
 redirect_from:
 - create/pdfs/aed-cop-pdf01/
+topic: "Training (train)"
+sub-topic: "PDFs"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 1: What is a PDF?)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn about the elements of a PDF and PDF tag types, where you &nbsp;can download the Accessibility PDF Checklist, how to convert documents to PDF, and how to test a PDF for accessibility.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-pdf-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 

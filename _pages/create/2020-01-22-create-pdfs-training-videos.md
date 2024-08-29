@@ -5,6 +5,16 @@ permalink: create/pdfs/training-videos/
 type: create
 title: 'PDF Training Videos'
 created: 1579721731
+topic: Content creation (create)
+sub-topic: PDFs
+audience:
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- 508 Program Manager (508pm)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 # How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC

@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/
 type: report2023
 title: "Appendix B: Federal Initiatives and Resources on ICT Accessibility"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 Important governmentwide initiatives and resources have developed out of the legislative and executive branches’ efforts to advance ICT accessibility in the federal government.<sup><a href="#fn37" id="fr37">37</a></sup> While OMB, GSA, Access Board, and DHS have led many of these efforts, the governmentwide relevance of ICT accessibility has drawn in many agencies to further the cause. These efforts are detailed below:
 

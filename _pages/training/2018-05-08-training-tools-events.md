@@ -5,6 +5,14 @@ permalink: training/
 type: training
 title: 'Accessibility Training, Tools, and Events'
 created: 1525805876
+topic: Training (train)
+sub-topic: N/A
+audience:
+- Public (public)
+- Federal employee (fedemp)
+- 508 Program Manager (508pm)
+resource-type: Training
+format: HTML (html)
 ---
 
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.

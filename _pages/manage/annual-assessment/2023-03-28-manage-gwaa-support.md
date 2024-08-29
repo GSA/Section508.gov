@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/support/
 type: manage
 title: "Government-wide Section 508 Assessment Support"
+topic: "Manage (program)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Federal employee (fedemp)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 The Office of Management and Budget (OMB), General Services Administration (GSA) and the U.S. Access Board (USAB) have created a number of resources for agencies to use when preparing to submit their Section 508 assessment.
 

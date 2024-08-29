@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-a-terms/
 type: report2023
 title: "Appendix A: Terms and Definitions"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 The following terms are used in this 2023 Assessment report to Congress. Additional terms and definitions used within instructions and criteria are available at [Section 508 Assessment Definition of Terms]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
 

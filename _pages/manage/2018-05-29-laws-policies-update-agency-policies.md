@@ -5,6 +5,16 @@ permalink: manage/laws-and-policies/update-agency-policies/
 type: manage
 title: 'Update Agency Accessibility Policies'
 created: 1527607206
+topic: Law (law)
+sub-topic: Accessibility Law & Policy
+audience:
+- 508 Program Manager (508pm)
+- Lawmakers and Policy Officials (law-policy)
+- Chief Information Officer (cio)
+- Agency Head (head)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 The transition from the Original 508 Standards to the Revised 508 Standards is an opportunity for agencies to revisit and update your Section 508, 501, and 504 policies. Policies on how your agency implements each Section of the Rehabilitation Act should be closely aligned, to clarify responsibilities and determine how to respond to claims of discrimination on the basis of disability.

@@ -6,6 +6,16 @@ title: "Universal Design: What's in it for Me?"
 created: 1513821339
 tags: Design-and-Develop
 description: Part two of a two-part series about Universal Design
+topic: Design (design)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 _Part two of a two-part series about Universal Design_

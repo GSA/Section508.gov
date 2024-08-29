@@ -7,6 +7,15 @@ title: 'Module 5: Use Built-in Features to Create Layout and Data Tables'
 created: 1579720924
 redirect_from:
  - create/documents/aed-cop-docx05/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# **Module 5: Use Built-in Features to Create Layout and Data Tables**)
@@ -19,7 +28,7 @@ redirect_from:
 
 Learn how to use built-in features to create layout tables and both simple and complex data tables so assistive technology can read the information in a meaningful manner.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m05.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m05-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

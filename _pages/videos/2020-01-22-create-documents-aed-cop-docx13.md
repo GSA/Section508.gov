@@ -7,6 +7,16 @@ title: 'Module 13: Create Accessible Embedded Files'
 created: 1579721355
 redirect_from:
  - create/documents/aed-cop-docx13/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 13: Create Accessible Embedded Files)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn how to embed audio-only, video-only or multimedia files into your document so individuals with disabilities have comparable access to the information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m13.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m13-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

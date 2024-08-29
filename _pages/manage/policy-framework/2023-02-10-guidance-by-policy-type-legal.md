@@ -5,6 +5,15 @@ permalink: manage/policy-framework/guidance-by-policy-type/legal/
 type: manage
 title: "IT Accessibility Policy Framework - Legal"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">

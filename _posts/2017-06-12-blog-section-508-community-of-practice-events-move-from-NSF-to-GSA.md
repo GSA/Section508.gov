@@ -6,6 +6,12 @@ title: 'Section 508 Community of Practice Events Move from NSF to GSA'
 created: 1497273858
 tags: Events
 description: On Thursday, August 10, 2017, the Section 508 Community of Practice (CoP) held its final meeting at the National Science Foundation (NSF) in Arlington, VA. After six years, the NSF is moving to a new location, so future CoP events will be held at the General Services Administration at 1800 F Street NW in Washington, DC.
+topic: Events (events)
+sub-topic: N/A
+audience:
+- 508 Program Manager (508pm)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 On Thursday, August 10, 2017, the Section 508 Community of Practice (CoP) held its final meeting at the National Science Foundation (NSF) in Arlington, VA. After six years, the NSF is moving to a new location, so future CoP events will be held at the General Services Administration at 1800 F Street NW in Washington, DC.

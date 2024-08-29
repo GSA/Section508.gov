@@ -1,22 +1,31 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/iframes/
+permalink: training/web-software/andi-training-videos/live-regions/
 type: ANDI training
-title: 'Module 12: iFrames'
-created: 1601868640
+title: 'Module 18: Live Regions'
+created: 1601870389
 redirect_from:
-- test/web-software/andi-training-videos/iframes/
+- test/web-software/andi-training-videos/live-regions/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 12: iFrames </h1>)
+[comment]: <> (<h1>Module 18: Live Regions </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-
-Understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-12-iframes-cc.mp4" type="video/mp4"></video>
+Understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-18-live-regions-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -68,7 +77,7 @@ Understand how to use the ANDI _iframes_ module to verify that all [iframes][1] 
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></span>  </div>
       </li>
       <li class="views-row views-row-12 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content">Module 12: iFrames</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
       </li>
       <li class="views-row views-row-13 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
@@ -86,17 +95,9 @@ Understand how to use the ANDI _iframes_ module to verify that all [iframes][1] 
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></span>  </div>
       </li>
       <li class="views-row views-row-18 views-row-even views-row-last">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 18: Live Regions</span>  </div>
       </li>
    </ul>
 </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-<p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#iframe
+ [1]: {{site.baseurl}}/content/glossary#user-agent

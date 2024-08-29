@@ -5,6 +5,15 @@ permalink: manage/policy-framework/guidance-by-policy-type/budget-and-finance/
 type: manage
 title: "IT Accessibility Policy Framework - Budget and Finance"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">
@@ -48,7 +57,7 @@ The Budget and Finance policy type refers to policies pertaining to planning, pr
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>3</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>4</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+<a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>4</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>5</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>

@@ -5,6 +5,15 @@ permalink: manage/policy-framework/resources-and-references/policy-review-templa
 type: manage
 title: "IT Accessibility Policy Framework - Policy Review Template"
 created: December 10, 2023
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 id="standards">
   Policy Review Template

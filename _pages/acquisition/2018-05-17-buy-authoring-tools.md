@@ -8,6 +8,16 @@ created: 2018-05-17
 updated: 2024-05-30
 redirect_from:
 - create/authoring-tools/
+topic: "Acquisition/Buy (buy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "508 Program Manager (508pm)"
+- "Acquisition (acq)"
+- "Chief Acquisition Officer (cao)"
+- "508 Program Manager (508pm)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Law & Policy (law-policy)"
+format: "HTML (html)"
 ---
 
 The [Revised 508 Standards][1] include new requirements for authoring tools. From the definitions section (E103.4) of the Revised 508 Standards:

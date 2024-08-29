@@ -5,6 +5,14 @@ permalink: content/requiring-business-partners-provide-accessible-documents/
 type: page
 title: 'Requiring Business Partners to Provide Accessible Documents'
 created: 1557380938
+topic: Content creation (create)
+sub-topic: Documents
+audience:
+- Contracting Officer’s Representative (cor)
+- Requiring Officials (ro)
+- Vendor (vendor)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 Do you work for an agency that provides services through grantees or other partner organizations? If those partner organizations provide documents that will be posted to your agency's website, how do you ensure that the content they provide is accessible?

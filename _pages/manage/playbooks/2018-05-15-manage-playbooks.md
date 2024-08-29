@@ -7,6 +7,16 @@ title: 'Playbooks'
 created: 1526407922
 redirect_from:
 - tools/playbooks/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 Guidance to help federal agencies improve management and delivery of accessible information and communication technology (ICT).

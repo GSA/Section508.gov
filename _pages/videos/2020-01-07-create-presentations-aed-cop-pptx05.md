@@ -7,6 +7,16 @@ title: 'Module 5: Formatting Lists Properly'
 created: 1578419714
 redirect_from:
  - create/presentations/aed-cop-pptx05/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 5: Formatting Lists Properly)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to use lists to organize and structure content so that assistive technology can identify that information is contained in a group, and convey the relationship between each item within the list.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m05.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m05-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

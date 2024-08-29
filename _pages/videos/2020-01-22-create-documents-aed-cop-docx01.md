@@ -7,6 +7,16 @@ title: 'Module 1: Save as a Word Document (.docx) with a Descriptive Filename'
 created: 1579720714
 redirect_from:
 - create/documents/aed-cop-docx01/
+topic: "Training (train)"
+sub-topic: "Documents"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 1: **Save as a Word Document &#40;.docx&#41; with a Descriptive Filename**)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how a descriptive file name that identifies the document or its purpose helps everyone, including people with disabilities, locate, open, and switch between documents.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

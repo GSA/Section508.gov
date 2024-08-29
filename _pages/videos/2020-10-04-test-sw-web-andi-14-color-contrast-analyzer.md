@@ -1,21 +1,31 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/anditraining-videos/data-tables/
+permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
 type: ANDI training
-title: 'Module 15: Data Tables'
-created: 1601869602
+title: 'Module 14: Color Contrast Analyzer'
+created: 1601869280
 redirect_from:
-- test/web-software/andi-training-videos/data-tables/
+- test/web-software/andi-training-videos/color-contrast-analyzer/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 15: Data tables </h1>)
+[comment]: <> (<h1>Module 14: Color Contrast Analyzer</h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Understand how to use the ANDI _Tables_ module to inspect [data tables][1] for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-15-data-tables-cc.mp4" type="video/mp4"></video>
+Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-14-cca-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -73,10 +83,10 @@ Understand how to use the ANDI _Tables_ module to inspect [data tables][1] for a
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 14: Color Contrast Analyzer</span>  </div>
       </li>
       <li class="views-row views-row-15 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content">Module 15: Data Tables</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
@@ -98,4 +108,5 @@ Understand how to use the ANDI _Tables_ module to inspect [data tables][1] for a
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#data-table
+ [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+ [2]: {{site.baseurl}}/test/web-software

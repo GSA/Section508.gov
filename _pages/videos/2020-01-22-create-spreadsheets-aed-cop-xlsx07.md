@@ -7,6 +7,15 @@ title: 'Module 7: Creating Links with Unique and Descriptive Names'
 created: 1579723939
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx07/
+topic: Training (train)
+sub-topic: Spreadsheets
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 7: Creating Links with Unique and Descriptive Names)
@@ -19,7 +28,7 @@ redirect_from:
 
 Learn how to add links to a worksheet so that each link has a unique and descriptive name that allows assistive technology users to determine the destination, function, or purpose of links.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m07.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m07-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

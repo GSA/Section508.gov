@@ -23,7 +23,7 @@
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-    background-image: url("https://assets.section508.gov/files/images/hero-gwaa.jpg")
+    background-image: url("https://assets.section508.gov/files/images/hero-bytes-4.jpg")
     //  background-position: 50%;
     //  background-size: cover;
 }
@@ -469,7 +469,7 @@ div[role=rowheader] {
 @media (min-width: 40em) {
   .usa-hero__callout {
     //original max-width was 24rem
-    max-width: 29rem;
+    max-width: 31rem;
   }
 
   .topics {
@@ -1509,4 +1509,22 @@ div[role=rowheader] {
     .margin-top-neg{
         margin-top:-8px;
     }
+}
+
+/* use for dark box w/yellow mono text */
+.code-box {
+  border: 1px solid;
+  border-color: #71767a;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  .code-box-text {
+    font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+    color: #fee685;
+    font-size: 0.95rem;
+  }
+}
+.code-text {
+  font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+  color: #454545;
+  font-size: 0.95rem;
 }

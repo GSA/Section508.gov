@@ -6,6 +6,13 @@ type: manage
 title: 'Developing a Website Accessibility Statement'
 created: 
 modified: 2024-04-19
+topic: "Content creation (create)"
+sub-topic: "Various Electronic Content (i.e. Multiple)"
+audience:
+- "Agency Head (head)"
+- "508 Program Manager (508pm)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 The Office of Management and Budget (OMB) memorandum on [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)][1] requires federal agencies to maintain an accessibility statement on their websites.

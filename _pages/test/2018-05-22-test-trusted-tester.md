@@ -6,6 +6,16 @@ type: test
 title: 'Trusted Tester and ICT Testing Baseline'
 created: 1527031851
 contributors: usab
+topic: Testing (test)
+sub-topic: Websites
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Chief Information Officer (cio)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 ## ICT Testing Baseline

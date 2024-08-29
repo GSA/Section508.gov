@@ -8,6 +8,15 @@ created: December 09, 2023
 redirect_from:
 - manage/policy-framework/
 - policy-framework/
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Lawmakers and Policy Officials (law-policy)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+- "Manager/Exec (exec)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <h2 id="standards">
@@ -27,7 +36,7 @@ As evidenced by the agency-wide policy analysis conducted by the GSA OGP Governm
 
 The IT Accessibility Policy Framework provides agencies with guidance on how to holistically assess their internal policies against criteria, and how to remediate them to integrate ICT accessibility language. The framework also establishes standard review criteria and policy categories in order to harmonize the disparate policy evaluation methods across the federal government.
 
-<a class="hover-large" href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
+<a class="hover-large" href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/"><sup>1</sup>Section 508 of the Rehabilitation Act of 1973, 29 U.S.C.§ 794d (1998).</a>
 <br>
 <a class="hover-large" href="https://www.access-board.gov/ict/ict-final-rule.pdf"><sup>2</sup>ICT Standards and Guidelines, 36 C.F.R. § 1194 (2017).</a>
 <br>

@@ -1,21 +1,31 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/language-parts/
+permalink: training/web-software/andi-training-videos/layout-tables/
 type: ANDI training
-title: 'Module 9: Language of Parts'
-created: 1601867101
+title: 'Module 16: Layout Tables'
+created: 1601869941
 redirect_from:
-- test/web-software/andi-training-videos/language-parts/
+- test/web-software/andi-training-videos/layout-tables/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1> Module 9: Language of Parts</h1>)
+[comment]: <> (<h1>Module 16: Layout Tables </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-09-language-parts-cc.mp4" type="video/mp4"></video>
+Discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-16-layout-tabes-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -58,7 +68,7 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
       </li>
       <li class="views-row views-row-9 views-row-odd">
          <div class="views-field views-field-title">        
-<span class="field-content">Module 9: Language of Parts</span>  </div>
+<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></span>  </div>
       </li>
       <li class="views-row views-row-10 views-row-even">
          <div class="views-field views-field-title"><span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></span>  </div>
@@ -79,7 +89,7 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></span>  </div>
       </li>
       <li class="views-row views-row-16 views-row-even">
-         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content">Module 16: Layout Tables</span>  </div>
       </li>
       <li class="views-row views-row-17 views-row-odd">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></span>  </div>
@@ -98,5 +108,4 @@ Understand how to use the ANDI _Structures_ module to ensure that all written co
 </div>
 <p><strong>Updated:</strong> September 2020</p>
 
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/content/glossary#user-agent
+ [1]: {{site.baseurl}}/content/glossary#layout-table

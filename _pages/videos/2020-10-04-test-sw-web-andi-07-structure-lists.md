@@ -1,22 +1,30 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/structure-headings/
+permalink: training/web-software/andi-training-videos/structure-lists/
 type: ANDI training
-title: 'Module 5: Structure Headings'
-created: 1601856900
+title: 'Module 7: Structure Lists'
+created: 1601866613
 redirect_from:
-- test/web-software/andi-training-videos/structure-headings/
+- test/web-software/andi-training-videos/structure-lists/
+topic: Training (train)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- federal employee (fedemp)
+- Website Managers/Content Managers (wcm)
+- Content Creators (creator)
+- Developers and Testers (dev-test)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 5: Structure Headings </h1>)
+[comment]: <> (<h1>Module 7: Structure Lists </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-
-Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-05-structure-headings-cc.mp4" type="video/mp4"></video>
+Discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-07-structure-list-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -42,7 +50,7 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
       </li>
       <li class="views-row views-row-5 views-row-odd">
          <div class="views-field views-field-title">
-            <span class="field-content">Module 5: Structure Headings</span>
+            <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></span>
          </div>
       </li>
       <li class="views-row views-row-6 views-row-even">
@@ -51,7 +59,7 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
       </li>
       <li class="views-row views-row-7 views-row-odd">
          <div class="views-field views-field-title">        
-<span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></span>  </div>
+<span class="field-content">Module 7: Structure Lists</span>  </div>
       </li>
       <li class="views-row views-row-8 views-row-even">
          <div class="views-field views-field-title">        
@@ -98,5 +106,3 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
-
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable

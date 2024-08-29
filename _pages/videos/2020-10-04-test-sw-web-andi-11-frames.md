@@ -1,21 +1,33 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/andi-training-videos/color-contrast/
+permalink: training/web-software/andi-training-videos/frames/
 type: ANDI training
-title: 'Module 13: Color Contrast'
-created: 1601869147
+title: 'Module 11: Frames'
+created: 1601868047
 redirect_from:
-- test/web-software/andi-training-videos/color-contrast/
+- test/web-software/andi-training-videos/frames/
+topic: "Training (train)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
-[comment]: <> (<h1>Module 13: Color Contrast </h1>)
+[comment]: <> (<h1>Module 11: Frames </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
 
 ------------------
-Discover how to use the ANDI _Color Contrast_ module to ensure that text has sufficient contrast with its background so that it can be read by people with moderately low vision (i.e. those who generally do not use contrast-enhancing assistive technology).
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/andi-13-color-contrast-cc.mp4" type="video/mp4"></video>
+
+Learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
+
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-11-frames-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -70,7 +82,7 @@ Discover how to use the ANDI _Color Contrast_ module to ensure that text has suf
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></span>  </div>
       </li>
       <li class="views-row views-row-13 views-row-odd">
-         <div class="views-field views-field-title">        <span class="field-content">Module 13: Color Contrast</span>  </div>
+         <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></span>  </div>
       </li>
       <li class="views-row views-row-14 views-row-even">
          <div class="views-field views-field-title">        <span class="field-content"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></span>  </div>
@@ -97,3 +109,5 @@ Discover how to use the ANDI _Color Contrast_ module to ensure that text has suf
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
+
+ [1]: {{site.baseurl}}/content/glossary#frames

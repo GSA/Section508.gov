@@ -7,6 +7,16 @@ title: 'Module 10: Create Accessible Textboxes'
 created: 1579721141
 redirect_from:
  - create/documents/aed-cop-docx10/
+topic: "Training (train)"
+sub-topic: "Documents"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 10: Create Accessible Textboxes)
@@ -19,7 +29,7 @@ redirect_from:
 
 Assistive technology cannot access information in text boxes unless they are placed &ldquo;in line with text.&rdquo; Learn how to ensure information within a text box is accessible.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m10.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m10-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

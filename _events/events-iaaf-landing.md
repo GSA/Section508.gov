@@ -17,9 +17,17 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 
 <!-- <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;"> -->
 
-The 2024 Interagency Accessibility Forum (IAAF) will be hosted this fall by the Government-wide IT Accessibility Program in the Office of Government-wide Policy (OGP) at the General Services Administration (GSA) in partnership with federal agencies, and is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP).
+## Save the Date
+Please save the date for the 11th annual Interagency Accessibility Forum (IAAF) to be held virtually on Wednesday, November 13, and Thursday, November 14, 2024. We hope you can attend this exciting and informative virtual event. More information will be available over the summer, with registration opening in early fall. Look out for announcements via email and on this page.
 
-IAAF 2024 event information will be announced this summer.
+Why a virtual event?
+
+Planning an annual conference at the start of the fiscal year is challenging. To avoid these challenges and ensure better attendance, speaker availability, and partnerships, we are moving the IAAF conference from the fall to the spring. Because of this transition, the 2024 and 2025 IAAF conferences will be only six months apart, making it impractical to plan two in-person events simultaneously and also more difficult for some people to attend both conferences so close together. Therefore, we’ve made the 2024 conference a virtual one. 
+
+Planning for the 12th annual IAAF, scheduled for May 2025, has already begun. We are working on securing cosponsors and event space in the Washington, D.C., area. Updates on the 2025 IAAF will be shared via email and at [Section508.gov/IAAF/]({{base.siteurl}}/IAAF/).
+
+If you have any questions or want to join the IAAF planning committees, please contact us at <iaaf@gsa.gov>. 
+
 
 <!-- For details and downloads from the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>. 
 
@@ -172,4 +180,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** July 2024

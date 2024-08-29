@@ -6,6 +6,16 @@ title: 'Play 3: Develop a Section 508 Accessibility Roadmap'
 created: 1526408550
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play03/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 An effective agency Section 508 program can identify and manage risks, gain management support, and implement corrective changes to agency policies, processes, and technologies to ensure Section 508 compliance. After you gauge the maturity of your Section 508 program (see previous play), develop a Section 508 Accessibility Roadmap to identify key agency activities and a phased approach to reach the next level of maturity. An Accessibility Roadmap will help set goals and priorities, and provide a framework for sustained improvement.

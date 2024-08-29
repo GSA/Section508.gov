@@ -10,6 +10,14 @@ redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
 - content/coordinator-listing/
+topic: "Training (train)"
+sub-topic: "Manage a 508 Program"
+audience:
+- "Federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -49,7 +57,7 @@ Navigate to Agencies starting with: <span id="topA" ></span> [A][25] |<span id="
 ## <span id="usaid" ></span>Agency for International Development (USAID)
 William Morgan - <wmorgan@usaid.gov>
 
-----------------------------------------------------
+---
 ## <span id="usda" ></span>Department of Agriculture (USDA)
 ### Department-wide
 Angela Williams - <angela.williams@usda.gov>  
@@ -117,7 +125,7 @@ Lisa Wilcox - <lisa.wilcox@usda.gov>
 Ryan Schneider - <ryan.schneider@usda.gov>
 ### Trade and Foreign Agricultural Affairs (TFAA)
 
-----------------------------------------------------
+---
 ## <span id="usdoc"></span>Department of Commerce (DOC)
 ### Department-wide
 Jennifer Jessup - <jjessup@doc.gov>  
@@ -148,7 +156,7 @@ Mark Reumann - <mark.reumann@uspto.gov>
 Maureen Brown - <maureen.brown@uspto.gov>  
 Patricia Kless - <patricia.kless@uspto.gov>  
 
-----------------------------------------------------
+---
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
@@ -169,7 +177,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-  * **United States Special Operations Command (USSOCOM)** <br>Marty Gilliam - <marty.gilliam@socom.mil>  
+  * **United States Special Operations Command (USSOCOM)** <br>Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -249,19 +257,19 @@ Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Space Command (USSPACECOM)
 Shawn "Ty" Yeager - <shawn.yaeger.1@usspacecom.mil>  
 ### Washington Headquarters Service (WHS)
-Glenn T. Buchter - <glenn.t.buchter.civ@mail.mil>  
+Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
-----------------------------------------------------
+---
 ## <span id="usdoe" ></span>Department of Education
 Denise McGland - <denise.mcgland@ed.gov>  
 Jason Lautenbacher - <jason.Lautenbacher@ed.gov>
 
-----------------------------------------------------
+---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
 Teddy Dyer - <doesection508coordinator@hq.doe.gov>  
 Sandra Logan (BACKUP)  
 
-----------------------------------------------------
+---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
 Kate Sweeney - <kate.sweeney@hhs.gov.>
@@ -275,8 +283,7 @@ Tim Erny - <ahrqsection508@ahrq.hhs.gov>
 Mark Urban - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
 Aaron Allen - <aaron.allen@cms.hhs.gov>  
-Cora Tracy (BACKUP)	- <cora.tracy@cms.hhs.gov>  
-Scott Shippy (BACKUP)	- <scott.shippy@cms.hhs.gov>  
+Stacey Holden (BACKUP) - <stacey.holden@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
 Heather Chafin - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
@@ -323,7 +330,7 @@ Cammie Truesdell - <cammie.truesdell@hhs.gov>
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
 ### Department-wide
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
@@ -367,11 +374,11 @@ Terry A. Bell - <terry.a.bell@uscg.mil>
 ### U.S. Secret Service (USSS)
 Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
-----------------------------------------------------
+---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
 Paul A. Scott - <paul.a.scott@hud.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
 ### Department-wide
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>
@@ -394,14 +401,14 @@ Rashee Nelson - <rashee_nelson@doioig.gov>
 ### Office of the Solicitor
 Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
-### Office of Surface Mining Reclamation and Enforcement
-John Pak - <jpak@osmre.gov>  
+### Office of Surface Mining Reclamation and Enforcement (OSMRE)
+Cricket Bidleman - <cbidleman@osmre.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
 Keon Sheffield - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
 Tracy Jolivette - <tjolivette@usgs.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
 ### Department-wide
 Dwayne Spriggs - <Section508ProgramManager@usdoj.gov>  
@@ -492,15 +499,15 @@ Dene James - <dene.james@usdoj.gov>
 ### United States Parole Commission
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdol" ></span>Department of Labor (DOL)
 Brandon Jubar - <jubar.brandon.t@dol.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdos" ></span>Department of State (USDS)
 Rich McCarthy - <mccarthyrd@state.gov>
 
-----------------------------------------------------
+---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
@@ -520,7 +527,7 @@ Purushottam "Puru" Subedi - <p.subedi@dot.gov>
 ### Pipeline and Hazardous Materials Safety Administration (PHMSA)
 Paul Mounkhaty - <paul.mounkhaty@dot.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
 ### Department-wide
 Nicolaos "Nick"	Totten - <nicolaos.totten@treasury.gov>  
@@ -548,182 +555,205 @@ Buddy Rapczynski - <buddy.rapczynski@tigta.treas.gov>
 James Proctor - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (BACKUP) - <rodney.dunwoody@usmint.treas.gov>
 
-----------------------------------------------------
+---
 ## <span id="usdova" ></span>Department of Veterans Affairs (VA)
 Chet Frith - <chet.frith@va.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usepa" ></span>Environmental Protection Agency (EPA)
 Sarah Sorathia - <sorathia.Sarah@epa.gov>
 
-----------------------------------------------------
+---
 ## <span id="usgsa" ></span>General Services Administration (GSA)
 Charles Popelka - <charles.popelka@gsa.gov>  
 Dan Perkins (Deputy) - <dan.perkins@gsa.gov>
 
-----------------------------------------------------
+---
 ## <span id="usnasa" ></span>National Aeronautics and Space Administration (NASA)
 Courtney L. Ritz - <courtney.l.ritz@nasa.gov>  
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - <betsy.sirk-1@nasa.gov>
 
-----------------------------------------------------
+---
 ## <span id="usnsf" ></span>National Science Foundation (NSF)
 Katherine Otts - <kotts@nsf.gov>
 
-----------------------------------------------------
+---
 ## <span id="usnrc" ></span>Nuclear Regulatory Commission (NRC)
 John Beatty - <john.beatty@nrc.gov>
 
-----------------------------------------------------
+---
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
 B. L. - <section508@opm.gov>  
 Megan Rocus - <megan.rocus@opm.gov>  
 
-----------------------------------------------------
+---
 ## <span id="ussba" ></span>Small Business Administration (SBA)
 Janice MacLean - <janice.maclean@sba.gov>  
 
-----------------------------------------------------
+---
 ## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - <pierce.crowell@ssa.gov>  
 Amanda Miller (BACKUP) - <amanda.miller@ssa.gov>  
 
-----------------------------------------------------
-----------------------------------------------------
+<!-- BEGIN SMALL AND INDEPENDENT AGENCIES -->
+<br>
+<hr style="width:90%; height:8px; background-color:#000000;" class="radius-lg">
+<br>
 
 ## <span id="A" ></span> Small and Independent Agencies
 
-### Access Board (USAB)
-Bruce Bailey - (TTY) 202-272-0024 - <bailey@access-board.gov>  
+### Administrative Conference of the United States (ACUS)
+Shawne C. McGibbon - <smcgibbon@acus.gov>  
 
-----------------------------------------------------
+---
+### Advisory Council on Historic Preservation	(ACHP)
+Rezaur Rahman - <rrahman@achp.gov>  
+
+---
 ### American Battle Monuments Commission (ABMC)
 Jennifer Li - <lij@abmc.gov>  
 
-----------------------------------------------------
+---
 ### Army Corps of Engineers  (USACE)
 Guy T. Tate - <guy.t.tate@usace.army.mil>
 
-----------------------------------------------------
+---
 
 <span id="B" ></span>
 
 ### Barry Goldwater Scholarship and Excellence in Education Foundation
 Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  
 
-----------------------------------------------------
+---
+### Bonneville Power Administration	(BPA)	
+Jenna	A. Ramos	- <jaramos@bpa.gov>  
 
+---
 <span id="C" ></span>
 
+### Central Intelligence Agency	(CIA)
+Richard	W. - <iapo@ucia.gov>  
+
+---
+### Commission of Fine Arts	(CFA)
+Carlton	Hart (Acting) - <chart@cfa.gov>  
+
+--- 
 ### Committee for Purchase from People Who Are Blind or Severely Disabled (CPPBSD)
 Edward Yang - <eyang@abilityone.gov>  
 
-----------------------------------------------------
+---
 ### Commodity Futures Trading Commission (CFTC)
 Kate Cerveny - <kcerveny@cftc.gov>
 
-----------------------------------------------------
+---
 ### Consumer Financial Protection Bureau (CFPB)
 Jennifer Horan - <jennifer.horan@cfpb.gov>  
 
-----------------------------------------------------
+---
 ### Consumer Product Safety Commission (CPSC)
 Bertie Hamilton - <bhamilton@cpsc.gov>  
 Bryan Burnett (BACKUP) - <bburnett@cpsc.gov>  
 
-----------------------------------------------------
+---
 ### Corporation for National & Community Service (CNS)
 Otis Winters - <owinters@cns.gov>  
 
-----------------------------------------------------
+---
 ### Court Services and Offender Supervision Agency for the District (CSOSA)
 William Kirkendale - <william.kirkendale@csosa.gov>  
 
-----------------------------------------------------
+---
 
 <span id="D" ></span>
 
 ### Defense Nuclear Facilities Safety Board (NDFSB)
 Jeremy Bingham - <jeremyb@dnfsb.gov>  
 
-----------------------------------------------------
+---
 
 <span id="E" ></span>
 
 ### Election Assistance Commission (EAC)
 William Jackson - <bjackson@eac.gov> 
 
-----------------------------------------------------
+---
 ### Equal Employment Opportunity Commission (EEOC)
 Marc Seawright - <marc.seawright@eeoc.gov>  
 Pierrette McIntire (BACKUP) - <pierrette.mcintire@eeoc.gov>  
 
-----------------------------------------------------
+---
 
 <span id="F" ></span>
 
 ### Farm Credit Administration (FCA)
 Nicole Jacobs - <jacobsn@fca.gov>  
 
-----------------------------------------------------
+---
 ### Farm Credit System Insurance Corporation (FCSIC)
 Nicole Jacobs - <jacobsn@fca.gov>  
 
-----------------------------------------------------
+---
 ### Federal Communication Commission (FCC)
 Rebecca Lovley - <rebecca.lovley@fcc.gov>  
 
-----------------------------------------------------
+---
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - <braiken@fdic.gov>  
 
-----------------------------------------------------
+---
+### Federal Election Commission	(FEC)
+Patcharee "Pat"	Phongsvirajati - <pphongsvirajati@fec.gov>  
+FEC Helpdesk - <508coordinator@fec.gov>  
+
+---
 ### Federal Energy Regulatory Commission (FERC)
 Dornesia Webster - <dornesia.webster@ferc.gov>  
 
-----------------------------------------------------
+---
 ### Federal Housing Finance Agency (FHFA)
 James Myers - <james.myers@fhfa.gov>  
 
-----------------------------------------------------
+---
 ### Federal Labor Relations Authority (FLRA)
 Dave Fontaine - <dfontaine@flra.gov>  
 
-----------------------------------------------------
+---
 ### Federal Maritime Commission (FMC)
 Lucille Marvin - <omd@fmc.gov>  
 
-----------------------------------------------------
+---
 ### Federal Mediation and Conciliation Service (FMCS)  
 Christine Horowitz - <chorowitz@fmcs.gov>  
 FMCS Helpdesk	<fmcs508@fmcs.gov>  
 
-----------------------------------------------------
+---
 ### Federal Mine Safety & Health Review Commission (FMSHRC)
 Theodosia Villatoro-Sorto - <tvillatoro-sorto@fmshrc.gov>  
 
-----------------------------------------------------
+---
 ### Federal Reserve Board of Governors (FRBG)
 Melissa Lasbury - <melissa.p.lasbury@frb.gov>  
+Randal Duchesneau - <randall.duchesneau@frb.gov>  
 
-----------------------------------------------------
+---
 ### Federal Retirement Thrift Investment Board (FRTIB)
 Jasjit Matharu - <jasjit.matharu@frtib.gov>  
 FRTIB Section 508 Team - <Section508@frtib.gov>  
 
-----------------------------------------------------
+---
 ### Federal Trade Commission (FTC)
 Trevor Beierschmitt - <tbeierschmitt@ftc.gov>  
 
-----------------------------------------------------
+---
 
 <span id="G" ></span>
 
 ### Gulf Coast Ecosystem Restoration Council (GCERC)
 Jeremy Roseboom - <jeremy.roseboom@restorethegulf.gov>  
 
-----------------------------------------------------
+---
 
 <span id="H" ></span>
 
@@ -732,11 +762,11 @@ Jeremy Roseboom - <jeremy.roseboom@restorethegulf.gov>
 ### Institute of Museum and Library Services (IMLS)
 Tekquell Watson - <twatson@IMLS.gov>  
 
-----------------------------------------------------
+---
 ### Inter-American Foundation (IAF)
 Duleep Sali - <dsahi@iaf.gov>  
 
-----------------------------------------------------
+---
 
 <span id="J" ></span>
 
@@ -745,42 +775,53 @@ Duleep Sali - <dsahi@iaf.gov>
 ### Merit Systems Protection Board (MSPB)
 Dennis Oden - <dennis.oden@mspb.gov>  
 
-----------------------------------------------------
+---
 ### Morris K. Udall and Stewart L. Udall Foundation (MUSUF)
 Jerry Carter - <carter@udall.gov>  
 
-----------------------------------------------------
+---
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
 Eric Chaskes - <eric.chaskes@nara.gov>  
 Jocelyn	Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
 
-----------------------------------------------------
+### National Capital Planning Commission (NCPC)
+Kim	Grace - <grace.kim@ncpc.gov>  
+
+---
 ### National Credit Union Administration (NCUA)
 Nickol Davenport - <edavenport@ncua.gov>  
 
-----------------------------------------------------
+---
 ### National Endowment for the Arts (NEA)
 Joseph Galicia - <galiciaj@arts.gov>  
 
-----------------------------------------------------
+---
 ### National Endowment for the Humanities (NEH)
 Ageliki Key - <akey@neh.gov>  
 
-----------------------------------------------------
+---
 ### National Labor Relations Board (NLRB)
 Andrew Martin - <andrew.martin@nlrb.gov>  
 
-----------------------------------------------------
+---
+### National Mediation Board (NMB)
+Taha Sadeghi - <sadeghi@nmb.gov>  
+
+---
 ### National Security Agency (NSA)
 L. Tanai White - <ltwhite@nsa.gov>  
 
-----------------------------------------------------
+---
+### Northern Border Regional Commission (NBRC)
+Rich Grogan - <rgrogan@nbrc.gov>  
+
+---
 ### Nuclear Waste Technical Review Board (NWTRB)
 Jayson Bright - <bright@nwtrb.gov>  
 
-----------------------------------------------------
+---
 
 <span id ="O" ></span>
 
@@ -789,98 +830,117 @@ Angela Bridges - <abridges@oshrc.gov>
 Johnathan Whitton - <jwhitton@oshrc.gov>  
 Angela Tyler – <atyler@oshrc.gov>  
 
-----------------------------------------------------
+---
 ### Office of Government Ethics (OGE)
 Ty Cooper - <jtcooper@oge.gov>  
 
-----------------------------------------------------
+---
 ### Office of Navajo and Hopi Indian Relocation (ONHIR)
 Diane Pratte - <dpratte@onhir.gov>  
 June Beyal (BACKUP) - <jbeyal@onhir.gov>  
 
-----------------------------------------------------
+---
 ### Office of Special Counsel (OSC)
 Shola	Kalejaiye - <skalejaiye@osc.gov>  
 
-----------------------------------------------------
+---
 
 <span id="P"></span>
 
 ### Peace Corps (PC)
 Jennifer Hawkins - <accessibility@peacecorps.gov>  
 
-----------------------------------------------------
+---
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - <watkins.angela@pbgc.gov>  
 Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
+Teesa Roberts -	<roberts.teesa@pbgc.gov>  
 
-----------------------------------------------------
+---
 ### Postal Regulatory Commission (PRC)  
 Stephen Perry - <stephen.perry@prc.gov>  
 
-----------------------------------------------------
+---
 ### Presidio Trust (PT)
 Tres Shepard - <tshepard@presidiotrust.gov>  
 
-----------------------------------------------------
+---
+### Privacy and Civil Liberties Oversight Board	(PCLOB)
+Richard	Morgan - <richard.morgan@pclob.gov>   
+
+---
 
 <span id="R" ></span>
 
 ### Railroad Retirement Board (RRB)
 Robert LaBerry - <robert.laberry@rrb.gov>  
 
-----------------------------------------------------
+---
 
 <span id="S" ></span>
 
 ### Securities and Exchange Commission (SEC)
 Sharvon Jones - <jonessh@sec.gov>  
 
-----------------------------------------------------
+---
 ### Selective Service System (SSS)
 Shawn Jackson - <sjackson@sss.gov>  
 
-----------------------------------------------------
+---
+### Social Security Advisory Board (SSAB)
+Claire Green - <claire.green@ssab.gov>  
+
+---
 ### Surface Transportation Board (STB)
 Philip Maynard - <philip.maynard@stb.gov>  
 
-----------------------------------------------------
+---
 
 <span id="T" ></span>
 
 ### Tennessee Valley Authority (TVA)
 Gregory G. Jackson - <ggjackson@tva.gov>  
 
-----------------------------------------------------
+---
 
 <span id="U" ></span>
+
+### U.S. Access Board (USAB)
+Bruce Bailey - (TTY) 202-272-0024 - <bailey@access-board.gov>  
+
+---
 
 ### U.S. Agency for Global Media (USAGM)
 J.R. Reeves - <jreeves@usagm.gov>  
 
-----------------------------------------------------
+---
+### U.S. Army Corps of Engineers (USACE)
+Kelly	Linick- <kelly.a.linick@usace.army.mil>  
+Sophia Epkey- <sophia.m.epkey@usace.army.mil>  
+
+---
 ### U.S. Commission on Civil Rights (USCCR)
 Michele	Ramey -<section508@usccr.gov>  
 
-----------------------------------------------------
+---
 ### U.S. International Development Finance Corporation (DFC)
 Pramila Adhikari - <pramila.adhikari@dfc.gov>  
 
-----------------------------------------------------
+---
 ### U.S. International Trade Commission (USITC)
 Carrin Brown - <carrin.brown@usitc.gov>  
 
-----------------------------------------------------
+---
 ### U.S. Postal Service (USPS)
 Nadereh Nasir - <nadereh.nasir@usps.gov>  
 
-----------------------------------------------------
+---
 ### U.S. Trade and Development Agency (USTDA)
 Clifford Cummins - <ccummins@ustda.gov>  
 
-----------------------------------------------------
+---
 
-**Reviewed/Updated**: July, 2024
+**Reviewed/Updated**: August, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

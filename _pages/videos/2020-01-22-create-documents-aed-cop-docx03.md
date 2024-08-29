@@ -7,6 +7,16 @@ title: 'Module 3: Use Built-in Features to Create Lists'
 created: 1579720852
 redirect_from:
  - create/documents/aed-cop-docx03/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Use Built-in Features to Create Lists)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to use lists to organize and structure content so assistive technology can identify that information is contained in a group, and convey the relationship between each item within the list.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

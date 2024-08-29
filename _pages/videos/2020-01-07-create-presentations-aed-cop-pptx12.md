@@ -7,6 +7,16 @@ title: 'Module 12: Excluding Flashing Objects'
 created: 1578420068
 redirect_from:
  - create/presentations/aed-cop-pptx12/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 12: Excluding Flashing Objects)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn how flashing objects can cause seizures and should never be used and cannot be considered accessible. Warning: This video demonstrates a type of flashing object that should never be used.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m12.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m12-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 
