@@ -55,6 +55,7 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
   * [Example: Veterans Administration Accessibility Policy][3]
   * [Example: SSA Internet Accessibility Policy][4]
   * [Example: Department of Justice Model Section 508 Complaint Process][5]
+  * [Example: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint   Process][6]
   
   
 &nbsp;
@@ -73,3 +74,4 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
  [3]: https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf
  [4]: https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf
  [5]: https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc
+ [6]: {{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/
