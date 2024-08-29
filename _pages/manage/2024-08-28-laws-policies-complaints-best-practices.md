@@ -39,7 +39,7 @@ Agencies should publicize to employees and the public their procedures and proce
             <li>Sufficient description and location of the inaccessible ICT</li>
         </ul>
         </li>
-<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></li></ol>
+<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></ol></li>
 
 Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 <ul>
