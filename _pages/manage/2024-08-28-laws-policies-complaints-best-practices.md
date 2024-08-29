@@ -93,7 +93,7 @@ The Department of State is another example of an agency that created a specific 
 <div>
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnote</h2>
   <ol>
-    <li id="fn1"><p>Section 508 conformance of these have not been verified.</p><a href="#fr1" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn1">Section 508 conformance of these have not been verified.<a href="#fr1" aria-label="Back to content"> ↩ </a></li>
     </ol>
     </div>
 
