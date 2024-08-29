@@ -63,7 +63,9 @@ manage:
           - name: Developing a Website Accessibility Statement
             url: manage/laws-and-policies/website-accessibility-statement/
           - name: Implementing a Public Feedback Mechanism
-            url: manage/laws-and-policies/implementing-public-feedback-mechanism/        
+            url: manage/laws-and-policies/implementing-public-feedback-mechanism/
+          - name: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process
+            url: manage/laws-and-policies/Section-508-complaints-best-practices/           
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
       - name: State-level Accessibility Law and Policy

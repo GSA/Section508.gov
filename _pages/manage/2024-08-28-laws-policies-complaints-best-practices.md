@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/Section-508-complaints-best-practices
+permalink: manage/laws-and-policies/Section-508-complaints-best-practices/
 type: manage
 title: 'Best Practices For Establishing And Maintaining a
 Formal Section 508 Complaint Process'

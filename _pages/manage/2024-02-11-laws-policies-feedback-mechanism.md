@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/laws-and-policies/implementing-public-feedback-mechanism/
 type: manage
 title: 'Implementing a Public Feedback Mechanism'
+
 ---
 
 Use the best practices below to successfully implement a feedback mechanism to collect, track, and resolve digital accessibility issues.
