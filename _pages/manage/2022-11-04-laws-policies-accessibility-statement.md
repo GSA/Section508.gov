@@ -69,7 +69,7 @@ Per M-24-08, “agencies shall maintain a digital accessibility statement on fed
           <li class="margin-bottom-1">Briefly describe the formal Section 508 complaint procedures in plain language.</li>
           <li class="margin-bottom-1">Explain when someone should use the formal complaint procedures for Section 508 and when to use the public feedback mechanism. </li>
         </ul>
-        <strong>See: <a href="{{site.baseurl}}manage/laws-and-policies/Section-508-complaints-best-practices/">Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process.</a></strong>
+        <strong>See: <a href="{{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/">Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process.</a></strong>
       </p>
     </div>
   </li>
