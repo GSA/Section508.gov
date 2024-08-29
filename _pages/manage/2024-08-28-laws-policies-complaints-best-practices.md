@@ -28,7 +28,7 @@ Under [Section 508 of the Rehabilitation Act](https://www.govinfo.gov/content/pk
 Agencies should publicize to employees and the public their procedures and process for handling Section 508 complaints. The best practices below can be leveraged to create or update complaint procedures:
 
 <ol type="1">
-   <li>Describe the complaint submission process.</li>
+   <li>Describe the complaint submission process.
 <ol type="a">
     <li>Instructions should include that complaints must be in writing either through email, online form, fax, or postal mail. Assistance may be offered by phone if the complainant cannot submit in writing.</li>
     <li>Provide requirements for the information needed to investigate a complaint, such as:
@@ -37,8 +37,9 @@ Agencies should publicize to employees and the public their procedures and proce
             <li>Contact information</li>
             <li>Reason for complaint</li>
             <li>Sufficient description and location of the inaccessible ICT</li>
-        </ul></li>
-<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></ol>
+        </ul>
+        </li>
+<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></li></ol>
 
 Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 <ul>
@@ -54,8 +55,8 @@ Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1
 <li>The complainant states that ICT is not Section 508 conformant and the complainant cannot complete an appointment request form online due to a disability.</li>
 <li>The complainant reports not being able to access content using Assistive Technology (AT), such as the inability to navigate the agency’s public or internal website using a screen reader such as JAWS, VoiceOver, or NVDA. AT refers to any device, software, equipment, or system that is designed to help people with disabilities perform tasks independently.</li>
 <li>A complaint states that an ICT does not provide comparable access.  For example, if a person without sight is not able to independently use a check-in kiosk at an agency field office, this may be a Section 508 violation.</li>
-<li>A person with a disability does not need to use specific terms like “inaccessible ICT” or “Section 508” when filing a complaint. For example, someone who is deaf could cite in a complaint that the videos posted on the agency website lack captions.</li></li></ul>
-<li>Suggested training for intake staff includes <a href="https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html">Section 508: What It Is and Why It’s Important?</a></li></li></ol>
+<li>A person with a disability does not need to use specific terms like “inaccessible ICT” or “Section 508” when filing a complaint. For example, someone who is deaf could cite in a complaint that the videos posted on the agency website lack captions.</li></ul></li>
+<li>Suggested training for intake staff includes <a href="https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html">Section 508: What It Is and Why It’s Important?</a></li></ol></li>
 <li>Describe the process for investigating a Section 508 complaint.
 <ol type="a">
 <li>For a Section 508 complaint, it is critical relevant stakeholders regularly collaborate during the investigation and, if necessary, on the resolution of the complaint and any corrective action.  Relevant stakeholders may include:
@@ -65,15 +66,15 @@ Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1
 <li>Section 508 conformance evaluators.</li>
 <li>Appropriate legal teams.</li>
 <li>IT personnel.</li>
-<li>Any other SMEs based on the complaint.</li></li></ul>
+<li>Any other SMEs based on the complaint.</li></ul></li>
 <li>Below are best practices to follow during the investigation of the complaint:
 <ul>
 <li>Ensure clear communication channels for complainants to submit their concerns or provide additional information.</li>
 <li>Acknowledge receipt of complaints if this is included in your agency’s Section 504 procedures.</li>
 <li>Regularly communicate with the complainant regarding the status of the investigation.</li>
 <li>Promptly and thoroughly review each complaint.</li>
-<li>Gather appropriate evidence and documentation.</li></li></ul>
-<li>If the investigation finds the ICT does not comply with Section 508, identify a resolution that brings the ICT into compliance. Some Section 508 issues may easily be resolved, while others may take longer and require engagement with numerous stakeholders. It’s important agencies maintain detailed records of Section 508-related complaint processing steps to ensure the agency documents all actions taken and related outcomes. This will give agencies insight into the number of Section 508-related complaints and what each complaint alleges. Section 508 program offices can then use this information to better tailor training and support, and prioritize resources to increase Section 508 compliance.</li></li></ol>
+<li>Gather appropriate evidence and documentation.</li></ul></li>
+<li>If the investigation finds the ICT does not comply with Section 508, identify a resolution that brings the ICT into compliance. Some Section 508 issues may easily be resolved, while others may take longer and require engagement with numerous stakeholders. It’s important agencies maintain detailed records of Section 508-related complaint processing steps to ensure the agency documents all actions taken and related outcomes. This will give agencies insight into the number of Section 508-related complaints and what each complaint alleges. Section 508 program offices can then use this information to better tailor training and support, and prioritize resources to increase Section 508 compliance.</li></ol></li>
 <li>Describe the process or method for record keeping, including tracking of intake, investigation, remediation, resolution, and appeals.</li>
 <li>Describe the Section 508 complaint appeals process.</li>
 <li>Define timeframes for the agency and complainant. For example:
@@ -81,7 +82,7 @@ Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1
 <li>Notify the complainant, within [number of days] of receipt of the initial complaint, if additional information is needed to complete the complaint.</li>
 <li>Within [number of days] of the receipt of a complete complaint over which the agency has jurisdiction, the agency shall notify the complainant of the results of the investigation in writing.</li>
 <li>Appeals of the findings of fact and conclusions of law or remedies must be filed by the complainant within [number of days] of receipt from the agency’s written results of the investigation.</li>
-<li>Notify the complainant of the results of the appeal within [number of days] of the receipt of the request. If the agency determines additional information is needed from the complainant, it shall have [number of days] from the date of receipt of the additional information to make a determination on the appeal.</li></li></ol></ol>
+<li>Notify the complainant of the results of the appeal within [number of days] of the receipt of the request. If the agency determines additional information is needed from the complainant, it shall have [number of days] from the date of receipt of the additional information to make a determination on the appeal.</li></ol></li></ol>
 
 To formalize the Section 508 complaint process, agencies may amend their current Section 504 regulations to include Section 508, create a separate Section 508 regulation that references the agency’s existing Section 504 process, or create a new policy for Section 508 complaints that references the agency’s existing Section 504 process.  
 
