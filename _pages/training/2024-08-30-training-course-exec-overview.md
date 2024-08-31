@@ -1,0 +1,97 @@
+---
+sidenav: true
+layout: page
+permalink: training/online-course/accessible-ict-overview-for-government-executives/
+type: training
+title: "Accessibility of ICT: An Overview for Government Executives | Online Course"
+created: 2024-08-30
+redirect_from:
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
+---
+<ul class="usa-card-group">
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Course Description</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview.jpg" alt="A placeholder image" class="radius-lg" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your Information and Communication Technology (ICT) products and services are accessible to persons with disabilities.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="https://training.section508.gov/508-training/courses/exec-overview/index.html" target="_blank" class="usa-button">Open Course</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+## Course Details
+**Audience:** Heads of Federal Agencies, Chief Acquisition Officers, Chief Diversity and Inclusion Officer, Chief Human Capital Officer, Chief Information Officers, Equal Employment Officer, and Section 508 Program Manager.  
+**Duration:** 20 minutes  
+**Skill Level:** Beginner | Intermediate | Expert  
+**Version:** Version 2.0 (Sep 2024)  
+
+## What will I learn in this course?
+This course will help you to understand [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) and the related laws, policies, roles, and responsibilities.
+
+After completing this course, you will be able to do the following:
+
+<ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Describe Section 508 and its purpose.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Determine how regulations and recent policy changes apply to your agency.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Apply the Section 508 roles and responsibilities to your agency.</div>
+    </li>
+</ol>
+
+For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
+
+## Certificate and CLPs
+Showcase your expertise and stand out in your field with a certificate that highlights the knowledge you’ve gained from completing this course:
+
+<ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">By completing this course you can download and save a PDF certificate for your records.</div>
+    </li>
+</ol>
+
+<div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
+    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+</div>
+
+## Key Terms and References 
+* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
+* [Annual Governmentwide Section 508 Assessment]({{site.baseurl}}/section-508-assessment/)
+* [DOJ Biannual Report to Congress and the President](https://www.justice.gov/crt/section-508-home-page-0)
+* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
+* [ICT Accessibility Testing Baseline]()
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
+* [Section 508 of the Rehabilitation Act, as amended]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
+* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
+* [Section 508 Standards](https://www.access-board.gov/ict/)
+* [Solicitation Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/)
+* [Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
+
+**Reviewed/Updated**: September 2024
