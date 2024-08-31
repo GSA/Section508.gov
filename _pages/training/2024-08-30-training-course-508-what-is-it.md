@@ -86,16 +86,16 @@ Showcase your expertise and stand out in your field with a certificate that high
 </div>
 
 ## Key Terms and References 
-* [Accessibility Requirements Tool (ART)](https://www.section508.gov/art/)
+* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
 * [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
 * [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* [Functional Performance Criteria](https://www.access-board.gov/ict/#302-functional-performance-criteria)
+* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
 * [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
 * [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
 * [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* [Revised Section 508 Standards](https://www.access-board.gov/ict)
+* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
 
 **Reviewed/Updated**: September 2024

@@ -83,15 +83,15 @@ Showcase your expertise and stand out in your field with a certificate that high
 ## Key Terms and References 
 * [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
 * [Annual Governmentwide Section 508 Assessment]({{site.baseurl}}/section-508-assessment/)
-* [DOJ Biannual Report to Congress and the President](https://www.justice.gov/crt/section-508-home-page-0)
+* <a href="https://www.justice.gov/crt/section-508-home-page-0" target="_blank" class="usa-link--external">DOJ Biannual Report to Congress and the President</a>
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* [ICT Accessibility Testing Baseline]()
+* <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a>
 * [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
-* [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
+* [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/online-course/section-508-what-is-it-and-why-its-important/)
 * [Section 508 of the Rehabilitation Act, as amended]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* [Section 508 Standards](https://www.access-board.gov/ict/)
+* <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
 * [Solicitation Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/)
-* [Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/)
+* <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
 **Reviewed/Updated**: September 2024

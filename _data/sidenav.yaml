@@ -183,8 +183,7 @@ training:
       - name: "Accessibility of ICT: An Overview for Government Executives"
         url: 'training/online-course/accessible-ict-overview-for-government-executives/'
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
-        url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
-        external: true
+        url: 'training/online-course/technology-accessibility-playbook/'
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
         external: true
