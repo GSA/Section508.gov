@@ -68,8 +68,7 @@ After completing this training, you will be able to do the following:
 </ol>
  
 ## Certificate and CLPs
-Showcase your expertise and stand out in your field with a certificate that highlights the knowledge you’ve gained from completing this course. There are two types of certificates available for this course:
-
+Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There are two type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>

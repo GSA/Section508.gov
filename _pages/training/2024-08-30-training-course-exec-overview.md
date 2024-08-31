@@ -25,7 +25,7 @@ format: "Video & Synchronized Media (video)"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview2.jpg" alt="A placeholder image" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -67,15 +67,17 @@ After completing this course, you will be able to do the following:
 For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
 
 ## Certificate and CLPs
-Showcase your expertise and stand out in your field with a certificate that highlights the knowledge you’ve gained from completing this course:
-
+Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There is only one type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">By completing this course you can download and save a PDF certificate for your records.</div>
+        <div class="usa-icon-list__content">Download and save a PDF certificate for your records.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
+        <div class="usa-icon-list__content">This course is <strong>not</strong> offered with continuing learning points (CLP).</div>
     </li>
 </ol>
-
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
     <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
 </div>
