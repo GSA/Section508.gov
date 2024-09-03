@@ -63,7 +63,6 @@ William Morgan - <wmorgan@usaid.gov>
 Angela Williams - <angela.williams@usda.gov>  
 Sarah	Reed - <sarah.reed@usda.gov>  
 Bernadette McGhee - <bernadette.mcghee@usda.gov>  
-Mia Day - <mia.day@usda.gov >  
 ### Agricultural Marketing Service (AMS)
 Heather A. Pearl - <heather.a.pearl@usda.gov>
 ### Animal and Plant Health Inspection Service (APHIS)
