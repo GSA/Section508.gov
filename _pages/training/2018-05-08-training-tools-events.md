@@ -61,7 +61,7 @@ Learn how you can make your agency's electronic information and digital services
       </header>
       <div class="usa-card__body">
         <p>Trusted Tester for Web Certification courses version 5.1.3 is now available.<br>
-        <a href="DHS Trusted Tester Training Self-Enrollment Portal" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
+        <a href="https://training.section508testing.net/" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
       </div>
     </div>
   </li>

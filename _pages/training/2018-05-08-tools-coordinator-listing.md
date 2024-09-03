@@ -163,7 +163,6 @@ Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>
 Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
 Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
-Mia K. Day - <mia.day@us.af.mil>  
 Carlinda Lotson (BACKUP) - <carlinda.Lotson.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
@@ -205,7 +204,7 @@ Vanessa Hill - <vanessa.hill2@dodiis.mil>
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
-Richard Harmon - <richard.harmon@dla.mil>  
+Mohan Pinisetti – <mohan.pinisetti@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
@@ -314,7 +313,7 @@ Jason Hitchcock (Backup) - <jason.hitchcock@nih.gov>
   * **National Institute of General Medical Sciences (NIGMS)** <br>Jennifer Sizemore - <jennifer.sizemore@nih.gov>  
   * **National Institute of Mental Health (NIMH)** <br>James Petersen - <jpeters2@mail.nih.gov>  
   * **National Institute of Neurological Disorders and Stroke (NINDS)** <br>Cesar Garzon - <cesar.garzon@nih.gov>  
-  * **National Institute of Nursing Research (NINR)** <br>Edmond Byrnes - <edmond.byrnes@nih.gov>  
+  * **National Institute of Nursing Research (NINR)** <br>Andrew Liang <andrew.liang@nih.gov>  
   * **National Institute on Aging (NIA )** <br>Kelly Ohaver - <kelly.ohaver@nih.gov>  
   * **National Institute on Alcohol Abuse and Alcoholism (NIAAA)** <br>Toni Calzone - <tcalzone@dicbr.niaaa.nih.gov>  
   * **National Institute on Deafness and Communication Disorders (NIDCD)** <br>Heidi Rosvold-Brenholtz - <heidi.rosvold-brenholtz@nih.gov>  
