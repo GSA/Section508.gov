@@ -13,7 +13,7 @@ redirect_from:
 ---
 <h2 style="line-height:1.2;">Do you know some people rely only on a meaningful description of an image to understand the information contained in the image?</h2>
 
-Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities. While there are other benefits of alt text for all users, this Accessibility Bytes focuses on people who use screen readers.
+Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities. While there are other benefits of alt text for all users, this _Accessibility Bytes_ focuses on people who use screen readers.
 
 When a person uses a screen reader, the screen reader will read the onscreen text aloud using text-to-speech technology. When the screen reader reaches an image, it will announce that it has detected an image and read the alt text for that image so the user can know what the image is meant to convey.
 
