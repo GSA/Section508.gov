@@ -23,7 +23,7 @@ format: "HTML (html)"
 ---
 <h2 style="line-height:1.2;">Do you know that some people experience difficulty understanding and comprehending information when we use only colors to convey it?</h2>
 
-The previous Accessibility Byte discussed how the colors we used for text may make it difficult for some people to read or understand the information in a document, webpage and video captions.
+The previous Accessibility Bytes discussed how the colors we used for text may make it difficult for some people to read or understand the information in a document, webpage and video captions.
 
 Meeting the **use of color** requirement ensures color is not the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. While color can be used, another visual method, such as a pattern or text label, should be used to convey information.
 
