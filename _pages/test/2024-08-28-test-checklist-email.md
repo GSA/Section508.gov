@@ -5,7 +5,7 @@ permalink: test/checklist/email-messages/
 type: test
 title: 'Checklist for Accessible Email Messages'
 contributors: fhwa
-created: 2024-08-28
+created: 2024-09-10
 updated: 
 topic: "Testing (test)"
 sub-topic: "Email"
@@ -17,7 +17,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
-Electronic content, including email messages sent to the public, between agencies, or as [agency official communication]({{site.baseurl}}/content/glossary/#agency-official-communications), must comply with Section 508 Standards. This ensures that all individuals, including those with disabilities, can easily read, understand, and interact with the content using assistive technologies or accessible design practices.
+Electronic content, including email messages and any attachments sent to the public, between agencies, or as [agency official communication]({{site.baseurl}}/content/glossary/#agency-official-communications), must comply with Section 508 Standards to ensure that all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 
 This checklist for email messages covers five key areas to help incorporate accessibility when creating email content, including GovDelivery bulletins and newsletters. These five areas provide the foundation for making information accessible to everyone, aiming to make the experience as easy and frustration-free as possible. This checklist is a quick reference guide and does not serve as a substitute for a comprehensive understanding of conformance requirements.
 
@@ -25,7 +25,6 @@ This checklist for email messages covers five key areas to help incorporate acce
 The following table outlines key accessibility checks for email messages focusing on specific elements such as titles, headings, paragraphs, lists, tables, and links.
 
 <table class="usa-table usa-table--borderless">
-  <caption>Table 1: Ensure email messages are well-structured</caption>
   <thead>
     <tr>
       <th scope="col" style="min-width:140px">Check Name</th>
@@ -34,95 +33,74 @@ The following table outlines key accessibility checks for email messages focusin
   </thead>
   <tbody>
     <tr>
-      <td>Title</td>
-      <td>Use the <span>'Title'</span> style once. This is based on the Normal Paragraph style. Note: Where a document is intended as a PDF, use <span>'Heading 1'</span> in place of <span>'Title'</span> as PDF documents do not have a <span>'Title'</span> tag.</td>
+      <td>Message Format</td>
+      <td>Email is formatted as Plain Text or HTML, when available.</td>
+    </tr>
+    <tr>
+      <td>Message Type</td>
+      <td>SInformation is intended for a member(s) of the public, or is agency official communication.</td>
+    </tr>
+    <tr>
+      <td>Backgrounds</td>
+      <td>Email message is free of custom stationary, wallpaper, background images or watermarks.</td>
+    </tr>
+    <tr>
+      <td>Plain Language</td>
+      <td>Audience has been identified for use of plain language.</td>
+    </tr>
+    <tr>
+      <td>Font and Size</td>
+      <td>Message uses a sans-serif typeface that is 10 to 11pt (13 to 15px) and avoids cursive and other fancy typefaces.</td>
     </tr>
     <tr>
       <td>Headings</td>
-      <td>Style all visual headings and subheadings. Start with <span>'Heading 1'</span> and work down in hierarchical order.</td>
+      <td>All visual headings and subheadings start with 'Heading 1' and work down in hierarchical order.</td>
     </tr>
     <tr>
       <td>Paragraph</td>
-      <td>Use the “Normal" style for paragraphs.</td>
+      <td>The default or “Normal" style is used for email message text.</td>
     </tr>
     <tr>
       <td>Lists</td>
-      <td>Use the “List” Tool to create unordered (bullets), ordered (numbers or letters), and multilevel lists.</td>
+      <td>The “List” tool is used to create unordered (bullets), ordered (numbers or letters), and multilevel lists (1.A.i.).</td>
     </tr>
     <tr>
       <td>Tables</td>
-      <td>Use the “Table” Tool to insert simple tables, and indicate header and row columns.</td>
+      <td>The “List” tool is used to create unordered (bullets), ordered (numbers or letters), and multilevel lists (1.A.i.).</td>
     </tr>
     <tr>
       <td>Links</td>
-      <td>Use unique and <a href="{{site.baseurl}}/blog/accessibility-bytes/descriptive-links-and-hypertext/">descriptive links and hypertext</a>. Avoid using vague terms like “click here” or “read more.”</td>
+      <td>Email message uses unique and ]descriptive links]({{site.baseurl}}/blog/accessibility-bytes/4/) and hypertext instead of vague terms like “click here” or “read more.”</td>
     </tr>
     <tr>
-      <td>Spacing Elements</td>
-      <td>Adjust the space before and after an element by editing the element’s style. For example, do not create a blank paragraph by pressing enter twice, but by editing the paragraph properties.</td>
+      <td>Pause, Stop, Hide</td>
+      <td>Email message does not include moving, blinking, scrolling, or auto-updating information.</td>
+    </tr>    
+  </tbody>
+</table>
+
+## General Content
+The following table outlines key accessibility checks for email messages focusing on message content.
+
+<table class="usa-table usa-table--borderless">
+  <thead>
+    <tr>
+      <th scope="col" style="min-width:140px">Check Name</th>
+      <th scope="col">How to Check Email Message</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Styles</td>
-      <td>Styles are named for their structural role which is announced to screen reader users. Rather than applying a text <em>style</em> for it's look, apply the correct <em>style</em> for the content and modify the look to suit your needs.</td>
+      <td>Agency writing and design guidelines are followed.</td>
     </tr>
     <tr>
-      <td>Signature Block</td>
-      <td>Ensure that the signature block complies with agency policy and is free of slogans and personal or extraneous statements or messages.</td>
-    </tr>
-  </tbody>
-</table>
-
-## Styles
-- plain language 
-- jargon, acronyms and initialisms
-- 
-
-## Graphics
-The following table outlines key accessibility checks for email messages focusing on specific elements such as background use, alt text for images, captions, and the use of images containing text.
-
-<table class="usa-table usa-table--borderless">
-  <caption>Table 2: Ensure proper use of graphics in email messages.</caption>
-  <thead>
-    <tr>
-      <th scope="col" style="min-width:140px">Check Name</th>
-      <th scope="col">How to Check Email Message</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Background</td>
-        <td>Ensure that the email message is free of custom stationary, wallpaper, background images or watermarks.</td>
+      <td>Subject</td>
+      <td>Email <em>Subject</em> clearly convey the purpose of the email, give a snapshot of the content, and is easily searchable.</td>
     </tr>
     <tr>
-      <td>Alt Text</td>
-      <td>Add an alternative text description for all meaningful images. Use as few words as possible to convey the purpose and meaning of the image.</td>
-    </tr>
-    <tr>
-      <td>Captions</td>
-      <td>Captions describe an image differently than alt text. Captions should not repeat the alt text, but provide additional information about the image, or information that's related to it but not in the image itself.</td>
-    </tr>
-    <tr>
-      <td>Images of Text</td>
-      <td>Avoid text as graphics. This applies to content copied from another source. Acceptable uses of text as a graphic include logos, infographics, and flow charts.</td>
-    </tr>
-  </tbody>
-</table>
-
-## Sensory Characteristics
-The following table outlines key accessibility checks for email messages focusing on specific elements such as shapes, position, color, and animations and audio and video media.
-
-<table class="usa-table usa-table--borderless">
-  <caption>Table 3: Avoid elements and content attributes that depend on visual or audio perception.</caption>
-  <thead>
-    <tr>
-      <th scope="col" style="min-width:140px">Check Name</th>
-      <th scope="col">How to Check Email Message</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Shapes</td>
-      <td>Avoid references to shape, size, sound, color, or location.</td>
+      <td>Abbreviations and Acronyms</td>
+      <td>Email message avoids the use of abbreviations and acronyms, or uses acronyms after spelling the full word followed with the acronym in parentheses.</td>
     </tr>
     <tr>
       <td>Color Contrast</td>
@@ -130,20 +108,53 @@ The following table outlines key accessibility checks for email messages focusin
     </tr>
     <tr>
       <td>Color Only</td>
-      <td>Ensure that charts and graphs that use color to convey meaning include another visual element (like a symbol or text) to convey the same meaning.</td>
+      <td>Charts, graphs and other images that use color to convey meaning have another visual element (like a symbol or text) to convey the same meaning.</td>
+    </tr>
+    <tr>
+      <td>File Attachments</td>
+      <td>All attachments have unique and descriptive file names, and have been tested and conform with Section 508 Standards.</td>
+    </tr>
+    <tr>
+      <td>Signature Block</td>
+      <td>Signature block complies with agency policy and is free of slogans and personal or extraneous statements or messages.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Graphics and Sensory Characteristics
+The following table outlines key accessibility checks for email messages focusing on graphics, images and other content with sensory characteristics. 
+
+<table class="usa-table usa-table--borderless">
+  <thead>
+    <tr>
+      <th scope="col" style="min-width:140px">Check Name</th>
+      <th scope="col">How to Check Email Message</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Images</td>
+      <td>All meaningful images have an equivalent text alternative.</td>
+    </tr>
+    <tr>
+      <td>Images of Text</td>
+      <td>Email message does not contain images of text and content copied from another source as an image.</td>
+    </tr>
+    <tr>
+      <td>Sensory Characteristics</td>
+      <td>Avoid references to shape, size, sound, color, or location.</td>
     </tr>
     <tr>
       <td>Pause, Stop, Hide</td>
-      <td>Avoid For moving, blinking, scrolling, or auto-updating information when possible. Best Practice is to not use content that automatically moves, blinks, or scrolls. Where essential, ensure that the user can pause, stop, or hit content.</td>
+      <td>Email message does not include moving, blinking, scrolling, or auto-updating information.</td>
     </tr>
   </tbody>
 </table>
 
 ## Data Tables
-The following table outlines key accessibility checks for email messages with a focus on structured data elements such as data tables and their headings, images of tables, and consistency.
+The following table outlines key accessibility checks for email messages with a focus on structured data and their headings.
 
 <table class="usa-table usa-table--borderless">
-  <caption>Table 4: Use tables for data, not structure</caption>
   <thead>
     <tr>
       <th scope="col" style="min-width:140px">Check Name</th>
@@ -152,38 +163,40 @@ The following table outlines key accessibility checks for email messages with a 
   </thead>
   <tbody>
     <tr>
-      <td>Table Data</td>
-      <td>Tables must be used for structured data. Avoid creating tables by using tabs and spaces. Avoid tables for layout. If unavoidable, tab through content to confirm correct reading order.</td>
+      <td>Table Purpose</td>
+      <td>Tables are used for structured data and not layout. </td>
+    </tr>
+    <tr>
+      <td>Table Type</td>
+      <td>Data tables are simple tables with no nested rows or columns.</td>
     </tr>
     <tr>
       <td>Images of Tables</td>
-      <td>Avoid inserting or attaching images of tables. When tables are neccesary to provide structured information, either insert the a table using built-in tools, or attach as a conformant spreadsheet.</td>
+      <td>Images of data tables are not used.</td>
     </tr>
-    
     <tr>
-      <td>Headers</td>
-      <td>Ensure each column and row has a header(s).</td>
+      <td>Table Headers</td>
+      <td>Data table has defined column and row header(s).</td>
     </tr>
     <tr>
       <td>Completeness</td>
-      <td>Ensure that there are no missing cells in any table row. Blank data cells are acceptable.</td>
+      <td>Data table is not missing cells in any table row.</td>
+    </tr>
+    <tr>
+      <td>Data Integrity</td>
+      <td>Data table cells contain the same type of data, and do not use empty cells to provide captions, footnotes or endnotes.</td>
     </tr>
     <tr>
       <td>Spacing</td>
-      <td>Avoid putting two or more tables together either side by side or top to bottom.</td>
-    </tr>
-    <tr>
-      <td>Normalize</td>
-      <td>Ensure that only data is in the table. Do not use a table cell to provide caption the table or add footnotes/endnotes.</td>
+      <td>Avoid putting two or more tables together either side by side or top to bottom to allow navigation by keyboard users.</td>
     </tr>
   </tbody>
 </table>
 
-## Sending and Saving Files
-The following table outlines key accessibility checks for email messages focusing on sending file  attachment(s), and saving email messages as a file.
+## Saving Files
+The following table outlines key accessibility checks for email messages focusing on and saving email messages as a document file.
 
 <table class="usa-table usa-table--borderless">
-  <caption>Table 5: </caption>
   <thead>
     <tr>
       <th scope="col" style="min-width:140px">Check Name</th>
@@ -192,14 +205,18 @@ The following table outlines key accessibility checks for email messages focusin
   </thead>
   <tbody>
     <tr>
-      <td>Sending Attachements</td>
-      <td>Ensure that all attachements conform with applicable electronic document standards. Embedded images should contain alternative text descriptions or be omitted.</td>
+      <td>Email File Type</td>
+      <td>Saved email messages use either the .MSG (Microsoft Outlook) or .EML (Google Gmail) format.</td>
     </tr>
     <tr>
-      <td>Saving Email Messages</td>
-      <td>Like other office productivity files, when saving email messages as a file use a unique and descriptive file name in either .MSG or .EML format. Microsort Outlook use the MSG file format to store individual emails, tasks, meetings, and more. This format is compatible with all versions of Outlook for Windows. You can also save emails as EML files, which are similar to text files and can be opened in any text editor, and compatible with Google Workspace for Government Gmail.</td>
+      <td>Email File Name</td>
+      <td>Saved email message has a unique and descriptive file name, typically the message Subject.</td>
     </tr>
   </tbody>
 </table>
 
-**Reviewed/Updated:** August 2024
+## Additional Resources 
+* [Checklist for Accessible Email Spreadsheet (XLSX)](https://assets.section508.gov/files/.xlsx)
+* [Creating Accessible Email Messages]({{site.baseurl}}/create/email-messages/)
+
+**Reviewed/Updated:** September 2024
