@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 permalink: design/digital-content-users-with-cognitive-disabilities/
-type: design
+type: develop
 title: "Designing Digital Content For Users With Cognitive Disabilities"
 created: 202409011
 topic: "Design (design)"
