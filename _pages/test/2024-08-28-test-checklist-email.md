@@ -72,10 +72,6 @@ The following table outlines key accessibility checks for email messages focusin
       <td>Links</td>
       <td>Email message uses unique and [descriptive links and hypertext]({{site.baseurl}}/blog/accessibility-bytes/4/) instead of vague terms like “click here” or “read more.”</td>
     </tr>
-    <tr>
-      <td>Pause, Stop, Hide</td>
-      <td>Email message does not include moving, blinking, scrolling, and auto-updating information.</td>
-    </tr>    
   </tbody>
 </table>
 
@@ -216,7 +212,7 @@ The following table outlines key accessibility checks for email messages focusin
 </table>
 
 ## Additional Resources 
-* [Checklist for Accessible Email Spreadsheet (XLSX)](https://assets.section508.gov/files/.xlsx)
+* [Checklist for Accessible Email (XLSX)](https://assets.section508.gov/files/Checklist-for-Accessible-Email.xlsx)
 * [Creating Accessible Email Messages]({{site.baseurl}}/create/email-messages/)
 
 **Reviewed/Updated:** September 2024
