@@ -10,7 +10,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Fall 2024." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13-14, 2024. Achieving Digital Equity: Policies, Tools, and Techniques. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
@@ -18,7 +18,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 <!-- <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;"> -->
 
 ## Save the Date
-Please save the date for the 11th annual Interagency Accessibility Forum (IAAF) to be held virtually on Wednesday, November 13, and Thursday, November 14, 2024. We hope you can attend this exciting and informative virtual event. More information will be available over the summer, with registration opening in early fall. Look out for announcements via email and on this page.
+Please save the date for the 11th annual Interagency Accessibility Forum (IAAF) to be held virtually on **Wednesday, November 13, and Thursday, November 14, 2024**. We hope you can attend this exciting and informative virtual event. More information will be available over the summer, with registration opening in early fall. Look out for announcements via email and on this page.
 
 Why a virtual event?
 
@@ -180,4 +180,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** July 2024
+**Reviewed/Updated:** September 2024
