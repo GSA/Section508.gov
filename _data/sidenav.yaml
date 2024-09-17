@@ -450,6 +450,11 @@ test:
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
+  - name: Testing Checklists
+    url: '#'
+    children:
+      - name: Email Messages
+        url: 'test/checklist/email-messages/'
   - name: Electronic Documents
     url: '#'
     children:
@@ -573,6 +578,8 @@ create:
     url: 'create/alternative-text/'
   - name: Electronic Signatures
     url: 'create/electronic-signatures/'   
+  - name: Email Messages
+    url: 'create/email-messages/'
   - name: Equations and Formulas
     url: 'create/accessible-equations-formulas/'
   - name: Meetings
