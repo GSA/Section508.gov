@@ -179,7 +179,7 @@ training:
     url: '#'
     children:
       - name: "Section 508: What is It and Why is It Important?"
-        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it-and-why-its-important/index.html'
+        url: 'https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html'
         external: true
       - name: "Accessibility of ICT: An Overview for Government Executives"
         url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
