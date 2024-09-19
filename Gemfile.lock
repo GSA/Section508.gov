@@ -5,6 +5,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.15.0)
       execjs (~> 2)
+    bigdecimal (3.1.8)
     colorator (1.1.0)
     concurrent-ruby (1.2.3)
     em-websocket (0.5.3)
@@ -17,11 +18,14 @@ GEM
     ffi (1.16.3)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
-    google-protobuf (4.26.1-x64-mingw-ucrt)
+    google-protobuf (4.27.5-x64-mingw-ucrt)
+      bigdecimal
       rake (>= 13)
-    google-protobuf (4.26.1-x86_64-darwin)
+    google-protobuf (4.27.5-x86_64-darwin)
+      bigdecimal
       rake (>= 13)
-    google-protobuf (4.26.1-x86_64-linux)
+    google-protobuf (4.27.5-x86_64-linux)
+      bigdecimal
       rake (>= 13)
     html-proofer (3.19.4)
       addressable (~> 2.3)
