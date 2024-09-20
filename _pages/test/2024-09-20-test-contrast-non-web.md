@@ -54,7 +54,7 @@ automated tools, and software and desktop-based applications. There are many too
 perform the following:
 
 ### Manual Contrast Checkers
-Manual contrast checkers require selection of the color or input of a Hex color code or Red, Green, and Blue (RGB) value. Many free online tools allow users to input a Hex color code, RGB value, or select a color to test contrast. While these tools can be accessed online without installation of an application, these tools require knowing the specific color of the foreground and background, which may not be possible.
+Manual contrast checkers require selection of the color or input of a Hex color code or Red, Green, and Blue (RGB) value. Free online tools such as <a href="https://webaim.org/resources/contrastchecker/">WebAIM's Contrast Checker*</a>, <a href="https://accessibleweb.com/color-contrast-checker/">Accessible Web’s WCAG Color Contrast Checker*</a>, or <a href="https://color-contrast-checker.deque.com/">Deque's Color Palette Contrast Checker*</a> allow users to input a Hex color code, RGB value, or select a color to test contrast. While these tools can be accessed online without installation of an application, these tools require knowing the specific color of the foreground and background, which may not be possible.
 
 ### Built-in Tools in Design Software
 Many content creation authoring and content creation tools, such as Adobe and Microsoft Office products, have built-in Accessibility Checkers that will flag a color contrast error or post a warning where additional manual testing may be needed. These automated checkers cannot test images of text; manual testing should always be performed.
@@ -62,11 +62,13 @@ Many content creation authoring and content creation tools, such as Adobe and Mi
 Read more on how to access Accessibility Checkers at <a href="https://www.section508.gov/test/documents/">Accessibility Testing for Electronic Documents</a>.
 
 ### Software and Desktop Applications
-Software and desktop applications are also available to test color contrast. These applications allow users to input color values such as Hex or RGB or use a dropper to select the color on the page to determine if the contrast meets accessibility standards. These tools provide flexibility to select the exact color from the document when the Hex or RGB values are unknown. Some tools can also provide auto detection of color contrast.
+Software and desktop applications are also available to test color contrast. For example, the <a href="https://www.tpgi.com/color-contrast-checker/">Colour Contrast Analyser by The Paciello Group*</a> and <a href="https://accessibilityinsights.io/">Accessibility Insights by Microsoft*</a> allow users allow users to input color values such as Hex or RGB or use a dropper to select the color on the page to determine if the contrast meets accessibility standards. These tools provide flexibility to select the exact color from the document when the Hex or RGB values are unknown. Some tools can also provide auto detection of color contrast.
 
 ### User Testing and Feedback
 To gather feedback on color contrast accessibility and user experience, a creator can utilize end-user feedback and real-world testing by engaging users with visual impairments or diverse abilities in usability testing. While this should not be the primary method of testing color contrast, this may provide valuable feedback on your digital content, templates, and themes used to ensure your content is easy to read and understand by everyone.
 
 Many other tools for testing color contrast can be found through a web search to meet your specific ICT product testing need, such as mobile applications. Please also see Section508.gov’s <a href="https://www.section508.gov/create/">Create</a> and <a href="https://www.section508.gov/develop/">Design and Develop</a> pages for further information.
+
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>*Disclaimer</strong>: Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act. </div>
 
 **Reviewed/Updated: September 2024**
