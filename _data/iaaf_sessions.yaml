@@ -1252,3 +1252,202 @@ iaaf_2023:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person 
+iaaf_2024: 
+  - day: 1
+    time_start: 2024-11-13 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2024-11-13 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2024-11-13 09:30:00
+        time_end: 2024-11-13 10:00:00
+        session_id: day1welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: daniel-pomeroy #bio_id for this person
+          - name: Introduction 
+            who: andrew-nielson #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2024-11-13 11:00:00
+        session_id: day1session1
+        subtitle: Government Update
+        description: Accessibility experts from the General Services Administration and U.S. Access Board will provide updates on federal Section 508 ICT accessibility initiatives and activities.
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person 
+          - name: Presenter
+            who: michael-horton #bio_id for this person 
+          - name: Presenter
+            who: smith-oconnor-kristen #bio_id for this person 
+          - name: Presenter
+            who: wilson-alex #bio_id for this person 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 11:00:00
+        time_end: 2024-11-13 12:00:00
+        session_id: day1session2
+        subtitle: Understanding Section 508 Exceptions
+        description: This session provides an overview of Section 508 exceptions under the Rehabilitation Act, exploring scenarios where compliance is not required. Attendees will learn about the conditions and criteria that allow for exceptions, including undue burden, non-public facing content, and national security concerns. Practical examples will highlight how to document exceptions properly while ensuring accessibility remains a priority. This presentation is ideal for Section 508 Program Managers, executive leadership, accessibility professionals, content creators, and policy implementers seeking clarity on legal and ethical considerations.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: bruce-bailey #bio_id for this person 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2024-11-13 12:00:00
+        time_end: 2024-11-13 13:00:00
+        session_id: day1break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-13 13:00:00
+        time_end: 2024-11-13 15:00:00
+        session_id: day1session3
+        subtitle: Boost Your Accessibility Testing Skills with DevTools
+        description: "Boost your accessibility testing skills with our upcoming training event on DevTools! Both Edge and Chrome feature powerful built-in web development tools, known as DevTools, that allow you to thoroughly inspect web pages and web apps. In this training, participants will learn how to open and navigate DevTools accessibility features, inspect and analyze web page elements, obtain detailed accessibility information, and verify support for screen readers."
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: garmer-shawn #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-13 15:00:00
+        time_end: 2024-11-13 15:15:00
+        session_id: day1break1
+        description:
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 15:15:00
+        time_end: 2024-11-13 16:15:00
+        session_id: day1session4
+        subtitle: "From Policy to Practice: Real-World Section 508 Implementation Insights"
+        description: This session provides an in-depth exploration of how agencies effectively implemented Section 508 standards, guided by the latest Office of Management and Budget (OMB) memorandums. Attendees will learn practical strategies for conducting accessibility assessments, and overcoming common challenges in digital accessibility. Real-world examples of successful Section 508 implementations will be highlighted, fostering discussions on improving accessibility compliance across government.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: letalien-bethany #bio_id for this person       
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sweeney-kate #bio_id for this person       
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2024-11-13 16:15:00
+        time_end: 2024-11-13 16:30:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 2
+    time_start: 2024-11-14 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2024-11-14 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2024-11-14 09:30:00
+        time_end: 2024-11-14 10:00:00
+        session_id: day2welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sachin-pavithran #bio_id for this person
+          - name: Introduction 
+            who: levy-alison #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-14 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2024-11-14 11:00:00
+        session_id: day2session1
+        subtitle: HTML B4 PDF
+        description: "There's nothing like a PDF, especially when you're on deadline and the document isn't accessible. And really, who likes reading a PDF on a phone? Here's an OG approach, using “@media print” for a superior printing experience; because yes, some people do use paper -- and it leaves accessibility in the &quot;always works&quot; mechanics of your CMS (Drupal, right?). Quick FYI: You're at a IT conference, so this is going to be the easiest code-related session you experience -- period. And yet, most .gov sites don't make good use of this works-everywhere, tried-and-true, tested for decades, bag of tricks. CSS2 came out in 1998 and we're still not fully flexing with it."
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: eng-kathy #bio_id for this person 
+          - name: Presenter
+            who: michael-horton #bio_id for this person 
+          - name: Presenter
+            who:  #bio_id for this person 
+          - name: Presenter
+            who:  #bio_id for this person 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-14 11:00:00
+        time_end: 2024-11-14 12:00:00
+        session_id: day2session2
+        subtitle: Enhancing Accessibility on Social Media Platforms in Federal Agencies
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government. Attendees will learn how to evaluate and ensure compliance with Section 508 standards across platforms like Facebook, Twitter, and LinkedIn. The session will cover best practices for making content accessible to individuals with disabilities, including captioning, alt text for images, and user-friendly design, ensuring that federal digital communications are inclusive for all.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: eng-kathy #bio_id for this person 
+          - name: 
+            who: 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2024-11-14 12:00:00
+        time_end: 2024-11-14 13:00:00
+        session_id: day2break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-14 13:00:00
+        time_end: 2024-11-14 15:00:00
+        session_id: day2session3
+        subtitle: Hi, I'm ANDI!
+        description: This presentation introduces ANDI, the Accessibility Name and Description Inspector, a tool designed to evaluate web accessibility compliance. Attendees will learn how ANDI helps developers and testers identify Section 508 violations in real-time, offering easy-to-use guidance on accessible coding practices. The session will cover its features, to help you ensure websites meet accessibility standards.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: cotter-john #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-14 15:00:00
+        time_end: 2024-11-14 15:15:00
+        session_id: day2break1
+        description:
+      - name: 'General Sesssion'
+        type: general
+        time_start: 2024-11-14 15:15:00
+        time_end: 2024-11-14 16:15:00
+        session_id: day2session4
+        subtitle: General Session
+        description: 
+        room:
+        roles: 
+          - name:  #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who:  #bio_id for this person       
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2024-11-14 16:15:00
+        time_end: 2024-11-14 16:30:00
+        session_id: day2close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
