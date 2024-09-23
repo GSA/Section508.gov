@@ -462,6 +462,8 @@ test:
         url: test/documents/
       - name: About Electonic Document Testing Tools
         url: test/about-testing-tools/
+      - name: Testing Color Contrast in Non-Web Documents and Images
+        url: test/color-contrast-in-nonweb-documents-images/
   - name: Software & Websites
     url: '#'
     children:
