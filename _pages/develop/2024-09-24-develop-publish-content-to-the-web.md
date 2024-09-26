@@ -1,7 +1,7 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/web-content/publish-to-the-web/
+permalink: develop/publish-to-web/
 type: develop 
 title: 'Considerations for Publishing a Page to the Web'
 created: 20240924
