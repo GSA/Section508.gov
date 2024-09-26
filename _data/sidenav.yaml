@@ -432,8 +432,13 @@ develop:
         url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
-      - name: Develop Web Content
-        url: develop/web-content/
+      - name: Web Content
+        url: '#'
+        grandchildren:
+          - name: Developing Accessible Web Content
+            url: develop/web-content/
+          - name: Publishing to the Web
+            url: develop/publish-to-web/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/   
       - name: How to Avoid Bias in Emerging Technologies
