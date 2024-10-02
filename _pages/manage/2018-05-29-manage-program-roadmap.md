@@ -42,15 +42,18 @@ format: HTML (html)
 </h2>
 
 <p dir="ltr">
-  If your agency does not have a 508 Program, or you are working to improve your 508 Program, you will need to incorporate the standards into the work you are already doing. Here is step-by-step technical assistance on how the standards fit into program maturity. Each step below is organized to show requirements, tools, best practices, testing guidelines, and relevant sections of the technology accessibility playbook.
+  If your agency does not have a Section 508 Program, or you are working to improve your Section 508 Program, you will need to incorporate the standards into the work you are already doing. Here is step-by-step technical assistance on how the standards fit into program maturity. Each step below is organized to show requirements, tools, best practices, testing guidelines, and relevant sections of the technology accessibility playbook.
 </p>
 
-<img alt="Image depicting components of a mature 508 Program" src="https://assets.section508.gov/files/508-roadmap.png" style="width:60%" title="Image depicting components of a mature 508 Program" /> 
+<div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
+   <div class="margin-top-1"><img src="https://assets.section508.gov/files/508-roadmap.png" alt="Components of a mature Section 508 Program listed in the steps below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+   </div>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Components of a mature Section 508 Program.</span>
+   </div>
+</div>
 
-<p dir="ltr">
-  Caption: Image of the components of a mature 508 Program
-</p>
-  <ul>
+### Steps to Incorporate
+<ol>
   <li dir="ltr">
     <a href="#build">Build Awareness & Support</a>
   </li>
@@ -69,7 +72,7 @@ format: HTML (html)
   <li dir="ltr">
     <a href="#monitor">Measure & Monitor Progress</a>
   </li>
-  </ul>
+</ol>
 
 <h2 id="build">
   Build Awareness & Support
@@ -86,7 +89,7 @@ format: HTML (html)
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a>&nbsp;- Work with your HR Office to identify user needs of people with disabilities in your organization. (NEW)
 </li>
 <li dir="ltr">
-  Assess the maturity of your agency's 508 program, and take steps to improve accessibility of agency technology.
+  Assess the maturity of your agency's Section 508 program, and take steps to improve accessibility of agency technology.
 </li>
 <li dir="ltr">
   Collaborate with your CIO and other stakeholders to align Section 508 compliance with enterprise efforts to:
@@ -123,13 +126,13 @@ format: HTML (html)
       <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule">Overview: Revised 508 Standards</a>
    </li>
   <li dir="ltr">
-     <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised 508 Standards</a>
+     <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Full Text: Revised Section 508 Standards</a>
   </li>
     <li dir="ltr">
     <a href="https://www.w3.org/TR/WCAG/">Web Content Accessibility Guidelines (WCAG 2.0)</a>
   </li> 
   <li dir ="ltr">
-  <a href = "https://www.access-board.gov/ict/wcag2ict.html"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original 508 Standards</li> 
+  <a href = "https://www.access-board.gov/ict/wcag2ict.html"> WCAG 2.0 Level A and Level AA Success Criteria </a>- Comparison to Original Section 508 Standards</li> 
    <li dir ="ltr">
    <a href = "{{site.baseurl}}/content/mapping-wcag-to-fpc">Mapping of WCAG 2.0 to Functional Performance Criteria (Informal guidance)</a></li>
   </ul>
@@ -139,13 +142,13 @@ format: HTML (html)
 </h3>
 <ul>
   <li dir="ltr">
-    <a href="https://www.accessibilityonline.org/cioc-508/archives/110610">Overview of the Revised 508 Standards</a> - January 2017
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110610">Overview of the Revised Section 508 Standards</a> - January 2017
   </li>
   <li dir="ltr">
-    <a href="https://www.accessibilityonline.org/cioc-508/archives/110612">WCAG 2.0 and the Revised 508 Standards</a> - March 2017
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110612">WCAG 2.0 and the Revised Section 508 Standards</a> - March 2017
   </li>
   <li dir="ltr">
-    <a href="https://www.accessibilityonline.org/cioc-508/archives/110613">Old versus New: Original Section 508 Standards (2000) compared to the Revised 508 Standards (2017)</a> - May 2017
+    <a href="https://www.accessibilityonline.org/cioc-508/archives/110613">Old versus New: Original Section 508 Standards (2000) compared to the Revised Section 508 Standards (2017)</a> - May 2017
   </li>
   <li dir="ltr">
     <a href="https://www.accessibilityonline.org/cioc-508/archives/110614">CIOC Revised Section 508 Chapter 4 Hardware (including Mobile)</a> - July 2017
@@ -162,9 +165,9 @@ format: HTML (html)
   Section 508 Online Training
 </h3>
 
-  * [Accessibility of ICT: An Overview for Government Executives][4] - A brief, high-level overview of the Revised 508 Standards, including roles and responsibilities of key Federal agency officials
+  * [Accessibility of ICT: An Overview for Government Executives][4] - A brief, high-level overview of the Revised Section 508 Standards, including roles and responsibilities of key Federal agency officials
   * [Section 508: What is It and Why is It Important to You?][5] - Introduction to Section 508 and Information and Communication Technology (ICT)
-  * [Micro-Purchases and Section 508 Requirements][6] - How to make micro-purchases that conform with the Revised 508 Standards
+  * [Micro-Purchases and Section 508 Requirements][6] - How to make micro-purchases that conform with the Revised Section 508 Standards
   * [Technology Accessibility Playbook: How to Build an Effective Section 508 Program][7] &ndash; Describes the 12 plays to integrate strategic, business and technology management into a successful Section 508 program, to ensure Federal ICT is accessible to persons with disabilities
   * [Procuring Section 508 Conformant ICT Products and Services][8] &ndash; Basic overview of the Federal acquisition process with regard to procuring ICT products and services that are Section 508 conformant
 
@@ -268,7 +271,7 @@ format: HTML (html)
 </h2>
 
 <p dir="ltr">
-  Update your agency policies to address new or updated requirements in the standards. If your agency does not have a 508 policy, you should establish one.
+  Update your agency policies to address new or updated requirements in the standards. If your agency does not have a Section 508 policy, you should establish one.
 </p>
 <ul>
 <li dir="ltr">
@@ -308,9 +311,9 @@ format: HTML (html)
   Tools
 </h3>
 
-  * [Accessibility Requirements Tool][16] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  * [Revised 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
-  * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
+  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
+  * [Revised Section 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
+  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
 
 <h3 dir="ltr">
   Best Practices
@@ -355,7 +358,7 @@ format: HTML (html)
       Determine the applicability of the standards to each item.
     </li>
     <li dir="ltr">
-      Identify how the vendor should provide information you need to perform a 508 technical evaluation;
+      Identify how the vendor should provide information you need to perform a Section 508 technical evaluation;
     </li>
     <li dir="ltr">
       Incorporate Section 508 criteria into the evaluation factors; and
@@ -395,10 +398,10 @@ format: HTML (html)
   Tools
 </h3>
 
-  * [Accessibility Requirements Tool][16] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  * [Revised 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
-  * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
-  * [508 Standards and Exceptions Chart & Examples][17] - Sample template for reporting standards and exceptions in solicitations
+  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
+  * [Revised Section 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
+  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
+  * [Section 508 Standards and Exceptions Chart & Examples][17] - Sample template for reporting standards and exceptions in solicitations
   * ​[U.S. Web Design System][10] - A design system to quickly prototype and deploy accessible digital products
 
 <h3 dir="ltr">
@@ -473,7 +476,7 @@ format: HTML (html)
   Promote the Federal CIO Council's free training resources to help you create and test Microsoft Office and Adobe Acrobat documents for accessibility. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure Section 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. (NEW)
 </li>
 </ul>
 
@@ -555,14 +558,12 @@ format: HTML (html)
 </li>
 </ul>
 
-<p dir="ltr">
-  <strong>Reviewed/Updated:</strong> January 2018
-</p>
+**Reviewed/Updated:** October 2024
 
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563
  [3]: {{site.baseurl}}/content/mapping-wcag-to-fpc
- [4]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [4]: https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html
  [5]: https://training.section508.gov/508-training/courses/508-basics/index.html
  [6]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
  [7]: https://training.section508.gov/508-training/courses/playbook/index.html
