@@ -181,8 +181,8 @@ training:
       - name: "Section 508: What is It and Why is It Important?"
         url: 'https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html'
         external: true
-      - name: "Accessibility of ICT: An Overview for Government Executives"
-        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
+      - name: "Accessibility of ICT for Government Executives"
+        url: 'https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html'
         external: true
       - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
         url: 'https://training.section508.gov/508-training/courses/playbook/index.html'

@@ -164,7 +164,7 @@ Incorporate the standards into agency life-cycle development activities for elec
 Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 
 
 
-**Page Reviewed/Updated**: November 2022
+**Page Reviewed/Updated**: October 2024
 
 &nbsp;
 
@@ -186,7 +186,7 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
- [21]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [21]: https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html
  [22]: https://training.section508.gov/508-training/courses/508-basics/index.html
  [23]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
  [24]: https://training.section508.gov/508-training/courses/playbook/index.html
