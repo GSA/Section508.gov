@@ -1,0 +1,100 @@
+---
+sidenav: true
+layout: page
+permalink: training/online-course/micro-purchases/
+type: training
+title: "Micro-Purchases and Section 508 Requirements"
+created: 2024-10-03
+redirect_from:
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "HTML"
+---
+<ul class="usa-card-group">
+  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading">Course Description</h4>
+      </div>
+      <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-section-508-what-is-it.jpg" alt="A placeholder image" class="radius-lg" />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p></p>
+      </div>
+      <div class="usa-card__footer">
+        <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+## Course Details
+**Audience:** 
+**Duration:** 60 minutes  
+**Skill Level:** Beginner | Intermediate | Expert  
+**Version:** Version 4.3 (Sep 2024)  
+
+## What will I learn in this course?
+By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
+
+After completing this training, you will be able to do the following:
+<ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Explain what Section 508 is, and when and how it applies.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Explain the benefits of Section 508 conformance and the risks of non-conformance.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Recognize what job-related responsibilities allow you to meet Section 508 standards.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Identify and use resources to help you meet your Section 508 responsibilities.</div>
+    </li>
+</ol>
+ 
+## Certificate and CLPs
+Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There are two type of certificate offered for this course.
+<ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">By selecting "Open Course" you will earn a downloadable PDF certificate upon completion.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">By selecting "Search for Course on FAI.gov," searching for and completing FAC-049, you earn a downloadable PDF certificate along with continuing learning points (CLP).</div>
+    </li>
+</ol>
+
+<div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
+    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+</div>
+
+## Key Terms and References 
+* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
+* [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
+* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
+* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
+* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+* [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
+* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
+* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
+* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+
+**Reviewed/Updated**: September 2024
