@@ -54,7 +54,7 @@ No matter which office software you use, you can apply heading styles in three s
 
 If your organization uses standard templates, ensure that the template’s styles for headings and normal text meet accessibility standards. While using an accessible template doesn't guarantee an accessible document, it can help improve efficiency, reduce remediation needs, and minimize delays in meeting accessibility requirements.
 
-For more guidance on document Headings, visit resources for [document creators]({{base.siteurl}}/create/documents/) to include the [Module 2: Use Styles to Create Headings]({{base.siteurl}}/training/documents/aed-cop-docx02/).
+For more guidance on document Headings, visit resources for [document creators]({{site.baseurl}}/create/documents/) to include the [Module 2: Use Styles to Create Headings]({{site.baseurl}}/training/documents/aed-cop-docx02/).
 
 <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
 To subscribe to, manage, or unsubscribe from <em>Accessibility Bytes</em>, visit <a href="https://public.govdelivery.com/accounts/USGSA/subscriber/new?topic_id=USGSA_1324" target="_blank" class="usa-link--external">GSA Email Updates</a>.
