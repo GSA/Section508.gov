@@ -252,7 +252,7 @@ Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Space Command (USSPACECOM)
-Shawn "Ty" Yeager - <shawn.yaeger.1@usspacecom.mil>  
+Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
