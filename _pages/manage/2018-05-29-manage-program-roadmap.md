@@ -168,7 +168,6 @@ format: HTML (html)
   * [Accessibility of ICT: An Overview for Government Executives][4] - A brief, high-level overview of the Revised Section 508 Standards, including roles and responsibilities of key Federal agency officials
   * [Section 508: What is It and Why is It Important to You?][5] - Introduction to Section 508 and Information and Communication Technology (ICT)
   * [Micro-Purchases and Section 508 Requirements][6] - How to make micro-purchases that conform with the Revised Section 508 Standards
-  * [Technology Accessibility Playbook: How to Build an Effective Section 508 Program][7] &ndash; Describes the 12 plays to integrate strategic, business and technology management into a successful Section 508 program, to ensure Federal ICT is accessible to persons with disabilities
   * [Procuring Section 508 Conformant ICT Products and Services][8] &ndash; Basic overview of the Federal acquisition process with regard to procuring ICT products and services that are Section 508 conformant
 
 <h3 dir="ltr">
@@ -566,7 +565,6 @@ format: HTML (html)
  [4]: https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html
  [5]: https://training.section508.gov/508-training/courses/508-basics/index.html
  [6]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
- [7]: https://training.section508.gov/508-training/courses/playbook/index.html
  [8]: https://training.section508.gov/508-training/courses/procurement/index.html
  [9]: #main-content
  [10]: https://standards.usa.gov/

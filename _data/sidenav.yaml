@@ -184,9 +184,6 @@ training:
       - name: "Accessibility of ICT for Government Executives"
         url: 'https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html'
         external: true
-      - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
-        url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
-        external: true
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
         external: true
