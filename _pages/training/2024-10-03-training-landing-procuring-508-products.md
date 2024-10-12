@@ -25,11 +25,11 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-section-508-what-is-it.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-procuring-ict-prod-srvs.jpg" alt="A placeholder image" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
-        <p></p>
+        <p>This course is a basic overview of the Federal acquisition process for procuring Information and Communication Technology (ICT) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC-056)</p>
       </div>
       <div class="usa-card__footer">
         <a href="https://training.section508.gov/508-training/courses/procuring-conformant-ict/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
@@ -40,9 +40,15 @@ format: "HTML"
 
 ## Course Details
 **Audience:** 
-**Duration:** 60 minutes  
+* Requiring Officials
+* Section 508 Program Managers & Section 508 Subject Matter Experts (SME)
+* Contracting Officers (CO) & Contracting Officer's Representatives (COR)
+* Program & Project Managers 
+* Procurement Team Members
+
+**Duration:** 105 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
-**Version:** Version 4.3 (Sep 2024)  
+**Version:** Version 1.0 (Mar 2024)  
 
 ## What will I learn in this course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -51,22 +57,26 @@ After completing this training, you will be able to do the following:
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Explain what Section 508 is, and when and how it applies.</div>
+        <div class="usa-icon-list__content">Determine when to apply the procurement process and recognize how it supports Section 508 compliance.</div>
     </li>
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Explain the benefits of Section 508 conformance and the risks of non-conformance.</div>
+        <div class="usa-icon-list__content">Understand the roles and responsibilities of everyone involved in applying Section 508 guidelines.</div>
     </li>
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Recognize what job-related responsibilities allow you to meet Section 508 standards.</div>
+        <div class="usa-icon-list__content">Describe how to apply Section 508 guidelines while you are planning to buy or develop an ICT product.</div>
     </li>
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Identify and use resources to help you meet your Section 508 responsibilities.</div>
+        <div class="usa-icon-list__content">Evaluate a vendor's documentation for their product’s accessibility conformance so you can make a purchasing decision.</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Describe how to apply Section 508 guidelines once you select your ICT product and begin to implement it.</div>
     </li>
 </ol>
- 
+
 ## Certificate and CLPs
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There are two type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
@@ -81,7 +91,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
 </div>
 
 ## Key Terms and References 
@@ -96,5 +106,19 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+* <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
 
-**Reviewed/Updated**: September 2024
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
+  </h2>
+  <div id="change-log" class="usa-accordion__content usa-prose">
+    <ul>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>March 2024 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+**Reviewed/Updated**: October 2024

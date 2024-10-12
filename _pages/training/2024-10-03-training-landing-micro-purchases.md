@@ -25,11 +25,11 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-section-508-what-is-it.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-micro-purchases.jpg" alt="A placeholder image" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
-        <p></p>
+        <p>The purpose of this course is to explain how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine.</p>
       </div>
       <div class="usa-card__footer">
         <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
@@ -40,9 +40,9 @@ format: "HTML"
 
 ## Course Details
 **Audience:** 
-**Duration:** 60 minutes  
+**Duration:** 30 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
-**Version:** Version 4.3 (Sep 2024)  
+**Version:** Version 1.0 (Apr 2014)  
 
 ## What will I learn in this course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -51,19 +51,19 @@ After completing this training, you will be able to do the following:
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Define Section 508 and how it applies to your procurement</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Identify a micro-purchase</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+        <div class="usa-icon-list__content">Determine the impact of Section 508 standards on micro-purchases</div>
+    </li>
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
         <div class="usa-icon-list__content">Explain what Section 508 is, and when and how it applies.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Explain the benefits of Section 508 conformance and the risks of non-conformance.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Recognize what job-related responsibilities allow you to meet Section 508 standards.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Identify and use resources to help you meet your Section 508 responsibilities.</div>
     </li>
 </ol>
  
@@ -81,20 +81,51 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
 </div>
 
 ## Key Terms and References 
-* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
-* [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
-* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-* [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
-* [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+* **Section 508 Standards**
+  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
+  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a><u> </u>
+* **Laws and Regulations**
+  * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
+  * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a>
+  * <a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR  Subpart 2.2 </a>
+  * <a href="https://www.acquisition.gov/content/part-10-market-research" target="_blank" class="usa-link--external">FAR 10</a>
+  * <a href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
+  * <a href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
+  * <a href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
+  * <a href="https://www.acquisition.gov/content/part-39-acquisition-information-technology" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
+* **Section 508.gov Resources**
+  * <a href="{{site.basueurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
+  * <a href="{{site.basueurl}}/buy">Buy Accessible Products and Services</a>
+  * <a href="{{site.basueurl}}/buy#market">Buy Accessible Products and Services, Market Research</a>
+  * <a href="{{site.basueurl}}/buy/determine-508-standards-exceptions ">Determine Section 508 Standards and Exceptions</a>
+  * <a href="{{site.basueurl}}/tools/coordinator-listing ">Find Your Section 508 Program Manager</a>
+  * <a href="{{site.basueurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
+    * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
+  * <a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a>
+* **Other Resources**
+  * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
+  * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
+  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a>
+  * <a href="https://interact.gsa.gov/document/omb-circular-123-appendix-b-improving-management-government-charge-card-programs" target="_blank" class="usa-link--external">OMB Circular A-123 Appendix B, Improving the Management of  Government Charge Card Programs</a>
+  * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
 
-**Reviewed/Updated**: September 2024
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
+  </h2>
+  <div id="change-log" class="usa-accordion__content usa-prose">
+    <ul>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>April 2014 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+**Reviewed/Updated**: October 2024

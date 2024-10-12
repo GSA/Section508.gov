@@ -5,6 +5,7 @@ permalink: training/online-course/ms-word-best-practices/
 type: training
 title: "Microsoft Word & Accessibility Best Practices"
 created: 2024-10-03
+updated: 
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"
@@ -82,13 +83,38 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">By selecting "Open Course" you will earn a downloadable PDF certificate upon completion.</div>
   </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
+      <div class="usa-icon-list__content">This course is <strong>not</strong> offered with continuing learning points (CLP).</div>
+  </li>  
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
 </div>
 
 ## Key Terms and References 
-* [How to Make an Accessible Document in Microsoft Word | Video Series]({{site.baseurl}}/create/documents/training-videos/)
+* [How to Make an Accessible Document in Microsoft Word (Video Series)]({{site.baseurl}}/create/documents/training-videos/)
+
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
+  </h2>
+  <div id="change-log" class="usa-accordion__content usa-prose">
+    <ul>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>July 2024 - v1.2 | Bug Fix:</strong> Miscellaneous bug fixes.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Feb 2024 - v1.1 | Bug Fix:</strong> Miscellaneous bug fixes.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>May 2023 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
 
 **Reviewed/Updated**: October 2024

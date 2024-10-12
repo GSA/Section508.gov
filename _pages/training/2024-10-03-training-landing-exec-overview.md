@@ -79,7 +79,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>NOTICE:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
 </div>
 
 ## Key Terms and References 
@@ -96,4 +96,21 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [Solicitation Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/)
 * <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
-**Reviewed/Updated**: September 2024
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
+  </h2>
+  <div id="change-log" class="usa-accordion__content usa-prose">
+    <ul>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>September 2024 - v2.0 | Interface Design and Content Update:</strong> We've updated the course to use a modern user interface and made minor updates to align with recent updates to law and policies, and associated roles and responsibilities.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>October 2023 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+**Reviewed/Updated**: October 2024
