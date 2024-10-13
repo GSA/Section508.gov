@@ -106,7 +106,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="{{site.basueurl}}/buy/determine-508-standards-exceptions ">Determine Section 508 Standards and Exceptions</a>
   * <a href="{{site.basueurl}}/tools/coordinator-listing ">Find Your Section 508 Program Manager</a>
   * <a href="{{site.basueurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
-    * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
+  * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
   * <a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a>
 * **Other Resources**
   * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>

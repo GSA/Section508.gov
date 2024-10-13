@@ -19,36 +19,49 @@ Learn how you can make your agency's electronic information and digital services
 
 <section class="usa-section">
 <ul class="usa-card-group">
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
+  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Onlinetraining">Online Training Courses</a></h2>
-      </header>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/images/thumb-training-online-training.jpg" alt="" aria-hidden="true"/>
+        </div>
+      </div>
       <div class="usa-card__body">
         <p>Courses that cover various aspect of Section 508 compliance and best practices.</p>
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
+  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Trainingvideos">Video Training</a></h2>
-      </header>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/images/thumb-training-video-training.jpg" alt="" aria-hidden="true"/>
+        </div>
+      </div>
       <div class="usa-card__body">
         <p>Watch video modules that cover Section 508 compliance for documents, presentations, PDFs, and more.</p>
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/events/">Events</a></h2>
-      </header>
+  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+       <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/events/">Events</a></h2>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="https://assets.section508.gov/files/images/thumb-training-events.jpg" alt="" aria-hidden="true"/>
+        </div>
+      </div>
       <div class="usa-card__body">
         <p>Attend current, upcoming, and view our recurring events.</p>
-        <!-- <ul class="add-list-reset">
-          <li><a href="{{site.baseurl}}/iaaf/">Annual Interagency Accessibility Forum (IAAF)</a></li>
-        </ul> -->
+        <p><a href="{{site.baseurl}}/iaaf/">2024 Interagency Accessibility Forum (IAAF)</a></p>
       </div>
     </div>
   </li>

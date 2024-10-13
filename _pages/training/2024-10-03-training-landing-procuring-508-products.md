@@ -106,7 +106,31 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+
+
+* [Buy Accessible Products and Services]({{site.baseurl}}/buy/)
+  * [Pre-Award Phase]({{site.baseurl}}/buy/#pre-award)
+  * [Award Phase]({{site.baseurl}}/buy/#award)
+  * [Post-Award Phase]({{site.baseurl}}/buy/#post-award)
+* [Create Accessible Digital Products]({{site.baseurl}}/create/)
+* [Determine 508 Standards and Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
+* [Define Accessibility Criteria in Contracts]({{site.baseurl}}/buy/define-accessibility-criteria/)
+* <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions</a>
+* [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/))
+* [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
 * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
+  * <a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a>
+  * <a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a>
+* [Section 508: What It Is and Why It’s Important?](https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html)
+* [Sell Accessible Products and Services]({{site.baseurl}}/sell/)
+* [Solicitation Review Tool (SRT)](https://www.section508.gov/buy/solicitation-review-tool/)
+* [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
+* [Trusted Tester and ICT Testing Baseline]({{site.baseurl}}/test/trusted-tester/)
+* Vocabulary
+  * [ICT]({{site.baseurl}}/content/glossary/#ict)
+  * [Compliant]({{site.baseurl}}/content/glossary/#compliant-section-508)
+  * [Conformant]({{site.baseurl}}/content/glossary/#conformant-section-508)
+  * [Micro-purchase]({{site.baseurl}}/content/glossary/#micro-purchase)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

@@ -39,8 +39,8 @@ format: "HTML"
 </ul>
 
 ## Course Details
-**Audience:** Government Purchase Card holders, Contracting Officers, Contracting Officer’s Representatives (COR), Requiring Officials, Approving Officials, and anyone involved in the micro-purchase process.  
-**Duration:** 60 minutes  
+**Audience:** Government Purchase Card holders, Contracting Officers, Contracting Officer’s Representatives (COR), Requiring Officials, Approving Officials, and anyone involved in the micro-purchase process.
+**Duration:** 30 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 1.0 (May 2023)  
 
@@ -89,17 +89,17 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </div>
 
 ## Key Terms and References 
-* [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
-* [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
-* [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
-* <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-* [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
-* [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
-* <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-* [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
-* <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+* [Accessibility Conformance Report (ACR)]({{site.baseurl}}/sell/acr/)
+* [Creating Accessible Documents]({{site.baseurl}}/create/documents/)
+* [Determine ICT Exceptions]({{site.baseurl}}/buy/determine-ict-exceptions/)
+* [How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT®)]({{site.baseurl}}/sell/how-to-create-acr-with-vpat/)
+* [How to Make an Accessible Document in Microsoft Word]({{site.baseurl}}/create/documents/)
+* <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">OpenACR Editor</a>
+* [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/authoring-guides/)
+* [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
+* Vocabulary
+  * [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/content/glossary/#vpat)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

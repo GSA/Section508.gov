@@ -94,7 +94,18 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </div>
 
 ## Key Terms and References 
+* [Authoring Meaningful Alternative Text]({{site.baseurl}}/create/alternative-text/)
+* <a href="https://publicaccessstorage.blob.core.usgovcloudapi.net/publicsitefiles/DOR%20Documents/Disability%20Access%20Services/CreatingAccessibleFormsinWordandPDFMay2021.pdf" target="_blank" class="usa-link--external">Creating Accessible Forms in Microsoft Word and Adobe PDF (PDF)</a>
+* [Documents Authoring Guides]({{site.baseurl}}/create/documents/authoring-guides/)
 * [How to Make an Accessible Document in Microsoft Word (Video Series)]({{site.baseurl}}/create/documents/training-videos/)
+* [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC]({{site.baseurl}}/create/pdfs/training-videos/)
+* [Module 2: Use Styles to Create headings](https://www.section508.gov/training/documents/aed-cop-docx02/)
+* <a href="https://www.bls.gov/opub/ted/2022/19-1-percent-of-people-with-a-disability-were-employed-in-2021.htm" target="_blank" class="usa-link--external">TED: 19.1 percent of people with a disability were employed in 2021</a>
+* <a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563" target="_blank" class="usa-link--external"> Using and editing existing styles in MS Word</a>
+* Vocabulary
+  * [Complex data table]({{site.baseurl}}/content/glossary/#complex-data-table)
+  * [Data table]({{site.baseurl}}/content/glossary/#data-table)
+  * [Simple data table]({{site.baseurl}}/content/glossary/#simple-data-table)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
