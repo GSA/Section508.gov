@@ -29,7 +29,7 @@ format: "HTML"
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The purpose of this course is to explain how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine.</p>
+        <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
         <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
