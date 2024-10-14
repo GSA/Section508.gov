@@ -40,7 +40,7 @@ format: "HTML"
 </ul>
 
 ## Course Details
-**Audience:** Document Authors
+**Audience:** Document Authors   
 **Duration:** 60 minutes  
 **Skill Level:** Intermediate | Expert  
 **Version:** Version 1.2 (Jul 2024)  
@@ -52,7 +52,7 @@ After completing this training, you will be able to do the following:
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Leaverahe heading styles and tavle of contents features to support optimal navigation.</div>
+        <div class="usa-icon-list__content">Leverage heading styles and table of contents features to support optimal navigation.</div>
     </li>
     <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
