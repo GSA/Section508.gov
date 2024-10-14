@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/micro-purchases/
 type: training
 title: "Micro-Purchases and Section 508 Requirements"
-created: 2024-10-03
+created: 2024-10-13
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"
@@ -32,7 +32,7 @@ format: "HTML"
         <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
+        <a href="https://training.section508.gov/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
       </div>
     </div>
   </li>
@@ -42,7 +42,7 @@ format: "HTML"
 **Audience:** 
 **Duration:** 30 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
-**Version:** Version 1.0 (Apr 2014)  
+**Version:** Version 2.0 (Nov 2021)  
 
 ## What will I learn in this course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -122,7 +122,15 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>April 2014 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
+        <div class="usa-icon-list__content"><strong>Nov 2021 - v2.0 | Release:</strong> Redesign and minor lesson refresh.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Arp 2014 - v1.1 | Release:</strong>  Miscellaneous bug fixes.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Jan 2013 - v1.0 | Release:</strong> Our initial release of the course with core lessons, practice quizzes, and foundational learning.</div>
       </li>
     </ul>
   </div>

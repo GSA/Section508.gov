@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/procuring-section-508-conformant-ict/
 type: training
 title: "Procuring Section 508 Conformant ICT Products and Services"
-created: 2024-10-03
+created: 2024-10-13
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"
@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-procuring-ict-prod-srvs.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-procuring-ict-prod-srvs.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This course is a basic overview of the Federal acquisition process for procuring Information and Communication Technology (ICT) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC-056)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/508-training/courses/procuring-conformant-ict/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
+        <a href="https://training.section508.gov/procuring-section-508-conformant-ict-products-and-services/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
       </div>
     </div>
   </li>
@@ -121,7 +121,6 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
   * <a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a>
   * <a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a>
-* [Section 508: What It Is and Why It’s Important?](https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html)
 * [Sell Accessible Products and Services]({{site.baseurl}}/sell/)
 * [Solicitation Review Tool (SRT)](https://www.section508.gov/buy/solicitation-review-tool/)
 * [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)

@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/section-508-what-is-it/
 type: training
 title: "Section 508: What It Is and Why It's Important?"
-created: 2024-08-30
+created: 2024-10-13
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"

@@ -318,7 +318,7 @@ format: "HTML (html)"
       <strong><span id="menu">Menu</span>:</strong> A set of selectable options
     </li>
     <li>
-      <strong><span id="micro-purchase">Micro-purchase</span>:</strong><p>As defined in the <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html#">FAR Subpart 2.2</a>, a micro-purchase is an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.</p>
+      <strong><span id="micro-purchase">Micro-purchase</span>:</strong><p>As defined in the <a href="https://www.acquisition.gov/far/part-2/#FAR_2_101__d75e1694" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>, a micro-purchase is an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.</p>
       <p>The micro-purchase threshold is $10,000. Always check FAR Subpart 2.2 for the current micro-purchase threshold information and any exceptions that may apply to your procurement.</p>
     </li>
     <li>

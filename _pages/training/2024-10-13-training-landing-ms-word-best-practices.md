@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/ms-word-best-practices/
 type: training
 title: "Microsoft Word & Accessibility Best Practices"
-created: 2024-10-03
+created: 2024-10-13
 updated: 
 redirect_from:
 topic: "Training (train)"
@@ -33,7 +33,7 @@ format: "HTML"
         <p>This training covers various techniques to create accessible and navigable documents. You will learn how to use heading styles and table of contents features to improve navigation, write effective image descriptions, and convert complex tables into simple ones for accessibility. Additionally, you will gain knowledge on creating accessible charts, integrating infographics, and creating PDF forms using Microsoft Word. Finally, the course will also discuss the strengths and limitations of the Accessibility Checker in Microsoft Word.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="https://training.section508.gov/microsoft-word-accessibility-best-practices/story.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>

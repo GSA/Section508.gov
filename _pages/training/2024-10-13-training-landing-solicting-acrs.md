@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/soliciting-and-evaluating-acrs/
 type: training
 title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
-created: 2024-10-03
+created: 2024-10-13
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"
@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This training covers how to identify when you need to create or request an Accessibility Conformance Report (ACR) for an Information and Communication Technology (ICT) product or service. It also covers the steps to take to write an ACR, and how to evaluate an ACR for a product. This training is intended both for those in the federal government who procure ICT and for vendors who provide ICT for federal government contracts.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/508-training/courses/soliciting-and-evaluating-acrs/index.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="https://training.section508.gov/soliciting-and-evaluating-acrs-in-federal-procurement/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>
