@@ -22,7 +22,7 @@ Learn how you can make your agency's electronic information and digital services
   <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Onlinetraining">Online Training Courses</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#online-training-courses">Online Training Courses</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
@@ -37,7 +37,7 @@ Learn how you can make your agency's electronic information and digital services
   <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#Trainingvideos">Video Training</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/training-home/#training-videos-library">Training Videos Library</a></h2>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
