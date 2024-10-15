@@ -52,16 +52,8 @@ format: "HTML (html)"
 <li dir="ltr">1.2.2 Captions (Prerecorded) - Captions are provided for all pre-recorded audio content in synchronized media, except when the media is a media alternative for text and is clearly labeled as such.</li>
 <li dir="ltr">1.2.4 Captions (Live) - Captions are provided for all live audio content in synchronized media.</li>
 </ul>
-<h3 dir="ltr"><strong>Examples of Captioned Media</strong></h3>
+<h3 id="examples-of-captioned-media" dir="ltr"><strong>Examples of Captioned Media</strong></h3>
 <hr />
-<!-- <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=9lW8cTgNfXI"><img style="width: 100%;" src="https://assets.section508.gov/files/thumbnails/kathys-flood-story-cc.png" alt="Kathy&rsquo;s Flood Story (Captioned)" /></a></strong></div>
-<div class="desktop:grid-col-9">
-<p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=9lW8cTgNfXI">Kathy&rsquo;s Flood Story (Captioned)</a></strong></p>
-<p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
-<p dir="ltr">Duration: 0h 0:31m</p>
-</div>
-</div> -->
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
@@ -71,11 +63,11 @@ format: "HTML (html)"
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
 <p dir="ltr"><strong>What is the difference between captions and subtitles?</strong></p>
 <p dir="ltr"><em>Subtitles</em> are used to translate dialogue into a different language. They are intended for hearing audiences and do not indicate audio information important to understanding the program. <em>Subtitles</em> rarely identify speakers or nonverbal sounds such as music and sound effects. <em>Subtitles</em> are not an acceptable method for conforming with the synchronized media standards.</p>
-<h4 dir="ltr"><strong>What is the difference between transcripts and captions?</strong></h4>
+<h4 id="whats-the-difference" dir="ltr"><strong>What is the difference between transcripts and captions?</strong></h4>
 <p dir="ltr"><em>Transcripts</em> are the output of a process in which speech or audio is converted into a written, plain text document. Transcripts do not have&nbsp; time-coded information associated with them. <em>Captions</em> divide transcripts into blocks of text, known as &ldquo;caption frames&rdquo; which are time-coded and synchronized with the audio of a video.</p>
-<h4 dir="ltr"><strong>Can&rsquo;t we just use auto-caption technology for pre-recorded media?</strong></h4>
+<h4 id="what-about-auto-captions" dir="ltr"><strong>Can&rsquo;t we just use auto-caption technology for pre-recorded media?</strong></h4>
 <p dir="ltr">While auto-captioning technology has improved considerably over the years, auto-captioning does not yet provide an equivalent experience for people who are deaf, hard of hearing, or who may otherwise use captions for understanding audio information. Voice-to-text translations can be incorrect, lack speaker name changes, fail to include any grammar and punctuation, and are often not synchronized with the narration in the audio track. Auto-captions also fail to describe other audible information, such as &ldquo;cars crashing&rdquo; or &ldquo;fire alarm sounding&rdquo; that could provide important non-visual context. As such, current auto-captioning technology would not allow your agency to meet the minimum standard for pre-recorded media.</p>
-<h4 dir="ltr"><strong>What are some tips for the production of captioned media?</strong></h4>
+<h4 id="tops-for-captioned-media" dir="ltr"><strong>What are some tips for the production of captioned media?</strong></h4>
 <p dir="ltr">The following are a few key items you should consider:&nbsp;</p>
 <ul>
 <li dir="ltr">Avoid relying solely on auto-captioning for pre-recorded media.</li>
@@ -85,7 +77,7 @@ format: "HTML (html)"
 <li dir="ltr">The style of captioned elements (e.g., speaker names, sounds) should be consistent throughout a project.</li>
 </ul>
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
-<h3 dir="ltr"><strong>Resources for Captions</strong></h3>
+<h3 id="resources-for-captions" dir="ltr"><strong>Resources for Captions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="https://www.3playmedia.com/learn/popular-topics/closed-captioning/">The Ultimate Guide To Closed Captioning</a> - 3PlayMedia</li>
 <li dir="ltr"><a class="ext" href="https://webaim.org/techniques/captions/">Captions, Transcripts, and Audio Descriptions</a> - WebAIM</li>
@@ -108,16 +100,11 @@ format: "HTML (html)"
 <li dir="ltr">1.2.3 Audio Description or Media Alternative (Prerecorded) - An alternative for time-based media or audio description of the prerecorded video content is provided for synchronized media, except when the media is a media alternative for text and is clearly labeled as such.</li>
 <li dir="ltr">1.2.5 Audio Description (Prerecorded) - Audio description is provided for all prerecorded video content in synchronized media.</li>
 </ul>
-<h3 dir="ltr"><strong>Examples of Audio Described Media</strong></h3>
-<hr />
-<!-- <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=fdpcYTIkvkI"><img style="width: 100%;" src="https://assets.section508.gov/files/thumbnails/kathys-flood-story-ad.png" alt="Kathy's Flood Story (Audio Described)" /></a></strong></div>
-<div class="desktop:grid-col-9">
-<p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=fdpcYTIkvkI">Kathy&rsquo;s Flood Story (Audio Described)</a></strong></p>
-<p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
-<p dir="ltr">Duration: 0h 0:42m</p>
+<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
+  <p><strong>PRO TIP: </strong>When producing videos for social media platforms that lack separate audio description (AD) controls, it's best practice to provide a version of the video that includes both captions and audio descriptions.</p>
 </div>
-</div> -->
+<h3 id="examples-of-audio-described-media" dir="ltr"><strong>Examples of Audio Described Media</strong></h3>
+<hr />
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Audio Described)</strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
 <p dir="ltr">Duration: 0h 0:42m</p>
@@ -148,7 +135,7 @@ format: "HTML (html)"
 <li dir="ltr">Describers should ensure that elements important to the narrative are described before additional details are provided. If time allows, the describer can include additional descriptions about the setting, a character's physical appearance and/or clothing to enhance the experience.</li>
 </ul>
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
-<h3 dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
+<h3 id="resources-for-audio-descriptions" dir="ltr"><strong>Resources for Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr"><a class="ext" href="http://www.mediac.ca/DVBPGDE_V2_28Feb2012.asp" target="_blank">Descriptive Video Production And Presentation Best Practices Guide For Digital Environments</a> - Media Access Canada</li>
 <li dir="ltr"><a class="ext" href="https://dcmp.org/learn/captioningkey/624">The Description Key</a> - The Described and Captioned Media Program
@@ -208,7 +195,7 @@ format: "HTML (html)"
 <li dir="ltr">503.4.1 Caption Controls. Where user controls are provided for volume adjustment, ICT shall provide user controls for the selection of captions at the same menu level as the user controls for volume or program selection.</li>
 <li dir="ltr">503.4.2 Audio Description Controls. Where user controls are provided for program selection, ICT shall provide user controls for the selection of audio descriptions at the same menu level as the user controls for volume or program selection.</li>
 </ul>
-<h3 dir="ltr"><strong>Example of Accessible User Controls&nbsp;</strong></h3>
+<h3 id="examples-of-user-controls" dir="ltr"><strong>Example of Accessible User Controls&nbsp;</strong></h3>
 <p dir="ltr">The Department of the Interior has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls (Figure 1).</p>
 <p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="https://assets.section508.gov/files/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
@@ -223,14 +210,14 @@ format: "HTML (html)"
 </div>
 <hr />
 <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">
-<h3 dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
+<h3 id="resources-for-user-controls" dir="ltr"><strong>Resources for User Controls for Captions and Audio Descriptions</strong></h3>
 <ul>
 <li dir="ltr">The Department of the Interior (DOI) <a class="ext" href="https://github.com/ONRR/accessible-video-player">media player</a> is available on GitHub</li>
 <li dir="ltr"><a href="https://www.digitalgov.gov/2014/06/30/508-accessible-videos-use-a-508-compliant-video-player/" target="_blank">508 Accessible Videos &ndash; Use a 508-Compliant Video Player</a> - Digital.gov</li>
 </ul>
 </div>
 <p class="rteright"><a href="#top">Back to Top</a></p>
-<h2 dir="ltr"><strong>Checklist</strong></h2>
+<h2 id="checklist" dir="ltr"><strong>Checklist</strong></h2>
 <table class="usa-table">
 <thead>
     <tr>
