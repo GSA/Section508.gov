@@ -10,6 +10,6 @@ position: Product Manager, Experience
 office: 
 location: Washington, D.C.
 email: 
-image_url: https://assets.section508.gov/files/bio-images/okeefe-david.jpg
+image_url: https://assets.section508.gov/files/bio-images/gillick-larry.jpg
 iaaf_years: 2024
 ---
