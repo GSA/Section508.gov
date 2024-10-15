@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/accessible-for-executives/
 type: training
 title: "Accessibility of ICT: An Overview for Government Executives"
-created: 2024-10-13
+created: 2024-10-15
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"

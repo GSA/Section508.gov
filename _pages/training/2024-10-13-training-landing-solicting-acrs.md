@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/soliciting-and-evaluating-acrs/
 type: training
 title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
-created: 2024-10-13
+created: 2024-10-15
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"

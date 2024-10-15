@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/micro-purchases/
 type: training
 title: "Micro-Purchases and Section 508 Requirements"
-created: 2024-10-13
+created: 2024-10-15
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"

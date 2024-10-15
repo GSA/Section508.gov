@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/procuring-section-508-conformant-ict/
 type: training
 title: "Procuring Section 508 Conformant ICT Products and Services"
-created: 2024-10-13
+created: 2024-10-15
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"

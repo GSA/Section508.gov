@@ -4,7 +4,7 @@ layout: page
 permalink: training/online-course/ms-word-best-practices/
 type: training
 title: "Microsoft Word & Accessibility Best Practices"
-created: 2024-10-13
+created: 2024-10-15
 updated: 
 redirect_from:
 topic: "Training (train)"

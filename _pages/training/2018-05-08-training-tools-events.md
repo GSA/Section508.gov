@@ -5,6 +5,7 @@ permalink: training/
 type: training
 title: 'Accessibility Training, Tools, and Events'
 created: 1525805876
+updated: 2024-10-15
 topic: Training (train)
 sub-topic: N/A
 audience:
