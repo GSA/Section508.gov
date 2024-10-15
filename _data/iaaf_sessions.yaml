@@ -1272,17 +1272,21 @@ iaaf_2024:
         time_start: 2024-11-13 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2024-11-13 11:00:00
         session_id: day1session1
-        subtitle: Government Update
-        description: Accessibility experts from the General Services Administration and U.S. Access Board will provide updates on federal Section 508 ICT accessibility initiatives and activities.
+        subtitle: Section 508 Activities Update by GSA
+        description: Accessibility experts from the U.S. Access Board (USAB) and the General Services Administration (GSA) will update attendees on current developments in the implementation and interpretation of the Section 508 Standards, including activities, achievements, milestones, and progress in assessing conformance across government.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person 
           - name: Presenter
             who: michael-horton #bio_id for this person 
+          #- name: Presenter
+          #  who: miller-laura
           - name: Presenter
             who: smith-oconnor-kristen #bio_id for this person 
           - name: Presenter
             who: wilson-alex #bio_id for this person 
+          - name: Presenter
+            who: krause-merrick
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1291,8 +1295,8 @@ iaaf_2024:
         time_start: 2024-11-13 11:00:00
         time_end: 2024-11-13 12:00:00
         session_id: day1session2
-        subtitle: Understanding Section 508 Exceptions
-        description: This session provides an overview of Section 508 exceptions under the Rehabilitation Act, exploring scenarios where compliance is not required. Attendees will learn about the conditions and criteria that allow for exceptions, including undue burden, non-public facing content, and national security concerns. Practical examples will highlight how to document exceptions properly while ensuring accessibility remains a priority. This presentation is ideal for Section 508 Program Managers, executive leadership, accessibility professionals, content creators, and policy implementers seeking clarity on legal and ethical considerations.
+        subtitle: Exceptions in Section 508 Regulatory Language
+        description: The Section 508 regulation introduces “General Exceptions” early in the document (202).  Why have exceptions?  What does each mean?  Why do some General Exceptions have sub-provisions, but others don’t?  Is there a difference between Exceptions and Exemptions?  Some provisions include Exceptions, are they like General Exceptions?  Is Assistive Technology exempt from 508?  What is the difference between Fundamental Alteration and Undue Burden?  Can I claim undue burden?
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1312,8 +1316,8 @@ iaaf_2024:
         time_start: 2024-11-13 13:00:00
         time_end: 2024-11-13 15:00:00
         session_id: day1session3
-        subtitle: Boost Your Accessibility Testing Skills with DevTools
-        description: "Boost your accessibility testing skills with our upcoming training event on DevTools! Both Edge and Chrome feature powerful built-in web development tools, known as DevTools, that allow you to thoroughly inspect web pages and web apps. In this training, participants will learn how to open and navigate DevTools accessibility features, inspect and analyze web page elements, obtain detailed accessibility information, and verify support for screen readers."
+        subtitle: Leveraging Browser DevTools to Aid Manual Web Accessibility Testing
+        description: Enhance your accessibility testing skills by learning about DevTools. Edge and Chrome have built-in web development tools, called DevTools which provide a powerful way to inspect webpages and web apps.  Participants will learn how to:<ul><li>Open and find DevTools Accessibility features</li><li>Inspect web page elements</li><li>Get accessibility information</li><li>Verify screen reader support</li></ul>
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1332,14 +1336,14 @@ iaaf_2024:
         time_start: 2024-11-13 15:15:00
         time_end: 2024-11-13 16:15:00
         session_id: day1session4
-        subtitle: "From Policy to Practice: Real-World Section 508 Implementation Insights"
-        description: This session provides an in-depth exploration of how agencies effectively implemented Section 508 standards, guided by the latest Office of Management and Budget (OMB) memorandums. Attendees will learn practical strategies for conducting accessibility assessments, and overcoming common challenges in digital accessibility. Real-world examples of successful Section 508 implementations will be highlighted, fostering discussions on improving accessibility compliance across government.
+        subtitle: Agency View on Assessments & Memorandums
+        description: Panel conversation on how different agencies leverage memorandums and the annual assessment to inform leadership.  The memorandums help the agencies to focus on requirements and the annual assessments gives program managers the ability to gather the data points; however, there are challenges with gathering high quality data.  Each agency, and subcomponent, has a different and unique experience.  This panel will discuss the experience from different agency levels.
         room:
         roles: 
-          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: letalien-bethany #bio_id for this person       
-          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sweeney-kate #bio_id for this person       
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: kate-sweeney #bio_id for this person       
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1371,17 +1375,15 @@ iaaf_2024:
         time_start: 2024-11-14 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2024-11-14 11:00:00
         session_id: day2session1
-        subtitle: HTML B4 PDF
-        description: "There's nothing like a PDF, especially when you're on deadline and the document isn't accessible. And really, who likes reading a PDF on a phone? Here's an OG approach, using “@media print” for a superior printing experience; because yes, some people do use paper -- and it leaves accessibility in the &quot;always works&quot; mechanics of your CMS (Drupal, right?). Quick FYI: You're at a IT conference, so this is going to be the easiest code-related session you experience -- period. And yet, most .gov sites don't make good use of this works-everywhere, tried-and-true, tested for decades, bag of tricks. CSS2 came out in 1998 and we're still not fully flexing with it."
+        subtitle: That Doesn't Need to Be a PDF
+        description: Hear how agencies can designed an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA to when a PDF document is the proper solution.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: eng-kathy #bio_id for this person 
           - name: Presenter
-            who: michael-horton #bio_id for this person 
+            who: gillick-larry
           - name: Presenter
-            who:  #bio_id for this person 
-          - name: Presenter
-            who:  #bio_id for this person 
+            who: michael-horton 
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1395,9 +1397,9 @@ iaaf_2024:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: eng-kathy #bio_id for this person 
-          - name: 
-            who: 
+            who: nieves-amy #bio_id for this person 
+          - name: Presenter
+            who: okeefe-david
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1413,8 +1415,8 @@ iaaf_2024:
         time_start: 2024-11-14 13:00:00
         time_end: 2024-11-14 15:00:00
         session_id: day2session3
-        subtitle: Hi, I'm ANDI!
-        description: This presentation introduces ANDI, the Accessibility Name and Description Inspector, a tool designed to evaluate web accessibility compliance. Attendees will learn how ANDI helps developers and testers identify Section 508 violations in real-time, offering easy-to-use guidance on accessible coding practices. The session will cover its features, to help you ensure websites meet accessibility standards.
+        subtitle: Meet ANDI
+        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1433,12 +1435,12 @@ iaaf_2024:
         time_start: 2024-11-14 15:15:00
         time_end: 2024-11-14 16:15:00
         session_id: day2session4
-        subtitle: General Session
-        description: 
+        subtitle: How to Build an Effective 508 Program
+        description: GSA's Technology Accessibility Playbook provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities. The Playbook contains twelve key “plays” drawn from successful practices in the government and private sector.
         room:
         roles: 
-          - name:  #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who:  #bio_id for this person       
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: frith-chet #bio_id for this person       
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1451,3 +1453,5 @@ iaaf_2024:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
+          #- name:
+          #  who: otts-katherine
