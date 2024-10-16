@@ -40,7 +40,11 @@ format: "HTML"
 </ul>
 
 ## Course Details
-**Audience:** Document Authors   
+**Audience:** 
+* Document Authors  
+* Web Content Managers  
+* Accessibility Testers
+
 **Duration:** 60 minutes  
 **Skill Level:** Intermediate | Expert  
 **Version:** Version 1.2 (Jul 2024)  

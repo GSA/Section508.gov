@@ -39,7 +39,12 @@ format: "HTML"
 </ul>
 
 ## Course Details
-**Audience:** Government Purchase Card holders, Contracting Officers, Contracting Officer’s Representatives (COR), Requiring Officials, Approving Officials, and anyone involved in the micro-purchase process.
+**Audience:** 
+* Government Purchase Card holders
+* Contracting Officers and Contracting Officer’s Representatives (COR)  
+* Requiring Officials  
+* Approving Officials
+
 **Duration:** 30 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 1.0 (May 2023)  

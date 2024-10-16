@@ -39,7 +39,15 @@ format: "Video & Synchronized Media (video)"
 </ul>
 
 ## Course Details
-**Audience:** Heads of Federal Agencies, Chief Acquisition Officers, Chief Diversity and Inclusion Officer, Chief Human Capital Officer, Chief Information Officers, Equal Employment Officer, and Section 508 Program Manager.  
+**Audience:** 
+* Heads of Federal Agencies  
+* Chief Acquisition Officers  
+* Chief Diversity and Inclusion Officer  
+* Chief Human Capital Officer  
+* Chief Information Officers  
+* Equal Employment Officer  
+* Section 508 Program Manager  
+
 **Duration:** 20 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 2.0 (Sep 2024)  

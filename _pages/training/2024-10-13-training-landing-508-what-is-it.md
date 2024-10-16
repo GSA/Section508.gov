@@ -39,7 +39,7 @@ format: "Video & Synchronized Media (video)"
 </ul>
 
 ## Course Details
-**Audience:** If you create, post, or maintain digital content for any federal agency, or manage people who do, then you need to understand the importance of Section 508 requirements and how they apply to your organization.  
+**Audience:** Federal Employees and Contractors  
 **Duration:** 60 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 4.3 (Sep 2024)  

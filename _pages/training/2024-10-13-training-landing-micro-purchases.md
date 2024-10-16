@@ -39,7 +39,13 @@ format: "HTML"
 </ul>
 
 ## Course Details
-**Audience:** 
+**Audience:**  
+*	Government Purchase Card holders  
+*	Requiring Officials  
+*	Section 508 Program Managers & Section 508 Subject Matter Experts (SME)  
+*	Contracting Officers (CO) & Contracting Officer’s Representatives (COR)  
+*	Approving Officials  
+
 **Duration:** 30 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 2.0 (Nov 2021)  
