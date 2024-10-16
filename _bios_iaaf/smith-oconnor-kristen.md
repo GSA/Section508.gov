@@ -6,7 +6,7 @@ first_name: Kristen
 last_name: Smith-O'Connor
 affiliation_long: General Services Administration
 affiliation_short: GSA
-position: Senior ICT ccessibility Specialist
+position: Senior ICT Accessibility Specialist
 office: Office of Government-wide Policy
 location: Washington, DC
 email: 

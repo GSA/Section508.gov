@@ -10,7 +10,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Fall 2024." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13 - 14, 2024. Beyond Compliance: Building a Culture of Digital Accessibility" src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
@@ -22,7 +22,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
   <div class="tablet:grid-col-9">
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Who: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Accessibility professionals</div>
+      <div class="grid-col tablet:grid-col-11">Accessibility Professionals</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>What: </strong></div>
@@ -41,10 +41,10 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
       <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
     </div>
     <h3>Registration</h3>
-      <p><a href="" target="_blank"><strong>Register Now!</strong></a> to join us for the 2024 Interagency Accessibility Forum. Registration for virtual attendance is available through the morning of Thursday, November 14.</p>
+      <p><a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><strong>Register Now!</strong></a> to join us for the 2024 Interagency Accessibility Forum. Registration for virtual attendance is available through the morning of Thursday, November 14.</p>
     </div>
     <div class="tablet:grid-col-3 text-center">
-      <a href="" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
+      <a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
   </div>
   <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
     <div class="usa-summary-box__body">
@@ -72,7 +72,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
+This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic an other sectors.
 
 For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
 
@@ -82,7 +82,7 @@ American Sign Language (ASL) interpretation and Real Time Captioning (CART) will
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 31, 2024. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
-The 2024 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Zoomfor Government app, but can also be accessed via web browser and telephone (audio-only). 
+The 2024 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Zoom for Government app, but can also be accessed via web browser and telephone (audio-only). 
 
 We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:
 
