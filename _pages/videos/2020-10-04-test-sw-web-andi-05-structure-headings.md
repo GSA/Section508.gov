@@ -3,27 +3,24 @@ sidenav: true
 layout: video
 permalink: training/web-software/andi-training-videos/structure-headings/
 type: ANDI training
-title: 'Module 5: Structure Headings'
+title: "Module 5: Headings - ANDI Training Video Series"
 created: 1601856900
 redirect_from:
-- test/web-software/andi-training-videos/structure-headings/
+  - test/web-software/andi-training-videos/structure-headings/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:
-- Federal employee (fedemp)
-- Website Managers/Content Managers (wcm)
-- Content Creators (creator)
-- Developers and Testers (dev-test)
+  - Federal employee (fedemp)
+  - Website Managers/Content Managers (wcm)
+  - Content Creators (creator)
+  - Developers and Testers (dev-test)
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-
 [comment]: <> (<h1>Module 5: Structure Headings </h1>)
 <div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
 </div>
-
-------------------
-
+---
 Learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-05-structure-headings-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -107,5 +104,4 @@ Learn how to use the ANDI _Structures_ module to inspect each visual heading on 
 </div>
 </div>
 <p><strong>Updated:</strong> September 2020</p>
-
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
+[1]: {{site.baseurl}}/content/glossary#programmatically-determinable
