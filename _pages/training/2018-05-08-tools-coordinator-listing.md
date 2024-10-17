@@ -117,7 +117,6 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 Lisa Wilcox - <lisa.wilcox@usda.gov>  
 
 * **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
-* **Economic Research Service (ERS)** <br>Beth Couturier <beth.couturier@usda.gov>  
 * **National Agricultural Statistics Service (NASS)** <br>David Larkin - <david.larkin@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
@@ -249,12 +248,11 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 ### Pentagon Force Protection Agency (PFPA)
 Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
 ### U.S. Northern Command (USNORTHCOM)
-Katherine	S. Nichols - <katherine.s.nichols2.civ@mail.mil>  
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Space Command (USSPACECOM)
-Shawn "Ty" Yeager - <shawn.yaeger.1@usspacecom.mil>  
+Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -337,7 +335,7 @@ Brandon Pace - <brandon.pace@hq.dhs.gov>
 Leslie Porter - <leslie.porter@hq.dhs.gov>  
 Dester Njike - <dester.njike@associates.hq.dhs.gov>
 ### Customs and Border Protection (CBP)
-John M. Buckley - <john.m.buckley@cbp.dhs.gov>  
+Paquiry Loganathan - <paquiry.loganathan@cbp.dhs.gov>  
 Amanda C. Haney (BACKUP) - <amanda.c.haney@cbp.dhs.gov>
 ### Cybersecurity & Infrastructure Security Agency (CISA)
 Matthew "Matti" Ricciardi	- <matthew.ricciardi@cisa.dhs.gov>   
@@ -644,7 +642,7 @@ Edward Yang - <eyang@abilityone.gov>
 
 ---
 ### Commodity Futures Trading Commission (CFTC)
-Kate Cerveny - <kcerveny@cftc.gov>
+John Nowlin - <jnowlin@cftc.gov>  
 
 ---
 ### Consumer Financial Protection Bureau (CFPB)
@@ -738,7 +736,6 @@ Randal Duchesneau - <randall.duchesneau@frb.gov>
 
 ---
 ### Federal Retirement Thrift Investment Board (FRTIB)
-Jasjit Matharu - <jasjit.matharu@frtib.gov>  
 FRTIB Section 508 Team - <Section508@frtib.gov>  
 
 ---
@@ -782,8 +779,8 @@ Jerry Carter - <carter@udall.gov>
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
-Eric Chaskes - <eric.chaskes@nara.gov>  
-Jocelyn	Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
+Sabrina Worthington - <sabrina.worthington@nara.gov>    
+Jocelyn Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
 
 ### National Capital Planning Commission (NCPC)
 Kim	Grace - <grace.kim@ncpc.gov>  
@@ -939,7 +936,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: August, 2024
+**Reviewed/Updated**: October, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

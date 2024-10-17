@@ -100,7 +100,6 @@ Prepare accessibility requirements for in-house procurement of customized and of
   * [Accessibility of ICT: An Overview for Government Executives][21] - A brief, high-level overview of the Revised 508 Standards, including roles and responsibilities of key Federal agency officials
   * [Section 508: What is It and Why is It Important to You?][22] - Introduction to Section 508 and Information and Communication Technology (ICT)
   * [Micro-Purchases and Section 508 Requirements][23] - How to make micro-purchases that conform with the Revised 508 Standards
-  * [Technology Accessibility Playbook: How to Build an Effective Section 508 Program][24] &ndash; Describes the 12 plays to integrate strategic, business and technology management into a successful Section 508 program, to ensure Federal ICT is accessible to persons with disabilities
   * [Procuring Section 508 Conformant ICT Products and Services][25] &ndash; Basic overview of the Federal acquisition process with regard to procuring ICT products and services that are Section 508 conformant
 
 <h2 id="language">
@@ -164,7 +163,7 @@ Incorporate the standards into agency life-cycle development activities for elec
 Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 
 
 
-**Page Reviewed/Updated**: November 2022
+**Page Reviewed/Updated**: October 2024
 
 &nbsp;
 
@@ -186,10 +185,9 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [18]: {{site.baseurl}}/buy/request-accessibility-information
  [19]: https://www.itic.org/dotAsset/db71ce67-c44a-4925-8d46-f8a76c3a1db2.doc
  [20]: {{site.baseurl}}/buy/define-accessibility-criteria
- [21]: https://training.section508.gov/508-training/courses/exec-overview/index.html
+ [21]: https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html
  [22]: https://training.section508.gov/508-training/courses/508-basics/index.html
  [23]: https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html
- [24]: https://training.section508.gov/508-training/courses/playbook/index.html
  [25]: https://training.section508.gov/508-training/courses/procurement/index.html
  [26]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx 
  [27]: {{site.baseurl}}/create/software-websites

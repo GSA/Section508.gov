@@ -179,13 +179,10 @@ training:
     url: '#'
     children:
       - name: "Section 508: What is It and Why is It Important?"
-        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html'
+        url: 'https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html'
         external: true
-      - name: "Accessibility of ICT: An Overview for Government Executives"
-        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
-        external: true
-      - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
-        url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
+      - name: "Accessibility of ICT for Government Executives"
+        url: 'https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html'
         external: true
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
@@ -432,8 +429,13 @@ develop:
         url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
-      - name: Develop Web Content
-        url: develop/web-content/
+      - name: Web Content
+        url: '#'
+        grandchildren:
+          - name: Developing Accessible Web Content
+            url: develop/web-content/
+          - name: Publishing to the Web
+            url: develop/publish-to-web/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/   
       - name: How to Avoid Bias in Emerging Technologies
@@ -450,6 +452,11 @@ test:
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
+  - name: Testing Checklists
+    url: '#'
+    children:
+      - name: Email Messages
+        url: 'test/checklist/email-messages/'
   - name: Electronic Documents
     url: '#'
     children:
@@ -457,6 +464,8 @@ test:
         url: test/documents/
       - name: About Electonic Document Testing Tools
         url: test/about-testing-tools/
+      - name: Testing Color Contrast in Non-Web Documents and Images
+        url: test/color-contrast-in-nonweb-documents-images/
   - name: Software & Websites
     url: '#'
     children:
@@ -573,6 +582,8 @@ create:
     url: 'create/alternative-text/'
   - name: Electronic Signatures
     url: 'create/electronic-signatures/'   
+  - name: Email Messages
+    url: 'create/email-messages/'
   - name: Equations and Formulas
     url: 'create/accessible-equations-formulas/'
   - name: Meetings

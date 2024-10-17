@@ -39,7 +39,19 @@ format: "HTML (html)"
       <strong><span id="agency">Agency</span>:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}
     </li>
     <li>
-      <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content which is not public facing, constitutes official business, and is communicated by an agency through one or more of the criteria set forth in E205.3.
+      <strong><span id="agency-official-communications">Agency Official Communications</span>:</strong> Electronic content that is not public facing shall conform to the accessibility requirements specified in <a href="https://www.access-board.gov/ict/#E205.4" target="_blank" class="usa-link--external">E205</a> when such content constitutes official business and is communicated by an agency through one or more of the following:
+      <ol type="A">
+        <li>An emergency notification;</li>
+        <li>An initial or final decision adjudicating an administrative claim or proceeding;</li>
+        <li>An internal or external program or policy announcement;</li>
+        <li>A notice of benefits, program eligibility, employment opportunity, or personnel action;</li>
+        <li>A formal acknowledgement of receipt;</li>
+        <li>A survey questionnaire;</li>
+        <li>A template or form;</li>
+        <li>Educational or training materials; or</li>
+        <li>Intranet content designed as a Web page.</li>
+      </ol>
+      EXCEPTION: Records maintained by the National Archives and Records Administration (NARA) pursuant to Federal recordkeeping statutes shall not be required to conform to the Revised 508 Standards unless public facing.
     </li>
     <li>
       <strong><span id="alteration">Alteration</span>:</strong> A change to existing ICT that affects interoperability, the user interface, or access to information or data.

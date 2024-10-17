@@ -5,6 +5,7 @@ permalink: training/presentations/aed-cop-pptx02/
 type: presentation training
 title: 'Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient'
 created: 1578419471
+updated: 2024-10-08
 redirect_from:
  - create/presentations/aed-cop-pptx02/
 topic: Training (train)
@@ -48,6 +49,9 @@ When choosing the color palette for your slide&rsquo;s design, close attention m
   * [Module 12: Excluding Flashing Objects][12]
   * [Module 13: Saving in the .pptx Format with a Descriptive Filename][13]
 
+## Related Resource
+  * [Testing Tools for Web][14] - Information to download the Colour Contrast Analyser
+
 <div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
 <div class="padding-1">
 <p class="text-large"><strong>Before You Go</strong></p>
@@ -56,7 +60,7 @@ When choosing the color palette for your slide&rsquo;s design, close attention m
 </div>
 </div>
 
-**Updated**: July 2023
+**Updated**: October 2024
 
  [0]: {{site.baseurl}}/training/presentations/aed-cop-pptx00/
  [1]: {{site.baseurl}}/training/presentations/aed-cop-pptx01/
@@ -72,3 +76,4 @@ When choosing the color palette for your slide&rsquo;s design, close attention m
  [11]: {{site.baseurl}}/training/presentations/aed-cop-pptx11/
  [12]: {{site.baseurl}}/training/presentations/aed-cop-pptx12/
  [13]: {{site.baseurl}}/training/presentations/aed-cop-pptx13/
+ [14]: {{site.baseurl}}/test/web-software/#testing-tools-for-web
