@@ -72,7 +72,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic an other sectors.
+This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 
 For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
 
@@ -82,7 +82,7 @@ American Sign Language (ASL) interpretation and Real Time Captioning (CART) will
 If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 31, 2024. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
-The 2024 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Zoom for Government app, but can also be accessed via web browser and telephone (audio-only). 
+The 2024 IAAF will return as an in-person conference, with virtual attendance for most sessions using Zoom. Zoom meetings and webinars are best experienced when using the Zoom for Government app, but can also be accessed via web browser and telephone (audio-only). 
 
 We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:
 
