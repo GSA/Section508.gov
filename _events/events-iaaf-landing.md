@@ -10,7 +10,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13-14, 2024. Achieving Digital Equity: Policies, Tools, and Techniques. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13-14, 2024. Achieving Digital Equity: Policies, Tools, and Techniques. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
