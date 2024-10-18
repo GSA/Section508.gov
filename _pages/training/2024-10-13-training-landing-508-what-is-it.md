@@ -39,45 +39,45 @@ format: "Video & Synchronized Media (video)"
 </ul>
 
 ## Course Details
-**Audience:** Federal Employees and Contractors  
+**Audience:** Federal Employees and Contracts
 **Duration:** 60 minutes  
 **Skill Level:** Beginner | Intermediate | Expert  
-**Version:** Version 4.3 (Sep 2024)  
+**Version:** Version 4.1 (Sep 2024)  
 
 ## What will I learn in this course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
 
 After completing this training, you will be able to do the following:
 <ol class="usa-icon-list tablet:grid-col">
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Explain what Section 508 is, and when and how it applies.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Explain the benefits of Section 508 conformance and the risks of non-conformance.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Recognize what job-related responsibilities allow you to meet Section 508 standards.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">Identify and use resources to help you meet your Section 508 responsibilities.</div>
-    </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">Explain what Section 508 is, and when and how it applies.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">Explain the benefits of Section 508 conformance and the risks of non-conformance.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">Recognize what job-related responsibilities allow you to meet Section 508 standards.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">Identify and use resources to help you meet your Section 508 responsibilities.</div>
+  </li>
 </ol>
  
 ## Certificate and CLPs
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There are two type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">By selecting "Open Course" you will earn a downloadable PDF certificate upon completion.</div>
-    </li>
-    <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-        <div class="usa-icon-list__content">By selecting "Search for Course on FAI.gov," searching for and completing FAC-049, you earn a downloadable PDF certificate along with continuing learning points (CLP).</div>
-    </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">By selecting "Open Course" you will earn a downloadable PDF certificate upon completion.</div>
+  </li>
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
+      <div class="usa-icon-list__content">By selecting "Search for Course on FAI.gov," searching for and completing FAC-049, you earn a downloadable PDF certificate along with continuing learning points (CLP).</div>
+  </li>
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
@@ -102,6 +102,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </h2>
   <div id="change-log" class="usa-accordion__content usa-prose">
     <ul>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>September 2024 - v4.1 | Bug Fix:</strong> Correct a bug that prevented learners from navigating from Lesson 2 to Lesson 3 after answering practice questions.</div>
+      </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>September 2024 - v4.0 | Add Completion Test:</strong> Learners now take a 10-question test to earn a certificate of completion.</div>
