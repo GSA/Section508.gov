@@ -29,10 +29,11 @@ Guidance to help Section 508 Program Managers build an effective IT accessibilit
 
 The Technology Accessibility Playbook is a product of the [Federal CIO Council Accessibility Community of Practice (CIOC ACoP)][8].
 
-## Executive Guide
+## Executive Guide to IT Accessibility
 Federal CIO and agency executive support for accessible IT is essential to increase compliance with federal policy, and to help agencies deliver an excellent digital customer experience that is accessible to all. 
 
-  * [Executive Guide to IT Accessibility][1] (<a href="https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks" target="_blank">PDF</a>, August 2018)
+  * [Executive Guide to IT Accessibility][1] 
+  * <a href="https://assets.section508.gov/files/Executive%20Guide%20to%20Federal%20IT%20Accessibility.pdf#overlay-context=tools/playbooks" target="_blank">Executive Guide to IT Accessibility (PDF)</a>
   * [Accessibility of ICT: An Overview for Government Executives][3] - Online Training (15-minutes)
 
 ## Chatbot Accessibility Playbook

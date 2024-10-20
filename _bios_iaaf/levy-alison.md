@@ -11,11 +11,11 @@ office:
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/levy-alison.jpg
-iaaf_years: 2023
+iaaf_years: 2023, 2024
 ---
 Alison Sutton Levy joined the U.S. Access Board in June 2022 as the Director of the Office of Information and Technical Services (OTIS) where she oversees the technical assistance team for both the built and digital environments.
 
-The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. OTIS currently includes a team of eight staff members who write the
+The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. OTIS currently includes a team of eight staff members who write the
 
 guidelines and standards, provide answers to technical questions via a hotline and email, and present training in person and virtually.
 

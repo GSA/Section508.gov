@@ -252,7 +252,7 @@ Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>
 ### U.S. Southern Command (SOUTHCOM)
 Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 ### U.S. Space Command (USSPACECOM)
-Shawn "Ty" Yeager - <shawn.yaeger.1@usspacecom.mil>  
+Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -779,8 +779,8 @@ Jerry Carter - <carter@udall.gov>
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
-Eric Chaskes - <eric.chaskes@nara.gov>  
-Jocelyn	Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
+Sabrina Worthington - <sabrina.worthington@nara.gov>    
+Jocelyn Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
 
 ### National Capital Planning Commission (NCPC)
 Kim	Grace - <grace.kim@ncpc.gov>  
@@ -936,7 +936,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: August, 2024
+**Reviewed/Updated**: October, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
