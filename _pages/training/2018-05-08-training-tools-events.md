@@ -27,7 +27,7 @@ Learn how you can make your agency's electronic information and digital services
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/images/thumb-training-online-training.jpg" alt="" aria-hidden="true"/>
+          <img src="https://assets.section508.gov/files/images/thumb-training-online.jpg" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -42,7 +42,7 @@ Learn how you can make your agency's electronic information and digital services
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/images/thumb-training-video-training.jpg" alt="" aria-hidden="true"/>
+          <img src="https://assets.section508.gov/files/images/thumb-training-video.jpg" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
