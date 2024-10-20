@@ -29,10 +29,10 @@ format: "Video & Synchronized Media (video)"
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course ID: FAC-049)</p>
+        <p>Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course ID: FAC 049)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Search for Course on FAI.gov</a>
+        <a href="https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 049</a>
       </div>
     </div>
   </li>
@@ -44,7 +44,7 @@ format: "Video & Synchronized Media (video)"
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 4.1 (Sep 2024)  
 
-## What will I learn in this course?
+## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
 
 After completing this training, you will be able to do the following:
@@ -67,7 +67,7 @@ After completing this training, you will be able to do the following:
   </li>
 </ol>
  
-## Certificate and CLPs
+## Certificate and Continuing Learning Points (CLPs)
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There are two type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
@@ -76,12 +76,13 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
-      <div class="usa-icon-list__content">By selecting "Search for Course on FAI.gov," searching for and completing FAC-049, you earn a downloadable PDF certificate along with continuing learning points (CLP).</div>
+      <div class="usa-icon-list__content">By selecting "Search for Course on FAI.gov," then searching for and completing FAC 049, you earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC).</div>
+      
   </li>
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) offers this and other IT accessibility online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC). To find these and other online courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses</a>.
 </div>
 
 ## Key Terms and References 
@@ -104,7 +105,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
-        <div class="usa-icon-list__content"><strong>September 2024 - v4.1 | Bug Fix:</strong> Correct a bug that prevented learners from navigating from Lesson 2 to Lesson 3 after answering practice questions.</div>
+        <div class="usa-icon-list__content"><strong>October 2024 - v4.1 | Bug Fix:</strong> Correct an issue preventing learners from navigating from Lesson 2 to Lesson 3 after answering the practice questions.</div>
       </li>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>

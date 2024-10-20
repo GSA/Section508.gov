@@ -52,7 +52,7 @@ format: "Video & Synchronized Media (video)"
 **Skill Level:** Beginner | Intermediate | Expert  
 **Version:** Version 2.0 (Sep 2024)  
 
-## What will I learn in this course?
+## What Will I Learn in This Course?
 This course will help you to understand [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) and the related laws, policies, roles, and responsibilities.
 
 After completing this course, you will be able to do the following:
@@ -74,7 +74,7 @@ After completing this course, you will be able to do the following:
 
 For a more detailed overview of Section 508, we encourage that you take the course [Section 508: What Is It and Why Is It Important?](training/online-course/section-508-what-is-it-and-why-its-important/)
 
-## Certificate and CLPs
+## Certificate and Continuing Learning Points (CLPs)
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There is only one type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
@@ -86,8 +86,9 @@ Demonstrate your skills and stand out in your field with a certificate that prov
         <div class="usa-icon-list__content">This course is <strong>not</strong> offered with continuing learning points (CLP).</div>
     </li>
 </ol>
+
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) offers IT accessibility online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC). To find these and other online courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses</a>.
 </div>
 
 ## Key Terms and References 

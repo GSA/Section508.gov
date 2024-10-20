@@ -49,7 +49,7 @@ format: "HTML"
 **Skill Level:** Intermediate | Expert  
 **Version:** Version 1.2 (Jul 2024)  
 
-## What will I learn in this course?
+## What Will I Learn in This Course?
 In this course you'll learn how to utilize Authoring features in Microsoft Word to structure and organize Contant in an accessible Word document. This module builds upon the [document video series]({{site.baseurl}}/create/documents/training-videos/) created by the Federal CIO Council's Accessible Electronic Document Community of Practice (AED COP).
 
 After completing this training, you will be able to do the following:
@@ -80,7 +80,7 @@ After completing this training, you will be able to do the following:
     </li>
 </ol>
  
-## Certificate and CLPs
+## Certificate and Continuing Learning Points (CLPs)
 Demonstrate your skills and stand out in your field with a certificate that proves you’ve completed this course. There is only one type of certificate offered for this course.
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
@@ -94,7 +94,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 </ol>
 
 <div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) provides IT accessibility training courses that offer CLPs, needed to keep your Federal Acquisition Certification (FAC). To see the latest courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses on FAI.gov</a>.
+    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) offers IT accessibility online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC). To find these and other online courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses</a>.
 </div>
 
 ## Key Terms and References 
