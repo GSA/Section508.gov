@@ -4,8 +4,8 @@ bio_id: jones-bryson
 display_name: Bryson Jones
 first_name: Bryson
 last_name: Jones
-affiliation_long: National Park Service
-affiliation_short: NPS
+affiliation_long: U.S. Fish and Wildlife Service
+affiliation_short: FWS
 position: National Social Media Manager
 office: 
 location: Washington, DC
