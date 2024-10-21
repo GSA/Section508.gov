@@ -1428,6 +1428,10 @@ iaaf_2024:
             who: nieves-amy #bio_id for this person 
           - name: Presenter
             who: okeefe-david
+          - name: Presenter
+            who: jones-bryson
+          - name: Presenter
+            who: lindeman-alex
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
