@@ -97,7 +97,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul>
 <li dir="ltr">
-  <a href="https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html">IT Accessibility: An Overview for Government Executives</a>
+  <a href="{{site.baseurl}}/training/online-course/accessible-for-executives/">IT Accessibility: An Overview for Government Executives</a>
 </li>
 </ul>
 

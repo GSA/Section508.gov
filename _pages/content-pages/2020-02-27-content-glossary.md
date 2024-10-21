@@ -131,7 +131,10 @@ format: "HTML (html)"
       <strong><span id="complex-data-table">Complex data table</span>:</strong> A table that organizes data using more than a simple row/column structure. For example, categories of data may have subcategories, or data may belong to more than two categories (contrast with <a href="#simple-data-table">simple data table</a>).
     </li>
     <li>
-      <strong><span id="conformance-section-508">Conformance (Section 508)</span>:</strong> When electronic and information technology meets all of the applicable standards; for example, where a webpage meets W3C WCAG 2.0, Level A and AA guidelines.
+      <strong><span id="compliance-section-508">Compliance (Section 508)</span>:</strong> When a <em>person or organization</em> meets all information and communication technology (ICT) legal requirements; for example, Section 508 of the Rehabilitation Act of 1973, as amended.
+    </li>
+    <li>
+      <strong><span id="conformance-section-508">Conformance (Section 508)</span>:</strong> When an electronic and information and communication technology (ICT) <em>product or service</em> meets all of the applicable standards; for example, where a webpage meets W3C WCAG 2.0, Level A and AA guidelines incorporated by reference in the Section 508 Standards.
     </li>
     <li>
       <strong><span id="content">Content</span>:</strong> Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions.
@@ -313,6 +316,10 @@ format: "HTML (html)"
   <ul>
     <li>
       <strong><span id="menu">Menu</span>:</strong> A set of selectable options
+    </li>
+    <li>
+      <strong><span id="micro-purchase">Micro-purchase</span>:</strong><p>As defined in the <a href="https://www.acquisition.gov/far/part-2/#FAR_2_101__d75e1694" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>, a micro-purchase is an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.</p>
+      <p>The micro-purchase threshold is $10,000. Always check FAR Subpart 2.2 for the current micro-purchase threshold information and any exceptions that may apply to your procurement.</p>
     </li>
     <li>
       <strong><span id="multimedia">Multimedia (synchronized media)</span>:</strong> The combined use of several media, such as audio and visual (e.g., video or animation) to convey information or a live event, such as a television broadcast.
@@ -564,8 +571,6 @@ format: "HTML (html)"
       </p>
     </div>
   </div>
-  
-  <p>
-    <strong>Updated:</strong> November 2022
-  </p>
 </div>
+
+**Reviewed/Updated:** October 2024

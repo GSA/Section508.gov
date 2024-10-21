@@ -173,32 +173,26 @@ manage:
 training:
   - name: Training, Tools & Events
     url: 'training/'
-  - name: Training
+  - name: Training Overview
     url: 'training-home/'
   - name: Online Training Courses
     url: '#'
     children:
-      - name: "Section 508: What is It and Why is It Important?"
-        url: 'https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html'
-        external: true
       - name: "Accessibility of ICT for Government Executives"
-        url: 'https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html'
-        external: true
+        url: 'training/online-course/accessible-for-executives/'
       - name: "Microsoft Word & Accessibility Best Practices"
-        url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
-        external: true
+        url: 'training/online-course/ms-word-best-practices/'
       - name: "Micro-Purchases and Section 508 Requirements"
-        url: 'https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html'
-        external: true
+        url: 'training/online-course/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
-        url: 'https://training.section508.gov/508-training/courses/procuring-conformant-ict/index.html'
-        external: true
+        url: 'training/online-course/procuring-section-508-conformant-ict/'
+      - name: "Section 508: What is It and Why is It Important?"
+        url: 'training/online-course/section-508-what-is-it/'
       - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
-        url: 'https://training.section508.gov/508-training/courses/soliciting-and-evaluating-acrs/index.html'
-        external: true
-      - name: "Training via FAI"
-        url: 'training-home#FAI'
-  - name: Video Training
+        url: 'training/online-course/soliciting-and-evaluating-acrs/'
+      - name: "Online Training Courses via FAI"
+        url: 'training-home#federal-acquisition-institute'
+  - name: Training Videos Library
     url: '#'
     children:
       - name: "Accessibility Requirements Tool"

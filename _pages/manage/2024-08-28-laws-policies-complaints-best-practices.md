@@ -56,7 +56,7 @@ Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1
 <li>The complainant reports not being able to access content using Assistive Technology (AT), such as the inability to navigate the agency’s public or internal website using a screen reader such as JAWS, VoiceOver, or NVDA. AT refers to any device, software, equipment, or system that is designed to help people with disabilities perform tasks independently.</li>
 <li>A complaint states that an ICT does not provide comparable access.  For example, if a person without sight is not able to independently use a check-in kiosk at an agency field office, this may be a Section 508 violation.</li>
 <li>A person with a disability does not need to use specific terms like “inaccessible ICT” or “Section 508” when filing a complaint. For example, someone who is deaf could cite in a complaint that the videos posted on the agency website lack captions.</li></ul></li>
-<li>Suggested training for intake staff includes <a href="https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html">Section 508: What It Is and Why It’s Important?</a></li></ol></li>
+<li>Suggested training for intake staff includes <a href="{{site.baseurl}}/training/online-course/section-508-what-is-it/">Section 508: What It Is and Why It’s Important?</a></li></ol></li>
 <li>Describe the process for investigating a Section 508 complaint.
 <ol type="a">
 <li>For a Section 508 complaint, it is critical relevant stakeholders regularly collaborate during the investigation and, if necessary, on the resolution of the complaint and any corrective action.  Relevant stakeholders may include:
