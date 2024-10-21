@@ -547,7 +547,7 @@ Tracy George - <georget@oig.treas.gov>
 Rodney Kent - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Treasury Inspector General for Tax Administration (TIGTA)
-Buddy Rapczynski - <buddy.rapczynski@tigta.treas.gov>  
+Sharon Archer-Jackson - <sharon.archer-jackson@tigta.treas.gov>  
 ### U.S. Mint
 James Proctor - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (BACKUP) - <rodney.dunwoody@usmint.treas.gov>
