@@ -74,7 +74,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 
 This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 
-For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
+For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
 
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
