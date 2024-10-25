@@ -957,10 +957,10 @@
         },
         { 
             "elementType":"checkboxGroup",
-            "title": "",
+            "title": "What ICT support documentation or service are your procuring?",
             "menuItem":"Support Documentation & Services",
             "hidden":true,
-            "label": "What ICT support documentation or service are your procuring?",
+            "label": "",
             "placeholder":"",
             "description": "",
             "errorMessages": {"required":"Select one option."},
