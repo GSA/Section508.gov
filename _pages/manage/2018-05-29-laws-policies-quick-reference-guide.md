@@ -151,7 +151,7 @@ Incorporate the standards into agency life-cycle development activities for elec
 
 ### Training
 
-  * [Section 508: What is It and Why is It Important to You?][29] - Introduction to Section 508 and Information and Communication Technology (ICT)
+  * [Section 508: What Is It and Why Is It Important?][29] - Introduction to Section 508 and Information and Communication Technology (ICT)
   * How to Author and Validate Microsoft Word and PDF Documents for Accessibility - AED ACOP Training Video (Updated)
 
 Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">section.508@gsa.gov.</a> 

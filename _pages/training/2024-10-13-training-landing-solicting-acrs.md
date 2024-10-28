@@ -89,10 +89,6 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     </li>
 </ol>
 
-<div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) offers IT accessibility online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC). To find these and other online courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses</a>.
-</div>
-
 ## Key Terms and References 
 * [Accessibility Conformance Report (ACR)]({{site.baseurl}}/sell/acr/)
 * [Creating Accessible Documents]({{site.baseurl}}/create/documents/)

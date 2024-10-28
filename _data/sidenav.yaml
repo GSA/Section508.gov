@@ -186,7 +186,7 @@ training:
         url: 'training/online-course/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
         url: 'training/online-course/procuring-section-508-conformant-ict/'
-      - name: "Section 508: What is It and Why is It Important?"
+      - name: "Section 508: What Is It and Why Is It Important?"
         url: 'training/online-course/section-508-what-is-it/'
       - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
         url: 'training/online-course/soliciting-and-evaluating-acrs/'

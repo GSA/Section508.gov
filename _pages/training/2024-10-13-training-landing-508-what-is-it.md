@@ -3,7 +3,7 @@ sidenav: true
 layout: page
 permalink: training/online-course/section-508-what-is-it/
 type: training
-title: "Section 508: What It Is and Why It's Important?"
+title: "Section 508: What Is It and Why Is It Important?"
 created: 2024-10-15
 redirect_from:
 topic: "Training (train)"
@@ -80,10 +80,6 @@ Demonstrate your skills and stand out in your field with a certificate that prov
       
   </li>
 </ol>
-
-<div class="border-base radius-lg border-1px padding-1 margin-top-3" style="width: 100%; background-color: #f5f9fc;">
-    <strong>ATTENTION:</strong> The Federal Acquisition Institute (FAI) offers this and other IT accessibility online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC). To find these and other online courses, go to <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank">Find and Register for Courses</a>.
-</div>
 
 ## Key Terms and References 
 * [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
