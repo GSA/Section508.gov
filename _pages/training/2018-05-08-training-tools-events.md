@@ -5,6 +5,14 @@ permalink: training/
 type: training
 title: 'Accessibility Training, Tools, and Events'
 created: 1525805876
+topic: Training (train)
+sub-topic: N/A
+audience:
+- Public (public)
+- Federal employee (fedemp)
+- 508 Program Manager (508pm)
+resource-type: Training
+format: HTML (html)
 ---
 
 Learn how you can make your agency's electronic information and digital services accessible to everyone through online and video training, accessibility tools, and training events.
@@ -53,7 +61,7 @@ Learn how you can make your agency's electronic information and digital services
       </header>
       <div class="usa-card__body">
         <p>Trusted Tester for Web Certification courses version 5.1.3 is now available.<br>
-        <a href="DHS Trusted Tester Training Self-Enrollment Portal" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
+        <a href="https://training.section508testing.net/" target="_blank" class="usa-link--external">DHS Trusted Tester Training Self-Enrollment Portal</a></p>
       </div>
     </div>
   </li>

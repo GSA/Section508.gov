@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/introduction/
 type: report2023
 title: "Introduction"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 ## Purpose
 The purpose of the Assessment is twofold:
@@ -15,7 +25,7 @@ The purpose of the Assessment is twofold:
 ### Addressing the Government-wide Need for Accessible ICT
 In the United States, <a href="http://dx.doi.org/10.15585/mmwr.mm6732a3" target="_blank">one in four adults live with disabilities</a>. That translates to approximately 61 million Americans who have disabilities regarding mobility, cognition, hearing, and vision that impact major activities in their lives. As the federal government modernizes important public services, equitable digital access can and does play a critical role in the livelihoods and well-being of PWD. The COVID-19 pandemic, which saw the federal government unlocking the “virtual front door” to many of its services, further escalated the importance of equitable digital access for PWD. Although <a href="https://webaim.org/projects/million/#conclusion" target="_blank">government web content is generally more accessible</a> than web content from other sectors, <a href="https://itif.org/publications/2021/06/03/improving-accessibility-federal-government-websites/" target="_blank">48%</a> of popular federal government websites do not fully conform to Section 508 standards. Additionally, according to self-reported data from the Office of Personnel Management (OPM) <a href="https://www.opm.gov/fevs/reports/governmentwide-reports/governmentwide-reports/governmentwide-management-report/2022/2022-governmentwide-management-report.pdf" target="_blank">2022 Federal Employee Viewpoint Survey (FEVS)</a>, PWD represent 17% of the federal workforce. A recent study by the <a href="https://www.eeoc.gov/federal-sector/reports/eeo-status-workers-disabilities-federal-sector" target="_blank">Equal Employment Opportunity Commission (EEOC)</a> also found that, while federal agencies are improving ICT accessibility for federal employees, employees with disabilities remain underrepresented within federal leadership and are more likely than persons without disabilities to leave federal employment. Thus, digital access to federal government services and federal employment continues to present challenges for PWD.
 
-To better understand and address the need for accessible ICT within the federal government, the Assessment aims to establish a new baseline for determining Section 508 compliance, with a broader scope than the [Program Maturity Report (PMR)]({{site.baseurl}}/manage/pmr/) and greater depth and frequency than the <a href="https://www.justice.gov/crt/page/file/1569331/download" target="_blank">Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology</a>. The ever-changing landscape of ICT demands a broader, deeper, and more frequent approach to assessing Section 508 compliance and helping agencies meet the statutory requirements established by <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 of the Rehabilitation Act of 1973</a>, as amended, and the regulatory requirements of the <a href="https://www.access-board.gov/ict/" target="_blank">ICT Standards and Guidelines</a>.
+To better understand and address the need for accessible ICT within the federal government, the Assessment aims to establish a new baseline for determining Section 508 compliance, with a broader scope than the [Program Maturity Report (PMR)]({{site.baseurl}}/manage/pmr/) and greater depth and frequency than the <a href="https://www.justice.gov/crt/page/file/1569331/download" target="_blank">Section 508 Report to the President and Congress: Accessibility of Federal Electronic and Information Technology</a>. The ever-changing landscape of ICT demands a broader, deeper, and more frequent approach to assessing Section 508 compliance and helping agencies meet the statutory requirements established by <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">Section 508 of the Rehabilitation Act of 1973</a>, as amended, and the regulatory requirements of the <a href="https://www.access-board.gov/ict/" target="_blank">ICT Standards and Guidelines</a>.
 
 ### Meeting the Reporting Requirements of the Consolidated Appropriations Act, 2023
 On December 29, 2022, the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a> became law. It mandated new requirements for OMB, GSA, and the Access Board to collect and report on federal agency data on ICT accessibility.

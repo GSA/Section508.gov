@@ -5,6 +5,14 @@ permalink: create/documents/
 type: create
 title: 'Create Accessible Documents'
 created: 1525986152
+topic: "Content creation (create)"
+sub-topic: "Documents"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Learn how to create accessible Microsoft Word documents that conform to the [Revised 508 Standards][1].

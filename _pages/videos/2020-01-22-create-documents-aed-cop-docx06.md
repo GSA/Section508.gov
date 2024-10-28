@@ -7,6 +7,15 @@ title: 'Module 6: Identify Distinct Languages'
 created: 1579721019
 redirect_from:
  - create/documents/aed-cop-docx06/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# **Module 6: Identify Distinct Languages**)
@@ -19,7 +28,7 @@ redirect_from:
 
 Discover how to use the proofing language settings to programmatically set the document language and enable assistive technology to read and correctly pronounce content.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m06.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m06-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

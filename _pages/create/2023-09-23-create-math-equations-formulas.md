@@ -5,6 +5,14 @@ permalink: create/accessible-equations-formulas/
 type: create
 title: Creating Accessible Equations and Formulas
 contributors: smith-frances, usfs
+topic: "Content creation (create)"
+sub-topic: "Various Electronic Content (i.e. Multiple)"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 It is quite common for those who work with equations and use screen reader technologies to get an error saying the equation does not read correctly. As creatures of habit, we are used to working with keyboard keys as mathematical components. However, there is a difference in using the key on your keyboard versus using a Unicode version of the mathematical component.

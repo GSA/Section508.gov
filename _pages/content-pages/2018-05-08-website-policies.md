@@ -7,6 +7,14 @@ title: 'Website Policies'
 created: 1525801797
 redirect_from: 
 - copyright/
+topic: About the program/site (about)
+sub-topic: General Info and Best Practices
+audience:
+- Public (public)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 This page explains website policies, procedures, and required links for the Section508.gov website.
@@ -65,6 +73,8 @@ This website may link to non-government websites, if they provide relevant infor
 
 ### Disclaimer of endorsement
 
+Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act. 
+
 The Section508.gov website includes hypertext links, or pointers, to information created and maintained by other public and/or private organizations. We provide these links and pointers only for your information and convenience. When you select a link to an outside website, you are leaving the Section508.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
 
   * GSA and Section508.gov do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on a linked website.
@@ -103,7 +113,7 @@ Federal agencies are required to provide the following links/information on our 
 
 Where we manage a presence on social media sites to share government information and engage with our audience, we do not collect any personally identifiable information through those sites. We do not use personal information made available by the third-party sites. If you submit a question or comment to us via a social media tool or platform, we may reply directly to you via that platform, but we don&rsquo;t track or record any information about individuals who use or interact with us via those platforms.
 
-**Reviewed/Updated:** July 2023
+**Reviewed/Updated:** September 2024
 
  [1]: #accessibility-policy
  [2]: #linking-policy

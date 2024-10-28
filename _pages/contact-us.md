@@ -1,11 +1,21 @@
 ---
-permalink: /contact-us/
+permalink: contact-us/
 type: page
 title: 'Contact Us'
 layout: page
 sidenav: false
+created: 
+updated: 2024-07-18
+topic: "About the program/site (about)"
+sub-topic: "N/A"
+audience:
+- "Public (public)"
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
-<!-- If you edit this page please also edit the /_pages/manage/2023-02-09-support-imformation.md as well. -->
+<!-- If you edit this page please also edit the /_pages/manage/2023-02-09-support-information.md as well. -->
+
 <h2><strong>Have a Question or Comment?</strong></h2>
 <p>Before you contact us, please review the resources below, which highlight some of the common tasks on this website. They may answer your question more quickly than waiting for a return email.</p>
 <ul>
@@ -20,4 +30,5 @@ sidenav: false
 <p>If you have questions about the <a target="_blank" href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>, contact the U.S. Access Board:</p>
 <p><a target="_blank" href="https://www.access-board.gov/contact/">Access Board Contact Us page</a><br> Email: <a href="mailto:508@access-board.gov" class="mailto">508@access-board.gov</a><br> Phone: (202) 272-0080, extension 3 (voice)<br>Fax: (202) 272-0081</p>
 
+**Reviewed/Updated:** July 2024
  

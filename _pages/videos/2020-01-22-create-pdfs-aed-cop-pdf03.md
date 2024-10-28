@@ -7,6 +7,16 @@ title: 'Module 3: Remediating PDFs for Accessibility'
 created: 1579721841
 redirect_from:
 - create/pdfs/aed-cop-pdf03/
+topic: Training (train)
+sub-topic: PDFs
+audience:
+- federal employee (fedemp)
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Content Creators (creator)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 3: Remediating PDFs for Accessibility)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust the reading and tab order, add alternative text to images and objects, and set document&rsquo;s language properties.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-pdf-m03.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-pdf-m03-oc.mp4" type="video/mp4" /></video>
 
 ## Related PDF Video Series Modules
 

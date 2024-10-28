@@ -6,6 +6,15 @@ title: 'Barriers to Accessibility: Stories from Our Community'
 description: A first-hand account of the consequences of inaccessibility.
 tags: Policy-and-Management
 created: 1535656948
+topic: "Other"
+sub-topic: "General Info and Best Practices"
+audience:
+- "Public (public)"
+- "Chief Diversity and Inclusion Officer (cdio)"
+- "508 Program Manager (508pm)"
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 <p style="font-family: verdana,arial,sans-serif;font-size: 14px;line-height: 1.42857143;color: #333333;margin-bottom:.0001pt; margin:0in 0in 10pt">

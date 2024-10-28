@@ -55,6 +55,8 @@ manage:
     children:
       - name: IT Accessibility Laws and Policies Overview
         url: manage/laws-and-policies/
+      - name: Section 508 of the Rehabilitation Act
+        url: manage/laws-and-policies/section-508-law/
       - name: Laws and Policy Quick Reference Guide
         url: manage/laws-and-policies/quick-reference-guide/
       - name: Website Accessibility Statements 
@@ -63,7 +65,9 @@ manage:
           - name: Developing a Website Accessibility Statement
             url: manage/laws-and-policies/website-accessibility-statement/
           - name: Implementing a Public Feedback Mechanism
-            url: manage/laws-and-policies/implementing-public-feedback-mechanism/        
+            url: manage/laws-and-policies/implementing-public-feedback-mechanism/
+          - name: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process
+            url: manage/laws-and-policies/Section-508-complaints-best-practices/           
       - name: Updating Agency Policy
         url: manage/laws-and-policies/update-agency-policies/
       - name: State-level Accessibility Law and Policy
@@ -174,17 +178,11 @@ training:
   - name: Online Training Courses
     url: '#'
     children:
-      - name: "Section 508 Awareness"
-        url: "https://training.section508.gov/508-training/courses/new/index.html"
+      - name: "Section 508: What is It and Why is It Important?"
+        url: 'https://training.section508.gov/section-508-what-is-it-and-why-its-important/index.html'
         external: true
-      - name: "Section 508: What is It and Why is It Important to You?"
-        url: 'https://training.section508.gov/508-training/courses/section-508-what-is-it-why-is-it-important/index.html'
-        external: true
-      - name: "Accessibility of ICT: An Overview for Government Executives"
-        url: 'https://training.section508.gov/508-training/courses/exec-overview/index.html'
-        external: true
-      - name: "Technology Accessibility Playbook: How to Build an Effective Section 508 Program"
-        url: 'https://training.section508.gov/508-training/courses/playbook/index.html'
+      - name: "Accessibility of ICT for Government Executives"
+        url: 'https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html'
         external: true
       - name: "Microsoft Word & Accessibility Best Practices"
         url: 'https://training.section508.gov/508-training/courses/ms-word-best-practices/story.html'
@@ -204,7 +202,18 @@ training:
     url: '#'
     children:
       - name: "Accessibility Requirements Tool"
-        url: 'training/art/introducing-art/' 
+        url: '#'
+        grandchildren:
+          - name: "What is ART and When Do I Need to Use It?"
+            url: 'training/art/introducing-art-01/'
+          - name: Where is ART and How Do I Use It?
+            url: 'training/art/introducing-art-02/'
+          - name: How Do I Use the Section 508 Requirements Created by ART?
+            url: 'training/art/introducing-art-03/'
+          - name: How Do I Generate a List for Multiple Procurements?
+            url: 'training/art/introducing-art-04/'
+          - name: How Do I Use JSON to Modify My Report?
+            url: 'training/art/introducing-art-05/'
       - name: Document       
         url: '#'
         grandchildren:
@@ -382,11 +391,12 @@ training:
         url: 'tools/'
       - name: Accessibility Requirements Tool (ART)
         url: 'art/'
+      - name: ART API Server
+        url: 'https://art-api.section508.gov/'
+        external: true
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
-        url: 'tools/openacr-editor/'
-      - name: OpenACR Repository
         url: 'tools/openacr-editor/'
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
@@ -410,6 +420,8 @@ develop:
         url:  'develop/fonts-typography/'
       - name: Accessible Design Using the USWDS
         url: develop/accessible-design-using-uswds/
+      - name: Designing Digital Content For Users With Cognitive Disabilities
+        url: design/digital-content-users-with-cognitive-disabilities/
   - name: Develop
     url: '#'
     children:
@@ -417,8 +429,13 @@ develop:
         url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
-      - name: Develop Web Content
-        url: develop/web-content/
+      - name: Web Content
+        url: '#'
+        grandchildren:
+          - name: Developing Accessible Web Content
+            url: develop/web-content/
+          - name: Publishing to the Web
+            url: develop/publish-to-web/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/   
       - name: How to Avoid Bias in Emerging Technologies
@@ -435,6 +452,11 @@ test:
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
+  - name: Testing Checklists
+    url: '#'
+    children:
+      - name: Email Messages
+        url: 'test/checklist/email-messages/'
   - name: Electronic Documents
     url: '#'
     children:
@@ -442,6 +464,8 @@ test:
         url: test/documents/
       - name: About Electonic Document Testing Tools
         url: test/about-testing-tools/
+      - name: Testing Color Contrast in Non-Web Documents and Images
+        url: test/color-contrast-in-nonweb-documents-images/
   - name: Software & Websites
     url: '#'
     children:
@@ -512,37 +536,39 @@ create:
         url: 'create/documents/'
       - name: Authoring Guides
         url: create/documents/authoring-guides/
-      - name: Video Training
-        url: 'create/documents/training-videos/'
       - name: Tips and Tricks
         url: 'create/documents/#tips'
+      - name: Video Training
+        url: 'create/documents/training-videos/'
   - name: Create a Presentation
     url: '#'
     children:
       - name: Authoring Guides
         url: create/presentations/authoring-guides/
-      - name: Video Training
-        url: create/presentations/training-videos/
       - name: Tips and Tricks
         url: create/presentations/
+      - name: Video Training
+        url: create/presentations/training-videos/
   - name: Create a Spreadsheet
     url: '#'
     children:
       - name: Authoring Guides
         url: create/spreadsheets/authoring-guides/
-      - name: Video Training
-        url: create/spreadsheets/training-videos/
       - name: Tips and Tricks
         url: create/spreadsheets/
+      - name: Video Training
+        url: create/spreadsheets/training-videos/
   - name: Create a PDF
     url: '#'
     children:
       - name: Authoring Guides
         url: create/pdfs/authoring-guides/
-      - name: Video Training
-        url: create/pdfs/training-videos/
+      - name: Tags and Their Usage
+        url: create/pdfs/common-tags-and-usage/
       - name: Tips and Tricks
         url: create/pdfs/
+      - name: Video Training
+        url: create/pdfs/training-videos/
   - name: Audio & Video
     url: '#'
     children:
@@ -556,6 +582,8 @@ create:
     url: 'create/alternative-text/'
   - name: Electronic Signatures
     url: 'create/electronic-signatures/'   
+  - name: Email Messages
+    url: 'create/email-messages/'
   - name: Equations and Formulas
     url: 'create/accessible-equations-formulas/'
   - name: Meetings

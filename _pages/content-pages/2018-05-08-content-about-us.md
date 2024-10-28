@@ -1,12 +1,19 @@
 ---
 layout: page
 sidenav: false
-permalink: /about-us/
+permalink: about-us/
 type: page
 title: 'About Us'
 created: 1525805230
 redirect_from:
 - content/about-us/
+topic: "About the program/site (about)"
+sub-topic: "N/A"
+audience:
+- "Public (public)"
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 The U.S. General Services Administration (GSA) is tasked under [Section 508 of the Rehabilitation Act][3] to provide technical assistance to help federal agencies comply with Section 508 requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities. 
 
@@ -50,7 +57,7 @@ If you have feedback or concerns related to the accessibility of this website, t
 
 If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at [CIO508Help@gsa.gov][5] or (202) 208-0799.
 
-**Reviewed/Updated:** May 2022
+**Reviewed/Updated:** July 2024
 
  [1]: https://www.access-board.gov
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule

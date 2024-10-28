@@ -4,7 +4,16 @@ sidenav: true
 permalink: 'manage/section-508-assessment/2023/recommendations/'
 type: report2023
 title: "Recommendations"
-redirect_from:
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
 ---
 This section incorporates findings presented throughout this document along with contextual considerations to provide recommendations to enhance Section 508 implementation and improve Section 508 compliance across the federal government. The below recommendations do not include logistical implications – such as resourcing requirements or timelines – but are intended as high-level considerations that would improve the state of accessibility throughout the federal government. Feasibility assessments and prioritization based on impact, level of effort, return on investment and other considerations should be a factor in prioritizing investment across the recommendations, particularly those that would involve significant resource investment to execute.
 

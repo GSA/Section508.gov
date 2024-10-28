@@ -6,6 +6,13 @@ title: 'ACoP on the Road - CSUN Assistive Technology Conference '
 created: 1524515236
 tags: Events
 description: On March 22, 2018, a group representing the Accessibility Community of Practice (ACoP) presented at the annual CSUN Assistive Technology Conference in San Diego, California.
+topic: "Events (events)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Website Managers/Content Managers (wcm)"
+- "508 Program Manager (508pm)"
+resource-type: "Blog article (blog)"
+format: "PDF (pdf)"
 ---
 
 On March 22, 2018, a group representing the Accessibility Community of Practice (ACoP) presented at the annual [CSUN Assistive Technology Conference][1] in San Diego, California. Speakers included Tim Creagan and Bruce Bailey (U.S. Access Board), Robert Baker (DHS), and John Sullivan (GSA). The CSUN Conference provides an inclusive environment for practitioners, researchers, users, and other stakeholders to share expertise, best practices, and challenges in the field of assistive technology and accessibility.

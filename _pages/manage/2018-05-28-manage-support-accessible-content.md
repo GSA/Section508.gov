@@ -5,6 +5,14 @@ permalink: manage/support-accessible-content/
 type: manage
 title: 'Build Support for Accessible Content'
 created: 1527548666
+topic: "Manage (program)"
+sub-topic: "Manage Accessibility for IT Program/Project Managers"
+audience:
+- "508 Program Manager (508pm)"
+- "Manager/Exec (exec)"
+- "Information Technology Program and Project Managers (itpm)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 The [Revised 508 Standards][1] clarify which electronic content must be accessible (scope) and how to make it accessible (technical requirements). Help staff at your agency understand their responsibility to produce accessible content, and ensure they have the tools to do so.

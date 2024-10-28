@@ -7,6 +7,15 @@ title: 'Module 9: Making Vital Background Information Accessible'
 created: 1578419942
 redirect_from:
  - create/presentations/aed-cop-pptx09/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 9: Making Vital Background Information Accessible)
@@ -19,7 +28,7 @@ redirect_from:
 
 Learn how to ensure that vital information, created as a watermark or placed in the Header of Footer of the slide, can be accessed by assistive technology.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m09.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m09-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

@@ -6,10 +6,19 @@ created: 1527569449
 layout: wide
 sidenav: false
 redirect_from:
-- /art/home/
-- /buy/art/home/
+- art/home/
+- buy/art/home/
 redirect_to:
-- /art/
+- art/
+topic: Tools (tools)
+sub-topic: Acquisition Tools
+audience:
+- Acquisition (acq)
+- Chief Acquisition Officer (cao)
+- Agency Senior Procurement Executive (spe)
+- 508 Program Manager (508pm)
+resource-type: Tool (tool)
+format: HTML (html)
 ---
 
 <a href="{{site.baseurl}}/art/" class="usa-button usa-button--accent-warm">Start Using ART</a>

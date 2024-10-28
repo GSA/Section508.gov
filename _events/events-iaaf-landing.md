@@ -10,66 +10,51 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Fall 2024." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13-14, 2024. Achieving Digital Equity: Policies, Tools, and Techniques. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
 
-<!-- <img src="https://assets.section508.gov/files/images/iaaf-2023-date-card.png" alt="Event dates: November 7, 8, and 9" width="500" height="auto" style="display: block; margin-left: auto; margin-right: auto;"> -->
+<img src="https://assets.section508.gov/files/images/iaaf-2024-date-card.jpg" alt="Event dates: November 13 and 14" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
-The 2024 Interagency Accessibility Forum (IAAF) will be hosted this fall by the Government-wide IT Accessibility Program in the Office of Government-wide Policy (OGP) at the General Services Administration (GSA) in partnership with federal agencies, and is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP).
-
-IAAF 2024 event information will be announced this summer.
-
-<!-- For details and downloads from the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>. 
-
-## Call for Proposals 
-The IAAF Planning Committee invites government employees, and contractors in partnership with government employees to submit proposals for consideration to host a workshop, presentation, or panel discussion. 
-
-If you are interested in presenting a workshop or discussion, please complete the <a href="https://assets.section508.gov/files/presentations/IAAF 2023 Call for Proposals.pdf" target="_blank">call for proposals (PDF)</a> and submit as an attachement to <iaaf@gsa.gov> by Friday, June 30, 2023.-->
-
-<!-- ## Event Details
+## Event Details
 <div class="grid-row">
   <div class="tablet:grid-col-9">
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Who: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Accessibility professionals<br>Exhibitors of accessible products and services - space is limited</div>
+      <div class="grid-col tablet:grid-col-11">Accessibility Professionals</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>What: </strong></div>
-      <div class="grid-col tablet:grid-col-11">2023 Interagency Accessibility Forum (IAAF)</div>
+      <div class="grid-col tablet:grid-col-11">2024 Interagency Accessibility Forum (IAAF)</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11"><em>Workshops</em>: November 7 with in-person attendance - virtual attendance options available<br><em>Conference</em>: November 8-9 with in-person and virtual attendance</div>
+      <div class="grid-col tablet:grid-col-11">Wednesday and Thursday, November 13 and 14</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Federal Deposit Insurance Corporation (FDIC)<br>
-      3501 Fairfax Drive<br>
-      Arlington, Virginia 22226
-      </div>
+      <div class="grid-col tablet:grid-col-11">Virtual event using Zoom for Government</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Both in-person and virtual attendance to this event is offered at no cost</div>
+      <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
     </div>
     <h3>Registration</h3>
-      <p><a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank">Attendees: Register Now!</a> to join us for the 2023 Interagency Accessibility Forum. Registration for <strong>virtual/online attendance</strong> is available through Thursday at 3:30 PM ET. <strong>Registration for in-person attendance closed on October 30th and is no longer available.</strong></p>
+      <p><a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><strong>Register Now!</strong></a> to join us for the 2024 Interagency Accessibility Forum. Registration for virtual attendance is available through the morning of Thursday, November 14.</p>
     </div>
     <div class="tablet:grid-col-3 text-center">
-      <a href="https://cvent.me/xdy2Kr?rt=CIdl4H1qNk6ktXIRfeWy-A" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register for the 2023 Interagency Accessibility Forum" style="max-width:180px"></a>
+      <a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
   </div>
-    <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
-      <div class="usa-summary-box__body">
-        <h4 id="summary-box-key-information">Exhibitor Registration</h4>
-        <div class="usa-summary-box__text">
-          <p><a href="https://cvent.me/xdy2Vg?rt=Jr_u5o-wHUaBRGlK1GwBOQ" target="_blank">Vendors: Register Today</a> for the opportunity to exhibit your accessibility products and services on one of two days during the 2023 Interagency Accessibility Forum. Space is limited to 24 exhibitors based on order of registration.</p>
-        </div>
-      </div>
+  <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
+    <div class="usa-summary-box__body">
+      <h4 id="notice-to-exhibitors">Notice to Exhibitors</h4>
+      <p>With the IAAF transitioning to a May schedule, this year's condensed format will not include the opportunity to showcase accessibility products and services. However, we eagerly anticipate featuring exhibitor showcases at future events, including the 12th annual IAAF, planned for May 2025. We hope to see you then!</p>
     </div>
+  </div>
 </div>
 
+<!--
 ### Save the Date to Your Calendar
 <div class="drid-row">
   <div class="tablet:grid-col-fill">
@@ -82,79 +67,29 @@ If you are interested in presenting a workshop or discussion, please complete th
     <a href="https://outlook.live.com/calendar/0/deeplink/compose?allday=true&body=This%20is%20placeholder%20for%20the%202023%20IAAF.%20If%20you%20are%20not%20yet%20registered%20for%20the%20event%2C%20visit%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20to%20register%20and%20receive%20a%20personalized%20calendar%20invitation%20closer%20to%20the%20date%20of%20the%20IAAF.&enddt=2023-11-10T05%3A00%3A00%2B00%3A00&location=Federal%20Deposit%20Insurance%20Corporation%20%28FDIC%29%20L.%20William%20Seidman%20Center%203501%20Fairfax%20Drive%20Arlington%2C%20Virginia%2022226&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-11-07T05%3A00%3A00%2B00%3A00&subject=2023%20IAAF%20-%20Save%20the%20Date" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#event"></use></svg>Add to Outlook Online Calendar</a>
   </div>
 </div>
+-->
 
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held November 7-9 and begin with a full day of workshops on Tuesday followed by two, full-day sessions on Wednesday and Thursday featuring the usual mix of presenters and speakers, breakout sessions, and discussions led by accessibility professionals in the federal, private, academic, international an others sectors.
+This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 
-For more details on the three-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2023/">2023 IAAF Agenda</a>.
+For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
 
 ## Accessibility Accommodations and Services
-American Sign Language (ASL) interpretation will be provided in all plenary and breakout sessions, and Real Time Captioning (CART) will be available in all sessions with URL for mobile or computer viewing.
+American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
 
-If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 20, 2023. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
-
-## Entry & Security
-The FDIC building security policy requires that all individuals entering the hotel/training facility present government issued photo identification. Please arrive 30 minutes prior to your scheduled event in order to process through security.
-
-Building Access - Security has been notified of your visit. The security guards may ask you to identify whom you are visiting or the meeting you are attending. Please also remember to bring identification. The FDIC accepts the following forms of ID:
-
-* State Driver’s License with photograph (Most efficient method)
-* State non-driver’s identification card with photograph
-* Military identification
-* Valid United States Passport
-* Government issued photographic identification card  with prior approval
-* INS Identification card
-* Foreign Passport with prior approval from FDIC (pre-registered)
-* FDIC Sponsor Verification
-* FDIC will not authorize access to the facility when presented the following sources of identification:
-  * Foreign student identification card
-  * Non-photographic identification card
-  * Any expired identification card
-  * Any other form of identification that is not listed above
-
-## Lunch
-Lunch and snacks are available for purchase at FDIC's cafeteria. There are also several restaurants within a few blocks of the campus. FDIC is a cashless facility, below are the hours of operation for the FDIC cafeteria and coffee kiosk.
-
-### Cafeteria - Location 1st Floor C Building
-6:45 a.m. - 9:00 a.m. Full Breakfast  
-9:00 a.m. - 11:00 a.m. Continental Breakfast (Coffee, Juice, Pastries, Fruit, etc.)  
-11:00 a.m. - 11:30 a.m.Closed  
-11:30 a.m. - 2:15 p.m. Lunch  
-2:15 p.m. - 3:00 p.m.Snack Service  
-
-### Coffee Kiosk - Location 2nd Floor C Building  
-Monday to Thursday - 6:45am to 4:00pm  
-
-## Lodging
-If you are traveling from out of town, FDIC has a limited number of rooms available. To book a room or inquire about rates, please reach out to lodging request. Additional hotels located in the proximity of FDIC.
-
-## Transportation
-
-The Virginia Square Orange Line Metro Stop is directly across Fairfax Drive (next to Starbucks) from the FDIC Seidman Center.
-
-**Directions:** The training will be conducted at the FDIC’s Seidman Center training facility located near the Virginia Square Metro stop. When you come off the escalator from the Virginia Square Metro (Orange Line), turn around 180 degrees and the FDIC’s Seidman Center training facility will be diagonally across the intersection from where you’re standing, on the corner of Fairfax Drive and North Monroe Street. Walk to the right, up Fairfax Drive and entering the far center building off the courtyard, near the flag poles. Security will direct you from there.
-
-## Parking
-
-There is paid street parking on nearby streets (some have a two-hour limit). There are also several parking garages nearby that offer a full-day rate. Parkopedia
-
-## Service Animals
-
-Service animal relief has been designated at the courtyard in front of the main entrance of the FDIC Building.
+If you require accommodations to participate in IAAF, please indicate your needs on the registration form before October 31, 2024. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
-The 2023 IAAF will return as an in-person conference, with virtual attendance for most sessions using Webex. Webex meetings and webinars are best experienced when using the Webex app, but can also be accessed via web browser and telephone (audio-only). 
+The 2024 IAAF will return as an in-person conference, with virtual attendance for most sessions using Zoom. Zoom meetings and webinars are best experienced when using the Zoom for Government app, but can also be accessed via web browser and telephone (audio-only). 
 
-We encourage all attendees to set up and test your Webex app ahead of the event by visiting the <a class="ext" href="https://help.webex.com/en-us/getting-started" target="_blank" class="usa-link--external">Webex Help Center</a>, to: 
+We encourage all attendees to set up and test your Zoom access ahead of the event by visiting the <a class="ext" href="https://support.zoom.com/hc/en" target="_blank" class="usa-link--external">Zoom Help Center</a>, to read:
 
-* <a href="https://www.webex.com/downloads.html" target="_blank" class="usa-link--external">Download Webex</a>
-* <a href="https://help.webex.com/en-us/article/n3rosq0/Get-started-with-Webex-Webinars" target="_blank" class="usa-link--external">Get started with Webex webinars</a>
-* <a href="https://www.webex.com/test-meeting.html" target="_blank" class="usa-link--external">Join a Test Meeting</a> 
-* <a href="https://help.webex.com/en-us/article/8l0y08/Join-a-webinar" target="_blank" class="usa-link--external">Joining via a browser or via the desktop app</a>
-* <a href="https://help.webex.com/en-us/article/7wr87q/Webex-App-%7C-Keyboard-navigation-and-shortcuts" target="_blank" class="usa-link--external">Preview keyboard navigation and shortcuts</a> and resources for Windows, macOS, iOS, and web browsers.
--->
+* <a href="https://support.zoom.com/hc/en/getting-started-with-webinars?id=zoom_webinars_guide" target="_blank" class="usa-link--external">Getting started with Zoom Webinar</a>
+* <a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a>
+* <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a>
+* <a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a>
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
@@ -163,13 +98,11 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   <div class="usa-summary-box__body">
     <h2 class="usa-summary-box__heading" id="summary-box-key-information">IAAF Archives</h2>
     <div class="usa-summary-box__text">
-      Since 2013, the U.S. General Services Administration (GSA) along with federal agency partners has hosted the annual Interagency Accessibility Forum (IAAF) for agency representatives to learn about federal accessibility policies and how they can adapt Section 508 standards to prioritize IT accessibility.
-      
-      Over the years, conference attendees have heard from a range of presenters, panelists, and keynote speakers across a variety of topics, perspectives, and experiences. Notable speakers include former and active members of Congress, commission chairs and other senior leaders within government and the accessibility community.
-      
+      <p>Since 2013, the U.S. General Services Administration (GSA) along with federal agency partners has hosted the annual Interagency Accessibility Forum (IAAF) for agency representatives to learn about federal accessibility policies and how they can adapt Section 508 standards to prioritize IT accessibility.</p>
+      <p>Over the years, conference attendees have heard from a range of presenters, panelists, and keynote speakers across a variety of topics, perspectives, and experiences. Notable speakers include former and active members of Congress, commission chairs and other senior leaders within government and the accessibility community.</p>
       <strong>Visit:</strong> <a href="{{site.baseurl}}/iaaf/archives">Interagency Accessibility Forum (IAAF) Archives</a>
     </div>
   </div>
 </div>
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** October 2024

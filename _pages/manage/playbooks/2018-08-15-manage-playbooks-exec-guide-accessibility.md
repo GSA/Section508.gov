@@ -7,6 +7,16 @@ title: 'Executive Guide to Federal IT Accessibility'
 created: 1534360384
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/
+topic: "Manage (program)"
+sub-topic: "Manage Accessibility for IT Program/Project Managers"
+audience:
+- "Agency Head (head)"
+- "Chief Information Officer (cio)"
+- "Chief Acquisition Officer (cao)"
+- "Manager/Exec (exec)"
+- "508 Program Manager (508pm)"
+resource-type: "Playbook"
+format: "HTML (html)"
 ---
 
 <div class="col-lg-12 col-sm-12 col-xs-12">
@@ -87,7 +97,7 @@ Better accessibility supports many areas of information assurance, including sec
 
 <ul>
 <li dir="ltr">
-  <a href="https://training.section508.gov/508-training/courses/exec-overview/index.html">IT Accessibility: An Overview for Government Executives</a>
+  <a href="https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html">IT Accessibility: An Overview for Government Executives</a>
 </li>
 </ul>
 
@@ -386,6 +396,8 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 </h2>
 
 IT Accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff will understand their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. Visit [Section508.gov][5] and the [IT Accessibility/508 Program Manager Playbook][6] to learn more.
+
+**Reviewed/Updated:** October 2024
 
  [1]: {{site.baseurl}}/blog/benefits-accessible-design
  [2]: https://www.deque.com/accessible-design

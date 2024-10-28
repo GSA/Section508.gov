@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/roles/
 type: manage
 title: 'Roles and Responsibilities'
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Manager/Exec (exec)
+- Federal employee (fedemp)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 Agencies need clear governance and strong leadership to guide Section 508 programs, which establishes the importance of accessibility, improves compliance, and minimizes legal exposure. An agency’s IT Accessibility/508 program’s success also depends on the involvement of many other key players.
@@ -422,7 +432,7 @@ The roles and responsibilities cited in this article were informed by federal re
 
 <ul>
   <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link usa-link--external text-top">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a></li>
-  <li><a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link usa-link--external text-top">The Rehabilitation Act of 1973, as amended (29 U.S.C. § 794 (d))</a></li>
+  <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">The Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d)</a></li>
   <li><a href="https://www.acquisition.gov/far/subpart-39.2" target="_blank" class="usa-link usa-link--external text-top">Federal Acquisition Regulation (FAR), Subpart 39.2 - Information and Communication Technology</a></li>
   <li><a href="https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa" target="_blank" class="usa-link usa-link--external text-top">21st Century Communications and Video Accessibility Act (CVAA)</a></li>
   <li><a href="https://www.govinfo.gov/app/details/PLAW-111publ274/summary" target="_blank" class="usa-link usa-link--external text-top">Plain Writing Act of 2010</a></li>

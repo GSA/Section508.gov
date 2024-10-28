@@ -6,6 +6,16 @@ type: acquisition
 title: 'Accessibility Conformance Report/Voluntary Product Accessibility Template (VPAT&reg;) Frequently Asked Questions (FAQ)'
 contributors: haileselassie, sirk, nasa
 description: Frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;) 
+topic: "Acquisition/Sell (sell)"
+sub-topic: "VPAT/ACR Production & Eval"
+audience:
+- "Vendor (vendor)"
+- "Acquisition (acq)"
+- "Contracting Officer (cor)"
+- "Chief Acquisition Officer (cao)"
+- "Agency Senior Procurement Executive (spe)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Below is a list of frequently asked questions on the Accessibility Conformance Report (ACR) and the Voluntary Product Accessibility Template (VPAT&reg;). This information was adapted from NASA's [Demystifying Section 508: An Industry Guide to Understanding Section 508 of the Rehabilitation Act][5].
@@ -23,6 +33,8 @@ There are several methods for completing an ACR. The VPAT&reg;, which is a templ
 
 ### My company created an ACR for a product years ago. May I use that same ACR today?
 Every time your product is changed or updated (e.g. version change, bug fix, etc.), an updated ACR may be required to address any changes in the product's accessibility. Also, if you created an ACR using the Original Section 508 Standards from 2001, you must update your report using the Revised Section 508 Standards published in 2017.
+
+<div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports (ACR) in a machine-readable format.</div>
 
 ### Should I complete an ACR if my product is not fully accessible? How can having a completed ACR for my product benefit my company?
 Yes. Completing an ACR is a win-win situation for industry and the government. When industry develops an ACR, it opens the door for the federal government to purchase your product. Your ACR shows customers that your company takes accessibility seriously. Even if the ACR shows that not all the applicable Section 508 Technical Standards have been met, it allows your product to be evaluated against comparable products for accessibility. If you have an ACR and a competitor’s product doesn’t, you will always be the most conformant with the Section 508 standards. Completing an ACR raises your awareness of your product's accessibility and allows you to take steps to make your product more accessible and reach a broader customer base.
@@ -49,7 +61,7 @@ If your product contains software, there are two sets of Section 508 Technical S
 
 For electronic support documentation, complete the Revised Section 508, Chapter 6: Support Documentation and Services section.
 
-**Reviewed/Updated**:  June 2022
+**Reviewed/Updated**:  August 2024
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: https://www.itic.org/policy/accessibility/vpat

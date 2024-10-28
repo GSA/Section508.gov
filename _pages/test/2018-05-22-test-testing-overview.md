@@ -5,6 +5,16 @@ permalink: test/testing-overview/
 type: test
 title: 'Overview of Testing Methods for 508 Conformance'
 created: 1527010285
+topic: Testing (test)
+sub-topic: Design, Develop, Testing for Accessibility Training or Tools
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Process/How-to
+format: HTML (html)
 ---
 
 There are several ways to validate conformance to the [Revised 508 Standards][1]:

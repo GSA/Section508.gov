@@ -19,6 +19,16 @@ redirect_from:
 - manage/reporting/questions/
 - content/reporting/questions/
 - manage/reporting/section-508-program-maturity-reports/ #only one redirect for this page, as there is no legacy page
+topic: Manage (program)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Manager/Exec (exec)
+- Information Technology Program and Project Managers (itpm)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 **The [Government-wide Section 508 Assessment Instructions]({{site.baseurl}}/manage/section-508-assessment/) and corresponding report replaces the previously required semi-annual Section 508 Program Maturity Report.**

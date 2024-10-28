@@ -6,6 +6,15 @@ title: 'Revised 508 Standards, Safe Harbor and FAR Update'
 created: 1517534461
 tags: Policy-and-Management
 description: Over the past year, federal agencies have been working to transition to the Revised 508 Standards, and the FAR Council is working on regulatory updates to the Federal Acquisition Regulation (FAR).
+topic: Policy (policy)
+sub-topic: Accessibility Law & Policy
+audience:
+- Federal employee (fedemp)
+- Contracting Officer’s Representative (cor)
+- Information Technology Program and Project Managers (itpm)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 Over the past year, federal agencies have been working to transition to the [Revised 508 Standards][1], which aim to make information technology more accessible to all users, and bring U.S. accessibility standards in line with international standards. The FAR Council is also working on regulatory updates to the Federal Acquisition Regulation (FAR), and as of January 18, 2018, agencies should proactively address the requirements of the Revised 508 Standards in their procurement processes. Note that all new or revised information and communication technology (ICT) must satisfy the Revised 508 Standards, but older ICT (previously referred to as Electronic and Information Technology (EIT)), providing that it was compliant with the Original 508 Standards, may fall under a “safe harbor” provision.

@@ -5,6 +5,16 @@ permalink: manage/identify-user-needs/
 type: manage
 title: 'Identify User Needs'
 created: 1527548267
+topic: "Manage (program)"
+sub-topic: "Manage Accessibility for IT Program/Project Managers"
+audience:
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 Defined in the Revised 508 Standards [Section E203.2 User Needs][1], federal agencies are required to identify the needs of users with disabilities when procuring, developing, maintaining, or using information and communication technology (ICT), to determine:

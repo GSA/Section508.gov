@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/criteria-11/
 type: manage
 title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
+topic: "Manage (program)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Federal employee (fedemp)"
+- "Lawmakers and Policy Officials (law-policy)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 <H2 id="conformance-metrics">Conformance Metrics</H2>
@@ -71,7 +81,7 @@ title: "Conformance Metrics - Government-wide Section 508 Assessment Criteria"
         < Previous</a>
 </div>
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** July 2024
 
 <!-- Expand/Collapse All Understanding Content script -->
 <script>

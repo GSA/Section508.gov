@@ -7,6 +7,16 @@ title: 'Universal Design and Accessibility'
 created: 1527530633
 redirect_from:
 - create/universal-design/
+topic: Development (dev)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- Developers and Testers (dev-test)
+- 508 Program Manager (508pm)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Long form article
+format: HTML (html)
 ---
 
  <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">

@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/appendix-d-overview/
 type: report2023
 title: "Appendix D: Overview Data By Reporting Entity"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and component reporting entities followed by independent reporting entities<sup><a href="#fn39" id="fr39">39</a></sup>. Due to similarities of some reporting entity names, reporting entity acronyms used in this report may not reflect the initialism used by those reporting entities and altered solely to ensure data integrity during the collection, analysis, reporting and associated open data made available as part of this Assessment.
 

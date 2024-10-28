@@ -6,6 +6,15 @@ type: create
 title: Authoring Meaningful Alternative Text
 created: 2024-05-23
 updated:
+topic: "Content creation (create)"
+sub-topic: "Graphics Specific (image descriptions)"
+audience:
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "508 Program Manager (508pm)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 ## Purpose of Alternative Text
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It's designed to make visual content accessible to people with vision disabilities.
@@ -299,3 +308,6 @@ Refer to the following for additional guidance on writing meaningful alt text.
 
 -   <a href="https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf" target="_blank" class="usa-link--external">Social Security Administration Guide: Alternate Text for Images (PDF)</a>
 -   <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM: Alternative Text</a>
+-   <a href="https://webaim.org/techniques/alttext/#context" target="_blank" class="usa-link--external">WebAIM: Alternative Text - Context is Everything</a>
+
+**Reviewed/Updated:** July 2024

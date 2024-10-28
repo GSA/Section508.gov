@@ -4,6 +4,16 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/findings/testing-lifecycle/
 type: report2023
 title: "Governmentwide Findings: Accessibility Conformance Testing and Technology Lifecycle"
+topic: "Law (law)"
+sub-topic: "Reporting"
+audience:
+- "508 Program Manager (508pm)"
+- "Agency Head (head)"
+- "Public (public)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "White paper"
+format: "HTML (html)"
 ---
 ## Accessibility Conformance Testing and Technology Lifecycle
 The Assessment included questions regarding outcome-based results in order to gauge if policies, practices, and procedures – a dimension that received higher maturity governmentwide – translated into Section 508 conformant ICT. <strong>The average conformance index value (for all reporting entities) was 1 .79 (out of 5), or Low, emphasizing that inputs are not translating into conformant ICT.</strong>

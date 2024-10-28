@@ -7,6 +7,16 @@ title: 'Module 1: Creating the Presentation’s Layout Design and Establishing t
 created: 1578419219
 redirect_from:
  - create/presentations/aed-cop-pptx01/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how to use the slide layout, themes and customized master slides to establish a logical reading order when creating your presentation.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

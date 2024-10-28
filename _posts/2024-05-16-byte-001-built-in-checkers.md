@@ -11,6 +11,16 @@ contributors:
 redirect_from:
 - blog/accessibility-bytes/1/ #Allows users to navigate by number
 - blog/accessibility-bytes/built-in-checkers/ #This was original permalink, but modified permalink after release to match titles better.
+topic: "Testing (test)"
+sub-topic: "Documents"
+audience:
+- "508 Program Manager (508pm)"
+- "Website Managers/Content Managers (wcm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 <h2 style="line-height:1.2;">Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?</h2>
 

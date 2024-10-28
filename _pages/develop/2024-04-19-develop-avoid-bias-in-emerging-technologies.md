@@ -5,6 +5,16 @@ permalink: develop/avoid-bias-in-emerging-technologies/
 type: develop
 title: "How to Avoid Bias in Emerging Technologies"
 created: 20240419
+topic: "Development (dev)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "Developers and Testers (dev-test)"
+- "508 Program Manager (508pm)"
+- "Information Technology Program and Project Managers (itpm)"
+- "Manager/Exec (exec)"
+- "Developers and Testers (dev-test)"
+resource-type: "Long form article"
+format: "HTML (html)"
 ---
 
 Emerging technologies, such as artificial intelligence (AI), machine learning (ML), quantum computing, and blockchain, are gaining attention for their potential to transform our society. Alongside their benefits, there are growing concerns about their negative societal impacts, particularly their bias against those with disabilities. To ensure responsible development, whether creating a Minimum Viable Product (MVP) or an ideal-state solution, it is crucial to mitigate rather than compound biases at every stage.

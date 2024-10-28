@@ -7,6 +7,16 @@ title: 'Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia
 created: 1578420022
 redirect_from:
  - create/presentations/aed-cop-pptx11/
+topic: "Training (train)"
+sub-topic: "Presentations"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn how to embed audio-only, video-only or multimedia files into your presentation so that individuals with disabilities have comparable access to the information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m11.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m11-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

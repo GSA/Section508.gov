@@ -7,6 +7,16 @@ title: 'Module 11: Use Color and Other Sensory Characteristics Plus Text to Conv
 created: 1579721351
 redirect_from:
 - create/documents/aed-cop-docx11/
+topic: "Training (train)"
+sub-topic: "Documents"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning)
@@ -19,7 +29,7 @@ redirect_from:
 
 Discover how color and other visual or sensory characteristics, such as size, shape, and location are used to convey meaning when creating your document.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m11.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m11-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

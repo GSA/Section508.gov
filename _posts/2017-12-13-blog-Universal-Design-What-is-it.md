@@ -6,6 +6,16 @@ title: 'Universal Design: What is it?'
 created: 1513216986
 tags: Design-and-Develop
 description: Part one of a two-part series about Universal Design The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities.
+topic: Design (design)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+- Content Creators (creator)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 _Part one of a two-part series about Universal Design_

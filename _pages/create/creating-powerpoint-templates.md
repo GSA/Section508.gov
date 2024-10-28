@@ -7,6 +7,14 @@ title: 'Creating PowerPoint Templates'
 created: 1526359269
 redirect_from:
 - create/presentations/creating-powerpoint-templates/
+topic: "Content creation (create)"
+sub-topic: "Presentations"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 <p>Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.</p>

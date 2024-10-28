@@ -7,6 +7,16 @@ title: 'Module 1: Using Built-in Features to Organize Content and Ensure Logical
 created: 1579723625
 redirect_from:
 - create/spreadsheets/aed-cop-xlsx01/
+topic: "Training (train)"
+sub-topic: "Spreadsheets"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order)
@@ -19,7 +29,7 @@ redirect_from:
 
 Learn how to use built-in features (cell styles, heading levels, and data table formats) to ensure that spreadsheets and workbooks are structured in a logical reading order..
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-xls-m01.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-xls-m01-oc.mp4" type="video/mp4" /></video>
 
 ## Related Spreadsheet Video Series Modules
 

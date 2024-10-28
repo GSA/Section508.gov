@@ -7,6 +7,16 @@ tags: Policy-and-Management
 created: 2023-10-02
 description: The level of detail in the Section 508 Assessment questionnaire criteria certainly came as a surprise to many of us. However, we quickly learned how it would help us understand our program’s maturity and make recommendations to program managers on areas they can improve. This and other insights from a Program Manager after navigating the annual Section 508 Assessment.
 contributors: sweeney-kate, hhs
+topic: Law (law)
+sub-topic: Accessibility Law & Policy
+audience:
+- 508 Program Manager (508pm)
+- Manager/Exec (exec)
+- Chief Information Officer (cio)
+- Public (public)
+- Chief Diversity and Inclusion Officer (cdio)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 The level of detail in the Section 508 Assessment questionnaire criteria certainly came as a surprise to many of us. However, we quickly learned how it would help us understand our program’s maturity and make recommendations to program managers on areas they can improve. To make it more easily digestible, we grouped the criteria into four areas:
  

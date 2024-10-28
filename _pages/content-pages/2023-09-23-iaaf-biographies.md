@@ -6,6 +6,16 @@ redirect_from: iaaf/biographies-2023/
 type: page
 title: 'Interagency Accessibility Forum (IAAF) Speaker and Presenter Biographies'
 created: 2023-09-23
+topic: "Events (events)"
+sub-topic: "N/A"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Content Creators (creator)"
+- "Developers and Testers (dev-test)"
+resource-type: "Training"
+format: "HTML (html)"
 ---
 
 <p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">

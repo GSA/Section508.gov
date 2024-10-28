@@ -7,6 +7,15 @@ title: 'Module 9: Create Accessible Images and Other Objects'
 created: 1579721138
 redirect_from:
  - create/documents/aed-cop-docx09/
+topic: Training (train)
+sub-topic: Documents
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 9: Create Accessible Images and Other Objects)
@@ -19,7 +28,7 @@ redirect_from:
 
 Assistive technology cannot infer meaning from images and other objects, such as pictures, images of text, images of tables, shapes, and icons with hyperlinks. Discover how to apply &ldquo;alt text&rdquo; to objects to ensure equivalent access to the visual information.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m09.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m09-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

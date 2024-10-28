@@ -7,6 +7,16 @@ title: 'Module 12: Create the Required Color Contrast'
 created: 1579721353
 redirect_from:
  - create/documents/aed-cop-docx12/
+topic: "Training (train)"
+sub-topic: "Documents"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+resource-type: "Training"
+format: "Video & Synchronized Media (video)"
 ---
 
 [comment]: <> (# Module 12: Create the Required Color Contrast)
@@ -19,7 +29,7 @@ redirect_from:
 
 When choosing the color palette for your document, ensure there is enough color contrast between the foreground and background. Discover how to download and use a tool to ensure your text meets or exceeds minimum allowable color contrast.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/aed-cop-docx-m12.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/aed-cop-docx-m12-oc.mp4" type="video/mp4" /></video>
 
 ## Related Documents Video Series Modules
 

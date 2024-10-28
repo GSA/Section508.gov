@@ -1252,3 +1252,252 @@ iaaf_2023:
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: #bio_id for this person 
+iaaf_2024: 
+  - day: 1
+    time_start: 2024-11-13 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2024-11-13 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2024-11-13 09:30:00
+        time_end: 2024-11-13 10:00:00
+        session_id: day1welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: daniel-pomeroy #bio_id for this person
+          - name: Introduction 
+            who: andrew-nielson #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2024-11-13 11:00:00
+        session_id: day1session1
+        subtitle: Section 508 Activities Update by GSA
+        description: Accessibility experts from the U.S. Access Board (USAB) and the General Services Administration (GSA) will update attendees on current developments in the implementation and interpretation of the Section 508 Standards, including activities, achievements, milestones, and progress in assessing conformance across government.
+        roles: 
+          - name: Presenter
+            who: michael-horton #bio_id for this person 
+          - name: Presenter
+            who: krause-merrick
+          - name: Presenter
+            who: miller-laura
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person 
+          - name: Presenter
+            who: smith-oconnor-kristen #bio_id for this person 
+          - name: Presenter
+            who: wilson-alex #bio_id for this person 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-13 11:00:00
+        time_end: 2024-11-13 11:15:00
+        session_id: day1break1
+        description: 
+        room: 
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 11:15:00
+        time_end: 2024-11-13 12:15:00
+        session_id: day1session2
+        subtitle: That Doesn't Need to Be a PDF
+        description: Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: eng-kathy #bio_id for this person 
+          - name: Presenter
+            who: gillick-larry
+          - name: Presenter
+            who: michael-horton 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2024-11-13 12:15:00
+        time_end: 2024-11-13 13:15:00
+        session_id: day1break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-13 13:15:00
+        time_end: 2024-11-13 14:15:00
+        session_id: day1session3
+        subtitle: Leveraging Browser DevTools to Aid Manual Web Accessibility Testing (Part 1)
+        description: Enhance your accessibility testing skills by learning about DevTools. Edge and Chrome have built-in web development tools, called DevTools which provide a powerful way to inspect web pages and web apps.  Participants will learn how to:<ul><li>Open and find DevTools Accessibility features</li><li>Inspect web page elements</li><li>Get accessibility information</li><li>Verify screen reader support</li></ul>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: garmer-shawn #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-13 14:15:00
+        time_end: 2024-11-13 14:30:00
+        session_id: day1break3
+        description: 
+        room:       
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-13 14:30:00
+        time_end: 2024-11-13 15:15:00
+        session_id: day1session4
+        subtitle: Leveraging Browser DevTools to Aid Manual Web Accessibility Testing (Part 2)
+        description: Enhance your accessibility testing skills by learning about DevTools. Edge and Chrome have built-in web development tools, called DevTools which provide a powerful way to inspect web pages and web apps.  Participants will learn how to:<ul><li>Open and find DevTools Accessibility features</li><li>Inspect web page elements</li><li>Get accessibility information</li><li>Verify screen reader support</li></ul>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: garmer-shawn #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx        
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-13 15:15:00
+        time_end: 2024-11-13 16:15:00
+        session_id: day1session5
+        subtitle: Agency View on Assessments & Memorandums
+        description: Panel conversation on how different agencies leverage memorandums and the annual assessment to inform leadership.  The memorandums help the agencies to focus on requirements and the annual assessments gives program managers the ability to gather the data points; however, there are challenges with gathering high quality data.  Each agency, and subcomponent, has a different and unique experience.  This panel will discuss the experience from different agency levels.
+        room:
+        roles: 
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: letalien-bethany #bio_id for this person       
+          - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: kate-sweeney #bio_id for this person       
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Closing' 
+        type: welcomez
+        time_start: 2024-11-13 16:15:00
+        time_end: 2024-11-13 16:30:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 2
+    time_start: 2024-11-14 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2024-11-14 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2024-11-14 09:30:00
+        time_end: 2024-11-14 10:00:00
+        session_id: day2welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sachin-pavithran #bio_id for this person
+          - name: Introduction 
+            who: levy-alison #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-14 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2024-11-14 11:00:00
+        session_id: day2session1
+        subtitle: Exceptions in Section 508 Regulatory Language
+        description: The Section 508 regulation introduces “General Exceptions” early in the document (202).  Why have exceptions?  What does each mean?  Why do some General Exceptions have sub-provisions, but others don’t?  Is there a difference between Exceptions and Exemptions?  Some provisions include Exceptions, are they like General Exceptions?  Is Assistive Technology exempt from 508?  What is the difference between Fundamental Alteration and Undue Burden?  Can I claim undue burden?
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: bruce-bailey #bio_id for this person 
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-13 11:00:00
+        time_end: 2024-11-13 11:15:00
+        session_id: day2break1
+        description:      
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-14 11:15:00
+        time_end: 2024-11-14 12:15:00
+        session_id: day2session2
+        subtitle: Enhancing Accessibility on Social Media Platforms in Federal Agencies
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government. Attendees will learn how to evaluate and ensure compliance with Section 508 standards across platforms like Facebook, Twitter, and LinkedIn. The session will cover best practices for making content accessible to individuals with disabilities, including captioning, alt text for images, and user-friendly design, ensuring that federal digital communications are inclusive for all.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: nieves-amy #bio_id for this person 
+          - name: Presenter
+            who: okeefe-david
+          - name: Presenter
+            who: jones-bryson
+          - name: Presenter
+            who: lindeman-alex
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2024-11-14 12:15:00
+        time_end: 2024-11-14 13:15:00
+        session_id: day2break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-14 13:15:00
+        time_end: 2024-11-14 14:15:00
+        session_id: day2session3
+        subtitle: Meet ANDI (Part 1)
+        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: cotter-john #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2024-11-13 14:15:00
+        time_end: 2024-11-13 14:30:00
+        session_id: day2break3
+        description:      
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2024-11-14 14:30:00
+        time_end: 2024-11-14 15:15:00
+        session_id: day2session4
+        subtitle: Meet ANDI
+        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: cotter-john #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx        
+      - name: 'General Session'
+        type: general
+        time_start: 2024-11-14 15:15:00
+        time_end: 2024-11-14 16:15:00
+        session_id: day2session5
+        subtitle: How to Build an Effective 508 Program
+        description: GSA's Technology Accessibility Playbook provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities. The Playbook contains twelve key “plays” drawn from successful practices in the government and private sector.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: frith-chet #bio_id for this person       
+        downloads:
+          - link_name: #File Name - IAAF 2024 (PPTX)
+            file_name: #file-name-iaaf-2024.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2024-11-14 16:15:00
+        time_end: 2024-11-14 16:30:00
+        session_id: day2close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+          #- name:
+          #  who: otts-katherine

@@ -5,6 +5,14 @@ permalink: create/audio-video/
 type: create
 title: 'Create Accessible Audio- and Video-Only Media'
 created: 1526416120
+topic: "Content creation (create)"
+sub-topic: "Video/Audio/Multimedia"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 ## Audio-Only Content
 Audio-only media refers to digital content, such as podcasts and MP3s audio files, that typically provides information using speech, music and sound effects. In order for individuals without hearing or have limited hearing to access the information, content creations must provide an alternative that presents equivalent information for prerecorded audio-only content.

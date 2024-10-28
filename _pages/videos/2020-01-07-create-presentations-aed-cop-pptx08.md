@@ -7,6 +7,15 @@ title: 'Module 8: Creating Links with Unique and Descriptive Names'
 created: 1578419887
 redirect_from:
  - create/presentations/aed-cop-pptx08/
+topic: Training (train)
+sub-topic: Presentations
+audience:
+- federal employee (fedemp)
+- Content Creators (creator)
+- Website Managers/Content Managers (wcm)
+- Public (public)
+resource-type: Training
+format: Video & Synchronized Media (video)
 ---
 
 [comment]: <> (# Module 8: Creating Links with Unique and Descriptive Names)
@@ -19,7 +28,7 @@ redirect_from:
 
 Learn how to add links to a presentation so that each link has a unique and descriptive name to allow assistive technology users to determine the destination, function or purpose of links.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/aed-cop-ppt-m08.mp4" type="video/mp4" /></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width: 100%;"><source src="https://assets.section508.gov/files/videos/aed-cop-ppt-m08-oc.mp4" type="video/mp4" /></video>
 
 ## Related Presentation Video Series Modules
 

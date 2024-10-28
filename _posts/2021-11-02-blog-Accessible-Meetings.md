@@ -6,6 +6,16 @@ title: 'Learn How to Create an Accessible Meeting'
 created: November 4, 2021
 tags: Content-Creation
 description: The GSA Government-wide IT Accessibility Program publishes guidance on how you can plan your next meeting - from selecting your venue or online platform; planning for, and scheduling accommodations; ensuring the accessibility of meeting documents and materials; meeting management techniques, and more.
+topic: "Content creation (create)"
+sub-topic: "General Info and Best Practices"
+audience:
+- "federal employee (fedemp)"
+- "508 Program Manager (508pm)"
+- "Public (public)"
+- "Product Managers (prodmgr)"
+- "Information Technology Program and Project Managers (itpm)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 <div><img alt="Screenshot of the Create Accessible Meetings page on section508.gov." src="https://assets.section508.gov/files/blog-accessible-meeting.png" style="float:right; width:40%" /></div>
 

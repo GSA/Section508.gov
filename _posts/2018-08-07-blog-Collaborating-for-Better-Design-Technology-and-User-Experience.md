@@ -3,9 +3,16 @@ layout: post
 permalink: blog/Collaborating-for-Better-Design-Technology-and-User-Experience/
 type: article
 title: 'Collaborating for Better Design, Technology and User Experience'
-created: 1533674391
+created: 2018-08-07
+updated: 2024-07-11
 tags: Design-and-Develop
 description: In February 2018, the White House released its <a href="https://www.whitehouse.gov/wp-content/uploads/2017/11/M-18-12.pdf" aria-label="Implementation Plan PDF">implementation plan</a> to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. 
+topic: "Design (design)"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
+audience:
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 In February 2018, the White House released its [implementation plan][1] to modernize IT infrastructure across the federal government. As a result, several initiatives are underway to achieve this goal. Paying specific attention to mobile friendliness, customer experience, and innovation, the federal government is changing how we approach design, development and user experience. GSA’s Office of Government-wide Policy (OGP) is working to align with these initiatives, and improve collaboration to promote a unified message about IT design and accessibility.
@@ -30,4 +37,4 @@ If you know of other initiatives in the federal government that focus on improvi
  [4]: https://digital.gov/communities/mobile/
  [5]: https://github.com/18F/accessibility/wiki/Accessibility-guild-vision-and-mission-statements
  [6]: https://designsystem.digital.gov/
- [7]: https://accessibility.digital.gov/
+ [7]: https://digital.gov/guides/accessibility-for-teams/

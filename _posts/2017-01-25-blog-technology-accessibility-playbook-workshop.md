@@ -6,6 +6,16 @@ title: 'Technology Accessibility Playbook Workshop '
 created: 1485354129
 tags: Events
 description: On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACOP) hosted a workshop on the <a href="https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro">Technology Accessibility Playbook</a>, which helps federal agencies create mature Section 508 programs.
+topic: Events (events)
+sub-topic: Manage a 508 Program
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Acquisition (acq)
+- Federal employee (fedemp)
+- Information Technology Program and Project Managers (itpm)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACOP) hosted a workshop on the [Technology Accessibility Playbook][1], which helps federal agencies create mature Section 508 programs. Thirty participants from 16 federal agencies attended the workshop, including Section 508 Program Managers, Developers and Procurement Specialists.

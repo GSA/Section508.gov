@@ -6,6 +6,16 @@ title: 'Microsoft’s Journey to Accessibility'
 tags: Design-and-Develop
 created: 1483454666
 description: On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products.
+topic: "Testing (test)"
+sub-topic: "Various Electronic Content (i.e. Multiple)"
+audience:
+- "508 Program Manager (508pm)"
+- "Developers and Testers (dev-test)"
+- "Content Creators (creator)"
+- "Public (public)"
+- "Chief Information Officer (cio)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 
 January 3, 2017 - On December 6, 2016, Accessibility Program Managers from the Microsoft Engineering Team facilitated an all-day training event for Federal Section 508 Program Managers, to showcase accessibility features in Microsoft products. Acknowledging that accessibility impacts everyone, Microsoft shared their journey of &ldquo;embracing accessibility by design.&rdquo;

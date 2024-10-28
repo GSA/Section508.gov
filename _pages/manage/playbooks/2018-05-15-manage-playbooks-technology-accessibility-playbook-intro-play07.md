@@ -6,6 +6,16 @@ title: 'Play 7: Integrate accessibility needs into requirements and design proce
 created: 1526408767
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play07/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 We must begin technology projects by identifying the needs of people with disabilities who use and support the technology, and account for the ways the technology will fit into their lives. We must understand their preferences and expectations for using our technology to ensure it works for all, not just some users. These factors should not only inform technical and design decisions, but also IT investment, acquisition, development, and deployment.

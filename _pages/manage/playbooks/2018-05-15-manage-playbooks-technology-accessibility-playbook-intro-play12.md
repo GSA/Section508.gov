@@ -6,6 +6,16 @@ title: 'Play 12: Educate the workforce'
 created: 1526408982
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play12/
+topic: Manage (program)
+sub-topic: Manage a 508 Program
+audience:
+- Chief Information Officer (cio)
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Developers and Testers (dev-test)
+resource-type: Playbook
+format: HTML (html)
 ---
 
 An understanding of accessibility and Section 508 compliance should be an essential component of agency workforce development.&nbsp;&nbsp; Increasing the awareness of the needs of people with disabilities, as well as agency legal requirements to address those needs, is an important step towards gaining the support and cooperation from agency staff to implement a mature Section 508 Program.

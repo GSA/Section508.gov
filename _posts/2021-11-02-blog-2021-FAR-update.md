@@ -6,6 +6,13 @@ title: 'FAR Updated to Add Revised Section 508 Standards for Information and Com
 created: November 10, 2021
 tags: Policy-and-Management
 description: On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for Information and Communication Technology (ICT). Read more about the final FAR rule update and changes effective as of September 10, 2021.
+topic: "Policy (policy)"
+sub-topic: "Accessibility Law & Policy"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for Information and Communication Technology (ICT). The final rule went into effect on January 18, 2018.
 

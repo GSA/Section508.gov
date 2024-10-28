@@ -11,7 +11,7 @@ office:
 location: Washington, DC
 email: 
 image_url: https://assets.section508.gov/files/bio-images/bailey-bruce.png
-iaaf_years: 2022, 2023
+iaaf_years: 2022, 2023, 2024
 ---
 Bruce Bailey has lead responsibility for the Access Board website and with providing technical assistance on Section 508, especially as that regulation relates to websites, software, and hardware. Bailey supports Access Board members serving on Election Assistance Commission (EAC) boards and committees. Bailey serves as the Access Board 508 Program Manager.
 

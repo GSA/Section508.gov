@@ -4,9 +4,18 @@ sidenav: true
 permalink: develop/software-websites/
 type: develop
 title: 'Create Accessible Software & Websites'
-created: 1526572632
+created: 2018-05-17
+updated: 2024-07-11
 redirect_from:
 - create/software-websites/
+topic: "Development (dev)"
+sub-topic: "Software"
+audience:
+- "Federal employee (fedemp)"
+- "Public (public)"
+- "Designer (design)"
+resource-type: "Process/How-to"
+format: "HTML (html)"
 ---
 
 If you’re an author or developer of electronic documents, software applications, web content, operating systems, accessibility platforms, assistive technology, mobile environments, and modern development frameworks, you need to understand how the [Revised 508 Standards][1] (36 C.F.R. Part 1194) apply to your work.
@@ -43,7 +52,7 @@ The best practices in this section are supported by peer review and consensus am
 [Contact us][11] if you'd like to suggest a new resource for this page.
 
   
-**Reviewed/Updated:** July 2018
+**Reviewed/Updated:** July 2024
 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
@@ -54,6 +63,6 @@ The best practices in this section are supported by peer review and consensus am
  [6]: {{site.baseurl}}/create/web-content
  [7]: {{site.baseurl}}/content/guide-accessible-web-design-development
  [8]: {{site.baseurl}}/create/universal-design
- [9]: https://accessibility.digital.gov/
+ [9]: https://digital.gov/guides/accessibility-for-teams/
  [10]: https://designsystem.digital.gov/
  [11]: {{site.baseurl}}/contact-us

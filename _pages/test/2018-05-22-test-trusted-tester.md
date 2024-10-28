@@ -6,16 +6,25 @@ type: test
 title: 'Trusted Tester and ICT Testing Baseline'
 created: 1527031851
 contributors: usab
+topic: Testing (test)
+sub-topic: Websites
+audience:
+- 508 Program Manager (508pm)
+- Developers and Testers (dev-test)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Chief Information Officer (cio)
+resource-type: Long form article
+format: HTML (html)
 ---
 
 ## ICT Testing Baseline
 
 Baseline tests&nbsp;of Information and Communication Technology (ICT) attempt to reduce ambiguity, increase consistency of results, and emphasize&nbsp;methods and techniques to reliably meet federal accessibility requirements.
 
-The [ICT Testing Baseline for Web][1] provides an approach to standardize and improve web accessibility conformance test processes throughout the federal government. Agencies may use the Baseline for Web as the foundation of their test methodology to evaluate web content for Section 508 conformance. Agencies may select testing tools that best suit their environment and include additional agency-specific tests. Including Baseline results in test reports can improve reporting transparency. The Baseline for Web improves the accuracy and completeness of web accessibility test results and the test methodologies that provide them. The Baseline for Web is a best practice and resource for web accessibility professionals and stakeholders. By improving conformance testing, it also helps ensure that web content is accessible to people with disabilities. 
-Note: Add after the first sentence/paragraph.
+The [ICT Testing Baseline for Web][1] provides an approach to standardize and improve web accessibility conformance test processes throughout the federal government. Agencies may use the Baseline for Web as the foundation of their test methodology to evaluate web content for Section 508 conformance. Agencies may select testing tools that best suit their environment and include additional agency-specific tests. Including Baseline results in test reports can improve reporting transparency. The Baseline for Web improves the accuracy and completeness of web accessibility test results and the test methodologies that provide them. The Baseline for Web is a best practice and resource for web accessibility professionals and stakeholders. By improving conformance testing, it also helps ensure that web content is accessible to people with disabilities.
 
-The&nbsp;[ICT Testing Baseline][1] describes how to evaluate conformance to the [Revised 508 Standards][2], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to **create** an accessibility test process.
+The [ICT Testing Baseline][1] describes how to evaluate conformance to the [Revised 508 Standards][2], which align with WCAG 2.0 Level A and AA Success Criteria. It is organized by categories to help you easily identify applicable requirements. Note that the Baseline is not a test process and does not include testing tools; rather, it should be used to **create** an accessibility test process.
 
 Email the ICT Baseline Working Group at <ictbaseline@gsa.gov> with questions.
 

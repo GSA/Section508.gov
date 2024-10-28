@@ -6,6 +6,16 @@ title: 'Section 508 Transition Activities Update'
 created: 1498743532
 tags: Policy-and-Management
 description: Here are some updates on the <b>Section 508 Transition Activities</b> underway to centralize guidance, avoid duplication, and streamline the transition to the revised standards.
+topic: Policy (policy)
+sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
+audience:
+- 508 Program Manager (508pm)
+- Information Technology Program and Project Managers (itpm)
+- Federal employee (fedemp)
+- Contracting Officer’s Representative (cor)
+- Lawmakers and Policy Officials (law-policy)
+resource-type: Blog article (blog)
+format: HTML (html)
 ---
 
 June 29, 2017 - Here are some updates on the **Section 508 Transition Activities** underway to centralize guidance, avoid duplication, and streamline the transition to the revised standards. The Access Board, the ACoP, GSA&rsquo;s Government-wide Section 508 Team, and many of you who are working to help make this transition happen as smoothly as possible.
