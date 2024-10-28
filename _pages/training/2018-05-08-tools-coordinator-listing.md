@@ -501,7 +501,7 @@ Brandon Jubar - <jubar.brandon.t@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Rich McCarthy - <mccarthyrd@state.gov>
+Christopher M. Brown - <browncm@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
