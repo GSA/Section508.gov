@@ -1302,12 +1302,15 @@ iaaf_2024:
         time_start: 2024-11-13 11:15:00
         time_end: 2024-11-13 12:15:00
         session_id: day1session2
-        subtitle: Exceptions in Section 508 Regulatory Language
-        description: The Section 508 regulation introduces “General Exceptions” early in the document (202).  Why have exceptions?  What does each mean?  Why do some General Exceptions have sub-provisions, but others don’t?  Is there a difference between Exceptions and Exemptions?  Some provisions include Exceptions, are they like General Exceptions?  Is Assistive Technology exempt from 508?  What is the difference between Fundamental Alteration and Undue Burden?  Can I claim undue burden?
-        room:
+        subtitle: That Doesn't Need to Be a PDF
+        description: Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: bruce-bailey #bio_id for this person 
+            who: eng-kathy #bio_id for this person 
+          - name: Presenter
+            who: gillick-larry
+          - name: Presenter
+            who: michael-horton 
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
@@ -1397,15 +1400,12 @@ iaaf_2024:
         time_start: 2024-11-14 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2024-11-14 11:00:00
         session_id: day2session1
-        subtitle: That Doesn't Need to Be a PDF
-        description: Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
+        subtitle: Exceptions in Section 508 Regulatory Language
+        description: The Section 508 regulation introduces “General Exceptions” early in the document (202).  Why have exceptions?  What does each mean?  Why do some General Exceptions have sub-provisions, but others don’t?  Is there a difference between Exceptions and Exemptions?  Some provisions include Exceptions, are they like General Exceptions?  Is Assistive Technology exempt from 508?  What is the difference between Fundamental Alteration and Undue Burden?  Can I claim undue burden?
+        room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: eng-kathy #bio_id for this person 
-          - name: Presenter
-            who: gillick-larry
-          - name: Presenter
-            who: michael-horton 
+            who: bruce-bailey #bio_id for this person 
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx

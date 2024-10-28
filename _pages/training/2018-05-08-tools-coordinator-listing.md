@@ -117,7 +117,7 @@ Millie Abdi - <misale.abdi@oig.usda.gov>
 Lisa Wilcox - <lisa.wilcox@usda.gov>  
 
 * **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
-* **National Agricultural Statistics Service (NASS)** <br>David Larkin - <david.larkin@usda.gov>  
+* **National Agricultural Statistics Service (NASS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
 * **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
 ### Rural Development
@@ -184,7 +184,6 @@ Jorge Valdez - <jorge.valdez@darpa.mil>
 Consuala Spencer - <consuala.spencer@dau.edu>  
 ### Defense Contract Management Agency (DCMA)
 Antonio Boston - <antonio.boston.civ@mail.mil>  
-William R. O'Brien (BACKUP) - <william.r.o'brien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
