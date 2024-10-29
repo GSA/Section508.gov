@@ -63,12 +63,14 @@ Additionally, keep the following in mind when implementing different formatting 
 
 * **GIFs:** X has an in-house feature for adding GIFs to posts. It's recommended not to use animated GIFs unless they are fully accessible---meaning they include pause, stop, and hide features and comply with non-flashing standards. However, if you have your own GIF file and you can be made fully accessible, you may use it. Be sure to include appropriate alt text for the GIF. After selecting your GIF from the GIPHY catalog, click "Add Description" and enter your alt text. If your GIF contains text, then check its color contrast ratio; if it is not accessible, then do not use the GIF.
 
-<ol class="usa-icon-list tablet:grid-col">
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-black"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#x"></use></svg></div>
-      <div class="usa-icon-list__content"><a href="https://x.com/AccessBoard/status/1830983691566219580" target="_blank" class="usa-link--external">View an example of an accessible X post by the U.S. Access Board</a></div>
-  </li>
-</ol>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+  <ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-black"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#x"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="https://x.com/AccessBoard/status/1830983691566219580" target="_blank" class="usa-link--external">View an example of an accessible X post by the U.S. Access Board</a></div>
+    </li>
+  </ol>
+</div>
 
 ### LinkedIn*
 Use plain language when writing LinkedIn posts---don't assume all users understand your industry's jargon. Remember LinkedIn does not have a character limit on posts, so make sure to avoid highly technical words and spell out uncommon acronyms or abbreviations.
@@ -87,12 +89,14 @@ Additionally, keep the following in mind when implementing different formatting 
 
 * **Events**: When creating events on LinkedIn, follow the guidance above and remember to add alt text to your cover image for the event.
 
-<ol class="usa-icon-list tablet:grid-col">
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#linkedin"></use></svg></div>
-      <div class="usa-icon-list__content"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7244687214373142528" target="_blank" class="usa-link--external">View an example of an accessible LinkedIn post by the U.S. Access Board</a></div>
-  </li>
-</ol>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+  <ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#linkedin"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7244687214373142528" target="_blank" class="usa-link--external">View an example of an accessible LinkedIn post by the U.S. Access Board</a></div>
+    </li>
+  </ol>
+</div>
 
 ### Facebook*
 Use plain language when writing your Facebook posts---don't assume all users will understand your industry's jargon. Remember that Facebook does not have a character limit on posts, so make sure to avoid highly technical words and spell out uncommon acronyms or abbreviations.
@@ -111,12 +115,14 @@ Additionally, keep the following in mind when implementing different formatting 
 
 * **Events:** When creating events on Facebook, follow the guidance above but note that the platform does not currently allow users to add alt text to the cover image for events. For this reason, do not include any information in the cover image that is not included elsewhere in the title or description. Additionally, avoid using GIFs as cover images for events.
 
-<ol class="usa-icon-list tablet:grid-col">
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#facebook"></use></svg></div>
-      <div class="usa-icon-list__content"><a href="https://www.facebook.com/share/p/rZJ1sijURLJAJ2p7/" target="_blank" class="usa-link--external">View an example of an accessible Facebook post by the U.S. Access Board</a></div>
-  </li>
-</ol>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+  <ol class="usa-icon-list tablet:grid-col">
+    <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#facebook"></use></svg></div>
+        <div class="usa-icon-list__content"><a href="https://www.facebook.com/share/p/rZJ1sijURLJAJ2p7/" target="_blank" class="usa-link--external">View an example of an accessible Facebook post by the U.S. Access Board</a></div>
+    </li>
+  </ol>
+</div>
 
 ## Platform Resources For Accessibility*
 The social media platforms regularly used by the U.S. Access Board (USAB):
