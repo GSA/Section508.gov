@@ -66,7 +66,7 @@ Additionally, keep the following in mind when implementing different formatting 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-black"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#x"></use></svg></div>
+        <div class="usa-icon-list__icon text-black"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#x"></use></svg></div>
         <div class="usa-icon-list__content"><a href="https://x.com/AccessBoard/status/1830983691566219580" target="_blank" class="usa-link--external">View an example of an accessible X post by the U.S. Access Board</a></div>
     </li>
   </ol>
@@ -92,7 +92,7 @@ Additionally, keep the following in mind when implementing different formatting 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#linkedin"></use></svg></div>
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#linkedin"></use></svg></div>
         <div class="usa-icon-list__content"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7244687214373142528" target="_blank" class="usa-link--external">View an example of an accessible LinkedIn post by the U.S. Access Board</a></div>
     </li>
   </ol>
@@ -118,7 +118,7 @@ Additionally, keep the following in mind when implementing different formatting 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
   <ol class="usa-icon-list tablet:grid-col">
     <li class="usa-icon-list__item">
-        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#facebook"></use></svg></div>
+        <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#facebook"></use></svg></div>
         <div class="usa-icon-list__content"><a href="https://www.facebook.com/share/p/rZJ1sijURLJAJ2p7/" target="_blank" class="usa-link--external">View an example of an accessible Facebook post by the U.S. Access Board</a></div>
     </li>
   </ol>
