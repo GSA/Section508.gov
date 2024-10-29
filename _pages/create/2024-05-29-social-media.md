@@ -4,7 +4,7 @@ sidenav: true
 permalink: create/social-media/
 type: create
 title: Create Accessible Social Media
-contributors: 
+contributors: usab
 social_img: 
 created: 2024-05-29
 updated: 2024-10-29
