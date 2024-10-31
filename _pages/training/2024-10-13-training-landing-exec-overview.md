@@ -49,7 +49,7 @@ format: "Video & Synchronized Media (video)"
 * Section 508 Program Manager  
 
 **Duration:** 20 minutes  
-**Skill Level:** Beginner | Intermediate | Expert  
+**Difficulty Level:** Beginner  
 **Version:** Version 2.0 (Sep 2024)  
 
 ## What Will I Learn in This Course?

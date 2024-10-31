@@ -224,8 +224,8 @@ Pamela Whitehead - <pamela.whitehead@mda.mil>
 Irina Ryan - <irina.ryan.civ@ndu.edu>  
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
-### National Guard Bureau (NGB)
-Phyllis	R. Renner - <phyllis.r.renner.civ@army.mil>  
+<!-- ### National Guard Bureau (NGB)
+Phyllis	R. Renner - <phyllis.r.renner.civ@army.mil>  -->
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -498,7 +498,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 ---
 ## <span id="usdol" ></span>Department of Labor (DOL)
 Brandon Jubar - <jubar.brandon.t@dol.gov>  
-
+Eric W. Wright (Backup) - <wright.eric.w@dol.gov>  
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
 Christopher M. Brown - <browncm@state.gov>  
@@ -618,8 +618,8 @@ Guy T. Tate - <guy.t.tate@usace.army.mil>
 
 <span id="B" ></span>
 
-### Barry Goldwater Scholarship and Excellence in Education Foundation
-Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  
+<!-- ### Barry Goldwater Scholarship and Excellence in Education Foundation
+Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  -->
 
 ---
 ### Bonneville Power Administration	(BPA)	

@@ -46,7 +46,7 @@ format: "HTML"
 * Accessibility Testers
 
 **Duration:** 60 minutes  
-**Skill Level:** Intermediate | Expert  
+**Difficulty Level:** Intermediate or Expert  
 **Version:** Version 1.2 (Jul 2024)  
 
 ## What Will I Learn in This Course?
