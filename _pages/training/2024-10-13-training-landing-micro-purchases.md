@@ -47,7 +47,7 @@ format: "HTML"
 *	Approving Officials  
 
 **Duration:** 30 minutes  
-**Skill Level:** Beginner | Intermediate | Expert  
+**Difficulty Level:** Beginner  
 **Version:** Version 2.0 (Nov 2021)  
 
 ## What Will I Learn in This Course?

@@ -41,7 +41,7 @@ format: "Video & Synchronized Media (video)"
 ## Course Details
 **Audience:** Federal Employees and Contracts
 **Duration:** 60 minutes  
-**Skill Level:** Beginner | Intermediate | Expert  
+**Difficulty Level:** Beginner  
 **Version:** Version 4.1 (Sep 2024)  
 
 ## What Will I Learn in This Course?
