@@ -47,7 +47,7 @@ format: "HTML"
 * Procurement Team Members
 
 **Duration:** 105 minutes  
-**Difficulty Level:** Beginner or Intermediate  
+**Difficulty Level:** Intermediate  
 **Version:** Version 1.0 (Mar 2024)  
 
 ## What Will I Learn in This Course?

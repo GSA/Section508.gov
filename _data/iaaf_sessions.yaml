@@ -1499,5 +1499,7 @@ iaaf_2024:
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #use bio_id
+          - name: 
+            who: otts-katherine
           #- name:
           #  who: otts-katherine
