@@ -47,7 +47,7 @@ format: "HTML"
 *	Approving Officials  
 
 **Duration:** 30 minutes  
-**Difficulty Level:** Intermediate <!-- "Intermediate: It's recommended that learners have some basic understanding of Section 508 before taking this course, but it's not required." "Beginner - Anyone can take this course without any prior knowledge of Section 508." "Expert: Prior knowledge of Section 508 is essential to understand this course." -->  
+**Difficulty Level:** Intermediate  
 **Version:** Version 2.0 (Nov 2021)  
 
 ## What Will I Learn in This Course?

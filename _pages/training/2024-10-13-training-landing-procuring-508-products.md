@@ -47,7 +47,7 @@ format: "HTML"
 * Procurement Team Members
 
 **Duration:** 105 minutes  
-**Difficulty Level:** Intermediate <!-- "Intermediate: It's recommended that learners have some basic understanding of Section 508 before taking this course, but it's not required." "Beginner - Anyone can take this course without any prior knowledge of Section 508." "Expert: Prior knowledge of Section 508 is essential to understand this course." -->
+**Difficulty Level:** Intermediate  
 **Version:** Version 1.0 (Mar 2024)  
 
 ## What Will I Learn in This Course?
