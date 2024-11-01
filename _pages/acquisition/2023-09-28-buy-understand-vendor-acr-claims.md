@@ -50,5 +50,6 @@ Understanding vendor claims in ACRs regarding Section 508 conformance is essenti
   * [Request Accessibility Information from Vendors & Contractors](https://www.section508.gov/buy/request-accessibility-information/)
   * [Buy Accessible Products and Services](https://www.section508.gov/buy/)
   * [Accessibility Requirements Tool (ART)](https://www.section508.gov/art/)
+  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
   
-**Reviewed/Updated**: September 2023
+**Reviewed/Updated**: November 2024
