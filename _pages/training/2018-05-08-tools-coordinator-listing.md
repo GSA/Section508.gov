@@ -619,8 +619,8 @@ Guy T. Tate - <guy.t.tate@usace.army.mil>
 
 <span id="B" ></span>
 
-<!-- ### Barry Goldwater Scholarship and Excellence in Education Foundation
-Anne Marie Kanakkanatt - <akanakkanatt@goldwaterscholarship.gov>  -->
+### Barry Goldwater Scholarship and Excellence in Education Foundation
+Shellby Padgett - <goldwaterao@goldwaterscholarship.gov>  
 
 ---
 ### Bonneville Power Administration	(BPA)	
@@ -936,7 +936,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: October, 2024
+**Reviewed/Updated**: November, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
