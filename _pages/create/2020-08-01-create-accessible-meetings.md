@@ -418,7 +418,7 @@ If you are unsure about any part of the process of hosting Section 508 conforman
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#verified"></use></svg></div>
-      <div class="usa-icon-list__content">Reach out to your agency's [Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)</div>
+      <div class="usa-icon-list__content">Reach out to your agency's <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a></div>
   </li>
 </ul>
 
