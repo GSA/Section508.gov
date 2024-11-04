@@ -1365,10 +1365,14 @@ iaaf_2024:
         description: Panel conversation on how different agencies leverage memorandums and the annual assessment to inform leadership.  The memorandums help the agencies to focus on requirements and the annual assessments gives program managers the ability to gather the data points; however, there are challenges with gathering high quality data.  Each agency, and subcomponent, has a different and unique experience.  This panel will discuss the experience from different agency levels.
         room:
         roles: 
+          - name: Panelist
+            who: lapcewich-dennis
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: letalien-bethany #bio_id for this person       
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: kate-sweeney #bio_id for this person       
+            who: kate-sweeney #bio_id for this person         
+          - name: Panelist
+            who: whittington-david
         downloads:
           - link_name: #File Name - IAAF 2024 (PPTX)
             file_name: #file-name-iaaf-2024.pptx
