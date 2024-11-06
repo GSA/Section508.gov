@@ -1333,8 +1333,8 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: garmer-shawn #bio_id for this person
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+          - link_name: #Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF) 
+            file_name: #Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf
       - name: 'Break'
         type: break
         time_start: 2024-11-13 14:15:00
@@ -1354,8 +1354,8 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: garmer-shawn #bio_id for this person
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx        
+          - link_name: #Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF) 
+            file_name: #Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf
       - name: 'General Session'
         type: general
         time_start: 2024-11-13 15:15:00
@@ -1411,8 +1411,8 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: bruce-bailey #bio_id for this person 
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+          - link_name: #Exceptions in Section 508 Regulatory Language - IAAF 2024.pptx (PPTX) 
+            file_name: #Exceptions%20in%20Section%20508%20Regulatory%20Language%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
@@ -1437,8 +1437,8 @@ iaaf_2024:
           - name: Presenter
             who: lindeman-alex
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+          - link_name: #Social Media Presentation and Webinar Slides - IAAF 2024.pptx (PPTX) 
+            file_name: #Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx
       - name: 'Lunch'
         type: break
         time_start: 2024-11-14 12:15:00
@@ -1492,8 +1492,8 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: frith-chet #bio_id for this person       
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+          - link_name: #Section 508 Playbook (Draft) - IAAF 2024.pptx (PPTX) 
+            file_name: #Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2024-11-14 16:15:00
@@ -1505,5 +1505,3 @@ iaaf_2024:
             who: andrew-nielson #use bio_id
           - name: 
             who: otts-katherine
-          #- name:
-          #  who: otts-katherine
