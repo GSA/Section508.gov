@@ -1,8 +1,9 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play10/
 type: manage
 layout: page
-title: 'Play 10: Conduct Section 508 testing'
+title: 'Play 10: Conduct Section 508 Testing'
 created: 1526408906
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play10/
@@ -77,6 +78,7 @@ Many individuals who are interested in testing to validate the conformance of a 
     </a>
 </div>
 
+**Reviewed/Updated:** November 2024
 
  [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [2]: https://agilemanifesto.org/

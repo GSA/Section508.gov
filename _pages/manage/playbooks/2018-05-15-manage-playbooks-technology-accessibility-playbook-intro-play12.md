@@ -1,8 +1,9 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play12/
 type: manage
 layout: page
-title: 'Play 12: Educate the workforce'
+title: 'Play 12: Educate the Workforce'
 created: 1526408982
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play12/
@@ -65,6 +66,8 @@ An understanding of accessibility and Section 508 compliance should be an essent
       href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11"> < Play 11
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: {{site.baseurl}}/tools
  [2]: https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592

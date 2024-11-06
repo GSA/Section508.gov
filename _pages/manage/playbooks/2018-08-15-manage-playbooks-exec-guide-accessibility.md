@@ -1,6 +1,6 @@
 ---
+sidenav: true
 layout: page
-sidenav: false
 permalink: manage/playbooks/exec-guide-accessibility/
 type: manage
 title: 'Executive Guide to Federal IT Accessibility'

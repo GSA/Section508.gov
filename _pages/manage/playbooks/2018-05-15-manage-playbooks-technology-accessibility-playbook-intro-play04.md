@@ -1,4 +1,5 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play04/
 type: manage
 layout: page
@@ -68,6 +69,8 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
       Play 5 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
  [2]: https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc

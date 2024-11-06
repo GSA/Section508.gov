@@ -1,4 +1,5 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play05/
 type: manage
 layout: page
@@ -65,6 +66,8 @@ We need talented people working in government who have expertise creating and de
       Play 6 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: https://www.access-board.gov/ict/
  [2]: https://www.dhs.gov/trusted-tester

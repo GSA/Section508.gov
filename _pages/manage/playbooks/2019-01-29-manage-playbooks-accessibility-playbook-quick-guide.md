@@ -1,6 +1,6 @@
 ---
+sidenav: true
 layout: page 
-sidenav: false 
 permalink: manage/playbooks/accessibility-playbook-quick-guide/ 
 type: manage 
 title: 'Quick Guide to IT Accessibility for Program Managers' 
@@ -405,6 +405,4 @@ agency buys, builds, and uses, is accessible for all.
   Contact <a href="mailto:section.508@gsa.gov">GSA’s Government-wide IT Accessibility Team</a> for additional training and assistance.
 </p>
 
-<p dir="ltr">
-  <strong>Reviewed/Updated</strong>: July 2024
-</p>
+**Reviewed/Updated:** July 2024

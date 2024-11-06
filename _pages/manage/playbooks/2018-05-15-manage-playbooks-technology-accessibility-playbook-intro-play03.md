@@ -1,4 +1,5 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play03/
 type: manage
 layout: page
@@ -71,4 +72,4 @@ An effective agency Section 508 program can identify and manage risks, gain mana
     <a class="prev-page" title="Go to Play 4" href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04"> Play 4 ></a>
 </div>
 
-**Reviewed/Updated:** October 2024
+**Reviewed/Updated:** November 2024

@@ -14,4 +14,4 @@ image_url: https://assets.section508.gov/files/bio-images/blank-profile.jpg
 iaaf_years: 2024
 ---
 
-Dennis Lapcewich is the Agency 508 Program Manager for the U.S. Forest Service.
+Dennis Lapcewich is the Section 508 Program Manager for the U.S. Forest Service.

@@ -1,4 +1,5 @@
 ---
+sidenav: true
 layout: page
 sidenav: true
 permalink: manage/playbooks/
