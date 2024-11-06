@@ -1,4 +1,5 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/
 type: manage
 layout: page
@@ -84,15 +85,14 @@ The Section 508 law is broad in scope, applying to all technology the federal go
 
 [Play 12: Educate the workforce][16]
 
-
-**Reviewed/Updated**: June 2016
-
 <div id="prev-next-section" style="justify-content: space-around;">
     <a class="prev-page" title="Go to Play 1"
       href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play01"> 
       Play 1 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: https://playbook.cio.gov/
  [2]: https://standards.usa.gov/

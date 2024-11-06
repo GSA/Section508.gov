@@ -1,8 +1,9 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play07/
 type: manage
 layout: page
-title: 'Play 7: Integrate accessibility needs into requirements and design processes'
+title: 'Play 7: Integrate Accessibility Needs into Requirements and Design Processes'
 created: 1526408767
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play07/
@@ -67,6 +68,8 @@ Prior to beginning a technology project, work with usability professionals and r
       href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play08"> Play 8 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: http://www.usability.gov/what-and-why/accessibility.html
  [2]: http://marketingland.com/measuring-accessibility-user-experience-ux-searcher-experience-139546

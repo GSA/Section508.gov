@@ -1,8 +1,9 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play06/
 type: manage
 layout: page
-title: 'Play 6: Collaborate with the federal accessibility community'
+title: 'Play 6: Collaborate with the Federal Accessibility Community'
 created: 1526408722
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play06/
@@ -63,6 +64,8 @@ A successful 508 Section Program should not be established in isolation. Active 
       Play 7 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
  [2]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

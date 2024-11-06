@@ -1,8 +1,9 @@
 ---
+sidenav: true
 permalink: manage/playbooks/technology-accessibility-playbook-intro/play09/
 type: manage
 layout: page
-title: 'Play 9: Integrate accessibility needs into development processes'
+title: 'Play 9: Integrate Accessibility Needs into Development Processes'
 created: 1526408870
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play09/
@@ -69,6 +70,8 @@ Regardless of whether you use contractors or agency staff to develop digital ser
       href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10"> Play 10 >
     </a>
 </div>
+
+**Reviewed/Updated:** November 2024
 
  [1]: {{site.baseurl}}/test
  [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
