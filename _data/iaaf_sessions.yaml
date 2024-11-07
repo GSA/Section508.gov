@@ -1288,7 +1288,7 @@ iaaf_2024:
           - name: Presenter
             who: wilson-alex #bio_id for this person 
         downloads:
-          - link_name: #GSA Section 508 Activities Update - IAAF 2024.pptx (PPTX) 
+          - link_name: #GSA Section 508 Activities Update - IAAF 2024 (PPTX) 
             file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
@@ -1312,8 +1312,8 @@ iaaf_2024:
           - name: Presenter
             who: michael-horton 
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+        - link_name: #That Doesn't Need to be a PDF - IAAF 2024 (PPTX) 
+          file_name: #That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx
       - name: 'Lunch'
         type: break
         time_start: 2024-11-13 12:15:00
@@ -1411,7 +1411,7 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: bruce-bailey #bio_id for this person 
         downloads:
-          - link_name: #Exceptions in Section 508 Regulatory Language - IAAF 2024.pptx (PPTX) 
+          - link_name: #Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX) 
             file_name: #Exceptions%20in%20Section%20508%20Regulatory%20Language%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
@@ -1437,7 +1437,7 @@ iaaf_2024:
           - name: Presenter
             who: lindeman-alex
         downloads:
-          - link_name: #Social Media Presentation and Webinar Slides - IAAF 2024.pptx (PPTX) 
+          - link_name: #Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX) 
             file_name: #Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx
       - name: 'Lunch'
         type: break
@@ -1492,7 +1492,7 @@ iaaf_2024:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: frith-chet #bio_id for this person       
         downloads:
-          - link_name: #Section 508 Playbook (Draft) - IAAF 2024.pptx (PPTX) 
+          - link_name: #Section 508 Playbook (Draft) - IAAF 2024 (PPTX) 
             file_name: #Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx
       - name: 'Closing' 
         type: welcome
