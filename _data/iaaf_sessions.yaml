@@ -1288,8 +1288,8 @@ iaaf_2024:
           - name: Presenter
             who: wilson-alex #bio_id for this person 
         downloads:
-          - link_name: #File Name - IAAF 2024 (PPTX)
-            file_name: #file-name-iaaf-2024.pptx
+          - link_name: #GSA Section 508 Activities Update - IAAF 2024.pptx (PPTX) 
+            file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
