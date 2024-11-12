@@ -3,8 +3,8 @@ layout: page
 sidenav: false
 type: training
 permalink: /iaaf/
-start-date: Tuesday, Nov 7 2023 10:00 #only fill in start date if the events spans multiple days
-end-date: Thursday, Nov 9 2023 16:00 #otherwise use end-date
+start-date: Wednesday, Nov 13 2024 9:30 #only fill in start date if the events spans multiple days
+end-date: Thursday, Nov 14 2024 16:30 #otherwise use end-date
 description: The 2023 Interagency Accessibility Forum (IAAF) celebrates accessibility as a foundation for inclusion, diversity, and equity within the federal government.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
