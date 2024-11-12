@@ -851,7 +851,6 @@ Jennifer Hawkins - <accessibility@peacecorps.gov>
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - <watkins.angela@pbgc.gov>  
 Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
-Teesa Roberts -	<roberts.teesa@pbgc.gov>  
 
 ---
 ### Postal Regulatory Commission (PRC)  
