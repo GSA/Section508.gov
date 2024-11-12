@@ -3,20 +3,35 @@ layout: page
 sidenav: false
 type: training
 permalink: /iaaf/
-start-date: Tuesday, Nov 7 2023 10:00 #only fill in start date if the events spans multiple days
-end-date: Thursday, Nov 9 2023 16:00 #otherwise use end-date
+start-date: Tuesday, May 20 2025 9:30 #only fill in start date if the events spans multiple days
+end-date: Thursday, May 22 2025 16:30 #otherwise use end-date
 description: The 2023 Interagency Accessibility Forum (IAAF) celebrates accessibility as a foundation for inclusion, diversity, and equity within the federal government.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. November 13-14, 2024. Achieving Digital Equity: Policies, Tools, and Techniques. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
 
-<img src="https://assets.section508.gov/files/images/iaaf-2024-date-card.jpg" alt="Event dates: November 13 and 14" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+## Thank You!
+Thank you to all presenters and attendees for making this year’s Interagency Accessibility Forum a success. Your contributions and discussions on advancing Section 508 compliance, from digital accessibility tools to social media inclusivity and strategic frameworks, have been invaluable. Together, you've made strides toward a more accessible future in federal technology.
 
+Over the coming months, we’ll publish videos of key sessions to ensure everyone has access to the insights and discussions, especially for those who couldn’t attend the event. Stay updated by visiting the [IAAF Archives]({{site.baseurl}}/iaaf/archives).
+
+## Let's Keep the Momentum Going into 2025!
+Mark your calendars for the 12th Annual Interagency Accessibility Forum, scheduled for **May 20-22, 2025, at the National Science Foundation** where you'll participate in an exciting lineup of sessions, workshops, and networking opportunities! 
+
+<img src="https://assets.section508.gov/files/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+
+The 2025 IAAF at NSF will return as an in-person conference, with a virtual attendance option for those who are unable to travel. NSF is easily accessible by public transportation as it is directly adjacent to the Eisenhower Avenue Metro Station and surrounded by public parking and a variety of restaurants and eateries.
+
+Registration will open in the Spring, so mark your calendars today and watch Section508.gov/IAAF for announcements and event information.
+
+Until then, let's continue to collaborate, innovate, and advocate for a more accessible digital world. Together, we can create a future where everyone has equal access to information and technology. Stay in touch visiting the our [events]({{site.baseurl}}/events/) page, or join our [community email listserv]({{site.baseurl}}/manage/join-the-508-community/).
+
+<!--
 ## Event Details
 <div class="grid-row">
   <div class="tablet:grid-col-9">
@@ -53,7 +68,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
     </div>
   </div>
 </div>
-
+-->
 <!--
 ### Save the Date to Your Calendar
 <div class="drid-row">
@@ -68,7 +83,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
   </div>
 </div>
 -->
-
+<!--
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
@@ -90,6 +105,7 @@ We encourage all attendees to set up and test your Zoom access ahead of the even
 * <a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a>
 * <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a>
 * <a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a>
+-->
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
@@ -105,4 +121,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** October 2024
+**Reviewed/Updated:** November 2024
