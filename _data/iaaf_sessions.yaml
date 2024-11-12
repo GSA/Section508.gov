@@ -1471,7 +1471,7 @@ iaaf_2024:
         time_start: 2024-11-14 14:30:00
         time_end: 2024-11-14 15:15:00
         session_id: day2session4
-        subtitle: Meet ANDI
+        subtitle: Meet ANDI (Part 2)
         description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
         room:
         roles: 
