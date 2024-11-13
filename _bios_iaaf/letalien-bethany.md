@@ -6,7 +6,7 @@ first_name: Bethany
 last_name: L.
 affiliation_short: OPM
 affiliation_long: Office of Personnel Management
-position: IT Specialist
+position: Section 508 Program Manager
 office: 
 location: Washington, D.C.
 email: ##lowercase
