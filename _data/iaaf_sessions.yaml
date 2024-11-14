@@ -1409,10 +1409,10 @@ iaaf_2024:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: bruce-bailey #bio_id for this person 
+            who: eng-kathy #bio_id for this person 
         downloads:
           - link_name: Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX) 
-            file_name: Exceptions%20in%20Section%20508%20Regulatory%20Language%20-%20IAAF%202024.pptx
+            file_name: Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
@@ -1471,7 +1471,7 @@ iaaf_2024:
         time_start: 2024-11-14 14:30:00
         time_end: 2024-11-14 15:15:00
         session_id: day2session4
-        subtitle: Meet ANDI
+        subtitle: Meet ANDI (Part 2)
         description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
         room:
         roles: 
