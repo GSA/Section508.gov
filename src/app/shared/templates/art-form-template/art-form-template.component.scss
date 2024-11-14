@@ -2,7 +2,6 @@
     height: 2.5rem;
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
-
     @media  screen and  (max-width: 414px) {
        width: 15rem; 
        border-top-left-radius: 0.25rem;
@@ -10,7 +9,6 @@
        margin-top: .75rem;
     }
 }
-
 .ogp-flex{
     display: flex;
     justify-content: space-between;
@@ -18,32 +16,43 @@
         flex-direction: column;
     }
 }
-
 .ogp-display-none{
     display: none;
 }
-
 .ogp-display-bloc{
     display: block;
 }
-
 .ogp-flex-center{
     display: flex;
     justify-content:center;
     align-items: center;
 }
-
+// Error Summary Css
+.error-summary {
+    background: #ffdddd;
+    border: 1px solid #ff0000;
+    padding: 1em;
+    margin-bottom: 1em;
+    cursor: pointer;
+  }
+  .error-summary ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .error-summary li {
+    color: #d00000;
+    cursor: pointer;
+    text-decoration: underline;
+  }
 @media  screen and  (max-width: 414px) {
     .ogp-btn{
         margin-top: 0.5rem;
         margin-right: 0rem !important;
     }
  }
-
 @media screen and (max-width: 1000px) {
     .ogp-btn-delete {
         margin-top: 0.5rem;
         margin-right: 0rem !important;
     }
 }
-  

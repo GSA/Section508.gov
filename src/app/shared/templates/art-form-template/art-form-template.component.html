@@ -49,6 +49,7 @@
                 ? eachFormConfig.formElements[0].formSectionId
                 : controlList.length * outerIndex + index
             }}"
+            #formSection
           >
             <h1
               *ngIf="
@@ -57,14 +58,16 @@
               "
               class="margin-bottom-2"
               [ngClass]="{ 'margin-top-3': 'index!==first' }"
+              id="{{ eachFormConfig.formElements[index].controlName }}"
             >
               <b>{{ eachFormConfig.formElements[index].formSection }}</b>
             </h1>
             <h3
               *ngIf="
                 !eachFormConfig.formElements[index].hidden &&
-                eachFormConfig.formElements[index].formSection
+                eachFormConfig.formElements[index].formsectionText
               "
+              id="{{ eachFormConfig.formElements[index].controlName }}"
             >
               {{
                 eachFormConfig.formElements[index].formsectionText &&
@@ -81,7 +84,13 @@
                 "
                 [formData]="eachFormConfig.formElements[index]"
                 [hidden]="false"
-                (eltClicked)="onElementClick($event, outerIndex)"
+                (eltClicked)="
+                  onElementClick(
+                    $event,
+                    outerIndex,
+                    eachFormConfig.formElements[index].controlName
+                  )
+                "
                 [control]="eachControl"
               >
               </art-text-field>
@@ -96,7 +105,13 @@
                 <art-radiobutton-group
                   [formData]="eachFormConfig.formElements[index]"
                   [hidden]="false"
-                  (eltClicked)="onElementClick($event, outerIndex)"
+                  (eltClicked)="
+                    onElementClick(
+                      $event,
+                      outerIndex,
+                      eachFormConfig.formElements[index].controlName
+                    )
+                  "
                   [formGroup]="eachControl"
                 ></art-radiobutton-group>
               </div>
@@ -109,7 +124,13 @@
                 [formData]="eachFormConfig.formElements[index]"
                 [formGroup]="eachControl"
                 [dataUpdated]="eltUpdated"
-                (eltClicked)="onElementClick($event, outerIndex)"
+                (eltClicked)="
+                  onElementClick(
+                    $event,
+                    outerIndex,
+                    eachFormConfig.formElements[index].controlName
+                  )
+                "
               >
               </art-checkbox-group>
             </div>
@@ -170,6 +191,29 @@
           (click)="navNextForm()"
         >
         </art-button>
+        <div class="error-summary margin-top-2" *ngIf="errorSummary.length > 0">
+          <h2>Form Errors</h2>
+          <p>Click below links to reach respective sections:</p>
+          <ul>
+            <li
+              *ngFor="let error of errorSummary"
+              (click)="scrollToSection(error.controlName)"
+            >
+              <div *ngIf="error.message">
+                <ng-container *ngIf="error.message?.maxlength">
+                  {{ getSectionLabel(error.section) }}:
+                  {{ error.message?.maxlength }}
+                </ng-container>
+                <ng-container
+                  *ngIf="!error.message?.maxlength && error.message?.required"
+                >
+                  {{ getSectionLabel(error.section) }}:
+                  {{ error.message?.required }}
+                </ng-container>
+              </div>
+            </li>
+          </ul>
+        </div>
         <button
           *ngIf="navIndex === formConfig.length - 1"
           [disabled]=""
