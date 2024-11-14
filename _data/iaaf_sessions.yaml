@@ -1412,7 +1412,7 @@ iaaf_2024:
             who: eng-kathy #bio_id for this person 
         downloads:
           - link_name: Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX) 
-            file_name: Exceptions%20in%20Section%20508%20Regulatory%20Language%20USAB%20-%20IAAF%202024.pptx
+            file_name: Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx
       - name: 'Break'
         type: break
         time_start: 2024-11-13 11:00:00
