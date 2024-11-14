@@ -341,9 +341,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                         );
                             if (section) {
                                 let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
-                                if (targetElement.style.border && targetElement.style.padding) {
-                                    targetElement.style.border = "";
-                                    targetElement.style.padding = "";
+                                if (targetElement.style.borderBottom) {
+                                    targetElement.style.borderBottom = "";
                                 }
                             }
                     }
@@ -648,9 +647,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                             );
                                 if (section) {
                                     let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
-                                    if (targetElement.style.border && targetElement.style.padding) {
-                                        targetElement.style.border = "";
-                                        targetElement.style.padding = "";
+                                    if (targetElement.style.borderBottom ) {
+                                        targetElement.style.borderBottom = "";
                                     }
                                 }
                         }
@@ -674,9 +672,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                 );
                                 if (section) {
                                     let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
-                                        if (targetElement.style.border || targetElement.style.padding) {
-                                            targetElement.style.border = "";
-                                            targetElement.style.padding = "";
+                                        if (targetElement.style.borderBottom) {
+                                            targetElement.style.borderBottom = "";
                                     }
                                 }
                             }
@@ -705,15 +702,15 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                     if (hasMatchingControlName) {
                                         if (section) {
                                             let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
-                                            if (!targetElement.style.border && !targetElement.style.padding) {
+                                            if (!targetElement.style.borderBottom) {
                                                 targetElement.style.borderBottom = "4px solid red";
                                             }
                                         }
                                     } else {
                                         if(section) {
                                             let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
-                                            if (targetElement.style.border || targetElement.style.padding) {
-                                                targetElement.style.border = "";
+                                            if (targetElement.style.borderBottom) {
+                                                targetElement.style.borderBottom = "";
                                             }
                                     }
                                 }
