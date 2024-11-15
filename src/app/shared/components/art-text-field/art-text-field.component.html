@@ -39,6 +39,6 @@
     [placeholder]="formData?.placeholder"
     name="input"
     [formControl]="fromControl"
-    (blur)="onBlur($event, formData?.controlName, formData?.errorMessages)"
+    (focusout)="onBlur($event, formData?.controlName, formData?.errorMessages)"
   />
 </div>

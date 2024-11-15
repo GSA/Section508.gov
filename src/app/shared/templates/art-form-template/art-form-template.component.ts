@@ -252,14 +252,32 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
      */
     onELBlur (data:any) {
         if(data?.controlName==='excep-nbr'){
+            this.targetElementId = data?.controlName;
             console.log(data);
             if(data?.value) {
-                if(data?.value.length>0) {
-                    this.errorSummary.push({
-                        "section": "Exemptions Authorization Number",
-                        "message": data?.validations['error'],
-                        "controlName":data.controlName,
-                    })
+                if(data?.value.length>9) {
+                    const errorExists = this.errorSummary.some(
+                        (error) => error.controlName === data?.controlName
+                    );
+                    if(!errorExists){
+                        this.errorSummary.push({
+                            "section": "Exemptions Authorization Number",
+                            "message": data?.validations['error'],
+                            "controlName":data.controlName,
+                        })
+                    }
+                }
+                else {
+                    this.errorSummary = this.errorSummary.filter(error => error.controlName !== data.controlName);
+                    const section = Array.from(this.formSections).find((el) =>
+                        el.nativeElement.querySelector(`h3#${this.targetElementId}`)
+                    );
+                    if (section) {
+                        let targetElement = section.nativeElement.querySelector(`h3#${this.targetElementId}`);
+                        if (targetElement.style.borderBottom) {
+                            targetElement.style.borderBottom = "";
+                        }
+                    }
                 }
             }
         }
