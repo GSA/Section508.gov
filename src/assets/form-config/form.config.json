@@ -297,7 +297,8 @@
             "formSection": "",
              "formsectionText":"",
             "value": "",
-            "options": []
+            "options": [],
+            "maxLength":9
         },   
         { 
             "elementType":"radioButtonGroup",
