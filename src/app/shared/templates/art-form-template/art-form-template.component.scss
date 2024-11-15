@@ -29,8 +29,8 @@
 }
 // Error Summary Css
 .error-summary {
-    background: #ffdddd;
-    border: 1px solid #ff0000;
+    background: #FFEBEB;
+    border: 1px solid #A30000;
     padding: 1em;
     margin-bottom: 1em;
     cursor: pointer;
@@ -40,9 +40,11 @@
     padding: 0;
   }
   .error-summary li {
-    color: #d00000;
+    color: #A30000;
     cursor: pointer;
     text-decoration: underline;
+    font-size: 14px;
+    margin-bottom: 8px;
   }
 @media  screen and  (max-width: 414px) {
     .ogp-btn{

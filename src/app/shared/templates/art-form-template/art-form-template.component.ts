@@ -248,6 +248,23 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         this.clearHiddenElts(outerIndex, parentControl, elt.controlName);
     }
     /**
+     * On Max Blur
+     */
+    onELBlur (data:any) {
+        if(data?.controlName==='excep-nbr'){
+            console.log(data);
+            if(data?.value) {
+                if(data?.value.length>0) {
+                    this.errorSummary.push({
+                        "section": "Exemptions Authorization Number",
+                        "message": data?.validations['error'],
+                        "controlName":data.controlName,
+                    })
+                }
+            }
+        }
+    }
+    /**
      * @description To check if an object has any value which is true
      * @param obj 
      * @returns boolean
@@ -703,7 +720,7 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                                         if (section) {
                                             let targetElement = section.nativeElement.querySelector(`h1#${this.targetElementId}, h3#${this.targetElementId}`);
                                             if (!targetElement.style.borderBottom) {
-                                                targetElement.style.borderBottom = "4px solid red";
+                                                targetElement.style.borderBottom = "4px solid #A30000";
                                             }
                                         }
                                     } else {
@@ -733,7 +750,9 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
                         else {
                             counters.push(false);
                            // errosLog.push(element);
-                            for(var i=0;i<counters.length;i++) {
+                           if(typeof this.allControlList[outerIndex][i]['controls'] === 'object' &&
+                            Object.keys(this.allControlList[outerIndex][i]['controls']).length > 0)
+                            for(var j=0;j<counters.length;j++) {
                                 //const element = counters[i];
                                 // Check if an entry with the same controlName already exists in errorSummary
                                 const errorExists = this.errorSummary.some(
@@ -788,8 +807,8 @@ export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
         }
         if (targetElement) {
             // Optionally scroll to this element
-            targetElement.style.borderBottom = "4px solid red";
-            targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetElement.style.borderBottom = "4px solid #A30000";
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
         } else {
             console.warn("No <h1> or <h3> element with ID:", sectionId);
         }

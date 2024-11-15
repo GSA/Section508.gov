@@ -4,7 +4,7 @@
   [hidden]="hidden"
 >
   <div class="margin-bottom-0">
-    <h3>{{ formData?.title }}</h3>
+    <h3 [id]="formData?.controlName">{{ formData?.title }}</h3>
   </div>
   <label
     *ngIf="formData?.label"
@@ -26,6 +26,7 @@
   >
   <input
     [maxlength]="maxLength"
+    [name]="formData?.controlName"
     class="usa-input"
     [ngClass]="{ 'usa-input--error': displayError() }"
     autocomplete="off"
@@ -38,5 +39,6 @@
     [placeholder]="formData?.placeholder"
     name="input"
     [formControl]="fromControl"
+    (blur)="onBlur($event, formData?.controlName, formData?.errorMessages)"
   />
 </div>

@@ -92,6 +92,7 @@
                   )
                 "
                 [control]="eachControl"
+                (eltBlur)="onELBlur($event)"
               >
               </art-text-field>
               <!-- Radio Button Group -->
@@ -191,29 +192,7 @@
           (click)="navNextForm()"
         >
         </art-button>
-        <div class="error-summary margin-top-2" *ngIf="errorSummary.length > 0">
-          <h2>Form Errors</h2>
-          <p>Click below links to reach respective sections:</p>
-          <ul>
-            <li
-              *ngFor="let error of errorSummary"
-              (click)="scrollToSection(error.controlName)"
-            >
-              <div *ngIf="error.message">
-                <ng-container *ngIf="error.message?.maxlength">
-                  {{ getSectionLabel(error.section) }}:
-                  {{ error.message?.maxlength }}
-                </ng-container>
-                <ng-container
-                  *ngIf="!error.message?.maxlength && error.message?.required"
-                >
-                  {{ getSectionLabel(error.section) }}:
-                  {{ error.message?.required }}
-                </ng-container>
-              </div>
-            </li>
-          </ul>
-        </div>
+
         <button
           *ngIf="navIndex === formConfig.length - 1"
           [disabled]=""
@@ -244,6 +223,29 @@
                     type="button">Clear Form
                 </button> -->
       </div>
+    </div>
+    <div class="error-summary margin-top-2" *ngIf="errorSummary.length > 0">
+      <h2>Form Errors</h2>
+      <p>Click below links to reach respective sections:</p>
+      <ul>
+        <li
+          *ngFor="let error of errorSummary"
+          (click)="scrollToSection(error.controlName)"
+        >
+          <div *ngIf="error.message">
+            <ng-container *ngIf="error.message?.maxlength">
+              <b>{{ getSectionLabel(error.section) }}: </b>
+              {{ " " + error.message?.maxlength }}
+            </ng-container>
+            <ng-container
+              *ngIf="!error.message?.maxlength && error.message?.required"
+            >
+              <b>{{ getSectionLabel(error.section) }}: </b>
+              {{ " " + error.message?.required }}
+            </ng-container>
+          </div>
+        </li>
+      </ul>
     </div>
   </div>
 </div>
