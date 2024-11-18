@@ -16,6 +16,24 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 --- 
+## 2024 Interagency Accessibility Forum
+The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference built on the theme ***Achieving Digital Equity: Policies, Tools, and Techniques*** and featured presentations, panel discussions and workshops led by accessibility experts across the federal government. 
+
+The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board and the Federal Chief Information Officer Council’s Accessibility Community of Practice , with support from other federal agencies and ICT professionals.
+
+Conference sessions were recorded, and will be posted on this page in early 2025. Watch for updates! 
+
+### Presentations & Workshops
+* [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx)
+* [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx)
+* [Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF)](https://assets.section508.gov/files/presentations/iaaf/2024/Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf)
+* [Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx)
+* [Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx)
+* Meet ANDI - Coming soon.
+* [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx)
+
+For event details, visit: [2024 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2024).
+
 ## 2023 Interagency Accessibility Forum
 
 The 2023 IAAF was a three-day conference built on the theme ***Beyond Compliance: Building a Culture of Digital Accessibility*** and featured workshops, keynote addresses, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
@@ -24,7 +42,7 @@ Attendees of this 10th annual IAAF enjoyed a return to an in-person (hybrid) eve
 
 The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Federal Deposit Insurance Corporation (FDIC) and Department of Veteran's Affairs (VA), in partnership with other federal agencies.
 
-For details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2023).
+For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2023).
 
 <ul class="usa-card-group">
   <!-- S1 -->
@@ -564,5 +582,5 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
         <a href="https://assets.section508.gov/files/Authors%20and%20Developers%20Guidance%20for%20the%20Revised%20508%20Standards.pptx" target="_blank">Authors and Developers Guidance for the Revised 508 Standards (PPTX)</a>
       </li>
     </ul>
-    <p><strong>Reviewed/Updated</strong>: July 2024</p>
+    <p><strong>Reviewed/Updated</strong>: November 2024</p>
 </div>
