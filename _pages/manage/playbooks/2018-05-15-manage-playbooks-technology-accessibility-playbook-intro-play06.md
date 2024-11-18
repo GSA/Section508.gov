@@ -39,8 +39,8 @@ A successful 508 Section Program should not be established in isolation. Active 
       * Assign representatives to each of the ACOP&rsquo;s subcommittees: Best Practices Subcommittee, Education Subcommittee, and Vendor/Acquisition Outreach Subcommittee.
       * Use your participation in the ACOP subcommittees to tailor resources being developed to meet the needs of your agency and share your own best practices and training materials for use by others.
   * Share information and data collected by your 508 Program with other agencies:
-      * Share your biannual OMB-mandated 508 Program Maturity and Compliance reports with other agencies to identify valuable areas for collaboration.
-      * Review data of other agencies to identify potential partners for joint efforts and contact those agencies to begin the discussion.
+      * Share your annual [Governmentwide Section 508 Assessment](https://www.section508.gov/section-508-assessment/) reports with other agencies to identify valuable areas for collaboration.
+      * Review [data of other agencies](https://www.section508.gov/manage/section-508-assessment/annual-reports/) to identify potential partners for joint efforts and contact those agencies to begin the discussion.
   * Participate in interagency pilot programs:
       * Be an early adopter of interagency 508 programs and provide the necessary resources to implement the programs and provide feedback to improve the offerings based on your experiences.
       * Utilize standardized testing methodologies such as the Interagency Trusted Tester Program and make testing results available to other federal agencies.
