@@ -1,27 +1,35 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/state/
 type: manage
 title: 'State-level Accessibility Law and Policy'
-created: 1527605841
-topic: Law (law)
-sub-topic: Accessibility Law & Policy
+permalink: manage/laws-and-policies/state/
+description: "Discover state-specific accessibility laws and policies on Section508.gov. Learn how states implement digital accessibility standards to ensure equal access for all users, including individuals with disabilities."
+disclaimer:
+hide-date:
+created: 2018-05-29
+updated: 2024-11-19 
 audience:
 - Lawmakers and Policy Officials (law-policy)
 - 508 Program Manager (508pm)
 - Federal employee (fedemp)
 - Information Technology Program and Project Managers (itpm)
 - Manager/Exec (exec)
+topic: Law (law)
+sub-topic: Accessibility Law & Policy
 resource-type: Long form article
 format: HTML (html)
 ---
 <p name="top"> </p> 
-Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Information and Communication Technology (ICT) accessibility. Here are a number of resources and links that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. 
+Section 508 applies to the Federal government but there may be implications for employees and others at the State level. Many states have also passed legislation requiring Information and Communication Technology (ICT) accessibility in addition to <a href="https://www.justice.gov/opa/pr/justice-department-publish-final-rule-strengthen-web-and-mobile-app-access-people" target="_blank" class="usa-link--external">rules introduced in 2024 by the Department of Justice under Title II of the Americans with Disabilities Act (ADA)</a> to strengthen web and mobile app access for people with disabilities. 
 
-If your state is not listed, please [contact us][27] and share you your policy and website information and we'll display it here. Also, if you are a State, Local, Territorial, or Tribal government employee, you are also welcome to join the [Section 508/IT Accessibility Community][28].
+The information on this page offers a number of resources that may help you to see which states have published laws and or policies on developing, procuring, maintaining, or using electronic and information technology. 
 
-Go to States Beginning With: [A][1] \| [C][3] \| [I][9] \| [K][11] \| [L][12] \| [M][13] \| [N][14] \| [O][15] \| [V][22] \| [W][23]
+If your state is not listed, please [contact us][27] using your government email and share your policy and website information to be displayed here. If you are a State, Local, Territorial, or Tribal government employee, you are welcome to join the [Section 508 IT Accessibility Community][28].
+
+---
+
+**Jump to States beginning with the letter:** [A][1] \| [C][3] \| [I][9] \| [K][11] \| [L][12] \| [M][13] \| [N][14] \| [O][15] \| [V][22] \| [W][23]
 
 <p id="A" name="A"> </p> 
 
@@ -80,6 +88,9 @@ The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" cl
 ## New York
 <a href="https://its.ny.gov/document/accessibility-web-based-information-and-applications-compliance-reporting" target="_blank" class="usa-link--external">New York Office of Technology Services</a> New York State has had a web accessibility policy since September of 1999. That first policy was aligned with the World Wide Web Consortium Web Accessibility Initiative's Web Content Accessibility Guidelines, current version (WCAG). When the guidelines were reformulated, and the "last call" draft was published in 2004, the IT Accessibility Committee advised that the successor WCAG guidelines were practically speaking, unimplementable. In reaction to this, OFT (with advice from the Committee) developed a set of hybrid standards that melded the WCAG and U. S. Section 508, which covered all federal agencies and contractors doing business with the federal government.
 
+## North Carolina
+<a href="https://it.nc.gov/documents/digital-accessibility-usability-standard/" target="_blank" class="usa-link--external">North Carolina Digital Accessibility and Usability Standard (PDF)</a>. In April 2024, the State of North Carolina officially published the North Carolina Digital Accessibility and Usability Standard, which establishes clear guidelines and a unified vision for delivering digital-first public services across all state agency websites and digital platforms. The standard is designed to ensure a seamless, high-quality, and secure digital experience for all users. It emphasizes simplifying interactions with the state while maintaining strong commitments to accessibility, security, and usability across diverse agencies.
+
 <p id="O" name="O"></p>
 
 ## Oklahoma
@@ -95,7 +106,7 @@ The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" cl
 ## Washington
 <a href="https://watech.wa.gov/policies/accessibility-policy" target="_blank" class="usa-link--external">Washington State's Policy 188</a> requires state agencies to ensure that individuals with disabilities have access to and can use information and data, allowing them the same services and content available to those without disabilities, unless there are technical or legal limitations. The policy shows the state's dedication to making information technology accessible to both the public and state employees, including those with disabilities, as long as it does not create an undue burden. It covers websites, web-based applications, software systems, and electronic documents, with the aim of providing the same functionality to all users. This policy ensures that the state complies with state and federal laws, such as Section 508 of the Rehabilitation Act and the Americans with Disabilities Act, guaranteeing reasonable accommodation and equal opportunity for individuals with disabilities.
 
-**Reviewed/Updated**: June 2024
+**Reviewed/Updated**: November 2024
  
 [1]: #A "Go to States beginning with A"
 [2]: #B "Go to States beginning with B"
@@ -124,4 +135,4 @@ The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" cl
 [25]: #Y "Go to States beginning with Y"
 [26]: #Z "Go to States beginning with Z"
 [27]: {{site.baseurl}}/contact-us
-[28]: https://www.section508.gov/manage/join-the-508-community/ "Join the IT Accessibility/508 Community"
+[28]: {{site.baseurl}}/manage/join-the-508-community/
