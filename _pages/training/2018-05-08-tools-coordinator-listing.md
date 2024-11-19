@@ -143,7 +143,7 @@ Brenda Jenkins - <bjenkins@doc.gov>
 ### National Institute of Standards and Technology (NIST)
 Kathy Lynch - <kathy.lynch@nist.gov>  
 ### National Oceanic and Atmospheric Administration (NOAA)
-Natalie D. Smith - <natalie.d.smith@noaa.gov>  
+Jennifer Coletta - <jennifer.coletta@noaa.gov>  
 ### National Technical Information Service (NTIS)
 Charlie Franz - <cfranz@ntia.doc.gov>  
 ### National Telecommunications and Information Administration (NTIA)
