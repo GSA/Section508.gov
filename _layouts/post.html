@@ -17,6 +17,7 @@ This is used in blog posts. The index page can be found at blog/index.html
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-graphic-list">
 <!--        <h1 class="title margin-top-0">{{page.title}}</h1>-->
         {{ content }}
+        {% include date-disclaimer.html %}
         {% if page.contributors %}
         {% include contributors.html%}  
         {% endif %}

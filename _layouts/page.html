@@ -19,6 +19,7 @@ This template is for a single page that does not have a date associated with it.
       <main class="usa-layout-docs__main desktop:grid-col-9" id="content-section">
         <div class="usa-graphic-list">
             {{ content }}
+            {% include date-disclaimer.html %}
         </div>
         {% if page.contributors %}
         {% include contributors.html%}  

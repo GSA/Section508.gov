@@ -4,8 +4,11 @@ sidenav: true
 permalink: create/social-media/
 type: create
 title: Create Accessible Social Media
+description: 
+disclaimer: true
 contributors: usab
 social_img: 
+hide-date: 
 created: 2024-05-29
 updated: 2024-10-29
 topic: "Content creation (create)"
@@ -144,7 +147,5 @@ Below is the social media policy for other platforms not currently used by the U
 * <a href="https://digital.gov/topics/accessibility/" target="_blank" class="usa-link--external">Digital.gov</a> houses various resources, articles, and blog posts on digital accessibility topics.
 * <a href="https://digital.gov/resources/federal-social-media-accessibility-toolkit-hackpad/" target="_blank" class="usa-link--external">Federal Social Media Accessibility Toolkit Hackpad</a>
 * <a href="https://www.access-board.gov/webinars/" target="_blank" class="usa-link--external">The USAB holds [bi-monthly webinars</a> on topics pertaining to the accessibility of information and communication technology (ICT).
-
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>*Disclaimer:</strong> Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act.</div>
 
 **Reviewed/Updated:** October 2024
