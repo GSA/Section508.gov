@@ -4,6 +4,8 @@ sidenav: true
 permalink: test/color-contrast-in-nonweb-documents-images/
 type: test
 title: 'Testing Color Contrast in Non-Web Documents and Images'
+description: 
+disclaimer: true
 contributors: 
 created: 2024-09-20
 updated: 
@@ -64,6 +66,4 @@ To gather feedback on color contrast accessibility and user experience, a creato
 
 Many other tools for testing color contrast can be found through a web search to meet your specific ICT product testing need, such as mobile applications. Please also see Section508.gov’s <a href="{{site.baseurl}}/create/">Create</a> and <a href="{{site.baseurl}}/develop/">Design and Develop</a> pages for further information.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>*Disclaimer</strong>: Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act. </div>
-
-**Reviewed/Updated: September 2024**
+**Reviewed/Updated:** September 2024

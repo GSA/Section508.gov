@@ -19,6 +19,7 @@ This template is used when you want to fill the width of the page. By default, i
 
 <div class="grid-container usa-graphic-list">
     {{ content }}
+    {% include date-disclaimer.html %}
     {% if page.contributors %}
     {% include contributors.html%}  
     {% endif %}

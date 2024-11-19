@@ -5,6 +5,7 @@ permalink: create/accessible-meetings/
 type: create
 title: 'Create Accessible Meetings'
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
+disclaimer: true
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -471,7 +472,5 @@ By making your meetings accessible, you are contributing to the ongoing effort t
       </ul>
     </li>
 </ul>
-
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>*Disclaimer</strong>: Reference in this site to any specific commercial product, process, or service, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by GSA. GSA does not guarantee that outside websites or products comply with Section 508 (accessibility requirements) of the Rehabilitation Act.</div>
 
 **Reviewed/Updated:** November 2024
