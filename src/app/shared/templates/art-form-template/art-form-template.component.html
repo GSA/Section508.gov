@@ -194,7 +194,7 @@
 
         <button
           *ngIf="navIndex === formConfig.length - 1"
-          [disabled]=""
+          [disabled]="formCompletetion[this.navIndex] === false"
           class="ogp-btn usa-button usa-button--accent-warm"
           type="submit"
           (click)="onFormSubmit(0)"
@@ -224,8 +224,12 @@
       </div>
     </div>
     <div class="error-summary margin-top-2" *ngIf="errorSummary.length > 0">
-      <h2>Form Errors</h2>
-      <p>Click below links to reach respective sections:</p>
+      <!-- <h2>Form Errors</h2> -->
+      <p>
+        <b>Form Errors-</b> you must complete all the questions in order to get
+        the 508 results. Select the links below to go to the unanswered
+        question(s)
+      </p>
       <ul>
         <li
           *ngFor="let error of errorSummary"
