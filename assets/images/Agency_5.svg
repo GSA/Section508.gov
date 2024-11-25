@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='432.00pt' viewBox='0 0 576.00 432.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='432.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjUuNzh8NDI4LjExfDI1Ljc4fDQwNi4yMg=='>
+    <rect x='25.78' y='25.78' width='402.33' height='380.43' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjUuNzh8NDI4LjExfDI1Ljc4fDQwNi4yMg==)'>
+<circle cx='307.41' cy='139.91' r='26.31' style='stroke-width: 5.67; stroke: #1779C4;' />
+<polygon points='146.48,325.06 179.45,292.09 146.48,259.11 113.51,292.09 ' style='stroke-width: 5.67; stroke: #1779C4; fill: #1779C4;' />
+<line x1='25.78' y1='406.22' x2='25.78' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='106.25' y1='406.22' x2='106.25' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='186.71' y1='406.22' x2='186.71' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='267.18' y1='406.22' x2='267.18' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='347.65' y1='406.22' x2='347.65' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='428.11' y1='406.22' x2='428.11' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='406.22' x2='428.11' y2='406.22' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='330.13' x2='428.11' y2='330.13' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='254.04' x2='428.11' y2='254.04' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='177.96' x2='428.11' y2='177.96' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='101.87' x2='428.11' y2='101.87' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='25.78' y1='25.78' x2='428.11' y2='25.78' style='stroke-width: 1.07; stroke: #BEBEBE; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='307.41' y1='139.91' x2='146.48' y2='292.09' style='stroke-width: 14.30; stroke: #FFFFFF; stroke-linecap: butt;' />
+<polygon points='151.21,276.22 146.48,292.09 162.59,288.25 ' style='stroke-width: 14.30; stroke: #FFFFFF; stroke-linecap: butt; fill: #FFFFFF;' />
+<line x1='307.41' y1='139.91' x2='146.48' y2='292.09' style='stroke-width: 7.90; stroke: #104E8B; stroke-linecap: butt;' />
+<polygon points='151.21,276.22 146.48,292.09 162.59,288.25 ' style='stroke-width: 7.90; stroke: #104E8B; stroke-linecap: butt; fill: #104E8B;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw0MzIuMDA=)'>
+<text x='226.95' y='423.15' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-family: "Arial";' textLength='62.22px' lengthAdjust='spacingAndGlyphs'>Maturity</text>
+<text transform='translate(16.93,216.00) rotate(-90)' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-family: "Arial";' textLength='103.12px' lengthAdjust='spacingAndGlyphs'>Conformance</text>
+<circle cx='480.55' cy='187.84' r='15.64' style='stroke-width: 5.67; stroke: #1779C4;' />
+<polygon points='480.55,279.44 500.15,259.84 480.55,240.24 460.95,259.84 ' style='stroke-width: 5.67; stroke: #1779C4; fill: #1779C4;' />
+<text x='522.03' y='194.28' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='43.01px' lengthAdjust='spacingAndGlyphs'>FY23</text>
+<text x='522.03' y='266.28' style='font-size: 18.00px; font-weight: bold; font-family: "Arial";' textLength='43.01px' lengthAdjust='spacingAndGlyphs'>FY24</text>
+<text x='226.95' y='16.93' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-family: "Arial";' textLength='348.79px' lengthAdjust='spacingAndGlyphs'>Agency: Agricultural Marketing Service (AMS)</text>
+</g>
+</svg>
