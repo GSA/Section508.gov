@@ -1,3 +1,5 @@
+---
+---
 @media print {
     @page {
         margin: 0;
@@ -22,7 +24,7 @@
     }
     
     #entity-banner {
-        background-image: url("/assets/images/EntityBannerBackground.png");
+        background-image: url("{{site.baseurl}}/assets/images/EntityBannerBackground.png");
         background-position: right;
         Background-repeat: no-repeat;
         background-size: contain;
