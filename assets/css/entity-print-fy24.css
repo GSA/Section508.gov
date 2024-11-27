@@ -1,61 +1,63 @@
 ---
 ---
-@media print {
-    @page {
-        margin: 0;
-        size: 8.5in 11in;
-    }
-    
-    .new-entity {
-        padding-top: 8px;
-        page-break-before: always;
-    }
-    
-    #main-content {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
-    .entity-noprint {
-        display: none !important;
-    }
-    
-    h2 {
-        font-size: 1.67em;
-    }
-    
-    #entity-banner {
-        background-image: url("{{site.baseurl}}/assets/images/EntityBannerBackground.png");
-        background-position: right;
-        Background-repeat: no-repeat;
-        background-size: contain;
-    }
-    
-    #entity-name, #entity-parent {
-        max-width: 80%;
-        line-height: 1;
-        color: #203764
-    }
-    
-    #entity-parent {
-        max-width: 70%;
-        line-height: 1;
-        color:#595959;
-    }
-    
-    .usa-table th, .usa-table td {
-        padding: .15rem .25rem;
-        font-size: .9rem;
-        line-height: normal;
-        text-align: left;
-    }
-    
-    .fte-text {
-        font-size: .75rem;
-        line-height: normal;
-    }
-    
-    .print-text {
-        font-size: .9rem;
-        line-height: 1.2rem;
-    }
+@page {
+    margin: 0;
+    size: 8.5in 11in;
+}
+
+.new-entity {
+    padding-top: 8px;
+    page-break-before: always;
+}
+
+#main-content {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.entity-noprint {
+    display: none !important;
+}
+
+.entity-banner {
+    background-image: url("{{site.baseurl}}/assets/images/EntityBannerBackground.png");
+    background-position: right;
+    Background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#gls.entity-name{
+    font-size: 1.4em;
+    max-width: 80%;
+    line-height: 1;
+    color: #203764
+}
+
+.entity-name{
+    font-size: 1.67em;
+    max-width: 80%;
+    line-height: 1;
+    color: #203764
+}
+
+.entity-parent {
+    max-width: 70%;
+    line-height: 1;
+    color:#595959;
+}
+
+.usa-table th, .usa-table td {
+    padding: .15rem .25rem;
+    font-size: .8rem;
+    line-height: normal;
+    text-align: left;
+}
+
+.fte-text {
+    font-size: .75rem;
+    line-height: normal;
+}
+
+.print-text {
+    font-size: .9rem;
+    line-height: 1.2rem;
 }
