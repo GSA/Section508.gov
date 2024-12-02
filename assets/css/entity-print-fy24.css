@@ -18,13 +18,6 @@
     display: none !important;
 }
 
-.entity-banner {
-    background-image: url("{{site.baseurl}}/assets/images/EntityBannerBackground.png");
-    background-position: right;
-    Background-repeat: no-repeat;
-    background-size: contain;
-}
-
 #gls.entity-name{
     font-size: 1.4em;
     max-width: 80%;

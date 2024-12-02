@@ -22,7 +22,7 @@ format: "HTML (html)"
   <div class="new-entity">
     <!-- Entity Seal and Name -->
     <div class="grid-container padding-x-0 margin-bottom-0">
-      <div class="grid-row padding-x-auto margin-bottom-neg-1px margin-right-neg-1px entity-banner" id="{{ entity.id | downcase }}-entity-banner">
+      <div class="grid-row padding-x-auto margin-bottom-neg-1px margin-right-neg-1px" id="{{ entity.id | downcase }}-entity-banner">
         <div class="grid-col-auto margin-y-1 padding-x-2">
           <div>
             <img id="{{ entity.id | downcase }}-entity-seal" src="https://assets.section508.gov/files/images/seals-logos/{{ entity.id | downcase }}.jpg" height="100px" alt="{{ entity.name }} logo">
@@ -35,6 +35,9 @@ format: "HTML (html)"
           <div class="margin-top-1">
             <strong id="{{ entity.id | downcase }}-entity-parent" class="text-base entity-parent">{{ entity.parent }}</strong>
           </div>
+        </div>
+        <div class="grid-col-3">
+          <img src="{{site.baseurl}}/assets/images/EntityBannerBackground.png" alt="" height="100%">
         </div>
       </div>
 
@@ -54,7 +57,7 @@ format: "HTML (html)"
         </div>
         <div class="grid-col-2 margin-y-2px">
           <div class="margin-x-auto padding-05">
-            <img id="{{ entity.id | downcase }}-grid-index" class="bg-white border padding-x-05" src="https://assets.section508.gov/files/images/assessment-grid/fy24/Agency_{{ entity.unique_ID }}.svg" height="100px" width="125px" alt="{{ entity.alt }}">
+            <img id="{{ entity.id | downcase }}-grid-index" class="bg-white border border-primary-dark padding-x-05" src="https://assets.section508.gov/files/images/assessment-grid/fy24/Agency_{{ entity.unique_ID }}.svg" height="100px" width="125px" alt="{{ entity.alt }}">
           </div>
           <div>
             <span class="fte-text margin-x-1 text-top"><img class="padding-right-05" style="height: 15px;" src="https://assets.section508.gov/files/images/assessment-grid/fy24/FY24Diamond.svg">FY24</span>
