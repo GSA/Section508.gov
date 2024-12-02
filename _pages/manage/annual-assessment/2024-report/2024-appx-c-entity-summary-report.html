@@ -18,13 +18,6 @@ format: "HTML (html)"
 ---
 <div class="margin-bottom-4 margin-top-neg-2 entity-noprint" style="color:#71767A">Return to <a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-reporting-entities/">Appendix C: Reporting Entities</a>.</div>
 <!-- New Entity --> 
-<div class="display-none">
-  {% increment page_count %}
-  {% increment page_count %}
-  {% increment page_count %}
-  {% increment page_count %}
-</div>
-
 {% for entity in site.data.entity-data %}
   <div class="new-entity">
     <!-- Entity Seal and Name -->
@@ -290,9 +283,61 @@ format: "HTML (html)"
 
     <div style="width: 100%; background-color: #14671B; color: #fff; text-align: left; font-size: .8rem;" class="padding-y-05 margin-bottom-05 print-text">
       <p class="margin-left-1 margin-y-0">Please refer to the first page of Appendix C: Overview Data By Reporting Entity for further explanation of this data.
-        <span class="margin-0 float-right display-inline padding-right-1">FY24 | C-{% increment page_count %}</span>
+        <span class="margin-0 float-right display-inline padding-right-1">FY24 | C-{{ entity.sort_page }}</span>
       </p>
     </div>
   </div>
 {% endfor %}
 <p class="entity-noprint"><strong>Reviewed/Updated</strong>: December 2023</p>
+
+<!-- Add highlighting to Maturity Outcomes table-->
+<script> 
+  //Get entity data from JSON file then add data/text to entity summary page
+  fetch('{{site.baseurl}}/assets/2024-entity-data.json') //Will need to update file/url reference once we post data files to assets.section508.gov
+  .then((response) => response.json())
+  .then((entity_data) => {
+    for (var i=0; i < entity_data.length; i++) {
+      //Maturity Outcomes - Highest, Lowest, Not Performed
+      //When ties for Highest, highlight each dimension
+      const highestValue = "[" + JSON.stringify(entity_data[i].dimensions_fy24_highest).replaceAll("; ","\",\"") + "]";
+      const highestArray = JSON.parse(highestValue);
+      for (var x=0; x < highestArray.length; x++) {
+        var highestDim = entity_data[i].id.toLowerCase() + "-dim24-" + highestArray[x];
+        var highestNode = document.createElement("span");
+        var highestStars = document.createTextNode("*");
+        highestNode.appendChild(highestStars);
+        document.getElementById(highestDim).parentElement.previousElementSibling.appendChild(highestNode);  
+        document.getElementById(highestDim).parentElement.setAttribute("class","table-row-highest");
+        document.getElementById(highestDim).parentElement.previousElementSibling.setAttribute("class","table-row-highest");
+        document.getElementById(highestDim).parentElement.nextElementSibling.setAttribute("class","table-row-highest");
+      }
+      
+      //When ties for Lowest, highlight each dimension
+      const lowestValue = "[" + JSON.stringify(entity_data[i].dimensions_fy24_lowest).replaceAll("; ","\",\"") + "]";
+      const lowestArray = JSON.parse(lowestValue);
+      for (var y=0; y < lowestArray.length; y++) {
+        var lowestDim = entity_data[i].id.toLowerCase() + "-dim24-" + lowestArray[y];
+        var lowestNode = document.createElement("span");
+        var lowestStars = document.createTextNode("**");
+        lowestNode.appendChild(lowestStars);
+        document.getElementById(lowestDim).parentElement.previousElementSibling.appendChild(lowestNode);  
+        document.getElementById(lowestDim).parentElement.setAttribute("class","table-row-lowest");
+        document.getElementById(lowestDim).parentElement.previousElementSibling.setAttribute("class","table-row-lowest");
+        document.getElementById(lowestDim).parentElement.nextElementSibling.setAttribute("class","table-row-lowest");
+      }
+      
+      //When multiple dimensions/functions not performed, note each dimension
+      const notPerformedValue = "[" + JSON.stringify(entity_data[i].dimensions_fy24_not_performed).replaceAll(/,/g,"\",\"") + "]";
+      const notPerformedArray = JSON.parse(notPerformedValue);
+      if (notPerformedArray != "") {
+        for (var z=0; z < notPerformedArray.length; z++) {
+          var notPerformedDim = entity_data[i].id.toLowerCase() + "-dim24-" + notPerformedArray[z];
+          var notPerformedNode = document.createElement("span");
+          var notPerformedStars = document.createTextNode("^");
+          notPerformedNode.appendChild(notPerformedStars);
+          document.getElementById(notPerformedDim).parentElement.previousElementSibling.appendChild(notPerformedNode);
+        }
+      } 
+    }
+  });
+</script>
