@@ -18,6 +18,13 @@ format: "HTML (html)"
 ---
 <div class="margin-bottom-4 margin-top-neg-2 entity-noprint" style="color:#71767A">Return to <a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-reporting-entities/">Appendix C: Reporting Entities</a>.</div>
 <!-- New Entity --> 
+<div class="display-none">
+  {% increment page_count %}
+  {% increment page_count %}
+  {% increment page_count %}
+  {% increment page_count %}
+</div>
+
 {% for entity in site.data.entity-data %}
   <div class="new-entity">
     <!-- Entity Seal and Name -->
@@ -56,6 +63,10 @@ format: "HTML (html)"
           <div class="margin-x-auto padding-05">
             <img id="{{ entity.id | downcase }}-grid-index" class="bg-white" src="https://assets.section508.gov/files/images/fy24-assessment-grid/Agency_{{ entity.unique_ID }}.svg" height="100px" width="125px" alt="{{ entity.alt }}">
           </div>
+          <div>
+            <span class="fte-text margin-x-1 text-top"><img class="padding-right-05" style="height: 15px;" src="{{ site.baseurl }}/assets/img/FY24Diamond.svg">FY24</span>
+            <span class="fte-text text-top"><img class="padding-right-05" style="height: 15px;" src="{{ site.baseurl }}/assets/img/FY23Circle.svg">FY23</span>
+          </div>
         </div>
       </div>
     </div>
@@ -79,7 +90,7 @@ format: "HTML (html)"
               <div class="grid-row">
                 <div class="tablet:grid-col-3">
                   <div>
-                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 2em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-contract">{{ entity.fte_fed }}</span></div>
+                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 1.25em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-contract">{{ entity.fte_fed }}</span></div>
                     <div class="margin-x-auto text-center margin-top-1 fte-text">Section 508 Program Contractor FTE</div>
                   </div>
                 </div>
@@ -90,7 +101,7 @@ format: "HTML (html)"
                 </div>
                 <div class="tablet:grid-col-3">
                   <div>
-                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 2em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-fed">{{ entity.fte_contract }}</span></div>
+                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 1.25em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-fed">{{ entity.fte_contract }}</span></div>
                     <div class="margin-x-auto text-center margin-top-1 fte-text">Section 508 Program Federal FTE</div>
                   </div>
                 </div>
@@ -101,7 +112,7 @@ format: "HTML (html)"
                 </div>
                 <div class="tablet:grid-col-4">
                   <div>
-                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 2em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-total">{{ entity.fte_total }}</span></div>
+                    <div class="num-circle-light margin-x-auto text-center" style="font-size: 1.25em; width:60px; height:60px; color:#1A3D6D;"><span class="margin-x-auto" id="{{ entity.id | downcase }}-fte-total">{{ entity.fte_total }}</span></div>
                     <div class="margin-x-auto text-center margin-top-1 fte-text">Total FTEs vs avg. <span id="{{ entity.id | downcase }}-maturity-avg-fte">{{ entity.maturity_avg_fte }}</span> FTEs for <span id="{{ entity.id | downcase }}-fte-maturity">{{ entity.m_index }}</span> Maturity respondents</div>
                   </div>
                 </div>
@@ -277,8 +288,10 @@ format: "HTML (html)"
       </div>
     </div>
 
-    <div style="width: 100%; background-color: #14671B; color: #fff; text-align: center; font-size: .8rem;" class="padding-y-05 margin-bottom-05 print-text">
-      <p class="margin-0">Please refer to the first page of Appendix C: Overview Data By Reporting Entity for further explanation of this data.</p>
+    <div style="width: 100%; background-color: #14671B; color: #fff; text-align: left; font-size: .8rem;" class="padding-y-05 margin-bottom-05 print-text">
+      <p class="margin-left-1 margin-y-0">Please refer to the first page of Appendix C: Overview Data By Reporting Entity for further explanation of this data.
+        <span class="margin-0 float-right display-inline padding-right-1">Page C-{% increment page_count %}</span>
+      </p>
     </div>
   </div>
 {% endfor %}
