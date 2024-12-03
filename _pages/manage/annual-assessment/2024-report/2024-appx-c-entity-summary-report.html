@@ -330,7 +330,7 @@ format: "HTML (html)"
       }
       
       //When multiple dimensions/functions not performed, note each dimension
-      const notPerformedValue = "[" + JSON.stringify(entity_data[i].dimensions_fy24_not_performed).replaceAll(/,/g,"\",\"") + "]";
+      const notPerformedValue = "[" + JSON.stringify(entity_data[i].dimensions_fy24_not_performed).replaceAll("; ","\",\"") + "]";
       const notPerformedArray = JSON.parse(notPerformedValue);
       if (notPerformedArray != "") {
         for (var z=0; z < notPerformedArray.length; z++) {
