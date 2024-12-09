@@ -159,10 +159,10 @@ Patricia Kless - <patricia.kless@uspto.gov>
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Department-wide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
-Marilyn Anderson (BACKUP) - <marilyn.l.anderson14.ctr@mail.mil>  
-Amanda E. Hursch (BACKUP) - <amanda.e.hursch.ctr@mail.mil>  
+Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>  
+Amanda E. Hursch (Deputy) - <amanda.e.hursch.ctr@mail.mil>  
 ### Air Force
-Carlinda Lotson (BACKUP) - <carlinda.Lotson.1.ctr@us.af.mil>  
+Carlinda Lotson (Deputy) - <carlinda.Lotson.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Jay Steinke - <jay.steinke.1@us.af.mil>  
@@ -263,7 +263,7 @@ Jason Lautenbacher - <jason.Lautenbacher@ed.gov>
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
 Teddy Dyer - <doesection508coordinator@hq.doe.gov>  
-Sandra Logan (BACKUP)  
+Sandra Logan (Deputy)  
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
@@ -279,7 +279,7 @@ Tim Erny - <ahrqsection508@ahrq.hhs.gov>
 Mark Urban - <fka2@cdc.gov>
 ### Centers for Medicare and Medicaid Services (CMS)
 Aaron Allen - <aaron.allen@cms.hhs.gov>  
-Stacey Holden (BACKUP) - <stacey.holden@cms.hhs.gov>  
+Stacey Holden (Deputy) - <stacey.holden@cms.hhs.gov>  
 ### Food and Drug Administration (FDA)
 Heather Chafin - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
@@ -288,7 +288,7 @@ Lauren Taylor - <ltaylor1@hrsa.gov>
 Kevin Fulbright - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
 Antonio Haileselassie - <antonio.haileselassie@nih.gov>  
-Jason Hitchcock (Backup) - <jason.hitchcock@nih.gov>  
+Jason Hitchcock (Deputy) - <jason.hitchcock@nih.gov>  
 
   * **Center for Information Technology (CIT)** <br>Nischal Mangu - <nischal.mangu@nih.gov>  
   * **Center for Scientific Review (CSR)** <br>Patricia Young - <youngp@csr.nih.gov>  
@@ -335,7 +335,7 @@ Leslie Porter - <leslie.porter@hq.dhs.gov>
 Dester Njike - <dester.njike@associates.hq.dhs.gov>
 ### Customs and Border Protection (CBP)
 Paquiry Loganathan - <paquiry.loganathan@cbp.dhs.gov>  
-Amanda C. Haney (BACKUP) - <amanda.c.haney@cbp.dhs.gov>
+Amanda C. Haney (Deputy) - <amanda.c.haney@cbp.dhs.gov>
 ### Cybersecurity & Infrastructure Security Agency (CISA)
 Matthew "Matti" Ricciardi	- <matthew.ricciardi@cisa.dhs.gov>   
 Steve Samuelian	- <steve.samuelian@cisa.dhs.gov>
@@ -343,7 +343,7 @@ Steve Samuelian	- <steve.samuelian@cisa.dhs.gov>
 Janice Fenlason - <janice.fenlason@fema.dhs.gov>
 #### FEMA Emergency Management Institute (EMI)
 Thonya Cook - <thonya.cook@fema.dhs.gov>  
-Justin Peterson (BACKUP) - <justin.peterson@fema.dhs.gov>
+Justin Peterson (Deputy) - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
 #### Federal Law Enforcement Training Center (FLETC)
 Rose Mary Jones - <rosemary.jones@fletc.dhs.gov>
@@ -353,15 +353,15 @@ Brandon Pace - <brandon.pace@hq.dhs.gov>
 Arva Parker - <arva.parker@ice.dhs.gov>  
 ### Office of Biometric Identity Management&nbsp;(OBIM)
 Walter L. Hoo - <walter.l.hoo@obim.dhs.gov>  
-Laura A. Hoffman (BACKUP) - <laura.a.hoffman@associates.obim.dhs.gov>
+Laura A. Hoffman (Deputy) - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
 Robert Fritzen - <robert.fritzen@oig.dhs.gov>  
-Mani Mani (BACKUP) - <mani.mani@oig.dhs.gov>  
+Mani Mani (Deputy) - <mani.mani@oig.dhs.gov>  
 ### Science and Technology Directorate (S&T)
 Heather Erhuanga -	<heather.erhuanga@hq.dhs.gov>  
 ### Transportation Security Administration (TSA)
 Matthew Bryne - <matthew.byrne@tsa.dhs.gov>  
-Erich Pfleeger (BACKUP) - <erich.pfleeger@tsa.dhs.gov>
+Erich Pfleeger (Deputy) - <erich.pfleeger@tsa.dhs.gov>
 ### U.S. Citizenship and Immigration Services (USCIS)
 Kenneth S. Moser - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
@@ -432,7 +432,7 @@ Lisa Walbert - <lisa.k.walbert@usdoj.gov>
 Joseph Groves - <joseph.groves@usdoj.gov>
 ### Executive Office for Immigration Review (EOIR)
 Andrew Leftwich	- <andrew.leftwich@usdoj.gov>  
-David Fruehwald (BACKUP) -	<david.fruehwald@usdoj.gov>  
+David Fruehwald (Deputy) -	<david.fruehwald@usdoj.gov>  
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
@@ -498,7 +498,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 ---
 ## <span id="usdol" ></span>Department of Labor (DOL)
 Brandon Jubar - <jubar.brandon.t@dol.gov>  
-Eric W. Wright (Backup) - <wright.eric.w@dol.gov>  
+Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>  
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
@@ -550,7 +550,7 @@ IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 Sharon Archer-Jackson - <sharon.archer-jackson@tigta.treas.gov>  
 ### U.S. Mint
 James Proctor - <james.proctor@usmint.treas.gov>  
-Rodney Dunwoody (BACKUP) - <rodney.dunwoody@usmint.treas.gov>
+Rodney Dunwoody (Deputy) - <rodney.dunwoody@usmint.treas.gov>
 
 ---
 ## <span id="usdova" ></span>Department of Veterans Affairs (VA)
@@ -591,7 +591,7 @@ Janice MacLean - <janice.maclean@sba.gov>
 ---
 ## <span id="usssn" ></span>Social Security Administration (SSA)
 Pierce Crowell - <pierce.crowell@ssa.gov>  
-Amanda Miller (BACKUP) - <amanda.miller@ssa.gov>  
+Amanda Miller (Deputy) - <amanda.miller@ssa.gov>  
 
 <!-- BEGIN SMALL AND INDEPENDENT AGENCIES -->
 <br>
@@ -651,7 +651,7 @@ Jennifer Horan - <jennifer.horan@cfpb.gov>
 ---
 ### Consumer Product Safety Commission (CPSC)
 Bertie Hamilton - <bhamilton@cpsc.gov>  
-Bryan Burnett (BACKUP) - <bburnett@cpsc.gov>  
+Bryan Burnett (Deputy) - <bburnett@cpsc.gov>  
 
 ---
 ### Corporation for National & Community Service (CNS)
@@ -678,7 +678,7 @@ William Jackson - <bjackson@eac.gov>
 ---
 ### Equal Employment Opportunity Commission (EEOC)
 Marc Seawright - <marc.seawright@eeoc.gov>  
-Pierrette McIntire (BACKUP) - <pierrette.mcintire@eeoc.gov>  
+Pierrette McIntire (Deputy) - <pierrette.mcintire@eeoc.gov>  
 
 ---
 
@@ -834,7 +834,7 @@ Ty Cooper - <jtcooper@oge.gov>
 ---
 ### Office of Navajo and Hopi Indian Relocation (ONHIR)
 Diane Pratte - <dpratte@onhir.gov>  
-June Beyal (BACKUP) - <jbeyal@onhir.gov>  
+June Beyal (Deputy) - <jbeyal@onhir.gov>  
 
 ---
 ### Office of Special Counsel (OSC)
@@ -850,7 +850,7 @@ Jennifer Hawkins - <accessibility@peacecorps.gov>
 ---
 ### Pension Benefit Guaranty Corporation (PBGC)
 Angela Watkins - <watkins.angela@pbgc.gov>  
-Marcelle Salley-Owens (BACKUP) - <salley-owens.marcelle@pbgc.gov>  
+Marcelle Salley-Owens (Deputy) - <salley-owens.marcelle@pbgc.gov>  
 
 ---
 ### Postal Regulatory Commission (PRC)  
@@ -936,7 +936,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: November, 2024
+**Reviewed/Updated**: December, 2024
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
