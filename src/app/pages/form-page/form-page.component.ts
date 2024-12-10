@@ -10,14 +10,12 @@ import { IStepIndicator } from "../../shared/models/step-indicator.interface";
 import { FormGroup, FormControl, AbstractControl, AbstractControlOptions, FormBuilder } from '@angular/forms';
 import { Subject } from 'rxjs/internal/Subject';
 import { ArtMessageService } from '../../shared/services/art-message/art-message-service';
-
 @Component({
     selector: 'app-form-page',
     templateUrl: './form-page.component.html',
     styleUrls: ['./form-page.component.scss']
 })
 export class FormPageComponent implements OnInit, AfterViewChecked {
-
     scanChange: any = "";
     /**
     * @description limit the maximum of ICT items that can be added
@@ -33,61 +31,51 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
      * @description Used to trigger the ngOnChanges function to listing to any input property change
      * @type any
      */
-
     /**
      * @description To display a loading container as the form is loading
      * @type boolean
      */
     loading: boolean = false;
-
     /**
      * @description Track the form page from the form component as the user is navigating
      * @type Number
      */
     pageNumber = 0;
-
     /**
      * @description Provide all the configuration for the forms and elements which will be created
      * @type FormTemplateInterface
      */
     formQConfig: FormTemplateInterface[] = [];
-
     /**
      * @description Provide all the form groups which will be created
      * @type FormGroup
      */
     formList: FormGroup[] = [];
-
     /**
     * @description Provide all the configuration for the forms and elements which will be created
     * @type FormTemplateInterface
     */
     formConfig: FormTemplateInterface[] = [];
-
     /**
      * @description Steps data for StepIndicatorComponent.
      * @type IStepIndicator
      */
     stepsData: IStepIndicator = { tabs: [], activeId: '0' };
-
     /**
     * @description to store all the ICT Items created or uploaded
     * @type: ICTInterface[]
     */
     ictItems: ICTInterface[] = [];
-
     /**
      * @description Flag to update step indicator.
      * @type boolean
      */
     updateStep: boolean = false;
-
     /**
      * @description store the value of the placeholder for an element
      * @type string
      */
     tempPlaceHolder: string | undefined;
-
     constructor(
         private formPageService: FormPageService,
         public ictItemService: IctItemService,
@@ -96,17 +84,13 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         private router: Router,
         public artIctLpAddService: ArtIctLpAddService,
         private formBuilder: FormBuilder) { }
-
     ngOnInit(): void {
-
         this.maxLength = this.artIctLpAddService.getMaxItems();
         // Getting the form configuration, creating a new address, any update will no change this.formPageService data
         this.formQConfig = JSON.parse(JSON.stringify(this.formPageService.getConfigurations()));
-
         // Getting the form configuration
         this.formConfig = this.artIctLpAddService.getICTConfigurations();
         this.tempPlaceHolder = this.formConfig[0].formElements[0].placeholder;
-
         // Redirect to the home page if there is no ictitem/ on page reload
         if (this.ictItemService.get().length <= 0) this.router.navigateByUrl("/");
         if (this.ictItemService.get().length >= this.maxLength) {
@@ -115,14 +99,12 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.formConfig[0].formElements[0].placeholder = "";
             this.scanChange = "true";
         }
-
         // Letting the form to load before nay initialization
         setTimeout(() => {
             this.formQConfig.splice(0, 1); // The default configuration from line 64 is still here and were never remover. Here we are removing the default configuration
             this.formPageService.prepopulateData(this.formQConfig, this.ictItemService.get());
             this.loading = true;
         }, 500);
-
         // Creating custom formName for each formElement and generation each configuration
         this.ictItemService.get().forEach((eachIctItem, index) => {
             this.stepsData.tabs.push({
@@ -133,17 +115,13 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             const tempConfig = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), '-' + Date.now().toString() + '-'.concat(index.toString()), eachIctItem);
             this.formQConfig.push(tempConfig);
         });
-
         // Load the form page based on which the user selection was on the summary page ot be amended, it is 0 by default
         this.onPageChanged(this.formPageService.navToFormPage());
-
     }
-
     ngAfterViewChecked(): void {
         // To evaluate any variable angular hasn't check the value change
         this.changeDetectorRef.detectChanges();
     }
-
     /**
      * @description to update the page number when the form page is changing
      * @param index 
@@ -155,25 +133,21 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         this.stepsData.activeId = this.pageNumber.toString();
         this.updateStep = !this.updateStep;
     }
-
     /**
      * @return void
      * @description When the user submit an project or ICT name, it will call the addIctItem function
      * @param data 
      */
     onFormSubmitted(data: any): void {
-
         this.formPageService.setFormResults(data);
         const itcItems: ICTInterface[] = this.ictItemService.get();
         itcItems.forEach((eachItem, index) => {
             eachItem.langKeyWords = data[index];
         })
-
         // Saved the updatde items, will be used when ever the user returns to the form to repopulated values
         this.ictItemService.reSet(itcItems);
         this.router.navigateByUrl(('/summary-page'));
     }
-
     /**
     * @return void
     * @description When the user submit an project or ICT name, it will call the addIctItem function
@@ -186,7 +160,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         const tempIctItem: ICTInterface = { name: val, langKeyWords: data, timeStamp: (Date.now()).toString() }
         this.addIctItem(tempIctItem, dataArr);
     }
-
     /**
  * @description Used to add an ICT item to the ictItem array
  * @type: ICTInterface
@@ -198,18 +171,16 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
         if (this.ictItems.length >= this.index && this.index < this.maxLength && this.formConfig[0].disable) {
             return;
         }
-
         if (this.ictItems.length < this.index) {
             var ictAll = this.ictItemService.get();
             ictAll.push(ictItem);
             this.ictItemService.reSet(ictAll);
-
             this.stepsData.tabs.push({
                 name: ictItem.name,
                 id: (this.stepsData.tabs.length).toString()
             });
-
             let outerIndex = this.formQConfig.length;
+            console.log(this.formQConfig,"formQconfig")
             let uniqueId = (this.stepsData.tabs.length - 1).toString() + '-' + Date.now().toString(36) + Math.random().toString(36).substring(2);
             let formTemplateInterface = this.formPageService.generateNewConfig(JSON.parse(JSON.stringify(this.formPageService.getConfigurations()[0])), (uniqueId).toString(), ictItem);
             this.formList.push(new FormGroup({}));
@@ -223,11 +194,9 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
                     const k = { ...this.formList[outerIndex] };
                 }
             });
-
             //send message to art form template
             this.artMessageService.sendMessage(outerIndex);
         }
-
         // if the max item number has been reached, disable the form
         if (this.index >= this.maxLength) {
             this.formConfig[0].disable = true;
@@ -235,7 +204,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.scanChange = "true";
         }
     }
-
     /**
      * @description Update page number on step navigation click.
      * @param event
@@ -243,7 +211,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
     onSelectedTabReceive(event: number) {
         this.pageNumber = event;
     }
-
     ngOnDestroy(): void {
         if (this.ictItems.length <= this.index && this.formConfig[0].disable) {
             this.formConfig[0].disable = false;
@@ -251,7 +218,6 @@ export class FormPageComponent implements OnInit, AfterViewChecked {
             this.scanChange = "false";
         }
     }
-
     /**
     * @return void
     * @description When the user submit an project or ICT name, it will call the addIctItem function
