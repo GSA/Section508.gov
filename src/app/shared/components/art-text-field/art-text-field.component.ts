@@ -1,5 +1,5 @@
 import { ThisReceiver } from '@angular/compiler';
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnInit ,Output,EventEmitter} from '@angular/core';
 import { AbstractControl, FormControl, ValidationErrors } from '@angular/forms';
 import { FormElement, ElementType } from '../../models/form-element.interface';
 
@@ -20,6 +20,8 @@ export class ArtTextFieldComponent implements OnInit {
   @Input() control:AbstractControl<any, any> | undefined;
   @Input() hidden: boolean = false;
 
+  @Output() eltBlur = new EventEmitter<FormElement>();
+
   //Default value for maxLength
   maxLength:number | null = 1000;
   
@@ -31,6 +33,22 @@ export class ArtTextFieldComponent implements OnInit {
     });
 
     this.maxLength = this.formData?.maxLength ? this.formData?.maxLength: 100;
+  }
+
+  onBlur(event:FocusEvent, controlName:any, msg:any): void {
+    // Emit the event to the parent component
+    const el = event.currentTarget as HTMLInputElement;
+    const formElement: FormElement = {
+      elementType: 'text', // Example static value, you can dynamically assign it
+      controlName: controlName, // Assuming the name attribute is set on your input
+      value: el.value,
+      validations: {'error':msg} // Populate validations as needed
+      ,
+      label: '',
+      next: '',
+      formSection: '',
+    };
+    this.eltBlur.emit(formElement);
   }
 
   /** 
