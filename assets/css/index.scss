@@ -389,6 +389,7 @@ ul.menu{
   padding-top: 32px;
   padding-bottom: 32px;
 }
+
 .agenda-description a{
   color: #1C62C4;
 }
@@ -1363,7 +1364,7 @@ div[role=rowheader] {
 }
 
 .list-item-spacer li {
-  margin-bottom:15px;
+  margin-bottom:8px;
 }
 
 .bg-blue-0 { background-color: #ffffff !important; text-align:center;}
@@ -1383,8 +1384,30 @@ div[role=rowheader] {
 .bg-blue-37 { background-color: #72a4f7 !important; text-align:center;}
 .bg-blue-39 { background-color: #6a9ff6 !important; text-align:center;}
 
+.bg-aqua-2 { background-color: #E5EEF5 !important; text-align:center;}
+.bg-aqua-3 { background-color: #D8E5F0 !important; text-align:center;}
+.bg-aqua-4 { background-color: #D8E5F0 !important; text-align:center;}
+.bg-aqua-5 { background-color: #D0E1ED !important; text-align:center;}
+.bg-aqua-6 { background-color: #CCDDEC !important; text-align:center;}
+.bg-aqua-7 { background-color: #CCDDEC !important; text-align:center;}
+.bg-aqua-8 { background-color: #BFD5E8 !important; text-align:center;}
+.bg-aqua-9 { background-color: #BFD5E8 !important; text-align:center;}
+.bg-aqua-10 { background-color: #BFD5E8 !important; text-align:center;}
+.bg-aqua-11 { background-color: #B8D1E5 !important; text-align:center;}
+.bg-aqua-13 { background-color: #B2CEE3 !important; text-align:center;}
+.bg-aqua-14 { background-color: #B2CEE3 !important; text-align:center;}
+.bg-aqua-15 { background-color: #A6C6DE !important; text-align:center;}
+.bg-aqua-16 { background-color: #A6C6DE !important; text-align:center;}
+.bg-aqua-20 { background-color: #99BED9 !important; text-align:center;}
+.bg-aqua-24 { background-color: #A0C3DC !important; text-align:center;}
+.bg-aqua-34 { background-color: #659DC7 !important; text-align:center;}
+.bg-aqua-36 { background-color: #659DC7 !important; text-align:center;}
+
 .center {text-align: center}
 .center-important {text-align: center !important;}
+.center-left {display:flex; align-items:center; text-align: left;}
+.center-middle {display:flex; align-items:center; justify-content:center;}
+
 
 .striped tbody tr:nth-child(odd) td, .striped tbody tr:nth-child(odd) th {
   background-color: #F7F9FD;
@@ -1464,7 +1487,68 @@ div[role=rowheader] {
   float: left;
   margin-top:5px;
 }
-
+// BEGIN FY24 ASSESSMENT
+.callout-box-changes {
+  border-bottom-right-radius: 1.0rem;
+  border: 0px solid #d9e8f6; 
+  border-bottom-width: 5px; 
+  border-bottom-color: #1D5A9C; //blue 
+  margin-top: 10px;
+  margin-right: 10px;
+  min-height: 115px;
+  .spot-div {
+    min-height:100px;
+    width:100px; 
+    min-width: 100px !important;
+    max-width: 100px !important;    
+    padding:20px 20px 20px 10px;
+    .spot-text {
+      background-color:#133258; 
+      width: 70px; 
+      height: 70px; 
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-family: Arial, sans-serif;
+      font-size: 20px;
+    }
+  }
+  .text-div {
+    width:100%;
+    max-width: 100%;
+    background-color:#d9e8f6;
+    font-size: 16px;
+    padding-left: 18px;
+  }
+  .arrow-div {
+    width: 50px;
+    max-width: 50px;
+    background-color:#d9e8f6;
+    font-size: 3.5rem; 
+    color:#1D5A9C;
+  }
+}
+.callout-box-dual-green {
+  border-left: 1rem solid;
+  border-right: 1rem solid;
+  padding: 1rem;
+  background-color:#F2F8F1; 
+  border-color:#14671B;
+}
+.callout-box-left-green {
+  border-left: 0.5rem solid;
+  padding: 1rem;
+  background-color:#F2F8F1; 
+  border-color:#14671B;
+}
+.breaker-bar-green {
+  border: none; 
+  height: 2px; 
+  background-color: #14671B;
+}
+// END FY24 ASSESSMENT
 .callout-box-text {
   margin-left: 55px;
   width:auto;
