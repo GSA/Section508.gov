@@ -17,7 +17,7 @@ format: "HTML (html)"
 ---
 ## Overview
 
-GSA, OMB, and the U.S. Access Board (Access Board) built upon the groundwork laid by the FY23 Assessment to develop data-driven methods for the FY24 Assessment. (For reference, see [Appendix C: Methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) from the FY23 Assessment). We identified primary research questions, transformed them into testable hypotheses structured by Assessment criteria, and conducted statistical analysis to test these hypotheses. Our approach to analysis was designed to gain insight into the current state of Section 508 programs, identify their key drivers, and trace their evolution year over year. Notably, access to two reporting periods' worth of Assessment data gave us a new opportunity to pursue analysis of how Section 508 Programs changed over time. (See [Pre-Post Analysis](https://docs.google.com/document/d/1xmSXSGdFNyH8ogL6s8eiIa-ms-k-OavYxQY9qMDfLIU/edit#heading=h.h3za2r6h4vgw).)
+GSA, OMB, and the U.S. Access Board (Access Board) built upon the groundwork laid by the FY23 Assessment to develop data-driven methods for the FY24 Assessment. (For reference, see [Appendix C: Methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) from the FY23 Assessment). We identified primary research questions, transformed them into testable hypotheses structured by Assessment criteria, and conducted statistical analysis to test these hypotheses. Our approach to analysis was designed to gain insight into the current state of Section 508 programs, identify their key drivers, and trace their evolution year over year. Notably, access to two reporting periods' worth of Assessment data gave us a new opportunity to pursue analysis of how Section 508 Programs changed over time. (See [Pre-Post Analysis](#pre-post-analysis).)
 
 ## Development and Dissemination of Assessment Criteria
 
@@ -327,9 +327,9 @@ Throughout this report, we present mean values or averages to provide a straight
 
 ## Regression Analysis
 
-Regression analysis helps explore the relationships between independent variables and Section 508 compliance outcomes. For FY24, we conducted [22 regressions](https://docs.google.com/spreadsheets/d/1nTPOCoo1OXY0bgtuVaol8q6u7dPOEEnt/edit?usp=drive_link&ouid=115183160806150624023&rtpof=true&sd=true) using both simple and multivariable models to explore which criteria, and to what extent, drive Section 508 program maturity and conformance. However, none of these regressions resulted in both a p-value below the threshold for statistical significance (0.05) and a high R² value (above 0.75). This suggests that while the models captured relevant factors, other dynamics such as data quality issues persist or may have compounded, hindering efforts to isolate the specific drivers of Section 508 compliance.
+Regression analysis helps explore the relationships between independent variables and Section 508 compliance outcomes. For FY24, we conducted <a href="https://assets.section508.gov/files/reports/cr-2024/Data%20Validation%20for%20FY24%20Governmentwide%20Annual%20Assessment.docx" target="_blank" class="usa-link--external">22 regressions (DOCX)</a> using both simple and multivariable models to explore which criteria, and to what extent, drive Section 508 program maturity and conformance. However, none of these regressions resulted in both a p-value below the threshold for statistical significance (0.05) and a high R² value (above 0.75). This suggests that while the models captured relevant factors, other dynamics such as data quality issues persist or may have compounded, hindering efforts to isolate the specific drivers of Section 508 compliance.
 
-Given the lack of statistically significant findings and the absence of high R² values, detailed regression methods and results are not included in this year's report. However, a condensed methodology is provided below and [full regression methods](https://www.section508.gov/manage/section-508-assessment/2023/appendix-c-methods/) and [earlier findings](https://www.section508.gov/manage/section-508-assessment/2023/assessment-data-downloads/) remain available for reference in the previous year's report.
+Given the lack of statistically significant findings and the absence of high R² values, detailed regression methods and results are not included in this year's report. However, a condensed methodology is provided below and [full regression methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) and [earlier findings]({{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/) remain available for reference in the previous year's report.
 
 A typical regression equation used in the analysis took the following form:
 
@@ -349,9 +349,9 @@ New to FY24, time fixed effects were incorporated to control for YOY influences.
 
 **Dependent Variable = β0 + β1(Independent Variable 1) + γ1(FY23) + γ2(FY24) + ε**
 
-By including these time-specific effects, our analysis aimed to accurately capture the underlying relationships between independent and dependent variables without biases introduced by changes over time. Despite running eight regression models with time fixed effects using data from both FY23 and FY24, none produced results substantial enough to include in this year's [Findings](https://docs.google.com/document/d/1xmSXSGdFNyH8ogL6s8eiIa-ms-k-OavYxQY9qMDfLIU/edit#heading=h.bwhdu3th44of).
+By including these time-specific effects, our analysis aimed to accurately capture the underlying relationships between independent and dependent variables without biases introduced by changes over time. Despite running eight regression models with time fixed effects using data from both FY23 and FY24, none produced results substantial enough to include in this year's [Findings]({{site.baseurl}}/manage/section-508-assessment/2024/findings/summary/).
 
-### P-Values and R<sup>2</sup> Values
+### P-Values and R2 Values
 
 The key metrics we used to evaluate the regressions were:
 

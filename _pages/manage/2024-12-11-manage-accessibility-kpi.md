@@ -1,10 +1,10 @@
 ---
 layout: page
-sidenav: true
-permalink: manage/organizational-accessibility-kpi/
+sidenav: false
+permalink: manage/accessibility-kpi/
 type: manage
-title: 'Organizational Accessibility Key Performance Indicators (KPI)'
-created: August 06, 2023
+title: 'Organizational IT Accessibility Key Performance Indicators (KPI)'
+created: 2024-12-11
 topic: "Manage (program)"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -16,8 +16,29 @@ audience:
 resource-type: "Long form article"
 format: "HTML (html)"
 ---
+Results of the last two governmentwide Section 508 Annual Assessments show that agencies generally have many areas in which they could improve. From improving the maturity of their Section 508 Program Office, to the need for creating polices and repeatable procedures, to solidifying their accessibility testing infrastructure, to improving accessibility of ICT; agencies can improve the accessibility of their organizations in one way or another.
 
-<table id="table-" class="usa-table usa-table--striped grid-col-12 margin-bottom-3">
+It is often hard to know where to begin. This is where the Accessibility Key Performance Indicators (KPI) below can help. The GSA Government-wide IT Accessibility Team has created a list of example metrics that organizations can use to improve accessibility. These indicators are broken down by accessibility dimensions as defined by the Section 508 Annual Assessment, including accessibility conformance, including: 
+
+* General Information
+* IT Accessibility Program Office
+* Policies, Procedures, and Practices
+* Communications
+* Content Creation
+* Human Capital, Culture, and Leadership
+* Technology Lifecycle Activities
+* Testing and Validation
+* Acquisition and Procurement
+* Training
+* Accessibility Conformance
+
+Federal organizations can take advantage of KPIs below to track improvement over time to directly measure their organization's performance with respect to digital accessibility. Below is the initial list of KPIs developed by the team. We welcome any feedback on how to improve this list, including any additional KPIs our stakeholders believe we should include on the list. Please reach out to <section.508@gsa.gov> to suggest updates or new items for this KPI list.
+
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+  <strong>Download</strong>: <a href="https://assets.section508.gov/files/">Section 508 IT Oganizational Accessibility Key Performance Indicators (KPI)(XLSX)</a>.
+</div>
+
+<table id="table-1" class="usa-table usa-table--striped grid-col-12 margin-bottom-3" style="max-width:100%;">
   <caption></caption>
   <thead>
     <tr>

@@ -42,8 +42,8 @@ manage:
             url: manage/support-accessible-content/
           - name: Understand Content Scope and Technical Requirements
             url: manage/understand-scope-technical-requirements/
-      - name: Organizational Accessibility Key Performance Indicators (KPI)
-        url: manage/organizational-accessibility-kpi/
+      - name: Organizational IT Accessibility Key Performance Indicators (KPI)
+        url: manage/accessibility-kpi/
       - name: Join the 508 community
         url: manage/join-the-508-community/
       - name: Find your Program Manager
