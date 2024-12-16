@@ -289,16 +289,36 @@ A probability value (p-value) helps us determine whether the difference we obser
   <caption>Table C4. Summary of Statistical Significance Notation</caption>
   <thead>
     <tr>
-      <th scope="col"></th>
-      <th scope="col" class="center-important"></th>
-      <th scope="col" class="center-important"></th>
+      <th scope="col">Meaning</th>
+      <th scope="col">Description</th>
+      <th scope="col">Notation</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row"></th>
-      <td></td>
-      <td></td>
+      <th scope="row">P > 0 .05</th>
+      <td>not significant</td>
+      <td>ns</td>
+    </tr>
+    <tr>
+      <th scope="row">P ≤ 0 .05</th>
+      <td>statistically significant</td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <th scope="row">P ≤ 0 .01</th>
+      <td>highly statistically significant</td>
+      <td>**</td>
+    </tr>
+    <tr>
+      <th scope="row">P ≤ 0 .001</th>
+      <td>very highly statistically significant</td>
+      <td>***</td>
+    </tr>
+    <tr>
+      <th scope="row">P ≤ 0 .0001</th>
+      <td>extremely statistically significant</td>
+      <td>****</td>
     </tr>
   </tbody>
 </table>
