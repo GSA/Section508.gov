@@ -72,7 +72,7 @@ Comprehensive submission data by reporting entity can be found at Section508.gov
 
   * Maturity Bracket: This measure of a reporting entity’s Section 508 program maturity assesses responses to criteria across nine dimensions. All were multiple choice format, equally weighted, and scored as noted in Methods, Descriptive Analysis. This maturity bracket consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high maturity levels.
 
-  * Conformance Bracket: This measure of a reporting entity’s conformance metrics consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance. This conformance index quantified select responses to 16 specific criteria in the conformance section of criteria which directly relate to quantifiable compliance outcomes. They were assigned numerical values and weighted as shown in Table C1.
+  * Conformance Bracket: This measure of a reporting entity’s conformance metrics consists of an index using a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance. This conformance index quantified select responses to 16 specific criteria in the conformance section of criteria which directly relate to quantifiable compliance outcomes. They were assigned numerical values and weighted as shown in Table B2.
   
   <div class="display-block tablet:display-none border-base padding-1 margin-left-5">
     <div class="grid-row grid-gap">
