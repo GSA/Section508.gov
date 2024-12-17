@@ -72,29 +72,31 @@ The following terms are used in this 2023 Assessment report to Congress. Additio
     <tr>
         <th scope="row" id="cfo-act-agency">CFO Act Agency</th>
         <td><p>The 1990 CFO Act gave OMB new authority and responsibility for directing federal financial management, modernizing the government’s financial management systems, and strengthening financial reporting. This act applies to 24 departments and agencies. The 24 CFO Act Agencies include:</p>
-        Agency for International Development<br>
-        Department of Agriculture<br>
-        Department of Commerce Department of Defense<br>
-        Department of Education<br>
-        Department of Energy<br>
-        Department of Health and Human Services<br>
-        Department of Homeland Security<br>
-        Department of Housing and Urban Development<br>
-        Department of the Interior<br>
-        Department of Justice<br>
-        Department of Labor<br>
-        Department of State<br>
-        Department of Transportation<br>
-        Department of the Treasury<br>
-        Department of Veterans Affairs<br>
-        Environmental Protection Agency<br>
-        General Services Administration<br>
-        National Aeronautics and Space Administration <br>
-        National Science Foundation<br>
-        Nuclear Regulatory Commission<br>
-        Office of Personnel Management<br>
-        Small Business Administration<br>
-        Social Security Administration
+        <ol>
+          <li class="list-item-spacer">Agency for International Development</li>
+          <li class="list-item-spacer">Department of Agriculture</li>
+          <li class="list-item-spacer">Department of Commerce Department of Defense</li>
+          <li class="list-item-spacer">Department of Education</li>
+          <li class="list-item-spacer">Department of Energy</li>
+          <li class="list-item-spacer">Department of Health and Human Services</li>
+          <li class="list-item-spacer">Department of Homeland Security</li>
+          <li class="list-item-spacer">Department of Housing and Urban Development</li>
+          <li class="list-item-spacer">Department of the Interior</li>
+          <li class="list-item-spacer">Department of Justice</li>
+          <li class="list-item-spacer">Department of Labor</li>
+          <li class="list-item-spacer">Department of State</li>
+          <li class="list-item-spacer">Department of Transportation</li>
+          <li class="list-item-spacer">Department of the Treasury</li>
+          <li class="list-item-spacer">Department of Veterans Affairs</li>
+          <li class="list-item-spacer">Environmental Protection Agency</li>
+          <li class="list-item-spacer">General Services Administration</li>
+          <li class="list-item-spacer">National Aeronautics and Space Administration </li>
+          <li class="list-item-spacer">National Science Foundation</li>
+          <li class="list-item-spacer">Nuclear Regulatory Commission</li>
+          <li class="list-item-spacer">Office of Personnel Management</li>
+          <li class="list-item-spacer">Small Business Administration</li>
+          <li class="list-item-spacer">Social Security Administration</li>
+        </ol>
         </td>
     </tr>
     <tr>
@@ -129,12 +131,12 @@ The following terms are used in this 2023 Assessment report to Congress. Additio
                 <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
                     <ol type="i">
                         <li>of that equipment.</li>
-                        <li>of that equipment to a significant extent in the performance of a service or the furnishing of a product.</li>
-                    </ol>
+        <li class="list-item-spacer">                <li>of that equipment to a significant extent in the performance of a service or the furnishing of a product.</li>
+        <li class="list-item-spacer">            </ol>
                 </li>
-                <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
-                <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
-            </ol>
+        <li class="list-item-spacer">        <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
+        <li class="list-item-spacer">        <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
+        <li class="list-item-spacer">    </ol>
         </td>
     </tr>
     <tr>

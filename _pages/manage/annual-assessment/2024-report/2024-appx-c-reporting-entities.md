@@ -17,7 +17,7 @@ format: "HTML (html)"
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and components followed by independent reporting entities.
 
-**Note**: Entities marked with an asterisk (*) only reported data in FY24. 
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;"><strong>Note</strong>: Entities marked with an asterisk (*) only reported data in FY24.</div>
 
 ## Chief Financial Officers (CFO) Act Agencies
 
@@ -303,7 +303,7 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-d-entity-summary/?id=USAID" target="_blank" target="_blank" class="usa-link--external">U.S. Agency for International Development (USAID) (CFO Act Agency)</a></li>
 </ol>
 
-<hr class="breaker-bar-green padding-top-2">
+<hr class="breaker-bar-green margin-top-3">
 
 ## Small and Independent Agencies and Reporting Entities
 **Note**: Commission for the Preservation of America's Heritage Abroad (CPAHA), Commission of Fine Arts (CFA), Denali Commission (DC), Harry S Truman Scholarship Foundation (HSTSF), and Surface Transportation Board (STB) reported in FY23 but not FY24.

@@ -88,8 +88,8 @@ Federal organizations can take advantage of KPIs below to track improvement over
     <tr>
       <td scope="row" class="center-important">6</td>
       <td>508 Support Requests</td>
-      <td>In FY2X, respond to and resolve XX% or requests within 3 business days.<br><br>and<br><br>In FY2X, respond to and resolve XX+25% of requests within 7 business days.</td>
-      <td>Phase 1: In FY26, respond to and resolve 50% or requests within 3 business days.<br>and<br><br>Phase 2: In FY27, respond to and resolve 75% of requests within 7 business days.</td>
+      <td>Phase 1: In FY25, provide direct feedback through testing to 50% of the individuals who submitted content for review with 2 business days.<br><br>AND<br><br>Phase 2: In FY25, provide direct feedback through testing to 75% of the individuals who submitted content for review with 7 business days.</td>
+      <td>Phase 1: In FY26, respond to and resolve 50% or requests within 3 business days.<br><br>AND<br><br>Phase 2: In FY27, respond to and resolve 75% of requests within 7 business days.</td>
       <td>IT Accessibility Program Office</td>
     </tr>
     <tr>
@@ -108,128 +108,128 @@ Federal organizations can take advantage of KPIs below to track improvement over
     </tr>
     <tr>
       <td scope="row" class="center-important">9</td>
+      <td>Non-Conformant Content Tracking System</td>
+      <td>By QX FY2X, build or buy a sufficient content tracking system that will allow you to track remediation of nonconformant digital content and/or specific defects of non-conformant content.</td>
+      <td>By Q4 FY26, build or buy a sufficient content tracking system that will allow you to track remediation of nonconformant digital content and/or specific defects of non-conformant content.</td>
+      <td>Content Creation</td>
+    </tr>
+    <tr>
+      <td scope="row" class="center-important">10</td>
       <td>Nonconformant Content Tracking</td>
       <td>By QX FY2X, resolve XX% of identified and tracked non-conformant digital content in the previous fiscal year.</td>
       <td>By Q2 FY26, resolve 50% of identified and tracked non-conformant digital content in the previous fiscal year.</td>
       <td>Content Creation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">10</td>
+      <td scope="row" class="center-important">11</td>
       <td>Accessibility in Strategic Plans</td>
       <td>By QX FY2X, create a new 3-year-strategic plan that includes adherence ICT accessibility core values as a key goal/priority for the organization.</td>
       <td>By Q1 FY27, create a new 3-year-strategic plan that includes adherence ICT accessibility core values as a key goal/priority for the organization.</td>
       <td>Human Capital, Culture, and Leadership</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">11</td>
+      <td scope="row" class="center-important">12</td>
       <td>Leadership Performance Plan Metrics</td>
       <td>In FY2X, include SMART, Level 3-5, accessibility-related performance metrics in the CXOs performance plan and track accordingly.</td>
       <td>In FY27, include SMART, Level 3-5, accessibility-related performance metrics in the CIO and CAO performance plans and track accordingly.</td>
       <td>Human Capital, Culture, and Leadership</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">12</td>
+      <td scope="row" class="center-important">13</td>
       <td>Disability Group Engagement</td>
       <td>In FY2X, conduct outreach to at least X# of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>In FY26, conduct outreach to at least 3 of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>Human Capital, Culture, and Leadership</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">13</td>
+      <td scope="row" class="center-important">14</td>
       <td>Accessibility in Risk Management</td>
       <td>In FY2X, apply the agency accessibility risk management framework to XX% of technology developments within the organization.</td>
       <td>In FY26, apply the agency accessibility risk management framework to 50% of technology developments within the organization.</td>
       <td>Technology Lifecycle Activities</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">14</td>
+      <td scope="row" class="center-important">15</td>
       <td>Accessibility Issue Resolution</td>
       <td>By QX FY2X, address at least XX% of the non-conformance accessibility-related issues identified within the past calendar year.</td>
       <td>By Q2 FY25, address at least 67%% of the non-conformance accessibility-related issues identified within the past calendar year.</td>
       <td>Technology Lifecycle Activities</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">15</td>
+      <td scope="row" class="center-important">16</td>
       <td>PWD Usability Testing</td>
       <td>In FY2X, conduct user testing with people with disabilities on XX% of new user content before publishing and create a method for tracking this involvement.</td>
       <td>In FY26, conduct user testing with people with disabilities on 15% of new user content before publishing and create a method for tracking this involvement.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">16</td>
+      <td scope="row" class="center-important">17</td>
       <td>Content Review/ Remediation</td>
-      <td>In FY2X, provide direct feedback through testing to XX% of the individuals who submitted content for review with 2 business days.<br><br>AND<br><br>In FY2X, provide direct feedback through testing to XX+25% of the individuals who submitted content for review with 7 business days.</td>
+      <td>Phase 1: In FY25, provide direct feedback through testing to 50% of the individuals who submitted content for review with 2 business days.<br><br>AND<br><br>Phase 2: In FY25, provide direct feedback through testing to 75% of the individuals who submitted content for review with 7 business days.</td>
       <td>In FY25, provide direct feedback through testing to 50% of the individuals who submitted content for review with 2 business days.<br><br>AND<br><br>In FY25, provide direct feedback through testing to 75% of the individuals who submitted content for review with 7 business days.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">17</td>
+      <td scope="row" class="center-important">18</td>
       <td>Manual Web Content Testing</td>
       <td>In FY2X, conduct comprehensive manual testing on XX% of all new entity web content prior to content deployment.</td>
       <td>In FY26, conduct comprehensive manual testing on 50% of all new entity web content prior to content deployment.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">18</td>
+      <td scope="row" class="center-important">19</td>
       <td>Automated Web Content Testing</td>
       <td>In FY2X, conduct comprehensive automated testing on XX% of all new entity web content prior to content deployment.</td>
       <td>In FY27, conduct comprehensive automated testing on 90% of all new entity web content prior to content deployment.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">19</td>
+      <td scope="row" class="center-important">20</td>
       <td>Automated Document Testing</td>
       <td>In FY2X, conduct comprehensive automated testing on XX% of all new entity online documents prior to document distribution.</td>
       <td>In FY27, conduct comprehensive automated testing on 35% of all new entity online documents prior to document distribution.</td>
       <td>Testing and Validation</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">20</td>
+      <td scope="row" class="center-important">21</td>
       <td>Accessibility in Solicitations</td>
       <td>In FY2X, include sufficient ICT accessibility requirements in XX% of ICT related solicitations.<br><br>AND<br><br>In FY2X+2, include sufficient ICT accessibility requirements in XX+20% of ICT related solicitations.</td>
-      <td>In FY26, include sufficient ICT accessibility requirements in 35% of ICT related solicitations.<br><br>AND<br><br>In FY28, include sufficient ICT accessibility requirements in 50% of ICT related solicitations.</td>
-      <td>Acquisition and Procurement</td>
-    </tr>
-    <tr>
-      <td scope="row" class="center-important">21</td>
-      <td>Accessibility in Market Research</td>
-      <td>In FY2X, apply Section 508 conformance as a part of market research for XX% of upcoming solicitations.</td>
-      <td>In FY26, apply Section 508 conformance as a part of market research for 50% of upcoming solicitations.</td>
+      <td>Phase 1: In FY26, include sufficient ICT accessibility requirements in 35% of ICT related solicitations.<br><br>AND<br><br>Phase 2: In FY28, include sufficient ICT accessibility requirements in 50% of ICT related solicitations.</td>
       <td>Acquisition and Procurement</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">22</td>
+      <td>Accessibility in Market Research</td>
+      <td>In FY2X, consider Section 508 conformance as a part of market research phase of ICT Acquisitions for XX% of upcoming solicitations.</td>
+      <td>In FY26, consider Section 508 conformance as a part of market research phase of ICT Acquisitions for XX% of upcoming solicitations.</td>
+      <td>Acquisition and Procurement</td>
+    </tr>
+    <tr>
+      <td scope="row" class="center-important">23</td>
       <td>Contract Deliverable Accessibility</td>
       <td>In FY2X, verify XX% of milestone/major deliverables for Section 508 conformance.</td>
       <td>In FY27, verify 10% of milestone/major deliverables for Section 508 conformance.</td>
       <td>Acquisition and Procurement</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">23</td>
+      <td scope="row" class="center-important">24</td>
       <td>Accessibility Tech Evaluation</td>
-      <td>In FY2X consider ICT accessibility in the technical evaluation of proposals that include relevant to ICT services and products.</td>
-      <td>In FY27 consider ICT accessibility in all of the technical evaluation of proposals that include relevant to ICT services and products.</td>
+      <td>By FY2X explicitly include Section 508 as a technical factor in the evaluation of proposals of ICT services and products.</td>
+      <td>By FY27 explicitly include Section 508 as a technical factor in the evaluation of proposals of ICT services and products.</td>
       <td>Acquisition and Procurement</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">24</td>
+      <td scope="row" class="center-important">25</td>
       <td>Accessibility Training Plans</td>
       <td>By QX FY2X create training plans for XXXX, YYYY, and ZZZZ roles within the organization.<br><br>AND<br><br>By QX FY2X+1 create training plans for all other roles relevant to ICT accessibility.</td>
       <td>By Q3 FY26 create training plans for web managers, content creators, and testing roles within the organization.<br><br>AND<br><br>By QX FY27 create training plans for all other roles relevant to ICT accessibility.</td>
       <td>Training</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">25</td>
-      <td>508 Awareness Training</td>
-      <td>By QX FY2X create Section 508 awareness training and make available to organizational employees.</td>
-      <td>By Q2 FY26 create Section 508 awareness training and make available to organizational employees.</td>
-      <td>Training</td>
-    </tr>
-    <tr>
       <td scope="row" class="center-important">26</td>
-      <td>Mandatory 508 Awareness Training</td>
-      <td>By QX FY2X+1, work with relevant human resources and training personnel to make the Section 508 awareness training mandatory on a regular basis (either annually or bi-annually).</td>
-      <td>By Q1 FY27, work with relevant human resources and training personnel to make the Section 508 awareness training mandatory on a regular basis (either annually or bi-annually).</td>
+      <td>508 Awareness Training</td>
+      <td>By QX FY2X create Section 508 awareness training and make available to organizational employees.<br><br>AND<br><br>By QX FY2X+1, work with relevant human resources and training personnel to make the Section 508 awareness training mandatory on a regular basis (either annually or bi-annually).</td>
+      <td>Phase 1: By Q2 FY26 create Section 508 awareness training and make available to organizational employees.<br><br>AND<br><br>Phase 2: By Q1 FY27, work with relevant human resources and training personnel to make the Section 508 awareness training mandatory on a regular basis (either annually or bi-annually).</td>
       <td>Training</td>
     </tr>
     <tr>
@@ -305,8 +305,8 @@ Federal organizations can take advantage of KPIs below to track improvement over
     <tr>
       <td scope="row" class="center-important">37</td>
       <td>Automated Intranet Page Testing</td>
-      <td>By QX FY2X, test XX% of internal intranet web pages using automated testing.</td>
-      <td>By Q4 FY27, test 75% of internal intranet web pages using automated testing.</td>
+      <td>By QX FY2X, test XX% of internal intranet web pages of those that are testable using automated testing.</td>
+      <td>By Q4 FY27, test 75% of internal intranet web pages of those that are testable using automated testing.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
@@ -319,7 +319,7 @@ Federal organizations can take advantage of KPIs below to track improvement over
     <tr>
       <td scope="row" class="center-important">39</td>
       <td>Intranet Conformance</td>
-      <td>By QXFY2X, determine what percentage of internal intranet web pages currently live on agency websites fully conform to Section 508 standards.</td>
+      <td>By QX FY2X, determine what percentage of internal intranet web pages currently live on agency websites fully conform to Section 508 standards.</td>
       <td>By Q4 FY26,  determine what percentage of internal intranet web pages currently live on agency websites fully conform to Section 508 standards.</td>
       <td>Conformance Metrics</td>
     </tr>
@@ -340,15 +340,15 @@ Federal organizations can take advantage of KPIs below to track improvement over
     <tr>
       <td scope="row" class="center-important">42</td>
       <td>Entity-wide ICT Accessibility: Meeting Platform</td>
-      <td>By EOFY FY2X purchase a new meeting platform that can be accessed and used by all users.</td>
-      <td>By EOFY FY29 purchase a new meeting platform that can be accessed and used by all users.</td>
+      <td>By EOFY FY2X remediate existing or purchase a new meeting platform that can be accessed and used by all users.</td>
+      <td>By EOFY FY29 remediate existing or purchase a new meeting platform that can be accessed and used by all users.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">43</td>
       <td>Entity-wide ICT Accessibility: Survey Tool</td>
-      <td>By EOFY FY2X invest in a enterprise-wide survey authoring tool that can be accessed and used by all users.</td>
-      <td>By EOFY FY27 invest in a enterprise-wide survey authoring tool that can be accessed and used by all users.</td>
+      <td>By EOFY FY2X remediate the current tool, create accessible templates or invest in a enterprise-wide survey authoring tool that can be accessed and used by all users.</td>
+      <td>By EOFY FY28 remediate the current tool, create accessible templates or invest in a enterprise-wide survey authoring tool that can be accessed and used by all users.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
@@ -444,21 +444,21 @@ Federal organizations can take advantage of KPIs below to track improvement over
     </tr>
     <tr>
       <td scope="row" class="center-important">57</td>
-      <td></td>
-      <td> By QX FY2X address, resolve or adjudicate XX% of active Section 508 related complaints.</td>
-      <td> By Q4 FY25 address, resolve or adjudicate 67% of active Section 508 related complaints</td>
+      <td>Accessibility Complaints Resolution (3)</td>
+      <td>By QX FY2X address, resolve or adjudicate XX% of active Section 508 related complaints.</td>
+      <td>By Q4 FY25 address, resolve or adjudicate 67% of active Section 508 related complaints</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">58</td>
-      <td>Accessibility Complaints Reduction (2)</td>
-      <td><br>Reduce the total number of unresolved Section 508 related complaints for confirmed accessibility issues to YY.</td>
+      <td>Accessibility Complaints Reduction</td>
+      <td>Reduce the total number of unresolved Section 508 related complaints for confirmed accessibility issues to YY.</td>
       <td>Reduce total number of unresolved complaints for confirmed accessibility issues to 15 over the next 12 months.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">59</td>
-      <td>Accessibility Complaints Reduction (3)</td>
+      <td>Accessibility Complaints Reduction (2)</td>
       <td>Reduce the time to intake, review, and respond to complaints to ZZ days per complaint.</td>
       <td>Reduce the time to intake, review, and respond to complaints to 15 days per complaint.</td>
       <td>Conformance Metrics</td>
@@ -471,45 +471,38 @@ Federal organizations can take advantage of KPIs below to track improvement over
       <td>Conformance Metrics</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important"></td>
+      <td scope="row" class="center-important">61</td>
       <td>Entity-wide ICT: Remediation Plan</td>
       <td>By QX FY2X, define a plan to purchase, replace or remediate all non-conformant ICT in the enterprise IT portfolio.</td>
       <td>By Q2 FY26, define a plan to purchase, replace or remediate all non-conformant ICT in the enterprise IT portfolio.</td>
       <td>Technology Lifecycle Activities</td>
     </tr>
     <tr>
-      <td scope="row" class="center-important">61</td>
-      <td>Entity-wide ICT Accessibility: Time and Attendance System</td>
-      <td>By EOFY FY2X purchase a new Time and Attendance System that can be accessed and used by all users.</td>
-      <td>By EOFY FY29 purchase a new meeting platform that can be accessed and used by all users.</td>
-      <td>Conformance Metrics</td>
-    </tr>
-    <tr>
       <td scope="row" class="center-important">62</td>
-      <td>Entity-wide ICT Accessibility: Training Courses</td>
-      <td>By EOFY FY2X update the Top 5 most utilized trainings to ensure they are meet all  relevant Section 508 requirements</td>
-      <td>By EOFY FY27 update the Top 5 most utilized trainings to ensure they are meet all relevant Section 508 requirements</td>
+      <td>Entity-wide ICT Accessibility: Time and Attendance System</td>
+      <td>By EOFY FY2X replace, remediate or purchase a new Time and Attendance System that can be accessed and used by all users.</td>
+      <td>By EOFY FY29 replace, remediate or purchase a new Time and Attendance System that can be accessed and used by all users.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">63</td>
-      <td>Entity-wide ICT Accessibility: Training Courses (2)</td>
-      <td>By EOFY FY2X update all agency trainings to ensure they are meet all relevant Section 508 requirements</td>
-      <td>By EOFY FY29 update all agency trainings to ensure they are meet all relevant Section 508 requirements</td>
+      <td>Entity-wide ICT Accessibility: Training Courses</td>
+      <td>By EOFY FY2X update the Top 5 most utilized trainings to ensure they are meet all  relevant Section 508 requirements<br><br>AND<br><br>By EOFY FY2X update all agency trainings to ensure they are meet all relevant Section 508 requirements</td>
+      <td>Phase 1: By EOFY FY27 update the Top 5 most utilized trainings to ensure they are meet all relevant Section 508 requirements<br><br>AND<br><br>Phase 2: By EOFY FY29 update all agency trainings to ensure they are meet all relevant Section 508 requirements</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">64</td>
       <td>Entity-wide ICT Accessibility: Email</td>
-      <td>By EOFY FY2X purchase a new Enterprise Email Application that can be accessed and used by all users.</td>
-      <td>By EOFY FY29 purchase a new Enterprise Email Application that can be accessed and used by all users.</td>
+      <td>By EOFY FY2X require remediation or purchase a new Enterprise Email Application that can be accessed and used by all users.</td>
+      <td>By EOFY FY29 require remediation or purchase a new Enterprise Email Application that can be accessed and used by all users.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>
       <td scope="row" class="center-important">65</td>
       <td>Entity-wide ICT Accessibility: Virtual Meeting Platform</td>
-      <td>By EOFY FY2X purchase a new Virtual Meeting Platform that can be accessed and used by all users.</td>
-      <td>By EOFY FY29 purchase a new Virtual Meeting Platform that can be accessed and used by all users.</td>
+      <td>By EOFY FY2X require remediation or purchase a new Virtual Meeting Platform that can be accessed and used by all users.</td>
+      <td>By EOFY FY29 require remediation or purchase a new Virtual Meeting Platform that can be accessed and used by all users.</td>
       <td>Conformance Metrics</td>
     </tr>
     <tr>

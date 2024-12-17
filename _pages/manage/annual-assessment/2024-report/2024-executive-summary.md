@@ -20,9 +20,9 @@ Building on insights from the [FY23 assessment]({{site.baseurl}}/manage/section-
 ## Highlighted Findings
 On average, governmentwide maturity remained moderate but slightly improved to 2.37 on a 5-point [maturity index]({{site.baseurl}}/manage/section-508-assessment/2024/findings/maturity-dimension/#assessment-indices-and-reporting-entity-scatter-plot), up from 2.17 in FY23. However, conformance did not improve, dropping YOY from 1.79 to 1.74 on the [conformance index]({{site.baseurl}}/manage/section-508-assessment/2024/findings/compliance-dimension/), remaining low. More than 60% of respondents reported no change in conformance across their most-viewed ICT content. Insufficient staffing and resources remain barriers reported by respondents, limiting the ability to test, remediate, and enforce accessibility effectively. Other highlighted findings include:
 
-<ul>
-  <li><strong>Persistent Conformance Gaps:</strong> About one-third or less of the reporting entities&#39; top-viewed ICT is fully conformant:
-    <ul>
+<ul class="list-item-spacer">
+  <li><p><strong>Persistent Conformance Gaps:</strong> About one-third or less of the reporting entities&#39; top-viewed ICT is fully conformant:</p>
+    <ul class="list-item-spacer">
       <li>23% of public internet pages</li>
       <li>20% of intranet pages</li>
       <li>25% of public documents</li>
@@ -44,7 +44,7 @@ The **positive correlation between maturity and conformance** identified in FY23
 ## Highlighted Recommendations
 The recommendations resulting from the FY24 Governmentwide Section 508 Assessment build on those from the previous year. This year's recommendations place greater emphasis on improving conformance itself and prioritizing testing, validation, and accountability at every stage of the ICT lifecycle. Furthermore, by strengthening leadership engagement and enhancing procurement practices, agencies can make measurable progress in digital accessibility compliance. Selected [recommendations]({{site.baseurl}}/manage/section-508-assessment/2024/recommendations/) include:
 
-* **Congress should consider updating Section 508** of the Rehabilitation Act (29 U.S.C. § 794d) and 29 U.S.C. § 794d-1 - Electronic and Information Technology to include:**
+* **Congress should consider updating Section 508** of the Rehabilitation Act (29 U.S.C. § 794d) and 29 U.S.C. § 794d-1 - Electronic and Information Technology to include:
 
   * **Definition of Agencies Subject to Section 508** to clearly define who should follow Section 508 standards and respond to this Assessment.
 

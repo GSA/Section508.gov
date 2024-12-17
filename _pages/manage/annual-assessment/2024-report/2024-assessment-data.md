@@ -19,13 +19,15 @@ format: "HTML (html)"
 redirect_from:
 - 2024-congressional-report-downloads/
 ---
-To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY 24 Governmentwide Section 508 Assessment below, which includes:
+To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY24 Governmentwide Section 508 Assessment below, which includes:
 
-* [FY 24 Governmentwide Section 508 Assessment (PDF)](https://assets.section508.gov/files/reports/cr-2024/FY%2024%20Governmentwide%20Section%20508%20Assessment%20Report.pdf) as transmitted to Congress on December 29, 2024
-* [Reporting Entity Response Data for FY24 Government-wide Section 508 Assessment (CSV)](https://assets.section508.gov/files/reports/cr-2024/Reporting%20Entity%20Response%20Data%20for%20FY24%20Government-wide%20Section%20508%20Assessment.csv)
-* [Reporting Entity Response Data for FY24 Government-wide Section 508 Assessment (JSON)](https://assets.section508.gov/files/Reporting+Entity+Response+Data+JSON+for+FY24+Government-wide+Section+508+Assessment.json)
-* [Regression Results for FY24 Governmentwide Section 508 Assessment (XLSX)](https://assets.section508.gov/files/reports/cr-2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment.xlsx)
-* [FY24 Governmentwide Section 508 Assessment Data Dictionary Excel.xlsx (XLSX)](https://assets.section508.gov/files/reports/cr-2024/FY24%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx)
-* [Data Validation for FY24 Governmentwide Annual Assessment (DOCX)](https://assets.section508.gov/files/reports/cr-2024/Data%20Validation%20for%20FY24%20Governmentwide%20Annual%20Assessment.docx)
+* <a href="https://assets.section508.gov/files/reports/cr-2024/FY24%20Governmentwide%20Section%20508%20Assessment%20[PDF].pdf" target="_blank" class="usa-link--external" >FY24 Governmentwide Section 508 Assessment (PDF)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20[Excel].xlsx" target="_blank" class="usa-link--external">Regression Results for FY24 Governmentwide Section 508 Assessment (XLSX)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Reporting%20Entity%20Response%20Data%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20[CSV].csv" target="_blank" class="usa-link--external">Reporting Entity Response Data for FY24 Governmentwide Section 508 Assessment (CSV)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Reporting%20Entity%20Response%20Data%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20[JSON].json" target="_blank" class="usa-link--external">Reporting Entity Response Data for FY24 Governmentwide Section 508 Assessment (JSON)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Pre%20Post%20Analysis%20For%20FY24%20Governmentwide%20Section%20508%20Assessment%20[Excel].xlsx" target="_blank" class="usa-link--external">Pre Post Analysis For FY24 Governmentwide Section 508 Assessment (XLSX)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/M-24-08%20Analysis." target="_blank" class="usa-link--external">M-24-08 Analysis ()</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20[Excel].xlsx" target="_blank" class="usa-link--external">Data Dictionary for FY24 Governmentwide Section 508 Assessment (XLSX)</a>
+* <a href="https://assets.section508.gov/files/reports/cr-2024/Data%20Validation%20for%20FY24%20Governmentwide%20Annual%20Assessment.docx" target="_blank" class="usa-link--external">Data Validation for FY24 Governmentwide Annual Assessment (DOCX)</a>
 
 **Reviewed/Updated**: December 2024

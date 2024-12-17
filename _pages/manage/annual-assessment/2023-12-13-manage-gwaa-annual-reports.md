@@ -25,7 +25,7 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-bottom-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/manage/section-508-assessment/2024/message-from-gsa-administrator/"><img alt="FY 24 Governmentwide Section 508 Assessment" src="https://assets.section508.gov/files/reports/cr-2024/fy24-assessment-cover.jpg" style="width:100%" /></a>
+    <img alt="FY 24 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/files/reports/cr-2024/fy24-assessment-cover.jpg" class="border" style="width:100%;" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 24 Governmentwide Section 508 Assessment</h3>
@@ -42,7 +42,7 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-top-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/"><img alt="FY 23 Governmentwide Section 508 Assessment" src="https://assets.section508.gov/files/reports/cr-2023/fy23-assessment-cover.jpg" style="width:100%" /></a>
+    <img alt="FY 23 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/files/reports/cr-2023/fy23-assessment-cover.jpg" class="border" style="width:100%" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 23 Governmentwide Section 508 Assessment</h3>

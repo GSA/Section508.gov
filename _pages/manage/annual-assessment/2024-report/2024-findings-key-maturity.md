@@ -20,7 +20,7 @@ This Assessment targets two key areas of analysis to determine performance with 
 
 GSA combined the reporting entities' self-reported responses to get one estimate of a reporting entity's overall performance. Like last year, the maturity and conformance indices -- based solely on the assessment responses -- provide a comprehensive and quantitative assessment of Section 508 compliance across the federal government. The business function maturity index, referred to as "maturity" or "m-index," quantified reporting entity responses to criteria across nine dimensions with equal weighting of each criteria. The operational conformance matrix, referred to as "conformance" or "c-index," quantified 16 specific criteria in the Conformance dimension to assess how well reporting entities performed with respect to Section 508 implementation. The indices are on a 5-point scale, from zero to five. These indices are fully described in [Appendix B: Methods, Descriptive Analysis]({{site.baseurl}}/manage/section-508-assessment/2024/appendix-b-methods/). 
 
-<div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2024/figure-7.jpg" alt="Scatter plot with trendline of all reporting entities' conformance and maturity index results. There is a concentration of reporting entities towards the center of the graph, with less towards the bottom left corner of the graph (the lower performers) and an even smaller number of reporting entities in the top right corner (the higher performers). The trendline shows a positive relationship between maturity and conformance. Please see Table 6 for a full description of where entities fell on the five by five scatter plot." aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-7"><strong>Figure 7.</strong> Scatter plot with trendline of all reporting entities' conformance and maturity index results</span>
@@ -256,7 +256,7 @@ The highest performing maturity outcome was Content Creation at 2.69, followed b
 
 Below, the FY 24 outcomes are depicted in the chart below:
 
-<div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2024/figure-8.jpg" alt="Comparison bar chart showing average dimension outcomes YOY. Please see Table 8 for a table view of this data." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Average FY24 Maturity Dimension Outcomes with FY23 for Comparison</span>
@@ -265,153 +265,152 @@ Below, the FY 24 outcomes are depicted in the chart below:
 
 The figure below demonstrates year over year (YOY) change as shown in the figure below.
 
-<div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px 30px 0px">
+<div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px 30px 0px">
   <div class="margin-top-1" aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1 padding-left-2">
   <!-- START CALLOUTS -->
 
+    <ul class="usa-card-group margin-bottom-205">
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+31%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Training</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+15%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Content Creation</strong></p>
+          </div>
+          <div class="tablet:grid-col center-left radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+25%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Communications</strong></p>
+          </div>
+          <div class="tablet:grid-col center-left radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+12%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>IT Accessibility Program Management</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+18%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Human Capital, Culture, and Leadership</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+4%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Acquisition and Procurement</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
+        <div class="callout-box-changes grid-row flex-no-wrap">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">+17%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div">
+            <p><strong>Testing and Validation</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+          </div>
+        </div>
+      </li>
+    </ul>
 
-<ul class="usa-card-group margin-bottom-205">
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+31%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Training</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+15%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Content Creation</strong></p>
-      </div>
-      <div class="tablet:grid-col center-left radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+25%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Communications</strong></p>
-      </div>
-      <div class="tablet:grid-col center-left radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+12%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>IT Accessibility Program Management</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+18%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Human Capital, Culture, and Leadership</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+4%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Acquisition and Procurement</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap margin-bottom-2">
-    <div class="callout-box-changes grid-row flex-no-wrap">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">+17%</div>
-        </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div">
-        <p><strong>Testing and Validation</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
-      </div>
-    </div>
-  </li>
-</ul>
+    <hr class="breaker-bar-green">
 
-<hr class="breaker-bar-green">
-
-<ul class="usa-card-group margin-bottom-1">
-  <li class="tablet:grid-col-6 flex-wrap">
-    <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">-7%</div>
+    <ul class="usa-card-group margin-bottom-1">
+      <li class="tablet:grid-col-6 flex-wrap">
+        <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">-7%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
+            <p><strong>Policies, Procedures, and Practices</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+          </div>
         </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
-        <p><strong>Policies, Procedures, and Practices</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-6 flex-wrap">
-    <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
-      <div class="center-middle">
-        <div class="spot-div">
-          <div class="spot-text">-7%</div>
+      </li>
+      <li class="tablet:grid-col-6 flex-wrap">
+        <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
+          <div class="center-middle">
+            <div class="spot-div">
+              <div class="spot-text">-7%</div>
+            </div>
+          </div>
+          <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
+            <p><strong>Technology Lifecycle Activities</strong></p>
+          </div>
+          <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+          </div>
         </div>
-      </div>
-      <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
-        <p><strong>Technology Lifecycle Activities</strong></p>
-      </div>
-      <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
-      </div>
-    </div>
-  </li>
-</ul>
+      </li>
+    </ul>
   <!-- END CALLOUT -->
   </div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-9"><strong>Figure 9.</strong> Percent Change YOY of Maturity Dimensions</span>
