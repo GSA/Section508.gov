@@ -34,7 +34,7 @@ Annual assessment reports are made available on this website in HTML or as a dow
         <li><a href="https://assets.section508.gov/files/reports/cr-2024/FY%2024%20Governmentwide%20Section%20508%20Assessment%20Report.pdf" target="_blank" class="usa-link--external">FY 24 Governmentwide Section 508 Assessment (PDF)</a></li>
         <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/assessment-data-downloads/">FY 24 Assessment Data & Downloads</a></li>
     </ul>
-    <p>Submitted to Congress and published on December 20, 2024</p>
+    <p>Submitted to Congress and published on December 19, 2024</p>
   </div>
 </div>
 
