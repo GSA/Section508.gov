@@ -3,20 +3,21 @@ layout: post
 permalink: blog/FY24-govwide-assessment/
 type: article
 title: 'General Services Administration's Latest Section 508 Assessment Highlights Federal Accessibility Progress and Challenges'
-tags: TPolicy-and-Management #choose one or more: Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
+tags: Policy-and-Management
 created: 2024-12-17
 description: The General Services Administration (GSA) recently released the FY24
 Governmentwide Section 508 Assessment, continuing an effort mandated by Congress to evaluate the accessibility of federal agencies&#39; digital content and compliance with Section 508 of the Rehabilitation Act.
-contributors:
-topic: Law (law)
-sub-topic: Reporting
+contributors: 
+topic: "Law (law)"
+sub-topic: "Accessibility Law & Policy"
 audience:
-- federal employee (fedemp)
-- 508 Program Manager (508pm)
-- Agency hHead (agency-head)
-- Chief Information Officer (cio)
-resource-type: Blog article (blog)
-format: HTML (html)
+- "Public (public)"
+- "Agency Head (head)"
+- "508 Program Manager (508pm)"
+- "Lawmakers and Policy Officials (law-policy)"
+- "Federal employee (fedemp)"
+resource-type: "Blog article (blog)"
+format: "HTML (html)"
 ---
 The General Services Administration (GSA) released the FY24 Governmentwide Section 508 Assessment on December 20, 2024, continuing an effort mandated by Congress— through the requirements in <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617/text">Public Law No. 117-328</a> codified at <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm">29 U.S.C. § 794d-1</a>— to evaluate the accessibility of federal agencies' digital content and compliance with Section 508 of the Rehabilitation Act. This annual report provides valuable insights regarding the ongoing efforts and accessibility-related improvements across federal agencies. The report also provides details on the accessibility of government websites, software, hardware and electronic content. This report helps Congress and agencies address gaps in information and communication technology (ICT) accessibility and work toward creating more accessible digital ICT for both public users and federal employees with disabilities.
 
@@ -31,5 +32,7 @@ The FY24 assessment includes numerous recommendations to Congress and agencies, 
 <li>Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d and 29 U.S.C. § 794d-1 - Electronic and Information Technology) to define agencies required to comply with the statute and adhere to Section 508 standards.<.li>
 </ul>
 
-How can you learn more? 
+<h2>How can you learn more?</h2>
 Read the <a href="https://www.section508.gov/manage/section-508-assessment/2024/message-from-gsa-administrator/">FY24 Governmentwide Section 508 Assessment</a> or contact the GSA Government-wide IT Accessibility Program at section.508@gsa.gov. 
+
+**Reviewed/Updated:** December 2024
