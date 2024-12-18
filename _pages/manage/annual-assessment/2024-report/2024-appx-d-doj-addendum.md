@@ -25,15 +25,15 @@ Section 752 of the Consolidated Appropriations Act of 2023 required GSA to submi
 
 Accordingly, the Department collaborated with GSA to ensure that the data collection and analysis highlighted in GSA’s report included information necessary for the Department’s biennial reporting obligation under Section 508.  The Department submits the information in this report in satisfaction of the obligation in <a href="https://www.govinfo.gov/app/details/USCODE-2011-title29/USCODE-2011-title29-chap16-subchapV-sec794d" target="_blank" class="usa-link--external">29 U.S.C. § 794d(d)(2)</a>. 
 
---- 
+<hr class="breaker-bar-green">
 
- <div>
-     <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
-     <ol start="1">
-         <li id="fn1"><a href="https://www.govinfo.gov/app/details/USCODE-2011-title29/USCODE-2011-title29-chap16-subchapV-sec794d" target="_blank" class="usa-link--external">29 U.S.C. § 794d(d)(2)</a>. <a href="#fr1" aria-label="Back to content">↩</a></li>
-         <li id="fn2">Department of Justice and General Services Administration, <a href="https://www.justice.gov/crt/page/file/1569331/dl?inline" target="_blank" class="usa-link--external">Section 508 Report to Congress and the President, Accessibility of Federal Electronic and Information Technology (Jan. 2023)</a>. <a href="#fr2" aria-label="Back to content">↩</a></li>
-         <li id="fn3"><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/#794d-1">29 U.S.C. § 794d-1</a>. <a href="#fr3" aria-label="Back to content">↩</a></li>
-     </ol>
- </div>
+<div>
+ <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+ <ol start="1">
+   <li id="fn1"><a href="https://www.govinfo.gov/app/details/USCODE-2011-title29/USCODE-2011-title29-chap16-subchapV-sec794d" target="_blank" class="usa-link--external">29 U.S.C. § 794d(d)(2)</a>. <a href="#fr1" aria-label="Back to content">↩</a></li>
+   <li id="fn2">Department of Justice and General Services Administration, <a href="https://www.justice.gov/crt/page/file/1569331/dl?inline" target="_blank" class="usa-link--external">Section 508 Report to Congress and the President, Accessibility of Federal Electronic and Information Technology (Jan. 2023)</a>. <a href="#fr2" aria-label="Back to content">↩</a></li>
+   <li id="fn3"><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/#794d-1" target="_blank" class="usa-link--external">29 U.S.C. § 794d-1</a>. <a href="#fr3" aria-label="Back to content">↩</a></li>
+ </ol>
+</div>
 
  **Reviewed/Updated**: December 2024

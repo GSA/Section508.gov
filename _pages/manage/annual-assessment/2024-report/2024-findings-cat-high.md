@@ -159,7 +159,7 @@ Those in the High-High overall performance category should consider a balanced a
 
 * 3 entities (50%) reported their Section 508 program either never (2 entities, 33%) or only sometimes but generally in an ad hoc manner provides Section 508 conformant information and associated resources to employees in response to an emergency, such as continuity of operations, active shooter, pandemic related, etc.
 
-* All entities reported 70% or more conformance (5 entities, 87%) of their top 10 internal intranet web pages were fully conformant, or do not have any intranet web pages (1 entity, 17%).
+* All entities reported 70% or more conformance (5 entities, 87%) of their top 10 internal intranet web pages were fully conformant, or do not have any intranet web pages (1 entity, 17%).<sup><a href="#fn36" id="fr36">36</a></sup>
 
 * 3 entities (50%) reported their Learning Management System conformed to 90% to 99% of Section 508 requirements. Two (33%) said their LMS conformed to 50% to 90% of requirements. The final entity reported they did not have an LMS.
 
@@ -168,9 +168,18 @@ Those in the High-High overall performance category should consider a balanced a
 ### Summary
 Those in the High-Very High overall performance category should consider a continuing process improvement that includes incremental improvements in the testing efforts and resourcing, while investing more in accessibility communication and Section 508 program efforts.
 
-<div id="prev-next-section">
+<div id="prev-next-section" class="padding-bottom-2">
     <a class="prev-page" title="Go to previous page" href="{{site.baseurl}}/manage/section-508-assessment/2024/findings/category-moderate/"> < Previous</a>
     <a class="prev-page" title="Go to next page" href="{{site.baseurl}}/manage/section-508-assessment/2024/findings/category-very-high/"> Next > </a>
+</div>
+
+<hr class="breaker-bar-green">
+
+<div>
+ <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
+ <ol start="36">
+   <li id="fn36">One at 70% conformance, one at 90% conformance, three at 100% conformance. <a href="#fr36" aria-label="Back to content">↩</a></li>
+ </ol>
 </div>
 
 **Reviewed/Updated**: December 2024

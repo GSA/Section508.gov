@@ -35,7 +35,7 @@ The following acronyms are used in this 2023 Assessment report to Congress. Defi
         <td>Accessibility Conformance Report</td>
     </tr>
     <tr>
-        <th scope="row" id="ADA"></th>
+        <th scope="row" id="ada">ADA</th>
         <td>Americans with Disabilities Act of 1990, as amended</td>
     </tr>
     <tr>

@@ -231,7 +231,7 @@ While no single test can answer all three questions, a combination of tests and 
       <td>Test for asymmetry</td>
       <td>Skewness</td>
       <td>N/A</td>
-      <td>Values between -0.5 to 0.5 denote approximate symmetry</td>
+      <td>Values between -0.5 to 0.5 denote approximate symmetry<sup><a href="#fn38" id="fr38">38</a></sup></td>
     </tr>
     <tr>
       <th scope="row">3</th>
@@ -363,8 +363,8 @@ The key metrics we used to evaluate the regressions were:
 
 <div>
     <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
-    <ol start="37">
-        <li id="fn37">As noted in <a href="{{site.baseurl}}manage/section-508-assessment/2023/background/#federal-law-and-policy-on-ict-accessibility">Federal Law and Policy on ICT Accessibility</a>. <a href="#fr37" aria-label="Back to content">↩</a></li>
+    <ol start="38">
+        <li id="fn38">A 0 denotes perfect symmetry or normal distribution of differences, which should be a rare outcome given our data. <a href="#fr38" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 
