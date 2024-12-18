@@ -254,7 +254,7 @@ The highest performing maturity outcome was Content Creation at 2.69, followed b
   </tbody>
 </table>
 
-Below, the FY 24 outcomes are depicted in the chart below:
+Below, the FY 24 outcomes are depicted in the chart:
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2024/figure-8.jpg" alt="Comparison bar chart showing average dimension outcomes YOY. Please see Table 8 for a table view of this data." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
@@ -263,7 +263,7 @@ Below, the FY 24 outcomes are depicted in the chart below:
    </div>
 </div>
 
-The figure below demonstrates year over year (YOY) change as shown in the figure below.
+The figure below demonstrates year over year (YOY) change:
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px 30px 0px">
   <div class="margin-top-1" aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1 padding-left-2">

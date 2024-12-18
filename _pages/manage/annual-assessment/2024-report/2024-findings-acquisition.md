@@ -223,8 +223,8 @@ As findings show in [Compliance Key Findings]({{site.baseurl}}/manage/section-50
     <ol start="31">
       <li id="fn31">Q57 and Q99 both ask about the inclusion of sufficient ICT requirements in solicitations. Data validation checks found a discrepancy in the number of entities who reported they don’t release solicitations in Q57 (6 entities) and in Q99 (40 entities). <a href="#fr31" aria-label="Back to content">↩</a></li>
       <li id="fn32">Three Section 508 exceptions require documentation, including a plan to ensure people with disabilities can access and use ICT by an alternative means that meets their needs: Fundamental Alteration [36 CFR 1194 E202.6], Undue Burden [36 CFR 1194 E202.6], and Best Meets [36 CFR 1194 E202.7]. <a href="#fr32" aria-label="Back to content">↩</a></li>
-      <li id="fn33">33 We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr33" aria-label="Back to content">↩</a></li>
-      <li id="fn34">34 We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr34" aria-label="Back to content">↩</a></li>
+      <li id="fn33">We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr33" aria-label="Back to content">↩</a></li>
+      <li id="fn34">We do not have enough information to know if the FY23 data was incorrectly reported, which could account for this significant decrease YOY. <a href="#fr34" aria-label="Back to content">↩</a></li>
     </ol>
 </div>
 
