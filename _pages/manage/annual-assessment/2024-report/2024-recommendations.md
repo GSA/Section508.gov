@@ -15,7 +15,7 @@ audience:
 resource-type: White paper
 format: HTML (html)
 ---
-## Assessment-Driven Recommendations
+## Recommendations
 Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d) and 29 U.S.C. § 794d-1 to include:
 
 * <strong>Definition of Agencies Subject to Section 508:</strong> Consider clearly defining which federal agencies are subject to Section 508. Confusion as to who should respond to this annual assessment stemmed from ambiguity as to who is subject to Section 508. Clarifying who should be following Section 508 standards will have numerous downstream impacts including the ability to enforce Section 508 compliance and identifying reporting requirements for this assessment.

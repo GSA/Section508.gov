@@ -24,7 +24,7 @@ Similar to last year, we still see a varied approach to verifying contract deliv
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
    <div class="margin-top-1"><img src="https://assets.section508.gov/files/reports/cr-2024/figure-19.jpg" alt="Bar chart showing YOY comparison of response count of approaches to verifying contract deliverables that are required to be Section 508 conformant (Q60), showing: 23 entities never verify down from 28 in FY23, 86 entities sometimes verify, down from 99 in FY23, 33 entities regularly verify down from 54 in FY23, 34 entities frequently verify up from 21 in FY23, 58 entities almost always verify up from 39 in FY23, and 11 did not know in FY24 compared to 8 in FY23." aria-describedby="figure-19" class="border-2px border-base-light shadow-2 padding-1">
    </div>
-   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-19"><strong>Figure 19:</strong> YOY comparison of response count of approaches to verifying contract deliverables that are required to be Section 508 conformant (Q60).</span>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-19"><strong>Figure 19:</strong> YOY comparison of response count of approaches to verifying contract deliverables (Q60).</span>
    </div>
 </div>
 
