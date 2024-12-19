@@ -418,7 +418,6 @@ Jennifer K. Cantilena - <jennifer.k.cantilena2@usdoj.gov>
 Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
 Armbrister Gowdy - <armbrister.gowdy@usdoj.gov>  
-Randy Abramson - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -693,7 +692,7 @@ Nicole Jacobs - <jacobsn@fca.gov>
 
 ---
 ### Federal Communication Commission (FCC)
-Rebecca Lovley - <rebecca.lovley@fcc.gov>  
+Chris Dizon - <chris.dizon@fcc.gov>  
 
 ---
 ### Federal Deposit Insurance Corporation (FDIC)
