@@ -110,7 +110,7 @@ The following terms are used in this 2023 Assessment report to Congress. Additio
   </tr>
   <tr>
       <th scope="row" id="criteria">Criteria</th>
-      <td>Refers to the 103 Assessment criteria (See <a href="https://assets.section508.gov/files/reports/cr-2024/FY24%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>) that reporting entities responded to, split into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
+      <td>Refers to the 103 Assessment criteria (See <a href="https://assets.section508.gov/files/reports/cr-2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>) that reporting entities responded to, split into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
   </tr>
   <tr>
       <th scope="row" id="dimension">Dimension</th>
