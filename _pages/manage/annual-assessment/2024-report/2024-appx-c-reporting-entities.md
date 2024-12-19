@@ -230,7 +230,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=OFR" title="Entity only reported data in FY24">Office of Financial Research (OFR)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=TREASOIG">Office of Inspector General (TREASOIG)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=OCC">Office of the Comptroller of the Currency (OCC)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SIGTARP" title="Entity only reported data in FY24">Special Inspector General for Pandemic Recovery (SIGPR)*</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=SIGPR" title="Entity only reported data in FY24">Special Inspector General for Pandemic Recovery (SIGPR)*</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=TIGTA">Treasury Inspector General for Tax Administration (TIGTA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MINT">United States Mint (MINT)</a></li>
 </ol>
