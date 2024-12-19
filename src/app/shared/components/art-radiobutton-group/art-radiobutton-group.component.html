@@ -1,6 +1,8 @@
 <div [formGroup]="formGroup" [hidden]="hidden">
   <div class="margin-bottom-2">
-    <h3>{{ formData?.title }}</h3>
+    <h3 id="{{ formData?.controlName }}">
+      {{ formData?.title }}
+    </h3>
   </div>
   <fieldset class="usa-fieldset">
     <p *ngIf="formData?.label" class="usa-legend margin-y-0">

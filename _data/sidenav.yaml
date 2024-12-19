@@ -13,8 +13,6 @@ manage:
         grandchildren:
           - name: Accessibility Roles
             url: manage/roles/
-          - name: Improve Digital Dashboard Accessibility Scores
-            url: manage/improve-digital-dashboard-scores/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
           - name: Teach Staff about Accessibility
