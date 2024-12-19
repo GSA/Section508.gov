@@ -22,7 +22,7 @@ The Assessment continued to ask questions about outcome-based results to determi
       <div class="tablet:grid-col">
         <ul class="usa-icon-list">
           <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
             <div class="usa-icon-list__content">
               Respondents selected how often their Section 508 program engages internally or externally with disability- related affinity groups to inform ICT accessibility program maturity. The majority of respondents, 132 respondents or 54%, selected they sometimes or never engage with disability-related affinity groups. Seventy- seven (77) respondents or 31% noted they sometimes, regularly, or frequently engage.
             </div>
@@ -51,7 +51,7 @@ The FY24 Assessment asked a new question to better understand how many entities 
       <div class="tablet:grid-col">
         <ul class="usa-icon-list">
           <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
             <div class="usa-icon-list__content">
               <h3 class="usa-icon-list__title">M-24-08 covers the following pillars of building and sustaining accessible federal technology:</h3>
               <ul class="list-item-spacer" style="padding:15px">

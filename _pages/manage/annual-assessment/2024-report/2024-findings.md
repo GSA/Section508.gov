@@ -57,7 +57,7 @@ Overall, across the federal government, the average digital accessibility confor
             Conformance from 1.79 down to 1.74</p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_downward"></use></svg>
           </div>
         </div>
         <!-- END CALLOUT -->
@@ -96,7 +96,7 @@ Overall, across the federal government, the average digital accessibility confor
             Maturity from 2.17 down to 2.37</p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_downward"></use></svg>
           </div>
         </div>
         <!-- END CALLOUT -->

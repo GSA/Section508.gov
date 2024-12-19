@@ -70,7 +70,7 @@ The Assessment continued to ask entities to report on the outcomes of accessibil
             <div class="tablet:grid-col">
               <ul class="usa-icon-list">
                 <li class="usa-icon-list__item">
-                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
                     Of the 117 entities who reported data both years regarding testing of public internet websites, 46 reported improved conformance YOY, 45 reported a decrease in conformance YOY, and 26 reported the same level of conformance with 10 maintaining 100% conformance, 5 maintaining 0% conformance and 11 maintaining their conformance ranging between 40% and 99%.<sup><a href="#fnA" id="frA">a</a></sup>
                   </div>
@@ -96,7 +96,7 @@ The low numbers reported do not align with M-24-08 guidance nor FY23 Assessment 
             <div class="tablet:grid-col">
               <ul class="usa-icon-list">
                 <li class="usa-icon-list__item">
-                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
                     Of the 60 entities who reported data both years regarding testing of internal intranet websites, 20 reported improved conformance YOY, 22 reported a decrease in conformance YOY, and 18 reported the same level of conformance with 5 maintaining 100% conformance, 6 maintaining 0% conformance, and 7 maintaining their conformance ranging between 14% and 93%.<sup><a href="#fnB" id="frB">b</a></sup>
                   </div>
@@ -293,7 +293,7 @@ Several possible reasons for a decrease in the number of entities who tested int
             <div class="tablet:grid-col">
               <ul class="usa-icon-list">
                 <li class="usa-icon-list__item">
-                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
                     <strong>Top five defects found in internet and intranet web page in FY24 (same as last year):</strong> 
                     <ul class="list-item-spacer" style="padding:15px">
@@ -324,7 +324,7 @@ Several possible reasons for a decrease in the number of entities who tested int
             <div class="tablet:grid-col">
               <ul class="usa-icon-list">
                 <li class="usa-icon-list__item">
-                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
                     <strong>For the top electronic documents tested, the top five defects found were the same as FY23:</strong>
                     <ul style="padding:15px">

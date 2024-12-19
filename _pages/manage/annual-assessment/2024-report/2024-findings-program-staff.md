@@ -28,7 +28,7 @@ format: "HTML (html)"
           <div class="tablet:grid-col">
             <ul class="usa-icon-list">
               <li class="usa-icon-list__item">
-                <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                 <div class="usa-icon-list__content">
                   Please note that the terms “reporting entity” and “respondent” are not synonymous with “agencies” as used in M-24- 08. Components are not required to implement M-24- 08 independently from their parent agency, so may not have their own Section 508 PM or equivalent.
                 </div>

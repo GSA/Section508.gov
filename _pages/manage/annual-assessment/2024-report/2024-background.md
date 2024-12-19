@@ -27,7 +27,7 @@ Since the publication of the FY23 Assessment in December 2023, the federal gover
       <div class="tablet:grid-col">
         <ul class="usa-icon-list">
           <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
             <div class="usa-icon-list__content">
               <h3 class="usa-icon-list__title">M-24-08 covers the following pillars of building and sustaining accessible federal technology:</h3>
               <ul class="list-item-spacer" style="padding:15px">
@@ -52,7 +52,7 @@ Since the publication of the FY23 Assessment in December 2023, the federal gover
       <div class="tablet:grid-col">
         <ul class="usa-icon-list">
           <li class="usa-icon-list__item">
-            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+            <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
             <div class="usa-icon-list__content">
               <h3 class="usa-icon-list__title">M-24-08 covers the following pillars of building and sustaining accessible federal technology:</h3>
               <ul class="list-item-spacer" style="padding:15px">

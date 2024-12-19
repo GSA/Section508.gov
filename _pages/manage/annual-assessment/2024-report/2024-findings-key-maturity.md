@@ -281,7 +281,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Training</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -296,7 +296,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Content Creation</strong></p>
           </div>
           <div class="tablet:grid-col center-left radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -311,7 +311,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Communications</strong></p>
           </div>
           <div class="tablet:grid-col center-left radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -326,7 +326,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>IT Accessibility Program Management</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -341,7 +341,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Human Capital, Culture, and Leadership</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -356,7 +356,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Acquisition and Procurement</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -371,7 +371,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Testing and Validation</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_upward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
       </li>
@@ -391,7 +391,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Policies, Procedures, and Practices</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_downward"></use></svg>
           </div>
         </div>
       </li>
@@ -406,7 +406,7 @@ The figure below demonstrates year over year (YOY) change:
             <p><strong>Technology Lifecycle Activities</strong></p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#arrow_downward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_downward"></use></svg>
           </div>
         </div>
       </li>

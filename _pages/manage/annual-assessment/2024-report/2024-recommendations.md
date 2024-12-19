@@ -45,7 +45,7 @@ Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)
             <div class="tablet:grid-col">
               <ul class="usa-icon-list">
                 <li class="usa-icon-list__item">
-                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg></div>
+                  <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg></div>
                   <div class="usa-icon-list__content">
                     For example, the Department of Veterans Affairs (VA) integrated Section 508 compliance into the VA Federal Information Technology Acquisition Reform Act (FITARA) approval process, bringing awareness to senior leadership and product owners in the procurement phase.
                   </div>
