@@ -40,6 +40,8 @@ manage:
             url: manage/support-accessible-content/
           - name: Understand Content Scope and Technical Requirements
             url: manage/understand-scope-technical-requirements/
+      - name: Organizational IT Accessibility Key Performance Indicators (KPI)
+        url: manage/accessibility-kpi/
       - name: Join the 508 community
         url: manage/join-the-508-community/
       - name: Find your Program Manager
@@ -698,3 +700,81 @@ report2023:
         url: 'manage/section-508-assessment/2023/appendix-d-reporting-entities/'
   - name: 'Assessment Data & Downloads'
     url:  'manage/section-508-assessment/2023/assessment-data-downloads/'
+# Custom SideNav for Each Accessibility Report to Congress
+report2024:
+  - name: 'Message from the GSA Administrator'
+    url: 'manage/section-508-assessment/2024/message-from-gsa-administrator/'
+  - name: 'Executive Summary'
+    url: 'manage/section-508-assessment/2024/executive-summary/'
+  - name: 'Introduction'
+    url: 'manage/section-508-assessment/2024/introduction/'
+  - name: 'Background'
+    url: 'manage/section-508-assessment/2024/background/'
+  - name: Governmentwide Findings and Category-level Findings & Recommendations
+    url: '#'
+    children:
+      - name: 'Findings Summary'
+        url: 'manage/section-508-assessment/2024/findings/summary/'
+      - name: 'Governmentwide Findings'
+        url: '#'
+        grandchildren:
+          - name: 'Compliance Key Findings'
+            url: 'manage/section-508-assessment/2024/findings/compliance-dimension/'
+          - name: 'Maturity Key Findings'
+            url: 'manage/section-508-assessment/2024/findings/maturity-dimension/'
+          - name: 'Section 508 Program and Staff Analysis Summary'
+            url: 'manage/section-508-assessment/2024/findings/program-staff/'
+          - name: 'Section 508 Program'
+            url: 'manage/section-508-assessment/2024/findings/accessibility-program/'
+          - name: 'Accessibility Conformance Testing and Technology Lifecycle'
+            url: 'manage/section-508-assessment/2024/findings/testing-lifecycle/'
+          - name: 'Acquisition and Procurement'
+            url: 'manage/section-508-assessment/2024/findings/acquisition/'
+          - name: 'Complaints'
+            url: 'manage/section-508-assessment/2024/findings/complaints/'
+      - name: 'Overall Performance Category Findings and Recommendations (For Each Maturity - Conformance Category)'
+        url: '#'
+        grandchildren:
+          - name: Overview
+            url: 'manage/section-508-assessment/2024/findings/category-overview/' 
+          - name: Very Low Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-very-low/'
+          - name: Low Maturity Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-low/'
+          - name: Moderate Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-moderate/'
+          - name: High Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-high/'
+          - name: Very High Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-very-high/'
+  - name: Recommendations
+    url: 'manage/section-508-assessment/2024/recommendations/'
+  - name: 'Recent and Upcoming GSA Efforts to Improve Section 508 Compliance'
+    url: '#'            
+    children:
+      - name: 'Recent GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2024/gsa-efforts-recent/'
+      - name: 'Upcoming GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2024/gsa-efforts-upcoming/'
+  - name: 'Observations and Acknowledgements'
+    url: 'manage/section-508-assessment/2024/observations/'
+  - name: 'Appendix A: Terms, Definitions, and Acronyms'
+    url: '#'            
+    children:
+      - name: 'Terms and Definitions'
+        url: 'manage/section-508-assessment/2024/appendix-a-terms/'
+      - name: 'Acronyms List'
+        url: 'manage/section-508-assessment/2024/appendix-a-acronyms/'
+  - name: 'Appendix B: Methods'
+    url: 'manage/section-508-assessment/2024/appendix-b-methods/'
+  - name: 'Appendix C: Overview Data By Reporting Entity'
+    url: '#'            
+    children:
+      - name: 'Overview'
+        url: 'manage/section-508-assessment/2024/appendix-c-overview/'
+      - name: 'Departments and Large Agencies'
+        url: 'manage/section-508-assessment/2024/appendix-c-reporting-entities/'
+  - name: 'Appendix D: U.S. Department of Justice Addendum'
+    url: 'manage/section-508-assessment/2024/appendix-d-doj-addendum/'
+  - name: 'Assessment Data & Downloads'
+    url:  'manage/section-508-assessment/2024/assessment-data-downloads/'
