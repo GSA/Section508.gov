@@ -315,7 +315,7 @@ Note: Board of Veterans Appeals (BVA), National Cemetery Administration (NCA), V
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CFPB">Consumer Financial Protection Bureau (CFPB)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CPSC">Consumer Product Safety Commission (CPSC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CNCS">Corporation for National and Community Service (CNCS)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=COSA" title="Entity only reported data in FY24">Court Services and Offender Supervision Agency (COSA)</a>*</li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=CSOSA" title="Entity only reported data in FY24">Court Services and Offender Supervision Agency (CSOSA)</a>*</li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DNFSB" title="Entity only reported data in FY24">Defense Nuclear Facilities Safety Board (DNFSB)</a>*</li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DRA">Delta Regional Authority (DRA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=EAC">Election Assistance Commission (EAC)</a></li>

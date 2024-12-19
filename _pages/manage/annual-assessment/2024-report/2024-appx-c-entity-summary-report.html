@@ -48,7 +48,7 @@ format: "HTML (html)"
         <div style="border:1px;">
           <div class="text-primary-darker" style="font-size: 1.12em;"><strong>Maturity: <span id="m-index"></span> | Conformance: <span id="c-index"></span></strong></div>
           <div class="text-primary-darker padding-top-0 padding-bottom-0"><strong>Recommendations for <span id="m-index-rec"></span> Maturity, <span id="c-index-rec"></span> Conformance:</strong></div>
-          <div class="print-text padding-bottom-1">{{ entity.rec_text }}</div>
+          <div class="print-text padding-bottom-1" id="rec_text"></div>
         </div>
       </div>
       <div class="grid-col-2 margin-y-2px">
@@ -327,6 +327,8 @@ format: "HTML (html)"
           document.getElementById("m-index-rec").innerText = entity_data[i].m_index;
           document.getElementById("c-index").innerText = entity_data[i].c_index;
           document.getElementById("c-index-rec").innerText = entity_data[i].c_index;
+          document.getElementById("rec_text").innerText = entity_data[i].rec_text;
+          
 
           //Set grid index src URL
           const gIndex = "https://assets.section508.gov/files/images/assessment-grid/fy24/Agency_" + entity_data[i].unique_ID + ".svg";
