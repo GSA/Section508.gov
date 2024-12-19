@@ -21,8 +21,8 @@ format: "HTML (html)"
 <div class="new-entity">
   <!-- Entity Seal and Name -->
   <div class="grid-container padding-x-0 margin-bottom-0">
-    <div class="grid-row padding-x-auto margin-bottom-neg-1px margin-right-neg-1px" id="entity-banner" style="background-image: url('https://assets.section508.gov/files/images/EntityBannerBackground.png'); background-position: right; background-repeat: no-repeat; background-size: contain;">
-      <div class="grid-col-auto margin-y-1 padding-x-2">
+    <div class="grid-row padding-x-auto margin-bottom-neg-1px margin-right-neg-1px" id="entity-banner">
+      <div class="tablet:grid-col-auto margin-y-1 padding-x-2">
         <div>
           <img id="entity-seal" src="" height="100px" alt="Administration for Community Living logo">
         </div>
@@ -39,8 +39,8 @@ format: "HTML (html)"
 
     <!-- Overall Performance -->
     <div class="grid-row padding-x-auto margin-y-0">
-      <div class="grid-col-fill font-sans-lg text-white" style="background-color: #1A3D6D;">
-        <h5 class="margin-y-05 font-sans-lg" style="text-align: center; line-height:normal;">Overall Performance</h5>
+      <div class="tablet:grid-col-fill font-sans-lg text-white" style="background-color: #1A3D6D;">
+        <h3 class="margin-y-05 font-sans-lg" style="text-align: center; line-height:normal;">Overall Performance</h3>
       </div>
     </div>
     <div class="grid-row padding-x-auto" style="background-color: #D9E8F6;">
@@ -48,10 +48,10 @@ format: "HTML (html)"
         <div style="border:1px;">
           <div class="text-primary-darker" style="font-size: 1.12em;"><strong>Maturity: <span id="m-index"></span> | Conformance: <span id="c-index"></span></strong></div>
           <div class="text-primary-darker padding-top-0 padding-bottom-0"><strong>Recommendations for <span id="m-index-rec"></span> Maturity, <span id="c-index-rec"></span> Conformance:</strong></div>
-          <div class="print-text padding-bottom-1" id="rec_text"></div>
+          <div class="print-text padding-bottom-1"><span id="rec-text"></span></div>
         </div>
       </div>
-      <div class="grid-col-2 margin-y-2px">
+      <div class="tablet:grid-col-2 margin-y-2px">
         <div class="margin-x-auto padding-05">
           <img id="grid-index" class="bg-white border border-primary-dark padding-x-05" src="" height="100px" width="125px" alt="">
         </div>
@@ -66,8 +66,8 @@ format: "HTML (html)"
   <!-- Program Highlights and Maturity Outcomes -->
   <div class="grid-container padding-x-0 margin-bottom-0">
     <div class="grid-row padding-x-auto margin-bottom-neg-1px margin-right-neg-1px" id="highlight-outcomes">
-      <div class="grid-col-6 margin-bottom-1 padding-left-0 padding-right-1">
-        <h5 class="font-sans-lg text-primary-dark text-center margin-y-1 padding-bottom-05 border-bottom-05" style="line-height: normal; border-color: #8BC86D;">Program Highlights</h5>
+      <div class="tablet:grid-col-6 margin-bottom-1 padding-left-0 padding-right-1">
+        <h3 class="font-sans-lg text-primary-dark text-center margin-y-1 padding-bottom-05 border-bottom-05" style="line-height: normal; border-color: #8BC86D;">Program Highlights</h3>
         <div>
           <ul class="margin-top-05">
             <li class="print-text margin-y-1">Q42: <span id="highlight-1"></span></li>
@@ -86,8 +86,8 @@ format: "HTML (html)"
                   <div class="margin-x-auto text-center margin-top-1 fte-text">Section 508 Program Contractor FTE</div>
                 </div>
               </div>
-              <div>
-                <div class="margin-x-auto text-center table:grid-col-1">
+              <div class="margin-x-auto text-center grid-col-fill tablet:grid-col-1">
+                <div>
                   <div style="font-size: 2em; font-weight:bold; color:#1A3D6D;">+</div>
                 </div>
               </div>
@@ -97,8 +97,8 @@ format: "HTML (html)"
                   <div class="margin-x-auto text-center margin-top-1 fte-text">Section 508 Program Federal FTE</div>
                 </div>
               </div>
-              <div>
-                <div class="margin-x-auto text-center table:grid-col-1">
+              <div class="margin-x-auto text-center grid-col-fill tablet:grid-col-1">
+                <div>
                   <div style="font-size: 2em; font-weight:bold; color:#1A3D6D;">=</div>
                 </div>
               </div>
@@ -110,10 +110,10 @@ format: "HTML (html)"
               </div>
             </div>
             <div class="grid-row margin-top-1 padding-top-05 border-top-2px" style="border-color: #1A3D6D;">
-              <div class="grid-col-1 margin-x-auto text-center">
+              <div class="tablet:grid-col-1 margin-x-auto text-center">
                 <strong><span class="margin-x-auto text-primary-darker" id="pm-hours" style="font-size: 2em; color:#1A3D6D;"></span></strong>
               </div>
-              <div class="grid-col-10 margin-x-auto text-center margin-top-1">
+              <div class="tablet:grid-col-10 margin-x-auto text-center margin-top-1">
                 <div class="print-text">Hours per week spent by 508 PM vs avg. <span id="maturity-avg-hours"></span> hours for <span id="hours-maturity"></span> Maturity respondents</div>
               </div>
             </div>
@@ -121,8 +121,8 @@ format: "HTML (html)"
         </div>
       </div>
       <!-- Maturity Outcomes -->
-      <div class="grid-col-6 margin-bottom-1 padding-left-1 padding-right-0">
-        <h5 class="font-sans-lg text-primary-dark text-center margin-y-1 padding-bottom-05 border-bottom-05" style="line-height: normal; border-color: #8BC86D;">Maturity Outcomes</h5>
+      <div class="tablet:grid-col-6 margin-bottom-1 padding-right-0">
+        <h3 class="font-sans-lg text-primary-dark text-center margin-y-1 padding-bottom-05 border-bottom-05" style="line-height: normal; border-color: #8BC86D;">Maturity Outcomes</h3>
         <table class="usa-table usa-table--borderless thead-blue margin-y-1 dimensions-table">
         <!-- <caption>Table A1. List of terms and definitions.</caption> -->
           <thead>
@@ -189,8 +189,8 @@ format: "HTML (html)"
   </div>
 
   <!-- How Conformant is ICT? -->
-  <h5 class="font-sans-lg text-primary-dark margin-top-neg-2 margin-bottom-1 border-bottom-05 padding-bottom-05" style="border-color: #8BC86D; line-height: normal;">How Conformant is ICT?</h5>
-  <table id="full-conform" class="usa-table usa-table--borderless margin-y-1" style="width: 100%;">
+  <h3 class="font-sans-lg text-primary-dark margin-top-neg-2 margin-bottom-1 border-bottom-05 padding-bottom-05" style="border-color: #8BC86D; line-height: normal;">How Conformant is ICT?</h3>
+  <table id="full-conform" class="usa-table usa-table--borderless margin-y-1 display-none tablet:display-block" style="width: 100%;">
     <thead>
         <tr class="table-row-blue">
             <th scope="col" style="color: #fff; text-align: center;">Res. System</th>
@@ -220,12 +220,66 @@ format: "HTML (html)"
         </tr>
     </tbody>
   </table>
+  <!-- For Mobile Display - splitting table into two tables -->
+  <table id="full-conform-2" class="usa-table usa-table--borderless margin-y-1 tablet:display-none" style="width: 100%;">
+    <thead>
+        <tr class="table-row-blue">
+            <th scope="col" style="color: #fff; text-align: center;">Res. System</th>
+            <th scope="col" style="color: #fff; text-align: center;">Survey Tool</th>
+            <th scope="col" style="color: #fff; text-align: center;">Surveys</th>
+            <th scope="col" style="color: #fff; text-align: center;">Chat</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="border-bottom: 0;">
+            <td style="text-align:center;" id="res-2"></td>
+            <td style="text-align:center;" id="survey-tool-2"></td>
+            <td style="text-align:center;" id="survey-2"></td>
+            <td style="text-align:center;" id="chat-2"></td>
+
+        </tr>
+    </tbody>
+  </table>
+  <table id="full-conform-3" class="usa-table usa-table--borderless margin-y-1 tablet:display-none" style="width: 100%;">
+    <thead>
+        <tr class="table-row-blue">
+          <th scope="col" style="color: #fff; text-align: center;">LMS</th>  
+          <th scope="col" style="color: #fff; text-align: center;">ICT Policy</th>
+          <th scope="col" style="color: #fff; text-align: center;">Video Player</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="border-bottom: 0;">
+          <td style="text-align:center;" id="lms-2"></td>
+          <td style="text-align:center;" id="ict-policy-2"></td>
+          <td style="text-align:center;" id="video-player-2"></td>
+        </tr>
+    </tbody>
+  </table>
+  </table>
+  <table id="full-conform-4" class="usa-table usa-table--borderless margin-y-1 tablet:display-none" style="width: 100%;">
+    <thead>
+        <tr class="table-row-blue">
+            <th scope="col" style="color: #fff; text-align: center;">Fillable Form</th>
+            <th scope="col" style="color: #fff; text-align: center;">FY25 CJ</th>
+            <th scope="col" style="color: #fff; text-align: center;">Perf. Portal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="border-bottom: 0;">
+            <td style="text-align:center;" id="form-2"></td>
+            <td style="text-align:center;" id="cj-2"></td>
+            <td style="text-align:center;" id="portal-2"></td>
+        </tr>
+    </tbody>
+  </table>
 
   <!-- ICT Testing Outcomes -->
-  <h5 class="font-sans-lg text-primary-dark margin-top-1 margin-bottom-0 border-bottom-05 padding-bottom-05" style="border-color: #8BC86D; line-height: normal;">ICT Testing Outcomes</h5>
+  <h3 class="font-sans-lg text-primary-dark margin-top-1 margin-bottom-0 border-bottom-05 padding-bottom-05" style="border-color: #8BC86D; line-height: normal;">ICT Testing Outcomes</h3>
   <div class="grid-container margin-x-0 padding-x-0">
     <div class="grid-row">
-      <div class="grid-col-4 padding-right-1">
+      <div class="tablet:grid-col-4 padding-right-1">
         <table class="usa-table usa-table--borderless margin-y-1">
           <thead>
             <tr class="table-row-blue">
@@ -248,8 +302,8 @@ format: "HTML (html)"
           </tbody>
         </table>
       </div>
-      <div class="grid-col-8 padding-left-1">
-        <table class="usa-table usa-table--borderless margin-y-1">
+      <div class="tablet:grid-col-8 tablet:padding-left-1">
+        <table class="usa-table usa-table--borderless margin-y-1 display-none tablet:display-block">
           <thead>
             <tr class="table-row-blue">
               <th scope="col" style="color:#fff">Top Viewed ICT</th>
@@ -273,6 +327,48 @@ format: "HTML (html)"
               <td id="fy23-top-internet"></td>
               <td id="fy23-top-docs"></td>
               <td id="fy23-top-videos"></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="usa-table usa-table--borderless margin-y-1 tablet:display-none">
+          <thead>
+            <tr class="table-row-blue">
+              <th scope="col" style="color:#fff">Top Viewed ICT</th>
+              <th scope="col" style="color:#fff">Internal Intranet</th>
+              <th scope="col" style="color:#fff">Public Internet</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">FY24</th>
+              <td id="fy24-top-intranet-2"></td>
+              <td id="fy24-top-internet-2"></td>
+            </tr>
+            <tr>
+              <th scope="row">FY23</th>
+              <td id="fy23-top-intranet-2"></td>
+              <td id="fy23-top-internet-2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="usa-table usa-table--borderless margin-y-1 tablet:display-none">
+          <thead>
+            <tr class="table-row-blue">
+              <th scope="col" style="color:#fff">Top Viewed ICT</th>
+              <th scope="col" style="color:#fff">Public Electronic Documents</th>
+              <th scope="col" style="color:#fff">Public Videos</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">FY24</th>
+              <td id="fy24-top-docs-2"></td>
+              <td id="fy24-top-videos-2"></td>
+            </tr>
+            <tr>
+              <th scope="row">FY23</th>
+              <td id="fy23-top-docs-2"></td>
+              <td id="fy23-top-videos-2"></td>
             </tr>
           </tbody>
         </table>
@@ -327,8 +423,7 @@ format: "HTML (html)"
           document.getElementById("m-index-rec").innerText = entity_data[i].m_index;
           document.getElementById("c-index").innerText = entity_data[i].c_index;
           document.getElementById("c-index-rec").innerText = entity_data[i].c_index;
-          document.getElementById("rec_text").innerText = entity_data[i].rec_text;
-          
+          document.getElementById("rec-text").innerText = entity_data[i].rec_text;
 
           //Set grid index src URL
           const gIndex = "https://assets.section508.gov/files/images/assessment-grid/fy24/Agency_" + entity_data[i].unique_ID + ".svg";
@@ -421,6 +516,17 @@ format: "HTML (html)"
           document.getElementById("form").innerHTML = entity_data[i].ict_form;
           document.getElementById("cj").innerHTML = entity_data[i].ict_cj;
           document.getElementById("portal").innerHTML = entity_data[i].ict_portal;
+          //How Conformant is ICT? - Mobile
+          document.getElementById("res-2").innerHTML = entity_data[i].ict_reservation;
+          document.getElementById("survey-tool-2").innerHTML = entity_data[i].ict_survey_tool;
+          document.getElementById("survey-2").innerHTML = entity_data[i].ict_survey;
+          document.getElementById("chat-2").innerHTML = entity_data[i].ict_chat;
+          document.getElementById("lms-2").innerHTML = entity_data[i].ict_lms;
+          document.getElementById("ict-policy-2").innerHTML = entity_data[i].ict_policy;
+          document.getElementById("video-player-2").innerHTML = entity_data[i].ict_video_player;
+          document.getElementById("form-2").innerHTML = entity_data[i].ict_form;
+          document.getElementById("cj-2").innerHTML = entity_data[i].ict_cj;
+          document.getElementById("portal-2").innerHTML = entity_data[i].ict_portal;
   
           //ICT Testing Outcomes
           //All Web Pages
@@ -443,6 +549,18 @@ format: "HTML (html)"
           //Videos
           document.getElementById("fy24-top-videos").innerHTML = entity_data[i].ict_outcomes_fy24_top_videos;
           document.getElementById("fy23-top-videos").innerHTML = entity_data[i].ict_outcomes_fy23_top_videos;
+          //Internal Intranet Mobile
+          document.getElementById("fy24-top-intranet-2").innerHTML = entity_data[i].ict_outcomes_fy24_top_intranet;
+          document.getElementById("fy23-top-intranet-2").innerHTML = entity_data[i].ict_outcomes_fy23_top_intranet;
+          //Public Internet
+          document.getElementById("fy24-top-internet-2").innerHTML = entity_data[i].ict_outcomes_fy24_top_internet;
+          document.getElementById("fy23-top-internet-2").innerHTML = entity_data[i].ict_outcomes_fy23_top_internet;
+          //Electronic Documents
+          document.getElementById("fy24-top-docs-2").innerHTML = entity_data[i].ict_outcomes_fy24_top_docs;
+          document.getElementById("fy23-top-docs-2").innerHTML = entity_data[i].ict_outcomes_fy23_top_docs;
+          //Videos
+          document.getElementById("fy24-top-videos-2").innerHTML = entity_data[i].ict_outcomes_fy24_top_videos;
+          document.getElementById("fy23-top-videos-2").innerHTML = entity_data[i].ict_outcomes_fy23_top_videos;
         }
       }
     } else {
