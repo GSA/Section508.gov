@@ -93,10 +93,10 @@ Overall, across the federal government, the average digital accessibility confor
           </div>
           <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
             <p><strong>M-Index Change YoY</strong><br>
-            Maturity from 2.17 down to 2.37</p>
+            Maturity from 2.17 up to 2.37</p>
           </div>
           <div class="tablet:grid-col center-middle radius-right-lg arrow-div" style="background-color:#E0F2EB; color:#538100;">
-            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_downward"></use></svg>
+            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_upward"></use></svg>
           </div>
         </div>
         <!-- END CALLOUT -->
