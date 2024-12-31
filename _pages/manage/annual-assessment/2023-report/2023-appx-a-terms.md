@@ -145,7 +145,6 @@ The following terms are used in this 2023 Assessment report to Congress. Additio
     <tr>
         <th scope="row" id="reporting-entity">Reporting Entity</th>
         <td>
-            <p>Reporting entity denotes a respondent to the Assessment. This report uses the term "reporting entity" rather than "agency" or "component" as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. Thus, reporting entities are loosely based on:</p>
             <p>Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. Thus, reporting entities are loosely based on:</p>
             <p>“Agency,” which broadly applied to organizational components such as bureau, office, component, or at the department level (e.g., headquarters).</p>
             <p>“Component,” which broadly applies to an organizational unit below (usually one level) a Department or large agency enterprise level. For example:</p>
