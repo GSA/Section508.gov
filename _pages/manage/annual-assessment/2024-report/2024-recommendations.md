@@ -25,11 +25,11 @@ Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)
 
 <strong>Address Duplicative Digital Accessibility Reporting Requirements:</strong> To prevent duplication and reduce agency burden, Congress may consider clarifying reporting requirements, including the scope of the DOJ biennial report.
 
-<strong>Target Accessibility of High-Use Software:</strong> 1.  Congress may continue to consider conducting oversight efforts of major ICT providers to the federal government to determine how to improve accessibility of high-use products. As noted in [Table 4 showcasing response count for Section 508 conformance of ICT products]({{site.baseurl}}/manage/section-508-assessment/2024/findings/compliance-dimension/#table-4), key ICT used both by federal government employees and the public do not fully conform to the Section 508 standards. As agencies universally use office productivity applications, survey tools, and other mainstream IT products, promoting standard Section 508-conformant solutions would enhance ICT accessibility throughout the government.
+<strong>Target Accessibility of High-Use Software:</strong> Congress may continue to consider conducting oversight efforts of major ICT providers to the federal government to determine how to improve accessibility of high-use products. As noted in [Table 4 showcasing response count for Section 508 conformance of ICT products]({{site.baseurl}}/manage/section-508-assessment/2024/findings/compliance-dimension/#table-4), key ICT used both by federal government employees and the public do not fully conform to the Section 508 standards. As agencies universally use office productivity applications, survey tools, and other mainstream IT products, promoting standard Section 508-conformant solutions would enhance ICT accessibility throughout the government.
 
 <div class="grid-row">
     <div class="desktop:grid-col-7 tablet:grid-col-6 mobile-lg-12">
-    <strong>Require section 508 as a Major Factor in Acquisition: </strong> As many respondents still do not consistently include Section 508 requirements in solicitations, <strong>Chief Acquisition Officers, CIOs, and Heads of Agencies</strong> should: 
+    <strong>Require Section 508 as a Major Factor in Acquisition: </strong> As many respondents still do not consistently include Section 508 requirements in solicitations, <strong>Chief Acquisition Officers, CIOs, and Heads of Agencies</strong> should: 
     <ul>
       <li class="list-item-spacer">Develop and implement policies that integrate ICT accessibility into all ICT acquisition activities.</li
       >
@@ -58,7 +58,7 @@ Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)
     </div>
 </div>
 
-**Increase Oversight of Section 508:** [Better resourced reporting entities tend to have better conformance outcomes]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#section-508-full-time-equivalents-ftes) and [reporting entities noted that a lack of budget or funding was a major challenge]({{site.baseurl}}/manage/section-508-assessment/2024/findings/accessibility-program/). Since additional funding to aid Section 508 implementation is a key factor for helping implement digital accessibility, **agency Chief Information Officers (CIO) or equivalents** should consider appropriately resourcing their Section 508 programs and ensure Section 508 program resourcing is explicitly included in budget requests.
+**Ensure Sufficient Section 508 Program Resourcing:** [Better resourced reporting entities tend to have better conformance outcomes]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#section-508-full-time-equivalents-ftes) and [reporting entities noted that a lack of budget or funding was a major challenge]({{site.baseurl}}/manage/section-508-assessment/2024/findings/accessibility-program/). Since additional funding to aid Section 508 implementation is a key factor for helping implement digital accessibility, **agency Chief Information Officers (CIO) or equivalents** should consider appropriately resourcing their Section 508 programs and ensure Section 508 program resourcing is explicitly included in budget requests.
 
 **Incorporate Section 508 Throughout the Technology Lifecycle:** Given that 63% of respondents [do not assess risk of Section 508 nonconformant ICT throughout the technology development lifecycle]({{site.baseurl}}/manage/section-508-assessment/2024/findings/testing-lifecycle/#nonconformance-tracking-and-remediation), **agencies** should incorporate digital accessibility considerations into relevant internal control processes to better ensure accessibility throughout the technology lifecycle. As an example, the Environmental Protection Agency (EPA) and the VA include Section 508 compliance as part of the Authority To Operate (ATO) certification process, underscoring the significance of creating and maintaining secure and accessible applications.
 
@@ -80,4 +80,4 @@ Congress should update Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)
 
 **Invest in Human Capital, Culture, and Leadership Efforts:** For 141 entities, or approximately 58%, [either the accessibility performance metrics are unknown or there are no such metrics in leadership performance plans and no current intent to include them]({{site.baseurl}}/manage/section-508-assessment/2024/findings/program-staff/#section-508-competencies-leadership-and-management). **Agencies** should develop accessibility-related metrics to include in annual leadership performance plans. Increasing accountability may increase prioritization of digital accessibility, likely improving conformance of ICT. 
 
-**Reviewed/Updated**: December 2024
+**Reviewed/Updated**: January 2025
