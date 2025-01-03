@@ -111,7 +111,7 @@ Overall, across the federal government, the average digital accessibility confor
 **Maturity Dimensions:** Policies, Procedures, and Practices and Technology Lifecycle Activities both declined slightly with a decrease of 7% YOY.
 
 <h4 id="m-potential-drivers">Potential Drivers:</h4>
-**Increased Investment:** Increase in maturity likely reflects increased investment inSection 508 program activities, including creating policies, requiring regular accessibility training, creating accessibility statements and establishing feedback mechanisms. Numerous questions saw improvement as reporting entities developed and refined their accessibility capabilities.
+**Increased Investment:** Increase in maturity likely reflects increased investment in Section 508 program activities, including creating policies, requiring regular accessibility training, creating accessibility statements and establishing feedback mechanisms. Numerous questions saw improvement as reporting entities developed and refined their accessibility capabilities.
 
 **Additional Resources and Time:** The number of program managers and the amount of time spent on digital accessibility and the Section 508 program both increased. This may have allowed reporting entities to allocate more time to program development, resulting in better maturity outcomes.
 
@@ -125,4 +125,4 @@ Overall, across the federal government, the average digital accessibility confor
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024
+**Reviewed/Updated**: January 2025
