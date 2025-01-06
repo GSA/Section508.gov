@@ -74,7 +74,7 @@ Table 9 depicts the average hours per week Section 508 PMs dedicate to their Sec
     <tr>
       <th scope="col">Maturity Bracket</th>
       <th scope="col" class="center-important">FY24 Average Section 508 PM Hours Spent Per Week</th>
-      <th scope="col" class="center-important">FY22 Average Section 508 PM Hours Spent Per Week</th>
+      <th scope="col" class="center-important">FY23 Average Section 508 PM Hours Spent Per Week</th>
     </tr>
   </thead>
   <tbody>
