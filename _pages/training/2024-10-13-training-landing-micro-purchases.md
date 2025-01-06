@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-micro-purchases.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-micro-purchases.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
+        <a href="https://training.section508.gov/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
       </div>
     </div>
   </li>
@@ -138,4 +138,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: October 2024
+**Reviewed/Updated**: January 2025
