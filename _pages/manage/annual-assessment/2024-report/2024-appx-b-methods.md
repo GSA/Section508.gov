@@ -187,7 +187,7 @@ We used the following standard categories for effect sizes: Small (0.1 to 0.3), 
 
 **Third, in which direction did the change occur? Did we see an increase or decrease?** We used mean and median values to determine the direction of change between FY23 and FY24. For example, if the difference was positive, it meant the results for a question in FY24 is higher than in FY23 and the response improved over the past year. On the other hand, if the difference was negative, it meant the results for a question in FY24 is lower than in FY23 and the response worsened over the past year.
 
-While no single test can answer all three questions, a combination of tests and confirmations can. We performed the below sequence of tests listed, further summarized in [Table B3](https://docs.google.com/document/d/1xmSXSGdFNyH8ogL6s8eiIa-ms-k-OavYxQY9qMDfLIU/edit#bookmark=id.z012pr4gpkoj).
+While no single test can answer all three questions, a combination of tests and confirmations can. We performed the below sequence of tests listed, further summarized in [Table B3](#table-3b).
 
 * **Normality Assessment**: We used the Shapiro-Wilk test to evaluate normality, helping us identify whether the data was normally distributed or skewed. For comparisons used in our pre-post analysis, we expected a subset to exhibit normal distributions. However, only one out of approximately 100 comparisons met the normality criteria, requiring us to adapt our approach.
 
@@ -207,7 +207,7 @@ While no single test can answer all three questions, a combination of tests and 
 
     * **Cohen's D test**: To quantify the magnitude of the effect of normal,  bell-shaped differences, we used Cohen's D test. This step allowed us to understand the practical significance of observed changes. We applied the same standard categories for effect size as we did for the Wilcoxon test.
 
-<table id="table-b3" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-3b" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption>Table B3. Summary of Pre-Post Analysis Approach</caption>
   <thead>
     <tr>
