@@ -182,8 +182,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 Jorge Valdez - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
-### Defense Contract Management Agency (DCMA)
-Antonio Boston - <antonio.boston.civ@mail.mil>  
+<!-- ### Defense Contract Management Agency (DCMA) -->
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
@@ -202,7 +201,7 @@ Vanessa Hill - <vanessa.hill2@dodiis.mil>
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
-Mohan Pinisetti – <mohan.pinisetti@dla.mil>  
+Antonio Boston - <antonio.boston.civ@mail.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
@@ -224,8 +223,7 @@ Pamela Whitehead - <pamela.whitehead@mda.mil>
 Irina Ryan - <irina.ryan.civ@ndu.edu>  
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
-<!-- ### National Guard Bureau (NGB)
-Phyllis	R. Renner - <phyllis.r.renner.civ@army.mil>  -->
+<!-- ### National Guard Bureau (NGB) -->
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -385,7 +383,7 @@ Brianna Huerta - <bhuerta@blm.gov>
 ### Bureau of Ocean Energy Management
 Robert Garcia - <robert.garcia@bsee.gov>
 ### Bureau of Reclamation
-Diane	Witbak - <dwitbak@usbr.gov>  
+Lori Pelech - <lpelech@usbr.gov>  
 ### Bureau of Safety and Environmental Enforcement
 Robert Garcia - <robert.garcia@bsee.gov>
 ### Bureau of Trust Funds Administration
@@ -935,7 +933,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: December, 2024
+**Reviewed/Updated**: January, 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
