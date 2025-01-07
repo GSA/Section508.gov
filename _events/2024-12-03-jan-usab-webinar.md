@@ -4,8 +4,9 @@ title: "Highlights from the Fiscal Year 2024 Government-wide Section 508 Assessm
 permalink: /event/best-practices-webinar-jan2025/
 start-date: #only fill in start date if the events spans multiple days
 end-date: Tuesday, Jan 21 2025 13:00 #otherwise use end-date
-description: Presenters from the U.S. Access Board (USAB) and Library of Congress (LOC) will explore and answer this question by reviewing the Success Criteria added in WCAG 2.1 and 2.2 as well as AAA requirements from WCAG 2.0.
+description: Presenters from the General Services Administration will review an overview of the 2024 report to Congress, including the assessment criteria, survey results, and a highlight of key recommendations.
 created: 2024-12-03
+updated: 2025-01-07
 image: seals-logos/usab.jpg
 image-alt: Seal of the U.S. Access Board
 ---
