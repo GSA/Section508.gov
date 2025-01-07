@@ -4,7 +4,8 @@ layout: video
 permalink: training/web-software/andi-training-videos/layout-tables/
 type: ANDI training
 title: 'Module 16: Layout Tables'
-created: 1601869941
+created: 2020-10-05
+updated: 2025-01-07
 redirect_from:
 - test/web-software/andi-training-videos/layout-tables/
 topic: Training (train)
@@ -18,14 +19,9 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
+Module 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
 
-[comment]: <> (<h1>Module 16: Layout Tables </h1>)
-<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
-</div>
-
-------------------
-Discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-16-layout-tabes-oc.mp4" type="video/mp4"></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -99,13 +95,7 @@ Discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for a
       </li>
    </ul>
 </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-<p><strong>Updated:</strong> September 2020</p>
+
+**Reviewed/Updated**: January, 2025
 
  [1]: {{site.baseurl}}/content/glossary#layout-table

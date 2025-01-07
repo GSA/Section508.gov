@@ -4,7 +4,8 @@ layout: video
 permalink: training/web-software/andi-training-videos/heading-levels/
 type: ANDI training
 title: 'Module 6: Heading Levels'
-created: 1601866444
+created: 2020-10-05
+updated: 2025-01-07
 redirect_from:
 - test/web-software/andi-training-videos/heading-levels/
 topic: Training (train)
@@ -18,14 +19,8 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 
-[comment]: <> (<h1>Module 6: Heading Levels </h1>)
-<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
-</div>
-
-------------------
-
-Understand how to use the ANDI _Structures_ module to verify that the page content contains logical heading levels and the heading levels are programmed accurately, and to provide descriptive headings for content structure.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-06-heading-levels-oc.mp4" type="video/mp4"></video>
+Module 6 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to verify that the page content contains logical heading levels and the heading levels are programmed accurately, and to provide descriptive headings for content structure.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-06-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -99,11 +94,5 @@ Understand how to use the ANDI _Structures_ module to verify that the page conte
       </li>
    </ul>
 </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-<p><strong>Updated:</strong> September 2020</p>
+
+**Reviewed/Updated**: January, 2025
