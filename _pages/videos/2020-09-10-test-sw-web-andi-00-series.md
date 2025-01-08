@@ -12,7 +12,7 @@ redirect_from:
 Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Systems and Technology][1] (OAST), the Interagency Trusted Tester Program has created the following video series to explain and demonstrate how to use the Accessible Name & Description Inspector (ANDI) [testing tool][2] to inspect web pages for conformance with the Revised Section 508 Standards. The following video series is broken up into 18 parts, each aligned to a specific ANDI module.
 <hr>
 <div class="grid-row grid-gap">
-   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/overview"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-01-thumb.jpg" width="220" alt="Module 1: Overview" title="Module 1: Overview"></a></div>
+   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/overview"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-01-thumb.jpg" width="220" alt="Module 1: Overview" title="Module 1: Overview"></a></div>
    <div class="desktop:grid-col-9">
      <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/overview">Module 1: Overview of ANDI</a></p>
      <p>Overview of the Accessible Name &amp; Description Inspector (ANDI) tool, a web accessibility inspection tool, which performs single page testing to automatically detect accessibility issues.</p>
@@ -22,7 +22,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/focus-element"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-02-thumb.jpg" width="220" alt="Module 2: Focus Element" title="Module 2: Focus Element"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/focus-element"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-02-thumb.jpg" width="220" alt="Module 2: Focus Element" title="Module 2: Focus Element"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/focus-element">Module 2: Focus Element</a></p>
                <p></p>
@@ -37,7 +37,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-03-thumb.jpg" width="220" alt="Module 3: Links &amp; Buttons" title="Module 3: Links &amp; Buttons"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-03-thumb.jpg" width="220" alt="Module 3: Links &amp; Buttons" title="Module 3: Links &amp; Buttons"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons">Module 3: Links &amp; Buttons</a></p>
                <p></p>
@@ -52,7 +52,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/images"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-04-thumb.jpg" width="220" alt="Module 4: Images" title="Module 4: Images"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/images"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-04-thumb.jpg" width="220" alt="Module 4: Images" title="Module 4: Images"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/images">Module 4: Images</a></p>
                <p></p>
@@ -67,7 +67,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-05-thumb.jpg" width="220" alt="Module 5: Structure Headings" title="Module 5: Structure Headings"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-05-thumb.jpg" width="220" alt="Module 5: Structure Headings" title="Module 5: Structure Headings"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></p>
                <p></p>
@@ -82,7 +82,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-06-thumb.jpg" width="220" alt="Module 6: Heading Levels" title="Module 6: Heading Levels"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-06-thumb.jpg" width="220" alt="Module 6: Heading Levels" title="Module 6: Heading Levels"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/heading-levels">Module 6: Heading Levels</a></p>
                <p></p>
@@ -97,7 +97,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-07-thumb.jpg" width="220" alt="Module 7: Structure Lists" title="Module 7: Structure Lists"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-07-thumb.jpg" width="220" alt="Module 7: Structure Lists" title="Module 7: Structure Lists"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-lists">Module 7: Structure Lists</a></p>
                <p></p>
@@ -112,7 +112,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-08-thumb.jpg" width="220" alt="Module 8: Page Language" title="Module 8: Page Language"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-08-thumb.jpg" width="220" alt="Module 8: Page Language" title="Module 8: Page Language"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></p>
                <p></p>
@@ -127,7 +127,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-09-thumb.jpg" width="220" alt="Module 9: Language of Parts" title="Module 9: Language of Parts"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-09-thumb.jpg" width="220" alt="Module 9: Language of Parts" title="Module 9: Language of Parts"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></p>
                <p></p>
@@ -142,7 +142,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-10-thumb.jpg" width="220" alt="Module 10: Page Title" title="Module 10: Page Title"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-10-thumb.jpg" width="220" alt="Module 10: Page Title" title="Module 10: Page Title"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/andi-page-title">Module 10: Page Title</a></p>
                <p></p>
@@ -157,7 +157,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-11-thumb.jpg" width="220" alt="Module 11: Frames" title="Module 11: Frames"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-11-thumb.jpg" width="220" alt="Module 11: Frames" title="Module 11: Frames"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></p>
                <p></p>
@@ -172,7 +172,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-12-thumb.jpg" width="220" alt="Module 12: iFrames" title="Module 12: iFrames"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-12-thumb.jpg" width="220" alt="Module 12: iFrames" title="Module 12: iFrames"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></p>
                <p></p>
@@ -187,7 +187,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-13-thumb.jpg" width="220" alt="Module 13: Color Contrast" title="Module 13: Color Contrast"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-13-thumb.jpg" width="220" alt="Module 13: Color Contrast" title="Module 13: Color Contrast"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast">Module 13: Color Contrast</a></p>
                <p></p>
@@ -202,7 +202,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-14-thumb.jpg" width="220" alt="Module 14: Color Contrast Analyzer" title="Module 14: Color Contrast Analyzer"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-14-thumb.jpg" width="220" alt="Module 14: Color Contrast Analyzer" title="Module 14: Color Contrast Analyzer"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></p>
                <p></p>
@@ -217,7 +217,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></p>
                <p></p>
@@ -232,7 +232,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-16-thumb.jpg" width="220" alt="Module 16:Layout Tables" title="Module 16:Layout Tables"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-16-thumb.jpg" width="220" alt="Module 16:Layout Tables" title="Module 16:Layout Tables"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></p>
                <p></p>
@@ -247,7 +247,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-17-thumb.jpg" width="220" alt="Module 17: CSS Content and Positioning" title="Module 17: CSS Content and Positioning"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-17-thumb.jpg" width="220" alt="Module 17: CSS Content and Positioning" title="Module 17: CSS Content and Positioning"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></p>
                <p></p>
@@ -262,7 +262,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions"><img class="img-responsive radius-lg" src="https://assets.section508.gov/files/thumbnails/training-video-andi-18-thumb.jpg" width="220" alt="Module 18: Live Regions" title="Module 18: Live Regions"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions"><img class="img-responsive radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-18-thumb.jpg" width="220" alt="Module 18: Live Regions" title="Module 18: Live Regions"></a></div>
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></p>
                <p></p>
