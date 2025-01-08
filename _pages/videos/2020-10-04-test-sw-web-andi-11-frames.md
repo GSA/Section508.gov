@@ -19,7 +19,7 @@ audience:
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
 ---
-Module 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
+In module 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Frames_ module to detect and verify that all [frames][1] provide a descriptive title which adequately identifies the frame’s content.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-11-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
