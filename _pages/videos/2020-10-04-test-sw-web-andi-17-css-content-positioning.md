@@ -19,7 +19,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-Module 17 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
+In module 17 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Hidden Content_ module to test meaningful content inserted into a page using [Cascading Style Sheets (CSS)][1] to ensure meaningful information is presented in another way on the page.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-17-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">

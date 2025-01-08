@@ -19,7 +19,7 @@ audience:
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
 ---
-Module 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
+In module 12 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _iframes_ module to verify that all [iframes][1] provide a descriptive title which adequately identifies the iframe’s content.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-12-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">

@@ -18,7 +18,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-Module 5 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
+In module 5 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use the ANDI _Structures_ module to inspect each visual heading on the page and validate that it is [programmatically defined][1] and to provide descriptive headings for sections of content.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-05-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">

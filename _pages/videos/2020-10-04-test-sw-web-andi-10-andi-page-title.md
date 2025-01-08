@@ -19,7 +19,7 @@ audience:
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
 ---
-Module 10 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.
+In module 10 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-10-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
