@@ -4,7 +4,8 @@ layout: video
 permalink: training/web-software/andi-training-videos/color-contrast-analyzer/
 type: ANDI training
 title: 'Module 14: Color Contrast Analyzer'
-created: 1601869280
+created: 2020-10-05
+updated: 2025-01-07
 redirect_from:
 - test/web-software/andi-training-videos/color-contrast-analyzer/
 topic: Training (train)
@@ -18,14 +19,8 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-
-[comment]: <> (<h1>Module 14: Color Contrast Analyzer</h1>)
-<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
-</div>
-
-------------------
-Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-14-cca-oc.mp4" type="video/mp4"></video>
+Module 14 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-14-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -99,14 +94,8 @@ Learn how to use <a href="https://developer.paciellogroup.com/resources/contrast
       </li>
    </ul>
 </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-<p><strong>Updated:</strong> September 2020</p>
+
+**Reviewed/Updated**: January, 2025
 
  [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
  [2]: {{site.baseurl}}/test/web-software

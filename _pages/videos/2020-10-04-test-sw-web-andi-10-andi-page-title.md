@@ -4,7 +4,8 @@ layout: video
 permalink: training/web-software/andi-training-videos/andi-page-title/
 type: ANDI training
 title: 'Module 10: Page Title'
-created: 1601867925
+created: 2020-10-05
+updated: 2025-01-07
 redirect_from:
 - test/web-software/andi-training-videos/andi-page-title/
 topic: "Training (train)"
@@ -18,16 +19,9 @@ audience:
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
 ---
+Module 10 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.
 
-[comment]: <> (<h1>Module 10: Page Title </h1>)
-<div class="field-name-module"><p>From: Accessible Name &amp; Description Inspector (ANDI) Tool Overview</p>
-</div>
-
-------------------
-<div class="field-item even" property="content:encoded"><p>Discover how to use the ANDI <em>Structures</em> module to ensure that every web page contains a &lt;title&gt; element that will identify the purpose of the page to ensure it is distinguishable from other web pages.</p>
-</div>
-
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/videos/andi-10-page-title-oc.mp4" type="video/mp4"></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-10-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
@@ -101,11 +95,5 @@ format: "Video & Synchronized Media (video)"
       </li>
    </ul>
 </div>
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-<div class="padding-1">
-<p class="text-large"><strong>Before You Go</strong></p>
-<p>We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us
-</a>.</p>
-</div>
-</div>
-<p><strong>Updated:</strong> September 2020</p>
+
+**Reviewed/Updated**: January, 2025

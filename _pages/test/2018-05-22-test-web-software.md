@@ -50,12 +50,12 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/test/web-software/andi-training-videos"><img alt="Accessible Name & Description Inspector (ANDI) Tool Overview" class="img-responsive" src="https://assets.section508.gov/files/thumbnails/training-video-andi-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
+    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/"><img alt="Accessible Name & Description Inspector (ANDI) Tool Overview" class="img-responsive" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-00-thumb.jpg" style="width:220px; border-radius: 8px;" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
     <p>
-      <a href="{{site.baseurl}}/test/web-software/andi-training-videos"><strong>Accessible Name & Description Inspector (ANDI) Tool Overview</strong></a>
+      <a href="{{site.baseurl}}/training/web-software/andi-training-videos/"><strong>Accessible Name & Description Inspector (ANDI) Tool Overview</strong></a>
     </p>
 <p>
       Get a basic overview on how to use the Accessible Name & Description Inspector tool (ANDI) used to test websites and web-based applications for accessibility. ANDI is a free tool developed by the Social Security Administration.
@@ -70,12 +70,12 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer"><img alt="How to Test Color Contrast using the Color Contrast Analyser" class="img-responsive" src="https://assets.section508.gov/files/thumbnails/training-video-cca-thumb.png" style="height:124px; width:220px; border-radius: 8px;" /></a>
+    <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/"><img alt="How to Test Color Contrast using the Color Contrast Analyser" class="img-responsive" src="https://assets.section508.gov/assets/images/thumbnails/training-video-andi-14-thumb.jpg" style="width:220px; border-radius: 8px;" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
     <p>
-      <a href="{{site.baseurl}}/test/web-software/andi-training-videos/color-contrast-analyzer"><strong>How to Test Color Contrast using the Color Contrast Analyser</strong></a>
+      <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/"><strong>How to Test Color Contrast using the Color Contrast Analyser</strong></a>
     </p>
 <p>
       Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI.
