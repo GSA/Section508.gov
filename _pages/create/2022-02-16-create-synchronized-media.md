@@ -111,9 +111,9 @@ format: "HTML (html)"
 <p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img style="width: 100%;" src="https://assets.section508.gov/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="https://assets.section508.gov/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
 <div class="desktop:grid-col-9">
-<p dir="ltr"><strong><a class="ext" href="https://www.youtube.com/watch?v=wsJDV1iXV0Q">Vintage Commercial for Paper Towels </a></strong></p>
+<p dir="ltr"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q" target="_blank" class="usa-link--external">Vintage Commercial for Paper Towels </a></strong></p>
 <p dir="ltr">In this example, the audio description was not planned for originally, and has been inserted into the media afterwards by stopping the motion of the video and allowing time for a secondary audio track description of meaningful information.</p>
 <p dir="ltr">Duration: 0h 1:40m</p>
 </div>
