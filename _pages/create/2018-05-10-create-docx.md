@@ -4,7 +4,8 @@ sidenav: true
 permalink: create/documents/
 type: create
 title: 'Create Accessible Documents'
-created: 1525986152
+created: 2018-05-10
+updated: 2025-01-08
 topic: "Content creation (create)"
 sub-topic: "Documents"
 audience:

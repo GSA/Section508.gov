@@ -4,7 +4,8 @@ layout: page
 permalink: create/spreadsheets/training-videos/
 type: create
 title: 'Spreadsheets Training Videos'
-created: 1579723548
+created: 2020-01-22
+updated: 2025-01-09
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:
