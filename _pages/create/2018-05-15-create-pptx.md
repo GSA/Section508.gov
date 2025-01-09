@@ -19,42 +19,45 @@ How to create accessible Microsoft PowerPoint presentations.
 
 ### Training Videos
 
-<div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://assets.section508.gov/files/thumbnails/training-video-powerpoint-thumb.png" style="width:100%" class="radius-lg" /></a>
-    </div>
-    <div class="desktop:grid-col-9">
-      <p class="video-title">
-        <a href="{{site.baseurl}}/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a>
-      </p>
-    <p>
-        The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
-      </p>
-    <p>
-        Duration 43m 54s | 14-Part Video Tutorial
-      </p>
-    </div>
-  </div>
-
+--- 
 
 <div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/files/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%" class="radius-lg" /></a>
-    </div>
-    <div class="desktop:grid-col-9">
-      <p class="video-title">
-        <a href="{{site.baseurl}}/create/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a>
-      </p>
-    <p>
-      Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
-      </p>
-    <p>
-        Duration: 8m 18s | 1-Part Video Tutorial
-      </p>
-    </div>
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
+  <div class="desktop:grid-col-9">
+    <p class="video-title">
+      <a href="{{site.baseurl}}/create/presentations/training-videos">How to Author and Test Microsoft PowerPoint Presentations for Accessibility</a>
+    </p>
+  <p>
+      The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft PowerPoint presentation is Section 508 conformant.
+    </p>
+  <p>
+      Duration 43m 54s | 14-Part Video Tutorial
+    </p>
+  </div>
+</div>
 
-* * *
+--- 
+
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/files/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+  </div>
+  <div class="desktop:grid-col-9">
+    <p class="video-title">
+      <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates">Creating PowerPoint Templates</a>
+    </p>
+  <p>
+    Learn how to use the Microsoft PowerPoint slide master to help others create accessible presentations. Understand how presentation templates can provide users with a variety of layouts and features that can reduce common accessibility issues when utilized.
+    </p>
+  <p>
+      Duration: 8m 18s | 1-Part Video Tutorial
+    </p>
+  </div>
+</div>
+
+---
 
 ## Agency-Developed Guidance
 
@@ -72,16 +75,7 @@ The resources in this section were developed by federal agencies and shared here
   * Review [W3C's Alt Decision Tree][10] for guidance on how to describe images.
   * [Microsoft Accessibility][11] -- Microsoft.com
 
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong> 
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
-**Reviewed/Updated**: June&nbsp;2021
+**Reviewed/Updated**: January 2025
 
  [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
  [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx

@@ -19,7 +19,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In module 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
+In Module: 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover the features of the ANDI _Graphics/Images_ module to test meaningful, decoratives, and background images for accessibility so the user has a text alternative that serves the equivalent purpose.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-04-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -92,4 +92,4 @@ In module 4 of the Accessible Name &amp; Description Inspector (ANDI) Tool video
    </ul>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025

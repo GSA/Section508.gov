@@ -18,7 +18,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
+In Module: 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to ensure that all written content, regardless of how many (human) languages are used, is [programmatically identified][1] correctly to ensure that [user agents][2] (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-09-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -95,7 +95,7 @@ In module 9 of the Accessible Name &amp; Description Inspector (ANDI) Tool video
    </ul>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
  [2]: {{site.baseurl}}/content/glossary#user-agent
