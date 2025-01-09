@@ -67,13 +67,4 @@ The resources in this section were developed by federal agencies and shared here
   * Review <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" target="_blank" class="usa-link--external">W3C's Alt Decision Tree</a> for guidance on how to describe images.
   * <a href="https://www.microsoft.com/en-us/accessibility/" target="_blank" class="usa-link--external">Microsoft Accessibility</a>
 
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong> 
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
 **Reviewed/Updated:** January 2025

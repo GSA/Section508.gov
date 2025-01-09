@@ -5,6 +5,7 @@ permalink: create/alternative-text/
 type: create
 title: Authoring Meaningful Alternative Text
 created: 2024-05-23
+updated: 2025-01-09
 updated:
 topic: "Content creation (create)"
 sub-topic: "Graphics Specific (image descriptions)"
@@ -28,7 +29,7 @@ Additionally, alt text makes content accessible to other users, like those who m
 <hr />
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="https://assets.section508.gov/files/videos/what-is-alternative-text-thumbnail.png" style="width:100%" /></a>
+        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="https://assets.section508.gov/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">
         <p class="video-title"><a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/">What is Alternative Text?</a></p>
@@ -310,4 +311,4 @@ Refer to the following for additional guidance on writing meaningful alt text.
 -   <a href="https://webaim.org/techniques/alttext/" target="_blank" class="usa-link--external">WebAIM: Alternative Text</a>
 -   <a href="https://webaim.org/techniques/alttext/#context" target="_blank" class="usa-link--external">WebAIM: Alternative Text - Context is Everything</a>
 
-**Reviewed/Updated:** July 2024
+**Reviewed/Updated:** January 2025
