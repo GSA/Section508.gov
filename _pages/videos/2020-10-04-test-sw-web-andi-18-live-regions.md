@@ -19,7 +19,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In module 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
+In Module: 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Structures_ module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to [user agents][1] (i.e. browsers, assistive technology, software), including assistive technologies.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-18-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -96,6 +96,6 @@ In module 18 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/content/glossary#user-agent

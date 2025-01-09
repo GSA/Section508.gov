@@ -4,7 +4,8 @@ sidenav: true
 permalink: create/pdfs/
 type: create
 title: 'Create Accessible PDFs'
-created: 1527621813
+created: 2018-05-29
+updated: 2025-01-07
 topic: "Content creation (create)"
 sub-topic: "PDFs"
 audience:
@@ -25,7 +26,7 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/training-videos/"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://assets.section508.gov/files/thumbnails/training-video-pdf-thumb.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/create/pdfs/training-videos/"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-series.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -64,16 +65,7 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong>
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
-**Reviewed/Updated:** August 2023
+**Reviewed/Updated:** January 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx

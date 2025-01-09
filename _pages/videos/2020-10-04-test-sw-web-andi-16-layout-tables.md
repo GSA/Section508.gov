@@ -19,7 +19,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In module 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
+In Module: 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Tables_ module to inspect [layout tables][1] for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.
 
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-16-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
@@ -96,6 +96,6 @@ In module 16 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
    </ul>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/content/glossary#layout-table

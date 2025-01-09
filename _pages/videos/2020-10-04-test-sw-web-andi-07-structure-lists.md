@@ -18,7 +18,7 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In module 7 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
+In Module: 7 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Structures_ module to inspect visually apparent lists on the page to ensure the programmatic markup conveys the correct list type and list relationship in its structure.
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-07-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
@@ -94,4 +94,4 @@ In module 7 of the Accessible Name &amp; Description Inspector (ANDI) Tool video
    </ul>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025

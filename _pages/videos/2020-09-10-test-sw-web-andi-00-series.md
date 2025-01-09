@@ -277,7 +277,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
    </div>
 </div>
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: January 2025
 
  [1]: https://www.dhs.gov/office-accessible-systems-technology
  [2]: {{site.baseurl}}/test/web-software
