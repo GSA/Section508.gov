@@ -4,6 +4,8 @@ layout: page
 permalink: training/art/introducing-art/
 type: acquisition
 title: Introduction to the Accessibility Requirements Tool (ART)
+created: 2024-07-30
+updated: 2025-01-09
 topic: Tools (tools)
 sub-topic: Acquisition Tools
 audience:
@@ -21,7 +23,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/art/introducing-art-01/"><img alt="What is ART and When Do I Need to Use It?" src="https://assets.section508.gov/files/thumbnails/training-art-thumb-01.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/art/introducing-art-01/"><img alt="What is ART and When Do I Need to Use It?" src="https://assets.section508.gov/assets/images/thumbnails/training-art-thumb-01.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/art/introducing-art-01/">What is ART and When Do I Need to Use It?</a></p>
@@ -34,7 +36,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/art/introducing-art-02/"><img alt="Where is ART and How Do I Use It?" src="https://assets.section508.gov/files/thumbnails/training-art-thumb-02.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/art/introducing-art-02/"><img alt="Where is ART and How Do I Use It?" src="https://assets.section508.gov/assets/images/thumbnails/training-art-thumb-02.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/art/introducing-art-02/">Where is ART and How Do I Use It?</a></p>
@@ -47,7 +49,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/art/introducing-art-03/"><img alt="How Do I Use the Section 508 Requirements Created by ART?" src="https://assets.section508.gov/files/thumbnails/training-art-thumb-03.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/art/introducing-art-03/"><img alt="How Do I Use the Section 508 Requirements Created by ART?" src="https://assets.section508.gov/assets/images/thumbnails/training-art-thumb-03.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/art/introducing-art-03/">How Do I Use the Section 508 Requirements Created by ART?</a></p>
@@ -60,7 +62,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/art/introducing-art-04/"><img alt="How Do I Generate a List for Multiple Procurements?" src="https://assets.section508.gov/files/thumbnails/training-art-thumb-04.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/art/introducing-art-04/"><img alt="How Do I Generate a List for Multiple Procurements?" src="https://assets.section508.gov/assets/images/thumbnails/training-art-thumb-04.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/art/introducing-art-04/">How Do I Generate a List for Multiple Procurements?</a></p>
@@ -73,7 +75,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/art/introducing-art-05/"><img alt="How Do I Use JSON to Modify My Report?" src="https://assets.section508.gov/files/thumbnails/training-art-thumb-05.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/art/introducing-art-05/"><img alt="How Do I Use JSON to Modify My Report?" src="https://assets.section508.gov/assets/images/thumbnails/training-art-thumb-05.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/art/introducing-art-05/">How Do I Use JSON to Modify My Report?</a></p>
@@ -91,7 +93,7 @@ This video series demonstrates how to use the Accessibility Requirements Tool (A
   * [Define Accessibility Criteria in Contracts][9]
   * [Solicitations Review Tool (SRT)][10]
 
-**Reviewed/Updated**: July 2024
+**Reviewed/Updated**: January 2025
 
 [1]: {{site.baseurl}}/training/art/introducing-art-01/
 [2]: {{site.baseurl}}/training/art/introducing-art-02/
