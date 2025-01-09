@@ -4,7 +4,8 @@ layout: page
 permalink: create/spreadsheets/training-videos/
 type: create
 title: 'Spreadsheets Training Videos'
-created: 1579723548
+created: 2020-01-22
+updated: 2025-01-09
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:
@@ -25,7 +26,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00/"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m00.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx00/"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-00.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -44,7 +45,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m01.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-01.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -63,7 +64,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m02.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-02.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -82,7 +83,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m03.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-03.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -101,7 +102,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04/"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m04.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx04/"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-04.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -120,7 +121,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05/"><img alt="Module 5: Formatting Lists Properly" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m05.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx05/"><img alt="Module 5: Formatting Lists Properly" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-05.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -139,7 +140,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06/"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m06.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx06/"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-06.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -158,7 +159,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07/"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m07.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx07/"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-07.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -177,7 +178,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08/"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m08.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx08/"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-08.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -196,7 +197,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09/"><img alt="Module 9: Making Vital Background Information Accessible" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m09.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx09/"><img alt="Module 9: Making Vital Background Information Accessible" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-09.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
@@ -215,7 +216,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10/"><img alt="Module 10: Formatting Text for the Intended Language" src="https://assets.section508.gov/files/thumbnails/training-video-excel-m10.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/spreadsheets/aed-cop-xlsx10/"><img alt="Module 10: Formatting Text for the Intended Language" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-10.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">

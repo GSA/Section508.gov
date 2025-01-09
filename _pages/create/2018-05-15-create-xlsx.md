@@ -4,7 +4,8 @@ sidenav: true
 permalink: create/spreadsheets/
 type: create
 title: 'Create Accessible Spreadsheets'
-created: 1526410073
+created: 2018-05-15
+updated: 2025-01-09
 topic: "Content creation (create)"
 sub-topic: "Spreadsheets"
 audience:
@@ -23,24 +24,20 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 ### Training Videos
 
-<div class="grid-row grid-gap">
-    <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://assets.section508.gov/files/thumbnails/training-video-excel-thumb.png" style="width:100%" class="radius-lg" /></a>
-    </div>
-<div class="desktop:grid-col-9">
-      <p class="video-title">
-        <a href="{{site.baseurl}}/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a>
-      </p>
-    <p>
-        The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Excel spreadsheet is Section 508 conformant.
-      </p>
-    <p>
-        Duration 30m 50s | 12-part Video Series
-      </p>
-    </div>
-  </div>
+---
 
-* * *
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
+    <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-series.jpg" style="width:100%" class="radius-lg" /></a>
+  </div>
+  <div class="desktop:grid-col-9">
+    <p class="video-title"><a href="{{site.baseurl}}/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a></p>
+    <p>The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your Microsoft Excel spreadsheet is Section 508 conformant.</p>
+    <p>Duration 30m 50s | 12-part Video Series</p>
+  </div>
+</div>
+
+---
 
 ## Agency-Developed Guidance
 
@@ -54,16 +51,7 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Web Accessibility Tutorials and Presentations][10] - Guidance from the World Wide Web Consortium (W3C)
   * [Microsoft Accessibility][11]
 
-<div class="border-base radius-lg border-1px">
-  <div class="padding-1">
-    <strong>Before You Go</strong> 
-<p dir="ltr">
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a class="mailto" href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
-
-**Reviewed/Updated:**&nbsp;February&nbsp;2021
+**Reviewed/Updated:** January 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/files/MS Excel 2016 Basic Authoring and Testing Guide-AED COP.docx
