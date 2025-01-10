@@ -155,6 +155,12 @@ Second, we created an operational conformance index, referred to as "conformance
       <td>12.50%</td>
     </tr>
     <tr>
+      <th scope="row">Videos</th>
+      <td>Q78</td>
+      <td>Converted the number of fully conformant videos into a percentage of the total videos the reporting entity specified</td>
+      <td>12.50%</td>
+    </tr>
+    <tr>
       <th scope="row">Miscellaneous</th>
       <td>Q80 to Q89</td>
       <td>
@@ -368,4 +374,4 @@ The key metrics we used to evaluate the regressions were:
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024
+**Reviewed/Updated**: January 2025
