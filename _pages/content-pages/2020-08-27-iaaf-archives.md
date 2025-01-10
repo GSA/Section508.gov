@@ -5,7 +5,7 @@ permalink: iaaf/archives/
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 2020-08-28
-updated: 2024-12-11
+updated: 2025-01-10
 topic: "Events (events)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
@@ -54,7 +54,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -73,7 +73,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/videos/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
+          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -92,7 +92,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/videos/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
+          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -111,7 +111,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -130,7 +130,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
         </div>
       </div>
       <div class="usa-card__body">
@@ -149,7 +149,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s6-thumbnail.jpg" alt="Alison Levy" />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s6-thumbnail.jpg" alt="Alison Levy" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -168,7 +168,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -187,7 +187,7 @@ For event details, visit: [2023 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/files/videos/iaaf-2023-s8-thumbnailss.jpg" alt="Andrea O'Neal" />
+          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s8-thumbnails.jpg" alt="Andrea O'Neal" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -221,7 +221,7 @@ The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2022-keynote-knackstedt-thumb.png" alt="Oct 12 Keynote Address: Kim Knackstedt" class="border-base radius-lg border-0px" /></a>
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-knackstedt-thumb.jpg" alt="Oct 12 Keynote Address: Kim Knackstedt" class="border-base radius-lg border-0px" /></a>
         </div>
       </div>
       <div class="usa-card__body">
@@ -241,7 +241,7 @@ The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chi
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-day-al-mohamed/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2022-keynote-al-mohamed-thumb.png" alt="Oct 13 Keynote Address: Day Al Mohamed" class="border-base radius-lg border-0px" /></a>
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-day-al-mohamed/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-al-mohamed-thumb.jpg" alt="Oct 13 Keynote Address: Day Al Mohamed" class="border-base radius-lg border-0px" /></a>
         </div>
       </div>
       <div class="usa-card__body">
@@ -309,7 +309,7 @@ The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chie
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-quesenbery-thumb-02.png" alt="Oct 12 Keynote Address: Whitney Quesenbery" class="border-base radius-lg border-0px" /></a>
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-whitney-quesenbery/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2021-keynote-quesenbery-thumb-02.jpg" alt="Oct 12 Keynote Address: Whitney Quesenbery" class="border-base radius-lg border-0px" /></a>
         </div>
       </div>
       <div class="usa-card__body">
@@ -329,7 +329,7 @@ The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chie
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-heumann-thumb-02.png" alt="Oct 13 Keynote Address: Judy Heumann" class="border-base radius-lg border-0px" /></a>
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2021-keynote-heumann-thumb-02.jpg" alt="Oct 13 Keynote Address: Judy Heumann" class="border-base radius-lg border-0px" /></a>
         </div>
       </div>
       <div class="usa-card__body">
@@ -349,7 +349,7 @@ The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chie
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2021-keynote-panel-thumb-02.png" alt="Oct 14 Keynote: Panel Discussion" class="border-base radius-lg border-0px" /></a>
+          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2021-keynote-panel-thumb-02.jpg" alt="Oct 14 Keynote: Panel Discussion" class="border-base radius-lg border-0px" /></a>
         </div>
       </div>
       <div class="usa-card__body">
@@ -514,7 +514,7 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
           </div>
           <div class="usa-card__media usa-card__media--inset">
             <div class="usa-card__img">
-              <a href="{{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/"><img src="https://assets.section508.gov/files/thumbnails/iaaf-2019-keynote-coelho-thumb.png" alt="Oct 8 Keynote Address: Tony Coelho" class="border-base radius-lg border-0px" /></a>
+              <a href="{{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2019-keynote-coelho-thumb.jpg" alt="Oct 8 Keynote Address: Tony Coelho" class="border-base radius-lg border-0px" /></a>
             </div>
           </div>
           <div class="usa-card__body">
@@ -530,4 +530,4 @@ For details, visit: <a href="{{site.baseurl}}/iaaf/archives/agenda-2020/">2020 I
     </ul>
 </div>
 
-**Reviewed/Updated:** December 2024
+**Reviewed/Updated:** January 2025
