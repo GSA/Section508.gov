@@ -5,7 +5,7 @@ permalink: training/presentations-workshops/iaaf-2023-accessibility-powered-futu
 type: training
 title: 'IAAF 2023: The Accessibility-Powered Future of Work'
 created: 2024-08-15
-updated: 2024-08-27
+updated: 2025-01-10
 topic: Training (train)
 sub-topic: 
 - IAAF
@@ -22,7 +22,7 @@ format: Video & Synchronized Media (video)
 
 <a href="https://www.section508.gov/iaaf/biographies-2023#">Andrea M. O’Neal</a>, Senior Advisor to the Administrator for Equity, General Services Administration, moderated a plenary discussion to explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).
 
-<video controls="controls" poster="https://assets.section508.gov/files/videos/iaaf-2023-s8-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2023-s8-accessibility-powered-work-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s8-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s8-accessibility-powered-work-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
@@ -340,4 +340,4 @@ format: Video & Synchronized Media (video)
 * [iAAF 2023 - A Fireside Chat with Accessibility Leaders]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-fireside-chat-with-accessibility-leaders/)
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025

@@ -5,7 +5,7 @@ permalink: training/presentations-workshops/iaaf-2023-fireside-chat-with-accessi
 type: training
 title: 'IAAF 2023: A Fireside Chat with Accessibility Leaders'
 created: 2024-08-15
-updated: 2024-08-27
+updated: 2025-01-10
 topic: Training (train)
 sub-topic: 
 - IAAF
@@ -19,9 +19,9 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-[Alison Levy]({{site.baseurl}}/iaaf/archives/biographies-2023#levy-alison), Director, Office of Technical and Information Services, United States Access Board, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Alison Levy]({{site.baseurl}}/iaaf/archives/biographies-2023#levy-alison), Director, Office of Technical and Information Services, United States Access Board.
 
-<video controls="controls" poster="https://assets.section508.gov/files/videos/iaaf-2023-s6-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2023-s6-fireside-chat-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s6-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s6-fireside-chat-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
  <h2 class="usa-accordion__heading">
@@ -452,4 +452,4 @@ format: Video & Synchronized Media (video)
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025

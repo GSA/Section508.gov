@@ -4,7 +4,8 @@ layout: page
 permalink: training/presentations-workshops/keynote-day-al-mohamed/
 type: training
 title: IAAF 2021 Keynote Address — Day Al Mohamed
-created: 1578606586
+created: 2020-01-09
+updated: 2025-01-10
 topic: "Events (events)"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -18,7 +19,7 @@ format: "Video & Synchronized Media (video)"
 ---
 Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
 
-<video controls="controls" poster="https://assets.section508.gov/files/thumbnails/iaaf-2022-keynote-al-mohamed-poster.png" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2022-keynote-al-mohamed-sd-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-al-mohamed-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2022-keynote-al-mohamed-sd-oc.mp4" type="video/mp4" /></video>
 
 ## Related Videos
 
@@ -28,4 +29,4 @@ Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Ser
 * [IAAF 2021 - Oct 14 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
 * [iAAF 2019 - Oct 8 - Keynote Address: Tony Coelho]({{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/)
 
-**Reviewed/Updated**: December 2022
+**Reviewed/Updated**: January 2025
