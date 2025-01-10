@@ -81,4 +81,4 @@ Listen as [Tanya Bradsher]({{site.baseurl}}/http://127.0.0.1:4000/iaaf/archives/
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025

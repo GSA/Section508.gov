@@ -29,4 +29,4 @@ format: "Video & Synchronized Media (video)"
 * [IAAF 2021 - Oct 14 Keynote Address: Panel Discussion]({{site.baseurl}}/training/presentations-workshops/keynote-panel-discussion/)
 * [iAAF 2019 - Oct 8 - Keynote Address: Tony Coelho]({{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/)
 
-**Reviewed/Updated**: December 2022
+**Reviewed/Updated**: January 2025

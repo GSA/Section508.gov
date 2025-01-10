@@ -30,4 +30,4 @@ Accessibility is one of the foundations of diversity, equity and inclusion and a
 * [IAAF 2021 - Oct 13 Keynote Address: Judy Heumann]({{site.baseurl}}/training/presentations-workshops/keynote-judy-heumann/)
 * [iAAF 2019 - Oct 8 - Keynote Address: Tony Coelho]({{site.baseurl}}/training/presentations-workshops/keynote-tony-coelho/)
 
-**Reviewed/Updated**: December 2022
+**Reviewed/Updated**: January 2025
