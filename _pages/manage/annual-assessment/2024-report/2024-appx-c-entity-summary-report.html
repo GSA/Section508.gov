@@ -426,7 +426,7 @@ format: "HTML (html)"
           document.getElementById("rec-text").innerText = entity_data[i].rec_text;
 
           //Set grid index src URL
-          const gIndex = "https://assets.section508.gov/files/images/assessment-grid/fy24/Agency_" + entity_data[i].unique_ID + ".svg";
+          const gIndex = "https://assets.section508.gov/assets/images/assessment-grid/fy24/Agency_" + entity_data[i].unique_ID + ".svg";
           document.getElementById("grid-index").setAttribute("src", gIndex);
           document.getElementById("grid-index").setAttribute("alt", entity_data[i].alt);
 
