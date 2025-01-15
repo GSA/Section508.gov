@@ -31,7 +31,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -78,7 +78,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -100,7 +100,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -122,7 +122,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -144,7 +144,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -182,7 +182,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -204,7 +204,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -226,7 +226,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -263,7 +263,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -285,7 +285,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -314,7 +314,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -349,7 +349,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -371,7 +371,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -400,7 +400,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -422,7 +422,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-fern.jpg" alt="David Fern" title="David Fern" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -444,7 +444,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -475,7 +475,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -497,7 +497,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -526,7 +526,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -548,7 +548,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -577,7 +577,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -599,7 +599,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -627,7 +627,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -649,7 +649,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -671,7 +671,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -700,7 +700,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -735,7 +735,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -757,7 +757,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -789,7 +789,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -814,7 +814,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -836,7 +836,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -868,7 +868,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -890,7 +890,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -918,7 +918,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -947,7 +947,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -976,7 +976,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -998,7 +998,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-peters.jpg" alt="David Peters" title="David Peters" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1017,7 +1017,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1042,7 +1042,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1064,7 +1064,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1093,7 +1093,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1115,7 +1115,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1144,7 +1144,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1172,7 +1172,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1194,7 +1194,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1216,7 +1216,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1238,7 +1238,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1260,7 +1260,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1285,7 +1285,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1325,7 +1325,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1365,7 +1365,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1397,7 +1397,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1419,7 +1419,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1448,7 +1448,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1477,7 +1477,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1512,7 +1512,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1537,7 +1537,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1566,7 +1566,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
