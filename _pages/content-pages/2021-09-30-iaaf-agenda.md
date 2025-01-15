@@ -52,7 +52,7 @@ format: "HTML (html)"
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#quesenbery">Whitney Quesenbery</a></b></span>, Executive Director, Center for Civic Design
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span>
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Accessible%20Voting%20in%202021%20-%20IAAF%202021.pptx" target="_blank">Accessible Voting in 2021 - IAAF 2021 (PPTX)</a></span>
+        <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Accessible%20Voting%20in%202021%20-%20IAAF%202021.pptx" target="_blank">Accessible Voting in 2021 - IAAF 2021 (PPTX)</a></span>
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@ format: "HTML (html)"
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span>
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Dancing%20to%20Accessibility%20-%20IAAF%202021.pptx" target="_blank">Dancing to Accessibility - IAAF 2021 (PPTX)</a></span>
+        <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Dancing%20to%20Accessibility%20-%20IAAF%202021.pptx" target="_blank">Dancing to Accessibility - IAAF 2021 (PPTX)</a></span>
       </div>
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK B -->  
@@ -132,7 +132,7 @@ format: "HTML (html)"
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Accessibility%20First%20Creating%20a%20Native%20Mobile%20App%20for%20Veterans%20-%20IAAF%202021.pptx" target="_blank">Accessibility First Creating a Native Mobile App for Veterans - IAAF 2021 (PPTX)</a></span>
+        <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Accessibility%20First%20Creating%20a%20Native%20Mobile%20App%20for%20Veterans%20-%20IAAF%202021.pptx" target="_blank">Accessibility First Creating a Native Mobile App for Veterans - IAAF 2021 (PPTX)</a></span>
       </div>
     </div>
     <!-- BEGIN DAY 1 SESSION 1 TRACK C --> 
@@ -149,7 +149,7 @@ format: "HTML (html)"
       </div> 
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Ensuring%20ICT%20Accessibility%20Throughout%20the%20Acquisition%20Lifecycle%20-%20IAAF%202021.pptx">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle - IAAF 2021 (PPTX)</a></p></span>
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Ensuring%20ICT%20Accessibility%20Throughout%20the%20Acquisition%20Lifecycle%20-%20IAAF%202021.pptx">Ensuring ICT Accessibility Throughout the Acquisition Lifecycle - IAAF 2021 (PPTX)</a></p></span>
       </div>
     </div> 
   </div> 
@@ -181,7 +181,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Apprenticeship%20and%20Career%20Pathways%20-%20IAAF%202021.pptx">Inclusive Apprenticeship and Career Pathways - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Inclusive%20Apprenticeship%20and%20Career%20Pathways%20-%20IAAF%202021.pptx">Inclusive Apprenticeship and Career Pathways - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
       <!-- BEGIN DAY 1 SESSION 2 TRACK B -->  
@@ -198,7 +198,7 @@ format: "HTML (html)"
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Designing%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx">Designing to Support People with Cognitive and Learning Disabilities - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Designing%20to%20Support%20People%20with%20Cognitive%20and%20Learning%20Disabilities%20-%20IAAF%202021.pptx">Designing to Support People with Cognitive and Learning Disabilities - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
       <!-- BEGIN DAY 1 SESSION 2 TRACK C -->  
@@ -220,7 +220,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20a%20Machine-Readable%20ACR%20-%20IAAF%202021.pptx">Creating a Machine-Readable ACR - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Creating%20a%20Machine-Readable%20ACR%20-%20IAAF%202021.pptx">Creating a Machine-Readable ACR - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
     </div> 
@@ -246,7 +246,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx">Inclusive Design Demands Inclusive User Research - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Inclusive%20Design%20Demands%20Inclusive%20User%20Research%20-%20IAAF%202021.pptx">Inclusive Design Demands Inclusive User Research - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
       <!-- BEGIN DAY 1 SESSION 3 TRACK B -->
@@ -266,7 +266,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Web%20Accessibility%20at%20the%20CFPB%20-%20IAAF%202021.pptx">Web Accessibility at the CFPB - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Web%20Accessibility%20at%20the%20CFPB%20-%20IAAF%202021.pptx">Web Accessibility at the CFPB - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
       <!-- BEGIN DAY 1 SESSION 3 TRACK C --> 
@@ -283,7 +283,7 @@ format: "HTML (html)"
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Breaking%20through%20Silos_%20Leverage%20Staff%20Creativity%20to%20Serve%20the%20Agency%20Mission%20-%20IAAF%202021.pptx">Breaking through Silos_ Leverage Staff Creativity to Serve the Agency Mission - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Breaking%20through%20Silos_%20Leverage%20Staff%20Creativity%20to%20Serve%20the%20Agency%20Mission%20-%20IAAF%202021.pptx">Breaking through Silos_ Leverage Staff Creativity to Serve the Agency Mission - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
     </div> 
@@ -357,7 +357,7 @@ format: "HTML (html)"
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/International%20Digital%20Accessibilities%20Activities%20-%20IAAF%202021.pptx">International Digital Accessibilities Activities - IAAF 2021 (PPTX)</a></p></span>
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/assets/images/bio-images/presentations/International%20Digital%20Accessibilities%20Activities%20-%20IAAF%202021.pptx">International Digital Accessibilities Activities - IAAF 2021 (PPTX)</a></p></span>
       </div> 
     </div> 
   </div> 
@@ -407,7 +407,7 @@ format: "HTML (html)"
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><p><a href="https://assets.section508.gov/files/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx">Creating Accessible Fillable PDF Forms in Adobe Indesign - IAAF 2021 (PPTX)</a></p></span>
+        <span class="speaker-name"><p><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Creating%20Accessible%20Fillable%20PDF%20Forms%20in%20Adobe%20Indesign%20-%20IAAF%202021.pptx">Creating Accessible Fillable PDF Forms in Adobe Indesign - IAAF 2021 (PPTX)</a></p></span>
       </div> 
     </div> 
     <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description" id="d2bs1c">
@@ -426,7 +426,7 @@ format: "HTML (html)"
       </div>
       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
         <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-        <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20IAAF%202021.pptx">Enhancing Accessibility with AI and Machine Learning - IAAF 2021 (PPT)</a></span>
+        <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20IAAF%202021.pptx">Enhancing Accessibility with AI and Machine Learning - IAAF 2021 (PPT)</a></span>
       </div> 
     </div> 
   </div> 
@@ -456,7 +456,7 @@ format: "HTML (html)"
         </div> 
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx">Moving from Task-based Programs to a SAFE Work-Life for Federal Staff with Disabilities - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Moving%20from%20Task-based%20Programs%20to%20a%20SAFE%20Work-Life%20for%20Federal%20Staff%20with%20Disabilities%20-%20IAAF%202021.pptx">Moving from Task-based Programs to a SAFE Work-Life for Federal Staff with Disabilities - IAAF 2021 (PPTX)</a></span>
         </div>
       </div>
       <!-- D2BS2B --> 
@@ -478,7 +478,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/From%20Five%20Thousand%20to%20Zero%20-%20Prioritizing%20Documents%20for%20Remediation%20-%20IAAF%202021.pptx">From Five Thousand to Zero - Prioritizing Documents for Remediation - IAAF 2021 (PPTX)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/From%20Five%20Thousand%20to%20Zero%20-%20Prioritizing%20Documents%20for%20Remediation%20-%20IAAF%202021.pptx">From Five Thousand to Zero - Prioritizing Documents for Remediation - IAAF 2021 (PPTX)</a></span>
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -502,7 +502,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx">Introducing ICT Baseline Alignment Framework (PPT)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Introducing%20ICT%20Baseline%20Alignment%20Framework%20-%20Final%20web%20version.pptx">Introducing ICT Baseline Alignment Framework (PPT)</a></span>
         </div> 
       </div> 
     </div> 
@@ -529,7 +529,7 @@ format: "HTML (html)"
         </div> -->
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/Reframe%20and%20Reinforce%20-%20Using%20Neuroscience%20to%20Improve%20Support%20for%20Accessibility%20-%20IAAF%202021.pptx">Reframe and Reinforce: Using Neuroscience to Improve Support for Accessibility - IAAF 2021 (PPT)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Reframe%20and%20Reinforce%20-%20Using%20Neuroscience%20to%20Improve%20Support%20for%20Accessibility%20-%20IAAF%202021.pptx">Reframe and Reinforce: Using Neuroscience to Improve Support for Accessibility - IAAF 2021 (PPT)</a></span>
         </div> 
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell lt-olive padding-1 agenda-description">
@@ -553,7 +553,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight margin-top-3">Downloads:</span> 
-          <span class="speaker-name"><a href="https://assets.section508.gov/files/bio-images/presentations/The Current%20State%20of%20Audio%20Description%20in%20the%20US%20Federal%20Government%20-%20IAAF%202021.pptx">The Current State of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
+          <span class="speaker-name"><a href="https://assets.section508.gov/assets/images/bio-images/presentations/The Current%20State%20of%20Audio%20Description%20in%20the%20US%20Federal%20Government%20-%20IAAF%202021.pptx">The Current State of Audio Description in the US Federal Government - IAAF 2021 (PPT)</a></span>
         </div>
       </div> 
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell tan-breakout padding-1 agenda-description">
@@ -703,7 +703,7 @@ format: "HTML (html)"
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight margin-top-3">Downloads:</span>
-          <span><a href="https://assets.section508.gov/files/bio-images/presentations/Driving%20Innovation%20of%20Accessible%20Work%20Technology%20to%20Empower%20Diverse%20Workers%20with%20Disabilities%20-%20IAAF%202021.pptx">Driving Innovation of Accessible Work Technology to Empower Diverse Workers with Disabilities - IAAF 2021 (PPT)</a></span>
+          <span><a href="https://assets.section508.gov/assets/images/bio-images/presentations/Driving%20Innovation%20of%20Accessible%20Work%20Technology%20to%20Empower%20Diverse%20Workers%20with%20Disabilities%20-%20IAAF%202021.pptx">Driving Innovation of Accessible Work Technology to Empower Diverse Workers with Disabilities - IAAF 2021 (PPT)</a></span>
         </div>
       </div> 
     </div>

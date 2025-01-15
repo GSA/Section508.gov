@@ -10,7 +10,7 @@ position: Chief, Information Technology Diversity, Equity, Inclusion and Accessi
 office: 
 location: 
 email: 
-image_url: https://assets.section508.gov/files/bio-images/paschel-shannon.png
+image_url: https://assets.section508.gov/assets/images/bio-images/paschel-shannon.png
 iaaf_years: 2022
 ---
 Mrs. Paschel is currently serving on a joint duty assignment at the Office of the Director of National Intelligence, within the Intelligence Community (IC) Chief Information Office (CIO) as the Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility Chief.

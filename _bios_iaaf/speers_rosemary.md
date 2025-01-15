@@ -10,7 +10,7 @@ position: Team Lead
 office: Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility (DEIA)
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/speers-rosemary.png
+image_url: https://assets.section508.gov/assets/images/bio-images/speers-rosemary.png
 iaaf_years: 2022
 ---
 Dr. Speers leads the Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility (DEIA) contractor team supporting the Chief Information Officer of the Intelligence Community. In this role, she focuses on reducing barriers for intelligence officers to access the technology they need, and has helped develop the Intelligence Community’s IT Accessibility Maturity Model. She has been working with the Office of the Director of National Intelligence (ODNI) for the past year.

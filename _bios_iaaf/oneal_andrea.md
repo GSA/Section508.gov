@@ -10,7 +10,7 @@ position: Senior Advisor to the Administrator for Equity
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/oneal-andrea.png
+image_url: https://assets.section508.gov/assets/images/bio-images/oneal-andrea.png
 iaaf_years: 2020, 2023
 ---
 Andrea M. O'Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic, first-ever position for the agency, O'Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management.
