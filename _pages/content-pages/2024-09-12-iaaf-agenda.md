@@ -3,7 +3,6 @@ layout: wide
 sidenav: false
 permalink: iaaf/archives/agenda-2024/
 redirect_from: iaaf/agenda-2024/
-redirect_from: iaaf-agenda/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2024
 created: 2024-09-23

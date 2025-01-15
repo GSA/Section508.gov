@@ -33,7 +33,7 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 * Meet ANDI - Coming soon.
 * [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://assets.section508.gov/files/presentations/iaaf/2024/Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx)
 
-For event details, visit: [2024 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2024).
+For event details, visit: [2024 IAAF Agenda]({{base.siteurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{base.siteurl}}/iaaf/archives/biographies-2024/).
 
 ## 2023 Interagency Accessibility Forum
 
