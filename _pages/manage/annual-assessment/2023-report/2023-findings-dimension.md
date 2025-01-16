@@ -17,7 +17,7 @@ format: "HTML (html)"
 ---
 ### Dimensional Highlights
 
-Maturity  questions ranged from Q22 to Q61 (excepting Q27B) (See <a href="https://assets.section508.gov/files/reports/cr-2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>). These questions are grouped into the following nine maturity  dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities, Testing and Validation; Acquisition and Procurement; and Training. Below are the overall outcomes for governmentwide maturity:
+Maturity  questions ranged from Q22 to Q61 (excepting Q27B) (See <a href="https://training.section508.gov/files/reports/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>). These questions are grouped into the following nine maturity  dimensions: IT Accessibility Program Office; Policies, Procedures, and Standards; Communications; Content Creation; Human Capital, Culture, and Leadership; Technology Lifecycle Activities, Testing and Validation; Acquisition and Procurement; and Training. Below are the overall outcomes for governmentwide maturity:
 
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
