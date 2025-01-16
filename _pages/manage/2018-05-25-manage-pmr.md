@@ -3,8 +3,9 @@ layout: page
 sidenav: true
 permalink: manage/pmr/
 type: manage
-title: 'Section 508 Program Maturity Report'
-created: 1527274672
+title: 'Section 508 Program Maturity Report (PMR)'
+created: 2018-05-25
+updated: 2025-01-16
 redirect_from:
 - manage/reporting/ #renamed THIS page's permalink to better distingish between Annual Section 508 Assessment
 - content/manage/reporting/ #retaining redirects from legacy pages
@@ -31,44 +32,46 @@ resource-type: Long form article
 format: HTML (html)
 ---
 
-**The [Government-wide Section 508 Assessment Instructions]({{site.baseurl}}/manage/section-508-assessment/) and corresponding report replaces the previously required semi-annual Section 508 Program Maturity Report.**
+**NOTICE: The [Government-wide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/) replaces the previously required semi-annual Section 508 Program Maturity Report archived on this page for reference.**
 
-The Office of Management and Budget's (OMB) <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> issued on January 23, 2013 aims to improve how agencies manage Section 508 and IT accessibility responsibilities by increasing transparency, strengthening accountability, and improving collaboration.
+---
+
+The Office of Management and Budget's (OMB) <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" target="_blank" class="usa-link--external">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a> issued on January 23, 2013 aims to improve how agencies manage Section 508 and IT accessibility responsibilities by increasing transparency, strengthening accountability, and improving collaboration.
 
 Federal agencies have been required to report to OMB twice per year on their Section 508 program maturity and effectiveness. GSA’s Government-wide IT Accessibility Program analyzes these reports to identify ways to increase collaboration across agencies, reduce redundancies, and develop solutions to improve the management of government accessibility programs. Executive summary reports, along with a companion supplemental report, are provided to OMB, U.S. Access Board, and Chief Information Officers (CIO) Council Accessibility Community of Practice (ACOP).
 
 On December 29, 2022 the President signed the <a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651" target="_blank">Consolidated Appropriations Act, 2023</a> which, in Section 752, tasked the Office of Management and Budget (OMB), in consultation with the General Services Administration (GSA) and the U.S. Access Board (USAB), to update criteria and instructions for evaluating agencies’ Section 508 efforts.  Section 752 requires federal agencies to report on the implementation of Section 508 in accordance with the updated criteria and instructions by August 11, 2023, and annually thereafter.
 
 ## Report Downloads
-In a <a href="https://www.aging.senate.gov/imo/media/doc/letter_to_gsa_administrator_robin_carnahan_re_section_508_compliance.pdf" target="_blank">letter to GSA Administrator Robin Carnahan regarding Section 508 compliance</a>, members of the Special Committee on Aging, Committee on Homeland Security and Governmental Affairs, and Committee on Health, Education, Labor and Pensions requested that GSA provide all summary reports, trend analysis, or other analyses or recommendations from 2019 through 2022.
+In a <a href="https://www.aging.senate.gov/imo/media/doc/letter_to_gsa_administrator_robin_carnahan_re_section_508_compliance.pdf" target="_blank" target="_blank" class="usa-link--external">letter to GSA Administrator Robin Carnahan regarding Section 508 compliance</a>, members of the Special Committee on Aging, Committee on Homeland Security and Governmental Affairs, and Committee on Health, Education, Labor and Pensions requested that GSA provide all summary reports, trend analysis, or other analyses or recommendations from 2019 through 2022.
 
 Accordingly, and in consultation with the Office of Management and Budget (OMB), the Department of Justice (DOJ) and the Chief Information Officers (CIO) Council, GSA is making these Section 508 Program Maturity Reports available for download from this page.
 
 ### 2023
-* <a href="https://assets.section508.gov/files/reports/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Spring 2023 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Spring 2023 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2023 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2023 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
 
 ### 2022
-* <a href="https://assets.section508.gov/files/reports/2022%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Autumn 2022 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2022%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Autumn 2022 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2022%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Spring 2022 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2022%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Spring 2022 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2022%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2022 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2022%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2022 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2022%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2022 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2022%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2022 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
 
 ### 2021
-* <a href="https://assets.section508.gov/files/reports/2021%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Autumn 2021 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2021%20Autumn%20section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Autumn 2021 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2021%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Spring 2021 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2021%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Spring 2021 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2021%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2021 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2021%20Autumn%20section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2021 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2021%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2021 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2021%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2021 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
 
 ### 2020
-* <a href="https://assets.section508.gov/files/reports/2020%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Autumn 2020 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2020%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Autumn 2020 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2020%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Spring 2020 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2020%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank">Spring 2020 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2020%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2020 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2020%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2020 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2020%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2020 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2020%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Supplemental.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2020 Section 508 Program Maturity Report - Executive Supplemental (PDF)</a>
 
 ### 2019
-* <a href="https://assets.section508.gov/files/reports/2019%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Autumn 2019 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
-* <a href="https://assets.section508.gov/files/reports/2019%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank">Spring 2019 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2019%20Autumn%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Autumn 2019 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/reports/2019-2023/2019%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf" target="_blank" target="_blank" class="usa-link--external">Spring 2019 Section 508 Program Maturity Report - Executive Summary (PDF)</a>
 
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h2><strong>Understanding the Reporting Questions</strong></h2>
@@ -121,4 +124,4 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
 
 For any questions about the government-wide Section 508 reporting, please [contact us]({{site.baseurl}}/contact-us/).
 
-**Reviewed/Updated**: July 2023
+**Reviewed/Updated**: January 2025
