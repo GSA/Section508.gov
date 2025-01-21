@@ -62,7 +62,7 @@ Describe the content of the photo that is relevant to the surrounding context. I
 
 #### Example for Photos and Portraits
 <div class="tablet:grid-col" style="margin: auto; max-width: 35%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-01.jpg" alt="Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-01.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Example for Photos and Portraits.</span>
     </div>
