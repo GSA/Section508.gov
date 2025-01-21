@@ -175,7 +175,6 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-  * **United States Special Operations Command (USSOCOM)** <br>Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
@@ -244,12 +243,14 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
 ### Pentagon Force Protection Agency (PFPA)
 Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
-### U.S. Northern Command (USNORTHCOM)
+### United States Northern Command (USNORTHCOM)
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
-### U.S. Southern Command (SOUTHCOM)
+### United States Southern Command (SOUTHCOM)
 Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
-### U.S. Space Command (USSPACECOM)
+### United States Space Command (USSPACECOM)
 Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
+### United States Special Operations Command (USSOCOM)  
+Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -607,10 +608,6 @@ Rezaur Rahman - <rrahman@achp.gov>
 ---
 ### American Battle Monuments Commission (ABMC)
 Jennifer Li - <lij@abmc.gov>  
-
----
-### Army Corps of Engineers  (USACE)
-Guy T. Tate - <guy.t.tate@usace.army.mil>
 
 ---
 
