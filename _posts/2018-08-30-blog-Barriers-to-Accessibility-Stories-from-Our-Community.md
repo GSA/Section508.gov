@@ -10,7 +10,6 @@ topic: "Other"
 sub-topic: "General Info and Best Practices"
 audience:
 - "Public (public)"
-- "Chief Diversity and Inclusion Officer (cdio)"
 - "508 Program Manager (508pm)"
 - "Federal employee (fedemp)"
 resource-type: "Blog article (blog)"

@@ -13,7 +13,6 @@ audience:
 - Manager/Exec (exec)
 - Chief Information Officer (cio)
 - Lawmakers and Policy Officials (law-policy)
-- Chief Diversity and Inclusion Officer (cdio)
 resource-type: Blog article (blog)
 format: HTML (html)
 ---

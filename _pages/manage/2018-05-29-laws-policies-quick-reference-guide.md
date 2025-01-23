@@ -105,7 +105,7 @@ Prepare accessibility requirements for in-house procurement of customized and of
   Task 3 - Update Solicitation Language
 </h2>
 
-Validate that accessibility requirements and contract language are developed based on the Revised 508 Standards, for inclusion in Statements of Work and other solicitation documents.
+Validate that accessibility requirements and contract language are developed based on the Revised 508 Standards, for incorporation into Statements of Work and other solicitation documents.
 
 ### What&rsquo;s Changing?
 

@@ -82,12 +82,7 @@ Related laws include:
 ## Related Policies
 <strong>Audience: </strong> Agency leadership, Chief Information Officers, Section 508 Program Managers, Web Managers, Developers, and content creators, or equivalents.
 
-### Executive Orders
-<ul>
-  <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/" target="_blank" class="usa-link--external text-top">Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce</a></li>
-  <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/" target="_blank" class="usa-link--external text-top">Executive Order On Advancing Racial Equity and Support for Underserved Communities Through the Federal Government</a></li> 
-  <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/" target="_blank" class="usa-link--external text-top">Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government</a></li> 
-</ul>
+<!-- ### Executive Orders -->
 
 ### Office of Management and Budget (OMB) Memos
 

@@ -18,7 +18,7 @@ resource-type: "Training"
 format: "HTML (html)"
 --- 
 ## 2024 Interagency Accessibility Forum
-The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference built on the theme ***Achieving Digital Equity: Policies, Tools, and Techniques*** and featured presentations, panel discussions and workshops led by accessibility experts across the federal government. 
+The 2024 Interagency Accessibility Forum (IAAF) was a two-day conference featuring presentations, panel discussions and workshops led by accessibility experts across the federal government. 
 
 The IAAF was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy at the General Services Administration (GSA), and co-sponsored by the United States Access Board and the Federal Chief Information Officer Council’s Accessibility Community of Practice , with support from other federal agencies and ICT professionals.
 
@@ -141,25 +141,6 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
     </div>
   </li>
-  <!-- S6 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">A Fireside Chat with Accessibility Leaders</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s6-thumbnail.jpg" alt="Alison Levy" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#levy-alison">Alison Levy</a>, Director, Office of Technical and Information Services, USAB, lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-fireside-chat-with-accessibility-leaders/" class="usa-button">Watch: A Fireside Chat with Accessibility Leaders</a>
-      </div>
-    </div>
-  </li>
   <!-- S7 -->
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
     <div class="usa-card__container">
@@ -178,25 +159,6 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
         <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/" class="usa-button">Watch: Accessibility Round Table with VA</a>
       </div>
     </div>
-  </li>
-  <!-- S8 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">The Accessibility-Powered Future of Work</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s8-thumbnails.jpg" alt="Andrea O'Neal" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#andrea-oneal">Andrea M. O’Neal</a>, Senior Advisor to the Administrator for Equity, General Services Administration, moderated a plenary discussion to explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/" class="usa-button">Watch: The Accessibility-Powered Future of Work</a>
-      </div>
-    </div>
   </li>  
 </ul>
 
@@ -204,57 +166,13 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
 
 ## 2022 Interagency Accessibility Forum
 
-The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for inclusion, diversity, and equity within the federal government.
+The 2022 Interagency Accessibility Forum (IAAF) celebrated accessibility as a foundation for information technology within the federal government.
 
 Attendees of this ninth annual IAAF heard two keynote addresses, along with presentations and panel discussions that focused on ***Unlocking the Power of Accessibility***. In addition, the forum – for the first time – included virtual workshops hosted by accessibility subject matter experts who work within their agency to ensure equivalent access to information and digital services by people living with disabilities.
 
 Whether you were new to IT accessibility or a seasoned content creator, there was something for everyone – acquisition officials, business analysts, project managers, developers, testers, content creators, Section 508 Program Managers, agency management and leadership, and federal personnel and contractors interested in accessibility.
 
 The 2022 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), and National Institutes of Health, in partnership with other federal agencies.
-
-<h3 class="site-preview-heading">Event Highlights</h3>
-<ul class="usa-card-group">
-  <li class="usa-card usa-card--flag desktop:grid-col-12 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h2 class="usa-card__heading">Oct 12 Keynote Address: Kim Knackstedt</h2>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-knackstedt-thumb.jpg" alt="Oct 12 Keynote Address: Kim Knackstedt" class="border-base radius-lg border-0px" /></a>
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>
-          Andrew Nielson, Director, Government-wide IT Accessibility Program at the General Services Administration, and Kimberly Knackstedt, Senior Fellow and Co-Director, Disability Economic Justice Collaborative at The Century Foundation, discuss disability as a human experience. 
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/">Watch: Oct 12 Keynote</a>
-      </div>
-    </div>
-  </li>
-  <li class="usa-card usa-card--flag desktop:grid-col-12 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h2 class="usa-card__heading">Oct 13 Keynote Address: Day Al Mohamed</h2>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <a href="{{site.baseurl}}/training/presentations-workshops/keynote-day-al-mohamed/"><img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-al-mohamed-thumb.jpg" alt="Oct 13 Keynote Address: Day Al Mohamed" class="border-base radius-lg border-0px" /></a>
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>
-          Andrea O'Neal, Senior Advisor to the Administrator for Equity at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/training/presentations-workshops/keynote-day-al-mohamed/">Watch: Oct 13 Keynote</a>
-      </div>
-    </div>
-  </li>
-</ul>
 
 ### Event Agenda & Speaker and Presenter Biographies
 The 2022 IAAF was a three-day forum with featured speakers, keynote addresses, workshops, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
@@ -296,7 +214,7 @@ For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-202
 
 The 2021 Interagency Accessibility Forum celebrated the 75th observance of the National Disability Employment Awareness Month (NDEAM) and the 20th anniversary of Section 508 of the Rehabilitation Act becoming enforceable.
 
-Attendees of this year’s IAAF will hear presentations and panel discussions that will focus on accessibility as a foundation for inclusion, diversity, and equity within the federal government. In addition, the forum will include virtual exhibitions by accessibility consultants and IT companies with accessibility products and services that support those with disabilities.
+Attendees of this year’s IAAF will hear presentations and panel discussions that will focus on accessibility as a foundation for information technology within the federal government. In addition, the forum will include virtual exhibitions by accessibility consultants and IT companies with accessibility products and services that support those with disabilities.
 
 The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Department of Health and Human Services (HHS), Department of Labor (DOL), and Merit Service Protection Board (MSPB), in partnership with other federal agencies.
 
@@ -334,7 +252,7 @@ The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chie
       </div>
       <div class="usa-card__body">
         <p>
-          Andrea M. O'Neal, Senior Advisor to the Administrator (Equity) at the General Services Administration, and Judith E. Heumann, International Disability Rights Activist, discuss Diversity, Equity and Inclusion through the lens of accessibility.
+          Andrea M. O'Neal, Senior Advisor to the Administrator at the General Services Administration, and Judith E. Heumann, International Disability Rights Activist.
         </p>
       </div>
       <div class="usa-card__footer">
@@ -354,7 +272,7 @@ The 2021 Interagency Accessibility Forum (IAAF) is sponsored by the Federal Chie
       </div>
       <div class="usa-card__body">
         <p>
-          Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental part of what the government stands for in supporting its employees and the American public. Join an inter-agency panel of accessibility practitioners as they share a brief look at this foundation ... its past, present, and future. 
+          Accessibility is one of the foundations of information technology and an instrumental part of what the government stands for in supporting its employees and the American public. Join an inter-agency panel of accessibility practitioners as they share a brief look at this foundation ... its past, present, and future. 
         </p>
       </div>
       <div class="usa-card__footer">

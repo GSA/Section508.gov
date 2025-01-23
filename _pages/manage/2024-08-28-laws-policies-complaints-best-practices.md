@@ -11,7 +11,6 @@ audience:
 - Lawmakers and Policy Officials (law-policy)
 - Agency Head (head)
 - Equal Employment Opportunity Officer (eeo)
-- Chief Diversity and Inclusion Officer (cdio)
 resource-type:
 format: HTML (html)
 ---

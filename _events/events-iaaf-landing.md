@@ -7,7 +7,7 @@ start-date: Tuesday, May 20 2025 9:30 #only fill in start date if the events spa
 end-date: Thursday, May 22 2025 16:30 #otherwise use end-date
 created: 2014-01-01
 updated: 2025-01-16
-description: The 2023 Interagency Accessibility Forum (IAAF) celebrates accessibility as a foundation for inclusion, diversity, and equity within the federal government.
+description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/

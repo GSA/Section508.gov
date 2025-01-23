@@ -29,6 +29,6 @@ We invite you to walk through the key acquisition lifecycle stages with our pres
 ## REGISTRATION
 **Registration:** <a href="https://feedback.gsa.gov/jfe/form/SV_3kNpfViBNQZVNNY" target="_blank">Registration is now open</a> and will close Monday, June 13 at 12:00 pm. - Sign up today!
 
-**Note: You must join the meeting using your first and last name (inclusion of agency affiliation is optional). Nicknames and phone numbers will not be given access*
+**Note: You must join the meeting using your first and last name. Agency affiliation is optional. Nicknames and phone numbers will not be given access*
 
 **Reviewed/Updated:** June 2022

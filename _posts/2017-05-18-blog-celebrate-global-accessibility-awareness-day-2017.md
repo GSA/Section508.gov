@@ -11,7 +11,7 @@ sub-topic: "N/A"
 audience:
 - "Public (public)"
 - "508 Program Manager (508pm)"
-- "Chief Diversity and Inclusion Officer (cdio)"
+- "Chief Diversity and "
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---
