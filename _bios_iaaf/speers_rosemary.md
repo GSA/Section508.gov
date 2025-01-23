@@ -7,13 +7,13 @@ last_name: Speers
 affiliation_long: Office of the Director of National Intelligence
 affiliation_short: ODNI
 position: Team Lead
-office: Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility (DEIA)
+office: Information Technology
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/speers-rosemary.png
+image_url: https://assets.section508.gov/assets/images/bio-images/speers-rosemary.png
 iaaf_years: 2022
 ---
-Dr. Speers leads the Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility (DEIA) contractor team supporting the Chief Information Officer of the Intelligence Community. In this role, she focuses on reducing barriers for intelligence officers to access the technology they need, and has helped develop the Intelligence Community’s IT Accessibility Maturity Model. She has been working with the Office of the Director of National Intelligence (ODNI) for the past year.
+Dr. Speers leads a contractor team supporting the Chief Information Officer of the Intelligence Community. In this role, she focuses on reducing barriers for intelligence officers to access the technology they need, and has helped develop the Intelligence Community’s IT Accessibility Maturity Model. She has been working with the Office of the Director of National Intelligence (ODNI) for the past year.
 
 Dr. Speers previously served as Strategy Consultant to the Chief Data Officer for the Defense Intelligence Agency. Prior to that, she worked with the Center for Naval Analyses (CNA) for nearly 20 years, as Principal Scientist and Managing Director leading projects for the U.S. Navy, Office of the Secretary of Defense, Department of Health and Human Services, U.S. Department of Agriculture, and several state-level agencies. 
 

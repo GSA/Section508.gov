@@ -27,7 +27,7 @@ Prior to participating in an office hours event, please ensure that you are fami
 
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.  
 
-*Note: **You must join the meeting using your first and last name** (inclusion of agency affiliation is optional). Nicknames and phone numbers will not be given access.
+**Note: You must join the meeting using your first and last name. Agency affiliation is optional. Nicknames and phone numbers will not be given access*
 
 **Reviewed/Updated:** April 2023
 

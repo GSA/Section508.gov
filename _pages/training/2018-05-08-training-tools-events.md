@@ -62,7 +62,7 @@ Learn how you can make your agency's electronic information and digital services
       </div>
       <div class="usa-card__body">
         <p>Attend current, upcoming, and view our recurring events.</p>
-        <p><a href="{{site.baseurl}}/iaaf/">2024 Interagency Accessibility Forum (IAAF)</a></p>
+        <p><a href="{{site.baseurl}}/iaaf/">2025 Interagency Accessibility Forum (IAAF)</a> &mdash; May 2025</p>
       </div>
     </div>
   </li>

@@ -5,6 +5,7 @@ permalink: training/alt-text/what-is-alternative-text/
 type: training
 title: 'What is Alternative Text?'
 created: 2024-05-23
+updated: 2025-01-09
 updated:
 topic: Training (train)
 sub-topic: Graphics Specific (image descriptions)
@@ -19,7 +20,7 @@ format: Video & Synchronized Media (video)
 ---
 Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities. While there are other benefits of alt text for all users, this video focuses on people who use screen readers.
 
-<video controls="controls" poster="https://assets.section508.gov/files/videos/what-is-alternative-text-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/what-is-alternative-text-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/create-what-is-alt-text-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/create-what-is-alt-text-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
@@ -69,4 +70,4 @@ Alternative text, also known as alt text, is descriptive text that conveys the m
 ## Other Related Resources
 * [Authoring Meaningful Alternative Text]({{site.baseurl}}/create/alternative-text/)
 
-**Reviewed/Updated**: May 2024
+**Reviewed/Updated**: January 2025

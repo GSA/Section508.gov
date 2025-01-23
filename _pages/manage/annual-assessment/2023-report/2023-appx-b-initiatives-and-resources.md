@@ -37,8 +37,6 @@ Important governmentwide initiatives and resources have developed out of the leg
 
 * The <a href="https://www.dhs.gov/trusted-tester" target="_blank">DHS Trusted Tester Process Version 5 (TT v5)</a> is an ICT Baseline-aligned, manual test process used to determine if web content conforms to the ICT Standards and Guidelines. It is a reliable and consistent approach to determine the extent of web content conformance.
 
-* With the EO on "<a href="https://www.federalregister.gov/documents/2021/06/30/2021-14127/diversity-equity-inclusion-and-accessibility-in-the-federal-workforce" target="_blank">Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce</a>" in June 2021, OMB launched the governmentwide DEIA initiative to enhance diversity, equity, inclusion, and accessibility across the federal government. As part of the initiative, OPM provides <a href="https://www.opm.gov/policy-data-oversight/diversity-equity-inclusion-and-accessibility/reference-materials/diversity-equity-inclusion-accessibility-in-the-federal-workforce.pdf" target="_blank"> to agencies to advance accessibility for federal employees with disabilities.
-
 --- 
 
 <div>

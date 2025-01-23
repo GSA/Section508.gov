@@ -19,9 +19,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<p style="text-align:center;">
-  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
-</p>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a class="" href="#I">I <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a href="#O">O <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#Q">Q <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
@@ -38,7 +36,7 @@ format: "HTML (html)"
 <!---
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-.png" alt="" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-.png" alt="" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lowerlastname">
@@ -61,7 +59,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-aguh.png" alt="Chike Aguh" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-aguh.png" alt="Chike Aguh" />
   </div>
   <!-- NEW BIO -->
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -75,7 +73,7 @@ format: "HTML (html)"
       <span>On January 20, 2021, Chike Aguh (Chee-kay Ah-Goo) was sworn in as Chief Innovation Officer (CInO) at the United States Department of Labor, appointed by President Joe Biden. Reporting to the Deputy Secretary and also serving as the Senior Advisor for Delivery, he leads efforts to use innovative technologies, partnerships and practices to accelerate the Department’s mission of delivering a future of work that includes and dignifies every American.</span>
     </p>
     <p>
-      <span>Previously, Chike was the inaugural Head of Economic Mobility Pathways at the Education Design Lab where he launched the Community College Growth Engine Fund, an innovative multimillion dollar effort turning community colleges into bridges to careers in high growth fields for thousands. He has been a Technology and Human Rights Fellow at the Harvard Carr Center for Human Rights Policy where he focused on the future of work and racial equity, Venture Partner at Maryland-based New Markets Venture Partners where he focused on workforce technologies, member of the Council on Foreign Relations’ Future of Work Taskforce, Lecturer at Columbia University, and guest speaker at the University of Maryland School of Public Policy.</span>
+      <span>Previously, Chike was the inaugural Head of Economic Mobility Pathways at the Education Design Lab where he launched the Community College Growth Engine Fund, an innovative multimillion dollar effort turning community colleges into bridges to careers in high growth fields for thousands. He has been a Technology and Human Rights Fellow at the Harvard Carr Center for Human Rights Policy, Venture Partner at Maryland-based New Markets Venture Partners where he focused on workforce technologies, member of the Council on Foreign Relations’ Future of Work Taskforce, Lecturer at Columbia University, and guest speaker at the University of Maryland School of Public Policy.</span>
     </p>
     <p>
       <span>Additionally, Chike has worked as an education policy official in America’s largest school system, 2nd grade teacher and Teach For America corps member, Fulbright Scholar in Thailand researching education and skills, director of corporate strategy and performance technologies at Education Advisory Board (EAB), CEO of a national social enterprise which helped connect 500,000 low-income Americans to affordable internet and digital skills, and Senior Principal and Future of Work Lead at the McChrystal Group, a business advisory firm founded by Gen. (ret.) Stanley McChrystal.</span>
@@ -95,7 +93,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-aiken.png" alt="Broke Aiken" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-aiken.png" alt="Broke Aiken" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="aiken">
@@ -134,7 +132,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-azeem.png" alt="Syed Azeed" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-azeem.png" alt="Syed Azeed" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="azeem">
@@ -167,7 +165,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-borowicz.png" alt="Kimberly Borowicz" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-borowicz.png" alt="Kimberly Borowicz" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="borowicz">
@@ -191,7 +189,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-bradford.png" alt="Lorena Bradford" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-bradford.png" alt="Lorena Bradford" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="bradford">
@@ -212,7 +210,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-brumfield.png" alt="Krystal Brumfield" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-brumfield.png" alt="Krystal Brumfield" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="brumfield">
@@ -245,7 +243,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-brunson.png" alt="Arthur Brunson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-brunson.png" alt="Arthur Brunson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="brunson">
@@ -285,7 +283,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-campbell.png" alt="Cheryl Campbell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-campbell.png" alt="Cheryl Campbell" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="campbell">
@@ -295,7 +293,7 @@ format: "HTML (html)"
       <em><span>Assistant Secretary for Administration (ASA)</span></em><br /><span>Department of Health and Human Services (HHS)</span>
     </p>
     <p>
-      <span>Cheryl Campbell is appointed as the permanent HHS Assistant Secretary for Administration. Ms. Campbell was previously serving in an acting role since March,2021 where she has already laid the groundwork for 21 century HHS operations.  The Office of the Assistant Secretary for Administration (ASA) is responsible for the delivery of high quality, cost effective, and timely mission support services for HHS and through the critical transition period Ms. Campbell has led the agencies administration through many of the nation and the world’s most challenging issues. ASA’s portfolio of responsibilities is broad: it includes the provisioning and management of human resources, technology, facilities, acquisitions, employee safety, security, labor relations, equal employment opportunity, diversity and inclusion. Ms. Campbell is the first person to hold the position that has leadership experience at each of the HHS Op/Div and Staff/Div’s and she will be the first female Assistant Secretary for Administration and first person of color to serve as the Assistant Secretary for Administration.</span>
+      <span>Cheryl Campbell is appointed as the permanent HHS Assistant Secretary for Administration. Ms. Campbell was previously serving in an acting role since March,2021 where she has already laid the groundwork for 21 century HHS operations.  The Office of the Assistant Secretary for Administration (ASA) is responsible for the delivery of high quality, cost effective, and timely mission support services for HHS and through the critical transition period Ms. Campbell has led the agencies administration through many of the nation and the world’s most challenging issues. ASA’s portfolio of responsibilities is broad: it includes the provisioning and management of human resources, technology, facilities, acquisitions, employee safety, security, labor relations, equal employment opportunity. Ms. Campbell is the first person to hold the position that has leadership experience at each of the HHS Op/Div and Staff/Div’s and she will be the first female Assistant Secretary for Administration and first person of color to serve as the Assistant Secretary for Administration.</span>
     </p>
     <p>
       <span>Ms. Campbell has an extensive background as a chief corporate executive with over 30 years of profit-driven results, annual budget planning, quarterly budget and forecast performance, operations, human capital acquisition and retention, P&L management, and strategic planning. She has supported HHS OpDiv’s throughout her career and is a known and trusted entity throughout HHS.  Ms. Campbell is the founder and past CEO of the EagleForce Warrior Foundation, which supports wounded, ill and injured military service members and their extended families as they recover in the Department of Defense’s critical care facilities.</span>
@@ -315,7 +313,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-carr.png" alt="Annette Carr" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-carr.png" alt="Annette Carr" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="carr">
@@ -339,14 +337,14 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-center.png" alt="Jessica Center" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-center.png" alt="Jessica Center" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="center">
       <strong>Jessica Center</strong>
     </p>
     <p>
-      <em><span>Branch Director, Access and Equity, Office of Equity, Diversity, and Inclusion</span></em><br /><span>National Institute of Health (NIH)</span>
+      <em><span>Branch Director</span></em><br /><span>National Institute of Health (NIH)</span>
     </p>
     <!-- <p>
       <span>BIO-GOES-HERE</span>
@@ -360,7 +358,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-charlier.png" alt="Louis Charlier" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-charlier.png" alt="Louis Charlier" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="charlier">
@@ -381,7 +379,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-chosak.png" alt="Andy Chosak" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-chosak.png" alt="Andy Chosak" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="chosak">
@@ -402,7 +400,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-christianson.png" alt="Josh Christianson, M.S." />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-christianson.png" alt="Josh Christianson, M.S." />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="christianson">
@@ -418,7 +416,7 @@ format: "HTML (html)"
     </p>
     <p>
       <span>
-      Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship. Josh has extensive experience in supporting the diversity, equity, inclusion, and accessibility (DEIA) efforts of non-profit organizations, private companies, and government agencies.</span>
+      Josh Christianson is Project Director for the Partnership on Inclusive Apprenticeship (PIA) where he leads efforts to create a more diverse and inclusive workforce through apprenticeship.</span>
     </p>
     <p>
       <span>He is the former director of the Partnership on Employment & Accessible Technology (PEAT), where he built cross-sector partnerships to shape the policies and practices contributing to the development of accessible emerging technologies in the workplace.</span>
@@ -439,7 +437,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-creagan.png" alt="Tim Creagan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-creagan.png" alt="Tim Creagan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="creagan">
@@ -482,7 +480,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-duckworth.png" alt="Senator Tammy Duckworth" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-duckworth.png" alt="Senator Tammy Duckworth" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -504,7 +502,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-duffy.png" alt="Robert 'Bobby' Duffy" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-duffy.png" alt="Robert 'Bobby' Duffy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="duffy">
@@ -540,7 +538,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-eng.png" alt="Katherine Eng" title="Katherine Eng" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-eng.png" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -571,7 +569,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-faied.png" alt="Mayora Faied" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-faied.png" alt="Mayora Faied" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -593,7 +591,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-fuoco.png" alt="Angie Fuoco" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-fuoco.png" alt="Angie Fuoco" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="fuoco">
@@ -624,7 +622,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-gibson.png" alt="Yvette Gibson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-gibson.png" alt="Yvette Gibson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gibson">
@@ -648,7 +646,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-gifford.png" alt="Mike Gifford" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-gifford.png" alt="Mike Gifford" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gifford">
@@ -671,7 +669,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-goldstein.png" alt="Lindsay Goldstein" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-goldstein.png" alt="Lindsay Goldstein" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="goldstein">
@@ -692,7 +690,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-gordy.png" alt="John Gordy" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-gordy.png" alt="John Gordy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="gordy">
@@ -713,7 +711,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-green.png" alt="Bess Green" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-green.png" alt="Bess Green" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="green">
@@ -744,7 +742,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-haileselassie.png" alt="Antonio Haileselassie" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-haileselassie.png" alt="Antonio Haileselassie" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="haileselassie">
@@ -765,7 +763,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-harding.png" alt="Stephen Harding" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-harding.png" alt="Stephen Harding" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="harding">
@@ -792,7 +790,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-harward.png" alt="Antonia Harward" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-harward.png" alt="Antonia Harward" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="harward">
@@ -813,7 +811,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-heumann.png" alt="Judith E. Heumann" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-heumann.png" alt="Judith E. Heumann" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="heumann">
@@ -861,7 +859,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-horton.png" alt="Michael Horton" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-horton.png" alt="Michael Horton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -886,7 +884,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-humphrey.png" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-humphrey.png" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -918,7 +916,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-islam.png" alt="Mohamma Islam" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-islam.png" alt="Mohamma Islam" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="islam">
@@ -949,7 +947,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-johnson.png" alt="Antoinette  Johnson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-johnson.png" alt="Antoinette  Johnson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="johnson">
@@ -959,7 +957,7 @@ format: "HTML (html)"
       <em><span>Section 508 Program Manager</span></em><br /><span>Centers for Medicare & Medicaid Services (CMS)</span>
     </p>
     <p>
-      <span>Antoinette “AJ” Johnson has been with the Centers for Medicare and Medicaid Services (CMS) since 1999 and has been CMS’ Section 508 Program Manager since 2018. As the Section 508 Program Manager, she has led the agency’s mission on accessibility and inclusiveness in government. She has also supported the agency’s IT Governance initiatives which are aligned with the CMS Administrator’s focus on operational efficiencies. AJ is a steadfast leader in Disability Inclusion as well. AJ is primarily responsible for CMS’ engagements with internal and external stakeholders with a focus on Section 508 Policies issuance, development of 508 accessible trainings and education programs, ensuring accessibility in procurements and acquisitions, and the execution of accessibility validation testing protocols; which all support access for all, including those with disabilities. She is solution-oriented and considers accessibility and universal design a cornerstone of the agency’s  goals, workforce development, and plan management.
+      <span>Antoinette “AJ” Johnson has been with the Centers for Medicare and Medicaid Services (CMS) since 1999 and has been CMS’ Section 508 Program Manager since 2018. As the Section 508 Program Manager, she has led the agency’s mission on accessibility and inclusiveness in government. She has also supported the agency’s IT Governance initiatives which are aligned with the CMS Administrator’s focus on operational efficiencies. AJ is primarily responsible for CMS’ engagements with internal and external stakeholders with a focus on Section 508 Policies issuance, development of 508 accessible trainings and education programs, ensuring accessibility in procurements and acquisitions, and the execution of accessibility validation testing protocols; which all support access for all, including those with disabilities. She is solution-oriented and considers accessibility and universal design a cornerstone of the agency’s  goals, workforce development, and plan management.
       </span>
     </p>
     <p>
@@ -971,7 +969,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-jubar.png" alt="Brandon Jubar" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-jubar.png" alt="Brandon Jubar" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="jubar">
@@ -1002,7 +1000,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-kale.png" alt="Katy Kale" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kale.png" alt="Katy Kale" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kale">
@@ -1032,7 +1030,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-kim.png" alt="Sonna Kim" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kim.png" alt="Sonna Kim" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="kim">
@@ -1054,7 +1052,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-king.png" alt="Jacob King" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-king.png" alt="Jacob King" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="king">
@@ -1067,7 +1065,7 @@ format: "HTML (html)"
       <span>Jacob King began his career in disability services as a sign language interpreter, having learned the language at a young age from d/Deaf friends and receiving a degree in interpretation from Gallaudet university.</span>
     </p>
     <p>
-      <span>After 5 years of freelance work, he entered the federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services and Diversity and Inclusion programs. Currently, Mr. King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
+      <span>After 5 years of freelance work, he entered the federal sector as an interpreter and reasonable accommodation program manager. Now after 10 years in the federal Sector, Mr. King has worked in a range of disability services programs. Currently, Mr. King works in IT governance with a focus on data analytics and coordinates heavily with the Section 508 accessibility governance program.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2gs1"><em><span>International Digital Accessibility Activities</span></em></a>
@@ -1088,7 +1086,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-laurin.png" alt="Susanna Laurin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-laurin.png" alt="Susanna Laurin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="laurin">
@@ -1098,7 +1096,7 @@ format: "HTML (html)"
       <em><span>Honorary Chair, Global Leadership Council and EU Representative</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
     <p>
-      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+      <span>Susanna Laurin is the Honorary Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is part of the team of experts assigned by the European Commission to revise the Web Accessibility Directive and during many years, she is has been appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
@@ -1109,7 +1107,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-leblois.png" alt="Axel Lebois" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-leblois.png" alt="Axel Lebois" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="leblois">
@@ -1133,7 +1131,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-lindemuth.png" alt="Charles Lindemuth" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-lindemuth.png" alt="Charles Lindemuth" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lindemuth">
@@ -1154,7 +1152,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-looney.png" alt="Michael Looney" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-looney.png" alt="Michael Looney" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="looney">
@@ -1182,7 +1180,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-lyckowski.png" alt="Natalia Lyckowski" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-lyckowski.png" alt="Natalia Lyckowski" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="lyckowski">
@@ -1213,7 +1211,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-manak.png" alt="Meli S. Manak" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-manak.png" alt="Meli S. Manak" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="manak">
@@ -1234,7 +1232,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-mcgowan.png" alt="Brianna McGowan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-mcgowan.png" alt="Brianna McGowan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="mcgowan">
@@ -1244,7 +1242,7 @@ format: "HTML (html)"
       <em><span>IT Specialist</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Brianna has just joined the Digital Strategies Division within GSA's Office of Government-wide Policy (OGP) as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI. As a data scientist, her mission is to develop AI and automation tools that are accessible, secure, and grounded in equity.</span>
+      <span>Brianna has just joined the Digital Strategies Division within GSA's Office of Government-wide Policy (OGP) as an IT Specialist developing machine learning and artificial intelligence for the Solicitation Review Tool (SRT) and assisting with the Section508.gov web migration. She is a developer, poet, data scientist, modern dancer, and an advocate for connecting people to resources. Some of her previous roles have been in the private sector as data scientist, a NASA contractor developing websites and APIs, and a Python developer for a DC startup developing bots. She graduated from UT Austin with a degree in Economics and a certificate in Computer Science. Outside of work, she is a Co-Director for both Women Who Code DC and Delicious Democracy, DC's Creative Advocacy Lab. She is passionate about intersecting worlds and developing community-owned AI.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>
@@ -1255,7 +1253,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-mcharg.png" alt="Shannon McHarg" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-mcharg.png" alt="Shannon McHarg" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="mcharg">
@@ -1276,7 +1274,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-montgomery.png" alt="Dr. Rachael Bradley Montgomery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="montgomery">
@@ -1297,7 +1295,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-moore.png" alt="Rhonda Moore" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-moore.png" alt="Rhonda Moore" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="moore">
@@ -1321,7 +1319,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-morin.png" alt="Gary Morin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-morin.png" alt="Gary Morin" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="morin">
@@ -1331,7 +1329,7 @@ format: "HTML (html)"
       <em><span>Section 508 Program Manager, National Cancer Institute (NCI)</span></em><br /><span>National Institutes of Health (NIH)</span>
     </p>
     <p>
-      <span>Gary M. Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s <a href="https://www.edi.nih.gov/" class="session-link" target="_blank">Office on Equity, Diversity, and Inclusion (EDI)</a> (2001 – 2008) and the <a href="https://ocio.nih.gov/Pages/default.aspx" class="session-link" target="_blank">Office of the Chief Information Officer</a> (2008 - 2020).
+      <span>Gary M. Morin joined the National Cancer Institute’s <a href="https://www.cancer.gov/about-nci/organization/ocpl" class="session-link" target="_blank">Office of Communications and Public Liaison (OCPL)</a> as their Section 508 Coordinator in March 2020.  In this capacity, he oversees Section 508 policies, governance, training, 508 procurement processes throughout the National Cancer Institute (NCI).  Gary supports NCI staff in making its wide array of digital contents more accessible for employees and for members of the public.  He supports staff who are producing ICT products as well as those in contracting to ensure that their acquisition documents are inclusive of Section 508 requirements.  Prior to joining NCI in March 2020, he similarly functioned as NIH’s Section 508 and accessible ICT guru, based in NIH’s Office of the Chief Information Officer (2008 - 2020).
       </span>
     </p>
     <p>
@@ -1367,7 +1365,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-nielson.png" alt="Andrew Nielson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-nielson.png" alt="Andrew Nielson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="nielson">
@@ -1404,7 +1402,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-oden.png" alt="Dennis Oden" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-oden.png" alt="Dennis Oden" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="oden">
@@ -1414,7 +1412,7 @@ format: "HTML (html)"
       <em><span>Accessibility Program Manager</span></em><br /><span>Merit Systems Protection Board (MSPB)</span>
     </p>
     <p>
-      <span>Dennis is the Accessibility Program Manager for the U.S. Merit Systems Protection Board.  In that capacity, he is responsible for developing a comprehensive Rehabilitation Act Section 504 and 508 Accessibility Program.  He brings over 15 years of Federal experience, most recently at the U.S. General Services Administration where he served as Director of the Civil Rights Division.  He worked to promote accessibility in Federal facilities and technology, and he provided direct assistance to non-profit organizations through the donation of millions of dollars in Federal surplus property.  Prior to GSA, Dennis spent a number of years at the Department of Homeland Security’s Office for Civil Rights and Civil Liberties, the Internal Revenue Service’s Office of Equity, Diversity, and Inclusion, the US Citizenship and Immigration Services’ Office of Equal Opportunity and Inclusion, and Department of Defense agencies.</span>
+      <span>Dennis is the Accessibility Program Manager for the U.S. Merit Systems Protection Board.  In that capacity, he is responsible for developing a comprehensive Rehabilitation Act Section 504 and 508 Accessibility Program.  He brings over 15 years of Federal experience, most recently at the U.S. General Services Administration where he served as Director of the Civil Rights Division.  He worked to promote accessibility in Federal facilities and technology, and he provided direct assistance to non-profit organizations through the donation of millions of dollars in Federal surplus property.  Prior to GSA, Dennis spent a number of years at the Department of Homeland Security’s Office for Civil Rights and Civil Liberties, the Internal Revenue Service, the US Citizenship and Immigration Services, and Department of Defense agencies.</span>
     </p>
     <p>
       <span>Dennis has two children and a husband, and he spent over seven years as a volunteer paramedic in Prince William County, Virginia. Dennis also has a passion for trivia and game shows, and he was on "Who Wants to be a Millionaire" in 2016.</span>
@@ -1428,20 +1426,20 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-oneal.png" alt="Andrea M. O&#39;Neal" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-oneal.png" alt="Andrea M. O&#39;Neal" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="oneal">
       <strong>Andrea M. O'Neal</strong>
     </p>
     <p>
-      <em><span>Senior Advisor to the Administrator (Equity)</span></em><br /><span>General Services Administration (GSA)</span>
+      <em><span>Senior Advisor to the Administrator</span></em><br /><span>General Services Administration (GSA)</span>
     </p>
     <p>
-      Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator for Equity at the U.S. General Services Administration. In this historic, first-ever position for the agency, O&#39;Neal brings 20 years of experience championing the advancement of historically and socially marginalized communities with expertise in institutional equity, racial and economic justice, organizational behavior, and cultural change management. 
+      Andrea M. O&#39;Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator.
     </p>
     <p>
-      Andrea is a recognized thought leader in the diversity, equity, inclusion, and accessibility (DEIA) field with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. 
+      Andrea is a recognized thought leader with a career spanning global Wall Street, social impact, and advisory services for C-Suite executive teams. As a former capital markets investment banker, including four years abroad structuring cross-border IPOs in Europe and Asia, Andrea developed a multicultural business acumen that she leverages to achieve exceptional stakeholder management and metrics-driven results. 
     </p>
     <p>
       As a social and public sector principal, Andrea has been on the front lines of mission-critical conversations related to breaking down systemic barriers, closing racial wealth gaps, fostering equitable workplaces, and operationalizing high-performing culturally competent leadership practices. She has served as a research advisory committee member for the Bill &amp; Melinda Gates Foundation&#39;s Equitable Futures Project, Brown University President’s Leadership Council, and Ambassadors Program for the Smithsonian National Museum of African American History &amp; Culture (NMAAHC). Her work has been featured in the Wall Street Journal, Bloomberg, Business Insider, and in several industry conferences. She hails from Atlanta, GA and resides in Washington, DC.
@@ -1468,7 +1466,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-pavithran.png" alt="Sachin Pavithran" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pavithran.png" alt="Sachin Pavithran" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pavithran">
@@ -1478,7 +1476,7 @@ format: "HTML (html)"
       <em><span>Executive Director"</span></em><br /><span>United States Access Board</span>
     </p>
     <p>
-      <span>Sachin Pavithran was born in India, but grew up in Dubai, in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators at both the federal and state government levels to bring change in policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce.  He is strongly engaged in the dialogue about cultural diversity, inclusion of people with disabilities and people of color to promote equality on a state and national level.  He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election processes for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.</span>
+      <span>Sachin Pavithran was born in India, but grew up in Dubai, in the United Arab Emirates. Sachin came to the US at the age of 17 to start his undergraduate degree at Utah State University. Sachin is currently the Executive Director of the US Access Board. Sachin enjoys being an advocate for people with disabilities. He keeps up with the research and development of various assistive technologies, and is involved nationally in working with legislators at both the federal and state government levels to bring change in policies that have a direct impact on individuals with disabilities. He has reached out to the international community on Disability Policy and Infrastructure Development based on the requirements set forth by the UN CRPD. He has trained and presented in several countries such as the United Arab Emirates, India, Egypt, Syria, Philippines, Thailand, Turkey and Mexico. Sachin has over twenty years of direct involvement in development, testing, and training for accessibility for assistive technology, extensive experience in lecturing and training others in accessible technology. Sachin provides technical assistance on accessible information technology for individuals and groups. He helps in the evaluation of products related to web accessibility and design. Sachin has had extensive experience working with the higher education community dealing with access to instructional materials and transition from K – 12 to post-secondary education and then to the workforce. He has served on various boards nationally such as, The Research and Development committee for the National Federation of the Blind, the Assistive Technology Act Programs national board, and Association of University Centers on Disabilities national board where he was the President of the board. He was appointed by President Obama to the U.S. Access Board where he chaired several rule making committees in this capacity.  He was appointed to the US Commission on Civil Rights where he served as a strong advocate for civil rights for all nationally.  He was also appointed to the US Elections Assistance Commission where he was engaged in conversation around inclusive election processes for all Americans.  Sachin aspires to be in the fore-front of establishing and implementing national and international policy that impacts people with disabilities around the world.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d3gs2"><em><span>Ask the Expert</span></em></a>
@@ -1489,7 +1487,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-pomeroy.png" alt="Daniel Pomeroy" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pomeroy.png" alt="Daniel Pomeroy" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="pomeroy">
@@ -1527,7 +1525,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-quesenbery.png" alt="Whitney Quesenbery" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-quesenbery.png" alt="Whitney Quesenbery" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="quesenbery">
@@ -1558,7 +1556,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-raghu.png" alt="Maya Raghu" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-raghu.png" alt="Maya Raghu" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="raghu">
@@ -1583,7 +1581,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-robertson.png" alt="Scott Michael Robertson, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-robertson.png" alt="Scott Michael Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1611,7 +1609,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-ryan.png" alt="Avis Ryan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-ryan.png" alt="Avis Ryan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1647,7 +1645,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-sarviro.png" alt="Dr. Yulia Sarviro" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sarviro.png" alt="Dr. Yulia Sarviro" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sarviro">
@@ -1669,7 +1667,7 @@ format: "HTML (html)"
       <span>In 2009-2016, she has been Community Affairs and Internal Communications Manager at Microsoft Russia running country-wide projects on computer literacy for adults, STEM education for children and youth, ICT accessibility, etc.</span>
     </p>
     <p>
-      <span>Since 2017, Yulia is the Senior Project Manager at G3ict – Global Initiative for Inclusive Information and Communication Technologies and its Smart Cities for All initiative. She is responsible for successful implementation of multiple projects focusing on raising awareness among governments, cities, universities, courts, museums, and other institutions regarding digital inclusion and ICT accessibility when developing and introducing new technology solutions.</span>
+      <span>Since 2017, Yulia is the Senior Project Manager at G3ict – Global Initiative for Inclusive Information and Communication Technologies and its Smart Cities for All initiative. She is responsible for successful implementation of multiple projects focusing on raising awareness among governments, cities, universities, courts, museums, and other institutions regarding digital ICT accessibility when developing and introducing new technology solutions.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
@@ -1680,7 +1678,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-sheehan.png" alt="Patrick Sheehan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sheehan.png" alt="Patrick Sheehan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sheehan">
@@ -1707,7 +1705,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-sharma.png" alt="Sid Sharma" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sharma.png" alt="Sid Sharma" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sharma">
@@ -1728,7 +1726,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-shorter.png" alt="Kimberly Shorter" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-shorter.png" alt="Kimberly Shorter" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="shorter">
@@ -1753,7 +1751,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-sirk.png" alt="Betsy Sirk" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sirk.png" alt="Betsy Sirk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1778,7 +1776,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-small.png" alt="Dr. Elizabeth Small" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-small.png" alt="Dr. Elizabeth Small" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="small">
@@ -1799,7 +1797,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-snyder.png" alt="Dr. Joel Snyder" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-snyder.png" alt="Dr. Joel Snyder" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="snyder">
@@ -1820,7 +1818,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-stassun.png" alt="Keivan G. Stassun" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-stassun.png" alt="Keivan G. Stassun" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="stassun">
@@ -1840,7 +1838,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sullivan.png" alt="John Sullivan" title="John Sullivan" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="sullivan">
@@ -1874,7 +1872,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-tenbrink.png" alt="Ronna ten Brink" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-tenbrink.png" alt="Ronna ten Brink" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="tenbrink">
@@ -1895,7 +1893,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-thurston.png" alt="James Thurston" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-thurston.png" alt="James Thurston" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="thurston">
@@ -1905,7 +1903,7 @@ format: "HTML (html)"
       <em><span>Vice President for Global Strategy and Development</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ict)</span>
     </p>
     <p>
-      <span>James Thurston is an international technology policy leader.  As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges, ranging from promoting the inclusion and human rights of people with disabilities worldwide to using technology to increase the competitiveness of aging U.S. industrial centers. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government.</span>
+      <span>James Thurston is an international technology policy leader.  As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges, ranging from promoting the human rights of people with disabilities worldwide to using technology to increase the competitiveness of aging U.S. industrial centers. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2gs1"><em><span>International Digital Accessibilities Activities</span></em></a>
@@ -1925,7 +1923,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-urban.png" alt="Mark Urban" title="Mark Urban" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-urban.png" alt="Mark Urban" title="Mark Urban" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="urban">
@@ -1959,7 +1957,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-valeur.png" alt="Charolette Valeur" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-valeur.png" alt="Charolette Valeur" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="valeur">
@@ -1999,7 +1997,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-walden.png" alt="Alcora Walden" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-walden.png" alt="Alcora Walden" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="walden">
@@ -2020,7 +2018,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-watkins.png" alt="Angela Watkins" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-watkins.png" alt="Angela Watkins" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="watkins">
@@ -2041,7 +2039,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-whittington.png" alt="David Whittington" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-whittington.png" alt="David Whittington" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="whittington">
@@ -2062,7 +2060,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-wilkes.png" alt="Martha Wilkes" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-wilkes.png" alt="Martha Wilkes" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="wilkes">
@@ -2083,7 +2081,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-komissarenko.png" alt="Jennifer Komissarenko" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-komissarenko.png" alt="Jennifer Komissarenko" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="komissarenko">
@@ -2106,7 +2104,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-williams.png" alt="Taryn Mackinzie Williams" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-williams.png" alt="Taryn Mackinzie Williams" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="williams">
@@ -2134,7 +2132,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-wilson.png" alt="Alex Wilson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-wilson.png" alt="Alex Wilson" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="wilson">
@@ -2155,7 +2153,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-windly.png" alt="William Windly" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-windly.png" alt="William Windly" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="windly">
@@ -2189,7 +2187,7 @@ format: "HTML (html)"
 <!-- NEW BIO -->
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="https://assets.section508.gov/files/bio-images/bio-zaragoza.png" alt="Pia Zaragoza" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-zaragoza.png" alt="Pia Zaragoza" />
   </div>
   <div class="desktop:grid-col-9 tablet:grid-col-9">
     <p id="zaragoza">
@@ -2200,7 +2198,7 @@ format: "HTML (html)"
       <span>General Services Administration (GSA)</span>
     </p>
     <p>
-      <span>Pia Zaragoza is a Presidential Innovation Fellow detailed to the Cybersecurity and Infrastructure Security Agency. She is a co-lead of the Accessibility Guild and a Diversity, Equity, and Inclusion Representative at the Technology Transformation Services (TTS) agency. Previously, she was the Vice President of Accessibility Research and Insights at a Fortune 500 bank.</span>
+      <span>Pia Zaragoza is a Presidential Innovation Fellow detailed to the Cybersecurity and Infrastructure Security Agency. She is a co-lead of the Accessibility Guild at the Technology Transformation Services (TTS) agency. Previously, she was the Vice President of Accessibility Research and Insights at a Fortune 500 bank.</span>
     </p>
     <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2021#d2bs1c"><em><span>Enhancing Accessibility: AI and Machine Learning</span></em></a>

@@ -23,7 +23,7 @@ format: "HTML (html)"
         </ul>
     </li>
     <li><a href="http://www.w3.org/WAI/gettingstarted/" class="ext">Getting started with web accessibility</a></li>
-    <li><a href="http://www.w3.org/WAI/users/" class="ext">Designing for inclusion</a></li>
+    <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/" class="ext">Introduction to Web Accessibility</a></li>
     <li><a href="http://www.w3.org/WAI/eval/selectingtools" class="ext">Selecting web accessibility evaluation tools</a></li>
     <li><a href="http://www.w3.org/TR/wcag2ict/" class="ext">Applying WCAG 2.0 to non-web content</a></li>
     <li><a href="http://www.w3.org/WAI/train" class="ext">WCAG tutorials</a></li>

@@ -17,9 +17,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<p style="text-align:center;">
-  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 6 & 7, 2020. Enabling Missions through Accessible Technology - Leave No One Behind. Seals of the GSA, U.S. Census, and CIO Council." src="https://assets.section508.gov/files/images/iaaf-2020-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
-</p>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   <a class="" href="#A">A <span class="usa-sr-only"> Section</span></a> | <a class="" href="#B">B <span class="usa-sr-only"> Section</span></a> | <a class="" href="#C">C <span class="usa-sr-only"> Section</span></a> | <a href="#D">D <span class="usa-sr-only"> Section</span></a> | <a href="#E">E <span class="usa-sr-only"> Section</span></a> | <a class="" href="#F">F <span class="usa-sr-only"> Section</span></a> | <a class="" href="#G">G <span class="usa-sr-only"> Section</span></a> | <a class="" href="#H">H <span class="usa-sr-only"> Section</span></a> | <a href="#J">J <span class="usa-sr-only"> Section</span></a> | <a href="#K">K <span class="usa-sr-only"> Section</span></a> | <a href="#L">L <span class="usa-sr-only"> Section</span></a> | <a href="#M">M <span class="usa-sr-only"> Section</span></a> | <a href="#N">N <span class="usa-sr-only"> Section</span></a> | <a class="" href="#P">P <span class="usa-sr-only"> Section</span></a> | <a class="" href="#R">R <span class="usa-sr-only"> Section</span></a> | <a class="" href="#S">S <span class="usa-sr-only"> Section</span></a> | <a class="" href="#T">T <span class="usa-sr-only"> Section</span></a> | <a href="#U">U <span class="usa-sr-only"> Section</span></a> | <a href="#V">V <span class="usa-sr-only"> Section</span></a> | <a href="#W">W <span class="usa-sr-only"> Section</span></a> | <a href="#Z">Z<span class="usa-sr-only"> Section</span></a>
@@ -31,7 +29,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-aiken.jpg" alt="Brooke Aiken" title="Brooke Aiken" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -78,7 +76,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-barrett.jpg" alt="Stephanie Barrett" title="Stephanie Barrett" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -100,7 +98,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-blakely-hill.jpg" alt="Jocelyn Blakely-Hill" title="Jocelyn Blakely-Hill" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -122,7 +120,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-bonitto.jpg" alt="Toni Bonitto" title="Toni Bonitto" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -144,7 +142,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-briscoe.jpg" alt="Paula Briscoe, PhD" title="Paula Briscoe, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -182,7 +180,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-clark.jpg" alt="Hilary Clark" title="Hilary Clark" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -204,7 +202,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-cooper.jpg" alt="Darryl Cooper" title="Darryl Cooper" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -226,7 +224,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-creagan.png" alt="Tim Creagan" title="Tim Creagan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -263,7 +261,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-crowell.jpg" alt="Pierce Crowell" title="Pierce Crowell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -285,7 +283,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-curtis-davidson.jpg" alt="Bill Curtis-Davidson, MS" title="Bill Curtis-Davidson, MS" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -314,7 +312,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-dhillon.jpg" alt="Janet Dhillon" title="Janet Dhillon" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -349,7 +347,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-eng.jpg" alt="Katherine Eng" title="Katherine Eng" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -371,7 +369,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-evans.jpg" alt="Samantha Evans" title="Samantha Evans" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -382,7 +380,7 @@ format: "HTML (html)"
       <em><span>Certification Manager</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
 <p>
-      <span>Samantha (Sam) Evans, CAE, MBA, is the Certification Manager at the </span><a href="http://www.accessibilityassociation.org/" target="_blank"><span>International Association of Accessibility Professionals</span></a><span> (IAAP), a division of G3ict, where she works with accessibility subject matter experts and professionals around the world to maintain, build and deliver accessibility certification programs. Working within international standards for certification and credentialing, Sam facilitates the work of IAAP and the accessibility community to establish benchmarks of knowledge, skills, and concepts for accessibility professionals. Sam is also an active accessibility and inclusion advocate, active in the association management and credentialing professions. Sam holds an MBA in International Business from Kennesaw State University and has recently earned the Certified Association Executive (CAE) credential from the American Society of Association Executives (ASAE).</span>
+      <span>Samantha (Sam) Evans, CAE, MBA, is the Certification Manager at the </span><a href="http://www.accessibilityassociation.org/" target="_blank"><span>International Association of Accessibility Professionals</span></a><span> (IAAP), a division of G3ict, where she works with accessibility subject matter experts and professionals around the world to maintain, build and deliver accessibility certification programs. Working within international standards for certification and credentialing, Sam facilitates the work of IAAP and the accessibility community to establish benchmarks of knowledge, skills, and concepts for accessibility professionals. Sam is also an active accessibility advocate, active in the association management and credentialing professions. Sam holds an MBA in International Business from Kennesaw State University and has recently earned the Certified Association Executive (CAE) credential from the American Society of Association Executives (ASAE).</span>
     </p>
 <p>
       <em><span>Moderator: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2020#d1bs3c"><em><span>Developing Accessibility Talent - A Snapshot of Accessibility Education in the United States</span></em></a>
@@ -400,7 +398,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-farraj-feijoo.jpg" alt="Ammie Farraj-Feijoo" title="Ammie Farraj-Feijoo" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -422,7 +420,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fern.jpg" alt="David Fern" title="David Fern" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-fern.jpg" alt="David Fern" title="David Fern" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -444,7 +442,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-francis.jpg" alt="Camara Francis" title="Camara Francis" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -475,7 +473,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-fuoco.jpg" alt="Angie Fuoco" title="Angie Fuoco" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -497,7 +495,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-franks.jpg" alt="Aaron Franks" title="Aaron Franks" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -526,7 +524,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-garrett.jpg" alt="Antoine Garrett" title="Antoine Garrett" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -548,7 +546,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-gibson.jpg" alt="Yvette Gibson" title="Yvette Gibson" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -577,7 +575,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-hailesselassie.jpg" alt="Antonio Hailesselassie" title="Antonio Hailesselassie" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -599,7 +597,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-harkin.jpg" alt="Thomas Harkin" title="Thomas Harkin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -627,7 +625,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-hays.jpg" alt="Keith Hays" title="Keith Hays" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -635,7 +633,7 @@ format: "HTML (html)"
       <strong>Keith Hays</strong>
     </p>
 <p>
-      <em><span>IT ADA Coordinator, Office of Access and Equity</span></em><br /><span>University of Illinois </span>
+      <em><span>IT ADA Coordinator</span></em><br /><span>University of Illinois </span>
     </p>
 <p>
       <span>Keith is the new campus ADA IT Coordinator for the University of Illinois at Urbana-Champaign. While this role is new, he is no stranger to EIT accessibility. Over the last ten years, he has been a user interface designer and accessibility specialist in the Technology Services unit on campus. While there, Keith played a key role in IT accessibility efforts across the Illinois system; creating educational resources and training opportunities, consulting with units on the accessibility of their websites, working with software vendors to correct accessibility issues, helping craft campus policy, and more. Up until accepting his new role this September, Keith was a co-creator and instructor of the award-winning Information Accessibility Design and Policy professional certificate program, offered by Applied Health Sciences at Illinois; and he works with the Big Ten Academic Alliance CIO IT Accessibility Group to help determine best practices and shared approaches for all of the member institutions. Keith is a recognized subject matter expert in IT accessibility for persons with disabilities, and he brings his eclectic skillset to bear on creating a more inclusive culture on campus.</span>
@@ -649,7 +647,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-horton.jpg" alt="Michael Horton" title="Michael Horton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -671,7 +669,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-humphrey.jpg" alt="Yolanda Humphrey" title="Yolanda Humphrey" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -700,7 +698,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-jacobs.jpg" alt="Gretchen Jacobs" title="Gretchen Jacobs" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -735,7 +733,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kline.jpg" alt="Jeff Kline" title="Jeff Kline" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -757,7 +755,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kuk.jpg" alt="Jennifer Kuk" title="Jennifer Kuk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -789,7 +787,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-langevin.jpg" alt="Jim Langevin" title="Jim Langevin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -803,7 +801,7 @@ format: "HTML (html)"
       <span>Congressman Jim Langevin represents Rhode Island’s Second Congressional District, and is recognized as a leader on national security, cybersecurity, health and disability policy. He is a senior member of the House Armed Services Committee, where he is the Chairman of the Intelligence and Emerging Threats and Capabilities Subcommittee, and of the House Committee on Homeland Security.</span>
     </p>
 <p>
-      <span>Langevin was inspired to enter public service by the tremendous outpouring of support he received during the most challenging time of his life, after a gun accident paralyzed him at age 16 and left him a quadriplegic. He is driven by a belief that everyone deserves a fair opportunity to make the most of their talents. He co-founded and co-chairs the House Bipartisan Disabilities Caucus, which is dedicated to raising awareness of issues affecting people with disabilities. He is a strong advocate for inclusion and independence for people with disabilities, and helped pass the ADA Amendments Act that strengthened the protections of the Americans with Disabilities Act.</span>
+      <span>Langevin was inspired to enter public service by the tremendous outpouring of support he received during the most challenging time of his life, after a gun accident paralyzed him at age 16 and left him a quadriplegic. He is driven by a belief that everyone deserves a fair opportunity to make the most of their talents. He co-founded and co-chairs the House Bipartisan Disabilities Caucus, which is dedicated to raising awareness of issues affecting people with disabilities. He is a strong advocate for the independence for people with disabilities, and helped pass the ADA Amendments Act that strengthened the protections of the Americans with Disabilities Act.</span>
     </p>
 <p>
       <em><span>Speaker: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2020#d1k3"><em><span>Keynote Address</span></em></a>
@@ -814,7 +812,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-laurin.jpg" alt="Susanna Laurin" title="Susanna Laurin" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -825,7 +823,7 @@ format: "HTML (html)"
       <em><span>Chair, Global Leadership Council</span></em><br /><span>International Association of Accessibility Professionals (IAAP)</span>
     </p>
 <p>
-      <span>Susanna Laurin is the Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is assigned by the European Commission to lead the expert group supporting the Member States in transposing the Web Accessibility Directive and she is also appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, inclusion and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
+      <span>Susanna Laurin is the Chair of the Global Leadership Council of the International Association of Accessibility Professionals, IAAP, the Representative to the European Union for the UN initiative G3ict and IAAP, the founder and leader of the first international chapter of IAAP, based in the Nordic countries. Susanna is assigned by the European Commission to lead the expert group supporting the Member States in transposing the Web Accessibility Directive and she is also appointed technical expert in the ETSI Special Task Force 536, responsible for the development of the EN301549. Susanna is the Chief Research and Innovation Officer of Funka, a European based market leading accessibility consultancy. She has been working in the field of digitalisation, and e-government at senior management level for more than 20 years and she is a frequent international lecturer and debater.</span>
     </p>
 <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
@@ -836,7 +834,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-leblois.jpg" alt="Axel Leblois" title="Axel Leblois" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -868,7 +866,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-malakhoff.jpg" alt="Lawrence Malakhoff" title="Lawrence Malakhoff" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -890,7 +888,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-manuel.jpg" alt="Rayvn Manuel" title="Rayvn Manuel" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -918,7 +916,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-moore.jpg" alt="Rhonda Moore, PhD" title="Rhonda Moore, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -947,7 +945,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-nielson.jpg" alt="Andrew Nielson" title="Andrew Nielson" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -976,7 +974,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-paschel.jpg" alt="Shannon Paschel" title="Shannon Paschel" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -998,7 +996,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-peters.jpg" alt="David Peters" title="David Peters" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-peters.jpg" alt="David Peters" title="David Peters" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1017,7 +1015,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pomeroy.jpg" alt="Daniel Pomeroy" title="Daniel Pomeroy" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1042,7 +1040,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-prabhakaran.jpg" alt="Vinodkumar Prabhakaran" title="Vinodkumar Prabhakaran" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1053,7 +1051,7 @@ format: "HTML (html)"
       <em><span>Research Scientist</span></em><br /><span>Google</span>
     </p>
 <p>
-      <span>Dr. Vinodkumar Prabhakaran is a Research Scientist at Google working on issues around ethics, fairness, and transparency in machine learning and natural language processing. Prior to joining Google, he was a postdoctoral researcher at Stanford University, and attained his PhD in computer science at Columbia University. His prior research focused on building scalable ways to identify and address large-scale societal issues, such as racial disparities in policing, workplace incivility, and online abuse. He served as a Diversity and Inclusion co-chair for the Association for Computational Linguistics' 2020 Conference.</span>
+      <span>Dr. Vinodkumar Prabhakaran is a Research Scientist at Google working on issues around ethics, fairness, and transparency in machine learning and natural language processing. Prior to joining Google, he was a postdoctoral researcher at Stanford University, and attained his PhD in computer science at Columbia University. His prior research focused on building scalable ways to identify and address large-scale societal issues, such as racial disparities in policing, workplace incivility, and online abuse.</span>
     </p>
 <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2020#d1bs1c"><em><span>Artificial Intelligence, the Emerging Workplace, and Accessibility for People with Disabilities</span></em></a>
@@ -1064,7 +1062,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-pruitt.jpg" alt="Cheryl Pruitt" title="Cheryl Pruitt" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1093,7 +1091,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-robertson.jpg" alt="Scott Robertson, PhD" title="Scott Robertson, PhD" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1115,7 +1113,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-ryan.jpg" alt="Avis Ryan" title="Avis Ryan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1144,7 +1142,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-salmoiraghi.jpg" alt="Jessica Salmoiraghi" title="Jessica Salmoiraghi" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1172,7 +1170,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-schell.jpg" alt="Will Schell" title="Will Schell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1194,7 +1192,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-schweickhardt.jpg" alt="Reynold Schweickhardt" title="Reynold Schweickhardt" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1216,7 +1214,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sharma.jpg" alt="Siddhartha Sharma" title="Siddhartha Sharma" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1238,7 +1236,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-singleton.jpg" alt="Suzy Rosen Singleton" title="Suzy Rosen Singleton" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1260,7 +1258,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sirk.jpg" alt="Betsy Sirk" title="Betsy Sirk" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1285,7 +1283,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-kevin-smith.jpg" alt="Kevin Smith" title="Kevin Smith" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1325,7 +1323,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-willie-smith.jpg" alt="Willie Smith" title="Willie Smith" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1365,7 +1363,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-sullivan.jpg" alt="John Sullivan" title="John Sullivan" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1397,7 +1395,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-thurston.jpg" alt="James Thurston" title="James Thurston" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1408,7 +1406,7 @@ format: "HTML (html)"
       <em><span>Vice President for Global Strategy and Development</span></em><br /><span>Global Initiative for Inclusive ICTs (G3ICT)</span>
     </p>
 <p>
-      <span>James Thurston is an international technology policy leader. As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges. He has led efforts ranging from using technology to promote the inclusion and human rights of people with disabilities around the world to using technology to increase the economic competitiveness of aging industrial centers in the United States. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government. Prior to joining G3ict, Mr. Thurston was Director of International Accessibility Policy at Microsoft, where he developed and executed a worldwide strategy to expand the company’s outreach on disability and technology issues to governments and NGOs around the world. He has also served as a standards leader for an international technology industry association, an economic and technology advisor to a U.S. senator and vice presidential candidate, and a senior manager for a national technology and economic development initiative of the U.S. government. Mr. Thurston holds both a Master of Public Administration and an M.A. in East European Studies from the University of Washington, as well as a B.A. in International Affairs from the University of Maine.</span>
+      <span>James Thurston is an international technology policy leader. As G3ict’s Vice President for Global Strategy and Development, he leads the design and implementation of new worldwide advocacy strategies and programs to scale up G3ict’s global impact. He has experience applying both technology and public policy to important social and economic challenges. He has led efforts ranging from using technology to promote the human rights of people with disabilities around the world to using technology to increase the economic competitiveness of aging industrial centers in the United States. He has broad policy and management experience in both the private and public sectors and at the federal, state, and international levels of government. Prior to joining G3ict, Mr. Thurston was Director of International Accessibility Policy at Microsoft, where he developed and executed a worldwide strategy to expand the company’s outreach on disability and technology issues to governments and NGOs around the world. He has also served as a standards leader for an international technology industry association, an economic and technology advisor to a U.S. senator and vice presidential candidate, and a senior manager for a national technology and economic development initiative of the U.S. government. Mr. Thurston holds both a Master of Public Administration and an M.A. in East European Studies from the University of Washington, as well as a B.A. in International Affairs from the University of Maine.</span>
     </p>
 <p>
       <em><span>Panelist: </span></em><a href="{{site.baseurl}}/iaaf/archives/agenda-2020#d2gs1"><em><span>Accessibility on an International Scale</span></em></a>
@@ -1419,7 +1417,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-truesdell.jpg" alt="Cammie Truesdell" title="Cammie Truesdell" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1448,7 +1446,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-urban.jpg" alt="Mark Urban" title="Mark Urban" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1477,7 +1475,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-vanderheiden.jpg" alt="Gregg Vanderheiden" title="Gregg Vanderheiden" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1512,7 +1510,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-whittington.jpg" alt="David Whittington" title="David Whittington" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1537,7 +1535,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-williams.jpg" alt="Dan Williams" title="Dan Williams" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">
@@ -1566,7 +1564,7 @@ format: "HTML (html)"
 
 <div class="grid-row border-bottom-1px border-base-lighter ">
   <div class="desktop:grid-col-3 tablet:grid-col-3">
-    <img src="{{ site.baseurl }}/assets/images/bio-images-iaaf/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
+    <img src="https://assets.section508.gov/assets/images/bio-images/bio-ziebarth.jpg" alt="Beth Ziebarth" title="Beth Ziebarth" />
   </div>
   
   <div class="desktop:grid-col-9 tablet:grid-col-9">

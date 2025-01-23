@@ -25,14 +25,14 @@ format: "Video & Synchronized Media (video)"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview2.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview2.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your Information and Communication Technology (ICT) products and services are accessible to persons with disabilities.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="https://training.section508.gov/assets/online-training/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>
@@ -118,4 +118,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: October 2024
+**Reviewed/Updated**: January 2025

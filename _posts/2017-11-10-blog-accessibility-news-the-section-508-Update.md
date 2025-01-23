@@ -13,7 +13,6 @@ audience:
 - "508 Program Manager (508pm)"
 - "Lawmakers and Policy Officials (law-policy)"
 - "508 Program Manager (508pm)"
-- "Chief Diversity and Inclusion Officer (cdio)"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"
 ---

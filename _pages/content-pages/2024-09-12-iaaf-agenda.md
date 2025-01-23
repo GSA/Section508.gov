@@ -3,7 +3,6 @@ layout: wide
 sidenav: false
 permalink: iaaf/archives/agenda-2024/
 redirect_from: iaaf/agenda-2024/
-redirect_from: iaaf-agenda/
 type: page
 title: Interagency Accessibility Forum (IAAF) Event Agenda - 2024
 created: 2024-09-23
@@ -19,7 +18,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. November 13 - 14, 2024. Beyond Compliance: Building a Culture of Digital Accessibility" src="https://assets.section508.gov/files/images/iaaf-2024-web-banner2.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Wednesday, November 13th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Thursday, November 14th</a></b>

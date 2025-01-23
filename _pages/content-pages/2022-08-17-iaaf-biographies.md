@@ -17,9 +17,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<p style="text-align:center;"><a href="{{site.baseurl}}/iaaf/">
-  <img alt="Annual Interagency Accessibility Forum. October 11 - 13, 2022. Unlocking the Power of Accessibility." src="https://assets.section508.gov/files/images/iaaf-2022-web-banner.png" style="width:100%" style="width:100%" class="border-base radius-lg border-0px" /></a>
-</p>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   {% assign last_initial = "" %}

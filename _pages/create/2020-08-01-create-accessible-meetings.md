@@ -4,6 +4,8 @@ sidenav: true
 permalink: create/accessible-meetings/
 type: create
 title: 'Create Accessible Meetings'
+created: 2020-08-01
+updated: 2025-01-10
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
 disclaimer: true
 topic: "Content creation (create)"
@@ -32,12 +34,17 @@ Following Section 508 standards in advance also ensures that if and when the sta
 If a federal agency hosts a meeting available to the public, the meeting must meet all applicable Section 508 standards. This includes meetings, seminars, live classes, town halls, or any other type of public meeting.
 
 ### Internal Meetings
-
-If a meeting is internal, meaning it is not public-facing, then Section 508 applies if the meeting is [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). For example, if the purpose of your meeting is to introduce a new policy or train employees on a new procedure, the meeting must meet all accessibility requirements.
+<!-- If a meeting is internal, meaning it is not public-facing, then Section 508 applies if the meeting is [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). For example, if the purpose of your meeting is to introduce a new policy or train employees on a new procedure, the meeting must meet all accessibility requirements.
 
 For other meetings, you may still be required to provide accessibility accommodations to specific employees according to Section 504 requirements. Meeting invitations should always include a means to request accommodations.
 
-To determine if Section 504 applies, contact your agency's Disability Employment Program Manager.
+To determine if Section 504 applies, contact your agency's Disability Employment Program Manager. -->
+
+For internal meetings, you are required by Section 508 to use accessible ICT. This includes the meeting software, the documents, and sites you may use to conduct the meeting.
+
+You may also be required to provide accessibility accommodations to specific employees according to Section 504 requirements. Meeting invitations should always include a means to request accommodations.
+
+To determine if Section 504 applies, contact your agency’s Disability Employment Program Manager.
 
 ### In-Person Meetings
 
@@ -68,7 +75,9 @@ Other standards related to accessible spaces may also apply. For questions about
 
 ### Meetings with No Known Disabilities
 
-Perhaps you have a meeting with a few team members, none of whom have a disclosed disability, and the meeting is not an [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). In this scenario, Section 508 requirements do not apply, and Section 504 requirements are unlikely to apply.
+<!-- Perhaps you have a meeting with a few team members, none of whom have a disclosed disability, and the meeting is not an [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). In this scenario, Section 508 requirements do not apply, and Section 504 requirements are unlikely to apply. -->
+
+Perhaps you have an internal meeting with a few team members, none of whom have a disclosed disability. The meeting software and other ICT you use for the meeting must still conform to Section 508 requirements, but Section 504 requirements are unlikely to apply.
 
 However, your meeting invitation should still include a way for attendees to request accessibility accommodations, and accessibility best practices are still encouraged.
 
@@ -473,4 +482,4 @@ By making your meetings accessible, you are contributing to the ongoing effort t
     </li>
 </ul>
 
-**Reviewed/Updated:** November 2024
+**Reviewed/Updated:** January 2025

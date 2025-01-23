@@ -27,7 +27,7 @@ You will also have an opportunity to take part in an in-flight journey with one 
  
 This virtual meeting is supported by Zoom for Government (FedRAMP certified). Please feel free to attend via your personal device.
 
-*Note: **You must join the meeting using your first and last name** (inclusion of agency affiliation is optional). Nicknames and phone numbers will not be given access.
+**Note: You must join the meeting using your first and last name. Agency affiliation is optional. Nicknames and phone numbers will not be given access*
 
 **Reviewed/Updated:** April 2023
 
