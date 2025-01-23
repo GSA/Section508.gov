@@ -527,7 +527,7 @@ iaaf_2022:
           - name: 'Track A: Lead Our Agencies Toward Access'
             name_breakout: 'A Different Perspective for Looking at Accessibility'
             track_id: day3breakout3a
-            description: 'In 2022 the 1-in-4 Americans with disabilities continue to experience inequities due to accessibility barriers to electronic information technology (EIT). Access to EIT is a civil right. Even when provided with a reasonable accommodation PWD must identify their own work-a-rounds to reduce barriers. Join us to experience the world from an alternative point of view as panelist share tips and tricks they use daily to increase their productivity and opportunities for inclusion in the workplace.'
+            description: 'In 2022 the 1-in-4 Americans with disabilities continue to experience inequities due to accessibility barriers to electronic information technology (EIT). Access to EIT is a civil right. Even when provided with a reasonable accommodation PWD must identify their own work-a-rounds to reduce barriers. Join us to experience the world from an alternative point of view as panelist share tips and tricks they use daily to increase their productivity and opportunities in the workplace.'
             roles: #list each roles as you intend the display on the page
               - name: Moderator
                 who: wilkes-martha
@@ -1217,7 +1217,7 @@ iaaf_2023:
         time_end: 2023-11-08 16:30:00
         session_id: day2general3
         subtitle: "The Accessibility-Powered Future of Work"
-        description: This moderated closing plenary discussion will explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design — and powered by the principles of diversity, equity, inclusion and accessibility (DEIA).
+        description: This moderated closing plenary discussion will explore how the federal government can create more inclusive, accessible work environments for people with disabilities, enabled through integrated technology and universal design.
         room: 'Bair Auditorium and via Webex' 
         roles: #list each roles as you intend the display on the page
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 

@@ -10,7 +10,6 @@ topic: "Manage (program)"
 sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 audience:
 - "Chief Human Capital Officer (chco)"
-- "Chief Diversity and Inclusion Officer (cdio)"
 - "508 Program Manager (508pm)"
 - "Manager/Exec (exec)"
 resource-type: "Blog article (blog)"

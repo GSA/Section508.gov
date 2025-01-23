@@ -103,10 +103,6 @@ The following acronyms are used in this 2023 Assessment report to Congress. Defi
         <td>Customer Experience</td>
     </tr>
     <tr>
-        <th scope="row" id="deia">DEIA</th>
-        <td>Diversity, Equity, Inclusion, and Accessibility</td>
-    </tr>
-    <tr>
         <th scope="row" id="dhs">DHS</th>
         <td>Department of Homeland Security</td>
     </tr>

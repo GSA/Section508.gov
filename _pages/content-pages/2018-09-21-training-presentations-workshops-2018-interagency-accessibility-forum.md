@@ -17,9 +17,7 @@ resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---
 
-<p dir="ltr">
-  Federal employees (and contractors with a government email address) are invited to participate in the 2018 Interagency Accessibility Forum (IAAF) on Tuesday, October 9, 2018, in Washington, DC. This year's IAAF embraces the 2018 National Disability Employment Awareness Month (NDEAM) theme "America's Workforce - Empowering All." The <a href="https://www.dol.gov/odep/topics/ndeam/" target="_blank">NDEAM</a> has celebrated inclusion for more than 70 years and reflects a commitment to a robust and competitive American labor force.
-</p>
+Federal employees (and contractors with a government email address) are invited to participate in the 2018 Interagency Accessibility Forum (IAAF) on Tuesday, October 9, 2018, in Washington, DC. This year's IAAF embraces the 2018 National Disability Employment Awareness Month (NDEAM) theme "America's Workforce - Empowering All."
 
 This in-person Forum features inspirational keynote speakers such as Judy Brewer, Director of the Web Accessibility Initiative (WAI) from the World Wide Web Consortium (W3C), and Eve Hill, one of the nation's leading disability rights attorneys.
 

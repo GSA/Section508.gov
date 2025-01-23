@@ -19,9 +19,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<p style="text-align:center;">
-  <a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. October 12 - 14, 2021. Accessibility: A foundation for inclusion, diversity, and equity" src="https://assets.section508.gov/files/images/iaaf-2021-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"/></a>
-</p>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.png" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 12th | <a href="#progday2" title="Skip to Day 2 Program">Day 2/Wednesday, October 13th</a> | <a href="#progday3" title="Skip to Day 3 Program">Day 3/Thursday, October 14th</a></b>
@@ -327,7 +325,7 @@ format: "HTML (html)"
       <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#heumann">Judith E. Heumann</a></b></span>, International Disability Rights Activist, and Former Special Advisor for International Disability Rights, U.S. Department of State (2010-2017)<br />
       <div class="speaker-info padding-top-1">
         <span class="session-type text-highlight">Moderator:</span> 
-        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)
+        <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span> Senior Advisor to the Administrator, General Services Administration (GSA)
       </div>
     </div>
   </div>
@@ -602,7 +600,7 @@ format: "HTML (html)"
       <div class="desktop:grid-col-3 tablet:grid-col-3 cell brown padding-1">12:10 P.M. – 12:45 P.M. <br><span class="session-type">Keynote Address</span>
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
-        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility is one of the foundations of diversity, equity and inclusion and an instrumental  part of what the government stands for in supporting its employees and the American public. Today you will get a brief look at that foundation....its past, present, and future.</span>
+        <span class="session-type padding-top-1 padding-left-sm padding-right-sm">Accessibility: A Look at the Foundation (Past, Present, and Future)</span> <span class="session-description padding-top-1 padding-left-sm padding-right-sm">Accessibility is one of the foundations of information technology and an instrumental part of what the government stands for in supporting its employees and the American public. Today you will get a brief look at that foundation....its past, present, and future.</span>
         <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#brunson">Arthur Brunson,</a></b></span> General Services Adminsitration (GSA)
@@ -715,14 +713,14 @@ format: "HTML (html)"
       </div>
       <div class="desktop:grid-col-9 tablet:grid-col-9 cell lt-olive agenda-description padding-1">
         <span class="session-type">Ask the Expert</span> 
-        <span class="session-description">End your IAAF experience with an opportunity to compare visions from key governmentwide accessibility experts! Mark Urban queries an all-star panel of leaders from the US Access Board, the General Services Administration (GSA), and National Aeronautics and Space Administration (NASA) as they peer into the past and future of Digital Accessibility, and answer questions about its’ broader role as part of the emerging governmentwide Diversity, Equity, Inclusion, and Accessibility efforts.</span>
+        <span class="session-description">End your IAAF experience with an opportunity to compare visions from key governmentwide accessibility experts! Mark Urban queries an all-star panel of leaders from the US Access Board, the General Services Administration (GSA), and National Aeronautics and Space Administration (NASA) as they peer into the past and future of Digital Accessibility, and answer questions about its’ broader role as part of IT accessibility efforts.</span>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Moderator:</span> 
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#urban">Mark Urban,</a></b> </span> Centers for Disease Control and Prevention (CDC)
         </div>
         <div class="speaker-info padding-top-1">
           <span class="session-type text-highlight">Panelists:</span> 
-          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span><span> Senior Advisor to the Administrator (Equity), General Services Administration (GSA)</span>
+          <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#oneal">Andrea M. O'Neal,</a></b></span><span> Senior Advisor to the Administrator, General Services Administration (GSA)</span>
         </div>
         <div class="speaker-info padding-top-1">
           <span class="speaker-name"><b><a href="{{site.baseurl}}/iaaf/archives/biographies-2021#pavithran">Dr. Sachin Pavithran,</a></b></span> U.S. Access Board
