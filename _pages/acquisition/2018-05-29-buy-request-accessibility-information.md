@@ -159,7 +159,7 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines/
- [2]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
+ [2]: https://training.section508.gov/assets/files/508-standards-applicability-checklist.docx
  [3]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
  [4]: https://assets.section508.gov/files/standards-exceptions-chart.docx
  [5]: {{site.baseurl}}/buy/standards-exceptions/

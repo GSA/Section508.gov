@@ -173,7 +173,7 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
  [12]: {{site.baseurl}}/art
- [13]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
+ [13]: https://training.section508.gov/assets/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/ict/wcag2ict.html
  [18]: {{site.baseurl}}/buy/request-accessibility-information
