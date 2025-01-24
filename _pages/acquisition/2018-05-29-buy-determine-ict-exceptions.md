@@ -5,6 +5,7 @@ permalink: buy/determine-ict-exceptions/
 type: acquisition
 title: 'Step 2: Determine ICT Exceptions'
 created: 1527569078
+updated: 2025-01-24
 topic: Acquisition/Buy (buy)
 sub-topic: Accessible Acquisition Info, Guidance & Best Practices
 audience:
@@ -268,14 +269,14 @@ See the other steps in this process:
 
 Contact your agency&rsquo;s [Section 508 Coordinator][10] or email us at <section.508@gsa.gov> with questions.
 
-**Updated/Reviewed**: May 2022
+**Updated/Reviewed**: January 2025
 
 &nbsp;
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: {{site.baseurl}}/buy/inventory-your-ict
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions
- [4]: https://assets.section508.gov/files/508-standards-applicability-checklist.docx
+ [4]: https://training.section508.gov/assets/files/508-standards-applicability-checklist.docx
  [5]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [6]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E101-general
  [7]: {{site.baseurl}}/buy/determine-508-standards-exceptions

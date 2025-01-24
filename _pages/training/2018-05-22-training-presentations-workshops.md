@@ -4,6 +4,8 @@ sidenav: true
 permalink: training/presentations-workshops/
 type: training
 title: 'Accessibility Presentations and Workshop Materials'
+created: 2018-05-22
+updated: 2025-01-24
 redirect_from:
 - csun2024/
 topic: "Events (events)"
@@ -32,7 +34,7 @@ In this training, participants learn how to:
 
 Downloads: 
 
-* <a href="https://assets.section508.gov/files/presentations/Using-DevTools-for-Manual-Accessibility-Inspection-2024-AUG-ITACM.pdf" target="_blank" class="usa-link--external">Using DevTools for Manual Accessibility Inspection - ITACM AUG 2024 (PDF)</a>
+* <a href="https://training.section508.gov/assets/files/Using-DevTools-for-Manual-Accessibility-Inspection-2024-AUG-ITACM.pdf" target="_blank" class="usa-link--external">Using DevTools for Manual Accessibility Inspection - ITACM AUG 2024 (PDF)</a>
 
 ---
 #### June 11, 2024
@@ -45,8 +47,8 @@ This session of the IT Accessibility Community Meeting introduces learners to ac
 
 Attendees who wish to follow along with the presenter can download files used in the live presentation:
 
-* [Tables Training Worksheet for Documents (DOCX)](https://assets.section508.gov/assets/files/2024-06-11-ITACM-Tables-Worksheet-for-Documents.docx)
-* [Tables Training Worksheet for PDF (PDF)](https://assets.section508.gov/assets/files/2024-06-11-ITACM-Tables-Worksheet-for-PDF.pdf)
+* [Tables Training Worksheet for Documents (DOCX)](https://training.section508.gov/assets/files/2024-06-11-ITACM-Tables-Worksheet-for-Documents.docx)
+* [Tables Training Worksheet for PDF (PDF)](https://training.section508.gov/assets/files/2024-06-11-ITACM-Tables-Worksheet-for-PDF.pdf)
 
 Downloads: 
 * [Captioned Text - JUN 2024 (DOCX)](https://training.section508.gov/assets/files/Captioned-Text-%28ITACM-JUN2024%29.docx)
@@ -57,18 +59,18 @@ The GSA Government-wide IT Accessibility Program hosted federal employees and ot
 
 Downloads: 
 
-* [IT Accessibility Policy Framework - ITACM FEB 2024 (PPTX)](https://assets.section508.gov/files/presentations/IT%20Accessibility%20Policy%20Framework%20-%20ITACM%20FEB%202024.pptx)  
+* [IT Accessibility Policy Framework - ITACM FEB 2024 (PPTX)](https://training.section508.gov/assets/files/IT%20Accessibility%20Policy%20Framework%20-%20ITACM%20FEB%202024.pptx)  
 
 ---
 ### CSUN Assistive Technology Conference
 #### March 18-22, 2024
 The California State University, Northridge (CSUN) hosted the 39th annual CSUN Assistive Technology Conference which is designed as an inclusive event for researchers, practitioners, exhibitors, end users and other participants to share knowledge and best practices in the field of assistive technology. Among the many workshops and presentations scheduled for the conference were those created by accessibility professionals from the GSA IT Accessibility Program and U.S. Access Board teams including:
 
-* [FED Talk - Section 508 Activities Update (PPTX)](https://assets.section508.gov/assets/files/FED-Talk-Section-508-Activities-Update-CSUN-2024.pptx) - Accessibility experts from the U.S. Access Board and the General Services Administration will provide updates on federal Section 508 ICT accessibility initiatives and activities. They will focus on the issues most applicable to users & implementers.
-* [Section 508 ICT Testing Baseline Portfolio (PPTX)](https://assets.section508.gov/files/presentations/ICT-Baseline-Portfolio-CSUN-2024.pptx) - The Section 508 ICT Testing Baseline Portfolio interprets the 508 Standards and sets minimum requirements of accessibility testing for consistent and reliable test results. Learn about the Baseline for Web and a Baseline for Documents is coming soon!
-* [OpenACR - the Future of Accessibility Conformance Reporting (PPTX)](https://assets.section508.gov/files/presentations/Revolutionizing-ACRs-OpenACR-CSUN-2024.pptx) - Unlock the future of digital accessibility conformance reporting with OpenACRs. Dive into the transformative approach of machine-readable reports, explore the innovative OpenACR Editor, and envision a world of continuous accessibility improvements.
-* [Analytical approach to the Government-Wide Annual Assessment (PPTX)](https://assets.section508.gov/assets/files/FY23-Governmentwide-Section-508-Assessment-CSUN-2024.pptx) - GSA and USAB dives into the analytical approach to the Government-wide Section 508 Annual Assessment, including an overview of the report to Congress, discussion of criteria development, data analysis, proof-points, and data-driven recommendations.
-* [Introduction to the Accessibility Requirements Tool (ART) (PPTX)](https://assets.section508.gov/files/presentations/Introduction-to-the-Accessibility-Requirements-Tool-(ART)-CSUN-2024.pptx) - Accessibility experts demonstrate how to use the Accessibility Requirements Tool (ART) to generate standardized Section 508 requirements language when procuring Information and Communication Technology (ICT) products and services.
+* [FED Talk - Section 508 Activities Update (PPTX)](https://training.section508.gov/assets/files/FED-Talk-Section-508-Activities-Update-CSUN-2024.pptx) - Accessibility experts from the U.S. Access Board and the General Services Administration will provide updates on federal Section 508 ICT accessibility initiatives and activities. They will focus on the issues most applicable to users & implementers.
+* [Section 508 ICT Testing Baseline Portfolio (PPTX)](https://training.section508.gov/assets/files/ICT-Baseline-Portfolio-CSUN-2024.pptx) - The Section 508 ICT Testing Baseline Portfolio interprets the 508 Standards and sets minimum requirements of accessibility testing for consistent and reliable test results. Learn about the Baseline for Web and a Baseline for Documents is coming soon!
+* [OpenACR - the Future of Accessibility Conformance Reporting (PPTX)](https://training.section508.gov/assets/files/Revolutionizing-ACRs-OpenACR-CSUN-2024.pptx) - Unlock the future of digital accessibility conformance reporting with OpenACRs. Dive into the transformative approach of machine-readable reports, explore the innovative OpenACR Editor, and envision a world of continuous accessibility improvements.
+* [Analytical approach to the Government-Wide Annual Assessment (PPTX)](https://training.section508.gov/assets/files/FY23-Governmentwide-Section-508-Assessment-CSUN-2024.pptx) - GSA and USAB dives into the analytical approach to the Government-wide Section 508 Annual Assessment, including an overview of the report to Congress, discussion of criteria development, data analysis, proof-points, and data-driven recommendations.
+* [Introduction to the Accessibility Requirements Tool (ART) (PPTX)](https://training.section508.gov/assets/files/Introduction-to-the-Accessibility-Requirements-Tool-(ART)-CSUN-2024.pptx) - Accessibility experts demonstrate how to use the Accessibility Requirements Tool (ART) to generate standardized Section 508 requirements language when procuring Information and Communication Technology (ICT) products and services.
 
 ---
 ## 2023
@@ -108,16 +110,16 @@ Continuing our theme, “Be The Change In Accessibility” focuses on “Be The 
 #### June 14, 2022 
 Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
-* [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/assets/files/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
-* [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://assets.section508.gov/assets/files/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)
+* [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://training.section508.gov/assets/files/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
+* [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://training.section508.gov/assets/files/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)
 * [Captioned Text - JUN 2022 (DOCX)](https://training.section508.gov/assets/files/Captioned-Text-%28ITACM-JUN2022%29.docx)
 
 ---
 #### April 19, 2022 
 Continuing our theme, “Be The Change In Accessibility” focuses on “being the change” while reconnecting with our broader accessibility community members and charting the path forward. The topic for this session is “Be The Change In Accessibility: Acquisition” where our participants heard from four speakers.
 
-* [SRT Data Process - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/SRT+Data+Process+-+ITACM+APR+2022.pptx)
-* [Market Research - ITACM APR 2022 (PPT)](https://assets.section508.gov/files/presentations/Market+Research+-+ITACM+APR+2022.pptx)
+* [SRT Data Process - ITACM APR 2022 (PPT)](https://training.section508.gov/assets/files/SRT+Data+Process+-+ITACM+APR+2022.pptx)
+* [Market Research - ITACM APR 2022 (PPT)](https://training.section508.gov/assets/files/Market+Research+-+ITACM+APR+2022.pptx)
 * [Captioned Text - APR 2022 (DOCX)](https://training.section508.gov/assets/files/Captioned-Text-%28ITACM-APR2022%29.docx)
 
 ---
@@ -129,4 +131,4 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://training.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025
