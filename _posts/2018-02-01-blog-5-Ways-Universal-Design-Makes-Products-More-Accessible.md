@@ -4,6 +4,7 @@ permalink: blog/5-Ways-Universal-Design-Makes-Products-More-Accessible/
 type: article
 title: '5 Ways Universal Design Makes Products More Accessible '
 created: 1517533537
+updated: 2025-01-24
 tags: Design-and-Develop
 description: Why build a product that can’t be used by everyone? With the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule" aria-label="Revised 508 Standards link">Revised 508 Standards</a> now in effect, federal agencies have an opportunity to change the way they implement solutions and make them accessible to as many people as possible.
 topic: "Design (design)"
@@ -22,12 +23,12 @@ Why build a product that can’t be used by everyone? With the Revised 508 Stand
 Here are five ways you can adopt universal design principles to implement accessible products for all.
 
 <div class="grid-row" style="text-align:center;">
-  <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Research" src="https://assets.section508.gov/files/5_Ways_Research_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px; float:left;" /> Research</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Sync" src="https://assets.section508.gov/files/5_Ways_sync_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px; float: left;float:left;" /> Sync</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Involve" src="https://assets.section508.gov/files/5_Ways_Involve_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding:5px;float:left;float:left;" /> Involve</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Communicate" src="https://assets.section508.gov/files/5_Ways_Communicate_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px;float:left;float:left;" /> Communicate</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Evaluate" src="https://assets.section508.gov/files/5_Ways_Evaluate_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px;float:left;float:left;" /> Evaluate</figure>
+  <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Research" src="https://assets.section508.gov/assets/images/blog-5-ways-research-icon.png" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px; float:left;" /> Research</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Sync" src="https://assets.section508.gov/assets/images/blog-5-ways-sync-icon.png" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px; float: left;float:left;" /> Sync</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Involve" src="https://assets.section508.gov/assets/images/blog-5-ways-involve-icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding:5px;float:left;float:left;" /> Involve</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Communicate" src="https://assets.section508.gov/files/5_Ways_Communicate_Icon.png?itok=1FE6uYw6" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px;float:left;float:left;" /> Communicate</figure> <figure class="desktop:grid-col-2 tablet:grid-col-2 mobile:grid-col-6" style="width:125px;display:inline-block;padding:0px;margin:5px;font-size: 12pt; font-family: Verdana;font-weight:bold;"><img alt="Evaluate" src="https://assets.section508.gov/assets/images/blog-5-ways-evaluate-icon.png" style="width: 100px; height: 100px; border-width: 0px; border-style: solid; padding: 5px;float:left;float:left;" /> Evaluate</figure>
 </div>
 
 <div>
   <h3>
-    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/files/5_Ways_Research_Icon.png" />1. Research your User Base
+    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/assets/images/blog-5-ways-research-icon.png" />1. Research your User Base
   </h3>
 </div>
 
@@ -35,7 +36,7 @@ Research and understand your user base and capture specific requirements in a pe
 
 <div>
   <h3>
-    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/files/5_Ways_sync_Icon.png" /> 2. Sync Development and Design Teams
+    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/assets/images/blog-5-ways-sync-icon.png" /> 2. Sync Development and Design Teams
   </h3>
 </div>
 
@@ -43,7 +44,7 @@ As technology advances, more companies are outsourcing development and design fu
 
 <div>
   <h3>
-    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/files/5_Ways_Involve_Icon.png" /> 3. Involve Users with Disabilities
+    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/assets/images/blog-5-ways-involve-icon.png" /> 3. Involve Users with Disabilities
   </h3>
 </div>
 
@@ -61,7 +62,7 @@ In their [Web Accessibility Initiative][2], the World Wide Web Consortium (W3C) 
 
 <div>
   <h3>
-    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/files/5_Ways_Evaluate_Icon.png" /> 5. Evaluate, Evaluate, Evaluate
+    <img style="vertical-align:middle;" alt="Research" src="https://assets.section508.gov/assets/images/blog-5-ways-evaluate-icon.png" /> 5. Evaluate, Evaluate, Evaluate
   </h3>
 </div>
 
