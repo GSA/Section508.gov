@@ -59,7 +59,7 @@
       <li>Five questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
     </ul>
 
-    For a complete list of changes, please reference this <a href="https://assets.section508.gov/files/reports/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx">crosswalk between FY23 criteria to FY24 criteria.</a>
+    For a complete list of changes, please reference this <a href="https://training.section508.gov/assets/files/assessment/2024/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx" target="_blank" class="usa-link--external">crosswalk between FY23 criteria to FY24 criteria (XLSX)</a>.
 -  
   id: 104
   h: Overview
@@ -153,7 +153,7 @@
   h: Submitting Data
   q: Is there a way for me to gather all my answers offline?
   a: |
-    While reporting entities may use the following <a href="https://assets.section508.gov/files/reports/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to help collect the information, responses must be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment criteria pages.
+    While reporting entities may use the following <a href="https://training.section508.gov/assets/files/assessment/2024/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" target="_blank" class="usa-link--external">Assessment spreadsheet (XLSX)</a> to help collect the information, responses must be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment criteria pages.
 -  
   id: 202
   h: Submitting Data
@@ -191,7 +191,7 @@
   h: Submitting Data
   q: What is the best way to navigate the reporting tool?
   a: |
-    We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://assets.section508.gov/files/reports/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx">Assessment spreadsheet (XLSX)</a> to gather responses.
+    We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://training.section508.gov/assets/files/assessment/2024/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" target="_blank" class="usa-link--external">Assessment spreadsheet (XLSX)</a> to gather responses.
     
     Within this submission response tool, your data is saved automatically—provided you use the same device and same browser—and you may return to the submission tool to continue entering information as many times as you need. You may navigate to different sections of the Assessment Criteria using the Table of Contents, Previous button or Next button. However, once you enter a section, you must answer all required criteria on the screen before moving to another section using the Table of Contents. You can use the Previous button to navigate backwards without answering all required questions on screen, but you cannot use the "Next" button within a section to skip questions without inputting an answer.
 -  
