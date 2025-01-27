@@ -32,7 +32,7 @@ format: "HTML (html)"
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
         <a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media">
-            <img alt="Creating Accessible Media" src="https://assets.section508.gov/files/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
+            <img alt="Creating Accessible Media" src="https://assets.section508.gov/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
         </a>
     </div>
 <div class="desktop:grid-col-9">
@@ -201,7 +201,7 @@ format: "HTML (html)"
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="https://assets.section508.gov/files/thumbnails/nps-preview-thumb.png" alt="Restoring our Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="https://assets.section508.gov/assets/images/thumbnails/nps-preview-thumb.jpg" alt="Restoring our Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" target="_blank">Restoring our Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>

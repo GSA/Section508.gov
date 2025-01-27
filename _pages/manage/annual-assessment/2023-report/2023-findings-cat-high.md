@@ -37,7 +37,7 @@ format: HTML (html)
 
 * All reporting entities in this category test internet pages, but all reported very low conformance rates (22% or less).
 
-* All 4 reporting entities responded that they lacked the resources to test the digital content requested by the Assessment (Q78-81) (See <a href="https://training.section508.gov/files/reports/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>).
+* All 4 reporting entities responded that they lacked the resources to test the digital content requested by the Assessment (Q78-81) (See <a href="https://training.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>).
 
 ### Overall Recommendations
 All reporting entities in the High-Very Low category performed better than expected in Communications, Content Creation, and IT Accessibility Program activities. Reporting entities in this category should focus on developer capabilities and allocating proper resources for Section 508 testing . Reporting entities should also make incremental improvements across all dimensions with particular focus on Testing and Technology Lifecycle Activities.
