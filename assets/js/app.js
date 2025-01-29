@@ -584,13 +584,6 @@ if(document.getElementById('policytype-table') != null)
             {
               "pt": "Information Systems Management",
               "description": "Policies that apply to the implementation and management of information systems.",
-              "pg": "Lack of a reference to equity, inclusion, and accessibility as policy goals and objectives to guide business needs for new information systems.",
-              "rInclusions": "Equity, inclusion, and accessibility listed as key policy goals and objectives for new information systems, with an emphasis on ICT accessibility.",
-              "rPolicy": "New ICT systems must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194) to ensure that these systems are accessible to the [insert your agency] workforce. Section 508 conformance should figure prominently in the planning and managing of ICT systems developed for or operated by [insert your agency]."
-            },
-            {
-              "pt": "Information Systems Management",
-              "description": "Policies that apply to the implementation and management of information systems.",
               "pg": "Periodic mention of Section 508 conformance for systems functional requirements, but not included in the agency's formal IT standards list.<sup>3</sup>",
               "rInclusions": "Description of Section 508 in agency IT standards list and conformance for all systems functional requirements.",
               "rPolicy": "In order for an information technology to become an approved IT standard for use, purchase, or development, it must undergo the agency's security and accessibility reviews for approval to ensure conformance to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194)."
