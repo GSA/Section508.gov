@@ -10,7 +10,7 @@ position: Section 508 Program Manager
 office: 
 location: Arlington, VA
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/aiken-brooke.jpg
+image_url: "/assets/images/bio-images/aiken-brooke.jpg"
 iaaf_years: 2023
 ---
 Brooke Aiken joined the FDIC in August 2019 as the FDIC’s first full-time Section 508 Program Manager.
