@@ -10,7 +10,7 @@ position: Chief Information Officer
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/shive-david.jpg
+image_url: /assets/images/bio-images/shive-david.jpg
 iaaf_years: 2023
 ---
 Shive oversees GSA IT — formerly known as the Office of the Chief Information Officer (OCIO) — and information technology operations and budget, ensuring its alignment with agency and administration strategic objectives and priorities.

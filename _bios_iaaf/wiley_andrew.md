@@ -10,7 +10,7 @@ position: Video Producer
 office: National Library of Medicine
 location: Washington, DC
 email: wileyam@mail.nih.gov 
-image_url: https://assets.section508.gov/assets/images/bio-images/wiley-andrew.jpg
+image_url: /assets/images/bio-images/wiley-andrew.jpg
 iaaf_years: 2022
 ---
 Andrew Wiley is a video producer and writer for National Library of Medicine’s Office of Communications and Public Liaison. Before coming to NLM in 2008, Andrew produced local television in Frederick Maryland and worked as a video journalist for the Frederick News-Post.

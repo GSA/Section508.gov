@@ -10,7 +10,7 @@ position: Document Remediation Specialist
 office: 
 location: Arlington, VA
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/greener-matthew.jpg
+image_url: /assets/images/bio-images/greener-matthew.jpg
 iaaf_years: 2023
 ---
 Matthew Greener has been a contractor with the FDIC since February 2023 working as a Document Remediation Specialist.

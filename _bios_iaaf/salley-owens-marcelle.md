@@ -10,7 +10,7 @@ position: Section 508 Program Manager (Backup)
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/salley-owens-marcelle.png
+image_url: /assets/images/bio-images/salley-owens-marcelle.png
 iaaf_years: 2022
 ---
 Marcelle Salley-Owens serve as the Section 508 Program Manager (Backup) and Audit Support for Pension Benefit Guaranty Corporation since April 2019. As of 2022 she also took on the role as a Contracting Officer Representative. Prior to her joining PBGC in April 2019, she worked for Department of Defense as an Acquisition and Contract Management Specialist and Contracting Officer Representative. She has previous experience as a Software Tester and Software Customer Support Specialist. She serves as a member of the Section 508 Intra-Agency team representing OIT along with the agency’s communications, human resources, legal, EEO, IT, facilities, and procurement departments. Additionally, she chairs the Office of Information Technology Strategic Technology Acquisition Council.

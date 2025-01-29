@@ -55,7 +55,7 @@ format: "HTML (html)"
     <!-- NEW BIO -->
     <div class="grid-row border-bottom-1px border-base-lighter ">
       <div class="desktop:grid-col-2 tablet:grid-col-2">
-        <img class="circle-card border-05 border-base-light shadow-1" src="{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
+        <img class="circle-card border-05 border-base-light shadow-1" src="{{ site.baseurl }}{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
       </div>
       <div class="desktop:grid-col-10 tablet:grid-col-10 padding-left-4">
         <h3 id="{{ bio.bio_id }}" class="margin-top-0">{{ bio.display_name }}</h3>

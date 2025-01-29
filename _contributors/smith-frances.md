@@ -11,7 +11,7 @@ affiliation_long: United States Forest Service
 position: Visual Information Specialist
 location: KS
 email: frances.smith@usda.gov
-image_url: https://assets.section508.gov/assets/images/bio-images/smith-frances-1.jpg
+image_url: /assets/images/bio-images/smith-frances-1.jpg
 permalink: /:collection/:name:output_ext
 ---
 Frances Smith is a Visual Information Specialist (VIS) for the United States Forest Service (FS) at the United States Department of Agriculture (USDA). She has been in the graphic design arena for over 20 years where she first started working for government at Kansas Rehabilitation Services. In 2001, she was introduced to Section 508, one of the first individuals to be certified in Section 508 requirements from the University of Boston, and instrumental in the creation of the Web Accessibility Subcommittee for the State of Kansas which was tasked to create, implement, and train state government agency employees on Section 508 law and the steps necessary to meet the Web Content Accessibility Guidelines (WCAG).
