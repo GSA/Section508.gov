@@ -22,7 +22,7 @@ format: Video & Synchronized Media (video)
 
 [Martha Orr]({{site.baseurl}}/http://iaaf/archives/biographies-2023#orr-martha), Deputy Chief Information Officer for Compliance, Risk, and Remediation, Department of Veterans Affairs, moderated a discussion among VA officials about.... 
 
-<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s7-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s7-round-table-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s7-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s7-round-table-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">

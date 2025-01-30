@@ -20,7 +20,7 @@ format: "Video & Synchronized Media (video)"
 
 <a href="https://www.section508.gov/iaaf/biographies-2021#quesenbery">Whitney Quesenbery</a>, Director of the Center for Civic Design, opens the 2021 Interagency Accessibility Forum (IAAF) with an address on accessible voting, including  improvements in voting systems that have allowed more people to independently and privately participate in state, local and national elections.
 
-<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2021-keynote-quesenbery-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2021-keynote-quesenbery-SD-OC.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/iaaf-2021-keynote-quesenbery-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2021-keynote-quesenbery-SD-OC.mp4" type="video/mp4" /></video>
 
 ## Related Videos
 * [IAAF 2022 - Oct 13 Keynote Address: Kimberly Knackstedt]({{site.baseurl}}/training/presentations-workshops/keynote-kim-knackstedt/)

@@ -32,7 +32,7 @@ format: "HTML (html)"
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
         <a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media">
-            <img alt="Creating Accessible Media" src="https://assets.section508.gov/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
+            <img alt="Creating Accessible Media" src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
         </a>
     </div>
 <div class="desktop:grid-col-9">
@@ -57,7 +57,7 @@ format: "HTML (html)"
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
 <hr />
 <p dir="ltr"><strong>What is the difference between open and closed captions?</strong></p>
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
@@ -108,10 +108,10 @@ format: "HTML (html)"
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Audio Described)</strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
 <p dir="ltr">Duration: 0h 0:42m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="https://assets.section508.gov/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="{{site.baseurl}}/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q" target="_blank" class="usa-link--external">Vintage Commercial for Paper Towels </a></strong></p>
 <p dir="ltr">In this example, the audio description was not planned for originally, and has been inserted into the media afterwards by stopping the motion of the video and allowing time for a secondary audio track description of meaningful information.</p>
@@ -201,7 +201,7 @@ format: "HTML (html)"
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="https://assets.section508.gov/assets/images/thumbnails/nps-preview-thumb.jpg" alt="Restoring our Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="{{site.baseurl}}/assets/images/thumbnails/nps-preview-thumb.jpg" alt="Restoring our Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" target="_blank">Restoring our Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>

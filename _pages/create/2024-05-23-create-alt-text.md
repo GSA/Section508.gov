@@ -29,7 +29,7 @@ Additionally, alt text makes content accessible to other users, like those who m
 <hr />
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="https://assets.section508.gov/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%" /></a>
+        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="{{site.baseurl}}/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">
         <p class="video-title"><a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/">What is Alternative Text?</a></p>

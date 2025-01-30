@@ -25,7 +25,7 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
