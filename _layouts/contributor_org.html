@@ -6,44 +6,55 @@ layout: base
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <main class="usa-layout-docs__main">
-        <nav class="usa-breadcrumb margin-top-neg-3" aria-label="Breadcrumb Navigation">
+        <nav
+          class="usa-breadcrumb margin-top-neg-3"
+          aria-label="Breadcrumb Navigation"
+        >
           <ol class="usa-breadcrumb__list">
             <li class="usa-breadcrumb__list-item">
               <a href="{{site.baseurl}}/" class="usa-breadcrumb__link">Home</a>
             </li>
             <li class="usa-breadcrumb__list-item">
-              <a href="{{site.baseurl}}/contributors/" class="usa-breadcrumb__link">Contributors</a>
+              <a
+                href="{{site.baseurl}}/contributors/"
+                class="usa-breadcrumb__link"
+                >Contributors</a
+              >
             </li>
             <li class="usa-breadcrumb__list-item">
-              <a href="{{ site.baseurl }}{{ page.url }}" class="usa-breadcrumb__link">{{ page.display_name }}</a>
+              <a
+                href="{{ site.baseurl }}{{ page.url }}"
+                class="usa-breadcrumb__link"
+                >{{ page.display_name }}</a
+              >
             </li>
           </ol>
         </nav>
 
         {% if page.image_url %}
         <div>
-          <img src="{{page.image_url}}" height="160px" alt="Photo: {{ page.display_name }}">
+          <img
+            src="{{ site.baseurl }}{{page.image_url}}"
+            height="160px"
+            alt="Photo: {{ page.display_name }}"
+          />
         </div>
         {% endif %}
         <h1>{{ page.display_name }} ({{ page.affiliation_short }})</h1>
-        <div class="usa-graphic-list">
-          {{ content }}
-        </div>
+        <div class="usa-graphic-list">{{ content }}</div>
         <h2>{{ page.affiliation_short }} Contributions on Section508.gov</h2>
         <ul>
-        {% assign this_contributor = page.contributor_id %}
-        {% for pages in site.pages %}
-          {% if pages.contributors contains this_contributor %}
-              <li class="margin-y-1"><a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a>
-              </li>
-          {% endif %}
-        {% endfor %}
-        {% for posts in site.posts %}
-          {% if posts.contributors contains this_contributor %}
-              <li class="margin-y-1"><a href="{{ site.baseurl }}{{ posts.url }}">{{ posts.title }}</a>
-              </li>
-          {% endif %}
-        {% endfor %}
+          {% assign this_contributor = page.contributor_id %} {% for pages in
+          site.pages %} {% if pages.contributors contains this_contributor %}
+          <li class="margin-y-1">
+            <a href="{{ site.baseurl }}{{ pages.url }}">{{ pages.title }}</a>
+          </li>
+          {% endif %} {% endfor %} {% for posts in site.posts %} {% if
+          posts.contributors contains this_contributor %}
+          <li class="margin-y-1">
+            <a href="{{ site.baseurl }}{{ posts.url }}">{{ posts.title }}</a>
+          </li>
+          {% endif %} {% endfor %}
         </ul>
       </main>
     </div>

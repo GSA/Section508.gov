@@ -1,41 +1,47 @@
 <div class="margin-bottom-05">
-  {% assign page_contributors = page.contributors %}
-  {% assign org = "organization" %}
-  {% assign org_contrib = false %}
-  {% assign ind = "individual" %}
-  {% assign ind_contrib = false %}
-  {% assign str_type = "" %}
-  {% for contributor in site.contributors %}
-    {% if page_contributors contains contributor.contributor_id %}
-      {% capture str_type %}{{str_type}}, {{contributor.contributor_type}}{% endcapture %}
-    {% endif %}
-  {% endfor %}
-  {% if str_type contains org %}{% assign org_contrib = true %}{% endif %}
-  {% if str_type contains ind %}{% assign ind_contrib = true %}{% endif %}
-  {% if ind_contrib == true %}
-    <strong>Content Contributors: </strong>
-    <ul class="margin-top-05 padding-left-1" style="list-style-type:none">
-    {% for contributor in site.contributors %}
-      {% if page_contributors contains contributor.contributor_id and contributor.contributor_type == ind %}
-        <li class="margin-bottom-1">
-            <img src="{{ contributor.image_url }}" class="circle-6 border-2px border-base-light shadow-1" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
-            <a href="{{ site.baseurl }}{{ contributor.url }}" class="margin-left-1"> {{ contributor.display_name }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  {% endif %}
-  {% if org_contrib == true %}
-    <strong>Contributing Organizations</strong>
-    <ul class="margin-top-05 padding-left-1" style="list-style-type:none">
-    {% for contributor in site.contributors %}
-      {% if page_contributors contains contributor.contributor_id and contributor.contributor_type == org %}
-        <li class="margin-bottom-1">
-            <img src="{{ contributor.image_url }}" height="48px" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
-            <a href="{{ site.baseurl }}{{ contributor.url }}" class="margin-left-1"> {{ contributor.display_name }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
+  {% assign page_contributors = page.contributors %} {% assign org =
+  "organization" %} {% assign org_contrib = false %} {% assign ind =
+  "individual" %} {% assign ind_contrib = false %} {% assign str_type = "" %} {%
+  for contributor in site.contributors %} {% if page_contributors contains
+  contributor.contributor_id %} {% capture str_type %}{{str_type}},
+  {{contributor.contributor_type}}{% endcapture %} {% endif %} {% endfor %} {%
+  if str_type contains org %}{% assign org_contrib = true %}{% endif %} {% if
+  str_type contains ind %}{% assign ind_contrib = true %}{% endif %} {% if
+  ind_contrib == true %}
+  <strong>Content Contributors: </strong>
+  <ul class="margin-top-05 padding-left-1" style="list-style-type: none">
+    {% for contributor in site.contributors %} {% if page_contributors contains
+    contributor.contributor_id and contributor.contributor_type == ind %}
+    <li class="margin-bottom-1">
+      <img
+        src="{{ site.baseurl }}{{ contributor.image_url }}"
+        class="circle-6 border-2px border-base-light shadow-1"
+        alt="Photo: {{ contributor.display_name }}"
+        style="vertical-align: middle"
+      />
+      <a href="{{ site.baseurl }}{{ contributor.url }}" class="margin-left-1">
+        {{ contributor.display_name }}</a
+      >
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
+  {% endif %} {% if org_contrib == true %}
+  <strong>Contributing Organizations</strong>
+  <ul class="margin-top-05 padding-left-1" style="list-style-type: none">
+    {% for contributor in site.contributors %} {% if page_contributors contains
+    contributor.contributor_id and contributor.contributor_type == org %}
+    <li class="margin-bottom-1">
+      <img
+        src="{{ site.baseurl }}{{ contributor.image_url }}"
+        height="48px"
+        alt="Photo: {{ contributor.display_name }}"
+        style="vertical-align: middle"
+      />
+      <a href="{{ site.baseurl }}{{ contributor.url }}" class="margin-left-1">
+        {{ contributor.display_name }}</a
+      >
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
   {% endif %}
 </div>
