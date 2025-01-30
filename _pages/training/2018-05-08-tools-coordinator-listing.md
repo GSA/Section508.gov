@@ -200,7 +200,7 @@ Vanessa Hill - <vanessa.hill2@dodiis.mil>
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
-Antonio Boston - <antonio.boston.civ@mail.mil>  
+Antonio Boston - <antonio.boston@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
