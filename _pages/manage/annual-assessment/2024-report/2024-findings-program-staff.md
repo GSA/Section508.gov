@@ -48,7 +48,7 @@ As shown in Figure 10, 33% of reporting entities reported a full-time Section 50
 <hr class="breaker-bar-green">
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px;">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy24/figure-10.jpg" alt="Bar chart comparison of governmentwide Section 508 PM or equivalent utilization showing 33% of entities reported a Full-time Section 508 PM in FY24 up from 28% in FY23, 56% reported a part-time PM in FY24 up from 51% in FY23 and 11% reported no Section 508 PM compared to 21% in FY23." aria-describedby="figure-10" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-10.jpg" alt="Bar chart comparison of governmentwide Section 508 PM or equivalent utilization showing 33% of entities reported a Full-time Section 508 PM in FY24 up from 28% in FY23, 56% reported a part-time PM in FY24 up from 51% in FY23 and 11% reported no Section 508 PM compared to 21% in FY23." aria-describedby="figure-10" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-10"><strong>Figure 10.</strong> Comparison of governmentwide Section 508 PM or equivalent utilization (Q4)</span>
     </div>
@@ -116,7 +116,7 @@ While some entities reported increasing Section 508 staffing and contractor reso
 * Governmentwide, the FY24 average number of Section 508 FTEs was at 5.5 compared to 4.3 in FY23, comprising an average of 3.7 federal Section 508 FTEs versus 2.7 in FY23 and 1.8 contractor Section 508 FTEs versus 1.6 in FY23.<sup><a href="#fn24" id="fr24">24</a></sup> 
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy24/figure-11.jpg" alt="Line graph showing average reporting entity FTEs by maturity bracket. For Very Low, the average number of FTEs was 0.7, Low’s average was 1.7 FTEs, Moderate’s average was 9 FTEs, High’s average was 5.7 FTEs and Very High’s average was 12.3 FTEs. There is a positive correlation between the total number of FTEs and the maturity outcomes." aria-describedby="figure-11" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-11.jpg" alt="Line graph showing average reporting entity FTEs by maturity bracket. For Very Low, the average number of FTEs was 0.7, Low’s average was 1.7 FTEs, Moderate’s average was 9 FTEs, High’s average was 5.7 FTEs and Very High’s average was 12.3 FTEs. There is a positive correlation between the total number of FTEs and the maturity outcomes." aria-describedby="figure-11" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-11"><strong>Figure 11.</strong> Average reporting entity FTE by maturity bracket.</span>
    </div>
@@ -125,7 +125,7 @@ While some entities reported increasing Section 508 staffing and contractor reso
 As Figure 11 shows, there is a positive correlation between the total number of FTEs and the maturity outcomes for that reporting entity. More well-resourced organizations tend to be more mature with respect to accessibility considerations across the business landscape. The reverse is also true: less mature organizations tend to be those that are not well resourced.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy24/figure-12.jpg" alt="Line graph showing average reporting entity FTEs by conformance bracket. For Very Low, the average number of FTEs was 3.5, Low’s average was 6.4 FTEs, Moderate’s average was 5.8 FTEs, High’s average was 9.1 FTEs and Very High’s average was 3 FTEs. FTE by conformance shows a positive relationship between the number of resources and the conformance outcomes." aria-describedby="figure-12" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-12.jpg" alt="Line graph showing average reporting entity FTEs by conformance bracket. For Very Low, the average number of FTEs was 3.5, Low’s average was 6.4 FTEs, Moderate’s average was 5.8 FTEs, High’s average was 9.1 FTEs and Very High’s average was 3 FTEs. FTE by conformance shows a positive relationship between the number of resources and the conformance outcomes." aria-describedby="figure-12" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-12"><strong>Figure 12.</strong> Average reporting entity FTE by conformance bracket.</span>
    </div>
@@ -141,7 +141,7 @@ In the Assessment, FTE only factors in Section 508 FTEs directly supporting the 
 Although the Human Capital, Culture, and Leadership Dimension improved from 1.63 in FY23 to 1.93 in FY24 – about an 18% increase YOY across the government – there is still room for improvement. This remains one of the lowest performing dimensions. In fact, in FY24, it is the lowest dimension. While improvements were reported, digital accessibility remains deprioritized for some reporting entities.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy24/figure-13.jpg" alt="Line graph showing average reporting entity FTEs by conformance bracket. For Very Low, the average number of FTEs was 3.5, Low’s average was 6.4 FTEs, Moderate’s average was 5.8 FTEs, High’s average was 9.1 FTEs and Very High’s average was 3 FTEs. FTE by conformance shows a positive relationship between the number of resources and the conformance outcomes." aria-describedby="figure-13" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy24/figure-13.jpg" alt="Line graph showing average reporting entity FTEs by conformance bracket. For Very Low, the average number of FTEs was 3.5, Low’s average was 6.4 FTEs, Moderate’s average was 5.8 FTEs, High’s average was 9.1 FTEs and Very High’s average was 3 FTEs. FTE by conformance shows a positive relationship between the number of resources and the conformance outcomes." aria-describedby="figure-13" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-13"><strong>Figure 13.</strong> YOY response count for inclusion of Section 508 conformance in ICT-related leadership and management performance plans (Q44).</span>
    </div>
