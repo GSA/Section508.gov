@@ -409,7 +409,7 @@ format: "HTML (html)"
         if (entity_data[i].id === id) {
           //Entity logo/seal and alt text
           if (entity_data[i].seal == "") {
-            document.getElementById("entity-seal").setAttribute("src", "https://assets.section508.gov/assets/images/assessment/fy23/image-placeholder.png");
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
           } else {
             const altTextSeal = "Logo of " + entity_data[i].name; 
             document.getElementById("entity-seal").setAttribute("src", entity_data[i].seal);
