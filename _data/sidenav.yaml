@@ -465,9 +465,7 @@ develop:
           - name: Publishing to the Web
             url: develop/publish-to-web/
       - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/   
-      - name: How to Avoid Bias in Emerging Technologies
-        url: develop/avoid-bias-in-emerging-technologies/  
+        url: develop/incorporating-accessibility-conformance/
 test:
   - name: Testing
     url: 'test/'
