@@ -33,7 +33,7 @@ Before sharing or publishing your document, presentation, or spreadsheet, run th
 3. In the *Accessibility* panel that opens on the side, review the results. You'll see a list of errors, warnings, and tips with how-to-fix recommendations for each.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-001-figure-1.jpg" alt="Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-001-figure-1.jpg" alt="Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel.</span>
     </div>
