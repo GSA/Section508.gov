@@ -36,7 +36,7 @@ To fix this error, simply update the text color to a higher contrasting version 
 **NOTE:** The color “Red” in many Microsoft applications fails to meet the minimum contrast standard. Suggest selecting and using “Dark Red” instead.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-002-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-002-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Microsoft Word document with the text “Accessibility Bytes” being formatted as “Red” in the color picker and the Accessibility panel showing a warning that the text has insufficient contrast.</span>
     </div>
