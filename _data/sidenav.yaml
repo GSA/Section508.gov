@@ -25,7 +25,7 @@ manage:
             url: manage/program-roadmap/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
-      - name: How 508 Standards Benefit Persons With Disabilities
+      - name: How Section 508 Standards Benefit People With Disabilities
         url: manage/how-508-standards-benefit-pwd/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
