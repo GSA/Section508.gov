@@ -4,7 +4,7 @@ permalink: blog/accessibility-bytes/document-headings/
 type: article
 title: 'Accessibility Bytes No. 6: Document Headings'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
-social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
+social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-10-16
 description: "<strong>Do you know some people rely on content structure to navigate the information within a document?</strong><p>The good news is that document authors can quickly format programmatic headings to enable screen reader users to navigate documents easily, ensuring equal access, unlike visual readers who rely on heading appearance."
 contributors: 

@@ -4,7 +4,7 @@ permalink: blog/accessibility-bytes/use-of-color/
 type: article
 title: 'Accessibility Bytes No. 3: Use of Color'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
-social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
+social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-07-11
 description: "<strong>Do you know that some people experience difficulty understanding and comprehending information when we use only colors to convey it?</strong><p>By meeting the use-of-color requirements, authors and agencies ensure that information isn't available through color only."
 contributors: 

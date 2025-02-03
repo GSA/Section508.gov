@@ -49,7 +49,7 @@ Overall, across the federal government, the average digital accessibility confor
         <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
           <div class="center-middle">
             <div class="spot-div">
-              <div class="spot-text" style="background-size: 70px; background-color:#FFF; background-image: url('https://assets.section508.gov/files/images/icon-checklist-2.png');"></div>
+              <div class="spot-text" style="background-size: 70px; background-color:#FFF; background-image: url('{{site.baseurl}}/assets/images/icon-checklist-2.png');"></div>
             </div>
           </div>
           <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">
@@ -88,7 +88,7 @@ Overall, across the federal government, the average digital accessibility confor
         <div class="callout-box-changes grid-row flex-no-wrap" style="border-bottom-color: #538100;">
           <div class="center-middle">
             <div class="spot-div">
-              <div class="spot-text" style="background-size: 70px; background-color:#FFF; background-image: url('https://assets.section508.gov/files/images/icon-timer-2.png');"></div>
+              <div class="spot-text" style="background-size: 70px; background-color:#FFF; background-image: url('{{site.baseurl}}/assets/images/icon-timer-2.png');"></div>
             </div>
           </div>
           <div class="tablet:grid-col center-left text-div" style="background-color:#E0F2EB;">

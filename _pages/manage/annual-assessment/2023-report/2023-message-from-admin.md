@@ -29,7 +29,7 @@ The Assessment reflects information and activities between June 1, 2022, and May
 We would like to extend our gratitude to the reporting entities for their dedication, cooperation, and transparency in making the inaugural year of the Assessment a success. Through their timely and critical reporting of assessment data, we have built a new foundation for Section 508 compliance across the federal government. Beyond meeting our statutory requirements, we look forward to the positive outcomes of this annual Assessment for federal employees and the American public. If you have any questions about this report, please do not hesitate to contact GSA.
 
 Respectfully submitted,
-<br><img src="https://assets.section508.gov/files/images/sig-carnahan.png" alt="Signature of Robin Carnahan" height="70px" width="auto"><br>
+<br><img src="{{site.baseurl}}/assets/images/sig-carnahan.png" alt="Signature of Robin Carnahan" height="70px" width="auto"><br>
 Robin Carnahan  
 Administrator
 

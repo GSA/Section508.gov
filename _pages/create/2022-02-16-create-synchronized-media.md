@@ -197,7 +197,7 @@ format: "HTML (html)"
 </ul>
 <h3 id="examples-of-user-controls" dir="ltr"><strong>Example of Accessible User Controls&nbsp;</strong></h3>
 <p dir="ltr">The Department of the Interior has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls (Figure 1).</p>
-<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="https://assets.section508.gov/files/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
+<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="{{site.baseurl}}/assets/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
