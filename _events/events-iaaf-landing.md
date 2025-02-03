@@ -85,7 +85,7 @@ Until then, let's continue to collaborate, innovate, and advocate for a more acc
 -->
 <!--
 ## Event Agenda
-<img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
+<img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
 This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 

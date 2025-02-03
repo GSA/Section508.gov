@@ -32,7 +32,7 @@ Although there are other possible methods to complete an ACR, this part of the g
       <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;"><strong>PRO TIP:</strong> Use the <a href="https://acreditor.section508.gov/">ACR Editor</a> to quickly and easily build Accessibility Conformance Reports in a machine-readable format.</div>
     </div>
     <div class="tablet:grid-col" style="text-align: center">
-        <div class="margin-top-1"><img src="https://assets.section508.gov/files/vpat-snapshot.png" alt="ITI's VPAT" aria-describedby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/vpat-snapshot.png" alt="ITI's VPAT" aria-describedby="vpat_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
         <div class="font-mono-3xs margin-y-1"><span id="vpat_snapshot">Snapshot of ITI VPAT&reg; Homepage</span></div>
     </div>
   </div>
@@ -53,7 +53,7 @@ Although there are other possible methods to complete an ACR, this part of the g
     </ul>
     </div>
     <div class="tablet:grid-col" style="text-align: center">
-        <div class="margin-top-1"><img src="https://assets.section508.gov/files/acr-coverpage-snapshot.png" alt="VPAT 2.4" aria-describedby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
+        <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/acr-coverpage-snapshot.png" alt="VPAT 2.4" aria-describedby="acr_cover_snapshot" class="border-2px border-base-light shadow-2 padding-1"></div>
         <div class="font-mono-3xs margin-y-1"><span id="acr_cover_snapshot">Snapshot of Page 10 of VPAT&reg; v2.4</span></div>
     </div>
   </div>

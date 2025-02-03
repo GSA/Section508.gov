@@ -183,7 +183,7 @@ format: "HTML (html)"
 <strong>Note:</strong> "B-roll," the raw source media collected to supplement the creation of a pre-recorded video, does not have to meet any Section 508 requirements.
 </div>
 <br />
-<div><img style="width: 100%;" src="https://assets.section508.gov/files/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
+<div><img style="width: 100%;" src="{{site.baseurl}}/assets/images/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
 <br />
 <p><strong>NOTE:</strong> As federal agencies can establish policy and design guidelines which meet or exceed the minimum standards of Section 508 (for example, an agency requires open captions for all videos), producers should confirm agency requirements when planning new media content.</p>
 <br />
