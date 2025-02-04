@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-01-29
+updated: 2025-02-04
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -381,19 +381,19 @@ Sid Sharma - <siddhartha_sharma@ios.doi.gov>
 George Morris - <george.morris@bia.gov>
 ### Bureau of Land Management (BLM)
 Brianna Huerta - <bhuerta@blm.gov>
-### Bureau of Ocean Energy Management
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Reclamation
+### Bureau of Ocean Energy Management (BOEM)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Reclamation (BR)
 Lori Pelech - <lpelech@usbr.gov>  
-### Bureau of Safety and Environmental Enforcement
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Trust Funds Administration
+### Bureau of Safety and Environmental Enforcement (BSEE)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Trust Funds Administration (BTFA)
 Neal Herbert - <neal_herbert@btfa.gov>  
 ### National Park Service (NPS)
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor
+### Office of the Solicitor (OS)
 Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
