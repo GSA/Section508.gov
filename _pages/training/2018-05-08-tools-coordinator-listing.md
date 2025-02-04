@@ -114,10 +114,9 @@ Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
 Louise Camalier – <louise.camalier@oig.usda.gov>  
 ### Research, Education and Economics (REE)
-Lisa Wilcox - <lisa.wilcox@usda.gov>  
-
-* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
-* **National Agricultural Statistics Service (NASS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+  
+* **Agricultural Research Service (ARS)**  
+* **National Agricultural Statistics Service (NASS)**  
 * **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
 ### Rural Development
@@ -170,6 +169,7 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 
 ### Air National Guard
 ### Army
+Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
@@ -931,7 +931,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: February 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
