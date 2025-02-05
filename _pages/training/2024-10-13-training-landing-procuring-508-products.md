@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-procuring-ict-prod-srvs.jpg" alt="" class="radius-lg" />
+          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-procuring-ict-prod-srvs.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This course is a basic overview of the Federal acquisition process for procuring Information and Communication Technology (ICT) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC 056)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/procuring-section-508-conformant-ict-products-and-services/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs FAC 056</a>
+        <a href="https://training.section508.gov/assets/online-training/procuring-section-508-conformant-ict-products-and-services/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs FAC 056</a>
       </div>
     </div>
   </li>
@@ -140,4 +140,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: October 2024
+**Reviewed/Updated**: January 2025

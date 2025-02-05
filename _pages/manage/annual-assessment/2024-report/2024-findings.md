@@ -26,7 +26,7 @@ In the second year of the Assessment and 26 years since the Rehabilitation Act o
 
 The FY24 Assessment expanded the breadth and depth of reporting entities this year to include 15 new respondents. The following findings are based on self-reported data from 245 reporting entities related to information and activities between June 1, 2023, and May 31, 2024.<sup><a href="#fn1" id="fr1">1</a></sup> Similar to last year, there was no independent data verification or testing to assess the accuracy of entity submissions.
 
-Please see the [Methods]({{site.baseurl}}/manage/section-508-assessment/2024/appendix-b-methods/) section for a comprehensive explanation of data validation flags and calculations used to ascertain each reporting entity's maturity and conformance. The [Observations and Acknowledgements](https://docs.google.com/document/d/1xmSXSGdFNyH8ogL6s8eiIa-ms-k-OavYxQY9qMDfLIU/edit#heading=h.lttihwjelp9) section addresses misunderstandings of terminology, discrepancies in results, and issues flagged during data validation. Not all criteria were statistically significant for this analysis, thus the [Findings - LINK NEEDED]() section does not summarize every data point.<sup><a href="#fn2" id="fr2">2</a></sup> However, all response data can be accessed publicly in [Assessment Data and Downloads]({{site.baseurl}}/manage/section-508-assessment/2024/assessment-data-downloads/).
+Please see the [Methods]({{site.baseurl}}/manage/section-508-assessment/2024/appendix-b-methods/) section for a comprehensive explanation of data validation flags and calculations used to ascertain each reporting entity's maturity and conformance. The [Observations and Acknowledgements]({{site.baseurl}}/manage/section-508-assessment/2024/observations/) section addresses misunderstandings of terminology, discrepancies in results, and issues flagged during data validation. Not all criteria were statistically significant for this analysis, thus the [Findings]() section does not summarize every data point.<sup><a href="#fn2" id="fr2">2</a></sup> However, all response data can be accessed publicly in [Assessment Data and Downloads]({{site.baseurl}}/manage/section-508-assessment/2024/assessment-data-downloads/).
 
 The following sections assess conformance outcomes and maturity inputs to comprehensively evaluate governmentwide Section 508 compliance, identify continued opportunities for improvement, and gain a clearer understanding of where deficiencies still exist in digital accessibility efforts and their causes. **On average, governmentwide maturity slightly improved but remains moderate** at 2.37 on a 5-point scale compared to 2.17 in FY23. **On average, governmentwide conformance did not improve and remains low** at 1.74 on a 5-point scale (compared to 1.79 in FY23). Results, analysis, and specific figures for these outcomes are shown below. 
 
@@ -111,7 +111,7 @@ Overall, across the federal government, the average digital accessibility confor
 **Maturity Dimensions:** Policies, Procedures, and Practices and Technology Lifecycle Activities both declined slightly with a decrease of 7% YOY.
 
 <h4 id="m-potential-drivers">Potential Drivers:</h4>
-**Increased Investment:** Increase in maturity likely reflects increased investment inSection 508 program activities, including creating policies, requiring regular accessibility training, creating accessibility statements and establishing feedback mechanisms. Numerous questions saw improvement as reporting entities developed and refined their accessibility capabilities.
+**Increased Investment:** Increase in maturity likely reflects increased investment in Section 508 program activities, including creating policies, requiring regular accessibility training, creating accessibility statements and establishing feedback mechanisms. Numerous questions saw improvement as reporting entities developed and refined their accessibility capabilities.
 
 **Additional Resources and Time:** The number of program managers and the amount of time spent on digital accessibility and the Section 508 program both increased. This may have allowed reporting entities to allocate more time to program development, resulting in better maturity outcomes.
 
@@ -125,4 +125,4 @@ Overall, across the federal government, the average digital accessibility confor
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024
+**Reviewed/Updated**: January 2025

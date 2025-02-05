@@ -64,14 +64,14 @@ Many office productivity suites, such as Microsoft Office and Google Workspace, 
 5.  Select **`OK`** to finish.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/byte-004-figure-1.jpg" alt="Document containing sample text with 'Section508.gov' highlighted (Step 1), and arrows pointing to the Links ribbon menu (Step 2), and Link context menus (Step 3)." aria-describedby="figure-2" class="padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-004-figure-1.jpg" alt="Document containing sample text with 'Section508.gov' highlighted (Step 1), and arrows pointing to the Links ribbon menu (Step 2), and Link context menus (Step 3)." aria-describedby="figure-2" class="padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Steps 1 to 3 to open the Insert Hyperlink dialog box.</span>
     </div>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/byte-004-figure-2.jpg" alt="Insert Hyperlink dialog box with Text to Display set to Section508.gov, (Step 4) Web Page or File Address set to https://www.section508.gov, and (Step 5) select OK button." aria-describedby="figure-2" class="padding-1">
+    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-004-figure-2.jpg" alt="Insert Hyperlink dialog box with Text to Display set to Section508.gov, (Step 4) Web Page or File Address set to https://www.section508.gov, and (Step 5) select OK button." aria-describedby="figure-2" class="padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Steps 4 to 5 to enter the existing file or web address URL.</span>
     </div>

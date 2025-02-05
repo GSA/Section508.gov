@@ -21,7 +21,7 @@ GSA, OMB, and the U.S. Access Board (Access Board) built upon the groundwork lai
 
 ## Development and Dissemination of Assessment Criteria
 
-To better evaluate the current state of Section 508 compliance and digital accessibility across the federal government, GSA and OMB, in collaboration with the Access Board and OSTP, refined the FY23 Assessment criteria language for FY24 with a focus on making questions and response options easier to interpret. For example, we used the term "reporting entity" in place of  "agency" to encompass both agencies, i.e., bureaus, departments, and headquarters,  and components, i.e., organizational units that reside within a department or large agency. Additionally, we added frequency percentages for never, sometimes, regularly, frequently, and almost always directly to response options to enhance clarity. We introduced several new questions, covering topics such as total federal employees, ICT test processes utilized, and exceptions processes. We also introduced 10 new questions---questions 80 to 89---on a rotating basis to broaden the scope of inquiries regarding ICT. We removed five questions due to data quality issues or redundancies and significantly revised answer choices for the following criteria: questions 30 to 33, 36 specifically answer choice d), 39 to 42, 53 to 57, 60, 62 to 63, and 65. All 103 questions were mandatory for FY24, some with dependencies. For a complete list of Assessment criteria changes, please reference this <a href="https://assets.section508.gov/files/reports/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx" target="_blank" class="usa-link--external">crosswalk between FY23 criteria to FY24 criteria</a>.
+To better evaluate the current state of Section 508 compliance and digital accessibility across the federal government, GSA and OMB, in collaboration with the Access Board and OSTP, refined the FY23 Assessment criteria language for FY24 with a focus on making questions and response options easier to interpret. For example, we used the term "reporting entity" in place of  "agency" to encompass both agencies, i.e., bureaus, departments, and headquarters,  and components, i.e., organizational units that reside within a department or large agency. Additionally, we added frequency percentages for never, sometimes, regularly, frequently, and almost always directly to response options to enhance clarity. We introduced several new questions, covering topics such as total federal employees, ICT test processes utilized, and exceptions processes. We also introduced 10 new questions---questions 80 to 89---on a rotating basis to broaden the scope of inquiries regarding ICT. We removed five questions due to data quality issues or redundancies and significantly revised answer choices for the following criteria: questions 30 to 33, 36 specifically answer choice d), 39 to 42, 53 to 57, 60, 62 to 63, and 65. All 103 questions were mandatory for FY24, some with dependencies. For a complete list of Assessment criteria changes, please reference this <a href="https://training.section508.gov/assets/files/assessment/2024/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx" target="_blank" class="usa-link--external">crosswalk between FY23 criteria to FY24 criteria (XLSX)</a>.
 
 While the criteria underwent minor structural changes, their major organizing framework remained intact. Please see the subsection in [Appendix C: Methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) from the FY23 Assessment for more information on how we developed the original Assessment criteria. The 11 dimensions that categorize the criteria remained unchanged from FY23. Table B1 describes each of the 11 dimensions.
 
@@ -91,7 +91,7 @@ GSA and OMB received data submissions from 245 reporting entities between May 29
 
 ## Data Validation
 
-GSA developed a script to systematically validate data submitted by reporting entities. Like FY23, this script primarily operated according to conditional if-then logic, relying on interconnections between different response options for a given reporting entity. When the validation tests identified inconsistencies among the response options for a given reporting entity, they triggered flags. While GSA categorized and tabulated these flags, it did not alter or remove any data for analysis. Please refer to the "<a href="https://assets.section508.gov/files/reports/cr-2024/Data%20Validation%20for%20FY24%20Governmentwide%20Annual%20Assessment.docx" target="_blank" class="usa-link--external">Data Validation for FY24 Governmentwide Annual Assessment</a>" for a summary of validation tests, associated flag counts, and the validation script written in R.
+GSA developed a script to systematically validate data submitted by reporting entities. Like FY23, this script primarily operated according to conditional if-then logic, relying on interconnections between different response options for a given reporting entity. When the validation tests identified inconsistencies among the response options for a given reporting entity, they triggered flags. While GSA categorized and tabulated these flags, it did not alter or remove any data for analysis. Please refer to the "<a href="https://training.section508.gov/assets/files/assessment/2024/Data%20Validation%20for%20FY24%20Governmentwide%20Annual%20Assessment.docx" target="_blank" class="usa-link--external">Data Validation for FY24 Governmentwide Annual Assessment</a>" for a summary of validation tests, associated flag counts, and the validation script written in R.
 
 ## Descriptive Analysis
 
@@ -155,6 +155,12 @@ Second, we created an operational conformance index, referred to as "conformance
       <td>12.50%</td>
     </tr>
     <tr>
+      <th scope="row">Videos</th>
+      <td>Q78</td>
+      <td>Converted the number of fully conformant videos into a percentage of the total videos the reporting entity specified</td>
+      <td>12.50%</td>
+    </tr>
+    <tr>
       <th scope="row">Miscellaneous</th>
       <td>Q80 to Q89</td>
       <td>
@@ -187,7 +193,7 @@ We used the following standard categories for effect sizes: Small (0.1 to 0.3), 
 
 **Third, in which direction did the change occur? Did we see an increase or decrease?** We used mean and median values to determine the direction of change between FY23 and FY24. For example, if the difference was positive, it meant the results for a question in FY24 is higher than in FY23 and the response improved over the past year. On the other hand, if the difference was negative, it meant the results for a question in FY24 is lower than in FY23 and the response worsened over the past year.
 
-While no single test can answer all three questions, a combination of tests and confirmations can. We performed the below sequence of tests listed, further summarized in [Table B3](https://docs.google.com/document/d/1xmSXSGdFNyH8ogL6s8eiIa-ms-k-OavYxQY9qMDfLIU/edit#bookmark=id.z012pr4gpkoj).
+While no single test can answer all three questions, a combination of tests and confirmations can. We performed the below sequence of tests listed, further summarized in [Table B3](#table-3b).
 
 * **Normality Assessment**: We used the Shapiro-Wilk test to evaluate normality, helping us identify whether the data was normally distributed or skewed. For comparisons used in our pre-post analysis, we expected a subset to exhibit normal distributions. However, only one out of approximately 100 comparisons met the normality criteria, requiring us to adapt our approach.
 
@@ -207,7 +213,7 @@ While no single test can answer all three questions, a combination of tests and 
 
     * **Cohen's D test**: To quantify the magnitude of the effect of normal,  bell-shaped differences, we used Cohen's D test. This step allowed us to understand the practical significance of observed changes. We applied the same standard categories for effect size as we did for the Wilcoxon test.
 
-<table id="table-b3" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-3b" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption>Table B3. Summary of Pre-Post Analysis Approach</caption>
   <thead>
     <tr>
@@ -327,7 +333,7 @@ Throughout this report, we present mean values or averages to provide a straight
 
 ## Regression Analysis
 
-Regression analysis helps explore the relationships between independent variables and Section 508 compliance outcomes. For FY24, we conducted <a href="https://assets.section508.gov/files/reports/cr-2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment.xlsx" target="_blank" class="usa-link--external">22 regressions (XLSX)</a> using both simple and multivariable models to explore which criteria, and to what extent, drive Section 508 program maturity and conformance. However, none of these regressions resulted in both a p-value below the threshold for statistical significance (0.05) and a high R² value (above 0.75). This suggests that while the models captured relevant factors, other dynamics such as data quality issues persist or may have compounded, hindering efforts to isolate the specific drivers of Section 508 compliance.
+Regression analysis helps explore the relationships between independent variables and Section 508 compliance outcomes. For FY24, we conducted <a href="https://training.section508.gov/assets/files/assessment/2024/Regression%20Results%20for%20FY24%20Governmentwide%20Section%20508%20Assessment.xlsx" target="_blank" class="usa-link--external">22 regressions (XLSX)</a> using both simple and multivariable models to explore which criteria, and to what extent, drive Section 508 program maturity and conformance. However, none of these regressions resulted in both a p-value below the threshold for statistical significance (0.05) and a high R² value (above 0.75). This suggests that while the models captured relevant factors, other dynamics such as data quality issues persist or may have compounded, hindering efforts to isolate the specific drivers of Section 508 compliance.
 
 Given the lack of statistically significant findings and the absence of high R² values, detailed regression methods and results are not included in this year's report. However, a condensed methodology is provided below and [full regression methods]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-c-methods/) and [earlier findings]({{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/) remain available for reference in the previous year's report.
 
@@ -368,4 +374,4 @@ The key metrics we used to evaluate the regressions were:
     </ol>
 </div>
 
-**Reviewed/Updated**: December 2024
+**Reviewed/Updated**: January 2025

@@ -40,8 +40,6 @@ Navigate through the sections below to learn more:
   * [Accessibility Training for Developers][5] 
   * [Develop Accessible Web Content][6] 
 
-The best practices in this section are supported by peer review and consensus among the participants in the U.S. Federal Government Authoring and Developer Transition Working Group. A single resource is listed only when the group could not identify multiple resources. Inclusion does not imply endorsement by the authors, or the Federal government, and does not mean that other equally valid or useful resources do not exist.
-
 ## Additional Resources
 
   * [Guide to Accessible Web Design & Development][7] - The definitive, go-to guide for developers and content/design teams to create accessible digital products and services.

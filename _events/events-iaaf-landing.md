@@ -5,7 +5,9 @@ type: training
 permalink: /iaaf/
 start-date: Tuesday, May 20 2025 9:30 #only fill in start date if the events spans multiple days
 end-date: Thursday, May 22 2025 16:30 #otherwise use end-date
-description: The 2023 Interagency Accessibility Forum (IAAF) celebrates accessibility as a foundation for inclusion, diversity, and equity within the federal government.
+created: 2014-01-01
+updated: 2025-01-16
+description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
@@ -25,6 +27,18 @@ Mark your calendars for the 12th Annual Interagency Accessibility Forum, schedul
 
 <img src="https://assets.section508.gov/files/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
+<div class="grid-row">
+  <div class="tablet:grid-col-fill text-center">
+    <a href="https://training.section508.gov/assets/files/calendar/calendar-2025-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
+    <span> | </span>
+    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250520T130000Z%2F20250520T210000Z&details=This%20is%20calendar%20placeholder%20for%20the%202025%20IAAF%20to%20be%20hosted%20at%20the%20National%20Science%20Foundation%20%28NFS%29%20located%20directly%20adjacent%20to%20the%20Eisenhower%20Avenue%20Metro%20Station.%20Registration%20is%20expected%20to%20open%20in%20April%20at%20which%20time%20you%20can%20register%20and%20receive%20a%20personalized%20calendar%20invitation.%20Watch%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20for%20event%20and%20registration%20information.&location=National%20Science%20Foundation%2C%202415%20Eisenhower%20Avenue%2C%20Alexandria%2C%20VA%2022314&text=Save%20the%20Date%20-%20IAAF%202025&recur=RRULE:FREQ=DAILY;COUNT=3" target="_blank"><span><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg></span><span>Add to Google Calendar</span></a>
+    <span> | </span>
+    <a href="https://calendar.yahoo.com/?desc=This%2520is%2520calendar%2520placeholder%2520for%2520the%25202025%2520IAAF%2520to%2520be%2520hosted%2520at%2520the%2520National%2520Science%2520Foundation%2520%28NFS%29%2520located%2520directly%2520adjacent%2520to%2520the%2520Eisenhower%2520Avenue%2520Metro%2520Station.%2520Registration%2520is%2520expected%2520to%2520open%2520in%2520April%2520at%2520which%2520time%2520you%2520can%2520register%2520and%2520receive%2520a%2520personalized%2520calendar%2520invitation.%2520Watch%2520https%253A%252F%252Fwww.section508.gov%252Fiaaf%2520for%2520event%2520and%2520registration%2520information.&dur=false&et=20250520T210000Z&in_loc=National+Science+Foundation%2C+2415+Eisenhower+Avenue%2C+Alexandria%2C+VA+22314&st=20250520T130000Z&title=Save%2520the%2520Date%2520-%2520IAAF%25202025&v=60&recur=RRULE:FREQ=DAILY;COUNT=3" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Yahoo Calendar</a>
+    <span> | </span>
+    <a href="https://outlook.live.com/calendar/0/action/compose?allday=false&body=This%20is%20calendar%20placeholder%20for%20the%202025%20IAAF%20to%20be%20hosted%20at%20the%20National%20Science%20Foundation%20%28NFS%29%20located%20directly%20adjacent%20to%20the%20Eisenhower%20Avenue%20Metro%20Station.%20Registration%20is%20expected%20to%20open%20in%20April%20at%20which%20time%20you%20can%20register%20and%20receive%20a%20personalized%20calendar%20invitation.%20Watch%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20for%20event%20and%20registration%20information.&enddt=2025-05-20T17%3A00%3A00&location=National%20Science%20Foundation%2C%202415%20Eisenhower%20Avenue%2C%20Alexandria%2C%20VA%2022314&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2025-05-20T09%3A00%3A00&subject=Save%20the%20Date%20-%20IAAF%202025&recur=RRULE:FREQ=DAILY;COUNT=3" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Outlook Online Calendar</a>
+  </div>
+</div>
+
 The 2025 IAAF at NSF will return as an in-person conference, with a virtual attendance option for those who are unable to travel. NSF is easily accessible by public transportation as it is directly adjacent to the Eisenhower Avenue Metro Station and surrounded by public parking and a variety of restaurants and eateries.
 
 Registration will open in the Spring, so mark your calendars today and watch Section508.gov/IAAF for announcements and event information.
@@ -41,45 +55,31 @@ Until then, let's continue to collaborate, innovate, and advocate for a more acc
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>What: </strong></div>
-      <div class="grid-col tablet:grid-col-11">2024 Interagency Accessibility Forum (IAAF)</div>
+      <div class="grid-col tablet:grid-col-11">2025 Interagency Accessibility Forum (IAAF)</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Wednesday and Thursday, November 13 and 14</div>
+      <div class="grid-col tablet:grid-col-11">Tuesday through Thursday, May 20-22</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Virtual event using Zoom for Government</div>
+      <div class="grid-col tablet:grid-col-11">National Science Foundation and virtually via Zoom for Government</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
+      <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost, in-person attendance is limited</div>
     </div>
     <h3>Registration</h3>
-      <p><a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><strong>Register Now!</strong></a> to join us for the 2024 Interagency Accessibility Forum. Registration for virtual attendance is available through the morning of Thursday, November 14.</p>
+      <p><a href="" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>
     </div>
     <div class="tablet:grid-col-3 text-center">
-      <a href="https://gsa.zoomgov.com/webinar/register/WN_yaSOMGmlTaGHzPPkyV7doA#/registration" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
+      <a href="" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
   </div>
   <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information" style="padding: 0px 24px 0px 24px;">
     <div class="usa-summary-box__body">
       <h4 id="notice-to-exhibitors">Notice to Exhibitors</h4>
       <p>With the IAAF transitioning to a May schedule, this year's condensed format will not include the opportunity to showcase accessibility products and services. However, we eagerly anticipate featuring exhibitor showcases at future events, including the 12th annual IAAF, planned for May 2025. We hope to see you then!</p>
     </div>
-  </div>
-</div>
--->
-<!--
-### Save the Date to Your Calendar
-<div class="drid-row">
-  <div class="tablet:grid-col-fill">
-    <a href="https://assets.section508.gov/files/calendar/iaaf2023-save.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
-    <span> | </span>
-    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20231107%2F20231110&details=This%20is%20placeholder%20for%20the%202023%20IAAF.%20If%20you%20are%20not%20yet%20registered%20for%20the%20event%2C%20visit%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20to%20register%20and%20receive%20a%20personalized%20calendar%20invitation%20closer%20to%20the%20date%20of%20the%20IAAF.&location=Federal%20Deposit%20Insurance%20Corporation%20%28FDIC%29%20L.%20William%20Seidman%20Center%203501%20Fairfax%20Drive%20Arlington%2C%20Virginia%2022226&text=2023%20IAAF%20-%20Save%20the%20Date" target="_blank"><span><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#event"></use></svg></span><span>Add to Google Calendar</span></a>
-    <span> | </span>
-    <a href="https://calendar.yahoo.com/?desc=This%20is%20placeholder%20for%20the%202023%20IAAF.%20If%20you%20are%20not%20yet%20registered%20for%20the%20event%2C%20visit%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20to%20register%20and%20receive%20a%20personalized%20calendar%20invitation%20closer%20to%20the%20date%20of%20the%20IAAF.&dur=allday&et=20231110&in_loc=Federal%20Deposit%20Insurance%20Corporation%20%28FDIC%29%20L.%20William%20Seidman%20Center%203501%20Fairfax%20Drive%20Arlington%2C%20Virginia%2022226&st=20231107&title=2023%20IAAF%20-%20Save%20the%20Date&v=60" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#event"></use></svg>Add to Yahoo Calendar</a>
-    <span> | </span>
-    <a href="https://outlook.live.com/calendar/0/deeplink/compose?allday=true&body=This%20is%20placeholder%20for%20the%202023%20IAAF.%20If%20you%20are%20not%20yet%20registered%20for%20the%20event%2C%20visit%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20to%20register%20and%20receive%20a%20personalized%20calendar%20invitation%20closer%20to%20the%20date%20of%20the%20IAAF.&enddt=2023-11-10T05%3A00%3A00%2B00%3A00&location=Federal%20Deposit%20Insurance%20Corporation%20%28FDIC%29%20L.%20William%20Seidman%20Center%203501%20Fairfax%20Drive%20Arlington%2C%20Virginia%2022226&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-11-07T05%3A00%3A00%2B00%3A00&subject=2023%20IAAF%20-%20Save%20the%20Date" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#event"></use></svg>Add to Outlook Online Calendar</a>
   </div>
 </div>
 -->
@@ -121,4 +121,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** November 2024
+**Reviewed/Updated:** January 2025

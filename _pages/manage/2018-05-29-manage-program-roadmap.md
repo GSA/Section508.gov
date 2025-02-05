@@ -5,6 +5,7 @@ permalink: manage/program-roadmap/
 type: manage
 title: 'Revised 508 Standards Roadmap'
 created: 1527574221
+updated: 2025-01-24
 redirect_from:
 - Refresh-Toolkit/
 - refresh-toolkit/
@@ -46,7 +47,7 @@ format: HTML (html)
 </p>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="https://assets.section508.gov/files/508-roadmap.png" alt="Components of a mature Section 508 Program listed in the steps below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/508-roadmap.png" alt="Components of a mature Section 508 Program listed in the steps below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Components of a mature Section 508 Program.</span>
    </div>
@@ -275,7 +276,7 @@ format: HTML (html)
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirements E202</a> - Revised criteria includes addressing new requirements when claiming exceptions. (Updated)<ul>
     <li dir="ltr">
-      Requirements E202.6.3, E202.7.2 - Address requirements for providing an alternative means, when needed, to support inclusion when claiming Undue Burden, Fundamental Alteration, and Best Meets exceptions.
+      Requirements E202.6.3, E202.7.2 - Address requirements for providing an alternative means, when needed, to support people with disabilities when claiming Undue Burden, Fundamental Alteration, and Best Meets exceptions.
     </li>
   </ul>
 </li>
@@ -556,7 +557,7 @@ format: HTML (html)
 </li>
 </ul>
 
-**Reviewed/Updated:** October 2024
+**Reviewed/Updated:** January 2025
 
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563

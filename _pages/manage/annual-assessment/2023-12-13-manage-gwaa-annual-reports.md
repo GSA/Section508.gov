@@ -25,13 +25,13 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-bottom-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <img alt="FY 24 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/files/reports/cr-2024/fy24-assessment-cover.jpg" class="border" style="width:100%;" />
+    <img alt="FY 24 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/assets/images/assessment/fy24/fy24-assessment-cover.jpg" class="border" style="width:100%;" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 24 Governmentwide Section 508 Assessment</h3>
     <ul>
         <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/message-from-gsa-administrator/">FY24 Governmentwide Section 508 Assessment (HTML)</a></li>
-        <li><a href="https://assets.section508.gov/files/reports/cr-2024/FY24%20Governmentwide%20Section%20508%20Assessment.pdf" target="_blank" class="usa-link--external">FY24 Governmentwide Section 508 Assessment (PDF)</a></li>
+        <li><a href="https://training.section508.gov/assets/files/assessment/2024/FY24%20Governmentwide%20Section%20508%20Assessment.pdf" target="_blank" class="usa-link--external">FY24 Governmentwide Section 508 Assessment (PDF)</a></li>
         <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/assessment-data-downloads/">FY24 Assessment Data & Downloads</a></li>
     </ul>
     <p>Submitted to Congress and published on December 19, 2024</p>
@@ -42,13 +42,13 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-top-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <img alt="FY 23 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/files/reports/cr-2023/fy23-assessment-cover.jpg" class="border" style="width:100%" />
+    <img alt="FY 23 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/assets/images/assessment/fy23/fy23-assessment-cover.jpg" class="border" style="width:100%" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 23 Governmentwide Section 508 Assessment</h3>
     <ul>
         <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/">FY23 Governmentwide Section 508 Assessment (HTML)</a></li>
-        <li><a href="https://assets.section508.gov/files/reports/cr-2023/FY%2023%20Governmentwide%20Section%20508%20Assessment%20Report.pdf" target="_blank" class="usa-link--external">FY23 Governmentwide Section 508 Assessment (PDF)</a></li>
+        <li><a href="https://training.section508.gov/assets/files/assessment/2023/FY%2023%20Governmentwide%20Section%20508%20Assessment%20Report.pdf" target="_blank" class="usa-link--external">FY23 Governmentwide Section 508 Assessment (PDF)</a></li>
         <li><a href="{{site.baseurl}}/manage/section-508-assessment/2023/assessment-data-downloads/">FY23 Assessment Data & Downloads</a></li>
     </ul>
     <p>Submitted to Congress and published on December 29, 2023</p>

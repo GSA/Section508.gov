@@ -6,16 +6,14 @@ first_name: Shannon
 last_name: Paschel
 affiliation_long: Defense Intelligence Agency
 affiliation_short: DIA
-position: Chief, Information Technology Diversity, Equity, Inclusion and Accessibility
+position: Chief
 office: 
 location: 
 email: 
-image_url: https://assets.section508.gov/files/bio-images/paschel-shannon.png
+image_url: https://assets.section508.gov/assets/images/bio-images/paschel-shannon.png
 iaaf_years: 2022
 ---
-Mrs. Paschel is currently serving on a joint duty assignment at the Office of the Director of National Intelligence, within the Intelligence Community (IC) Chief Information Office (CIO) as the Information Technology (IT) Diversity, Equity, Inclusion, and Accessibility Chief.
-
-In this role, Mrs. Paschel is responsible for integrating inclusion and IT accessibility considerations and requirements into the policies and processes that govern IC enterprise IT.
+Mrs. Paschel is currently serving on a joint duty assignment at the Office of the Director of National Intelligence, within the Intelligence Community (IC) Chief Information Office (CIO).
 
 Mrs. Paschel has been with DIA since 2007, and previously served as DIA’s Deputy Chief Data Officer, responsible for the oversight, governance and implementation of DIA’s data strategy to eliminate barriers and expand information sharing. 
 

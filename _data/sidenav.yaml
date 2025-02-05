@@ -8,7 +8,7 @@ manage:
   - name: Management
     url: '#'
     children:
-      - name: Manage a 508 Program
+      - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
           - name: Accessibility Roles
@@ -21,13 +21,11 @@ manage:
             url: manage/track-report-conformance/
           - name: IT Accessibility/508 Program Manager Responsibilities
             url: manage/program-manager-responsibilities/
-          - name: Revised 508 Standards Roadmap
+          - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
-      - name: DEIA Accessibility Guidance
-        url: manage/deia-guidance/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
-      - name: How 508 Standards Benefit Persons With Disabilities
+      - name: How Section 508 Standards Benefit People With Disabilities
         url: manage/how-508-standards-benefit-pwd/
       - name: Accessibility for IT Program & Project Manager
         url: '#'
@@ -42,7 +40,7 @@ manage:
             url: manage/understand-scope-technical-requirements/
       - name: Organizational IT Accessibility Key Performance Indicators (KPI)
         url: manage/accessibility-kpi/
-      - name: Join the 508 community
+      - name: Join the Section 508 Community
         url: manage/join-the-508-community/
       - name: Find your Program Manager
         url: tools/program-manager-listing/
@@ -467,9 +465,7 @@ develop:
           - name: Publishing to the Web
             url: develop/publish-to-web/
       - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/   
-      - name: How to Avoid Bias in Emerging Technologies
-        url: develop/avoid-bias-in-emerging-technologies/  
+        url: develop/incorporating-accessibility-conformance/
 test:
   - name: Testing
     url: 'test/'
