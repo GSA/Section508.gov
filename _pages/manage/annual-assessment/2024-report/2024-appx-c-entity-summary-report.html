@@ -403,7 +403,7 @@ format: "HTML (html)"
       entityIDs.push(entity_data[n].id);
     }
 
-    if (entityIDs.includes(id)){
+    if (entityIDs?.includes(id)){
       for (var i=0; i < entity_data.length; i++) {
         //Match to URL paremeter id
         if (entity_data[i].id === id) {
@@ -411,8 +411,9 @@ format: "HTML (html)"
           if (entity_data[i].seal == "") {
             document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
           } else {
-            const altTextSeal = "Logo of " + entity_data[i].name; 
-            document.getElementById("entity-seal").setAttribute("src", site.baseurl+entity_data[i].seal);
+            const altTextSeal = "Logo of " + entity_data[i]?.name; 
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}" + entity_data[i]?.seal);
+            console.log("{{site.baseurl}}" + entity_data[i]?.seal,"++++++")
             document.getElementById("entity-seal").setAttribute("alt", altTextSeal);
   
           }

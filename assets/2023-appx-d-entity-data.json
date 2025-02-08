@@ -3482,7 +3482,7 @@
     {
         "id": "USDA",
         "name": "Department of Agriculture (USDA)",
-        "seal": "/assets/images/seals-logosusda.jpg",
+        "seal": "/assets/images/seals-logos/usda.jpg",
         "parent": "",
         "m_index": "Moderate",
         "m_index_short": "M",
@@ -9224,7 +9224,7 @@
     {
         "id": "NIFA",
         "name": "National Institute of Food and Agriculture (NIFA)",
-        "seal": "/assets/images/seals-logosusda.jpg",
+        "seal": "/assets/images/seals-logos/usda.jpg",
         "parent": "Department of Agriculture (USDA)",
         "m_index": "Moderate",
         "m_index_short": "M",
@@ -10094,7 +10094,7 @@
     {
         "id": "NRCS",
         "name": "Natural Resources Conservation Service (NRCS)",
-        "seal": "/assets/images/seals-logosusda.jpg",
+        "seal": "/assets/images/seals-logos/usda.jpg",
         "parent": "Department of Agriculture (USDA)",
         "m_index": "Low",
         "m_index_short": "L",
@@ -12182,7 +12182,7 @@
     {
         "id": "RHS",
         "name": "Rural Housing Service (RHS)",
-        "seal": "/assets/images/seals-logosusda.jpg",
+        "seal": "/assets/images/seals-logos/usda.jpg",
         "parent": "Department of Agriculture (USDA)",
         "m_index": "Moderate",
         "m_index_short": "M",
