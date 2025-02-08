@@ -276,7 +276,7 @@ format: HTML (html)
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirements E202</a> - Revised criteria includes addressing new requirements when claiming exceptions. (Updated)<ul>
     <li dir="ltr">
-      Requirements E202.6.3, E202.7.2 - Address requirements for providing an alternative means, when needed, to support disability inclusion when claiming Undue Burden, Fundamental Alteration, and Best Meets exceptions.
+      Requirements E202.6.3, E202.7.2 - Address requirements for providing an alternative means, when needed, to support people with disabilities when claiming Undue Burden, Fundamental Alteration, and Best Meets exceptions.
     </li>
   </ul>
 </li>

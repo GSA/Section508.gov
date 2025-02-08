@@ -4,8 +4,8 @@ sidenav: true
 permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
-created: 1525805876
-modified: 2024-04-19
+created: 2018-05-08
+updated: 2025-02-04
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -112,12 +112,11 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-Millie Abdi - <misale.abdi@oig.usda.gov>  
+Louise Camalier – <louise.camalier@oig.usda.gov>  
 ### Research, Education and Economics (REE)
-Lisa Wilcox - <lisa.wilcox@usda.gov>  
-
-* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
-* **National Agricultural Statistics Service (NASS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+  
+* **Agricultural Research Service (ARS)**  
+* **National Agricultural Statistics Service (NASS)**  
 * **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
 ### Rural Development
@@ -170,6 +169,7 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 
 ### Air National Guard
 ### Army
+Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
@@ -200,7 +200,7 @@ Vanessa Hill - <vanessa.hill2@dodiis.mil>
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
-Antonio Boston - <antonio.boston.civ@mail.mil>  
+Antonio Boston - <antonio.boston@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
@@ -381,19 +381,19 @@ Sid Sharma - <siddhartha_sharma@ios.doi.gov>
 George Morris - <george.morris@bia.gov>
 ### Bureau of Land Management (BLM)
 Brianna Huerta - <bhuerta@blm.gov>
-### Bureau of Ocean Energy Management
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Reclamation
+### Bureau of Ocean Energy Management (BOEM)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Reclamation (BR)
 Lori Pelech - <lpelech@usbr.gov>  
-### Bureau of Safety and Environmental Enforcement
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Trust Funds Administration
+### Bureau of Safety and Environmental Enforcement (BSEE)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Trust Funds Administration (BTFA)
 Neal Herbert - <neal_herbert@btfa.gov>  
 ### National Park Service (NPS)
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor
+### Office of the Solicitor (OS)
 Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
@@ -507,7 +507,8 @@ Christopher M. Brown - <browncm@state.gov>
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
-Michelle Cribbs - <michelle.cribbs@dot.gov>
+Michelle Cribbs - <michelle.cribbs@dot.gov>  
+Stephanie Jackson (Deputy) - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
@@ -930,7 +931,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: January, 2025
+**Reviewed/Updated**: February 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
