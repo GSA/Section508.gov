@@ -53,6 +53,7 @@ In addition to causing the opposite of the benefits mentioned above (i.e. increa
 Use the resources on [Section508.gov]({{site.basurl}}) to review your digital assets and make sure they are accessible.
 
   
+  
 
 **Reviewed/Updated:** February 2025
 
