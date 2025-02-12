@@ -10,7 +10,7 @@ position: Accessibility Program Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/urban-mark.png
+image_url: /assets/images/bio-images/urban-mark.png
 iaaf_years: 2022, 2023
 ---
 Mark Urban is the Accessibility Program Manager for the US Centers for Disease Control and Prevention (CDC).  Mark’s 30+ years of experience translate to frequent engagements in the Accessibility community across the Federal and State workspace, and the award-winning program at CDC generates resources and practices used throughout the world.  In the recent year, COVID and other health issues have been front and center, and CDC has learned to find the balance of ensuring accessibility alongside the need for just-in-time response activity.

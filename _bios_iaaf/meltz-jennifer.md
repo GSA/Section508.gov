@@ -10,7 +10,7 @@ position: Section 508 Specialist
 office: 
 location: Arlington, VA
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/meltz-jennifer.jpg
+image_url: /assets/images/bio-images/meltz-jennifer.jpg
 iaaf_years: 2023
 ---
 Jennifer Meltz has been a contractor at the FDIC since December 2018. In this role, she serves as a Section 508 Specialist and Work Order lead to ensure compliance with all Section 508 related tasks.

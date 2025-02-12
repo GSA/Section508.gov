@@ -4,7 +4,7 @@ permalink: blog/accessibility-bytes/alternative-text/
 type: article
 title: 'Accessibility Bytes No. 5: Alternative Text'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
-social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
+social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-09-12
 description: "<strong>Do you know some people rely only on a meaningful description of an image to understand the information contained in the image?</strong><p>Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities."
 contributors: 
@@ -22,14 +22,14 @@ Without alt text, people who use screen readers cannot access the information pr
 Different authoring tools will have different ways of adding alt text. For example, to add alt text to an image in Microsoft Word, open the contextual menu (right-click) on the image, select “View Alt Text” (Figure 1), then enter text that appropriately describes the image and communicates its purpose (Figure 2).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-005-figure-1.jpg" alt="Screenshot of Microsoft Word with the contextual menu open for an image, highlighting the 'View Alt Text...' sub-menu." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-005-figure-1.jpg" alt="Screenshot of Microsoft Word with the contextual menu open for an image, highlighting the 'View Alt Text...' sub-menu." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Image context menu opening the Alt Text task pane within Microsoft Word</span>
     </div>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-005-figure-2.jpg" alt="Screenshot of Microsoft Word with the Alt Text pane open for the selected image, and the following alt text description: Three people talking at a table. One types on a laptop while another writes notes." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-005-figure-2.jpg" alt="Screenshot of Microsoft Word with the Alt Text pane open for the selected image, and the following alt text description: Three people talking at a table. One types on a laptop while another writes notes." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Entering an image description in the Alt Text task pane within Microsoft Word.</span>
     </div>
@@ -40,14 +40,14 @@ When writing alt text, follow these guidelines to ensure the text is as helpful 
 If an image is only decorative and does not convey meaningful information, set the alt text as decorative so that screen readers recognize that the image does not need to be announced and can be skipped. In Microsoft Word, you can do this by viewing the alt text and checking the box that says, “Mark as decorative” (Figure 3). Any program you use should also have its own specific guidance on how to do this.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-005-figure-3.jpg" alt="Screenshot of Microsoft Word with the Alt Text pane open for the selected image, with the 'Mark as decorative' checkbox checked." aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-005-figure-3.jpg" alt="Screenshot of Microsoft Word with the Alt Text pane open for the selected image, with the 'Mark as decorative' checkbox checked." aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Marking  image as decorative in the Alt Text task pane within Microsoft Word.</span>
     </div>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-03.jpg" alt="GSA logo with text: Section508.gov Buy. Build. Be Accessible." aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-03.jpg" alt="GSA logo with text: Section508.gov Buy. Build. Be Accessible." aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Example for logos.</span>
     </div>

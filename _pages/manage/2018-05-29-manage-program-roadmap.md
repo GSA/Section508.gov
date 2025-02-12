@@ -47,7 +47,7 @@ format: HTML (html)
 </p>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-   <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/508-roadmap.png" alt="Components of a mature Section 508 Program listed in the steps below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+   <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/508-roadmap.png" alt="Components of a mature Section 508 Program listed in the steps below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
    </div>
    <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Components of a mature Section 508 Program.</span>
    </div>

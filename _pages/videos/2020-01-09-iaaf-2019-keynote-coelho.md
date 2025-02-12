@@ -19,7 +19,7 @@ format: "Video & Synchronized Media (video)"
 ---
 Tony Coelho, Member of the U.S. House of Representatives from California&rsquo;s 15th district (January 3, 1979 &ndash; June 15, 1989), shares his experience sponsoring the Americans with Disabilities Act of 1990 and how living with epilepsy fueled his passion for this legislation.
 
-<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2019-keynote-coelho-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2019-keynote-coelho-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/iaaf-2019-keynote-coelho-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2019-keynote-coelho-oc.mp4" type="video/mp4" /></video>
 
 ## Related Videos
 

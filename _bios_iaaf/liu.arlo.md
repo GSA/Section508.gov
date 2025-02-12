@@ -10,6 +10,6 @@ position: Web Content Management
 office: 
 location: 
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/liu-arlo.jpg
+image_url: /assets/images/bio-images/liu-arlo.jpg
 iaaf_years: 2023
 ---

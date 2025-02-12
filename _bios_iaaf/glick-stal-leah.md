@@ -10,7 +10,7 @@ position: Accessible ICT Procurement Specialist
 office: 
 location: Ottawa, Canada
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/glick-stal-leah.jpg
+image_url: /assets/images/bio-images/glick-stal-leah.jpg
 iaaf_years: 2023
 ---
 Leah-Glick-Stal is a Sr. ICT Accessibility Analyst with the Accessibility, Accommodations and Adaptive Computer Technology ([AAACT](https://www.canada.ca/en/shared-services/corporate/aaact-program.html)) Program at Shared Services Canada ([SSC](https://www.canada.ca/en/shared-services.html)). She has over 30 years of experience working for Canadian federal, provincial territorial, municipal governments, as well as for a foreign Embassy abroad. Leah brings 16 years’ of procurement experience with both federal and provincial governments.

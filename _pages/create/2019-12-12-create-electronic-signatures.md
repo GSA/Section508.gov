@@ -52,7 +52,7 @@ format: "HTML (html)"
 </p>
 
 <p style="text-align: center;">
-  <img alt="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." src="https://assets.section508.gov/files/signature-electronic.jpg" title="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." /><br />Figure 1: Example of an electronic signature field in a PDF document.
+  <img alt="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." src="{{site.baseurl}}/assets/images/signature-electronic.jpg" title="Positioned above the signature block, a blue rectangle (with tiny red tag in the upper left-hand corner) indicates PDF form's electronic signature field." /><br />Figure 1: Example of an electronic signature field in a PDF document.
 </p>
 
 Learn more about specific considerations for creating [Accessible Forms in Acrobat][1] from WebAIM.org.
@@ -66,7 +66,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </p>
 
 <p dir="ltr" style="text-align: center;">
-  <img alt=" Positioned above the signature block, a hand-written (wet) signature of a scanned document (tagged as a figure) indicates PDF form's signature field." src="https://assets.section508.gov/files/signature-wet.jpg" style="width: 1082px; height: 394px;" /><br />Figure 2: Example of a hand-written signature field in a PDF document as depicted in Adobe Acrobat DC's Order view.
+  <img alt=" Positioned above the signature block, a hand-written (wet) signature of a scanned document (tagged as a figure) indicates PDF form's signature field." src="{{site.baseurl}}/assets/images/signature-wet.jpg" style="width: 1082px; height: 394px;" /><br />Figure 2: Example of a hand-written signature field in a PDF document as depicted in Adobe Acrobat DC's Order view.
 </p>
 
 <p dir="ltr">
@@ -96,7 +96,7 @@ Learn more about specific considerations for creating [Accessible Forms in Acrob
 </ul>
 
 <p dir="ltr" style="text-align: center;">
-  <img alt="Website login screen with a checkbox to opt into receiving occasional announcements, and notice that you are agreeing to website policies upon selecting &quot;Sign Up&quot;" src="https://assets.section508.gov/files/signature-web-form.jpg" style="width: 795px; height: 184px;" /><br />Figure 3: Example of website login screen with a checkbox to opt in, and notice that you agree to website policies upon signing up
+  <img alt="Website login screen with a checkbox to opt into receiving occasional announcements, and notice that you are agreeing to website policies upon selecting &quot;Sign Up&quot;" src="{{site.baseurl}}/assets/images/signature-web-form.jpg" style="width: 795px; height: 184px;" /><br />Figure 3: Example of website login screen with a checkbox to opt in, and notice that you agree to website policies upon signing up
 </p>
 
 <p dir="ltr">

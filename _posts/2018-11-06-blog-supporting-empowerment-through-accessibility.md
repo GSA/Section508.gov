@@ -27,7 +27,7 @@ format: HTML (html)
 </p>
 
 <p dir="ltr">
-  <img alt="Arnetta White of NAVAIR stands at a podium, introducing panelists in front of a conference room full of forum attendees." src="https://assets.section508.gov/files/images/2018iaafKeynotes.jpeg" style="height: 300px; float: right;padding-left:10px" /> Federal agency representatives learned about federal accessibility policies and how they can adapt <a href="{{site.baseurl}}/manage/laws-and-policies"> Section 508 standards</a> to prioritize IT accessibility. Attendees had the opportunity to share information, compare products and discuss the challenges faced in today&rsquo;s digital world.
+  <img alt="Arnetta White of NAVAIR stands at a podium, introducing panelists in front of a conference room full of forum attendees." src="{{site.baseurl}}/assets/images/2018iaafKeynotes.jpeg" style="height: 300px; float: right;padding-left:10px" /> Federal agency representatives learned about federal accessibility policies and how they can adapt <a href="{{site.baseurl}}/manage/laws-and-policies"> Section 508 standards</a> to prioritize IT accessibility. Attendees had the opportunity to share information, compare products and discuss the challenges faced in today&rsquo;s digital world.
 </p>
 
 <p style="margin:0in 0in 0.0001pt">
@@ -88,7 +88,7 @@ The HUD co-host, William Lynch, Assistant General Counsel, Fair Housing Complian
 </p>
 
 <p style="margin:0in 0in 0.0001pt">
-  <img alt="Exhibitors representing the Wounded Warrior project share their accessibility products and services." src="https://assets.section508.gov/files/images/2018iaafExhibitors.jpeg" style="height: 275px; float: left; width: 400px; margin-right: 25px;" /> During lunch, participants visited with many of the 27 exhibitors showcasing their products and services. In the afternoon, subject matter experts who were on the breakout session panels addressed:
+  <img alt="Exhibitors representing the Wounded Warrior project share their accessibility products and services." src="{{site.baseurl}}/assets/images/2018iaafExhibitors.jpeg" style="height: 275px; float: left; width: 400px; margin-right: 25px;" /> During lunch, participants visited with many of the 27 exhibitors showcasing their products and services. In the afternoon, subject matter experts who were on the breakout session panels addressed:
 </p> 
 
 <ul class="padding-top-3" style="margin-left: 40px; clear:both;">

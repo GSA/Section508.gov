@@ -26,7 +26,7 @@ Guidance developed by the Accessible Electronic Documents Community of Practice 
 ---
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-docx-series.jpg" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/create/documents/training-videos"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-docx-series.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
 <div class="desktop:grid-col-9">
       <p class="video-title">

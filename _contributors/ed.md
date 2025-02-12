@@ -7,7 +7,7 @@ display_name: Department of Education
 affiliation_short: ED
 affiliation_long: Department of Education
 location: Washington, D.C.
-image_url: https://assets.section508.gov/assets/images/seals-logos/ed.jpg
+image_url: /assets/images/seals-logos/ed.jpg
 permalink: /:collection/:name:output_ext
 ---
 The Department of Education (ED) promotes student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access. Establishes policies on federal financial aid for education, and distributing as well as monitoring those funds collects data on America’s schools, focuses national attention on key educational issues and prohibits discrimination and ensures equal access to education.

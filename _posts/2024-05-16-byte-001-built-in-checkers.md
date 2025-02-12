@@ -4,7 +4,7 @@ permalink: blog/accessibility-bytes/use-document-accessibility-checkers/
 type: article
 title: 'Accessibility Bytes No. 1: Use Document Accessibility Checkers'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
-social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
+social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-05-16
 description: '<strong>Need to create a Microsoft Word document but not sure how to make certain it meets Section 508 standards?</strong><p> Before sharing or publishing your document, presentation, or spreadsheet, run the built-in Accessibility Checker to make sure your Microsoft Office content does not have easily identifiable accessibility issues. Run the Word Accessibility Checker in three-steps.'
 contributors: 
@@ -33,7 +33,7 @@ Before sharing or publishing your document, presentation, or spreadsheet, run th
 3. In the *Accessibility* panel that opens on the side, review the results. You'll see a list of errors, warnings, and tips with how-to-fix recommendations for each.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-001-figure-1.jpg" alt="Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-001-figure-1.jpg" alt="Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Microsoft Word document highlighting the Review ribbon, Check Accessibility button, and the Accessibility panel.</span>
     </div>

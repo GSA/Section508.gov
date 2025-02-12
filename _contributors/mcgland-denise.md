@@ -10,7 +10,7 @@ affiliation_long: Department of Education
 affiliation_short: ED
 position: Section 508 Program manager
 location: Washington, DC 
-image_url: https://assets.section508.gov/assets/images/bio-images/mcgland-denise.jpg
+image_url: /assets/images/bio-images/mcgland-denise.jpg
 email: denise.mcgland@ed.gov
 permalink: /:collection/:name:output_ext
 ---

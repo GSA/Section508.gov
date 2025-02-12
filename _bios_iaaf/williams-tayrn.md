@@ -10,7 +10,7 @@ position: Assistant Secretary of Labor for Disability Employment Policy
 office: Office of Disability Employment Policy (ODEP)
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/williams-taryn.jpg
+image_url: /assets/images/bio-images/williams-taryn.jpg
 iaaf_years: 2022
 ---
 Taryn Mackenzie Williams is the Assistant Secretary of Labor for Disability Employment Policy. In this position, she advises the Secretary of Labor on how the Department’s policies and programs impact the employment of people with disabilities and leads the Office of Disability Employment Policy (ODEP), which works with employers and all levels of government to promote evidence-based policy that improves employment opportunities and outcomes for people with disabilities.
