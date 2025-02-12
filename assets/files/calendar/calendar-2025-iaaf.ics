@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:20250520T090000
+DTEND:20250520T170000
+SUMMARY:2025 IAAF - Save the Date
+DESCRIPTION:This is calendar placeholder for the 2025 IAAF to be hosted at the National Science Foundation (NFS) located directly adjacent to the Eisenhower Avenue Metro Station. Registration is expected to open in April at which time you can register and receive a personalized calendar invitation. Watch https://www.section508.gov/iaaf for event and registration information.
+LOCATION:National Science Foundation, 2415 Eisenhower Avenue, Alexandria, VA 22314
+RRULE:FREQ=DAILY;COUNT=3
+END:VEVENT
+END:VCALENDAR
