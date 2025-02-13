@@ -25,7 +25,7 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-bottom-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <img alt="FY 24 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/assets/images/assessment/fy24/fy24-assessment-cover.jpg" class="border" style="width:100%;" />
+    <img alt="FY 24 Governmentwide Section 508 Assessment Report Cover" src="{{site.baseurl}}/assets/images/assessment/fy24/fy24-assessment-cover.jpg" class="border" style="width:100%;" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 24 Governmentwide Section 508 Assessment</h3>
@@ -42,7 +42,7 @@ Annual assessment reports are made available on this website in HTML or as a dow
 
 <div class="grid-row grid-gap padding-top-2">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <img alt="FY 23 Governmentwide Section 508 Assessment Report Cover" src="https://assets.section508.gov/assets/images/assessment/fy23/fy23-assessment-cover.jpg" class="border" style="width:100%" />
+    <img alt="FY 23 Governmentwide Section 508 Assessment Report Cover" src="{{site.baseurl}}/assets/images/assessment/fy23/fy23-assessment-cover.jpg" class="border" style="width:100%" />
   </div>
   <div class="desktop:grid-col-9">
     <h3>FY 23 Governmentwide Section 508 Assessment</h3>

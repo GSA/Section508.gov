@@ -28,7 +28,7 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="https://assets.section508.gov/assets/images/thumbnails/training-video-xlsx-series.jpg" style="width:100%" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="{{site.baseurl}}/assets/images/thumbnails/training-video-xlsx-series.jpg" style="width:100%" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/create/spreadsheets/training-videos">How to Make an Accessible Spreadsheet in Microsoft Excel</a></p>

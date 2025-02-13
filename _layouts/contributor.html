@@ -6,145 +6,168 @@ layout: base
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <main class="usa-layout-docs__main">
-        <nav class="usa-breadcrumb margin-top-neg-3" aria-label="Breadcrumb Navigation">
+        <nav
+          class="usa-breadcrumb margin-top-neg-3"
+          aria-label="Breadcrumb Navigation"
+        >
           <ol class="usa-breadcrumb__list">
             <li class="usa-breadcrumb__list-item">
               <a href="{{site.baseurl}}/" class="usa-breadcrumb__link">Home</a>
             </li>
             <li class="usa-breadcrumb__list-item">
-              <a href="{{site.baseurl}}/contributors/" class="usa-breadcrumb__link">Contributors</a>
+              <a
+                href="{{site.baseurl}}/contributors/"
+                class="usa-breadcrumb__link"
+                >Contributors</a
+              >
             </li>
             <li class="usa-breadcrumb__list-item">
-              <a href="{{ site.baseurl }}{{ page.url }}" class="usa-breadcrumb__link">{{ page.display_name }}</a>
+              <a
+                href="{{ site.baseurl }}{{ page.url }}"
+                class="usa-breadcrumb__link"
+                >{{ page.display_name }}</a
+              >
             </li>
           </ol>
         </nav>
 
         {% if page.image_url %}
         <div>
-          <img src="{{page.image_url}}" class="circle-card border-05 border-base-light shadow-3" alt="Photo: {{ page.display_name }}">
+          <img
+            src="{{ site.baseurl }}{{page.image_url}}"
+            class="circle-card border-05 border-base-light shadow-3"
+            alt="Photo: {{ page.display_name }}"
+          />
         </div>
         {% endif %}
         <h1>{{ page.display_name }}</h1>
         {% if page.affiliation_short or page.location %}
-          <p class="margin-top-05 margin-bottom-05"><strong>
-            {% if page.affiliation_long or page.affiliation_short or page.location %}
-                    {% if page.affiliation_long %}
-                        {{ page.affiliation_long }}
-                    {% endif %}
-                    {% if page.affiliation_long and page.affiliation_short %}
-                        &lpar;{{ page.affiliation_short }}&rpar;
-                    {% else %}    
-                        {% if page.affiliation_short %}
-                            {{ page.affiliation_short }}
-                        {% endif %}
-                    {% endif %}
-                    {% if page.affiliation_short and page.location %}
-                    | 
-                    {% endif %}
-                    {% if page.location %}
-                    {{ page.location }}
-                    {% endif %}
-            {% endif %}
-          </strong></p>
+        <p class="margin-top-05 margin-bottom-05">
+          <strong>
+            {% if page.affiliation_long or page.affiliation_short or
+            page.location %} {% if page.affiliation_long %} {{
+            page.affiliation_long }} {% endif %} {% if page.affiliation_long and
+            page.affiliation_short %} &lpar;{{ page.affiliation_short }}&rpar;
+            {% else %} {% if page.affiliation_short %} {{ page.affiliation_short
+            }} {% endif %} {% endif %} {% if page.affiliation_short and
+            page.location %} | {% endif %} {% if page.location %} {{
+            page.location }} {% endif %} {% endif %}
+          </strong>
+        </p>
+        {% endif %} {% if page.email %}
+        <p class="margin-top-05 margin-bottom-05">
+          <a href="mailto:{{ page.email }}">{{ page.email }}</a>
+        </p>
         {% endif %}
-        {% if page.email %}
-          <p class="margin-top-05 margin-bottom-05"><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
-        {% endif %}
-        <div class="usa-graphic-list">
-          {{ content }}
-        </div>
+        <div class="usa-graphic-list">{{ content }}</div>
         <h2>{{ page.first_name }}'s Section508.gov Contributions</h2>
-        <ul class="usa-card-group" style="list-style-type:none">
-        {% assign this_contributor = page.contributor_id %}
-        {% for pages in site.pages %}
-          {% if pages.contributors contains this_contributor %}
-          {%- if pages.type == 'manage' -%}
-            {%- assign page_type = 'Policy & Management' -%}
-            {%- endif -%}
-            {%- if pages.type == 'training' -%}
-            {%- assign page_type = 'Training, Tools & Events' -%}
-            {%- endif -%}
-            {%- if pages.type == 'develop' -%}
-            {%- assign page_type = 'Design & Develop' -%}
-            {%- endif -%}
-            {%- if pages.type == 'test' -%}
-            {%- assign page_type = 'Testing' -%}
-            {%- endif -%}
-            {%- if pages.type == 'acquisition' -%}
-            {%- assign page_type = 'Acquisition' -%}
-            {%- endif -%}
-            {%- if pages.type == 'create' -%}
-            {%- assign page_type = 'Content Creation' -%}
-          {%- endif -%}
-              <li class="usa-card tablet:grid-col-6">
-                <div class="usa-card__container">
-                  <div class="usa-card__header">
-                    {% if page_type %}
-                    <span class="text-primary-vivid">{{ page_type }}</span>
-                    {% endif %}
-                    <h3 class="usa-card__heading text-primary-dark">{{ pages.title }}</h3>
+        <ul class="usa-card-group" style="list-style-type: none">
+          {% assign this_contributor = page.contributor_id %} {% for pages in
+          site.pages %} {% if pages.contributors contains this_contributor %}
+          {%- if pages.type == 'manage' -%} {%- assign page_type = 'Policy &
+          Management' -%} {%- endif -%} {%- if pages.type == 'training' -%} {%-
+          assign page_type = 'Training, Tools & Events' -%} {%- endif -%} {%- if
+          pages.type == 'develop' -%} {%- assign page_type = 'Design & Develop'
+          -%} {%- endif -%} {%- if pages.type == 'test' -%} {%- assign page_type
+          = 'Testing' -%} {%- endif -%} {%- if pages.type == 'acquisition' -%}
+          {%- assign page_type = 'Acquisition' -%} {%- endif -%} {%- if
+          pages.type == 'create' -%} {%- assign page_type = 'Content Creation'
+          -%} {%- endif -%}
+          <li class="usa-card tablet:grid-col-6">
+            <div class="usa-card__container">
+              <div class="usa-card__header">
+                {% if page_type %}
+                <span class="text-primary-vivid">{{ page_type }}</span>
+                {% endif %}
+                <h3 class="usa-card__heading text-primary-dark">
+                  {{ pages.title }}
+                </h3>
+              </div>
+              <div class="usa-card__body padding-y-0">
+                <p>
+                  {% if pages.description %} {{ pages.description | markdownify
+                  }} {% endif %}
+                </p>
+              </div>
+              <div class="padding-x-2 padding-y-1">
+                <div class="grid-row flex-wrap grid-gap-1">
+                  {%- assign collaborators = pages.contributors -%} {% for
+                  contributors in site.contributors %} {% if
+                  contributors.contributor_type == "individual" %} {% if
+                  collaborators contains contributors.contributor_id %}
+                  <div class="grid-col-auto">
+                    <img
+                      src="{{ site.baseurl }}{{ contributors.image_url }}"
+                      class="circle-4 border-2px border-base-light shadow-1"
+                      alt="Photo: {{ contributors.display_name }}"
+                      style="vertical-align: middle"
+                    /><a
+                      href="{{ site.baseurl }}{{ contributors.url }}"
+                      class="text-no-underline text-primary-dark margin-left-05"
+                      >{{ contributors.display_name }}</a
+                    >
                   </div>
-                  <div class="usa-card__body padding-y-0">
-                    <p>
-                      {% if pages.description %}
-                        {{ pages.description | markdownify }}
-                      {% endif %}
-                    </p>
-                  </div>
-                  <div class="padding-x-2 padding-y-1">
-                    <div class="grid-row flex-wrap grid-gap-1">
-                      {%- assign collaborators = pages.contributors -%}
-                      {% for contributors in site.contributors %}
-                      {% if contributors.contributor_type == "individual" %}
-                        {% if collaborators contains contributors.contributor_id %}
-                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
-                        {% endif %}
-                      {% endif %}
-                      {% endfor %}
-                    </div>
-                  </div>
-                  <div class="usa-card__footer">
-                    <a href="{{ site.baseurl }}{{ pages.url }}" class="usa-button" aria-label="View Page: {{ pages.title }}">View Page</a>
-                  </div>
+                  {% endif %} {% endif %} {% endfor %}
                 </div>
-              </li>
-          {% endif %}
-        {% endfor %}
-        {% for posts in site.posts %}
-          {% if posts.contributors contains this_contributor %}
-              <li class="usa-card tablet:grid-col-6">
-                <div class="usa-card__container">
-                  <div class="usa-card__header">
-                    <span class="text-primary-vivid">Blog</span>
-                    <h3 class="usa-card__heading text-primary-dark">{{ posts.title }}</h3>
+              </div>
+              <div class="usa-card__footer">
+                <a
+                  href="{{ site.baseurl }}{{ pages.url }}"
+                  class="usa-button"
+                  aria-label="View Page: {{ pages.title }}"
+                  >View Page</a
+                >
+              </div>
+            </div>
+          </li>
+          {% endif %} {% endfor %} {% for posts in site.posts %} {% if
+          posts.contributors contains this_contributor %}
+          <li class="usa-card tablet:grid-col-6">
+            <div class="usa-card__container">
+              <div class="usa-card__header">
+                <span class="text-primary-vivid">Blog</span>
+                <h3 class="usa-card__heading text-primary-dark">
+                  {{ posts.title }}
+                </h3>
+              </div>
+              <div class="usa-card__body padding-y-0">
+                <p>
+                  {% if posts.description %} {{ posts.description | markdownify
+                  }} {% endif %}
+                </p>
+              </div>
+              <div class="padding-x-2 padding-y-1">
+                <div class="grid-row flex-wrap grid-gap-1">
+                  {%- assign collaborators = posts.contributors -%} {% for
+                  contributors in site.contributors %} {% if
+                  contributors.contributor_type == "individual" %} {% if
+                  collaborators contains contributors.contributor_id %}
+                  <div class="grid-col-auto">
+                    <img
+                      src="{{ site.baseurl }}{{ contributors.image_url }}"
+                      class="circle-4 border-2px border-base-light shadow-1"
+                      alt="Photo: {{ contributors.display_name }}"
+                      style="vertical-align: middle"
+                    /><a
+                      href="{{ site.baseurl }}{{ contributors.url }}"
+                      class="text-no-underline text-primary-dark margin-left-05"
+                      >{{ contributors.display_name }}</a
+                    >
                   </div>
-                  <div class="usa-card__body padding-y-0">
-                    <p>
-                      {% if posts.description %}
-                        {{ posts.description | markdownify }}
-                      {% endif %}
-                    </p>
-                  </div>
-                  <div class="padding-x-2 padding-y-1">
-                    <div class="grid-row flex-wrap grid-gap-1">
-                      {%- assign collaborators = posts.contributors -%}
-                      {% for contributors in site.contributors %}
-                      {% if contributors.contributor_type == "individual" %}
-                        {% if collaborators contains contributors.contributor_id %}
-                          <div class="grid-col-auto"><img src="{{ contributors.image_url }}" class="circle-4 border-2px border-base-light shadow-1" alt="Photo: {{ contributors.display_name }}" style="vertical-align:middle"><a href="{{ site.baseurl }}{{ contributors.url }}" class="text-no-underline text-primary-dark margin-left-05">{{ contributors.display_name }}</a></div>
-                        {% endif %}
-                      {% endif %}
-                      {% endfor %}
-                    </div>
-                  </div>
-                  <div class="usa-card__footer">
-                    <a href="{{ site.baseurl }}{{ posts.url }}" class="usa-button" aria-label="View Page: {{ posts.title }}">View Page</a>
-                  </div>
+                  {% endif %} {% endif %} {% endfor %}
                 </div>
-              </li>
-          {% endif %}
-        {% endfor %}
+              </div>
+              <div class="usa-card__footer">
+                <a
+                  href="{{ site.baseurl }}{{ posts.url }}"
+                  class="usa-button"
+                  aria-label="View Page: {{ posts.title }}"
+                  >View Page</a
+                >
+              </div>
+            </div>
+          </li>
+          {% endif %} {% endfor %}
         </ul>
       </main>
     </div>

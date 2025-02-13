@@ -10,7 +10,7 @@ position: Senior Advisor to the Administrator
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/oneal-andrea.png
+image_url: /assets/images/bio-images/oneal-andrea.png
 iaaf_years: 2020, 2023
 ---
 Andrea M. O'Neal is a presidential appointee of the Biden-Harris Administration serving as the Senior Advisor to the Administrator at the U.S. General Services Administration. 

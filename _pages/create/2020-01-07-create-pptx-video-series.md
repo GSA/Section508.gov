@@ -23,7 +23,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
  
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx00/"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-00.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx00/"><img alt="Module 0: Introduction & Background" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-00.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx00/">Module 0: Introduction & Background</a></p>
@@ -34,7 +34,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-01.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-01.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx01/">Module 1: Creating the Presentation&rsquo;s Layout Design and Establishing the Logical Reading Order</a></p>
@@ -45,7 +45,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-02.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-02.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx02/">Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient</a></p>
@@ -56,7 +56,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-03.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-03.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx03/">Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text</a></p>
@@ -67,7 +67,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
    
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx04/"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-04.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx04/"><img alt="Module 4: Formatting Columns Correctly" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-04.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx04/">Module 4: Formatting Columns Correctly</a></p>
@@ -78,7 +78,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx05/"><img alt="Module 5: Formatting Lists Properly" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-05.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx05/"><img alt="Module 5: Formatting Lists Properly" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-05.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx05/">Module 5: Formatting Lists Properly</a></p>
@@ -89,7 +89,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx06/"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-06.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx06/"><img alt="Module 6: Using Built-In Features to Create Data Tables" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-06.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx06/">Module 6: Using Built-In Features to Create Data Tables</a></p>
@@ -100,7 +100,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx07/"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-07.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx07/"><img alt="Module 7: Adding Alternative Text to Images and Other Objects" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-07.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx07/">Module 7: Adding Alternative Text to Images and Other Objects</a></p>
@@ -111,7 +111,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx08/"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-08.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx08/"><img alt="Module 8: Creating Links with Unique and Descriptive Names" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-08.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx08/">Module 8: Creating Links with Unique and Descriptive Names</a></p>
@@ -122,7 +122,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx09/"><img alt="Module 9: Making Vital Background Information Accessible" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-09.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx09/"><img alt="Module 9: Making Vital Background Information Accessible" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-09.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx09/">Module 9: Making Vital Background Information Accessible</a></p>
@@ -133,7 +133,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx10/"><img alt="Module 10: Formatting Text for the Intended Language" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-10.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx10/"><img alt="Module 10: Formatting Text for the Intended Language" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-10.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx10/">Module 10: Formatting Text for the Intended Language</a></p>
@@ -144,7 +144,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx11/"><img alt="Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-11.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx11/"><img alt="Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-11.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx11/">Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate</a></p>
@@ -155,7 +155,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx12/"><img alt="Module 12: Excluding Flashing Objects" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-12.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx12/"><img alt="Module 12: Excluding Flashing Objects" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-12.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title"><a href="{{site.baseurl}}/training/presentations/aed-cop-pptx12/">Module 12: Excluding Flashing Objects</a></p>
@@ -166,7 +166,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 
 <div class="grid-row grid-gap border-top-1px border-base">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx13/"><img alt="Module 13: Saving in the .pptx Format with a Descriptive Filename" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-13.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/aed-cop-pptx13/"><img alt="Module 13: Saving in the .pptx Format with a Descriptive Filename" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-13.jpg" style="width:100%; border: 1px sold black;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title">

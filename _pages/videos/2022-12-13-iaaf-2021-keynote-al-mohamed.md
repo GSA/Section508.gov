@@ -19,7 +19,7 @@ format: "Video & Synchronized Media (video)"
 ---
 Andrea O'Neal, Senior Advisor to the Administrator at the General Services Administration, and Day Al Mohamed, Director of Disability Policy at the White House Domestic Policy Council, discuss the state of affairs of accessibility, and progress made for people with disabilities in the post-ADA era.
 
-<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2022-keynote-al-mohamed-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2022-keynote-al-mohamed-sd-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/iaaf-2022-keynote-al-mohamed-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2022-keynote-al-mohamed-sd-oc.mp4" type="video/mp4" /></video>
 
 ## Related Videos
 

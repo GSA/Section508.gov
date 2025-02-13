@@ -35,7 +35,7 @@ GSA extends its continued gratitude to all reporting entities for their ongoing 
 If you have any questions about this report, please do not hesitate to contact GSA.
 
 Respectfully submitted,
-<br><img src="https://assets.section508.gov/files/images/sig-carnahan.png" alt="Signature of Robin Carnahan" height="70px" width="auto"><br>
+<br><img src="{{site.baseurl}}/assets/images/sig-carnahan.png" alt="Signature of Robin Carnahan" height="70px" width="auto"><br>
 Robin Carnahan  
 Administrator
 
