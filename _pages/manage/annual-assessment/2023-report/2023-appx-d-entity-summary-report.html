@@ -277,7 +277,7 @@ format: "HTML (html)"
   }
   
   //Get entity data from JSON file then add data/text to entity summary page
-  fetch('/assets/2023-appx-d-entity-data.json') //Will need to update file/url reference once we post data files to assets.section508.gov
+  fetch('{{ site.baseurl }}/assets/2023-appx-d-entity-data.json') //Will need to update file/url reference once we post data files to assets.section508.gov
   .then((response) => response.json())
   .then((entity_data) => {
     const entityIDs = ["ACF"];
@@ -294,7 +294,7 @@ format: "HTML (html)"
             document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
           } else {
             const altTextSeal = "Logo of " + entity_data[i].name; 
-            document.getElementById("entity-seal").setAttribute("src", site.baseurl+entity_data[i].seal);
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}" + entity_data[i].seal);
             document.getElementById("entity-seal").setAttribute("alt", altTextSeal);
   
           }
