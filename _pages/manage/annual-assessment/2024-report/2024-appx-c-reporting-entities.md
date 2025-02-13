@@ -246,7 +246,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FRA">Federal Railroad Administration (FRA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=FTA">Federal Transit Administration (FTA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=VOLPE" title="Entity only reported data in FY24">John A. Volpe National Transportation Systems Center (VOLPE)*</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MA">Maritime Administration (MA)</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=MARAD">Maritime Administration (MARAD)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NHTSA">National Highway Traffic Safety Administration (NHTSA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=PHMSA">Pipeline and Hazardous Materials Safety Administration (PHMSA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=STLSDC">Saint Lawrence Seaway Development Corporation (STLSDC)</a></li>
