@@ -345,7 +345,7 @@ Thonya Cook - <thonya.cook@fema.dhs.gov>
 Justin Peterson (Deputy) - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
 #### Federal Law Enforcement Training Center (FLETC)
-Rose Mary Jones - <rosemary.jones@fletc.dhs.gov>
+Nancy Hanson - <nancy.l.hanson@fletc.dhs.gov>  
 ### Headquarters (HQ)
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
 ### Immigration and Customs Enforcement (ICE)
