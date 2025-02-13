@@ -230,7 +230,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** <br>Christopher Julka - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** <br>Bruce Shea - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - <arnetta.lamae.civ@us.navy.mil>
+  * **Naval Air Systems Command (NAVAIR)** <br>Diane E. Luc - <diane.e.luc.civ@us.navy.mil><br>David P. Brown (Deputy)- <David.p.brown126.civ@us.navy.mil>  
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
