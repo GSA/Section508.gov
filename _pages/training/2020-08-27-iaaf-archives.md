@@ -54,7 +54,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -73,7 +73,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -92,7 +92,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -111,7 +111,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -130,7 +130,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
         </div>
       </div>
       <div class="usa-card__body">
@@ -149,7 +149,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
         </div>
       </div>
       <div class="usa-card__body">
