@@ -1,0 +1,421 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #e0f0fa;
+}
+
+h1{
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+
+}
+
+h2{
+	font-size:13px;
+	font-family:Verdana, Geneva, sans-serif;
+
+}
+h3{
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+
+}
+h4{
+	font-size:13px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+#htmlContent{
+	position: relative;
+	width: 1015px;
+	height: 507px;
+	z-index: 16;
+	background-color:#FFFFFF;
+	
+}
+
+#pagetitle {
+	
+	width: 991px;
+	height: 20px;
+	z-index: 1;
+	padding-top:5px;
+	margin-bottom:5px;
+	margin-left:15px;
+	font-size: 14px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #666;
+}
+#screenContentBtm3rd {
+	
+	width: 962px;
+	height: 79px;
+	z-index: 1;
+	margin:0px auto;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+
+#screenContentBtmHalf {
+	
+	width: 962px;
+	height: 235px;
+	z-index: 1;
+	margin:0px auto;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+
+#imageareaBtm3rd {
+	
+	width: 1015px;
+	height: 380px;
+	z-index: 1;
+	position:absolute;
+	bottom:0px;
+	
+}
+
+#imageareaBtmHalf {
+	
+	width: 1015px;
+	height: 238px;
+	z-index: 1;
+	position:absolute;
+	bottom:0px;
+	
+}
+
+#dLinkText{
+	position:relative;
+	width: 1015px;
+}
+
+#screenContenFullScreenFlash {
+	position: absolute;
+	width: 1015px;
+	height: 475px;
+	z-index: 1;
+	bottom:0px;
+	
+}
+
+#screenContentFullScreenImage {
+	position: absolute;
+	width: 1015px;
+	height: 475px;
+	z-index: 7;
+	left: 0px;
+	top: 33px;
+	
+}
+
+#screenContentAreaTLGR {
+	position: absolute;
+	width: 454px;
+	height: 462px;
+	z-index: 1;
+	left: 40px;
+	top: 35px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+#screenContentAreaFullScreenText{
+	position: absolute;
+	width: 940px;
+	height: 462px;
+	z-index: 1;
+	left: 40px;
+	top: 35px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+
+}
+
+
+
+#imageareaTLGR {
+	position: absolute;
+	width: 507px;
+	height: 475px;
+	z-index: 1;
+	left: 507px;
+	top: 31px;
+	
+}
+
+
+
+#screenContentTRGL {
+	position: absolute;
+	width: 480px;
+	height: 462px;
+	z-index: 1;
+	left: 523px;
+	top: 33px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+
+#imageareaTRGL {
+	position: absolute;
+	width: 507px;
+	height: 475px;
+	z-index: 1;
+	left: 1px;
+	top: 31px;
+	
+}
+
+.templateField{
+	
+	margin:10px;
+	float:left;
+	width:790px;
+	font-family:verdana;
+	font-size:10pt;
+	background-color:#FFFFFF;
+	
+}
+.templateSubField{
+	
+	margin:10px;
+	float:left;
+	width:20px;
+	font-family:verdana;
+	font-size:10pt;
+	background-color:Grey;
+	
+}
+
+.templateFieldLabel{
+	width:200px;
+	margin:10px;
+	margin-right:0px;
+	float:left;
+	font-weight:bold;
+	font-family:verdana;
+	font-size:10pt;
+	color:white;
+}
+.clear{
+	
+clear: both;  
+height: 1px; 
+
+}
+
+.imageWithCaption div{
+	margin:0px auto;
+	width:100%;
+	text-align:center;
+	text-weight:italics;	
+}
+
+/*Knowledge check CSS below///////////////////////////////////*/
+
+#kcContentTLGR {
+	position: absolute;
+	width: 464px;
+	height: 426px;
+	z-index: 1;
+	left: 33px;
+	top: 74px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+#kcContentSurvey {
+	position: absolute;
+	width: 940px;
+	height: 426px;
+	z-index: 1;
+	left: 33px;
+	top: 74px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+
+
+.question {
+	padding-bottom:10px;
+	width:400px;
+
+}
+
+.distractor input{
+	float:left;
+}
+.distractor label{
+	float: left;
+	position:relative;
+	top:1px;
+}
+.distractor{
+	padding-bottom:20px;
+}
+
+.labelLetter{
+	float:left;
+	width:20px;
+}
+
+.labelDistractor{
+	float:left;
+	width:400px;
+}
+
+.feedback{
+	width:400px;
+	margin-top: 50px;
+}
+.feedback button{
+	float:right;
+}
+
+#kcInstructions {
+	position: absolute;
+	width: 462px;
+	height: 32px;
+	z-index: 17;
+	left: 34px;
+	top: 38px;
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+	font-style:italic;
+}
+
+.surveyDiv {
+	margin:0px;
+    padding:0px;
+	width:100%;
+    box-shadow: 5px 5px 5px 0px #CCCCCC;
+	border:1px solid #000000;
+	
+	-moz-border-radius-bottomleft:1px;
+	-webkit-border-bottom-left-radius:1px;
+	border-bottom-left-radius:1px;
+	
+	-moz-border-radius-bottomright:1px;
+	-webkit-border-bottom-right-radius:1px;
+	border-bottom-right-radius:1px;
+	
+	-moz-border-radius-topright:1px;
+	-webkit-border-top-right-radius:1px;
+	border-top-right-radius:1px;
+	
+	-moz-border-radius-topleft:1px;
+	-webkit-border-top-left-radius:1px;
+	border-top-left-radius:1px;
+}
+.surveyDiv table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}
+
+.surveyDiv table th{
+	background-color:#000;
+	color: #fff;
+	padding:7px;
+	font-weight:normal;
+}
+
+.surveyDiv tr:last-child td:last-child {
+	-moz-border-radius-bottomright:1px;
+	-webkit-border-bottom-right-radius:1px;
+	border-bottom-right-radius:1px;
+}
+.surveyDiv table tr:first-child td:first-child {
+	-moz-border-radius-topleft:1px;
+	-webkit-border-top-left-radius:1px;
+	border-top-left-radius:1px;
+}
+.surveyDiv table tr:first-child td:last-child {
+	-moz-border-radius-topright:1px;
+	-webkit-border-top-right-radius:1px;
+	border-top-right-radius:1px;
+}
+.surveyDiv tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:1px;
+	-webkit-border-bottom-left-radius:1px;
+	border-bottom-left-radius:1px;
+	
+}
+.surveyDiv tr:hover td{
+	
+}
+.surveyDiv tr:nth-child(odd){ background-color:#FFFFFF; }
+.surveyDiv tr:nth-child(even)    { background-color:#DEDEDE; }
+.surveyDiv td{
+	vertical-align:center;
+	
+	
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	/*font-size:14px;
+	font-family:Verdana;*/
+	font-weight:normal;
+	color: #000000;
+}
+.surveyDiv tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}
+.surveyDiv tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}
+.surveyDiv tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.surveyDiv tr:first-child td{
+	background:-o-linear-gradient(bottom, #000000 5%, #000000 100%);	
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #000000 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000");	
+	background: -o-linear-gradient(top,#000000,#000000);
+
+	background-color:#000000;
+	border:0px solid #000000;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	/*font-size:14px;
+	font-family:Verdana;*/
+	font-weight:normal;
+	color: #FFFFFF;
+}
+.surveyDiv tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #000000 5%, #000000 100%);	
+background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #000000), color-stop(1, #000000) );
+	background:-moz-linear-gradient( center top, #000000 5%, #000000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000");	
+background: -o-linear-gradient(top,#000000,#000000);
+
+	background-color:#000000;
+}
+.surveyDiv tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.surveyDiv tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
+.surveyDiv tr td{
+	text-align:center;
+	vertical-align:center;
+}
+.surveyDiv tr td:first-child{
+	text-align:left;
+	padding:2px;
+}
+
+radio {cursor: pointer;}
