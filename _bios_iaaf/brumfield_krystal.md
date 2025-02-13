@@ -10,7 +10,7 @@ position: Associate Administrator, Office of Government-wide Policy
 office: Office of Government-wide Policy
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/brumfield-krystal.png
+image_url: /assets/images/bio-images/brumfield-krystal.png
 iaaf_years: 2020
 ---
 Krystal J. Brumfield is an attorney and accomplished executive with more than 10 years’ experience of proven leadership in the public and private sectors. Krystal currently serves as the Associate Administrator for Government-wide Policy at GSA where she manages the direction of acquisition policy for GSA to ensure the promotion of effective business practices and the timely delivery of best value products for an agency that leverages billions of dollars annually in the marketplace. Among other roles, Krystal is designated as GSA’s Chief Acquisition Officer (CAO) and represents GSA on the CAO Council.

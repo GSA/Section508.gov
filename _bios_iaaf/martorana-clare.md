@@ -10,7 +10,7 @@ position: Federal Chief Information Officer
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/martorana-clare-1.jpg
+image_url: /assets/images/bio-images/martorana-clare-1.jpg
 iaaf_years: 2023
 ---
 Clare Martorana is an industry leader in deploying innovative to create products, services, and experiences that improve people’s lives.

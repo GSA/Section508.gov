@@ -22,7 +22,7 @@ For example, the - (dash) is a heavily used key with many purposes, such as a ˗
 However, this is very limited as you only have 5 basic operators available to you for simple mathematical modifiers that is equivalent to the Unicode designation. Instead of using the number row of keys along the top of a standard keyboard, use the Numeric Keypad (Figure 1). When Num Lock (Clear on a mac keyboard) is activated, the numeric keyboard becomes active as a calculator. Instructions are sent to the computer to use the correct mathematical operator based on the user's input from the numeric keypad. However, this is very limited with only have five basic operators available to you: ˗ (minus), + (plus), × (multiplication), ÷ (division represented as a / forward slash), and = (equals).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-keypad.jpg" alt="Numerical Keypad" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-keypad.jpg" alt="Numerical Keypad" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1">Figure 1—Screenshot of the Numeric Keypad integrated into standard keyboards.</span></div>
 </div>
 
@@ -33,7 +33,7 @@ Unicode is an information technology standard used in the programming and handli
 If you are on a PC, the Unicode Character Map is called Character Map. To access this reference, type “Character Map” in the Search field on your taskbar. The Character Map application should be listed at the top of the results. Click on the application and the Character Map window will pop-up (Figure 2).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-charmap.jpg" alt="Charcter Map" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-charmap.jpg" alt="Charcter Map" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2">Figure 2—Screenshot of the Character Map application window for PC computers.</span></div>
 </div>
 
@@ -47,7 +47,7 @@ For Mac users, there’s a semi-hidden way to access special symbol sets in Unic
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-charview.jpg" alt="Character Viewer" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-charview.jpg" alt="Character Viewer" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3">Figure 3—Screenshot of the Character Viewer application window for macOS.</span></div>
 </div>
 
@@ -92,21 +92,21 @@ There are free resources that can help you create equation images, convert an eq
 MathCast is an open source equation editor. You input your equation using the Rapid Mathline interface, which then renders a graphical representation of your equation. MathCast supports output image files (BMP, PNG, and EMF) that you can incorporate into documents, presentations and web pages. The user-friendly graphical interface is designed for simplicity while still providing powerful equation creation and editing (Figure 4). It supports the W3C MathML 2.0 and W3C XHTML 1.1.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-mathcast01.jpg" alt="MathCast screen" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-mathcast01.jpg" alt="MathCast screen" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4">Figure 4—Screenshot of MathCast’s main screen; the Edit Screen.</span></div>
 </div>
 
 All creation and editing of equations is done using the Rapid Mathline. When you select Equation → New from the top menu tabs, an input field will appear at the bottom of the window. This is where you will enter your equation along with access to an extensive set of mathematical operators, symbols and functions (Figure 5).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-mathline.jpg" alt="MathCast's Rapid Mathlin" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-mathline.jpg" alt="MathCast's Rapid Mathlin" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5">Figure 5—Screenshot of MathCast’s Rapid Mathline mechanism.</span></div>
 </div>
 
 All the basic operations will take place in this field. Even though the current view of the equation is linearized, the strength of this program happens when the line of text is converted to a mathematical representation. Once you feel your equation is ready, select the OK button and the text will be rendered in the main part of the screen as a visual representation (Figure 6). Just double-click your equation to take you back to edit mode and the Rapid Mathline.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-math-equations-mathcast02.jpg" alt="Rapid Mathline generted expression" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1"></div>
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-math-equations-mathcast02.jpg" alt="Rapid Mathline generted expression" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1"></div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-6">Figure 6—Screenshot of mathematical expression generated from the Rapid Mathline.</span></div>
 </div>
 

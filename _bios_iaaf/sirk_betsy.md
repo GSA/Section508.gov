@@ -10,7 +10,7 @@ position: Director, Digital Accessibility and Strategic Sourcing
 office: NASA Goddard Space Flight Center
 location: Greenbelt, MD
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/sirk-betsy.png
+image_url: /assets/images/bio-images/sirk-betsy.png
 iaaf_years: 2022, 2023
 ---
 Ms. Betsy Sirk is the Director, Digital Accessibility and Strategic Sourcing for the National Aeronautics and Space Administration with extensive leadership experience in program, project, technical, and acquisition management focused on implementing digital solutions to support NASA’s mission and the Federal Government. She serves as the Chairperson of the Federal CIO Council Accessibility Community of Practice Industry Outreach Program and the Section 508 Program Manager of NASA’s Goddard Space Flight Center. 

@@ -1,38 +1,42 @@
-{% if site.events %}
-{% assign sorted = site.events | sort: "date" | reverse %}
-{% for events in sorted %}
-{% assign event_date = events.end-date | date: '%s' %}
-{% if event_date < today_date  and events.event-type != 'recuring-event' %}
+{% if site.events %} {% assign sorted = site.events | sort: "date" | reverse %}
+{% for events in sorted %} {% assign event_date = events.end-date | date: '%s'
+%} {% if event_date < today_date and events.event-type != 'recuring-event' %}
 
-  <div class="padding-bottom-3 margin-top-1">
-      <span>
-      {% if events.image %}  
-      <img class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2" style="width:150px;height:150px;object-fit:cover;" src="https://assets.section508.gov/assets/images/{{ events.image }}" alt="{{ events.img-alt }}" />
-      {% endif %}
-      </span>
-      <p class="card-tag">
-      {% if events.start-date %}
-        {{ events.start-date | date: '%a, %b %d, %Y'}} -
-      {% endif %}
-        {{ events.end-date | date: '%a, %b %d, %Y' }}
-      </p>
+<div class="padding-bottom-3 margin-top-1">
+  <span>
+    {% if events.image %}
+    <img
+      class="tablet:float-left width-15 padding-right-2 padding-top-0 padding-bottom-2"
+      style="width: 150px; height: 150px; object-fit: cover"
+      src="{{site.baseurl}}/assets/images/{{ events.image }}"
+      alt="{{ events.img-alt }}"
+    />
+    {% endif %}
+  </span>
+  <p class="card-tag">
+    {% if events.start-date %} {{ events.start-date | date: '%a, %b %d, %Y'}} -
+    {% endif %} {{ events.end-date | date: '%a, %b %d, %Y' }}
+  </p>
 
-       <p class="text-primary-darker font-serif-lg text-bold margin-top-1">
-      {% if events.permalink %}
-        <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}">{{ events.title }}</a>
-      {% else %}
-      {{ events.title }}
-      {% endif %}
-      </p>
+  <p class="text-primary-darker font-serif-lg text-bold margin-top-1">
+    {% if events.permalink %}
+    <a class="text-no-underline" href="{{ site.baseurl }}{{ events.permalink }}"
+      >{{ events.title }}</a
+    >
+    {% else %} {{ events.title }} {% endif %}
+  </p>
 
-      <p class="">{{ events.content | strip_html | truncatewords:30 }}
-      {% if events.permalink %}
-        <a href="{{ site.baseurl }}{{ events.permalink }}" aria-label="Read More about {{ events.title }}"> Read more</a>
-      {% endif %}
-      </p>
+  <p class="">
+    {{ events.content | strip_html | truncatewords:30 }} {% if events.permalink
+    %}
+    <a
+      href="{{ site.baseurl }}{{ events.permalink }}"
+      aria-label="Read More about {{ events.title }}"
+    >
+      Read more</a
+    >
+    {% endif %}
+  </p>
+</div>
 
-  </div>
-
-{% endif %}
-{% endfor %}
-{% endif %}
+{% endif %} {% endfor %} {% endif %}

@@ -64,7 +64,7 @@ Microsoft Office authoring tools, including Outlook, have a built-in Accessibili
 The Accessibility Checker helps create accessible emails by identifying potential issues for people with disabilities in reading content or using the document. Regardless of the recipient, all failures must be remediated before sending the email. If you generate a great deal of email, you may want to add the “Check Accessibility” button to the <a href="" target="_blank" class="usa-link--external">main authoring ribbon</a> or <a href="https://support.office.com/en-us/article/customize-the-ribbon-in-office-00f24ca7-6021-48d3-9514-a31a460ecb31" target="_blank" class="usa-link--external">quick tools</a> section.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-email-figure-1.jpg" alt="Outlook application message interface with arrows highlighting instructions 1 and 2 described below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-email-figure-1.jpg" alt="Outlook application message interface with arrows highlighting instructions 1 and 2 described below." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Screenshot of the Outlook application message interface.</span>
     </div>
@@ -76,7 +76,7 @@ The Accessibility Checker helps create accessible emails by identifying potentia
 The online version of Outlook also allows you to check accessibility.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/create-email-figure-2.jpg" alt="Outlook online message interface with arrows highlighting instructions 1 and 2 described below." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/create-email-figure-2.jpg" alt="Outlook online message interface with arrows highlighting instructions 1 and 2 described below." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Screenshot of the Outlook online message interface.</span>
     </div>

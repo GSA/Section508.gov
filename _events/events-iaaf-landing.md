@@ -12,7 +12,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="{{site.baseurl}}/assets/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
@@ -25,7 +25,7 @@ Over the coming months, we’ll publish videos of key sessions to ensure everyon
 ## Let's Keep the Momentum Going into 2025!
 Mark your calendars for the 12th Annual Interagency Accessibility Forum, scheduled for **May 20-22, 2025, at the National Science Foundation** where you'll participate in an exciting lineup of sessions, workshops, and networking opportunities! 
 
-<img src="https://assets.section508.gov/files/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
@@ -85,7 +85,7 @@ Until then, let's continue to collaborate, innovate, and advocate for a more acc
 -->
 <!--
 ## Event Agenda
-<img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
+<img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
 This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 

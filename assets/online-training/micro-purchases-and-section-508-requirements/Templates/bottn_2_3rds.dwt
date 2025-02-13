@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/page.css" rel="stylesheet" type="text/css">
+</link>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="htmlContent">
+  <div id="pagetitle">
+    <h1><!-- TemplateBeginEditable name="page_title" -->Page Title Here<!-- TemplateEndEditable --></h1>
+  </div>
+  <!-- TemplateBeginEditable name="bottom23rds_image" -->
+  <div id="imageareaBtm3rd"><img id="templateImage" src="../graphics/bottom_2_3rds.jpg" alt=""/></div>
+  <!-- TemplateEndEditable --> <!-- TemplateBeginEditable name="content_area" -->
+  <div id="screenContentBtm3rd">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta leo diam, at adipiscing risus venenatis in. Proin at pellentesque turpis. Nunc viverra turpis eget ante euismod vestibulum. Donec gravida luctus libero. Proin id velit ac mi sodales lobortis sit amet nec libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras mi lacus, lacinia id magna vel, mattis egestas quam. Maecenas vitae venenatis diam. Maecenas in egestas leo. Nunc accumsan leo lectus, ac malesuada dui pharetra porta. Quisque quis adipiscing tortor, vitae scelerisque arcu. Nam eu risus massa.</div>
+  <!-- TemplateEndEditable --> </div>
+<div id="templateFields">
+  <div id="additionalContent">
+    <div class="templateFieldLabel" id="AdditionalContent_Label">Additional Content</div>
+    <div class="clear"></div>
+    <div class="templateFieldLabel" id="userInstructions_Label">User Instructions: </div>
+    <div id="userInstructions_Field" class="templateField"><!-- TemplateBeginEditable name="userInstructionsField" -->Enter User Instructions here<!-- TemplateEndEditable --></div>
+    <div class="clear"></div>
+  </div>
+  <div id="templateInstructions">
+    <div class="templateFieldLabel" id="AdditionalContent_Label">Instructions</div>
+    <div class="clear"></div>
+    <div class="templateFieldLabel" id="artInstructions_Label">Art Instructions: </div>
+    <div id="artInstructions_Field" class="templateField"><!-- TemplateBeginEditable name="ArtInstructions" -->Enter Art Instructions here<!-- TemplateEndEditable --></div>
+    <div class="clear"></div>
+    <div class="templateFieldLabel" id="programmingInstructions_Label">Programming Instructions: </div>
+    <div id="programmingInstructions_Field" class="templateField"><!-- TemplateBeginEditable name="programmingInstructions" -->Enter programming instructions here<!-- TemplateEndEditable --></div>
+    <div class="clear"></div>
+  </div>
+  <div id="templateImageDescriptions">
+    <div class="templateFieldLabel" id="AdditionalContent_Label">Image Descriptions</div>
+    <div class="clear"></div>
+    <div class="templateFieldLabel" id="dLinkText_Label">D Link Text: </div>
+    <div id="dLinkText_Field" class="templateField"><!-- TemplateBeginEditable name="D_Link_Text" -->Enter D Link text here <!-- TemplateEndEditable --></div>
+    <div class="clear"></div>
+  </div>
+</div>
+</body>
+</html>

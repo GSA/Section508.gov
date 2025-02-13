@@ -10,7 +10,7 @@ position: Executive Director for Quality, Performance, and Risk
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/larson-merissa.jpg
+image_url: /assets/images/bio-images/larson-merissa.jpg
 iaaf_years: 2023
 ---
 Ms. Larson serves as the Executive Director and Deputy Chief Risk Officer for Compliance, Risk and Remediation within the Office of Information Technology.

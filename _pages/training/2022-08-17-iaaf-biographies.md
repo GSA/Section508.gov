@@ -17,7 +17,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   {% assign last_initial = "" %}
@@ -54,7 +54,7 @@ format: "HTML (html)"
     <!-- NEW BIO -->
     <div class="grid-row border-bottom-1px border-base-lighter ">
       <div class="desktop:grid-col-2 tablet:grid-col-2">
-        <img class="circle-card border-05 border-base-light shadow-1" src="{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
+        <img class="circle-card border-05 border-base-light shadow-1" src="{{ site.baseurl }}{{ bio.image_url }}" alt="Image of {{ bio.display_name }}" />
       </div>
       <div class="desktop:grid-col-10 tablet:grid-col-10 padding-left-4">
         <h3 id="{{ bio.bio_id }}" class="margin-top-0">{{ bio.display_name }}</h3>

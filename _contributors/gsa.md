@@ -7,7 +7,7 @@ display_name: General Services Administration
 affiliation_short: GSA
 affiliation_long: General Services Administration
 location: Washington, D.C.
-image_url: https://assets.section508.gov/assets/images/seals-logos/gsa.png
+image_url: /assets/images/seals-logos/gsa.png
 permalink: /:collection/:name:output_ext
 ---
 GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, and IT to government organizations and the military. GSA also promotes management best practices and efficient government operations through the development of governmentwide policies. 
