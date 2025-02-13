@@ -26,7 +26,7 @@ The policy framework organizes policies into three categories:
 * Operational Guidance/Standard Operating Procedures (SOPs) that provide specific instructions to execute tasks (Tactical Level Document)
 
 ## Why should I use it?
-You can promote digital equity for all by directly assisting federal employees with making IT accessible. Agency leaders and digital accessibility decision-makers must lead the charge in ensuring policies at all levels include accessibility information for all relevant business functions. Managers and change agents accountable to leadership directives must also promote digital accessibility and “manage up,” as they play a vital role in executing digital accessibility policy-making strategy. Whatever your role, the policy framework is a catalyst for streamlining policy changes that advance digital accessibility.
+You can promote digital accessibility for all by directly assisting federal employees with making IT standards conformant. Agency leaders and digital accessibility decision-makers must lead the charge in ensuring policies at all levels include accessibility information for all relevant business functions. Managers and change agents accountable to leadership directives must also promote digital accessibility and “manage up,” as they play a vital role in executing digital accessibility policy-making strategy. Whatever your role, the policy framework is a catalyst for streamlining policy changes that advance digital accessibility.
 
 ## What are some of its key features?
 * Standard policy categories mapped to relevant business functions, and standard criteria against which to evaluate policies

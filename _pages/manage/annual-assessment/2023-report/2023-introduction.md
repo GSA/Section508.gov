@@ -17,9 +17,9 @@ format: "HTML (html)"
 ---
 ## Purpose
 The purpose of the Assessment is twofold:
-<ol>
-    <li style="margin-bottom:18px">To improve transparency, accountability, and trust regarding Section 508 compliance, fulfilling specific reporting requirements under the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>.</li>
-    <li style="margin-bottom:18px">To address the critical need for accessible information and communications technology (ICT) in the Federal Government, particularly recognizing its impact on persons with disabilities (PWD).</li>
+<ol class="list-item-spacer">
+    <li>To improve transparency, accountability, and trust regarding Section 508 compliance, fulfilling specific reporting requirements under the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>.</li>
+    <li>To address the critical need for accessible information and communications technology (ICT) in the Federal Government, particularly recognizing its impact on persons with disabilities (PWD).</li>
 </ol>
 
 ### Addressing the Government-wide Need for Accessible ICT

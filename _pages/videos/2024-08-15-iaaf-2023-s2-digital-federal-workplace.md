@@ -5,7 +5,7 @@ permalink: training/presentations-workshops/iaaf-2023-digital-federal-workplace/
 type: training
 title: 'IAAF 2023: Digital Accessibility in the Federal Workplace'
 created: 2024-08-15
-updated: 2024-08-27
+updated: 2025-01-10
 topic: Training (train)
 sub-topic: 
 - IAAF
@@ -24,7 +24,7 @@ format: Audio-only (audio)
 
 **Note:** Due to technical difficulties, this session is available in an audio-only format.
 
-<audio controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2023-s2-digital-federal-workplace.mp3" type="audio/mp3" /></audio>
+<audio controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s2-digital-federal-workplace.mp3" type="audio/mp3" /></audio>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
@@ -249,4 +249,4 @@ format: Audio-only (audio)
 * [IAAF 2023 - Accessibility Round Table with the Department of Veterans Affairs]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025

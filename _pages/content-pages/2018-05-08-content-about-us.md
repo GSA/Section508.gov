@@ -4,7 +4,8 @@ sidenav: false
 permalink: about-us/
 type: page
 title: 'About Us'
-created: 1525805230
+created: 2018-05-08
+updated: 2025-02-06
 redirect_from:
 - content/about-us/
 topic: "About the program/site (about)"
@@ -49,15 +50,15 @@ Section508.gov provides guidance to Federal agency staff who play a role in IT a
 
 GSA is committed to the accessibility of its information and communication technologies for individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.
 If you have feedback or concerns related to the accessibility of this website, the resources contained therein, or questions about IT accessibility in general, please visit the Contact Us page for more information.
-If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at CIO508Help@gsa.gov or (202) 208-0799.
+If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at CIO508Help@gsa.gov.
 
 # Comments and Feedback
 
 If you have feedback or concerns related to the accessibility of this website, the resources contained therein, or questions about IT accessibility in general, please visit the [Contact Us][4] page for more information.
 
-If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at [CIO508Help@gsa.gov][5] or (202) 208-0799.
+If you have general questions or feedback related to GSA's commitment to Section 508 compliance, please contact the GSA Office of Information Technology’s Section 508 team at [CIO508Help@gsa.gov][5]
 
-**Reviewed/Updated:** July 2024
+**Reviewed/Updated:** February 2025
 
  [1]: https://www.access-board.gov
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule

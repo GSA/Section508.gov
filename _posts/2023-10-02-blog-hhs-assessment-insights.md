@@ -14,7 +14,6 @@ audience:
 - Manager/Exec (exec)
 - Chief Information Officer (cio)
 - Public (public)
-- Chief Diversity and Inclusion Officer (cdio)
 resource-type: Blog article (blog)
 format: HTML (html)
 ---

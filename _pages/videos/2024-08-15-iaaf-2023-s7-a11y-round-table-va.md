@@ -5,7 +5,7 @@ permalink: training/presentations-workshops/iaaf-2023-accessibility-round-table/
 type: training
 title: 'IAAF 2023: Accessibility Round Table with the Department of Veterans Affairs'
 created: 2024-08-15
-updated: 2024-08-27
+updated: 2025-01-10
 topic: Training (train)
 sub-topic: 
 - IAAF
@@ -22,7 +22,7 @@ format: Video & Synchronized Media (video)
 
 [Martha Orr]({{site.baseurl}}/http://iaaf/archives/biographies-2023#orr-martha), Deputy Chief Information Officer for Compliance, Risk, and Remediation, Department of Veterans Affairs, moderated a discussion among VA officials about.... 
 
-<video controls="controls" poster="https://assets.section508.gov/files/videos/iaaf-2023-s7-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/files/videos/iaaf-2023-s7-round-table-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s7-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2023-s7-round-table-oc.mp4" type="video/mp4" /></video>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading">
@@ -349,4 +349,4 @@ format: Video & Synchronized Media (video)
 * [iAAF 2023 - A Fireside Chat with Accessibility Leaders]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-fireside-chat-with-accessibility-leaders/)
 * [IAAF 2023 - The Accessibility-Powered Future of Work]({{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-powered-future-of-work/)
 
-**Reviewed/Updated**: August 2024
+**Reviewed/Updated**: January 2025

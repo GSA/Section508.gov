@@ -21,16 +21,15 @@ format: Video & Synchronized Media (video)
 
 The Accessible Electronic Document Community of Practice (AED CoP) created this series of videos to explain and demonstrate the minimum steps needed to ensure your PDF is Section 508 conformant.
 
-
   ***
 
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf00/"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/files/thumbnails/training-video-pdf-m00.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf00/"><img alt="Module 0: Introduction & Background" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-00.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf00/">Module 0: Introduction & Background</a>
+        <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf00/">Module 0: Introduction & Background</a>
       </p>
       <p>
         Learn about the Accessible Electronic Document Community of Practice (AED CoP) and the topics covered in this video series.
@@ -45,11 +44,11 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/files/thumbnails/training-video-pdf-m01.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf01/"><img alt="Module 1: Creating the PresentationÌs Layout Design and Establishing the Logical Reading Order" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-01.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf01/">Module 1: What is a PDF?</a>
+        <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf01/">Module 1: What is a PDF?</a>
       </p>
       <p>
         Learn about the elements of a PDF and PDF tag types, where you &nbsp;can download the Accessibility PDF Checklist, how to convert documents to PDF, and how to test a PDF for accessibility.
@@ -64,11 +63,11 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/files/thumbnails/training-video-pdf-m02.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf02/"><img alt="Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-02.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf02/">Module 2: Testing a PDF for Accessibility</a>
+        <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf02/">Module 2: Testing a PDF for Accessibility</a>
       </p>
       <p>
         Discover how set up a document&rsquo;s properties, evaluate the accessibility of a document&rsquo;s content, and how to use Acrobat&rsquo;s Accessibility Full Check tool.
@@ -83,11 +82,11 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/files/thumbnails/training-video-pdf-m03.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf03/"><img alt="Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-03.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf03/">Module 3: Remediating PDFs for Accessibility</a>
+        <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf03/">Module 3: Remediating PDFs for Accessibility</a>
       </p>
       <p>
         Learn how to fix a PDF document&rsquo;s properties, add and adjust tags, adjust the reading and tab order, add alternative text to images and objects, and set document&rsquo;s language properties.
@@ -102,11 +101,11 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
   
   <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-      <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf04/"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/files/thumbnails/training-video-pdf-m04.png" style="width:100%" class="radius-lg" /></a>
+      <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf04/"><img alt="Module 4: Formatting Columns Correctly" src="https://assets.section508.gov/assets/images/thumbnails/training-video-pdf-04.jpg" style="width:100%" class="radius-lg" /></a>
     </div>
     <div class="desktop:grid-col-9">
       <p class="video-title">
-        <a href="{{site.baseurl}}/create/pdfs/aed-cop-pdf04/">Module 4: Converting Scanned Documents into Section 508 Conformant PDFs</a>
+        <a href="{{site.baseurl}}/training/pdfs/aed-cop-pdf04/">Module 4: Converting Scanned Documents into Section 508 Conformant PDFs</a>
       </p>
       <p>
         Learn about the techniques used by advanced users to identify and correct text from scanned pages and signed memorandums as conformance PDFs.
@@ -133,7 +132,7 @@ The Accessible Electronic Document Community of Practice (AED CoP) created this 
 </div>
 </div>
 
-**Updated**: March 2023
+**Reviewed/Updated**: January 2025
 
  [1]: {{site.baseurl}}/create/documents/training-videos/
  [2]: {{site.baseurl}}/create/presentations/training-videos/

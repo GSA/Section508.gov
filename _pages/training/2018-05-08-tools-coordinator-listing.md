@@ -4,8 +4,8 @@ sidenav: true
 permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
-created: 1525805876
-modified: 2024-04-19
+created: 2018-05-08
+updated: 2025-02-04
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -112,12 +112,11 @@ Jamie Lyons - <jamie.lyons@usda.gov>
 ### Office of Hearings and Appeals (OHA)
 Angela Parham	- <angela.parham@usda.gov>
 ### Office of the Inspector General (OIG)
-Millie Abdi - <misale.abdi@oig.usda.gov>  
+Louise Camalier – <louise.camalier@oig.usda.gov>  
 ### Research, Education and Economics (REE)
-Lisa Wilcox - <lisa.wilcox@usda.gov>  
-
-* **Agricultural Research Service (ARS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
-* **National Agricultural Statistics Service (NASS)** <br>Lisa Wilcox - <lisa.wilcox@usda.gov>  
+  
+* **Agricultural Research Service (ARS)**  
+* **National Agricultural Statistics Service (NASS)**  
 * **National Institute of Food and Agriculture (NIFA)** <br>Jimmy Nazario-Negron - <jimmy.nazario-negron@usda.gov>  
 
 ### Rural Development
@@ -170,20 +169,19 @@ Muhammad Waheed	- <muhammad.waheed@us.af.mil>
 
 ### Air National Guard
 ### Army
+Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
 
   * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
   * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
   * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-  * **United States Special Operations Command (USSOCOM)** <br>Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
 Jorge Valdez - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
-### Defense Contract Management Agency (DCMA)
-Antonio Boston - <antonio.boston.civ@mail.mil>  
+<!-- ### Defense Contract Management Agency (DCMA) -->
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
@@ -202,7 +200,7 @@ Vanessa Hill - <vanessa.hill2@dodiis.mil>
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
-Mohan Pinisetti – <mohan.pinisetti@dla.mil>  
+Antonio Boston - <antonio.boston@dla.mil>  
 DLA Helpdesk - <508compliance@dla.mil>
 ### Defense Media Activity (DMA)
 Michael A. Ball - <michael.a.ball32.civ@mail.mil>  
@@ -224,8 +222,7 @@ Pamela Whitehead - <pamela.whitehead@mda.mil>
 Irina Ryan - <irina.ryan.civ@ndu.edu>  
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
-<!-- ### National Guard Bureau (NGB)
-Phyllis	R. Renner - <phyllis.r.renner.civ@army.mil>  -->
+<!-- ### National Guard Bureau (NGB) -->
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -233,7 +230,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
   * **Bureau of Medicine and Surgery** <br>Christopher Julka - <christopher.a.julka@navy.mil>
   * **Bureau of Naval Personnel** <br>Bruce Shea - <bruce.e.shea@navy.mil>
-  * **Naval Air Systems Command (NAVAIR)** <br>Arnetta LaMae - <arnetta.lamae.civ@us.navy.mil>
+  * **Naval Air Systems Command (NAVAIR)** <br>Diane E. Luc - <diane.e.luc.civ@us.navy.mil><br>David P. Brown (Deputy)- <David.p.brown126.civ@us.navy.mil>  
   * **Naval Facilities Engineering Systems Command** <br>Ryan Lee – <ryan.m.lee7.civ@us.navy.mil>  
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
@@ -246,12 +243,14 @@ Christopher Julka - <christopher.a.julka@navy.mil>
 
 ### Pentagon Force Protection Agency (PFPA)
 Vince R. Tur-Rojas - <vicente.r.tur-rojas2.civ@mail.mil>  
-### U.S. Northern Command (USNORTHCOM)
+### United States Northern Command (USNORTHCOM)
 Lt. Col. Matthew J. McAlister - <matthew.j.mcalister.mil@mail.mil>  
-### U.S. Southern Command (SOUTHCOM)
+### United States Southern Command (SOUTHCOM)
 Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
-### U.S. Space Command (USSPACECOM)
+### United States Space Command (USSPACECOM)
 Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
+### United States Special Operations Command (USSOCOM)  
+Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -346,7 +345,7 @@ Thonya Cook - <thonya.cook@fema.dhs.gov>
 Justin Peterson (Deputy) - <justin.peterson@fema.dhs.gov>
 #### FEMA U.S. Fire Administration (USFA)
 #### Federal Law Enforcement Training Center (FLETC)
-Rose Mary Jones - <rosemary.jones@fletc.dhs.gov>
+Nancy Hanson - <nancy.l.hanson@fletc.dhs.gov>  
 ### Headquarters (HQ)
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
 ### Immigration and Customs Enforcement (ICE)
@@ -382,19 +381,19 @@ Sid Sharma - <siddhartha_sharma@ios.doi.gov>
 George Morris - <george.morris@bia.gov>
 ### Bureau of Land Management (BLM)
 Brianna Huerta - <bhuerta@blm.gov>
-### Bureau of Ocean Energy Management
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Reclamation
-Diane	Witbak - <dwitbak@usbr.gov>  
-### Bureau of Safety and Environmental Enforcement
-Robert Garcia - <robert.garcia@bsee.gov>
-### Bureau of Trust Funds Administration
+### Bureau of Ocean Energy Management (BOEM)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Reclamation (BR)
+Lori Pelech - <lpelech@usbr.gov>  
+### Bureau of Safety and Environmental Enforcement (BSEE)
+Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+### Bureau of Trust Funds Administration (BTFA)
 Neal Herbert - <neal_herbert@btfa.gov>  
 ### National Park Service (NPS)
 Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
-### Office of the Solicitor
+### Office of the Solicitor (OS)
 Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
 Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
@@ -418,7 +417,6 @@ Jennifer K. Cantilena - <jennifer.k.cantilena2@usdoj.gov>
 Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
 Armbrister Gowdy - <armbrister.gowdy@usdoj.gov>  
-Randy Abramson - <randy.abramson@usdoj.gov>
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -509,7 +507,8 @@ Christopher M. Brown - <browncm@state.gov>
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
-Michelle Cribbs - <michelle.cribbs@dot.gov>
+Michelle Cribbs - <michelle.cribbs@dot.gov>  
+Stephanie Jackson (Deputy) - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
@@ -612,10 +611,6 @@ Rezaur Rahman - <rrahman@achp.gov>
 Jennifer Li - <lij@abmc.gov>  
 
 ---
-### Army Corps of Engineers  (USACE)
-Guy T. Tate - <guy.t.tate@usace.army.mil>
-
----
 
 <span id="B" ></span>
 
@@ -693,7 +688,7 @@ Nicole Jacobs - <jacobsn@fca.gov>
 
 ---
 ### Federal Communication Commission (FCC)
-Rebecca Lovley - <rebecca.lovley@fcc.gov>  
+Chris Dizon - <chris.dizon@fcc.gov>  
 
 ---
 ### Federal Deposit Insurance Corporation (FDIC)
@@ -936,7 +931,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: December, 2024
+**Reviewed/Updated**: February 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

@@ -24,13 +24,19 @@ This banner is located under menu navigation bar, to display the title of each l
 {%- assign header = 'FY 23 Governmentwide Section 508 Assessment' -%}
 {%- assign subtitle = 'True' -%}
 {%- endif -%}
+{%- if page.type == 'report2024' -%}
+{%- assign header = 'FY 24 Governmentwide Section 508 Assessment' -%}
+{%- assign subtitle = 'True' -%}
+{%- assign altBgColor = 'style="background-color:#14671B;"'' -%}
+{%- assign altHeaderColor = 'style="color:#FFF;"'' -%}
+{%- endif -%}
 
-<section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+<section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner" {{altBgColor}}>
     <div class="grid-container">
         <div class="grid-row grid-gap">
             <div class="tablet: grid-col">
                 {% if header %}
-                <span class="banner-title-color font-sans-lg margin-bottom-0">
+                <span class="banner-title-color font-sans-lg margin-bottom-0" {% if altHeaderColor %} {{altHeaderColor}} {% endif %}>
                     {{header}}
                 </span>
                 <br />

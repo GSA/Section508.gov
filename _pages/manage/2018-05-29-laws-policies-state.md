@@ -58,7 +58,7 @@ Government Code Section 11135 prohibits discrimination on the basis of sex, race
 The <a href="http://www.dhs.state.il.us/page.aspx?item=32765" target="_blank" class="usa-link--external">Illinois Information Technology Accessibility Act (IITAA)</a> requires Illinois agencies and universities to ensure that their web sites, systems, and other information technologies are accessible to people with disabilities. While the Americans with Disabilities Act and Section 504 of the Rehabilitation Act require the State to address accessibility in general, the IITAA requires the State to establish and follow specific, functional accessibility standards and to address accessibility proactively.
 
 ## Indiana
-<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-link--external">IN.gov Accessibility Policy</a> Indiana is committed to inclusion and universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.
+<a href="http://www.in.gov/core/accessibility.html" target="_blank" class="usa-link--external">IN.gov Accessibility Policy</a> Indiana is committed to universal access in all of its services and programs. We pledge to develop and maintain accessIndiana Web pages and services so that they are accessible to persons with all types of abilities. Each visitor using this Web site has the right to obtain information and services independently and conveniently.
 
 <p id="K" name="K"></p>
 

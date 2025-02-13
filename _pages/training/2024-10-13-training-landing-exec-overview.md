@@ -25,14 +25,14 @@ format: "Video & Synchronized Media (video)"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/files/thumbnails/online-course-thumbnail-exec-overview2.jpg" alt="A placeholder image" class="radius-lg" />
+          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-exec-overview2.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
-        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your Information and Communication Technology (ICT) products and services are accessible to persons with disabilities.</p>
+        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your Information and Communication Technology (ICT) products and services are accessible to people with disabilities.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="https://training.section508.gov/assets/online-training/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>
@@ -42,7 +42,6 @@ format: "Video & Synchronized Media (video)"
 **Audience:** 
 * Heads of Federal Agencies  
 * Chief Acquisition Officers  
-* Chief Diversity and Inclusion Officer  
 * Chief Human Capital Officer  
 * Chief Information Officers  
 * Equal Employment Officer  
@@ -50,7 +49,7 @@ format: "Video & Synchronized Media (video)"
 
 **Duration:** 20 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 2.0 (Sep 2024)  
+**Version:** Version 2.0.1 (Feb 2025)  
 
 ## What Will I Learn in This Course?
 This course will help you to understand [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) and the related laws, policies, roles, and responsibilities.
@@ -108,6 +107,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>February 2025 - v1.0.1 | Release:</strong> Minor update to associated roles and responsibilities.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>September 2024 - v2.0 | Interface Design and Content Update:</strong> We've updated the course to use a modern user interface and made minor updates to align with recent updates to law and policies, and associated roles and responsibilities.</div>
       </li>
       <li class="usa-icon-list__item">
@@ -118,4 +121,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: October 2024
+**Reviewed/Updated**: February 2025
