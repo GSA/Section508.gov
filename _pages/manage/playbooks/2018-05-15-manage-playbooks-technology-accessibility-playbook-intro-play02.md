@@ -110,8 +110,8 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
 **Reviewed/Updated:** November 2024
 
- [1]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf
- [2]: https://assets.section508.gov/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
- [3]: https://assets.section508.gov/files/S508TEMPLATE120816EXT2_1.pdf
+ [1]: https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf
+ [2]: https://assets.section508.gov/assets/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
+ [3]: https://assets.section508.gov/assets/files/S508TEMPLATE120816EXT2_1.pdf
  [4]: {{site.baseurl}}/manage/reporting
  [5]: https://itdashboard.gov/

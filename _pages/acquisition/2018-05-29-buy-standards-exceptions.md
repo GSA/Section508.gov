@@ -444,5 +444,5 @@ _These best practices were developed by the U.S. Federal Government Revised 508 
 **Reviewed/Updated**: May 2018
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://assets.section508.gov/files/standards-exceptions-chart.docx
+ [2]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
  [3]: {{site.baseurl}}/buy/request-accessibility-information
