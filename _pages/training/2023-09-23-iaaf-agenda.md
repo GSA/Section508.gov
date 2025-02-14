@@ -78,7 +78,7 @@ format: "HTML (html)"
                     </div>
                     {% for download in track.downloads %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                        <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                       </div>
                     {% endfor %}
                   {% endif %}
@@ -124,7 +124,7 @@ format: "HTML (html)"
                   </div>
                   {% for download in track.downloads %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                     </div>
                   {% endfor %}
                 {% endif %}
@@ -163,7 +163,7 @@ format: "HTML (html)"
                 </div>
                 {% for download in session.downloads %}
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                    <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                   </div>
                 {% endfor %}
               {% endif %}
