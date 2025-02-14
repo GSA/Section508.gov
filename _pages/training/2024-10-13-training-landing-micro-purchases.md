@@ -32,7 +32,7 @@ format: "HTML"
         <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
+        <a href="{{site.baseurl}}/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
       </div>
     </div>
   </li>
