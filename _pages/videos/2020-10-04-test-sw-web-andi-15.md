@@ -20,7 +20,7 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 In Module: 15 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use the ANDI _Tables_ module to inspect [data tables][1] for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://training.section508.gov/assets/videos/training-video-andi-15-oc.mp4" type="video/mp4"></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/  training-video-andi-15-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
