@@ -10,7 +10,7 @@ position: Section 508 Program Manager
 office: 
 location: Washington, D.C.
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/otts-katherine.jpg
+image_url: /assets/images/bio-images/otts-katherine.jpg
 iaaf_years: 2024
 ---
 Katherine Otts currently serves as NSF's Section 508 Compliance Officer and formerly held the roles of Acting Section Chief, Technology and Operations Section, and Unified Communications (UC) Manager. In these roles, she provided training, technology demonstrations, technical assistance, and accessibility guidance to aid early adopters in transitioning smoothly to new communications tools and eliminating barriers to information and communication technology (ICT) for individuals with disabilities.

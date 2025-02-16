@@ -10,7 +10,7 @@ affiliation_long: Technology Transformation Services (TTS) at the General Servic
 affiliation_short: GSA
 position: Contracting Officer
 location: Washington, DC 
-image_url: https://assets.section508.gov/assets/images/bio-images/proctor-justen.jpg
+image_url: /assets/images/bio-images/proctor-justen.jpg
 email: justen.proctor@gsa.gov
 permalink: /:collection/:name:output_ext
 ---

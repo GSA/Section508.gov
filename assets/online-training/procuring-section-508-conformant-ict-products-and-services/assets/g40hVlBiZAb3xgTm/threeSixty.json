@@ -1,0 +1,27 @@
+{
+  "version": "3.73.30119.0",
+  "course_id": "5WBmNZ0MKjp",
+  "title": "Procurement Process Certificate Block",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Main Block"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6qUYEqtWskp",
+      "title": "Certification",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

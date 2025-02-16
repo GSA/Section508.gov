@@ -10,7 +10,7 @@ position: Director, Section 508 Program
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/sweeney-kate.jpg
+image_url: /assets/images/bio-images/sweeney-kate.jpg
 iaaf_years: 2022, 2023, 2024
 ---
 As the HHS Section 508 Program Director, Kate provides leadership and oversight of the department’s Digital Accessibility program in support of the Department’s mission and to ensure federal employees, and consumers of HHS information, with disabilities have access to information and communication technology (ICT) that is comparable to the access enjoyed by federal employees without disabilities unless doing so would impose an undue burden on the agency.  Kate oversees the development of departmental policies, process, and procedures; providing guidance and support to IT project teams on the application of Section 508 requirements; managing the HHS and OS Section 508 Program budget; and conducting process improvement activities to provide better services and resources to HHS employees.

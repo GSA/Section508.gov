@@ -39,7 +39,7 @@ The first tag in any PDF should always be a <span class="code-text"><strong>&lt;
       <th scope="row"><span class="code-text">&lt;Document></span></th>
       <td>Document</td>
       <td>Main tag under which all other tags are nested</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-01.jpg" alt="Screenshot of the tags panel showing the 'Document' tag with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-01.jpg" alt="Screenshot of the tags panel showing the 'Document' tag with its tag symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -64,13 +64,13 @@ Container/grouping tags are not required, but they can be helpful to group tags 
       <th scope="row"><span class="code-text">&lt;Part></span></th>
       <td>Part</td>
       <td>Large major section of the document (e.g., a chapter of a report)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-02.jpg" alt="Screenshot of the tags panel showing the 'Part' tag as the parent element to an 'H1' and 'H2', each with a tag symbols, and a 'P' tag with its paragraph symbol (&para;)."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-02.jpg" alt="Screenshot of the tags panel showing the 'Part' tag as the parent element to an 'H1' and 'H2', each with a tag symbols, and a 'P' tag with its paragraph symbol (&para;)."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Sect></span></th>
       <td>Section</td>
       <td>Small section within a larger part (e.g., pull quote, sidebar, or boxed text)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-03.jpg" alt="Screenshot of the tags panel showing the 'SECT' tag as the parent element to two 'P' tags, each with its paragraph symbol (&para;)."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-03.jpg" alt="Screenshot of the tags panel showing the 'SECT' tag as the parent element to two 'P' tags, each with its paragraph symbol (&para;)."></td>
     </tr>
   </tbody>
 </table>
@@ -96,19 +96,19 @@ Heading tags designate the heading structure and hierarchy of the document. They
       <th scope="row"><span class="code-text">&lt;H1></span></th>
       <td>Heading 1</td>
       <td>Document’s title</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-04.jpg" alt="Screenshot of the tags panel showing the 'H1' tag along with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-04.jpg" alt="Screenshot of the tags panel showing the 'H1' tag along with its tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;H2></span></th>
       <td>Heading 2</td>
       <td>Chapter or main-level headings</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-05.jpg" alt="Screenshot of the tags panel showing the 'H2' tag along with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-05.jpg" alt="Screenshot of the tags panel showing the 'H2' tag along with its tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;H3> - &lt;H6></span></th>
       <td>Heading 3 - Heading 6</td>
       <td>Subsequent subheadings</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-06.jpg" alt="Screenshot of the tags panel showing the 'H3' tag along with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-06.jpg" alt="Screenshot of the tags panel showing the 'H3' tag along with its tag symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -133,56 +133,56 @@ Block-level text tags designate the main text components of a document, like bod
       <th scope="row"><span class="code-text">&lt;P></span></th>
       <td>Paragraph</td>
       <td>Body text (most often used tag)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-07.jpg" alt="Screenshot of the tags panel showing the 'P' tag along with its paragraph symbol (¶)."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-07.jpg" alt="Screenshot of the tags panel showing the 'P' tag along with its paragraph symbol (¶)."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;L></span></th>
       <td>List</td>
       <td>Main tag under which all list items are nested</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;LI></span></th>
       <td>List Item</td>
       <td>Each item (bullet and associated text) within a list</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Lbl></span></th>
       <td>Label</td>
       <td>Bullet identifier (e.g., bullet point, number, letter)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is a parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;LBody></span></th>
       <td>Label Body</td>
       <td>Text of a bulleted list item</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is the parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-08.jpg" alt="Screenshot of the tags panel showing the 'L' tag as the parent element to a 'LI' tag, which is the parent element to a 'Lbl' and 'Body' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TOC></span></th>
       <td>Table of Contents</td>
       <td>Main tag under which all Contents TOC items are nested</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-09.jpg" alt="Screenshot of the tags panel showing the 'TOC' tag as the parent element to a 'TOCI' tag, which is the parent element to a 'Reference' tag, the parent element to a 'Link' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-09.jpg" alt="Screenshot of the tags panel showing the 'TOC' tag as the parent element to a 'TOCI' tag, which is the parent element to a 'Reference' tag, the parent element to a 'Link' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TOCI></span></th>
       <td>TOC Item</td>
       <td>TOC entry (houses the <span class="code-text">&lt;Reference></span> and <span class="code-text">&lt;Link></span> tag for the TOC entry and its Link - OBJR)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-09.jpg" alt="Screenshot of the tags panel showing the 'TOC' tag as the parent element to a 'TOCI' tag, which is the parent element to a 'Reference' tag, the parent element to a 'Link' tag, each with its own tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-09.jpg" alt="Screenshot of the tags panel showing the 'TOC' tag as the parent element to a 'TOCI' tag, which is the parent element to a 'Reference' tag, the parent element to a 'Link' tag, each with its own tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Caption></span></th>
       <td>Caption</td>
       <td>Figure or table caption (placed above or below the figure or table depending on the physical page structure)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-10.jpg" alt="Screenshot of the tags panel showing the 'Caption' and 'Figure' tag, each with its tag symbol."><br />
-      <img src="https://assets.section508.gov/assets/images/pdf-tags-figure-11.jpg" alt="Screenshot of the tags panel showing the 'Caption' tag with its tag symbol, and a 'Table' tag, with its grid symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-10.jpg" alt="Screenshot of the tags panel showing the 'Caption' and 'Figure' tag, each with its tag symbol."><br />
+      <img src="{{site.baseurl}}/assets/images/pdf-tags-figure-11.jpg" alt="Screenshot of the tags panel showing the 'Caption' tag with its tag symbol, and a 'Table' tag, with its grid symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;BlockQuote></span></th>
       <td>Quote</td>
       <td>Block quotes (i.e., long quote in its own paragraph)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-12.jpg" alt="Screenshot of the tags panel showing the 'BlockQuote' tag with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-12.jpg" alt="Screenshot of the tags panel showing the 'BlockQuote' tag with its tag symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -207,37 +207,37 @@ Character-level tags are nested under a block-level tag, so they should never ap
       <th scope="row"><span class="code-text">&lt;Link></span></th>
       <td>Hyperlinks</td>
       <td>Active link (e.g., URL, email address)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-13.jpg" alt="Screenshot of the tags panel showing the 'P' tag as the parent element to a 'Link' tag, which is the parent element to a the object 'www.ed.gov', with its box symbol, and a 'Link' tag each with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-13.jpg" alt="Screenshot of the tags panel showing the 'P' tag as the parent element to a 'Link' tag, which is the parent element to a the object 'www.ed.gov', with its box symbol, and a 'Link' tag each with its tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;OBJR></span></th>
       <td>Object Reference</td>
       <td>Active component of the Reference link or reference; must be present within <span class="code-text">&lt;Link></span> tag</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-13.jpg" alt="Screenshot of the tags panel showing the 'P' tag as the parent element to a 'Link' tag, which is the parent element to an object 'www.ed.gov', with its box symbol, and a 'Link' tag each with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-13.jpg" alt="Screenshot of the tags panel showing the 'P' tag as the parent element to a 'Link' tag, which is the parent element to an object 'www.ed.gov', with its box symbol, and a 'Link' tag each with its tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Reference></span></th>
       <td>Reference</td>
       <td>Internal link (e.g., cross- reference, footnote, TOC)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-14.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Reference' tag, which is the parent element to a 'Link' tag, each with its box symbol, and a 'Link' tag, each with its tag symbol, as the parent element to a box object '1', and a 'Link - OBJR' tag."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-14.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Reference' tag, which is the parent element to a 'Link' tag, each with its box symbol, and a 'Link' tag, each with its tag symbol, as the parent element to a box object '1', and a 'Link - OBJR' tag."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Span></span></th>
       <td>Span</td>
       <td>Separator for differently formatted text (e.g., italics, bolding, track changes, highlighting)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-15.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Span' tag, with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-15.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Span' tag, with its tag symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Note></span></th>
       <td>Note</td>
       <td>Footnote, endnote, or source note</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-16.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to object 'Postsecondary...', with its box symbol, a 'Reference' and 'Note' tag, each with a tag symbol, followed by another object 'If a student with...'. The 'Reference' tag is a parent element to a 'Link' tag, which is a parent to an object '33' and 'Link - OBJR' tag. The 'Note' element is also a parent of an object '33 42 U.S.C. §...' with its box symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-16.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to object 'Postsecondary...', with its box symbol, a 'Reference' and 'Note' tag, each with a tag symbol, followed by another object 'If a student with...'. The 'Reference' tag is a parent element to a 'Link' tag, which is a parent to an object '33' and 'Link - OBJR' tag. The 'Note' element is also a parent of an object '33 42 U.S.C. §...' with its box symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Form></span></th>
       <td>Form</td>
       <td>Interactive form-fillable elements (e.g., checkboxes, fillable text, signatures)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-17.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Forms' tag, which is the parent element to a 'Last Name - OBJR' tag, each with a tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-17.jpg" alt="Screenshot of the tags panel showing the 'P' tag, with its paragraph symbol (&para;), as the parent element to a 'Forms' tag, which is the parent element to a 'Last Name - OBJR' tag, each with a tag symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -262,13 +262,13 @@ Figure and Formula tags contain all image-related tags. They exist below the <sp
       <th scope="row"><span class="code-text">&lt;Figure></span></th>
       <td>Figure</td>
       <td>Graphic element (e.g., logo, illustration, photo, chart,)</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-18.jpg" alt="Screenshot of the tags panel showing the 'Figure' tag, with its tag symbol, as the parent element to a 'Image (5)' object, with its box symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-18.jpg" alt="Screenshot of the tags panel showing the 'Figure' tag, with its tag symbol, as the parent element to a 'Image (5)' object, with its box symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;Formula></span></th>
       <td>Formula</td>
       <td>Mathematical formula</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-19.jpg" alt="Screenshot of the tags panel showing the 'Formula' tag, with its tag symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-19.jpg" alt="Screenshot of the tags panel showing the 'Formula' tag, with its tag symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -293,25 +293,25 @@ Table tags contain all table-related tags. They exist below the <span class="cod
       <th scope="row"><span class="code-text">&lt;Table></span></th>
       <td>Table</td>
       <td>Main tag that houses all table tag components</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TR></span></th>
       <td>Table Row</td>
       <td>Main tag that houses all tags within a specific row</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TH></span></th>
       <td>Table Header</td>
       <td>Heading cells within table row tag</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
     </tr>
     <tr>
       <th scope="row"><span class="code-text">&lt;TD></span></th>
       <td>Table Data</td>
       <td>Data cells within table row tag</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-20.jpg" alt="Screenshot of the tags panel showing the 'Table' tag, with its grid symbol, as the parent element to a 'TR' tag, with its grid row symbol, which is the parent element to a 'TH', with its grid header symbol, and two 'TD' tags, each with its grid cell symbol."></td>
     </tr>
   </tbody>
 </table>
@@ -336,7 +336,7 @@ Elements that convey no meaning can be converted to an artifact so that they wil
       <th scope="row"><span class="code-text">&lt;Artifact></span></th>
       <td>Artifact</td>
       <td>Decorative images, non-essential content</td>
-      <td><img src="https://assets.section508.gov/assets/images/pdf-tags-figure-21.jpg" alt="Screenshot of the tags panel showing the 'Artifact' tag, with a box symbol similar to the objects symbol."></td>
+      <td><img src="{{site.baseurl}}/assets/images/pdf-tags-figure-21.jpg" alt="Screenshot of the tags panel showing the 'Artifact' tag, with a box symbol similar to the objects symbol."></td>
     </tr>
   </tbody>
 </table>

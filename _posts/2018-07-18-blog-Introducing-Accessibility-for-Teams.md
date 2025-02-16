@@ -58,6 +58,6 @@ This DigitalGov Guide is maintained by the Accessibility Guild in TTS at GSA. In
  [1]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
  [2]: https://digital.gov/guides/accessibility-for-teams/ 
  [3]: https://digital.gov/2015/04/06/using-personas-to-better-understand-customers-usa-gov-case-study/
- [4]: https://assets.section508.gov/files/Can%20you%20reach%20anything%20that%27s%20interactive%20using%20the%20tab%20key.png
+ [4]: {{site.baseurl}}/assets/images/Can%20you%20reach%20anything%20that%27s%20interactive%20using%20the%20tab%20key.png
  [5]: {{site.baseurl}}/manage/laws-and-policies
  [6]: https://digital.gov/2018/01/30/updated-it-accessibility-standards/

@@ -10,7 +10,7 @@ position: Deputy Director, Office of the Chief Information Officer
 office: Office of the Chief Information Officer
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/papula-dennis.png
+image_url: /assets/images/bio-images/papula-dennis.png
 iaaf_years: 2022
 ---
 Dennis Papula is the Deputy Director in the Office of the Chief Information Officer at NIH. He has a wide range of IT leadership experience in the Federal government. Most recently, he served as the Chief Technology Officer for HHS's Program Support Center, and then previously as the Director for Enterprise Strategy and Governance at the HHS Office of the Chief Information Officer. Mr. Papula holds a Master of Science degree from Syracuse University and a bachelor's degree from the University of Pittsburgh and is a graduate of the National Defense University's CIO program.

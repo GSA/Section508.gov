@@ -7,7 +7,7 @@ display_name: Office of Personnel Management
 affiliation_short: OPM
 affiliation_long: Office of Personnel Management
 location: Washington, D.C.
-image_url: https://assets.section508.gov/assets/images/seals-logos/opm.jpg
+image_url: /assets/images/seals-logos/opm.jpg
 permalink: /:collection/:name:output_ext
 ---
 OPM’s history begins with the Civil Service Act, signed in 1883, ending the spoils system and establishing the Civil Service Commission. The Commission, led by the energetic Teddy Roosevelt, laid the foundations of an impartial, professional civil service based on the merit principle – that employees should be judged only on how well they can do the job.

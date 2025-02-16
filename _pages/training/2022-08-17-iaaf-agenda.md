@@ -17,7 +17,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, October 11th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Wednesday, October 12th</a> | <a href="#day3" title="Skip to Day 3 Program">Day 3/Thursday, October 13th</a></b>

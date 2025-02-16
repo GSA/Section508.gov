@@ -5,7 +5,7 @@ permalink: create/captions-transcripts/
 type: create
 title: Create Accessible Captions and Transcripts
 contributors: 
-social_img: 'https://assets.section508.gov/assets/images/captions-transcripts-figure-4.jpg'
+social_img: '{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg'
 created: 2024-05-29
 updated:
 topic: "Content creation (create)"
@@ -61,7 +61,7 @@ When determining how captions appear on a video, follow these guidelines:
 In Figure 1, the font, text size, color, and placement all meet Section 508 requirements and best practices. It is in the lower part of the screen, centered, and the text is in a sans serif font with a font size of 18 points. The text is white with a slightly translucent background, and is 44 characters long.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-1.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Example of correct font, text size, color, and placement</span>
     </div>
@@ -85,7 +85,7 @@ In Figure 2, caption text reads: "soon. If doctor low agrees we can start the"
 
 In this incorrect example, the text is hard to read because of auto-caption errors.
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-2.jpg" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-2.jpg" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Incorrect automatically generated captions.</span>
     </div>
@@ -96,7 +96,7 @@ In Figure 3, caption text reads: "If Doctor Lowe agrees, we can start the treatm
 
 In this correct example, the grammar errors are fixed, the starting and ending time for each caption is adjusted for a more logical flow, and the captions are much more readable.
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-3.jpg" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-3.jpg" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Automatically generated captions after being corrected for readability.</span>
     </div>
@@ -117,7 +117,7 @@ In all cases, read the text itself and determine whether the text alone conveys 
 ### Example
 In Figure 4, caption text reads: "_(shouting)_ Pick _me_! I wanna go _first_!"
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-4.jpg" alt="" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg" alt="" aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Captions describing how a person speaks to convey meaning.</span>
     </div>
@@ -140,7 +140,7 @@ In Figure 5, caption text reads: "_(calmly)_ I agree, but, um, I think...I think
 In this example, there are filler words and gaps, but the content is still understandable. Because of this, the captions must display exactly what the speaker said, word for word.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-5.jpg" alt="" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-5.jpg" alt="" aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5"><strong>Figure 5.</strong> Captions displaying unedited unintelligible speech and filler words.</span>
     </div>
@@ -154,14 +154,14 @@ In Figure 7, caption text after editing, with words in **bold** removed reads: "
 In this example, several of the filler words are removed, since it allows the reader to understand what is being said on an equivalent level as a hearing user. Notice that the captions still show some filler words and gaps to keep the intent and meaning as similar as possible.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-6.jpg" alt="" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-6.jpg" alt="" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-6"><strong>Figure 6.</strong> Filler words caption example before editing.</span>
     </div>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-7.jpg" alt="" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-7.jpg" alt="" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-7"><strong>Figure 7.</strong> Filler words caption example after editing.</span>
     </div>
@@ -183,7 +183,7 @@ For sound effects, follow these guidelines:
 In Figure 8, caption text reads: _"(door opens; several dogs barking)"_
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/captions-transcripts-figure-8.jpg" alt="" aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/captions-transcripts-figure-8.jpg" alt="" aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Captions displaying sound effects.</span>
     </div>
