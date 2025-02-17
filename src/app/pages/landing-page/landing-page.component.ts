@@ -35,13 +35,19 @@ export class LandingPageComponent implements OnInit {
   * @type IButtonInterface
   */
   getUploadICTBtn:IButtonInterface = {label:""}
-
+  videoFooterHtml: string = '';
 
   ngOnInit(): void {
     //Initialization
     this.lpButtonHeader = this.landingPageService.getLpButtonData().buttonHeader;
     this.getStartedBtn = {...this.landingPageService.getLpGetStrBtn(), action:()=>{this.getNextPage(NextPage.getStarted)}};
     this.getUploadICTBtn = {...this.landingPageService.getLpUplBtn(), action:()=>{this.getNextPage(NextPage.uploadICT)}};
+
+    const siteBaseUrl = window.location.origin; // Get dynamic base URL
+
+    // Get video footer content and replace `{{site.baseurl}}`
+    this.videoFooterHtml = this.landingPageService.getVideoFooter().data.replace(/{{site.baseurl}}/g, siteBaseUrl);
+    console.log(this.videoFooterHtml,"video footer html")
   }
 
 
