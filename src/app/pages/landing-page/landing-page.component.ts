@@ -47,7 +47,7 @@ export class LandingPageComponent implements OnInit {
     this.getUploadICTBtn = {...this.landingPageService.getLpUplBtn(), action:()=>{this.getNextPage(NextPage.uploadICT)}};
 
     
-     this.siteBaseUrl = environment.urlPath;
+     this.siteBaseUrl = document.baseURI;
 
      console.log(this.siteBaseUrl ,"this.siteBaseUrl ")
 
