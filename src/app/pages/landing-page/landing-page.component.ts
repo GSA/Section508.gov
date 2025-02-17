@@ -37,7 +37,7 @@ export class LandingPageComponent implements OnInit {
   */
   getUploadICTBtn:IButtonInterface = {label:""}
   videoFooterHtml: string = '';
-  siteBaseUrl = "/preview/gsa/section508.gov/test-art/art"; // Get dynamic base URL
+  siteBaseUrl = ""; // Get dynamic base URL
 
 
   ngOnInit(): void {
@@ -48,6 +48,8 @@ export class LandingPageComponent implements OnInit {
 
     
      this.siteBaseUrl = environment.urlPath;
+
+     console.log(this.siteBaseUrl ,"this.siteBaseUrl ")
 
     // Get video footer content and replace `{{site.baseurl}}`
     this.videoFooterHtml = this.landingPageService.getVideoFooter().data.replace(/{{site.baseurl}}/g, this.siteBaseUrl);
