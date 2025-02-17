@@ -124,6 +124,9 @@
             },
             "development": {
               "buildTarget": "ART:build:development"
+            },
+            "staging": {
+              "buildTarget": "ART:build:staging"
             }
           },
           "defaultConfiguration": "development"
