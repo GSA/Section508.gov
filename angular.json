@@ -129,7 +129,7 @@
               "buildTarget": "ART:build:staging"
             }
           },
-          "defaultConfiguration": "development"
+          "defaultConfiguration": "staging"
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
