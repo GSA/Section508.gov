@@ -1,36 +1,42 @@
-{% comment %}
-You shouldn't have to edit this page very often. But if you want to modify some of the meta-data for the
-site, this is the place to do it.
-{% endcomment %}
+{% comment %} You shouldn't have to edit this page very often. But if you want
+to modify some of the meta-data for the site, this is the place to do it. {%
+endcomment %}
 
 <head>
   <!-- Basic Page Needs
     ================================================== -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   {% if site.branch == "main" %}
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="index, follow" />
   {% else %}
-  <meta name="robots" content="noindex, nofollow">
+  <meta name="robots" content="noindex, nofollow" />
   {% endif %}
   <!-- Mobile Specific Metas
     ================================================== -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Title and meta description
     ================================================== -->
   <title>{{page.title}} | {{site.title}}</title>
-  <meta property="og:title" content="{{site.title}}">
-  <meta name="description" content="{{site.description}}">
-  <meta property="og:description" content="{{site.description}}">
-  {% comment %} Add a default og:image for social media sharing when not defined. {% endcomment %}
-  {% if page.social_img and page.social_img contains '://' and '.jpg' or '.png' %}
-  <meta property="og:image" content="{{page.social_img}}"> 
-  <meta name="twitter:image" content="{{page.social_img}}" />
+  <meta property="og:title" content="{{site.title}}" />
+  <meta name="description" content="{{site.description}}" />
+  <meta property="og:description" content="{{site.description}}" />
+  {% comment %} Add a default og:image for social media sharing when not
+  defined. {% endcomment %} {% if page.social_img and page.social_img contains
+  '://' and '.jpg' or '.png' %}
+  <meta property="og:image" content="{{site.baseurl}}/{{page.social_img}}" />
+  <meta name="twitter:image" content="{{site.baseurl}}/{{page.social_img}}" />
   {% else %}
-  <meta property="og:image" content="https://assets.section508.gov/files/images/social-media-og-image.jpg">
-  <meta name="twitter:image" content="https://assets.section508.gov/files/images/social-media-og-image.jpg" />
+  <meta
+    property="og:image"
+    content="{{site.baseurl}}/assets/images/social-media-og-image.jpg"
+  />
+  <meta
+    name="twitter:image"
+    content="{{site.baseurl}}/assets/images/social-media-og-image.jpg"
+  />
   {% endif %}
   <!-- endif -->
   <meta name="twitter:card" content="summary" />
@@ -38,32 +44,67 @@ site, this is the place to do it.
   <meta name="twitter:title" content="{{site.title}}" />
   <meta name="twitter:description" content="{{site.description}}" />
 
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="article" />
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <!-- Favicons
     ================================================== -->
   <!-- 128x128 -->
-  <link rel="shortcut icon" type="image/ico" href="{{site.baseurl}}/assets/images/favicon.ico" />
-  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon.ico" />
+  <link
+    rel="shortcut icon"
+    type="image/ico"
+    href="{{site.baseurl}}/assets/images/favicon.ico"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    href="{{site.baseurl}}/assets/images/favicon.ico"
+  />
 
-  <link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/images/android-chrome-192x192.png" />
-  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/assets/images/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/assets/images/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/assets/images/favicon-16x16.png" />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="192x192"
+    href="{{site.baseurl}}/assets/images/android-chrome-192x192.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="{{site.baseurl}}/assets/images/apple-touch-icon.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="{{site.baseurl}}/assets/images/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="{{site.baseurl}}/assets/images/favicon-16x16.png"
+  />
   <link rel="manifest" href="{{site.baseurl}}/assets/images/site.webmanifest" />
 
   <!-- CSS
     ================================================== -->
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/index.css?{{ site.time | date: '%s%N' }}">
-  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="{{ site.baseurl }}/assets/css/index.css?{{ site.time | date: '%s%N' }}"
+  />
+  <script
+    src="https://code.jquery.com/jquery-3.6.0.js"
+    integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+    crossorigin="anonymous"
+  ></script>
   <script src="{{ site.baseurl }}/assets/js/uswds-init.min.js?{{ site.time | date: '%s%N' }}"></script>
 
-    <!-- Custom Meta Data
+  <!-- Custom Meta Data
     ================================================== -->
-    <meta name="topic" content="{{ page.topic }}">
-    <meta name="sub-topic" content="{{ page.sub-topic }}">
-    <meta name="audience" content="{{ page.audience | join: ', ' }}">
-    <meta name="resource-type" content="{{ page.resource-type }}">
-    <meta name="format" content="{{ page.format }}">
+  <meta name="topic" content="{{ page.topic }}" />
+  <meta name="sub-topic" content="{{ page.sub-topic }}" />
+  <meta name="audience" content="{{ page.audience | join: ', ' }}" />
+  <meta name="resource-type" content="{{ page.resource-type }}" />
+  <meta name="format" content="{{ page.format }}" />
 </head>

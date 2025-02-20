@@ -25,14 +25,14 @@ format: "Video & Synchronized Media (video)"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-section-508-what-is-it.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-thumbnail-section-508-what-is-it.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course ID: FAC 049)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/assets/online-training/section-508-what-is-it-and-why-its-important/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 049</a>
+        <a href="{{site.baseurl}}/assets/online-training/section-508-what-is-it-and-why-its-important/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 049</a>
       </div>
     </div>
   </li>

@@ -29,7 +29,7 @@ Additionally, alt text makes content accessible to other users, like those who m
 <hr />
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="https://assets.section508.gov/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%" /></a>
+        <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="{{site.baseurl}}/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%" /></a>
     </div>
     <div class="desktop:grid-col-9">
         <p class="video-title"><a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/">What is Alternative Text?</a></p>
@@ -62,7 +62,7 @@ Describe the content of the photo that is relevant to the surrounding context. I
 
 #### Example for Photos and Portraits
 <div class="tablet:grid-col" style="margin: auto; max-width: 35%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-01.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-01.jpg" alt="" aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Example for Photos and Portraits.</span>
     </div>
@@ -79,7 +79,7 @@ If you have an image that does contain text, include it in the alt text word for
 
 #### Example for Images that Contain Text
 <div class="tablet:grid-col" style="margin: auto; max-width: 70%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-02.jpg" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-02.jpg" alt="" aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Example for Images that Contain Text.</span>
     </div>
@@ -94,7 +94,7 @@ Logos are never decorative, so they require alt text. Describe any significant s
 
 #### Example for Logos
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-03.jpg" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-03.jpg" alt="" aria-describedby="figure-3" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3"><strong>Figure 3.</strong> Example for Logos.</span>
     </div>
@@ -109,7 +109,7 @@ If an image does not contain information that is necessary for the reader to und
 
 #### Example for Decorative Images
 <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-04.jpg" alt="Example image next to text: 'Now that you have completed this course, you should be able to do the following,' followed by a list of training items." aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-04.jpg" alt="Example image next to text: 'Now that you have completed this course, you should be able to do the following,' followed by a list of training items." aria-describedby="figure-4" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-4"><strong>Figure 4.</strong> Example for Decorative Images.</span>
     </div>
@@ -128,7 +128,7 @@ In documents created in Microsoft Word, screen readers skip all headers and foot
 
 #### Example for Background Images
 <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-05.jpg" alt="Screenshot of text with background image of a keyboard. Text says 'Let's start with a brief overview of what Section 508 is, and what it involves." aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-05.jpg" alt="Screenshot of text with background image of a keyboard. Text says 'Let's start with a brief overview of what Section 508 is, and what it involves." aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5"><strong>Figure 5.</strong> Example for Background Images.</span>
     </div>
@@ -141,7 +141,7 @@ In documents created in Microsoft Word, screen readers skip all headers and foot
 
 #### Example for Document Headers
 <div class="tablet:grid-col" style="margin: auto; max-width: 70%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-06.jpg" alt="MS Word document. Header contains image of G S A logo and text 'General Services Administration.' Document main content says 'Team Newsletter. Team Building Exercises. Image of a team collaborating.'" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-06.jpg" alt="MS Word document. Header contains image of G S A logo and text 'General Services Administration.' Document main content says 'Team Newsletter. Team Building Exercises. Image of a team collaborating.'" aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-6"><strong>Figure 6.</strong> Example for Document Headers.</span>
     </div>
@@ -158,7 +158,7 @@ For more guidance, see the "Additional Resources" section at the end of this gui
 
 #### Example for Controls
 <div class="tablet:grid-col" style="margin: auto; max-width: 60%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-07.png" alt="Box labeled 'Slide 2' with two arrow buttons labeled 'Next' and 'Previous'" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-07.png" alt="Box labeled 'Slide 2' with two arrow buttons labeled 'Next' and 'Previous'" aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-7"><strong>Figure 7.</strong> Example for Controls.</span>
     </div>
@@ -170,7 +170,7 @@ For more guidance, see the "Additional Resources" section at the end of this gui
 
 #### Example for Form Elements
 <div class="tablet:grid-col" style="margin: auto; max-width: 60%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-08.png" alt="Form with input fields for name and email. Email field is followed by a red asterisk as a 'required' indicator." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-08.png" alt="Form with input fields for name and email. Email field is followed by a red asterisk as a 'required' indicator." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Example for Form Elements.</span>
     </div>
@@ -213,7 +213,7 @@ For complex images, such as flowcharts, graphs, diagrams, and infographics, foll
 
 #### Example for Charts
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-09.jpg" alt="Example image" aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-09.jpg" alt="Example image" aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-9"><strong>Figure 9.</strong> Example for Charts.</span>
     </div>
@@ -225,7 +225,7 @@ For complex images, such as flowcharts, graphs, diagrams, and infographics, foll
 
 #### Example for Graphs
 <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-10.jpg" alt="Sample scatter plot image with title 'Conformance (c-index) vs. Maturity (m-index)' and caption: Figure 4. Percentage of respondents submitting conformance testing results for the top intranet and internet web pages, electronic documents, and videos (Q78 to Q81)." aria-describedby="figure-10" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-10.jpg" alt="Sample scatter plot image with title 'Conformance (c-index) vs. Maturity (m-index)' and caption: Figure 4. Percentage of respondents submitting conformance testing results for the top intranet and internet web pages, electronic documents, and videos (Q78 to Q81)." aria-describedby="figure-10" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-10"><strong>Figure 10.</strong> Example for Graphs.</span>
     </div>
@@ -240,7 +240,7 @@ For complex images, such as flowcharts, graphs, diagrams, and infographics, foll
 Flow charts, decision trees, and similar diagrams must have alt text that describes the order of the actions or relationships of decisions. For screen reader users, organizational charts may be better conveyed as a bulleted list, or a graphical diagram accompanied by a bulleted list.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 80%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-11.png" alt="Sample image" aria-describedby="figure-11" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-11.png" alt="Sample image" aria-describedby="figure-11" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-11"><strong>Figure 11.</strong> Example for Diagrams.</span>
     </div>
@@ -260,14 +260,14 @@ All watermarks should have low color contrast to make the main text readable for
 
 #### Examples for Watermarks
 <div class="tablet:grid-col" style="margin: auto; max-width: 60%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-12.jpg" alt="A memo with a faint grey watermark that says 'Confidential.' Main text says, 'To: Sales Team. From: Sales Managers. Subject: Quarterly Reports. Status: Confidential.'" aria-describedby="figure-12" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-12.jpg" alt="A memo with a faint grey watermark that says 'Confidential.' Main text says, 'To: Sales Team. From: Sales Managers. Subject: Quarterly Reports. Status: Confidential.'" aria-describedby="figure-12" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-12"><strong>Figure 12.</strong> Example A for Watermarks.</span>
     </div>
 </div>
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 60%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-13.png" alt="A memo with a bright red watermark that says 'Confidential.' Main text says, 'To: Sales Team. From: Sales Managers. Subject: Quarterly Reports.'" aria-describedby="figure-13" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-13.png" alt="A memo with a bright red watermark that says 'Confidential.' Main text says, 'To: Sales Team. From: Sales Managers. Subject: Quarterly Reports.'" aria-describedby="figure-13" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-13"><strong>Figure 13.</strong> Example B for Watermarks.</span>
     </div>
@@ -283,7 +283,7 @@ When a signature is presented as an image, include the word "Signature" and the 
 
 #### Example for Signatures
 <div class="tablet:grid-col" style="margin: auto; max-width: 50%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/authoring-alt-text-figure-14.png" alt="Example image" aria-describedby="figure-14" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/authoring-alt-text-figure-14.png" alt="Example image" aria-describedby="figure-14" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-14"><strong>Figure 14.</strong> Example for Signatures.</span>
     </div>
