@@ -23,7 +23,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title">
@@ -42,7 +42,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title">

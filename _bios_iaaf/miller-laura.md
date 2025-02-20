@@ -10,7 +10,7 @@ position: Senior ICT Accessibility Specialist
 office: Office of Government-wide Policy
 location: Washington, D.C.
 email: laura.b.miller@gsa.gov
-image_url: https://assets.section508.gov/assets/images/bio-images/miller-laura.jpg
+image_url: /assets/images/bio-images/miller-laura.jpg
 iaaf_years: 2024
 ---
 Laura Boniello Miller is a Senior ICT Accessibility Specialist with the Office of Government-wide Policy at the General Services Administration (GSA) providing technical assistance to federal agencies on Section 508. 

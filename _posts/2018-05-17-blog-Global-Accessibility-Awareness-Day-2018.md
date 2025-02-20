@@ -15,7 +15,7 @@ resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---
 
-<img alt="Close-up picture of a computer keyboard and a person's hands hovering over the keys" src="https://assets.section508.gov/files/laptop-keyboard.jpg" style="height:200px;float: right; margin-left:15px;margin-bottom:10px;" />Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities. Over the past year, GSA has made it our mission to transform the way we approach accessible IT in the Federal government.
+<img alt="Close-up picture of a computer keyboard and a person's hands hovering over the keys" src="{{site.baseurl}}/assets/images/laptop-keyboard.jpg" style="height:200px;float: right; margin-left:15px;margin-bottom:10px;" />Global Accessibility Awareness Day, which we celebrate this year on May 17, is an annual celebration and reminder of how products, services and environments are accessible to people with disabilities. Over the past year, GSA has made it our mission to transform the way we approach accessible IT in the Federal government.
 
 It’s been an exciting year in the federal accessibility space, starting with the [Revised 508 Standards][1], which officially went into effect in January 2018. The new standards will help agencies:
 

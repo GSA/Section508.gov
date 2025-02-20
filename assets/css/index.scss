@@ -18,7 +18,7 @@
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-  background-image: url("https://assets.section508.gov/files/images/hero-assessment-fy24.jpg")
+  background-image: url("{{site.baseurl}}/assets/images/hero-assessment-fy24.jpg")
     //  background-position: 50%;
     //  background-size: cover;
 }
@@ -1137,7 +1137,7 @@ div[role=rowheader] {
 #grid-index.vhvl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) 0px -60px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) 0px -60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1146,7 +1146,7 @@ div[role=rowheader] {
 #grid-index.vhl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -255px -60px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -255px -60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1155,7 +1155,7 @@ div[role=rowheader] {
 #grid-index.vhm {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -500px -60px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -500px -60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1164,7 +1164,7 @@ div[role=rowheader] {
 #grid-index.vhh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -750px -60px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -750px -60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1173,7 +1173,7 @@ div[role=rowheader] {
 #grid-index.vhvh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -1000px -60px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -1000px -60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1183,7 +1183,7 @@ div[role=rowheader] {
 #grid-index.hvl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) 0px -300px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) 0px -300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1192,7 +1192,7 @@ div[role=rowheader] {
 #grid-index.hl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -255px -300px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -255px -300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1201,7 +1201,7 @@ div[role=rowheader] {
 #grid-index.hm {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -500px -300px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -500px -300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1210,7 +1210,7 @@ div[role=rowheader] {
 #grid-index.hh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -750px -300px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -750px -300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1219,7 +1219,7 @@ div[role=rowheader] {
 #grid-index.hvh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -1000px -300px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -1000px -300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1229,7 +1229,7 @@ div[role=rowheader] {
 #grid-index.mvl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) 0px -540px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) 0px -540px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1238,7 +1238,7 @@ div[role=rowheader] {
 #grid-index.ml {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -255px -540px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -255px -540px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1247,7 +1247,7 @@ div[role=rowheader] {
 #grid-index.mm {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -500px -540px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -500px -540px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1256,7 +1256,7 @@ div[role=rowheader] {
 #grid-index.mh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -750px -540px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -750px -540px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1265,7 +1265,7 @@ div[role=rowheader] {
 #grid-index.mvh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -1000px -540px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -1000px -540px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1275,7 +1275,7 @@ div[role=rowheader] {
 #grid-index.lvl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) 0px -780px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) 0px -780px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1284,7 +1284,7 @@ div[role=rowheader] {
 #grid-index.ll {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -255px -780px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -255px -780px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1293,7 +1293,7 @@ div[role=rowheader] {
 #grid-index.lm {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -500px -780px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -500px -780px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1302,7 +1302,7 @@ div[role=rowheader] {
 #grid-index.lh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -750px -780px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -750px -780px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1311,7 +1311,7 @@ div[role=rowheader] {
 #grid-index.lvh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -1000px -780px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -1000px -780px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1321,7 +1321,7 @@ div[role=rowheader] {
 #grid-index.vlvl {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) 0px -1020px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) 0px -1020px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1330,7 +1330,7 @@ div[role=rowheader] {
 #grid-index.vll {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -255px -1020px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -255px -1020px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1339,7 +1339,7 @@ div[role=rowheader] {
 #grid-index.vlm {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -500px -1020px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -500px -1020px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1348,7 +1348,7 @@ div[role=rowheader] {
 #grid-index.vlh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -750px -1020px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -750px -1020px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1357,7 +1357,7 @@ div[role=rowheader] {
 #grid-index.vlvh {
   width: 160px;
   height: 160px;
-  background: url(https://assets.section508.gov/assets/images/assessment/fy23/g-index_sprite.png) -1000px -1020px;
+  background: url({{site.baseurl}}/assets/images/assessment/fy23/g-index_sprite.png) -1000px -1020px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -1424,7 +1424,7 @@ div[role=rowheader] {
   padding-left: 20px; 
 }
 .callout-box-check {
-  background-image: url('https://assets.section508.gov/files/images/icon-checkmark.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-checkmark.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1432,7 +1432,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-x {
-  background-image: url('https://assets.section508.gov/files/images/icon-incorrect.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-incorrect.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1440,7 +1440,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-avg {
-  background-image: url('https://assets.section508.gov/files/images/icon-average.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-average.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1448,7 +1448,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-clock {
-  background-image: url('https://assets.section508.gov/files/images/icon-clock.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-clock.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1456,7 +1456,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-figure {
-  background-image: url('https://assets.section508.gov/files/images/icon-figure.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-figure.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1464,7 +1464,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-gear {
-  background-image: url('https://assets.section508.gov/files/images/icon-gear.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-gear.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1472,7 +1472,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-website {
-  background-image: url('https://assets.section508.gov/files/images/icon-website.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-website.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
@@ -1480,7 +1480,7 @@ div[role=rowheader] {
   margin-top:5px;
 }
 .callout-box-clipboard {
-  background-image: url('https://assets.section508.gov/files/images/icon-clipboard.png'); 
+  background-image: url('{{site.baseurl}}/assets/images/icon-clipboard.png'); 
   background-repeat: no-repeat;
   height: 40px;
   width: 40px;
