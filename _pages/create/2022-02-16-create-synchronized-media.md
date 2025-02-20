@@ -32,7 +32,7 @@ format: "HTML (html)"
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
         <a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media">
-            <img alt="Creating Accessible Media" src="https://assets.section508.gov/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
+            <img alt="Creating Accessible Media" src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%">
         </a>
     </div>
 <div class="desktop:grid-col-9">
@@ -57,7 +57,7 @@ format: "HTML (html)"
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
 <hr />
 <p dir="ltr"><strong>What is the difference between open and closed captions?</strong></p>
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
@@ -108,10 +108,10 @@ format: "HTML (html)"
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Audio Described)</strong></p>
 <p dir="ltr">In this example of audio description, the producers planned for the secondary audio track by increasing the length of video between the narration audio track. This results in a better, more equivalent media experience for the viewer.</p>
 <p dir="ltr">Duration: 0h 0:42m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="https://assets.section508.gov/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-ad-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-ad.mp4" type="video/mp4"></video></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="https://assets.section508.gov/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q"><img src="{{site.baseurl}}/assets/images/thumbnails/create-vintage-commercial-thumb.jpg" target="_blank" class="usa-link--external" style="width: 100%;" alt="Vintage Commercial for Paper Towels " /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.youtube.com/watch?v=wsJDV1iXV0Q" target="_blank" class="usa-link--external">Vintage Commercial for Paper Towels </a></strong></p>
 <p dir="ltr">In this example, the audio description was not planned for originally, and has been inserted into the media afterwards by stopping the motion of the video and allowing time for a secondary audio track description of meaningful information.</p>
@@ -183,7 +183,7 @@ format: "HTML (html)"
 <strong>Note:</strong> "B-roll," the raw source media collected to supplement the creation of a pre-recorded video, does not have to meet any Section 508 requirements.
 </div>
 <br />
-<div><img style="width: 100%;" src="https://assets.section508.gov/files/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
+<div><img style="width: 100%;" src="{{site.baseurl}}/assets/images/accessiblke-audio-video-workflow.png" alt="Planning Accessible Audio &amp; Video Media Projects workflow as described in this section." /><br /> <small><em>Figure 1: Planning Accessible Audio &amp; Video Media Projects</em></small></div>
 <br />
 <p><strong>NOTE:</strong> As federal agencies can establish policy and design guidelines which meet or exceed the minimum standards of Section 508 (for example, an agency requires open captions for all videos), producers should confirm agency requirements when planning new media content.</p>
 <br />
@@ -197,11 +197,11 @@ format: "HTML (html)"
 </ul>
 <h3 id="examples-of-user-controls" dir="ltr"><strong>Example of Accessible User Controls&nbsp;</strong></h3>
 <p dir="ltr">The Department of the Interior has developed an open-source media player which conforms with the Revised Section 508 Standard for user controls by ensuring that the caption control (CC) and audio description control (AD) buttons are visible along-side the other user controls (Figure 1).</p>
-<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="https://assets.section508.gov/files/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
+<p class="rtecenter" dir="ltr"><strong><img style="height: 192px; width: 728px;" src="{{site.baseurl}}/assets/images/doi-player-controls.png" alt="Media player controls within a thin rectangular box, containing user controls at the same menu level (left to right): Play/Pause, Mute, Volume, progress, time remaining, Audio Description, Closed Caption, Picture in Picture, and Full Screen. " /></strong></p>
 <p class="rtecenter" dir="ltr"><em>Figure 1: User controls of the Department of the Interior media player</em></p>
 <hr />
 <div class="grid-row grid-gap">
-<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="https://assets.section508.gov/assets/images/thumbnails/nps-preview-thumb.jpg" alt="Restoring our Parks" /></a></strong></div>
+<div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859"><img style="width: 100%" src="{{site.baseurl}}/assets/images/thumbnails/nps-preview-thumb.jpg" alt="Restoring our Parks" /></a></strong></div>
 <div class="desktop:grid-col-9">
 <p dir="ltr"><strong><a href="https://www.nps.gov/media/video/view.htm?id=3DC5AD6C-A202-5DA1-E96E9E08644FF859" target="_blank">Restoring our Parks</a></strong></p>
 <p dir="ltr">In this example, the National Park Service uses a keyboard accessible media player which provides user-selectable controls for closed caption and audio description at the same menu level as the volume. Note how the captions include descriptions of sounds, and the secondary audio track integrates the description of meaningful video content.</p>

@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-thumbnail-soliciting-acr.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This training covers how to identify when you need to create or request an Accessibility Conformance Report (ACR) for an Information and Communication Technology (ICT) product or service. It also covers the steps to take to write an ACR, and how to evaluate an ACR for a product. This training is intended both for those in the federal government who procure ICT and for vendors who provide ICT for federal government contracts.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/assets/online-training/soliciting-and-evaluating-acrs-in-federal-procurement/index.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="{{site.baseurl}}/assets/online-training/soliciting-and-evaluating-acrs-in-federal-procurement/index.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>

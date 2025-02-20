@@ -18,7 +18,7 @@ format: "HTML (html)"
 
 <div class="col-sm-12 col-xs-12 col-lg-6 float-left">
   <p class="margin-bottom-0">
-    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="https://assets.section508.gov/files/InteragencyForum_0.jpg" style="height:200px; padding-right:20px;" /><br>Photo: Vendor exhibition hall
+    <img alt="Photo showing vendors behind tables displaying technology services, and event attendees examining the technology and speaking to vendors" src="{{site.baseurl}}/assets/images/InteragencyForum_0.jpg" style="height:200px; padding-right:20px;" /><br>Photo: Vendor exhibition hall
   </p>
 </div>
 

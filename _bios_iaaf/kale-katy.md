@@ -10,7 +10,7 @@ position: Deputy Administrator
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/kale-katy.png
+image_url: /assets/images/bio-images/kale-katy.png
 iaaf_years: 2022, 2023
 ---
 Katy Kale is the Deputy Administrator of the General Services Administration under the Biden-Harris Administration.

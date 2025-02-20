@@ -26,14 +26,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumb-ms-word.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-thumb-ms-word.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This training covers various techniques to create accessible and navigable documents. You will learn how to use heading styles and table of contents features to improve navigation, write effective image descriptions, and convert complex tables into simple ones for accessibility. Additionally, you will gain knowledge on creating accessible charts, integrating infographics, and creating PDF forms using Microsoft Word. Finally, the course will also discuss the strengths and limitations of the Accessibility Checker in Microsoft Word.</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/assets/online-training/microsoft-word-accessibility-best-practices/story.html" target="_blank" class="usa-button">Open Course</a>
+        <a href="{{site.baseurl}}/assets/online-training/microsoft-word-accessibility-best-practices/story.html" target="_blank" class="usa-button">Open Course</a>
       </div>
     </div>
   </li>

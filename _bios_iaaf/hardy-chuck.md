@@ -10,7 +10,7 @@ position: Chief Architect
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/blank-profile.jpg
+image_url: /assets/images/bio-images/blank-profile.jpg
 iaaf_years: 2023
 ---
 A licensed architect, workplace strategist, and certified construction manager, Mr. Hardy’s career with GSA spans more than 31 years, beginning in GSA’s Great Lakes Region as an architect and project manager. He has since spent time in a variety of leadership positions in the Great Lakes Region and GSA’s Central Office in Washington, DC, including as Director of Design and Construction, and most recently, as GSA’s Acting Chief Architect.

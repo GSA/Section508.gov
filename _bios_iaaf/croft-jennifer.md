@@ -10,7 +10,7 @@ position: Diversity Program Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/croft-jennifer.jpg
+image_url: /assets/images/bio-images/croft-jennifer.jpg
 iaaf_years: 2023
 ---
 Jennifer Croft is a Diversity Program Manager at within OPM. In this position, her role is to advise OPM and federal agency leaders in  recommending concrete strategies and best practices to recruit, hire, include, develop, retain, engage, and motivate a diverse, results-oriented, high-performing workforce. 

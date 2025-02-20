@@ -10,7 +10,7 @@ position: Disability Program Manager (DPM)
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/carr-annette.png
+image_url: /assets/images/bio-images/carr-annette.png
 iaaf_years: 2022
 ---
 Annette Carr is a name that is not new to those in the Section 508 and assistive technology arenas. She is currently the Disability Program Manager (DPM) at the Transportation Security Administration (TSA). Prior to her arrival at TSA in July 2020, she held the position of Acting DPM for the Department of Transportation (DOT), and before that she was a Reasonable Accommodations Analyst in DOT’s Disability Resource Center (DRC).

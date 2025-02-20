@@ -128,21 +128,21 @@ To ensure accessibility statements are available to visitors at any point in the
 Websites that conform with the [U.S. Web Design System](https://designsystem.digital.gov) should use the [`Identifier`](https://designsystem.digital.gov/components/identifier/) component, which communicates a site’s parent, displays agency links required by federal laws and policies, and includes the accessibility statement by default (Figure 1).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-  <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/policy-web-statement-uswds.png" alt="USWDS Identifier" aria-describedby="uswds-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
+  <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/policy-web-statement-uswds.png" alt="USWDS Identifier" aria-describedby="uswds-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="uswds-statement">Figure 1: U.S. Web Design System (USWDS) “Identifier” component with the accessibility statement using the link text “Accessibility statement” among other links such as FOIA requests, No FEAR Act data, and Privacy policy.</span></div>
 </div>
 
 Websites not utilizing the USWDS’s Identifier component should ensure a link to an accessibility statement is located in the sitewide footer of each page using “Accessibility” or “Accessibility Statement” as the link text (Figure 2).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-  <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/policy-web-statement-usab.png" alt="USAB Accessibility Statement" aria-describedby="usab-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
+  <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/policy-web-statement-usab.png" alt="USAB Accessibility Statement" aria-describedby="usab-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="usab-statement">Figure 2: U.S. Access Board's website accessibility statement using the link text “Accessibility” among seven other links such as Guidance Documents, FOIA, and Privacy.</span></div>
 </div>
 
 <strong>Notice:</strong> Per M-23-22, agencies should not link to digital accessibility statements from a sub-page, such as a “Website Policies & Notices” (Figure 3). Agencies must link directly to the digital accessibility statement from the website footer (Figure 1).
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-  <div class="margin-top-1"><img src="https://assets.section508.gov/files/images/policy-web-statement-figure-3.png" alt="Example sub-page statement" aria-describedby="figure-3-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
+  <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/policy-web-statement-figure-3.png" alt="Example sub-page statement" aria-describedby="figure-3-statement" class="border-2px border-base-light shadow-2 padding-1"></div>
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3-statement">Figure 3: Example of an accessibility statement using the link text “Website Policies & Notices” among other links such as Privacy Policy, FOIA, No Fear Act and Contact Us.</span></div>
 </div>
 

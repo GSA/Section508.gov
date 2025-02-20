@@ -10,7 +10,7 @@ position: Deputy Secretary
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/bradsher-tanya.jpg
+image_url: /assets/images/bio-images/bradsher-tanya.jpg
 iaaf_years: 2023
 ---
 The Honorable Tanya Bradsher was nominated by President Biden to serve as the 10th Deputy Secretary of Veterans Affairs. Ms. Bradsher’s nomination was confirmed by the United States Senate on September 14, 2023, and she was sworn in on September 20, 2023. In this role, Deputy Secretary Bradsher helps lead the Department of Veterans Affairs as it continues to deliver more care and more benefits to more Veterans than ever before in the nation’s history. 

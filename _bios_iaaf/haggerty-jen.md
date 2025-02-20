@@ -10,6 +10,6 @@ position: Section 508 Program Manager
 office: 
 location: Arlington, VA
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/haggerty-susan.jpg
+image_url: /assets/images/bio-images/haggerty-susan.jpg
 iaaf_years: 2023
 ---

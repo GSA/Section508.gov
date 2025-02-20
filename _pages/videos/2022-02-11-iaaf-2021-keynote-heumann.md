@@ -20,7 +20,7 @@ format: "Video & Synchronized Media (video)"
 
 A conversation with <a href="https://www.section508.gov/iaaf/biographies-2021#oneal">Andrea M. O'Neal</a>, Senior Advisor to the Administrator at the General Services Administration, and <a href="https://www.section508.gov/iaaf/biographies-2021#heumann">Judith E. Heumann</a>, International Disability Rights Activist.
 
-<video controls="controls" poster="https://assets.section508.gov/assets/images/thumbnails/iaaf-2021-keynote-heumann-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2021-keynote-heumann-SD-OC.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/iaaf-2021-keynote-heumann-poster.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://training.section508.gov/assets/videos/iaaf-2021-keynote-heumann-SD-OC.mp4" type="video/mp4" /></video>
 
 ## Related Videos
 

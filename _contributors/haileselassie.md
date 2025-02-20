@@ -11,7 +11,7 @@ affiliation_long: National Institutes of Health
 position: Digital Accessibility Program Manager
 location: Bethesda, M.D. 
 email: antonio.haileselassie@nih.gov
-image_url: https://assets.section508.gov/assets/images/bio-images/haileselassie-antonio.png
+image_url: /assets/images/bio-images/haileselassie-antonio.png
 permalink: /:collection/:name:output_ext
 ---
 Mr. Antonio Haileselassie is the Section 508 Program Manager for the National Institutes of Health and has worked for over 20 years in the field of Digital Accessibility.  He spent 16 years at the National Aeronautics and Space administration as an IT Accessibility Specialist and Subject Matter Expert, including providing support and guidance to NASA Solutions for Enterprise-Wide Procurements (SEWP) Program on accessible acquisitions. Prior to NASA, Antonio cultivated his technical expertise as a software developer focusing on accessible software design, development, and remediation.
