@@ -1,9 +1,7 @@
 <!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
 {% if site.dap.agency %}
-<script
-  id="_fed_an_ua_tag"
-  src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
-></script>
+<script id="_fed_an_ua_tag"
+        src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"></script>
 {% endif %}
 
 {% if site.ga.ua %}
@@ -23,5 +21,24 @@
 </script>
 {% endif %}
 
-{% asset uswds.min.js %}
-{% asset app.js %}
+<script src="{{ site.baseurl }}/assets/js/uswds.min.js?{{ site.time | date: '%s%N' }}"></script>
+<script src="{{ site.baseurl }}/assets/js/app.js?{{ site.time | date: '%s%N' }}"></script>
+
+{% comment %}
+- The script below hides the alert banner for time-sensitive alerts.
+- Comment out code when not in use.
+{% endcomment %}
+<script>
+  $(document).ready(function(){
+    // Check if the user already dismissed alert banner
+    if (window.localStorage.getItem('dismiss_alert')) {
+        $('#alert_banner').hide();
+    }
+
+    $("#dismiss_alert").click(function(){
+        // Save on LocalStorage
+        window.localStorage.setItem('dismiss_alert', true);
+        $('#alert_banner').hide();
+    }); 
+  });
+</script>

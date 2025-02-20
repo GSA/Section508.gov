@@ -1,0 +1,29 @@
+<span class="usa-tooltip width-full">
+  <a 
+      *ngIf="buttonIsEnabled" 
+      download="{{saveAsInfo.fileName}}" 
+      [href]="dataUri" 
+      class="usa-button usa-button--accent-warm usa-tooltip__trigger"
+      data-position="right" 
+      title="" 
+      aria-describedby="tooltip-307972" 
+      tabindex="0">
+      {{saveAsInfo.btnName}}
+  </a>
+  <span 
+    class="usa-tooltip__body" 
+    id="tooltip-307972" 
+    role="tooltip" 
+    aria-hidden="true">
+    This allows you to come back later and pick up where you left off.
+  </span>
+</span>
+ 
+
+<button 
+  *ngIf="!buttonIsEnabled"  
+  class="usa-button usa-button--accent-warm usa-tooltip" 
+  data-position="top"
+  title="Top"
+  disabled>{{saveAsInfo.btnName}}
+</button>

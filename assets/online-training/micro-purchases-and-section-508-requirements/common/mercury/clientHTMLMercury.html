@@ -1,0 +1,284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+	<title>Mercury</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=1024">
+
+
+	<script type="text/javascript" ></script>
+<style type="text/css" charset="utf-8">
+
+
+
+
+.style2 {font-family: "Times New Roman", Times, serif}
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #666666;
+}
+.style6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	
+	}
+
+.initial2{font-weight:bold;background-color:gold}
+
+style7{      border-width: 20px;
+ border-style: solid;
+ border-color: 	red;
+ }
+ #login .text {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ width: 100px;
+ margin-right: 6px;
+
+}
+
+
+
+
+
+</style>
+
+</head>
+<script type="text/javascript" charset="utf-8">
+
+	var moduleIDNew = '';
+	var courseIDNew	= '';
+
+	function validateAndSubmitForm() {
+		var frm = document.forms[0];
+		
+		var curFile = window.opener.file;
+		var curScreen = window.opener.screenXofY;
+		
+		frm.UpdateSWFile.value = curFile;
+		frm.UpdateScreenLocation.value = curScreen;
+		
+		try {
+			moduleIDNew=window.opener.lessonMercuryId;
+		}
+		catch (err){}
+		
+		document.getElementById("UpdateModuleID").value=moduleIDNew;
+		
+		try {
+			courseIDNew=window.opener.courseMercuryId;
+		}
+		catch (err){}
+		
+		document.getElementById("UpdateProjectID").value=courseIDNew;
+		
+		
+		frm.UpdateCategory.value     = getRadioGrpVal(frm, "category");
+		//frm.UpdateChangeDefect.value = getRadioGrpVal(frm, "changeDefect");
+
+		var userNameElem = document.getElementById("ExternalUserName");
+		if (userNameElem.value == "") {
+			alert("Please enter your name.");
+			return;
+		}
+
+		if (frm.UpdateCategory.value == "") {
+			alert("Please enter a category for the issue.");
+			return;
+		}
+
+		//if (frm.UpdateChangeDefect.value == "") {
+		//	alert("Please indiacte if this is a change or a defect.");
+		//	return;
+		//}
+
+		if (frm.UpdateDescription.value == "") {
+			alert("Please enter a description of the issue.");
+			return;
+		}
+		frm.UpdateDescription.value=frm.UpdateDescription.value.replace(/</g,"&lt;");
+		//update value of module id
+		
+		/*var num = document.getElementById("TaskNumber").value;
+		switch( num )
+		{
+			case 1: moduleIDNew = 1174;
+				break;
+			case 2: moduleIDNew = 1208;
+				break;
+			case 3: moduleIDNew = 1238;
+				break;
+			case 4: moduleIDNew = 1265;
+				break;
+			case 5: moduleIDNew = 1295;
+				break;
+			case 6: moduleIDNew = 1296;
+				break;
+			case 7: moduleIDNew = 1297;
+				break;
+			case 8: moduleIDNew = 1298;
+				break;
+			case 0: moduleIDNew = 1346;
+				break
+			default: moduleIDNew = 1174;
+				break;
+			
+		}
+		//alert( moduleIDNew );
+		document.getElementById("UpdateModuleID").value = moduleIDNew;
+		alert( num );
+		*/
+		frm.submit();
+		clearForm();
+	}
+
+
+	function clearForm() {
+		//alert("clear form!!!");
+
+		var frm = document.forms[0];
+
+		frm.UpdateDescription.value = "";
+	}
+
+	function exit() {
+		window.close();
+	}
+
+	function getRadioGrpVal(frm, id) {
+		for (var i = 0; i < frm[id].length; i++) {
+			if (frm[id][i].checked) {
+				return frm[id][i].value;
+			}
+		}
+		return "";
+	}
+	
+	function checkLength(formItem, n){
+		//alert(frm.UpdateDescription.value);
+		
+			
+		if (formItem.value.length >= n)
+		{
+			formItem.value = formItem.value.substring(0,n);
+			alert("Max Characters exceeded");
+			
+		}
+		document.getElementById("charCount").innerHTML = formItem.value.length+"";
+		
+	
+	
+	
+	}
+
+
+</script>
+
+
+
+<body class=#0066FF;>
+
+
+
+
+ <body>
+<div id="header" class="grid2cola">
+
+
+ </div>
+ <img src="mercurybanner.jpg" alt="Mercury Banner: Quality, Speed, and Accuracy. Powered by Carney" />
+ <table border="0"  BACKGROUND="mercurybkgdbox.jpg"   width=359 height=300>
+ <tr>
+  <td width="359">
+
+
+<form name="frm" ACTION="http://atlas.teamcarney.com/cgi-bin/mercury/mercury.pl" METHOD="POST"  target="responseFrame">
+	<input type="hidden" name="TaskNumber"    	   id="TaskNumber" value="1">
+	<input type="hidden" name="UpdateProjectID"    id="UpdateProjectID" value="">
+	<input type="hidden" name="UpdateModuleID"     id="UpdateModuleID" value="">
+	<input type="hidden" name="MercuryAction"      id="MercuryAction" value="SaveIssue">
+	<input type="hidden" name="FromFlash"          id="FromFlash" value="1">
+	<input type="hidden" name="FromHTMLClientMerc" id="FromHTMLClientMerc" value="1">
+	<input type="hidden" name="UpdateIssueID"      id="UpdateIssueID" value="-1">
+<!--	<input type="hidden" name="UpdateChangeDefect" id="UpdateChangeDefect" value=""> -->
+	<input type="hidden" name="UpdateCategory"     id="UpdateCategory" value="">
+	<input type="hidden" name="UpdateStatus"     id="UpdateStatus" value="Open">
+	<input type="hidden" name="UpdateSource"     id="UpdateSource" value="Internal">
+   <input type="hidden" name="UpdateScreenLocation"     id="UpdateScreenLocation" value="">
+   <input type="hidden" name="UpdateSWFile"     id="UpdateSWFile" value="">
+
+
+		<div style="position:relative; left: 8px;">
+		<p><span class="style5"><label for="ExternalUserName">Reviewer Name.</label></span></center>
+		  <input name="ExternalUserName" type="text" id="ExternalUserName" tabindex="1" value="" size="40" alt="Enter your name">
+		</p>
+        </div>
+		<div id="category" class="yui-buttongroup">&nbsp;
+	 	 <input id="audio" type="radio" name="category" value="Audio" ><span class="style6"><label for="audio">Audio</label></span>
+	     <input id="graphic" type="radio" name="category" value="Graphic"><span class="style6"><label for="graphic">Graphic</label></span>
+	     <input id="functionality" type="radio" name="category" value="Functionality"><span class="style6"><label for="functionality">Functionality</label></span>
+	     <input id="text" type="radio" name="category" value="Text"><span class="style6"><label for="text">Text</label></span>
+
+ 		</div>
+		
+		<div id="defect" class="yui-buttongroup">&nbsp;
+	 	 <input id="change" type="radio" name="UpdateChangeDefect" value="Change" ><span class="style6"><label for="change">Change</label></span>
+	     <input id="defect" type="radio" name="UpdateChangeDefect" value="Defect"><span class="style6"><label for="defect">Defect</label></span>
+	     
+
+ 		</div>
+		<div id="global" class="yui-buttongroup">&nbsp;
+	 	 Global:
+		  <input id="yesGlobal" type="radio" name="UpdateGlobal" value="1" ><span class="style6"><label for="yesGlobal">Yes</label></span>
+	      <input id="NoGlobal" type="radio" name="UpdateGlobal" value="0" checked><span class="style6"><label for="NoGlobal">No</label></span>
+		 
+		 
+	     </div>
+		
+		<div id="Team" class="yui-buttongroup">&nbsp;
+	 	 <input id="cm" type="radio" name="UpdateTeam" value="CM" ><span class="style6"><label for="cm">CM</label></span>
+	     <input id="id" type="radio" name="UpdateTeam" value="PSD"><span class="style6"><label for="id">PSD</label></span>
+	     <input id="da" type="radio" name="UpdateTeam" value="DA"><span class="style6"><label for="da">DA</label></span>
+	     <input id="se" type="radio" name="UpdateTeam" value="SE"><span class="style6"><label for="se">SE</label></span>
+		 <input id="qa" type="radio" name="UpdateTeam" value="QA"><span class="style6"><label for="qa">QC</label></span>
+
+ 		</div>
+ 		<br/>
+<!--
+ 			<div id="changeDefect">&nbsp;
+			  <input id="change" type="radio" name="changeDefect" value="Change" ><span class="style6">Change</span>
+	    	   <input id="defect" type="radio" name="changeDefect" value="Defect"><span class="style6">Defect</span>
+ 		</div>
+ 		-->
+  <br/>
+
+
+
+
+			
+				<span class="style6"><label for="UpdateDescription">&nbsp; Comments.&nbsp;<span id="charCount">0</span>/8000<br></label></span>
+			
+
+			&nbsp;
+			<textarea name="UpdateDescription" rows="3" id="UpdateDescription" cols="40" wrap="virtual" onkeyup="checkLength(this,8000)" value="" class="full required" ></textarea>
+</form>
+    &nbsp;&nbsp;<input  name="submit" onClick='validateAndSubmitForm()' value="Submit" class="" type="button" >
+    &nbsp;<input  name="submit2" onClick='exit()' value="Exit" class="" type="button" >
+    &nbsp;<input type="button" value="Help" onclick="location.href='http://atlas.teamcarney.com/cgi-bin/mercury508/MercuryHelp.doc'">
+     &nbsp;<input type="button" value="Guide" onclick="location.href='http://atlas.teamcarney.com/cgi-bin/mercury508/MercuryUserGuide_HTML.docx'">
+     &nbsp;<input type="button" value="Review" onclick="window.open('http://atlas.teamcarney.com/cgi-bin/mercury508/mercury.pl?ProjectID=1282&ModuleID=1553&IssueID=-1')"></td>
+ </tr>
+</table>
+
+
+<div style="display: none">
+	<iframe id="responseFrame" name="responseFrame" src="javascript:void(0);">
+  </iframe>
+</div>
+
+</body>
+</html>

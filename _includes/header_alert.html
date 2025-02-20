@@ -1,0 +1,20 @@
+<section id="alert_banner" aria-label="Special Notification Banner" class="page-landing-page layout-demo">
+  <div class="usa-banner__header bg-primary-lighter">
+    <div class="usa-banner__inner grid-row">
+      <div class="grid-col-11 font-sans-md">
+        {{ site.data.alert.message | markdownify }}
+      </div>
+      {% if site.data.alert.dismissible == true %}
+      <div class="grid-col-fill">
+        <button id="dismiss_alert" type="button" class="usa-button float-right margin-right-05 primary-background-color padding-1 font-mono-sm" aria-label="Dismiss alert banner" aria-controls="alert_banner">
+          <!-- <svg class="usa-icon usa-icon--size-3" role="img" aria-labelledby="dismiss-title">
+            <title id="dismiss-title">Dismiss message</title>
+            <use xlink:href="/assets/img/sprite.svg#close"></use> 
+          </svg> -->
+          X
+        </button>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>

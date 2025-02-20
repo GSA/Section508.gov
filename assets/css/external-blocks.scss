@@ -1,0 +1,176 @@
+---
+---
+// $theme-image-path: "https://www.section508.gov/assets/img";
+// $theme-font-path: "https://gsa.github.io/openacr-editor-stage/fonts";
+// $theme-show-notifications: false;
+// @import "scss/packages/required";
+// @import "scss/packages/global";
+// @import "scss/packages/uswds-components";
+// @import "scss/packages/uswds-utilities";
+@use 'uswds' with (
+$theme-image-path: "https://www.section508.gov/assets/img",
+$theme-font-path: "https://gsa.github.io/openacr-editor-stage/fonts",
+$theme-show-notifications: false,
+$theme-font-type-sans: "public-sans",
+);
+
+body {
+    overflow-x: hidden;
+}
+
+    @media screen and (min-width: 640px) {
+        .usa-banner__button[aria-expanded="true"]::after {
+            background-color: transparent !important;
+            background-image: url("../img/angle-arrow-up-primary.svg"), linear-gradient(transparent, transparent);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 0.5rem;
+            content: "";
+            display: inline-block;
+            width: 0.5rem;
+            margin-left: 4px;
+            transform: rotate(0deg) !important;
+            mask: none !important;
+        }
+
+        .usa-banner__button[aria-expanded="true"]:hover::after {
+            background-image: url("../img/angle-arrow-up-primary-hover.svg"), linear-gradient(transparent, transparent);
+            background-color: transparent !important;
+            transform: rotate(0deg) !important;
+            mask: none !important;
+        }
+
+        .usa-banner__button::after {
+            background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 0.5rem;
+            content: '';
+            display: inline-block;
+            width: 0.5rem;
+            margin-left: 4px;
+            background-color: transparent !important;
+            mask: none !important;
+        }
+
+        .usa-banner__button:hover::after {
+            background-image: url("../img/angle-arrow-down-primary-hover.svg"), linear-gradient(transparent, transparent);
+            background-color: transparent !important;
+            mask: none !important;
+        }
+    }
+
+    @media screen and (max-width: 640px) {
+        .usa-banner__button[aria-expanded="true"]::after {
+            border: 0;
+            background-image: url("../img/close-blue-60v-alt.svg"), linear-gradient(transparent, transparent);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 1rem;
+            content: '';
+            display: inline-block;
+            height: 3rem;
+            width: 3rem;
+            margin-left: 0;
+            background-color: transparent !important;
+            mask: none !important;
+        }
+
+        .usa-banner__header-action::after {
+            background-image: url("../img/angle-arrow-down-primary.svg"), linear-gradient(transparent, transparent);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 0.5rem;
+            content: '';
+            display: inline-block;
+            height: 0.5rem;
+            width: 0.5rem;
+            margin-left: 2px;
+            background-color: transparent !important;
+            mask: none !important;
+        }
+    }
+
+    .usa-nav__secondary-links a:hover {
+        color: #005ea2 !important;
+        text-decoration: underline;
+    }
+
+    .usa-navbar {
+        height: 4rem;
+    }
+
+    .usa-nav__secondary-links a,
+    .usa-nav__secondary-links a:visited {
+        color: #71767a;
+    }
+
+    .usa-banner__header-text, .usa-banner__header-action {
+        font-size: 0.75rem;
+    }
+
+    .usa-nav__secondary-item a {
+        font-size: 14.08px;
+    }
+
+    .usa-nav__primary > .usa-nav__primary-item > a {
+        color: #71767a;
+        font-size: 14.08px;
+    }
+
+    .primary-background-color {
+        background-color: #2672de;
+    }
+
+    @media (min-width: 64em) {
+        .usa-banner__inner, .usa-navbar, .usa-nav__inner, .usa-footer__primary-section .grid-container {
+            padding-left: 1.25rem !important;
+        }
+
+        .usa-nav__primary > .usa-nav__primary-item > a:hover {
+            color: #098850;
+        }
+
+        .usa-header--extended .usa-nav__primary-item > .usa-current::after, .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+            background-color: #098850;
+        }
+
+        .usa-identifier__section {
+            margin-left: -1.25rem !important;
+        }
+    }
+
+    .usa-footer__primary-section p, .usa-identifier__identity p, .usa-identifier__container {
+        font-size: 16px;
+    }
+
+    .add-list-reset li {
+        margin-bottom: 0px !important;
+    }
+
+    .add-list-reset li a {
+        color: #1763cf !important;
+        font-size: 16px;
+    }
+
+    .add-list-reset li a[target="_blank"]:after {
+        background-color: transparent !important;
+        mask: none !important;
+    }
+
+    .usa-identifier__required-links-item a {
+        font-size: 15.04px;
+    }
+
+    .usa-nav__secondary-item + .usa-nav__secondary-item {
+        border-left: none !important;
+    }
+
+#footer-508 {
+    font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+//removed search bar separators
+.usa-nav__secondary-item + .usa-nav__secondary-item {
+    border-left: none !important; 
+  }

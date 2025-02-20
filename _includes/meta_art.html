@@ -1,0 +1,67 @@
+{% comment %}
+You shouldn't have to edit this page very often. But if you want to modify some of the meta-data for the
+site, this is the place to do it.
+{% endcomment %}
+
+<head>
+  <!-- Basic Page Needs
+    ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="noindex, nofollow">
+  <!-- Mobile Specific Metas
+    ================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title and meta description
+    ================================================== -->
+  <title>{{page.title}} | {{site.title}}</title>
+  <meta property="og:title" content="{{site.title}}">
+  <meta name="description" content="{{site.description}}">
+  <meta property="og:description" content="{{site.description}}">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{site.twitter}}" />
+  <meta name="twitter:title" content="{{site.title}}" />
+  <meta name="twitter:description" content="{{site.description}}" />
+
+  <meta property="og:type" content="article">
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	
+  <!-- ART-specific meta, links, and scripts -->
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Favicons
+    ================================================== -->
+  <link rel="shortcut icon" type="image/ico" href="{{site.baseurl}}/assets/images/favicon.ico" />
+  <link rel="icon" type="image/png" href="{{site.baseurl}}/assets/images/favicon.ico" />
+
+  <link rel="icon" type="image/png" sizes="192x192" href="{{site.baseurl}}/assets/images/android-chrome-192x192.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/assets/images/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/assets/images/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/assets/images/favicon-16x16.png" />
+  <link rel="manifest" href="{{site.baseurl}}/assets/images/site.webmanifest" />
+  <!-- CSS
+    ================================================== -->
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/index.css?{{ site.time | date: '%s%N' }}">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="jquery.steps.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="modal.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+
+    <!-- Custom Meta Data
+    ================================================== -->
+    <meta name="topic" content="{{ page.topic }}">
+    <meta name="sub-topic" content="{{ page.sub_topic }}">
+    <meta name="audience" content="{{ page.audience | join: ', ' }}">
+    <meta name="resource_type" content="{{ page.resource_type }}">
+    <meta name="format" content="{{ page.format }}">
+</head>

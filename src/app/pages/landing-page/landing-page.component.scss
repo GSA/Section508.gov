@@ -1,0 +1,18 @@
+.art-btn{
+    margin-left:0.5rem;
+    @media  screen and  (max-width: 414px) {
+        margin-left: 0rem;
+        margin-top: 0.5rem;
+     }
+
+}
+
+.art-flex{
+    display: flex;
+    justify-content: space-evenly;
+    @media  screen and  (max-width: 414px) {
+        display: block;
+        margin-left: 0rem;
+        margin-top: 0.5rem;
+     }
+}

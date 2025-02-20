@@ -1,0 +1,32 @@
+:host {
+  display: inline-block;
+  div {
+    position: relative;
+    margin: 1em;
+    border: 2px solid blue;
+    border-radius: 4px;
+    padding: 0.5em;
+    width: fit-content;
+    max-width: 7em;
+
+    &:after {
+      position: absolute;
+      content: attr(data-index);
+      background-color: white;
+      top: -.7em;
+      left: .8em;
+      padding: 0 0.5em;
+    }
+
+    span {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      abbr {
+        text-decoration: none;
+      }
+    }
+  }
+}
