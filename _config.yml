@@ -18,19 +18,18 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: Section508.gov
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  Information about the Section508.gov website, GSA’s Government-wide IT Accessibility Team, and guidance to Federal agencies on accessible information and communication technology (ICT).
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com. 
+url: "https://www.section508.gov" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+#twitter: 18F
 
 #################################################################
 #
@@ -66,7 +65,7 @@ twitter: 18F
 #
 #################################################################
 dap:
-  # agency: your-agency
+   agency: GSA
 
   # Optional
   # subagency: your-subagency
@@ -77,28 +76,28 @@ ga:
 
 # Site Navigation
 primary_navigation:
-  - name: Home
-    url: /
-  - name: Blog
-    url: /blog/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
-    children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+  - name: Policy & Management
+    url: /manage/
+  - name: Acquisition
+    url: /buy-sell/
+  - name: Content Creation
+    url: /create/
+  - name: Design & Develop
+    url: /develop/
+  - name: Testing
+    url: /test/
+  - name: Training, Tools & Events
+    url: /training/
+
 
 secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+  - name: Blogs & Updates
+    url: /blog/
+  - name: My Agency’s 508 PM
+    url: /tools/program-manager-listing/
+  - name: About Us
+    url: /content/about-us/
+
 
 # Search.gov configuration
 #
@@ -111,13 +110,13 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # replace this with your search.gov account
-  affiliate: federalist-uswds-example
+  affiliate: gsa-section508-accessibility
 
   # replace with your access key
   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # this renders the results within the page instead of sending to user to search.gov
-  inline: true
+  inline: false
 
 ##########################################################################################
 # The values below here are more advanced and should only be
@@ -128,6 +127,14 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  events:
+    output: true
+    future: true
+  contributors:
+    output: true
+    permalink: /:collection/:name:output_ext
+  bios_iaaf:
+    output: false
 
 permalink: pretty
 
@@ -175,12 +182,6 @@ pagination:
   trail:
     before: 2
     after: 2
-  # Optional, the default file extension for generated pages (e.g html, json, xml).
-  # Internally this is set to html by default
-  extension: html
-  # Optional, the default name of the index file for generated pages (e.g. 'index.html')
-  # Without file extension
-  indexpage: "index.html"
 
 exclude:
   - package.json
@@ -193,10 +194,28 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - docker-compose.yml
+  - src
+  - angular-build.sh
+  - angular.json
+  - karma.conf.js
+  - tsconfig.app.json
+  - tsconfig.json
+  - tsconfig.spec.json
 
-assets:
-  sources:
-    - node_modules/uswds/dist/img
-    - node_modules/uswds/dist/js
-    - node_modules/uswds/dist/scss
-    - node_modules/netlify-cms/dist
+autoprefixer:
+  browsers:
+    - "> 2%"
+    - "last 2 versions"
+    - "IE 11"
+    - "not dead"
+
+sass:
+  sass_dir: _sass
+  load_paths:
+    - node_modules/@uswds/uswds/packages
+  sourcemap: development
+  quiet_deps: true
+  style: compressed
+  verbose: true
+

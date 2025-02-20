@@ -1,0 +1,10 @@
+
+.usa-nav__secondary-item + .usa-nav__secondary-item {
+  border-left: none !important; 
+}
+
+@media screen and (max-width: 1023px)  {
+    .usa-navbar, .usa-menu-btn{
+      height: 4rem;
+    }
+}

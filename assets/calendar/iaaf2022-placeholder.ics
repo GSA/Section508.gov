@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220812T130415Z
+UID:1660309281621-32368@ical.marudot.com
+DTSTART;TZID=America/New_York:20221011T100000
+DTEND;TZID=America/New_York:20221011T160000
+SUMMARY:Annual Interagency Accessibility Forum 2022 - Workshops
+URL:https://www.section508.gov/iaaf
+DESCRIPTION:This is a placeholder for the 2022 IAAF. If you are not yet registered for the event, visit https://www.section508.gov/iaaf to register and receive a personalized calendar invitation closer to the date of the event.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T130415Z
+UID:1660309389744-22245@ical.marudot.com
+DTSTART;TZID=America/New_York:20221012T120000
+RRULE:FREQ=DAILY;UNTIL=20221013T160000Z
+DTEND;TZID=America/New_York:20221012T160000
+SUMMARY:Annual Interagency Accessibility Forum 2022
+URL:https://www.section508.gov/iaaf
+DESCRIPTION:This is a placeholder for the 2022 IAAF. If you are not yet registered for the event, visit https://www.section508.gov/iaaf to register and receive a personalized calendar invitation closer to the date of the event.
+END:VEVENT
+END:VCALENDAR

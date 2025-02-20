@@ -8,16 +8,16 @@ where we provide an easy way to manage your navigation system
     {% include logo.html %}
     <button class="usa-menu-btn">Menu</button>
   </div>
-  <nav role="navigation" class="usa-nav">
+  <nav id="site-nav" role="navigation" class="usa-nav" aria-label="Primary Site Navigation">
     <div class="usa-nav__inner">
-      <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
+        <button class="usa-nav__close"><img alt="close" src="{{ site.baseurl }}/assets/img/close.svg"></button>
       <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary_navigation %}
         {% unless nav_item.children %}
         {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
         {% assign linkdir = nav_item.url |  replace: "/", ""  | lstrip %}
         <li class="usa-nav__primary-item">
-          <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+          <a aria-label="{{ nav_item.name | escape }} primary navigation" class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}" onclick="return navigate(this)"
             href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
         </li>
         {% else %}
@@ -41,7 +41,7 @@ where we provide an easy way to manage your navigation system
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
+            <a href="{{ nav_item.url | prepend: site.baseurl }}" class="external-link" onclick="return navigate(this)">{{ nav_item.name | escape }}</a>
           </li>
           {% endfor %}
         </ul>

@@ -1,0 +1,6 @@
+#USE THIS FILE TO DISPLAY MESSAGES AT THE TOP OF ALL PAGES ON THE WEBSITE
+display: false #Use 'true' or 'false' to show or hide alert message
+dismissible: true #Use 'true' or 'false'
+reset_dismiss: 2024-02-20 #Date of alert or alert update 'YYYY-MM-DD' as the local storage value that manages the dismissibility
+#When using <strong> for message, use <strong class="text-secondary-darker">
+message: '<strong class="text-secondary-darker">NOTICE</strong>: Due to the lapse in federal funding, this website will not be actively managed. <a href="/important-notice/">Read more</a>.'

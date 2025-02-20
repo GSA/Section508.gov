@@ -234,3 +234,92 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in [CONT
 > All contributions to this project will be released under the CC0 dedication.
 > By submitting a pull request, you are agreeing to comply with this waiver of
 > copyright interest.
+
+# External Blocks Integration Documentation
+
+## Overview
+
+The External Blocks feature provided by Section 508 offers functionality to seamlessly integrate the header and footer elements from the Section 508 website into external projects. This documentation outlines the steps required to incorporate these elements into your website.
+
+## Integration Steps
+
+To integrate the Section 508 header and footer into your website, follow these steps:
+
+### 1. Include Stylesheet and JavaScript Files
+
+Add the following stylesheet and JavaScript files to your website's HTML code:
+
+```html
+<script src="https://www.section508.gov/assets/js/external-508-blocks.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.section508.gov/assets/css/external-blocks.css">
+```
+
+### 2. Place Div Elements
+Place the following div elements within your HTML where you want the Section 508 blocks to appear:
+
+- `<div id="header-508"></div>`: This div will display the Section 508 header.
+- `<div id="footer-508"></div>`: This div will display the Section 508 footer.
+
+### Example
+
+Here's an example of how to integrate the Section 508 header and footer into your HTML code:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <!-- Include Section 508 stylesheet and JavaScript -->
+    <script src="https://www.section508.gov/assets/js/external-508-blocks.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.section508.gov/assets/css/external-blocks.css">
+</head>
+<body>
+    <!-- Section 508 Header -->
+    <div id="header-508"></div>
+    
+    <!-- Your Website Content Goes Here -->
+    
+    <!-- Section 508 Footer -->
+    <div id="footer-508"></div>
+</body>
+</html>
+
+```
+
+### Notes
+
+- Ensure that your website's design accommodates the integration of the Section 508 header and footer appropriately.
+
+# ART
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build Locally
+
+Run `ng build:dev` to build the project. The build artifacts will be stored in the `art/` directory.
+
+## Dev Build
+
+Run `npm run build:dev` to build the project with configurations for the development environment. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

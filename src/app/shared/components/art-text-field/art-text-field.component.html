@@ -1,0 +1,44 @@
+<div
+  class="usa-form-group"
+  [ngClass]="{ 'usa-form-group--error': displayError() }"
+  [hidden]="hidden"
+>
+  <div class="margin-bottom-0">
+    <h3 [id]="formData?.controlName">{{ formData?.title }}</h3>
+  </div>
+  <label
+    *ngIf="formData?.label"
+    class="usa-label"
+    [for]="'input' + formData?.controlName"
+    >{{ formData?.label }}</label
+  >
+  <span
+    class="usa-checkbox__label-description usa-hint"
+    *ngIf="formData?.description"
+    >{{ formData?.description }}</span
+  >
+  <span
+    *ngIf="displayError()"
+    class="usa-error-message"
+    role="alert"
+    for="input-error"
+    >{{ displayError() }}</span
+  >
+  <input
+    [maxlength]="maxLength"
+    [name]="formData?.controlName"
+    class="usa-input"
+    [ngClass]="{ 'usa-input--error': displayError() }"
+    autocomplete="off"
+    [id]="'input' + formData?.controlName"
+    [attr.aria-label]="
+      formData?.ariaLabel
+        ? formData?.ariaLabel
+        : formData?.title + ' ' + fromControl.value
+    "
+    [placeholder]="formData?.placeholder"
+    name="input"
+    [formControl]="fromControl"
+    (focusout)="onBlur($event, formData?.controlName, formData?.errorMessages)"
+  />
+</div>

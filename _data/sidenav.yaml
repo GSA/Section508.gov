@@ -1,0 +1,776 @@
+# We can add any kind of data in this _data folder and this file.
+# In this example, we create a simple array of options and then in the _pages/collections.md file we 
+# Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it 
+# This is simple, hopefully provides you with a good enough example to make changes as needed
+manage:
+  - name: Policy and Management 
+    url: manage/
+  - name: Management
+    url: '#'
+    children:
+      - name: Manage a Section 508 Program
+        url: '#'
+        grandchildren:
+          - name: Accessibility Roles
+            url: manage/roles/
+          - name: Publish Accessible Content
+            url: manage/publish-accessible-content/
+          - name: Teach Staff about Accessibility
+            url: manage/teach-staff-about-accessibility/
+          - name: Track and Report Conformance
+            url: manage/track-report-conformance/
+          - name: IT Accessibility/508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
+          - name: Revised Section 508 Standards Roadmap
+            url: manage/program-roadmap/
+      - name: Practical Reasons for Digital Accessibility
+        url: manage/benefits-of-accessibility/
+      - name: How Section 508 Standards Benefit People With Disabilities
+        url: manage/how-508-standards-benefit-pwd/
+      - name: Accessibility for IT Program & Project Manager
+        url: '#'
+        grandchildren:
+          - name: IT Accessibility Program Management
+            url: manage/program-management/
+          - name: Identify User Needs
+            url: manage/identify-user-needs/
+          - name: Support Development of Accessible Content
+            url: manage/support-accessible-content/
+          - name: Understand Content Scope and Technical Requirements
+            url: manage/understand-scope-technical-requirements/
+      - name: Organizational IT Accessibility Key Performance Indicators (KPI)
+        url: manage/accessibility-kpi/
+      - name: Join the Section 508 Community
+        url: manage/join-the-508-community/
+      - name: Find your Program Manager
+        url: tools/program-manager-listing/
+      - name: Semi-Annual Program Maturity Report (PMR)
+        url: manage/pmr/
+  - name: Playbooks
+    url: '#'
+    children: 
+      - name: Overview
+        url: manage/playbooks/
+      - name: Quick Guide to IT Accessibility for Program Managers
+        url: manage/playbooks/accessibility-playbook-quick-guide/
+      - name: Technology Accessibility Playbook
+        url: '#'
+        grandchildren:
+          - name: Introduction
+            url: manage/playbooks/technology-accessibility-playbook-intro/
+          - name: "Play 1: Establish a Section 508 Program Manager"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play01/
+          - name: "Play 2: Assess your Section 508 Program Maturity"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play02/
+          - name: "Play 3: Develop a Section 508 Accessibility Roadmap"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play03/
+          - name: "Play 4: Establish a Section 508 Policy"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play04/
+          - name: "Play 5: Develop a Section 508 Program Team"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play05/
+          - name: "Play 6: Collaborate with the Federal Accessibility Community"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play06/
+          - name: "Play 7: Integrate Accessibility Needs into Requirements and Design Processes"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play07/
+          - name: "Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play08/
+          - name: "Play 9: Integrate Accessibility Needs into Development Processes"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play09/
+          - name: "Play 10: Conduct Section 508 Testing"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play10/
+          - name: "Play 11: Track and Resolve Accessibility Issues"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play11/
+          - name: "Play 12: Educate the Workforce"
+            url: manage/playbooks/technology-accessibility-playbook-intro/play12/
+      - name: Executive Guide to Federal IT Accessibility
+        url: manage/playbooks/exec-guide-accessibility/
+  - name: Law and Policy
+    url: '#'
+    children:
+      - name: IT Accessibility Laws and Policies Overview
+        url: manage/laws-and-policies/
+      - name: Section 508 of the Rehabilitation Act
+        url: manage/laws-and-policies/section-508-law/
+      - name: Laws and Policy Quick Reference Guide
+        url: manage/laws-and-policies/quick-reference-guide/
+      - name: Website Accessibility Statements 
+        url: '#'
+        grandchildren:
+          - name: Developing a Website Accessibility Statement
+            url: manage/laws-and-policies/website-accessibility-statement/
+          - name: Implementing a Public Feedback Mechanism
+            url: manage/laws-and-policies/implementing-public-feedback-mechanism/
+          - name: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process
+            url: manage/laws-and-policies/Section-508-complaints-best-practices/           
+      - name: Updating Agency Policy
+        url: manage/laws-and-policies/update-agency-policies/
+      - name: State-level Accessibility Law and Policy
+        url: manage/laws-and-policies/state/
+      - name: International IT Accessibility Laws and Policies
+        url: manage/laws-and-policies/international/
+  - name: IT Accessibility Policy Framework
+    url: '#'
+    children:
+      - name: Introduction
+        url: manage/policy-framework/introduction/
+      - name: How to Use the Framework
+        url: '#'
+        grandchildren:
+        - name: How to Identify Policies
+          url: manage/policy-framework/how-to-use-the-framework/how-to-identify-policies/
+        - name: Evaluation Criteria
+          url: manage/policy-framework/how-to-use-the-framework/evaluation-criteria/
+        - name: Guiding Questions
+          url: manage/policy-framework/how-to-use-the-framework/guiding-question/
+        - name: ICT Accessibility Policy Matrix
+          url: manage/policy-framework/how-to-use-the-framework/ict-accessibility-policy-matrix/
+      - name: Guidance by Policy Type
+        url: '#'
+        grandchildren:
+        - name: Approach
+          url: manage/policy-framework/guidance-by-policy-type/approach/
+        - name: Acquisition and Procurement
+          url: manage/policy-framework/guidance-by-policy-type/acquisition-and-procurement/
+        - name: Administrative Services
+          url: manage/policy-framework/guidance-by-policy-type/administrative-services/
+        - name: Budget and Finance
+          url: manage/policy-framework/guidance-by-policy-type/budget-and-finance/
+        - name: Communications
+          url: manage/policy-framework/guidance-by-policy-type/communications/
+        - name: Emergency Response
+          url: manage/policy-framework/guidance-by-policy-type/emergency-response/
+        - name: Human Resources Management
+          url: manage/policy-framework/guidance-by-policy-type/human-resources-management/
+        - name: Information Technology Services
+          url: manage/policy-framework/guidance-by-policy-type/information-technology-services/
+        - name: Legal
+          url: manage/policy-framework/guidance-by-policy-type/legal/
+        - name: Real Property Management
+          url: manage/policy-framework/guidance-by-policy-type/real-property-management/
+      - name: Resources and References
+        url: '#'
+        grandchildren:
+        - name: Policy Review Template
+          url: manage/policy-framework/resources-and-references/policy-review-template/
+        - name: All Policy Types and Subtypes
+          url: manage/policy-framework/resources-and-references/all-policy-types-and-subtypes/
+        - name: Summary of Evaluation Criteria
+          url: manage/policy-framework/resources-and-references/summary-of-summary-criteria/
+        - name: Useful Links
+          url: manage/policy-framework/resources-and-references/useful-links/
+        - name: List of Acronyms
+          url: manage/policy-framework/resources-and-references/list-of-acronyms/
+      - name: FAQ
+        url: manage/policy-framework/faq/
+  - name: Annual Section 508 Assessment
+    url: '#'
+    children:
+      - name: Instructions
+        url: manage/section-508-assessment/
+      - name: Assessment Criteria
+        url: '#'
+        grandchildren:
+        - name: General Information
+          url: manage/section-508-assessment/criteria-01/
+        - name: IT Accessibility Program Office
+          url: manage/section-508-assessment/criteria-02/
+        - name: Policies, Procedures, and Practices
+          url: manage/section-508-assessment/criteria-03/
+        - name: Communications
+          url: manage/section-508-assessment/criteria-04/
+        - name: Content Creation
+          url: manage/section-508-assessment/criteria-05/
+        - name: Human Capital, Culture, and Leadership
+          url: manage/section-508-assessment/criteria-06/
+        - name: Technology Lifecycle Activities
+          url: manage/section-508-assessment/criteria-07/
+        - name: Testing and Validation
+          url: manage/section-508-assessment/criteria-08/
+        - name: Acquisition and Procurement
+          url: manage/section-508-assessment/criteria-09/
+        - name: Training
+          url: manage/section-508-assessment/criteria-10/
+        - name: Conformance Metrics
+          url: manage/section-508-assessment/criteria-11/
+      - name: Frequently Asked Questions (FAQ)
+        url: manage/section-508-assessment/faq/
+      - name: Support
+        url: manage/section-508-assessment/support/
+      - name: Definition of Terms
+        url: manage/section-508-assessment/definition-of-terms/
+      - name: Annual Reports
+        url: 'manage/section-508-assessment/annual-reports/'
+  - name: Agency Section 508 Reporting Requirements
+    url: manage/agency-508-reporting-requirements/
+  - name: ICT Accessibility Frequently Asked Questions
+    url: manage/accessibility-faq/
+training:
+  - name: Training, Tools & Events
+    url: 'training/'
+  - name: Training Overview
+    url: 'training-home/'
+  - name: Online Training Courses
+    url: '#'
+    children:
+      - name: "Accessibility of ICT for Government Executives"
+        url: 'training/online-course/accessible-for-executives/'
+      - name: "Microsoft Word & Accessibility Best Practices"
+        url: 'training/online-course/ms-word-best-practices/'
+      - name: "Micro-Purchases and Section 508 Requirements"
+        url: 'training/online-course/micro-purchases/'
+      - name: "Procuring Section 508 Conformant ICT Products and Services"
+        url: 'training/online-course/procuring-section-508-conformant-ict/'
+      - name: "Section 508: What Is It and Why Is It Important?"
+        url: 'training/online-course/section-508-what-is-it/'
+      - name: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement "
+        url: 'training/online-course/soliciting-and-evaluating-acrs/'
+      - name: "Online Training Courses via FAI"
+        url: 'training-home#federal-acquisition-institute'
+  - name: Training Videos Library
+    url: '#'
+    children:
+      - name: "Accessibility Requirements Tool"
+        url: '#'
+        grandchildren:
+          - name: "What is ART and When Do I Need to Use It?"
+            url: 'training/art/introducing-art-01/'
+          - name: Where is ART and How Do I Use It?
+            url: 'training/art/introducing-art-02/'
+          - name: How Do I Use the Section 508 Requirements Created by ART?
+            url: 'training/art/introducing-art-03/'
+          - name: How Do I Generate a List for Multiple Procurements?
+            url: 'training/art/introducing-art-04/'
+          - name: How Do I Use JSON to Modify My Report?
+            url: 'training/art/introducing-art-05/'
+      - name: Document       
+        url: '#'
+        grandchildren:
+          - name: "Module 0: Introduction & Background"
+            url: training/documents/aed-cop-docx00/
+          - name: "Module 1: Save as a Word Document (.docx) with a Descriptive Filename"
+            url: training/documents/aed-cop-docx01/
+          - name: "Module 2: Use Styles to Create Headings"
+            url: training/documents/aed-cop-docx02/
+          - name: "Module 3: Use Built-in Features to Create Lists"
+            url: training/documents/aed-cop-docx03/
+          - name: "Module 4: Use Built-in Features to Organize Content"
+            url: training/documents/aed-cop-docx04/
+          - name: "Module 5: Use Built-in Features to Create Layout and Data Tables"
+            url: training/documents/aed-cop-docx05/
+          - name: "Module 6: Identify Distinct Languages"
+            url: training/documents/aed-cop-docx06/
+          - name: "Module 7: Create Unambiguous Names for Links"
+            url: training/documents/aed-cop-docx07/
+          - name: "Module 8: Duplicate Vital Information in Headers, Footers and Watermarks"
+            url: training/documents/aed-cop-docx08/
+          - name: "Module 9: Create Accessible Images and Other Objects"
+            url: training/documents/aed-cop-docx09/
+          - name: "Module 10: Create Accessible Textboxes"
+            url: training/documents/aed-cop-docx10/
+          - name: "Module 11: Use Color and Other Sensory Characteristics Plus Text to Convey Meaning"
+            url: training/documents/aed-cop-docx11/
+          - name: "Module 12: Create the Required Color Contrast"
+            url: training/documents/aed-cop-docx12/
+          - name: "Module 13: Create Accessible Embedded Files"
+            url: training/documents/aed-cop-docx13/
+      - name: Presentation
+        url: '#'
+        grandchildren:
+          - name: "Creating PowerPoint Templates"
+            url: training/presentations/creating-powerpoint-templates/
+          - name: "Module 0: Introduction & Background"
+            url: training/presentations/aed-cop-pptx00/
+          - name: "Module 1: Creating the Presentation’s Layout Design and Establishing the Logical Reading Order"
+            url: training/presentations/aed-cop-pptx01/
+          - name: "Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient"
+            url: training/presentations/aed-cop-pptx02/
+          - name: "Module 3: Ensuring Color and Other Visual Characteristics that Convey Information are Also Described in Text"
+            url: training/presentations/aed-cop-pptx03/
+          - name: "Module 4: Formatting Columns Correctly"
+            url: training/presentations/aed-cop-pptx04/
+          - name: "Module 5: Formatting Lists Properly"
+            url: training/presentations/aed-cop-pptx05/
+          - name: "Module 6: Using Built-In Features to Create Data Tables"
+            url: training/presentations/aed-cop-pptx06/
+          - name: "Module 7: Adding Alternative Text to Images and Other Objects"
+            url: training/presentations/aed-cop-pptx07/
+          - name: "Module 8: Creating Links with Unique and Descriptive Names"
+            url: training/presentations/aed-cop-pptx08/
+          - name: "Module 9: Making Vital Background Information Accessible"
+            url: training/presentations/aed-cop-pptx09/
+          - name: "Module 10: Formatting Text for the Intended Language"
+            url: training/presentations/aed-cop-pptx10/
+          - name: "Module 11: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate"
+            url: training/presentations/aed-cop-pptx11/
+          - name: "Module 12: Excluding Flashing Objects"
+            url: training/presentations/aed-cop-pptx12/
+          - name: "Module 13: Saving in the .pptx Format with a Descriptive Filename"
+            url: training/presentations/aed-cop-pptx13/
+      - name: Spreadsheet
+        url: '#'
+        grandchildren:
+          - name: "Module 0: Introduction & Background"
+            url: training/spreadsheets/aed-cop-xlsx00/
+          - name: "Module 1: Using Built-in Features to Organize Content and Ensure Logical Reading Order"
+            url: training/spreadsheets/aed-cop-xlsx01/
+          - name: "Module 2: Ensuring the Contrast Ratio Between Text and Background is Sufficient"
+            url: training/spreadsheets/aed-cop-xlsx02/
+          - name: "Module 3: Ensuring Color and Other Visual Characteristics are Also Described in Text"
+            url: training/spreadsheets/aed-cop-xlsx03/
+          - name: "Module 4: Making Vital Background Information Accessible"
+            url: training/spreadsheets/aed-cop-xlsx04/
+          - name: "Module 5: Using Built-In Features to Create Data Tables"
+            url: training/spreadsheets/aed-cop-xlsx05/
+          - name: "Module 6: Adding Alternative Text to Images and Other Objects"
+            url: training/spreadsheets/aed-cop-xlsx06/
+          - name: "Module 7: Creating Links with Unique and Descriptive Names"
+            url: training/spreadsheets/aed-cop-xlsx07/
+          - name: "Module 8: Ensuring Descriptions of Embedded Audio, Video and Multimedia Files are Accurate"
+            url: training/spreadsheets/aed-cop-xlsx08/
+          - name: "Module 9: Excluding Flashing Objects"
+            url: training/spreadsheets/aed-cop-xlsx09/
+          - name: "Module 10: Saving in the .xlsx Format with a Descriptive Filename"
+            url: training/spreadsheets/aed-cop-xlsx10/
+      - name: PDFs
+        url: '#'
+        grandchildren:
+          - name: "Module 0: Introduction & Background"
+            url: 'training/pdfs/aed-cop-pdf00/'
+          - name: "Module 1: What is a PDF?"
+            url: 'training/pdfs/aed-cop-pdf01/'
+          - name: "Module 2: Testing a PDF for Accessibility"
+            url: 'training/pdfs/aed-cop-pdf02/'
+          - name: "Module 3: Remediating PDFs for Accessibility"
+            url: 'training/pdfs/aed-cop-pdf03/'
+          - name: "Module 4: Converting Scanned Documents into Section 508 Conformant PDFs"
+            url: 'training/pdfs/aed-cop-pdf04/'
+      - name: ANDI
+        url: '#'
+        grandchildren:
+          - name: "Module 1: Overview of ANDI"
+            url: training/web-software/andi-training-videos/overview/
+          - name: "Module 2: Focus Element"
+            url: training/web-software/andi-training-videos/focus-element/
+          - name: "Module 3: Links & Buttons"
+            url: training/web-software/andi-training-videos/links-buttons/
+          - name: "Module 4: Images"
+            url: training/web-software/andi-training-videos/images/
+          - name: "Module 5: Structure Headings"
+            url: training/web-software/andi-training-videos/structure-headings/
+          - name: "Module 6: Heading Levels"
+            url: training/web-software/andi-training-videos/heading-levels/
+          - name: "Module 7: Structure Lists"
+            url: training/web-software/andi-training-videos/structure-lists/
+          - name: "Module 8: Page Language"
+            url: training/web-software/andi-training-videos/page-language/
+          - name: "Module 9: Language of Parts"
+            url: training/web-software/andi-training-videos/language-parts/
+          - name: "Module 10: Page Title"
+            url: training/web-software/andi-training-videos/andi-page-title/
+          - name: "Module 11: Frames"
+            url: training/web-software/andi-training-videos/frames/
+          - name: "Module 12: iFrames"
+            url: training/web-software/andi-training-videos/iframes/
+          - name: "Module 13: Color Contrast"
+            url: training/web-software/andi-training-videos/color-contrast/
+          - name: "Module 14: Color Contrast Analyzer"
+            url: training/web-software/andi-training-videos/color-contrast-analyzer/
+          - name: "Module 15: Data Tables"
+            url: training/web-software/anditraining-videos/data-tables/
+          - name: "Module 16: Layout Tables"
+            url: training/web-software/andi-training-videos/layout-tables/
+          - name: "Module 17: CSS Content and Positioning"
+            url: training/web-software/andi-training-videos/css-content-positioning/
+          - name: "Module 18: Live Regions"
+            url: training/web-software/andi-training-videos/live-regions/
+      - name: Creating Accessible Media
+        url: 'create/synchronized-media/creating-accessible-media/'
+      - name: Color Contrast Analyzer
+        url: 'training/web-software/andi-training-videos/color-contrast-analyzer/'
+      - name: Universal Design and Accessibility
+        url: '#'
+        grandchildren:
+          - name: "An Introduction to Universal Design for Content Creators"
+            url: 'https://www.youtube.com/watch?v=acKd-q2I3f0'
+            external: true
+          - name: "An Introduction to Universal Design for Developers"
+            url: 'https://www.youtube.com/watch?v=ryfd3fmZHCY'
+            external: true
+          - name: "An Introduction to Universal Design for Managers"
+            url: 'https://www.youtube.com/watch?v=d1X5XSEErdY'
+            external: true
+          - name: "An Introduction to Universal Design for Procurement Professionals"
+            url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
+            external: true
+      - name: 'What is Alternative Text?'
+        url: 'training/alt-text/what-is-alternative-text/'
+  - name: Events
+    url: 'events/'
+  - name: IAAF 
+    url: 'iaaf/'
+  - name: IAAF Archives
+    url: 'iaaf/archives/'
+  - name: Presentations and Workshop Materials
+    url: 'training/presentations-workshops/'
+  - name: Section 508 Tools
+    url: '#'
+    children:
+      - name: Tools Overview
+        url: 'tools/'
+      - name: Accessibility Requirements Tool (ART)
+        url: 'art/'
+      - name: ART API Server
+        url: 'https://art-api.section508.gov/'
+        external: true
+      - name: Solicitation Review Tool (SRT)
+        url: 'buy/solicitation-review-tool/'
+      - name: OpenACR Editor
+        url: 'tools/openacr-editor/'
+      - name: Find Your 508 Program Manager
+        url: 'tools/program-manager-listing/'
+      - name: Accessibility Playbooks
+        url: 'manage/playbooks/'
+      - name: Testing Tools for Web
+        url: 'test/web-software/'
+      - name: Glossary of Terms
+        url: 'content/glossary/'
+develop:
+  - name: Design & Develop
+    url: 'develop/'
+  - name: Design
+    url: '#'
+    children:
+      - name: Universal Design
+        url: develop/universal-design/
+      - name: Video Training
+        url: 'develop/universal-design-video-series/'
+      - name: Accessible Fonts and Typography  
+        url:  'develop/fonts-typography/'
+      - name: Accessible Design Using the USWDS
+        url: develop/accessible-design-using-uswds/
+      - name: Designing Digital Content For Users With Cognitive Disabilities
+        url: design/digital-content-users-with-cognitive-disabilities/
+  - name: Develop
+    url: '#'
+    children:
+      - name: Develop Software and Websites
+        url: develop/software-websites/
+      - name: Applicability and Conformance Requirements for Developers
+        url: develop/applicability-conformance/
+      - name: Web Content
+        url: '#'
+        grandchildren:
+          - name: Developing Accessible Web Content
+            url: develop/web-content/
+          - name: Publishing to the Web
+            url: develop/publish-to-web/
+      - name: Incorporating Accessibility Conformance Validation within Development
+        url: develop/incorporating-accessibility-conformance/
+test:
+  - name: Testing
+    url: 'test/'
+  - name: Testing Methods
+    url: '#'
+    children:
+      - name: Learn About Testing Methods
+        url: 'test/testing-overview/'
+      - name: Trusted Tester and ICT Testing Baseline
+        url: 'test/trusted-tester/'
+      - name: Tips for Usability Testing with People with Disabilities
+        url: 'test/usability-testing-with-people-with-disabilities/'
+  - name: Testing Checklists
+    url: '#'
+    children:
+      - name: Email Messages
+        url: 'test/checklist/email-messages/'
+  - name: Electronic Documents
+    url: '#'
+    children:
+      - name: Test Electronic Documents
+        url: test/documents/
+      - name: About Electonic Document Testing Tools
+        url: test/about-testing-tools/
+      - name: Testing Color Contrast in Non-Web Documents and Images
+        url: test/color-contrast-in-nonweb-documents-images/
+  - name: Software & Websites
+    url: '#'
+    children:
+      - name: Test Websites & Software
+        url: test/web-software/
+      - name: Testing Guidance for Developers
+        url: test/testing-for-developers/
+acquisition:
+  - name: Acquisition
+    url: 'buy-sell/'
+  - name: Buy
+    url: '#'
+    children:
+      - name: Buy Accessible ICT
+        url: 'buy/'
+      - name: Accessibility Requirement Tool (ART)
+        url: 'art/'
+      - name: Define Accessibility Criteria in Contracts
+        url: 'buy/define-accessibility-criteria/'
+      - name: Determine 508 Standards and Exceptions
+        url: '#'
+        grandchildren:
+          - name: "Process Overview"
+            url: 'buy/determine-508-standards-exceptions/'
+          - name: "Step 1: Inventory Your ICT"
+            url: 'buy/inventory-your-ict/'
+          - name: "Step 2: Determine ICT Exceptions"
+            url: 'buy/determine-ict-exceptions/'
+          - name: "Step 3: Determine Which Standards Apply"
+            url: 'buy/determine-ict-standards/'
+      - name: Request Accessibility Information from Vendors & Contractors
+        url: 'buy/request-accessibility-information/'
+      - name: Understanding Vendor Claims in Accessibility Conformance Reports
+        url: 'buy/understand-claims/'
+      - name: 'Solicitation Review Tool (SRT)'
+        url: 'buy/solicitation-review-tool/'
+      - name: 508 Standards and Exceptions Chart & Examples
+        url: 'buy/standards-exceptions/'
+      - name: Authoring Tool Requirements
+        url: 'buy/authoring-tools/'
+      - name: Accessibility In Procurement
+        url: '#'
+        grandchildren:
+          - name: "Accessibility In Procurement I: Pre-Soliciation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
+          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
+  - name: Sell
+    url: '#'
+    children:
+      - name: Sell Accessible Products and Services
+        url: sell/
+      - name: Accessibility Conformance Report (ACR)
+        url: sell/acr/
+      - name: OpenACR Editor
+        url: tools/openacr-editor/
+      - name: How to Create an ACR with a VPAT&reg;
+        url: sell/how-to-create-acr-with-vpat/
+      - name: ACR/VPAT FAQ
+        url: sell/acr-vpat-faq/
+create:
+  - name: Content Creation
+    url: 'create/'
+  - name: Create a Document
+    url: '#'
+    children:
+      - name: Create Accessible Documents
+        url: 'create/documents/'
+      - name: Authoring Guides
+        url: create/documents/authoring-guides/
+      - name: Tips and Tricks
+        url: 'create/documents/#tips'
+      - name: Video Training
+        url: 'create/documents/training-videos/'
+  - name: Create a Presentation
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: create/presentations/authoring-guides/
+      - name: Tips and Tricks
+        url: create/presentations/
+      - name: Video Training
+        url: create/presentations/training-videos/
+  - name: Create a Spreadsheet
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: create/spreadsheets/authoring-guides/
+      - name: Tips and Tricks
+        url: create/spreadsheets/
+      - name: Video Training
+        url: create/spreadsheets/training-videos/
+  - name: Create a PDF
+    url: '#'
+    children:
+      - name: Authoring Guides
+        url: create/pdfs/authoring-guides/
+      - name: Tags and Their Usage
+        url: create/pdfs/common-tags-and-usage/
+      - name: Tips and Tricks
+        url: create/pdfs/
+      - name: Video Training
+        url: create/pdfs/training-videos/
+  - name: Audio & Video
+    url: '#'
+    children:
+      - name: Audio- and Video-Only
+        url: 'create/audio-video/'
+      - name: Captions & Transcripts
+        url: 'create/captions-transcripts/'
+      - name: Synchronized Media
+        url: 'create/synchronized-media/'
+  - name: Alternative Text
+    url: 'create/alternative-text/'
+  - name: Electronic Signatures
+    url: 'create/electronic-signatures/'   
+  - name: Email Messages
+    url: 'create/email-messages/'
+  - name: Equations and Formulas
+    url: 'create/accessible-equations-formulas/'
+  - name: Meetings
+    url: 'create/accessible-meetings/'
+  - name: Social Media
+    url: 'create/social-media/'
+
+#
+# Custom SideNav for Each Accessibility Report to Congress
+report2023:
+  - name: 'Message from the GSA Administrator'
+    url: 'manage/section-508-assessment/2023/message-from-gsa-administrator/'
+  - name: 'Executive Summary'
+    url: 'manage/section-508-assessment/2023/executive-summary/'
+  - name: 'Introduction'
+    url: 'manage/section-508-assessment/2023/introduction/'
+  - name: 'Background'
+    url: 'manage/section-508-assessment/2023/background/'
+  - name: Governmentwide Findings and Category-level Findings & Recommendations
+    url: '#'
+    children:
+      - name: 'Findings Summary'
+        url: 'manage/section-508-assessment/2023/findings/summary/'
+      - name: 'Governmentwide Findings'
+        url: '#'
+        grandchildren:
+          - name: 'Key Compliance Outcomes'
+            url: 'manage/section-508-assessment/2023/findings/compliance-outcomes/'
+          - name: 'Maturity Dimension Key Findings'
+            url: 'manage/section-508-assessment/2023/findings/maturity-dimension/'
+          - name: 'Section 508 Program and Staff Analysis Summary'
+            url: 'manage/section-508-assessment/2023/findings/program-staff/'
+          - name: 'Accessibility Conformance Testing and Technology Lifecycle'
+            url: 'manage/section-508-assessment/2023/findings/testing-lifecycle/'
+          - name: 'Acquisition and Procurement'
+            url: 'manage/section-508-assessment/2023/findings/acquisition/'
+          - name: 'Complaints'
+            url: 'manage/section-508-assessment/2023/findings/complaints/'
+      - name: 'Overall Performance Category Findings and Recommendations (For Each Maturity - Conformance Category)'
+        url: '#'
+        grandchildren:
+          - name: Overview
+            url: 'manage/section-508-assessment/2023/findings/category-overview/' 
+          - name: Very Low Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-very-low/'
+          - name: Low Maturity Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-low/'
+          - name: Moderate Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-moderate/'
+          - name: High Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-high/'
+          - name: Very High Maturity Categories
+            url: 'manage/section-508-assessment/2023/findings/category-very-high/'
+  - name: Recommendations
+    url: 'manage/section-508-assessment/2023/recommendations/'
+  - name: 'Recent and Upcoming GSA Efforts to Improve Section 508 Compliance'
+    url: '#'            
+    children:
+      - name: 'Recent GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-recent/'
+      - name: 'Upcoming GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-upcoming/'
+      - name: 'Other Activities Under Consideration Beyond FY24'
+        url: 'manage/section-508-assessment/2023/gsa-efforts-other/'
+  - name: 'Observations and Acknowledgements'
+    url: 'manage/section-508-assessment/2023/observations/'
+  - name: 'Appendix A: Terms, Definitions, and Acronyms'
+    url: '#'            
+    children:
+      - name: 'Terms and Definitions'
+        url: 'manage/section-508-assessment/2023/appendix-a-terms/'
+      - name: 'Acronyms List'
+        url: 'manage/section-508-assessment/2023/appendix-a-acronyms/'
+  - name: 'Appendix B: Federal Initiatives and Resources on ICT Accessibility'
+    url: 'manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/'
+  - name: 'Appendix C: Methods'
+    url: 'manage/section-508-assessment/2023/appendix-c-methods/'
+  - name: 'Appendix D: Overview Data By Reporting Entity'
+    url: '#'            
+    children:
+      - name: 'Overview'
+        url: 'manage/section-508-assessment/2023/appendix-d-overview/'
+      - name: 'Departments and Large Agencies'
+        url: 'manage/section-508-assessment/2023/appendix-d-reporting-entities/'
+  - name: 'Assessment Data & Downloads'
+    url:  'manage/section-508-assessment/2023/assessment-data-downloads/'
+# Custom SideNav for Each Accessibility Report to Congress
+report2024:
+  - name: 'Message from the GSA Administrator'
+    url: 'manage/section-508-assessment/2024/message-from-gsa-administrator/'
+  - name: 'Executive Summary'
+    url: 'manage/section-508-assessment/2024/executive-summary/'
+  - name: 'Introduction'
+    url: 'manage/section-508-assessment/2024/introduction/'
+  - name: 'Background'
+    url: 'manage/section-508-assessment/2024/background/'
+  - name: Governmentwide Findings and Category-level Findings & Recommendations
+    url: '#'
+    children:
+      - name: 'Findings Summary'
+        url: 'manage/section-508-assessment/2024/findings/summary/'
+      - name: 'Governmentwide Findings'
+        url: '#'
+        grandchildren:
+          - name: 'Compliance Key Findings'
+            url: 'manage/section-508-assessment/2024/findings/compliance-dimension/'
+          - name: 'Maturity Key Findings'
+            url: 'manage/section-508-assessment/2024/findings/maturity-dimension/'
+          - name: 'Section 508 Program and Staff Analysis Summary'
+            url: 'manage/section-508-assessment/2024/findings/program-staff/'
+          - name: 'Section 508 Program'
+            url: 'manage/section-508-assessment/2024/findings/accessibility-program/'
+          - name: 'Accessibility Conformance Testing and Technology Lifecycle'
+            url: 'manage/section-508-assessment/2024/findings/testing-lifecycle/'
+          - name: 'Acquisition and Procurement'
+            url: 'manage/section-508-assessment/2024/findings/acquisition/'
+          - name: 'Complaints'
+            url: 'manage/section-508-assessment/2024/findings/complaints/'
+      - name: 'Overall Performance Category Findings and Recommendations (For Each Maturity - Conformance Category)'
+        url: '#'
+        grandchildren:
+          - name: Overview
+            url: 'manage/section-508-assessment/2024/findings/category-overview/' 
+          - name: Very Low Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-very-low/'
+          - name: Low Maturity Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-low/'
+          - name: Moderate Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-moderate/'
+          - name: High Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-high/'
+          - name: Very High Maturity Categories
+            url: 'manage/section-508-assessment/2024/findings/category-very-high/'
+  - name: Recommendations
+    url: 'manage/section-508-assessment/2024/recommendations/'
+  - name: 'Recent and Upcoming GSA Efforts to Improve Section 508 Compliance'
+    url: '#'            
+    children:
+      - name: 'Recent GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2024/gsa-efforts-recent/'
+      - name: 'Upcoming GSA Efforts to Support Section 508 Compliance'
+        url: 'manage/section-508-assessment/2024/gsa-efforts-upcoming/'
+  - name: 'Observations and Acknowledgements'
+    url: 'manage/section-508-assessment/2024/observations/'
+  - name: 'Appendix A: Terms, Definitions, and Acronyms'
+    url: '#'            
+    children:
+      - name: 'Terms and Definitions'
+        url: 'manage/section-508-assessment/2024/appendix-a-terms/'
+      - name: 'Acronyms List'
+        url: 'manage/section-508-assessment/2024/appendix-a-acronyms/'
+  - name: 'Appendix B: Methods'
+    url: 'manage/section-508-assessment/2024/appendix-b-methods/'
+  - name: 'Appendix C: Overview Data By Reporting Entity'
+    url: '#'            
+    children:
+      - name: 'Overview'
+        url: 'manage/section-508-assessment/2024/appendix-c-overview/'
+      - name: 'Departments and Large Agencies'
+        url: 'manage/section-508-assessment/2024/appendix-c-reporting-entities/'
+  - name: 'Appendix D: U.S. Department of Justice Addendum'
+    url: 'manage/section-508-assessment/2024/appendix-d-doj-addendum/'
+  - name: 'Assessment Data & Downloads'
+    url:  'manage/section-508-assessment/2024/assessment-data-downloads/'

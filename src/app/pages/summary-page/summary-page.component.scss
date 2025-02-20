@@ -1,0 +1,24 @@
+.align-center{
+    text-align: center;
+}
+
+.ogp-flex-space{
+    display: flex;
+    justify-content: space-between;
+    @media  screen and  (max-width: 414px) {
+        flex-direction: column;
+     }
+}
+
+
+@media  screen and  (max-width: 414px) {
+    .ogp-btn{
+        margin-top: 0.5rem;
+        margin-right: 0rem !important;
+        width: 100%;
+    }
+
+    art-save-json{
+        display: block;
+    }
+ }

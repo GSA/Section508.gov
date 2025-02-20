@@ -1,0 +1,35 @@
+{%- comment -%}
+This banner is located under menu navigation bar, to display the title of each landing page. It's for banners of video trainings.
+{%- endcomment -%}
+
+{%- if page.type == 'document training' -%}
+{%- assign header = 'Document Video Training' -%}
+{%- endif -%}
+{%- if page.type == 'presentation training' -%}
+{%- assign header = 'Presentation Video Training' -%}
+{%- endif -%}
+{%- if page.type == 'spreadsheet training' -%}
+{%- assign header = 'Spreadsheet Video Training' -%}
+{%- endif -%}
+{%- if page.type == 'pdfs training' -%}
+{%- assign header = 'PDF Video Training' -%}
+{%- endif -%}
+{%- if page.type == 'ANDI training' -%}
+{%- assign header = 'ANDI Video Training' -%}
+{%- endif -%}
+
+<section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet: grid-col">
+                <span class="banner-title-color font-sans-lg margin-bottom-0">
+                    {{header}}
+                </span>
+        <br />
+        <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
+          {{page.title}}
+        </h1>
+      </div>
+    </div>
+  </div>
+</section>
