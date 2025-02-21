@@ -73,8 +73,8 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
 **Reviewed/Updated:** November 2024
 
  [1]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [2]: https://assets.section508.gov/files/Directive_139.2_Final_10-28-2008.doc
- [3]: https://assets.section508.gov/files/VA508Directive6221_12_2008.pdf
- [4]: https://assets.section508.gov/files/SSA_Internet_Accessibility_Policy.pdf
- [5]: https://assets.section508.gov/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc
+ [2]: https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc
+ [3]: https://assets.section508.gov/assets/files/VA508Directive6221_12_2008.pdf
+ [4]: https://assets.section508.gov/assets/files/SSA_Internet_Accessibility_Policy.pdf
+ [5]: https://assets.section508.gov/assets/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc
  [6]: {{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/
