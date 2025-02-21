@@ -1,0 +1,2479 @@
+# qid: (required)
+# uid: (optional - remove if no understanding)
+# dimension: (required: general, program, policies, communications, content, hr, lifecycle, testing, acquisition, training, conformance)
+# q-descr: | (required)
+# q-type: (optional - Select one:; Select Yes or No for a-i:; Select all that apply:; Select five:; For each option of a-h, select either Yes, No, or Unknown:; For each option of a-e, select either Yes, No, or Unknown:)
+# q-options: (required)
+# q-note: (optional - remove if no note block in question)
+# u-descr: | (optional - remove if no understanding)
+# --------------------------------------------
+-
+  qid: q1
+  uid: u1
+  dimension: general
+  q-descr: | 
+    Estimate the number of federal employees onboarded to date within your reporting entity. (*Required)
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-number</li>
+      <li>Classified</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Estimate how many federal employees are currently employed and receiving a paycheck. 
+    
+    Only include federal employees for the reporting entity. Parent agencies should not include other reporting entity federal staff when answering this question. 
+
+    Exclude contractors from the total number of onboarded federal employees. Only include civilian federal employees (for military reporting entities).
+-   
+  qid: q2
+  uid: u2
+  dimension: general
+  q-options: |
+    Open response-number
+  q-descr: | 
+    Estimate the total number of federal full time equivalents (FTEs) the reporting entity has directly supporting its Section 508 Program or equivalent to date. (Expressed in whole or fraction of numbers of FTEs; e.g., 1.0 FTEs, 2.5 FTEs) (*Required)
+  u-descr: | 
+    Only include the federal employees working directly on the reporting entity's Section 508 program or where there is formal designation to support the Section 508 program or equivalent.
+
+    Do not include contractors in this response. 
+
+    For example, if the reporting entity has:
+
+    - A Section 508 Program Manager who is full time = 1 FTE for the 508 Program.
+    - An administrative assistant who works 50-50 in both Section 508 and Section 504 areas = 0.5 FTE for the 508 Program.
+    - An employee who works one day a week on Section 508 training for the 508 Program and the rest of the week on other training for the agency = 0.2 FTE for the 508 program.
+-   
+  qid: q3
+  uid: u3
+  dimension: general
+  q-descr: | 
+    Estimate the total number of contractor full time equivalents (FTEs) the reporting entity has directly supporting its Section 508 Program or equivalent to date. (Expressed in whole or fraction of numbers of FTEs; e.g., 1.0 FTEs, 2.5 FTEs) (*Required)
+  q-options: |
+    Open response-number
+  u-descr: | 
+    Only include the contractors directly supporting the reporting entity's Section 508 program.
+
+    Do not include federal employees in this response.
+-   
+  qid: q4
+  uid: u4
+  dimension: general
+  q-descr: | 
+    Indicate how many hours per week the Section 508 Program Manager or equivalent is dedicated to supporting the reporting entity's Section 508 Program or equivalent. (*Required) 
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Full time - Section 508 Program Manager works 40 hours per week fully dedicated to supporting the reporting entity's Section 508 Program</li>
+      <li>Part time - Section 508 Program Manager has additional duties and work less than 40 hours per week supporting the reporting entity's Section 508 Program [insert hours per week dedicated to Section 508 Program *required]</li>
+      <li>N/A - reporting entity does not have a Section 508 Program Manager or equivalent</li>
+    </ol>
+  u-descr: | 
+    Only include the time spent by the 508 Program Manager or equivalent specifically on the Section 508 Program or equivalent. The actual time spent may differ from the estimated time written into a job description or policy.
+
+    For example, an individual is hired to be the Section 508 Program Manager as well as the reporting entity's General IT Support Desk Manager, with a 50-50 time split in their job description. The individual ends up spending 90% of their time on the IT Support Desk because of urgent issues. In this case, select option “b) Part time” and report "4" hours per week for this question.
+-   
+  qid: q5
+  uid: u5
+  dimension: general
+  q-descr: | 
+    Where does the reporting entity's Section 508 program or equivalent reside? (*Required)
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Head of reporting entity office or equivalent</li>
+      <li>CIO Office or equivalent</li>
+      <li>Equal Employment Office or equivalent</li>
+      <li>Human Resource or Human Capital Office or equivalent</li>
+      <li>Communications Office</li>
+      <li>General Counsel</li>
+      <li>N/A - reporting entity has not established a formal program or office to implement and comply with Section 508</li>
+      <li>Other [input text field]</li>
+    </ol>
+  u-descr: | 
+    If the reporting entity's Section 508 program or equivalent is considered "cross-agency" or "multi departmental," use the department whose budget pays for the 508 Program Manager and their staff, or majority thereof.
+-   
+  qid: q6
+  uid: u6
+  dimension: general
+  q-descr: | 
+    Indicate how the reporting entity uses its Section 508 program to implement and comply with Section 508. (*Required)
+  q-type: |
+    Select Yes or No for a-i
+  q-options: |
+    For each of the following, select yes or no (will be shown in table format in reporting tool)
+    <ol type="a">
+      <li>Develops and maintains Section 508 or ICT accessibility policies</li>
+      <li>Supports efforts to create an accessible and inclusive ICT environment</li>
+      <li>Coordinates with other responsible staff for Rehabilitation Act compliance including the provision of reasonable accommodations</li>
+      <li>Ensures ICT activities integrate Section 508 compliance across the IT and acquisition lifecycle</li>
+      <li>Assists acquisition officials and developers in procuring or building accessible ICT</li>
+      <li>Manages and coordinates evaluation of ICT for Section 508 conformance</li>
+      <li>Manages and coordinates Section 508 training</li>
+      <li>Manages and coordinates creation and review of electronic documents for Section 508 conformance</li>
+      <li>Manages and coordinates provision of alternative formats</li>
+    </ol>
+  u-descr: | 
+    This question is specifically asking about actions and activities performed by the Section 508 program. Do not select an answer if the reporting entity Section 508 program does not perform the task. 
+-   
+  qid: q7
+  uid: u7
+  dimension: general
+  q-descr: | 
+    Estimate the total budget for the reporting entity's Section 508 Program or equivalent in FY24. Round to the nearest thousand (e.g., $345,000). If your budget is classified, please select "Classified" as the response. (*Required)
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Classified Note: OMB will follow up with entities that submit "Classified" to confirm.</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Note: OMB will follow up with entities that submit "Classified" to confirm.
+    
+    Please only include budget information for the reporting entity; parent agencies should not include other reporting entity budgets when answering this question. To retrieve budget information, work with the reporting entity Budget Office or Chief Financial Officer Office.
+-   
+  qid: q8
+  uid: u8
+  dimension: general
+  q-descr: | 
+    Section 508 requires conformance to WCAG 2.0 Level A and AA. Does the reporting entity's accessibility policy include any other accessibility requirements? (*Required)
+  q-type: |
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>No additional criteria implemented beyond Section 508 (WCAG 2.0 Level A and AA)</li>
+      <li>All or some WCAG 2.0 Level AAA Criteria</li>
+      <li>All or some WCAG 2.1 Level A Criteria</li>
+      <li>All or some WCAG 2.1 Level AA Criteria</li>
+      <li>All or some WCAG 2.1 Level AAA Criteria</li>
+      <li>All or some WCAG 2.2 Level A Criteria</li>
+      <li>All or some WCAG 2.2 Level AA Criteria</li>
+      <li>All or some WCAG 2.2 Level AAA Criteria</li>
+      <li>Reporting entity specific standards</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    This question is specifically asking if the reporting entity has implemented additional accessibility standards in policy. If the reporting entity accessibility policy does not include any accessibility requirements beyond Section 508, select "a) No additional criteria implemented beyond Section 508 (WCAG 2.0 Level A and AA)."
+-   
+  qid: q9
+  uid: u9
+  dimension: general
+  q-descr: | 
+    Which of the following ICT types does the reporting entity evaluate with a Section 508 conformance test process? (*Required)
+  q-type: |
+    Select all that apply
+  q-options: |
+    <ol type="a">
+      <li>Hardware</li>
+      <li>Software</li>
+      <li>Mobile applications</li>
+      <li>Electronic Documents</li>
+      <li>Kiosks</li>
+      <li>Web content</li>
+      <li>None of the above</li>
+    </ol>
+  u-descr: | 
+    Only select the ICT type(s) for which the reporting entity uses a Section 508 conformance test process. It is acceptable if the test process used was developed by a vendor or another reporting entity. 
+-   
+  qid: q10
+  uid: u10
+  dimension: general
+  q-descr: | 
+    Is an automated accessibility testing tool(s) for comprehensive, large-scale monitoring of web content used on the reporting entity's web content? (*Required)
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    An automated accessibility testing tool is one where the evaluation of Section 508 conformance requirements is determined solely by the tool. The automated tool may be an application the reporting entity developed, purchased from a vendor, or supplied by another government department or reporting entity.  
+
+    Comprehensive, large-scale monitoring does not include browser plug-ins that only scan a single web page once such as when a user selects to run the manual testing tool such as ANDI.
+
+    This question is asking whether any automated accessibility testing tool is used to test reporting entity web content, even if the reporting entity itself does not run, or own a license for, the tool. If a contractor or another reporting entity such as a parent agency performs comprehensive, large-scale monitoring of the reporting entity's web content, please answer affirmatively. 
+-   
+  qid: q11
+  uid: u11
+  dimension: general
+  q-descr: | 
+    Please select the automated accessibility testing tool(s) used for comprehensive, large-scale web content monitoring. (*Required)
+  q-type: |
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>accessiBe</li>
+      <li>Compliance Guardian</li>
+      <li>Compliance Sheriff</li>
+      <li>Deque Axe tools (e.g., Axe Auditor or Axe Monitor)</li>
+      <li>Google Lighthouse</li>
+      <li>Koa11y</li>
+      <li>Level Access AMP</li>
+      <li>Monsido</li>
+      <li>Pa11y</li>
+      <li>Pope Tech</li>
+      <li>Siteimprove</li>
+      <li>SortSite</li>
+      <li>WebAIM WAVE</li>
+      <li>Other [input text response]</li>
+    </ol>
+  q-note: |
+    This question is only required if Question 10 General Information is Yes.
+  u-descr: | 
+    An automated accessibility testing tool assesses Section 508 conformance requirements solely through tool usage, without any human testing.
+
+    Comprehensive, large-scale monitoring does not include browser plug-ins that only scan a single web page once (i.e., a user selects to run the manual testing tool such as ANDI.)
+-   
+  qid: q12
+  uid: u12
+  dimension: general
+  q-descr: | 
+    You indicated the reporting entity's web pages are tested with an automated accessibility testing tool for comprehensive, large-scale monitoring of web content. Have the personnel who use the tool(s) and interpret the results received training on the tool(s)? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No and no intention to do so</li>
+      <li>No but training is planned or scheduled</li>
+      <li>Yes but only some personnel received training</li>
+      <li>Yes, all personnel received training</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: |
+    This question is only required if Question 10 General Information is Yes.
+  u-descr: | 
+     This question is interested in automated accessibility testing tools, even if they are only used by contractors to provide information to the reporting entity. If training is only provided to contractors who are the only personnel using the tools, select the appropriate "Yes" answer.
+-   
+  qid: q13
+  uid: u13
+  dimension: general
+  q-descr: | 
+    Which manual test methodology(ies) does the reporting entity use for manual and/or hybrid Section 508 testing? (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>Trusted Tester 5.x</li>
+      <li>Manual testing with guided developer tools (e.g. Axe DevTools, Siteimprove, Microsoft Accessibility Insights, AMP, etc.)</li>
+      <li>Reporting entity-specific test methodology</li>
+      <li>Assistive Technology testing (e.g., screen reader)</li>
+      <li>Manual code inspection</li>
+      <li>N/A- reporting entity does not use a manual and/or hybrid testing methodology</li>
+    </ol>
+  u-descr: | 
+     A manual or hybrid testing approach involves the evaluation of Section 508 conformance requirements, either entirely or partially, through human testers.
+-   
+  qid: q14
+  uid: u14
+  dimension: general
+  q-descr: | 
+    Between June 1, 2023 and May 31, 2024, did the reporting entity delay an intern, detailee, or employee start date for 30 calendar days or longer due to lack of ICT interoperability with assistive technology (Section 508, provision 502.1)? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes [# of delays 30 calendar days or longer during the reporting period (*required)]</li>
+      <li>No [provide explanation (not required)]</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    While an explanation for answering "No" is not required, feel free to note if:
+    
+    - An intern, detailee, or new hire who uses assistive technology had no delays due to ICT interoperability, or
+    
+    - The reporting entity had no new hires, detailees, or interns, or
+    
+    - The reporting entity had no new hires, detailees, or interns who requested assistive technology.
+
+    Below are two examples of scenarios where a significant delay was caused by the lack of ICT interoperability with assistive technology:
+    
+    - A project team regularly references a knowledge repository that has known accessibility issues, but it is used anyway because no current team members have a disability. The reporting entity realizes a detailee slated to join the team would be unable to perform his work duties due to the inaccessible repository. The reporting entity decides to delay the detailee's start date for 75 days until the accessibility issues in the repository are remediated.
+    
+    - A summer internship program where the protocol is to provide interns with government-furnished (GFE) laptops. A fully qualified intern makes a timely request for the JAWS screen reader to be installed on her GFE laptop. Due to a lack of interoperability, this intern is not able to get JAWS working until 35 calendar days after her peers have begun work because a non-standard GFE laptop configuration must be approved and ordered to support her assistive technology.
+-   
+  qid: q15
+  dimension: general
+  q-descr: | 
+    If inaccessible ICT was discovered during a detailee’s or intern’s service time, was the reporting entity able to remediate the ICT accessibility issues within the service time to allow the detailee or intern to fully participate in projects and opportunities? (*Required)
+  q-type: |
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No ICT accessibility issues were identified during a detailee’s or intern’s service time</li>
+      <li>Accessibility issues were identified and remediated during a detailee’s or intern’s service time</li>
+      <li>Accessibility issues were identified but were not remediated during a detailee’s or intern’s service time</li>
+      <li>Unknown</li>
+      <li>N/A</li>
+    </ol>
+-   
+  qid: q16
+  uid: u16
+  dimension: general
+  q-descr: | 
+    Estimate the total number of Fundamental Alteration Exceptions (36 CFR 1194 E202.6) authorized by the reporting entity between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    In accordance with the <a href="https://www.acquisition.gov/far/subpart-39.2?searchTerms=Fundamental%20Alteration%20Exception#FAR_39_205__d2450e25" target="_blank" class="usa-link--external">Federal Acquisition Regulation (FAR)(39.205)</a>, documentation is required for this exception. Section 508 Exceptions are categorized and explained in <a href="https://www.access-board.gov/ict/#E202.6" target="_blank" class="usa-link--external">E202.6 Undue Burden or Fundamental Alteration</a>.
+
+    Only count exceptions that have formal documentation. If the reporting entity only has informal exceptions, meaning exceptions for which there is no formal documentation, do not include those in this total.
+-   
+  qid: q17
+  uid: u17
+  dimension: general
+  q-descr: | 
+    Estimate the total number of Undue Burden Exceptions (36 CFR 1194 E202.6) authorized by the reporting entity between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    In accordance with the <a href="https://www.acquisition.gov/far/subpart-39.2?searchTerms=Fundamental%20Alteration%20Exception#FAR_39_205__d2450e54" target="_blank" class="usa-link--external">Federal Acquisition Regulation (FAR)(39.205)</a>, documentation is required for this exception. Section 508 Exceptions are categorized and explained in <a href="https://www.access-board.gov/ict/#E202.6" target="_blank" class="usa-link--external">E202.6 Undue Burden or Fundamental Alteration</a>.
+
+    Only count exceptions that have formal documentation. If the reporting entity only has informal exceptions, meaning exceptions for which there is no formal documentation, do not include those in this total.
+-   
+  qid: q18
+  uid: u18
+  dimension: general
+  q-descr: | 
+    Estimate the total number of Best Meets Exceptions (36 CFR 1194 E202.7) authorized by the reporting entity between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    In accordance with the <a href="https://www.acquisition.gov/far/subpart-39.2?searchTerms=Fundamental%20Alteration%20Exception#FAR_39_205__d2450e32" target="_blank" class="usa-link--external">Federal Acquisition Regulation (FAR) (39.205)</a>, documentation is required for this exception. Section 508 Exceptions are categorized and explained in <a href="https://www.access-board.gov/ict/#E202.7" target="_blank" class="usa-link--external">E202.7 Best Meets</a>.
+
+    Only count exceptions that have formal documentation. If the reporting entity only has informal exceptions, meaning exceptions for which there is no formal documentation, do not include those in this total.
+-   
+  qid: q19
+  uid: u19
+  dimension: general
+  q-descr: | 
+    Does the reporting entity have a defined process for reviewing and approving Best Meets Exceptions? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not procure ICT</li>
+    </ol>
+  u-descr: | 
+     A defined process means there is a repeatable framework for reviewing and approving this exception. The Best Meets exception may only be applied to procurement of commercially available ICT. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in this procurement exception process within the reporting entity.
+-   
+  qid: q20
+  dimension: general
+  q-descr: | 
+    Who has authority to sign off on Best Meets Exceptions? (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+      <ol type="a">
+        <li>Section 508 Program Manager</li>
+        <li>Contracting Officer's Technical Representative (COTR) or Contracting Officer's Representative (COR)</li>
+        <li>Contracting Officers</li>
+        <li>Reporting Entity CIO or designee</li>
+        <li>Chief Acquisition Officer or designee</li>
+        <li>Sign off is not required</li>
+        <li>Other [text input field]</li>
+      </ol>
+  u-descr: | 
+     Sign off includes approval and overruling a previous decision.
+-   
+  qid: q21
+  uid: u21
+  dimension: general
+  q-descr: | 
+    Does the reporting entity have a defined process for reviewing and approving Fundamental Alteration and Undue Burden Exceptions? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not procure ICT</li>
+    </ol>
+  u-descr: | 
+     A defined process means there is a repeatable framework for reviewing and approving these exceptions. The Fundamental Alternation and Undue Burden exceptions may be applied to ICT that is developed, used, maintained, or procured. This process may be followed by acquisitions professionals, Section 508 SMEs, or anyone else who has a role in the exceptions process within the reporting entity.
+-   
+  qid: q22
+  uid: u22
+  dimension: general
+  q-descr: | 
+    Who has authority to sign off on Fundamental Alteration and Undue Burden Exceptions? (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol tpe="a">
+      <li>Section 508 Program Manager</li>
+      <li>Contracting Officer's Technical Representative (COTR) or Contracting Officer's Representative (COR)</li>
+      <li>Contracting Officers</li>
+      <li>Reporting Entity CIO or designee</li>
+      <li>Chief Acquisition Officer or designee</li>
+      <li>Sign off is not required</li>
+      <li>Other [text input field]</li>
+    </ol>
+  u-descr: | 
+    Sign off includes approval and overruling a previous decision. 
+-   
+  qid: q23
+  uid: u23
+  dimension: general
+  q-descr: | 
+    How does the reporting entity research and evaluate contractors in order to select the most capable of delivering ICT development services that meet applicable Section 508 requirements? Examples of ICT development services include ICT design and development, creation of electronic content, multimedia creation, and facilitation of technology-reliant meetings or conferences. (*Required) 
+  q-type: | 
+    Select all that apply:
+  q-options: |
+      <ol type="a">
+        <li>Interview potential vendors</li>
+        <li>Review Past Performances</li>
+        <li>Review Contractor Capability Statements</li>
+        <li>Request and review vendor ICT samples for Section 508 conformance</li>
+        <li>Review of contractor submitted solicitations or equivalent by Section 508 Subject Matter Expert</li>
+        <li>Other [text input field]</li>
+        <li>None</li>
+      </ol>
+  u-descr: | 
+     This question seeks to understand how reporting entities research and evaluate contractors who provide ICT development services, whether during the market research or evaluation stage of the acquisition process. When buying ICT development services, there may be no upfront ICT products to assess for accessibility. In these cases, the market research should focus on identifying potential vendors with experience and maturity in developing accessible solutions.
+-   
+  qid: q24
+  uid: u24
+  dimension: general
+  q-descr: | 
+    Indicate how the reporting entity engages users with disabilities. (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>Creation of user personas</li>
+      <li>Defining user needs</li>
+      <li>Development of Section 508 conformance validation testing processes</li>
+      <li>Section 508 conformance validation testing</li>
+      <li>User acceptance testing</li>
+      <li>Interoperability testing with Assistive Technology</li>
+      <li>No engagement</li>
+      <li>Unknown</li>
+      <li>Other [input text field]</li>
+    </ol>
+  u-descr: | 
+    Users with disabilities do not have to be personnel within the reporting entity. For example, interoperability testing with Assistive Technology could be conducted by a firm hired to perform this function.
+
+    Engagement broadly refers to how real users contribute input, expertise, or feedback. Answer selection should reflect the reporting entity's honest assessment of how they engage users with disabilities to inform creation of user personas, defining user needs, etc.
+-   
+  qid: q25
+  uid: u25
+  dimension: general
+  q-descr: | 
+    Select all employee roles and responsibilities that require mandatory Section 508 training either as a one time requirement or on a repetitive basis. (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>Required for All Employees</li>
+      <li>Section 508 Program Manager</li>
+      <li>Program Managers</li>
+      <li>Contracting Officer's Technical Representative (COTR) or Contracting Officer's Representative (COR)</li>
+      <li>Contracting Officers</li>
+      <li>Purchase Card Holders</li>
+      <li>Developers</li>
+      <li>Document Authors</li>
+      <li>Web Content Managers</li>
+      <li>IT Help Desk</li>
+      <li>Front line Support Staff</li>
+      <li>Not Required for Employees</li>
+      <li>Other [input text field]</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Section 508 training may cover a range of topics pertinent to the employee roles and responsibilities listed here, for example:
+
+    - acquisitions,
+    - internal development,
+    - electronic documents accessibility,
+    - accessibility testing, and
+    - other training that provides specific direction on how to incorporate accessibility considerations into processes, policies, or procedures. 
+
+    **NOTE:** This question is not asking which particular topics are covered in Section 508 training.
+-   
+  qid: q26
+  uid: u26
+  dimension: general
+  q-descr: | 
+    Indicate what measures are taken by the reporting entity to ensure content generation and other collaborative activities (e.g., draft documents, presentations, wireframes, and other non-agency official communication) allow colleagues with disabilities to fully participate. (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+      <ol type="a">
+        <li>Fosters a culture of "accessible by default"</li>
+        <li>Specifically targets training for teams with known employees with disabilities</li>
+        <li>Internal communication highlights the importance of accessibility for all electronic content</li>
+        <li>Includes accessible content generation and other collaborative activities in policies, processes, or procedures</li>
+        <li>Implements accessible templates for content creation</li>
+        <li>Unknown</li>
+        <li>Other [input text field]</li>
+        <li>No measures taken</li>
+      </ol>
+  u-descr: | 
+    This question aims to understand how reporting entities handle the accessibility of electronic content generation such as draft or working electronic documents, other collaborative electronic activities amongst colleagues, and electronic content that is not considered <a href="https://www.access-board.gov/ict/#E205.3" target="_blank" class="usa-link--external">Agency Official Communication</a>. This may involve considerations from Section 501, Section 504, and Section 508 to ensure colleagues with disabilities can fully participate. Please note that this question is not asking about final content.
+-   
+  qid: q27
+  dimension: general
+  q-descr: | 
+    What are the reporting entity's primary challenges in implementing and complying with Section 508? (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>Lack of support from management</li>
+      <li>Lack of staffing resources</li>
+      <li>Weak Section 508 policy or procedure</li>
+      <li>Lack of general awareness</li>
+      <li>Lack of or inadequate training</li>
+      <li>Lack of or inadequate authoring, development, or testing tools</li>
+      <li>Lack of or inadequate considerations at the early stage of the ICT life cycle management process</li>
+      <li>Lack of or inadequate knowledge by acquisition officials</li>
+      <li>Lack of or inadequate knowledge by web content managers</li>
+      <li>Lack of or inadequate knowledge by developers</li>
+      <li>Lack of or inadequate knowledge by vendors</li>
+      <li>Poor quality of vendor’s ACRs</li>
+      <li>Section 508 is not prioritized</li>
+      <li>Platform choices are not evaluated for Section 508 conformance</li>
+      <li>Lack of Section 508 conformant options available on the market</li>
+      <li>Vendor misrepresenting accessibility of product</li>
+      <li>Lack of funding or budget</li>
+      <li>Other [input text field]</li>
+      <li>None</li>
+    </ol>
+-   
+  qid: q28
+  dimension: general
+  q-descr: | 
+    Of the following options, select (up to) the top five items that would be the most helpful in implementing Section 508 in the reporting entity. (*Required)
+  q-type: | 
+    Select five:
+  q-options: |
+      <ol type="a">
+        <li>Additional funding to aid Section 508 implementation</li>
+        <li>More ICT accessibility subject matter experts</li>
+        <li>More staff adequately trained to implement Section 508 requirements</li>
+        <li>Stronger Section 508 policies or procedures</li>
+        <li>Stronger Section 508 awareness across the reporting entity</li>
+        <li>Stronger Leadership support</li>
+        <li>Increased implementation of established policies or procedures</li>
+        <li>Better access to tools necessary to create accessible digital content</li>
+        <li>Better access to ICT testing tools</li>
+        <li>More government-wide ICT testing guidance</li>
+        <li>Better guidance for buying or selecting accessible ICT</li>
+        <li>More accountability for Section 508 implementation across the technology development lifecycle</li>
+        <li>Industry awareness and generation of Section 508 conformant ICT</li>
+        <li>Inter-agency Section 508 shared services</li>
+        <li>Access to Section 508 training</li>
+        <li>Stronger action or enforcement of accessibility violations for vendors</li>
+        <li>Other [text input field]</li>
+        <li>None</li>
+      </ol>
+-   
+  qid: q29
+  dimension: program
+  q-descr: | 
+    What is the status of the reporting entity's Section 508 Program or equivalent? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Does not have a formal Section 508 program or equivalent</li>
+      <li>Formal Section 508 program or equivalent is in development</li>
+      <li>A Section 508 program or equivalent exists with defined organizational ownership</li>
+      <li>The Section 508 program or equivalent is widely known and relied on to inform policies, practices and decision-making related to digital content, technology development, and acquisitions</li>
+      <li>In addition to d), the Section 508 program has well-defined performance metrics as well as authority in decision-making processes related to ICT</li>
+    </ol>
+-   
+  qid: q30
+  dimension: program
+  q-descr: | 
+    What is the status of the reporting entity's Section 508 Program Manager or equivalent position. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No formal position nor duties assigned to perform the role of a Section 508 Program Manager or equivalent</li>
+      <li>Section 508 Program Manager position has clearly defined roles and responsibilities but no personnel are currently performing the duties of the Section 508 Program Manager or equivalent</li>
+      <li>Section 508 Program Manager or equivalent is currently staffed and has clearly defined roles, responsibilities, and Section 508-aligned performance measures</li>
+      <li>In addition to c), meets or exceeds defined Section 508 -aligned performance measures and has sufficient authority and time to effectively manage and coordinate entity Section 508 efforts</li>
+      <li>In addition to d), uses feedback loops and process analysis to continually make program improvements</li>
+    </ol>
+-   
+  qid: q31
+  dimension: program
+  q-descr: | 
+    Indicate how often the reporting entity's Section 508 program (or equivalent) provides support in response to ICT accessibility-related questions and support requests. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Does not have a Section 508 program or never provides support</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q32
+  dimension: program
+  q-descr: | 
+    Indicate how often Section 508 is included in ICT governance processes (e.g., milestone reviews, publication or deployment decisions, change control reviews). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not engage in any form of ICT governance</li>
+    </ol>
+-   
+  qid: q33
+  uid: u33
+  dimension: program
+  q-descr: | 
+    Indicate to what extent resources are available (e.g., training, tools, staff support, etc.) to the reporting entity's Section 508 Program (or equivalent) to implement Section 508. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Resource needs are unmet and no indication of plans for allocation</li>
+      <li>Resource needs are unmet but resources are planned for allocation to meet needs in whole or in part</li>
+      <li>Some resource needs are met (approximately 1%-59%)</li>
+      <li>Most resource needs are met (approximately 60%-89%)</li>
+      <li>All or almost all of resource needs are met (approximately 90% or more)</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    If the reporting entity is unsure of resource needs, select "f) Unknown." For answers a) to e), it is assumed the reporting entity is aware of resources needed. 
+
+    Resources include but are not limited to:
+
+    - time allocated for all Section 508 team staff to take relevant Section 508 training, 
+    - attendance to a bootcamp for accessible coding, 
+    - trainer-led training on the entity-specific content management system for the Section 508 Program Manager, 
+    - support and resources for automated testing tools approval and installation for enterprise use, 
+    - multiple vendor demonstrations of accessibility and assistive technology tools, and
+    - leadership support to facilitate and enable communication with multiple stakeholders within the organization.
+-   
+  qid: q34
+  uid: u34
+  dimension: policies
+  q-descr: | 
+    What is the status of the reporting entity's Section 508 or ICT accessibility policy? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Does not exist</li>
+      <li>In draft</li>
+      <li>Published Section 508 or ICT accessibility policy, but does not include all relevant M-24-08 and Section 508 statutory requirements [provide public facing URL to Section 508/ICT policy]</li>
+      <li>Published Section 508 or ICT accessibility policy includes all relevant M-24-08 and Section 508 statutory requirements [provide public facing URL to Section 508/ICT policy]</li>
+      <li>In addition to d), published Section 508 or ICT accessibility policy is appropriately referenced in other relevant entity policies and is regularly reviewed and updated [provide public facing URL to Section 508/ICT policy]</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">M-24-08</a>" states "Agencies should establish agency-wide policies and procedures to manage the accessibility of ICT. This includes, at a minimum, establishing:
+
+    - Clear authorities, roles and responsibilities, and expectations for how Section 508 compliance is addressed in technology acquisition, development, configuration, deployment, and maintenance activities;
+    - Documented processes and procedures for Section 508 conformance testing; and
+    - Documented processes and procedures for how Section 508 issues and complaints are reported, assessed, tracked, and resolved."
+
+    If the Section 508 or ICT accessibility policy is in draft form and not published, please select "b" accordingly. If the reporting entity does not have any policy, please select "a" accordingly.
+
+    For additional information, please see <a href="https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/play04" target="_blank">Play 4: Establish a Section 508 Policy in the Technology Accessibility Playbook</a>.
+-   
+  qid: q35
+  uid: u35
+  dimension: policies
+  q-descr: | 
+    Indicate to what extent the reporting entity incorporates ICT accessibility in all relevant policies and directives (i.e., policies and directives that govern procurement, development, maintenance, or use of ICT). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>ICT accessibility is not included in any reporting entity policies or directives</li>
+      <li>Reporting entity has a draft Section 508 policy only</li>
+      <li>ICT accessibility is included in some relevant policies or directives entity-wide</li>
+      <li>ICT accessibility is included in most relevant policies or directives entity-wide</li>
+      <li>Reporting entity includes consideration for ICT accessibility in its policy or directive creation, review, and management process, and almost all or all relevant policies include consideration for ICT accessibility requirements</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    The <a href="https://www.section508.gov/manage/policy-framework/introduction/" target="_blank">IT Accessibility Policy Framework</a> can assist your reporting entity determine if and the extent to which its relevant internal policies and directives incorporate IT accessibility information.
+-   
+  qid: q36
+  uid: u36
+  dimension: policies
+  q-descr: | 
+    Indicate to what extent the reporting entity has documented processes and procedures for how Section 508 complaints are reported, assessed, tracked, and resolved. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No documented processes nor procedures for reporting, assessing, tracking, and resolving Section 508 related complaints</li>
+      <li>Manages Section 508-related complaints on an ad hoc basis and has a plan to establish documented policies and procedures for reporting, assessing, tracking, and resolving Section 508 complaints</li>
+      <li>Implements a documented complaint process with specific procedures for reporting, assessing, tracking, and resolving Section 508 complaints (e.g., under the process for managing Section 504 complaints) but lacks systematic tracking</li>
+      <li>Implements a documented complaint process with specific procedures for reporting, assessing, tracking, and resolving Section 508 complaints and has systematic tracking</li>
+      <li>In addition to d), includes feedback loops for continuous improvement</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Systematic tracking may be performed using a spreadsheet, database, or application that allows data input, assignment of case, ID or ticket, tracking to resolution, and the ability to generate metrics. 
+
+    This question does not aim to specify who should handle Section 508-related complaints, but rather focuses on the reporting entity as a whole. Depending on the reporting entity's implementation, the Section 508 Program may not be involved in or responsible for processing complaints.
+-   
+  qid: q37
+  uid: u37
+  dimension: communications
+  q-descr: | 
+    Indicate how often the reporting entity distributes communications with employees and contractors about digital accessibility. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never distributes communications regarding digital accessibility</li>
+      <li>Approximately 1-2 times a year</li>
+      <li>Approximately 3-5 times a year</li>
+      <li>Approximately 6 -8 times a year</li>
+      <li>9 or more times a year</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not issue any formal communications (internal or external)</li>
+    </ol>
+  u-descr: | 
+    This question assesses the frequency with which the reporting entity disseminates communications regarding digital accessibility policies, issues, best practices, tools, support, and similar topics.
+-   
+  qid: q38
+  uid: u38
+  dimension: communications
+  q-descr: | 
+    Indicate how often the reporting entity utilizes a formal process or plan for creating Section 508 conformant agency official communications (internal and external). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time) resulting in little to no Section 508 issues for recipients</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not issue any agency official communications (internal or external)</li>
+    </ol>
+  u-descr: | 
+    <a href="https://www.access-board.gov/ict/#E205.3" target="_blank" class="usa-link--external">Agency official communication</a> is defined by the U.S. Access Board as electronic content that is not public facing, constitutes official business, and is communicated by an agency through one or more of the following:
+
+    - An emergency notification;
+    - An initial or final decision adjudicating an administrative claim or proceeding;
+    - An internal or external program or policy announcement;
+    - A notice of benefits, program eligibility, employment opportunity, or personnel action;
+    - A formal acknowledgement of receipt;
+    - A survey questionnaire;
+    - A template or form;
+    - Educational or training materials; or
+    - Intranet content designed as a Web page. 
+
+    **EXCEPTION**: Records maintained by the National Archives and Records Administration (NARA) pursuant to Federal recordkeeping statutes shall not be required to conform to the Revised 508 Standards unless public facing.
+-   
+  qid: q39
+  dimension: communications
+  q-descr: | 
+    Indicate how often the reporting entity provides Section 508 conformant information and associated resources to employees in response to an emergency (e.g., Continuity of Operations, Active Shooter, pandemic-related, etc.). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time) resulting in little to no Section 508 issues for recipients</li>
+      <li>Unknown</li>
+      <li>N/A - does not issue any formal internal emergency communications</li>
+    </ol>
+-   
+  qid: q40
+  dimension: communications
+  q-descr: | 
+    Indicate how often the reporting entity provides Section 508 conformant mission-related emergency communications to external stakeholders (e.g., public safety, law enforcement, disaster-related, weather-related, etc.). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time) resulting in little to no Section 508 issues for recipients</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not issue any formal external emergency communications</li>
+    </ol>
+-   
+  qid: q41
+  dimension: content
+  q-descr: | 
+    Indicate how often non-conformant digital content is tracked and remediated within the reporting entity. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Not tracked nor remediated</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Always (100%) or almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q42
+  uid: u42 
+  dimension: content
+  q-descr: | 
+    How often are Section 508 reviews integrated into the reporting entity's electronic content prior to publication? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Electronic content may be internal or external, but only consider content that is published.
+-   
+  qid: q43
+  dimension: hr
+  q-descr: | 
+    Indicate to what extent ICT accessibility is included as a core value in reporting entity DEIA and/or mission-related strategic planning. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No defined ICT accessibility related goals or objectives included</li>
+      <li>Reporting entity plans to update ICT accessibility core values in the DEIA and/or mission-related strategic plan in the next strategic plan update (less than 5 years)</li>
+      <li>Reporting entity is expected to update ICT accessibility core values in the DEIA and/or mission-related strategic plan in the next strategic plan update (1-3 years)</li>
+      <li>Reporting entity is currently updating ICT accessibility core values in the DEIA and/or mission-related strategic plan in the next strategic plan update (less than 1 year)</li>
+      <li>ICT accessibility core values have been included in the reporting entity DEIA and/or mission-related strategic plan, and leadership regularly communicates this core value</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q44
+  dimension: hr
+  q-descr: | 
+    Indicate if Section 508 compliance is included in reporting entity ICT-related leadership and management performance plans. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No, and has no plans to do so</li>
+      <li>No, but reporting entity has a timetable to begin implementation</li>
+      <li>Yes, for some ICT leadership and management performance plans (approximately 1%-50%)</li>
+      <li>Yes, for a majority of ICT leadership and management performance plans (approximately 51%-89%)</li>
+      <li>Yes, for all or almost all  ICT leadership and management performance plans (approximately 90% or more)</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q45
+  uid: u45
+  dimension: hr
+  q-descr: | 
+    How often are ICT accessibility skills and capabilities integrated into competency and professional development planning for reporting entity staff who are responsible for ensuring ICT is accessible? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Staff who are responsible for ensuring ICT is accessible may include:
+
+    - Contracting Officers,
+    - Contracting Officers' Representatives,
+    - Designers,
+    - Developer,
+    - Testers,
+    - IT Project Managers and leadership,
+    - Digital content managers,
+    - Communications professionals,
+    - Instructional designers, or
+    - Section 508 Program Managers.
+
+    This question is very broadly asking  how the reporting entity identifies who is responsible for ensuring ICT is accessible and how the reporting entity is building accessibility knowledge and competency into those roles to ensure creation of accessible content.
+-   
+  qid: q46
+  dimension: hr
+  q-descr: | 
+    How often does the reporting entity's Section 508 program (or equivalent) engage with disability-related affinity groups (external or internal to reporting entity) to inform ICT accessibility program maturity? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never</li>
+      <li>Sometimes but generally on an ad hoc basis (1-2 times a year)</li>
+      <li>Regularly through scheduled interactions (3-4 times a year)</li>
+      <li>Frequently through scheduled interactions (5-6 times a year)</li>
+      <li>Affinity groups have an active voice and role in ICT accessibility considerations and are engaged through scheduled interactions 7 or more times a year or interactions are integrated into development lifecycle feedback loops</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not have a Section 508 program or equivalent</li>
+    </ol>
+-   
+  qid: q47
+  uid: u47
+  dimension: lifecycle
+  q-descr: | 
+    Indicate how your reporting entity identifies and prioritizes risk of Section 508 non-conformant ICT using a risk framework throughout the technology development lifecycle. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Risk related to Section 508 non-conformance is not assessed during any part of the technology development lifecycle</li>
+      <li>Any Section 508-related risk assessment is ad hoc or sometimes used (approximately 1%-24% of the time)</li>
+      <li>A risk framework for ICT development and defect remediation that incorporates Section 508 considerations exists and is regularly used (approximately 25%-59% of the time)</li>
+      <li>A risk framework is frequently used to determine risk related to Section 508 non-conformance during the technology development lifecycle, including prioritization for remediating ICT products (approximately 60%-89% of the time)</li>
+      <li>A risk framework is almost always used to determine risk related to Section 508 non-conformance during the technology development lifecycle, including prioritization for remediating almost all ICT products, and resulting risk assessments are incorporated into milestone reviews and deployment decisions (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not engage in any technology lifecycle activities</li>
+    </ol>
+  u-descr: | 
+    A risk framework could include a risk model or a ranking of risk based on criticality of defect. This term broadly applies as reporting entities may utilize one or more methods.
+-   
+  qid: q48
+  dimension: lifecycle
+  q-descr: | 
+    Indicate to what extent the reporting entity escalates and takes action on non-conformance issues with vendors/contractors who produce or deliver inaccessible ICT despite contractual requirements for ICT to conform with Section 508 standards. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No action is taken to address vendor products or deliverables which do not conform</li>
+      <li>Escalation occurs sometimes, but generally on an ad hoc basis, resulting in limited actions taken (approximately 1%-24% of the time)</li>
+      <li>Implements a process for complaint escalation for vendor products or deliverables which do not conform and actions are regularly taken to enforce accessibility (approximately 25%-59% of the time)</li>
+      <li>Implements a process for complaint escalation for vendor products or deliverables which do not conform and actions are frequently taken to enforce accessibility (approximately 60%-89% of the time)</li>
+      <li>Implements a process for complaint escalation for vendor products or deliverables, and actions are almost always taken to enforce accessibility and/or penalties (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not rely on contract or vendor support for ICT development or does not develop ICT</li>
+    </ol>
+-   
+  qid: q49
+  dimension: lifecycle
+  q-descr: | 
+    How often are knowledgeable staff integrated into lifecycle activities to ensure that ICT is Section 508 conformant? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Reporting entity does not have staff with sufficient knowledge and skill to ensure ICT is Section 508 conformant</li>
+      <li>Knowledgeable staff are not integrated into lifecycle activities</li>
+      <li>Knowledgeable staff are sometimes integrated in lifecycle development activities (approximately 1%-24% of the time)</li>
+      <li>Knowledgeable staff are regularly integrated in lifecycle development activities (approximately 25%-59% of the time)</li>
+      <li>Knowledgeable staff are frequently integrated in lifecycle development activities (approximately 60%-89% of the time)</li>
+      <li>Knowledgeable staff are almost always integrated into lifecycle development activities and active feedback loops create innovative ways to meet accessibility needs (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not have a formal technology development lifecycle</li>
+    </ol>
+-   
+  qid: q50
+  dimension: lifecycle
+  q-descr: | 
+    How often is Section 508 conformance integrated throughout technology development lifecycle activities? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not have a formal technology development lifecycle</li>
+    </ol>
+-   
+  qid: q51
+  uid: u51
+  dimension: testing
+  q-descr: | 
+    How often does the reporting entity conduct web content user testing with people with disabilities prior to deployment to address all applicable Section 508 standards? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not publish or maintain any web content</li>
+    </ol>
+  u-descr: | 
+    User testing may include users internal or external to the reporting entity.   
+-   
+  qid: q52
+  dimension: testing
+  q-descr: | 
+    How often does the reporting entity implement, and produce reliable test results using, standard processes for validating web content conformance to Section 508 standards? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not publish or maintain any web content</li>
+    </ol>
+-   
+  qid: q53
+  uid: u53
+  dimension: testing
+  q-descr: | 
+    How often is comprehensive manual Section 508 conformance validation testing performed on reporting entity web content (internet and intranet) prior to deployment?(*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not publish or maintain any web content</li>
+    </ol>
+  u-descr: | 
+    Comprehensive manual conformance validation testing means a manual testing approach is provided for all Section 508 requirements. Trusted Tester Conformance Test Process for Web is an example of a comprehensive manual conformance validation test approach.
+-   
+  qid: q54
+  uid: u54
+  dimension: testing
+  q-descr: | 
+    How often is comprehensive automated Section 508 testing performed on reporting entity web content (internet and intranet) prior to deployment?(*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not publish or maintain any web content</li>
+    </ol>
+  u-descr: | 
+    Comprehensive, large-scale web content validation means using automated accessibility testing tools to test or scan all or a significant portion of web content.
+-   
+  qid: q55
+  uid: u55
+  dimension: testing
+  q-descr: | 
+    How often are reporting entity public, online documents tested for Section 508 conformance prior to distribution?(*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but is generally ad hoc (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not have any public online documents</li>
+    </ol>
+  u-descr: | 
+    Public, online documents (see the definition of <a href="../definition-of-terms/#document" target="_blank">document</a>) are electronic documents available to the general public. 
+-   
+  qid: q56
+  dimension: testing
+  q-descr: | 
+    In the event that Section 508 non-conformant ICT is deployed or distributed, indicate how known non-conformance issues are remediated. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never remediates known Section 508 non-conformance issues after deployment or distribution (0%)</li>
+      <li>Sometimes remediates Section 508 non-conformance issues after deployment or distribution, but remediation typically occurs on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly remediates Section 508 non-conformance issues based on a risk framework and includes accommodation plans (approximately 25%-59% of the time)</li>
+      <li>Frequently remediates Section 508 non-conformance issues based on a risk framework and includes accommodation plans (approximately 60%-89% of the time)</li>
+      <li>Almost always remediates high severity issues immediately based on a risk framework resulting in little to no impact on users with disabilities and includes accommodation plans (approximately 90% or more of the time)</li>
+      <li>Reporting entity only releases ICT that has been tested and found to be fully Section 508 conformant</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not deploy or distribute any ICT</li>
+    </ol>
+-   
+  qid: q57
+  uid: u57
+  dimension: acquisition
+  q-descr: | 
+    How often does the reporting entity include sufficient ICT accessibility requirements in solicitations? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A-reporting entity does not release solicitations</li>
+    </ol>
+  u-descr: | 
+    Sufficient in this context means the reporting entity has identified relevant accessibility requirements and inserted those into each solicitation. A blanket copy and paste of all applicable Section 508 requirements would not suffice for this answer. See also <a href="https://www.section508.gov/buy/#requirements" target="_blank">Step 1 - Determine Accessibility Requirements</a> for methods to identify relevant requirements. 
+-   
+  qid: q58
+  uid: u58
+  dimension: acquisition
+  q-descr: | 
+    Indicate how the reporting entity identifies and prioritizes risk of Section 508 non-conformant ICT throughout the acquisition lifecycle. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Risk related to Section 508 non-conformance is not assessed during any part of acquisitions</li>
+      <li>Any Section 508-related risk assessment is ad hoc or sometimes used (approximately 1%-24% of the time)</li>
+      <li>A repeatable risk framework for ICT acquisitions that incorporates Section 508 considerations exists and is regularly used (approximately 25%-59% of the time)</li>
+      <li>A repeatable risk framework is frequently used to determine risk related to Section 508 non-conformance for ICT acquisitions (approximately 60%-89% of the time)</li>
+      <li>A repeatable risk framework is almost always used to determine risk related to Section 508 non-conformance for almost all ICT acquisitions (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - the reporting entity is not engaged in ICT acquisitions</li>
+    </ol>
+  u-descr: | 
+    A risk framework could include a risk model or a ranking of risk based on criticality of defect. This term broadly applies as reporting entities may utilize one or more methods, but the framework must be repeatable, indicating there is a documented risk framework.   
+-   
+  qid: q59
+  dimension: acquisition
+  q-descr: | 
+    Indicate to what extent Section 508 conformance is part of the reporting entity's market research for ICT products. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Section 508 conformance is not included in market research</li>
+      <li>Obtaining Section 508 conformance information as part of market research sometimes occurs but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Section 508 conformance information is regularly obtained for all products and consideration for Section 508 conformance is a formal part of review but may not contain all necessary information related to accessibility requirements (approximately 25%-59% of the time)</li>
+      <li>Sufficient Section 508 conformance information is frequently obtained for all products and Section 508 conformance is a formal part of review, which is frequently used to select the most accessible ICT that meets the business need (approximately 60%-89% of the time)</li>
+      <li>Sufficient Section 508 conformance information is almost always obtained for all products, a formal review of Section 508 conformance is almost always used to select of the most accessible ICT that meets the business need, and market research outcomes and processes are regularly reviewed for improvement (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not procure ICT products</li>
+    </ol>
+-   
+  qid: q60
+  dimension: acquisition
+  q-descr: | 
+    Indicate the approach to verifying contract deliverables that are required to be Section 508 conformant. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never verified</li>
+      <li>Sometimes verified but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly verified prior to acceptance, including required remediation when necessary (approximately 25%-59% of the time)</li>
+      <li>Frequently verified prior to acceptance, including required remediation when necessary (approximately 60%-89% of the time)</li>
+      <li>Almost always verified prior to acceptance, including required remediation when necessary (approximately 90% or more of the time)</li>
+      <li>N/A - reporting entity does not award contracts</li>
+    </ol>
+-   
+  qid: q61
+  dimension: acquisition
+  q-descr: | 
+    Indicate how the needs of individuals with disabilities are included during assessment of ICT-related business needs or equivalent acquisition planning process. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Needs are not considered</li>
+      <li>Needs are sometimes considered or included but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Needs are defined as part of the business needs assessment or equivalent and are regularly considered or included in ICT acquisitions (approximately 25%-59% of the time)</li>
+      <li>Needs are defined as part of the business needs assessment or equivalent and are frequently considered or included (approximately 60%-89% of the time)</li>
+      <li>Needs are integrated into business needs processes or equivalent, almost always included, and feedback loops are established for continuous refinement (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not generate business needs or participate in acquisition planning processes or equivalent</li>
+    </ol>
+-   
+  qid: q62
+  uid: u62
+  dimension: acquisition
+  q-descr: | 
+    How often is Section 508 included in the technical evaluation of proposals related to ICT services and products? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never (0% of the time)</li>
+      <li>Sometimes but generally on an ad hoc basis (approximately 1%-24% of the time)</li>
+      <li>Regularly (approximately 25%-59% of the time)</li>
+      <li>Frequently (approximately 60%-89% of the time)</li>
+      <li>Almost always (approximately 90% or more of the time)</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not award contracts</li>
+    </ol>
+  u-descr: | 
+    For this question, "inclusion" implies that Section 508 serves as a technical evaluation factor or subfactor, extending beyond merely considering it during the evaluation process.
+-   
+  qid: q63
+  dimension: training
+  q-descr: | 
+    Indicate to what extent the reporting entity's Section 508 training plan defines training needs and training curriculum by ICT roles and responsibilities. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No Section 508 training plan defined</li>
+      <li>General Section 508 training plan defined but does not specify training needs and training curriculum by ICT roles and responsibilities</li>
+      <li>Section 508 training plan identifies training needs and training curriculum for some ICT roles and responsibilities (approximately 1%-50%)</li>
+      <li>Section 508 training plan identifies training needs and training curriculum for most ICT roles and responsibilities (approximately 51%-89%)</li>
+      <li>Section 508 training plan identifies training needs and training curriculum for almost all ICT roles and responsibilities (approximately 90% or more)</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q64
+  dimension: training
+  q-descr: | 
+    Indicate to what extent Section 508 awareness training is required for reporting entity employees. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No Section 508 awareness training is offered</li>
+      <li>Section 508 awareness training is in development</li>
+      <li>An optional Section 508 awareness training is offered that employees sometimes take, but generally on an ad hoc basis</li>
+      <li>Required Section 508 awareness training as a one-time requirement such as part of employee onboarding</li>
+      <li>Required Section 508 awareness training on a regular basis such as annually</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q65
+  dimension: training
+  q-descr: | 
+    How often does the reporting entity offer ICT accessibility-related training to employees, including training on guidance, templates, and tools for creating accessible content? Training may be provided or offered by the reporting entity, vendor, parent agency, other reporting entity, etc. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Never</li>
+      <li>Approximately 1-2 times a year</li>
+      <li>Approximately 3-4 times a year</li>
+      <li>Approximately 5-6 times a year</li>
+      <li>Approximately 7 or more times a year</li>
+      <li>Unknown</li>
+    </ol>
+-   
+  qid: q66
+  dimension: training
+  q-descr: | 
+    Indicate to what extent development or testing professionals responsible for reporting entity web content are trained in Section 508 conformance validation testing for web content (Section 508 web testing). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>No development or testing professionals are trained in Section 508 web testing</li>
+      <li>Some development or testing professionals have training in Section 508 web testing, but training is ad hoc</li>
+      <li>Training curriculum or certification in Section 508 web testing is identified for all development and testing professionals but not required</li>
+      <li>Training curriculum or certification in Section 508 web testing is identified and required for all development and testing professionals</li>
+      <li>Training curriculum or certification in Section 508 web testing is identified and required for all development and testing professionals to meet current and future business needs and continuous education is actively pursued to keep up with emerging accessibility testing needs</li>
+      <li>Unknown</li>
+      <li>N/A - reporting entity does not publish or maintain any web content</li>
+    </ol>
+-   
+  qid: q67
+  uid: u67
+  dimension: conformance
+  q-descr: | 
+    Estimate how many web pages are published on public internet websites owned or operated by the reporting entity? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Estimate how many individual pages are public facing: 
+
+    - A web application may work on a single web page (single URL) but have multiple tabs and sections with dynamically generated content depending on the user's tasks; this counts as one web page.
+    - A single web page may be automatically rendered one way for a PC browser and another way for a Tablet or Mobile Device; this counts as one web page.
+
+    The reported number should be the reporting entity's estimation based on available data sources. Sources include:
+    
+    - Reporting entity web team.
+    - The analytics (e.g., Google Analytics) or website dashboard the reporting entity uses.
+
+    **NOTE:** When seeking the above information from the web team, you may also need certain information on the most frequently used digital content on reporting entity websites in order to answer other Conformance Metrics questions. 
+
+    **NOTE:** For websites operated in collaboration between multiple reporting entities, only count the pages if your reporting entity is considered the primary owner or manager of the website.    
+    
+    **NOTE:** For the purposes of this Assessment, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE">extranet</a> is included in questions related to internet web pages.    
+-   
+  qid: q68a
+  uid: u68a
+  dimension: conformance
+  q-descr: | 
+    Estimate how many web pages published on public internet websites owned or operated by the reporting entity were evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    Web pages may have been tested for accessibility manually, with an automated tool, or both manually and with an automated tool during the current reporting period.
+
+    If, during this reporting period, the reporting entity only tested the required digital content elements in Question 71 for this assessment, answer "10” web pages for this question. 
+
+    If, during this reporting period, the entity tested additional pages, then the reporting entity's answer should include the 10 required plus the additional number the reporting entity tested as part of the reporting entity's regular program.
+
+    **NOTE:** If a web application appears on a single web page (single URL), count it as one web page.
+-   
+  qid: q68b
+  uid: u68b
+  dimension: conformance
+  q-descr: | 
+    Of the public internet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by a combination of both automated and manual testing? NOTE: The percentages entered in 68b, 68c, and 68d should add up to 100%. (*Required)
+  q-type: | 
+    Select one:
+  q-note: This question will show only if Question 68a is greater than 0.
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    If testing uses a combination of both automated testing tools and manual testing tools, enter that percentage here. As noted, this question asks about a specific reporting period only; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    **NOTE:** For each web page tested, a combined methodology is "AND" not "OR." In other words, if an automated test is used for a certain set of pages, and manual testing is used for other pages, enter those results in Questions 68c and Question 68d respectively instead of here.
+-   
+  qid: q68c
+  uid: u68c
+  dimension: conformance
+  q-descr: | 
+    Of the public internet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by only automated testing? NOTE: The percentages entered in 68b, 68c, and 68d should add up to 100%. (*Required)
+  q-type: | 
+    Select one:
+  q-note: This question will show only if Question 68a is greater than 0.
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    If certain web pages were tested with automated tools only, enter that percentage here. As noted, this question asks about a specific reporting period only; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    If testing using a combination of both automated and manual tests to fully evaluate against all applicable Success Criteria, then provide that percentage in Question 68b.
+
+    **NOTE:** Some examples of automated test tools are given in the response options for Question 11.
+-   
+  qid: q68d
+  uid: u68d
+  dimension: conformance
+  q-descr: | 
+    Of the public internet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by only manual testing? NOTE: The percentages entered in 68b, 68c, and 68d should add up to 100%. (*Required)
+  q-type: | 
+    Select one:
+  q-note: This question will show only if Question 68a is greater than 0.
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    If certain web pages were tested with manual tools only, enter that percentage here. As noted, this question asks about a specific reporting period only; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    If testing using a combination of both automated and manual tests to fully evaluate against all applicable Success Criteria, then provide that percentage in Question 68b.
+
+    **NOTE:** Some examples of manual testing methodologies are given in the response options for Question 13.
+-   
+  qid: q69a
+  uid: u69a
+  dimension: conformance
+  q-descr: | 
+    Estimate the percentage of public internet web pages evaluated between June 1, 2023, and May 31, 2024, that fully conform to Section 508 standards. Round the result to the nearest whole number. Manual testing is required to evaluate full Section 508 conformance. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question will show only if Question 68a is greater than 0.
+  u-descr: | 
+    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+
+    To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
+
+    Sampling may be used to estimate a percentage. To determine an appropriate number of web pages to sample, you can use a free, web-based sample size calculator that accepts confidence level, margin of error, and population size. Enter search terms such as "sample size calculator" to find a suitable tool. Consider a 90% confidence level and 10% margin of error. 
+
+    NOTE: For population size, enter the same value you previously determined for Question 67 as the total number of public internet web pages.
+
+    If the reporting entity has only tested the required 10 web pages in Question 71, please provide metrics here for only those pages. If additional pages were tested within the reporting period, combine both data sets to report conformance metrics for the reporting entity's internet sites.
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
+-   
+  qid: q69b
+  uid: u69b
+  dimension: conformance
+  q-descr: | 
+    Please describe the methodology used to determine the estimated percentage of public internet web pages that fully conform to Section 508 in 69a. (*Required)
+  q-options: |
+    Open text field [character limit of 1000]
+  q-note: This question will only show if a is selected for Question 69a.
+  u-descr: | 
+    When responding to this question, please consider describing any of the following methods used:
+
+    1. Sampling to include size of population, size of sample, confidence interval, and margin of error. 
+    2. Testing methodologies used (automated, manual, hybrid testing) and any relevant information related to the number of pages tested with each methodology to inform the estimated percentage.
+    3. Use and summation of test results generated over the reporting period.
+    4. Other data or methodologies used to inform the estimated percentage. 
+
+    **NOTE:** Manual testing is required to evaluate full Section 508 conformance.
+-   
+  qid: q70
+  uid: u70
+  dimension: conformance
+  q-descr: | 
+    Across all public internet web pages evaluated between June 1, 2023 and May 31, 2024, what is the average number of Section 508 non-conformance issues per page? Round to the nearest whole number. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question will show only if Question 68a is greater than 0.
+  u-descr: | 
+    If the reporting entity only tested the required 10 web pages in Question 71, please provide metrics here for only those pages. If the reporting entity tested additional pages within the reporting period, combine both data sets to report conformance metrics.
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page. 
+
+    Below is an example of how to calculate the average number of Section 508 non-conformance issues per page:
+
+    1. Determine how many web pages were evaluated in the reporting period. 
+    2. Review test reports (manual testing, automated testing, or a combination of both manual and automated testing) and count how many non-conformance issues were found for each page tested. 
+      - Additional testing is not needed to answer this question; use the test reports your reporting entity has available to provide data for this question. 
+    3. Average number of non-conformance issues per page = Total number of all non-conformance issues found divided by the total number of pages
+    4. For example: 20 web pages are tested. The defects found per page are: 45, 75, 80, 12, 30, 48, 53, 90, 5, 16, 20, 22, 4, 8, 16, 11, 21, 13, 9, 0 = 578. 578/20 = 28.9. Round to the nearest whole number and report 29.
+-    
+  qid: q71
+  uid: u71
+  dimension: conformance
+  q-descr: | 
+    Identify the reporting entity's top ten viewed public internet web pages between June 1, 2023 and May 31, 2024. Test each page for full conformance to Section 508. This will require comprehensive manual testing in addition to any automated process used. For each page, select each Section 508 standard or WCAG Success Criterion that has a failure. Provide page name, page description and URL. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>N/A- reporting entity does not have public internet web pages</li>
+      <li>Unavailable- does not have resources to test</li>
+      <li>Has results to report [If selected, report the following for each page:]
+        <ul>
+          <li>Web page name:</li>
+          <li>Web page description:</li>
+          <li>URL:</li>
+          <li>Select each Section 508 standard or WCAG Success Criterion standard that fails on the page</li>
+        </ul>
+      </li>
+    </ol>
+  u-descr: | 
+    The final layout in the reporting tool will be forthcoming. For FY24, select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the web page name, description, and URL. 
+
+    To find out which of public internet web pages count as "Top viewed," use the same approach as in Understanding for Question 67. The reporting entity should identify the top 10 viewed web pages within the entire reporting period (June 1, 2023, through May 31, 2024).
+
+    Testing each web page for full conformance to Section 508 will require comprehensive manual testing. Please fully test each web page and report which Section 508 Standard or WCAG Success Criterion fails by page. 
+
+    If the reporting entity does not have any internet pages, please select N/A. If the reporting entity has less than 10 internet pages, test all possible pages and report results. If the reporting entity has internet pages but does not have resources to test, please select “Unavailable.”
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
+
+    If the reporting entity tests web pages using automated tools only, they must switch to a different method to respond to this assessment. The reporting entity must use a manual test process or a combined manual and automated test process.
+
+    When reporting failures, please select each Success Criterion or Section 508 standard with any failure found on the web page. For example, if on the reporting entity Home page, there are 8 instances of missing alternative text on the page, check 1.1.1 Non-text Content. On the second page, there are no instances of failures for 1.1.1 Non-text Content; leave 1.1.1 unchecked. 
+
+    If a given standard or criterion does not apply to the page tested, leave it unchecked.
+-   
+  qid: q72
+  uid: u72
+  dimension: conformance
+  q-descr: | 
+    Estimate how many web pages are published to internal intranet websites owned or operated by the reporting entity? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+      <li>N/A</li>
+    </ol>
+  u-descr: | 
+    Estimate how many individual pages only an internal user to the reporting entity could access: 
+
+    - A web application may work on a single web page (single URL), but have multiple tabs and sections with dynamically generated content depending on the user's tasks. This counts as one web page.
+    - A single web page may be automatically rendered one way for a PC browser and another way for a Tablet or Mobile Device. This counts as one web page.
+
+    This estimated page number can be the reporting entity's estimation based on available data sources. Sources include:
+
+    - Reporting entity web team,
+    - The analytics the reporting entity uses.
+-   
+  qid: q73a
+  uid: u73a
+  dimension: conformance
+  q-descr: | 
+    How many web pages, published to internal intranet websites owned or operated by the reporting entity, were evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>N/A</li>
+    </ol>
+  u-descr: | 
+    Web pages may have been tested for accessibility manually, with an automated tool, or both manually and with an automated tool during the current reporting period.
+
+    If, during this reporting period, the reporting entity only tested the required digital content elements in Question 76 for this assessment, answer "10" web pages for this question. 
+
+    If, during this reporting period, the entity tested additional pages, then the reporting entity answer should include the 10 required plus the additional number the reporting entity tested as part of the reporting entity's regular program.
+
+    **NOTE:** If a web application appears on a single web page (single URL), count it as one web page.
+-   
+  qid: q73b
+  uid: u73b
+  dimension: conformance
+  q-descr: | 
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were evaluated by a combination of both automated and manual testing?**NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 73a is greater than 0.
+  u-descr: | 
+    If testing uses a combination of both automated testing tools and manual testing tools, enter that percentage here. As noted, this is for a specific reporting period only; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    **NOTE:** For each web page tested, a combined methodology is "AND" not "OR." In other words, if an automated test is used for a certain set of pages, and manual testing is used for other pages, enter those results in Questions 73c and Question 73d respectively instead of here.
+-   
+  qid: q73c
+  uid: u73c
+  dimension: conformance
+  q-descr: | 
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by automated testing? (*Required) **NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%.
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 73a is greater than 0.
+  u-descr: | 
+    If certain web pages were tested with automated tools only, enter that percentage here. As noted, this is for a specific reporting period; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    If testing using a combination of both automated and manual tests to fully evaluate against all applicable Success Criteria, then provide that percentage in Question 73b.
+
+    **NOTE:** Some examples of automated test tools are given in the response options for Question 11.
+-   
+  qid: q73d
+  uid: u73d
+  dimension: conformance
+  q-descr: | 
+    Of the internal intranet web pages evaluated for Section 508 conformance between June 1, 2023 and May 31, 2024, estimate what percentage were only evaluated by manual testing? (*Required) **NOTE:** The percentages entered in 73b, 73c, and 73d should add up to 100%.
+  q-type: | 
+    Select one:
+  q-note: This question is only required if Question 73a is greater than 0.
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    If certain web pages were tested with manual tools only, enter that percentage here. As noted, this is for a specific reporting period; additional testing after the reporting period is not necessary in order to answer this question. 
+
+    If testing using a combination of both automated and manual tests to fully evaluate against all applicable Success Criteria, then provide that percentage in Question 73b.
+
+    **NOTE:** Some examples of manual testing methodologies are given in the response options for Question 13.
+-   
+  qid: q74a
+  uid: u74a
+  dimension: conformance
+  q-descr: | 
+    Estimate the percentage of internal intranet web pages evaluated between June 1, 2023, and May 31, 2024, that fully conform to Section 508 standards. Round the result to the nearest whole number. Manual testing is required to evaluate full Section 508 conformance. (*Required) 
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 73a is greater than 0.
+  u-descr: | 
+    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>"), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+
+    To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
+
+    Sampling may be used to estimate a percentage. To determine an appropriate number of web pages to sample, you can use a free, web-based sample size calculator that accepts confidence level, margin of error, and population size. Enter search terms such as "sample size calculator" to find a suitable tool. Consider a 90% confidence level and 10% margin of error. 
+
+    **NOTE:** For population size, enter the same value you previously determined for Question 72 as the total number of public internet web pages.
+
+    If the reporting entity has only tested the required 10 web pages in Question 76, please provide metrics here for only those pages. If  additional pages were tested within the reporting period, combine both data sets to report conformance metrics for the reporting entity's internet sites.
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page. 
+-   
+  qid: q74b
+  uid: u74b
+  dimension: conformance
+  q-descr: | 
+    Please describe the methodology used to determine the estimated percentage of internal intranet web pages that fully conform to Section 508 in 74a. (*Required)
+  q-options: |
+    Open text field [character limit of 1000]
+  q-note: This question will only show if a is selected for Question 74a.
+  u-descr: | 
+    When responding to this question, please consider describing any of the following methods used:
+
+    1. Sampling to include size of population, size of sample, confidence interval, and margin of error. 
+    2. Testing methodologies used (automated, manual, hybrid testing) and any relevant information related to the number of pages tested with each methodology to inform the estimated percentage. 
+    3. Use and summation of test results over the reporting period. 
+    4. Other data or methodologies used to inform the estimated percentage. 
+
+    **NOTE:** Manual testing is required to evaluate full Section 508 conformance.
+-   
+  qid: q75
+  uid: u75
+  dimension: conformance
+  q-descr: | 
+    Across all internal intranet web pages evaluated between June 1, 2023 and May 31, 2024, what is the average number of Section 508 non-conformance issues per page? Round to the nearest whole number. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 73a is greater than 0.
+  u-descr: | 
+    If the reporting entity only tested the required 10 web pages in Question 76, please provide metrics here for only those pages. If the reporting entity tested additional pages within the reporting period, combine both data sets to report conformance metrics.
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page. 
+
+    Below is an example of how to calculate the average number of Section 508 non-conformance issues per page:
+
+    1. Determine how many web pages were evaluated in the reporting period. 
+    2. Review test reports (manual testing, automated testing, or a combination of both manual and automated testing) and count how many non-conformance issues were found for each page tested. 
+      - Additional testing is not needed to answer this question; use the test reports your reporting entity has available to provide data for this question. 
+    3. Average number of non-conformance issues per page = Total number of all non-conformance issues found divided by the total number of pages
+    4. For example: 20 web pages are tested. The defects found per page are: 45, 75, 80, 12, 30, 48, 53, 90, 5, 16, 20, 22, 4, 8, 16, 11, 21, 13, 9, 0 = 578. 578/20 = 28.9. Round to the nearest whole number and report 29.    
+-   
+  qid: q76
+  uid: u76
+  dimension: conformance
+  q-descr: | 
+    Identify your reporting entity's top ten viewed internal intranet pages between June 1, 2023 and May 31, 2024. Test each page for full conformance to Section 508. This will require comprehensive manual testing in addition to any automated or a hybrid test process used. For each page, select each Section 508 standard or WCAG Success Criterion that has a failure. Provide page name and page description (please use generic names/descriptions if appropriate). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>N/A- reporting entity does not have intranet</li>
+      <li>Unavailable- does not have resources to test</li>
+      <li>Has results to report [If selected, show the following for each page:]</li>
+      <ul>
+        <li>Web page name:</li>
+        <li>Web page description:</li>
+        <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
+      </ul>
+    </ol>
+  u-descr: | 
+    The final layout in the reporting tool will be forthcoming. For FY24, select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the web page name and description. 
+
+    To find out which internal intranet web pages count as "Top viewed," use the same approach as in Understanding for Question 72. The reporting entity should identify the top 10 viewed web pages within the entire reporting period (June 1, 2023 through May 31, 2024).
+
+    Testing each web page for full conformance to Section 508 will require comprehensive manual testing. Please fully test each web page and report which Section 508 Standard or WCAG Success Criterion fails by page. 
+
+    If the reporting entity does not have any internal intranet pages, please select N/A. If the reporting entity has less than 10 internal intranet pages, test all possible pages and report results. If the reporting entity has internal intranet pages but does not have resources to test, please select “Unavailable.”
+
+    **NOTE:** Web-based applications with dynamic content or customizable views within a single page should be counted as one page.
+
+    If the reporting entity tests web pages using automated tools only, they must switch to a different method to respond to this assessment. The reporting entity must use a manual test process or a combined manual and automated test process.
+
+    When reporting failures, please select each Success Criterion or Section 508 standard with any failure found on the web page. For example, if on the reporting entity Home page, there are eight instances of missing alternative text on the page, check 1.1.1 Non-text Content. On the second page, there are no instances of failures for 1.1.1 Non-text Content; leave 1.1.1 unchecked. 
+
+    If a given standard or criterion does not apply to the page tested, leave it unchecked.
+-   
+  qid: q77
+  uid: u77
+  dimension: conformance
+  q-descr: | 
+    Identify the reporting entity's top ten viewed electronic documents posted on the reporting entity's public website between June 1, 2023 and May 31, 2024. Test each document for full conformance to Section 508. This will require comprehensive manual testing in addition to any automated or a hybrid test process used. For each document, select each Section 508 standard or WCAG Success Criterion that has a failure. Please also provide the document name, document URL, and document description. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>N/A- reporting entity does not have publicly available electronic documents</li>
+      <li>Unavailable- does not have resources to test</li>
+      <li>as results to report [If selected, show the following for each document:]</li>
+      <ul>
+        <li>Document Name</li>
+        <li>Document URL:</li>
+        <li>URL of document:</li>
+        <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
+      </ul>
+    </ol>
+  u-descr: | 
+    The final layout in the tool will be forthcoming. For FY24, we will ask you to select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the document name, description, and URL. 
+
+    To find out which of the reporting entity's electronic documents count as "Top viewed," use the same approach as in Understanding for Question 67. Identify the top 10 viewed electronic documents within the entire reporting period (June 1, 2023 through May 31, 2024).
+
+    Testing each electronic document for full conformance to Section 508 will require comprehensive manual testing. If the reporting entity tests electronic documents using automated tools only, the reporting entity must switch to a different method to respond to this assessment criteria. The reporting entity must instead use a manual test process or a combined manual and automated test process. Please fully test each electronic document and report which Section 508 Standard or WCAG Success Criterion has at least one defect. 
+
+    If the reporting entity does not have any electronic documents, please select N/A. If the reporting entity has less than 10 electronic documents, test all possible electronic documents and report results. If the reporting entity has electronic documents but does not have resources to test, please select “Unavailable.”
+
+    Do not pull the document from an internal repository; download the document directly from the site and test that version. This ensures the reporting entity is testing the same version end users of the site are accessing.
+
+    When reporting failures, please select each Success Criterion or Section 508 standard with any failure found in the document. For example, if on a Factsheet, there are eight instances of missing alternative text on the page, check 1.1.1 Non-text Content. On the second document, there are no instances of failures for 1.1.1 Non-text Content; leave 1.1.1 unchecked. 
+
+    If a given standard or criterion does not apply to the document tested, leave it unchecked.   
+-   
+  qid: q78
+  uid: u78
+  dimension: conformance
+  q-descr: | 
+    Identify the reporting entity's top five most-viewed videos between June 1, 2023 and May 31, 2024. Test each public or internal video for Section 508 conformance. For each video, select each Section 508 standard or WCAG Success Criterion that has a failure. Provide the video name, and URL where the video resides, if applicable (please use generic names/descriptions if appropriate).  Select N/A if your reporting entity does not host or produce any videos. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>N/A- reporting entity does not host or produce any videos</li>
+      <li>Unavailable- does not have resources to test</li>
+      <li>Has results to report [If selected, show the following for each video:]</li>
+      <ul>
+        <li>Video Name</li>
+        <li>URL of Video</li>
+        <li>Select each Section 508 standard or WCAG Success Criterion that fails in the video</li>
+      </ul>
+    </ol>
+  u-descr: | 
+    The final layout in the tool will be forthcoming. For FY24, we will ask you to select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the video name and URL. 
+
+    To find out which of the reporting entity's public and internal videos count as "Top viewed," use the same approach as in Understanding for Question 67 and 72. The reporting entity should identify the top 5 viewed videos within the entire reporting period. Include videos hosted on other sites such as YouTube.
+
+    Testing each video for full conformance to Section 508 will require comprehensive manual testing. Please fully test each video and report which  Section 508 Standard or WCAG Success Criterion has at least one defect. 
+
+    If the reporting entity does not produce or host any videos, please select N/A. If the reporting entity has less than five public and internal videos, test all possible videos and report results. If the reporting entity has videos but does not have resources to test, please select “Unavailable.”
+
+    When reporting failures, please select each Success Criterion or Section 508 standard with any failure found in the video. For example, if in an About Us video, there are 10 instances of inaccurate captions, check 1.2.2 Captions (Prerecorded). In the second video, there are no instances of failures for 1.2.2 Captions (Prerecorded); leave 1.2.2 unchecked. 
+
+    If a given standard or criterion does not apply to the video tested, leave it unchecked.
+-   
+  qid: q79a
+  dimension: conformance
+  q-descr: | 
+    Does the reporting entity use an enterprise virtual meeting platform (e.g., Teams, Zoom, Adobe Connect, WebEx, Google Meet, etc)? (Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes, reporting entity uses an enterprise virtual meeting platform (please answer 79b-d)</li>
+      <li>No, reporting entity does not use any virtual meeting platform (if this answer is selected, no additional questions will be asked)</li>
+    </ol>
+-   
+  qid: q79b
+  uid: u79b
+  dimension: conformance
+  q-descr: | 
+    Select the most widely used enterprise virtual meeting platform used within the reporting entity. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Adobe Connect</li>
+      <li>Google Meet</li>
+      <li>Teams</li>
+      <li>WebEx</li>
+      <li>Zoom</li>
+      <li>Other [text input field]</li>
+    </ol>
+  q-note: This question is only required if a is selected in Question 79a.
+  u-descr: | 
+    Enterprise denotes the virtual meeting platform deployed widely in the reporting entity. If there is more than one virtual meeting platform in use within the reporting entity, select the most widely used for this set of questions.
+-   
+  qid: q79c
+  uid: u79c
+  dimension: conformance
+  q-descr: | 
+    Consider the most widely used enterprise virtual meeting platform. Can all functions used by the reporting entity be accessed and used by users: (*Required)
+  q-type: | 
+    For each option of a-h, select either Yes, No, or Unknown
+  q-options: |
+    <ol type="a">
+      <li>without vision</li>
+      <li>with limited vision</li>
+      <li>without perception of color</li>
+      <li>without hearing</li>
+      <li>with limited hearing</li>
+      <li>without speech</li>
+      <li>with limited manipulation</li>
+      <li>limited language, cognitive and learning abilities</li>
+    </ol>
+  q-note: This question is only required if a is selected in Question 79a.
+  u-descr: | 
+    Select Yes, No, or Unknown for each option of a-h. 
+
+    This question is specifically exploring how the reporting entity implements the virtual meeting platform. If features and functions are not implemented even though they are offered by the vendor, omit those features when responding to this question. 
+
+    A product Accessibility Conformance Report (ACR) may be used to answer this question. If you are unsure how to translate WCAG 2.0 AA failures into Functional Performance Criteria asked about in a-h, please refer to <a href="https://www.section508.gov/content/mapping-wcag-to-fpc/" target="_blank">Mapping of WCAG 2.0 to Functional Performance Criteria</a>).
+-   
+  qid: q79d
+  uid: u79d
+  dimension: conformance
+  q-descr: | 
+    Consider specific features of the most widely used enterprise virtual meeting platform. Does the platform provide a way to: (*Required)
+  q-type: | 
+    For each option of a-e, select either Yes, No, or Unknown
+  q-options: |
+    <ol type="a">
+      <li>display captions</li>
+      <li>spotlight or pin ASL interpreters</li>
+      <li>increase font size</li>
+      <li>restrict use of inaccessible features</li>
+      <li>disable motion</li>
+    </ol>
+  q-note: This question is only required if a is selected in Question 79a.
+  u-descr: | 
+    When answering this question, consider the features of the platform and select whether or not the platform itself allows a way to perform each of the functions listed below. For the purpose of this question, "disable motion" is regarding ways to avoid rapid scrolling when screen sharing and other similar visual stimulation. Reaction animations should not be considered as "motion" for response to 79d.
+-   
+  qid: q80
+  uid: u80
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the reporting entity's enterprise-wide reservation system for conference rooms and/or workstations. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not have any reservation system</li>
+    </ol>
+  u-descr: | 
+    This question is specifically asking about the system used within the reporting entity to reserve meeting rooms or workspaces. The reservation system in question should be the centralized system that organizes and streamlines the process of reserving rooms and space within the reporting entity. This may be through a web reservation site or application. One example is BookIt. If the reporting entity has more than one reservation system used enterprise-wide, select the most widely used to answer this question. 
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria )] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+      - For hardware, there are 61 Section 508 provisions.
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+
+    For example, your reservation system is a web page and you determine all web requirements apply for a total of 41 applicable Section 508 requirements. According to the test report, 10 WCAG 2.0 AA criteria fail and 31 requirements pass. Next, divide the number of applicable requirements by the number of Section 508 requirements that pass (31/41= 0.756) and then multiply the answer by 100 to get your percentage = 75.6%. Round to the nearest whole number and select "c) Conforms to 50% - 90% of applicable Section 508 requirements."
+-   
+  qid: q81
+  uid: u81
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the enterprise wide survey authoring tool used to create surveys. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not create any surveys</li>
+    </ol>
+  u-descr: | 
+    This question is only asking about the enterprise wide authoring tool used to create surveys, such as Qualtrics, SurveyMonkey, Google Forms, Microsoft Forms, etc. When answering this question, only consider the tool itself; do not consider the accessibility of surveys created using the tool. An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
+
+    If the entity has more than one enterprise wide authoring tool used to create surveys, select the most used tool or the tool used to generate surveys with the largest audience based on reporting entity mission.
+    
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria )] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q82
+  uid: u82
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of surveys distributed by the reporting entity. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not distribute any surveys</li>
+    </ol>
+  u-descr: | 
+    This question is specifically asking about the Section 508 conformance of surveys distributed by the reporting entity.
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q83
+  uid: u83
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the enterprise-wide chat or internal real-time messaging system. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not use a chat or internal real-time messaging system</li>
+    </ol>
+  u-descr: | 
+    An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance =[(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q84
+  uid: u84
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the enterprise-wide Learning Management System (LMS). (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not have a LMS</li>
+    </ol>
+  u-descr: | 
+    An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q85
+  uid: u85
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the reporting entity's publicly posted Section 508 or ICT accessibility policy. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not have any publicly posted Section 508/ICT accessibility policies</li>
+    </ol>
+  u-descr: | 
+    It is recommended the reporting entity find where the Section 508 or ICT accessibility policy is publicly posted and test that version for accurate results. 
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q86
+  uid: u86
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the enterprise-wide video player. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not use any video player</li>
+    </ol>
+  u-descr: | 
+    Please only consider the video player itself. Do not test and report on any multimedia.
+
+    An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q87
+  uid: u87
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the reporting entity's widely-used, public facing fillable form. The form may be web or document based. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not have any publicly available fillable forms</li>
+    </ol>
+  u-descr: | 
+    For purposes of this Assessment, only consider <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q88
+  uid: u88
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the reporting entity's FY25 publicly published Congressional Justification. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity did not publish a Congressional Justification</li>
+    </ol>
+  u-descr: | 
+    The Congressional Justification is an annual budget request. If the reporting entity's parent agency hosts the published Congressional justification that includes the reporting entity, please coordinate testing of this content with your parent agency and report the same data as the parent agency for this question. 
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2). 
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice. 
+-   
+  qid: q89
+  uid: u89
+  dimension: conformance
+  q-descr: | 
+    Estimate the Section 508 conformance of the reporting entity's employee performance portal or equivalent. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Conforms to 100% of applicable Section 508 requirements</li>
+      <li>Conforms to 90% - 99% of applicable Section 508 requirements</li>
+      <li>Conforms to 50% - 90% of applicable Section 508 requirements</li>
+      <li>Conforms to less than 50% of applicable Section 508 requirements</li>
+      <li>Unknown</li>
+      <li>N/A- reporting entity does not have an employee performance portal or equivalent</li>
+    </ol>
+  u-descr: | 
+    An Accessibility Conformance Report (ACR) may be used to inform the reporting entity answer selection; if the ACR denotes a Partially Supports, please count that as a failure.
+
+    To estimate a percentage of conformance, follow the formula and steps below:
+
+    Percentage of conformance = [(Standards and Criteria that Pass or Do Not Apply) / (Total Number of Applicable Standards and Criteria)] x 100
+
+    1. Determine how many Section 508 standards or WCAG 2.0 AA criteria apply to the ICT:
+      - For web content, there are 41 requirements (38 WCAG 2.0 AA Success Criteria and three Section 508 provisions related to media players).
+      - For software, there are 57 requirements (34 WCAG 2.0 AA Success Criteria (using E207.2.1 Word Substitution when Applying WCAG to Non-Web Software) and 23 Section 508 provisions).
+      - For electronic documents, there are 34 WCAG 2.0 AA Success Criteria (using E205.4.1 Word Substitution when Applying WCAG to Non-Web Documents). 
+    2. Determine how many Section 508 standards or WCAG 2.0 AA Success Criteria Pass or Do Not Apply. Alternatively, you may decide to subtract the number of standards that fail or were Not Tested from the number of applicable standards in Step 1.
+    3. Divide the number of applicable requirements (in Step 1) by the number of Section 508 requirements that pass or do not apply (in Step 2).
+    4. Multiply the answer in Step 4 by 100 to get the percentage. Round to the nearest whole number and select the most appropriate answer choice.
+-   
+  qid: q90
+  uid: u90
+  dimension: conformance
+  q-descr: | 
+    Does the reporting entity have a publicly posted website accessibility statement? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes [provide URL for where accessibility statement resides *required]</li>
+      <li>No</li>
+      <li>N/A- reporting entity does not have a public website</li>
+    </ol>
+  u-descr: | 
+    Verify the reporting entity has an accessibility statement publicly posted on federal websites. This may be a link, such as in your website footer, to an accessibility statement on the domain website. The statement may be its own page or within a page that contains several website policies.
+
+    Agencies may develop a single accessibility statement for the entire organization and all of its websites and link to that accessibility statement, or agencies may develop many tailored accessibility statements for different sub-agencies, components, and offices or products.
+
+    For examples and directions, see <a href="https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/" target="_blank">Developing a Website Accessibility Statement</a>.   
+-   
+  qid: q91
+  uid: u91
+  dimension: conformance
+  q-descr: | 
+    Please select which of the following are included in the reporting entity's web accessibility statement: (*Required)
+  q-type: | 
+    Select all that apply:
+  q-options: |
+    <ol type="a">
+      <li>The accessibility standard applied to each website and any known limitations or alternative versions, as appropriate</li>
+      <li>The name and email address for the Section 508 Program Manager</li>
+      <li>A public feedback mechanism that allows members of the public to report accessibility problems with websites and digital services</li>
+      <li>Instructions for filing a complaint alleging a violation of Section 508</li>
+      <li>Information about the reasonable accommodations procedures for Federal employees and job applicants</li>
+      <li>Instructions on the use of the telecommunications relay service</li>
+      <li>Links to any relevant, publicly available organizational policies or procedures on digital accessibility</li>
+      <li>Date that the digital accessibility statement was last updated or reviewed</li>
+      <li>The web page where the accessibility statement resides is Section 508 conformant</li>
+      <li>None of the above</li>
+    </ol>
+  q-note: This question is only required if Question 90 is Yes.
+  u-descr: | 
+    For examples and directions see, [Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/).
+
+    **NOTE** for option i): Do not assume this website is fully Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>). If the page was fully tested for all 38 applicable WCAG Success Criteria prior to the reporting period using either manual methods or a combination of automated and manual methods, the results were documented, and the page remains unchanged since the test, the reporting entity may use those results to answer the "Section 508 conformant" part of this question.    
+-   
+  qid: q92
+  uid: u92
+  dimension: conformance
+  q-descr: | 
+    Please estimate the total number of public feedback responses about Section 508 accessibility issues that were received through the public feedback mechanism in the accessibility statement between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if c is selected in Question 91.
+  u-descr: | 
+    The feedback mechanism for Section 508-related issues is required as part of <a hef="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/"  target="_blank">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
+
+    See Section508.gov for additional information on implementing a <a href="https://www.section508.gov/manage/laws-and-policies/implementing-public-feedback-mechanism/" target="_blank">public feedback mechanism</a>.
+
+    Your entity POC may need to contact the person(s) responsible for addressing feedback from the public to answer this question. 
+
+    If the person(s) responsible for addressing feedback from the public do not track the number of feedback items, answer “Unknown.”
+
+    **NOTE:** Public feedback (see the the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) on Section 508 is different from complaints (see the definition of <a href="../definition-of-terms/#complaint">complaint</a>) pertaining to Section 508.
+-   
+  qid: q93
+  uid: u93
+  dimension: conformance
+  q-descr: | 
+    Of the total estimated public feedback responses about Section 508 accessibility issues that were received through the public feedback mechanism in the accessibility statement between June 1, 2023 and May 31, 2024, estimate how many were addressed, resolved, or adjudicated. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 92 is greater than 0.
+  u-descr: | 
+    The feedback mechanism for Section 508-related issues is required as part of <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">“M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a>. 
+
+    See Section508.gov for additional information on implementing a <a href="https://www.section508.gov/manage/laws-and-policies/implementing-public-feedback-mechanism/" target="_blank">public feedback mechanism</a>.
+
+    Only include public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include feedback responses that remain in process, unresolved, ongoing, or any similar status.
+
+    **NOTE:** The number of feedback responses in Question 92 minus the number of closed feedback responses reported here (Question 93) should equal the number of currently open feedback responses within the reporting period (June 1, 2023, through May 31, 2024).    
+-   
+  qid: q94
+  uid: u94
+  dimension: conformance
+  q-descr: | 
+    Does the reporting entity have a process for tracking and reporting Section 508 non-compliance related complaints (i.e., administrative complaints filed by an individual or civil actions against the reporting entity as a result of non-compliance with Section 508)? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    For tracking, the reporting entity may use a help desk, IT system, spreadsheet, or another entity-specific method to track Section 508 complaints. Reporting may occur on a recurring basis or ad hoc, and reporting may be a formal report or informal, such as an email. Additionally, the reporting entity may use their parent agency process for Section 508 non-compliance related complaints; if so, please coordinate with the parent agency to answer complaint-related questions.
+
+    Please refer to the definition of <a href="../definition-of-terms/#complaint" target="_blank">Complaint</a>.
+-   
+  qid: q95
+  dimension: conformance
+  q-descr: | 
+    Does the reporting entity's process for tracking and reporting Section 508 non-compliance related complaints incorporate complaints from contractors? (*Required)
+  q-type: | 
+    Select one:
+  q-note: This question is only required if Question 94 is Yes.
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+      <li>Unknown</li>
+      <li>N/A</li>
+    </ol>
+-   
+  qid: q96
+  uid: u96
+  dimension: conformance
+  q-descr: | 
+    Indicate the total number of Section 508 non-compliance related complaints the reporting entity has received between June 1, 2023 and May 31, 2024. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-number</li>
+      <li>Unknown</li>
+    </ol>
+  u-descr: | 
+    The reporting entity's Section 508 Program Office should be one of the primary points of contact for Section 508-related formal complaints (see the definition of <a href="../definition-of-terms/#complaint" target="_blank">complaint</a>, but complaints may be handled in collaboration with or primarily by other departments. The reporting entity may need to contact other departments that handle such complaints, such as your parent agency, Human Resources, Civil Rights Office, or the points of contact for the Section 504 Office.
+
+    **NOTE:** <a href="../definition-of-terms/#complaint" target="_blank">Complaints</a> differ from public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a> the reporting entity receives.   
+-   
+  qid: q97
+  dimension: conformance
+  q-descr: | 
+    Of the total number of Section 508 non-compliance related complaints received between June 1, 2023 and May 31, 2024, please provide the total number filed by an employee or applicant for employment. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 96 is greater than 0.
+-   
+  qid: q98
+  uid: u98
+  dimension: conformance
+  q-descr: | 
+    Of the total number of Section 508 non-compliance related complaints received between June 1, 2023 and May 31, 2024, indicate how many were addressed, resolved, or adjudicated. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-number</li>
+      <li>Unknown</li>
+    </ol>
+  q-note: This question is only required if Question 96 is greater than 0.
+  u-descr: | 
+    The reporting entity response should include only those formal complaints (see the definition of <a href="../definition-of-terms/#complaint" taget="_blank">complaint</a> that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include complaints that remain in process, unresolved, ongoing, or any similar status.
+
+    **NOTE:** The number of complaints in Question 96 minus the number of closed complaints reported here (Question 98) should equal the number of open complaints within the reporting period.   
+-   
+  qid: q99
+  uid: u99
+  dimension: conformance
+  q-descr: | 
+    Review the last 10 solicitations your reporting entity released between June 1, 2023 and May 31, 2024 to procure ICT or services to produce ICT. If the reporting entity did not have at least 10 solicitations released to procure ICT or services to produce ICT, review what is available. Of those reviewed, what percentage of the solicitations included all applicable Section 508 requirements? Please input N/A if the reporting entity has not issued any solicitations for ICT. (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Open response-whole number (percentage)</li>
+      <li>Unknown</li>
+      <li>N/A- Reporting entity does not release ICT solicitations</li>
+    </ol>
+  u-descr: | 
+    Each solicitation must include all applicable language requiring the ICT to be conformant to Section 508 requirements.
+
+    To find the reporting entity's recent ICT-related solicitations:
+
+    - Seek out the assistance of those in your entity responsible for ICT procurement.
+    - Find your entity's most recent solicitations where they are posted online (e.g., the System for Award Management [SAM.gov]; the GSA eBuy site).
+    - Review the <a href="https://www.section508.gov/buy/solicitation-review-tool/" target="_blank">GSA Solicitation Review Tool (SRT)</a> results if your reporting entity uses the SRT.
+
+    **NOTE:** Refer to the definition of <a href="../definition-of-terms/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
+-   
+  qid: q100
+  uid: u100
+  dimension: conformance
+  q-descr: | 
+    Please identify the reporting entity's (up to) top five most common Section 508 non-conformance issues identified by testing or user feedback. (*Required)
+  q-type: | 
+    Select five:
+  q-options: |
+    <ol type="a">
+      <li>Keyboard access issues</li>
+      <li>Interactive elements missing programmatic accessible name and description</li>
+      <li>Forms with insufficient visible labels</li>
+      <li>Insufficient color contrast</li>
+      <li>Missing or insufficient text alternatives for images</li>
+      <li>Missing or ambiguous link text</li>
+      <li>Data tables not adequately marked up for Assistive Technology</li>
+      <li>Color use only to convey meaning</li>
+      <li>Missing skip navigation links</li>
+      <li>Missing or insufficient captions for synchronized multimedia</li>
+      <li>Missing or insufficient audio descriptions for synchronized multimedia</li>
+      <li>Lack of visible focus</li>
+      <li>Focus order does not preserve meaning and operability of the content</li>
+      <li>Programmatic heading levels do not logically match the visual heading presentation</li>
+      <li>List is not programmatically correct</li>
+      <li>Images of text are used instead of text</li>
+      <li>Reading order is incorrect</li>
+      <li>ARIA roles, states, and properties are invalid</li>
+      <li>Other [input text field which will allow up to 5 inputs]</li>
+    </ol>
+  u-descr: | 
+    Consider all reporting entity web content when answering this question such as internally developed or procured. The expectation is not that reporting entities thoroughly review every ACR or accessibility test report within the reporting period to find this information; this can be an estimation of common non-conformance issues identified in test accessibility reports or ACRs within the reporting period.
+
+    This information will help provide a sense of the common non-conformance issues across government and help tailor recommendations back to agencies or Congress.
+-   
+  qid: q101
+  uid: u101
+  dimension: conformance
+  q-descr: | 
+    Does the reporting entity provide a shared service, a reimbursable service, or E-Government line of business to other agencies or public entities? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes</li>
+      <li>No</li>
+    </ol>
+  u-descr: | 
+    Please see Definition of Terms for a description of <a href="../definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="../definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="../definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
+-   
+  qid: q102
+  uid: u102
+  dimension: conformance
+  q-descr: | 
+    You selected the reporting entity provides a shared service, reimbursable service or E-Government line of business to other agencies or public entities. Do the ICT services provided by the reporting entity fully conform to Section 508 standards? (*Required)
+  q-type: | 
+    Select one:
+  q-options: |
+    <ol type="a">
+      <li>Yes, all ICT services fully conform to Section 508 standards</li>
+      <li>Yes, but only some ICT services fully conform to Section 508 standard</li>
+      <li>No, none of the ICT services fully conform to Section 508 standards</li>
+      <li>Unknown</li>
+      <li>N/A- services provided are not ICT services</li>
+    </ol>
+  q-note: This question is only required if Question 101 is Yes.
+  u-descr: | 
+    Please refer to the definition of <a href="../definition-of-terms/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
+
+    If the product is supplied to another federal reporting entity or agency, it may be considered a Government Off-The-Shelf (GOTS) system. If this is the case, an ACR or Government Product Accessibility Template (GPAT) may be reviewed. 
+
+    Please do not assume conformance of the ICT services. Your reporting entity POC may need to contact the product owner to identify any Section 508 test results for the current version of the ICT service. 
+-   
+  qid: q103
+  uid: u103
+  dimension: conformance
+  q-descr: | 
+    Please use this space to provide open-ended responses to the following prompts (responses to all are encouraged): (*Required)
+  q-type: | 
+    Open response-text (2000 characters maximum) for each option
+  q-options: |
+    <ol type="a">
+      <li>What changes has the reporting entity implemented in the past year to increase Section 508 compliance? Please be as specific as possible.</li>
+      <li>What has been the impact of the above changes on Section 508 compliance within the reporting entity?</li>
+      <li>Indicate the top 2-3 areas the entity’s Section 508 Program has focused improvement in since the FY23 Assessment?</li>
+      <li>What challenges has the reporting entity faced in the past year with regards to Section 508 compliance?</li>
+      <li>Is there anything additional to share regarding the reporting entity's Section 508 program or equivalent?</li>
+    </ol>
+  u-descr: | 
+    Please use this text field to write any additional details or narrative about your program, answer selections, etc. When referencing a specific question, please include the question number.

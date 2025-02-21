@@ -1,0 +1,68 @@
+---
+layout: page
+sidenav: true
+permalink: 'manage/section-508-assessment/2023/recommendations/'
+type: report2023
+title: "Recommendations"
+topic: Law (law)
+sub-topic: Reporting
+audience:
+- 508 Program Manager (508pm)
+- Agency Head (head)
+- Public (public)
+- Lawmakers and Policy Officials (law-policy)
+- Federal employee (fedemp)
+resource-type: White paper
+format: HTML (html)
+---
+This section incorporates findings presented throughout this document along with contextual considerations to provide recommendations to enhance Section 508 implementation and improve Section 508 compliance across the federal government. The below recommendations do not include logistical implications – such as resourcing requirements or timelines – but are intended as high-level considerations that would improve the state of accessibility throughout the federal government. Feasibility assessments and prioritization based on impact, level of effort, return on investment and other considerations should be a factor in prioritizing investment across the recommendations, particularly those that would involve significant resource investment to execute.
+
+Additional targeted [recommendations, based on each overall performance category]({{site.baseurl}}/manage/section-508-assessment/2023/findings/category-overview/), are included in the previous section and are tailored to reporting entity outcomes from each maturity and conformance bracket.
+
+## Assessment-Driven Recommendations
+* <strong>Congress should consider updating Section 508 of the Rehabilitation Act (29 U .S .C . 794(d) to include:</strong>
+
+  * <strong>Definition of Agencies Subject to Section 508:</strong> Consider clearly defining which federal agencies are subject to Section 508. Confusion as to who should respond to this annual Assessment stemmed from ambiguity as to who is subject to Section 508. Clarifying who should be following Section 508 standards will have numerous downstream impacts including the ability to enforce Section 508 compliance and identifying reporting requirements for this Assessment.
+
+  * <strong>Updated Language, Terminology, and Scope:</strong> The Access Board and GSA receive numerous technical assistance requests every year related to clarification of Section 508 language, terminology, scope and applicability. Given that the original Section 508 language is outdated with the current and evolving digital environment, an update to harmonize and strengthen the language for applicability to the current and future digital landscape would resolve confusion and provide much needed clarification.
+
+* <strong>Proactively Enforce Section 508 Compliance: <span style="color:#14671B">Congress</span></strong> should explore options to proactively enforce Section 508 compliance across the Federal Government. As shown throughout this report, Section 508 compliance is low on average. Proactive enforcement would lead to overall improved Section 508 compliance.
+
+* <strong>Target Accessibility of High-Use Software: <span style="color:#14671B">Congress</span></strong> may consider conducting oversight efforts into major providers of ICT to the federal government to determine the best course(s) of action to improve accessibility of high-use products. As noted in [Table 1 showcasing response count for Section 508 conformance of ICT products]({{site.baseurl}}/manage/section-508-assessment/2023/findings/compliance-outcomes/#table-1), key ICT used both by federal government employees and the public do not fully conform to the Section 508 standards, including Time and Attendance systems, email applications and virtual meeting platforms. As office productivity applications, survey tools, and other mainstream IT products are used by all agencies, a push for more “out of the box” Section 508 conformant products would help improve ICT accessibility across government.
+
+* <strong>Increase Oversight of Section 508: <span style="color:#14671B">Relevant oversight and accountability bodies</span></strong> should consider increasing agency oversight of Section 508 compliance as recommended by <a href="https://www.aging.senate.gov/imo/media/doc/unlocking_the_virtual_front_door_-_full_report.pdf" target="_blank">Unlocking the Virtual Front Door</a>, a report by the Majority Staff of The U.S. Senate Special Committee on Aging. This would lead to improved self-enforcement of Section 508.
+
+* <strong>Strengthen Leadership Accountability:</strong> Relevant management entities and councils should explore approaches to incorporate and strengthen accessibility metrics in relevant leadership performance measures. Leadership accountability, tangible accessibility accountability, and conformance metrics would directly lead to improved accessibility compliance across government. Currently, with respect to accessibility, there appears to be a [general lack of performance accountability]({{site.baseurl}}/manage/section-508-assessment/2023/findings/program-staff/#performance-accountability) for senior leadership and little to no consequence for nonconformance. In fact, lack of leadership support was determined to be one of the top obstacles for approximately 12% of respondents. This accountability deficit appears to result in under-prioritization, diminished resourcing and lower conformance overall. These outcomes would very likely improve if performance metrics were included in leadership performance plans.
+
+* <strong>Create a Section 508 Shared Service Model: <span style="color:#14671B">Small and micro agency councils, communities of practice, and other interested agencies</span></strong> should explore the creation of a shared service model for Section 508 implementation, which could include testing, tools, and other accessibility-related products and services. In one design of this model, a participating entity could elect to purchase, lead, develop or contract a specific function (such as web testing), while another entity could, in turn, lead accessible procurement for the consortium. Given that small agencies likely do not have the appropriate resources to address Section 508 requirements, including testing, alongside [over half of all respondents indicating they did not have the resources to test]({{site.baseurl}}/manage/section-508-assessment/2023/findings/compliance-outcomes/), a shared service solution may create better, more consistent outcomes across government (and particularly the participating entities), increase efficiency, and decrease the cost burden on individual organizations related to ensuring digital accessibility. 
+
+* <strong>Standardize Testing Methodologies: <span style="color:#14671B">Agencies</span></strong> should follow the <a href="https://ictbaseline.access-board.gov/" target="_blank">ICT Testing Baseline</a> for Web to adopt or create a standard enterprise testing methodology to increase Section 508 conformance, provide greater ability for information sharing, and allow for more consistent reporting across government. Despite respondents, on average, reporting a moderate maturity for the Testing dimension, [key compliance outcomes]({{site.baseurl}}/manage/section-508-assessment/2023/findings/compliance-outcomes/) are low, highlighting a need to strengthen testing methodologies and technology lifecycle activities to increase conformant ICT.
+
+* <strong>Increase Conformance Validation and Testing: <span style="color:#14671B">Agencies</span></strong> should increase automated and manual Section 508 conformance testing, validation, and defect remediation before deployment and hold vendors accountable for conformant deliverables prior to acceptance. [Over 50% of respondents reported they did not validate conformance of vendor deliverables prior to acceptance with any frequency]({{site.baseurl}}/manage/section-508-assessment/2023/findings/acquisition/), leading to increased risk that non-conformant deliverables are accepted and deployed without validation. In addition, an [overall lack of defect tracking, prioritization, and remediation]({{site.baseurl}}/manage/section-508-assessment/2023/findings/testing-lifecycle/#non-conformance-tracking-and-remediation) was noted by respondents. Increased validation will likely create significant positive downstream impacts as more conformant products and services are deployed.
+
+* <strong>Ensure Sufficient Section 508 Program Manager Utilization: <span style="color:#14671B">Agencies</span></strong> should have an assigned Section 508 PM with utilization and authority that is proportionate and sufficient to ensure an effective Section 508 Program. As noted in the [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/compliance-outcomes/) section, the greater the utilization of the Section 508 PM, generally the better the reporting entity’s conformance outcomes. However, the majority of reporting entities indicated that they lacked a full-time Section 508 PM or Section 508 PM altogether. To maximize the utilization of Section 508 PMs and to accommodate varying agency needs and sizes, agencies should consider scalable and flexible approaches that align with their specific requirements. This approach will benefit both maturity and conformance outcomes in the long term.
+
+* <strong>Require Section 508 Training: <span style="color:#14671B">Agencies</span></strong> should require mandatory annual Section 508 training for specific roles and responsibilities, particularly for those who regularly create electronic content and digital products or have influence in procurement and development of ICT. Justification for investment include:
+
+  * Training was the lowest rated [maturity dimension]({{site.baseurl}}/manage/section-508-assessment/2023/findings/maturity-dimension/) on average of all nine dimensions.
+
+  * Training has the ability to improve all business functions across the enterprise.
+
+  * Upfront and regular training will improve the quality of work and reduce waste caused by lack of knowledge and understanding and eliminate the need for extensive rework and retraining down the line.
+
+  Mandatory training would increase knowledge and understanding of accessibility considerations across government, provide a baseline set of skills with respect to content creation, and introduce users to tools and information on how to address accessibility issues in ICT. Currently, many employees may want to ensure products are Section 508 conformant but just do not know how to do so.
+
+* <strong>Improve Accessibility Requirements in Procurement:</strong> 25% of all respondents indicated they do not include the [appropriate language in ICT solicitations]({{site.baseurl}}/manage/section-508-assessment/2023/findings/acquisition/). To close this gap, <strong><span style="color:#14671B">agencies</span></strong> should use the Solicitation Review Tool (SRT) and the Acquisition Requirements Tool (ART), or similar tools, to help incorporate sufficient accessibility requirements in procurement and contracting documentation. Using ART and SRT would also establish policy and procedures for when inaccessible ICT is procured and hold vendors responsible for remediating ICT to be Section 508 conformant. This is <strong>particularly important for the most widely used tools and applications</strong>. This will lead to better procurement outcomes and improved accessibility across government products and services.
+
+* <strong>Inclusion of the Needs of Users with Disabilities in ICT Requirements: <span style="color:#14671B">Agencies</span></strong> should explore ways to include users with disabilities in identifying targeted user needs of ICT that federal agencies develop, use, maintain, and procure. Respondents overwhelmingly said that they did not incorporate users with disabilities into business requirements, acquisitions, or user testing. Agencies should collaborate within the federal government to share and promote best practices for including users with disabilities throughout technology lifecycles, which will ensure diverse perspectives are taken into account when designing, developing or procuring ICT, leading to more usable and accessible digital solutions for all.
+
+* <strong>Ensure Sufficient Section 508 Program Resourcing: <span style="color:#14671B">Agencies</span></strong> should consider including information about Section 508 program capacity in its annual budget requests to highlight necessary resources to improve ICT accessibility. As shown in the [Findings]({{site.baseurl}}/manage/section-508-assessment/2023/findings/summary/) section, on average, additional resources correlate with better conformance.
+
+## Additional Contextual Recommendations
+
+* <strong>Strengthen ICT Accessibility Competencies: <span style="color:#14671B">Congress</span></strong> should explore ways to strengthen accessibility capabilities within the federal workforce. <strong><span style="color:#14671B">Agencies</span></strong> should consider incorporating accessibility competencies into relevant position descriptions and performance measures. Accessibility is a shared responsibility with many contributors to an agency’s overall compliance success.
+
+* <strong>Share Best Practices: <span style="color:#14671B">Agencies</span></strong> should more actively engage with the digital accessibility community, GSA, and the Access Board to develop and share best practices. More active participation, such as attending meetings or collaborating on specific initiatives, will increase the body of knowledge, investment in outcomes, and consistency and standardization
+in approaches to ensuring long-term improvement in conforming to ICT and Section 508 standards across the federal government.
+
+**Reviewed/Updated**: December 2023

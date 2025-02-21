@@ -1,0 +1,27 @@
+{
+  "version": "3.73.30119.0",
+  "course_id": "6dKPXmKNV8A",
+  "title": "Roadmap Intro",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Course Roadmap"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5rUnwskTF94",
+      "title": "Road Map",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

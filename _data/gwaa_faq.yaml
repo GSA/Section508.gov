@@ -1,0 +1,326 @@
+# Headings are: (1xx) Overview, (2xx) Submitting Data, (3xx) Interpreting Criteria, (4xx) Point of Contact Information, (5xx) Assistance
+-  
+  id: 101
+  h: Overview
+  q: Am I required to fill out this assessment?
+  a: |
+    All federal departments or agencies covered by Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) are required to fill out the annual Governmentwide Section 508 Assessment (referred to as the “Assessment” from this point forwards).
+-  
+  id: 102
+  h: Overview
+  q: Are all questions required?
+  a: |
+    Yes, all questions are required. However, some questions depend on previous answers and will not be shown if they do not apply to your reporting entity. For example, if you select that your reporting entity does not use automated testing tools, you will not receive additional questions about automated testing tools.
+-  
+  id: 103
+  h: Overview
+  q: What are the primary differences between the FY23 criteria and the FY24 criteria?
+  a: |
+    Most of the criteria remained unchanged in intent but language has been modified for clarity and answer selections have been truncated. Additional changes include:
+    <ul>
+      <li>Questions have been renumbered throughout.</li>
+      <li>All questions are required, however question dependencies apply.</li>
+      <li>“Reporting entity” is used instead of “agency”.</li>
+      <li>Frequency has been added directly to response options for clarity in never, sometimes, regularly, frequently, and almost always.</li>
+      <li>When a timeframe is needed for reporting, the reporting period has been added directly to applicable questions.</li>
+      <li>Several new criteria have been added including:
+        <ul>
+          <li>Q1 asks for the total number of total federal employees within the reporting entity</li>
+          <li>Q9 asks about other ICT test processes used within the reporting entity.</li>
+          <li>Q19-22 asks several questions to better understand the exceptions process.</li>
+          <li>Q23 asks about how contractors are assessed for capabilities related to ICT services.</li>
+          <li>Q69b and Q74b asks to explain how the percentage of fully conformant web pages was estimated.</li>
+          <li>Q79a-d asks for a deeper dive into the enterprise wide virtual meeting platform.</li>
+        </ul>
+      </li>
+      <li>Additional answer choices have been added to:
+        <ul>
+          <li>Q8 due to WCAG 2.2 release.</li>
+          <li>Q11, Q27, and Q28 based on FY23 “Other” inputs.</li>
+        </ul>
+      </li>
+      <li>Answer choices have been significantly revised for the following criteria:
+      <ul>
+        <li>Q30-33</li>
+        <li>Q36 (specifically answer choice d)</li>
+        <li>Q39-42</li>
+        <li>Q53-57</li>
+        <li>Q60</li>
+        <li>Q62-63</li>
+        <li>Q65</li>
+      </ul>
+      </li>
+      <li>Q68 a-d and Q73 a-d have been moved to a subset of questions to ensure respondents understand that we are looking for a total amount.</li>
+      <li>Q71, Q76, Q77, and Q78 are no longer asking for the number of defects by WCAG or Section 508 requirement. Instead, respondents will select which WCAG or Section 508 requirements fail.</li>
+      <li>Q51 was moved from the General Information dimension to the Testing and Validation dimension.</li>
+      <li>Q66 was moved from the Testing and Validation dimension to the Training dimension.</li>
+      <li>To broaden the scope of inquiries regarding ICT, we have introduced 10 new questions from Q80 to Q89, replacing the previous FY23 criteria for Q82-85 and Q87-92. These questions will be rotated on a biennial basis. Anticipate the reintroduction of FY23 criteria for FY25, providing reporting entities time to address identified issues, with the aim of achieving higher conformance by FY25. Additionally, we have revised the answer options in this section. Instead of a simple binary choice regarding Section 508 conformance, respondents are now presented with a scale of conformance, allowing for a more nuanced understanding of the extent of defects.</li>
+      <li>Q103 has been modified to ask specific questions for the entities to respond to. It remains a free form text field.</li>
+      <li>Five questions have been removed altogether: one from Training, one from Content Creation, one from Policies, Procedures, and Practices,  a question in Conformance Metrics regarding a public feedback mechanism, and the criteria regarding defects for enterprise-wide printers due to because of duplicative data, incorrectly scoped questions, or poor data.</li>
+    </ul>
+
+    For a complete list of changes, please reference this <a href="https://assets.section508.gov/assets/files/assessment/2024/Governmentwide%20Section%20508%20Assessment%20criteria%20FY23%20to%20FY24%20Crosswalk.xlsx" target="_blank" class="usa-link--external">crosswalk between FY23 criteria to FY24 criteria (XLSX)</a>.
+-  
+  id: 104
+  h: Overview
+  q: How is the Assessment laid out?
+  a: |
+    This is a self-report evaluation spanning across the following 11 dimensions:
+    <ol>
+      <li>General Information questions ask about information and metrics related to the activities of the reporting entity’s Section 508 Program’s (or equivalent) activities.</li>
+      <li>IT Accessibility Program Office - Measuring how well program governance, risk management, and compliance is managed.</li>
+      <li>Policies, Procedures, and Standards - Measuring the extent to which reporting entities establish, integrate, and comply with policies, procedures, and standards that support ICT accessibility.</li>
+      <li>Communications - Measuring how well reporting entities communicate and monitor all ICT accessibility program activities, including tracking and resolving noncompliance issues.</li>
+      <li>Content Creation - Measuring the extent to which reporting entities make their digital content on websites, documents, video and other media, social media, electronic forms, and digital signatures accessible.</li>
+      <li>Human Capital, Culture, and Leadership - Measuring the reporting entity’s leadership and professional development and how ICT accessibility is integrated into mission-related strategic planning.</li>
+      <li>Technology Lifecycle Activities - Measuring the extent to which reporting entities incorporate ICT accessibility requirements into enterprise architecture, design, development, testing, deployment, operations, and maintenance.</li>
+      <li>Testing and Validation - Measuring the extent to which reporting entities conduct testing and validation of ICT accessibility and Section 508 conformance claims.</li>
+      <li>Acquisition and Procurement - Measuring the extent to which reporting entities include, review, and validate contracts for ICT accessibility compliance requirements.</li>
+      <li>Training - Measuring the extent to which reporting entities make training available for employees related to compliance with Section 508 practices and requirements.</li>
+      <li>Conformance Metrics that measure how well the reporting entity’s ICT meets technical standards for accessibility, including websites, electronic documents, and multimedia.</li>
+    </ol>
+-  
+  id: 105
+  h: Overview
+  q: What types of ICT does the Assessment cover?
+  a: |
+    The Assessment evaluates a variety of ICT covered under Section 508, including but not limited to public internet and internal intranet web pages, non-web electronic content such as documents and Agency Official Communications, videos, software, and hardware.
+-  
+  id: 106
+  h: Overview
+  q: What if I don't have resources to complete the requested testing?
+  a: |
+    If you do not have staff, funding, or testing tools available to complete the requested testing of ICT products prior to the submission deadline, please test what you can. If you cannot test anything, please select “Unavailable—reporting entity does not have resources to test.” For Question 99 regarding ICT solicitations, if you are unable to review any of the previous 10 solicitations, please select “Unknown.”
+-  
+  id: 107
+  h: Overview
+  q: How will reported data be used?
+  a: |
+    GSA, in consultation with the Office of Management and Budget (OMB), will prepare and submit to Congress a comprehensive report that includes information identifying the metrics and data collected and compliance by each reporting entity and by the federal government generally. The report will also include a detailed description of the actions, activities, and other efforts made by GSA over the preceding year to support compliance at reporting entities and any planned efforts in the coming year to improve compliance at reporting entities. Finally, the report will include a list of recommendations agencies or Congress may take to help support that compliance.
+    
+    The report to Congress is expected to be delivered in December 2024. The report will also be made available on <a href="https://www.section508.gov">Section508.gov</a>.
+    
+    Submitted data will be maintained in a publicly available, machine readable format as a 44 U.S.C 3502 (20) open government data asset. Other organizations may choose to use this data for their own purposes.
+-  
+  id: 108
+  h: Overview
+  q: What is the purpose of the Assessment?
+  a: |
+    The purpose of the Assessment is twofold:
+    <ol>
+      <li>To improve transparency, accountability, and trust regarding Section 508 compliance, fulfilling specific reporting requirements under the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>.</li>
+      <li>To address the critical need for accessible ICT in the federal government, particularly recognizing its impact on persons with disabilities (PWDs).</li>
+    <ol>
+-  
+  id: 109
+  h: Overview
+  q: What is "Section 752" referencing?
+  a: |
+    Section 752 refers to a specific section of the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a>, which stipulates timelines and requirements for OMB, GSA, and the U.S. Access Board (USAB) to collect data on governmentwide ICT accessibility.
+-  
+  id: 110
+  h: Overview
+  q: Where can I find past Assessment reports and data?
+  a: |
+    All annual reports and associated data can be found under <a href="../manage/section-508-assessment/annual-reports/">Annual Reports</a>. Please visit <a href="../manage/section-508-assessment/2023/assessment-data-downloads/">FY23 Assessment Data Downloads</a> to retrieve a copy of all submitted data including your reporting entity.
+-  
+  id: 111
+  h: Overview
+  q: What has been updated since the criteria were released on April 8th?
+  a: |
+    As of April 18th, the following had been changed:
+    <ul>
+      <li>Added definition of fillable form.</li>
+      <li>Updated Understanding for Question 1 to include employees who are currently receiving a paycheck.</li>
+      <li>Updated Understanding of Question 67 to explicitly add that extranet is included in questions related to internet web pages.</li>
+      <li>Updated Understanding for Question 87 to include a definition of fillable form and scope the form to one that requires a PRA clearance.</li>
+      <li>Added additional Office Hours through May.</li> 
+    </ul>
+
+    As of April 24th, "(*Required)" was added to Questions 9, Questions 19-23 and Question 26 to clarify that all questions are required this year. "Communicates" was changed to "communication" to fix an error in Question 37. Question 103's answer selections were updated to match the format in the submission tool.
+
+    As of April 26th, Question 88 Understanding was updated to include that the Congressional Justification is an annual budget request.
+
+    As of May 7th, a crosswalk from FY23 criteria to FY24 criteria was uploaded to FAQ "What are the primary differences between the FY23 criteria and the FY24 criteria?"
+
+    As of May 23rd, FAQs "Who will send the Assessment link to the reporting tool?" and "What is the best way to navigate the reporting tool?" were updated. Understanding was added to Question 7 (along with additional text for option b. Classified), Question 19, Question 21, Question 42, and Question 81. Question 101 and Question 102 were changed from "e-gov" to "E-Government."
+
+    As of June 6th, additional understanding was added to Q1 to clarify scope is only for civilian federal employees.
+
+    As of July 1st, what is considered "motion" as it relates to Q79d was added to Understanding content.
+-  
+  id: 201
+  h: Submitting Data
+  q: Is there a way for me to gather all my answers offline?
+  a: |
+    While reporting entities may use the following <a href="https://assets.section508.gov/assets/files/assessment/2024/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" target="_blank" class="usa-link--external">Assessment spreadsheet (XLSX)</a> to help collect the information, responses must be submitted using the reporting tool. You may also simply print the criteria questions directly from Assessment criteria pages.
+-  
+  id: 202
+  h: Submitting Data
+  q: Who will send the Assessment link to the reporting tool?
+  a: |
+    Registered POCs will receive on or about June 1 an email from “Office of Government-wide Policy” with instructions to access the tool. If you do not receive this email, check your email’s junk folder. 
+    
+    NOTE: Since the email is sent from a collection tool, the email sender may appear as “surveys@research.gsa.gov.”
+-  
+  id: 203
+  h: Submitting Data
+  q: I do not have a link to submit data for my reporting entity. How do I get one?
+  a: |
+    Please reach out to the General Services Administration’s (GSA) Government-wide IT Accessibility team at <a href="mailto:section.508@gsa.gov">Section.508@gsa.gov</a> to verify the point of contact (POC) for your reporting entity and resolve access issues.
+-  
+  id: 204
+  h: Submitting Data
+  q: Will reporting entities be able to send segments of questions to appropriate reporting entity responders or will there be online capability to assign certain questions to reporting entity stakeholders for completion?
+  a: |
+    No, the reporting tool will not have the functionality to portion out different sections of questions for other individuals to submit responses. Each reporting entity should coordinate information gathering outside of the response tool for the reporting entity POC to submit on behalf of their reporting entity. Parent agencies should coordinate reporting entities to enhance the accuracy and consistency of responses.
+-  
+  id: 205
+  h: Submitting Data
+  q: What is the final date for submitting my reporting entity’s answers?
+  a: |
+    The reporting tool will close on July 31, 2024, at 11:59 p.m. EST. No responses can be submitted or altered after that date.
+-  
+  id: 206
+  h: Submitting Data
+  q: Will I be able to edit my reporting entity’s data up until the deadline of July 31, 2024, even if I have submitted the data before the deadline?
+  a: |
+    Your reporting entity responses cannot be edited after submission without manual steps to unlock your response. If edits are necessary after submission, email GSA’s Government-wide IT Accessibility Program at <a href="mailto:section.508@gsa.gov">Section.508@gsa.gov</a>. Edits or submissions will not be permitted after the submission period closes on July 31, 2024. **NOTE:** Unlocking your reporting entity’s responses may not be immediate. Please carefully review your answers prior to submission to avoid any additional delay.
+-  
+  id: 207
+  h: Submitting Data
+  q: What is the best way to navigate the reporting tool?
+  a: |
+    We recommend gathering all responses prior to accessing and entering data into the reporting tool. This will ease your reporting entity’s ability to start at the beginning of the reporting tool and answer questions in order. We encourage reporting entities to use the <a href="https://assets.section508.gov/assets/files/assessment/2024/FY-24%20Government-wide%20Section%20508%20Assessment%20Criteria.xlsx" target="_blank" class="usa-link--external">Assessment spreadsheet (XLSX)</a> to gather responses.
+    
+    Within this submission response tool, your data is saved automatically—provided you use the same device and same browser—and you may return to the submission tool to continue entering information as many times as you need. You may navigate to different sections of the Assessment Criteria using the Table of Contents, Previous button or Next button. However, once you enter a section, you must answer all required criteria on the screen before moving to another section using the Table of Contents. You can use the Previous button to navigate backwards without answering all required questions on screen, but you cannot use the "Next" button within a section to skip questions without inputting an answer.
+-  
+  id: 301
+  h: Interpreting Criteria
+  q: What do I input or select if I don't know an answer?
+  a: |
+    If a reporting entity is unable to provide the requested information because it is currently unavailable, the reporting entity should select “Unknown” or “N/A.” In rare instances, you may need to input “0” into a text field. Reporting entities will have opportunities to collect any unavailable information during future Assessments.
+-  
+  id: 302
+  h: Interpreting Criteria
+  q: What if I don't have 10 web pages, 10 documents or 5 videos to test?
+  a: |
+    If your reporting entity does not have 10 web pages (intranet or internet), 10 electronic documents or 5 videos, please test the number of web pages, documents, or videos you do have and report on those. 
+-  
+  id: 303
+  h: Interpreting Criteria
+  q: Can my reporting entity rely solely on a vendor's Accessibility Conformance Report (ACR) to determine whether our product is fully accessible for this year's Assessment? 
+  a: |
+    Yes, you may use an ACR to report whether the ICT product(s) fully conforms to all applicable Section 508 standards.
+-  
+  id: 304
+  h: Interpreting Criteria
+  q: If an ACR or Voluntary Product Accessibility Template (VPAT®) states that a Success Criteria or Section 508 Standard “partially supports,” how should reporting entities use this data to inform a response?
+  a: |
+    “Partially supports” denotes there is at least one component of the ICT product that fails that criterion. Thus, the ICT does not fully conform to applicable Section 508 requirements. Report “no” for any question that asks if that ICT is fully conformant.
+-  
+  id: 305
+  h: Interpreting Criteria
+  q: As a department or agency with components, what information should I report on?
+  a: |
+    Agency components and reporting entities, such as bureaus, sub-agencies, or major organizational divisions as determined by the agency, must be reported independently of their “parent” agency. “Parent” agencies must limit reporting to that of the parent agency and not include reporting from component reporting entities.
+-  
+  id: 306
+  h: Interpreting Criteria
+  q: How should reporting entities respond if they use processes, policies, or procedures implemented by their parent agency?
+  a: |
+   It is acceptable for a reporting entity to utilize parent agency processes, policies, and or services, and each reporting entity should answer appropriately for how they utilize or implement the parent agency process, policy, or service. For example, it is acceptable to answer that a reporting entity has a complaint process even if that reporting entity relies on the complaint process of the parent agency.
+   
+   Where a reporting entity reports specific data for questions such as FTEs and budget, a reporting entity should not report their parent agency budget and resources but instead give an honest report of their specific reporting entity. Reporting entity specific data should also be reported for Conformance Metrics and most of the General Information questions. Reporting entities should submit their own data without duplication of the parent agency when answering specific outcome-related questions.  
+-  
+  id: 307
+  h: Interpreting Criteria
+  q: How do I estimate Full Time Equivalents (FTEs)?
+  a: |
+    When reporting the total number of FTEs your reporting entity has in its Section 508 Program office or equivalent, include the FTEs of individuals who directly support the activities of the Section 508 Program office or equivalent. Exclude individuals responsible for accessibility as a matter of practice within their regular duties in other organizational business units.
+    
+    When it is not possible to ascertain the number of employee or contractor hours dedicated to the reporting entity Section 508 Program office or equivalent, please estimate. First, determine the percentage of Section 508 work performed on the contract. Then, apply this percentage to the total cost of the contract. Finally, divide that dollar value by the average cost of each FTE.
+-  
+  id: 308
+  h: Interpreting Criteria
+  q: How do I determine frequency of activities?
+  a: |
+    <ol>
+      <li>Never: 0%.</li>
+      <li>Sometimes: Activities that are performed approximately 1% to 24% of the time.</li>
+      <li>Regularly: Activities that are performed approximately 25% to 59% of the time.</li>
+      <li>Frequently: Activities that are performed approximately 60% to 89% of the time.</li>
+      <li>Almost always: Activities that are performed approximately 90% or more of the time.</li>
+    </ol>
+
+    NOTE: The scale of frequency is not an evenly distributed linear scale.
+    
+    A specific range is provided for each response, such as “25% to 59%.” It is not expected that your reporting entity tracks the exact percentage for every item asked about; for example,  “Yes, my reporting entity does XYZ 59.75% of the time, so that’s ‘Frequently.’” Your reporting entity can arrive at an estimate based on your collective experience; for example,  “Yes, my reporting entity does XYZ more than half the time, and maybe even a bit more than half of the time. I think this is something my reporting entity does ‘Frequently.’” 
+-  
+  id: 309
+  h: Interpreting Criteria
+  q: Subjectivity and Interpretation
+  a: |
+    Many of the question responses contain multiple items that may be difficult to assess as individual elements. For example, one of the responses for Question 60 is:
+    
+    “d) Frequently verified prior to acceptance, including required remediation when necessary (approximately 60%-89% of the time).”
+
+    There are two parts to this response option: verification and remediation. Are both items done “Frequently?” Is verification “frequent” and remediation “almost always?” There may be cases where there is not an exact answer, but please provide your reporting entity’s best estimation of what happens in practice.
+-  
+  id: 310
+  h: Interpreting Criteria
+  q: Reporting Entity Goals Versus Practice
+  a: |
+    Please select the most appropriate response for what happens in practice at your reporting entity. For example, one of the responses for Question 50 is:
+    
+    “c) Regularly (approximately 25%-59% of the time).”
+    
+    If it is true your reporting entity includes this requirement in formal policy but in practice web content testers sometimes follow the required test process, please select the response that aligns with your reporting entity practice rather than the requirement. In this situation, your reporting entity’s response will be “b) Sometimes” rather than “c) Regularly” because the former more accurately reflects day-to-day activities.
+-  
+  id: 311
+  h: Interpreting Criteria
+  q: What answer should I select if my reporting entity is in between two options, such as a and b?
+  a: |
+    Select the response that is most representative of your reporting entity’s current status in that activity or business function.
+-  
+  id: 312
+  h: Interpreting Criteria
+  q: Will I be able to write open-ended explanations to answer selections?
+  a: |
+    Yes. At the end of the survey, there will be an open-ended question (see Question 103) where you may write any additional details about your program, answer selections, etc. Please use this form field to provide additional narrative you think is relevant. When referencing a specific question, please note the Dimension, such as  Conformance Metrics, and the question number, such as Question 70.
+-  
+  id: 401
+  h: Point of Contact Information
+  q: How do I update my agency's reporting entity list in the designee sign-up form?
+  a: |
+    To update the list of reporting entity dropdowns within the designee registration tool, please contact <a href="mailto:section.508@gsa.gov">Section.508@gsa.gov</a>. You may also select “Other” in the registration link for your reporting entity POC or designee; a text field is presented on the next page for you to input the appropriate reporting entity.
+-  
+  id: 405
+  h: Point of Contact Information
+  q: Can one POC submit responses for multiple components within the agency?
+  a: |
+    Yes. The same POC can register for multiple reporting entities, but each entity will have its own specific link to the online response tool. The designated POC will need to ensure the correct link is used to report entity-specific responses.
+-  
+  id: 406
+  h: Point of Contact Information
+  q: Can more than one individual register as the reporting entity POC and have access to the response tool?
+  a: |
+    Please limit registration to one POC per reporting entity. Once your reporting entity POC has submitted their information in the POC registration tool, they will receive a unique link for the reporting entity report submission. Once the response tool link is opened, the tool will lock to that specific user. To unlock the response tool for a different user, you must contact GSA at <a href="mailto:section.508@gsa.gov">Section.508@gsa.gov</a> for a manual unlock.
+-  
+  id: 501
+  h: Assistance
+  q: Will there be working sessions to review the questions and receive any clarifications needed?
+  a: |
+    Yes. The GSA Government-wide IT Accessibility team will host office hours starting April 17th. Please check the <a href="../manage/section-508-assessment/support/">Support page</a> and <a href="../events/">Events</a> page for more information and how to register. 
+-  
+  id: 502
+  h: Assistance
+  q: Will office hours be available? 
+  a: |
+    Yes, GSA anticipates having office hours through July, though the frequency may vary. Please continue to check the <a href="../events/">Events page</a> as office hours are scheduled.
+-  
+  id: 503
+  h: Assistance
+  q: Where can I find the information shared and discussed during Office Hours?
+  a: |
+    Office Hours are not recorded and transcripts are not available for distribution. However, based on these sessions, our team regularly updates these FAQs and the “Understanding Question [X]” content associated with Assessment criteria to help reporting entities better understand each question. NOTE: Not all criteria have additional Understanding content.

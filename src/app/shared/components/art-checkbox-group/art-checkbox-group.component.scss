@@ -1,0 +1,41 @@
+.usa-checkbox {
+
+  border: 2px solid rgba(27,27,27,.3);
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  &.is-active {
+    background-color: rgba(0,94,162,.1);
+    border-color: #005EA2;
+  }
+
+  &__label {
+    &-description{
+      font-weight: normal;
+    }
+  }
+}
+.art-bold{
+  font-weight: 700;
+}
+
+.art-normal{
+  font-weight: 400;
+}
+.usa-fieldset {
+  .usa-legend {
+    margin-bottom: 10px;
+  }
+}
+
+.usa-legend{
+  width: 100%;
+  max-width: none;
+}
+
+:host ::ng-deep .usa-checkbox.is-active a {
+  color: #1c68d4;
+}

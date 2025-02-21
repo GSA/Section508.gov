@@ -1,0 +1,63 @@
+<!-- div for file upload -->
+<section aria-label="File upload" class="usa-graphic-list">
+    <div class="usa-form-group margin-bottom-1">
+        <label class="usa-label" for="file-input-specific">Input accepts only specific file types</label>
+        <span class="usa-hint" id="file-input-specific-hint" *ngIf="fileInputRequired" >Select JSON files. Do not exceed 8 ICTs</span>
+        <!-- file input button -->
+        <div class="usa-file-input margin-top-1">
+            <!-- error message from file-upload component, these error may be seen after selecting the files -->
+            <div class="input-error-alert error" *ngIf="selectErrors.length>0">
+                <div class="margin-x-2" *ngFor="let error of selectErrors">
+                    {{error}}
+                </div>
+            </div>
+            <!-- error message from file-upload service -->
+            <div *ngIf="result.errors.length>0" class="error">
+                <div *ngFor="let error of result.errors; let i = index">
+                    {{error}}
+                </div>
+            </div>
+            <!-- SUccess message-->
+            <div *ngIf="successMessage" class="success">
+                {{successMessage}}
+            </div>
+            <div class="art-file-input__target" >
+                <div *ngIf="isReadyToUpload" class="margin-bottom-3" >
+                    <div class="usa-file-input__preview-heading">
+                        {{files.length}} file{{files.length==1? '':'s'}} selected 
+                        <span class="usa-file-input__choose">Change files</span>
+                    </div>
+                    <!-- Looping through each file selected-->
+                    <div *ngFor="let eachFile of files" class="usa-file-input__preview" aria-hidden="true">
+                        {{eachFile.name}}
+                    <div></div></div>
+                </div>
+                <div class="usa-file-input__instructions" *ngIf="!isReadyToUpload">
+                    <span class="usa-file-input__drag-text">Drag file here or </span>
+                    <span class="usa-file-input__choose">choose from folder</span>
+                </div>
+                <div class="usa-file-input__box"></div>
+                <input 
+                    #fileUpload
+                    id="file-input-specific" 
+                    class="usa-file-input__input" 
+                    type="file" 
+                    name="file-input-specific" 
+                    (change)="onChange($event)" 
+                    accept=".json" 
+                    multiple="multiple" 
+                    aria-live="polite" 
+                    aria-label="No files selected" 
+                    data-default-aria-label="No files selected"
+                />
+            </div>
+        </div>
+    </div>
+    <!-- the upload button -->
+    <button 
+        class="usa-button usa-button--outline" 
+        *ngIf="isReadyToUpload" 
+        (click)="onUpload(); fileUpload.value ='';" >
+        Upload
+    </button>
+</section>

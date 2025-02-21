@@ -2,13 +2,34 @@
 This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
 {% endcomment %}
 
-<section class="usa-hero">
+<h1 class="usa-sr-only">Section 508 of the Rehabilitation Act</h1>
+
+<section class="usa-hero margin-bottom-6">
   <div class="grid-container">
-    <div class="usa-hero__callout">
-      <h2 class="usa-hero__heading"><span class="usa-hero__heading--alt">Hero callout:</span>Bring attention to a project priority
-      </h2>
-      <p>Support the callout with some short explanatory text. You don’t need more than a couple of sentences.</p>
-      <a class="usa-button" href="javascript:void(0)">Call to action</a>
+    <div class="usa-hero__callout radius-lg border-2px border-primary">
+      <h2 class="usa-hero__heading h2color text-normal font-body-xl">FY 24 Governmentwide Section 508 Assessment</h2>
+      <p class="text-black">The General Services Administration (GSA) has released its second annual report on federal compliance with Section 508 of the Rehabilitation Act, as amended. While the report indicates slight improvements in the maturity of IT accessibility programs, it also highlights that the federal government continues to fall short of its legal and statutory obligations to ensure equal access for individuals with disabilities, including federal employees and members of the public.</p>
+      <a class="usa-button primary-background-color" href="{{site.baseurl}}/manage/section-508-assessment/2024/message-from-gsa-administrator/">Read the FY 24 Assessment Report</a>
+    </div>
+  </div>
+</section>
+
+<section class="usa-hero mission">
+  <div class="grid-container">
+    <div class="mission__callout radius-lg padding-4">
+      <h2 class="font-body-lg margin-0">Our Mission</h2>
+      <div class="grid-row grid-gap">
+        <div class="desktop:grid-col-8">
+        <p>On January 18, 2017, the <span class="text-underline"><a href="https://www.access-board.gov/" target="_blank">U.S. Access Board</span></a> published a <span class="text-underline"><a href ="https://www.access-board.gov/ict/" target="_blank">final rule</a></span> updating accessibility requirements for information and communication technology (ICT) covered by  <span class="text-underline"><a href = "https://www.access-board.gov/law/ra.html" target="_blank"> Section 508 of the Rehabilitation Act</a></span>   and Section 255 of the Communications Act.</p>
+        <p> The U.S. General Services Administration (GSA) Office of Government-wide Policy (OGP) is tasked under this law to provide technical assistance to help Federal agencies comply with these requirements, and ensure that covered ICT is accessible to, and usable by, individuals with disabilities.</p>
+        </div>
+        <div class="desktop:grid-col-4">
+            <img src="{{ site.baseurl }}/assets/images/mission.png" alt="A portion of a computer keyboard with shining Accessibility text and symbol in place of the enter key" />
+        </div>
+        <div class="grid-col-12">
+        <a class="usa-button secondary-background-color usa-button--big" href="{{site.baseurl}}/about-us" aria-label="About Us in Our Mission">About Us</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>

@@ -1,0 +1,33 @@
+{
+    "events":
+    [
+        {
+        "title": "Acquisition and Procurement",
+        "content" :
+        [
+            {
+                "pt": "Acquisition Management",
+                "description": "Policies that apply to arrangement and administration of agreements, and management of performance of contract holders.",
+                "pg": "No requirement for Section 508/ICT accessibility throughout the acquisition and procurement lifecycle.",
+                "rInclusions": "Section 508/ICT accessibility requirements in acquisition and procurement lifecycle processes.",
+                "rPolicy": "The Contracting Officer must ensure that the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are incorporated into acquisition and procurement lifecycle processes, to include pre-award, award, and post-award phases. Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d), requires [insert your agency] to ensure individuals with disabilities have access to the ICT it has acquired and procured."
+            },
+            {
+                "pt": "Acquisition Management (continued)",
+                "description": "Policies that apply to arrangement and administration of agreements, and management of performance of contract holders.",
+                "pg": "Description of accessibility requirements for limited contract clauses in contracts for individuals with disabilities, but does not reference compliance to the Section 508 law, conformance to the ICT Standards and Guidelines, or additional ICT accessibility considerations.",
+                "rInclusions": "Compliance with the Section 508 law for various contract clauses in contracts as required by the Federal Acquisition Regulation (FAR). ",
+                "rPolicy": "Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d), requires [insert your agency] to provide accessible ICT to individuals with disabilities. The Section 508 law must be referenced in contract clauses for individuals with disabilities as required by Federal Acquisition Regulation (FAR) (48 C.F.R. § 52.222-36)."
+            },
+            {
+                "pt": "Acquisition Management",
+                "description": "Policies that apply to arrangement and administration of agreements, and management of performance of contract holders.",
+                "pg": "No mention of a tool or resource to help identify and incorporate relevant accessibility requirements into procurement and contracting documentation.",
+                "rInclusions": "Reference to the Accessibility Requirements Tool (ART) for guided assistance to identify and include relevant accessibility requirements into procurement and contracting documentation.",
+                "rPolicy": "Those involved in the awarding and/or administration of contracts must ensure the applicable requirements for the current ICT Standards and Guidelines (36 C.F.R. § 1194) are included in procurement and contracting documentation. Refer to the Accessibility Requirements Tool (ART) tool for guided assistance to identify relevant accessibility requirements: https://app.buyaccessible.gov/."
+            }
+        ]
+        } 
+       
+    ]
+ } 

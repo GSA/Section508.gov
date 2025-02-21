@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<section aria-label="Page Banner" class="usa-graphic-list usa-section sml-margin bg-gradient landing-page-banner">
+    <div class="grid-container">
+        <div class="grid-row grid-gap">
+            <div class="tablet: grid-col">
+                <span class="banner-title-color font-sans-lg margin-bottom-0">
+                    Blogs & Updates
+                </span>
+                <br />
+                <h1 class="text-white font-sans-xl margin-top-0 margin-bottom-0">
+                    {{ page.tag | replace: "-"," " }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+        {% include blog-sidenav.html %}
+      </aside>
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-graphic-list">
+<!--        <h1 class="margin-top-0">{{ page.tag | replace: "-"," " }}</h1>-->
+         {% for post in site.tags[page.tag] %}
+        <div class="text-base margin-bottom-2" style="clear:both;">
+          <h2><a class="text-no-underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <div class="text-base margin-bottom-2">
+            <div class="margin-top-neg-105">{% if post.author %}
+              By <span class="text-bold">{{ post.author }}</span> ·{% endif %} {{ post.date |
+              date: '%B %d, %Y' }}
+            </div>
+          </div>
+          <p>{{ post.description }}</p>
+          <ul style="list-style: none; float:right;" class="margin-top-0">
+            <li><a href="{{ site.baseurl }}/{{ post.permalink }}" aria-label="{{ post.title }} Read More Link">Read More</a></li>
+          </ul>
+        </div>
+          {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

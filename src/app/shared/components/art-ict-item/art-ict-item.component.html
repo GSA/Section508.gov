@@ -1,0 +1,8 @@
+<div attr.data-index="{{ index }}">
+    <span><abbr title="{{ ictItem?.name }}">{{ ictItem?.name }}</abbr></span>
+    <button 
+        (click)="deleteClicked()" 
+        attr.aria-label="Delete button for index {{index}}"
+        class="usa-button usa-button--secondary" >Delete
+    </button>
+</div>
