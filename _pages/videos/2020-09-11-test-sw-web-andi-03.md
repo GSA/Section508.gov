@@ -20,7 +20,7 @@ resource-type: Training
 format: Video & Synchronized Media (video)
 ---
 In Module: 3 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, understand how to use ANDI’s _Links/Buttons_ module to inspect [interactive][1] links and buttons to evaluate for accessibility so users will know where the link will take them if selected.
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/  training-video-andi-03-oc.mp4" type="video/mp4"></video>
+<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-03-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
    <ul>
