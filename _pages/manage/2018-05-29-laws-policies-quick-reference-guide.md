@@ -92,7 +92,7 @@ Prepare accessibility requirements for in-house procurement of customized and of
   * [How to Request Accessibility Information from Vendors and Contractors][18] (NEW) - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility, Clauses, and Acceptance Criteria][20] (NEW) - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  *  <a href = "https://assets.section508.gov/files/standards-exceptions-chart.docx" aria-label =" Downloads applicability documensts"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
+  *  <a href = "https://assets.section508.gov/assets/files/standards-exceptions-chart.docx" aria-label =" Downloads applicability documensts"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
   * [Determine 508 Standards and Exceptions][14] - Step-by-step guidance on how to complete the Standards Applicability Checklist
 
 ### Online Training
@@ -114,7 +114,7 @@ Validate that accessibility requirements and contract language are developed bas
 ### Tools & Technical Assistance
 
   * [Accessibility Requirements Tool][12] - Automates the Revised 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
-  *  <a href = "https://assets.section508.gov/files/standards-exceptions-chart.docx" aria-label =" Downloads word chart document"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
+  *  <a href = "https://assets.section508.gov/assets/files/standards-exceptions-chart.docx" aria-label =" Downloads word chart document"> Revised 508 Standards Applicability Checklist</a> (MS-Word, April 2018) - Use this checklist to document your accessibility requirements for ICT items
   * [Determine 508 Standards and Exceptions][14] - Step-by-step guidance on how to complete the Standards Applicability Checklist
   * [How to Request Accessibility Information from Vendors and Contractors][18] - Learn how to communicate accessibility requirements and contract provisions to vendors (NEW); includes guidance on the [Voluntary Product Accessibility Template 2.1][19] (MS Word), which is used by vendors to create Accessibility Conformance Reports (ACRs) (Updated)
   * [How to Define Accessibility Provisions, Clauses, and Acceptance Criteria][20] - Learn how to prepare solicitations, statements of work, or other procurement documents (NEW)
@@ -173,7 +173,7 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [10]: {{site.baseurl}}/manage/identify-user-needs
  [11]: {{site.baseurl}}/manage/support-accessible-content
  [12]: {{site.baseurl}}/art
- [13]: https://training.section508.gov/assets/files/508-standards-applicability-checklist.docx
+ [13]: https://assets.section508.gov/assets/files/508-standards-applicability-checklist.docx
  [14]: {{site.baseurl}}/buy/determine-508-standards-exceptions
  [15]: https://www.access-board.gov/ict/wcag2ict.html
  [18]: {{site.baseurl}}/buy/request-accessibility-information

@@ -89,7 +89,7 @@ agency buys, builds, and uses, is accessible for all.
                 <a href="https://www.congress.gov/bill/113th-congress/house-bill/1232" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
             </li>
             <li>
-                <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
+                <a href="https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
             </li>
             <li>
                 <a href="https://www.cio.gov/policies-and-priorities/#subject=*&role=.web&status=*" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>

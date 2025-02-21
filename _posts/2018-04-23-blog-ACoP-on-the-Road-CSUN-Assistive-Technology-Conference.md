@@ -23,4 +23,4 @@ The ACoP group presented a high-level overview of the [Revised 508 Standards][2]
 
  [1]: https://www.csun.edu/cod/conference/sessions/index.php/
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [3]: https://assets.section508.gov/files/Implementing%20the%20Revised%20508%20Standards_CSUN%202018.pdf
+ [3]: https://assets.section508.gov/assets/files/Implementing%20the%20Revised%20508%20Standards_CSUN%202018.pdf

@@ -35,7 +35,7 @@ It is often hard to know where to begin. This is where the Accessibility Key Per
 Federal organizations can take advantage of KPIs below to track improvement over time to directly measure their organization's performance with respect to digital accessibility. Below is the initial list of KPIs developed by the team. We welcome any feedback on how to improve this list, including any additional KPIs our stakeholders believe we should include on the list. Please reach out to <section.508@gsa.gov> to suggest updates or new items for this KPI list.
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <strong>Download</strong>: <a href="https://assets.section508.gov/files/organizational-it-accessibility-key-performance-indicators-(kpi).xlsx">Organizational IT Accessibility Key Performance Indicators (KPI)(XLSX)</a>.
+  <strong>Download</strong>: <a href="https://assets.section508.gov/assets/files/organizational-it-accessibility-key-performance-indicators-(kpi).xlsx">Organizational IT Accessibility Key Performance Indicators (KPI)(XLSX)</a>.
 </div>
 
 <table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">

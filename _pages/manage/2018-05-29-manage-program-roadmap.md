@@ -567,9 +567,9 @@ format: HTML (html)
  [8]: {{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/
  [9]: #main-content
  [10]: https://standards.usa.gov/
- [11]: https://assets.section508.gov/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
+ [11]: https://assets.section508.gov/assets/files/Revised%20508%20Standards%20Applicability%20Checklist%20%287%29.docx
  [12]: {{site.baseurl}}/buy/determine-508-standards-exceptions
- [13]: https://assets.section508.gov/files/standards-exceptions-chart.docx
+ [13]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
  [14]: {{site.baseurl}}/create/software-websites
  [15]: {{site.baseurl}}/test
  [16]: {{site.baseurl}}/art/

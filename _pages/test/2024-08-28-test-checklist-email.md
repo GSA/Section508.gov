@@ -212,7 +212,7 @@ The following table outlines key accessibility checks for email messages focusin
 </table>
 
 ## Additional Resources 
-* [Checklist for Accessible Email (XLSX)](https://assets.section508.gov/files/Checklist-for-Accessible-Email.xlsx)
+* [Checklist for Accessible Email (XLSX)](https://assets.section508.gov/assets/files/Checklist-for-Accessible-Email.xlsx)
 * [Creating Accessible Email Messages]({{site.baseurl}}/create/email-messages/)
 
 **Reviewed/Updated:** September 2024

@@ -29,7 +29,7 @@ Mark your calendars for the 12th Annual Interagency Accessibility Forum, schedul
 
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
-    <a href="https://training.section508.gov/assets/files/calendar/calendar-2025-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
+    <a href="https://assets.section508.gov/assets/files/calendar/calendar-2025-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
     <span> | </span>
     <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250520T130000Z%2F20250520T210000Z&details=This%20is%20calendar%20placeholder%20for%20the%202025%20IAAF%20to%20be%20hosted%20at%20the%20National%20Science%20Foundation%20%28NFS%29%20located%20directly%20adjacent%20to%20the%20Eisenhower%20Avenue%20Metro%20Station.%20Registration%20is%20expected%20to%20open%20in%20April%20at%20which%20time%20you%20can%20register%20and%20receive%20a%20personalized%20calendar%20invitation.%20Watch%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20for%20event%20and%20registration%20information.&location=National%20Science%20Foundation%2C%202415%20Eisenhower%20Avenue%2C%20Alexandria%2C%20VA%2022314&text=Save%20the%20Date%20-%20IAAF%202025&recur=RRULE:FREQ=DAILY;COUNT=3" target="_blank"><span><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg></span><span>Add to Google Calendar</span></a>
     <span> | </span>
