@@ -18,7 +18,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="https://assets.section508.gov/files/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
@@ -78,7 +78,7 @@ format: "HTML (html)"
                     </div>
                     {% for download in track.downloads %}
                       <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                        <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                        <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                       </div>
                     {% endfor %}
                   {% endif %}
@@ -124,7 +124,7 @@ format: "HTML (html)"
                   </div>
                   {% for download in track.downloads %}
                     <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                      <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                      <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                     </div>
                   {% endfor %}
                 {% endif %}
@@ -163,7 +163,7 @@ format: "HTML (html)"
                 </div>
                 {% for download in session.downloads %}
                   <div class="speaker-info padding-top-1 padding-left-sm padding-right-sm">
-                    <span class="speaker-name"><a href="https://training.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
+                    <span class="speaker-name"><a href="https://assets.section508.gov/assets/files/iaaf/2023/{{download.file_name}}" target="_blank">{{ download.link_name }}</a></span>
                   </div>
                 {% endfor %}
               {% endif %}

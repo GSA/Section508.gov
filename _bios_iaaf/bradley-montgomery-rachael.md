@@ -10,7 +10,7 @@ position: Accessibility Architect
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/bradley-montgomery-rachael.jpg
+image_url: /assets/images/bio-images/bradley-montgomery-rachael.jpg
 iaaf_years: 2023
 ---
 Rachael Bradley Montgomery, Ph.D. has been working in accessibility and usability for over 20 years. She currently serves in the following roles: 

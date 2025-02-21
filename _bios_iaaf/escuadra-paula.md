@@ -10,7 +10,7 @@ position: Co-Founder and Co-Chair
 office: Climate Special Interest Group
 location: 
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/escuadra-paula.png
+image_url: /assets/images/bio-images/escuadra-paula.png
 iaaf_years: 2022
 ---
 Paula Angela Escuadra (She/Her, Panelist) has spent over 12 years working to elevate the power games can have to redefine our relationship with failure and create a sense of meaning. She co-founded and currently co-chairs the IGDA Climate Special Interest Group, a grassroots community of scientists, researchers, and game developers tackling the climate crisis all over the world. In her day job, she is building the Xbox Game Studios Cloud Publishing research program with a lens on accessibility and sustainability. Most recently, she co-authored The Environmental Game Design Playbook, a landmark report mapping pro-environmental predictors of behavior to game design tactics. 

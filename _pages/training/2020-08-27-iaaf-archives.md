@@ -25,13 +25,13 @@ The IAAF was hosted by the Government-wide IT Accessibility Program within the O
 Conference sessions were recorded, and will be posted on this page in early 2025. Watch for updates! 
 
 ### Presentations & Workshops
-* [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://training.section508.gov/assets/files/iaaf/2024/GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx)
-* [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://training.section508.gov/assets/files/iaaf/2024/That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx)
-* [Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF)](https://training.section508.gov/assets/files/iaaf/2024/Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf)
-* [Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX)](https://training.section508.gov/assets/files/iaaf/2024/Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx)
-* [Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX)](https://training.section508.gov/assets/files/iaaf/2024/Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx)
+* [GSA Section 508 Activities Update - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202024.pptx)
+* [That Doesn't Need to be a PDF - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/That%20Doesn't%20Need%20to%20be%20a%20PDF%20-%20IAAF%202024.pptx)
+* [Using DevTools for Manual Accessibility Inspection - IAAF 2024 (PDF)](https://assets.section508.gov/assets/files/iaaf/2024/Using%20DevTools%20for%20Manual%20Accessibility%20Inspection%20-%20IAAF%202024.pdf)
+* [Exceptions in Section 508 Regulatory Language - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/Exceptions%20in%20Section%20508%20Regulatory%20Language%20(USAB)%20-%20IAAF%202024.pptx)
+* [Social Media Presentation and Webinar Slides - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/Social%20Media%20Presentation%20and%20Webinar%20Slides%20-%20IAAF%202024.pptx)
 * Meet ANDI - Coming soon.
-* [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://training.section508.gov/assets/files/iaaf/2024/Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx)
+* [Section 508 Playbook (Draft) - IAAF 2024 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2024/Section%20508%20Playbook%20(Draft)%20-%20IAAF%202024.pptx)
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
@@ -54,7 +54,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -73,7 +73,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -92,7 +92,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -111,7 +111,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -130,7 +130,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
         </div>
       </div>
       <div class="usa-card__body">
@@ -149,7 +149,7 @@ For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agen
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img class="radius-lg" src="https://assets.section508.gov/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
+          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
         </div>
       </div>
       <div class="usa-card__body">
@@ -181,32 +181,32 @@ For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-202
 
 ### Workshops
 * **Track A: Lead Our Agencies Towards Access**  
-  * [Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx)  
-  * [The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx)  
-  * [The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx)  
-  * [Creating Accessible PDF Forms - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx)  
+  * [Accessible Meetings - Integrating Captioning in Conference Platforms - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Accessible%20Meetings%20-%20Integrating%20Captioning%20in%20Conference%20Platforms%20-%20IAAF%202022.pptx)  
+  * [The Human Reason for Accessibility - Part 1 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/The%20Human%20Reason%20for%20Accessibility%20-%20Part%201%20-%20IAAF%202022.pptx)  
+  * [The Human Reason for Accessibility - Part 2 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/The%20Human%20Reason%20for%20Accessibility%20-%20Part%202%20-%20IAAF%202022.pptx)  
+  * [Creating Accessible PDF Forms - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Creating%20Accessible%20PDF%20Forms%20-%20IAAF%202022.pptx)  
 * **Track B: Create Amazing Content**
-  * [Videos for All - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Videos%20for%20All%20-%20IAAF%202022.pptx)  
-  * [Captioning Multimedia - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Captioning%20Multimedia%20-%20IAAF%202022.pptx)  
-  * [Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx)  
+  * [Videos for All - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Videos%20for%20All%20-%20IAAF%202022.pptx)  
+  * [Captioning Multimedia - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Captioning%20Multimedia%20-%20IAAF%202022.pptx)  
+  * [Section 508 PMs - What You Need To Know - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Section%20508%20PMs%20-%20What%20You%20Need%20To%20Know%20-%20IAAF%202022.pptx)  
   * Section 508 PMs - Using What You Know
 
 ### General Sessions
-* [Accessibility Maturity Models - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx)  
-* [Chair and Committee Members - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx )
+* [Accessibility Maturity Models - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Accessibility%20Maturity%20Models%20-%20IAAF%202022.pptx)  
+* [Chair and Committee Members - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Chair%20and%20Committee%20Members%20-%20IAAF%202022.pptx )
 
 ### Breakout Sessions
 * **Track A: Lead Our Agencies Towards Access**
-  * [Workplace Mental Health - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Workplace%20Mental%20Health%20-%20IAAF%202022.pptx)  
-  * [Beyond 508 Compliance - A Four-Point Hybrid Testing Approach - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Beyond%20508%20Compliance%20-%20A%20Four-Point%20Hybrid%20Testing%20Approach%20-%20IAAF%202022.pptx)  
-  * [Advancing Accessibility within a Small Agency - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Advancing%20Accessibility%20within%20a%20Small%20Agency%20-%20IAAF%202022.pptx)  
-  * [WCAG 3 - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/WCAG%203%20-%20IAAF%202022.pptx)  
-  * [A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx)
+  * [Workplace Mental Health - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Workplace%20Mental%20Health%20-%20IAAF%202022.pptx)  
+  * [Beyond 508 Compliance - A Four-Point Hybrid Testing Approach - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Beyond%20508%20Compliance%20-%20A%20Four-Point%20Hybrid%20Testing%20Approach%20-%20IAAF%202022.pptx)  
+  * [Advancing Accessibility within a Small Agency - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Advancing%20Accessibility%20within%20a%20Small%20Agency%20-%20IAAF%202022.pptx)  
+  * [WCAG 3 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/WCAG%203%20-%20IAAF%202022.pptx)  
+  * [A Different Perspective for Looking at Accessibility - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/A%20Different%20Perspective%20for%20Looking%20at%20Accessibility%20-%20IAAF%202022.pptx)
 * **Track B: Create Amazing Content/Section 508 Wildcard**
-  * [Striving for Universal Access - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Striving%20for%20Universal%20Access%20-%20IAAF%202022.pptx)  
-  * [Mission Accessible - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Mission%20Accessible%20-%20IAAF%202022.pptx)  
-  * [The UniDescription Project - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/The%20UniDescription%20Project%20-%20IAAF%202022.pptx)  
-  * [Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx)  
-  * [Demystifying Section 508 - IAAF 2022 (PPTX)](https://training.section508.gov/assets/files/iaaf/2022/Demystifying%20Section%20508%20-%20IAAF%202022.pptx)
+  * [Striving for Universal Access - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Striving%20for%20Universal%20Access%20-%20IAAF%202022.pptx)  
+  * [Mission Accessible - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Mission%20Accessible%20-%20IAAF%202022.pptx)  
+  * [The UniDescription Project - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/The%20UniDescription%20Project%20-%20IAAF%202022.pptx)  
+  * [Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx)  
+  * [Demystifying Section 508 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Demystifying%20Section%20508%20-%20IAAF%202022.pptx)
 
 **Reviewed/Updated:** January 2025

@@ -10,7 +10,7 @@ position: Product Manager, Experience
 office: 
 location: Washington, D.C.
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/gillick-larry.jpg
+image_url: /assets/images/bio-images/gillick-larry.jpg
 iaaf_years: 2024
 ---
 Larry Gillick is the product manager for all things web in the FDIC’s Office of Communications.

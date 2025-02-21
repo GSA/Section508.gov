@@ -36,7 +36,7 @@ format: HTML (html)
                 {% if contributor.contributor_type == "individual" %}
                     <div class="grid-row flex-wrap margin-y-1 padding-y-1 grid-gap-1 border-bottom-1px border-base-lighter">
                         <div class="grid-col-auto">
-                            <img class="circle-8 border-05 border-base-light shadow-1" src="{{ contributor.image_url }}" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
+                            <img class="circle-8 border-05 border-base-light shadow-1" src="{{ site.baseurl }}{{ contributor.image_url }}" alt="Photo: {{ contributor.display_name }}" style="vertical-align:middle">
                         </div>
                         <div class="grid-col-9 padding-y-1">
                             <a href="{{ site.baseurl }}{{ contributor.url }}{{ contributor.output_ext }}"><strong>{{ contributor.display_name }}</strong></a><br>

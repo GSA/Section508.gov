@@ -23,7 +23,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title">
@@ -42,7 +42,7 @@ How to create accessible Microsoft PowerPoint presentations.
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="https://assets.section508.gov/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/training/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
     <p class="video-title">
@@ -77,8 +77,8 @@ The resources in this section were developed by federal agencies and shared here
 
 **Reviewed/Updated**: January 2025
 
- [1]: https://assets.section508.gov/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
- [2]: https://assets.section508.gov/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
+ [1]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Basic Authoring and Testing Guide-AED COP.docx
+ [2]: https://assets.section508.gov/assets/files/MS PowerPoint 2016 Printable Accessibility Checklist-AED COP.docx
  [3]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [4]: https://www.ssa.gov/accessibility/checklists/ppt/pptchecklist.html
  [5]: http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/Section508/Downloads/508-How-To-Guide-Microsoft-Powerpoint.pdf

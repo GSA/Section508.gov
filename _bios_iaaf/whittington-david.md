@@ -10,7 +10,7 @@ position: Section 508 Coordinator
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/whittington-david.jpg
+image_url: /assets/images/bio-images/whittington-david.jpg
 iaaf_years: 2023, 2024
 ---
 David Whittington is currently the Section 508 Coordinator for the U.S. Census Bureau and works in the Application Development and Services Division (ADSD). As the Section 508 Program Manager, his team provides accessibility guidance, governance, and training for the Bureau to help make our digital products accessible to the disabled community. Prior to joining the agency, he worked for the Defense Information Systems Agency (DoD-DISA) where he was a Test Director, helping the US military develop, maintain, and operate mission critical Information Systems for the warfighter.  

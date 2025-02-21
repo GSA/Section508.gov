@@ -10,7 +10,7 @@ position: Chief of Staff, Office of Disability Employment Policy
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/geevarghese-anupa.jpg
+image_url: /assets/images/bio-images/geevarghese-anupa.jpg
 iaaf_years: 2023
 ---
 As Chief of Staff for the Office of Disability Employment Policy (ODEP), Anupa Iyer Geevarghese collaborates closely with ODEP’s Assistant Secretary and other U.S. Department of Labor (DOL) leaders to identify and implement strategies for increasing the number and quality of employment opportunities for people with disabilities.
