@@ -10,7 +10,7 @@ position: Community Involvement Coordinator
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/fuoco-angie.png
+image_url: /assets/images/bio-images/fuoco-angie.png
 iaaf_years: 2020
 ---
 Though Angie Fuoco works at the U.S. Environmental Protection Agency, she will present ideas gleaned from several professional fields that can help us consider how to deliver accessibility to our staff with disabilities in a safe, accessible, functional and engaging manner. She also proposes principles on which to operate to consider the eight dimensions of wellness for everyone and a Model EEO Program for staff with disabilities.

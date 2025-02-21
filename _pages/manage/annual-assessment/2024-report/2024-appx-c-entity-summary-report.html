@@ -56,8 +56,8 @@ format: "HTML (html)"
           <img id="grid-index" class="bg-white border border-primary-dark padding-x-05" src="" height="100px" width="125px" alt="">
         </div>
         <div aria-hidden="true">
-          <span class="fte-text margin-x-1 text-top"><img class="padding-right-05" style="height: 15px;" src="https://assets.section508.gov/assets/images/assessment/fy24/grid/FY24Diamond.svg" alt="Diamond grid marker">FY24</span>
-          <span class="fte-text text-top"><img class="padding-right-05" style="height: 15px;" src="https://assets.section508.gov/assets/images/assessment/fy24/grid/FY23Circle.svg" alt="Circle grid marker">FY23</span>
+          <span class="fte-text margin-x-1 text-top"><img class="padding-right-05" style="height: 15px;" src="{{site.baseurl}}/assets/images/assessment/fy24/grid/FY24Diamond.svg" alt="Diamond grid marker">FY24</span>
+          <span class="fte-text text-top"><img class="padding-right-05" style="height: 15px;" src="{{site.baseurl}}/assets/images/assessment/fy24/grid/FY23Circle.svg" alt="Circle grid marker">FY23</span>
         </div>
       </div>
     </div>
@@ -403,16 +403,17 @@ format: "HTML (html)"
       entityIDs.push(entity_data[n].id);
     }
 
-    if (entityIDs.includes(id)){
+    if (entityIDs?.includes(id)){
       for (var i=0; i < entity_data.length; i++) {
         //Match to URL paremeter id
         if (entity_data[i].id === id) {
           //Entity logo/seal and alt text
           if (entity_data[i].seal == "") {
-            document.getElementById("entity-seal").setAttribute("src", "https://assets.section508.gov/assets/images/assessment/fy23/image-placeholder.png");
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
           } else {
-            const altTextSeal = "Logo of " + entity_data[i].name; 
-            document.getElementById("entity-seal").setAttribute("src", entity_data[i].seal);
+            const altTextSeal = "Logo of " + entity_data[i]?.name; 
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}" + entity_data[i]?.seal);
+            console.log("{{site.baseurl}}" + entity_data[i]?.seal,"++++++")
             document.getElementById("entity-seal").setAttribute("alt", altTextSeal);
   
           }
@@ -426,7 +427,7 @@ format: "HTML (html)"
           document.getElementById("rec-text").innerText = entity_data[i].rec_text;
 
           //Set grid index src URL
-          const gIndex = "https://assets.section508.gov/assets/images/assessment/fy24/grid/Agency_" + entity_data[i].unique_ID + ".svg";
+          const gIndex = "{{site.baseurl}}/assets/images/assessment/fy24/grid/Agency_" + entity_data[i].unique_ID + ".svg";
           document.getElementById("grid-index").setAttribute("src", gIndex);
           document.getElementById("grid-index").setAttribute("alt", entity_data[i].alt);
 

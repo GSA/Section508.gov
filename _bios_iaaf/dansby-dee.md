@@ -10,7 +10,7 @@ position: Program Analyst
 office: 
 location: Bethesda, MD
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/dansby-dee.jpg
+image_url: /assets/images/bio-images/dansby-dee.jpg
 iaaf_years: 2023
 ---
 Dee Dansby, Program Analyst. Dee works for the National Institutes of Health (NIH) in the Contract Data Management Program (CDMP) under the Deputy Director’s Office (DDO) in the Office of Acquisitions and Logistics Management (OALM). Dee has been with the federal government for over fifteen (15) years. Before her federal service, Dee worked in Corporate America for over twenty-five (25) years.

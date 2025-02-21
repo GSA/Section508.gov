@@ -10,7 +10,7 @@ position: Section 508 Program Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/blank-profile.jpg
+image_url: /assets/images/bio-images/blank-profile.jpg
 iaaf_years: 2024
 ---
 

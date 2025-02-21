@@ -10,7 +10,7 @@ position: Section 508 Subject Matter Specialist
 office: 
 location: Arlington, VA
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/guzman-danny.jpg
+image_url: /assets/images/bio-images/guzman-danny.jpg
 iaaf_years: 2023
 ---
 Danny spent the past 6.5 years as contract employee working for various government agencies such as the Federal Deposit Insurance Corporation (FDIC), Department of Homeland Security (DHS) (OAST) & Department of Veteran’s Affairs as both a Section 508 Test Engineer and Analyst. As well as being a Document Specialist, Danny specializes in Section 508 conformance testing of web-based applications and Section 508/WCAG testing of Learning Management Systems.

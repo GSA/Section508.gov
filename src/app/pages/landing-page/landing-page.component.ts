@@ -4,6 +4,7 @@ import { ICTInterface } from 'src/app/shared/models/ict.interface';
 import { IStepIndicator } from 'src/app/shared/models/step-indicator.interface';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 import { LandingPageService, NextPage } from 'src/app/shared/services/landing-page/landing-page.service';
+import { environment } from 'src/environments/environment'
 
 @Component({
   selector: 'art-landing-page',
@@ -35,6 +36,8 @@ export class LandingPageComponent implements OnInit {
   * @type IButtonInterface
   */
   getUploadICTBtn:IButtonInterface = {label:""}
+  videoFooterHtml: string = '';
+  siteBaseUrl = ""; // Get dynamic base URL
 
 
   ngOnInit(): void {
@@ -42,6 +45,15 @@ export class LandingPageComponent implements OnInit {
     this.lpButtonHeader = this.landingPageService.getLpButtonData().buttonHeader;
     this.getStartedBtn = {...this.landingPageService.getLpGetStrBtn(), action:()=>{this.getNextPage(NextPage.getStarted)}};
     this.getUploadICTBtn = {...this.landingPageService.getLpUplBtn(), action:()=>{this.getNextPage(NextPage.uploadICT)}};
+
+    
+    this.siteBaseUrl = document.baseURI.replace(/\/+$/, '');
+
+     console.log(this.siteBaseUrl ,"this.siteBaseUrl ")
+
+    // Get video footer content and replace `{{site.baseurl}}`
+    this.videoFooterHtml = this.landingPageService.getVideoFooter().data.replace(/{{site.baseurl}}/g, this.siteBaseUrl);
+    console.log(this.videoFooterHtml,"video footer html")
   }
 
 
