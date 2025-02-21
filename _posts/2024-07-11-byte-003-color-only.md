@@ -4,7 +4,7 @@ permalink: blog/accessibility-bytes/use-of-color/
 type: article
 title: 'Accessibility Bytes No. 3: Use of Color'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
-social_img: 'https://assets.section508.gov/files/images/social-media-og-image-bytes.jpg'
+social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-07-11
 description: "<strong>Do you know that some people experience difficulty understanding and comprehending information when we use only colors to convey it?</strong><p>By meeting the use-of-color requirements, authors and agencies ensure that information isn't available through color only."
 contributors: 
@@ -30,7 +30,7 @@ Meeting the **use of color** requirement ensures color is not the only visual me
 The following two images are an example of a nonconformant and conformant  chart showing everyone's favorite pizza topping combination---cheese, ham and pineapple. Figure 1 below is a doughnut chart using three shades of green with a legend at the bottom of the chart with the words cheese, ham and pineapple next to a small circle containing the sample color for the corresponding topping within the chart. No labels or text are used to describe each section.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-003-figure-1.png" alt="Figure 1: Doughnut chart titled Composition of Hawaiian Pizza Toppings with three toppings in a legend: Cheese (50%), Ham (25), and Pineapple (25%), but without any other indication as to which section is which topping." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-003-figure-1.png" alt="Figure 1: Doughnut chart titled Composition of Hawaiian Pizza Toppings with three toppings in a legend: Cheese (50%), Ham (25), and Pineapple (25%), but without any other indication as to which section is which topping." aria-describedby="figure-1" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Nonconformant Composition of Hawaiian Pizza Toppings Pie Chart</span>
     </div>
@@ -39,7 +39,7 @@ The following two images are an example of a nonconformant and conformant  char
 In Figure 2, the same doughnut chart is shown except this time the legend has been replaced with labels describing each section along with the percentage of each topping. There is even a line from the label to the topping section in the chart to ensure understanding and comprehension.
 
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/byte-003-figure-2.png" alt="Figure 2: Doughnut chart titled Composition of Hawaiian Pizza Toppings with three toppings, Cheese (50%), Ham (25), and Pineapple (25%)." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/byte-003-figure-2.png" alt="Figure 2: Doughnut chart titled Composition of Hawaiian Pizza Toppings with three toppings, Cheese (50%), Ham (25), and Pineapple (25%)." aria-describedby="figure-2" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-2"><strong>Figure 2.</strong> Conformant Composition of Hawaiian Pizza Toppings Pie Chart</span>
     </div>

@@ -10,7 +10,7 @@ position: Information Technology Specialist
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/mosuela-joanne.jpg
+image_url: /assets/images/bio-images/mosuela-joanne.jpg
 iaaf_years: 2023
 ---
 Joanne Mosuela works in information technology management at the Environmental Protection Agency (3 years). She supports the Section 508 compliance, privacy policy, and contract management for scientific research applications. She is a certified Trusted Tester for Section 508 Conformance.

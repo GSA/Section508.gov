@@ -40,11 +40,11 @@ format: "HTML (html)"
   </p>
   
   <div>
-    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="https://assets.section508.gov/files/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
+    <img alt="Infographic supporting the case for Universal Design. Explains 3 key benefits of saving money, driving innovation, and engaging the workforce." src="{{site.baseurl}}/assets/images/Universal%20Design%20Business%20Case%20Infographic.jpg" style="width:60%" />
   </div>
   
   <p>
-    <a href="https://assets.section508.gov/files/Universal%20Design%20Business%20Case%20Infographic.pdf">Click here to download a PDF version of the infographic</a>
+    <a href="{{site.baseurl}}/assets/images/Universal%20Design%20Business%20Case%20Infographic.pdf">Click here to download a PDF version of the infographic</a>
   </p>
   
   <p>

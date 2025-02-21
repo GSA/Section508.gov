@@ -1,26 +1,32 @@
 <section aria-label="Landing Banner">
-    <!-- Get started button container section-->
-    <div art-generic-text-layout="top-border">
-        <art-generic-text *ngIf="lpButtonHeader">
-            <div class="margin-2">
-                <div class ="font-serif-lg margin-bottom-3">
-                    <b>{{lpButtonHeader}}</b>
-                </div> 
-                <div class="art-flex">
-                    <div>
-                        <art-button [btnTile]='true' [buttonData] = "getStartedBtn" ></art-button>
-                    </div>
-                    <div class="art-btn">
-                        <art-button [btnTile]='true' [buttonData] = "getUploadICTBtn"   ></art-button>
-                    </div>
-                </div>
-            </div>
-        </art-generic-text>
-    </div>
+  <!-- Get started button container section-->
+  <div art-generic-text-layout="top-border">
+    <art-generic-text *ngIf="lpButtonHeader">
+      <div class="margin-2">
+        <div class="font-serif-lg margin-bottom-3">
+          <b>{{ lpButtonHeader }}</b>
+        </div>
+        <div class="art-flex">
+          <div>
+            <art-button
+              [btnTile]="true"
+              [buttonData]="getStartedBtn"
+            ></art-button>
+          </div>
+          <div class="art-btn">
+            <art-button
+              [btnTile]="true"
+              [buttonData]="getUploadICTBtn"
+            ></art-button>
+          </div>
+        </div>
+      </div>
+    </art-generic-text>
+  </div>
 </section>
 
-<div class="margin-top-5" *ngIf="landingPageService && landingPageService.getVideoFooter()">
-    <div class="margin-top-2">
-        <div [innerHTML]="landingPageService.getVideoFooter().data"></div>
-    </div>
+<div class="margin-top-5" *ngIf="videoFooterHtml">
+  <div class="margin-top-2">
+    <div [innerHTML]="videoFooterHtml"></div>
+  </div>
 </div>

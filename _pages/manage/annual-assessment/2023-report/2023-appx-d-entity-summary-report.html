@@ -21,7 +21,7 @@ format: "HTML (html)"
   <div class="grid-row padding-x-auto">
     <div class="grid-col-auto margin-y-1 padding-x-2">
       <div>
-        <img id="entity-seal" src="https://assets.section508.gov/assets/images/assessment/fy23/g-index.gif" height="150px" alt="Placeholder image">
+        <img id="entity-seal" src="{{site.baseurl}}/assets/images/assessment/fy23/g-index.gif" height="150px" alt="Placeholder image">
       </div>
     </div>
     <div class="tablet:grid-col-fill margin-y-1 tablet:padding-x-2 tablet:border-left tablet:border-primary-light">
@@ -41,7 +41,7 @@ format: "HTML (html)"
     </div>
     <div class="grid-col-12 desktop:grid-col-2 margin-y-1 padding-top-2 tablet:border-top tablet:border-primary-light desktop:border-0 desktop:padding-top-0">
       <div class="margin-x-auto">
-        <img id="grid-index" class="vlvh" src="https://assets.section508.gov/assets/images/assessment/fy23/g-index.gif" height="160px" width="160px" alt="">
+        <img id="grid-index" class="vlvh" src="{{site.baseurl}}/assets/images/assessment/fy23/g-index.gif" height="160px" width="160px" alt="">
       </div>
     </div>
   </div>
@@ -277,7 +277,7 @@ format: "HTML (html)"
   }
   
   //Get entity data from JSON file then add data/text to entity summary page
-  fetch('/assets/2023-appx-d-entity-data.json') //Will need to update file/url reference once we post data files to assets.section508.gov
+  fetch('{{ site.baseurl }}/assets/2023-appx-d-entity-data.json') //Will need to update file/url reference once we post data files to assets.section508.gov
   .then((response) => response.json())
   .then((entity_data) => {
     const entityIDs = ["ACF"];
@@ -291,10 +291,10 @@ format: "HTML (html)"
         if (entity_data[i].id === id) {
           //Entity logo/seal and alt text
           if (entity_data[i].seal == "") {
-            document.getElementById("entity-seal").setAttribute("src", "https://assets.section508.gov/assets/images/assessment/fy23/image-placeholder.png");
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}/assets/images/assessment/fy23/image-placeholder.png");
           } else {
             const altTextSeal = "Logo of " + entity_data[i].name; 
-            document.getElementById("entity-seal").setAttribute("src", entity_data[i].seal);
+            document.getElementById("entity-seal").setAttribute("src", "{{site.baseurl}}" + entity_data[i].seal);
             document.getElementById("entity-seal").setAttribute("alt", altTextSeal);
   
           }

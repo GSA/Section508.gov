@@ -42,7 +42,7 @@ Maturity  questions ranged from Q22 to Q61 (excepting Q27B) (See <a href="https:
     </div>
 </div>
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px">
-    <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy23/figure-5.jpg" alt="A bar graph shows the average maturity dimension ratings across all reporting entities: 2.27 for IT Accessibility Program Office, 2.54 for Policies, Procedures, and Practices, 2.10 for Communications, 2.34 for Content Creation, 1.63 for Human Capital, Culture, and Leadership, 2.57 for Technology Lifecycle Activities, 2.04 for Testing and Validation, 2.44 for Acquisitions and Procurement, and 1.57 for Training." aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
+    <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-5.jpg" alt="A bar graph shows the average maturity dimension ratings across all reporting entities: 2.27 for IT Accessibility Program Office, 2.54 for Policies, Procedures, and Practices, 2.10 for Communications, 2.34 for Content Creation, 1.63 for Human Capital, Culture, and Leadership, 2.57 for Technology Lifecycle Activities, 2.04 for Testing and Validation, 2.44 for Acquisitions and Procurement, and 1.57 for Training." aria-describedby="figure-5" class="border-2px border-base-light shadow-2 padding-1">
     </div>
     <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-5"><strong>Figure 5.</strong> Average maturity dimension ratings across all reporting entities</span>
     </div>
@@ -61,27 +61,27 @@ Some additional descriptive statistics around the maturity dimensions include:
 
 <div class="grid-row">
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
-        <!-- src="https://assets.section508.gov/assets/images/assessment/fy23/figure-6.jpg" -->
+        <!-- src="{{site.baseurl}}/assets/images/assessment/fy23/figure-6.jpg" -->
         <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-            <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy23/figure-6.jpg" alt="A donut chart shows the percentage of reporting entities with Training as their lowest dimension: 41%. All others: 59%." aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
+            <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-6.jpg" alt="A donut chart shows the percentage of reporting entities with Training as their lowest dimension: 41%. All others: 59%." aria-describedby="figure-6" class="border-2px border-base-light shadow-2 padding-1">
             </div>
             <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-6"><strong>Figure 6.</strong> Percentage of reporting entities with Training as their lowest maturity dimension (103 of 249 reporting entities)<sup><a href="#fn12" id="fr12">12</a></sup> </span>
             </div>
         </div>
     </div>
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
-        <!-- src="https://assets.section508.gov/assets/images/assessment/fy23/figure-7.jpg" -->
+        <!-- src="{{site.baseurl}}/assets/images/assessment/fy23/figure-7.jpg" -->
         <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-            <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy23/figure-7.jpg" alt="A donut chart shows the percentage of reporting entities with Human Capital, Culture, and Leadership as their lowest dimension: 35%. All others: 65%." aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
+            <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-7.jpg" alt="A donut chart shows the percentage of reporting entities with Human Capital, Culture, and Leadership as their lowest dimension: 35%. All others: 65%." aria-describedby="figure-7" class="border-2px border-base-light shadow-2 padding-1">
             </div>
             <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-7"><strong>Figure 7.</strong> Percentage of reporting entities with Human Capital, Culture, and Leadership as their lowest maturity dimension (86 of 249 reporting entities)</span>
             </div>
         </div>
     </div>
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
-        <!-- src="https://assets.section508.gov/assets/images/assessment/fy23/figure-8.jpg" -->
+        <!-- src="{{site.baseurl}}/assets/images/assessment/fy23/figure-8.jpg" -->
         <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-            <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy23/figure-8.jpg" alt="A donut chart shows the percentage of reporting entities with Policies, Procedures and Standards as their highest dimension: 25%. All others: 75%." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
+            <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-8.jpg" alt="A donut chart shows the percentage of reporting entities with Policies, Procedures and Standards as their highest dimension: 25%. All others: 75%." aria-describedby="figure-8" class="border-2px border-base-light shadow-2 padding-1">
             </div>
             <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-8"><strong>Figure 8.</strong> Percentage of reporting entities with Policies, Procedures, and Standards as their highest maturity dimension (63 of 249 reporting entities)</span>
             </div>
@@ -89,7 +89,7 @@ Some additional descriptive statistics around the maturity dimensions include:
     </div>
     <div class="desktop:grid-col-6 tablet:grid-col-6 mobile-lg-12">
         <div class="tablet:grid-col" style="margin: auto; max-width: 90%; text-align: center; padding: 10px 0px">
-            <div class="margin-top-1"><img src="https://assets.section508.gov/assets/images/assessment/fy23/figure-9.jpg" alt="A donut chart shows the percentage of reporting entities with Technology Lifecycle Activities as their highest dimension: 20%. All others: 80%." aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1">
+            <div class="margin-top-1"><img src="{{site.baseurl}}/assets/images/assessment/fy23/figure-9.jpg" alt="A donut chart shows the percentage of reporting entities with Technology Lifecycle Activities as their highest dimension: 20%. All others: 80%." aria-describedby="figure-9" class="border-2px border-base-light shadow-2 padding-1">
             </div>
             <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-9"><strong>Figure 9.</strong> Percentage of reporting entities with Technology Lifecycle Activities as their highest maturity dimension (50 of 249 reporting entities)</span>
             </div>

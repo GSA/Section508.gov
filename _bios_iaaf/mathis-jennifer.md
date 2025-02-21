@@ -10,7 +10,7 @@ position: Deputy Assistant Attorney General, Civil Rights Division
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/mathis-jennifer.jpg
+image_url: /assets/images/bio-images/mathis-jennifer.jpg
 iaaf_years: 2023
 ---
 Jennifer Mathis is a Deputy Assistant Attorney General in the U.S. Justice Department’s Civil Rights Division. She reviews the work of the Disability Rights Section and the Special Litigation Section’s disability work. Prior to arriving at DOJ, Jennifer served as Director of Policy and Legal Advocacy at the Bazelon Center for Mental Health Law, a national non-profit legal advocacy organization that advances the rights of people with mental disabilities.  

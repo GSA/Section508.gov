@@ -29,7 +29,7 @@ The new design is intended to give you a better user experience. Changes include
 
 The redesigned homepage features clickable icons and tiles for top customer tasks. For example, the [Create Accessible Products][2] icon takes you to a robust overview of how to create and develop several types of accessible content, including documents, PDFs, websites and more.
 
-<img alt="Screenshot of Section508.gov homepage" src="https://assets.section508.gov/files/section508-homepage.jpg" style="width:100%" /> 
+<img alt="Screenshot of Section508.gov homepage" src="{{site.baseurl}}/assets/images/section508-homepage.jpg" style="width:100%" /> 
 
 Other top tasks and tiles include:
 
