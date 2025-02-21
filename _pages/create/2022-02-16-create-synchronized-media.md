@@ -57,7 +57,7 @@ format: "HTML (html)"
 <p dir="ltr"><strong>Kathy&rsquo;s Flood Story (Captioned)</strong></p>
 <p dir="ltr">In this example, note how the producers created a well crafted captions file, with proper synchronization, spelling, and grammar, to ensure that the text alternative for the pre-recorded content provides an equivalent experience for those unable to hear the audio track.</p>
 <p dir="ltr">Duration: 0h 0:31m</p>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://training.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px" poster="{{site.baseurl}}/assets/images/thumbnails/create-kathys-flood-story-cc-poster.jpg"><source src="https://assets.section508.gov/assets/videos/create-kathys-flood-story-oc.mp4" type="video/mp4"></video></p>
 <hr />
 <p dir="ltr"><strong>What is the difference between open and closed captions?</strong></p>
 <p dir="ltr"><em>Open captions</em> are displayed as a permanent part of the video, can never be turned off or hidden, and do not have to be selected by the user. <em>Closed captions</em> can be turned on and off and are not a permanent part of the video display.</p>
