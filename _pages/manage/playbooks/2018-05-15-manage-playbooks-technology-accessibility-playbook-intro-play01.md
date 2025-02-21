@@ -89,5 +89,5 @@ Achieving Section 508 compliance requires a comprehensive, programmatic approach
 **Reviewed/Updated:** November 2024
 
  [1]: #Footnote1
- [2]: https://assets.section508.gov/files/508_Leadership_Core_Competency_Model.pdf
- [3]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf
+ [2]: https://assets.section508.gov/assets/files/508_Leadership_Core_Competency_Model.pdf
+ [3]: https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf
