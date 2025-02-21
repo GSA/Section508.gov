@@ -15,7 +15,7 @@ format: "HTML (html)"
 ---
 <p>Get a brief overview on how to develop high quality audio, video, and multimedia that is accessible to users who cannot see visual information, or hear information conveyed using sound. Learn about text-based equivalents, captions and synchronized audio descriptions.</p>
 <hr>
-<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/files/Creating-Accessible-Media_OpenCaption.mp4" type="video/mp4"></video></p>
+<p><video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/files/Creating-Accessible-Media_OpenCaption.mp4" type="video/mp4"></video></p>
 <h2>Related Resources</h2>
 <ul>
 <li><a href="{{site.baseurl}}/create/synchronized-media">Create Accessible Synchronized Media Content </a></li>
