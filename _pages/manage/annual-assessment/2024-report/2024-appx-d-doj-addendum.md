@@ -15,7 +15,7 @@ audience:
 resource-type: "White paper"
 format: "HTML (html)"
 ---
-<div style="text-align:center;"><img src="https://assets.section508.gov/assets/images/seals-logos/doj.jpg" height="150px" alt="Seal of the U.S. Department of Justice"></div>
+<div style="text-align:center;"><img src="{{site.baseurl}}/assets/images/seals-logos/doj.jpg" height="150px" alt="Seal of the U.S. Department of Justice"></div>
 
 Section 508 of the Rehabilitation Act requires federal agencies to ensure that their information and communication technology (ICT) is accessible to people with disabilities, unless certain exceptions apply.  The statute requires federal agencies to ensure that ICT they develop, procure, maintain, or use allows employees with disabilities and individuals with disabilities who are members of the public to have access to and use of information and data. This access should be comparable to that available to employees and members of the public without disabilities.
 

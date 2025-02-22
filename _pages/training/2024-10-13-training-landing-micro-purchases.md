@@ -25,14 +25,14 @@ format: "HTML"
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="https://assets.section508.gov/assets/images/thumbnails/online-course-thumbnail-micro-purchases.jpg" alt="" class="radius-lg" />
+          <img src="{{site.baseurl}}/assets/images/thumbnails/online-course-thumbnail-micro-purchases.jpg" alt="" class="radius-lg" />
         </div>
       </div>
       <div class="usa-card__body">
         <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="https://training.section508.gov/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
+        <a href="{{site.baseurl}}/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
       </div>
     </div>
   </li>
@@ -96,11 +96,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
   * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&amp;C</a>
   * <a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR  Subpart 2.2 </a>
-  * <a href="https://www.acquisition.gov/content/part-10-market-research" target="_blank" class="usa-link--external">FAR 10</a>
-  * <a href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
-  * <a href="https://www.acquisition.gov/content/part-1-federal-acquisition-regulations-system#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
-  * <a href="https://www.acquisition.gov/content/part-13-simplified-acquisition-procedures" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
-  * <a href="https://www.acquisition.gov/content/part-39-acquisition-information-technology" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
+  * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR 10</a>
+  * <a href="https://www.acquisition.gov/far/part-1#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
+  * <a href="https://www.acquisition.gov/far/part-1#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
+  * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
+  * <a href="https://www.acquisition.gov/far/part-39" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
 * **Section 508.gov Resources**
   * <a href="{{site.basueurl}}/buy/accessibility-requirements-tool">Accessibility Requirements Tool (ART)</a>
   * <a href="{{site.basueurl}}/buy">Buy Accessible Products and Services</a>
@@ -114,7 +114,6 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
   * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a>
-  * <a href="https://interact.gsa.gov/document/omb-circular-123-appendix-b-improving-management-government-charge-card-programs" target="_blank" class="usa-link--external">OMB Circular A-123 Appendix B, Improving the Management of  Government Charge Card Programs</a>
   * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
 
 <div class="usa-accordion usa-accordion--bordered">

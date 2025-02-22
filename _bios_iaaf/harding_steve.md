@@ -10,7 +10,7 @@ position: Director of Digital Strategies
 office: Office of Government-wide Policy
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/harding-stephen.png
+image_url: /assets/images/bio-images/harding-stephen.png
 iaaf_years: 2020
 ---
 Prior to his current position, Mr. Harding was Program Executive for the Electronic Capital Planning and Investment Control (eCPIC), GSA, Office of Government-wide Policy, Washington D.C.

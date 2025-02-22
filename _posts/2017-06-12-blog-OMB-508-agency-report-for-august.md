@@ -24,5 +24,5 @@ There is no change in the reporting requirements from the February 2017 submissi
 
 Any questions about the [template][1] or [reporting requirements][2] can be sent to <feedback@cio.gov>. Any questions about your agency’s specific response, should be directed to your leadership team.
 
- [1]: https://assets.section508.gov/files/508%20IDC%20OMB%20reporting%20template%20v%20FNL.pdf
- [2]: https://assets.section508.gov/files/Instructions%20for%20Biannual%20OMB%20508%20Report%20vFNL.docx
+ [1]: https://assets.section508.gov/assets/files/508%20IDC%20OMB%20reporting%20template%20v%20FNL.pdf
+ [2]: https://assets.section508.gov/assets/files/Instructions%20for%20Biannual%20OMB%20508%20Report%20vFNL.docx

@@ -1,0 +1,45 @@
+<xml>
+	<moduleInfo>
+		<course name="Micro-purchases and Section 508 Requirements" mercID="1393"/>
+		<lesson name="" mercID="1724"/>
+	</moduleInfo>
+	<topics>
+			<topic name="Course Introduction">
+					<page name="page1" filename="11010.html" />
+					<page name="page2" filename="11020.html" />
+			</topic>
+			<topic name="What is Section 508?">
+					<page name="page3" filename="11030.html" />
+					<page name="page4" filename="11040.html" />
+			</topic>
+			<topic name="Micro-purchases and Information and Communication Technology">
+					<page name="page5" filename="11050.html" />
+					<page name="page6" filename="11060.html" />
+					<page name="page7" filename="11070.html" />
+					<page name="page8" filename="11080.html" />
+					<page name="page9" filename="11090.html" />
+				    <page name="page10" filename="11095.html" />
+					<page name="page11" filename="11100.html" />
+					<page name="page12" filename="11110.html" />
+					<page name="page13" filename="11120.html" />
+				    <page name="page14" filename="11125.html" />
+					<page name="page15" filename="11127.html" />
+				    <page name="page16" filename="11130.html" />
+					<page name="page17" filename="11132.html" />
+					<page name="page18" filename="11134.html" />
+				 	<page name="page19" filename="11136.html" />
+					<page name="page20" filename="11138.html" />
+					<page name="page21" filename="11139.html" />
+					<page name="page22" filename="11140.html" />
+					<page name="page23" filename="11150.html" />
+					<page name="page24" filename="11160.html" />
+					<page name="page25" filename="11170.html" />
+				</topic>
+			<topic name="Course Summary">
+					<page name="page26" filename="11180.html" />
+					<page name="page27" filename="11190.html" />
+			</topic>
+	</topics>
+</xml>
+
+		

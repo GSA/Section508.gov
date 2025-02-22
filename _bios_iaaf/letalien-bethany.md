@@ -10,7 +10,7 @@ position: Section 508 Program Manager
 office: 
 location: Washington, D.C.
 email: ##lowercase
-image_url: https://assets.section508.gov/assets/images/bio-images/letalien-bethany.jpg
+image_url: /assets/images/bio-images/letalien-bethany.jpg
 iaaf_years: 2024
 ---
 Bethany Letalien (she/her) has spent the last several years standing up the Office of Personnel Management’s small but mighty Section 508 program office, housed within the Office of Communications. Bethany is Trusted Tester certified and has been active in the ICT testing baseline efforts for web and documents led by GSA, the Access Board, and the Accessible Electronic Documents Community of Practice (AED COP).

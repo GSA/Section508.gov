@@ -25,13 +25,13 @@ format: HTML (html)
 
 Accessibility is about more than compliance with standards. It&rsquo;s about developing solutions to meet the needs of all users, with and without disabilities. Universal design, a concept now widely used in the private sector, provides a path for federal agencies to shift to this broader focus.
 
-Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting [universal design principles can help](https://digital.gov/2017/05/09/benefits-of-accessible-design/) your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
+Federal agencies are responsible for developing accessible information and communications technology (ICT) tools, products and websites. Adopting universal design principles can help your agency address and improve accessibility in areas such as digital strategy, procurement, and design and implementation of digital products.
 
 Through universal design, your agency will:
 
 * **Save money** by investing in the most accessible products from the start;  
 * **Innovate** and create products for everyone regardless of ability; and  
-* **Engage staff**, promote inclusivity, and pave the way for more people with disabilities to join the workforce.  
+* **Engage staff**, promote collaboration and participation, and pave the way for more people to join the workforce.  
 
 Invest in universal design to transform the way your agency serves citizens, regardless of ability, and create tools and products that are easier for everyone to use.
 
@@ -41,7 +41,7 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
-    <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="https://assets.section508.gov/files/thumbnails/training-video-universal-design-thumb.png" alt="An Introduction to Universal Design for Video Series" /></a>
+    <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
@@ -92,14 +92,14 @@ If you have questions or want to share your experiences using universal design, 
   </div>
 </div>
 
-**Reviewed/Updated:** August 2023
+**Reviewed/Updated:** January 2025
 
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
  [3]: {{site.baseurl}}/blog/Building-Accessibility-into-your-Procurement-Process
  [4]: {{site.baseurl}}/blog/5-Ways-Universal-Design-Makes-Products-More-Accessible
  [5]: {{site.baseurl}}/blog/infographic-the-case-for-universal-design
- [6]: https://assets.section508.gov/files/Copy%20of%20Universal_Design_%20White%20Paper_vFinal_0.pdf
+ [6]: https://assets.section508.gov/assets/files/Copy%20of%20Universal_Design_%20White%20Paper_vFinal_0.pdf
  [7]: https://www.youtube.com/watch?v=ryfd3fmZHCY
  [8]: https://g3ict.org/publication/the-benefit-of-designing-for-everyone-a-research-report-on-the-importance-of-inclusive-design
  [9]: {{site.baseurl}}/contact-us

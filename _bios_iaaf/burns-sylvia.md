@@ -10,7 +10,7 @@ position: Chief Information Officer and Chief Privacy Officer
 office: 
 location: Arlington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/burns-sylvia.jpg
+image_url: /assets/images/bio-images/burns-sylvia.jpg
 iaaf_years: 2023
 ---
 Ms. Burns joined FDIC as Deputy Chief Information Officer (DCIO) in September 2018, focusing on IT Strategic Planning, Enterprise Architecture, and Data Management. Under her leadership, the organization is shifting to cloud-based platforms and software that reduce the on-premises IT footprint and provide more responsive solutions to the FDIC's dynamic business needs. Ms. Burns continues to lead an interagency initiative under the Federal CIO Council to help federal agencies adopt zero trust architectures.

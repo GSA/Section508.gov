@@ -104,5 +104,5 @@ The following play identifies how to ensure accessibility needs are identified a
  [1]: #Footnote2
  [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
  [3]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [4]: https://assets.section508.gov/files/guidance-on-508-compliant-solicitations-20150921.docx
- [5]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
+ [4]: https://assets.section508.gov/assets/files/guidance-on-508-compliant-solicitations-20150921.docx
+ [5]: https://assets.section508.gov/assets/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx

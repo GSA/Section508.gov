@@ -10,7 +10,7 @@ position: Program Officer Global Mental Health
 office: 
 location: Bethesda, MD
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/moore-rhonda.png
+image_url: /assets/images/bio-images/moore-rhonda.png
 iaaf_years: 2020
 ---
 Rhonda J. Moore, PhD received her PhD in Cultural and Medical Anthropology at Stanford University and postdoctoral training in Behavioral Science in the Psychiatry Department at Stanford Medical School, in Clinical Ethnography and Epidemiology at the University of Texas MD Anderson Cancer Center, and Hospice/Palliative Care at St. Austell’s in the UK. Her work combines anthropological methods, ethics, data science and clinical medicine to better understand patient experiences and data disparities across culturally and medically diverse care settings (cancer, pain, palliative care, Neurodiversity), gamification, community engaged research, and the differential and ethical impacts of new and emerging technologies on individuals and communities in vulnerable situations in low resource settings and in low and middle income countries (e.g. AI, Digital Health, etc.,).

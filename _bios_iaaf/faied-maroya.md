@@ -10,7 +10,7 @@ position: Product Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/faied-maroya.jpg
+image_url: /assets/images/bio-images/faied-maroya.jpg
 iaaf_years: 2023
 ---
 Maroya Faied currently manages a team responsible for the agency's public websites and committed to providing open and transparent federal data and information to the public. She has a Master's degree in Minerals and Energy Economics and has worked for the Office of Natural Resources Revenue for over 10 years. 

@@ -59,7 +59,7 @@ The rule updated and reorganized the Section 508 Standards and Section 255 Guide
 ## Related Laws
 <strong>Audience: </strong> Agency Section 508 Program Managers, Web Managers, Human Resources, EEO, and Disability Employment Program Managers, or equivalents.
 
-It is important to understand Section 508 in the context of other laws related to federal disability policy. In addition to Section 508, the <a href="https://assets.section508.gov/files/rehabilitation-act-of-1973-amended-by-wioa.pdf" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (PDF)</a> has the following related sections:
+It is important to understand Section 508 in the context of other laws related to federal disability policy. In addition to Section 508, the <a href="https://assets.section508.gov/assets/files/rehabilitation-act-of-1973-amended-by-wioa.pdf" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (PDF)</a> has the following related sections:
 
 <ul>
   <li><a href="http://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank" class="usa-link--external text-top">Section 501</a> - Prohibits federal employers from discriminating against qualified individuals with disabilities. It requires each federal agency to adopt the goal of having 12% of its workforce be people with disabilities and 2% of its workforce be people with targeted disabilities.</li>
@@ -95,10 +95,10 @@ Related laws include:
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf" target="_blank" class="usa-link--external text-top">M-13-13 - Open Data Policy - Managing Information as an Asset (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/procurement_memo/improving_accessibility_gov_info_07192010.pdf" target="_blank" class="usa-link--external text-top">OMB Improving the Accessibility of Government Information (PDF) - July 2010</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/omb/procurement_index_508/" target="_blank" class="usa-link--external text-top">Office of Federal Procurement Policy 508 Compliance</a></li>
-  <li><a href="https://assets.section508.gov/files/ombNews_February_2011.doc" target="_blank" class="usa-link--external text-top">2011 Notes from Daniel I. Gordon, Federal Procurement Policy Administrator</a></li>
-  <li><a href="https://assets.section508.gov/files/improving_accessibility_gov_info_07192010_5B1_5D.doc" target="_blank" class="usa-link--external text-top">2010 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
-  <li><a href="https://assets.section508.gov/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc" target="_blank" class="usa-link--external text-top">2007 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
-  <li><a href="https://assets.section508.gov/files/Memo_Safavian-Evans.doc" target="_blank" class="usa-link--external text-top">2005 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/ombNews_February_2011.doc" target="_blank" class="usa-link--external text-top">2011 Notes from Daniel I. Gordon, Federal Procurement Policy Administrator</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/improving_accessibility_gov_info_07192010_5B1_5D.doc" target="_blank" class="usa-link--external text-top">2010 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc" target="_blank" class="usa-link--external text-top">2007 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/Memo_Safavian-Evans.doc" target="_blank" class="usa-link--external text-top">2005 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
 </ul>
 
 ### Equal Employment Opportunity Commission (EEOC)

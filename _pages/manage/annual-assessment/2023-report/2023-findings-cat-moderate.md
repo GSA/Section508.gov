@@ -118,7 +118,7 @@ Reporting entities in the Moderate-Moderate category performed as expected with 
 
 * All reporting entities in this category test internet pages, with all reporting over 80% of pages fully conformant.
 
-* 7 of 8 reporting entities in this category (88%) provided results for the digital content conformance questions (Q78-81 (See <a href="https://training.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>)), with relatively high conformance on average.
+* 7 of 8 reporting entities in this category (88%) provided results for the digital content conformance questions (Q78-81 (See <a href="https://assets.section508.gov/assets/files/assessment/2023/FY23%20Governmentwide%20Section%20508%20Assessment%20Data%20Dictionary%20Excel.xlsx">FY23 Data Dictionary (XLSX)</a>)), with relatively high conformance on average.
 
 ### Overall Recommendations:
 Reporting entities in the Moderate-High category performed as expected on trend in most dimensions, but underperformed expectations in Acquisitions and Procurement. Reporting entities in this category should focus on improving the maturity of their training and human capital considerations . Additionally, a concentration on improving maturity in general is suggested as conformance across reporting entities in this category was relatively high.

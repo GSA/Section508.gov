@@ -12,7 +12,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="https://assets.section508.gov/files/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="{{site.baseurl}}/assets/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act. 
@@ -25,11 +25,11 @@ Over the coming months, we’ll publish videos of key sessions to ensure everyon
 ## Let's Keep the Momentum Going into 2025!
 Mark your calendars for the 12th Annual Interagency Accessibility Forum, scheduled for **May 20-22, 2025, at the National Science Foundation** where you'll participate in an exciting lineup of sessions, workshops, and networking opportunities! 
 
-<img src="https://assets.section508.gov/files/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
-    <a href="https://training.section508.gov/assets/files/calendar/calendar-2025-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
+    <a href="https://assets.section508.gov/assets/files/calendar/calendar-2025-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
     <span> | </span>
     <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250520T130000Z%2F20250520T210000Z&details=This%20is%20calendar%20placeholder%20for%20the%202025%20IAAF%20to%20be%20hosted%20at%20the%20National%20Science%20Foundation%20%28NFS%29%20located%20directly%20adjacent%20to%20the%20Eisenhower%20Avenue%20Metro%20Station.%20Registration%20is%20expected%20to%20open%20in%20April%20at%20which%20time%20you%20can%20register%20and%20receive%20a%20personalized%20calendar%20invitation.%20Watch%20https%3A%2F%2Fwww.section508.gov%2Fiaaf%20for%20event%20and%20registration%20information.&location=National%20Science%20Foundation%2C%202415%20Eisenhower%20Avenue%2C%20Alexandria%2C%20VA%2022314&text=Save%20the%20Date%20-%20IAAF%202025&recur=RRULE:FREQ=DAILY;COUNT=3" target="_blank"><span><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg></span><span>Add to Google Calendar</span></a>
     <span> | </span>
@@ -85,7 +85,7 @@ Until then, let's continue to collaborate, innovate, and advocate for a more acc
 -->
 <!--
 ## Event Agenda
-<img style="display: block; float: left; margin-right: 12px;" src="https://assets.section508.gov/files/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
+<img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
 This year's IAAF will be held November 13-14, 2024 and feature the usual mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
 

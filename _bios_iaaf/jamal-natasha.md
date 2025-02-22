@@ -10,7 +10,7 @@ position: Director
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/assets/images/bio-images/jamal-natasha.jpg
+image_url: /assets/images/bio-images/jamal-natasha.jpg
 iaaf_years: 2023
 ---
 Natasha Jamal is a Director at the U.S. Digital Service.
