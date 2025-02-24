@@ -109,7 +109,7 @@ On January 25-26, 2017, the CIO Council Accessibility Community of Practice (ACO
         <ul>
           <li>
             <div>
-              <a href="https://assets.section508.gov/files/Technology-Accessibility-Playbook-2018-Update.docx">Download a copy of the Technology Accessibility Playbook</a> (MS Word, June 2016)
+              <a href="https://assets.section508.gov/assets/files/Technology-Accessibility-Playbook-2018-Update.docx">Download a copy of the Technology Accessibility Playbook</a> (MS Word, June 2016)
             </div>
           </li>          
           <li>
