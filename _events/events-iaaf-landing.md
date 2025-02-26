@@ -12,7 +12,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, U.S. Access Board, and the CIO Council." src="{{site.baseurl}}/assets/images/iaaf-interim-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, U.S. Access Board, and the CIO Council." src="{{site.baseurl}}/assets/images/iaaf-2025-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973, as amended (29 USC 794d).
