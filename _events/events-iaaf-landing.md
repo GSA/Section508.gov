@@ -18,7 +18,7 @@ redirect_from:
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973, as amended (29 USC 794d).
 
 ## 2025 IAAF
-The 2025 Interagency Accessibility Forum (IAAF) will take place virtually on Zoom for Government from May 20-22. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA). Co-sponsors include the Federal CIO Council’s Accessibility Community of Practice (ACOP) and the U.S. Access Board (USAB), in collaboration with other federal agencies.
+The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT** and take place virtually on Zoom for Government from May 20-22. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA). Co-sponsors include the Federal CIO Council’s Accessibility Community of Practice (ACOP) and the U.S. Access Board (USAB), in collaboration with other federal agencies.
 
 <img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20, 21 and 22" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
