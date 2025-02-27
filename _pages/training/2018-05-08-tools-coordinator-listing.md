@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-02-04
+updated: 2025-02-27
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -162,7 +162,7 @@ Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>
 Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>  
 
 ### Air Force
-Carlinda Lotson Miller (Deputy) - <carlinda.lotsonmiller.1@us.af.mil>  
+Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
@@ -183,7 +183,8 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 Jorge Valdez - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
-<!-- ### Defense Contract Management Agency (DCMA) -->
+### Defense Contract Management Agency (DCMA)  
+William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
@@ -388,7 +389,7 @@ Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>
 ### Bureau of Reclamation (BR)
 Lori Pelech - <lpelech@usbr.gov>  
 ### Bureau of Safety and Environmental Enforcement (BSEE)
-Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>
 ### Bureau of Trust Funds Administration (BTFA)
 Neal Herbert - <neal_herbert@btfa.gov>  
 ### National Park Service (NPS)
@@ -396,7 +397,7 @@ Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
 ### Office of the Solicitor (OS)
-Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
