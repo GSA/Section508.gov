@@ -509,8 +509,7 @@ Christopher M. Brown - <browncm@state.gov>
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
-Michelle Cribbs - <michelle.cribbs@dot.gov>  
-Stephanie Jackson (Deputy) - <stephanie.jackson@dot.gov>  
+Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
@@ -582,8 +581,6 @@ John Beatty - <john.beatty@nrc.gov>
 
 ---
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-B. L. - <section508@opm.gov>  
-Megan Rocus - <megan.rocus@opm.gov>  
 
 ---
 ## <span id="ussba" ></span>Small Business Administration (SBA)
@@ -933,7 +930,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: February 2025
+**Reviewed/Updated**: March 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
