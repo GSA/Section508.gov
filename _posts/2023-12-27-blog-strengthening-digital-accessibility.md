@@ -17,7 +17,7 @@ audience:
 resource-type: Blog article (blog)
 format: HTML (html)
 ---
-On December 21, 2023, the Office of Management and Budget (OMB) released [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government. 
+On December 21, 2023, the Office of Management and Budget (OMB) released [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government. 
 
 Accessibility is an essential part of federal government modernization, improving federal customer experience, building public trust in government, and creating an inclusive workplace culture. Despite tens of millions of Americans living with a disability, nearly half of the most popular federal government websites are not fully accessible. This lack of accessibility has led to unequal access to critical services for millions of Americans. OMB’s updated policy requires agencies to put accessibility at the center of the federal government digital experience, ensuring the government can truly deliver for all Americans.
 

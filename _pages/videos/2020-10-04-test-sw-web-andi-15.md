@@ -1,13 +1,13 @@
 ---
 sidenav: true
 layout: video
-permalink: training/web-software/anditraining-videos/data-tables/
+permalink: training/web-software/andi-training-videos/data-tables/
 type: ANDI training
 title: 'Module 15: Data Tables'
 created: 2020-10-05
 updated: 2025-01-07
 redirect_from:
-- test/web-software/andi-training-videos/data-tables/
+- test/web-software/anditraining-videos/data-tables/
 topic: Training (train)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:

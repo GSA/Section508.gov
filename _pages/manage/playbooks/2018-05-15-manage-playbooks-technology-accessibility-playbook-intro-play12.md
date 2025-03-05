@@ -53,11 +53,11 @@ An understanding of accessibility and Section 508 compliance should be an essent
 
 ## Resources
 
-  * [Government-wide Section 508 Training][1]
-  * [For Developers, Microsoft Active Accessibility][2]
-  * [For Developers, Apple Accessibility Programming Guide for OSX X][3]
-  * [For Developers, Dragon Naturally Speaking Application Programming Guide][4]
-  * [For Developers, Dragon Naturally Speaking HTML Programming Guide][5]
+  * [Government-wide Section 508 Training]({{site.baseurl}}/tools/)
+  * <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592" target="_blank" class="usa-link--external">For Developers, Microsoft Active Accessibility</a>
+  * <a href="http://developer.apple.com/library/mac/documentation/Accessibility/Conceptual/AccessibilityMacOSX/" target="_blank" class="usa-link--external">For Developers, Apple Accessibility Programming Guide for OSX X</a>
+  * <a href="http://www.nuance.com/ucmprod/groups/healthcare/documents/webasset/nd_004978.pdf" target="_blank" class="usa-link--external">For Developers, Dragon Naturally Speaking Application Programming Guide (PDF)</a>
+  * <a href="http://www.nuance.com/ucmprod/groups/healthcare/documents/webasset/nd_004979.pdf" target="_blank" class="usa-link--external">For Developers, Dragon Naturally Speaking HTML Programming Guide (PDF)</a>
 
 &nbsp;
 
@@ -67,10 +67,4 @@ An understanding of accessibility and Section 508 compliance should be an essent
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: {{site.baseurl}}/tools
- [2]: https://msdn.microsoft.com/en-us/library/windows/desktop/dd373592
- [3]: http://developer.apple.com/library/mac/documentation/Accessibility/Conceptual/AccessibilityMacOSX/
- [4]: http://www.nuance.com/ucmprod/groups/healthcare/documents/webasset/nd_004978.pdf
- [5]: http://www.nuance.com/ucmprod/groups/healthcare/documents/webasset/nd_004979.pdf
+**Reviewed/Updated:** March 2025

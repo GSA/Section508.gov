@@ -14,6 +14,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+redirect_from:
+- content/pdfs/
 ---
 
 How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].

@@ -98,7 +98,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
 * [Solicitation Review Tool (SRT)]({{site.baseurl}}/buy/solicitation-review-tool/)
-* <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+* <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
