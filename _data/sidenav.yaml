@@ -376,7 +376,7 @@ training:
           - name: "Module 14: Color Contrast Analyzer"
             url: training/web-software/andi-training-videos/color-contrast-analyzer/
           - name: "Module 15: Data Tables"
-            url: training/web-software/anditraining-videos/data-tables/
+            url: training/web-software/andi-training-videos/data-tables/
           - name: "Module 16: Layout Tables"
             url: training/web-software/andi-training-videos/layout-tables/
           - name: "Module 17: CSS Content and Positioning"

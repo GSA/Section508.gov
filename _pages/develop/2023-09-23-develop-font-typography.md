@@ -5,7 +5,7 @@ permalink: develop/fonts-typography/
 type: develop
 title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
 created: 2023-09-23
-updated: 2024-09-12
+updated: 2025-03-05
 contributors: usab
 topic: Design (design)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
@@ -69,7 +69,7 @@ While the author’s choice of a font is important, and the focus of this articl
 <a href="https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1&currentsidebar=%23col_overview&levels=aaa#text-spacing" class="usa-link--external text-top"><strong>1.4.12 Text Spacing (WCAG 2.1 AA):</strong></a> Content should not be lost if a reader uses assistive technology to make minor adjustments to paragraph, line, word, or letter spacing.
 
 ## U.S. Web Design System (USWDS)
-Federal websites are required by the 21st Century Integrated Digital Experience Act (21st Century IDEA) to utilize the U.S. Web Design System (USWDS).  This design system offers guidance, components, design tokens, and utilities for content creators, covering typography and typesetting for enhanced accessibility.  The import role of the USWDS was reinforced <a href="https://www.whitehouse.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/" target="_blank" class="usa-link--external text-top">OMB M-23-22</a>.
+Federal websites are required by the 21st Century Integrated Digital Experience Act (21st Century IDEA) to utilize the U.S. Web Design System (USWDS).  This design system offers guidance, components, design tokens, and utilities for content creators, covering typography and typesetting for enhanced accessibility.  The import role of the USWDS was reinforced <a href="https://bidenwhitehouse.archives.gov/omb/briefing-room/2023/09/22/fact-sheet-building-digital-experiences-for-the-american-people/" target="_blank" class="usa-link--external text-top">OMB M-23-22</a>.
 
 ## Additional Reading
 Typography is a wide and deep topic.  For more information about accessible fonts and typography, we share these .gov resources:
@@ -82,4 +82,4 @@ Typography is a wide and deep topic.  For more information about accessible font
 ## In conclusion
 Accessible fonts and typography are indispensable components of Section 508 compliance and digital inclusivity. By considering the guidelines and recommendations outlined here, content creators can ensure their digital content is accessible to all, fostering a more inclusive and equitable online environment.
 
-**Reviewed/Updated:** February 2025
+**Reviewed/Updated:** March 2025

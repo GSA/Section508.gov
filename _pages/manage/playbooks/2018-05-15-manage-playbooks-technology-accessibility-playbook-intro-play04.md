@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 4: Establish a Section 508 Policy'
 created: 1526408633
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play04/
 topic: Manage (program)
@@ -51,12 +52,12 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
 
 ## Resources
 
-  * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][1]
-  * [Example: Department of Homeland Security Section 508 Directive][2]
-  * [Example: Veterans Administration Accessibility Policy][3]
-  * [Example: SSA Internet Accessibility Policy][4]
-  * [Example: Department of Justice Model Section 508 Complaint Process][5]
-  * [Example: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint   Process][6]
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+  * <a href="https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc" target="_blank" class="usa-link--external">Example: Department of Homeland Security Section 508 Directive (DOC)</a>
+  * <a href="https://assets.section508.gov/assets/files/VA508Directive6221_12_2008.pdf" target="_blank" class="usa-link--external">Example: Veterans Administration Accessibility Policy (PDF)</a>
+  * <a href="https://assets.section508.gov/assets/files/SSA_Internet_Accessibility_Policy.pdf" target="_blank" class="usa-link--external">Example: SSA Internet Accessibility Policy (PDF)</a>
+  * <a href="https://assets.section508.gov/assets/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc" target="_blank" class="usa-link--external">Example: Department of Justice Model Section 508 Complaint Process (DOC)</a>
+  * [Example: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process]({{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/)
   
   
 &nbsp;
@@ -70,11 +71,4 @@ The cornerstone of an accessibility program is an agency-wide Section 508 policy
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [2]: https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc
- [3]: https://assets.section508.gov/assets/files/VA508Directive6221_12_2008.pdf
- [4]: https://assets.section508.gov/assets/files/SSA_Internet_Accessibility_Policy.pdf
- [5]: https://assets.section508.gov/assets/files/DOJ%20Section%20508%20Model%20Complaint%20Process.doc
- [6]: {{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/
+**Reviewed/Updated:** March 2025

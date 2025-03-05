@@ -87,7 +87,7 @@ format: HTML (html)
   Familiarize your agency with the <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines">Revised 508 Standards</a>. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a>&nbsp;- Work with your HR Office to identify user needs of people with disabilities in your organization. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a>&nbsp;- Work with your HR Office to identify user needs of people with disabilities in your organization.
 </li>
 <li dir="ltr">
   Assess the maturity of your agency's Section 508 program, and take steps to improve accessibility of agency technology.
@@ -117,7 +117,7 @@ format: HTML (html)
 
 ### Best Practices
 
- * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
+ * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content 
 
 <h3 dir="ltr">
   Revised 508 Standards
@@ -206,7 +206,7 @@ format: HTML (html)
 </p>
 <ul>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Understand how to address the needs of users with disabilities, including: 
   <ul>
     <li dir="ltr">
       Users with visual, hearing, mobility or cognitive disabilities (including disabled veterans, employees, and constituents); and
@@ -235,24 +235,24 @@ format: HTML (html)
 
    * [U.S. Web Design System][10] - A design system to quickly prototype and deploy accessible digital products
    * [Revised 508 Standards Applicability Checklist][11] (MS-Word, April 2018) -Use this checklist to document your accessibility requirements for ICT items
-   * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
-   * [Applicable 508 Standards and Exceptions Chart][13] - Sample template for reporting standards and exceptions in solicitations _(NEW)_
+   * [Determine 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist 
+   * [Applicable 508 Standards and Exceptions Chart][13] - Sample template for reporting standards and exceptions in solicitations 
 
 <h3 dir="ltr">
   Best Practices
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
+  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT 
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em>(NEW)</em>
+  <a href="{{site.baseurl}}/create/software-websites">Create Accessible Software & Websites</a> - Technical guidance and training resources for developers and content authors <em></em>
  </li>
  </ul>
 
 ### Testing Guidelines
 
-   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
+   * [Test for Accessibility][15] - Tools to test for conformance with the revised standards 
 
 <h3 dir="ltr">
   Technology Accessibility Playbook
@@ -282,12 +282,12 @@ format: HTML (html)
 </li>
 
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Identify user needs of people with disabilities. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203.2</a> - Identify user needs of people with disabilities. 
 </li>
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Revised technical standards for web and non-web based electronic content (updated), including public facing electronic content and agency official communications<ul>
     <li dir="ltr">
-      Requirement E205.3 & E205.4 - Ensure categories of electronic content that is not public-facing are accessible. (NEW)
+      Requirement E205.3 & E205.4 - Ensure categories of electronic content that is not public-facing are accessible. 
     </li>
   </ul>
 </li>
@@ -296,7 +296,7 @@ format: HTML (html)
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E206-hardware">Requirement E206</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#401-general"> Chapter 4</a> - Hardware. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E207-software">Requirement E207</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#501-general"> Chapter 5</a> - Ensure authoring tools support the creation of accessible content. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E207-software">Requirement E207</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#501-general"> Chapter 5</a> - Ensure authoring tools support the creation of accessible content. 
 </li>
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E208-documentation-Services">Requirement E208</a> &<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#601-general"> Chapter 6</a> - Support services & documentation. (Updated)
@@ -310,22 +310,22 @@ format: HTML (html)
   Tools
 </h3>
 
-  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
+  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. 
   * [Revised Section 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
-  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
+  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist 
 
 <h3 dir="ltr">
   Best Practices
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated (NEW)
+  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated 
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT (NEW)
+  <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT 
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em>(NEW)</em>
+  <a href="{{site.baseurl}}/manage/support-accessible-content">Build Support for Accessible Content</a> - Help your staff get the tools and training they need to produce accessible electronic content <em></em>
   </li>
 </ul>
 
@@ -380,16 +380,16 @@ format: HTML (html)
   Ensure existing staff and contractors who are &ldquo;certified&rdquo; under the Federal CIO Council Accessibility Community of Practice's Trusted Tester Program update their certifications once program updates are complete.
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirement E202.2</a> - Review existing contracts to determine whether amendments are needed to clarify how the standards apply. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirement E202.2</a> - Review existing contracts to determine whether amendments are needed to clarify how the standards apply. 
 </li>
 <li dir="ltr">
   <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions">Requirement E202.7</a> - When making award selection decisions, choose products and services that best meet all user needs, including users with disabilities. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203</a> - When reviewing acquisition and development solutions, prioritize how to address all user needs, including users with disabilities. (E203.2 NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E203-functionality">Requirement E203</a> - When reviewing acquisition and development solutions, prioritize how to address all user needs, including users with disabilities. (E203.2)
 </li>
 <li dir="ltr">
-  When procuring or developing ICT items, determine the applicability of the standards to each item. (NEW)
+  When procuring or developing ICT items, determine the applicability of the standards to each item. 
 </li>
 </ul>
 
@@ -397,9 +397,9 @@ format: HTML (html)
   Tools
 </h3>
 
-  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. (NEW)
+  * [Accessibility Requirements Tool][16] - Automates the Revised Section 508 Standards Applicability Checklist; generates an accessibility reporting requirements template and customizable accessibility solicitation language. 
   * [Revised Section 508 Standards Applicability Checklist][11] (MS-Word, April, 2018) -Use this checklist to document your accessibility requirements for ICT items
-  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist _(NEW)_
+  * [Determine Section 508 Standards and Exceptions][12] - Step-by-step guidance on how to complete the Standards Applicability Checklist 
   * [Section 508 Standards and Exceptions Chart & Examples][17] - Sample template for reporting standards and exceptions in solicitations
   * ​[U.S. Web Design System][10] - A design system to quickly prototype and deploy accessible digital products
 
@@ -407,16 +407,16 @@ format: HTML (html)
   Best Practices
 </h3>
 
-  * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors _(NEW)_
-  * [Define Accessibility Criteria][18] - Learn how to prepare solicitations, statements of work, or other procurement documents _(NEW)_
-  * [Request Accessibility Information From Vendors and Contractors][19] - Learn how to communicate accessibility requirements and contract provisions to vendors _(NEW)_; includes guidance on the Voluntary Product Accessibility Template, which is used by vendors to create Accessibility Conformance Reports (ACRs) _(Updated)_
+  * [Create Accessible Software & Websites][14] - Technical guidance and training resources for developers and content authors 
+  * [Define Accessibility Criteria][18] - Learn how to prepare solicitations, statements of work, or other procurement documents 
+  * [Request Accessibility Information From Vendors and Contractors][19] - Learn how to communicate accessibility requirements and contract provisions to vendors ; includes guidance on the Voluntary Product Accessibility Template, which is used by vendors to create Accessibility Conformance Reports (ACRs) _(Updated)_
 
 <h3 dir="ltr">
   Testing Guidelines
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em>(NEW)</em>
+  <a href="{{site.baseurl}}/test">Test for Accessibility</a> - Tools to test for conformance with the revised standards.<em></em>
 </li>
 </ul>
 
@@ -475,7 +475,7 @@ format: HTML (html)
   Promote the Federal CIO Council's free training resources to help you create and test Microsoft Office and Adobe Acrobat documents for accessibility. (Updated)
 </li>
 <li dir="ltr">
-  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure Section 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. (NEW)
+  <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E205-content">Requirement E205</a> - Ensure Section 508 conformance for all public-facing electronic content, as well as internal-facing official communications that fall under defined categories. 
 </li>
 </ul>
 
@@ -483,8 +483,8 @@ format: HTML (html)
   Best Practices
 </h3>
 
-  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content _(NEW)_
-  * [Test for Accessibility][15] - Tools to test for conformance with the revised standards _(NEW)_
+  * [Build Support for Accessible Content][1] - Help your staff get the tools and training they need to produce accessible electronic content 
+  * [Test for Accessibility][15] - Tools to test for conformance with the revised standards 
 
 ### Technology Accessibility Playbook
 <ul>
@@ -557,7 +557,7 @@ format: HTML (html)
 </li>
 </ul>
 
-**Reviewed/Updated:** January 2025
+**Reviewed/Updated:** March 2025
 
  [1]: {{site.baseurl}}/manage/support-accessible-content
  [2]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-regulatory-impact-analysis#_Toc377046563

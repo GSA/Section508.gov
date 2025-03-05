@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 10: Conduct Section 508 Testing'
 created: 1526408906
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play10/
 topic: Manage (program)
@@ -64,9 +65,9 @@ Many individuals who are interested in testing to validate the conformance of a 
 
 ## Resources
 
-  * [Section 508 Standards][1]
-  * [Manifesto for Agile Software Development][2]
-  * [ISTQB Software Testing Certification][3]
+  * <a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards" target="_blank" class="usa-link--external">Section 508 Standards</a>
+  * <a href="https://agilemanifesto.org/" target="_blank" class="usa-link--external">Manifesto for Agile Software Development</a>
+  * <a href="https://astqb.org/certifications/" target="_blank" class="usa-link--external">ISTQB Software Testing Certification</a>
 
 &nbsp;
 <div id="prev-next-section">
@@ -78,8 +79,4 @@ Many individuals who are interested in testing to validate the conformance of a 
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
- [2]: https://agilemanifesto.org/
- [3]: https://astqb.org/certifications/
+**Reviewed/Updated:** March 2025

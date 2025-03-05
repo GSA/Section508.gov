@@ -219,9 +219,9 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables"><img class="img-responsive radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables"><img class="img-responsive radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
             <div class="desktop:grid-col-9">
-               <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></p>
+               <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></p>
                <p></p>
                <p>Understand how to use the ANDI <em>Tables</em> module to inspect <a href="{{site.baseurl}}/content/glossary#data-table">data tables</a> for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.</p>
                <p></p>
@@ -277,7 +277,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
    </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025
 
  [1]: https://www.dhs.gov/office-accessible-systems-technology
  [2]: {{site.baseurl}}/test/web-software
