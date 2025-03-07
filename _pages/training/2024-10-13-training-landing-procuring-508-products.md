@@ -93,11 +93,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
 * [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
+* [Assistive Technology (AT)]({{site.baseurl}}/tools/glossary/#assistive-technology)
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
 * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
 * [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
 * [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
@@ -122,10 +122,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * [Trusted Tester and ICT Testing Baseline]({{site.baseurl}}/test/trusted-tester/)
 * Vocabulary
-  * [ICT]({{site.baseurl}}/content/glossary/#ict)
-  * [Compliant]({{site.baseurl}}/content/glossary/#compliant-section-508)
-  * [Conformant]({{site.baseurl}}/content/glossary/#conformant-section-508)
-  * [Micro-purchase]({{site.baseurl}}/content/glossary/#micro-purchase)
+  * [ICT]({{site.baseurl}}/tools/glossary/#ict)
+  * [Compliant]({{site.baseurl}}/tools/glossary/#compliant-section-508)
+  * [Conformant]({{site.baseurl}}/tools/glossary/#conformant-section-508)
+  * [Micro-purchase]({{site.baseurl}}/tools/glossary/#micro-purchase)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

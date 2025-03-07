@@ -19,7 +19,7 @@ format: HTML (html)
 
 Determining how the [Revised 508 Standards][1] apply to Federal IT procurement and development will ensure that any technology your agency buys or builds will be accessible. The first step in this process is to conduct an inventory. The other steps involve determining which exceptions and standards apply.
 
-First, review the business requirements of your project or acquisition to identify which major components contain [information and communication technology](https://www.section508.gov/content/glossary/#ict) (ICT). ICT items include such things as software, hardware, electronic content, support documentation & services. When conducting a procurement, review the [Revised 508 Standards Applicability Checklist][2] for each ICT item.
+First, review the business requirements of your project or acquisition to identify which major components contain [information and communication technology]({{site.baseurl}}/tools/glossary/#ict) (ICT). ICT items include such things as software, hardware, electronic content, support documentation & services. When conducting a procurement, review the [Revised 508 Standards Applicability Checklist][2] for each ICT item.
 
   * ICT items may be comprised of:
     * Commercial-off-the shelf (COTS)

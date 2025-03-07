@@ -17,7 +17,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
-Documents, including email messages, that are public facing or [agency official communication]({{site.baseurl}}/content/glossary/#agency-official-communications) must comply with Section 508 Standards to ensure all individuals, including those with disabilities, can easily read, understand, and interact with the content.
+Documents, including email messages, that are public facing or [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications) must comply with Section 508 Standards to ensure all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 
 This checklist for email messages covers five key areas to help incorporate accessibility when creating email content, including GovDelivery bulletins and newsletters. These five areas provide the foundation for making information accessible to everyone, aiming to make the experience as easy and frustration-free as possible. This checklist is a quick reference guide and does not serve as a substitute for a comprehensive understanding of conformance requirements.
 

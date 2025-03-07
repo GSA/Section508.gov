@@ -130,7 +130,7 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/content/glossary/">Glossary of Terms</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/glossary/">Glossary of Terms</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Terms and definitions commonly used in Section 508 programs and training.</p>

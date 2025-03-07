@@ -61,7 +61,7 @@ This episode demonstrates how to use ART to add and remove multiple items and ge
 [3]: {{site.baseurl}}/training/art/introducing-art-03/
 [4]: {{site.baseurl}}/training/art/introducing-art-04/
 [5]: {{site.baseurl}}/training/art/introducing-art-05/
-[6]: {{site.baseurl}}/content/glossary/#ict
+[6]: {{site.baseurl}}/tools/glossary/#ict
 [7]: {{site.baseurl}}/art/
 [8]: {{site.baseurl}}/buy/
 [9]: {{site.baseurl}}/buy/define-accessibility-criteria/

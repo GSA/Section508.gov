@@ -1,10 +1,10 @@
 ---
 layout: page
-sidenav: false
-permalink: content/glossary/
-type: page
+sidenav: true
+type: training
 title: 'Glossary of Section 508 Terms'
-created: 1582828796
+permalink: tools/glossary/
+description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -14,8 +14,11 @@ audience:
 - "Agency Head (head)"
 resource-type: "Tool (tool)"
 format: "HTML (html)"
+redirect_from:
+- content/glossary/
+created: 2020-02-27
+updated: 2025-03-07
 ---
-
 <div class="glossary">
   <p style="text-align:center;">
     <a href="#sectionA">A</a> | <a href="#sectionB">B</a> | <a href="#sectionC">C</a> | <a href="#sectionD">D</a> | <a href="#sectionE">E</a> | <a href="#sectionF">F</a> | <a href="#sectionG">G</a> | <a href="#sectionH">H</a> | <a href="#sectionI">I</a> | <a href="#sectionJ">J</a> | <a href="#sectionK">K</a> | <a href="#sectionL">L</a> | <a href="#sectionM">M</a> | <a href="#sectionN">N</a> | <a href="#sectionO">O</a> | <a href="#sectionP">P</a> | <a href="#sectionQ">Q</a> | <a href="#sectionR">R</a> | <a href="#sectionS">S</a> | <a href="#sectionT">T</a> | <a href="#sectionU">U</a> | <a href="#sectionV">V</a> | <a href="#sectionW">W</a>
@@ -302,7 +305,7 @@ format: "HTML (html)"
       <strong><span id="label">Label</span>:</strong> Text, or a component with a text alternative, that is presented to a user to identify content. A label is presented to all users, whereas a name may be hidden and only exposed by assistive technology. In many cases, the name and the label are the same.
     </li>
     <li>
-      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/content/glossary#assistive-technology">assistive technology.</a> (See also <a href="{{site.baseurl}}/content/glossary#data-table">Data table</a>)
+      <strong><span id="layout-table">Layout Table</span>:</strong> Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/tools/glossary/#assistive-technology">assistive technology.</a> (See also <a href="{{site.baseurl}}/tools/glossary/#data-table">Data table</a>)
     </li>
     <li>
       <strong><span id="listserv">Listserv</span>:</strong> An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank">manage your listserv subscription</a>.
@@ -573,4 +576,4 @@ format: "HTML (html)"
   </div>
 </div>
 
-**Reviewed/Updated:** October 2024
+**Reviewed/Updated:** March 2025

@@ -76,7 +76,7 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
 <div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1">
 <h2><strong>Understanding the Reporting Questions</strong></h2>
 
-<p>For reference, <a href="{{site.baseurl}}/content/glossary#agency">CFO Act agencies</a> were required to provide responses to the following questions when submitting their semi-annual Section 508 program maturity data to OMB. Reporting by small and independent agencies was optional, but encouraged.</p>
+<p>For reference, <a href="{{site.baseurl}}/tools/glossary/#agency">CFO Act agencies</a> were required to provide responses to the following questions when submitting their semi-annual Section 508 program maturity data to OMB. Reporting by small and independent agencies was optional, but encouraged.</p>
 
 <h3><strong>Part 1: Agency Information</strong></h3>
 <ul>

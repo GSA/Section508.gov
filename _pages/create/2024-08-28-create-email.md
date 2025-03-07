@@ -17,7 +17,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
-Email is a vital communication tool for federal employees to transmit [agency official communication]({{site.baseurl}}/content/glossary/#agency-official-communications). To ensure all federal employees have access to information contained within and attached to email messages, we must ensure the emails meet Section 508 Standards. Below are easy steps to create accessible email messages so all individuals, including those with disabilities, can easily read, understand, and interact with the content.
+Email is a vital communication tool for federal employees to transmit [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). To ensure all federal employees have access to information contained within and attached to email messages, we must ensure the emails meet Section 508 Standards. Below are easy steps to create accessible email messages so all individuals, including those with disabilities, can easily read, understand, and interact with the content.
 
 It’s important to note that modern email software increasingly offers users the ability to format messages using styles and tools similar to those found in document authoring tools. For example, Microsoft Outlook offers an HTML format similar to Word. 
 Some email messages use plain text format and do not allow for images or other design features, therefore the tips outlined in this guidance may not apply in all circumstances. 
@@ -184,7 +184,7 @@ Government emails signatures blocks should refrain from using:
 * Slogans and personal or extraneous messages
 
 ## Step 9: Verify email attachments are accessible
-Documents attached to email messages that are public facing or [agency official communication]({{site.baseurl}}/content/glossary/#agency-official-communications) must conform with applicable electronic document standards.
+Documents attached to email messages that are public facing or [agency official communication]({{site.baseurl}}/tools/glossary/#agency-official-communications) must conform with applicable electronic document standards.
 
 Attachments should use a unique and descriptive file name.
 

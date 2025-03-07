@@ -34,7 +34,7 @@ Following Section 508 standards in advance also ensures that if and when the sta
 If a federal agency hosts a meeting available to the public, the meeting must meet all applicable Section 508 standards. This includes meetings, seminars, live classes, town halls, or any other type of public meeting.
 
 ### Internal Meetings
-<!-- If a meeting is internal, meaning it is not public-facing, then Section 508 applies if the meeting is [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). For example, if the purpose of your meeting is to introduce a new policy or train employees on a new procedure, the meeting must meet all accessibility requirements.
+<!-- If a meeting is internal, meaning it is not public-facing, then Section 508 applies if the meeting is [Agency Official Communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). For example, if the purpose of your meeting is to introduce a new policy or train employees on a new procedure, the meeting must meet all accessibility requirements.
 
 For other meetings, you may still be required to provide accessibility accommodations to specific employees according to Section 504 requirements. Meeting invitations should always include a means to request accommodations.
 
@@ -75,7 +75,7 @@ Other standards related to accessible spaces may also apply. For questions about
 
 ### Meetings with No Known Disabilities
 
-<!-- Perhaps you have a meeting with a few team members, none of whom have a disclosed disability, and the meeting is not an [Agency Official Communication]({{site.baseurl}}/content/glossary/#agency-official-communications). In this scenario, Section 508 requirements do not apply, and Section 504 requirements are unlikely to apply. -->
+<!-- Perhaps you have a meeting with a few team members, none of whom have a disclosed disability, and the meeting is not an [Agency Official Communication]({{site.baseurl}}/tools/glossary/#agency-official-communications). In this scenario, Section 508 requirements do not apply, and Section 504 requirements are unlikely to apply. -->
 
 Perhaps you have an internal meeting with a few team members, none of whom have a disclosed disability. The meeting software and other ICT you use for the meeting must still conform to Section 508 requirements, but Section 504 requirements are unlikely to apply.
 
@@ -136,7 +136,7 @@ When you send out an announcement or invitation to a meeting, follow these guide
   </li>
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#thumb_up_alt"></use></svg></div>
-      <div class="usa-icon-list__content">Include a means to request specific accessibility accommodations, such real-time, two-way captioning (commonly referred to as Communication Access Realtime Translation (<a href="{{site.baseurl}}/content/glossary/#cart">CART</a>) or an American Sign Language (ASL) interpreter.</div>
+      <div class="usa-icon-list__content">Include a means to request specific accessibility accommodations, such real-time, two-way captioning (commonly referred to as Communication Access Realtime Translation (<a href="{{site.baseurl}}/tools/glossary/#cart">CART</a>) or an American Sign Language (ASL) interpreter.</div>
   </li>
 </ul>
 

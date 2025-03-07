@@ -14,7 +14,7 @@ resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
 
-The [Revised 508 Standards][1] contain scoping and technical requirements for [information and communication technology](https://www.section508.gov/content/glossary/#ict) (ICT) purchased, built, maintained or used by Federal agencies. Agencies must comply with these Standards to ensure our technology is accessible and usable by individuals with disabilities.
+The [Revised 508 Standards][1] contain scoping and technical requirements for [information and communication technology]({{site.baseurl}}/tools/glossary/#ict) (ICT) purchased, built, maintained or used by Federal agencies. Agencies must comply with these Standards to ensure our technology is accessible and usable by individuals with disabilities.
 
 Follow the steps below to determine how the standards apply to IT procurement and development, to ensure that any technology your agency buys or builds will be accessible for all. These steps will help you to complete the 508 Standards and Exceptions Chart.
 

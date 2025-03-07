@@ -17,7 +17,7 @@ audience:
 resource-type: "Long form article"
 format: "HTML (html)"
 ---
-The following terms are referenced by reporting criteria of the annual Government-wide Section 508 Assessment. For terms relating to Section 508, see [Glossary of Section 508 Terms]({{site.baseurl}}/content/glossary/).
+The following terms are referenced by reporting criteria of the annual Government-wide Section 508 Assessment. For terms relating to Section 508, see [Glossary of Section 508 Terms]({{site.baseurl}}/tools/glossary/).
 
 <p style="text-align:center;">
   <a href="#sectionA">A</a> | <a href="#sectionB">B</a> | <a href="#sectionC">C</a> | <a href="#sectionD">D</a> | <a href="#sectionE">E</a> | <a href="#sectionF">F</a> | <a href="#sectionG">G</a> | <a href="#sectionI">I</a> |  <a href="#sectionK">K</a> | <a href="#sectionL">L</a> | <a href="#sectionM">M</a> | <a href="#sectionO">O</a> | <a href="#sectionP">P</a> | <a href="#sectionR">R</a> | <a href="#sectionS">S</a> | <a href="#sectionT">T</a> | <a href="#sectionU">U</a> | <a href="#sectionV">V</a> | <a href="#sectionW">W</a>
