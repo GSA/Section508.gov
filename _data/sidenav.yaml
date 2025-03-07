@@ -422,6 +422,8 @@ training:
       - name: ART API Server
         url: 'https://art-api.section508.gov/'
         external: true
+      - name: ART Requirements Statements by ICT
+        url: 'tools/list-of-art-requirements/' 
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
