@@ -27,7 +27,7 @@ format: html
 created: 2025-03-07
 updated: 
 ---
-The following acronyms are used in across this website, in our communications, and reporting&mdash;including those in appendices of the the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Definitions for many of these acronyms  are included in [Terms and Definitions]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
+The following acronyms are used in across this website, in our communications, and reporting&mdash;including those in appendices of the the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Definitions for many of these acronyms are included in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
 
 <table class="usa-table usa-table--borderless striped">	
 <caption>Table 1. List of acronyms and full terms</caption>	
