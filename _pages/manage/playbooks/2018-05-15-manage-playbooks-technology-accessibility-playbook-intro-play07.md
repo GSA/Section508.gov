@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 7: Integrate Accessibility Needs into Requirements and Design Processes'
 created: 1526408767
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play07/
 topic: Manage (program)
@@ -53,11 +54,10 @@ Prior to beginning a technology project, work with usability professionals and r
 
 ## Resources
 
-  * [Accessibility Basics][1]
-  * [Measuring Accessibility In The User Experience (UX) And The Searcher Experience][2]
-  * [Introduction to Screen Readers][3]
-  
-  
+  * <a href="http://www.usability.gov/what-and-why/accessibility.html" target="_blank" class="usa-link--external">Accessibility Basics</a>
+  * <a href="http://marketingland.com/measuring-accessibility-user-experience-ux-searcher-experience-139546" target="_blank" class="usa-link--external">Measuring Accessibility In The User Experience (UX) And The Searcher Experience</a>
+  * <a href="https://it.wisc.edu/" target="_blank" class="usa-link--external">Introduction to Screen Readers</a>
+
 &nbsp;
 
 <div id="prev-next-section">
@@ -69,8 +69,4 @@ Prior to beginning a technology project, work with usability professionals and r
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: http://www.usability.gov/what-and-why/accessibility.html
- [2]: http://marketingland.com/measuring-accessibility-user-experience-ux-searcher-experience-139546
- [3]: https://it.wisc.edu/
+**Reviewed/Updated:** March 2025

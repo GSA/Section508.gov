@@ -5,7 +5,7 @@ permalink: iaaf/archives/
 type: training
 title: 'Interagency Accessibility Forum (IAAF) Archives'
 created: 2020-08-28
-updated: 2025-01-10
+updated: 2025-02-26
 topic: "Events (events)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:
@@ -35,6 +35,8 @@ Conference sessions were recorded, and will be posted on this page in early 2025
 
 For event details, visit: [2024 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2024/) and [2024 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2024/).
 
+---
+
 ## 2023 Interagency Accessibility Forum
 
 The 2023 IAAF was a three-day conference built on the theme ***Beyond Compliance: Building a Culture of Digital Accessibility*** and featured workshops, keynote addresses, breakout sessions, and discussions led by those on the forefront of accessibility in the federal, private, academic, international, and nonprofit sectors.
@@ -44,123 +46,6 @@ Attendees of this 10th annual IAAF enjoyed a return to an in-person (hybrid) eve
 The 2023 Interagency Accessibility Forum (IAAF) was sponsored by the Federal Chief Information Officer Council’s (Federal CIO Council) Accessibility Community of Practice (ACOP) and hosted by the Government-wide IT Accessibility Program from the Office of Government-wide Policy (OGP) of the General Services Administration (GSA), Federal Deposit Insurance Corporation (FDIC) and Department of Veteran's Affairs (VA), in partnership with other federal agencies.
 
 For event details, visit: [2023 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-2023/) and [2023 IAAF Speaker and Presenter Biographies]({{site.baseurl}}/iaaf/archives/biographies-2023).
-
-<ul class="usa-card-group">
-  <!-- S1 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Welcome & Opening Remarks - Day 2</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s1-thumbnail.jpg" alt="Sylvia Burns" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#burns-sylvia">Sylvia Burns</a>, Chief Information Officer and Chief Privacy Officer, FDIC, welcomes guests to the 10th Annual Interagency Accessibility Forum.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-welcome-opening-day-2/" class="usa-button">Listen: Welcome & Opening Remarks - Day 2</a>
-      </div>
-    </div>
-  </li>
-  <!-- S2 -->
-  <li class="usa-card tablet:grid-col-6">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Digital Accessibility in the Federal Workplace</h4>
-      </div>
-      <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s2-thumbnails.jpg" alt="Claire Martorana" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#martorana-clare">Clare Martorana</a>, Federal Chief Information Officer, OMB, moderates a discussion with distinguished guests explore the role of agency leadership in promoting, prioritizing, and improving digital accessibility in the federal workplace and how investments in measuring accessibility cultivate an accessibility inclusive work environment.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-digital-federal-workplace/" class="usa-button">Listen: Accessibility in Workplace</a>
-      </div>
-    </div>
-  </li>
-  <!-- S3 -->
-  <li class="usa-card tablet:grid-col-6">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Keynote Address with Tanya Bradsher</h4>
-      </div>
-      <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s3-thumbnail.jpg" alt="Tanya Bradsher" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#bradsher-tanya">Tanya Bradsher</a>, Deputy Secretary, VA, shared thoughts emphasizing the significance of accessibility, particularly through Section 508 of the Rehabilitation Act, which has been vital in improving the lives of people with disabilities. Bradsher highlighted the VA's commitment to making its services accessible as a core value ensuring that veterans can access their benefits with dignity and ease.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-keynote-tanya-bradsher/" class="usa-button">Listen: Keynote Address</a>
-      </div>
-    </div>
-  </li>
-  <!-- S4 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Real Talk: A Conversation with Section 508 Program Managers</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s4-thumbnail.jpg" alt="Betsy Sirk" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#sirk-betsy">Betsy Sirk</a>, leads a discussion with an experienced panel sharing its stories of the triumphs and challenges of leading Section 508 programs, and learn best practices on making ICT accessible within your workplace.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-real-talk-508-pms/" class="usa-button">Listen: A Conversation with Section 508 PMs</a>
-      </div>
-    </div>
-  </li>
-  <!-- S5 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Welcome & Opening Remarks - Day 3</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s5-thumbnail.jpg" alt="Dr. Sachin Pavithran " />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#pavithran-sachin">Sachin Pavithran</a>, Executive Director, USAB, welcomes guests to the 10th Annual Interagency Accessibility Forum.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-welcome-opening-day-3/" class="usa-button">Watch: Welcome & Opening Remarks - Day 3</a>
-      </div>
-    </div>
-  </li>
-  <!-- S7 -->
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h4 class="usa-card__heading">Accessibility Round Table with the Department of Veterans Affairs</h4>
-      </div>
-      <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img class="radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/iaaf-2023-s7-thumbnail.jpg" alt="<Martha Orr>" />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/iaaf/archives/biographies-2023#orr-martha">Martha Orr</a>, Deputy Chief Information Officer for Compliance, Risk, and Remediation, VA, ...</p>
-      </div>
-      <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/training/presentations-workshops/iaaf-2023-accessibility-round-table/" class="usa-button">Watch: Accessibility Round Table with VA</a>
-      </div>
-    </div>
-  </li>  
-</ul>
 
 ---
 
@@ -209,4 +94,4 @@ For details, visit: [2022 IAAF Agenda]({{site.baseurl}}/iaaf/archives/agenda-202
   * [Best Practices for Achieving Digital Accessibility - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Best%20Practices%20for%20Achieving%20Digital%20Accessibility%20-%20IAAF%202022.pptx)  
   * [Demystifying Section 508 - IAAF 2022 (PPTX)](https://assets.section508.gov/assets/files/iaaf/2022/Demystifying%20Section%20508%20-%20IAAF%202022.pptx)
 
-**Reviewed/Updated:** January 2025
+**Reviewed/Updated:** February 2025

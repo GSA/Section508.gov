@@ -51,8 +51,8 @@ A successful 508 Section Program should not be established in isolation. Active 
 
 ## Resources
 
-  * [Federal CIO Council Accessibility Community of Practice][1]
-  * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][2]
+  * <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Federal CIO Council Accessibility Community of Practice</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
 &nbsp;
 
@@ -65,7 +65,4 @@ A successful 508 Section Program should not be established in isolation. Active 
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
- [2]: https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf
+**Reviewed/Updated:** March 2025

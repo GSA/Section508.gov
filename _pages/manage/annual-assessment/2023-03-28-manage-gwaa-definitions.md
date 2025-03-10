@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/section-508-assessment/definition-of-terms/
 type: manage
 title: "Government-wide Section 508 Assessment Definition of Terms"
+created: 2023-03-28
+updated: 2025-03-05
 topic: "Manage (program)"
 sub-topic: "Reporting"
 audience:
@@ -27,11 +29,11 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="agency"><strong>Agency:</strong></span> In this context, it refers to all federal departments, agencies, and the U.S. Postal Service governed by Section 508. 
 
-- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets applicable Section 508 technical standards, typically using the [VPAT®](https://www.itic.org/policy/accessibility/vpat) template or a test report.
+- <span id="accessibility-conformance-report"><strong>Accessibility Conformance Report (ACR) -- or equivalent:</strong></span> A representation of how the product meets applicable Section 508 technical standards, typically using the <a href="https://www.itic.org/policy/accessibility/vpat" target="_blank" class="usa-link--external">VPAT®</a> template or a test report.
 
 - <span id="accessibility-policy"><strong>Accessibility Policy:</strong></span> Policy for implementing Section 508 or Information and Communication Technology (ICT) accessibility requirements.
 
-- <span id="accessibility-statement"><strong>Accessibility Statement:</strong></span> The statement on the reporting entity’s primary website, including a number of requirements per [“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/), including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
+- <span id="accessibility-statement"><strong>Accessibility Statement:</strong></span> The statement on the reporting entity’s primary website, including a number of requirements per <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)</a>, including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see [“Developing a Website Accessibility Statement”]({{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/) on Section508.gov.
 
 - <span id="alternative-format"><strong>Alternative Format:</strong></span> Different ways to present printed information, such as braille, large print, audio, and electronic versions. 
 
@@ -39,7 +41,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="affinity-group"><strong>Affinity Group:</strong></span> A community for employees with disabilities or health conditions, and their allies.
 
-- <span id="agency-official-communication"><strong>Agency Official Communication:</strong></span> [see [E205.3](https://www.access-board.gov/ict/#E205.3)] Electronic content that is not public facing and constitutes official business in one or more of the following categories:
+- <span id="agency-official-communication"><strong>Agency Official Communication:</strong></span> [see <a href="https://www.access-board.gov/ict/#E205.3" target="_blank" class="usa-link--external">E205.3</a>] Electronic content that is not public facing and constitutes official business in one or more of the following categories:
 
   1.  An emergency notification
 
@@ -79,9 +81,9 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="communication"><strong>Communication:</strong></span> The method used to disseminate information to internal and external audiences.
 
-- <span id="complaint"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a federal employee, applicant for federal employment, or member of the public with a disability initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An [Administrative Complaint](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) is a formal complaint made by “any individual with a disability…alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology” [(§794d. Electronic and information technology (f)(1)(A))](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm) (i.e., fails to provide accessible ICT). Administrative complaints are “filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.” [(§794d. Electronic and information technology (f)(2))](https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm). Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other reporting entity personnel to fully gather this information (DOJ Civil Rights Division iii. Administrative Complaints). 
+- <span id="complaint"><strong>Complaint:</strong></span> An alleged Section 508 non-compliance violation in which a federal employee, applicant for federal employment, or member of the public with a disability initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">Administrative Complaint</a> is a formal complaint made by “any individual with a disability…alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology” <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">(§794d. Electronic and information technology (f)(1)(A))</a> (i.e., fails to provide accessible ICT). Administrative complaints are “filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.” <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">(§794d. Electronic and information technology (f)(2))</a>. Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other reporting entity personnel to fully gather this information (DOJ Civil Rights Division iii. Administrative Complaints). 
   
-  Complaints differ from public feedback responses your reporting entity receives through the mechanism provided to meet the[OMB 2013 Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf). Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint.
+  Complaints differ from public feedback responses your reporting entity receives through the mechanism provided to meet the <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>. Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint.
 
 - <span id="comprehensive-lsm"><strong>Comprehensive, large-scale monitoring:</strong></span> A systematic and thorough process of evaluating digital content, platforms, or environments to ensure they adhere to required standards or guidelines.
 
@@ -109,9 +111,10 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionE">E</span>
 </h2>
 
-- <span id="e-gov-line-of-business"><strong>E-Government line of business:</strong></span> Intra-agency collaborations for digital government services. See [OMB M-04-08](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf).
+- <span id="e-gov-line-of-business"><strong>E-Government line of business:</strong></span> Intra-agency collaborations for digital government services. See <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf" target="_blank" class="usa-link--external">Maximizing Use of SmartBuy and Avoiding Duplication of Agency Activities
+with the President’s 24 E-Gov Initiatives (M-04-08) (PDF)</a>.
 
-- <span id="electronic-content"><strong>Electronic Content:</strong></span> All forms of digital data and its encoding, covering both public and internal information as defined by [E205 of the Section 508 Standards](https://www.access-board.gov/ict/#E205-content).
+- <span id="electronic-content"><strong>Electronic Content:</strong></span> All forms of digital data and its encoding, covering both public and internal information as defined by <a href="https://www.access-board.gov/ict/#E205-content" target="_blank" class="usa-link--external">E205 of the Section 508 Standards</a>.
 
 - <span id="extranet"><strong>Extranet:</strong></span> A network restricted to authorized individuals. For the purposes of this Assessment, extranet is included in questions related to internet web pages.
 
@@ -121,7 +124,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="feedback-loop"><strong>Feedback loop:</strong></span> A method for integrating stakeholder feedback into refining processes, policies, and procedures.
 
-- <span id="fillable-form"><strong>Fillable form:</strong></span> Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields with the intent to collect data. Exclude singular form fields such as a "Search" field where there is no intent to collect data. For the purpose of Assessment Question 87, only consider fillable forms that require a [Paperwork Reduction Act](https://pra.digital.gov/do-i-need-clearance/) clearance.
+- <span id="fillable-form"><strong>Fillable form:</strong></span> Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields with the intent to collect data. Exclude singular form fields such as a "Search" field where there is no intent to collect data. For the purpose of Assessment Question 87, only consider fillable forms that require a <a href="https://pra.digital.gov/do-i-need-clearance/" target="_blank" class="usa-link--external">Paperwork Reduction Act</a> clearance.
 
 - <span id="formal"><strong>Formal:</strong></span> Officially approved or recognized.
 
@@ -152,7 +155,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="ict-accessibility"><strong>ICT accessibility:</strong></span> Term used interchangeably with Section 508 standards, IT accessibility, and the Web Content Accessibility Guidelines, but could also refer to the accessibility of ICT in more general terms than only conformance to particular accessibility standards.
 
-- <span id="internet"><strong>Internet:</strong></span> A network of information accessible by the public. For the purposes of this assessment, [extranet](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE) should be reported under internet-related questions.  
+- <span id="internet"><strong>Internet:</strong></span> A network of information accessible by the public. For the purposes of this assessment, [extranet]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/#sectionE) should be reported under internet-related questions.  
 
 - <span id="intranet"><strong>Intranet:</strong></span> A private or internal network within an organization used for but not limited to: a central repository, collaboration, communication, access to information, social networking, project management, and streamlining of everyday activities and operations.
 
@@ -160,7 +163,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionK">K</span>
 </h2>
 
-- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality](https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.
+- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.
 
 <h2>
   <span id="sectionL">L</span>
@@ -182,7 +185,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionO">O</span>
 </h2>
 
-- <span id="open-government-data-asset"><strong>Open Government Data Asset:</strong></span> In general, a data asset that is machine-readable and available in an open, standards-based format. See [44 USC. 3502 (20)](https://www.govinfo.gov/content/pkg/USCODE-2021-title44/html/USCODE-2021-title44-chap35-subchapI-sec3502.htm). 
+- <span id="open-government-data-asset"><strong>Open Government Data Asset:</strong></span> In general, a data asset that is machine-readable and available in an open, standards-based format. See <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title44/html/USCODE-2021-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 USC. 3502 (20)</a>. 
 
 <h2>
   <span id="sectionP">P</span>
@@ -192,7 +195,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="public-facing"><strong>Public Facing:</strong></span> Content accessible to the general public. 
 
-- <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Part of a mechanism to receive public input on Section 508 compliance; not inherently complaints. See [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). 
+- <span id="public-feedback-response"><strong>Public feedback response:</strong></span> Part of a mechanism to receive public input on Section 508 compliance; not inherently complaints. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>. 
 
 - <span id="publication-process"><strong>Publication Process:</strong></span> Methods for distributing content, including website posting or newsletters. More than one publication process may be followed depending on the publication method.
 
@@ -221,13 +224,13 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="section-508-program"><strong>Section 508 Program or equivalent:</strong></span> An effort within a reporting entity to ensure all of its IT meets Section 508 standards, often led by a designated Program Manager.
 
-- <span id="section-508-program-manager"><strong>Section 508 Program Manager:</strong></span> Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO whose duties include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See [M-24-08](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16) for additional roles and responsibilities. 
+- <span id="section-508-program-manager"><strong>Section 508 Program Manager:</strong></span> Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO whose duties include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16" target="_blank" class="usa-link--external">M-24-08</a> for additional roles and responsibilities. 
 
 - <span id="shared-service"><strong>Shared Service:</strong></span> A federal shared service in this context is defined as an information technology function that is provided for consumption by multiple organizations across federal agencies by a single federal agency.
 
 - <span id="sso"><strong>Single Sign On:</strong></span> A system allowing one set of login credentials to access multiple applications. 
 
-- <span id="solicitation"><strong>Solicitation:</strong></span> A request for bids or proposals from the federal government. Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the [FAR](https://www.acquisition.gov/far/part-2)).
+- <span id="solicitation"><strong>Solicitation:</strong></span> A request for bids or proposals from the federal government. Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the <a href="https://www.acquisition.gov/far/part-2" target="_blank" class="usa-link--external">FAR</a>).
 
 - <span id="sometimes"><strong>Sometimes:</strong></span> Used to describe activities that are performed approximately 1% to 24% of the time. 
 
@@ -251,7 +254,7 @@ The following terms are referenced by reporting criteria of the annual Governmen
   <span id="sectionV">V</span>
 </h2>
 
-- <span id="voluntary-product-accessibility-template"><strong>VPAT® or Voluntary Product Accessibility Template:</strong></span> A product of the [Information Technology Industry Council](https://www.itic.org/policy/accessibility/vpat), the VPAT® is a reporting format for assisting buyers and sellers in identifying ICT products and services with accessibility features. A completed VPAT® is referred to as an Accessibility Conformance Report (ACR).
+- <span id="voluntary-product-accessibility-template"><strong>VPAT® or Voluntary Product Accessibility Template:</strong></span> A product of the <a href="https://www.itic.org/policy/accessibility/vpat" target="_blank" class="usa-link--external">Information Technology Industry Council</a>, the VPAT® is a reporting format for assisting buyers and sellers in identifying ICT products and services with accessibility features. A completed VPAT® is referred to as an Accessibility Conformance Report (ACR).
 
 <h2>
   <span id="sectionW">W</span>
@@ -263,4 +266,4 @@ The following terms are referenced by reporting criteria of the annual Governmen
 
 - <span id="website"><strong>Website:</strong></span> A website, and web-based application, consists of many web pages linked together under a common domain name such as “[agency].gov.”
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** March 2025
