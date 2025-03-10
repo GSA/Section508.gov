@@ -53,8 +53,8 @@ We need talented people working in government who have expertise creating and de
 
 ## Resources
 
-  * [Section 508 standards][1]
-  * [Trusted Tester Training and certification program][2]
+  * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 standards</a>
+  * <a href="https://www.dhs.gov/trusted-tester" target="_blank" class="usa-link--external">Trusted Tester Training and certification program</a>
 
 &nbsp;
 
@@ -67,7 +67,4 @@ We need talented people working in government who have expertise creating and de
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://www.access-board.gov/ict/
- [2]: https://www.dhs.gov/trusted-tester
+**Reviewed/Updated:** March 2025

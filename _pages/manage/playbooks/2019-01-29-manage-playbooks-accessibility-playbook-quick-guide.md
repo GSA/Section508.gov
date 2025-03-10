@@ -76,24 +76,12 @@ agency buys, builds, and uses, is accessible for all.
   <li dir="ltr">
     Agencies must comply with <a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank">Section 508 of the Rehabilitation Act of 1973</a> (29 U.S.C § 794 (d)) (as amended), as well as other related laws and policies, including: 
     <ul>
-      <li>
-          Other sections of the Rehabilitation Act of 1973 (<a href="https://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm" target="_blank">503</a>, <a href="https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/statutes/section-504-rehabilitation-act-of-1973" target="_blank">504</a>)
-      </li>
-      <li>
-          <a href="https://www.acquisition.gov/browse/index/far" target="_blank">Federal Acquisition Regulation (FAR)</a>
-      </li>
-      <li dir="ltr">
-        OMB mandates, including: 
+      <li>Other sections of the Rehabilitation Act of 1973 (<a href="https://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank">501</a>, <a href="https://www.dol.gov/ofccp/regs/compliance/sec503.htm" target="_blank">503</a>, <a href="https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/statutes/section-504-rehabilitation-act-of-1973" target="_blank">504</a>)</li>
+      <li><a href="https://www.acquisition.gov/browse/index/far" target="_blank">Federal Acquisition Regulation (FAR)</a></li>
+      <li>OMB mandates, including: 
         <ul>
-            <li>
-                <a href="https://www.congress.gov/bill/113th-congress/house-bill/1232" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a>
-            </li>
-            <li>
-                <a href="https://assets.section508.gov/files/strategic-plan-508-compliance.pdf" target="_blank">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act</a>
-            </li>
-            <li>
-                <a href="https://www.cio.gov/policies-and-priorities/#subject=*&role=.web&status=*" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a>
-            </li>
+            <li><a href="https://www.congress.gov/bill/113th-congress/house-bill/1232" target="_blank">Federal Information Technology Acquisition Reform Act (FITARA)</a></li>
+            <li><a href="https://www.cio.gov/policies-and-priorities/#subject=*&role=.web&status=*" target="_blank">Policies for Federal Agency Public Websites and Digital Services</a></li>
         </ul>
       </li>
     </ul>

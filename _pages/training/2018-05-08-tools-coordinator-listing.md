@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-02-04
+updated: 2025-02-27
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -64,9 +64,9 @@ Angela Williams - <angela.williams@usda.gov>
 Sarah	Reed - <sarah.reed@usda.gov>  
 Bernadette McGhee - <bernadette.mcghee@usda.gov>  
 ### Agricultural Marketing Service (AMS)
-Heather A. Pearl - <heather.a.pearl@usda.gov>
+Tonia Canada - <tonia.canada@usda.gov>  
 ### Animal and Plant Health Inspection Service (APHIS)
-Heather A. Pearl - <heather.a.pearl@usda.gov>
+Tonia Canada - <tonia.canada@usda.gov>  
 ### Farm Production and Conservation (FPAC)
 Karen Garrison - <karen.garrison@usda.gov>  
 
@@ -159,9 +159,11 @@ Patricia Kless - <patricia.kless@uspto.gov>
 ### Department-wide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>  
-Amanda E. Hursch (Deputy) - <amanda.e.hursch.ctr@mail.mil>  
+Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>  
+
 ### Air Force
-Carlinda Lotson (Deputy) - <carlinda.Lotson.1.ctr@us.af.mil>  
+Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
+Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
 Jay Steinke - <jay.steinke.1@us.af.mil>  
@@ -181,7 +183,8 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 Jorge Valdez - <jorge.valdez@darpa.mil>
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
-<!-- ### Defense Contract Management Agency (DCMA) -->
+### Defense Contract Management Agency (DCMA)  
+William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
 Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
@@ -331,7 +334,7 @@ Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
 ### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - <leslie.porter@hq.dhs.gov>  
-Dester Njike - <dester.njike@associates.hq.dhs.gov>
+Dester Njike - <dester.njike@associates.hq.dhs.gov>  
 ### Customs and Border Protection (CBP)
 Paquiry Loganathan - <paquiry.loganathan@cbp.dhs.gov>  
 Amanda C. Haney (Deputy) - <amanda.c.haney@cbp.dhs.gov>
@@ -376,17 +379,17 @@ Paul A. Scott - <paul.a.scott@hud.gov>
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
 ### Department-wide
-Sid Sharma - <siddhartha_sharma@ios.doi.gov>
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Bureau of Indian Affairs (BIA)
-George Morris - <george.morris@bia.gov>
+George Morris - <george.morris@bia.gov>  
 ### Bureau of Land Management (BLM)
-Brianna Huerta - <bhuerta@blm.gov>
+Brianna Huerta - <bhuerta@blm.gov>  
 ### Bureau of Ocean Energy Management (BOEM)
-Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>  
 ### Bureau of Reclamation (BR)
 Lori Pelech - <lpelech@usbr.gov>  
 ### Bureau of Safety and Environmental Enforcement (BSEE)
-Dr.	Peter	Joseph Champion - <peter.campion@bsee.gov>
+Dr.	Peter	Joseph Campion - <peter.campion@bsee.gov>
 ### Bureau of Trust Funds Administration (BTFA)
 Neal Herbert - <neal_herbert@btfa.gov>  
 ### National Park Service (NPS)
@@ -394,10 +397,9 @@ Alex Lindeman - <alex_lindeman@nps.gov>
 ### Office of the Inspector General (OIG)
 Rashee Nelson - <rashee_nelson@doioig.gov>  
 ### Office of the Solicitor (OS)
-Josaphat A. Plater-Zyberk - <josaphat.plater-zyberk@sol.doi.gov>  
-Kathryn Jonell - <kathryn.jonell@sol.doi.gov>
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Office of Surface Mining Reclamation and Enforcement (OSMRE)
-Cricket Bidleman - <cbidleman@osmre.gov>  
+Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### U.S. Fish and Wildlife Service (FWS)
 Keon Sheffield - <keon_sheffield@fws.gov>  
 ### U.S. Geological Survey (USGS)
@@ -507,8 +509,7 @@ Christopher M. Brown - <browncm@state.gov>
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
-Michelle Cribbs - <michelle.cribbs@dot.gov>  
-Stephanie Jackson (Deputy) - <stephanie.jackson@dot.gov>  
+Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
@@ -580,8 +581,6 @@ John Beatty - <john.beatty@nrc.gov>
 
 ---
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-B. L. - <section508@opm.gov>  
-Megan Rocus - <megan.rocus@opm.gov>  
 
 ---
 ## <span id="ussba" ></span>Small Business Administration (SBA)
@@ -931,7 +930,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: February 2025
+**Reviewed/Updated**: March 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

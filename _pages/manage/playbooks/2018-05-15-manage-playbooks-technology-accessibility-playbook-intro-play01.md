@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 1:  Establish a Section 508 Program Manager to Lead Compliance Efforts'
 created: 1526408449
+updated: 2025-03-05
 redirect_from: 
 - tools/playbooks/technology-accessibility-playbook-intro/play01/
 topic: Manage (program)
@@ -74,8 +75,8 @@ Achieving Section 508 compliance requires a comprehensive, programmatic approach
   </div>
 </div>
 
-  * [Section 508 Leadership Core Competencies recommended by the CIO Council Accessibility Committee][2]
-  * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][3]
+  * <a href="https://assets.section508.gov/assets/files/508_Leadership_Core_Competency_Model.pdf" target="_blank" class="usa-link--external">Section 508 Leadership Core Competencies recommended by the CIO Council Accessibility Committee</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
 <div id="prev-next-section">
     <a class="prev-page" title="Go to Introduction" 
@@ -86,8 +87,6 @@ Achieving Section 508 compliance requires a comprehensive, programmatic approach
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
+**Reviewed/Updated:** March 2025
 
  [1]: #Footnote1
- [2]: https://assets.section508.gov/files/508_Leadership_Core_Competency_Model.pdf
- [3]: https://assets.section508.gov/files/strategic-plan-508-compliance.pdf

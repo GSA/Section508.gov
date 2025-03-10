@@ -4,6 +4,8 @@ sidenav: true
 permalink: manage/roles/
 type: manage
 title: 'Roles and Responsibilities'
+created:
+updated: 2025-03-05
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -27,7 +29,7 @@ The tables below list the roles and responsibilities for agency officials, conte
 - [References and Resources](#references-and-resources)
 
 ## Agency Roles and Responsibilities Related to Section 508
-<div>The following roles and responsibilities are defined in OMB memorandum, <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" rel="noreferrer" target="_blank">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>.</div>
+<div>The following roles and responsibilities are defined in OMB memorandum, <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>.</div>
 
 <table id="table-1" class="usa-table usa-table--borderless usa-table--striped striped margin-bottom-8">
 <thead>
@@ -167,7 +169,7 @@ The tables below list the roles and responsibilities for agency officials, conte
 
 <!-- TABLE 2 -->
 ## Government-Wide Roles and Responsibilities Related to Section 508
-The following roles and responsibilities are defined in OMB memorandum, <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>.
+The following roles and responsibilities are defined in OMB memorandum, <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>.
 
 <table id="table-2" class="usa-table usa-table--borderless usa-table--striped striped margin-bottom-8">
 <thead>
@@ -431,14 +433,13 @@ The roles and responsibilities cited in this article were informed by federal re
 ## References and Resources
 
 <ul>
-  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link usa-link--external text-top">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a></li>
+  <li><a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link usa-link--external text-top">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a></li>
   <li><a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">The Rehabilitation Act of 1973, as amended (29 U.S.C. § 794d)</a></li>
   <li><a href="https://www.acquisition.gov/far/subpart-39.2" target="_blank" class="usa-link usa-link--external text-top">Federal Acquisition Regulation (FAR), Subpart 39.2 - Information and Communication Technology</a></li>
   <li><a href="https://www.fcc.gov/consumers/guides/21st-century-communications-and-video-accessibility-act-cvaa" target="_blank" class="usa-link usa-link--external text-top">21st Century Communications and Video Accessibility Act (CVAA)</a></li>
   <li><a href="https://www.govinfo.gov/app/details/PLAW-111publ274/summary" target="_blank" class="usa-link usa-link--external text-top">Plain Writing Act of 2010</a></li>
   <li><a href="https://www.congress.gov/bill/115th-congress/house-bill/5759/text" target="_blank" class="usa-link usa-link--external text-top">21st Century Integrated Digital Experience Act (21st Century IDEA)</a></li>
-  <li><a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/" target="_blank" class="usa-link usa-link--external text-top">Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce</a></li>
   <li><a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651" target="_blank" class="usa-link usa-link--external text-top">Section 752 of the Consolidated Appropriations Act of 2023</a></li>
 </ul>
 
-**Reviewed/Updated:** December 2023
+**Reviewed/Updated:** March 2025

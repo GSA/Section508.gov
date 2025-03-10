@@ -4,7 +4,8 @@ sidenav: false
 permalink: content/requiring-business-partners-provide-accessible-documents/
 type: page
 title: 'Requiring Business Partners to Provide Accessible Documents'
-created: 1557380938
+created: 2019-05-09
+updated: 2025-03-05
 topic: Content creation (create)
 sub-topic: Documents
 audience:
@@ -37,11 +38,11 @@ Good practice is to ensure requirements are clear, so both parties understand wh
 
 “All tasks for testing of functional and/or technical requirements must include specific testing for Section 508 compliance. Teams must document applicable standards evaluated, and document acceptable testing. The Agency reserves the right to test information and communication technology (ICT) functional and/or technical requirements to determine Section 508 compliance. Our agency uses [DHS Section 508 Compliance Test Process for Applications][2] to make that determination. Inaccessible documents received and determined to not be compliant will be returned to the submitter for remediation without being posted to the website.”
 
-## **Full Inclusion for All People**
+## **Communicate Your Commitment to Conformance**
 
 Below is an example of how your agency can communicate its commitment to accessible electronic and information technologies:
 
-Our agency is committed to making its electronic and information technologies accessible to individuals with disabilities by meeting or exceeding the requirements of Section 508 of the Rehabilitation Act.
+Our agency is dedicated to ensuring that everyone, including people with disabilities, can access our electronic and information technologies. We follow or exceed the standards set by Section 508 of the Rehabilitation Act (29 USC 794d).
 
 We require business partners (grantees, vendors) to ensure all electronic information and communication technology (ICT) systems, applications, web content, reports, and deliverables be accessible to people with disabilities (per Accessibility Requirements (Section 508) and best practices (W3C WCAG 2)).
 
@@ -74,7 +75,9 @@ Vendors and individuals testing for accessibility may be interested in the [DHS 
 
 ## **Learn More**
 
-Learn more about [buying accessible products and services][6]. Contact Norman Robinson, IT Change Control Board Manager, US Department of State, at <RobinsonN@state.gov> with questions about this article.
+Learn more about [buying accessible products and services][6].
+
+**Reviewed/Updated:** January 2025
 
  [1]: {{site.baseurl}}/art/
  [2]: http://www.dhs.gov/compliance-test-processes

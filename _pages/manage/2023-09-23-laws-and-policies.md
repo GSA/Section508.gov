@@ -6,7 +6,7 @@ type: manage
 title: 'IT Accessibility Laws and Policies'
 contributors: usab
 created: 2023-09-23
-updated: 2024-05-08
+updated: 2025-03-05
 redirect_from:
 - summary-section508-standards/
 - section508-laws/
@@ -59,7 +59,7 @@ The rule updated and reorganized the Section 508 Standards and Section 255 Guide
 ## Related Laws
 <strong>Audience: </strong> Agency Section 508 Program Managers, Web Managers, Human Resources, EEO, and Disability Employment Program Managers, or equivalents.
 
-It is important to understand Section 508 in the context of other laws related to federal disability policy. In addition to Section 508, the <a href="https://assets.section508.gov/files/rehabilitation-act-of-1973-amended-by-wioa.pdf" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (PDF)</a> has the following related sections:
+It is important to understand Section 508 in the context of other laws related to federal disability policy. In addition to Section 508, the <a href="https://assets.section508.gov/assets/files/rehabilitation-act-of-1973-amended-by-wioa.pdf" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 (PDF)</a> has the following related sections:
 
 <ul>
   <li><a href="http://www.eeoc.gov/laws/statutes/rehab.cfm" target="_blank" class="usa-link--external text-top">Section 501</a> - Prohibits federal employers from discriminating against qualified individuals with disabilities. It requires each federal agency to adopt the goal of having 12% of its workforce be people with disabilities and 2% of its workforce be people with targeted disabilities.</li>
@@ -87,18 +87,17 @@ Related laws include:
 ### Office of Management and Budget (OMB) Memos
 
 <ul>
-  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
-  <li><a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a></li>
+  <li><a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external text-top">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a></li>
+  <li><a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external text-top">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf" target="_blank" class="usa-link--external text-top">Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act of 2013 (PDF)</a></li>
-  <!--<li><a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2017/m-17-06.pdf" target="_blank" class="usa-link--external text-top">M-17-06 - Policies for Federal Agency Public Websites and Digital Services (PDF)</a></li>-->
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_20.pdf" target="_blank" class="usa-link--external text-top">M-16-20 Category Management Policy 16-3: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Services (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf" target="_blank" class="usa-link--external text-top">M-13-13 - Open Data Policy - Managing Information as an Asset (PDF)</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/procurement_memo/improving_accessibility_gov_info_07192010.pdf" target="_blank" class="usa-link--external text-top">OMB Improving the Accessibility of Government Information (PDF) - July 2010</a></li>
   <li><a href="https://obamawhitehouse.archives.gov/omb/procurement_index_508/" target="_blank" class="usa-link--external text-top">Office of Federal Procurement Policy 508 Compliance</a></li>
-  <li><a href="https://assets.section508.gov/files/ombNews_February_2011.doc" target="_blank" class="usa-link--external text-top">2011 Notes from Daniel I. Gordon, Federal Procurement Policy Administrator</a></li>
-  <li><a href="https://assets.section508.gov/files/improving_accessibility_gov_info_07192010_5B1_5D.doc" target="_blank" class="usa-link--external text-top">2010 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
-  <li><a href="https://assets.section508.gov/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc" target="_blank" class="usa-link--external text-top">2007 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
-  <li><a href="https://assets.section508.gov/files/Memo_Safavian-Evans.doc" target="_blank" class="usa-link--external text-top">2005 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/ombNews_February_2011.doc" target="_blank" class="usa-link--external text-top">2011 Notes from Daniel I. Gordon, Federal Procurement Policy Administrator</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/improving_accessibility_gov_info_07192010_5B1_5D.doc" target="_blank" class="usa-link--external text-top">2010 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/2007_OMB_Memo_to_Agency_CAOs_and_CIOs.doc" target="_blank" class="usa-link--external text-top">2007 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
+  <li><a href="https://assets.section508.gov/assets/files/Memo_Safavian-Evans.doc" target="_blank" class="usa-link--external text-top">2005 OMB Memorandum for the Chief Acquisition Officers and Chief Information Officers (DOC)</a></li>
 </ul>
 
 ### Equal Employment Opportunity Commission (EEOC)
@@ -152,6 +151,6 @@ Learn how to maintain your agency’s policies through the links below:
 
 For information and examples on creating an accessibility statement in accordance with OMB requirements, see [Developing a Website Accessibility Statement][1].
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** March 2025
 
 [1]: {{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/

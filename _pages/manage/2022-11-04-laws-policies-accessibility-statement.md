@@ -5,7 +5,7 @@ permalink: manage/laws-and-policies/website-accessibility-statement/
 type: manage
 title: 'Developing a Website Accessibility Statement'
 created: 
-modified: 2024-04-19
+updated: 2025-03-05
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -123,7 +123,7 @@ Per M-24-08, “agencies shall maintain a digital accessibility statement on fed
 
 ## Where to Publish an Accessibility Statement
 
-To ensure accessibility statements are available to visitors at any point in their digital experience, agencies must include a link to the accessibility statement in the sitewide footer, per OMB guidance on [Delivering a Digital-First Public Experience (M-23-22)](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/). Secondary sites, like those for sub-agencies, components, or offices, may create a separate accessibility statement page or link to the domain website’s accessibility statement.
+To ensure accessibility statements are available to visitors at any point in their digital experience, agencies must include a link to the accessibility statement in the sitewide footer, per OMB guidance on <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external">Delivering a Digital-First Public Experience (M-23-22)</a>. Secondary sites, like those for sub-agencies, components, or offices, may create a separate accessibility statement page or link to the domain website’s accessibility statement.
 
 Websites that conform with the [U.S. Web Design System](https://designsystem.digital.gov) should use the [`Identifier`](https://designsystem.digital.gov/components/identifier/) component, which communicates a site’s parent, displays agency links required by federal laws and policies, and includes the accessibility statement by default (Figure 1).
 
@@ -146,6 +146,6 @@ Websites not utilizing the USWDS’s Identifier component should ensure a link t
   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-3-statement">Figure 3: Example of an accessibility statement using the link text “Website Policies & Notices” among other links such as Privacy Policy, FOIA, No Fear Act and Contact Us.</span></div>
 </div>
 
-**Reviewed/Updated:** August 2024
+**Reviewed/Updated:** March 2025
 
-[1]: https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/
+[1]: https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/

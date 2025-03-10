@@ -63,7 +63,7 @@ An effective agency Section 508 program can identify and manage risks, gain mana
 
 ## Resources
 
-[Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/)
+* [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/)
 
 &nbsp;
 

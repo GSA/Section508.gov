@@ -14,6 +14,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+redirect_from:
+- content/pdfs/
 ---
 
 How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].
@@ -68,11 +70,11 @@ The resources in this section were developed by Federal agencies, and shared her
 **Reviewed/Updated:** January 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [2]: https://assets.section508.gov/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
- [3]: https://assets.section508.gov/files/PDF-Printable-Accessiblility-Checklist.docx
- [4]: https://assets.section508.gov/files/PDF%20Baseline%20Test%20Process.docx
- [5]: https://assets.section508.gov/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
- [6]:https://assets.section508.gov/files/PDF%20Printable%20Checklist.docx
+ [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
+ [3]: https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx
+ [4]: https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx
+ [5]: https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx
+ [6]:https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx
  [7]: https://www.ssa.gov/accessibility/developer_resources.html
  [8]: http://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf
  [9]: {{site.baseurl}}/create

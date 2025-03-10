@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes'
 created: 1526408818
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play08/
 topic: Manage (program)
@@ -74,10 +75,10 @@ The following play identifies how to ensure accessibility needs are identified a
 
 ## Resources
 
-  * [Section 508 Standards][2]
-  * [OMB Government-wide Section 508 Strategic Plan][3]
-  * [GSA&rsquo;s Guidance on Creating Section 508 Compliant Solicitations][4]
-  * [GSA&rsquo;s Guidance on Acquisition for Accessible EIT][5]
+  * <a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards" target="_blank" class="usa-link--external">Section 508 Standards</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+  * <a href="https://assets.section508.gov/assets/files/guidance-on-508-compliant-solicitations-20150921.docx" target="_blank" class="usa-link--external">GSA&rsquo;s Guidance on Creating Section 508 Compliant Solicitations</a>
+  * <a href="https://assets.section508.gov/assets/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx" target="_blank" class="usa-link--external">GSA&rsquo;s Guidance on Acquisition for Accessible EIT</a>
   * [Tabular Comparison of the Previous FAR Text Against the 2021 Update](https://www.section508.gov/manage/laws-and-policies/far-update-comparison/)
 
 <div>
@@ -102,7 +103,3 @@ The following play identifies how to ensure accessibility needs are identified a
 **Reviewed/Updated:** November 2024
 
  [1]: #Footnote2
- [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
- [3]: https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf
- [4]: https://assets.section508.gov/files/guidance-on-508-compliant-solicitations-20150921.docx
- [5]: https://assets.section508.gov/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx
