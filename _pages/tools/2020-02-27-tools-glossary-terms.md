@@ -19,17 +19,17 @@ redirect_from:
 created: 2020-02-27
 updated: 2025-03-10
 ---
-The following terms are used in across this website, in our communications, and reporting&mdash;including those in appendices of the the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Acronyms and abbreviations for some of these terms are also included in [Acronyms & Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
+These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
 <div class="glossary">
   <p style="text-align:center;">
-    <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a>
+    <a href="#a">A</a> | <a href="#b">B</a> | <a href="#c">C</a> | <a href="#d">D</a> | <a href="#e">E</a> | <a href="#f">F</a> | <a href="#g">G</a> | <a href="#h">H</a> | <a href="#i">I</a> | <a href="#j">J</a> | <a href="#k">K</a> | <a href="#l">L</a> | <a href="#m">M</a> | <a href="#n">N</a> | <a href="#o">O</a> | <a href="#p">P</a> | <a href="#q">Q</a> | <a href="#r">R</a> | <a href="#s">S</a> | <a href="#t">T</a> | <a href="#u">U</a> | <a href="#v">V</a> | <a href="#w">W</a>
   </p>
 </div>
 
 ## A
 <table id="TableA" class="usa-table usa-table--borderless striped grid-col">
-<caption>Table A terms and definitions</caption>	
+<caption>Table A. Terms and definitions</caption>	
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -94,6 +94,10 @@ The following terms are used in across this website, in our communications, and 
     <td>Software designed to perform or help the user to perform a specific task or set of tasks.</td>
   </tr>
   <tr>
+    <th scope="row" id="application-programming-interface">Application Programming Interface (API)</th>
+    <td>A system of tools and resources in an operating system, enabling developers to create software applications.</td>
+  </tr>
+  <tr>
     <th scope="row" id="assistive-technology">Assistive Technology (AT)</th>
     <td>Any item, piece of equipment, or system (whether acquired commercially, modified, or customized), that is commonly used to increase, maintain, or improve functional capabilities of individuals with disabilities.</td>
   </tr>
@@ -117,10 +121,9 @@ The following terms are used in across this website, in our communications, and 
 </table>
 
 &nbsp;
-&nbsp;
 ## B
 <table id="TableB" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table B terms and definitions</caption> 
+<caption>Table B. Terms and definitions</caption> 
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -142,7 +145,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## C
 <table id="TableC" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table C terms and definitions</caption> 
+<caption>Table C. Terms and definitions</caption> 
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -201,7 +204,7 @@ The following terms are used in across this website, in our communications, and 
 ## D
 
 <table id="TableD" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table D terms and definitions</caption>
+<caption>Table D. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -232,7 +235,7 @@ The following terms are used in across this website, in our communications, and 
 ## E
   
 <table id="TableE" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table E terms and definitions</caption>
+<caption>Table E. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -266,7 +269,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## F
 <table id="TableF" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table F terms and definitions</caption>
+<caption>Table F. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -291,6 +294,10 @@ The following terms are used in across this website, in our communications, and 
     <td>When creating a website, allows use of multiple, independently controllable sections on a web presentation. A typical use of the HTML frame function is to contain a selection menu in one frame, and use another frame to contain the space where the selected (linked to) files will appear (see also <a href="#iframe">iFrame</a>).</td>
   </tr>
   <tr>
+    <th scope="row" id="full-time-equivalent">Full-Time equivalent (FTE)</th>
+    <td>A unit of measurement used to represent the number of full-time employees an agency has, even when considering part-time workers, by calculating the total hours worked by all employees and dividing them by the number of hours a typical full-time employee works.</td>
+  </tr>
+  <tr>
     <th scope="row" id="fpc">Functional Performance Criteria (FPC)</th>
     <td>The overall product evaluation criteria for technologies or components for which there is no applicable specific requirement(s) under the technical standards. These criteria ensure that the individual accessible components work together to create an accessible product. The FPC covers operation (including input and control functions) of mechanical mechanisms, and access to visual and audible information (the design functions of the webpage). These provisions allow people with sensory or physical disabilities to locate, identify, and operate the input, control, and mechanical functions of technologies and components. These provisions also allow access to the information provided, including text, static or dynamic images, icons, labels, sounds or incidental operating cues.</td>
   </tr>
@@ -300,7 +307,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## G
 <table id="TableG" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table G terms and definitions</caption>
+<caption>Table G. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -318,7 +325,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## H
 <table id="TableH" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table H terms and definitions</caption>
+<caption>Table H. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -357,7 +364,7 @@ The following terms are used in across this website, in our communications, and 
 ## I
   
 <table id="TableI" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table I terms and definitions</caption>
+<caption>Table I. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -403,7 +410,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## J
 <table id="TableJ" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table J terms and definitions</caption> 
+<caption>Table J. Terms and definitions</caption> 
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -425,7 +432,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## K
 <table id="TableK" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table K terms and definitions</caption>
+<caption>Table K. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -433,6 +440,10 @@ The following terms are used in across this website, in our communications, and 
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <th scope="row" id="key-performance-indicator">Key Performance Indicator (KPI)</th>
+    <td>A quantifiable metric used to measure the progress and success of a specific business goal or objective, allowing companies to track their performance against set targets and make informed decisions based on data analysis; essentially, it's a critical measure that indicates how well a company or team is performing towards achieving its goals. See also <a href="{{site.baseurl}}/manage/accessibility-kpi/">Organizational IT Accessibility Key Performance Indicators (KPI)</a></td>
+  </tr>
   <tr>
     <th scope="row" id="keyboard">Keyboard</th>
     <td>A set of systematically arranged alphanumeric keys or a control that generates alphanumeric input by which a machine or device is operated. A keyboard includes keys discernible by touch, used in conjunction with the alphanumeric value their function maps to on the keyboard interface. Keyboards are available in ergonomic or other specialized form factors to accommodate the needs of the user.</td>
@@ -443,7 +454,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## L
 <table id="TableL" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table L terms and definitions</caption>
+<caption>Table L. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -469,7 +480,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## M  
 <table id="TableA" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table 1 terms and definitions</caption>
+<caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -496,7 +507,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## N
 <table id="TableA" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table 1 terms and definitions</caption>
+<caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -526,7 +537,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## O
 <table id="TableO" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table O terms and definitions</caption>
+<caption>Table O. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -548,7 +559,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## P 
 <table id="TableP" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table P terms and definitions</caption>
+<caption>Table P. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -590,7 +601,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## Q
 <table id="TableQ" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table Q terms and definitions</caption>
+<caption>Table Q. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -608,7 +619,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## R
 <table id="TableR" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table R terms and definitions</caption>
+<caption>Table R. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -634,7 +645,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## S
 <table id="TableS" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table S terms and definitions</caption>
+<caption>Table S. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -708,7 +719,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## T
 <table id="TableT" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table T terms and definitions</caption>
+<caption>Table T. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -770,7 +781,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## U  
 <table id="TableU" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table U terms and definitions</caption>
+<caption>Table U. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -808,7 +819,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## V  
 <table id="TableV" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table V terms and definitions</caption>
+<caption>Table V. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
@@ -838,7 +849,7 @@ The following terms are used in across this website, in our communications, and 
 &nbsp;
 ## W  
 <table id="TableW" class="usa-table usa-table--borderless striped grid-col"> 
-<caption>Table W terms and definitions</caption>
+<caption>Table W. Terms and definitions</caption>
 <thead>
   <tr>
     <th scope="col" class="grid-col-3">Term</th>
