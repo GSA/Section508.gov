@@ -28,7 +28,7 @@ These terms appear throughout our website, communications, and reports, includin
 </div>
 
 ## A
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col">
+<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12">
 <caption>Table A. Terms and definitions</caption>	
 <thead>
   <tr>
@@ -122,7 +122,7 @@ These terms appear throughout our website, communications, and reports, includin
 
 &nbsp;
 ## B
-<table id="TableB" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableB" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table B. Terms and definitions</caption> 
 <thead>
   <tr>
@@ -144,7 +144,7 @@ These terms appear throughout our website, communications, and reports, includin
     
 &nbsp;
 ## C
-<table id="TableC" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableC" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table C. Terms and definitions</caption> 
 <thead>
   <tr>
@@ -203,7 +203,7 @@ These terms appear throughout our website, communications, and reports, includin
 &nbsp;
 ## D
 
-<table id="TableD" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableD" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table D. Terms and definitions</caption>
 <thead>
   <tr>
@@ -234,7 +234,7 @@ These terms appear throughout our website, communications, and reports, includin
 &nbsp;
 ## E
   
-<table id="TableE" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableE" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table E. Terms and definitions</caption>
 <thead>
   <tr>
@@ -268,7 +268,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## F
-<table id="TableF" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableF" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table F. Terms and definitions</caption>
 <thead>
   <tr>
@@ -306,7 +306,7 @@ These terms appear throughout our website, communications, and reports, includin
 
 &nbsp;
 ## G
-<table id="TableG" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableG" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table G. Terms and definitions</caption>
 <thead>
   <tr>
@@ -324,7 +324,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## H
-<table id="TableH" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableH" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table H. Terms and definitions</caption>
 <thead>
   <tr>
@@ -363,7 +363,7 @@ These terms appear throughout our website, communications, and reports, includin
 &nbsp;
 ## I
   
-<table id="TableI" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableI" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table I. Terms and definitions</caption>
 <thead>
   <tr>
@@ -409,7 +409,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## J
-<table id="TableJ" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableJ" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table J. Terms and definitions</caption> 
 <thead>
   <tr>
@@ -431,7 +431,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## K
-<table id="TableK" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableK" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table K. Terms and definitions</caption>
 <thead>
   <tr>
@@ -453,7 +453,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## L
-<table id="TableL" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableL" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table L. Terms and definitions</caption>
 <thead>
   <tr>
@@ -479,7 +479,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## M  
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
@@ -506,7 +506,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## N
-<table id="TableA" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableA" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table 1. Terms and definitions</caption>
 <thead>
   <tr>
@@ -536,7 +536,7 @@ These terms appear throughout our website, communications, and reports, includin
 
 &nbsp;
 ## O
-<table id="TableO" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableO" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table O. Terms and definitions</caption>
 <thead>
   <tr>
@@ -558,7 +558,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## P 
-<table id="TableP" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableP" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table P. Terms and definitions</caption>
 <thead>
   <tr>
@@ -600,7 +600,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## Q
-<table id="TableQ" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableQ" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table Q. Terms and definitions</caption>
 <thead>
   <tr>
@@ -618,7 +618,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## R
-<table id="TableR" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableR" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table R. Terms and definitions</caption>
 <thead>
   <tr>
@@ -644,7 +644,7 @@ These terms appear throughout our website, communications, and reports, includin
 
 &nbsp;
 ## S
-<table id="TableS" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableS" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table S. Terms and definitions</caption>
 <thead>
   <tr>
@@ -718,7 +718,7 @@ These terms appear throughout our website, communications, and reports, includin
 
 &nbsp;
 ## T
-<table id="TableT" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableT" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table T. Terms and definitions</caption>
 <thead>
   <tr>
@@ -780,7 +780,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## U  
-<table id="TableU" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableU" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table U. Terms and definitions</caption>
 <thead>
   <tr>
@@ -818,7 +818,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## V  
-<table id="TableV" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableV" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table V. Terms and definitions</caption>
 <thead>
   <tr>
@@ -848,7 +848,7 @@ These terms appear throughout our website, communications, and reports, includin
   
 &nbsp;
 ## W  
-<table id="TableW" class="usa-table usa-table--borderless striped grid-col"> 
+<table id="TableW" class="usa-table usa-table--borderless striped grid-col-12"> 
 <caption>Table W. Terms and definitions</caption>
 <thead>
   <tr>
