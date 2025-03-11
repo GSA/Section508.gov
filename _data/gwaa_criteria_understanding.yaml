@@ -1122,7 +1122,7 @@
       <li>N/A - reporting entity does not have any public online documents</li>
     </ol>
   u-descr: | 
-    Public, online documents (see the definition of <a href="../definition-of-terms/#document" target="_blank">document</a>) are electronic documents available to the general public. 
+    Public, online documents (see the definition of <a href="/tools/glossary/#document" target="_blank">document</a>) are electronic documents available to the general public. 
 -   
   qid: q56
   dimension: testing
@@ -1344,7 +1344,7 @@
 
     **NOTE:** For websites operated in collaboration between multiple reporting entities, only count the pages if your reporting entity is considered the primary owner or manager of the website.    
     
-    **NOTE:** For the purposes of this Assessment, <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionE">extranet</a> is included in questions related to internet web pages.    
+    **NOTE:** For the purposes of this Assessment, <a href="/tools/glossary/#e">extranet</a> is included in questions related to internet web pages.    
 -   
   qid: q68a
   uid: u68a
@@ -1439,7 +1439,7 @@
     </ol>
   q-note: This question will show only if Question 68a is greater than 0.
   u-descr: | 
-    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+    For a web page to be Section 508 conformant (see the definition of <a href="/tools/glossary/#section-508-conformant" target="_blank">Section 508 conformant</a>), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
 
     To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
 
@@ -1649,7 +1649,7 @@
     </ol>
   q-note: This question is only required if Question 73a is greater than 0.
   u-descr: | 
-    For a web page to be Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>"), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
+    For a web page to be Section 508 conformant (see the definition of <a href="/tools/glossary/#section-508-conformant" target="_blank">Section 508 conformant</a>"), the entire page must meet all applicable Section 508 technical requirements. For web, this is WCAG 2.0 Level A and AA Success Criteria, at a minimum.
 
     To be able to report accurate data for this question, each page must be fully tested; manual testing is necessary but may be used alongside automated tools. If the reporting entity cannot answer this question due to a reliance on only automated tools, select "Unknown" or a sampling methodology may be used. 
 
@@ -2117,7 +2117,7 @@
       <li>N/A- reporting entity does not have any publicly available fillable forms</li>
     </ol>
   u-descr: | 
-    For purposes of this Assessment, only consider <a href="https://www.section508.gov/manage/section-508-assessment/definition-of-terms/#sectionF">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
+    For purposes of this Assessment, only consider <a href="/tools/glossary/#f">fillable forms</a> that require a <a href="https://pra.digital.gov/do-i-need-clearance/"> Paperwork Reduction Act </a> clearance. 
 
     To estimate a percentage of conformance, follow the formula and steps below:
 
@@ -2235,7 +2235,7 @@
   u-descr: | 
     For examples and directions see, [Developing a Website Accessibility Statement](https://www.section508.gov/manage/laws-and-policies/website-accessibility-statement/).
 
-    **NOTE** for option i): Do not assume this website is fully Section 508 conformant (see the definition of <a href="../definition-of-terms/#section-508-conformant" target="_blank">Section 508 conformant</a>). If the page was fully tested for all 38 applicable WCAG Success Criteria prior to the reporting period using either manual methods or a combination of automated and manual methods, the results were documented, and the page remains unchanged since the test, the reporting entity may use those results to answer the "Section 508 conformant" part of this question.    
+    **NOTE** for option i): Do not assume this website is fully Section 508 conformant (see the definition of <a href="/tools/glossary/#section-508-conformant" target="_blank">Section 508 conformant</a>). If the page was fully tested for all 38 applicable WCAG Success Criteria prior to the reporting period using either manual methods or a combination of automated and manual methods, the results were documented, and the page remains unchanged since the test, the reporting entity may use those results to answer the "Section 508 conformant" part of this question.    
 -   
   qid: q92
   uid: u92
@@ -2259,7 +2259,7 @@
 
     If the person(s) responsible for addressing feedback from the public do not track the number of feedback items, answer “Unknown.”
 
-    **NOTE:** Public feedback (see the the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) on Section 508 is different from complaints (see the definition of <a href="../definition-of-terms/#complaint">complaint</a>) pertaining to Section 508.
+    **NOTE:** Public feedback (see the the definition of <a href="/tools/glossary/#public-feedback-response" target="_blank">public feedback response</a>) on Section 508 is different from complaints (see the definition of <a href="/tools/glossary/#complaint">complaint</a>) pertaining to Section 508.
 -   
   qid: q93
   uid: u93
@@ -2279,7 +2279,7 @@
 
     See Section508.gov for additional information on implementing a <a href="https://www.section508.gov/manage/laws-and-policies/implementing-public-feedback-mechanism/" target="_blank">public feedback mechanism</a>.
 
-    Only include public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a>) that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include feedback responses that remain in process, unresolved, ongoing, or any similar status.
+    Only include public feedback responses (see the definition of <a href="/tools/glossary/#public-feedback-response" target="_blank">public feedback response</a>) that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include feedback responses that remain in process, unresolved, ongoing, or any similar status.
 
     **NOTE:** The number of feedback responses in Question 92 minus the number of closed feedback responses reported here (Question 93) should equal the number of currently open feedback responses within the reporting period (June 1, 2023, through May 31, 2024).    
 -   
@@ -2299,7 +2299,7 @@
   u-descr: | 
     For tracking, the reporting entity may use a help desk, IT system, spreadsheet, or another entity-specific method to track Section 508 complaints. Reporting may occur on a recurring basis or ad hoc, and reporting may be a formal report or informal, such as an email. Additionally, the reporting entity may use their parent agency process for Section 508 non-compliance related complaints; if so, please coordinate with the parent agency to answer complaint-related questions.
 
-    Please refer to the definition of <a href="../definition-of-terms/#complaint" target="_blank">Complaint</a>.
+    Please refer to the definition of <a href="/tools/glossary/#complaint" target="_blank">Complaint</a>.
 -   
   qid: q95
   dimension: conformance
@@ -2329,9 +2329,9 @@
       <li>Unknown</li>
     </ol>
   u-descr: | 
-    The reporting entity's Section 508 Program Office should be one of the primary points of contact for Section 508-related formal complaints (see the definition of <a href="../definition-of-terms/#complaint" target="_blank">complaint</a>, but complaints may be handled in collaboration with or primarily by other departments. The reporting entity may need to contact other departments that handle such complaints, such as your parent agency, Human Resources, Civil Rights Office, or the points of contact for the Section 504 Office.
+    The reporting entity's Section 508 Program Office should be one of the primary points of contact for Section 508-related formal complaints (see the definition of <a href="/tools/glossary/#complaint" target="_blank">complaint</a>, but complaints may be handled in collaboration with or primarily by other departments. The reporting entity may need to contact other departments that handle such complaints, such as your parent agency, Human Resources, Civil Rights Office, or the points of contact for the Section 504 Office.
 
-    **NOTE:** <a href="../definition-of-terms/#complaint" target="_blank">Complaints</a> differ from public feedback responses (see the definition of <a href="../definition-of-terms/#public-feedback-response" target="_blank">public feedback response</a> the reporting entity receives.   
+    **NOTE:** <a href="/tools/glossary/#complaint" target="_blank">Complaints</a> differ from public feedback responses (see the definition of <a href="/tools/glossary/#public-feedback-response" target="_blank">public feedback response</a> the reporting entity receives.   
 -   
   qid: q97
   dimension: conformance
@@ -2360,7 +2360,7 @@
     </ol>
   q-note: This question is only required if Question 96 is greater than 0.
   u-descr: | 
-    The reporting entity response should include only those formal complaints (see the definition of <a href="../definition-of-terms/#complaint" taget="_blank">complaint</a> that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include complaints that remain in process, unresolved, ongoing, or any similar status.
+    The reporting entity response should include only those formal complaints (see the definition of <a href="/tools/glossary/#complaint" taget="_blank">complaint</a> that have reached their conclusion (i.e., have a "closed" status through resolution, or adjudication, or otherwise have a "closed" status). Do not include complaints that remain in process, unresolved, ongoing, or any similar status.
 
     **NOTE:** The number of complaints in Question 96 minus the number of closed complaints reported here (Question 98) should equal the number of open complaints within the reporting period.   
 -   
@@ -2386,7 +2386,7 @@
     - Find your entity's most recent solicitations where they are posted online (e.g., the System for Award Management [SAM.gov]; the GSA eBuy site).
     - Review the <a href="https://www.section508.gov/buy/solicitation-review-tool/" target="_blank">GSA Solicitation Review Tool (SRT)</a> results if your reporting entity uses the SRT.
 
-    **NOTE:** Refer to the definition of <a href="../definition-of-terms/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
+    **NOTE:** Refer to the definition of <a href="/tools/glossary/#information-and-communication-technology" target="_blank">ICT (Information and Communication Technology)</a> for the scope of software and services covered by this question.
 -   
   qid: q100
   uid: u100
@@ -2435,7 +2435,7 @@
       <li>No</li>
     </ol>
   u-descr: | 
-    Please see Definition of Terms for a description of <a href="../definition-of-terms/#shared-service" target="_blank">shared service</a>, <a href="../definition-of-terms/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="../definition-of-terms/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
+    Please see Definition of Terms for a description of <a href="/tools/glossary/#shared-service" target="_blank">shared service</a>, <a href="/tools/glossary/#reimbursable-service" target="_blank">reimbursable service</a>, and <a href="/tools/glossary/#e-gov-line-of-business" target="_blank">e-gov line of business</a>. 
 -   
   qid: q102
   uid: u102
@@ -2454,7 +2454,7 @@
     </ol>
   q-note: This question is only required if Question 101 is Yes.
   u-descr: | 
-    Please refer to the definition of <a href="../definition-of-terms/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
+    Please refer to the definition of <a href="/tools/glossary/#fully-conform" target="_blank">Fully Conform</a> before answering this question. 
 
     If the product is supplied to another federal reporting entity or agency, it may be considered a Government Off-The-Shelf (GOTS) system. If this is the case, an ACR or Government Product Accessibility Template (GPAT) may be reviewed. 
 

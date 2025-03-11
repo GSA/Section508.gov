@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page 
 sidenav: true
 type: training
 title: 'Glossary of Section 508 Terms'
@@ -43,15 +43,34 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr">Accessibility Conformance Report (ACR)</th>
-    <td>A written report for <a href="#ict">information and communication technology (ICT)</a> items based on the product’s <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a>. To be considered for award, the ACR must be complete and submitted according to the instructions.</td>
+    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="acr-repository">ACR Repository</th>
+    <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="accessibility-policy">Accessibility Policy</th>
+    <td>Policy for implementing Section 508 or Information and Communication Technology (ICT) accessibility requirements.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="accessibility-statement">Accessibility Statement</th>
+    <td>The statement on the reporting entity’s primary website, including a number of requirements per <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">“Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act“ (M-24-08)</a>, including contact information and method for providing feedback on your website’s accessibility. For additional examples, and directions on accessibility statements, see <a href="{{site.baseurl}}/manage/laws-and-policies/website-accessibility-statement/">"Developing a Website Accessibility Statement"</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="art">Accessibility Requirements Tool (ART)</th>
-    <td>A web-based application that helps users determine which Section 508 requirements apply to acquisitions that include ICT products and services.</td>
+    <td>The <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> is a web-based application created by GSA that provides a step-by-step guide to help users determine which Section 508 requirements apply to acquisitions involving ICT products and services. It simplifies the process of identifying relevant accessibility requirements from the Revised Section 508 Standards and integrating them into procurement and contracting documentation.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="affinity-group">Affinity Group</th>
+    <td>A community for employees with disabilities or health conditions, and their allies.</td>
   </tr>
   <tr>
     <th scope="row" id="agency">Agency</th>
-    <td>Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}</td>
+    <td><p><strong>Definition 1:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}</p>
+    <p><strong>Definition 2:</strong> Within the annual Section 508 Assessment report, "agency" includes any federal department, component- level, and independent agencies subject to Section 508 of the Rehabilitation Act; generally used where this report offers recommendations and shares GSA efforts to increase Section 508 compliance.</p>
+    <p>This report uses the term “reporting entity” rather than "agency" or "component" as traditionally defined because reporting entity Section 508 Programs may be organized and function outside of these traditional definitions; generally used for data-driven findings, observations and overall performance category recommendations.</p>
+    </td>
   </tr>
   <tr>
     <th scope="row" id="agency-official-communications">Agency Official Communications</th>
@@ -70,12 +89,20 @@ These terms appear throughout our website, communications, and reports, includin
     EXCEPTION: Records maintained by the National Archives and Records Administration (NARA) pursuant to Federal record keeping statutes shall not be required to conform to the Revised 508 Standards unless public facing.</td>
   </tr>
   <tr>
+    <th scope="row" id="almost-always">Almost Always</th>
+    <td>Refers to actions performed approximately 90% of the time or more.</td>
+  </tr>
+  <tr>
     <th scope="row" id="alteration">Alteration</th>
     <td>A change to existing ICT that affects interoperability, the user interface, or access to information or data.</td>
   </tr>
   <tr>
     <th scope="row" id="alternate-formats">Alternate formats</th>
-    <td>Alternate formats usable by people with disabilities may include, but are not limited to, Braille, American Standard Code for Information Interchange (ASCII) text, large print, recorded audio, and electronic formats that comply with this part.</td>
+    <td>Different ways to present printed information, such as Braille, American Standard Code for Information Interchange (ASCII) text, large print, recorded audio, and electronic versions.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="alternative-means-plan">Alternative Means Plan</th>
+    <td>Documentation that establishes a framework and outlines the strategies for meeting the access needs of people with disabilities until the identified Section 508 compliance defects are remediated. The recommended workarounds and accommodations provided in the plan will ensure people with disabilities can continue to use the product. May be referred to as "Accommodation Plan."</td>
   </tr>
   <tr>
     <th scope="row" id="alternate-methods">Alternate methods</th>
@@ -98,6 +125,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A system of tools and resources in an operating system, enabling developers to create software applications.</td>
   </tr>
   <tr>
+    <th scope="row" id="artificial-intelligence">Artificial Intelligence</th>
+    <td>Refers to the simulation of human intelligence processes by machines, especially computer systems.</td>
+  </tr>
+  <tr>
     <th scope="row" id="assistive-technology">Assistive Technology (AT)</th>
     <td>Any item, piece of equipment, or system (whether acquired commercially, modified, or customized), that is commonly used to increase, maintain, or improve functional capabilities of individuals with disabilities.</td>
   </tr>
@@ -108,6 +139,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="audio-only">Audio-only (pre-recorded)</th>
     <td>An alternative for time-based media that presents equivalent information for prerecorded audio-only content.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="authentication-services">Authentication Services</th>
+    <td>Systems or mechanisms that verify user identity, including two-factor authentication such as logins, email or text verification, or RSA tokens.</td>
   </tr>
   <tr>
     <th scope="row" id="authoring-tool">Authoring tool</th>
@@ -139,6 +174,18 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="bitmap-image">Bitmap image</th>
     <td>A graphic image that may be purely decorative, or indicate the presence of a programmatic element. The word "bitmap" in this context does not imply any particular graphics file format.</td>
   </tr>
+  <tr>
+    <th scope="row" id="bracket">Bracket</th>
+    <td>Describes the groupings of reporting entities for business function maturity and operational conformance. Brackets include Very Low, Low, Moderate, High, and Very High. The pairing of a maturity bracket and conformance bracket, such as High-Moderate, is referred to as an overall performance “category” throughout this assessment.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="business-function-maturity">Business Function Maturity</th>
+    <td>Or simply “maturity,” as it is referenced throughout this document, approximates the level of development and advancement of a reporting entity’s Section 508 Program as well as other functions across the organization, or business, that are relevant to digital accessibility. It assesses the reporting entity’s responses to the criteria within 9 maturity dimensions (Q29-Q66 See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>). These questions cover different aspects of their Section 508 Program or equivalent as well as accessibility-related activities across the organization. Business function maturity, or “maturity,” is evaluated by the maturity index or “m-index” and utilizes a scale ranging from 0 to 5, with 0 indicating a very low maturity level and 5 indicating a very high maturity level.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="business-needs">Business Needs</th>
+    <td>The necessary requirements, resources, or approaches an organization must identify and utilize to achieve its objectives through project implementation, operational changes, and procurement of goods and services.</td>
+  </tr>
 </tbody>
 </table>
     
@@ -154,6 +201,45 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+    <th scope="row" id="cpic">Capital Planning and Investment Control (CPIC)</th>
+    <td>A systematic approach to ensure IT investments align with overall business goals and deliver value.</td>
+  </tr>
+  <tr>
+      <th scope="row" id="c-index">C-Index</th>
+      <td>Assesses reporting entity conformance related to approximation of conformance to Section 508 standards. It measures how well reporting entities meet specific criteria within the Conformance dimension, using numerical values and weights for 16 criteria, including Q69a, Q71, Q74a, Q76, Q77, Q78, and Q80 to Q89. (See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>.) The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance levels.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="cfo-act-agency">CFO Act Agency</th>
+    <td><p>The 1990 CFO Act gave OMB new authority and responsibility for directing federal financial management, modernizing the government’s financial management systems, and strengthening financial reporting. This act applies to 24 departments and agencies. The 24 CFO Act Agencies include:</p>
+    <ol>
+      <li>Agency for International Development</li>
+      <li>Department of Agriculture</li>
+      <li>Department of Commerce</li>
+      <li>Department of Defense</li>
+      <li>Department of Education</li>
+      <li>Department of Energy</li>
+      <li>Department of Health and Human Services</li>
+      <li>Department of Homeland Security</li>
+      <li>Department of Housing and Urban Development</li>
+      <li>Department of the Interior</li>
+      <li>Department of Justice</li>
+      <li>Department of Labor</li>
+      <li>Department of State</li>
+      <li>Department of Transportation</li>
+      <li>Department of the Treasury</li>
+      <li>Department of Veterans Affairs</li>
+      <li>Environmental Protection Agency</li>
+      <li>General Services Administration</li>
+      <li>National Aeronautics and Space Administration </li>
+      <li>National Science Foundation</li>
+      <li>Nuclear Regulatory Commission</li>
+      <li>Office of Personnel Management</li>
+      <li>Small Business Administration</li>
+      <li>Social Security Administration</li>
+    </ol>
+    </td>
+  </tr>
+  <tr>
     <th scope="row" id="captcha">CAPTCHA</th>
     <td>Acronym for “Completely Automated Public Turing Test to tell Computers and Humans Apart."&nbsp; A Turing test is any system of tests designed to differentiate a human from a computer.</td>
   </tr>
@@ -161,25 +247,21 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="caret">Caret</th>
     <td>An on-screen indication of the text input focus in a text edit field.</td>
   </tr>
-  <tr>
-    <th scope="row" id="cart">Communication Access Realtime Translation (CART)</th>
-    <td>Live instant translation of the spoken word into text using a stenotype machine, notebook computer and realtime software. For CART services, search your agency intranet, or contact your agency <a href="http://www.gsa.gov/fedrelay">relay official</a>.</td>
-  </tr>
-  <tr>
+    <tr>
     <th scope="row" id= "css">Cascading Style Sheets (CSS)</th>
     <td>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;</td>
   </tr>
   <tr>
-    <th scope="row" id="client-side-image-map">Client-side image map</th>
-    <td>Each "active region" in a picture can be assigned its own "link" (called a URL or "Uniform Resource Locator") that specifies what&nbsp; to retrieve when a portion of the picture is selected. HyperText Markup Language (HTML) allows each active region to have its own alternative text, just like a picture can have alternative text.</td>
+    <th scope="row" id="category">Category</th>
+    <td>Or Overall Performance Category. Used to describe groupings of reporting entities that fall within each pairing of the Maturity and Conformance bracket. As there are five maturity brackets (ranging from Very Low to Very High) and five conformance brackets (also ranging from Very Low to Very High), there are 25 total Overall Performance Categories. These categories are always titled by Maturity first and Conformance second, i.e., Very Low-Very Low, Moderate - Low and so on.</td>
   </tr>
   <tr>
-    <th scope="row" id="closed-captions">Closed captions</th>
-    <td>Optional alternative text in a video or multimedia presentation; closed captions can be displayed and hidden by the user (see also: <a href="#open-captions">open captions</a>).</td>
+    <th scope="row" id=""></th>
+    <td></td>
   </tr>
   <tr>
-    <th scope="row" id="closed-functionality">Closed functionality</th>
-    <td>Characteristics that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so that users may not adjust settings due to a policy such as Desktop Core Configuration.</td>
+    <th scope="row" id="cart">Communication Access Realtime Translation (CART)</th>
+    <td>Live instant translation of the spoken word into text using a stenotype machine, notebook computer and realtime software. For CART services, search your agency intranet, or contact your agency <a href="http://www.gsa.gov/fedrelay">relay official</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="complex-data-table">Complex data table</th>
@@ -190,12 +272,25 @@ These terms appear throughout our website, communications, and reports, includin
     <td>When a <em>person or organization</em> meets all information and communication technology (ICT) legal requirements; for example, Section 508 of the Rehabilitation Act of 1973, as amended.</td>
   </tr>
   <tr>
+    <th scope="row" id="component">Component</th>
+    <td>Within the annual Section 508 Assessments, the use of “component,” “component agency,” and “component-level agency” broadly refers to the organizational unit below a department or large agency enterprise level. Agencies across government have different designations and terminology for these organizational units, including component, bureau, administration, office, operating division, agency, and subagency. For example: the Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY.</td>
+  </tr>
+  <tr>
     <th scope="row" id="conformance-section-508">Conformance (Section 508)</th>
     <td>When an electronic and information and communication technology (ICT) <em>product or service</em> meets all of the applicable standards; for example, where a webpage meets W3C WCAG 2.0, Level A and AA guidelines incorporated by reference in the Section 508 Standards.</td>
   </tr>
   <tr>
+    <th scope="row" id="conformance">Conformance</th>
+    <td><p>Refers to an <a href="#ict">electronic and information and communication technology (ICT)</a> product or service meeting all applicable standards outlined in the Section 508 Final Standards and Guidelines. This ensures that IT products and services, including websites, software, documents, and digital content, comply with accessibility requirements. For example, a webpage is Section 508 conformant when it fully meets all 38  WCAG 2.0 Level A and AA Success Criteria incorporated by reference in the standards.</p>
+    <p>The term also serves as a shorthand for operational conformance. See <a href="#operational-conformance">Operational Conformance</a> for full definition.</p></td>
+  </tr>
+  <tr>
     <th scope="row" id="content">Content</th>
     <td>Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="criteria">Criteria</th>
+    <td>Refers to the 103 Assessment criteria (See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>) that reporting entities responded to, split into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
   </tr>
 </tbody>
 </table>
@@ -223,6 +318,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="digital-service">Digital service</th>
     <td>Electronic delivery of information including content and data across various platforms and devices such as web or mobile.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="dimension">Dimension</th>
+    <td>Refers to the categorization of the 103 criteria into general questions, maturity questions and conformance questions. The Assessment criteria comprised 11 dimensions.</td>
   </tr>
   <tr>
     <th scope="row" id="disability">Disability</th>
@@ -346,6 +445,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A unit of frequency equal to one cycle per second.</td>
   </tr>
   <tr>
+    <th scope="row" id="high">High</th>
+    <td>Indicates that the maturity and conformance levels are considerably close to the desired standard. There is some improvement needed to optimize business functions and conformance to the Section 508 standards.</td>
+  </tr>
+  <tr>
     <th scope="row" id="hyperlink">Hyperlink</th>
     <td>A <a href="#url">URL</a> that, when selected, takes a user to a section in the same webpage, or to a different webpage.</td>
   </tr>
@@ -390,11 +493,40 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="ict">Information and Communication Technology (ICT)</th>
-    <td>Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents {Section 508, E103.4 Defined Terms}.</td>
+    <td><p>Information and Communication Technology, which is defined by the <a href="https://www.access-board.gov/ict/#E103.4" target="_blank" class="usa-link--external">Access Board in Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements in E103.4 Defined Terms Access Board</a> in E103.4 Defined Terms Access Board as “[i]nformation technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and, electronic documents.</p>
+    <p>"ICT accessibility" and "digital accessibility" may be used interchangeably.</p></td>
   </tr>
   <tr>
     <th scope="row" id="it">Information Technology (IT)</th>
-    <td>Has the same meaning as the term “information technology” set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank">40 U.S.C. 11101(6)</a>.</td>
+    <td><p><strong>Definition 1:</strong> IT means “information technology” as set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank">40 U.S.C. 11101(6)</a>.</p>
+    <p><strong>Definition 2:</strong> Within the annual Section 508 Assessments:  
+      <ol type="A">
+        <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
+          <ol type="i">
+            <li>of that equipment.</li>
+            <li>of that equipment to a significant extent in the performance of a service or the furnishing of a product.</li>
+          </ol>
+        </li>
+        <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
+        <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
+      </ol>
+    </p>
+    </td>
+  </tr>
+    <tr>
+      <th scope="row" id="information-technology">Information Technology</th>
+      <td>
+        <ol type="A">
+          <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
+            <ol type="i">
+              <li>of that equipment.</li>
+              <li>of that equipment to a significant extent in the performance of a service or the furnishing of a product.</li>
+            </ol>
+          </li>
+          <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
+          <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
+        </ol>
+      </td>
   </tr>
   <tr>
     <th scope="row" id="interactive-element">Interactive element</th>
@@ -474,6 +606,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="listserv">Listserv</th>
     <td>An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank">manage your listserv subscription</a>.</td>
   </tr>
+  <tr>
+    <th scope="row" id="low">Low</th>
+    <td>Suggests the maturity or conformance is below the desired standard but not as far from it as “Very Low.” There’s room for improvement in multiple areas and improvements most likely will be multifaceted.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -489,13 +625,37 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+      <th scope="row" id="m-index">M-Index</th>
+      <td>A measure of a reporting entity’s Section 508 Program maturity. It assesses reporting entity responses to criteria across 9 dimensions, including various aspects of their IT Accessibility Program. The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high maturity levels.</td>
+  </tr>
+  <tr>
+      <th scope="row" id="machine-learning">Machine-learning</th>
+      <td>Described as a subset of AI where algorithms improve automatically through experience. It is relevant in the context of accessibility tools and analytics in government operations.</td>
+  </tr>
+  <tr>
+      <th scope="row" id="maturity">Maturity</th>
+      <td>A shorthand way of referring to business function maturity. See business function maturity for full definition.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="mechanism">Mechanism</th>
+    <td>In the annual Section 508 Assessments, this term broadly refers to the system, process, or method a reporting entity uses to track ICT accessibility defects. It may include tools, procedures, or workflows designed to identify, monitor, and manage accessibility issues.</td>
+  </tr>
+  <tr>
     <th scope="row" id="menu">Menu</th>
     <td>A set of selectable options</td>
+  </tr>
+  <tr>
+      <th scope="row" id="metric">Metric</th>
+      <td>Refers to the 103 Assessment criteria that reporting entities responded to, split out into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content reporting entities responded to.</td>
   </tr>
   <tr>
     <th scope="row" id="micro-purchase">Micro-purchase</th>
     <td><p>As defined in the <a href="https://www.acquisition.gov/far/part-2/#FAR_2_101__d75e1694" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>, a micro-purchase is an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.</p>
       <p>The micro-purchase threshold is $10,000. Always check FAR Subpart 2.2 for the current micro-purchase threshold information and any exceptions that may apply to your procurement.</p></td>
+  </tr>
+  <tr>
+      <th scope="row" id="moderate">Moderate</th>
+      <td>Signifies the maturity or conformance is average. It meets some standards but still has room for enhancement in certain areas across maturity or conformance.</td>
   </tr>
   <tr>
     <th scope="row" id="multimedia">Multimedia (synchronized media)</th>
@@ -518,6 +678,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="name">Name</th>
     <td>Text used by software to identify a component for the user. A name may be hidden and only exposed by assistive technology, whereas a label is presented to all users. In many cases, the label and the name are the same. Name is unrelated to the name attribute in HTML.</td>
+  </tr>
+  <tr>
+      <th scope="row" id="nlp">Natural Language Processing</th>
+      <td>Defined as a field of <a href="#ai">AI</a> focused on the interaction between computers and human language, important for speech recognition and accessibility software.</td>
   </tr>
   <tr>
     <th scope="row" id="non-text-element">Non-text element</th>
@@ -553,6 +717,15 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="operable-controls">Operable controls</th>
     <td>A product component that requires physical contact to operate. Operable controls include, but are not limited to, mechanically operated controls, input and output trays, card slots, keyboards, and keypads.</td>
   </tr>
+  <tr>
+      <th scope="row" id="operational-conformance">Operational Conformance</th>
+      <td>Operational Conformance, or simply “<a href="#conformance">Conformance</a>” in the annual Section 508 Assessments, approximates how effectively reporting entities adhere to the relevant requirements for Section 508. It is measured by the conformance index or “c-index,” which assesses a reporting entity conformance by quantifying their responses to criteria within the Conformance dimension&mdash;assigning numerical values and weights to determine overall conformance. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/annual-reports/" target="_blank" class="usa-link--external">Assessment Reports</a>. 
+      </td>
+  </tr>
+  <tr>
+      <th scope="row" id="overall-performance">Overall performance</th>
+      <td>See also Category, which is used interchangeably. Used to describe groupings of reporting entities that fall within each pairing of the Maturity and Conformance bracket. As there are five maturity brackets ranging from Very Low to Very High and five conformance brackets, also ranging from Very Low to Very High, there are 25 total Overall Performance Categories. These categories are always titled by Maturity first and Conformance second, i.e., Very Low-Very Low, Moderate - Low, and so on.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -567,6 +740,10 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <th scope="row" id="parenthetical-title">Parenthetical Title</th>
+    <td>Term referring to the sub-specialty of a job series, as defined by OPM in position description development guidance.</td>
+  </tr>
   <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>
     <td>Services provided by a platform that enables interoperability with assistive technology. Examples include Application Programming Interfaces (API) and the Document Object Model (DOM).</td>
@@ -613,6 +790,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="quality-assurance">Quality Assurance (QA)</th>
     <td>An activity to ensure an organization provides the best possible product or service to customers, often based on standardized testing methods.</td>
   </tr>
+  <tr>
+    <th scope="row" id="questions">Question</th>
+    <td>Refers to the 103 Assessment criteria reporting entities responded to, split out into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -634,6 +815,15 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="rcc">Relay Conference Captioning (RCC)</th>
     <td>An internet-based technology offering real-time captioning; enables federal employees who are deaf or hard of hearing to join and participate in web and teleconference calls.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="reporting-entity">Reporting Entity</th>
+    <td>
+        <p>Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. Thus, reporting entities are loosely based on:</p>
+        <p>“Agency,” which broadly applied to organizational components such as bureau, office, component, or at the department level (e.g., headquarters).</p>
+        <p>“Component,” which broadly applies to an organizational unit below (usually one level) a Department or large agency enterprise level. For example:</p>
+        <p>The Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY.</p>
+    </td>
   </tr>
   <tr>
     <th scope="row" id="revised-508-standards">Revised 508 Standards</th>
@@ -702,8 +892,12 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Software for which the primary function is the development of other software. Software tools usually come in the form of an Integrated Development Environment (IDE), and are a suite of related products and utilities. Examples of IDEs include Microsoft® Visual Studio®, Apple® Xcode®, and Eclipse Foundation Eclipse®.</td>
   </tr>
   <tr>
+      <th scope="row" id="srt">SRT</th>
+      <td>SRT stands for <a href="{{site.baseurl}}/buy/solicitation-review-tool/" target="_blank" class="usa-link--external">Solicitation Review Tool</a>, which is a GSA-developed tool built using open source technology, artificial intelligence (AI), natural language processing, text mining, and machine learning algorithms to automatically identify whether new solicitations posted to “Contracting Opportunities” (beta. SAM.gov) are solicitations for ICT.</td>
+  </tr>
+  <tr>
     <th scope="row" id="stylesheets">Style sheets</th>
-    <td>A simple mechanism for customizing webpage formats (defining fonts, colors of titles, paragraph spacing, etc.) to create a separation of presentation and content.</td>
+    <td>"Mechanism" broadly refers to a system, process, or method that the reporting entity uses to track ICT accessibility defects. It could include tools, procedures, or workflows to achieve this.</td>
   </tr>
   <tr>
     <th scope="row" id="synchronized-captions">Synchronized captions</th>
@@ -832,6 +1026,14 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Non-interactive electronic signs with scrolling, streaming, or paging-down capability. An example of a VMS is an electronic message board at a transit station that displays gate and arrival time information.</td>
   </tr>
   <tr>
+      <th scope="row" id="very-high">Very High</th>
+      <td>Represents the highest level of maturity or conformance, signifying that it aligns closely with the desired standard in most areas across maturity and/or conformance.</td>
+  </tr>
+  <tr>
+      <th scope="row" id="very-low">Very Low</th>
+      <td>Indicates the maturity or conformance level is significantly below the desired standard, requiring substantial improvements in multiple areas across maturity and conformance.</td>
+  </tr>
+  <tr>
     <th scope="row" id="video-only">Video-only (pre-recorded)</th>
     <td>An alternative for an audio track, or time-based media that presents equivalent information for prerecorded, video-only content.</td>
   </tr>
@@ -841,7 +1043,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="vpat">Voluntary Product Accessibility Template (VPAT&reg;)</th>
-    <td>A document template established by the Information Technology Industry (ITI) Council which evaluates how accessible a particular product is, according to Section 508 Standards. Vendors use this template to produce a self-disclosing document, called an Accessibility Conformance Report (ACR), which details each aspect of the Section 508 requirements and how the product supports each criteria. ACRs, based on VPAT&reg;, are used by buyers to understand how accessible a product is, and any potential deficiencies.</td>
+    <td>A document template established by the Information Technology Industry (ITI) Council to evaluate the accessibility of a product according to Section 508 Standards. Vendors use the VPAT® to create a self-disclosing document called an Accessibility Conformance Report (ACR), which details how the product meets each Section 508 requirement and identifies any potential deficiencies. The Voluntary Product Accessibility Template (VPAT®) serves as a standardized reporting format that helps buyers and sellers assess the accessibility features of information and communications technology (ICT) products and services.</td>
   </tr>
 </tbody>
 </table>

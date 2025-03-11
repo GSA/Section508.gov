@@ -38,5 +38,5 @@ For more information on upcoming office hours, visit [Events][5].
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
 [3]: {{site.baseurl}}/manage/section-508-assessment/faq/
-[4]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
+[4]: {{site.baseurl}}/tools/glossary/
 [5]: {{site.baseurl}}/events/

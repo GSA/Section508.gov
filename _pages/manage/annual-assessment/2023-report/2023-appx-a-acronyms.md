@@ -15,7 +15,7 @@ audience:
 resource-type: "White paper"
 format: "HTML (html)"
 ---
-The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
+The following acronyms are used in this 2023 Assessment report to Congress. Definitions for many of these terms are included in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
 
 <table class="usa-table usa-table--borderless striped">	
 <caption>Table A2. List of acronyms and full terms</caption>	

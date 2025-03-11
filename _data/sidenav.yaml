@@ -197,7 +197,7 @@ manage:
       - name: Support
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
-        url: manage/section-508-assessment/definition-of-terms/
+        url: tools/glossary/
       - name: Annual Reports
         url: 'manage/section-508-assessment/annual-reports/'
   - name: Agency Section 508 Reporting Requirements
@@ -687,7 +687,7 @@ report2023:
     url: '#'            
     children:
       - name: 'Terms and Definitions'
-        url: 'manage/section-508-assessment/2023/appendix-a-terms/'
+        url: 'tools/glossary/'
       - name: 'Acronyms List'
         url: 'tools/acronyms-abbreviations/'
         external: true
@@ -766,7 +766,7 @@ report2024:
     url: '#'            
     children:
       - name: 'Terms and Definitions'
-        url: 'manage/section-508-assessment/2024/appendix-a-terms/'
+        url: 'tools/glossary/'
       - name: 'Acronyms List'
         url: 'tools/acronyms-abbreviations/'
   - name: 'Appendix B: Methods'

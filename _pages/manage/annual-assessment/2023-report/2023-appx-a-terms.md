@@ -15,7 +15,7 @@ audience:
 resource-type: "White paper"
 format: "HTML (html)"
 ---
-The following terms are used in this 2023 Assessment report to Congress. Additional terms and definitions used within instructions and criteria are available at [Section 508 Assessment Definition of Terms]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/).
+The following terms are used in this 2023 Assessment report to Congress. Additional terms and definitions used within instructions and criteria are available at [Section 508 Assessment Definition of Terms]({{site.baseurl}}/tools/glossary/).
 
 <table class="usa-table usa-table--borderless striped">
 <caption>Table A1. List of terms and definitions.</caption>

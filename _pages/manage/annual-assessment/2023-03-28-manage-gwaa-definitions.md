@@ -155,7 +155,7 @@ with the President’s 24 E-Gov Initiatives (M-04-08) (PDF)</a>.
 
 - <span id="ict-accessibility"><strong>ICT accessibility:</strong></span> Term used interchangeably with Section 508 standards, IT accessibility, and the Web Content Accessibility Guidelines, but could also refer to the accessibility of ICT in more general terms than only conformance to particular accessibility standards.
 
-- <span id="internet"><strong>Internet:</strong></span> A network of information accessible by the public. For the purposes of this assessment, [extranet]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/#sectionE) should be reported under internet-related questions.  
+- <span id="internet"><strong>Internet:</strong></span> A network of information accessible by the public. For the purposes of this assessment, [extranet]({{site.baseurl}}/tools/glossary/#e) should be reported under internet-related questions.  
 
 - <span id="intranet"><strong>Intranet:</strong></span> A private or internal network within an organization used for but not limited to: a central repository, collaboration, communication, access to information, social networking, project management, and streamlining of everyday activities and operations.
 
@@ -163,7 +163,7 @@ with the President’s 24 E-Gov Initiatives (M-04-08) (PDF)</a>.
   <span id="sectionK">K</span>
 </h2>
 
-- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality]({{site.baseurl}}/manage/section-508-assessment/definition-of-terms/#sectionC) device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.
+- <span id="kiosk"><strong>Kiosk:</strong></span> A [closed functionality]({{site.baseurl}}/tools/glossary/#c) device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.
 
 <h2>
   <span id="sectionL">L</span>
