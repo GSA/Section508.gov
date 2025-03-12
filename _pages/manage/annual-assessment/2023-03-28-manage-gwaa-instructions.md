@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/
 type: manage
+permalink: manage/section-508-assessment/
 title: "Government-wide Section 508 Assessment"
-redirect_from:
-- section-508-assessment/
+description: Discover how federal agencies assess Section 508 compliance to ensure accessible technology for individuals with disabilities. Access reports and data on federal agencies' compliance with Section 508, highlighting progress and areas for improvement in digital accessibility.
 topic: "Manage (program)"
 sub-topic: "Reporting"
 audience:
@@ -16,9 +15,15 @@ audience:
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Long form article"
 format: "HTML (html)"
+created: 2023-03-28
+updated: 2025-03-12
+redirect_from:
+- section-508-assessment/
 ---
-
 ## Assessment Requirement
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+The FY25 Governmentwide Section 508 Assessment criteria are being finalized and will include some updates. In the meantime, we recommend reviewing the FY24 criteria, along with related guidance and FAQs, to understand the types of criteria and information requested in past assessments. While some changes are expected, this will help you prepare for the release of the new criteria.
+</div>
 
 Section 508 of the Rehabilitation Act, codified at 29 U.S.C. § 794d, requires Federal departments and agencies and the United States Postal Service (hereinafter, “agencies”) to develop, procure, maintain, or use information and communications technology (ICT) that is accessible to people with disabilities and to give Federal employees contractors and members of the public with disabilities access to information comparable to the access available to those without disabilities.<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 
