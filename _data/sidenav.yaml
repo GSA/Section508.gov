@@ -690,7 +690,6 @@ report2023:
         url: 'tools/glossary/'
       - name: 'Acronyms List'
         url: 'tools/acronyms-abbreviations/'
-        external: true
   - name: 'Appendix B: Federal Initiatives and Resources on ICT Accessibility'
     url: 'manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/'
   - name: 'Appendix C: Methods'
