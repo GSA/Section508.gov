@@ -20,7 +20,7 @@ redirect_from:
 - manage/section-508-assessment/2023/appendix-a-terms/
 - manage/section-508-assessment/2024/appendix-a-terms/
 created: 2020-02-27
-updated: 2025-03-10
+updated: 2025-03-12
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -42,7 +42,7 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="access-board">Access Board</th>
-    <td>See <a href="#us-access-board">U.S. Access Board</a></td>
+    <td>See <a href="#us-access-board">U.S. Access Board (USAB)</a></td>
   </tr>
   <tr>
     <th scope="row" id="acr">Accessibility Conformance Report (ACR)</th>
@@ -76,7 +76,7 @@ These terms appear throughout our website, communications, and reports, includin
     </td>
   </tr>
   <tr>
-    <th scope="row" id="agency-official-communications">Agency Official Communications</th>
+    <th scope="row" id="agency-official-communications">Agency Official Communications (AOC)</th>
     <td>Electronic content that is not public facing shall conform to the accessibility requirements specified in <a href="https://www.access-board.gov/ict/#E205.4" target="_blank" class="usa-link--external">E205</a> when such content constitutes official business and is communicated by an agency through one or more of the following:
     <ol type="A">
       <li>An emergency notification;</li>
@@ -113,7 +113,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="andi">ANDI</th>
-    <td>The Accessible Name and Description Inspector (ANDI) developed by the Social Security Administration; the manual inspection tool used in version 5 of the Department of Homeland Security’s Trusted Tester evaluation process.</td>
+    <td>The <a href="https://www.ssa.gov/accessibility/andi/help/install.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI)</a> developed by the Social Security Administration; the manual inspection tool used in version 5 of the Department of Homeland Security’s Trusted Tester evaluation process.</td>
   </tr>
   <tr>
     <th scope="row" id="applet">Applet</th>
@@ -128,7 +128,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A system of tools and resources in an operating system, enabling developers to create software applications.</td>
   </tr>
   <tr>
-    <th scope="row" id="artificial-intelligence">Artificial Intelligence</th>
+    <th scope="row" id="artificial-intelligence">Artificial Intelligence (AI)</th>
     <td>Refers to the simulation of human intelligence processes by machines, especially computer systems.</td>
   </tr>
   <tr>
@@ -603,9 +603,8 @@ These terms appear throughout our website, communications, and reports, includin
     <td></td>
   </tr>
   <tr>
-    <th scope="row" id="it">Information Technology (IT)</th>
-    <td><p><strong>Definition 1:</strong> IT means “information technology” as set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank" class="usa-link--external">40 U.S.C. 11101(6)</a>.</p>
-    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessments:  
+    <th scope="row" id="information-technology">Information Technology (IT)</th>
+    <td>
       <ol type="A">
         <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
           <ol type="i">
@@ -616,23 +615,7 @@ These terms appear throughout our website, communications, and reports, includin
         <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
         <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
       </ol>
-    </p>
     </td>
-  </tr>
-    <tr>
-      <th scope="row" id="information-technology">Information Technology</th>
-      <td>
-        <ol type="A">
-          <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
-            <ol type="i">
-              <li>of that equipment.</li>
-              <li>of that equipment to a significant extent in the performance of a service or the furnishing of a product.</li>
-            </ol>
-          </li>
-          <li>Includes computers; ancillary equipment including imaging peripherals, input, output, and storage devices necessary for security and surveillance; peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures; services including support services; and related resources.</li>
-          <li>Does not include any equipment acquired by a federal contractor incidental to a federal contract.</li>
-        </ol>
-      </td>
   </tr>
   <tr>
     <th scope="row" id="interactive-element">Interactive element</th>

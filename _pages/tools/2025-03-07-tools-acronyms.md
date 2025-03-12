@@ -28,7 +28,7 @@ redirect_from:
 - manage/section-508-assessment/2023/appendix-a-acronyms/
 - manage/section-508-assessment/2024/appendix-a-acronyms/
 created: 2025-03-07
-updated: 
+updated: 2025-03-12
 ---
 These acronyms and abbreviations appear throughout our website, communications, and reports, including the appendices of the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Many are defined in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
 
@@ -59,7 +59,15 @@ These acronyms and abbreviations appear throughout our website, communications, 
     </tr>
     <tr>
         <th scope="row" id="andi">ANDI</th>
-        <td>Accessible Name and Description Inspector</td>
+        <td><a href="{{site.baseurl}}/tools/glossary/#andi">Accessible Name and Description Inspector</a></td>
+    </tr>
+    <tr>
+    <th scope="row" id="aoc">AOC</th>
+        <td><a href="{{site.baseurl}}/tools/glossary/#agency-official-communications">Agency Official Communications</a></td>
+    </tr>
+    <tr>
+    <th scope="row" id="ai">AI</th>
+      <td>Artificial Intelligence</td>
     </tr>
     <tr>
         <th scope="row" id="api">API</th>
@@ -86,6 +94,14 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Chief Acquisition Officer</td>
     </tr>
     <tr>
+      <th scope="row" id="captcha">CAPTCHA</th>
+      <td>Completely Automated Public Turing Test to tell Computers and Humans Apart</td>
+    </tr>
+    <tr>
+      <th scope="row" id="cart">CART</th>
+      <td>Communication Access Realtime Translation</td>
+    </tr>
+    <tr>
         <th scope="row" id="cfo">CFO</th>
         <td>Chief Financial Officer</td>
     </tr>
@@ -107,7 +123,7 @@ These acronyms and abbreviations appear throughout our website, communications, 
     </tr>
     <tr>
         <th scope="row" id="cop">CoP</th>
-        <td>Community of Practice</td>
+        <td>Community of Practice, and Continuity of Operations</td>
     </tr>
     <tr>
         <th scope="row" id="cor">COR</th>
@@ -118,12 +134,20 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Contracting Officer's Technical Representative</td>
     </tr>
     <tr>
+      <th scope="row" id="">CPIC</th>
+      <td>Capital Planning and Investment Control </td>
+    </tr>
+    <tr>
         <th scope="row" id="csun">CSUN</th>
         <td>California State University, Northridge</td>
     </tr>
     <tr>
-        <th scope="row" id="csv">CSV</th>
-        <td>Comma-Separated Values</td>
+      <th scope="row" id="css">CSS</th>
+      <td>Cascading Style Sheets</td>
+    </tr>
+    <tr>
+      <th scope="row" id="csv">CSV</th>
+      <td>Comma-Separated Values</td>
     </tr>
     <tr>
         <th scope="row" id="cx">CX</th>
@@ -154,6 +178,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Equal Employment Opportunity Commission</td>
     </tr>
     <tr>
+      <th scope="row" id="eit">EIT</th>
+      <td>Electronic and Information Technology, superseded by <a href="#ict">ICT</a></td>
+    </tr>
+    <tr>
         <th scope="row" id="eo">EO</th>
         <td>Executive Order</td>
     </tr>
@@ -178,6 +206,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Federal Acquisition Service</td>
     </tr>
     <tr>
+      <th scope="row" id="fpc">FPC</th>
+      <td>Functional Performance Criteria</td>
+    </tr>
+    <tr>
         <th scope="row" id="fte">FTE</th>
         <td>Full-time equivalent</td>
     </tr>
@@ -188,6 +220,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
     <tr>
         <th scope="row" id="gao">GAO</th>
         <td>Government Accountability Office</td>
+    </tr>
+    <tr>
+      <th scope="row" id="cots">GOTS</th>
+      <td>Government off-the-shelf</td>
     </tr>
     <tr>
         <th scope="row" id="gsa">GSA</th>
@@ -282,12 +318,24 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Refers to “Criteria.” Using a Q in front of a number denotes a specific criteria, also referred to as “Questions” or “Metrics.”</td>
     </tr>
     <tr>
+      <th scope="row" id="qa">QA</th>
+      <td>Quality Assurance</td>
+    </tr>
+    <tr>
         <th scope="row" id="r2">R<sup>2</sup></th>
         <td>Coefficient of Determination (Statistical measure used in regression analysis)</td>
     </tr>
     <tr>
         <th scope="row" id="rfc">RFC</th>
         <td>Request for Comments</td>
+    </tr>
+    <tr>
+      <th scope="row" id="">RTT</th>
+      <td>Real-Time Text</td>
+    </tr>
+    <tr>
+      <th scope="row" id="seo">SEO</th>
+      <td>Search Engine Optimization</td>
     </tr>
     <tr>
         <th scope="row" id="sme">SME</th>
@@ -306,12 +354,32 @@ These acronyms and abbreviations appear throughout our website, communications, 
         <td>Social Security Administration</td>
     </tr>
     <tr>
+      <th scope="row" id="sso">SSO</th>
+      <td>Single Sign On</td>
+    </tr>
+    <tr>
         <th scope="row" id="ttv5">TT v5</th>
         <td>Trusted Tester Process Version 5</td>
     </tr>
     <tr>
+      <th scope="row" id="">TTY</th>
+      <td>Teletypewriter</td>
+    </tr>
+    <tr>
+      <th scope="row" id="usab">USAB</th>
+      <td>United States Access Board</td>
+    </tr>
+    <tr>
+      <th scope="row" id="">UAT</th>
+      <td>User Acceptance Testing</td>
+    </tr>
+    <tr>
         <th scope="row" id="uk">UK</th>
         <td>United Kingdom</td>
+    </tr>
+    <tr>
+      <th scope="row" id="url">URL</th>
+      <td>Uniform Resource Locator </td>
     </tr>
     <tr>
         <th scope="row" id="va">VA</th>
@@ -324,6 +392,10 @@ These acronyms and abbreviations appear throughout our website, communications, 
     <tr>
         <th scope="row" id="w3c">W3C</th>
         <td>World Wide Web Consortium</td>
+    </tr>
+    <tr>
+      <th scope="row" id="wcag">WCAG</th>
+      <td>Web Content Accessibility Guidelines</td>
     </tr>
     <tr>
         <th scope="row" id="wai">WAI</th>
