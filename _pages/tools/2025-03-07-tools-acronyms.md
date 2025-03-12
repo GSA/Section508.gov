@@ -30,7 +30,7 @@ redirect_from:
 created: 2025-03-07
 updated: 2025-03-12
 ---
-These acronyms and abbreviations appear throughout our website, communications, and reports, including the appendices of the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Many are defined in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
+These acronyms and abbreviations appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Many are defined in [Terms and Definitions]({{site.baseurl}}/tools/glossary/).
 
 <table class="usa-table usa-table--borderless striped">	
 <caption>Table 1. List of acronyms and full terms</caption>	
