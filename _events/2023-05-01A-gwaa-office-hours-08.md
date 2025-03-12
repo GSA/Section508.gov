@@ -34,6 +34,6 @@ This virtual meeting is supported by Microsoft Teams. Please feel free to attend
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
 [4]: {{site.baseurl}}/manage/section-508-assessment/faq/
-[5]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
+[5]: {{site.baseurl}}/tools/glossary/
 [6]: {{site.baseurl}}/events/
 [7]: https://teams.microsoft.com/registration/9ZNg_F7lk0-yzybQgiIByQ,XW44C1SSm0iZnv-orU953g,UY57odKjB0Sk60-gfI-uPg,j0SGLB34y0masNHZeXiyUg,Z5CDSUV2xkOdacQvyGc-WA,JSr-6MpNDUW1mSbnYra1hQ?mode=read&tenantId=fc6093f5-e55e-4f93-b2cf-26d0822201c9

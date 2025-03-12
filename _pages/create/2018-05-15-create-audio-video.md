@@ -29,7 +29,7 @@ To make video-only digital content accessible, provide either a text description
 Synchronized media, also referred to as multimedia or "video," combines several media, such as audio and visual, to convey information and must conform to different standards than audio-only and video-only media. For more information, see [Synchronized Media]({{site.baseurl}}/create/synchronized-media/).
 
 ## Media Players
-Digital media content, whether audio-only, video-only, or synchronized media requires a way to control the playback of that media. These media players must be tested to ensure they are accessible to people with disabilities and conform with applicable Section 508 Standards. For more information, see [Guide to Accessible Web Design & Development, Timed Events]({{site.baseurl}}/content/guide-accessible-web-design-development/#timed_events}}).
+Digital media content, whether audio-only, video-only, or synchronized media requires a way to control the playback of that media. These media players must be tested to ensure they are accessible to people with disabilities and conform with applicable Section 508 Standards. For more information, see [Guide to Accessible Web Design & Development, Timed Events]({{site.baseurl}}/develop/guide-accessible-web-design-development/#timed_events}}).
 
 **Reviewed/Updated:** May 2024
 

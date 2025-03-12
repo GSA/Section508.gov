@@ -44,7 +44,7 @@ Below is a pre-publishing checklist web content managers should use before consi
             <li><strong>If no</strong>, move on to step No. 4.</li>
         </ol>
     </li>
-    <li><strong>Determine if the content is <a href="https://www.section508.gov/content/glossary/#sectionA"> agency official communication</a></strong>.
+    <li><strong>Determine if the content is <a href="{{site.baseurl}}/tools/glossary/#a"> agency official communication</a></strong>.
         <ol type="a">
             <li><strong>If not and it is not public facing,</strong> Section 508 standards do not apply, but other policies or requirements may; review relevant internal policies.</li>
             <li><strong>If yes</strong>, ensure all relevant Section 508 standards are met prior to publication.</li>

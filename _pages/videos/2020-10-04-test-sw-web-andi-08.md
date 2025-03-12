@@ -96,5 +96,5 @@ In Module: 8 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
 
 **Reviewed/Updated**: January 2025
 
- [1]: {{site.baseurl}}/content/glossary#programmatically-determinable
- [2]: {{site.baseurl}}/content/glossary#user-agent
+ [1]: {{site.baseurl}}/tools/glossary/#programmatically-determinable
+ [2]: {{site.baseurl}}/tools/glossary/#user-agent

@@ -99,8 +99,8 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/authoring-guides/)
 * [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
 * Vocabulary
-  * [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
-  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/content/glossary/#vpat)
+  * [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
+  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/tools/glossary/#vpat)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>

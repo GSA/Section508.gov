@@ -92,7 +92,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * <a href="https://www.justice.gov/crt/section-508-home-page-0" target="_blank" class="usa-link--external">DOJ Biannual Report to Congress and the President</a>
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
 * <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Accessibility Testing Baseline</a>
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
 * [Section 508: What Is It and Why Is It Important?]({{site.baseurl}}/training/online-course/section-508-what-is-it-and-why-its-important/)
 * [Section 508 of the Rehabilitation Act, as amended]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)

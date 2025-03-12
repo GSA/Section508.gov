@@ -31,7 +31,7 @@ To better understand and address the need for accessible ICT within the federal 
 On December 29, 2022, the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank">Consolidated Appropriations Act, 2023</a> became law. It mandated new requirements for OMB, GSA, and the Access Board to collect and report on federal agency data on ICT accessibility.
 
 ### Consolidated Appropriations Act, 2023 Section 752
-To meet the requirements of (a)(2)(B), “[agency]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-a-terms/#agency)” has been defined to mean federal department, component-level, and independent agencies subject to Section 508 of the Rehabilitation Act. Throughout this document, “[reporting entity]({{site.baseurl}}/manage/section-508-assessment/2023/appendix-a-terms/#reporting-entity)” is used to denote respondents to this Assessment.
+To meet the requirements of (a)(2)(B), “[agency]({{site.baseurl}}/tools/glossary/#agency)” has been defined to mean federal department, component-level, and independent agencies subject to Section 508 of the Rehabilitation Act. Throughout this document, “[reporting entity]({{site.baseurl}}/tools/glossary/#reporting-entity)” is used to denote respondents to this Assessment.
 
 OMB, in close coordination with GSA, the Access Board, OSTP, and the DOJ developed the 105 Assessment criteria used to evaluate reporting entity Section 508 compliance. In tandem, GSA gathered feedback from the broader federal ICT accessibility community to refine Assessment instructions and criteria. GSA also developed additional context for understanding the criteria, Frequently Asked Questions (FAQs), and defining terms to help reporting entities collect data for the Assessment.
 

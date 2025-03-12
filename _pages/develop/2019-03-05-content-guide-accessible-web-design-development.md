@@ -1,7 +1,7 @@
 ---
-layout: wide
-sidenav: false
-permalink: content/guide-accessible-web-design-development/
+layout: page
+sidenav: true
+permalink: develop/guide-accessible-web-design-development/
 type: develop
 title: 'Guide to Accessible Web Design & Development'
 created: 1551819388
@@ -17,6 +17,8 @@ audience:
 - "Designer (design)"
 resource-type: "Long form article"
 format: "HTML (html)"
+redirect_from:
+- content/guide-accessible-web-design-development/
 ---
 
 Do you know how to create accessible digital products and services? This guide recaps relevant [Web Content Accessibility Guidelines (WCAG)][1]requirements and calls out specific considerations for content, design, and development. It also clarifies how developers should work together with designers and content creators to ensure that federal websites and digital products meet the [Revised 508 Standards][2].

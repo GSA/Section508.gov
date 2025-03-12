@@ -96,4 +96,4 @@ Note: This ANDI module is not used to test visual focus.
 
 **Reviewed/Updated**: January 2025
 
-[1]: {{site.baseurl}}/content/glossary#interactive-element
+[1]: {{site.baseurl}}/tools/glossary/#interactive-element
