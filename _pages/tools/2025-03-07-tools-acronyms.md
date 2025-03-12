@@ -24,6 +24,9 @@ subtopic:
 resource_type: 
 - article
 format: html
+redirect_from:
+- manage/section-508-assessment/2023/appendix-a-acronyms/
+- manage/section-508-assessment/2024/appendix-a-acronyms/
 created: 2025-03-07
 updated: 
 ---

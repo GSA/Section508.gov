@@ -16,6 +16,9 @@ resource-type: "Tool (tool)"
 format: "HTML (html)"
 redirect_from:
 - content/glossary/
+- manage/section-508-assessment/definition-of-terms/
+- manage/section-508-assessment/2023/appendix-a-terms/
+- manage/section-508-assessment/2024/appendix-a-terms/
 created: 2020-02-27
 updated: 2025-03-10
 ---
@@ -67,8 +70,8 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="agency">Agency</th>
-    <td><p><strong>Definition 1:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank">44 U.S.C. 3502</a>, and the United States Postal Service. {Section 508, E103.4}</p>
-    <p><strong>Definition 2:</strong> Within the annual Section 508 Assessment report, "agency" includes any federal department, component- level, and independent agencies subject to Section 508 of the Rehabilitation Act; generally used where this report offers recommendations and shares GSA efforts to increase Section 508 compliance.</p>
+    <td><p><strong>Definition 1:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 U.S.C. 3502</a>, and the United States Postal Service.</p>
+    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, "agency" includes any federal department, component- level, and independent agencies subject to Section 508 of the Rehabilitation Act; generally used where this report offers recommendations and shares GSA efforts to increase Section 508 compliance.</p>
     <p>This report uses the term “reporting entity” rather than "agency" or "component" as traditionally defined because reporting entity Section 508 Programs may be organized and function outside of these traditional definitions; generally used for data-driven findings, observations and overall performance category recommendations.</p>
     </td>
   </tr>
@@ -168,7 +171,7 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="baseline">Baseline</th>
-    <td>A minimum or starting point used for comparisons (see also <a href="#ict-testing-baseline">ICT Testing Baseline</a>).</td>
+    <td>A minimum or starting point used for comparisons (See <a href="#ict-testing-baseline">ICT Testing Baseline</a>).</td>
   </tr>
   <tr>
     <th scope="row" id="bitmap-image">Bitmap image</th>
@@ -201,12 +204,32 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+      <th scope="row" id="c-index">C-Index</th>
+      <td>For the purposes of the annual Section 508 Assessment report, assesses reporting entity conformance related to approximation of conformance to Section 508 standards. It measures how well reporting entities meet specific criteria within the Conformance dimension&mdash;using numerical values and weights for criteria. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under <a href="{{site.baseurl}}/manage/section-508-assessment/annual-reports/" target="_blank" class="usa-link--external">Assessment Reports</a>. The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance levels.</td>
+  </tr>
+  <tr>
     <th scope="row" id="cpic">Capital Planning and Investment Control (CPIC)</th>
     <td>A systematic approach to ensure IT investments align with overall business goals and deliver value.</td>
   </tr>
   <tr>
-      <th scope="row" id="c-index">C-Index</th>
-      <td>Assesses reporting entity conformance related to approximation of conformance to Section 508 standards. It measures how well reporting entities meet specific criteria within the Conformance dimension, using numerical values and weights for 16 criteria, including Q69a, Q71, Q74a, Q76, Q77, Q78, and Q80 to Q89. (See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>.) The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high conformance levels.</td>
+    <th scope="row" id="captcha">CAPTCHA</th>
+    <td>Acronym for “Completely Automated Public Turing Test to tell Computers and Humans Apart." A Turing test, originally called the "imitation game" by English mathematician and cryptanalyst Alan Turing, is any system of tests designed to differentiate a human from a computer.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="">Captions</th>
+    <td>See <a href="#closed-captions">Closed Captions</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="caret">Caret</th>
+    <td>An on-screen indication of the text input focus in a text edit field.</td>
+  </tr>
+    <tr>
+    <th scope="row" id= "css">Cascading Style Sheets (CSS)</th>
+    <td>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank" class="usa-link--external">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank" class="usa-link--external">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank" class="usa-link--external">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank" class="usa-link--external">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank" class="usa-link--external">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row" id="category">Category</th>
+    <td>Or Overall Performance Category. Used to describe groupings of reporting entities that fall within each pairing of the Maturity and Conformance bracket. As there are five maturity brackets (ranging from Very Low to Very High) and five conformance brackets (also ranging from Very Low to Very High), there are 25 total Overall Performance Categories. These categories are always titled by Maturity first and Conformance second, i.e., Very Low-Very Low, Moderate - Low and so on.</td>
   </tr>
   <tr>
     <th scope="row" id="cfo-act-agency">CFO Act Agency</th>
@@ -240,53 +263,70 @@ These terms appear throughout our website, communications, and reports, includin
     </td>
   </tr>
   <tr>
-    <th scope="row" id="captcha">CAPTCHA</th>
-    <td>Acronym for “Completely Automated Public Turing Test to tell Computers and Humans Apart."&nbsp; A Turing test is any system of tests designed to differentiate a human from a computer.</td>
+    <th scope="row" id="client-side-image-map">Client-side image map</th>
+    <td>An HTML feature that makes different areas of an image interactive, allowing users to click on specific regions to navigate to different destinations. These clickable areas, known as hotspots, can be made accessible for users who rely on screen readers or keyboard navigation. See <a href="#image-map">Image map</a>.</td>
   </tr>
   <tr>
-    <th scope="row" id="caret">Caret</th>
-    <td>An on-screen indication of the text input focus in a text edit field.</td>
-  </tr>
-    <tr>
-    <th scope="row" id= "css">Cascading Style Sheets (CSS)</th>
-    <td>&nbsp;CSS is a computer language used to style the presentation of a document written in a markup language,&nbsp;such as&nbsp;<a href="#html" target="_blank">HTML</a>. Along with HTML and&nbsp;<a href="#javascript" target="_blank">JavaScript</a>, CSS is a key technology of the World Wide Web. CSS enables presentation and content to be programmatically separated, including layout, colors, and fonts, which can improve content accessibility, and makes it possible to present the same page in different styles for different rendering methods such as desktops, mobile devices, for printing, and when using&nbsp;<a href="#assistive-technology" target="_blank">assistive technologies</a>&nbsp;such as text-to-speech and Braille-based tactile devices. The&nbsp;<a href="https://www.w3.org/Style/CSS/" target="_blank">CSS specifications</a>&nbsp;are maintained by the&nbsp;<a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a>&nbsp;(W3C).&nbsp;</td>
+    <th scope="row" id="closed-captions">Closed Captions</th>
+    <td>Closed captions are on-screen text that represents the audio in a video. Viewers can turn them on or off as needed. They help make videos accessible for people who are deaf or hard of hearing and are also useful in noisy places or when watching without sound. See <a href="#open-captions">Open Captions</a>.</td>
   </tr>
   <tr>
-    <th scope="row" id="category">Category</th>
-    <td>Or Overall Performance Category. Used to describe groupings of reporting entities that fall within each pairing of the Maturity and Conformance bracket. As there are five maturity brackets (ranging from Very Low to Very High) and five conformance brackets (also ranging from Very Low to Very High), there are 25 total Overall Performance Categories. These categories are always titled by Maturity first and Conformance second, i.e., Very Low-Very Low, Moderate - Low and so on.</td>
+    <th scope="row" id="closed-function">Closed Functionality</th>
+    <td> Features that limit functionality or prevent a user from attaching or installing assistive technology. Examples of ICT with closed functionality are self-service machines, information kiosks, set-top boxes, fax machines, calculators, and computers that are locked down so users may not adjust settings due to a policy such as Desktop Core Configuration.</td>
   </tr>
   <tr>
-    <th scope="row" id=""></th>
-    <td></td>
+    <th scope="row" id="communication">Communication</th>
+    <td>The method used to disseminate information to internal and external audiences.</td>
   </tr>
   <tr>
     <th scope="row" id="cart">Communication Access Realtime Translation (CART)</th>
-    <td>Live instant translation of the spoken word into text using a stenotype machine, notebook computer and realtime software. For CART services, search your agency intranet, or contact your agency <a href="http://www.gsa.gov/fedrelay">relay official</a>.</td>
+    <td>Live instant translation of the spoken word into text using a stenotype machine, notebook computer and realtime software. For CART services, search your agency intranet, or contact your agency <a href="{{site.baseurl}}/tools/program-manager-listing/">Section508 Program Manager</a> for assistance.</td>
   </tr>
   <tr>
     <th scope="row" id="complex-data-table">Complex data table</th>
     <td>A table that organizes data using more than a simple row/column structure. For example, categories of data may have subcategories, or data may belong to more than two categories (contrast with <a href="#simple-data-table">simple data table</a>).</td>
   </tr>
   <tr>
-    <th scope="row" id="compliance-section-508">Compliance (Section 508)</th>
-    <td>When a <em>person or organization</em> meets all information and communication technology (ICT) legal requirements; for example, Section 508 of the Rehabilitation Act of 1973, as amended.</td>
+    <th scope="row" id="complaint">Complaint</th>
+    <td><p>An alleged Section 508 non-compliance violation in which a federal employee, applicant for federal employment, or member of the public with a disability initiates the process to begin adjudication of the accessibility issue(s) in a federally conducted program or activity. An <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">Administrative Complaint</a> is a formal complaint made by “any individual with a disability…alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology” <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">(§794d. Electronic and information technology (f)(1)(A))</a> (i.e., fails to provide accessible ICT). Administrative complaints are “filed with the Federal department or agency alleged to be in non-compliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement section 794 of this title for resolving allegations of discrimination in a federally conducted program or activity.” <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title29/html/USCODE-2021-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">(§794d. Electronic and information technology (f)(2))</a>. Lawsuits and civil actions are other types of complaints. Agencies may utilize their internal Section 504/501 complaints process and may need to coordinate with other reporting entity personnel to fully gather this information (DOJ Civil Rights Division iii. Administrative Complaints).</p>
+    <p>Complaints differ from public feedback responses your reporting entity receives through the mechanism provided to meet the <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>. Public feedback responses could escalate to a complaint, but submission of feedback is not inherently considered a complaint.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="compliance">Compliance (Section 508)</th>
+    <td>When a <em>person or organization</em> meets all information and communication technology (ICT) legal requirements; for example, Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), as amended.</td>
   </tr>
   <tr>
     <th scope="row" id="component">Component</th>
-    <td>Within the annual Section 508 Assessments, the use of “component,” “component agency,” and “component-level agency” broadly refers to the organizational unit below a department or large agency enterprise level. Agencies across government have different designations and terminology for these organizational units, including component, bureau, administration, office, operating division, agency, and subagency. For example: the Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY.</td>
+    <td>For the purposes of the annual Section 508 Assessments, the use of “component,” “component agency,” and “component-level agency” broadly refers to the organizational unit below a department or large "parent" agency. Agencies across government have different designations and terminology for these organizational units, including component, bureau, administration, office, operating division, agency, and subagency. For example: the Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY. See <a href="#parent-agency">Parent agency</a></td>
   </tr>
   <tr>
-    <th scope="row" id="conformance-section-508">Conformance (Section 508)</th>
-    <td>When an electronic and information and communication technology (ICT) <em>product or service</em> meets all of the applicable standards; for example, where a webpage meets W3C WCAG 2.0, Level A and AA guidelines incorporated by reference in the Section 508 Standards.</td>
+    <th scope="row" id="comprehensive-lsm">Comprehensive, large-scale monitoring</th>
+    <td>A systematic and thorough process of evaluating digital content, platforms, or environments to ensure they adhere to required standards or guidelines.</td>
   </tr>
   <tr>
-    <th scope="row" id="conformance">Conformance</th>
+    <th scope="row" id="conform">Conform</th>
+    <td>Adherence to Section 508 standards, indicating full conformance. See <a href="#conformance">Conformance</a>, <a href="#fully-conform">Fully Conform.</a></td>
+  </tr>
+  <tr>
+    <th scope="row" id="conformance">Conformance (Section508)</th>
     <td><p>Refers to an <a href="#ict">electronic and information and communication technology (ICT)</a> product or service meeting all applicable standards outlined in the Section 508 Final Standards and Guidelines. This ensures that IT products and services, including websites, software, documents, and digital content, comply with accessibility requirements. For example, a webpage is Section 508 conformant when it fully meets all 38  WCAG 2.0 Level A and AA Success Criteria incorporated by reference in the standards.</p>
-    <p>The term also serves as a shorthand for operational conformance. See <a href="#operational-conformance">Operational Conformance</a> for full definition.</p></td>
+    <p>The term also serves as a shorthand for operational conformance. See <a href="#operational-conformance">Operational Conformance</a>.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="continuity-of-operations">Continuity of Operations</th>
+    <td>The ability of an agency to maintain essential functions during emergencies.</td>
   </tr>
   <tr>
     <th scope="row" id="content">Content</th>
     <td>Electronic information and data, as well as the encoding that defines its structure, presentation, and interactions.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="contractor">Contractor</th>
+    <td>An individual or entity contracted by the government to provide services, material, equipment, or supplies. IT accessibility contractors may perform services such as testing, remediation, development, and training. Contractors may or may not be issued government furnished equipment and they may or may not work onsite at federal agencies.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="coordinator">Coordinator (Section 508 Coordinator)</th>
+    <td>Previously used to refer to a Section 508 Program Manager. See <a href="#section-508-program-manager">Section 508 Program Manager</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="criteria">Criteria</th>
@@ -312,8 +352,17 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A table with information organized into categories.</td>
   </tr>
   <tr>
+    <th scope="row" id="deploying">Deploying</th>
+    <td>The act of making a solution available or operational.</td>
+  </tr>
+  <tr>
     <th scope="row" id="document">Document</th>
-    <td>Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</td>
+    <td><p><strong>Definition 1:</strong> Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</p>
+    <p><strong>Definition 2:</strong> Files created with common office software for content generation and information sharing, such as Microsoft Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and Portable Document Format (PDF).</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="digital-content">Digital Content</th>
+    <td>All types of electronic information, including multimedia, electronic documents, social media, and web content. See <a href="#electronic-content">Electronic Content</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="digital-service">Digital service</th>
@@ -321,7 +370,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="dimension">Dimension</th>
-    <td>Refers to the categorization of the 103 criteria into general questions, maturity questions and conformance questions. The Assessment criteria comprised 11 dimensions.</td>
+    <td>Within the Assessment, used to delineate a category of Maturity-related questions. Refers to the categorization of the criteria into general questions, maturity questions and conformance questions.</td>
   </tr>
   <tr>
     <th scope="row" id="disability">Disability</th>
@@ -329,7 +378,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
 </tbody>
 </table>
-  
+
 &nbsp;
 ## E
   
@@ -343,24 +392,36 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
-    <th scope="row" id="electronic-form">Electronic form</th>
-    <td>A computer program version of a paper form. Electronic forms can be programmed to automatically format, calculate, look up, and validate information for the user. Forms are commonly used in websites, mobile applications, and PDF documents.</td>
-  </tr>
-  <tr>
-    <th scope="row" id="exceptions">Exceptions</th>
-    <td>See <a href="#general-exceptions">General Exceptions</a></td>
-  </tr>
-  <tr>
-    <th scope="row" id="existing-ict">Existing ICT</th>
-    <td>ICT that was procured, maintained or used on or before January 18, 2018.</td>
+    <th scope="row" id="e-gov-line-of-business">E-Government line of business</th>
+    <td>Intra-agency collaborations for digital government services. See <a href="https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2004/m04-08.pdf" target="_blank" class="usa-link--external">Maximizing Use of SmartBuy and Avoiding Duplication of Agency Activities with the President’s 24 E-Gov Initiatives (M-04-08) (PDF)</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="eit">Electronic and Information Technology (EIT)</th>
     <td>Superseded by <a href="#ict">Information and Communication Technology (ICT)</a></td>
   </tr>
   <tr>
+    <th scope="row" id="electronic-form">Electronic form</th>
+    <td>A computer program version of a paper form. Electronic forms can be programmed to automatically format, calculate, look up, and validate information for the user. Forms are commonly used in websites, mobile applications, and PDF documents.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="electronic-content">Electronic Content</th>
+    <td>All forms of digital data and its encoding, covering both public and internal information as defined by <a href="https://www.access-board.gov/ict/#E205-content" target="_blank" class="usa-link--external">E205 of the Section 508 Standards</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="exceptions">Exceptions</th>
+    <td>See <a href="#general-exceptions">General Exceptions</a></td>
+  </tr>
+  <tr>
     <th scope="row" id="exec-agency">Executive agency</th>
     <td>"'Executive agency' means an Executive department, a Government corporation, and an independent establishment," as per <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title5/pdf/USCODE-2011-title5-partI-chap1-sec105.pdf" target="_blank" class="usa-link--external text-top">5 U.S.C. § 105 (PDF)</a></td>
+  </tr>
+  <tr>
+    <th scope="row" id="existing-ict">Existing ICT</th>
+    <td>ICT that was procured, maintained or used on or before January 18, 2018.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="extranet">Extranet</th>
+    <td>A network restricted to authorized individuals. For the purposes of the annual Section 508 Assessment, extranet is included in questions related to internet web pages.</td>
   </tr>
 </tbody>
 </table>
@@ -385,16 +446,48 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Federal Relay services expired February 13, 2022. FedRelay was a provides telecommunications services for federal agencies and tribal governments to conduct official business with individuals who are deaf or hard of hearing, or have speech disabilities. Agencies can access services formerly consolidated under FedRelay through Federal Communications Commission (FCC) Telecommunications Relay Service (TRS) and General Services Administration (GSA) Multiple Award Schedule Translation and Interpretation Services.</td>
   </tr>
   <tr>
+    <th scope="row" id="feedback-loop">Feedback Loop</th>
+    <td>A method for integrating stakeholder feedback into refining processes, policies, and procedures.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="fillable-form">Fillable Form</th>
+    <td>Refers to digital content such as a web page, electronic document such as a PDF, or other user interface that allows users to input data directly into designated fields with the intent to collect data. Exclude singular form fields such as a "Search" field where there is no intent to collect data. For the purpose of Assessment Question 87, only consider fillable forms that require a <a href="https://pra.digital.gov/do-i-need-clearance/" target="_blank" class="usa-link--external">Paperwork Reduction Act</a> clearance.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="formal">Formal</th>
+    <td>Officially approved or recognized.</td>
+  </tr>
+  <tr>
     <th scope="row" id="focus">Focus</th>
     <td>In a graphical user interface, a window (e.g., a button) or a location within a window (e.g., position of a text cursor or mouse pointer), to which the operating system will direct user input. Users can set the focus by using the keyboard, the mouse, or other input devices.</td>
   </tr>
   <tr>
     <th scope="row" id="frames">Frames</th>
-    <td>When creating a website, allows use of multiple, independently controllable sections on a web presentation. A typical use of the HTML frame function is to contain a selection menu in one frame, and use another frame to contain the space where the selected (linked to) files will appear (see also <a href="#iframe">iFrame</a>).</td>
+    <td>When creating a website, allows use of multiple, independently controllable sections on a web presentation. A typical use of the HTML frame function is to contain a selection menu in one frame, and use another frame to contain the space where the selected (linked to) files will appear (See <a href="#iframe">iFrame</a>).</td>
+  </tr>
+  <tr>
+    <th scope="row" id="frequency">Frequency</th>
+    <td>Defines activity occurrence levels, not on a linear scale, as follows: 
+      <ul>
+        <li>Never (0%),</li>
+        <li>Sometimes (approximately 1%-24%),</li> 
+        <li>Regularly (approximately 25%-59%),</li> 
+        <li>Frequently (approximately 60%-89%),</li> 
+        <li>Almost always (approximately 90% or more).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th scope="row" id="frequently">Frequently</th>
+    <td>Activities that are performed approximately 60%-89% of the time.</td>
   </tr>
   <tr>
     <th scope="row" id="full-time-equivalent">Full-Time equivalent (FTE)</th>
     <td>A unit of measurement used to represent the number of full-time employees an agency has, even when considering part-time workers, by calculating the total hours worked by all employees and dividing them by the number of hours a typical full-time employee works.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="fully-conform">Fully conform</th>
+    <td>Requires that an entire ICT product meets every applicable Section 508 standard. For example, for a web page to fully conform to Section 508, the entire web page must meet all applicable 38 WCAG Level A and AA Success Criteria.</td>
   </tr>
   <tr>
     <th scope="row" id="fpc">Functional Performance Criteria (FPC)</th>
@@ -416,8 +509,12 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="general-exceptions">General exceptions</th>
-    <td><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.</td>
-      </tr>
+    <td><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="government-off-the-shelf">Government off-the-shelf (GOTS)</th>
+    <td>Product that is developed with funding and specificity from a government agency.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -477,15 +574,20 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="ict-testing-baseline">ICT Testing Baseline</th>
-    <td>The <a href="https://section508coordinators.github.io/ICTTestingBaseline/" target="_blank">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.</td>
+    <td>The <a href="https://section508coordinators.github.io/ICTTestingBaseline/" target="_blank" class="usa-link--external">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.</td>
   </tr>
   <tr>
     <th scope="row" id="iframe">iFrame (Inline Frame)</th>
-    <td>An HTML structure that allows another HTML document to be inserted into an HTML page. Unlike the regular HTML frames function, which is used to divide the screen into multiple windows, the iFrame is typically used to insert an ad or small amount of text in the middle of a page (see also <a href="#frames">Frames</a>).</td>
+    <td>An HTML structure that allows another HTML document to be inserted into an HTML page. Unlike the regular HTML frames function, which is used to divide the screen into multiple windows, the iFrame is typically used to insert an ad or small amount of text in the middle of a page (See <a href="#frames">Frames</a>).</td>
   </tr>
   <tr>
     <th scope="row" id="image-map">Image map</th>
-    <td>An image on a webpage that links to multiple webpages or resources. The image is subdivided into regions (hotspots), each of which may link to a different resource. <a href="#server-side-image-map">Server-side image maps</a> cannot be made accessible and require redundant text links. <a href="#client-side-image-map">Client-side image maps</a> can be made accessible with alternative text description.</td>
+    <td>An image on a webpage that links to multiple webpages or resources. The image is subdivided into regions (hotspots), each of which may link to a different resource. There are two types of image maps: 
+      <ul>
+        <li><a href="#server-side-image-map">Server-side image maps</a> cannot be made accessible and require redundant text links.</li>
+        <li><a href="#client-side-image-map">Client-side image maps</a> can be made accessible with alternative text description.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th scope="row" id="inclusive-design">Inclusive design</th>
@@ -497,9 +599,13 @@ These terms appear throughout our website, communications, and reports, includin
     <p>"ICT accessibility" and "digital accessibility" may be used interchangeably.</p></td>
   </tr>
   <tr>
+    <th scope="row" id=""></th>
+    <td></td>
+  </tr>
+  <tr>
     <th scope="row" id="it">Information Technology (IT)</th>
-    <td><p><strong>Definition 1:</strong> IT means “information technology” as set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank">40 U.S.C. 11101(6)</a>.</p>
-    <p><strong>Definition 2:</strong> Within the annual Section 508 Assessments:  
+    <td><p><strong>Definition 1:</strong> IT means “information technology” as set forth in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11101.htm" target="_blank" class="usa-link--external">40 U.S.C. 11101(6)</a>.</p>
+    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessments:  
       <ol type="A">
         <li>With respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use:
           <ol type="i">
@@ -535,6 +641,15 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="interface">Interface (user)</th>
     <td>The user interface allows the user to communicate with the operating system. The interface is composed of both devices (keyboard, mouse) and screen elements (menus, text, buttons, etc.).</td>
+  </tr>
+  <tr>
+    <th scope="row" id="internet">Internet</th>
+    <td><p><strong>Definition 1:</strong> A network of information accessible by the public.</p>
+    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment, <a href="#extranet">extranet</a> should be reported under internet-related questions.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="intranet">Intranet</th>
+    <td>A private or internal network within an organization used for but not limited to: a central repository, collaboration, communication, access to information, social networking, project management, and streamlining of everyday activities and operations.</td>
   </tr>
 </tbody>
 </table>
@@ -574,11 +689,15 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="key-performance-indicator">Key Performance Indicator (KPI)</th>
-    <td>A quantifiable metric used to measure the progress and success of a specific business goal or objective, allowing companies to track their performance against set targets and make informed decisions based on data analysis; essentially, it's a critical measure that indicates how well a company or team is performing towards achieving its goals. See also <a href="{{site.baseurl}}/manage/accessibility-kpi/">Organizational IT Accessibility Key Performance Indicators (KPI)</a></td>
+    <td>A quantifiable metric used to measure the progress and success of a specific business goal or objective, allowing companies to track their performance against set targets and make informed decisions based on data analysis; essentially, it's a critical measure that indicates how well a company or team is performing towards achieving its goals. See <a href="{{site.baseurl}}/manage/accessibility-kpi/">Organizational IT Accessibility Key Performance Indicators (KPI)</a></td>
   </tr>
   <tr>
     <th scope="row" id="keyboard">Keyboard</th>
     <td>A set of systematically arranged alphanumeric keys or a control that generates alphanumeric input by which a machine or device is operated. A keyboard includes keys discernible by touch, used in conjunction with the alphanumeric value their function maps to on the keyboard interface. Keyboards are available in ergonomic or other specialized form factors to accommodate the needs of the user.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="kiosk">Kiosk</th>
+    <td>A <a href="#closed-function">closed functionality</a> device providing information or services on a digital screen that is locked down so users may not adjust settings nor install or attach assistive technology.</td>
   </tr>
 </tbody>
 </table>
@@ -600,11 +719,15 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="layout-table">Layout Table</th>
-    <td>Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/tools/glossary/#assistive-technology">assistive technology.</a> (See also <a href="{{site.baseurl}}/tools/glossary/#data-table">Data table</a>)</td>
+    <td>Layout tables are used to arrange elements on a document or webpage and intended to be ignored by <a href="{{site.baseurl}}/tools/glossary/#assistive-technology">assistive technology.</a> (See <a href="{{site.baseurl}}/tools/glossary/#data-table">Data table</a>)</td>
+  </tr>
+  <tr>
+    <th scope="row" id="lifecycle">Lifecycle (life cycle)</th>
+    <td>Phases a product goes through, including development, operation, and management. For this Assessment, the term typically refers to the phases of a product, including budgeting, procurement, development, testing, operation, content creation, and change management.</td>
   </tr>
   <tr>
     <th scope="row" id="listserv">Listserv</th>
-    <td>An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank">manage your listserv subscription</a>.</td>
+    <td>An automated mailing list program. GSA supports digital government communities of practice by hosting listservs that provide community members with an easy way to collaborate, ask questions, and share information. Learn how to <a href="https://digital.gov/communities/manage-your-subscription/" target="_blank" class="usa-link--external">manage your listserv subscription</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="low">Low</th>
@@ -629,12 +752,20 @@ These terms appear throughout our website, communications, and reports, includin
       <td>A measure of a reporting entity’s Section 508 Program maturity. It assesses reporting entity responses to criteria across 9 dimensions, including various aspects of their IT Accessibility Program. The index uses a scale from 0 to 5, with 0 representing very low and 5 representing very high maturity levels.</td>
   </tr>
   <tr>
+    <th scope="row" id="manage">Manage</th>
+    <td>To oversee or control processes or functions.</td>
+  </tr>
+  <tr>
       <th scope="row" id="machine-learning">Machine-learning</th>
       <td>Described as a subset of AI where algorithms improve automatically through experience. It is relevant in the context of accessibility tools and analytics in government operations.</td>
   </tr>
   <tr>
       <th scope="row" id="maturity">Maturity</th>
       <td>A shorthand way of referring to business function maturity. See business function maturity for full definition.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="measure">Measure</th>
+    <td>A method to assess the quality, effect, importance, etc.</td>
   </tr>
   <tr>
     <th scope="row" id="mechanism">Mechanism</th>
@@ -652,6 +783,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="micro-purchase">Micro-purchase</th>
     <td><p>As defined in the <a href="https://www.acquisition.gov/far/part-2/#FAR_2_101__d75e1694" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>, a micro-purchase is an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.</p>
       <p>The micro-purchase threshold is $10,000. Always check FAR Subpart 2.2 for the current micro-purchase threshold information and any exceptions that may apply to your procurement.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="mid-level-management">Mid-level management</th>
+    <td>Managers between executive and front-line levels guiding teams or departments.</td>
   </tr>
   <tr>
       <th scope="row" id="moderate">Moderate</th>
@@ -681,7 +816,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
       <th scope="row" id="nlp">Natural Language Processing</th>
-      <td>Defined as a field of <a href="#ai">AI</a> focused on the interaction between computers and human language, important for speech recognition and accessibility software.</td>
+      <td>Defined as a field of <a href="#artificial-intelligence">AI</a> focused on the interaction between computers and human language, important for speech recognition and accessibility software.</td>
   </tr>
   <tr>
     <th scope="row" id="non-text-element">Non-text element</th>
@@ -711,11 +846,15 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="open-captions">Open captions</th>
-    <td>Permanent alternative text in a video or multimedia presentation. The user cannot activate or deactivate open captions, because they are integrated into the video or presentation (see also <a href="#closed-captions">closed captions</a>).</td>
+    <td>Open captions are on-screen text that represents the audio in a video. Unlike closed captions, they are always visible and cannot be turned off. They make videos accessible for people who are deaf or hard of hearing and are useful in environments where sound can't be played. See <a href="#closed-captions">closed captions</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="operable-controls">Operable controls</th>
     <td>A product component that requires physical contact to operate. Operable controls include, but are not limited to, mechanically operated controls, input and output trays, card slots, keyboards, and keypads.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="open-government-data-asset">Open Government Data Asset</th>
+    <td>In general, a data asset that is machine-readable and available in an open, standards-based format. See <a href="https://www.govinfo.gov/content/pkg/USCODE-2021-title44/html/USCODE-2021-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 USC. 3502 (20)</a>.</td>
   </tr>
   <tr>
       <th scope="row" id="operational-conformance">Operational Conformance</th>
@@ -741,8 +880,17 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+    <th scope="row" id="parent-agency">Parent agency</th>
+    <td><p>"Parent agency" and "component" designation usually refers to the CFO Act agencies that have headquarters and component-level Section 508 programs. These include the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Homeland Security, the Department of Justice, the Department of Labor, the Department of the Interior, the Department of the Treasury, and the Department of Transportation.</p>
+    <p>For example, a "parent" agency would be DHS HQ whereas a "component" would be Transportation Security Administration (TSA). "Parent" agency Section 508 programs may also be referred to as "agency-wide" programs. See <a href=#component">Component</a>.</p></td>
+  </tr>
+  <tr>
     <th scope="row" id="parenthetical-title">Parenthetical Title</th>
     <td>Term referring to the sub-specialty of a job series, as defined by OPM in position description development guidance.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="performance-plans">Performance Plans</th>
+    <td>Guidelines that set clear, measurable job performance expectations.</td>
   </tr>
   <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>
@@ -771,6 +919,18 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="public-facing">Public-facing</th>
     <td>Content made available by an organization to members of the general public. Examples include, but are not limited to, an agency website, video, mobile app, blog post, or social media page.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="public-feedback-response">Public feedback response</th>
+    <td>Part of a mechanism to receive public input on Section 508 compliance; not inherently complaints. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="publication-process">Publication Process</th>
+    <td>Methods for distributing content, including website posting or newsletters. More than one publication process may be followed depending on the publication method.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="program-manager">Program Manager</th>
+    <td>See <a href="#section-508-program-manager">Section 508 Program Manager</a>.</td>
   </tr>
 </tbody>
 </table>
@@ -813,6 +973,14 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Communication by which characters are transmitted by a terminal as they are typed. Real-time text is used for conversational purposes, and may also be used in voicemail, interactive voice response systems, and other similar applications.</td>
   </tr>
   <tr>
+    <th scope="row" id="regularly">Regularly</th>
+    <td>Activities that are performed approximately 25% to 59% of the time.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="reimbursable-service">Reimbursable service</th>
+    <td>An agreement in which one agency provides ICT services to another and is then reimbursed for these services.</td>
+  </tr>
+  <tr>
     <th scope="row" id="rcc">Relay Conference Captioning (RCC)</th>
     <td>An internet-based technology offering real-time captioning; enables federal employees who are deaf or hard of hearing to join and participate in web and teleconference calls.</td>
   </tr>
@@ -828,6 +996,14 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="revised-508-standards">Revised 508 Standards</th>
     <td>The standards for ICT developed, procured, maintained, or used by federal agencies subject to Section 508 of the Rehabilitation Act as set forth in 508 Chapters 1 and 2 (36 CFR part 1194, Appendix A), and Chapters 3 through 7 (36 CFR part 1194, Appendix C).</td>
+  </tr>
+  <tr>
+    <th scope="row" id="risk">Risk</th>
+    <td>Potential for harm, loss, or damage within the IT sector that unfavorably impacts systems, processes, and associated resources within an organization. Risk typically encompasses legal, financial, technological, and workforce challenges.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="ruleset">Ruleset</th>
+    <td>A collection of rules used by automated tools to identify accessibility issues. May also be called rules, accessibility checks, or library.</td>
   </tr>
 </tbody>
 </table>
@@ -864,6 +1040,22 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Prohibits discrimination against persons with disabilities in any federally-funded programs or activities, and requires such programs to be accessible to people with disabilities. Section 504 also prohibits disability-based job discrimination of any kind, and requires that employers make reasonable accommodation for employees with disabilities.</td>
   </tr>
   <tr>
+    <th scope="row" id="section-508-conformant">Section 508 Conformant</th>
+    <td>See <a href="#conformance">Conformance</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="section-508-conformance-validation-testing">Section 508 conformance validation testing</th>
+    <td>Testing to confirm an IT implementation meets the requirements of the relevant Section 508 standards. The requirements or criteria for conformance must be specified.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="section-508-program">Section 508 Program or equivalent</th>
+    <td>An effort within a reporting entity to ensure all of its IT meets Section 508 standards, often led by a designated Program Manager.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="section-508-program-manager">Section 508 Program Manager</th>
+    <td>Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO whose duties include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16" target="_blank" class="usa-link--external">M-24-08</a> for additional roles and responsibilities.</td>
+  </tr>
+  <tr>
     <th scope="row" id="self-contained-closed-products">Self contained, closed products</th>
     <td>ICT products that generally contain embedded software, and are commonly designed so that a user cannot easily attach or install assistive technology. These products include, but are not limited to, information kiosks and information transaction machines, copiers, printers, calculators, fax machines, and other similar products (superseded in the Revised 508 Standards by <a href="#closed-functionality">closed functionality</a>).</td>
   </tr>
@@ -873,11 +1065,20 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="server-side-image-map">Server-side image map</th>
-    <td>A clickable image for which the link information resides on the server. When a user clicks on a server-side image map with a mouse, the web browser attaches the pixel coordinates (x,y) of the click to a given server link. The server interprets the coordinates and performs some action. Server-side image maps cannot be used by keyboard.</td>
+    <td><p>A clickable image for which the link information resides on the server. When a user clicks on a server-side image map with a mouse, the web browser attaches the pixel coordinates (x,y) of the click to a given server link. The server interprets the coordinates and performs some action.</p>
+    <p>Server-side image maps cannot be used by keyboard and thus fail conformance testing, however, <a href="#client-side-image-map">client-side image maps</a> can be made accessible using alternative text. See <a href="#image-map">Image map</a>.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="shared-service">Shared Service</th>
+    <td>A federal shared service in this context is defined as an information technology function that is provided for consumption by multiple organizations across federal agencies by a single federal agency.</td>
   </tr>
   <tr>
     <th scope="row" id="simple-data-table">Simple data table</th>
     <td>A<a href="#data-table"> data table</a> that represents each category of data with one row or column of cells. The meaning of each cell is based on its contents and its row and/or column position. Simple data tables can represent 2-dimensional data (contrast with<a href="#complex-data-table"> complex data table</a>).</td>
+  </tr>
+  <tr>
+    <th scope="row" id="sso">Single Sign On</th>
+    <td>A system allowing one set of login credentials to access multiple applications.</td>
   </tr>
   <tr>
     <th scope="row" id="social-media">Social media</th>
@@ -892,12 +1093,24 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Software for which the primary function is the development of other software. Software tools usually come in the form of an Integrated Development Environment (IDE), and are a suite of related products and utilities. Examples of IDEs include Microsoft® Visual Studio®, Apple® Xcode®, and Eclipse Foundation Eclipse®.</td>
   </tr>
   <tr>
-      <th scope="row" id="srt">SRT</th>
+    <th scope="row" id="solicitation">Solicitation</th>
+    <td>A request for bids or proposals from the federal government. Solicitations under simplified acquisition procedures may require submission of either a quotation or an offer (from the <a href="https://www.acquisition.gov/far/part-2" target="_blank" class="usa-link--external">FAR</a>).</td>
+  </tr>
+  <tr>
+      <th scope="row" id="srt">Solicitations Review Tool (SRT)</th>
       <td>SRT stands for <a href="{{site.baseurl}}/buy/solicitation-review-tool/" target="_blank" class="usa-link--external">Solicitation Review Tool</a>, which is a GSA-developed tool built using open source technology, artificial intelligence (AI), natural language processing, text mining, and machine learning algorithms to automatically identify whether new solicitations posted to “Contracting Opportunities” (beta. SAM.gov) are solicitations for ICT.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="">Sometimes</th>
+    <td>For the purposes of the annual Section 508 Assessment report, used to describe activities that are performed approximately 1% to 24% of the time.</td>
   </tr>
   <tr>
     <th scope="row" id="stylesheets">Style sheets</th>
     <td>"Mechanism" broadly refers to a system, process, or method that the reporting entity uses to track ICT accessibility defects. It could include tools, procedures, or workflows to achieve this.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="sufficient">Sufficient</th>
+    <td>For the purposes of the annual Section 508 Assessment report, adequate to meet the needs of a requirement.</td>
   </tr>
   <tr>
     <th scope="row" id="synchronized-captions">Synchronized captions</th>
@@ -931,11 +1144,15 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="trs">Telecommunications Relay Services (TRS)</th>
-    <td><a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities. </td>
+    <td><a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities.</td>
   </tr>
   <tr>
     <th scope="row" id="telecommunications">Telecommunications</th>
     <td>The signal transmission of information of the user’s choosing, between or among points specified by the user, without change in the form or content of the information as sent and received.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="telework-agreement">Telework Agreement</th>
+    <td>A written agreement for remote work conditions.  May also be referred to as a remote work agreement.</td>
   </tr>
   <tr>
     <th scope="row" id="terminal">Terminal</th>
@@ -962,8 +1179,12 @@ These terms appear throughout our website, communications, and reports, includin
     <td>The conversion of the spoken language of an audio file into a text format.</td>
   </tr>
   <tr>
+    <th scope="row" id="training-plan">Training Plan</th>
+    <td>A plan that defines who within the reporting entity should receive training, the training schedule, and mandatory training.</td>
+  </tr>
+  <tr>
     <th scope="row" id="trusted-tester">Trusted Tester</th>
-    <td>The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html" target="_blank">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.</td>
+    <td>The <a href="{{site.baseurl}}/test/trusted-tester">Trusted Tester Process</a> is a manual test approach developed by the Department of Homeland Security (DHS) that aligns with the <a href="https://section508coordinators.github.io/ICTTestingBaseline/introduction.html" target="_blank" class="usa-link--external">ICT Testing Baseline</a>, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process. Agencies that adopt the Trusted Tester Process only accept test results from individuals who have been certified as Trusted Testers.</td>
   </tr>
   <tr>
     <th scope="row" id="tty">TTY</th>
@@ -985,7 +1206,7 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="us-access-board">U.S. Access Board</th>
-    <td>The <a href="https://www.access-board.gov/" target="_blank">U.S. Access Board</a> is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology (<a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule" target="_blank">Section 508</a>).</td>
+    <td>The <a href="https://www.access-board.gov/" target="_blank" class="usa-link--external">U.S. Access Board</a> is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.</td>
   </tr>
   <tr>
     <th scope="row" id="undue-burden">Undue burden</th>
@@ -993,7 +1214,11 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id= "user-agent">User Agent </th>
-    <td>&nbsp;As per&nbsp;<a href="https://www.w3.org/WAI/UA/work/wiki/Definition_of_User_Agent" target="_blank">W3.org definition</a>, "[a] user agent is any software that retrieves and presents Web content for end users or is implemented using Web technologies. User agents include Web browsers, media players, and plug-ins that help in retrieving, rendering and interacting with Web content. The family of user agents also includes operating system shells, consumer electronics with Web-widgets, and stand-alone applications or embedded applications whose user interface is implemented as a combination of Web technologies."</td>
+    <td>&nbsp;As per&nbsp;<a href="https://www.w3.org/WAI/UA/work/wiki/Definition_of_User_Agent" target="_blank" class="usa-link--external">W3.org definition</a>, "[a] user agent is any software that retrieves and presents Web content for end users or is implemented using Web technologies. User agents include Web browsers, media players, and plug-ins that help in retrieving, rendering and interacting with Web content. The family of user agents also includes operating system shells, consumer electronics with Web-widgets, and stand-alone applications or embedded applications whose user interface is implemented as a combination of Web technologies."</td>
+  </tr>
+  <tr>
+    <th scope="row" id="user-acceptance-testing">User Acceptance Testing (UAT)</th>
+    <td>A phase of development or deployment in which the application is tested to ensure the application can handle real-world tasks and affirm the performance meets development specifications, including ICT accessibility requirements, before being accepted by the reporting entity or business representative.</td>
   </tr>
   <tr>
     <th scope="row" id="user-interface-element">User interface element</th>
@@ -1061,11 +1286,16 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="wcag">Web Content Accessibility Guidelines (WCAG)</th>
-    <td>&nbsp;<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Guidelines</a> established by the <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium</a> (W3C) under their <a href="https://www.w3.org/WAI/about/" target="_blank">Web Accessibility Initiative</a> (WAI). The revised Section 508 standards harmonize with <a href="https://www.w3.org/TR/WCAG20/" target="_blank">WCAG version 2.0 A & AA</a>.&nbsp;</td>
+    <td>&nbsp;<a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" class="usa-link--external">Guidelines</a> established by the <a href="https://www.w3.org/" target="_blank" class="usa-link--external">World Wide Web Consortium</a> (W3C) under their <a href="https://www.w3.org/WAI/about/" target="_blank" class="usa-link--external">Web Accessibility Initiative</a> (WAI). The revised Section 508 standards harmonize with <a href="https://www.w3.org/TR/WCAG20/" target="_blank" class="usa-link--external">WCAG version 2.0 A & AA</a>.&nbsp;</td>
   </tr>
   <tr>
-    <th scope="row" id="webpage">Webpage</th>
-    <td>A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.</td>
+    <th scope="row" id="webpage">Webpage (web page)</th>
+    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
+    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, a document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one page.</p></td>
+  </tr>
+  <tr>
+    <th scope="row" id="">Website (web site)</th>
+    <td>A website, and web-based application, consists of many web pages linked together under a common domain name such as “[agency-name].gov.”</td>
   </tr>
 </tbody>
 </table>
