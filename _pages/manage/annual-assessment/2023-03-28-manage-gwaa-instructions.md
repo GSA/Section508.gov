@@ -21,7 +21,7 @@ redirect_from:
 ---
 ## Assessment Requirement
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-The FY25 Governmentwide Section 508 Assessment criteria are being finalized and is expected to include some updates. In the meantime, we recommend reviewing the FY24 criteria, along with related guidance and FAQs, to understand the types of criteria and information requested in past assessments. While some changes are expected, this will help you prepare for the release of the new criteria.
+The FY25 Governmentwide Section 508 Assessment criteria are being finalized and are expected to include some updates. In the meantime, we recommend reviewing the FY24 criteria, along with related guidance and FAQs, to understand the types of criteria and information requested in past assessments. While some changes are expected, this will help you prepare for the release of the new criteria.
 </div>
 
 Section 508 of the Rehabilitation Act, codified at 29 U.S.C. § 794d, requires Federal departments and agencies and the United States Postal Service (hereinafter, “agencies”) to develop, procure, maintain, or use information and communications technology (ICT) that is accessible to people with disabilities and to give Federal employees contractors and members of the public with disabilities access to information comparable to the access available to those without disabilities.<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
