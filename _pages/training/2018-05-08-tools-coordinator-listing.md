@@ -180,7 +180,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Jorge Valdez - <jorge.valdez@darpa.mil>
+Anita Walker - <anita.walker@darpa.mil>  
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
 ### Defense Contract Management Agency (DCMA)  
@@ -217,8 +217,7 @@ Michael C. Scholz - <michael.c.schloz.civ@mail.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
-### Defense Threat Reduction Agency (DTRA)
-Bob Ciola - <robert.a.ciola.civ@mail.mil>  
+<!-- ### Defense Threat Reduction Agency (DTRA)-->
 ### Missile Defense Agency (MDA)
 Pamela Whitehead - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
@@ -270,7 +269,8 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Sweeney - <kate.sweeney@hhs.gov.>
+Kate Sweeney - <kate.sweeney@hhs.gov>  
+<!-- Cammie Truesdell - <cammie.truesdell@hhs.gov>  -->
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -449,7 +449,7 @@ Heather Kowalski - <heather.kowalski@usdoj.gov>
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 Cynthia R. Wright - <cynthia.wright@usdoj.gov>  
 ### National Institute of Corrections
-Donna Ledbetter - <donna.ledbetter@bop.gov>  
+Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
 Nilesh  Bhut - <nilesh.bhut@usdoj.gov>
 ### Office for Access to Justice
