@@ -16,6 +16,8 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+redirect_from:
+- section-508-assessment-reports/
 ---
 On December 29, 2022, the President signed the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617">Consolidated Appropriations Act, 2023</a>, which included amendments to Section 508 of the Rehabilitation Act, now codified as [(29 U.S.C. § 794d-1]({{site.baseurl}}/manage/laws-and-policies/section-508-law/#794d-1). This provision directs the Office of Management and Budget (OMB), in coordination with the General Services Administration (GSA) and the U.S. Access Board (USAB), to update criteria and instructions for evaluating federal agencies’ compliance with Section 508 accessibility requirements. The amendment mandates that federal agencies annually assess and report on their efforts to ensure electronic and information technology is accessible to individuals with disabilities, in line with the updated standards and guidance.
 
