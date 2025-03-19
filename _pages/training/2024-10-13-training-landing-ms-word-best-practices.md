@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/ms-word-best-practices/
 type: training
 title: "Microsoft Word & Accessibility Best Practices"
-created: 2024-10-15
-updated: 
+permalink: training/online-course/ms-word-best-practices/
 redirect_from:
 topic: "Training (train)"
 sub-topic: "Presentations"
@@ -17,6 +15,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -47,7 +47,7 @@ format: "HTML"
 
 **Duration:** 60 minutes  
 **Difficulty Level:** Beginner  
-**Version:** Version 1.2 (Jul 2024)  
+**Version:** 1.2 (Jul 2024)  
 
 ## What Will I Learn in This Course?
 In this course you'll learn how to utilize Authoring features in Microsoft Word to structure and organize Contant in an accessible Word document. This module builds upon the [document video series]({{site.baseurl}}/create/documents/training-videos/) created by the Federal CIO Council's Accessible Electronic Document Community of Practice (AED COP).
@@ -128,4 +128,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

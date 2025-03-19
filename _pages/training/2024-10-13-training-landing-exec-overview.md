@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/accessible-for-executives/
 type: training
 title: "Accessibility of ICT: An Overview for Government Executives"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/accessible-for-executives/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -49,7 +49,7 @@ format: "Video & Synchronized Media (video)"
 
 **Duration:** 20 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 2.0.1 (Feb 2025)  
+**Version:** 2.0.1 (Feb 2025)  
 
 ## What Will I Learn in This Course?
 This course will help you to understand [Section 508 of the Rehabilitation Act]({{site.baseurl}}/manage/laws-and-policies/section-508-law/) and the related laws, policies, roles, and responsibilities.
@@ -121,4 +121,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: February 2025
+**Reviewed/Updated**: March 2025
