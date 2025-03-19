@@ -90,16 +90,6 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your 508 Program Manager</a></h2>
-      </header>
-      <div class="usa-card__body">
-        <p>Agency 508 Program Managers (PMs) are your first point of contact for questions about accessibility.</p>  
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/manage/playbooks/">Accessibility Playbooks</a></h2>
       </header>
       <div class="usa-card__body">
@@ -130,10 +120,30 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/glossary/">Glossary of Terms</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/program-manager-listing/">Find Your 508 Program Manager</a></h2>
       </header>
       <div class="usa-card__body">
-        <p>Terms and definitions commonly used in Section 508 programs and training.</p>
+        <p>Agency Section 508 Program Managers (PMs) are your first point of contact for questions about Section 508 and digital accessibility.</p>  
+      </div>
+    </div>
+  </li>
+  <li class="tablet:grid-col-4 usa-card">
+    <div class="usa-card__container radius-md">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/glossary/">Glossary of Section 508 Terms</a></h2>
+      </header>
+      <div class="usa-card__body">
+        <p>Terms and definitions commonly used throughout our website, training, communications, and reports.</p>
+      </div>
+    </div>
+  </li>
+  <li class="tablet:grid-col-4 usa-card">
+    <div class="usa-card__container radius-md">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/acronyms-abbreviations/">Commonly Used Acronyms and Abbreviations</a></h2>
+      </header>
+      <div class="usa-card__body">
+        <p>Acronyms and abbreviations commonly used throughout our website, training, communications, and reports.</p>  
       </div>
     </div>
   </li>

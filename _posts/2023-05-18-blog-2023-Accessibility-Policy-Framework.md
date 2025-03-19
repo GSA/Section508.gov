@@ -15,7 +15,7 @@ resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---
 
-All too often, digital accessibility is not top of mind for the agency policymakers and IT executives who guide federal IT modernization efforts. Consequently, many internal agency policies require updates to align with Section 508 statutory and regulatory requirements. To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the [IT Accessibility Policy Framework](https://www.section508.gov/manage/policy-framework/introduction/).
+All too often, digital accessibility is not top of mind for the agency policymakers and IT executives who guide federal IT modernization efforts. Consequently, many internal agency policies require updates to align with Section 508 statutory and regulatory requirements. To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the [IT Accessibility Policy Framework]({{ site.baseurl }}/manage/policy-framework/introduction/).
 
 ## What is the Policy Framework?
 To ease your agency’s effort to update its policies, the General Service Administration's (GSA’s) Government-wide IT Accessibility Program is excited to present the IT Accessibility Policy Framework (the policy framework) to help agencies assess to what extent your agency’s policies should include accessibility information, and whether or not they include the appropriate amount and type of accessibility information. It offers your agency guidance on how to holistically assess internal policies against standard criteria, and how to update your IT accessibility language accordingly.

@@ -23,7 +23,7 @@ When developing a solicitation, there are multiple ways to include Accessibility
 (Sample Evaluation criteria for Accessibility)[^1]
 
 ### Solicitation
-GSA has a Solicitation Review Tool ([SRT](https://www.section508.gov/buy/solicitation-review-tool/)) which can be used to aid in this phase of the process. With SRT, agencies will have the information to inform decisions on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
+GSA has a Solicitation Review Tool ([SRT]({{ site.baseurl }}/buy/solicitation-review-tool/)) which can be used to aid in this phase of the process. With SRT, agencies will have the information to inform decisions on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
 
 ### Section 508 Language
 TTS has its own Section 508 language, and the acquisition team is advised to ensure it is using the most recent version. It may be tailored accordingly. 

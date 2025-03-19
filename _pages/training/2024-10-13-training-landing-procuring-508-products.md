@@ -118,7 +118,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a>
   * <a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a>
 * [Sell Accessible Products and Services]({{site.baseurl}}/sell/)
-* [Solicitation Review Tool (SRT)](https://www.section508.gov/buy/solicitation-review-tool/)
+* [Solicitation Review Tool (SRT)]({{ site.baseurl }}/buy/solicitation-review-tool/)
 * [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * [Trusted Tester and ICT Testing Baseline]({{site.baseurl}}/test/trusted-tester/)
 * Vocabulary
