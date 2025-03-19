@@ -23,9 +23,9 @@ Below is a pre-publishing checklist web content managers should use before consi
 <ol>
     <li><strong>Set and refer to policies for creating digital content.</strong>
         <ol type="a">
-            <li>Determine if accessibility is incorporated into agency web content publishing policy by reviewing relevant policies and using the <a href="https://www.section508.gov/manage/policy-framework/introduction"> Accessibility Policy Framework</a>.
+            <li>Determine if accessibility is incorporated into agency web content publishing policy by reviewing relevant policies and using the <a href="{{ site.baseurl }}/manage/policy-framework/introduction"> Accessibility Policy Framework</a>.
                 <ol type="i">
-                    <li><strong>If not</strong>, include accessibility requirement information in an existing policy or create a new one; see the <a href="https://www.section508.gov/manage/policy-framework/guidance-by-policy-type/communications/"> Policy Framework Communications </a> page for suggested language.</li>
+                    <li><strong>If not</strong>, include accessibility requirement information in an existing policy or create a new one; see the <a href="{{ site.baseurl }}/manage/policy-framework/guidance-by-policy-type/communications/"> Policy Framework Communications </a> page for suggested language.</li>
                     <li><strong>If yes</strong>, proceed to item No. 2 on this list.</li>
                 </ol>
             </li>
@@ -50,20 +50,20 @@ Below is a pre-publishing checklist web content managers should use before consi
             <li><strong>If yes</strong>, ensure all relevant Section 508 standards are met prior to publication.</li>
         </ol>
     </li>
-    <li><strong>Test and determine the severity of the nonconformant content.</strong> <a href="https://www.section508.gov/test/"> Conduct a review </a> of the content to determine the number and severity of accessibility errors:
+    <li><strong>Test and determine the severity of the nonconformant content.</strong> <a href="{{ site.baseurl }}/test/"> Conduct a review </a> of the content to determine the number and severity of accessibility errors:
         <ol type="a">
-            <li><strong>If significant remediation is required</strong>, send content back to the creator for  remediation. Include content creation resources or checklists <a href="https://www.section508.gov/create/">such as those found on Section508.gov</a> to ensure content is created accessibly.</li>
+            <li><strong>If significant remediation is required</strong>, send content back to the creator for  remediation. Include content creation resources or checklists <a href="{{ site.baseurl }}/create/">such as those found on Section508.gov</a> to ensure content is created accessibly.</li>
             <li><strong>If not</strong>, determine if the web content manager or their team can readily remediate content or if the content should be returned to the content creator based on established SOPs.</li>
         </ol>
     </li>
     <li><strong>Determine what type of content is being created and apply the appropriate accessibility tools, guidelines and checklists to ensure the content is accessible:</strong>
         <ol type="a">
-            <li>For presentations, use <a href="https://www.section508.gov/create/presentations/">best practices on creating accessible presentations</a>.</li>
-            <li>For spreadsheets, use <a href="https://www.section508.gov/create/spreadsheets/">best practices on creating accessible spreadsheets</a>.</li>
-            <li>For documents, use <a href="https://www.section508.gov/create/documents/">best practices on creating documents</a>.</li>
-            <li>For PDFs, use <a href="https://www.section508.gov/create/pdfs/">best practices on creating PDFs</a>.</li>
-            <li>For HTML content, use <a href="https://www.section508.gov/develop/software-websites/">best practices on developing accessible web pages</a>.</li>
-            <li>For other digital content, <a href="https://www.section508.gov/create/">see the broader content creation page on Section508.gov</a>.</li>
+            <li>For presentations, use <a href="{{ site.baseurl }}/create/presentations/">best practices on creating accessible presentations</a>.</li>
+            <li>For spreadsheets, use <a href="{{ site.baseurl }}/create/spreadsheets/">best practices on creating accessible spreadsheets</a>.</li>
+            <li>For documents, use <a href="{{ site.baseurl }}/create/documents/">best practices on creating documents</a>.</li>
+            <li>For PDFs, use <a href="{{ site.baseurl }}/create/pdfs/">best practices on creating PDFs</a>.</li>
+            <li>For HTML content, use <a href="{{ site.baseurl }}/develop/software-websites/">best practices on developing accessible web pages</a>.</li>
+            <li>For other digital content, <a href="{{ site.baseurl }}/create/">see the broader content creation page on Section508.gov</a>.</li>
         </ol>
     </li>
 </ol>
@@ -74,14 +74,14 @@ Below is a pre-publishing checklist web content managers should use before consi
     <li><strong>Consider what additional remediation or special actions, such as providing to attendees beforehand, etc., should be considered if this content is used in a virtual meeting.</strong></li>
     <li><strong>Test draft web pages with available accessibility tools once in HTML format.</strong>
         <ol type="a">
-            <li>For website content, one can use <a href="https://www.section508.gov/test/trusted-tester/">testing methodologies such as Trusted Tester</a> or tools such as <a href="https://www.ssa.gov/accessibility/andi/help/install.html">the ANDI tool</a>.</li>
+            <li>For website content, one can use <a href="{{ site.baseurl }}/test/trusted-tester/">testing methodologies such as Trusted Tester</a> or tools such as <a href="https://www.ssa.gov/accessibility/andi/help/install.html">the ANDI tool</a>.</li>
             <li>For color contrast issues specifically, use a color contrast checker.</li>
         </ol>
     </li>
     <li><strong>Once posted, regularly check pages for potential issues and required remediation:</strong>
         <ol type="a">
             <li>Use an accessibility scanning tool to check an entire website, determine prioritized areas for accessibility remediation, and apply manual testing where possible.</li>
-            <li>For online PDF content, use <a href="https://www.section508.gov/test/documents/">a PDF checker</a> for more specific review.</li>
+            <li>For online PDF content, use <a href="{{ site.baseurl }}/test/documents/">a PDF checker</a> for more specific review.</li>
         </ol>
     </li>
 </ol>

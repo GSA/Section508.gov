@@ -78,7 +78,7 @@ The [Observations ]({{site.baseurl}}/manage/section-508-assessment/2023/observat
 
 * Some respondents were unable to find data for the Assessment, or likely misinterpreted the criteria, for a variety of reasons: Section 508 PMs tenure length, little experience reporting on Section 508 compliance, lack of coordination between business lines within reporting entities, and inclusion of small reporting entities who likely had very limited resources to respond to the Assessment.
 
-* While GSA provided a Definition of Terms and supplemental documentation, and FAQs, respondents likely did not closely read the provided content on [Section508.gov](https://www.section508.gov/manage/section-508-assessment/), leading to responses that were erroneous, such as:
+* While GSA provided a Definition of Terms and supplemental documentation, and FAQs, respondents likely did not closely read the provided content on [Section508.gov]({{ site.baseurl }}/manage/section-508-assessment/), leading to responses that were erroneous, such as:
 
   * Despite having federal and contractor Section 508 FTEs, respondents reported a budget less than the equivalent salary for the reported number of FTEs.
 

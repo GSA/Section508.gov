@@ -33,7 +33,7 @@ This FAR final rule is consistent with the Revised 508 Standards. Noticeable dif
 <li>Previously, this section of the FAR (39.204) included an exception for micro-purchases. A micro-purchase exception did not appear in the Original 508 Standards, does not appear in the Revised 508 Standards, and ended in April 2005. There is not a micro-purchase exception in this update to the FAR.</li>
 </ul>
 
-For a detailed comparison of the previous and updated versions, visit [Tabular Comparison of the Previous FAR text against the 2021 Update](https://www.section508.gov/manage/laws-and-policies/far-update-comparison). 
+For a detailed comparison of the previous and updated versions, visit [Tabular Comparison of the Previous FAR text against the 2021 Update]({{ site.baseurl }}/manage/laws-and-policies/far-update-comparison). 
 
  
 **Reviewed/Updated**: November 2021

@@ -70,4 +70,4 @@ training and formal accessibility testing certification for utilizing the DHS Tr
 Testers.
 <br>
 <br>
-For more information and resources, explore the <a href="https://www.section508.gov/test/trusted-tester/">DHS Trusted Tester Process and Certification Program page</a> on Section508.gov. 
+For more information and resources, explore the <a href="{{ site.baseurl }}/test/trusted-tester/">DHS Trusted Tester Process and Certification Program page</a> on Section508.gov. 

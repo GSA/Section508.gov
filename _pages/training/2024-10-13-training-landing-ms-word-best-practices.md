@@ -99,7 +99,7 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [Documents Authoring Guides]({{site.baseurl}}/create/documents/authoring-guides/)
 * [How to Make an Accessible Document in Microsoft Word (Video Series)]({{site.baseurl}}/create/documents/training-videos/)
 * [How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC]({{site.baseurl}}/create/pdfs/training-videos/)
-* [Module 2: Use Styles to Create headings](https://www.section508.gov/training/documents/aed-cop-docx02/)
+* [Module 2: Use Styles to Create headings]({{ site.baseurl }}/training/documents/aed-cop-docx02/)
 * <a href="https://www.bls.gov/opub/ted/2022/19-1-percent-of-people-with-a-disability-were-employed-in-2021.htm" target="_blank" class="usa-link--external">TED: 19.1 percent of people with a disability were employed in 2021</a>
 * <a href="https://support.microsoft.com/en-us/office/customize-or-create-new-styles-d38d6e47-f6fc-48eb-a607-1eb120dec563" target="_blank" class="usa-link--external"> Using and editing existing styles in MS Word</a>
 * Vocabulary

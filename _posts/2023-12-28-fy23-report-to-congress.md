@@ -23,11 +23,11 @@ The General Services Administration (GSA) just released a report on the current 
 Under the [Consolidated Appropriations Act, 2023](https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF), Congress directed GSA, OMB, and USAB to work together to collect and evaluate federal agency data on Information and Communication Technology (ICT) accessibility. This effort was focused on enhancing transparency and accountability regarding Section 508 compliance, and was an essential step towards addressing the ongoing need to improve accessibility of federal ICT.
 
 
-[Findings](https://www.section508.gov/manage/section-508-assessment/2023/findings/summary/) revealed Section 508 compliance continues to fall short of expectations. The majority of respondents were at or below the average threshold for Section 508 compliance. This trend suggests more work must be done to ensure the federal government meets the Section 508 statutory requirements to provide equal ICT access for all members of the public and federal employees with disabilities.
+[Findings]({{ site.baseurl }}/manage/section-508-assessment/2023/findings/summary/) revealed Section 508 compliance continues to fall short of expectations. The majority of respondents were at or below the average threshold for Section 508 compliance. This trend suggests more work must be done to ensure the federal government meets the Section 508 statutory requirements to provide equal ICT access for all members of the public and federal employees with disabilities.
 
 The Assessment’s insights into federal Section 508 compliance contribute to a better understanding of the situation and draw attention to digital accessibility, elevating its importance across reporting entities. The report concluded that compliance can be improved across government, with less than 30% of the self-reported top 10 viewed intranet and internet pages fully conforming to Section 508 standards. 
 
-The Assessment also includes [recommendations](https://www.section508.gov/manage/section-508-assessment/2023/recommendations/) for improving accessibility, such as exploring the creation of a shared service model for Section 508 implementation, updating and modernizing Section 508 of the Rehabilitation Act, and increasing agency oversight. 
+The Assessment also includes [recommendations]({{ site.baseurl }}/manage/section-508-assessment/2023/recommendations/) for improving accessibility, such as exploring the creation of a shared service model for Section 508 implementation, updating and modernizing Section 508 of the Rehabilitation Act, and increasing agency oversight. 
 
 During the Assessment’s development, many in the digital accessibility community expressed optimism that this new focus will translate into tangible advancements in Section 508 compliance and a stronger commitment to ensuring equal access to ICT and digital services.
 
@@ -35,7 +35,7 @@ Investments and efforts encouraged by the Assessment can lead to significantly i
 
 ## How can you learn more?
 
-Read the [FY23 Governmentwide Section 508 Assessment](https://www.section508.gov/2023-congressional-report/) or contact the GSA Government-wide IT Accessibility Program at <section.508@gsa.gov>. 
+Read the [FY23 Governmentwide Section 508 Assessment]({{ site.baseurl }}/2023-congressional-report/) or contact the GSA Government-wide IT Accessibility Program at <section.508@gsa.gov>. 
 
 --- 
 

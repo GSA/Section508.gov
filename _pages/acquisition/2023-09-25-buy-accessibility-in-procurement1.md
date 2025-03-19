@@ -41,7 +41,7 @@ The Information Technology (IT) office should be involved as early as possible t
 Before doing market research, understanding accessibility regulations will help you identify compliant products. An RFI can request a vendor to provide an updated <a href="https://www.itic.org/policy/accessibility/vpat" target="_blank" class="usa-link--external">Voluntary Product Accessibility Template (VPAT®)</a> or comparable Accessible Conformance Report (ACR). It may also be publicly available if a vendor opts to post it to its website.
 
 It is critical that one or more of the stakeholders be familiar with the VPAT® or ACR. An agency may have a point of contact who may serve as the Subject Matter Expert (SME) to review and comment on accessibility claims made by a vendor. This will be necessary during
-the process, especially evaluating accessibility during pre- and post-award. For the Section 508 Program Managers currently supporting TTS and GSA, please visit [Find Your 508 Program Manager](https://www.section508.gov/tools/program-manager-listing/). 
+the process, especially evaluating accessibility during pre- and post-award. For the Section 508 Program Managers currently supporting TTS and GSA, please visit [Find Your 508 Program Manager]({{ site.baseurl }}/tools/program-manager-listing/). 
 
 ### VPAT® <a href="https://www.itic.org/policy/accessibility/vpat" target="_blank" class="usa-link--external">Templates</a>
 * <a href="https://www.itic.org/dotAsset/353efda0-598d-4593-aa53-f4f1f0f61d82.doc" target="_blank" class="usa-link--external">[VPAT Revised Section 508 Edition (March 2022)(DOC)</a>

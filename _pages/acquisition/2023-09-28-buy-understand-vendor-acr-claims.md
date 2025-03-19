@@ -17,7 +17,7 @@ resource-type: Long form article
 format: HTML (html)
 ---
 
-In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)](https://www.section508.gov/sell/vpat/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's conformance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.
+In the modern digital landscape, it is critical that the federal government ensures equal access to information and services for all individuals, regardless of disabilities. The United States government recognized this importance by enacting Section 508 of the Rehabilitation Act, which mandates that federal agencies procure and use accessible information and communication technology (ICT) products and services. Vendors typically provide Accessibility Conformance Reports (ACRs) by completing a [Voluntary Product Accessibility Template (VPAT®)]({{ site.baseurl }}/sell/vpat/) to communicate the accessibility status of their products. These ACRs typically use terms like "supports," "partially supports," and "does not support" to describe a product's conformance with Section 508 standards. The information below discusses what these terms mean and how purchasers can interpret them.
 
 ## 1. Supports
 
@@ -41,15 +41,15 @@ A note of "not evaluated" in an ACR indicates that the vendor has not conducted 
 
 ## Verify Vendor Conformance Claims
 
-Whenever possible, purchasers should conduct independent conformance validation testing and evaluation to verify vendor accessibility conformance claims. For Web-based products, purchasers can refer to the ICT Accessibility Testing Baseline for Web and consider using a “Baseline-aligned” test process, such as the Trusted Tester process (see [Trusted Tester and ICT Testing Baseline](https://www.section508.gov/test/trusted-tester/)).
+Whenever possible, purchasers should conduct independent conformance validation testing and evaluation to verify vendor accessibility conformance claims. For Web-based products, purchasers can refer to the ICT Accessibility Testing Baseline for Web and consider using a “Baseline-aligned” test process, such as the Trusted Tester process (see [Trusted Tester and ICT Testing Baseline]({{ site.baseurl }}/test/trusted-tester/)).
 
 Understanding vendor claims in ACRs regarding Section 508 conformance is essential for organizations aiming to provide equal access to digital information and services. Purchasers should always review ACRs thoroughly, seek clarification from vendors if necessary, and align their product choices with the specific accessibility needs of their user base and their agency's compliance obligations under Section 508. By doing so, they can make informed decisions that promote digital inclusivity and accessibility for all.
 
 ## Related Resources
 
-  * [Request Accessibility Information from Vendors & Contractors](https://www.section508.gov/buy/request-accessibility-information/)
-  * [Buy Accessible Products and Services](https://www.section508.gov/buy/)
-  * [Accessibility Requirements Tool (ART)](https://www.section508.gov/art/)
+  * [Request Accessibility Information from Vendors & Contractors]({{ site.baseurl }}/buy/request-accessibility-information/)
+  * [Buy Accessible Products and Services]({{ site.baseurl }}/buy/)
+  * [Accessibility Requirements Tool (ART)]({{ site.baseurl }}/art/)
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
   
 **Reviewed/Updated**: November 2024
