@@ -105,7 +105,7 @@ A refresh in this guidance, issued 10 years ago, will incorporate the present ac
 
 * As part of the ART modernization rollout, GSA presented ART training to over 1,000 federal employees across 11 agencies. [May-June 2023]
 
-* Upon notification of designation, per OMB guidance, GSA provides each new agency Section 508 PM with information to help them become familiar with Section 508, associated standards, and guidance and resources available on Section508.gov that can aid them in their new role. Additionally, each new PM is subscribed to the SEC508ITAC listserv, invited to participate in bi-monthly PM Huddles, and provided GSA’s contact information for technical assistance. Approximately 96 PMs and their backups across 24 organizations reported the new role designation during the Assessments reporting period. Not all reporting entities have notified GSA of a designated Section 508 Program Manager or are [publicly listed](https://www.section508.gov/tools/program-manager-listing/).
+* Upon notification of designation, per OMB guidance, GSA provides each new agency Section 508 PM with information to help them become familiar with Section 508, associated standards, and guidance and resources available on Section508.gov that can aid them in their new role. Additionally, each new PM is subscribed to the SEC508ITAC listserv, invited to participate in bi-monthly PM Huddles, and provided GSA’s contact information for technical assistance. Approximately 96 PMs and their backups across 24 organizations reported the new role designation during the Assessments reporting period. Not all reporting entities have notified GSA of a designated Section 508 Program Manager or are [publicly listed]({{ site.baseurl }}/tools/program-manager-listing/).
 
 --- 
 

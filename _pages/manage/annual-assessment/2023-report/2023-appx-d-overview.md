@@ -17,7 +17,7 @@ format: "HTML (html)"
 ---
 Reporting entities are listed in alphabetical order beginning with CFO Act departments and component reporting entities followed by independent reporting entities<sup><a href="#fn39" id="fr39">39</a></sup>. Due to similarities of some reporting entity names, reporting entity acronyms used in this report may not reflect the initialism used by those reporting entities and altered solely to ensure data integrity during the collection, analysis, reporting and associated open data made available as part of this Assessment.
 
-Comprehensive submission data by reporting entity can be found at: [Section508.gov/2023-congressional-report](https://www.section508.gov/2023-congressional-report/). In addition, a supplemental data dictionary details the Assessment criteria, answer selections, dependencies, “understanding content” and variable identifiers.
+Comprehensive submission data by reporting entity can be found at: [Section508.gov/2023-congressional-report]({{ site.baseurl }}/2023-congressional-report/). In addition, a supplemental data dictionary details the Assessment criteria, answer selections, dependencies, “understanding content” and variable identifiers.
 
 <span class="text-secondary-darker"><strong>Each reporting entity overview page contains the following:</strong></span>
 <div style="width: 100%; border: 1px solid black; background-color: #D8E7F5;" class="border-base radius-lg padding-1">

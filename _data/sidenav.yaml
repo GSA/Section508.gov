@@ -51,8 +51,6 @@ manage:
     children: 
       - name: Overview
         url: manage/playbooks/
-      - name: Quick Guide to IT Accessibility for Program Managers
-        url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Technology Accessibility Playbook
         url: '#'
         grandchildren:
@@ -82,6 +80,8 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook-intro/play11/
           - name: "Play 12: Educate the Workforce"
             url: manage/playbooks/technology-accessibility-playbook-intro/play12/
+      - name: Quick Guide to IT Accessibility for Program Managers
+        url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Executive Guide to Federal IT Accessibility
         url: manage/playbooks/exec-guide-accessibility/
   - name: Law and Policy
@@ -441,6 +441,8 @@ training:
             url: 'tools/glossary/'
           - name: 'Acronyms & Abbreviations'
             url: 'tools/acronyms-abbreviations/'
+      - name: ACR Library
+        url: 'tools/acr-library/'
 develop:
   - name: Design & Develop
     url: 'develop/'

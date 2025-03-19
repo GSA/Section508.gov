@@ -42,7 +42,7 @@ Reporting entities should use this Assessment to identify barriers that prevent 
 
 ## Instructions for Reporting
 
-Reporting entity [Section 508 program managers](https://www.section508.gov/tools/program-manager-listing/) should serve as the primary point of contact (POC) for the Section 508 Assessment. If there is no Section 508 program manager currently assigned, the reporting entity should designate an individual to be the POC.
+Reporting entity [Section 508 program managers]({{ site.baseurl }}/tools/program-manager-listing/) should serve as the primary point of contact (POC) for the Section 508 Assessment. If there is no Section 508 program manager currently assigned, the reporting entity should designate an individual to be the POC.
 
 Chief Information Officers (CIO) or equivalent of reporting entities will receive information from OMB including instructions the POC must use to register with GSA in order to receive access to the online Assessment reporting tool.
 
