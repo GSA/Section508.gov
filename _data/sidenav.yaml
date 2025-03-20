@@ -441,8 +441,6 @@ training:
             url: 'tools/glossary/'
           - name: 'Acronyms & Abbreviations'
             url: 'tools/acronyms-abbreviations/'
-      - name: ACR Library
-        url: 'tools/acr-library/'
 develop:
   - name: Design & Develop
     url: 'develop/'
