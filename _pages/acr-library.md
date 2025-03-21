@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: training
 title: Accessibility Conformance Report (ACR) Library
-permalink: tools/acr-library/
+permalink: accessibility-conformance-reports/
 description: Explore our ACR Library for accessibility compliance reports on our ICT tools and online training. Ensure Section 508 compliance for informed procurement and development.
 disclaimer: 
 hide-date: 
@@ -29,7 +29,9 @@ resource_type:
 - tool
 format: html
 created: 2025-03-17
-updated: #Add/update date stamp for each review/update
+redirect_from: 
+- acr/
+- conformance-reports/
 ---
 GSA is committed to providing technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508 of the Rehabilitation Act of 1973, as amended [(29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/). GSA Accessibility Conformance Reports (ACRs) describe how Section508.gov's online tools and training support <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, so that the many organizations, acquisition teams, and individuals can make informed procurement decisions.
 
@@ -134,11 +136,11 @@ GSA is committed to providing technical assistance to individuals and federal de
 </div>
 
 ## Related Resources
+  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
+  * [Soliciting and Evaluating ACRs in Federal ICT Procurement](https://www.section508.gov/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
+  * [Request Accessibility Information from Vendors & Contractors](https://www.section508.gov/buy/request-accessibility-information/)
+  * [Understanding Vendor Claims in ACRs for Section 508 Conformance](https://www.section508.gov/buy/understand-claims/) 
   * [Buy Accessible Products and Services](https://www.section508.gov/buy/)
   * [Accessibility Requirements Tool (ART)](https://www.section508.gov/art/)
-  * [Request Accessibility Information from Vendors & Contractors](https://www.section508.gov/buy/request-accessibility-information/)
-  * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-  * [Understanding Vendor Claims in ACRs for Section 508 Conformance](https://www.section508.gov/buy/understand-claims/) 
-  * [Soliciting and Evaluating ACRs in Federal ICT Procurement](https://www.section508.gov/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
 
 **Reviewed/Updated:** March 2025
