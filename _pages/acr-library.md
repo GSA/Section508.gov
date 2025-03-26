@@ -39,9 +39,12 @@ GSA is committed to providing technical assistance to individuals and federal de
 
 * **Find ACRs**: Browse for Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products.
 * **View or Download ACRs**: Select the provided link to download the latest ACR package file.
-  * **HTML Format**: View the ACR in a user-friendly, readable document format.
-  * **DOCX**: View or download the ACR in Microsoft Word document format.
-  * **YAML Format**: Access the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
+  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  **HTML Format**: View the ACR in a user-friendly, readable document format.
+  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  **DOCX**: View or download the ACR in Microsoft Word document format.
+  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  **YAML Format**: Access the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
 
 <table id="table-1" class="grid-col-12 usa-table usa-table--borderless striped margin-top-4">
