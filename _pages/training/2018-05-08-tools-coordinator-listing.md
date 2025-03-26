@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-03-18
+updated: 2025-02-27
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -269,8 +269,7 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Sweeney - <kate.sweeney@hhs.gov>  
-<!-- Cammie Truesdell - <cammie.truesdell@hhs.gov>  -->
+Cammie Truesdell - <cammie.truesdell@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -374,7 +373,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Daniel R. Williams - <daniel.r.williams@hud.gov>  
+Paul A. Scott - <paul.a.scott@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
@@ -418,7 +417,7 @@ Jennifer K. Cantilena - <jennifer.k.cantilena2@usdoj.gov>
 ### Civil Division
 Benjamin Jones - <benjamin.jones@usdoj.gov>
 ### Civil Rights Division
-Isabelle Tran - <isabelle.tran@usdoj.gov>  
+Armbrister Gowdy - <armbrister.gowdy@usdoj.gov>  
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -447,6 +446,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 Heather Kowalski - <heather.kowalski@usdoj.gov>  
 ### Justice Management Division
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
+Cynthia R. Wright - <cynthia.wright@usdoj.gov>  
 ### National Institute of Corrections
 Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
@@ -501,7 +501,7 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Christopher M. Brown - <browncm@state.gov>  
+Richard McCarthy - <mccarthyrd@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
