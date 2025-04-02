@@ -19,16 +19,16 @@ resource-type: Playbook
 format: HTML (html)
 ---
 
-A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program. If you are federal, state, local, tribal, or territorial government employee or contractor, you are eligible to please join the [Section 508/IT Accessibility Community mailing list](https://www.section508.gov/manage/join-the-508-community/).
+A successful 508 Section Program should not be established in isolation. Active collaboration with your federal partners not only provides an opportunity to more accurately baseline your own program, but also enables your agency to leverage existing best practices and resources. This collaboration can lead to a more mature and comprehensive program. If you are federal, state, local, tribal, or territorial government employee or contractor, you are eligible to please join the [Section 508/IT Accessibility Community mailing list]({{ site.baseurl }}/manage/join-the-508-community/).
 
 ## Key Questions
 
   * Do you participate in interagency technology accessibility forums? There are a number of recurring events available each year including:
     * Bi-monthly IT Accessibility Community Meetings,
     * Bi-monthly Section 508 Best Practices Webinars, and 
-    * Annual [Interagency Accessibility Forum (IAAF)](https://www.section508.gov/iaaf/).
+    * Annual [Interagency Accessibility Forum (IAAF)]({{ site.baseurl }}/iaaf/).
     * For these and other events and registration information, please visit [Events]({{site.basurl}}/events/). 
-  * How do you collaborate with the [Section 508 Program Managers](https://www.section508.gov/tools/coordinator-listing/) of other federal agencies to learn about and contribute to best practices?
+  * How do you collaborate with the [Section 508 Program Managers]({{ site.baseurl }}/tools/coordinator-listing/) of other federal agencies to learn about and contribute to best practices?
   * How has collaboration accelerated your Section 508 program&rsquo;s maturity and lowered implementation costs?
 
 ## Checklist
@@ -39,8 +39,8 @@ A successful 508 Section Program should not be established in isolation. Active 
       * Assign representatives to each of the ACOP&rsquo;s subcommittees: Best Practices Subcommittee, Education Subcommittee, and Vendor/Acquisition Outreach Subcommittee.
       * Use your participation in the ACOP subcommittees to tailor resources being developed to meet the needs of your agency and share your own best practices and training materials for use by others.
   * Share information and data collected by your 508 Program with other agencies:
-      * Share your annual [Governmentwide Section 508 Assessment](https://www.section508.gov/section-508-assessment/) reports with other agencies to identify valuable areas for collaboration.
-      * Review [data of other agencies](https://www.section508.gov/manage/section-508-assessment/annual-reports/) to identify potential partners for joint efforts and contact those agencies to begin the discussion.
+      * Share your annual [Governmentwide Section 508 Assessment]({{ site.baseurl }}/section-508-assessment/) reports with other agencies to identify valuable areas for collaboration.
+      * Review [data of other agencies]({{ site.baseurl }}/manage/section-508-assessment/annual-reports/) to identify potential partners for joint efforts and contact those agencies to begin the discussion.
   * Participate in interagency pilot programs:
       * Be an early adopter of interagency 508 programs and provide the necessary resources to implement the programs and provide feedback to improve the offerings based on your experiences.
       * Utilize standardized testing methodologies such as the Interagency Trusted Tester Program and make testing results available to other federal agencies.
@@ -51,8 +51,8 @@ A successful 508 Section Program should not be established in isolation. Active 
 
 ## Resources
 
-  * [Federal CIO Council Accessibility Community of Practice][1]
-  * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][2]
+  * <a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Federal CIO Council Accessibility Community of Practice</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
 
 &nbsp;
 
@@ -65,7 +65,4 @@ A successful 508 Section Program should not be established in isolation. Active 
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://www.cio.gov/about/members-and-leadership/accessibility-cop/
- [2]: https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf
+**Reviewed/Updated:** March 2025

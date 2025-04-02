@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/micro-purchases/
 type: training
 title: "Micro-Purchases and Section 508 Requirements"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/micro-purchases/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -32,7 +32,7 @@ format: "HTML"
         <p>This course explains how Section 508 requirements apply to ICT micro-purchases. To achieve this goal, we will follow Mary through the process of acquiring her multifunction machine. (FAI Course #: FAC 047)</p>
       </div>
       <div class="usa-card__footer">
-        <a href="{{site.baseurl}}/assets/online-training/micro-purchases-and-section-508-requirements/lesson1/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
+        <a href="{{site.baseurl}}/assets/online-training/micro-purchases-and-section-508-requirements/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs via FAC 047</a>
       </div>
     </div>
   </li>
@@ -48,7 +48,7 @@ format: "HTML"
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 2.0 (Nov 2021)  
+**Version:** 3.0 (Mar 2025)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -123,6 +123,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
     <ul>
       <li class="usa-icon-list__item">
         <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
+        <div class="usa-icon-list__content"><strong>Mar 2025 - v3.0 | Interface Design:</strong> We've updated the course to Articulate Rise with a modern user interface to match our other online courses. We've also made minor content updates and refreshed linked references.</div>
+      </li>
+      <li class="usa-icon-list__item">
+        <div class="usa-icon-list__icon text-orange"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#event"></use></svg></div>
         <div class="usa-icon-list__content"><strong>Nov 2021 - v2.0 | Release:</strong> Redesign and minor lesson refresh.</div>
       </li>
       <li class="usa-icon-list__item">
@@ -137,4 +141,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

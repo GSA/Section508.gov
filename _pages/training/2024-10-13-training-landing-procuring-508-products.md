@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/procuring-section-508-conformant-ict/
 type: training
 title: "Procuring Section 508 Conformant ICT Products and Services"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/procuring-section-508-conformant-ict/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -48,7 +48,7 @@ format: "HTML"
 
 **Duration:** 105 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 1.0 (Mar 2024)  
+**Version:** 1.0 (Mar 2024)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -93,11 +93,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
 * [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
+* [Assistive Technology (AT)]({{site.baseurl}}/tools/glossary/#assistive-technology)
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
 * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
 * [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
 * [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
@@ -118,14 +118,14 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="https://www.access-board.gov/ict/#E202.7.1" target="_blank" class="usa-link--external">E202.7.1 Required Documentation</a>
   * <a href="https://www.access-board.gov/ict/#E202.7.2" target="_blank" class="usa-link--external">E202.7.2 Alternative Means</a>
 * [Sell Accessible Products and Services]({{site.baseurl}}/sell/)
-* [Solicitation Review Tool (SRT)](https://www.section508.gov/buy/solicitation-review-tool/)
+* [Solicitation Review Tool (SRT)]({{ site.baseurl }}/buy/solicitation-review-tool/)
 * [Stakeholder Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
 * [Trusted Tester and ICT Testing Baseline]({{site.baseurl}}/test/trusted-tester/)
 * Vocabulary
-  * [ICT]({{site.baseurl}}/content/glossary/#ict)
-  * [Compliant]({{site.baseurl}}/content/glossary/#compliant-section-508)
-  * [Conformant]({{site.baseurl}}/content/glossary/#conformant-section-508)
-  * [Micro-purchase]({{site.baseurl}}/content/glossary/#micro-purchase)
+  * [ICT]({{site.baseurl}}/tools/glossary/#ict)
+  * [Compliant]({{site.baseurl}}/tools/glossary/#compliant-section-508)
+  * [Conformant]({{site.baseurl}}/tools/glossary/#conformant-section-508)
+  * [Micro-purchase]({{site.baseurl}}/tools/glossary/#micro-purchase)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
@@ -140,4 +140,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

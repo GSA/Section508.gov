@@ -40,10 +40,10 @@ Additionally, alt text makes content accessible to other users, like those who m
 <hr />
 
 ## Resources on How to Add Alt Text
--   [Microsoft Word - Create Accessible Images and Other Objects](https://www.section508.gov/training/documents/aed-cop-docx09/)
--   [Microsoft PowerPoint - Adding Alternative Text to Images and Other Objects](https://www.section508.gov/training/presentations/aed-cop-pptx07/)
--   [Microsoft Excel - Adding Alternative Text to Images and Other Objects](https://www.section508.gov/training/spreadsheets/aed-cop-xlsx06/)
--   [PDF - Remediating PDFs for Accessibility](https://www.section508.gov/training/pdfs/aed-cop-pdf03/)
+-   [Microsoft Word - Create Accessible Images and Other Objects]({{ site.baseurl }}/training/documents/aed-cop-docx09/)
+-   [Microsoft PowerPoint - Adding Alternative Text to Images and Other Objects]({{ site.baseurl }}/training/presentations/aed-cop-pptx07/)
+-   [Microsoft Excel - Adding Alternative Text to Images and Other Objects]({{ site.baseurl }}/training/spreadsheets/aed-cop-xlsx06/)
+-   [PDF - Remediating PDFs for Accessibility]({{ site.baseurl }}/training/pdfs/aed-cop-pdf03/)
 -   [Web Development/HTML - W3.org Images Tutorial](https://www.w3.org/WAI/tutorials/images/)
 
 ## General Guidelines

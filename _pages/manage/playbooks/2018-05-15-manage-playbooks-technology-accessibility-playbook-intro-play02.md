@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 2: Assess Your Section 508 Program Maturity'
 created: 1526408495
+updated: 2025-03-05
 redirect_from: 
 - tools/playbooks/technology-accessibility-playbook-intro/play02/
 topic: Manage (program)
@@ -91,11 +92,9 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
 
 ## Resources
 
-  * [Strategic Plan: Improving Management of Section 508 of the Rehabilitation Act][1]
-  * [Training - How to Measure Your Agency's 508 Program Training][2]
-  * [Section 508 OMB Dashboard/Reporting Template][3]
-  * [Section 508 OMB Dashboard/Reporting Template Instructions][4]
-  * [IT Dashboard.gov - For agency E-Gov Act accessibility related summaries][5]
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
+  * [Section 508 Conformance Reporting for Federal Agencies]({{ste.baseurl}}/manage/agency-508-reporting-requirements/)
+  * <a href="https://itdashboard.gov/" target="_blank" class="usa-link--external">IT Dashboard.gov - For agency E-Gov Act accessibility related summaries</a>
 
 &nbsp;
 
@@ -108,10 +107,4 @@ In the Government-wide Section 508 Strategic Plan, OMB requires agencies to asse
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: https://assets.section508.gov/assets/files/strategic-plan-508-compliance.pdf
- [2]: https://assets.section508.gov/assets/files/FINAL_16to9_OMB_YOUR_PROGRAM_MEASURES.PPTX
- [3]: https://assets.section508.gov/assets/files/S508TEMPLATE120816EXT2_1.pdf
- [4]: {{site.baseurl}}/manage/reporting
- [5]: https://itdashboard.gov/
+**Reviewed/Updated:** March 2025

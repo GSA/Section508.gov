@@ -20,7 +20,7 @@ format: HTML (html)
 
 <a id="top" name="top"></a>
 
-Identifying whether you can claim an exception for [information and communication technology](https://www.section508.gov/content/glossary/#ict) (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.
+Identifying whether you can claim an exception for [information and communication technology]({{site.baseurl}}/tools/glossary/#ict) (ICT) items in your Federal IT procurement or development project is the second step in determining how the [Revised 508 Standards][1] apply. (The first step is to [conduct an inventory][2].) This is important to ensure that any technology your agency buys or builds will be accessible.
 
 A full list of exceptions is detailed in the Standards under [E202 General Exceptions][3]. Use the [Revised 508 Standards Applicability Checklist][4] (MS-Word, April 2018) to document ICT exceptions.
 

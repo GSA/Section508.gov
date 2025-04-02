@@ -4,7 +4,8 @@ layout: page
 permalink: manage/playbooks/exec-guide-accessibility/
 type: manage
 title: 'Executive Guide to Federal IT Accessibility'
-created: 1534360384
+created: 2028-08-15
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/
 topic: "Manage (program)"
@@ -61,8 +62,8 @@ Establish a policy that identifies how your agency will manage accessibility com
 * Define clear roles and responsibilities.
 * Develop a roadmap to increase transparency, strengthen accountability, and improve collaboration around accessible technology at your agency.
 * Review [IT Accessibility Laws and Policies]({{site.baseurl}}/manage/laws-and-policies/), including [related policies]({{site.baseurl}}/manage/laws-and-policies/#related-policies):
-  * <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>
-  * <a href="https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">OMB M-24-08 - Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>
+  * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/" target="_blank" class="usa-link--external">OMB M-23-22 - Delivering a Digital-First Public Experience (PDF)</a>
   * <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 U.S.C. §794d–1. Reports on accessibility of electronic information to individuals with disabilities</a>
 
 #### Sample Accessibility Statements and Website Policies
@@ -169,11 +170,11 @@ The Information and Communication Technology (ICT) Final Standards and Guideline
 
 IT Accessibility is a team effort that requires strong support from agency leaders, and participation across the entire agency. With the right &ldquo;coach,&rdquo; Federal agencies can build a culture that values the importance of equal access, staff will understand their responsibilities related to accessibility, and we can work together to produce digital products and services that meet the needs of all Americans. Visit [Section508.gov][5] and the [IT Accessibility/508 Program Manager Playbook][6] to learn more.
 
-**Reviewed/Updated:** October 2024
+**Reviewed/Updated:** March 2025
 
  [1]: {{site.baseurl}}/blog/benefits-accessible-design
  [2]: https://www.deque.com/accessible-design
  [3]: https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508
  [4]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
- [5]: https://www.section508.gov/
+ [5]: {{ site.baseurl }}/
  [6]: {{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro

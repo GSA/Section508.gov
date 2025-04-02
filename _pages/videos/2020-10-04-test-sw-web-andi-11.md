@@ -98,4 +98,4 @@ In Module: 11 of the Accessible Name &amp; Description Inspector (ANDI) Tool vid
 
 **Reviewed/Updated**: January 2025
 
- [1]: {{site.baseurl}}/content/glossary#frames
+ [1]: {{site.baseurl}}/tools/glossary/#frames

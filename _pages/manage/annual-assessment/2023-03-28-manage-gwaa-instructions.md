@@ -42,7 +42,7 @@ Reporting entities should use this Assessment to identify barriers that prevent 
 
 ## Instructions for Reporting
 
-Reporting entity [Section 508 program managers](https://www.section508.gov/tools/program-manager-listing/) should serve as the primary point of contact (POC) for the Section 508 Assessment. If there is no Section 508 program manager currently assigned, the reporting entity should designate an individual to be the POC.
+Reporting entity [Section 508 program managers]({{ site.baseurl }}/tools/program-manager-listing/) should serve as the primary point of contact (POC) for the Section 508 Assessment. If there is no Section 508 program manager currently assigned, the reporting entity should designate an individual to be the POC.
 
 Chief Information Officers (CIO) or equivalent of reporting entities will receive information from OMB including instructions the POC must use to register with GSA in order to receive access to the online Assessment reporting tool.
 
@@ -101,7 +101,7 @@ For questions about the Government-wide Section 508 Assessment, please email the
   <h2 style="position: absolute; clip: rect(0 0 0 0); visibility: hidden; opacity: 0;" id="footnote-label">Footnotes</h2>
   <ol>
     <li id="fn1"><a href="http://www.gpo.gov/fdsys/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm">29 U.S.C § 794 (d);</a> - National security systems, as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII-chap111-sec11103.htm">Section 11103(a) of Title 40</a>, are exempt. <a href="#fr1" aria-label="Back to content"> ↩ </a></li>
-    <li id="fn2">See <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm">29 USC 794d-1</a> Pub. L. No: 117-328 (2023), and OMB Memorandum, <a href="https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/">"M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a> from December 21, 2023. <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
+    <li id="fn2">See <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 USC 794d-1</a> Pub. L. No: 117-328 (2023), and OMB Memorandum, <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">"M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act"</a> from December 21, 2023. <a href="#fr2" aria-label="Back to content"> ↩ </a></li>
   </ol>
 </div>
 <div id="prev-next-section" style="justify-content: space-around;">

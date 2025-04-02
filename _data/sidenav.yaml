@@ -51,8 +51,6 @@ manage:
     children: 
       - name: Overview
         url: manage/playbooks/
-      - name: Quick Guide to IT Accessibility for Program Managers
-        url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Technology Accessibility Playbook
         url: '#'
         grandchildren:
@@ -82,6 +80,8 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook-intro/play11/
           - name: "Play 12: Educate the Workforce"
             url: manage/playbooks/technology-accessibility-playbook-intro/play12/
+      - name: Quick Guide to IT Accessibility for Program Managers
+        url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Executive Guide to Federal IT Accessibility
         url: manage/playbooks/exec-guide-accessibility/
   - name: Law and Policy
@@ -197,7 +197,7 @@ manage:
       - name: Support
         url: manage/section-508-assessment/support/
       - name: Definition of Terms
-        url: manage/section-508-assessment/definition-of-terms/
+        url: tools/glossary/
       - name: Annual Reports
         url: 'manage/section-508-assessment/annual-reports/'
   - name: Agency Section 508 Reporting Requirements
@@ -376,7 +376,7 @@ training:
           - name: "Module 14: Color Contrast Analyzer"
             url: training/web-software/andi-training-videos/color-contrast-analyzer/
           - name: "Module 15: Data Tables"
-            url: training/web-software/anditraining-videos/data-tables/
+            url: training/web-software/andi-training-videos/data-tables/
           - name: "Module 16: Layout Tables"
             url: training/web-software/andi-training-videos/layout-tables/
           - name: "Module 17: CSS Content and Positioning"
@@ -422,6 +422,8 @@ training:
       - name: ART API Server
         url: 'https://art-api.section508.gov/'
         external: true
+      - name: ART Requirements Statements by ICT
+        url: 'tools/list-of-art-requirements/' 
       - name: Solicitation Review Tool (SRT)
         url: 'buy/solicitation-review-tool/'
       - name: OpenACR Editor
@@ -432,8 +434,13 @@ training:
         url: 'manage/playbooks/'
       - name: Testing Tools for Web
         url: 'test/web-software/'
-      - name: Glossary of Terms
-        url: 'content/glossary/'
+      - name: 'Terms, Definitions, and Acronyms'
+        url: '#'            
+        grandchildren:
+          - name: 'Glossary of Terms'
+            url: 'tools/glossary/'
+          - name: 'Acronyms & Abbreviations'
+            url: 'tools/acronyms-abbreviations/'
 develop:
   - name: Design & Develop
     url: 'develop/'
@@ -680,9 +687,9 @@ report2023:
     url: '#'            
     children:
       - name: 'Terms and Definitions'
-        url: 'manage/section-508-assessment/2023/appendix-a-terms/'
+        url: 'tools/glossary/'
       - name: 'Acronyms List'
-        url: 'manage/section-508-assessment/2023/appendix-a-acronyms/'
+        url: 'tools/acronyms-abbreviations/'
   - name: 'Appendix B: Federal Initiatives and Resources on ICT Accessibility'
     url: 'manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/'
   - name: 'Appendix C: Methods'
@@ -758,9 +765,9 @@ report2024:
     url: '#'            
     children:
       - name: 'Terms and Definitions'
-        url: 'manage/section-508-assessment/2024/appendix-a-terms/'
+        url: 'tools/glossary/'
       - name: 'Acronyms List'
-        url: 'manage/section-508-assessment/2024/appendix-a-acronyms/'
+        url: 'tools/acronyms-abbreviations/'
   - name: 'Appendix B: Methods'
     url: 'manage/section-508-assessment/2024/appendix-b-methods/'
   - name: 'Appendix C: Overview Data By Reporting Entity'

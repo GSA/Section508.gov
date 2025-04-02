@@ -87,10 +87,10 @@ Many office productivity suites, such as Microsoft Office and Google Workspace, 
 *   **Color Contrast:** Verify the color contrast between links and their background meets WCAG 2.0 AA contrast requirements.
 
 ## Additional Resources 
-* <a href="https://www.section508.gov/blog/accessibility-bytes/color-contrast/" target="_blank" class="usa-link--external">Accessibility Bytes No. 3: Color Contrast</a>
+* <a href="{{ site.baseurl }}/blog/accessibility-bytes/color-contrast/" target="_blank" class="usa-link--external">Accessibility Bytes No. 3: Color Contrast</a>
 * <a href="https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html" target="_blank" class="usa-link--external">Understanding SC 2.4.4: Link Purpose (In Context) (Level A) | W3</a>
 * <a href="https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1&showtechniques=249#contrast-minimum" target="_blank" class="usa-link--external">Understanding SC 1.4.3: Contrast (Minimum) (Level AA) | W3</a>
-* <a href="https://www.section508.gov/test/web-software/#testing-tools-for-web" target="_blank" class="usa-link--external">Accessible Name & Description Inspector) | SSA</a>
+* <a href="{{ site.baseurl }}/test/web-software/#testing-tools-for-web" target="_blank" class="usa-link--external">Accessible Name & Description Inspector) | SSA</a>
 * <a href="https://webaim.org/techniques/hypertext/" target="_blank" class="usa-link--external">Links and Hypertext | WebAIM</a>
 
 <div class="border-base radius-lg border-1px padding-1" style="width: 100%; background-color: #f5f9fc;">

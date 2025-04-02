@@ -28,7 +28,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/focus-element">Module 2: Focus Element</a></p>
                <p></p>
-               <p>Learn how to use the ANDI <em>Focusable Elements</em> modules to analyze all focusable <a href="{{site.baseurl}}/content/glossary#interactive-element">interactive elements</a> with keyboard access and visual focus. Note: This ANDI module is not used to test visual focus.</p>
+               <p>Learn how to use the ANDI <em>Focusable Elements</em> modules to analyze all focusable <a href="{{site.baseurl}}/tools/glossary/#interactive-element">interactive elements</a> with keyboard access and visual focus. Note: This ANDI module is not used to test visual focus.</p>
                <p></p>
                <p>0h 1:46m</p>
             </div>
@@ -43,7 +43,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/links-buttons">Module 3: Links &amp; Buttons</a></p>
                <p></p>
-               <p>Understand how to use ANDI’s <em>Links/Buttons</em> module to inspect <a href="{{site.baseurl}}/content/glossary#interactive-element">interactive</a> links and buttons to evaluate for accessibility so users will know where the link will take them if selected.</p>
+               <p>Understand how to use ANDI’s <em>Links/Buttons</em> module to inspect <a href="{{site.baseurl}}/tools/glossary/#interactive-element">interactive</a> links and buttons to evaluate for accessibility so users will know where the link will take them if selected.</p>
                <p></p>
                <p>0h 2:27m</p>
             </div>
@@ -73,7 +73,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/structure-headings">Module 5: Structure Headings</a></p>
                <p></p>
-               <p>Learn how to use the ANDI <em>Structures</em> module to inspect each visual heading on the page and validate that it is <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically defined</a> and to provide descriptive headings for sections of content.</p>
+               <p>Learn how to use the ANDI <em>Structures</em> module to inspect each visual heading on the page and validate that it is <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically defined</a> and to provide descriptive headings for sections of content.</p>
                <p></p>
                <p>0h 1:50m</p>
             </div>
@@ -118,7 +118,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/page-language">Module 8: Page Language</a></p>
                <p></p>
-               <p>Learn how to use the ANDI <em>Structures</em> module to identify the page’s primary human language and ensure it is <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> to ensure that content developers provide information in the web page that <a href="{{site.baseurl}}/content/glossary#user-agent">user agents</a> (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.</p>
+               <p>Learn how to use the ANDI <em>Structures</em> module to identify the page’s primary human language and ensure it is <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically identified</a> to ensure that content developers provide information in the web page that <a href="{{site.baseurl}}/tools/glossary/#user-agent">user agents</a> (e.g., browsers, assistive technology, operating systems) need to present text and other linguistic content correctly.</p>
                <p></p>
                <p>0h 1:36m</p>
             </div>
@@ -133,7 +133,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/language-parts">Module 9: Language of Parts</a></p>
                <p></p>
-               <p>Understand how to use the ANDI <em>Structures</em> module to ensure that all written content, regardless of how many (human) languages are used, is <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> correctly to ensure that <a href="{{site.baseurl}}/content/glossary#user-agent">user agents</a> (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.</p>
+               <p>Understand how to use the ANDI <em>Structures</em> module to ensure that all written content, regardless of how many (human) languages are used, is <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically identified</a> correctly to ensure that <a href="{{site.baseurl}}/tools/glossary/#user-agent">user agents</a> (e.g., browsers, assistive technology, software) can correctly present content written in multiple languages.</p>
                <p></p>
                <p>0h 1:51m</p>
             </div>
@@ -163,7 +163,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/frames">Module 11: Frames</a></p>
                <p></p>
-               <p>Learn how to use the ANDI <em>Frames</em> module to detect and verify that all <a href="{{site.baseurl}}/content/glossary#frames">frames</a> provide a descriptive title which adequately identifies the frame’s content.</p>
+               <p>Learn how to use the ANDI <em>Frames</em> module to detect and verify that all <a href="{{site.baseurl}}/tools/glossary/#frames">frames</a> provide a descriptive title which adequately identifies the frame’s content.</p>
                <p></p>
                <p>0h 1:10m</p>
             </div>
@@ -178,7 +178,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/iframes">Module 12: iFrames</a></p>
                <p></p>
-               <p>Understand how to use the ANDI <em>iframes</em> module to verify that all <a href="{{site.baseurl}}/content/glossary#iframe">iframes</a> provide a descriptive title which adequately identifies the iframe’s content.</p>
+               <p>Understand how to use the ANDI <em>iframes</em> module to verify that all <a href="{{site.baseurl}}/tools/glossary/#iframe">iframes</a> provide a descriptive title which adequately identifies the iframe’s content.</p>
                <p></p>
                <p>0h 1:31m</p>
             </div>
@@ -208,7 +208,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer">Module 14: Color Contrast Analyzer</a></p>
                <p></p>
-               <p>Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="ext">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/content/glossary#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
+               <p>Learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="ext">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable">programmatically identified</a> by ANDI. Visit the <a href="{{site.baseurl}}/test/web-software">Testing Tools for Web</a> for download information.</p>
                <p></p>
                <p>0h 2:33m</p>
             </div>
@@ -219,11 +219,11 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
       <span class="field-content">
          <hr>
          <div class="grid-row grid-gap">
-            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables"><img class="img-responsive radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
+            <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables"><img class="img-responsive radius-lg" src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-15-thumb.jpg" width="220" alt="Module 15: Data Tables" title="Module 15: Data Tables"></a></div>
             <div class="desktop:grid-col-9">
-               <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/anditraining-videos/data-tables">Module 15: Data Tables</a></p>
+               <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/data-tables">Module 15: Data Tables</a></p>
                <p></p>
-               <p>Understand how to use the ANDI <em>Tables</em> module to inspect <a href="{{site.baseurl}}/content/glossary#data-table">data tables</a> for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.</p>
+               <p>Understand how to use the ANDI <em>Tables</em> module to inspect <a href="{{site.baseurl}}/tools/glossary/#data-table">data tables</a> for accessibility and ensure that the information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.</p>
                <p></p>
                <p>0h 2:24m</p>
             </div>
@@ -238,7 +238,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/layout-tables">Module 16: Layout Tables</a></p>
                <p></p>
-               <p>Discover how to use the ANDI <em>Tables</em> module to inspect <a href="{{site.baseurl}}/content/glossary#layout-table">layout tables</a> for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.</p>
+               <p>Discover how to use the ANDI <em>Tables</em> module to inspect <a href="{{site.baseurl}}/tools/glossary/#layout-table">layout tables</a> for accessibility to verify the table roles and ANDI output does not display table structure elements reserved for data tables.</p>
                <p></p>
                <p>0h 2:11m</p>
             </div>
@@ -253,7 +253,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/css-content-positioning">Module 17: CSS Content and Positioning</a></p>
                <p></p>
-               <p>Learn how to use the ANDI <em>Hidden Content</em> module to test meaningful content inserted into a page using <a href="{{site.baseurl}}/content/glossary#css">Cascading Style Sheets (CSS)</a> to ensure meaningful information is presented in another way on the page.</p>
+               <p>Learn how to use the ANDI <em>Hidden Content</em> module to test meaningful content inserted into a page using <a href="{{site.baseurl}}/tools/glossary/#css">Cascading Style Sheets (CSS)</a> to ensure meaningful information is presented in another way on the page.</p>
                <p></p>
                <p>0h 2:55m</p>
             </div>
@@ -268,7 +268,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
             <div class="desktop:grid-col-9">
                <p class="video-title text-bold margin-top-0"><a href="{{site.baseurl}}/training/web-software/andi-training-videos/live-regions">Module 18: Live Regions</a></p>
                <p></p>
-               <p>Understand how to use the ANDI <em>Structures</em> module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to <a href="{{site.baseurl}}/content/glossary#user-agent">user agents</a> (i.e. browsers, assistive technology, software), including assistive technologies.</p>
+               <p>Understand how to use the ANDI <em>Structures</em> module to locate and inspect newly revealed content changes so that a notification of changes to these items is available to <a href="{{site.baseurl}}/tools/glossary/#user-agent">user agents</a> (i.e. browsers, assistive technology, software), including assistive technologies.</p>
                <p></p>
                <p>0h 1:52m</p>
             </div>
@@ -277,7 +277,7 @@ Hosted by the Department of Homeland Security’s (DHS) [Office of Accessible Sy
    </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025
 
  [1]: https://www.dhs.gov/office-accessible-systems-technology
  [2]: {{site.baseurl}}/test/web-software

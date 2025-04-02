@@ -5,6 +5,7 @@ type: manage
 layout: page
 title: 'Play 9: Integrate Accessibility Needs into Development Processes'
 created: 1526408870
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play09/
 topic: Manage (program)
@@ -60,7 +61,9 @@ Regardless of whether you use contractors or agency staff to develop digital ser
 
 ## Resources
 
-  * [Section 508 Standards][2]
+  * <a href="https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards" target="_blank" class="usa-link--external">Section 508 Standards</a>
+
+&nbsp;
 
 <div id="prev-next-section">
     <a class="prev-page" title="Go to Play 8" 
@@ -71,7 +74,4 @@ Regardless of whether you use contractors or agency staff to develop digital ser
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: {{site.baseurl}}/test
- [2]: https://www.federalregister.gov/documents/2000/12/21/00-32017/electronic-and-information-technology-accessibility-standards
+**Reviewed/Updated:** March 2025

@@ -17,7 +17,7 @@ audience:
 resource-type: Blog article (blog)
 format: HTML (html)
 ---
-On December 21, 2023, the Office of Management and Budget (OMB) released [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government. 
+On December 21, 2023, the Office of Management and Budget (OMB) released [M-24-08 Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act](https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/). This guidance establishes the required leadership, goals, and renewed focus to improve digital accessibility across the federal government. 
 
 Accessibility is an essential part of federal government modernization, improving federal customer experience, building public trust in government, and creating an inclusive workplace culture. Despite tens of millions of Americans living with a disability, nearly half of the most popular federal government websites are not fully accessible. This lack of accessibility has led to unequal access to critical services for millions of Americans. OMB’s updated policy requires agencies to put accessibility at the center of the federal government digital experience, ensuring the government can truly deliver for all Americans.
 
@@ -29,4 +29,4 @@ The federal government will deliver a more universally accessible digital experi
   * **Monitoring and Remediating for Accessibility**: Agencies should regularly scan web content using both automated and manual testing tools to fully assess whether accessibility requirements are met and immediately prioritize remediation if not. Digital accessibility is not a “one and done” initiative.
   * **Cultivating a Positive Culture of Digital Accessibility**: Agencies are encouraged to offer Section 508 and digital accessibility training to employees on a regular basis. Education and awareness are an important component in establishing an inclusive workplace culture.
 
-As an immediate action, agencies are required to identify a Section 508 Program Manager who will serve as a primary point of contact on Section 508 and the accessibility of ICT.  Additional resources and instructions for immediate actions will be included on [Section508.gov](https://www.section508.gov/).
+As an immediate action, agencies are required to identify a Section 508 Program Manager who will serve as a primary point of contact on Section 508 and the accessibility of ICT.  Additional resources and instructions for immediate actions will be included on [Section508.gov]({{ site.baseurl }}/).

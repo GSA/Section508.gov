@@ -4,7 +4,8 @@ sidenav: true
 permalink: manage/policy-framework/guidance-by-policy-type/approach/
 type: manage
 title: "IT Accessibility Policy Framework - Approach"
-created: December 10, 2023
+created: 2023-12-10
+updated: 2025-03-05
 topic: "Policy (policy)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -14,6 +15,8 @@ audience:
 - "Manager/Exec (exec)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+redirect_from:
+- manage/policy-framework/guidance-by-policy-type/
 ---
 
 <h2 id="standards">

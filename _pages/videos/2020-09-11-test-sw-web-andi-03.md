@@ -97,4 +97,4 @@ In Module: 3 of the Accessible Name &amp; Description Inspector (ANDI) Tool vide
 
 **Reviewed/Updated**: January 2025
 
- [1]: {{site.baseurl}}/content/glossary#interactive-element
+ [1]: {{site.baseurl}}/tools/glossary/#interactive-element

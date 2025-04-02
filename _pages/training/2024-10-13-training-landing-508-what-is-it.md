@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/section-508-what-is-it/
 type: training
 title: "Section 508: What Is It and Why Is It Important?"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/section-508-what-is-it/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -42,7 +42,7 @@ format: "Video & Synchronized Media (video)"
 **Audience:** Federal Employees and Contracts
 **Duration:** 60 minutes  
 **Difficulty Level:** Beginner  
-**Version:** Version 4.1 (Sep 2024)  
+**Version:** 4.1 (Sep 2024)
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -84,11 +84,11 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 ## Key Terms and References 
 * [Accessibility Requirements Tool (ART)]({{site.baseurl}}/art/)
 * [Accessibility Conformance Report (ACR) and VPAT&reg;]({{site.baseurl}}/sell/acr/)
-* [Assistive Technology (AT)]({{site.baseurl}}/content/glossary/#assistive-technology)
+* [Assistive Technology (AT)]({{site.baseurl}}/tools/glossary/#assistive-technology)
 * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/program-manager-listing/)
 * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
 * [General Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
-* [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
+* [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
 * [Section 508 of the Rehabilitation Act (29 U.S.C. §794(d))]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
 * <a href="https://www.access-board.gov/ict" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
 * [Section 508 Roles and Responsibilities]({{site.baseurl}}/manage/roles/)
@@ -127,4 +127,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

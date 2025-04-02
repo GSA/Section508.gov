@@ -180,7 +180,7 @@ ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@
 
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
-Jorge Valdez - <jorge.valdez@darpa.mil>
+Anita Walker - <anita.walker@darpa.mil>  
 ### Defense Acquisition University (DAU)
 Consuala Spencer - <consuala.spencer@dau.edu>  
 ### Defense Contract Management Agency (DCMA)  
@@ -217,8 +217,7 @@ Michael C. Scholz - <michael.c.schloz.civ@mail.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
-### Defense Threat Reduction Agency (DTRA)
-Bob Ciola - <robert.a.ciola.civ@mail.mil>  
+<!-- ### Defense Threat Reduction Agency (DTRA)-->
 ### Missile Defense Agency (MDA)
 Pamela Whitehead - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
@@ -270,7 +269,7 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Kate Sweeney - <kate.sweeney@hhs.gov.>
+Cammie Truesdell - <cammie.truesdell@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -449,7 +448,7 @@ Heather Kowalski - <heather.kowalski@usdoj.gov>
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
 Cynthia R. Wright - <cynthia.wright@usdoj.gov>  
 ### National Institute of Corrections
-Donna Ledbetter - <donna.ledbetter@bop.gov>  
+Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
 Nilesh  Bhut - <nilesh.bhut@usdoj.gov>
 ### Office for Access to Justice
@@ -502,15 +501,14 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Christopher M. Brown - <browncm@state.gov>  
+Richard McCarthy - <mccarthyrd@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Department-wide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
 ### Federal Highway Administration (FHWA)
-Michelle Cribbs - <michelle.cribbs@dot.gov>  
-Stephanie Jackson (Deputy) - <stephanie.jackson@dot.gov>  
+Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
 Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
@@ -582,8 +580,6 @@ John Beatty - <john.beatty@nrc.gov>
 
 ---
 ## <span id="usopm" ></span>Office of Personnel Management (OPM)
-B. L. - <section508@opm.gov>  
-Megan Rocus - <megan.rocus@opm.gov>  
 
 ---
 ## <span id="ussba" ></span>Small Business Administration (SBA)
@@ -933,7 +929,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: February 2025
+**Reviewed/Updated**: March 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

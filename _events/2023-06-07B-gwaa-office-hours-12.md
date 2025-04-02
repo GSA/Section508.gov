@@ -34,6 +34,6 @@ This virtual meeting is supported by Zoom for Government. Please feel free to at
 [1]: {{site.baseurl}}/manage/section-508-assessment/
 [2]: {{site.baseurl}}/manage/section-508-assessment/criteria/      
 [4]: {{site.baseurl}}/manage/section-508-assessment/faq/
-[5]: {{site.baseurl}}/manage/section-508-assessment/definition-of-terms/
+[5]: {{site.baseurl}}/tools/glossary/
 [6]: {{site.baseurl}}/events/
 [7]: https://gsa.zoomgov.com/meeting/register/vJIsdO6hrzkjGKh6k-PdYMVsG_mMeBMKrA8

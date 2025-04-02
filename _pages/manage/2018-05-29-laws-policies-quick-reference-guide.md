@@ -182,7 +182,6 @@ Questions? Email us at <a class="mailto" href="mailto:section.508@gsa.gov">secti
  [21]: {{site.baseurl}}/training/online-course/accessible-for-executives/
  [23]: {{site.baseurl}}/training/online-course/micro-purchases/
  [25]: {{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/
- [26]: {{site.baseurl}}/content/files/standards-exceptions-chart.docx 
  [27]: {{site.baseurl}}/create/software-websites
  [28]: {{site.baseurl}}/test/documents
  [29]: {{site.baseurl}}/training/online-course/section-508-what-is-it/

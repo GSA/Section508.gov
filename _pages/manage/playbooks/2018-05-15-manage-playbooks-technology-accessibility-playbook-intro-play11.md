@@ -1,10 +1,12 @@
 ---
-sidenav: true
-permalink: manage/playbooks/technology-accessibility-playbook-intro/play11/
-type: manage
 layout: page
+sidenav: true
+type: manage
 title: 'Play 11: Track and Resolve Accessibility Issues'
+permalink: manage/playbooks/technology-accessibility-playbook-intro/play11/
+disclaimer: true
 created: 1526408939
+updated: 2025-03-05
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/play11/
 topic: Manage (program)
@@ -61,8 +63,8 @@ Play 10 describes how to test and validate Section 508 conformance. Testing will
 
 ## Resources
 
-  * [For Help Desk, Freedom Scientific popular screen reader][1]
-  * [For Help Desk, Ai Squared popular screen magnification][2]
+  * <a href="https://support.freedomscientific.com/support" target="_blank" class="usa-link--external">For Help Desk, Freedom Scientific popular screen reader</a>
+  * <a href="https://support.freedomscientific.com/support" target="_blank" class="usa-link--external">For Help Desk, Freedom Scientific popular screen and text magnification</a>
 
 &nbsp;
 <div id="prev-next-section">
@@ -74,7 +76,4 @@ Play 10 describes how to test and validate Section 508 conformance. Testing will
     </a>
 </div>
 
-**Reviewed/Updated:** November 2024
-
- [1]: http://www.freedomscientific.com/Support
- [2]: https://support.zendesk.com/hc/en-us?_ga=2.218071126.1124779054.1631404887-836831031.1631404887
+**Reviewed/Updated:** March 2025

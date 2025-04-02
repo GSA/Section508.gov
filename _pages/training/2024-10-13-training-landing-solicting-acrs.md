@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/soliciting-and-evaluating-acrs/
 type: training
 title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/soliciting-and-evaluating-acrs/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -47,7 +47,7 @@ format: "HTML"
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 1.0 (May 2023)  
+**Version:** 1.0 (May 2023)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -99,8 +99,8 @@ Demonstrate your skills and stand out in your field with a certificate that prov
 * [PDFs Authoring Guides]({{site.baseurl}}/create/pdfs/authoring-guides/)
 * [Request Accessibility Information from Vendors & Contractors]({{site.baseurl}}/buy/request-accessibility-information/)
 * Vocabulary
-  * [Information and Communication Technology (ICT)]({{site.baseurl}}/content/glossary/#ict)
-  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/content/glossary/#vpat)
+  * [Information and Communication Technology (ICT)]({{site.baseurl}}/tools/glossary/#ict)
+  * [Voluntary Product Accessibility Template (VPAT&reg;)]({{site.baseurl}}/tools/glossary/#vpat)
 
 <div class="usa-accordion usa-accordion--bordered">
   <h2 class="usa-accordion__heading"><button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="change-log">Change Log</button>
@@ -115,4 +115,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025
