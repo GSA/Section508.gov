@@ -166,7 +166,7 @@ Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
-Sonya Black - <sonya.black@us.af.mil>  
+Sonya Black - <sonya.black@us.af.mil>   
 
 ### Air National Guard
 ### Army
