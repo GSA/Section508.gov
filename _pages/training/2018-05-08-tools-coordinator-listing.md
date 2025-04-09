@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-02-27
+updated: 2025-04-09
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -256,9 +256,7 @@ Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
 ---
-## <span id="usdoe" ></span>Department of Education
-Denise McGland - <denise.mcgland@ed.gov>  
-Jason Lautenbacher - <jason.Lautenbacher@ed.gov>
+## <span id="usdoe" ></span>Department of Education (ED)
 
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
@@ -500,7 +498,7 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-David Conner - <connerd2@state.gov>  
+David Conner (Acting) - <connerd2@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
@@ -893,9 +891,8 @@ Gregory G. Jackson - <ggjackson@tva.gov>
 
 <span id="U" ></span>
 
-### U.S. Access Board (USAB)
-Bruce Bailey - (TTY) 202-272-0024 - <bailey@access-board.gov>  
-
+<!-- ### U.S. Access Board (USAB) 
+<> -->
 ---
 
 ### U.S. Agency for Global Media (USAGM)
