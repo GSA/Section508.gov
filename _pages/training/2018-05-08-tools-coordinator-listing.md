@@ -166,8 +166,7 @@ Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
-Jay Steinke - <jay.steinke.1@us.af.mil>  
-Muhammad Waheed	- <muhammad.waheed@us.af.mil>  
+Sonya Black - <sonya.black@us.af.mil>   
 
 ### Air National Guard
 ### Army
@@ -269,7 +268,7 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Cammie Truesdell - <cammie.truesdell@hhs.gov>  
+
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -435,7 +434,7 @@ David Fruehwald (Deputy) -	<david.fruehwald@usdoj.gov>
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
-Julie Enyeart - <julie.enyeart@usdoj.gov>  
+Alisha Hurtado - <alisha.hurtado@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -501,7 +500,7 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Richard McCarthy - <mccarthyrd@state.gov>  
+David Conner - <connerd2@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
