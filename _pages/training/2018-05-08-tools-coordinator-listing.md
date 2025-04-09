@@ -166,8 +166,7 @@ Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
-Jay Steinke - <jay.steinke.1@us.af.mil>  
-Muhammad Waheed	- <muhammad.waheed@us.af.mil>  
+Sonya Black - <sonya.black@us.af.mil>   
 
 ### Air National Guard
 ### Army
@@ -269,7 +268,7 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Cammie Truesdell - <cammie.truesdell@hhs.gov>  
+
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -501,7 +500,7 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Richard McCarthy - <mccarthyrd@state.gov>  
+David Conner - <connerd2@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
