@@ -70,7 +70,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="agency">Agency</th>
-    <td><p><strong>Definition 1:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 U.S.C. 3502</a>, and the United States Postal Service.</p>
+    <td>Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 U.S.C. 3502</a>, and the United States Postal Service.
     </td>
   </tr>
   <tr>
@@ -864,7 +864,7 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="parent-agency">Parent agency</th>
     <td><p>"Parent agency" and "component" designation usually refers to the CFO Act agencies that have headquarters and component-level Section 508 programs. These include the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Homeland Security, the Department of Justice, the Department of Labor, the Department of the Interior, the Department of the Treasury, and the Department of Transportation.</p>
-    <p>For example, a "parent" agency would be DHS HQ whereas a "component" would be Transportation Security Administration (TSA). "Parent" agency Section 508 programs may also be referred to as "agency-wide" programs. See <a href=#component>Component</a>.</p></td>
+    <p>For example, a "parent" agency would be DHS HQ whereas a "component" would be Transportation Security Administration (TSA). "Parent" agency Section 508 programs may also be referred to as "agency-wide" programs. See <a href="#component">Component</a>.</p></td>
   </tr>
   <tr>
     <th scope="row" id="parenthetical-title">Parenthetical Title</th>
@@ -965,7 +965,6 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="rcc">Relay Conference Captioning (RCC)</th>
     <td>An internet-based technology offering real-time captioning; enables federal employees who are deaf or hard of hearing to join and participate in web and teleconference calls.</td>
-  </tr>
   </tr>
   <tr>
     <th scope="row" id="revised-508-standards">Revised 508 Standards</th>
