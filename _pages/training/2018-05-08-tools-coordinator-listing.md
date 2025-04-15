@@ -165,8 +165,9 @@ Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
+<!-- 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
-Sonya Black - <sonya.black@us.af.mil>   
+-->   
 
 ### Air National Guard
 ### Army
@@ -925,7 +926,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: March 2025
+**Reviewed/Updated**: April 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
