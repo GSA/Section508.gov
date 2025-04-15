@@ -71,8 +71,6 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="agency">Agency</th>
     <td><p><strong>Definition 1:</strong> Any agency or department of the United States as defined in <a href="https://www.govinfo.gov/content/pkg/USCODE-2019-title44/html/USCODE-2019-title44-chap35-subchapI-sec3502.htm" target="_blank" class="usa-link--external">44 U.S.C. 3502</a>, and the United States Postal Service.</p>
-    <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, "agency" includes any federal department, component- level, and independent agencies subject to Section 508 of the Rehabilitation Act; generally used where this report offers recommendations and shares GSA efforts to increase Section 508 compliance.</p>
-    <p>This report uses the term “reporting entity” rather than "agency" or "component" as traditionally defined because reporting entity Section 508 Programs may be organized and function outside of these traditional definitions; generally used for data-driven findings, observations and overall performance category recommendations.</p>
     </td>
   </tr>
   <tr>
@@ -231,6 +229,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="category">Category</th>
     <td>Or Overall Performance Category. Used to describe groupings of reporting entities that fall within each pairing of the Maturity and Conformance bracket. As there are five maturity brackets (ranging from Very Low to Very High) and five conformance brackets (also ranging from Very Low to Very High), there are 25 total Overall Performance Categories. These categories are always titled by Maturity first and Conformance second, i.e., Very Low-Very Low, Moderate - Low and so on.</td>
   </tr>
+   <tr>
+    <th scope="row" id="centralized">Centralized</th>
+    <td>In the context of the Annual Assessment, this means that the function is managed and coordinated through a single centralized office, mechanism, or process. For agencies with components (e.g., sub-agencies, bureaus, operating divisions, offices, etc.) that manage the function independently, this would be considered “decentralized”.</td>
+  </tr>
   <tr>
     <th scope="row" id="cfo-act-agency">CFO Act Agency</th>
     <td><p>The 1990 CFO Act gave OMB new authority and responsibility for directing federal financial management, modernizing the government’s financial management systems, and strengthening financial reporting. This act applies to 24 departments and agencies. The 24 CFO Act Agencies include:</p>
@@ -297,7 +299,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="component">Component</th>
-    <td>For the purposes of the annual Section 508 Assessments, the use of “component,” “component agency,” and “component-level agency” broadly refers to the organizational unit below a department or large "parent" agency. Agencies across government have different designations and terminology for these organizational units, including component, bureau, administration, office, operating division, agency, and subagency. For example: the Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY. See <a href="#parent-agency">Parent agency</a></td>
+    <td>The use of “component,” “component agency,” and “component-level agency” broadly refers to the organizational unit below a department or large "parent" agency. Agencies across government have different designations and terminology for these organizational units, including component, bureau, administration, office, operating division, agency, and subagency. For example: U.S. Customs and Border Protection is a component of the Department of Homeland Security. See <a href="#parent-agency">Parent agency</a></td>
   </tr>
   <tr>
     <th scope="row" id="comprehensive-lsm">Comprehensive, large-scale monitoring</th>
@@ -330,7 +332,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="criteria">Criteria</th>
-    <td>Refers to the 103 Assessment criteria (See <a href="https://assets.section508.gov/assets/files/assessment/2024/Data%20Dictionary%20for%20FY24%20Governmentwide%20Section%20508%20Assessment%20Final.xlsx" target="_blank" class="usa-link--external">FY24 Data Dictionary (XLSX)</a>) that reporting entities responded to, split into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
+    <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
 </tbody>
 </table>
@@ -370,7 +372,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="dimension">Dimension</th>
-    <td>Within the Assessment, used to delineate a category of Maturity-related questions. Refers to the categorization of the criteria into general questions, maturity questions and conformance questions.</td>
+    <td>Within the Assessment, this term is used to delineate a category of related questions.</td>
   </tr>
   <tr>
     <th scope="row" id="disability">Disability</th>
@@ -467,19 +469,8 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="frequency">Frequency</th>
-    <td>Defines activity occurrence levels, not on a linear scale, as follows: 
-      <ul>
-        <li>Never (0%),</li>
-        <li>Sometimes (approximately 1%-24%),</li> 
-        <li>Regularly (approximately 25%-59%),</li> 
-        <li>Frequently (approximately 60%-89%),</li> 
-        <li>Almost always (approximately 90% or more).</li>
-      </ul>
+    <td>Defines activity occurrence levels. 
     </td>
-  </tr>
-  <tr>
-    <th scope="row" id="frequently">Frequently</th>
-    <td>Activities that are performed approximately 60%-89% of the time.</td>
   </tr>
   <tr>
     <th scope="row" id="full-time-equivalent">Full-Time equivalent (FTE)</th>
@@ -511,9 +502,13 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="general-exceptions">General exceptions</th>
     <td><a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">E202</a> of the Revised 508 Standards specifies which types of ICT are exempt from compliance.</td>
   </tr>
-  <tr>
+    <tr>
     <th scope="row" id="government-off-the-shelf">Government off-the-shelf (GOTS)</th>
     <td>Product that is developed with funding and specificity from a government agency.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="GRC">Governance, risk, and compliance (GRC) tools</th>
+    <td>Refers to a set of tools or processes used by an agency to manage and monitor its governance (the framework of rules and processes that ensure the organization operates effectively), risk (identifying, assessing, and mitigating risks), and compliance (ensuring adherence to laws, regulations, and internal policies).</td>
   </tr>
 </tbody>
 </table>
@@ -573,6 +568,10 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+    <th scope="row" id="ict-deliverables">ICT Deliverables</th>
+    <td>Within the Assessment, this term refers to product deliverables from vendors, such as reports in electronic document format, web content, e-learnings, audios, videos, multimedia, or software, to name a few.</td>
+  </tr>
+  <tr>
     <th scope="row" id="ict-testing-baseline">ICT Testing Baseline</th>
     <td>The <a href="https://section508coordinators.github.io/ICTTestingBaseline/" target="_blank" class="usa-link--external">ICT Testing Baseline</a> document contains baseline tests for <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised 508 Standards</a> for web conformance, which reference the WCAG 2.0 Level A and AA Success Criteria. The baseline tests establish the minimum tests and evaluation guidance that determine if web content meets Section 508 requirements. The baseline tests are not a test process.</td>
   </tr>
@@ -597,10 +596,6 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="ict">Information and Communication Technology (ICT)</th>
     <td><p>Information and Communication Technology, which is defined by the <a href="https://www.access-board.gov/ict/#E103.4" target="_blank" class="usa-link--external">Access Board in Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements in E103.4 Defined Terms Access Board</a> in E103.4 Defined Terms Access Board as “[i]nformation technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and, electronic documents.</p>
     <p>"ICT accessibility" and "digital accessibility" may be used interchangeably.</p></td>
-  </tr>
-  <tr>
-    <th scope="row" id=""></th>
-    <td></td>
   </tr>
   <tr>
     <th scope="row" id="information-technology">Information Technology (IT)</th>
@@ -752,7 +747,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="mechanism">Mechanism</th>
-    <td>In the annual Section 508 Assessments, this term broadly refers to the system, process, or method a reporting entity uses to track ICT accessibility defects. It may include tools, procedures, or workflows designed to identify, monitor, and manage accessibility issues.</td>
+    <td>Within the Assessment, this term broadly refers to the system, process, or method an agency uses. It may include tools, procedures, or workflows designed to identify, monitor, and manage accessibility issues.</td>
   </tr>
   <tr>
     <th scope="row" id="menu">Menu</th>
@@ -760,7 +755,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
       <th scope="row" id="metric">Metric</th>
-      <td>Refers to the 103 Assessment criteria that reporting entities responded to, split out into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content reporting entities responded to.</td>
+      <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
   <tr>
     <th scope="row" id="micro-purchase">Micro-purchase</th>
@@ -828,6 +823,10 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+    <th scope="row" id="often">Often</th>
+    <td>Within the Assessment, used to describe activities that are performed approximately 51% to 90% of the time.</td>
+  </tr>
+  <tr>
     <th scope="row" id="open-captions">Open captions</th>
     <td>Open captions are on-screen text that represents the audio in a video. Unlike closed captions, they are always visible and cannot be turned off. They make videos accessible for people who are deaf or hard of hearing and are useful in environments where sound can't be played. See <a href="#closed-captions">closed captions</a>.</td>
   </tr>
@@ -865,7 +864,7 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="parent-agency">Parent agency</th>
     <td><p>"Parent agency" and "component" designation usually refers to the CFO Act agencies that have headquarters and component-level Section 508 programs. These include the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Homeland Security, the Department of Justice, the Department of Labor, the Department of the Interior, the Department of the Treasury, and the Department of Transportation.</p>
-    <p>For example, a "parent" agency would be DHS HQ whereas a "component" would be Transportation Security Administration (TSA). "Parent" agency Section 508 programs may also be referred to as "agency-wide" programs. See <a href=#component">Component</a>.</p></td>
+    <p>For example, a "parent" agency would be DHS HQ whereas a "component" would be Transportation Security Administration (TSA). "Parent" agency Section 508 programs may also be referred to as "agency-wide" programs. See <a href=#component>Component</a>.</p></td>
   </tr>
   <tr>
     <th scope="row" id="parenthetical-title">Parenthetical Title</th>
@@ -935,7 +934,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="questions">Question</th>
-    <td>Refers to the 103 Assessment criteria reporting entities responded to, split out into 11 dimensions. Due to dependencies, some reporting entities may have responded to fewer than 103 criteria. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which reporting entities responded.</td>
+    <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
 </tbody>
 </table>
@@ -952,12 +951,12 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
-    <th scope="row" id="rtt">Real-Time Text (RTT)</th>
-    <td>Communication by which characters are transmitted by a terminal as they are typed. Real-time text is used for conversational purposes, and may also be used in voicemail, interactive voice response systems, and other similar applications.</td>
+    <th scope="row" id="rarely">Rarely</th>
+    <td>Within the Assessment, used to describe activities that are performed approximately 1% to 10% of the time.</td>
   </tr>
   <tr>
-    <th scope="row" id="regularly">Regularly</th>
-    <td>Activities that are performed approximately 25% to 59% of the time.</td>
+    <th scope="row" id="rtt">Real-Time Text (RTT)</th>
+    <td>Communication by which characters are transmitted by a terminal as they are typed. Real-time text is used for conversational purposes, and may also be used in voicemail, interactive voice response systems, and other similar applications.</td>
   </tr>
   <tr>
     <th scope="row" id="reimbursable-service">Reimbursable service</th>
@@ -967,14 +966,6 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="rcc">Relay Conference Captioning (RCC)</th>
     <td>An internet-based technology offering real-time captioning; enables federal employees who are deaf or hard of hearing to join and participate in web and teleconference calls.</td>
   </tr>
-  <tr>
-    <th scope="row" id="reporting-entity">Reporting Entity</th>
-    <td>
-        <p>Reporting entity denotes a respondent to the Assessment. This report uses the term “reporting entity” rather than “agency” or “component” as traditionally defined because reporting entity Section 508 Programs may be organized/function outside of these traditional definitions. Thus, reporting entities are loosely based on:</p>
-        <p>“Agency,” which broadly applied to organizational components such as bureau, office, component, or at the department level (e.g., headquarters).</p>
-        <p>“Component,” which broadly applies to an organizational unit below (usually one level) a Department or large agency enterprise level. For example:</p>
-        <p>The Department of Defense (DOD) and the Department of the Navy (NAVY) would be considered agencies. NAVAIR, a subunit of NAVY, was submitted as part of NAVY.</p>
-    </td>
   </tr>
   <tr>
     <th scope="row" id="revised-508-standards">Revised 508 Standards</th>
@@ -983,6 +974,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="risk">Risk</th>
     <td>Potential for harm, loss, or damage within the IT sector that unfavorably impacts systems, processes, and associated resources within an organization. Risk typically encompasses legal, financial, technological, and workforce challenges.</td>
+  </tr>
+   <tr>
+    <th scope="row" id="risk-framework">Risk framework or risk-based approach</th>
+    <td>An approach or framework could include a risk model or a ranking of risk based on criticality of defect. This term broadly applies as agencies may utilize one or more methods.</td>
   </tr>
   <tr>
     <th scope="row" id="ruleset">Ruleset</th>
@@ -1032,11 +1027,11 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="section-508-program">Section 508 Program or equivalent</th>
-    <td>An effort within a reporting entity to ensure all of its IT meets Section 508 standards, often led by a designated Program Manager.</td>
+    <td>An effort within an agency to ensure all of its IT meets Section 508 standards, often led by a designated Program Manager.</td>
   </tr>
   <tr>
     <th scope="row" id="section-508-program-manager">Section 508 Program Manager</th>
-    <td>Manager of a reporting entity’s Section 508 program on behalf of the reporting entity CIO whose duties include developing and maintaining policies, guidance, and best practices. Some reporting entities might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16" target="_blank" class="usa-link--external">M-24-08</a> for additional roles and responsibilities.</td>
+    <td>Manager of an agency's Section 508 program on behalf of the CIO whose duties include developing and maintaining policies, guidance, and best practices. Some agencies might not have an individual with this title, but there may be an individual assigned the same duties and responsibilities. Used interchangeably with Section 508 Coordinator. See <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#_ftn16" target="_blank" class="usa-link--external">M-24-08</a> for additional roles and responsibilities.</td>
   </tr>
   <tr>
     <th scope="row" id="self-contained-closed-products">Self contained, closed products</th>
@@ -1085,7 +1080,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="">Sometimes</th>
-    <td>For the purposes of the annual Section 508 Assessment report, used to describe activities that are performed approximately 1% to 24% of the time.</td>
+    <td>Within the Assessment, used to describe activities that are performed approximately 11% to 50% of the time.</td>
   </tr>
   <tr>
     <th scope="row" id="stylesheets">Style sheets</th>
