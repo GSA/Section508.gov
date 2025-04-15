@@ -507,7 +507,7 @@ These terms appear throughout our website, communications, and reports, includin
     <td>Product that is developed with funding and specificity from a government agency.</td>
   </tr>
   <tr>
-    <th scope="row" id="GRC">Governance, risk, and compliance (GRC) tools</th>
+    <th scope="row" id="grc">Governance, risk, and compliance (GRC) tools</th>
     <td>Refers to a set of tools or processes used by an agency to manage and monitor its governance (the framework of rules and processes that ensure the organization operates effectively), risk (identifying, assessing, and mitigating risks), and compliance (ensuring adherence to laws, regulations, and internal policies).</td>
   </tr>
 </tbody>
