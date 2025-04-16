@@ -12,7 +12,7 @@ title: Interagency Accessibility Forum (IAAF)
 redirect_from:
 - IAAF/
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-2025-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Accessible by Design: Enhancing Efficiency in Federal ICT. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2025.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973, as amended (29 USC 794d).
@@ -20,7 +20,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 ## 2025 IAAF
 The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT**, and take place virtually on Zoom for Government from May 20-21. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies.
 
-<img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="{{site.baseurl}}/assets/images/iaaf-date-card-2025.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
@@ -47,7 +47,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Tuesday through Thursday, May 20-21</div>
+      <div class="grid-col tablet:grid-col-11">Tuesday and Wednesday, May 20-21</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
