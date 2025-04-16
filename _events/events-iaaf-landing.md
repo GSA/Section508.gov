@@ -47,7 +47,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Tuesday through Thursday, May 20-21</div>
+      <div class="grid-col tablet:grid-col-11">Tuesday and Wednesday, May 20-21</div>
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
