@@ -6,7 +6,7 @@ permalink: /iaaf/
 start-date: Tuesday, May 20 2025 9:30 #only fill in start date if the events spans multiple days
 end-date: Thursday, May 21 2025 16:30 #otherwise use end-date
 created: 2014-01-01
-updated: 2025-01-16
+updated: 2025-04-16
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
@@ -20,7 +20,7 @@ The annual Interagency Accessibility Forum (IAAF) provides a venue for federal a
 ## 2025 IAAF
 The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT**, and take place virtually on Zoom for Government from May 20-21. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies.
 
-<img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20 and 21" width="350" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="{{site.baseurl}}/assets/images/iaaf-2025-date-card.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
@@ -107,4 +107,4 @@ Stay in touch with all of our team's activities by visiting the our <a href="{{s
   </div>
 </div>
 
-**Reviewed/Updated:** February 2025
+**Reviewed/Updated:** April 2025
