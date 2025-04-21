@@ -19,13 +19,10 @@ created: 2020-10-21
 updated: 2025-04-21
 ---
 
-<div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
+<div class="desktop:grid-col-4 radius-lg" style="float:right;">
   <ul class="usa-card-group">
     <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
       <div class="usa-card__container">
-        <div class="usa-card__header">
-          <h4 class="usa-card__heading">Card</h4>
-        </div>
         <div class="usa-card__body">
           <p>
             Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov.
