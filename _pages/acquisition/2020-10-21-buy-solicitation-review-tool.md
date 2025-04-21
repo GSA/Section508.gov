@@ -24,7 +24,7 @@ updated: 2025-04-21
     <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
       <div class="usa-card__container">
         <div class="usa-card__body">
-          <p>Simplify your federal procurement process and ensure proper ICT acquisition using the Solicitation Review Tool.</p>
+          <p>Simplify your federal procurement process and ensure proper ICT acquisition using SRT.</p>
         </div>
         <div class="usa-card__footer">
           <a href="https://srt.app.cloud.gov/" target="_blank" class="usa-button">Start Using SRT</a>
