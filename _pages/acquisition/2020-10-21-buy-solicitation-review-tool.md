@@ -19,9 +19,27 @@ created: 2020-10-21
 updated: 2025-04-21
 ---
 
-<a href="https://srt.app.cloud.gov/" target="_blank" class="usa-button usa-button--accent-warm">Start Using SRT</a>
+<div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
+  <ul class="usa-card-group">
+    <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
+      <div class="usa-card__container">
+        <div class="usa-card__header">
+          <h4 class="usa-card__heading">Card</h4>
+        </div>
+        <div class="usa-card__body">
+          <p>
+            Streamline your federal procurement process with the Solicitation Review Tool from Section508.gov.
+          </p>
+        </div>
+        <div class="usa-card__footer">
+          <a href="https://srt.app.cloud.gov/" target="_blank" class="usa-button">Start Using SRT</a>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
 
-The <a href="https://srt.app.cloud.gov/" target="_blank" class=" usa-link--external">Solicitation Review Tool (SRT)</a> was developed to help agencies assess and improve the accessibility compliance of solicitations—and in the future, it will also support reviews for cybersecurity and other regulatory requirements.
+The <a href="https://srt.app.cloud.gov/" target="_blank" class="usa-link--external">Solicitation Review Tool (SRT)</a> was developed to help agencies assess and improve the accessibility compliance of solicitations—and in the future, it will also support reviews for cybersecurity and other regulatory requirements.
 
 The SRT is built with open-source technology and uses artificial intelligence (AI), natural language processing, text mining, and machine learning to automatically detect whether new solicitations posted on federal acquisition platforms are for Information and Communication Technology (ICT). If a solicitation is identified as ICT-related, the SRT then checks whether it includes adequate Section 508 compliance requirements to support accessibility in federal IT.
 
@@ -46,8 +64,6 @@ As federal acquisition staff needs to ensure that ICT solicitation documents inc
 With SRT, agencies will have the information to inform decisions on which solicitations warrant additional Section 508 requirements, those that warrant amending the solicitations to add requirements before selection decisions are made by the agency.
 
 ## **How to Access SRT**
-
-The SRT is available to agency procurement officials and Section 508 Program Managers by **sending a request to <srt@gsa.gov>**. Once approved, you will be sent instructions on accessing SRT using a Login.gov account associated with your government email address; employees with a .gov or .mil email address.
 
 The SRT is available to agency procurement officials and Section 508 Program Managers by **sending a request to <srt@gsa.gov>**. Once approved, you will receive instructions for accessing the tool using a Login.gov account associated with your government email address (e.g., .gov or .mil).
 
