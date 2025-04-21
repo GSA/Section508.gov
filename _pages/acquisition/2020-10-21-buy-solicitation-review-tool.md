@@ -19,7 +19,7 @@ created: 2020-10-21
 updated: 2025-04-21
 ---
 
-<div class="desktop:grid-col-4 radius-lg" style="float:right;">
+<div class="desktop:grid-col-4 radius-lg" style="float:right; padding-left:10px;">
   <ul class="usa-card-group">
     <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
       <div class="usa-card__container">
