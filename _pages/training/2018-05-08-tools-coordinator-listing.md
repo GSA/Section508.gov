@@ -621,7 +621,7 @@ Jenna	A. Ramos	- <jaramos@bpa.gov>
 <span id="C" ></span>
 
 ### Central Intelligence Agency	(CIA)
-Richard	W. - <iapo@ucia.gov>  
+Richard	W. - <section_508@uce.cia.gov>  
 
 ---
 ### Commission of Fine Arts	(CFA)
@@ -914,7 +914,7 @@ Pramila Adhikari - <pramila.adhikari@dfc.gov>
 
 ---
 ### U.S. International Trade Commission (USITC)
-Carrin Brown - <carrin.brown@usitc.gov>  
+Terri Barnes - <terri.barnes@usitc.gov>  
 
 ---
 ### U.S. Postal Service (USPS)
