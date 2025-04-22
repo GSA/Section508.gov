@@ -14737,16 +14737,26 @@
                 GB = n.n(UB),
                 WB = n(51662),
                 KB = n.n(WB);
-            const QB = $B()(gs(), ["http", "https"]),
-                ZB = mt()(ql(), Ct()(":")),
-                YB = mt()(xn()(jB()(HB()), QB), zB()),
-                XB = mt()(GB()(KB()("//"), YB), ZB),
-                JB = (oi()((e => mt()((e => {
-                    return ds()((t = e, n = XB, e => !t(e) || n(e)), re()(""));
-                    var t, n
-                })(e), MB.htmlDecode, DB.J))), /(\.\.\/)|(\.\.\.\.\/)+|%2e%2e\/|%252e%252e\/|%2f\/|\/%2e%2e/gi),
-                eH = mt()((e => "string" == typeof e && e.replace(JB, "")), DB.J),
-                tH = eH;
+                const QB = $B()(gs(), ["http", "https"]),
+                    ZB = mt()(ql(), Ct()(":")),
+                    YB = mt()(xn()(jB()(HB()), QB), zB()),
+                    XB = mt()(GB()(KB()("//"), YB), ZB);
+                    
+                    // Create a sanitization function that repeatedly replaces unsafe path traversal patterns
+                    const sanitizePath = oi()((e => {
+                        const pattern = /(\.\.\/)|(\.\.\.\.\/)+|%2e%2e\/|%252e%252e\/|%2f\/|\/%2e%2e/gi;
+                        return mt()((input => {
+                            let previous;
+                            do {
+                                previous = input;
+                                input = input.replace(pattern, "");
+                            } while (input !== previous);
+                            return input;
+                        }), MB.htmlDecode, DB.J);
+                    }), /(\.\.\/)|(\.\.\.\.\/)+|%2e%2e\/|%252e%252e\/|%2f\/|\/%2e%2e/gi);
+                    
+                const eH = mt()((e => typeof e === "string" && sanitizePath(e)), DB.J),
+                tH = eH;          
             n(53727);
             var nH = n(9669),
                 sH = n.n(nH);
