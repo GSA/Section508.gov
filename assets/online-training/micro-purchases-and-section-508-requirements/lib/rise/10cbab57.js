@@ -13241,7 +13241,7 @@
                 var Q = t.stack.Top(),
                     T = Q.getProperty("casesEnv");
                 if (Q.getProperty("isCases") || T) {
-                    for (var r = t.string, n = 0, o = -1, i = t.i, a = r.length, s = T ? new RegExp("^\\\\end\\s*\\{".concat(T.replace(/\*/, "\\*"), "\\}")) : null; i < a;) {
+                    for (var r = t.string, n = 0, o = -1, i = t.i, a = r.length, s = T ? new RegExp("^\\\\end\\s*\\{".concat(T.replace(/\*/g, "\\*"), "\\}")) : null; i < a;) {
                         var l = r.charAt(i);
                         if ("{" === l) n++, i++;
                         else if ("}" === l) 0 === n ? a = 0 : (0 === --n && o < 0 && (o = i - t.i), i++);
@@ -18418,7 +18418,7 @@
                 l[c] ? r || (r = l[c][2]) : l[c] = [800, 200, r, c], T && (l[c][0] = Math.floor(1e3 * parseFloat(T[0])), l[c][1] = Math.floor(1e3 * parseFloat(T[1])));
                 var u = t.stack.env.font,
                     p = {};
-                r ? (l[c][2] = p.fontfamily = r.replace(/'/g, "'"), u && (u.match(/bold/) && (p.fontweight = "bold"), u.match(/italic|-mathit/) && (p.fontstyle = "italic"))) : u && (p.mathvariant = u);
+                    r ? (l[c][2] = p.fontfamily = r.replace(/'/g, "\\'"), u && (u.match(/bold/) && (p.fontweight = "bold"), u.match(/italic|-mathit/) && (p.fontstyle = "italic"))) : u && (p.mathvariant = u);
                 var h = t.create("token", "mtext", p, (0, s.numeric)(o));
                 a.default.setProperty(h, "unicode", !0), t.Push(h)
             }, new o.CommandMap("unicode", {
@@ -18508,7 +18508,7 @@
                 if ("" === Q) throw new i.default("MissingArgFor", "Missing argument for %1", e);
                 for (; t.i < t.string.length && t.string.charAt(t.i) !== Q;) t.i++;
                 if (t.i === t.string.length) throw new i.default("NoClosingDelim", "Can't find closing delimiter for %1", t.currentCS);
-                var r = t.string.slice(T, t.i).replace(/ /g, " ");
+                var r = t.string.slice(T, t.i).replace(/ /g, "\\ ");
                 t.i++, t.Push(t.create("token", "mtext", {
                     mathvariant: n.TexConstant.Variant.MONOSPACE
                 }, r))
