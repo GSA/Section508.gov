@@ -13240,25 +13240,32 @@
                 }));
                 var Q = t.stack.Top(),
                     T = Q.getProperty("casesEnv");
-                if (Q.getProperty("isCases") || T) {
-                    for (var r = t.string, n = 0, o = -1, i = t.i, a = r.length, s = T ? new RegExp("^\\\\end\\s*\\{".concat(T.replace(/\*/g, "\\*"), "\\}")) : null; i < a;) {
-                        var l = r.charAt(i);
-                        if ("{" === l) n++, i++;
-                        else if ("}" === l) 0 === n ? a = 0 : (0 === --n && o < 0 && (o = i - t.i), i++);
-                        else {
+                    function escapeRegExp(str) {
+                        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                      }
+                      
+                      if (Q.getProperty("isCases") || T) {
+                        const escapedT = T ? escapeRegExp(T) : "";
+                        for (var r = t.string, n = 0, o = -1, i = t.i, a = r.length, 
+                             s = T ? new RegExp("^\\\\end\\s*\\{" + escapedT + "\\}") : null;
+                             i < a;) {
+                          var l = r.charAt(i);
+                          if ("{" === l) n++, i++;
+                          else if ("}" === l) 0 === n ? a = 0 : (0 === --n && o < 0 && (o = i - t.i), i++);
+                          else {
                             if ("&" === l && 0 === n) throw new c.default("ExtraAlignTab", "Extra alignment tab in \\cases text");
                             if ("\\" === l) {
-                                var u = r.substr(i);
-                                u.match(/^((\\cr)[^a-zA-Z]|\\\\)/) || s && u.match(s) ? a = 0 : i += 2
-                            } else i++
+                              var u = r.substr(i);
+                              u.match(/^((\\cr)[^a-zA-Z]|\\\\)/) || s && u.match(s) ? a = 0 : i += 2;
+                            } else i++;
+                          }
                         }
-                    }
-                    var p = r.substr(t.i, i - t.i);
-                    if (!p.match(/^\s*\\text[^a-zA-Z]/) || o !== p.replace(/\s+$/, "").length - 1) {
-                        var f = h.default.internalMath(t, h.default.trimSpaces(p), 0);
-                        t.PushAll(f), t.i = i
-                    }
-                }
+                        var p = r.substr(t.i, i - t.i);
+                        if (!p.match(/^\s*\\text[^a-zA-Z]/) || o !== p.replace(/\s+$/, "").length - 1) {
+                          var f = h.default.internalMath(t, h.default.trimSpaces(p), 0);
+                          t.PushAll(f), t.i = i;
+                        }
+                      }                      
             }, m.Cr = function(t, e) {
                 t.Push(t.itemFactory.create("cell").setProperties({
                     isCR: !0,
@@ -18418,7 +18425,15 @@
                 l[c] ? r || (r = l[c][2]) : l[c] = [800, 200, r, c], T && (l[c][0] = Math.floor(1e3 * parseFloat(T[0])), l[c][1] = Math.floor(1e3 * parseFloat(T[1])));
                 var u = t.stack.env.font,
                     p = {};
-                    r ? (l[c][2] = p.fontfamily = r.replace(/'/g, "\\'"), u && (u.match(/bold/) && (p.fontweight = "bold"), u.match(/italic|-mathit/) && (p.fontstyle = "italic"))) : u && (p.mathvariant = u);
+                    r ? (
+                        l[c][2] = p.fontfamily = r
+                          .replace(/\\/g, "\\\\")  // Escape backslashes first
+                          .replace(/'/g, "\\'"),   // Then escape single quotes
+                        u && (
+                          u.match(/bold/) && (p.fontweight = "bold"),
+                          u.match(/italic|-mathit/) && (p.fontstyle = "italic")
+                        )
+                      ) : u && (p.mathvariant = u);                      
                 var h = t.create("token", "mtext", p, (0, s.numeric)(o));
                 a.default.setProperty(h, "unicode", !0), t.Push(h)
             }, new o.CommandMap("unicode", {
