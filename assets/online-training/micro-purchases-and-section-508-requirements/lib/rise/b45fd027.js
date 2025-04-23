@@ -16581,17 +16581,26 @@
                     return t === s || !n()
                 }
                 handleMessages(e) {
-                    const {
-                        data: t
-                    } = e, {
-                        type: n
-                    } = t, s = {
+                    const { data: t } = e;
+                    const { type: n } = t;
+                
+                    const handlers = {
                         "fullscreen:enter": this.handleFullscreenEnter,
                         "fullscreen:exit": this.handleFullscreenExit,
                         "course:update": this.handleCourseUpdate
-                    } [n];
-                    s && s(t)
-                }
+                    };
+                
+                    if (Object.prototype.hasOwnProperty.call(handlers, n)) {
+                        const handler = handlers[n];
+                        if (typeof handler === "function") {
+                            handler.call(this, t); // ensure correct `this` context
+                        } else {
+                            console.warn(`Handler for "${n}" is not a function.`);
+                        }
+                    } else {
+                        console.warn(`Unsupported message type: ${n}`);
+                    }
+                }                
                 handleCourseUpdate(e) {
                     const {
                         items: t,
