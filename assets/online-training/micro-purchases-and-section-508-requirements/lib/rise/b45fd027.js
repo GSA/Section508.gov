@@ -15073,10 +15073,19 @@
                             const e = new window.URL(n.src);
                             e.searchParams.append("disable-auto-focus", "true"), n.src = e.toString()
                         }
-                        if (n.src.includes("forms.office.com")) {
-                            const e = new window.URL(n.src);
-                            e.searchParams.append("embed", "true"), n.src = e.toString()
-                        }
+                        if (n && n.src) {
+                            try {
+                                const url = new URL(n.src);
+                                const allowedHosts = ['forms.office.com', 'www.forms.office.com'];
+                        
+                                if (allowedHosts.includes(url.hostname)) {
+                                    url.searchParams.set("embed", "true");
+                                    n.src = url.toString();
+                                }
+                            } catch (e) {
+                                console.error("Invalid URL in iframe src:", n.src, e);
+                            }
+                        }                        
                         const l = s ? n.outerHTML : "<div>Error: Invalid iframe tag. Please check the iframe source.</div>";
                         return lH.createElement("div", {
                             "aria-hidden": !e,

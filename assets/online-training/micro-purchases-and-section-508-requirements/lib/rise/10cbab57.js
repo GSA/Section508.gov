@@ -35515,8 +35515,7 @@
                     }
                 }, t.pattern = {
                     // Match a style rule with minimized ambiguity
-                    style: /([-a-z]+)[\s\n]*:[\s\n]*((?:'[^']*'|"[^"]*"|[^;"'\n]+)*?)[\s\n]*(?:;|$)/g,
-                
+                    style: /([-a-z]+)[\s\n]*:[\s\n]*((?:'[^']*'|"[^"]*")?)[\s\n]*(?:;|$)/g
                     // Use a more predictable dotAll pattern for comments
                     comment: /\/\*[\s\S]*?\*\//g
                 }, t.connect = {
