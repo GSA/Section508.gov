@@ -9754,16 +9754,25 @@
                 return t.processString = function(e, Q) {
                     for (var T = e.split(t.pattern), r = 1, n = T.length; r < n; r += 2) {
                         var o = T[r].charAt(0);
-                        if (o >= "0" && o <= "9") T[r] = Q[parseInt(T[r], 10) - 1], "number" == typeof T[r] && (T[r] = T[r].toString());
-                        else if ("{" === o) {
-                            if ((o = T[r].substr(1)) >= "0" && o <= "9") T[r] = Q[parseInt(T[r].substr(1, T[r].length - 2), 10) - 1], "number" == typeof T[r] && (T[r] = T[r].toString());
-                            else T[r].match(/^\{([a-z]+):%(\d+)\|(.*)\}$/) && (T[r] = "%" + T[r])
+                        if (o >= "0" && o <= "9") {
+                            T[r] = Q[parseInt(T[r], 10) - 1];
+                            if (typeof T[r] === "number") T[r] = T[r].toString();
+                        } else if (o === "{") {
+                            o = T[r].substr(1);
+                            if (o >= "0" && o <= "9") {
+                                T[r] = Q[parseInt(T[r].substr(1, T[r].length - 2), 10) - 1];
+                                if (typeof T[r] === "number") T[r] = T[r].toString();
+                            } else if (T[r].match(/^\{([a-z]+):%(\d+)\|(.*)\}$/)) {
+                                T[r] = "%" + T[r];
+                            }
                         }
-                        null == T[r] && (T[r] = "???")
+                        if (T[r] == null) T[r] = "???";
                     }
-                    return T.join("")
-                }, t.pattern = /%(\d+|\{\d+\}|\{[a-z]+:\%\d+(?:\|(?:%\{\d+\}|%.|[^\}])*)+\}|.)/g, t
-            }();
+                    return T.join("");
+                }, 
+                t.pattern = /%(\d+|\{\d+\}|\{[a-z]+:\%\d+(?:\|(?:%\{\d+\}|%\.[^}]?|[^|}%][^}]?))*\}|.)/g, 
+                t;
+            }();            
             e.default = Q
         },
         89795: function(t, e, Q) {
@@ -18523,7 +18532,9 @@
                 if ("" === Q) throw new i.default("MissingArgFor", "Missing argument for %1", e);
                 for (; t.i < t.string.length && t.string.charAt(t.i) !== Q;) t.i++;
                 if (t.i === t.string.length) throw new i.default("NoClosingDelim", "Can't find closing delimiter for %1", t.currentCS);
-                var r = t.string.slice(T, t.i).replace(/ /g, "\\ ");
+                var r = t.string.slice(T, t.i)
+                    .replace(/\\/g, "\\\\")  // Escape backslashes first
+                    .replace(/ /g, "\\ ");   // Then escape spaces
                 t.i++, t.Push(t.create("token", "mtext", {
                     mathvariant: n.TexConstant.Variant.MONOSPACE
                 }, r))
@@ -35503,8 +35514,11 @@
                         this.set(o, i)
                     }
                 }, t.pattern = {
-                    style: /([-a-z]+)[\s\n]*:[\s\n]*((?:'[^']*'|"[^"]*"|\n|.)*?)[\s\n]*(?:;|$)/g,
-                    comment: /\/\*[^]*?\*\//g
+                    // Match a style rule with minimized ambiguity
+                    style: /([-a-z]+)[\s\n]*:[\s\n]*((?:'[^']*'|"[^"]*"|[^;"'\n]+)*?)[\s\n]*(?:;|$)/g,
+                
+                    // Use a more predictable dotAll pattern for comments
+                    comment: /\/\*[\s\S]*?\*\//g
                 }, t.connect = {
                     padding: {
                         children: n,
