@@ -18,7 +18,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <p style="text-align:center;" id="top">
   {% assign last_initial = "" %}

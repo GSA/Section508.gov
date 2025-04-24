@@ -18,8 +18,7 @@ resource-type: "Training"
 format: "HTML (html)"
 ---
 
-<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum." src="{{site.baseurl}}/assets/images/iaaf-2024-web-banner.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
-
+<h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
   <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, November 7th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Wednesday, November 8th</a> | <a href="#day3" title="Skip to Day 3 Program">Day 3/Thursday, November 9th</a> | <a href="#exhibitors" title="Skip to Exhibitors Program">Exhibitors</a></b>

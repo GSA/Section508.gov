@@ -5,7 +5,7 @@ permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
 created: 2018-05-08
-updated: 2025-02-27
+updated: 2025-04-09
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -165,9 +165,9 @@ Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
+<!-- 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
-Jay Steinke - <jay.steinke.1@us.af.mil>  
-Muhammad Waheed	- <muhammad.waheed@us.af.mil>  
+-->   
 
 ### Air National Guard
 ### Army
@@ -257,9 +257,7 @@ Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
 ---
-## <span id="usdoe" ></span>Department of Education
-Denise McGland - <denise.mcgland@ed.gov>  
-Jason Lautenbacher - <jason.Lautenbacher@ed.gov>
+## <span id="usdoe" ></span>Department of Education (ED)
 
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
@@ -269,7 +267,7 @@ Sandra Logan (Deputy)
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Department-wide
-Cammie Truesdell - <cammie.truesdell@hhs.gov>  
+
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
@@ -435,7 +433,7 @@ David Fruehwald (Deputy) -	<david.fruehwald@usdoj.gov>
 ### Executive Office for United States Attorneys
 Irina	Charova	- <irina.charova@usa.doj.gov>
 ### Executive Office for United States Trustees
-Julie Enyeart - <julie.enyeart@usdoj.gov>  
+Alisha Hurtado - <alisha.hurtado@usdoj.gov>  
 ### Federal Bureau of Investigation (FBI)
 FBI Accessibility Program Office (APO) - <hq-div00-ocio-apo@fbi.gov>
 ### Federal Bureau of Prisons
@@ -501,7 +499,7 @@ Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
-Richard McCarthy - <mccarthyrd@state.gov>  
+David Conner (Acting) - <connerd2@state.gov>  
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
@@ -623,7 +621,7 @@ Jenna	A. Ramos	- <jaramos@bpa.gov>
 <span id="C" ></span>
 
 ### Central Intelligence Agency	(CIA)
-Richard	W. - <iapo@ucia.gov>  
+Richard	W. - <section_508@uce.cia.gov>  
 
 ---
 ### Commission of Fine Arts	(CFA)
@@ -894,9 +892,8 @@ Gregory G. Jackson - <ggjackson@tva.gov>
 
 <span id="U" ></span>
 
-### U.S. Access Board (USAB)
-Bruce Bailey - (TTY) 202-272-0024 - <bailey@access-board.gov>  
-
+<!-- ### U.S. Access Board (USAB) 
+<> -->
 ---
 
 ### U.S. Agency for Global Media (USAGM)
@@ -917,7 +914,7 @@ Pramila Adhikari - <pramila.adhikari@dfc.gov>
 
 ---
 ### U.S. International Trade Commission (USITC)
-Carrin Brown - <carrin.brown@usitc.gov>  
+Terri Barnes - <terri.barnes@usitc.gov>  
 
 ---
 ### U.S. Postal Service (USPS)
@@ -929,7 +926,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: March 2025
+**Reviewed/Updated**: April 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
