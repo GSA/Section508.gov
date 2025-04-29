@@ -119,8 +119,8 @@ Accordingly, and in consultation with the Office of Management and Budget (OMB),
 ## Related Resources
   * [Annual Government-wide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/)
   * <a href="https://www.justice.gov/crt/page/file/1569331/download" target="_blank">Section 508 Report to Congress and the President: Accessibility of Federal Electronic and Information Technology (PDF) February 2023</a>
-  * [Assess Maturity of Your Agency’s 508 Program](https://www.section508.gov/tools/playbooks/technology-accessibility-playbook-intro/play02) - Play 2 from the [Technology Accessibility Playbook](/tools/playbooks/technology-accessibility-playbook-intro)
-  * [Trusted Tester and ICT Testing Baseline](https://www.section508.gov/test/trusted-tester/)
+  * [Assess Maturity of Your Agency’s 508 Program]({{ site.baseurl }}/tools/playbooks/technology-accessibility-playbook-intro/play02) - Play 2 from the [Technology Accessibility Playbook](/tools/playbooks/technology-accessibility-playbook-intro)
+  * [Trusted Tester and ICT Testing Baseline]({{ site.baseurl }}/test/trusted-tester/)
 
 For any questions about the government-wide Section 508 reporting, please [contact us]({{site.baseurl}}/contact-us/).
 

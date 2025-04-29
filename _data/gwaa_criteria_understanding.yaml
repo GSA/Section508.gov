@@ -1716,12 +1716,13 @@
     <ol type="a">
       <li>N/A- reporting entity does not have intranet</li>
       <li>Unavailable- does not have resources to test</li>
-      <li>Has results to report [If selected, show the following for each page:]</li>
-      <ul>
-        <li>Web page name:</li>
-        <li>Web page description:</li>
-        <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
-      </ul>
+      <li>Has results to report [If selected, show the following for each page:]
+        <ul>
+          <li>Web page name:</li>
+          <li>Web page description:</li>
+          <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
+        </ul>
+      </li>
     </ol>
   u-descr: | 
     The final layout in the reporting tool will be forthcoming. For FY24, select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the web page name and description. 
@@ -1751,13 +1752,14 @@
     <ol type="a">
       <li>N/A- reporting entity does not have publicly available electronic documents</li>
       <li>Unavailable- does not have resources to test</li>
-      <li>as results to report [If selected, show the following for each document:]</li>
-      <ul>
-        <li>Document Name</li>
-        <li>Document URL:</li>
-        <li>URL of document:</li>
-        <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
-      </ul>
+      <li>as results to report [If selected, show the following for each document:]
+        <ul>
+          <li>Document Name</li>
+          <li>Document URL:</li>
+          <li>URL of document:</li>
+          <li>Select each Section 508 standard or WCAG Success Criterion that fails on the page</li>
+        </ul>
+      </li>
     </ol>
   u-descr: | 
     The final layout in the tool will be forthcoming. For FY24, we will ask you to select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the document name, description, and URL. 
@@ -1785,12 +1787,13 @@
     <ol type="a">
       <li>N/A- reporting entity does not host or produce any videos</li>
       <li>Unavailable- does not have resources to test</li>
-      <li>Has results to report [If selected, show the following for each video:]</li>
-      <ul>
-        <li>Video Name</li>
-        <li>URL of Video</li>
-        <li>Select each Section 508 standard or WCAG Success Criterion that fails in the video</li>
-      </ul>
+      <li>Has results to report [If selected, show the following for each video:]
+        <ul>
+          <li>Video Name</li>
+          <li>URL of Video</li>
+          <li>Select each Section 508 standard or WCAG Success Criterion that fails in the video</li>
+        </ul>
+      </li>
     </ol>
   u-descr: | 
     The final layout in the tool will be forthcoming. For FY24, we will ask you to select which Section 508 standard or WCAG 2.0 AA Success Criterion fail in addition to the video name and URL. 

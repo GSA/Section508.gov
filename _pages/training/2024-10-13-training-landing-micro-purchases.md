@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/micro-purchases/
 type: training
 title: "Micro-Purchases and Section 508 Requirements"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/micro-purchases/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -48,7 +48,7 @@ format: "HTML"
 
 **Duration:** 30 minutes  
 **Difficulty Level:** Intermediate  
-**Version:** Version 3.0 (Mar 2025)  
+**Version:** 3.0 (Mar 2025)  
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -141,4 +141,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

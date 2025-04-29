@@ -38,7 +38,7 @@ If you have not already used the updated ART, you will find the following enhanc
 * Available as open source on GitHub, which enables ART to be integrated with other platforms and software
 * Provides Comprehensive Glossary
 
-By using ART as part of your procurement process, you provide: accurate Section 508 requirements for solicitations; reduce remediation, modifications, and lawsuits; and provide a standardized option for section 508 requirements. For more information on using ART, visit [Section508.gov/ART/](https://www.section508.gov/art/), which includes tutorials and videos to help you get started.
+By using ART as part of your procurement process, you provide: accurate Section 508 requirements for solicitations; reduce remediation, modifications, and lawsuits; and provide a standardized option for section 508 requirements. For more information on using ART, visit [Section508.gov/ART/]({{ site.baseurl }}/art/), which includes tutorials and videos to help you get started.
 
 Even though Section 508 solicitation requirements responsibilities primarily fall on contracting officers, their representatives, and project managers, it is everyone’s responsibility to ensure that any products and services are compliant. Using ART to account for Section 508 requirements early in the process reduces your workload, saves the government money, and is just the right thing to do.
 

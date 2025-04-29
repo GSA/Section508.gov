@@ -15,6 +15,9 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Long form article"
 format: "HTML (html)"
+redirect_from:
+- kpi/
+- kpis/
 ---
 Results of the last two governmentwide Section 508 Annual Assessments show that agencies generally have many areas in which they could improve. From improving the maturity of their Section 508 Program Office, to the need for creating polices and repeatable procedures, to solidifying their accessibility testing infrastructure, to improving accessibility of ICT; agencies can improve the accessibility of their organizations in one way or another.
 

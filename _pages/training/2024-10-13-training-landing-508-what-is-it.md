@@ -1,11 +1,9 @@
 ---
 sidenav: true
 layout: page
-permalink: training/online-course/section-508-what-is-it/
 type: training
 title: "Section 508: What Is It and Why Is It Important?"
-created: 2024-10-15
-redirect_from:
+permalink: training/online-course/section-508-what-is-it/
 topic: "Training (train)"
 sub-topic: "Presentations"
 audience:
@@ -16,6 +14,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "Video & Synchronized Media (video)"
+created: 2024-10-15
+updated: 2025-03-19
 ---
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
@@ -42,7 +42,7 @@ format: "Video & Synchronized Media (video)"
 **Audience:** Federal Employees and Contracts
 **Duration:** 60 minutes  
 **Difficulty Level:** Beginner  
-**Version:** Version 4.1 (Sep 2024)  
+**Version:** 4.1 (Sep 2024)
 
 ## What Will I Learn in This Course?
 By understanding and implementing Section 508 requirements properly, you can help ensure people with disabilities have equal access to ICT, and that your organization complies with all legal requirements for accessibility.
@@ -127,4 +127,4 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   </div>
 </div>
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: March 2025

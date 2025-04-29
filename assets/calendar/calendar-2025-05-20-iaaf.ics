@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Havana
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Havana
+X-LIC-LOCATION:America/Havana
+BEGIN:STANDARD
+TZNAME:CST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T010000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:CDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T000000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250416T111916Z
+UID:1744802280019-38463@ical.marudot.com
+DTSTART;TZID=America/Havana:20250520T090000
+RRULE:FREQ=DAILY;COUNT=2
+DTEND;TZID=America/Havana:20250520T160000
+SUMMARY:IAAF 2025
+URL:https://www.section508.gov/iaaf/
+DESCRIPTION:This is a calendar placeholder for the 2025 Interagency Accessibility Forum. Registration is expected to open in April at which time you can register and receive a personalized calendar invitation. Watch https://www.section508.gov/iaaf for event and registration information.
+LOCATION:Virtual - Zoom for Government
+END:VEVENT
+END:VCALENDAR

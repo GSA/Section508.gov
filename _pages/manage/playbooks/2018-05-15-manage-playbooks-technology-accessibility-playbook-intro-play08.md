@@ -32,7 +32,7 @@ The following play identifies how to ensure accessibility needs are identified a
 
 <u><strong>General Preparation:</strong></u>
 
-  * Study the Federal Acquisition Regulation (FAR), particularly parts that specifically address 508 (Sections 10, 11, 12.2, and 39.2). [The accessibility requirements in FAR](https://www.section508.gov/manage/laws-and-policies/far-update-comparison/) were updated in 2021 to align with the “Revised 508 Standards”. 
+  * Study the Federal Acquisition Regulation (FAR), particularly parts that specifically address 508 (Sections 10, 11, 12.2, and 39.2). [The accessibility requirements in FAR]({{ site.baseurl }}/manage/laws-and-policies/far-update-comparison/) were updated in 2021 to align with the “Revised 508 Standards”. 
   * Identify and understand your agency&rsquo;s acquisition policies and procedures used to acquire technology.
   * Determine if adequate consideration of Section 508 Standards is already included in these policies and procedures &ndash; if not work with the appropriate stakeholders to change this.
   * Develop criteria for when and how accessibility and Section 508 requirements, exceptions, terms and conditions, evaluation methods, acceptance criteria, and related proposal response requirements are included in solicitations.
@@ -79,7 +79,7 @@ The following play identifies how to ensure accessibility needs are identified a
   * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08)</a>
   * <a href="https://assets.section508.gov/assets/files/guidance-on-508-compliant-solicitations-20150921.docx" target="_blank" class="usa-link--external">GSA&rsquo;s Guidance on Creating Section 508 Compliant Solicitations</a>
   * <a href="https://assets.section508.gov/assets/files/Guidance-on-Acquisition-for-Accessible-EIT-20150921.docx" target="_blank" class="usa-link--external">GSA&rsquo;s Guidance on Acquisition for Accessible EIT</a>
-  * [Tabular Comparison of the Previous FAR Text Against the 2021 Update](https://www.section508.gov/manage/laws-and-policies/far-update-comparison/)
+  * [Tabular Comparison of the Previous FAR Text Against the 2021 Update]({{ site.baseurl }}/manage/laws-and-policies/far-update-comparison/)
 
 <div>
   <hr />

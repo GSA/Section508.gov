@@ -47,14 +47,14 @@ format: "HTML (html)"
 <ul>
     <li><a href="https://www.cio.gov/about/members-and-leadership/accessibility-cop/">ACOP homepage</a></li>
     <li><a href="https://www.cio.gov/">Federal Chief Information Officer Council homepage</a></li>
-    <li><a href="https://www.section508.gov/">Section508.gov</a></li>
+    <li><a href="{{ site.baseurl }}/">Section508.gov</a></li>
 </ul>
 <h3 class="subheading">
   Tools
 </h3>
 <ul>
-    <li><a href="https://www.section508.gov/buy/accessibility-requirements-tool/">ART</a></li>
-    <li><a href="https://www.section508.gov/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a></li>
+    <li><a href="{{ site.baseurl }}/buy/accessibility-requirements-tool/">ART</a></li>
+    <li><a href="{{ site.baseurl }}/buy/solicitation-review-tool/">Solicitation Review Tool (SRT)</a></li>
 </ul>
 <br>
 <div>
