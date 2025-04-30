@@ -709,406 +709,131 @@ Not Applicable
 
  |
 
-Table 2: Success Criteria, Level AA[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#success_criteria_level_aa-download)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-|
-
-**Criteria**
-
- |
-
-**Conformance Level**
-
- |
-
-**Remarks and Explanations**
-
- |
-| --- | --- | --- |
-|
-
-[1.2.4 Captions (Live)](https://www.w3.org/TR/WCAG21/#captions-live)
-
- |
-
-- **Web**: Not Applicable
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: There is no live video in the course.
-
- |
-|
-
-[1.2.5 Audio Description (Prerecorded)](https://www.w3.org/TR/WCAG21/#audio-description-prerecorded)
-
- |
-
-- **Web**: Not Applicable
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |  |
-|
-
-[1.3.4 Orientation](https://www.w3.org/TR/WCAG21/#orientation)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course work in both landscape and portrait modes.
-
- |
-|
-
-[1.3.5 Identify Input Purpose](https://www.w3.org/TR/WCAG21/#identify-input-purpose)
-
- |
-
-- **Web**: Does Not Support
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Articulate Storyline, which is the application that created the course, does not currently support the programmatic input field identification. Best Practice rather than a Section 508 legal requirement.
-
- |
-|
-
-[1.4.3 Contrast (Minimum)](https://www.w3.org/TR/WCAG21/#visual-audio-contrast-contrast)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to meet the color contrast requirements.
-
- |
-|
-
-[1.4.4 Resize text](https://www.w3.org/TR/WCAG21/#visual-audio-contrast-scale)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Learners can switch to zoom mode and use the zoom settings in desktop browsers to make slides bigger and easier to see. On mobile devices, learners can use pinch-to-zoom gestures.
-
- |
-|
-
-[1.4.5 Images of Text](https://www.w3.org/TR/WCAG21/#visual-audio-contrast-text-presentation)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Images of text are not used in the course.
-
- |
-|
-
-[1.4.10 Reflow](https://www.w3.org/TR/WCAG21/#reflow)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Storyline 360 content modules are two-dimensional presentations with fixed aspect ratios. They're designed to zoom in and out, but they can't reflow without losing meaning and context. As a result, learners might see vertical and/or horizontal scroll bars at the highest zoom levels. The guideline allows two-dimensional content, such as presentations, to scroll in both directions.
-
- |
-|
-
-[1.4.11 Non-text Contrast](https://www.w3.org/TR/WCAG21/#non-text-contrast)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to meet a contrast ratio of 3:1 or higher for images and background elements so learners with low vision can see them.
-
- |
-|
-
-[1.4.12 Text Spacing](https://www.w3.org/TR/WCAG21/#text-spacing)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Learners can use custom stylesheets or browser extensions to adjust text properties, such as line spacing, to make content easier to read.
-
- |
-|
-
-[1.4.13 Content on Hover or Focus](https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus)
-
- |
-
-- **Web**: Partially Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Object hover states can't be dismissed with a keyboard command. Articulate developers are working on a solution. Best Practice rather than a Section 508 legal requirement.
-
- |
-|
-
-[2.4.5 Multiple Ways](https://www.w3.org/TR/WCAG21/#multiple-ways)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to include multiple ways to find content. The built-in navigation features include the course menu, search field, and previous and next buttons.
-
- |
-|
-
-[2.4.6 Headings and Labels](https://www.w3.org/TR/WCAG21/#headings-and-labels)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to have headings and labels for slide content so learners understand the course information. Headings and labels are clear and descriptive.
-
- |
-|
-
-[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG21/#focus-visible)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to have a rectangular visual focus that highlights the object that currently has focus when learners use keyboard navigation.
-
- |
-|
-
-[3.1.2 Language of Parts](https://www.w3.org/TR/WCAG21/#language-of-parts)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: You can set the course language in your player properties. Courses are designed not to have multiple languages in one course.
-
- |
-|
-
-[3.2.3 Consistent Navigation](https://www.w3.org/TR/WCAG21/#consistent-navigation)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The built-in navigation elements appear in the same location throughout a course.
-
- |
-|
-
-[3.2.4 Consistent Identification](https://www.w3.org/TR/WCAG21/#consistent-identification)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to have consistency. When an object or interaction is used more than once, it was designed the same way each time.
-
- |
-|
-
-[3.3.3 Error Suggestion](https://www.w3.org/TR/WCAG21/#error-suggestion)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: The course was designed to give feedback or instructions so they know what is expected.
-
- |
-|
-
-[3.3.4 Error Prevention (Legal, Financial, Data)](https://www.w3.org/TR/WCAG21/#error-prevention-legal-financial-data)
-
- |
-
-- **Web**: Not Applicable
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |  |
-|
-
-[4.1.3 Status Messages](https://www.w3.org/TR/WCAG21/#status-messages)
-
- |
-
-- **Web**: Supports
-
-- **Electronic Documents**: Not Applicable
-
-- **Software**: Not Applicable
-
-- **Authoring Tool**: Not Applicable
-
- |
-
-- **Web**: Status messages do not appear without a change in context.
-
- |
-
-Table 3: Success Criteria, Level AAA[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#success_criteria_level_aaa-download)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Revised Section 508 Report[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#508-download)
-========================================================================================================================================================
-
-Chapter 3: Functional Performance Criteria (FPC)[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#functional_performance_criteria-download)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Table 2: Success Criteria, Level AA
 
 <table class="usa-table usa-table--borderless usa-table--striped">
+  <caption></caption>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Conformance Level</th>
+      <th>Remarks and Explanations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#captions-live">1.2.4 Captions (Live)</a></td>
+      <td><strong>Web</strong>: Not Applicable<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: There is no live video in the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#audio-description-prerecorded">1.2.5 Audio Description (Prerecorded)</a></td>
+      <td><strong>Web</strong>: Not Applicable<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#orientation">1.3.4 Orientation</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: The course works in both landscape and portrait modes.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#identify-input-purpose">1.3.5 Identify Input Purpose</a></td>
+      <td><strong>Web</strong>: Does Not Support<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Articulate Storyline, which is the application that created the course, does not currently support the programmatic input field identification. Best Practice rather than a Section 508 legal requirement.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#visual-audio-contrast-contrast">1.4.3 Contrast (Minimum)</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: The course was designed to meet the color contrast requirements.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#visual-audio-contrast-scale">1.4.4 Resize text</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Learners can switch to zoom mode and use browser settings to enlarge content. On mobile devices, learners can use pinch-to-zoom gestures.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#visual-audio-contrast-text-presentation">1.4.5 Images of Text</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Images of text are not used in the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#reflow">1.4.10 Reflow</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Storyline 360 content has fixed aspect ratios and supports zooming, but not reflow. Scrollbars may appear at high zoom. This complies with guidelines for two-dimensional content.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#non-text-contrast">1.4.11 Non-text Contrast</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Designed with a contrast ratio of 3:1 or higher for images and background elements.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#text-spacing">1.4.12 Text Spacing</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Users can adjust text properties using custom stylesheets or browser extensions.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#content-on-hover-or-focus">1.4.13 Content on Hover or Focus</a></td>
+      <td><strong>Web</strong>: Partially Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Hover states can’t be dismissed with a keyboard. Developers are working on a solution. Best Practice, not a legal requirement.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#multiple-ways">2.4.5 Multiple Ways</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Course includes multiple navigation methods: menu, search, and navigation buttons.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#headings-and-labels">2.4.6 Headings and Labels</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Clear and descriptive headings and labels are used throughout the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#focus-visible">2.4.7 Focus Visible</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: A visible focus indicator highlights the active object during keyboard navigation.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#language-of-parts">3.1.2 Language of Parts</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Courses are designed in a single language. Language is set in the player properties.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#consistent-navigation">3.2.3 Consistent Navigation</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Navigation appears consistently throughout the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#consistent-identification">3.2.4 Consistent Identification</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Repeated elements are designed consistently for recognition and usability.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#error-suggestion">3.3.3 Error Suggestion</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Learners receive feedback or instructions when input is incorrect or unclear.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#error-prevention-legal-financial-data">3.3.4 Error Prevention (Legal, Financial, Data)</a></td>
+      <td><strong>Web</strong>: Not Applicable<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.w3.org/TR/WCAG21/#status-messages">4.1.3 Status Messages</a></td>
+      <td><strong>Web</strong>: Supports<br><strong>Electronic Documents</strong>: Not Applicable<br><strong>Software</strong>: Not Applicable<br><strong>Authoring Tool</strong>: Not Applicable</td>
+      <td><strong>Web</strong>: Status messages appear only when context changes.</td>
+    </tr>
+  </tbody>
+</table>
+
+Let me know if you'd like this broken into smaller sections or exported as a file.
+
+### Table 3: Success Criteria, Level AAA
+
+## Revised Section 508 Report
+
+### Chapter 3: Functional Performance Criteria (FPC)
+
+<table class="usa-table usa-table--borderless usa-table--striped">
+  <caption></caption>
   <thead>
     <tr>
       <th>Criteria</th>
