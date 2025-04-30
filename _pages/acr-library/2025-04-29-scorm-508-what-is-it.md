@@ -1108,137 +1108,62 @@ Revised Section 508 Report[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/202504
 Chapter 3: Functional Performance Criteria (FPC)[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#functional_performance_criteria-download)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-|
-
-**Criteria**
-
- |
-
-**Conformance Level**
-
- |
-
-**Remarks and Explanations**
-
- |
-| --- | --- | --- |
-|
-
-[302.1 Without Vision](https://www.access-board.gov/ict/#302.1)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to be fully accessible. The designer conducted usability testing with screen reader users before the course was launched, resulting in subtle changes that increased usability.
-
- |
-|
-
-[302.2 With Limited Vision](https://www.access-board.gov/ict/#302.2)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to be fully accessible. The designer conducted usability testing with a magnification user before the course was launched.
-
- |
-|
-
-[302.3 Without Perception of Color](https://www.access-board.gov/ict/#302.3)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that color alone was not used to convey meaning.
-
- |
-|
-
-[302.4 Without Hearing](https://www.access-board.gov/ict/#302.4)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that hearing is not required to take the course.
-
- |
-|
-
-[302.5 With Limited Hearing](https://www.access-board.gov/ict/#302.5)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that people with limited hearing could take the course.
-
- |
-|
-
-[302.6 Without Speech](https://www.access-board.gov/ict/#302.6)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that people without speech could take the course.
-
- |
-|
-
-[302.7 With Limited Manipulation](https://www.access-board.gov/ict/#302.7)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that people with limited manipulation could take the course. As a result, it supports multiple modalities.
-
- |
-|
-
-[302.8 With Limited Reach and Strength](https://www.access-board.gov/ict/#302.8)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that people with limited reach and strength could take the course.
-
- |
-|
-
-[302.9 With Limited Language, Cognitive, and Learning Abilities](https://www.access-board.gov/ict/#302.9)
-
- |
-
-- Supports
-
- |
-
-- The course was designed to ensure that people with limited language, cognitive, and learning abilities could take the course.
-
- |
+<table class="usa-table usa-table--borderless usa-table--striped">
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Conformance Level</th>
+      <th>Remarks and Explanations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.1">302.1 Without Vision</a></td>
+      <td>Supports</td>
+      <td>The course was designed to be fully accessible. The designer conducted usability testing with screen reader users before the course was launched, resulting in subtle changes that increased usability.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.2">302.2 With Limited Vision</a></td>
+      <td>Supports</td>
+      <td>The course was designed to be fully accessible. The designer conducted usability testing with a magnification user before the course was launched.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.3">302.3 Without Perception of Color</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that color alone was not used to convey meaning.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.4">302.4 Without Hearing</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that hearing is not required to take the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.5">302.5 With Limited Hearing</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that people with limited hearing could take the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.6">302.6 Without Speech</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that people without speech could take the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.7">302.7 With Limited Manipulation</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that people with limited manipulation could take the course. As a result, it supports multiple modalities.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.8">302.8 With Limited Reach and Strength</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that people with limited reach and strength could take the course.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.access-board.gov/ict/#302.9">302.9 With Limited Language, Cognitive, and Learning Abilities</a></td>
+      <td>Supports</td>
+      <td>The course was designed to ensure that people with limited language, cognitive, and learning abilities could take the course.</td>
+    </tr>
+  </tbody>
+</table>
 
 Chapter 4: Hardware[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#hardware-download)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
