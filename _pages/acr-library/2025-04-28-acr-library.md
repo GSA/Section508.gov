@@ -118,8 +118,8 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
       </td>
     </tr>
     <tr>
@@ -128,8 +128,8 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
       </td>
     </tr>
     <tr>
@@ -138,8 +138,8 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
       </td>
     </tr>
     <tr>
@@ -148,8 +148,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-disk-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
       </td>
     </tr>
     <tr>
@@ -157,8 +158,8 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">1.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
       </td>
     </tr>
     <!--<tr>
