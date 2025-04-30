@@ -23,104 +23,81 @@ format: html
 created: 2025-04-29
 ---
 
-Section 508 - What Is It and Why Is It Important Accessibility Conformance Report
+Section 508 - What Is It and Why Is It Important? Accessibility Conformance Report
 
 Based on VPAT® 2.4 WCAG 2.1 and Revised Section 508 Edition
 
-Name of Product/Version
-=======================
+## Name of Product/Version
 
 Section 508 - What Is It and Why Is It Important 4.1 (Sep 2024)
 
-Report Dates and Version[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#report-date-download)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Report Dates and Version
 
 -   Report Date: 4/24/2025
 -   Last Modified Date: 4/29/2025
 -   Version: section 508 - what is it and why is it important-4.1 (Sep 2024)-3
 
-Product Description[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#product-description-download)
-=================================================================================================================================================================
+## Product Description
 
 Web-based training course for self-paced learning. Includes informational text and graphics, learning interactions, and knowledge checks. Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it's important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities.
 
-Contact Information[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#contact-information-download)
-=================================================================================================================================================================
+## Contact Information
 
-Author Information[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#author-download)
----------------------------------------------------------------------------------------------------------------------------------------------------
+### Author Information
 
 - Name: Terri Youngblood Savage
-
 - Company: AMA Consulting
-
 - Email: <terri.savage@gsa.gov>
+- Website: [https://ama-consult.com/](https://ama-consult.com/)  
 
-- Website: [https://ama-consult.com/](https://ama-consult.com/%20)  
-
-Vendor Information
-------------------
-
+### Vendor Information
 - Name: Government-wide IT Accessibility Program, Office of Government-wide Policy
-
 - Company: General Services Administration
-
 - Address: 1800 F St., NW, Washington, D.C. 20405
-
 - Email: <section.508@gsa.gov>
-
 - Phone: N/A
+- Website: [https://www.section508.gov](https://www.section508.gov/)
 
-- Website: [https://www.section508.gov](https://www.section508.gov/)  [](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#vendor-download)
-
-Evaluation Methods Used[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#evaluation-methods-download)
-====================================================================================================================================================================
+## Evaluation Methods Used
 
 The course was testing using manual and automated tools including assistive technology used by people with disabilities. Tools included Axe, ANDI, JAWS, NVDA, VoiceOver, ZoomText and Dragon Naturally Speaking.
 
-Applicable Standards/Guidelines[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#applicable-standards-guidelines-download)
-=========================================================================================================================================================================================
+## Applicable Standards/Guidelines
 
 This report covers the degree of conformance for the following accessibility standard/guidelines:
 
-|
-
-**Standard/Guideline**
-
- |
-
-**Included In Report**
-
- |
-| --- | --- |
-|
-
-[Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)
-
- |
-
-- Table 1: Success Criteria, Level A
-
-- Table 2: Success Criteria, Level AA
-
-- Table 3: Success Criteria, Level AAA
-
- |
-|
-
-[Revised Section 508 standards published January 18, 2017 and corrected January 22, 2018](https://www.access-board.gov/ict/)
-
- |
-
-- Chapter 3: Functional Performance Criteria (FPC)
-
-- Chapter 4: Hardware
-
-- Chapter 5: Software
-
-- Chapter 6: Support Documentation and Services
-
- |
+<table class="usa-table usa-table--borderless usa-table--striped">
+  <caption></caption>
+  <thead>
+    <tr>
+      <th scope="col">Standard/Guideline</th>
+      <th scope="col">Included In Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">[Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/)</th>
+      <td>
+        <ul>
+            <li>Table 1: Success Criteria, Level A</li>
+            <li>Table 2: Success Criteria, Level AA</li>
+            <li>Table 3: Success Criteria, Level AAA</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">[Revised Section 508 standards published January 18, 2017 and corrected January 22, 2018](https://www.access-board.gov/ict/)</th>
+      <td>
+        <ul>
+            <li>Chapter 3: Functional Performance Criteria (FPC)</li>
+            <li>Chapter 4: Hardware</li>
+            <li>Chapter 5: Software</li>
+            <li>Chapter 6: Support Documentation and Services</li>
+        </ul>
+      </td>
+    </tr>  
+  </tbody>
+</table>
 
 Terms[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#terms-download)
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -1271,6 +1248,10 @@ Chapter 5: Software[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_
 
 Chapter 6: Support Documentation and Services[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#support_documentation_and_services-download)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<button class="usa-button" type="button">Download Report (DOCX).docx</button>
+<button class="usa-button usa-button--secondary" type="button">Download Report (YAML).yaml</button>
+<button class="usa-button usa-button--outline" type="button">Download Report (ZIP).zip</button>
 
 [OpenACR ](https://github.com/GSA/openacr)is a format maintained by the [GSA](https://gsa.gov/). The content is the responsibility of the author.
 

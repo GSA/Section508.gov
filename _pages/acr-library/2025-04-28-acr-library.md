@@ -28,7 +28,8 @@ resource_type:
 - article
 - tool
 format: html
-created: 2025-03-17
+created: 2025-04-28
+updated: 2024-04-30
 redirect_from: 
 - acr/
 - conformance-reports/
@@ -137,7 +138,7 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th id="procuring-ict" scope="row"><a href="{{ site.baseurl }}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a></th>
       <td class="center">1.0</td>
-      <td class="center"></td>
+      <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
@@ -147,7 +148,7 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th id="508-what-is-it" scope="row"><a href="{{ site.baseurl }}/training/online-course/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></th>
       <td class="center">4.1</td>
-      <td class="center"></td>
+      <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
@@ -158,7 +159,7 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th id="evaluating-acrs" scope="row"><a href="https://www.section508.gov/training/online-course/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></th>
       <td class="center">1.0</td>
-      <td class="center"></td>
+      <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
@@ -168,7 +169,7 @@ GSA is committed to providing technical assistance to individuals and federal de
 </table>
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  If you need more information or help understanding these reports, please <a href="{{ site.baseurl }}/contact-us/">contact us</a> for assistance.
+  For more information or help understanding these reports, please <a href="{{ site.baseurl }}/contact-us/">contact us</a> for assistance.
 </div>
 
 ## Related Resources
