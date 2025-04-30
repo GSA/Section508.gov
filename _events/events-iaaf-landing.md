@@ -22,6 +22,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 
 <img src="{{site.baseurl}}/assets/images/iaaf-date-card-2025.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
 
+<!--
 <div class="grid-row">
   <div class="tablet:grid-col-fill text-center">
     <a href="{{ site.baseurl }}/assets/calendar/calendar-2025-05-20-iaaf.ics"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Calendar (.ics)</a>
@@ -32,7 +33,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
     <span> | </span>
     <a href="https://calendar.yahoo.com/?desc=This%2520is%2520a%2520calendar%2520placeholder%2520for%2520the%25202025%2520Interagency%2520Accessibility%2520Forum.%2520Registration%2520is%2520expected%2520to%2520open%2520in%2520April%2520at%2520which%2520time%2520you%2520can%2520register%2520and%2520receive%2520a%2520personalized%2520calendar%2520invitation.%2520Watch%2520https%253A%252F%252Fwww.section508.gov%252Fiaaf%2520for%2520event%2520and%2520registration%2520information.&dur=false&et=20250520T210000Z&in_loc=Virtual+-+Zoom+for+Government&st=20250520T130000Z&title=2025%2520IAAF%2520-%2520Save%2520the%2520Date%21&v=60&recur=RRULE:FREQ=DAILY;COUNT=2" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Outlook Online Calendar</a>
   </div>
-</div> 
+</div> -->
 
 ## Event Details
 <div class="grid-row">
@@ -58,27 +59,35 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
       <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
     </div>
     <h3>Registration</h3>
-      <p>Registration will open in the Spring. Stay tuned!</p>
-    <!--<h3>Registration</h3>
-      <p><a href="" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>-->
+      <p><a href="https://gsa.zoomgov.com/webinar/register/WN_fOacxbUoSGu6HaBajcazhQ" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>
   </div>
-  <!--<div class="tablet:grid-col-3 text-center">
-    <a href="" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
-  </div>-->
+  <div class="tablet:grid-col-3 text-center">
+    <a href="https://gsa.zoomgov.com/webinar/register/WN_fOacxbUoSGu6HaBajcazhQ" target="_blank"><img src="{{site.baseurl}}/assets/images/iaaf-reg-now.png" alt="Register Now" style="max-width:180px"></a>
+  </div>
 </div>
 
-<!--
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held May 20-21, 2025 and feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
+This year's IAAF will be held May 20-21, 2025 and feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors. Session will include: 
 
-For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>.
+* GSA Section 508 Activities Yearly Update
+* Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1)
+* Project Managing 508 Assessment – A Fictionalized Agency Case Study (Part 2)
+* Enhancing Opportunities for Persons with Disabilities 
+* Navigating Federal Acquisitions: Buying Accessible Tech
+* Accessible Self Service Kiosks
+* Differences in ICT Accessibility Regulations US Access Board, TBD Shared Services Canada, TBD DOJ
+* Market Research as a Service (MRAS)
+* Accessibility Debt: Developing a Roadmap
+* Introduction to the Accessibility Requirements Tool (ART) and the Solicitation Review Toll (SRT)
+
+<!-- For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>. -->
 
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
 
-If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 2, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
+If you require accommodations to participate in IAAF, please indicate your needs on the registration form no later than Friday, May 9, 2025. If you require accommodations to participate that are not listed on the registration form, please contact <a class="mailto" href="mailto:iaaf@gsa.gov">iaaf@gsa.gov</a> to discuss your needs.
 
 ## Check Your Tech
 The 2025 IAAF is a virtual event using Zoom for Government. Zoom meetings and webinars are best experienced when using the Zoom, but can also be accessed via web browser and telephone (audio-only). 
@@ -89,12 +98,9 @@ We encourage all attendees to set up and test your Zoom access ahead of the even
 * <a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a>
 * <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a>
 * <a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a>
--->
 
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
-
-Stay in touch with all of our team's activities by visiting the our <a href="{{site.baseurl}}/events/">events</a> page, or join our <a href="{{site.baseurl}}/manage/join-the-508-community/">community email listserv</a>.
 
 <div class="usa-summary-box" role="region" aria-labelledby="summary-box-key-information">
   <div class="usa-summary-box__body">
