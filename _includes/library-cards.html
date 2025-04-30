@@ -1,0 +1,22 @@
+<!--********Generates cards content library/catalog items.**************-->
+
+<div class="tablet:grid-col-9">
+    <h2>Content Library Cards</h2>
+    <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin">53 items</p>
+    <div class="policies">
+                    {% for page in site.pages %}
+                    {% if page.library-exclude %}
+                    {% else %}
+                    <div class="tablet:grid-col-3 grid-spacing policy {{ policies.filters }}">
+                        <div class="shadow-1 priority-border">
+                                <div class="text-container">
+                                    <span class="card-tag">{{page.topic}}</span>
+                                    <p class="title-resources"><a class="no-style" href="/{{ page.permalink }}">{{ page.title | truncatewords: 7 }}</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
+                    {% endfor %}
+
+    </div>
+</div>

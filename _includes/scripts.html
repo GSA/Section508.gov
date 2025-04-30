@@ -42,3 +42,10 @@
     }); 
   });
 </script>
+
+// Custom Page Scripts
+{% if page.custom-script %}
+{% for script in page.custom-script %}
+<script src="{{site.baseurl}}/{{script}}"></script>
+{% endfor %}
+{% endif %}

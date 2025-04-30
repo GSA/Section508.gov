@@ -1620,3 +1620,132 @@ div[role=rowheader] {
   display: inline-block; 
   margin-left: 48px;
 }
+
+/******** styling for content library ********/
+.card-tag {
+  font-size: .9rem;
+  margin-top: .2em;
+  margin-bottom: .15em;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #323a45;
+ }
+
+.no-style {
+  text-decoration: none;
+  color: black;
+}
+.grid-spacing {
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px 10px 0px 0px;
+
+}
+
+.filters ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.filters li {
+    margin: 0 2px 2px 0;
+}
+
+.big {
+  font-size: 20px;
+}
+
+.filters a {
+    display: block;
+    padding: .5em 1em;
+    font-size: 80%;
+    border: solid 1px hsl(0, 0%, 50%);
+    color: #333;
+    text-decoration: none;
+    background: white;
+}
+
+
+.filters a:hover {
+    outline: 2px solid hsl(0, 0%, 50%);
+}
+
+a.checked {
+    background: hsl(0, 0%, 50%);
+    color: white;
+}
+
+.policy-border {
+  border-top: solid 4px #f2938c;
+}
+
+.priority-border {
+  border-top: solid 4px #97d4ea
+}
+
+
+.website-border {
+  border-top: solid 4px #07648d;
+}
+
+.guidance-border {
+  border-top: solid 4px #07648d;
+}
+
+.report-border {
+  border-top: solid 4px #07648d;
+}
+
+.whitepaper-border {
+  border-top: solid 4px #07648d;
+}
+
+.presentation-border {
+  border-top: solid 4px #07648d;
+}
+
+/*************** styling for resources page ****************/
+
+.border-pub {
+  border-left: .2em solid #D83933;
+}
+
+.seprate-line {
+	width: 30px;
+  height: 3px;
+  margin-top: 10px;
+  margin-bottom: 6px;
+  background: #D83933;
+}
+
+.shadow-1 {
+  padding: 10px;
+}
+
+.text-container {
+  height: 140px;
+}
+
+
+.description {
+  font-size: 12px;
+}
+
+.more {
+  text-decoration: none;
+  color: #D83933;
+  height: 30px;
+  font-size: 12px;
+
+}
+
+.title-resources {
+  font-size: 14.2px;
+  line-height: 20px;
+  font-weight: 500;
+}
