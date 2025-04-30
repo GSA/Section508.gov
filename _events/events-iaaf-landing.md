@@ -69,7 +69,9 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held May 20-21, 2025 and feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors. Session will include: 
+This year's IAAF will be held May 20-21, 2025 and feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
+
+Sessions will include: 
 
 * GSA Section 508 Activities Yearly Update
 * Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1)
