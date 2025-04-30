@@ -39,11 +39,13 @@ GSA is committed to providing technical assistance to individuals and federal de
 
 * **Find ACRs**: Browse for Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products.
 * **View or Download ACRs**: Select the provided link to download the latest ACR package file.
-  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
   **HTML Format**: View the ACR in a user-friendly, readable document format.
-  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
   **DOCX**: View or download the ACR in Microsoft Word document format.
-  * <img src="{{ site.baseurl }}/assets/images/icons/doc-symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+  **ZIP**: Download the ACR in DOCX, HTML, and YAML formats.
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-disk-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
   **YAML Format**: Access the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
 
@@ -53,13 +55,13 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th scope="col" style="width:100%">Product Name</th>
       <th scope="col" class="center">Version</th>
-      <th scope="col" class="center text-no-wrap">Date of ACR</th>
+      <th scope="col" class="center text-no-wrap">Report Date</th>
       <th scope="col" class="center">View or Download</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="art" scope="row">Accessibility Requirements Tool (ART)</th>
+      <th id="art" scope="row"><a href="{{ site.baseurl }}/art/#/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a></th>
       <td class="center">3.1</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
@@ -69,7 +71,7 @@ GSA is committed to providing technical assistance to individuals and federal de
       </td>
     </tr>
     <tr>
-      <th id="acre" scope="row"><a href="">ACR Editor</a></th>
+      <th id="acre" scope="row"><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">ACR Editor</a></th>
       <td class="center">1.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
@@ -79,7 +81,7 @@ GSA is committed to providing technical assistance to individuals and federal de
       </td>
     </tr>
     <tr>
-      <th id="srt" scope="row"><a href="">Solicitation Review Tool (SRT)</a></th>
+      <th id="srt" scope="row"><a href="https://srt.app.cloud.gov/auth" target="_blank" class="usa-link--external">Solicitation Review Tool (SRT)</a></th>
       <td class="center">4.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
@@ -97,7 +99,7 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th scope="col" style="width:100%">Product Name</th>
       <th scope="col" class="center">Version</th>
-      <th scope="col" class="center text-no-wrap">Date of ACR</th>
+      <th scope="col" class="center text-no-wrap">Report Date</th>
       <th scope="col" class="center">Download</th>
     </tr>
   </thead>
@@ -125,7 +127,7 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/online-course/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></th>
       <td class="center">1.2</td>
-      <td class="center"></td>
+      <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
         <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-doc.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
