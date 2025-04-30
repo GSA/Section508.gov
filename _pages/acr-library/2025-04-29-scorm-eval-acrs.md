@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: training
 title: ACR for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement
-permalink: accessibility-conformance-reports/evaluating-acrs/
+permalink: accessibility-conformance-reports/soliciting-and-evaluating-acrs/
 description: Access the Accessibility Compliance Report (ACR) for the online training course "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement" in a clean, easy-to-read format directly in your browser.
 disclaimer: 
 hide-date: 
