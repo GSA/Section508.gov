@@ -45,5 +45,17 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "rimraf": "^3.0.2",
     "typescript": "~5.4.5"
+  },
+    "overrides": {
+    "esbuild": "^0.25.0",
+    "@angular/build": {
+      "vite": {
+        "esbuild": "^0.25.0"
+      }
+    },
+    "vite": {
+      "esbuild": "^0.25.0"
+    }
   }
 }
+

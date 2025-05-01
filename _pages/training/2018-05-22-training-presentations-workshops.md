@@ -1,11 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: training/presentations-workshops/
 type: training
 title: 'Accessibility Presentations and Workshop Materials'
-created: 2018-05-22
-updated: 2025-01-24
+permalink: training/presentations-workshops/
 redirect_from:
 - csun2024/
 topic: "Events (events)"
@@ -16,8 +14,19 @@ audience:
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
+created: 2018-05-22
+updated: 2025-04-21
 ---
 The information on this page includes available resources and captioned text files 
+
+## 2025
+### IT Accessibility Community Meetings
+#### April 22, 2025
+The April meeting included presentations on the Section 508 Assessment and IT Accessibility Key Performance Indicators (KPIs). Designed for the IT Accessibility implementors and management professionals across your agencyattendees learn how to turn reporting into actionable improvements, track progress with meaningful KPIs, and empower your teams to embed accessibility from procurement through delivery.
+
+Downloads: 
+* <a href="https://assets.section508.gov/assets/files/Highlights-from-the-FY24-Governmentwide-Section-508-Assessment_ITACM-APR-2025.pptx" target="_blank" class="usa-link--external">Highlights from the FY24 Governmentwide Section 508 Assessment - ITACM APR 2025 (PPTX)</a>
+* <a href="https://assets.section508.gov/assets/files/Measuring-Accessibility_Implementing-and-Leveraging-Section-508-KPIs_ITACM-APR-2025.pptx" target="_blank" class="usa-link--external">Measuring Accessibility: Implementing and Leveraging Section 508 KPIs - ITACM APR 2025 (PPTX)</a>
 
 ## 2024
 ### IT Accessibility Community Meetings
@@ -131,4 +140,4 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/assets/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: January 2025
+**Reviewed/Updated**: April 2025
