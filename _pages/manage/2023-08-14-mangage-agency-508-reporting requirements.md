@@ -20,7 +20,7 @@ updated: 2025-03-18
 Federal agencies are required to participate in reporting activities on the maturity and conformance of Section 508. These reporting activities are cyclical in nature. The sections below outline those reporting activities along with the frequency for which they take place, the agency responsibility, and current status.
 
 ## Governmentwide Section 508 Assessment Report
-* **Description:** For the Governmentwide Section 508 Assessment Report, OMB and GSA are required to submit a [report to Congress]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) on the state of federal department and agency Section 508 implementation progress, providing a comprehensive summary and analysis of agency responses to [assessment criteria]({{site.baseurl}}/manage/section-508-assessment). This report is submitted every year.
+* **Description:** For the Governmentwide Section 508 Assessment Report, OMB and GSA are required to submit a [report to Congress]({{site.baseurl}}/manage/section-508-assessment) on the state of federal department and agency Section 508 implementation progress, providing a comprehensive summary and analysis of agency responses to assessment criteria. This report is submitted every year.
 * **Authority:** Section 508 of the Rehabilitation Act of 1973, as amended, [29 U.S.C. 794d-1. Reports on accessibility of electronic information to individuals with disabilities]({{site.baseurl}}/manage/laws-and-policies/section-508-law/#794d-1)
 * **Owner:** OMB & GSA
 * **Agencies Required to Respond:** All agencies subject to Section 508<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
