@@ -6,6 +6,7 @@ type: manage
 title: "Governmentwide Section 508 Assessment"
 redirect_from:
 - section-508-assessment/
+- section-508-assessment/annual-reports/
 topic: "Manage (program)"
 sub-topic: "Reporting"
 audience:
