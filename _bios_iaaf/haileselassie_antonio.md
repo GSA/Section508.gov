@@ -4,13 +4,13 @@ bio_id: antonio-haileselassie
 display_name: Antonio Haileselassie
 first_name: Antonio
 last_name: Haileselassie
-affiliation_long: National Aeronautics and Space Administration
-affiliation_short: NASA
+affiliation_long: National Institutes of Health
+affiliation_short: NIH
 position: Information Technology Accessibility Specialist
 office: 
 location: Greenbelt, MD
 email: 
 image_url: /assets/images/bio-images/haileselassie-antonio.png
-iaaf_years: 2022
+iaaf_years: 2022, 2025
 ---
-Following stints with the FAA and the Air National Guard as a software developer focusing on accessible software design, development, and remediation, Antonio joined NASA in 2006 as an IT Accessibility Specialist in support of the Agency’s Section 508 Program. He supported all program aspects including policy development, accessibility testing, providing guidance to customers, and overseeing the Section 508 help desk. Antonio now directly supports the NASA SEWP Program and continues to provide expertise across NASA on Section 508 Accessibility and Accessible Acquisitions. In his more than 15-year career in accessibility, Antonio also lends his knowledge and support to the Federal 508 Community by supporting the Federal CIO and CAO Council Accessibility Community of Practice’s Industry Outreach Program.
+Antonio HaileSelassie is the Section 508 Program Manager at the National Institutes of Health (NIH), where he leads strategic initiatives to integrate accessibility into IT acquisitions, development, and compliance efforts. He is an active member of the Federal CIO Council’s Accessibility Community of Practice (ACOP) Industry Outreach Committee, collaborating with federal agencies to enhance accessibility policies and best practices. With a strong background in accessibility risk management and compliance, Antonio has extensive experience presenting on accessibility topics at major conferences. He is a perennial presenter at CSUN and a previous presenter at IAAF, sharing expertise on digital accessibility, program development, and compliance strategies.

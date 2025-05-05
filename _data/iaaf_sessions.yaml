@@ -1486,7 +1486,7 @@ iaaf_2024:
         time_end: 2024-11-14 16:15:00
         session_id: day2session5
         subtitle: How to Build an Effective 508 Program
-        description: GSA's Technology Accessibility Playbook provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities. The Playbook contains twelve key “plays” drawn from successful practices in the government and private sector.
+        description: GSA's Technology Accessibility Playbook provides a framework for the integration of strategic, business and technology management to ensure US Federal Government technology is accessible for people with disabilities. The Playbook contains twelve key "plays" drawn from successful practices in the government and private sector.
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1498,6 +1498,251 @@ iaaf_2024:
         type: welcome
         time_start: 2024-11-14 16:15:00
         time_end: 2024-11-14 16:30:00
+        session_id: day2close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+          - name: 
+            who: otts-katherine
+iaaf_2025: 
+  - day: 1
+    time_start: 2025-05-20 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2025-05-21 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2025-05-20 09:30:00
+        time_end: 2025-05-20 10:00:00
+        session_id: day1welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: daniel-pomeroy #bio_id for this person
+          - name: Introduction 
+            who: andrew-nielson #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2025-05-20 11:00:00
+        session_id: day1session1
+        subtitle: Section 508 Activities Update by GSA
+        description: Experts from the General Services Administration (GSA) will provide an update on current and upcoming government-wide accessibility efforts. The session will highlight key activities, achievements, milestones, and progress in assessing conformance across agencies, with a specific focus on GSA's planned initiatives for FY25 and FY26.
+        roles: 
+          - name: Presenter
+            who: michael-horton #bio_id for this person 
+          - name: Presenter
+            who: miller-laura
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person 
+          - name: Presenter
+            who: smith-oconnor-kristen #bio_id for this person 
+          - name: Presenter
+            who: wilson-alex #bio_id for this person 
+        downloads:
+          - link_name: #GSA Section 508 Activities Update - IAAF 2025 (PPTX) 
+            file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-20 11:00:00
+        time_end: 2025-05-20 11:15:00
+        session_id: day1break1
+        description: 
+        room: 
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 11:15:00
+        time_end: 2025-05-20 12:15:00
+        session_id: day1session2
+        subtitle: Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1) 
+        description: <p>Every year, federal agencies must complete and submit a mandatory Section 508 annual assessment, to provide a snapshot of their 508 compliance efforts. However, this submission is often a complex, time-consuming process requiring coordination across multiple departments, adherence to tight deadlines, and management of large volumes of data. Agencies frequently struggle with unclear roles, inconsistent data collection, and last-minute efforts that result in rushed or incomplete responses.</p><p>This session will demonstrate how federal agencies can apply formal project management methodologies to streamline the assessment and submission process. By treating the assessment and submission as a project rather than an ad hoc task, agencies can improve efficiency, ensure data accuracy, and timely reporting.</p>
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: harris-fred #bio_id for this person 
+          - name: Presenter
+            who: guidi-claudia 
+        downloads:
+        - link_name: # - IAAF 2025 (PPTX) 
+          file_name: # -%20IAAF%202025.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2025-05-20 12:15:00
+        time_end: 2025-05-20 13:15:00
+        session_id: day1break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-20 13:15:00
+        time_end: 2025-05-20 14:15:00
+        session_id: day1session3
+        subtitle: Project Managing 508 Assessment - A Fictionalized Agency Case Study (Part 2)
+        description: <p>Every federal agency is required to submit a Section 508 annual assessment, yet many find themselves struggling to coordinate this effort effectively. Inconsistent workflows, siloed data, and competing priorities often lead to inefficient, last-minute submissions. How can agencies turn this annual challenge into a well-structured and repeatable process?</p><p>In this session, we will explore a fictionalized case study of "Agency X," a federal entity that initially faced numerous challenges in managing its Section 508 survey submission. The agency's approach was reactive, with different departments operating in silos, leading to delays, inaccurate data, and incomplete compliance reporting. Recognizing the need for a more structured approach, the agency implemented formal project management techniques to bring order and efficiency to the process.</p>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: harris-fred #bio_id for this person 
+          - name: Presenter
+            who: guidi-claudia 
+        downloads:
+          - link_name: #  - IAAF 2025 (PDF) 
+            file_name: # -%20IAAF%202025.pdf
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-20 14:15:00
+        time_end: 2025-05-20 14:30:00
+        session_id: day1break3
+        description: 
+        room:       
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-20 14:30:00
+        time_end: 2025-05-20 15:15:00
+        session_id: day1session4
+        subtitle: Enhancing Opportunities for Persons with Disabilities
+        description: <p>Major advances in technology, both in the workplace and in the home, have helped empower job seekers and workers with disabilities who strive for upward mobility in their fields in the modern knowledge economy. This applies equally for emerging technologies, such as artificial intelligence (AI), extended reality, autonomous vehicles, and mainstream information and communication technologies, including those used in the workplace.</p><p>The panel session will be in panel format moderated by NSF. Two funded researchers through the NSF's Convergence Accelerator program focused on Enhancing Opportunities for Persons with Disabilities (PWDs) will present their research projects (20 minutes each). These NSF-funded projects serve as a platform to bring together researchers, practitioners, and stakeholders from a wide range of disciplines and sectors to work on use-inspired solutions to enhance quality of life and employment access and opportunities for PWDs and are fueled by strong public-private partnerships.</p>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: vadati-alex #bio_id for this person
+          - name: Presenter
+            who: fulay-pradeep
+        downloads:
+          - link_name: # - IAAF 2025 (PDF) 
+            file_name: #-%20IAAF%202025.pdf
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 15:15:00
+        time_end: 2025-05-20 16:15:00
+        session_id: day1session5
+        subtitle: Navigating Federal Acquisitions: Buying Accessible Tech
+        description: Federal acquisitions can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle. Learn practices that mutually benefit Government and Industry when buying accessible technology.
+        room:
+        roles: 
+          - name: Prersenter
+            who: betsy-sirk
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2025-05-20 16:15:00
+        time_end: 2025-05-20 16:30:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 2
+    time_start: 2025-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2025-05-21 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2025-05-21 09:30:00
+        time_end: 2025-05-21 10:00:00
+        session_id: day2welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sachin-pavithran #bio_id for this person
+          - name: Introduction 
+            who: levy-alison #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2025-05-21 11:00:00
+        session_id: day2session1
+        subtitle: Accessible Self Service Kiosks
+        description: <p>This presentation will focus on Section 508 kiosk accessibility requirements and best practices using the recently updated and deployed Social Security Administration kiosk as a case study.</p><p>Making kiosks accessible is much more efficient when done throughout the procurement and design process, prior to manufacturing and deployment. Considerations in procurement, testing, and kiosk design will be discussed, along with discussion of the SSA test method and the joint USAB/GSA in-progress Hardware Baseline project.</p><p>Included in this presentation will be tips for writing an accessible kiosk RFP, testing methodology, and frequently asked questions.</p>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: miller-laura #bio_id for this person 
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: # -%20IAAF%202025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-21 11:00:00
+        time_end: 2025-05-21 11:15:00
+        session_id: day2break1
+        description:      
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 11:15:00
+        time_end: 2025-05-21 12:15:00
+        session_id: day2session2
+        subtitle: Differences in ICT Accessibility Regulations
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government. Attendees will learn how to evaluate and ensure compliance with Section 508 standards across platforms like Facebook, Twitter, and LinkedIn. The session will cover best practices for making content accessible to individuals with disabilities, including captioning, alt text for images, and user-friendly design, ensuring that federal digital communications are inclusive for all.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: eng-kathy #bio_id for this person 
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: #-%20IAAF%202025.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2025-05-21 12:15:00
+        time_end: 2025-05-21 13:15:00
+        session_id: day2break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-21 13:15:00
+        time_end: 2025-05-21 14:15:00
+        session_id: day2session3
+        subtitle: Market Research as a Service (MRAS)
+        description: <p>GSA will present on recent combined efforts of the Federal Acquisition Services team and GSA's Government-wide IT Accessibility Program to understand the current digital accessibility acquisition landscape and identify how to improve access to, gain efficiencies in, and increase awareness of digital accessibility tools and services.</p><p>The ultimate goal of this project was to help agencies acquire products and services related to the accessibility of ICT. To meet this goal, research was conducted to identify agency needs and gain an understanding of available solutions. Currently, the companies that provide such solutions are found in various technical categories and buckets, making it difficult to best solicit responses to proposals. In addition, the spend available to each agency varies significantly, but is typically a relatively small investment in comparison to other software or service acquisitions.</p><p>Providing agencies with the information to identify and acquire accessibility solutions is best done through GSA's existing Market Research as a Service (MRAS). This presentation will review MRAS resources and services and provide an understanding of how MRAS can help agencies identify and acquire accessibility-related products and services.</p>
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: nielson-andrew #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-21 14:15:00
+        time_end: 2025-05-21 14:30:00
+        session_id: day2break3
+        description:      
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-21 14:30:00
+        time_end: 2025-05-21 15:15:00
+        session_id: day2session4
+        subtitle: Authority to Operate (ATO)
+        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: cotter-john #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx        
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 15:15:00
+        time_end: 2025-05-21 16:15:00
+        session_id: day2session5
+        subtitle: Technology Accessibility Playbook Panel Discussion
+        description: <p>Federal agencies must ensure Information and Communication Technology (ICT) accessibility from procurement to implementation. However, aligning Section 508 compliance with acquisition and development processes presents ongoing challenges. The Technology Accessibility Playbook, developed by GSA in collaboration with federal partners, provides a structured approach to integrating accessibility into federal IT operations efficiently.</p><p>This session will introduce the Playbook and its nine key strategies, while also sharing agency-specific experiences in implementing its guidance.</p>
+        room:
+        roles: 
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: horton-michel #bio_id for this person
+          - name: Panelist 
+            who: antonio-haileselassie
+          - name: Panelist
+            who: wilcox-lisa       
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: #-%20IAAF%202025.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2025-05-21 16:15:00
+        time_end: 2025-05-21 16:30:00
         session_id: day2close
         description: 
         roles: #list each roles as you intend the display on the page
