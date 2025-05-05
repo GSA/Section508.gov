@@ -1609,3 +1609,26 @@ iaaf_2025:
         downloads:
           - link_name: # - IAAF 2025 (PDF) 
             file_name: #-%20IAAF%202025.pdf
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 15:15:00
+        time_end: 2025-05-20 16:15:00
+        session_id: day1session5
+        subtitle: Navigating Federal Acquisitions: Buying Accessible Tech
+        description: Federal acquisitions can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle. Learn practices that mutually benefit Government and Industry when buying accessible technology.
+        room:
+        roles: 
+          - name: Prersenter
+            who: betsy-sirk
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2025-05-20 16:15:00
+        time_end: 2025-05-20 16:30:00
+        session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
