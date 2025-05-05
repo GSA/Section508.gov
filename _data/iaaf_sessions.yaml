@@ -1554,7 +1554,7 @@ iaaf_2025:
         time_end: 2025-05-20 12:15:00
         session_id: day1session2
         subtitle: Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1) 
-        description: Every year, federal agencies must complete and submit a mandatory Section 508 annual assessment, to provide a snapshot of their 508 compliance efforts. However, this submission is often a complex, time-consuming process requiring coordination across multiple departments, adherence to tight deadlines, and management of large volumes of data. Agencies frequently struggle with unclear roles, inconsistent data collection, and last-minute efforts that result in rushed or incomplete responses.<br<br>This session will demonstrate how federal agencies can apply formal project management methodologies to streamline the assessment and submission process. By treating the assessment and submission as a project rather than an ad hoc task, agencies can improve efficiency, ensure data accuracy, and timely reporting.
+        description: Every year, federal agencies must complete and submit a mandatory Section 508 annual assessment, to provide a snapshot of their 508 compliance efforts. However, this submission is often a complex, time-consuming process requiring coordination across multiple departments, adherence to tight deadlines, and management of large volumes of data. Agencies frequently struggle with unclear roles, inconsistent data collection, and last-minute efforts that result in rushed or incomplete responses.<br><br>This session will demonstrate how federal agencies can apply formal project management methodologies to streamline the assessment and submission process. By treating the assessment and submission as a project rather than an ad hoc task, agencies can improve efficiency, ensure data accuracy, and timely reporting.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: harris-fred #bio_id for this person 
@@ -1697,7 +1697,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: nielson-andrew #bio_id for this person
+            who: andrew-nielson #bio_id for this person
         downloads:
           - link_name: #File Name - IAAF 2025 (PPTX)
             file_name: #file-name-iaaf-2025.pptx
@@ -1717,7 +1717,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: cotter-john #bio_id for this person
+            who: sorathia-sarah #bio_id for this person
         downloads:
           - link_name: #File Name - IAAF 2025 (PPTX)
             file_name: #file-name-iaaf-2025.pptx        
