@@ -1541,3 +1541,32 @@ iaaf_2025:
         downloads:
           - link_name: #GSA Section 508 Activities Update - IAAF 2025 (PPTX) 
             file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-20 11:00:00
+        time_end: 2025-05-20 11:15:00
+        session_id: day1break1
+        description: 
+        room: 
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 11:15:00
+        time_end: 2025-05-20 12:15:00
+        session_id: day1session2
+        subtitle: Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1) 
+        description: Every year, federal agencies must complete and submit a mandatory Section 508 annual assessment, to provide a snapshot of their 508 compliance efforts. However, this submission is often a complex, time-consuming process requiring coordination across multiple departments, adherence to tight deadlines, and management of large volumes of data. Agencies frequently struggle with unclear roles, inconsistent data collection, and last-minute efforts that result in rushed or incomplete responses.<br><br>This session will demonstrate how federal agencies can apply formal project management methodologies to streamline the assessment and submission process. By treating the assessment and submission as a project rather than an ad hoc task, agencies can improve efficiency, ensure data accuracy, and timely reporting.
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: harris-fred #bio_id for this person 
+          - name: Presenter
+            who: guidi-claudia 
+        downloads:
+        - link_name: # - IAAF 2025 (PPTX) 
+          file_name: # -%20IAAF%202025.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2025-05-20 12:15:00
+        time_end: 2025-05-20 13:15:00
+        session_id: day1break2
+        description: 
+        room: 
