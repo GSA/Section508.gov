@@ -1717,7 +1717,7 @@ iaaf_2025:
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: michael-horton #bio_id for this person
+            who: michael-horton #bio_id for this person 
           - name: Presenter
             who: miller-laura
         downloads:
