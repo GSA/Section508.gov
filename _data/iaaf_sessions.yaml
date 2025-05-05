@@ -1520,3 +1520,24 @@ iaaf_2025:
             who: daniel-pomeroy #bio_id for this person
           - name: Introduction 
             who: andrew-nielson #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-20 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2025-05-20 11:00:00
+        session_id: day1session1
+        subtitle: Section 508 Activities Update by GSA
+        description: Experts from the General Services Administration (GSA) will provide an update on current and upcoming government-wide accessibility efforts. The session will highlight key activities, achievements, milestones, and progress in assessing conformance across agencies, with a specific focus on GSA's planned initiatives for FY25 and FY26.
+        roles: 
+          - name: Presenter
+            who: michael-horton #bio_id for this person 
+          - name: Presenter
+            who: miller-laura
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person 
+          - name: Presenter
+            who: smith-oconnor-kristen #bio_id for this person 
+          - name: Presenter
+            who: wilson-alex #bio_id for this person 
+        downloads:
+          - link_name: #GSA Section 508 Activities Update - IAAF 2025 (PPTX) 
+            file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202025.pptx
