@@ -1713,7 +1713,7 @@ iaaf_2025:
         time_end: 2025-05-21 15:15:00
         session_id: day2session4
         subtitle: A New Look at ART & SRT
-        description: Federal agencies must ensure Information and Communication Technology (ICT) accessibility from procurement to implementation. However, aligning Section 508 compliance with acquisition and development processes presents ongoing challenges. The Technology Accessibility Playbook, developed by GSA in collaboration with federal partners, provides a structured approach to integrating accessibility into federal IT operations efficiently.<br><br>This session will introduce the Playbook and its nine key strategies, while also sharing agency-specific experiences in implementing its guidance.
+        description: Discover the latest updates and enhancements to the Section508.gov tools—Accessibility Requirements Tool (ART) and Solicitation Review Tool (SRT). This session will provide an overview of how these powerful resources support federal procurement and IT teams in incorporating Section 508 requirements into acquisitions and ensuring accessibility compliance. Learn how recent improvements streamline the user experience, improve accuracy, and help agencies confidently meet their accessibility obligations. Whether you're new to these tools or looking for a refresher, this session will help you get the most out of ART and SRT.
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
