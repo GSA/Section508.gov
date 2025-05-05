@@ -1614,7 +1614,7 @@ iaaf_2025:
         time_start: 2025-05-20 15:15:00
         time_end: 2025-05-20 16:15:00
         session_id: day1session5
-        subtitle: Navigating Federal Acquisitions: Buying Accessible Tech
+        subtitle: Navigating Federal Acquisitions&colon; Buying Accessible Tech
         description: Federal acquisitions can be daunting. This session provides practical guidance to ensure digital accessibility throughout the acquisition lifecycle. Learn practices that mutually benefit Government and Industry when buying accessible technology.
         room:
         roles: 
@@ -1628,6 +1628,122 @@ iaaf_2025:
         time_start: 2025-05-20 16:15:00
         time_end: 2025-05-20 16:30:00
         session_id: day1close
+        description: 
+        roles: #list each roles as you intend the display on the page
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #use bio_id
+  - day: 2
+    time_start: 2025-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
+    time_end: 2025-05-21 16:30:00
+    sessions: 
+      - name: 'Welcome and Opening Remarks'
+        type: welcome
+        time_start: 2025-05-21 09:30:00
+        time_end: 2025-05-21 10:00:00
+        session_id: day2welcome
+        roles: 
+          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sachin-pavithran #bio_id for this person
+          - name: Introduction 
+            who: levy-alison #bio_id for this person
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
+        time_end: 2025-05-21 11:00:00
+        session_id: day2session1
+        subtitle: Accessible Self Service Kiosks
+        description: This presentation will focus on Section 508 kiosk accessibility requirements and best practices using the recently updated and deployed Social Security Administration kiosk as a case study.<br><br>Making kiosks accessible is much more efficient when done throughout the procurement and design process, prior to manufacturing and deployment. Considerations in procurement, testing, and kiosk design will be discussed, along with discussion of the SSA test method and the joint USAB/GSA in-progress Hardware Baseline project.<br><br>Included in this presentation will be tips for writing an accessible kiosk RFP, testing methodology, and frequently asked questions.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: miller-laura #bio_id for this person 
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: # -%20IAAF%202025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-21 11:00:00
+        time_end: 2025-05-21 11:15:00
+        session_id: day2break1
+        description:      
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 11:15:00
+        time_end: 2025-05-21 12:15:00
+        session_id: day2session2
+        subtitle: Differences in ICT Accessibility Regulations
+        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government. Attendees will learn how to evaluate and ensure compliance with Section 508 standards across platforms like Facebook, Twitter, and LinkedIn. The session will cover best practices for making content accessible to individuals with disabilities, including captioning, alt text for images, and user-friendly design, ensuring that federal digital communications are inclusive for all.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: eng-kathy #bio_id for this person 
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: #-%20IAAF%202025.pptx
+      - name: 'Lunch'
+        type: break
+        time_start: 2025-05-21 12:15:00
+        time_end: 2025-05-21 13:15:00
+        session_id: day2break2
+        description: 
+        room: 
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-21 13:15:00
+        time_end: 2025-05-21 14:15:00
+        session_id: day2session3
+        subtitle: Market Research as a Service (MRAS)
+        description: GSA will present on recent combined efforts of the Federal Acquisition Services team and GSA's Government-wide IT Accessibility Program to understand the current digital accessibility acquisition landscape and identify how to improve access to, gain efficiencies in, and increase awareness of digital accessibility tools and services.<br><br>The ultimate goal of this project was to help agencies acquire products and services related to the accessibility of ICT. To meet this goal, research was conducted to identify agency needs and gain an understanding of available solutions. Currently, the companies that provide such solutions are found in various technical categories and buckets, making it difficult to best solicit responses to proposals. In addition, the spend available to each agency varies significantly, but is typically a relatively small investment in comparison to other software or service acquisitions.<br><br>Providing agencies with the information to identify and acquire accessibility solutions is best done through GSA's existing Market Research as a Service (MRAS). This presentation will review MRAS resources and services and provide an understanding of how MRAS can help agencies identify and acquire accessibility-related products and services.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: andrew-nielson #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-21 14:15:00
+        time_end: 2025-05-21 14:30:00
+        session_id: day2break3
+        description:      
+      - name: 'Workshop'
+        type: keynote
+        time_start: 2025-05-21 14:30:00
+        time_end: 2025-05-21 15:15:00
+        session_id: day2session4
+        subtitle: Authority to Operate (ATO)
+        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
+        room:
+        roles: 
+          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: sorathia-sarah #bio_id for this person
+        downloads:
+          - link_name: #File Name - IAAF 2025 (PPTX)
+            file_name: #file-name-iaaf-2025.pptx        
+      - name: 'General Session'
+        type: general
+        time_start: 2025-05-21 15:15:00
+        time_end: 2025-05-21 16:15:00
+        session_id: day2session5
+        subtitle: Technology Accessibility Playbook Panel Discussion
+        description: Federal agencies must ensure Information and Communication Technology (ICT) accessibility from procurement to implementation. However, aligning Section 508 compliance with acquisition and development processes presents ongoing challenges. The Technology Accessibility Playbook, developed by GSA in collaboration with federal partners, provides a structured approach to integrating accessibility into federal IT operations efficiently.<br><br>This session will introduce the Playbook and its nine key strategies, while also sharing agency-specific experiences in implementing its guidance.
+        room:
+        roles: 
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: michael-horton #bio_id for this person
+          - name: Panelist 
+            who: antonio-haileselassie
+          - name: Panelist
+            who: wilcox-lisa       
+        downloads:
+          - link_name: # - IAAF 2025 (PPTX) 
+            file_name: #-%20IAAF%202025.pptx
+      - name: 'Closing' 
+        type: welcome
+        time_start: 2025-05-21 16:15:00
+        time_end: 2025-05-21 16:30:00
+        session_id: day2close
         description: 
         roles: #list each roles as you intend the display on the page
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
