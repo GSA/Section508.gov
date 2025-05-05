@@ -1712,12 +1712,14 @@ iaaf_2025:
         time_start: 2025-05-21 14:30:00
         time_end: 2025-05-21 15:15:00
         session_id: day2session4
-        subtitle: Authority to Operate (ATO)
-        description: Meet ANDI's creator, John Cotter, and learn how to use ANDI for manual inspection of web content for accessibility and Section 508 standards.
+        subtitle: A New Look at ART & SRT
+        description: Federal agencies must ensure Information and Communication Technology (ICT) accessibility from procurement to implementation. However, aligning Section 508 compliance with acquisition and development processes presents ongoing challenges. The Technology Accessibility Playbook, developed by GSA in collaboration with federal partners, provides a structured approach to integrating accessibility into federal IT operations efficiently.<br><br>This session will introduce the Playbook and its nine key strategies, while also sharing agency-specific experiences in implementing its guidance.
         room:
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: sorathia-sarah #bio_id for this person
+            who: michael-horton #bio_id for this person
+          - name: Presenter
+            who: miller-laura
         downloads:
           - link_name: #File Name - IAAF 2025 (PPTX)
             file_name: #file-name-iaaf-2025.pptx        
