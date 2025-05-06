@@ -10,7 +10,7 @@ position: Managing Director and Chair
 office: 
 location: European Union
 email: 
-image_url: https://assets.section508.gov/files/bio-images/laurin-susanna.jpg
+image_url: /assets/images/bio-images/laurin-susanna.jpg
 iaaf_years: 2025
 ---
 Susanna Laurin is Managing Director and Chair of the Funka Foundation, a Research and Innovation Center focusing on end user involvement, disabilities, empowerment and accessibility.  She has been a thought leader in the field of digitalisation, inclusion and e-government for more than 20 years and she is a frequent international lecturer and debater. Susanna is a certified professional in accessibility core competences (CPACC), through IAAP.

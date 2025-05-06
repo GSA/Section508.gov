@@ -10,6 +10,6 @@ position: Directorate for Technology
 office: Innovation and Partnerships
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/blank-profile.jpg
+image_url: /assets/images/bio-images/blank-profile.jpg
 iaaf_years: 2025
 ---
