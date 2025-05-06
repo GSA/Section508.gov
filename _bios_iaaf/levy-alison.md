@@ -11,7 +11,7 @@ office:
 location: Washington, DC
 email: 
 image_url: /assets/images/bio-images/levy-alison.jpg
-iaaf_years: 2023, 2024
+iaaf_years: 2023, 2024, 2025
 ---
 Alison Sutton Levy joined the U.S. Access Board in June 2022 as the Director of the Office of Information and Technical Services (OTIS) where she oversees the technical assistance team for both the built and digital environments.
 

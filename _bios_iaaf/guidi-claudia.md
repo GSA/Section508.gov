@@ -6,7 +6,7 @@ first_name: Claudia
 last_name: Guidi
 affiliation_long: Defense Technical Information Center
 affiliation_short: DTIC
-position: Section 508 Program Manager
+position: UX Analyst and designated Section 508 Program Manager
 office: 
 location: Washington, DC
 email: 

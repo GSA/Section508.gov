@@ -6,7 +6,7 @@ permalink: /iaaf/
 start-date: Tuesday, May 20 2025 9:30 #only fill in start date if the events spans multiple days
 end-date: Thursday, May 21 2025 16:30 #otherwise use end-date
 created: 2014-01-01
-updated: 2025-04-16
+updated: 2025-05-06
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 title: Interagency Accessibility Forum (IAAF)
 redirect_from:
@@ -69,22 +69,11 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 ## Event Agenda
 <img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
 
-This year's IAAF will be held May 20-21, 2025 and feature a mix of presenters and speakers, workshops, and discussions led by accessibility professionals in the federal, private, academic and other sectors.
+This year’s IAAF will take place on May 20–21, 2025, and will feature a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
-Sessions will include: 
+Session topics will cover a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access for people with disabilities.
 
-* GSA Section 508 Activities Yearly Update
-* Leveraging Project Management to Streamline the GSA Section 508 Annual Assessment as a Project (Part 1)
-* Project Managing 508 Assessment – A Fictionalized Agency Case Study (Part 2)
-* Enhancing Opportunities for Persons with Disabilities 
-* Navigating Federal Acquisitions: Buying Accessible Tech
-* Accessible Self Service Kiosks
-* Differences in ICT Accessibility Regulations US Access Board, TBD Shared Services Canada, TBD DOJ
-* Market Research as a Service (MRAS)
-* Accessibility Debt: Developing a Roadmap
-* Introduction to the Accessibility Requirements Tool (ART) and the Solicitation Review Toll (SRT)
-
-<!-- For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2024/">2024 IAAF Agenda</a>. -->
+For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
 
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
@@ -115,4 +104,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** April 2025
+**Reviewed/Updated:** May 2025
