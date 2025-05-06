@@ -10,6 +10,6 @@ position:
 office: 
 location: Canada
 email: 
-image_url: /assets/images/bio-images/blank-person.jpg
+image_url: /assets/images/bio-images/blank-profile.jpg
 iaaf_years: 2025
 ---
