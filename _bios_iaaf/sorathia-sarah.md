@@ -10,6 +10,6 @@ position: Section 508 Program Manager
 office: 
 location: Washington, DC
 email: 
-image_url: https://assets.section508.gov/files/bio-images/sorathia-sarah.png
-iaaf_years: 2025
+image_url: /assets/images/bio-images/sorathia-sarah.jpg
+iaaf_years: 
 ---
