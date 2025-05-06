@@ -6,7 +6,7 @@ first_name: Antonio
 last_name: Haileselassie
 affiliation_long: National Institutes of Health
 affiliation_short: NIH
-position: Information Technology Accessibility Specialist
+position: Section 508 Program Manager
 office: 
 location: Greenbelt, MD
 email: 
