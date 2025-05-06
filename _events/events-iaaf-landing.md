@@ -71,7 +71,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 
 This year’s IAAF will take place on May 20–21, 2025, and will feature a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
-Session topics will cover a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access for people with disabilities.
+Presenters and panelists will cover a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access to government information.
 
 For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
 

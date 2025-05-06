@@ -22,7 +22,7 @@ created: 2025-05-05
 <h1><a href="{{site.baseurl}}/iaaf/"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"></a></h1>
 
 <div class="program-header margin-bottom-2" style="margin-top: 2em;">
-  <b><span class="text-large">PROGRAM</span> Day 1/Tuesday, May 20th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Wednesday, May 21st</a></b>
+  <b><span class="text-large">PROGRAM:</span> Day 1/Tuesday, May 20th | <a href="#day2" title="Skip to Day 2 Program">Day 2/Wednesday, May 21st</a></b>
 </div>
 
 {% for day in site.data.iaaf_sessions.iaaf_2025 %}
