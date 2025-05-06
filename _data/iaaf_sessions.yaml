@@ -1675,7 +1675,7 @@ iaaf_2025:
       - name: 'Opening Remarks'
         type: welcome
         time_start: 2025-05-21 09:30:00
-        time_end: 2025-05-21 09:4500
+        time_end: 2025-05-21 09:45:00
         session_id: day2opening
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
