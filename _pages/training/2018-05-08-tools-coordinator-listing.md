@@ -1,11 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: tools/program-manager-listing/
 type: training
 title: 'Find Your Section 508 Program Manager'
-created: 2018-05-08
-updated: 2025-04-09
+permalink: tools/program-manager-listing/
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
@@ -18,6 +16,8 @@ audience:
 - "Public (public)"
 resource-type: "Training"
 format: "HTML (html)"
+created: 2018-05-08
+updated: 2025-05-07
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -217,7 +217,8 @@ Michael C. Scholz - <michael.c.schloz.civ@mail.mil>
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
-<!-- ### Defense Threat Reduction Agency (DTRA)-->
+### Defense Threat Reduction Agency (DTRA)
+Paul St. John - <paul.m.stjohn.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
 Pamela Whitehead - <pamela.whitehead@mda.mil>
 ### National Defense University (NDU)
@@ -261,8 +262,7 @@ Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>
 
 ---
 ## <span id="usdoen" ></span>Department of Energy (DOE)
-Teddy Dyer - <doesection508coordinator@hq.doe.gov>  
-Sandra Logan (Deputy)  
+Sandra Logan - <doesection508coordinator@hq.doe.gov>  
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
@@ -359,8 +359,8 @@ Mani Mani (Deputy) - <mani.mani@oig.dhs.gov>
 ### Science and Technology Directorate (S&T)
 Heather Erhuanga -	<heather.erhuanga@hq.dhs.gov>  
 ### Transportation Security Administration (TSA)
-Matthew Bryne - <matthew.byrne@tsa.dhs.gov>  
-Erich Pfleeger (Deputy) - <erich.pfleeger@tsa.dhs.gov>
+Thomas Lockley - <thomas.lockley@tsa.dhs.gov>  
+Elliot Hoang (Deputy) - <elliott.hoang@tsa.dhs.gov>  
 ### U.S. Citizenship and Immigration Services (USCIS)
 Kenneth S. Moser - <kenneth.s.moser@uscis.dhs.gov>
 ### U.S. Coast Guard (USCG)
@@ -414,8 +414,9 @@ Thomas Stewart - <thomas.stewart@atf.gov>
 Jennifer K. Cantilena - <jennifer.k.cantilena2@usdoj.gov>  
 ### Civil Division
 Benjamin Jones - <benjamin.jones@usdoj.gov>
-### Civil Rights Division
-Armbrister Gowdy - <armbrister.gowdy@usdoj.gov>  
+### Civil Rights Division 
+Randy Abramson - <randy.abramson@usdoj.gov>  
+Imran Lodi (Deputy) - <imran.Lodi@usdoj.gov>  
 ### Community Oriented Policing Services
 Donte Turner - <donte.turner@usdoj.gov>
 ### Criminal Division
@@ -494,8 +495,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 
 ---
 ## <span id="usdol" ></span>Department of Labor (DOL)
-Brandon Jubar - <jubar.brandon.t@dol.gov>  
-Eric W. Wright (Deputy) - <wright.eric.w@dol.gov>  
+Eric W. Wright - <wright.eric.w@dol.gov>  
 
 ---
 ## <span id="usdos" ></span>Department of State (USDS)
@@ -513,7 +513,7 @@ Lisa L. Edwards - <lisa.l.edwards@faa.gov>
 ### Federal Motor Carrier Safety Administration (FMCSA)  
 Martin Erb - <martin.erb@dot.gov>  
 ### Federal Railroad Administration (FRA)
-Venkata "Anil" Perakam - <venkata.perakam@dot.gov>  
+Yoseph Kelile - <Yoseph.Kelile@dot.gov>   
 ### Maritime Administration (MARAD)
 La Tisa T. Wilder - <latisa.wilder@dot.gov>  
 ### National Highway Traffic Safety Administration (NHTSA)
@@ -534,7 +534,7 @@ Elizabeth Burke - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - <jonesmw@cdfi.treas.gov>
 ### FINCEN
-LaChelle Dempsey-Reed - <lachelle.dempsey-reed@fincen.gov>
+Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
 Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
 Terri A. Triggs - <terri.a.triggs@irs.gov>  
@@ -689,6 +689,7 @@ Chris Dizon - <chris.dizon@fcc.gov>
 ---
 ### Federal Deposit Insurance Corporation (FDIC)
 Brooke Aiken - <braiken@fdic.gov>  
+Ryan Benson (Deputy) - <rybenson@fdic.gov>  
 
 ---
 ### Federal Election Commission	(FEC)
@@ -770,8 +771,8 @@ Jerry Carter - <carter@udall.gov>
 <span id="N" ></span>
 
 ### National Archives & Records Administration (NARA)
-Sabrina Worthington - <sabrina.worthington@nara.gov>    
-Jocelyn Blakely-Hill - <jocelyn.blakely-hill@nara.gov>  
+Farooq Khan - <farooq.hhan1@nara.gov>  
+Jocelyn Blakely-Hill (Deputy) - <jocelyn.blakely-hill@nara.gov>  
 
 ---
 ### National Capital Planning Commission (NCPC)
@@ -926,7 +927,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: April 2025
+**Reviewed/Updated**: May 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
