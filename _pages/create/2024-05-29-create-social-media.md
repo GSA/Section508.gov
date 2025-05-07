@@ -1,16 +1,16 @@
 ---
 layout: page
 sidenav: true
-permalink: create/social-media/
 type: create
 title: Create Accessible Social Media
+permalink: create/social-media/
+redirect_from:
+- social-media/
 description: 
 disclaimer: true
 contributors: usab
 social_img: 
 hide-date: 
-created: 2024-05-29
-updated: 2024-10-29
 topic: "Content creation (create)"
 sub-topic: "Social Media"
 audience:
@@ -19,6 +19,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2024-05-29
+updated: 2025-05-07
 ---
 Accessible social media content is crucial for fostering inclusivity and ensuring equal participation for all individuals, regardless of ability. By implementing accessibility features such as alt text for images and closed captions for videos, creators can make their content more accessible to people with disabilities.
 
