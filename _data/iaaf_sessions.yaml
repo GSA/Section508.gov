@@ -1510,20 +1510,11 @@ iaaf_2025:
     time_start: 2025-05-20 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2025-05-20 16:30:00
     sessions: 
-      - name: 'Welcome'
+      - name: 'Welcome & Open Remarks'
         type: welcome
         time_start: 2025-05-20 09:30:00
-        time_end: 2025-05-20 09:45:00
-        session_id: day1welcome
-        roles: 
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: andrew-nielson #bio_id for this person
-    sessions: 
-      - name: 'Opening Remarks'
-        type: welcome
-        time_start: 2025-05-20 09:45:00
         time_end: 2025-05-20 10:00:00
-        session_id: day1opening
+        session_id: day1welcome
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: daniel-pomeroy #bio_id for this person
@@ -1566,7 +1557,7 @@ iaaf_2025:
         description: Every year, federal agencies must complete and submit a mandatory Section 508 annual assessment, to provide a snapshot of their 508 compliance efforts. However, this submission is often a complex, time-consuming process requiring coordination across multiple departments, adherence to tight deadlines, and management of large volumes of data. Agencies frequently struggle with unclear roles, inconsistent data collection, and last-minute efforts that result in rushed or incomplete responses.<br><br>This session will demonstrate how federal agencies can apply formal project management methodologies to streamline the assessment and submission process. By treating the assessment and submission as a project rather than an ad hoc task, agencies can improve efficiency, ensure data accuracy, and timely reporting.
         roles: 
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: harris-fred #bio_id for this person 
+            who: harris-frederick #bio_id for this person 
         downloads:
         - link_name: # - IAAF 2025 (PPTX) 
           file_name: # -%20IAAF%202025.pptx
@@ -1605,13 +1596,9 @@ iaaf_2025:
           - name: Moderator
             who: vadati-alex
           - name: Presenters
-            who: 
+            who: gorlewicz-jenna
           - name: Presenters
-            who: 
-          - name: Presenters
-            who: 
-          - name: Presenters
-            who: 
+            who: namboodiri-vinod
         downloads:
           - link_name: # - IAAF 2025 (PDF) 
             file_name: #-%20IAAF%202025.pdf
@@ -1631,10 +1618,14 @@ iaaf_2025:
         description: Major advances in technology, both in the workplace and in the home, have helped empower job seekers and workers with disabilities who strive for upward mobility in their fields in the modern knowledge economy. This applies equally for emerging technologies, such as artificial intelligence (AI), extended reality, autonomous vehicles, and mainstream information and communication technologies, including those used in the workplace.<br><br>The panel session will be in panel format moderated by NSF. Two funded researchers through the NSF's Convergence Accelerator program focused on Enhancing Opportunities for Persons with Disabilities (PWDs) will present their research projects (20 minutes each). These NSF-funded projects serve as a platform to bring together researchers, practitioners, and stakeholders from a wide range of disciplines and sectors to work on use-inspired solutions to enhance quality of life and employment access and opportunities for PWDs and are fueled by strong public-private partnerships.
         room:
         roles: 
-          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: vadati-alex #bio_id for this person
-          - name: Presenter
-            who: fulay-pradeep
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: fulay-pradeep #bio_id for this person
+          - name: Moderator
+            who: vadati-alex
+          - name: Presenters
+            who: gerlach-houck-hope 
+          - name: Presenters
+            who: rizzo-john-ross
         downloads:
           - link_name: # - IAAF 2025 (PDF) 
             file_name: #-%20IAAF%202025.pdf
@@ -1643,7 +1634,7 @@ iaaf_2025:
         time_start: 2025-05-20 16:00:00
         time_end: 2025-05-20 16:30:00
         session_id: day1session6
-        subtitle: Market Research as a Service (MRAS)
+        subtitle: Digital Accessibility Acquisition Solutions
         description: GSA will present on recent combined efforts of the Federal Acquisition Services team and GSA's Government-wide IT Accessibility Program to understand the current digital accessibility acquisition landscape and identify how to improve access to, gain efficiencies in, and increase awareness of digital accessibility tools and services.<br><br>The ultimate goal of this project was to help agencies acquire products and services related to the accessibility of ICT. To meet this goal, research was conducted to identify agency needs and gain an understanding of available solutions. Currently, the companies that provide such solutions are found in various technical categories and buckets, making it difficult to best solicit responses to proposals. In addition, the spend available to each agency varies significantly, but is typically a relatively small investment in comparison to other software or service acquisitions.<br><br>Providing agencies with the information to identify and acquire accessibility solutions is best done through GSA's existing Market Research as a Service (MRAS). This presentation will review MRAS resources and services and provide an understanding of how MRAS can help agencies identify and acquire accessibility-related products and services.
         room:
         roles: 
@@ -1665,24 +1656,16 @@ iaaf_2025:
     time_start: 2025-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2025-05-21 16:30:00
     sessions: 
-      - name: 'Welcome'
+      - name: 'Welcome & Open Remarks'
         type: welcome
         time_start: 2025-05-21 09:30:00
-        time_end: 2025-05-21 09:4500
+        time_end: 2025-05-21 10:00:00
         session_id: day2welcome
-        roles: 
-          - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: levy-alison #bio_id for this person
-      - name: 'Opening Remarks'
-        type: welcome
-        time_start: 2025-05-21 09:30:00
-        time_end: 2025-05-21 09:45:00
-        session_id: day2opening
         roles: 
           - name: #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: sachin-pavithran #bio_id for this person
           - name: Introduction 
-            who: levy-alison #bio_id for this person            
+            who: levy-alison #bio_id for this person    
       - name: 'Roundtable'
         type: general
         time_start: 2025-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
@@ -1734,7 +1717,7 @@ iaaf_2025:
         time_end: 2025-05-21 14:15:00
         session_id: day2session3
         subtitle: From Risk to Roadmap&colon; Tackling Accessibility Debt with the Technology Accessibility Playbook
-        description: <p>Accessibility debt—accumulated barriers in digital systems, documents, and services—continues to challenge many federal IT organizations. These unresolved issues not only hinder users with disabilities but also expose agencies to non-compliance with Section 508, WCAG, and FAR requirements, as well as legal and reputational risks. Too often, agencies rely on temporary risk management strategies that fail to solve the core issues, allowing debt to grow over time.</p><p>In this dynamic panel discussion, Antonio HaileSelassie and Lisa Wilcox, seasoned Section 508 Program Managers, will explore how they've confronted accessibility debt head-on using the Technology Accessibility Playbook. They will share real-world insights, challenges, and successes from their agencies, providing a roadmap for attendees who face similar obstacles.</p><p>Panelists will discuss:<ol><li>Leveraging structured frameworks to identify and address organizational gaps and systemic challenges</li><li>Developing phased action plans to drive long-term, measurable improvements</li><li>Integrating inclusive practices into standard workflows to prevent recurring issues</li><li>Establishing internal monitoring systems to ensure ongoing accountability and track progress</li><li>Fostering collaboration across departments to align efforts and leadership support</li><li></ol></p><p>Attendees will gain practical insights on moving from reactive problem-solving to proactive, sustainable management—along with tools to initiate or enhance their own strategic initiatives.</p>
+        description: #<p>Accessibility debt—accumulated barriers in digital systems, documents, and services—continues to challenge many federal IT organizations. These unresolved issues not only hinder users with disabilities but also expose agencies to non-compliance with Section 508, WCAG, and FAR requirements, as well as legal and reputational risks. Too often, agencies rely on temporary risk management strategies that fail to solve the core issues, allowing debt to grow over time.</p><p>In this dynamic panel discussion, Antonio HaileSelassie and Lisa Wilcox, seasoned Section 508 Program Managers, will explore how they've confronted accessibility debt head-on using the Technology Accessibility Playbook. They will share real-world insights, challenges, and successes from their agencies, providing a roadmap for attendees who face similar obstacles.</p><p>Panelists will discuss:<ol><li>Leveraging structured frameworks to identify and address organizational gaps and systemic challenges</li><li>Developing phased action plans to drive long-term, measurable improvements</li><li>Integrating inclusive practices into standard workflows to prevent recurring issues</li><li>Establishing internal monitoring systems to ensure ongoing accountability and track progress</li><li>Fostering collaboration across departments to align efforts and leadership support</li><li></ol></p><p>Attendees will gain practical insights on moving from reactive problem-solving to proactive, sustainable management—along with tools to initiate or enhance their own strategic initiatives.</p>
         room:
         roles: 
           - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
@@ -1763,12 +1746,12 @@ iaaf_2025:
       - name: 'Break'
         type: break
         time_start: 2025-05-21 15:15:00
-        time_end: 2025-05-21 15:30:00
+        time_end: 2025-05-21 15:25:00
         session_id: day2break3
         description:       
       - name: 'General Session'
         type: general
-        time_start: 2025-05-21 15:30:00
+        time_start: 2025-05-21 15:25:00
         time_end: 2025-05-21 16:25:00
         session_id: day2session5
         subtitle: A New Look at ART & SRT
@@ -1782,7 +1765,7 @@ iaaf_2025:
           - name: Presenter
             who: levin-ann 
           - name: Presenter
-            who: scheyer-collin
+            who: schreyer-collin
         downloads:
           - link_name: #File Name - IAAF 2025 (PPTX)
             file_name: #file-name-iaaf-2025.pptx

@@ -1,8 +1,8 @@
 ---
 title: Frederick Harris
-bio_id: harris-fred
+bio_id: harris-frederick
 display_name: Fred Harris
-first_name: Fred
+first_name: Frederick
 last_name: Harris
 affiliation_long: Defense Technical Information Center
 affiliation_short: DTIC
