@@ -58,6 +58,10 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
       <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
       <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
     </div>
+    <div class="grid-row">
+      <div class="grid-col tablet:grid-col-1"><strong>Agenda: </strong></div>
+      <div class="grid-col tablet:grid-col-11"><a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a></div>
+    </div>
     <h3>Registration</h3>
       <p><a href="https://gsa.zoomgov.com/webinar/register/WN_fOacxbUoSGu6HaBajcazhQ" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>
   </div>
@@ -67,7 +71,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 </div>
 
 ## Event Agenda
-<img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
+<a href="{{site.baseurl}}/iaaf/archives/agenda-2025/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/></a>
 
 This year’s IAAF will take place on May 20–21, 2025, and will feature a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
