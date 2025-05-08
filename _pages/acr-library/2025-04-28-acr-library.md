@@ -39,15 +39,13 @@ GSA is committed to providing technical assistance to individuals and federal de
 ## How to Use This Page
 
 * **Find ACRs**: Browse for Accessibility Conformance Reports (ACRs) related to applications, online training, or other ICT products.
-* **View or Download ACRs**: Select the provided link to download the latest ACR package file.
-  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
+* **View or Download ACR Reports**: Select the provided link to download the latest ACR package file.
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="HTML globe symbol">
   **HTML Format**: View the ACR in a user-friendly, readable document format.
-  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
-  **DOCX**: View or download the ACR in Microsoft Word document format.
-  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
-  **YAML Format**: Access the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
-  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-disk-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="">
-  **ZIP**: Download the ACR in DOCX, HTML, and YAML formats.
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="YAML code symbol">
+  **YAML Format**: View the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
+  * <img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download cloud symbol">
+  **ZIP File**: Download both HTML and YAML documents in a single file.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
 
 <table id="table-1" class="grid-col-12 usa-table usa-table--borderless striped margin-top-4">
@@ -66,9 +64,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">3.1</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://www.section508.gov/accessibility-conformance-reports/accessibility-requirements-tool/" aria-label="View ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_accessibility-requirements-tool_section508.docx" aria-label="Download DOCX of ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_accessibility-requirements-tool_section508.yaml" aria-label="Download YAML ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/accessibility-requirements-tool/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forAccessibility Requirements Tool (ART)"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_accessibility-requirements-tool_section508.docx"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Accessibility Requirements Tool (ART)"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_accessibility-requirements-tool_section508.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility Requirements Tool (ART)"></a>
       </td>
     </tr>
     <tr>
@@ -76,9 +74,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">1.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://www.section508.gov/accessibility-conformance-reports/acr-editor/" aria-label="View ACR for " aria-describedby="acre"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/gsa-section580gov-acr-art.zip" aria-label="Download ACR for " aria-describedby="acre"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp; 
-        <a href="https://assets.section508.gov/assets/files/acr-library/gsa-section580gov-acr-art.zip" aria-label="Download ACR for " aria-describedby="acre"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/acr-editor/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forACR Editor"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/gsa-section580gov-acr-art.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for ACR Editor"></a>&nbsp; 
+        <a href="https://assets.section508.gov/assets/files/acr-library/gsa-section580gov-acr-art.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for ACR Editor"></a>
       </td>
     </tr>
     <tr>
@@ -86,9 +84,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">4.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-      <a href="https://www.section508.gov/accessibility-conformance-reports/solicitation-review-tool/" aria-label="View ACR for " aria-describedby="srt"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-      <a href="https://assets.section508.gov/assets/files/acr-library/solicitation-review-tool_4.0_section508_2025-05-01.docx" aria-label="Download ACR for " aria-describedby="srt"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp; 
-      <a href="https://assets.section508.gov/assets/files/acr-library/solicitation-review-tool_4.0_section508_2025-05-01.yaml" aria-label="Download ACR for " aria-describedby="srt"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+      <a href="{{ site.baseurl }}/accessibility-conformance-reports/solicitation-review-tool/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forSolicitation Review Tool (SRT)"></a>&nbsp;
+      <a href="https://assets.section508.gov/assets/files/acr-library/solicitation-review-tool_4.0_section508_2025-05-01.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Solicitation Review Tool (SRT)"></a>&nbsp; 
+      <a href="https://assets.section508.gov/assets/files/acr-library/solicitation-review-tool_4.0_section508_2025-05-01.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Solicitation Review Tool (SRT)"></a>
       </td>
     </tr>
   </tbody>
@@ -110,9 +108,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">2.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="ict-exec"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/accessibility-requirements-tool_section508_2025-05-01.docx" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_accessibility-requirements-tool_section508_2025-05-01.yaml" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Accessibility of ICT for Government Executives"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/accessibility-requirements-tool_section508_2025-05-01.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Accessibility of ICT for Government Executives"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_accessibility-requirements-tool_section508_2025-05-01.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility of ICT for Government Executives"></a>
       </td>
     </tr>   
     <tr>
@@ -120,9 +118,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">3.0</td>
       <td class="center"></td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Micro-Purchases and Section 508 Requirements"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Micro-Purchases and Section 508 Requirements"></a>
       </td>
     </tr>
     <tr>
@@ -130,9 +128,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">1.2</td>
       <td class="center">2025-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="ms-word"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Microsoft Word & Accessibility Best Practices"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Microsoft Word & Accessibility Best Practices"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Microsoft Word & Accessibility Best Practices"></a>
       </td>
     </tr>
     <tr>
@@ -140,9 +138,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">1.0</td>
       <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="micro-purchase"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="procuring-ict"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Procuring Section 508 Conformant ICT Products and Services"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Procuring Section 508 Conformant ICT Products and Services"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Procuring Section 508 Conformant ICT Products and Services"></a>
       </td>
     </tr>
     <tr>
@@ -150,19 +148,19 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">4.1</td>
       <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="{{ site.baseurl }}/accessibility-conformance-reports/section-508-what-is-it/" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="508-what-is-it"><img src="{{ site.baseurl }}/assets/images/icons/symbol-disk-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_section-508-what-is-it-and-why-is-it-important-20250429"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Section 508: What Is It and Why Is It Important?"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_section-508-what-is-it-and-why-is-it-important-20250429.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Section 508: What Is It and Why Is It Important?"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_section-508-what-is-it-and-why-is-it-important-20250429.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Section 508: What Is It and Why Is It Important?"></a>
       </td>
     </tr>
     <tr>
-      <th id="evaluating-acrs" scope="row"><a href="https://www.section508.gov/training/online-course/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></th>
+      <th id="evaluating-acrs" scope="row"><a href="{{ site.baseurl }}/training/online-course/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></th>
       <td class="center">1.0</td>
       <td class="center">2024-04-24</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://assets.section508.gov/assets/files/acr_library/acr_product-name_section508.docx" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-docx.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml" aria-label="Download ACR for " aria-describedby="art"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt=""></a>
+        <a href="{{ site.baseurl }}/accessibility-conformance-reports/acr_product-name_section508/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr-library/acr_product-name_section508.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"></a>
       </td>
     </tr>
   </tbody>
@@ -174,9 +172,9 @@ GSA is committed to providing technical assistance to individuals and federal de
 
 ## Related Resources
   * [Buy or Sell Accessible Products and Services]({{ site.baseurl }}/buy-sell/)
-  * [Request Accessibility Information from Vendors & Contractors](https://www.section508.gov/buy/request-accessibility-information/)
-  * [Understanding Vendor Claims in ACRs for Section 508 Conformance](https://www.section508.gov/buy/understand-claims/) 
+  * [Request Accessibility Information from Vendors & Contractors]({{ site.baseurl }}/buy/request-accessibility-information/)
+  * [Understanding Vendor Claims in ACRs for Section 508 Conformance]({{ site.baseurl }}/buy/understand-claims/) 
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-  * [Soliciting and Evaluating ACRs in Federal ICT Procurement](https://www.section508.gov/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
+  * [Soliciting and Evaluating ACRs in Federal ICT Procurement]({{ site.baseurl }}/training/online-course/soliciting-and-evaluating-acrs/)—Online Training
 
 **Reviewed/Updated:** May 2025

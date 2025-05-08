@@ -899,12 +899,11 @@ Chapter 5: Software[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_
 Chapter 6: Support Documentation and Services[](file:///C:/Users/MichaelDHorton/Desktop/ACRs/20250429_ACR_section-508-what-is-it-and-why-is-it-important.html#support_documentation_and_services-download)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<button class="usa-button" type="button">Download Report (DOCX).docx</button>
-<button class="usa-button usa-button--secondary" type="button">Download Report (YAML).yaml</button>
-<button class="usa-button usa-button--outline" type="button">Download Report (ZIP).zip</button>
+<button class="usa-button usa-button--secondary" type="button">View Report (YAML)</button> 
+<button class="usa-button usa-button--outline" type="button">Download Report (ZIP)</button>
 
-[OpenACR ](https://github.com/GSA/openacr)is a format maintained by the [GSA](https://gsa.gov/). The content is the responsibility of the author.
-
-This content is licensed under a [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/legalcode).
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+  <a href="https://github.com/GSA/openacr" target="_blank" class="usa-link--external">OpenACR</a> is a format maintained by the <a href="https://gsa.gov/" target="_blank" class="usa-link--external">General Services Administration</a>. The content is the responsibility of the author.<br><br>This content is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode" class="usa-link--external">Creative Commons Attribution 4.0 International</a>.
+</div>
 
 **Reviewed/Updated:** May 2025

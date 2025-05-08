@@ -1,0 +1,2165 @@
+title: >-
+  Section 508 - What Is It and Why Is It Important Accessibility Conformance
+  Report
+product:
+  name: Section 508 - What Is It and Why Is It Important
+  version: 4.1 (Sep 2024)
+  description: >-
+    Web-based training course for self-paced learning. Includes informational
+    text and graphics, learning interactions, and knowledge checks. Introduction
+    to Section 508 and Information and Communication Technology (ICT). Explains
+    what Section 508 is and why it’s important, shows how conformance can make
+    ICT more accessible, reviews job-related responsibilities for meeting
+    Section 508 standards, offers resources to help you meet your Section 508
+    responsibilities.
+author:
+  name: Terri Youngblood Savage
+  company_name: 'AMA Consulting '
+  address: ''
+  email: terri.savage@gsa.gov
+  phone: ''
+  website: 'https://ama-consult.com/'
+vendor:
+  name: ''
+  company_name: ''
+  address: ''
+  email: ''
+  phone: ''
+  website: ''
+report_date: 4/24/2025
+last_modified_date: 4/29/2025
+version: 3
+notes: ''
+evaluation_methods_used: >-
+  The course was testing using manual and automated tools including assistive
+  technology used by people with disabilities. Tools included Axe, ANDI, JAWS,
+  NVDA, VoiceOver, ZoomText and Dragon Naturally Speaking.
+legal_disclaimer: ''
+repository: ''
+feedback: ''
+license: CC-BY-4.0
+related_openacrs: []
+catalog: 2.4-edition-wcag-2.1-508-en
+chapters:
+  success_criteria_level_a:
+    notes: ''
+    disabled: false
+    criteria:
+      - num: 1.1.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Images used throughout the course are fully accessible with
+                acurate and descirptive alt text.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: 'This is a web-based course. '
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: This course is not an authoring tool.
+      - num: 1.2.1
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: Audio only and Video only content is not used in the course
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.2.2
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: 'Video is not used in the course so captions are not required. '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.2.3
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: 'Video is not used in the course.  '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.3.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Visual structure and relationship information are provided
+                through object information or are available in text. The course
+                uses the proper semantic formatting for paragraphs, links,
+                lists, and other elements so screen reader users can explore
+                content easily.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.3.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course content is presented in a meaningful sequence.  This
+                was confirmed by testing with assistive technology and by user
+                testing.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.3.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: 'Instructions do not rely solely on sensory characteristics.  '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course content and functionality do not convey information
+                through color alone.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The course does not contain audio that plays automatically.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.1.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The course is fully accessible using the keyboard to navigate.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.1.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: 'The course does not have any keyboard traps.  '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.1.4
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The course does not provide character key shortcuts.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.2.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course does not include elements that move, blink, scroll,
+                or auto-update.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.2.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: 'The course does not include time limits. '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.3.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The site does not contain flashing content.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Learners can skip repetitive navigation elements to access slide
+                content immediately when tabbing through a course with a screen
+                reader. The skip-navigation feature is automatically enabled in
+                all courses.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course title is the page title that appears on the browser
+                tab. Screen readers announce the page title when the course
+                first launches.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Focus order was designed to be fully accessible and to follow
+                the reading order of the content.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.4
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                All links that are provided in the course provide names that
+                facilitate understanding. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.5.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The courses support touchscreen gestures.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.5.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Click events happen when learners release the mouse button, not
+                when they press the mouse button down. This helps learners
+                recover if they accidentally click the wrong target. They can
+                move the mouse away from the target before releasing the button
+                if they do not want to activate the target.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.5.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The alternative text matches on-screen labels, supporting users
+                who use speech to navigate.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.5.4
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: >-
+                Learners cannot control the course by moving their tablets or
+                smartphones.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.1.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: 'The language identifier is set for screen readers. '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.2.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                When any user interface component receives focus, it does not
+                initiate a change of context.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.2.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Changing the setting of any user interface component does not
+                automatically cause a change of context unless the user has been
+                advised of the behavior before using the component.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.3.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course automatically warns learners when they leave
+                questions blank. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.3.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Labels and Instructions are provided so that learners understand
+                what is expected of them.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 4.1.1
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                For WCAG 2.0, 2.1, Revised 508 Standards, the September 2023
+                errata update indicates this criterion is always supported. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 4.1.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course uses distinct semantic groups, ARIA landmarks, and
+                structured controls that follow a consistent order and
+                hierarchy.
+
+                The slide objects are labeled correctly, so learners with screen
+                readers know what they are and how to interact with them.  The
+                course also uses on-screen text or alternative text to describe
+                objects throughout the course.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+  success_criteria_level_aa:
+    notes: ''
+    disabled: false
+    criteria:
+      - num: 1.2.4
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: 'There is no live video in the course.  '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.2.5
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.3.4
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: The course work in both landscape and portrait modes.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.3.5
+        components:
+          - name: web
+            adherence:
+              level: does-not-support
+              notes: >-
+                Articulate Storyline, which is the application that created the
+                course, does not currently support the programmatic input field
+                identification.  Best Practice rather than a Section 508 legal
+                requirement. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to meet the color contrast
+                requirements.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.4
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Learners can switch to zoom mode and use the zoom settings in
+                desktop browsers to make slides bigger and easier to see. On
+                mobile devices, learners can use pinch-to-zoom gestures.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.5
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: 'Images of text are not used in the course.  '
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.10
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Storyline 360 content modules are two-dimensional presentations
+                with fixed aspect ratios. They're designed to zoom in and out,
+                but they can't reflow without losing meaning and context. As a
+                result, learners might see vertical and/or horizontal scroll
+                bars at the highest zoom levels. The guideline allows
+                two-dimensional content, such as presentations, to scroll in
+                both directions.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.11
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to meet a contrast ratio of 3:1 or
+                higher for images and background elements so learners with low
+                vision can see them.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.12
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                Learners can use custom stylesheets or browser extensions to
+                adjust text properties, such as line spacing, to make content
+                easier to read.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 1.4.13
+        components:
+          - name: web
+            adherence:
+              level: partially-supports
+              notes: >-
+                Object hover states can't be dismissed with a keyboard command.
+                Articulate developers are working on a solution.  Best Practice
+                rather than a Section 508 legal requirement. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.5
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to include multiple ways to find
+                content. The built-in navigation features include the course
+                menu, search field, and previous and next buttons. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.6
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to have headings and labels for slide
+                content so learners understand the course information. Headings
+                and labels are clear and descriptive.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 2.4.7
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to have a rectangular visual focus that
+                highlights the object that currently has focus when learners use
+                keyboard navigation. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.1.2
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                You can set the course language in your player properties. 
+                Courses are designed not to have multiple languages in one
+                course.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.2.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The built-in navigation elements appear in the same location
+                throughout a course. 
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.2.4
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to have consistency.  When an object or
+                interaction is used more than once, it was designed the same way
+                each time.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.3.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to give feedback or instructions so they
+                know what is expected.  
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 3.3.4
+        components:
+          - name: web
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+      - num: 4.1.3
+        components:
+          - name: web
+            adherence:
+              level: supports
+              notes: Status messages do not appear without a change in context.
+          - name: electronic-docs
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: software
+            adherence:
+              level: not-applicable
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: not-applicable
+              notes: ''
+  success_criteria_level_aaa:
+    notes: ''
+    disabled: true
+    criteria:
+      - num: 1.2.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.2.7
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.2.8
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.2.9
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.3.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.4.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.4.7
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.4.8
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 1.4.9
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.1.3
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.2.3
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.2.4
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.2.5
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.2.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.3.2
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.3.3
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.4.8
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.4.9
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.4.10
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.5.5
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 2.5.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.1.3
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.1.4
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.1.5
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.1.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.2.5
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.3.5
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+      - num: 3.3.6
+        components:
+          - name: web
+            adherence:
+              level: ''
+              notes: ''
+          - name: electronic-docs
+            adherence:
+              level: ''
+              notes: ''
+          - name: software
+            adherence:
+              level: ''
+              notes: ''
+          - name: authoring-tool
+            adherence:
+              level: ''
+              notes: ''
+  functional_performance_criteria:
+    notes: ''
+    disabled: false
+    criteria:
+      - num: '302.1'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to be fully accessible.  The designer
+                conducted usability testing with screen reader users before the
+                course was launched, resulting in subtle changes that increased
+                usability. 
+      - num: '302.2'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to be fully accessible.  The designer
+                conducted usability testing with a magnification user before the
+                course was launched.
+      - num: '302.3'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that color alone was not used
+                to convey meaning. 
+      - num: '302.4'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that hearing is not required
+                to take the course.
+      - num: '302.5'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that people with limited
+                hearing could take the course.
+      - num: '302.6'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that people without speech
+                could take the course.
+      - num: '302.7'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that people with limited
+                manipulation could take the course. As a result, it supports
+                multiple modalities.
+      - num: '302.8'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that people with limited reach
+                and strength could take the course.
+      - num: '302.9'
+        components:
+          - name: none
+            adherence:
+              level: supports
+              notes: >-
+                The course was designed to ensure that people with limited
+                language, cognitive, and learning abilities could take the
+                course.
+  hardware:
+    notes: ''
+    disabled: true
+    criteria:
+      - num: 402.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.2.3
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.2.4
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.2.5
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.3.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 402.3.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '402.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '402.5'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '403.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '404.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '405.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '406.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '407.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.3.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.3.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.3.3
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '407.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '407.5'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '407.6'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '407.7'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.1.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.1.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.3
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.3.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.3.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.3.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 407.8.3.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '408.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '408.3'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '409.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '410.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '411.1'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.3.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.3.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '412.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '412.5'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '412.6'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '412.7'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.8.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.8.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.8.3
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 412.8.4
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 413.1.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 413.1.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 414.1.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 414.1.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 415.1.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 415.1.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+  software:
+    notes: ''
+    disabled: true
+    criteria:
+      - num: 502.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.3
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.4
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.5
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.6
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.7
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.8
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.9
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.10
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.11
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.12
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.13
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 502.3.14
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '502.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '503.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '503.3'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 503.4.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 503.4.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '504.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 504.2.1
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: 504.2.2
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '504.3'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '504.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+  support_documentation_and_services:
+    notes: ''
+    disabled: true
+    criteria:
+      - num: '602.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '602.3'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '602.4'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '603.2'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
+      - num: '603.3'
+        components:
+          - name: none
+            adherence:
+              level: ''
+              notes: ''
