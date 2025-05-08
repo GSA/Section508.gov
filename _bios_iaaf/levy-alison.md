@@ -4,7 +4,7 @@ bio_id: levy-alison
 display_name: Alison Levy
 first_name: Alison
 last_name: Levy
-affiliation_long: United States Access Board
+affiliation_long: U.S. Access Board
 affiliation_short: USAB
 position: Director, Office of Technical and Information Services
 office: 
@@ -13,12 +13,10 @@ email:
 image_url: /assets/images/bio-images/levy-alison.jpg
 iaaf_years: 2023, 2024, 2025
 ---
-Alison Sutton Levy joined the U.S. Access Board in June 2022 as the Director of the Office of Information and Technical Services (OTIS) where she oversees the technical assistance team for both the built and digital environments.
+Alison Levy most recently served as the Manager of the U.S. Department of Transportation’s Disability Resource Center (DRC).
 
-The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. OTIS currently includes a team of eight staff members who write the
+Previously, Alison served at the U.S. Department of Agriculture (USDA), providing leadership over the recruitment, hiring, advancement, and retention of individuals with disabilities, including reasonable accommodations. She developed and implemented policies, procedures, and strategic plans, and facilitated programs through a diverse team of more than 50 contacts across USDA’s 34 mission areas, agencies, and staff offices.
 
-guidelines and standards, provide answers to technical questions via a hotline and email, and present training in person and virtually.
+ Alison was one of the founding leaders of the Federal Disability Workforce Consortium (FDWC), a volunteer, interagency organization that grew from 20 to more than 900 federal points of contact with monthly webinars, meetings, and collaborations with the Office of Personnel Management, Equal Employment Opportunity Commission, and the Department of Labor’s Office of Disability Employment Policy.
 
-Alison most recently served as the Manager of the U.S. Department of Transportation’s Disability Resource Center (DRC). The DRC is a centrally funded office that supports internal supervisors and employees in creating an accessible and inclusive workplace through recruitment, hiring, outreach, education, and reasonable accommodations.
-
-As a person with disabilities, and with over 30 years of experience in the disability profession, Alison has worked toward improving workplace attitudes and accessibility, and in providing equal opportunity in the post-secondary, public, and private sectors. She is a person with disabilities and is fluent in American Sign Language.
+ With over 30 years of experience in the disability profession, Alison has worked toward improving accessibility, and in providing equal opportunity in the post-secondary, public, and private sectors. Alison earned her B.A. in Public Communication from The American University, and her Master’s in Special Education from Johns Hopkins University. She is fluent in American Sign Language.

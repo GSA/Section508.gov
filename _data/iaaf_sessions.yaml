@@ -1600,10 +1600,18 @@ iaaf_2025:
         description: Major advances in technology, both in the workplace and in the home, have helped empower job seekers and workers with disabilities who strive for upward mobility in their fields in the modern knowledge economy. This applies equally for emerging technologies, such as artificial intelligence (AI), extended reality, autonomous vehicles, and mainstream information and communication technologies, including those used in the workplace.<br><br>The panel session will be in panel format moderated by NSF. Two funded researchers through the NSF's Convergence Accelerator program focused on Enhancing Opportunities for Persons with Disabilities (PWDs) will present their research projects (20 minutes each). These NSF-funded projects serve as a platform to bring together researchers, practitioners, and stakeholders from a wide range of disciplines and sectors to work on use-inspired solutions to enhance quality of life and employment access and opportunities for PWDs and are fueled by strong public-private partnerships.
         room:
         roles: 
-          - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
-            who: vadati-alex #bio_id for this person
-          - name: Presenter
-            who: fulay-pradeep
+          - name: Moderator #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
+            who: fulay-pradeep #bio_id for this person
+          - name: Moderator
+            who: vadati-alex
+          - name: Presenters
+            who: 
+          - name: Presenters
+            who: 
+          - name: Presenters
+            who: 
+          - name: Presenters
+            who: 
         downloads:
           - link_name: # - IAAF 2025 (PDF) 
             file_name: #-%20IAAF%202025.pdf
@@ -1771,6 +1779,10 @@ iaaf_2025:
             who: michael-horton #bio_id for this person 
           - name: Presenter
             who: miller-laura
+          - name: Presenter
+            who: levin-ann 
+          - name: Presenter
+            who: scheyer-collin
         downloads:
           - link_name: #File Name - IAAF 2025 (PPTX)
             file_name: #file-name-iaaf-2025.pptx

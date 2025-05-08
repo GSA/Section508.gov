@@ -13,4 +13,8 @@ email:
 image_url: /assets/images/bio-images/guidi-claudia.jpg
 iaaf_years: 2025
 ---
-Claudia Guidi is the Section 508 Program Manager and User Experience Analyst at DTIC. She is responsible for ensuring accessibility compliance across the agency’s digital platforms, overseeing usability testing, and implementing accessibility best practices. Claudia’s experience spans multiple federal IT modernization efforts, where she has integrated accessibility into digital transformation initiatives. Her expertise in both compliance and user experience give her a unique perspective on bridging the gap between regulatory requirements and practical implementation. She has led several agency-wide efforts to streamline accessibility reporting, improve digital usability, and enhance the annual GSA Section 508 Compliance Survey submission process.
+Claudia Guidi, PhD MSLIS, Trusted Tester, is a UX Analyst and designated 508 PM at DTIC. Claudia's background is in user research and instructional design. Prior to joining DTIC, she worked as a SME at the Library of Congress for ten years. In this role, she observed how users of legislative information systems interact with interfaces to find information they need to do their jobs. Through learning about the pain points and needs of thousands of users, Claudia developed a passion for making digital information available and easy to use for all. 
+
+Claudia has worked as part of cross-functional teams to achieve common goals. A critical goal among these has been increasing the maturity level of the 508 programs at DTIC.
+
+In her PM role, Claudia has implemented strategies to increase the program’s maturity level.

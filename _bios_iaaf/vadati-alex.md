@@ -1,16 +1,16 @@
 ---
 title: Alex Vadati
 bio_id: vadati-alex
-display_name: Alex Vadati
+display_name: Dr. Alex Vadati
 first_name: Alex
 last_name: Vadati
-affiliation_long: National Science Foundation through the Intergovernmental Personnel Act
+affiliation_long: National Science Foundation
 affiliation_short: NSF
-position: Program Director (Rotator)
-office: 
+position: Program Director, Convergence Accelerator Program
+office: Directorate for Technology, Innovation and Partnerships
 location: Washington, DC
 email: 
-image_url: /assets/images/bio-images/blank-profile.jpg
+image_url: /assets/images/bio-images/vadati-alex.jpg
 iaaf_years: 2025
 ---
-Alex Vadati is a rotator Program Director for the Convergence Accelerator program, in the National Science Foundation’s Technology, Innovation and Partnerships Directorate. Alex holds a Ph.D. in Bioengineering from the University of Notre Dame, Indiana, and an MBA in Strategic Innovation from the University of Illinois Urbana-Champaign (UIUC). His industry experience includes a role as a Senior Engineer in the medical device industry and staff position at the Cleveland Clinic, Ohio. Alex later transitioned to academia as an engineering faculty member at East Carolina University (ECU). His research contributions span digital twins, artificial intelligence, advanced materials, advanced manufacturing, biotechnology, artificial organs, and assistive and medical technologies. Alex’s work has been funded by the NSF, DoD-ONR, and research foundations. His efforts have been recognized with ECU’s Trendsetter in Research.
+Alex Vadati is a biomedical and mechanical engineer and holds a Ph.D. in Bioengineering from the University of Notre Dame, Indiana, in addition to an MBA in Strategic Innovation from the University of Illinois Urbana-Champaign (UIUC). Previously, he worked at the Cleveland Clinic, Ohio, as a Staff Research Associate, aiding in commercialization of a surgical predictive software tool. His industry experience includes working as a Senior Engineer with a Fortune 200 MedTech company. Alex earned professional certificates in multiscale and human-centered design from MIT and Stanford University, respectively. He is a tenured professor of engineering at East Carolina University (Greenville, NC), and he currently serves as a Program Director (PD) for the Convergence Accelerator program in the NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) through the Intergovernmental Personnel Act.
