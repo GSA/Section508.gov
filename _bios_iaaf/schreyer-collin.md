@@ -6,7 +6,7 @@ first_name: Collin
 last_name: Schreyer
 affiliation_long: General Services Administration
 affiliation_short: GSA
-position: 
+position: Contract Support
 office: 
 location: Washington, DC
 email: 

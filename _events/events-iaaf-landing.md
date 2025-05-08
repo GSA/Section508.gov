@@ -39,24 +39,28 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 <div class="grid-row">
   <div class="tablet:grid-col-9">
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-1"><strong>Who: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Accessibility Professionals</div>
+      <div class="grid-col tablet:grid-col-2"><strong>Who: </strong></div>
+      <div class="grid-col tablet:grid-col-10">Accessibility Professionals</div>
     </div>
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-1"><strong>What: </strong></div>
-      <div class="grid-col tablet:grid-col-11">2025 Interagency Accessibility Forum (IAAF)</div>
+      <div class="grid-col tablet:grid-col-2"><strong>What: </strong></div>
+      <div class="grid-col tablet:grid-col-10">2025 Interagency Accessibility Forum (IAAF)</div>
     </div>
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-1"><strong>When: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Tuesday and Wednesday, May 20-21</div>
+      <div class="grid-col tablet:grid-col-2"><strong>When: </strong></div>
+      <div class="grid-col tablet:grid-col-10">Tuesday and Wednesday, May 20-21</div>
     </div>
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-1"><strong>Where: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Virtually via Zoom for Government</div>
+      <div class="grid-col tablet:grid-col-2"><strong>Where: </strong></div>
+      <div class="grid-col tablet:grid-col-10">Virtually via Zoom for Government</div>
     </div>
     <div class="grid-row">
-      <div class="grid-col tablet:grid-col-1"><strong>Fees: </strong></div>
-      <div class="grid-col tablet:grid-col-11">Attendance to this event is offered at no cost</div>
+      <div class="grid-col tablet:grid-col-2"><strong>Fees: </strong></div>
+      <div class="grid-col tablet:grid-col-10">Attendance to this event is offered at no cost</div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-col tablet:grid-col-2"><strong>Agenda: </strong></div>
+      <div class="grid-col tablet:grid-col-10"><a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a></div>
     </div>
     <h3>Registration</h3>
       <p><a href="https://gsa.zoomgov.com/webinar/register/WN_fOacxbUoSGu6HaBajcazhQ" target="_blank"><strong>Register Now!</strong></a> to join us for the 2025 Interagency Accessibility Forum. Registration for virtual attendance is available through Wednesday, May 21.</p>
@@ -67,7 +71,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 </div>
 
 ## Event Agenda
-<img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="Agenda icon" width="75" height="75" aria-hidden="true"/>
+<a href="{{site.baseurl}}/iaaf/archives/agenda-2025/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2025 IAAF Agenda" width="75" height="75"/></a>
 
 This year’s IAAF will take place on May 20–21, 2025, and will feature a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
