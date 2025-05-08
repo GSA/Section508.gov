@@ -4,6 +4,8 @@ sidenav: true
 type: training
 title: "Commonly Used Acronyms and Abbreviations"
 permalink: tools/acronyms-abbreviations/
+redirect_from:
+- acronyms-abbreviations/
 description: "Discover commonly used acronyms in Section 508 guidance, technical assistance, and reporting, including those in Appendix A of the annual Governmentwide Section 508 Assessment to Congress. Stay informed on accessibility compliance terms."
 disclaimer: 
 hide-date: 

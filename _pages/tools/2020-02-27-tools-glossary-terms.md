@@ -4,6 +4,8 @@ sidenav: true
 type: training
 title: 'Glossary of Section 508 Terms'
 permalink: tools/glossary/
+redirect_from:
+- glossary/
 description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
 sub-topic: "General Info and Best Practices"
