@@ -27,6 +27,7 @@
     "@uswds/uswds": "^3.7.1",
     "clipboard-copy": "^4.0.1",
     "docx": "^8.0.2",
+    "esbuild": "^0.25.0",
     "jszip": "^3.10.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
@@ -45,17 +46,5 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "rimraf": "^3.0.2",
     "typescript": "~5.4.5"
-  },
-    "overrides": {
-    "esbuild": "^0.25.0",
-    "@angular/build": {
-      "vite": {
-        "esbuild": "^0.25.0"
-      }
-    },
-    "vite": {
-      "esbuild": "^0.25.0"
-    }
   }
 }
-
