@@ -34,7 +34,9 @@ redirect_from:
 - acr/
 - conformance-reports/
 ---
-GSA is committed to providing technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508 of the Rehabilitation Act of 1973, as amended [(29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/). GSA Accessibility Conformance Reports (ACRs) describe how Section508.gov's online tools and training support <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, so that the many organizations, acquisition teams, and individuals can make informed procurement decisions.
+GSA is committed to providing technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508 of the Rehabilitation Act of 1973, as amended [(29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/). GSA Accessibility Conformance Reports (ACRs) describe how Section508.gov's online tools and training support <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, so that organizations, acquisition teams, and individuals can make informed procurement decisions.
+
+ACRs are provided only for products and tools that are made available outside of the Section508.gov website.
 
 ## How to Use This Page
 
@@ -108,9 +110,9 @@ GSA is committed to providing technical assistance to individuals and federal de
       <td class="center">2.0</td>
       <td class="center">2025-04-18</td>
       <td style="vertical-align: middle; text-align: center;">
-        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives--v2.0.1-report-1.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Accessibility of ICT for Government Executives"></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives--v2.0.1-report-1.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Accessibility of ICT for Government Executives"></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives--v2.0.1-report-1.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility of ICT for Government Executives"></a>
+        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives-v2.0.1-report-1.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Accessibility of ICT for Government Executives"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives-v2.0.1-report-1.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Accessibility of ICT for Government Executives"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr/accessibility-of-ict-for-government-executives-v2.0.1-report-1.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility of ICT for Government Executives"></a>
       </td>
     </tr>   
     <tr>
