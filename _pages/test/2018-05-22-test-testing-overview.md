@@ -19,14 +19,13 @@ format: HTML (html)
 
 There are several ways to validate conformance to the [Revised 508 Standards][1]:
 
-  * [Automated][2] - High volume 508 conformance testing tools automatically scan and test electronic content;
-  * [Manual][3] - Manual testing uses a documented, consistent, repeatable process;
-  * [Hybrid][4] - A combination of automated and manual testing.
+* [Automated][2] - High volume 508 conformance testing tools automatically scan and test electronic content;
+* [Manual][3] - Manual testing uses a documented, consistent, repeatable process;
+* [Hybrid][4] - A combination of automated and manual testing.
 
 <div id="Automated">
 <h2>Automated Testing</h2>
 <p>Take advantage of high volume (automated) 508 compliance scanning tools, but be aware of their limitations.</p>
-
 
 <ul>
   <li>Automated scanning tools cannot apply human subjectivity, and therefore either produce excessive false positives or&mdash;when configured to eliminate false positives&mdash;test for only a small portion of the requirements.
@@ -40,8 +39,6 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
   <li>Your agency may need to deploy multiple scanning tools to cover multiple content types (e.g., HTML, Word, Excel, and PDF). It can be a challenge to extract and aggregate results to identify trends and focus remediation efforts.</li>
   <li>Plan and deliver reporting tailored to your stakeholders. You may want to provide output from scanning tools directly to developers. Additional work may be required to integrate results into dashboard reporting to tell your organizational story.</li>
 </ul>
-
-
 
 <p>Key Success Factor: To provide value for the agency and support the highest level of accessibility improvement, the tool or tools you select must foster adoption and buy-in across multiple applicable roles (UX designers, developers, etc.) within the agency.</p>
 <h3>Technical Requirements</h3>
@@ -89,7 +86,7 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <li>Note: Some testing tools may include tests beyond Section 508, such as WCAG 2.0 AAA, WCAG 2.X, WAI-ARIA, and accessibility best practices. These settings may flag failures that are not failures of Section 508 technical requirements. </li></ul>
 <li>Thoroughly review tool documentation provided by the vendor in order to understand the purpose, scope, and applicability of each rule in the ruleset.</li>
 <ul>
-<li>Be advised that some tests in the ruleset may not fully test for a specific Success Criteria. For example, WCAG 1.1.1 requires that text alternatives serve an equivalent purpose for meaningful images. The ruleset may be able to test if a text alternative is provided, but it may not be able to test if the text alternative is equivalent.</li> 
+<li>Be advised that some tests in the ruleset may not fully test for a specific Success Criteria. For example, WCAG 1.1.1 requires that text alternatives serve an equivalent purpose for meaningful images. The ruleset may be able to test if a text alternative is provided, but it may not be able to test if the text alternative is equivalent.</li>
 </ul>
 </ol></li>
 <li>Explore customization options:
@@ -152,11 +149,10 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 </ol></li>
 <li>Once a reliable list of rules is established, integrate the ruleset into automated developer unit testing and applicable IT lifecycle activities.</li>
 <li>Evaluate ruleset coverage to determine gaps in Section 508 requirements that the automated tool cannot test; these Section 508 requirements must be tested manually.</li>
-<li>Regularly review and update the ruleset to align with agency testing methodologies and technologies to ensure ongoing accuracy. This includes any tool changes that include new or updated rules and rulesets, changes to agency testing methodologies, and suggested best practices.</li> 
+<li>Regularly review and update the ruleset to align with agency testing methodologies and technologies to ensure ongoing accuracy. This includes any tool changes that include new or updated rules and rulesets, changes to agency testing methodologies, and suggested best practices.</li>
 <li>Provide training to accessibility testing team and other tool users to ensure they understand the tool's rulesets and settings, enabling effective and accurate use.</li>
 <li>Create robust documentation detailing the rulesets and settings used in your automated accessibility testing tool. Include instructions on how to use, customize, and interpret the results.</li>
 </ol>
-
 
 <h3>Configure Scans</h3>
 <ul>
@@ -183,7 +179,6 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <h2>Hybrid Testing</h2>
 <p>A hybrid testing approach is usually the best solution to handle a large volume of electronic content. Consider the following:</p>
 
-
 <ul>
   <li>Ensure developers build accessibility into code during development.</li>
   <li>Whenever possible, perform manual testing prior to publishing new content.</li>
@@ -195,7 +190,6 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
   </li>
 </ul>
   
-  
 </div>
 <h2>Related Resources</h2>
 <ul>
@@ -204,7 +198,7 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 </ul>
 <p><br />This guidance was developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.</p>
 <p><strong>Reviewed/Updated: </strong>September 2023</p>
-            
+
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: #Automated
  [3]: #Manual
