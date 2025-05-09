@@ -77,17 +77,17 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <ol type="1">
 <li>Assess predefined rulesets:
 <ol type="a">
-<li>Determine whether separate rulesets exist for different types of web content, such as web pages, web applications, Microsoft Office documents, Adobe PDF documents, etc.</li>
+<li>Determine whether separate rulesets exist for different types of web content, such as web pages, web applications, Microsoft Office documents, Adobe PDF documents, etc.
 <ul>
 <li>You may need to adjust rulesets for each type of Information and Communication Technologies (ICT).</li>
-<li>Different technologies, like HTML, CSS, JavaScript, may require specific rules to cover accessibility components.</li> </ul>
-<li>Look for a predefined setting that indicates “WCAG 2.0 Level AA Success Criteria” or “Section 508” which should test all the WCAG Level A and AA included in the Revised Section 508 requirements that are applicable to web content supported by the tool.</li>
+<li>Different technologies, like HTML, CSS, JavaScript, may require specific rules to cover accessibility components.</li> </ul></li>
+<li>Look for a predefined setting that indicates “WCAG 2.0 Level AA Success Criteria” or “Section 508” which should test all the WCAG Level A and AA included in the Revised Section 508 requirements that are applicable to web content supported by the tool.
 <ul>
-<li>Note: Some testing tools may include tests beyond Section 508, such as WCAG 2.0 AAA, WCAG 2.X, WAI-ARIA, and accessibility best practices. These settings may flag failures that are not failures of Section 508 technical requirements. </li></ul>
-<li>Thoroughly review tool documentation provided by the vendor in order to understand the purpose, scope, and applicability of each rule in the ruleset.</li>
+<li>Note: Some testing tools may include tests beyond Section 508, such as WCAG 2.0 AAA, WCAG 2.X, WAI-ARIA, and accessibility best practices. These settings may flag failures that are not failures of Section 508 technical requirements. </li></ul></li>
+<li>Thoroughly review tool documentation provided by the vendor in order to understand the purpose, scope, and applicability of each rule in the ruleset.
 <ul>
 <li>Be advised that some tests in the ruleset may not fully test for a specific Success Criteria. For example, WCAG 1.1.1 requires that text alternatives serve an equivalent purpose for meaningful images. The ruleset may be able to test if a text alternative is provided, but it may not be able to test if the text alternative is equivalent.</li>
-</ul>
+</ul></li>
 </ol></li>
 <li>Explore customization options:
 <ol type="a">
@@ -99,7 +99,7 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <li>Identify the specific agency testing methodology/criteria to test tool rule(s) against (e.g., Test 1-Images) </li>
 <li>Identify all rules within the tool that apply to the agency testing methodology criteria identified in 3.b (e.g., Rule ImgAlt111, Rule ImgTitle111)</li>
 <li>Select specific rule to test from 3.c (e.g., Rule ImgAlt111)</li>
-<li>Create or select a sufficient test case or code sample </li>
+<li>Create or select a sufficient test case or code sample 
 <ul>
 <li>Test cases do not need to be robust. Small code snippets to highlight a pass, fail, and not applicable will suffice in most cases. Code should easily identify how well the rule aligns with the expected outcome.</li>
 <li>Ensure test cases include multiple, and ideally all, ways to pass and fail a specific test. Uniquely identify each pass, fail, and not applicable test case to quantify alignment with agency testing methodologies as testing progresses.</li>
@@ -131,7 +131,7 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 <li><a href="https://section508coordinators.github.io/Dev-Automation/">DHS’s GitHub code repository contains detailed code examples</a></li>
 <li><a href="https://section508coordinators.github.io/baselinealignment/index.html">ICT Baseline Alignment Framework includes test cases in GitHub that may be used to validate tool rules</a></li>
 </ol></li>
-</ul>
+</ul></li>
 <li>Perform tool test on the test case.</li>
 <li>Compare the results against manual test results to validate the tool’s accuracy. Ensure this comparison is performed by senior subject matter experts who are trained to perform manual accessibility testing.</li>
 <ul>
@@ -141,10 +141,10 @@ There are several ways to validate conformance to the [Revised 508 Standards][1]
 </ol></li>
 <li>If, when running the tool against the test case, the test outcome did not align with the test case, flag the rule to disable within the ruleset to avoid false results, or obtain developer assistance to customize the rule to increase reliability in your environment.</li>
 </ul>
-<li>After constructing a viable initial ruleset framework by passing the internal test cases, test the resulting rule by scanning against multiple sites or applications to help identify false positives and false negatives to correct rule detection.</li>
+<li>After constructing a viable initial ruleset framework by passing the internal test cases, test the resulting rule by scanning against multiple sites or applications to help identify false positives and false negatives to correct rule detection.
 <ul>
 <li>Disable inaccurate rules or obtain developer assistance to customize the rule to increase reliability in your environment.</li>
-</ul>
+</ul></li>
 <li>Repeat steps <strong>3.a-3.h</strong> to continue testing until you have a ruleset that provides an acceptable level of accuracy in your environment.</li>
 </ol></li>
 <li>Once a reliable list of rules is established, integrate the ruleset into automated developer unit testing and applicable IT lifecycle activities.</li>
