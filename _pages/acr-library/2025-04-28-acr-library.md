@@ -36,7 +36,18 @@ redirect_from:
 ---
 GSA is committed to providing technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508 of the Rehabilitation Act of 1973, as amended [(29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/). GSA Accessibility Conformance Reports (ACRs) describe how Section508.gov's online tools and training support <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, so that organizations, acquisition teams, and individuals can make informed procurement decisions.
 
-ACRs are provided only for products and tools that are made available outside of the Section508.gov website.
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+  <ul class="usa-icon-list usa-icon-list--size-lg">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red center-middle">
+        <svg class="usa-icon" aria-hidden="true" role="img">
+          <use href="/assets/img/sprite.svg#error"></use>
+        </svg>
+      </div>
+      <div class="padding-left-1">Accessibility Conformance Reports (ACR) are provided only for products and tools that are made available outside of the Section508.gov website.</div>
+    </li>
+  </ul>
+</div>
 
 ## How to Use This Page
 
@@ -64,31 +75,31 @@ ACRs are provided only for products and tools that are made available outside of
     <tr>
       <th id="art" scope="row"><a href="{{ site.baseurl }}/art/#/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a></th>
       <td class="center">3.1</td>
-      <td class="center">TBD</td>
+      <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
         <!-- <a href="https://assets.section508.gov/assets/files/acr/.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forAccessibility Requirements Tool (ART)"></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr/.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Accessibility Requirements Tool (ART)"></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility Requirements Tool (ART)"></a> -->
+        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Accessibility Requirements Tool (ART)"></a> --> -
       </td>
     </tr>
     <tr>
       <th id="acre" scope="row"><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">ACR Editor</a></th>
       <td class="center">1.0</td>
-      <td class="center">TBD</td>
+      <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
         <!-- <a href="https://assets.section508.gov/assets/files/acr/.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forACR Editor"></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr/.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for ACR Editor"></a>&nbsp; 
-        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for ACR Editor"></a> -->
+        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for ACR Editor"></a> --> -
       </td>
     </tr>
     <tr>
       <th id="srt" scope="row"><a href="https://srt.app.cloud.gov/auth" target="_blank" class="usa-link--external">Solicitation Review Tool (SRT)</a></th>
       <td class="center">4.0</td>
-      <td class="center">TBD</td>
+      <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
         <!-- <a href="https://assets.section508.gov/assets/files/acr/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forSolicitation Review Tool (SRT)"></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr/.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Solicitation Review Tool (SRT)"></a>&nbsp; 
-        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Solicitation Review Tool (SRT)"></a> -->
+        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Solicitation Review Tool (SRT)"></a> --> -
       </td>
     </tr>
   </tbody>
@@ -128,11 +139,11 @@ ACRs are provided only for products and tools that are made available outside of
     <tr>
       <th id="ms-word" scope="row"><a href="{{ site.baseurl }}/training/online-course/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></th>
       <td class="center">1.2</td>
-      <td class="center">TBD</td>
+      <td class="center">Pending</td>
       <td style="vertical-align: middle; text-align: center;">
         <!-- <a href="https://assets.section508.gov/assets/files/acr/"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format for Microsoft Word & Accessibility Best Practices"></a>&nbsp;
         <a href="https://assets.section508.gov/assets/files/acr/.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for Microsoft Word & Accessibility Best Practices"></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Microsoft Word & Accessibility Best Practices"></a>-->
+        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for Microsoft Word & Accessibility Best Practices"></a>--> -
       </td>
     </tr>
     <tr>
