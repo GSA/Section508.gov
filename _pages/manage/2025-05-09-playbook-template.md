@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
   <!--BASIC-->
   <h4 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-a1">Basic Checklist</button>
+    <button type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="m-a1">Basic Checklist</button>
   </h4>
   <div id="m-a1" class="usa-accordion__content">
     <table id="2B" class="usa-table usa-table--borderless grid-col-desktop">
@@ -161,7 +161,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <button
       type="button"
       class="usa-accordion__button"
-      aria-expanded="false"
+      aria-expanded="true"
       aria-controls="m-b1"
     >Short Name</button>
   </h4>
