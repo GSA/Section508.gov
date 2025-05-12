@@ -1510,7 +1510,7 @@ iaaf_2025:
     time_start: 2025-05-20 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2025-05-20 16:30:00
     sessions: 
-      - name: 'Welcome & Open Remarks'
+      - name: 'Welcome & Opening Remarks'
         type: welcome
         time_start: 2025-05-20 09:30:00
         time_end: 2025-05-20 10:00:00
@@ -1656,7 +1656,7 @@ iaaf_2025:
     time_start: 2025-05-21 09:30:00 #YYYY-MM-DD HH:MM:SS
     time_end: 2025-05-21 16:30:00
     sessions: 
-      - name: 'Welcome & Open Remarks'
+      - name: 'Welcome & Opening Remarks'
         type: welcome
         time_start: 2025-05-21 09:30:00
         time_end: 2025-05-21 10:00:00
@@ -1671,8 +1671,8 @@ iaaf_2025:
         time_start: 2025-05-21 10:00:00 #YYYY-MM-DD HH:MM:SS
         time_end: 2025-05-21 11:20:00
         session_id: day2session1
-        subtitle: Differences in ICT Accessibility Regulations
-        description: This session will explore the accessibility challenges and solutions for commonly used social media platforms within the federal government. Attendees will learn how to evaluate and ensure compliance with Section 508 standards across platforms like Facebook, Twitter, and LinkedIn. The session will cover best practices for making content accessible to individuals with disabilities, including captioning, alt text for images, and user-friendly design, ensuring that federal digital communications are inclusive for all.
+        subtitle: A Journey Through Global Accessibility Laws
+        description: Join us for an informative journey as we explore the world of accessibility laws! We’ll travel across the globe to discover how different countries are promoting ICT accessibility through legislation. Our itinerary includes stops in the United States, Canada, and Europe, where we'll highlight Section 508, ADA Title II Web Accessibility, the Accessible Canada Act, and the European Accessibility Act.
         room:
         roles: 
           - name: Panelist #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
