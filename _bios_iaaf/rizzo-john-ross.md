@@ -1,8 +1,8 @@
 ---
-title: John-Ross (RS) Rizzo
-bio_id: rizzo-john-ross (rs)
-display_name: Dr. John-Ross (RS) Rizzo, M.D., M.S.C.I., F.A.C.R.M
-first_name: John-Ross (RS)
+title: John-Ross (JR) Rizzo
+bio_id: rizzo-john-ross
+display_name: Dr. John-Ross (JR) Rizzo, M.D., M.S.C.I., F.A.C.R.M
+first_name: John-Ross (JR)
 last_name: Rizzo
 affiliation_long: Rusk Rehabilitation at New York University Langone Health
 affiliation_short: NYU Langone Health
