@@ -87,11 +87,11 @@ GSA is committed to providing technical assistance to individuals and federal de
     <tr>
       <th id="acre" scope="row"><a href="https://acreditor.section508.gov/" target="_blank" class="usa-link--external">ACR Editor</a></th>
       <td class="center">1.0</td>
-      <td class="center">Pending</td>
+      <td class="center">2025-04-18</td>
       <td style="vertical-align: middle; text-align: center;">
-        <!-- <a href="https://assets.section508.gov/assets/files/acr/.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forACR Editor"></a>&nbsp;
-        <a href="https://assets.section508.gov/assets/files/acr/.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for ACR Editor"></a>&nbsp; 
-        <a href="https://assets.section508.gov/assets/files/acr/.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for ACR Editor"></a> --> -
+        <a href="https://assets.section508.gov/assets/files/acr/acr-editor-v1.0-report-2.html"><img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in HTML format forACR Editor"></a>&nbsp;
+        <a href="https://assets.section508.gov/assets/files/acr/acr-editor-v1.0-report-2.yaml"><img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="View the ACR in YAML format for ACR Editor"></a>&nbsp; 
+        <a href="https://assets.section508.gov/assets/files/acr/acr-editor-v1.0-report-2.zip"><img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download the ACR reports in a ZIP file format for ACR Editor"></a>
       </td>
     </tr>
     <tr>
