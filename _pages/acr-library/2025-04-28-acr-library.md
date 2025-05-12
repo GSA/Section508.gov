@@ -34,7 +34,7 @@ redirect_from:
 - acr/
 - conformance-reports/
 ---
-GSA supports individuals and federal agencies with technical assistance on [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov, and provides Accessibility Conformance Reports (ACRs) for external products and tools to help users make informed procurement decisions.
+The General Services Administration (GSA) provides technical assistance to individuals and federal agencies regarding the requirements of [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov, and provides Accessibility Conformance Reports (ACRs) for external products and tools to help users make informed procurement decisions.
 
 ## How to Use This Page
 
