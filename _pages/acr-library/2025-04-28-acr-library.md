@@ -34,20 +34,7 @@ redirect_from:
 - acr/
 - conformance-reports/
 ---
-GSA is committed to providing technical assistance to individuals and federal departments and agencies concerning the requirements of Section 508 of the Rehabilitation Act of 1973, as amended [(29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/). GSA Accessibility Conformance Reports (ACRs) describe how Section508.gov's online tools and training support <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, so that organizations, acquisition teams, and individuals can make informed procurement decisions.
-
-<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <ul class="usa-icon-list usa-icon-list--size-lg">
-    <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-red center-middle">
-        <svg class="usa-icon" aria-hidden="true" role="img">
-          <use href="/assets/img/sprite.svg#error"></use>
-        </svg>
-      </div>
-      <div class="padding-left-1">Accessibility Conformance Reports (ACR) are provided only for products and tools that are made available outside of the Section508.gov website.</div>
-    </li>
-  </ul>
-</div>
+GSA supports individuals and federal agencies with technical assistance on [Section 508 of the Rehabilitation Act (29 U.S.C. 794d)]({{ site.baseurl }}/manage/laws-and-policies/section-508-law/) by offering tools and training through Section508.gov, and provides Accessibility Conformance Reports (ACRs) for external products and tools to help users make informed procurement decisions.
 
 ## How to Use This Page
 
