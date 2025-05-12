@@ -387,13 +387,15 @@ training:
         url: 'https://art-api.section508.gov/'
         external: true
       - name: ART Requirements Statements by ICT
-        url: 'tools/list-of-art-requirements/' 
-      - name: Solicitation Review Tool (SRT)
-        url: 'buy/solicitation-review-tool/'
-      - name: OpenACR Editor
+        url: 'tools/list-of-art-requirements/'
+      - name: ACR Editor
         url: 'tools/openacr-editor/'
+      - name: ACR Library
+        url: 'acr-library/' 
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
+      - name: Solicitation Review Tool (SRT)
+        url: 'buy/solicitation-review-tool/'
       - name: Accessibility Playbooks
         url: 'manage/playbooks/'
       - name: Testing Tools for Web
