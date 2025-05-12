@@ -191,7 +191,7 @@ Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
-Jaye Miller - <jaye.p.miller.civ@mail.mil>
+Pamela J. Chadsey - <pamela.j.chadsey.civ@mail.mil>  
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Human Resources Agency (DHRA)
