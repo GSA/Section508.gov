@@ -391,7 +391,7 @@ training:
       - name: ACR Editor
         url: 'tools/openacr-editor/'
       - name: ACR Library
-        url: 'acr-library/' 
+        url: 'accessibility-conformance-reports/' 
       - name: Find Your 508 Program Manager
         url: 'tools/program-manager-listing/'
       - name: Solicitation Review Tool (SRT)
