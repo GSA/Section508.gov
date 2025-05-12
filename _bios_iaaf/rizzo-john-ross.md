@@ -6,7 +6,7 @@ first_name: John-Ross (JR)
 last_name: Rizzo
 affiliation_long: Rusk Rehabilitation at New York University Langone Health
 affiliation_short: NYU Langone Health
-position: Vice Chair for Health Equity and Innovation, Dept. of PM&R<br><br>Ilse Melamid A/Professor of Rehabilitation Medicine​<br>Department of Neurology<br>Department of Mechanical & Aerospace Engineering<br>Department of Biomedical Engineering<br>Department of Ophthalmology<br>NYU School of Medicine & Engineering
+position: Vice Chair for Health Equity and Innovation, Dept. of PM&R; Ilse Melamid Associate Professor of Rehabilitation Medicine, with appointments in Neurology, Mechanical & Aerospace Engineering, Biomedical Engineering, and Ophthalmology at NYU School of Medicine & Engineering, Rusk Rehabilitation, NYU Langone Health
 office: 
 location: New York, NY
 email: 
