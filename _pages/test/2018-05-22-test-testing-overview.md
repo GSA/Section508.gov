@@ -297,8 +297,8 @@ of automated and manual testing.
                 </li>
                 <li>Test case code:
                   <pre>
-                  <code>&lt;h1&gt;This is a meaningful image of agency logo&lt;/h1&gt;
-                  &lt;img src="GSAagencylogo.jpeg"></code></pre>
+<code>&lt;h1&gt;This is a meaningful image of agency logo&lt;/h1&gt;
+&lt;img src="GSAagencylogo.jpeg"></code></pre>
                 </li>
               </ol>
             </li>
@@ -318,7 +318,7 @@ of automated and manual testing.
                 </li>
                 <li>Test case code:
                   <pre><code>&lt;h1&gt;This is a meaningful image of agency logo&lt;/h1&gt;
-                  &lt;img src="GSAagencylogo.jpeg" alt="General Services Administration starmark logo"&gt;.</code></pre>
+&lt;img src="GSAagencylogo.jpeg" alt="General Services Administration starmark logo"&gt;.</code></pre>
                 </li>
                 <li>
                   <a
@@ -503,6 +503,7 @@ of automated and manual testing.
 </p>
 <p><strong>Reviewed/Updated: </strong>September 2023</p>
 
-[1]:
-https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
-[2]: #Automated [3]: #Manual [4]: #Hybrid
+[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
+[2]: #Automated 
+[3]: #Manual 
+[4]: #Hybrid
