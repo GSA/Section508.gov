@@ -346,26 +346,26 @@ of automated and manual testing.
           Compare the results against manual test results to validate the tool’s
           accuracy. Ensure this comparison is performed by senior subject matter
           experts who are trained to perform manual accessibility testing.
+          <ul>
+            <li>
+              If, when running the tool against the test case, the test outcome
+              aligns with the test case, this rule should be included in the
+              ruleset.
+              <ol type="1">
+                <li>
+                  Note: Test the rule against all possible pass, fail, and not
+                  applicable techniques before inclusion.
+                </li>
+              </ol>
+            </li>
+            <li>
+              If, when running the tool against the test case, the test outcome
+              did not align with the test case, flag the rule to disable within
+              the ruleset to avoid false results, or obtain developer assistance
+              to customize the rule to increase reliability in your environment.
+            </li>
+          </ul>
         </li>
-        <ul>
-          <li>
-            If, when running the tool against the test case, the test outcome
-            aligns with the test case, this rule should be included in the
-            ruleset.
-            <ol type="1">
-              <li>
-                Note: Test the rule against all possible pass, fail, and not
-                applicable techniques before inclusion.
-              </li>
-            </ol>
-          </li>
-          <li>
-            If, when running the tool against the test case, the test outcome
-            did not align with the test case, flag the rule to disable within
-            the ruleset to avoid false results, or obtain developer assistance
-            to customize the rule to increase reliability in your environment.
-          </li>
-        </ul>
         <li>
           After constructing a viable initial ruleset framework by passing the
           internal test cases, test the resulting rule by scanning against
