@@ -371,7 +371,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Paul A. Scott - <paul.a.scott@hud.gov>  
+Daniel L. Williams - <daniel.r.williams@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
