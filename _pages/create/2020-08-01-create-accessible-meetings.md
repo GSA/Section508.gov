@@ -1,11 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: create/accessible-meetings/
 type: create
 title: 'Create Accessible Meetings'
-created: 2020-08-01
-updated: 2025-01-10
+permalink: create/accessible-meetings/
+redirect_from:
+- accessible-meetings/
 description: This guidance provides information about how you can make your next meeting accessible to attendees with disabilities in compliance with Section 508 and other disability rights laws.
 disclaimer: true
 topic: "Content creation (create)"
@@ -16,6 +16,8 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2020-08-01
+updated: 2025-05-07
 ---
 In recent years, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings and conference calls to virtual meetings where the audience participates remotely through voice and video from their homes. Now, meetings are often virtual, or a hybrid of in-person and remote participants. For this reason, accessibility can and should be seamlessly integrated into your meeting. 
 
