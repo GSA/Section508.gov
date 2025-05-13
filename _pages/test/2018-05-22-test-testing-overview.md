@@ -19,12 +19,9 @@ format: HTML (html)
 
 There are several ways to validate conformance to the [Revised 508
 Standards][1]: 
-* [Automated][2] - High volume 508 conformance testing tools
-automatically scan and test electronic content; 
-* [Manual][3] - Manual testing
-uses a documented, consistent, repeatable process; 
-* [Hybrid][4] - A combination
-of automated and manual testing.
+* [Automated][2] - High volume 508 conformance testing tools automatically scan and test electronic content; 
+* [Manual][3] - Manual testing uses a documented, consistent, repeatable process; 
+* [Hybrid][4] - A combination of automated and manual testing.
 
 <div id="Automated">
   <h2>Automated Testing</h2>
@@ -507,6 +504,6 @@ of automated and manual testing.
 <p><strong>Reviewed/Updated: </strong>September 2023</p>
 
 [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
-[2]: #Automated 
-[3]: #Manual 
+[2]: #Automated
+[3]: #Manual
 [4]: #Hybrid
