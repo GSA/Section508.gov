@@ -191,7 +191,7 @@ Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
 ### Defense Finance and Accounting Service (DFAS)
-Jaye Miller - <jaye.p.miller.civ@mail.mil>
+Pamela J. Chadsey - <pamela.j.chadsey.civ@mail.mil>  
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Human Resources Agency (DHRA)
@@ -371,7 +371,7 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Paul A. Scott - <paul.a.scott@hud.gov>  
+Daniel L. Williams - <daniel.r.williams@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)

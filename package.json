@@ -27,7 +27,6 @@
     "@uswds/uswds": "^3.7.1",
     "clipboard-copy": "^4.0.1",
     "docx": "^8.0.2",
-    "esbuild": "^0.25.0",
     "jszip": "^3.10.1",
     "nanoid": "^5.0.9",
     "rxjs": "~7.5.0",
