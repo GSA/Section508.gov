@@ -18,9 +18,12 @@ format: HTML (html)
 ---
 
 There are several ways to validate conformance to the [Revised 508
-Standards][1]: * [Automated][2] - High volume 508 conformance testing tools
-automatically scan and test electronic content; * [Manual][3] - Manual testing
-uses a documented, consistent, repeatable process; * [Hybrid][4] - A combination
+Standards][1]: 
+* [Automated][2] - High volume 508 conformance testing tools
+automatically scan and test electronic content; 
+* [Manual][3] - Manual testing
+uses a documented, consistent, repeatable process; 
+* [Hybrid][4] - A combination
 of automated and manual testing.
 
 <div id="Automated">
