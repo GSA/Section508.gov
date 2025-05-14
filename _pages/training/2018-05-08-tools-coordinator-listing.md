@@ -254,6 +254,8 @@ Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### United States Special Operations Command (USSOCOM)  
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
+### United States Transportation Command (USTRANSCOM)
+Maj. Elizabeth Willenbring (Part-Time PM) - <transcom.scott.tcj6.mbx.na@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 

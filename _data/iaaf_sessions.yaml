@@ -1571,7 +1571,7 @@ iaaf_2025:
       - name: 'Workshop/Demo'
         type: workshop
         time_start: 2025-05-20 13:15:00
-        time_end: 2025-05-20 14:15:00
+        time_end: 2025-05-20 14:00:00
         session_id: day1session3
         subtitle: "Project Managing Accessibility Compliance - A Fictionalized Agency Case Study"
         description: Every federal agency is required to submit a Section 508 annual assessment, yet many find themselves struggling to coordinate this effort effectively. Inconsistent workflows, siloed data, and competing priorities often lead to inefficient, last-minute submissions. How can agencies turn this annual challenge into a well-structured and repeatable process?<br><br>In this session, we will explore a fictionalized case study of "Agency X," a federal entity that initially faced numerous challenges in managing its Section 508 survey submission. The agency's approach was reactive, with different departments operating in silos, leading to delays, inaccurate data, and incomplete compliance reporting. Recognizing the need for a more structured approach, the agency implemented formal project management techniques to bring order and efficiency to the process.
@@ -1582,6 +1582,13 @@ iaaf_2025:
         downloads:
           - link_name: #  - IAAF 2025 (PDF) 
             file_name: # -%20IAAF%202025.pdf   
+      - name: 'Break'
+        type: break
+        time_start: 2025-05-20 14:00:00
+        time_end: 2025-05-20 14:15:00
+        session_id: day1break3
+        description: 
+        room: 
       - name: 'General Session'
         type: general
         time_start: 2025-05-20 14:15:00
