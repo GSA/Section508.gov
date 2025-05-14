@@ -221,14 +221,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Related Resources
 ### Templates, Tools, and Resources
-This list provides links to templates, tools and resources mentioned in throughout this play. 
+This list provides links to templates, tools and resources mentioned throughout this play. 
 * Strategic Plan Template (DOCX)
 * Policy Framework Template (DOCX)
 * ART
 * ACR Editor
 
 ### Checklist Quick Links 
-This list provides links to resources mentioned in both the Basic and Advanced checklists. 
+This list provides links to resources mentioned in both the Basic and Advanced checklists within this play. 
 * Links that were in checklist
 * Links that were in checklist
 * Links that were in checklist
