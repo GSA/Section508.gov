@@ -16,6 +16,7 @@ resource-type: Playbook
 format: HTML (html)
 redirect_from:
 - tools/playbooks/
+- playbooks/
 created: 2018-05-15
 updated: 2025-03-19
 ---
