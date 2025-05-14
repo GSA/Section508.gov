@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#help"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#help"></use></svg></div>
     <div class="usa-icon-list__content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor bebop.</div>
   </li>
   <li class="usa-icon-list__item">
