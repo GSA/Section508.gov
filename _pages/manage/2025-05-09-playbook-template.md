@@ -22,11 +22,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <div class="usa-icon-list__content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor bebop.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#help"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#help"></use></svg></div>
     <div class="usa-icon-list__content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor bebop.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="/assets/img/sprite.svg#help"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#help"></use></svg></div>
     <div class="usa-icon-list__content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor bebop.</div>
   </li>
 </ul>
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <caption>Table 1: Play 2 Basic (2B) Checklist</caption>
       <thead>
         <tr>
-          <th scope="col"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_circle"></use></svg></th>
+          <th scope="col"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_circle"></use></svg></th>
           <th scope="col" class="center">ID</th>
           <th scope="col">Consideration</th>
           <th scope="col">If not, set task</th>
@@ -59,35 +59,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       </thead>
       <tbody>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2B.1</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2B.2</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2B.3</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2B.4</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2B.5</td>
           <td></td>
           <td></td>
@@ -105,7 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <caption>Table 2: Play 2 Advanced (2A) Checklist</caption>
       <thead>
         <tr>
-          <th scope="col"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_circle"></use></svg></th>
+          <th scope="col"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_circle"></use></svg></th>
           <th scope="col" class="center">ID</th>
           <th scope="col">Consideration</th>
           <th scope="col">If not, set task</th>
@@ -114,35 +114,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       </thead>
       <tbody>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2A.1</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2A.2</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2A.3</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2A.4</td>
           <td></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
-          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+          <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
           <td class="center">2A.5</td>
           <td></td>
           <td></td>
