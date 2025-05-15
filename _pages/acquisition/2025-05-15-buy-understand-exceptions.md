@@ -34,7 +34,7 @@ Agencies can choose to not apply exceptions and ensure that information and comm
 Most of the General Exceptions come from the authorizing statute, the Rehabilitation Act of 1973 as amended, 29 U.S.C. Sec. 794d.
 
 ## Legacy ICT
-<div class="grid-col-12 border-base radius-lg padding-1 border-y" style="border: 1px solid black; width:80%;">
+<div class="grid-col-12 border-base radius-lg padding-1 border-y text-primary" style="border: 1px solid black; width:80%;">
   <em>E202.2 Legacy ICT. Any component or portion of existing ICT that complies with an earlier standard issued pursuant to Section 508 of the Rehabilitation Act of 1973, as amended (as republished in Appendix D), and that has not been altered on or after January 18, 2018, shall not be required to be modified to conform to the Revised 508 Standards.</em>
 </div>
 
