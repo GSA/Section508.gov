@@ -43,10 +43,25 @@ The General Services Administration (GSA) provides technical assistance to indiv
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-html.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="HTML globe symbol">
   **HTML Format**: View the ACR in a user-friendly, readable document format.
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-yaml.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="YAML code symbol">
-  **YAML Format**: View the ACR in a structured data format that can be saved, reused, and easily integrated with many programming languages and systems.
+  **YAML Format**: View the ACR in OpenACR data format that can be saved, reused, and easily integrated with many programming languages and systems.
   * <img src="{{ site.baseurl }}/assets/images/icons/symbol-zip.png" width="18px" height="18px" class="margin-top-05 margin-bottom-neg-05" alt="Download cloud symbol">
   **ZIP File**: Download both HTML and YAML documents in a single file.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
+
+<ul class="usa-card-group margin-bottom-neg-5">
+  <li class="usa-card usa-card--flag maxw-full">
+    <div class="usa-card__container">
+      <div class="usa-card__media">
+        <div class="usa-card__img">
+          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumb-training-tools-acreditor-2.jpg" alt="ACR Editor logo "/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>The Accessibility Conformance Reports (ACRs) for the following products were created using the <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link---external"><strong>ACR Editor</strong></a>. This tool helps evaluators generate ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a YAML-based data schema designed to help accessibility experts create and share machine-readable reports. You can view OpenACR YAML files by opening them in ACR Editor and selecting "View ACR."</p>
+      </div>
+    </div>
+  </li>
+</ul>
 
 ## Conformance Reports
 
