@@ -53,7 +53,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
     <div class="usa-card__container">
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumb-tools-acre-2.jpg" alt="ACR Editor logo "/>
+          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumb-training-tools-acreditor-2.jpg" alt="ACR Editor logo "/>
         </div>
       </div>
       <div class="usa-card__body">
