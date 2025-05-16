@@ -53,11 +53,11 @@ The General Services Administration (GSA) provides technical assistance to indiv
     <div class="usa-card__container">
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg" alt="ACR Editor logo"/>
+          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbs-training-tools-acre.jpg" alt="ACR Editor logo"/>
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Accessibility Conformance Reports (ACR) for our products were created using the ACR Editor which helps evaluators build ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a data schema using the YAML file format designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
+        <p>The Accessibility Conformance Reports (ACR) for the follow products were created using the ACR Editor which helps evaluators build ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a data schema using the YAML file format designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
       </div>
     </div>
   </li>
