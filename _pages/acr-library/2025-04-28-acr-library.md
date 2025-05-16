@@ -57,7 +57,7 @@ The General Services Administration (GSA) provides technical assistance to indiv
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The Accessibility Conformance Reports (ACR) for the follow products were created using the <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link---external"><strong>ACR Editor</strong></a> which helps evaluators build ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a data schema using the YAML file format designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
+        <p>The Accessibility Conformance Reports (ACRs) for the following products were created using the <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link---external"><strong>ACR Editor</strong></a>. This tool helps evaluators generate ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a YAML-based data schema designed to help accessibility experts create and share machine-readable reports.</p>
       </div>
     </div>
   </li>
