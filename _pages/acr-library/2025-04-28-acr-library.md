@@ -48,16 +48,16 @@ The General Services Administration (GSA) provides technical assistance to indiv
   **ZIP File**: Download both HTML and YAML documents in a single file.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
 
-<ul class="usa-card-group">
+<ul class="usa-card-group margin-bottom-1">
   <li class="usa-card usa-card--flag maxw-full">
     <div class="usa-card__container">
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbs-training-tools-acre.jpg" alt="ACR Editor logo"/>
+          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbs-training-tools-acre-240x240.jpg" alt="ACR Editor logo"/>
         </div>
       </div>
       <div class="usa-card__body">
-        <p>The Accessibility Conformance Reports (ACR) for the follow products were created using the ACR Editor which helps evaluators build ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a data schema using the YAML file format designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
+        <p>The Accessibility Conformance Reports (ACR) for the follow products were created using the <a href="https://acreditor.section508.gov/" target="_blank" class="usa-link---external"><strong>ACR Editor</strong></a> which helps evaluators build ACRs in the <a href="https://github.com/gsa/openacr" target="_blank" class="usa-link--external">OpenACR format</a>&mdash;a data schema using the YAML file format designed to help accessibility subject matter experts create and share machine-readable OpenACR documents.</p>
       </div>
     </div>
   </li>
