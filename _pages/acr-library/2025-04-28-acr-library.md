@@ -48,12 +48,12 @@ The General Services Administration (GSA) provides technical assistance to indiv
   **ZIP File**: Download both HTML and YAML documents in a single file.
 * **Understand Compliance**: Each report outlines the product’s level of accessibility compliance, including any known limitations.
 
-<ul class="usa-card-group margin-bottom-1">
+<ul class="usa-card-group margin-bottom-neg-5">
   <li class="usa-card usa-card--flag maxw-full">
     <div class="usa-card__container">
       <div class="usa-card__media">
         <div class="usa-card__img">
-          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbs-training-tools-acre-240x240.jpg" alt="ACR Editor logo"/>
+          <img src="{{ site.baseurl }}/assets/images/thumbnails/thumbs-training-tools-acre-240x211.jpg" alt="ACR Editor logo"/>
         </div>
       </div>
       <div class="usa-card__body">
