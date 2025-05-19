@@ -1539,8 +1539,8 @@ iaaf_2025:
           - name: Presenter
             who: wilson-alex #bio_id for this person 
         downloads:
-          - link_name: #GSA Section 508 Activities Update - IAAF 2025 (PPTX) 
-            file_name: #GSA%20Section%20508%20Activities%20Update%20-%20IAAF%202025.pptx
+          - link_name: GSA Yearly Activities Update (PPTX) 
+            file_name: IAAF-2025-GSA-Yearly-Activities-Update.pptx
       - name: 'Break'
         type: break
         time_start: 2025-05-20 11:00:00
@@ -1559,8 +1559,8 @@ iaaf_2025:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: harris-frederick #bio_id for this person 
         downloads:
-        - link_name: # - IAAF 2025 (PPTX) 
-          file_name: # -%20IAAF%202025.pptx
+        - link_name: Enhancing Your Section 508 Assessment (PPTX) 
+          file_name: IAAF-2025-Enhancing-Your-Section-508-Assessment.pptx
       - name: 'Lunch'
         type: break
         time_start: 2025-05-20 12:15:00
@@ -1580,8 +1580,8 @@ iaaf_2025:
           - name: Presenter
             who: guidi-claudia 
         downloads:
-          - link_name: #  - IAAF 2025 (PDF) 
-            file_name: # -%20IAAF%202025.pdf   
+          - link_name: Project Managing Accessibility Compliance (PPTX) 
+            file_name: IAAF-2025-Project-Managing-Accessibility-Compliance.pptx   
       - name: 'Break'
         type: break
         time_start: 2025-05-20 14:00:00
@@ -1626,8 +1626,8 @@ iaaf_2025:
           - name: Presenters
             who: rizzo-john-ross
         downloads:
-          - link_name: # - IAAF 2025 (PDF) 
-            file_name: #-%20IAAF%202025.pdf
+          - link_name: Voice AI for Everyone.pptx (PDF) 
+            file_name: IAAF-2025-Voice-AI-for-Everyone.pptx
       - name: 'General Session'
         type: general
         time_start: 2025-05-20 16:00:00
@@ -1640,8 +1640,8 @@ iaaf_2025:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: andrew-nielson #bio_id for this person
         downloads:
-          - link_name: #File Name - IAAF 2025 (PPTX)
-            file_name: #file-name-iaaf-2025.pptx                
+          - link_name: Digital Accessibility Acquisition Solutions (PPTX)
+            file_name: IAAF-2025-Digital-Accessibility-Acquisition-Solutions.pptx                
       - name: 'Closing' 
         type: welcome
         time_start: 2025-05-20 16:30:00
@@ -1685,8 +1685,8 @@ iaaf_2025:
           - name: Panelist
             who: weber-jessie 
         downloads:
-          - link_name: # - IAAF 2025 (PPTX) 
-            file_name: #-%20IAAF%202025.pptx
+          - link_name: A Journey Through Global Accessibility Laws (PPTX) 
+            file_name: IAAF-2025-A-Journey-Through-Global-Accessibility-Laws.pptx
       - name: 'Break'
         type: break
         time_start: 2025-05-21 11:20:00
@@ -1705,8 +1705,8 @@ iaaf_2025:
           - name: Presenter #use in order, case-sensitive: [blank], Moderator, Speaker, Introduction, Presenter, Instructor, Panelist 
             who: miller-laura #bio_id for this person 
         downloads:
-          - link_name: # - IAAF 2025 (PPTX) 
-            file_name: # -%20IAAF%202025.pptx
+          - link_name: Accessible-Self-Service Kiosks (PPTX) 
+            file_name: IAAF-2025-Accessible-Self-Service-Kiosks.pptx
       - name: 'Lunch'
         type: break
         time_start: 2025-05-21 12:15:00
@@ -1730,8 +1730,8 @@ iaaf_2025:
           - name: Panelist
             who: wilcox-lisa       
         downloads:
-          - link_name: # - IAAF 2025 (PPTX) 
-            file_name: #-%20IAAF%202025.pptx           
+          - link_name: From Risk to Roadmap (PPTX) 
+            file_name: IAAF-2025-From-Risk-to-Roadmap.pptx           
       - name: 'General Session'
         type: general
         time_start: 2025-05-21 14:15:00
@@ -1744,8 +1744,8 @@ iaaf_2025:
           - name: Prersenter
             who: betsy-sirk
         downloads:
-          - link_name: #File Name - IAAF 2025 (PPTX)
-            file_name: #file-name-iaaf-2025.pptx        
+          - link_name: Navigating Federal Acquisitions (PPTX)
+            file_name: IAAF-2025-Navigating-Federal-Acquisitions.pptx   
       - name: 'Break'
         type: break
         time_start: 2025-05-21 15:15:00
@@ -1770,8 +1770,8 @@ iaaf_2025:
           - name: Presenter
             who: schreyer-collin
         downloads:
-          - link_name: #File Name - IAAF 2025 (PPTX)
-            file_name: #file-name-iaaf-2025.pptx
+          - link_name: A New Look at ART and SRT (PPTX)
+            file_name: IAAF-2025-A-New-Look-at-ART-SRT.pptx
       - name: 'Closing' 
         type: welcome
         time_start: 2025-05-21 16:25:00
