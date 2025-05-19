@@ -1626,7 +1626,7 @@ iaaf_2025:
           - name: Presenters
             who: rizzo-john-ross
         downloads:
-          - link_name: Voice AI for Everyone (PDF) 
+          - link_name: Voice AI for Everyone (PPTX) 
             file_name: IAAF-2025-Voice-AI-for-Everyone.pptx
       - name: 'General Session'
         type: general
