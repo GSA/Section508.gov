@@ -4,8 +4,7 @@ sidenav: true
 type: training
 title: 'Glossary of Section 508 Terms'
 permalink: tools/glossary/
-redirect_from:
-- glossary/
+
 description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
 sub-topic: "General Info and Best Practices"
@@ -21,8 +20,9 @@ redirect_from:
 - manage/section-508-assessment/definition-of-terms/
 - manage/section-508-assessment/2023/appendix-a-terms/
 - manage/section-508-assessment/2024/appendix-a-terms/
+- glossary/
 created: 2020-02-27
-updated: 2025-03-12
+updated: 2025-05-20
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
