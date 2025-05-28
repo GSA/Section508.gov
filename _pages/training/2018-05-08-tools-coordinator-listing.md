@@ -173,11 +173,6 @@ Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>
 ### Army
 Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
-<!-- 
-  * **Combat Capabilities Development Command C5ISR Center** <br>  
-  * **Tank-automotive and Armaments Command (TACOM)** <br>  
-  * **United States Army Materiel Command** <br>
--->
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
 Anita Walker - <anita.walker@darpa.mil>  
