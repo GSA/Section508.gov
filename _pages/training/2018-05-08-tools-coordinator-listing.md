@@ -167,17 +167,12 @@ Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>
 
 <!-- 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
--->   
-
 ### Air National Guard
+-->
+
 ### Army
 Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
-
-  * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
-  * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
-  * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
 Anita Walker - <anita.walker@darpa.mil>  
@@ -213,7 +208,8 @@ Kevin Butters - <kevin.f.butters.civ@mail.mil>
 ### Defense POW/MIA Accounting Agency (DPAA) 
 Malachi J. Morgan - <malachi.j.morgan.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
-Michael C. Scholz - <michael.c.schloz.civ@mail.mil>  
+Jeffrey Troch - <jeffrey.l.troch.civ@mail.mil>  
+Joshua Myerson - <joshua.b.myerson.civ@mail.mil>  
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
@@ -546,7 +542,7 @@ Tracy George - <georget@oig.treas.gov>
 Rodney Kent - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Treasury Inspector General for Tax Administration (TIGTA)
-Sharon Archer-Jackson - <sharon.archer-jackson@tigta.treas.gov>  
+Jesus Cantu - <section508@tigta.treas.gov>  
 ### U.S. Mint
 James Proctor - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (Deputy) - <rodney.dunwoody@usmint.treas.gov>
