@@ -21,7 +21,7 @@ updated: 2025-05-07
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
-At the discretion of the agency CIO (or designee), subcomponents may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
+At the discretion of the agency CIO (or designee), components may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
 
 ## Departments and CFO Act Agencies
 
@@ -59,7 +59,7 @@ William Morgan - <wmorgan@usaid.gov>
 
 ---
 ## <span id="usda" ></span>Department of Agriculture (USDA)
-### Department-wide
+### Agencywide
 Angela Williams - <angela.williams@usda.gov>  
 Sarah	Reed - <sarah.reed@usda.gov>  
 Bernadette McGhee - <bernadette.mcghee@usda.gov>  
@@ -125,7 +125,7 @@ Ryan Schneider - <ryan.schneider@usda.gov>
 
 ---
 ## <span id="usdoc"></span>Department of Commerce (DOC)
-### Department-wide
+### Agencywide
 Jennifer Jessup - <jjessup@doc.gov>  
 ### Bureau of Economic Analysis (BEA)
 Alexander Minor - <Alexander.Minor@bea.gov>  
@@ -156,7 +156,7 @@ Patricia Kless - <patricia.kless@uspto.gov>
 
 ---
 ## <span id ="usdod" ></span>Department of Defense (DOD)
-### Department-wide
+### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>  
 Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>  
@@ -264,7 +264,7 @@ Sandra Logan - <doesection508coordinator@hq.doe.gov>
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
-### Department-wide
+### Agencywide
 
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
@@ -325,7 +325,7 @@ Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
 
 ---
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
-### Department-wide
+### Agencywide
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
 ### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - <leslie.porter@hq.dhs.gov>  
@@ -373,7 +373,7 @@ Daniel L. Williams - <daniel.r.williams@hud.gov>
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
-### Department-wide
+### Agencywide
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Bureau of Indian Affairs (BIA)
 George Morris - <george.morris@bia.gov>  
@@ -402,7 +402,7 @@ Tracy Jolivette - <tjolivette@usgs.gov>
 
 ---
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
-### Department-wide
+### Agencywide
 Dwayne Spriggs - <Section508ProgramManager@usdoj.gov>  
 ### Antitrust Division
 Elizabeth (Beth) Gundermann - <beth.gundermann@usdoj.gov>  
@@ -501,27 +501,41 @@ David Conner (Acting) - <connerd2@state.gov>
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
-### Department-wide
+### Agencywide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
+### Bureau of Transportation Statistics (BTS)  
+Simona Jones - <simona.jones@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
-Sheree Peters - <sheree.peters@faa.gov>  
 Lisa L. Edwards - <lisa.l.edwards@faa.gov>
+Sheree Peters (Deputy) - <sheree.peters@faa.gov>  
 ### Federal Motor Carrier Safety Administration (FMCSA)  
-Martin Erb - <martin.erb@dot.gov>  
+Cicely Waters - <cicely.waters@dot.gov>
+Justine Chen (Deputy) - <justine.chen@dot.gov>    
 ### Federal Railroad Administration (FRA)
-Yoseph Kelile - <Yoseph.Kelile@dot.gov>   
+Venkata "Anil" Perakam - <venkata.perakam@dot.gov>
+Hugo Vives (Deputy) - <hugo.vives@dot.gov>      
+### Federal Transit Administration (FTA)
+Kenneth King - <kenneth.king@dot.gov>  
+Leela Chandrasekara Sukumar (Deputy) - <l.c.sukumar.ctr@dot.gov>  
 ### Maritime Administration (MARAD)
-La Tisa T. Wilder - <latisa.wilder@dot.gov>  
+La Tisa T. Wilder - <latisa.wilder@dot.gov>
+Bob Ellington (Deputy) - <bob.ellington@dot.gov>    
 ### National Highway Traffic Safety Administration (NHTSA)
-Purushottam "Puru" Subedi - <p.subedi@dot.gov>  
+Brandon Gobel - <brandon.gobel@dot.gov>  
+Purushottam "Puru" Subedi (Deputy) - <p.subedi@dot.gov>  
+### Office of Inspector General (OIG)
+Audre E. Azoulas - <audre.azuolas@oig.dot.gov>  
 ### Pipeline and Hazardous Materials Safety Administration (PHMSA)
-Paul Mounkhaty - <paul.mounkhaty@dot.gov>  
-
+T'Mia Raynor - <t'mia.raynor@dot.gov>  
+Paul Mounkhaty (Deputy) - <paul.mounkhaty@dot.gov>  
+### Volpe National Transportation Systems Center (VOLPE)
+Stephanie Chase - <stephanie.chase@dot.gov>  
+Eliot Sutler (Deputy) - <eliot.sutler@dot.gov>  
 ---
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
-### Department-wide
+### Agencywide
 Nicolaos "Nick"	Totten - <nicolaos.totten@treasury.gov>  
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
 Cassandra Williams - <cassandra.williams@ttb.gov>
