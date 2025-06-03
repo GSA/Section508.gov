@@ -21,6 +21,6 @@ Hear how agencies can design an HTML-first approach for electronic content using
 **WHERE:** Virtual webinar
 
 ### Registration
-Session and registration information is available at: <a href="https://accessibilityonline.org/ADA-Audio/session?id=111171" target="_blank">That Doesn't Need to Be a PDF</a>.
+Session and registration information is available at: <a href="https://accessibilityonline.org/ADA-Audio/session?id=111171" target="_blank" class="usa-link--external">That Doesn't Need to Be a PDF</a>.
 
 **Reviewed/Updated:** June 2025
