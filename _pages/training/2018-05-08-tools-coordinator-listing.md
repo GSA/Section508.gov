@@ -17,7 +17,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-05-07
+updated: 2025-06-03
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -181,18 +181,19 @@ Consuala Spencer - <consuala.spencer@dau.edu>
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
-Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
+Latondra Bryan - <latondra.w.bryan.civ@mail.mil>  
+Horace Russell Jr. (Deputy) - <horace.russell12.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
-### Defense Finance and Accounting Service (DFAS)
-Pamela J. Chadsey - <pamela.j.chadsey.civ@mail.mil>  
+<!-- ### Defense Finance and Accounting Service (DFAS) -->
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Human Resources Agency (DHRA)
 Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <fariba.beg.civ@mail.mil>  
+Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
 Cynthia Turner - <cynthia.turner2@dodiis.mil>  
@@ -216,12 +217,13 @@ DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>
 ### Defense Threat Reduction Agency (DTRA)
 Paul St. John - <paul.m.stjohn.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
-Pamela Whitehead - <pamela.whitehead@mda.mil>
+Tom Hicks – <thomas.hicks@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - <irina.ryan.civ@ndu.edu>  
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
-<!-- ### National Guard Bureau (NGB) -->
+### National Guard Bureau (NGB)
+Allen Pinckney Jr - <allen.pinckney3.civ@army.mil>  
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -234,6 +236,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
+  * **Naval Supply Systems Command (NAVSUP)**<br>Ryan Celesnik - <ryan.s.celesnik.civ@us.navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
 ### Office of the Secretary of Defense (OSD)
@@ -349,7 +352,7 @@ Brandon Pace - <brandon.pace@hq.dhs.gov>
 ### Immigration and Customs Enforcement (ICE)
 Arva Parker - <arva.parker@ice.dhs.gov>  
 ### Office of Biometric Identity Management&nbsp;(OBIM)
-Walter L. Hoo - <walter.l.hoo@obim.dhs.gov>  
+Michael Yaich - <michael.yaich@hq.dhs.gov>  
 Laura A. Hoffman (Deputy) - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
 Robert Fritzen - <robert.fritzen@oig.dhs.gov>  
@@ -939,7 +942,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: May 2025
+**Reviewed/Updated**: June 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
