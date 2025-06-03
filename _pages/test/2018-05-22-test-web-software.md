@@ -40,9 +40,9 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
 
   * **ANDI (Accessible Name & Description Inspector)**, developed by the Social Security Administration, is a free open-source bookmarklet, which means that the tool does not require installation as a plugin and can be added to multiple browsers as a bookmark. 
       * [Install ANDI][5]
-  * **Color Contrast Analyzer (CCA)**, developed by Steve Faulkner and the Paciello Group, is a free open-source tool that displays the contrast ratio for two selected colors. CCA is used to inspect color contrast when contrast cannot be programmatically identified by ANDI. 
-      * [CCA 2.5 for Windows][6]
-      * [CCA 2.4 for macOS][7]
+  * **Color Contrast Analyzer (CCA)**, is a free open-source tool that displays the contrast ratio for two selected colors. CCA is used to inspect color contrast when contrast cannot be programmatically identified by ANDI. 
+      * [CCA for Windows][6]
+      * [CCA for macOS][7]
 
 ## Training Videos
 
@@ -111,15 +111,15 @@ A collection of tools and training from the World Wide Web Consortium (W3C).
 
 The resources on this page were created through interagency collaborative efforts sponsored under the [Accessibility Community of Practice (ACoP)][19], a committee under the Federal Chief Information Officers (CIO) Council and the Federal Chief Acquisition Officer (CAO) Council. These resources are endorsed by the ACoP for use across the US Government for validating conformance to the [Revised 508 Standards][1]. (Note, resources created and hosted by Federal agencies other than GSA are not included in this endorsement.)
 
-**Reviewed/Updated:** March 2024
+**Reviewed/Updated:** June 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: http://www.w3.org/WAI/intro/wcag.php
  [3]: {{site.baseurl}}/test/trusted-tester
  [4]: https://section508coordinators.github.io/ICTTestingBaseline/
  [5]: https://www.ssa.gov/accessibility/andi/help/install.html
- [6]: https://github.com/ThePacielloGroup/CCA-Win/releases/tag/2.5.0
- [7]: https://github.com/ThePacielloGroup/CCA-OSX/releases/tag/2.4
+ [6]: https://www.tpgi.com/color-contrast-checker/
+ [7]: https://www.tpgi.com/color-contrast-checker/
  [8]: https://www.w3.org/WAI/intro/people-use-web/
  [9]: https://www.w3.org/WAI/perspectives/
  [10]: https://www.w3.org/WAI/mobile/overlap.html
