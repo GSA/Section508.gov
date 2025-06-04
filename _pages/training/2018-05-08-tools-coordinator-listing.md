@@ -17,7 +17,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-06-03
+updated: 2025-06-04
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -196,7 +196,7 @@ Fariba Beg - <fariba.beg.civ@mail.mil>
 Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
-Cynthia Turner - <cynthia.turner2@dodiis.mil>  
+Terrence L. Ward – <terrence.ward@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
