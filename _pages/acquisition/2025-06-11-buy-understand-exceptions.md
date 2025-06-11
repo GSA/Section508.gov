@@ -27,9 +27,9 @@ format: html
 created: 2025-06-11
 ---
 
-Section 508 Regulation uses the word “exception” for <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions (E202)</a>. Additionally, specific provisions within Section 508 and some WCAG 2 Success Criteria also have exceptions. This article only covers General Exceptions (E202).
+Section 508 Regulation uses the word “exception” for <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">General Exceptions (E202)</a>. Additionally, specific provisions within Section 508 and some Web Content Accessibility Guidelines (WCAG) 2.0 AA Success Criteria also have exceptions. This article only covers General Exceptions (E202).
 
-Agencies can choose to not apply exceptions and ensure that information and communication technology (ICT) fully conform to Section 508 standards, even if exceptions may apply. Claiming an exception is optional. If a conformant ICT product can be used, even though an exception otherwise applies, its use is recommended!
+Although exceptions may be available, agencies can choose not to use them and instead require full Section 508 conformance for all information and communication technology (ICT). Claiming an exception is optional. If a conformant ICT product can be used, even though an exception otherwise applies, its use is recommended!
 
 Most of the General Exceptions come from the authorizing statute, the <A href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794d.htm" target="_blank" class="usa-link--external">Rehabilitation Act of 1973 as amended, 29 U.S.C. Sec. 794d.</a>
 
@@ -45,7 +45,7 @@ This exception applies only for ICT that was developed or procured by an agency 
   <em>E202.3 National Security Systems. The Revised 508 Standards do not apply to ICT operated by agencies as part of a national security system, as defined by 40 U.S.C. 11103(a).</em>
 </div>
 
-National security system (NSS) is defined by <a href="https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40-subtitleIII-chap111-sec11103.htm" target="_blank" class="usa-link--external">40 U.S.C. 11103</a>. It is referenced by Section 508 and not under the remit of the Access Board.  According to 40 U.S.C. 11103(a)(2), “Limitation.—Paragraph (1)(E) does not include a system to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).” For example, office productivity software is not part of a national security system.  
+National Security System (NSS) is defined by <a href="https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40-subtitleIII-chap111-sec11103.htm" target="_blank" class="usa-link--external">40 U.S.C. 11103</a>. It is referenced by Section 508 and not under the remit of the Access Board.  According to 40 U.S.C. 11103(a)(2), “Limitation.—Paragraph (1)(E) does not include a system to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).” For example, office productivity software is not part of a national security system.  
 
 Another example could be an online training course about classified ICT that may qualify for the NSS exception. However, that training would likely be hosted on the agency’s Learning Management System (LMS). The LMS would not qualify for an NSS exception.
 
