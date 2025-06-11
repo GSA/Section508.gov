@@ -165,11 +165,12 @@ Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
-<!-- 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
+Joleen Horton - <joleen.horton@us.af.mil>  
+
+<!--
 ### Air National Guard
 -->
-
 ### Army
 Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
@@ -506,6 +507,7 @@ David Conner (Acting) - <connerd2@state.gov>
 ## <span id="usdot" ></span>Department of Transportation (DOT)
 ### Agencywide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
+Kellie Korzen (Deputy) - <kellie.korzen@dot.gov>  
 ### Bureau of Transportation Statistics (BTS)  
 Simona Jones - <simona.jones@dot.gov>  
 ### Federal Highway Administration (FHWA)

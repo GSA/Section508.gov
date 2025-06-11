@@ -484,7 +484,11 @@ acquisition:
         url: 'art/'
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
-      - name: Determine 508 Standards and Exceptions
+      - name: Understanding Section 508 Exceptions
+        url: 'buy/understanding-section-508-exceptions/'
+      - name: Section 508 Standards and Exceptions Chart & Examples
+        url: 'buy/standards-exceptions/'
+      - name: Determine Section 508 Standards and Exceptions
         url: '#'
         grandchildren:
           - name: "Process Overview"
@@ -501,8 +505,6 @@ acquisition:
         url: 'buy/understand-claims/'
       - name: 'Solicitation Review Tool (SRT)'
         url: 'buy/solicitation-review-tool/'
-      - name: 508 Standards and Exceptions Chart & Examples
-        url: 'buy/standards-exceptions/'
       - name: Authoring Tool Requirements
         url: 'buy/authoring-tools/'
       - name: Accessibility In Procurement
