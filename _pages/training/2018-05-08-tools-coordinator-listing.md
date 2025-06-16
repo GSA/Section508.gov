@@ -17,11 +17,11 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-05-07
+updated: 2025-06-04
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
-At the discretion of the agency CIO (or designee), subcomponents may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
+At the discretion of the agency CIO (or designee), components may maintain a Section 508 program; however, all Section 508 programs must coordinate with the agency-wide Section 508 program, including whether those relevant program managers should be listed publicly on this webpage.
 
 ## Departments and CFO Act Agencies
 
@@ -59,7 +59,7 @@ William Morgan - <wmorgan@usaid.gov>
 
 ---
 ## <span id="usda" ></span>Department of Agriculture (USDA)
-### Department-wide
+### Agencywide
 Angela Williams - <angela.williams@usda.gov>  
 Sarah	Reed - <sarah.reed@usda.gov>  
 Bernadette McGhee - <bernadette.mcghee@usda.gov>  
@@ -125,7 +125,7 @@ Ryan Schneider - <ryan.schneider@usda.gov>
 
 ---
 ## <span id="usdoc"></span>Department of Commerce (DOC)
-### Department-wide
+### Agencywide
 Jennifer Jessup - <jjessup@doc.gov>  
 ### Bureau of Economic Analysis (BEA)
 Alexander Minor - <Alexander.Minor@bea.gov>  
@@ -156,7 +156,7 @@ Patricia Kless - <patricia.kless@uspto.gov>
 
 ---
 ## <span id ="usdod" ></span>Department of Defense (DOD)
-### Department-wide
+### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
 Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>  
 Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>  
@@ -165,19 +165,15 @@ Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
 Bretton Key (Deputy) - <bretton.key.1.ctr@us.af.mil>  
 
-<!-- 
 * **Defense Equal Opportunity Management Institute (DEOMI)**<br>
--->   
+Joleen Horton - <joleen.horton@us.af.mil>  
 
+<!--
 ### Air National Guard
+-->
 ### Army
 Lisa Wilcox - <lisa.g.wilcox3.civ@army.mil>  
 ARMY Section 508 Helpdesk - <usarmy.pentagon.hqda-cio.mbx.army-section-508-team@army.mil>  
-
-  * **Combat Capabilities Development Command C5ISR Center** <br>Sandy Sanders - <sandy.p.sanders.civ@army.mil>  
-  * **Tank-automotive and Armaments Command (TACOM)** <br>Stephen Barnes - <stephen.w.barnes6.civ@mail.mil>  
-  * **United States Army Materiel Command** <br>John	M. Cobb - <john.m.cobb.civ@army.mil>  
-
 ### Computer/Electronic Accommodations Program (CAP)
 ### Defense Advanced Research Projects Agency (DARPA)
 Anita Walker - <anita.walker@darpa.mil>  
@@ -186,21 +182,22 @@ Consuala Spencer - <consuala.spencer@dau.edu>
 ### Defense Contract Management Agency (DCMA)  
 William O'Brien (Acting) - <william.r.obrien69.civ@mail.mil>  
 ### Defense Counterintelligence and Security Agency (DCSA)
-Elizabeth J. Garza-Guidara - <elizabeth.j.garzaguidara.civ@mail.mil>  
+Latondra Bryan - <latondra.w.bryan.civ@mail.mil>  
+Horace Russell Jr. (Deputy) - <horace.russell12.civ@mail.mil>  
 ### Defense Cyber Crime Center (DC3)
 Stephen Johnson - <stephen.johnson@dc3.mil>  
 Jillian Langley - <jillian.langley.ctr@dc3.mil>
-### Defense Finance and Accounting Service (DFAS)
-Pamela J. Chadsey - <pamela.j.chadsey.civ@mail.mil>  
+<!-- ### Defense Finance and Accounting Service (DFAS) -->
 ### Defense Health Agency (DHA)
 Ameenah Ghoston - <ameenah.a.ghoston.civ@health.mil>  
 ### Defense Human Resources Agency (DHRA)
 Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>  
 ### Defense Information Systems Agency (DISA)
 Fariba Beg - <fariba.beg.civ@mail.mil>  
+Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
 Vanessa Hill - <vanessa.hill2@dodiis.mil>   
-Cynthia Turner - <cynthia.turner2@dodiis.mil>  
+Terrence L. Ward – <terrence.ward@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
@@ -213,19 +210,21 @@ Kevin Butters - <kevin.f.butters.civ@mail.mil>
 ### Defense POW/MIA Accounting Agency (DPAA) 
 Malachi J. Morgan - <malachi.j.morgan.civ@mail.mil>  
 ### Defense Security Cooperation Agency (DSCA)
-Michael C. Scholz - <michael.c.schloz.civ@mail.mil>  
+Jeffrey Troch - <jeffrey.l.troch.civ@mail.mil>  
+Joshua Myerson - <joshua.b.myerson.civ@mail.mil>  
 ### Defense Technical Information Center (DTIC)
 Claudia Guidi - <claudia.guidi.civ@mail.mil>  
 DTIC Helpdesk - <dtic.belvoir.ocio.list.508-accessibility@mail.mil>  
 ### Defense Threat Reduction Agency (DTRA)
 Paul St. John - <paul.m.stjohn.civ@mail.mil>  
 ### Missile Defense Agency (MDA)
-Pamela Whitehead - <pamela.whitehead@mda.mil>
+Tom Hicks – <thomas.hicks@mda.mil>
 ### National Defense University (NDU)
 Irina Ryan - <irina.ryan.civ@ndu.edu>  
 ### National Geospatial-Intelligence Agency (NGA)
 Kelali K. Dogbe - <kelali.k.dogbe@nga.mil>
-<!-- ### National Guard Bureau (NGB) -->
+### National Guard Bureau (NGB)
+Allen Pinckney Jr - <allen.pinckney3.civ@army.mil>  
 ### National Reconnaissance Office (NRO)
 John O. Adeika - <adeikajo@nro.mil>  
 ### Navy
@@ -238,6 +237,7 @@ Christopher Julka - <christopher.a.julka@navy.mil>
   * **Naval Information Warfare Systems Command** <br>Darlene Shaw – <darlene.shaw@navy.mil>  
   * **Naval Research Laboratory (NRL)** <br>Keith A. Rowher - <keith.a.rohwer.civ@us.navy.mil>  
   * **Naval Sea Systems Command (NAVSEA)**<br>Charlotte Reines – <charlotte.reines@navy.mil>  
+  * **Naval Supply Systems Command (NAVSUP)**<br>Ryan Celesnik - <ryan.s.celesnik.civ@us.navy.mil>  
   * **Navy Reserve Forces Command** <br>Joel C. Stewart - <joel.c.stewart.civ@us.navy.mil>  
 
 ### Office of the Secretary of Defense (OSD)
@@ -254,6 +254,8 @@ Michael Kennedy - <michael.b.kennedy.civ@mail.mil>
 Adam Grasheim - <adam.grasheim.1@usspacecom.mil>  
 ### United States Special Operations Command (USSOCOM)  
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
+### United States Transportation Command (USTRANSCOM)
+Maj. Elizabeth Willenbring (Part-Time PM) - <transcom.scott.tcj6.mbx.na@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -266,7 +268,7 @@ Sandra Logan - <doesection508coordinator@hq.doe.gov>
 
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
-### Department-wide
+### Agencywide
 
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
@@ -327,7 +329,7 @@ Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>
 
 ---
 ## <span id="usdhs" ></span>Department of Homeland Security (DHS)
-### Department-wide
+### Agencywide
 Brandon Pace - <brandon.pace@hq.dhs.gov>  
 ### Countering Weapons of Mass Destruction (CWMD)
 Leslie Porter - <leslie.porter@hq.dhs.gov>  
@@ -351,7 +353,7 @@ Brandon Pace - <brandon.pace@hq.dhs.gov>
 ### Immigration and Customs Enforcement (ICE)
 Arva Parker - <arva.parker@ice.dhs.gov>  
 ### Office of Biometric Identity Management&nbsp;(OBIM)
-Walter L. Hoo - <walter.l.hoo@obim.dhs.gov>  
+Michael Yaich - <michael.yaich@hq.dhs.gov>  
 Laura A. Hoffman (Deputy) - <laura.a.hoffman@associates.obim.dhs.gov>
 ### Office of the Inspector General&nbsp;(OIG)
 Robert Fritzen - <robert.fritzen@oig.dhs.gov>  
@@ -371,11 +373,11 @@ Leonard Dorrian - <leonard.dorrian@usss.dhs.gov>
 
 ---
 ## <span id="usdhud" ></span>Department of Housing and Urban Development (HUD)
-Paul A. Scott - <paul.a.scott@hud.gov>  
+Daniel L. Williams - <daniel.r.williams@hud.gov>  
 
 ---
 ## <span id="usdoi" ></span>Department of the Interior (DOI)
-### Department-wide
+### Agencywide
 Sid Sharma - <siddhartha_sharma@ios.doi.gov>  
 ### Bureau of Indian Affairs (BIA)
 George Morris - <george.morris@bia.gov>  
@@ -404,7 +406,7 @@ Tracy Jolivette - <tjolivette@usgs.gov>
 
 ---
 ## <span id="usdoj" ></span>Department of Justice (DOJ)
-### Department-wide
+### Agencywide
 Dwayne Spriggs - <Section508ProgramManager@usdoj.gov>  
 ### Antitrust Division
 Elizabeth (Beth) Gundermann - <beth.gundermann@usdoj.gov>  
@@ -503,27 +505,42 @@ David Conner (Acting) - <connerd2@state.gov>
 
 ---
 ## <span id="usdot" ></span>Department of Transportation (DOT)
-### Department-wide
+### Agencywide
 LaVette Sydnor - <lavette.sydnor@dot.gov>  
+Kellie Korzen (Deputy) - <kellie.korzen@dot.gov>  
+### Bureau of Transportation Statistics (BTS)  
+Simona Jones - <simona.jones@dot.gov>  
 ### Federal Highway Administration (FHWA)
 Stephanie Jackson - <stephanie.jackson@dot.gov>  
 ### Federal Aviation Administration (FAA)
-Sheree Peters - <sheree.peters@faa.gov>  
-Lisa L. Edwards - <lisa.l.edwards@faa.gov>
+Lisa L. Edwards - <lisa.l.edwards@faa.gov>  
+Sheree Peters (Deputy) - <sheree.peters@faa.gov>  
 ### Federal Motor Carrier Safety Administration (FMCSA)  
-Martin Erb - <martin.erb@dot.gov>  
+Cicely Waters - <cicely.waters@dot.gov>  
+Justine Chen (Deputy) - <justine.chen@dot.gov>    
 ### Federal Railroad Administration (FRA)
-Yoseph Kelile - <Yoseph.Kelile@dot.gov>   
+Venkata "Anil" Perakam - <venkata.perakam@dot.gov>  
+Hugo Vives (Deputy) - <hugo.vives@dot.gov>      
+### Federal Transit Administration (FTA)
+Kenneth King - <kenneth.king@dot.gov>  
+Leela Chandrasekara Sukumar (Deputy) - <l.c.sukumar.ctr@dot.gov>  
 ### Maritime Administration (MARAD)
 La Tisa T. Wilder - <latisa.wilder@dot.gov>  
+Bob Ellington (Deputy) - <bob.ellington@dot.gov>    
 ### National Highway Traffic Safety Administration (NHTSA)
-Purushottam "Puru" Subedi - <p.subedi@dot.gov>  
+Brandon Gobel - <brandon.gobel@dot.gov>  
+Purushottam "Puru" Subedi (Deputy) - <p.subedi@dot.gov>  
+### Office of Inspector General (OIG)
+Audre E. Azoulas - <audre.azuolas@oig.dot.gov>  
 ### Pipeline and Hazardous Materials Safety Administration (PHMSA)
-Paul Mounkhaty - <paul.mounkhaty@dot.gov>  
-
+T'Mia Raynor - <t'mia.raynor@dot.gov>  
+Paul Mounkhaty (Deputy) - <paul.mounkhaty@dot.gov>  
+### Volpe National Transportation Systems Center (VOLPE)
+Stephanie Chase - <stephanie.chase@dot.gov>  
+Eliot Sutler (Deputy) - <eliot.sutler@dot.gov>  
 ---
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
-### Department-wide
+### Agencywide
 Nicolaos "Nick"	Totten - <nicolaos.totten@treasury.gov>  
 ### Alcohol and Tobacco Tax and Trade Bureau (TTB)
 Cassandra Williams - <cassandra.williams@ttb.gov>
@@ -544,7 +561,7 @@ Tracy George - <georget@oig.treas.gov>
 Rodney Kent - <rodney.kent@occ.treas.gov>  
 IT Accessibility (Section 508) Team - <rim@occ.treas.gov>
 ### Treasury Inspector General for Tax Administration (TIGTA)
-Sharon Archer-Jackson - <sharon.archer-jackson@tigta.treas.gov>  
+Jesus Cantu - <section508@tigta.treas.gov>  
 ### U.S. Mint
 James Proctor - <james.proctor@usmint.treas.gov>  
 Rodney Dunwoody (Deputy) - <rodney.dunwoody@usmint.treas.gov>
@@ -927,7 +944,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: May 2025
+**Reviewed/Updated**: June 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

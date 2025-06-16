@@ -1,11 +1,13 @@
 ---
 layout: page
 sidenav: true
-permalink: create/alternative-text/
 type: create
 title: Authoring Meaningful Alternative Text
+permalink: create/alternative-text/
+redirect_from:
+- alternative-text/
 created: 2024-05-23
-updated: 2025-01-09
+updated: 2025-05-20
 updated:
 topic: "Content creation (create)"
 sub-topic: "Graphics Specific (image descriptions)"

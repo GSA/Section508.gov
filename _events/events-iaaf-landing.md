@@ -36,6 +36,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 </div> -->
 
 ## Event Details
+<!-- 
 <div class="grid-row">
   <div class="tablet:grid-col-9">
     <div class="grid-row">
@@ -71,14 +72,16 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 </div>
 
 ## Event Agenda
+-->
 <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2025 IAAF Agenda" width="75" height="75"/></a>
 
-This year’s IAAF will take place on May 20–21, 2025, and will feature a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
+This year’s IAAF was held on May 20–21, 2025, and featured a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
 
-Presenters and panelists will cover a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access to government information.
+Presenters and panelists covered a wide range of Section 508-related subjects, including agency compliance updates, project management strategies for accessibility assessments, procurement of accessible technology, regulatory differences, tools like ART and SRT, and broader efforts to promote digital access to government information.
 
-For more details on the two-day event, visit (and bookmark) the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
+For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
 
+<!--
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
 
@@ -93,7 +96,7 @@ We encourage all attendees to set up and test your Zoom access ahead of the even
 * <a href="https://learning.zoom.us/learn?_ga=2.79296023.2091372861.1729025244-847311434.1729025244" target="_blank" class="usa-link--external">Zoom Learning Center</a>
 * <a href="https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0067050" target="_blank" class="usa-link--external">Hot keys and keyboard Shortcuts</a>
 * <a href="https://support.zoom.com/hc/en/contact?id=contact_us" target="_blank" class="usa-link--external">Contact Zoom Support</a>
-
+-->
 ## Contact the IAAF Host Committee
 If you have any questions regarding the Interagency Accessibility Forum (IAAF), please contact us at <iaaf@gsa.gov>.
 
