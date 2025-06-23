@@ -22,7 +22,7 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 - glossary/
 created: 2020-02-27
-updated: 2025-05-20
+updated: 2025-06-23
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -65,6 +65,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="art">Accessibility Requirements Tool (ART)</th>
     <td>The <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> is a web-based application created by GSA that provides a step-by-step guide to help users determine which Section 508 requirements apply to acquisitions involving ICT products and services. It simplifies the process of identifying relevant accessibility requirements from the Revised Section 508 Standards and integrating them into procurement and contracting documentation.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="acquisition-official">Acquisition Official</th>
+    <td>An acquisition official is an overarching term for any official in an acquisition role who helps with procurement of ICT. This may be a Contracting Officer, Contracting Officer’s Representative (COR), Requiring Official, or other personnel responsible for acquisition actions.</td>
   </tr>
   <tr>
     <th scope="row" id="affinity-group">Affinity Group</th>
@@ -361,7 +365,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="document">Document</th>
-    <td><p><strong>Definition 1:</strong> Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</p>
+    <td><p><a href="#electronic-content">Electronic Content</a> that is:</p><p><strong>Definition 1:</strong> Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</p>
     <p><strong>Definition 2:</strong> Files created with common office software for content generation and information sharing, such as Microsoft Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and Portable Document Format (PDF).</p></td>
   </tr>
   <tr>
@@ -402,6 +406,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="eit">Electronic and Information Technology (EIT)</th>
     <td>Superseded by <a href="#ict">Information and Communication Technology (ICT)</a></td>
+  </tr>
+  <tr>
+    <th scope="row" id="electronic-document">Electronic Document</th>
+    <td>See <a href="#document">Document</a> and <a href="#electronic-content">Electronic Content</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="electronic-form">Electronic form</th>
@@ -1279,4 +1287,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** March 2025
+**Reviewed/Updated:** June 2025
