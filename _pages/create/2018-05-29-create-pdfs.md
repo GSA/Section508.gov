@@ -5,7 +5,7 @@ permalink: create/pdfs/
 type: create
 title: 'Create Accessible PDFs'
 created: 2018-05-29
-updated: 2025-01-07
+updated: 2025-06-23
 topic: "Content creation (create)"
 sub-topic: "PDFs"
 audience:
@@ -67,7 +67,7 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
-**Reviewed/Updated:** January 2025
+**Reviewed/Updated:** June 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
@@ -80,6 +80,6 @@ The resources in this section were developed by Federal agencies, and shared her
  [9]: {{site.baseurl}}/create
  [10]: https://webaim.org/techniques/alttext/
  [11]: https://www.w3.org/WAI/tutorials/images/decision-tree/
- [12]: https://www.adobe.com/accessibility/products/acrobat.html
+ [12]: https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html
  [13]: https://www.w3.org/WAI/train
  [14]: https://www.w3.org/TR/WCAG20-TECHS/pdf
