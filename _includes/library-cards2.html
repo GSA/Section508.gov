@@ -1,0 +1,44 @@
+<!--******* Generates content library/catalog item cards. ********-->
+
+<div class="tablet:grid-col-9">
+    <h2>Content Library Cards</h2>
+    <p id="filter-count" class="filter-count card-tag margin-top-0 text-gray-50 text-thin">X items</p>
+    <ul class="usa-card-group">
+        {% for page in site.pages %}
+        {% if page.library-exclude %}
+        {% else %}
+
+            {% comment %} !!! Assign each card filter and filter shorthand from topic, sub-topic, audience, resource type, and format !!! {% endcomment %}
+        
+            {% assign topic_item = page.topic %}
+            {% assign topic_split_item = topic_item | split: " (" %}
+            {% assign topic_filter = topic_split_item | slice: 0 %}
+            {% capture topic_str_filter %}{{topic_filter}}{% endcapture %}
+            {% if topic_str_filter == "Other" %}
+                {% assign topic_fil = topic_str_filter | downcase %}
+            {% else %}
+                {% assign topic_short_fil = topic_split_item | slice: 1 %}
+                {% capture topic_str_fil %}{{topic_short_fil}}{%endcapture%}
+                {% assign topic_fil = topic_str_fil | replace: ")", "" %}
+            {% endif %}
+
+            {% assign sub-topic_filter = page.sub-topic %}
+            {% assign sub-topic_fil = sub-topic_filter | downcase | replace: " ","-" | replace: "/","-" %}
+
+
+        <li class="usa-card grid-col-6 desktop:grid-col-4 {{ topic_fil }} {{ sub-topic_fil }}">
+            <div class="usa-card__container">
+                <div class="usa-card__header">
+                    <span class="usa-card__heading font-sans-lg">{{topic_filter}}</span>
+                </div>
+                <div class="usa-card__body">
+                    <p>
+                        <a class="no-style" href="{{ site.baseurl }}/{{ page.permalink }}">{{ page.title }}</a>
+                    </p>
+                </div>
+            </div>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
