@@ -72,7 +72,7 @@ Stay up to date with the latest additions and changes to Section508.gov. This pa
         </svg>
       </div>
       <div class="usa-icon-list__content">
-        <a href="{{ parts[1] }}">{{ parts[0] }}</a>
+        <a href="{{site.baseurl}}{{ parts[1] }}">{{ parts[0] }}</a>
         {% if parts[3] and parts[3] != "" %}
           &mdash; {{ parts[3] }}
         {% endif %}
