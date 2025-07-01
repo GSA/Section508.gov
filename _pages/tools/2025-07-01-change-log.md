@@ -68,7 +68,7 @@ Stay up to date with the latest additions and changes to Section508.gov. This pa
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon">
         <svg class="usa-icon" aria-hidden="true" role="img">
-          <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
+          <use href="{{ site.baseurl }}/assets/img/sprite.svg#thumb_up_alt"></use>
         </svg>
       </div>
       <div class="usa-icon-list__content">
