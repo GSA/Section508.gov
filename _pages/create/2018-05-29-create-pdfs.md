@@ -16,7 +16,7 @@ format: "HTML (html)"
 redirect_from:
 - content/pdfs/
 created: 2018-05-29
-updated: 2025-06-23
+updated: 2025-05-23
 ---
 
 How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].
