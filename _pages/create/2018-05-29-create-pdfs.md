@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: create/pdfs/
 type: create
 title: 'Create Accessible PDFs'
-created: 2018-05-29
-updated: 2025-06-23
+permalink: create/pdfs/
+description: Learn how to create accessible PDFs that meet Section 508 standards. Step-by-step guidance for making documents usable by people with disabilities and compliant with federal accessibility requirement
 topic: "Content creation (create)"
 sub-topic: "PDFs"
 audience:
@@ -16,6 +15,8 @@ resource-type: "Process/How-to"
 format: "HTML (html)"
 redirect_from:
 - content/pdfs/
+created: 2018-05-29
+updated: 2025-06-23
 ---
 
 How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].

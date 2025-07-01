@@ -4,8 +4,8 @@ sidenav: true
 type: acquisition
 title: Understanding Section 508 Exceptions
 permalink: buy/understanding-section-508-exceptions/
+description: Understand when Section 508 exceptions apply to federal IT purchases. This guide explains types of exceptions, documentation tips, and how to ensure accessible alternatives are provided.
 contributors: usab
-description: 
 audience: 
 - 508-pm
 - buyer
