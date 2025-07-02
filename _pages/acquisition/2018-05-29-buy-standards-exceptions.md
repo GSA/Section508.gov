@@ -4,6 +4,7 @@ sidenav: true
 permalink: buy/standards-exceptions/
 type: acquisition
 title: 'Section 508 Standards and Exceptions Chart & Examples'
+description: Learn how Section 508 standards apply to federal IT acquisitions and when exceptions are allowed. Understand compliance requirements, exception types, and agency responsibilities.
 topic: "Acquisition/Buy (buy)"
 sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 audience:
@@ -13,7 +14,8 @@ audience:
 resource-type: "Template"
 format: "Document (docx)"
 created: 2018-05-29
-updated: 2025-06-11
+updated: 2025-07-01
+exclude-changelog: true
 ---
 
 When procuring information and communication technology (ICT), ensure your purchases conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> by clearly communicating the standards and exceptions that apply to **each item** in your solicitation. ICT includes software, hardware, electronic content, support documentation & services. 
@@ -29,7 +31,6 @@ The following examples show how to complete the chart for different ICT items.
   * Website
   * Software
   * Kiosk (complex)
-
 
 <table class="usa-table usa-table--borderless usa-table--striped">
 <caption id="website-example">Table 1: Website Example</caption>

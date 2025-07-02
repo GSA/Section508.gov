@@ -4,6 +4,7 @@ sidenav: true
 type: training
 title: 'Find Your Section 508 Program Manager'
 permalink: tools/program-manager-listing/
+description: "Find your agency’s Section 508 Program Manager using this official U.S. government directory. Connect with accessibility leads to support IT compliance with federal accessibility standards."
 redirect_from:
 - tools/coordinator-listing/
 - 508-coordinator-listing/
