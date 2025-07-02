@@ -1,0 +1,41 @@
+---
+layout: null
+permalink: /whats-new/feed.xml
+content-type: application/rss+xml
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>{{ site.title }} - What's New</title>
+  <link>{{ site.url }}{{ site.baseurl }}/whats-new/</link>
+  <description>Stay current on updates from Section508.gov</description>
+  <language>en-us</language>
+  <lastBuildDate>{{ "now" | date_to_rfc822 }}</lastBuildDate>
+
+  {% assign recent_pages = "" | split: "" %}
+  {% assign today = "now" | date: "%s" %}
+  {% assign thirty_days_ago = today | minus: 2592000 %}
+  {% assign all_entries = site.pages | concat: site.posts %}
+
+  {% for page in all_entries %}
+    {% unless page.exclude-changelog %}
+      {% assign created_epoch = page.created | date: "%s" | plus: 0 %}
+      {% assign updated_epoch = page.updated | date: "%s" | default: created_epoch | plus: 0 %}
+      {% assign most_recent_epoch = updated_epoch | at_least: created_epoch %}
+      {% assign most_recent_date = most_recent_epoch %}
+      {% assign display_date = page.updated | default: page.created %}
+      {% assign description = page.description | strip | replace: "|", "&#124;" %}
+
+      {% if most_recent_date >= thirty_days_ago %}
+        <item>
+          <title>{{ page.title | xml_escape }}</title>
+          <link>{{ site.url }}{{ page.url }}</link>
+          <guid>{{ site.url }}{{ page.url }}</guid>
+          <pubDate>{{ display_date | date_to_rfc822 }}</pubDate>
+          <description><![CDATA[{{ description }}]]></description>
+        </item>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</channel>
+</rss>
