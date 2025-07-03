@@ -2,7 +2,7 @@
 
 <div class="tablet:grid-col-3">
 
-    <a class="usa-button usa-button--accent-cool margin-bottom-2" href="{{ site.baseurl }}/content-library/#subject=*&role=*&status=*">Reset Filter</a>
+    <a class="usa-button usa-button--accent-cool margin-bottom-2" href="#">Reset Filter</a>
 
     {% assign topics = site.pages  | map: "topic" | uniq | compact | sort %}
     {% assign sub-topics = site.pages  | map: "sub-topic" | uniq | compact | sort %}
@@ -11,64 +11,121 @@
     {% assign formats = site.pages  | map: "format" | uniq | compact | sort %}
 
     <nav id="filter" class="filters" aria-label="Filters">
-        <h2 class="filter-title font-sans-sm">Filter by Topic</h2>
-        <ul class="filter-list" data-filter-group="topic">
-            {% for item in topics %}
-                {% assign split_item = item | split: " (" %}
-                {% assign filter = split_item | slice: 0 %}
-                {% capture str_filter %}{{filter}}{% endcapture %}
-                {% if str_filter == "Other" %}
-                    {% assign fil = str_filter | downcase %}
-                {% else %}
+        <div class="usa-accordion">
+            <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                <button
+                type="button"
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="topic-filters"
+                >
+                Filter by Topic
+                </button>
+            </h2>
+            <div id="topic-filters" class="usa-accordion__content usa-prose padding-x-0">
+                <ul class="filter-list" data-filter-group="topic">
+                    {% for item in topics %}
+                        {% assign split_item = item | split: " (" %}
+                        {% assign filter = split_item | slice: 0 %}
+                        {% capture str_filter %}{{filter}}{% endcapture %}
+                        {% if str_filter == "Other" %}
+                            {% assign fil = str_filter | downcase %}
+                        {% else %}
+                            {% assign short_fil = split_item | slice: 1 %}
+                            {% capture str_fil %}{{short_fil}}{%endcapture%}
+                            {% assign fil = str_fil | replace: ")", "" %}
+                        {% endif %}
+                        <li class="fliter-item"><a aria-label="Filter by Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                <button
+                type="button"
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="sub-topic-filters"
+                >
+                Filter by Sub-Topic
+                </button>
+            </h2>
+            <div id="sub-topic-filters" class="usa-accordion__content usa-prose padding-x-0">
+                <ul class="filter-list" data-filter-group="sub-topic">
+                    {% for filter in sub-topics %}
+                    {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
+                    <li class="fliter-item"><a aria-label="Filter by Sub-Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                <button
+                type="button"
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="audience-filters"
+                >
+                Filter by Audience
+                </button>
+            </h2>
+            <div id="audience-filters" class="usa-accordion__content usa-prose padding-x-0">
+                <ul class="filter-list" data-filter-group="audience">
+                    {% for item in audience %}
+                    {% assign split_item = item | split: " (" %}
+                    {% assign filter = split_item | slice: 0 %}
                     {% assign short_fil = split_item | slice: 1 %}
-                    {% capture str_fil %}{{short_fil}}{%endcapture%}
-                    {% assign fil = str_fil | replace: ")", "" %}
-                {% endif %}
-                <li><a aria-label="Filter by Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
-            {% endfor %}
-        </ul>
-
-        <h2 class="filter-title font-sans-sm">Filter by Sub-Topic</h2>
-        <ul class="filter-list" data-filter-group="sub-topic">
-            {% for filter in sub-topics %}
-            {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
-            <li><a aria-label="Filter by Sub-Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
-            {% endfor %}
-        </ul>
-
-        <h2 class="filter-title font-sans-sm">Filter by Audience</h2>
-        <ul class="filter-list" data-filter-group="audience">
-            {% for item in audience %}
-            {% assign split_item = item | split: " (" %}
-            {% assign filter = split_item | slice: 0 %}
-            {% assign short_fil = split_item | slice: 1 %}
-            {% capture str_filter %}{{short_fil}}{%endcapture%}
-            {% assign fil = str_filter | replace: ")", "" %}
-            <li><a aria-label="Filter by Audience: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
-            {% endfor %}
-        </ul>
-
-        <h2 class="filter-title font-sans-sm">Filter by Resource Type</h2>
-        <ul class="filter-list" data-filter-group="resource-type">
-            {% for item in resource-types %}
-            {% assign split_item = item | split: " (" %}
-            {% assign filter = split_item | slice: 0 %}
-            {% capture str_filter %}{{filter}}{%endcapture%}
-            {% assign fil = str_filter | downcase | replace: " ","-" | replace: "/","-" %}
-            <li><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
-            {% endfor %}
-        </ul>
-
-        <h2 class="filter-title font-sans-sm">Filter by Format</h2>
-        <ul class="filter-list" data-filter-group="format">
-            {% for item in formats %}
-            {% assign split_item = item | split: " (" %}
-            {% assign filter = split_item | slice: 0 %}
-            {% assign short_fil = split_item | slice: 1 %}
-            {% capture str_filter %}{{short_fil}}{%endcapture%}
-            {% assign fil = str_filter | replace: ")", "" %}
-            <li><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
-            {% endfor %}
-        </ul>
+                    {% capture str_filter %}{{short_fil}}{%endcapture%}
+                    {% assign fil = str_filter | replace: ")", "" %}
+                    <li class="fliter-item"><a aria-label="Filter by Audience: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            
+            <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                <button
+                type="button"
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="resource-type-filters"
+                >
+                Filter by Resource Type
+                </button>
+            </h2>
+            <div id="resource-type-filters" class="usa-accordion__content usa-prose padding-x-0">
+                <ul class="filter-list" data-filter-group="resource-type">
+                    {% for item in resource-types %}
+                    {% assign split_item = item | split: " (" %}
+                    {% assign filter = split_item | slice: 0 %}
+                    {% capture str_filter %}{{filter}}{%endcapture%}
+                    {% assign fil = str_filter | downcase | replace: " ","-" | replace: "/","-" %}
+                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            
+            <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                <button
+                type="button"
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="format-filters"
+                >
+                Filter by Format
+                </button>
+            </h2>
+            <div id="format-filters" class="usa-accordion__content usa-prose padding-x-0">
+                <ul class="filter-list" data-filter-group="format">
+                    {% for item in formats %}
+                    {% assign split_item = item | split: " (" %}
+                    {% assign filter = split_item | slice: 0 %}
+                    {% assign short_fil = split_item | slice: 1 %}
+                    {% capture str_filter %}{{short_fil}}{%endcapture%}
+                    {% assign fil = str_filter | replace: ")", "" %}
+                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
     </nav>
 </div>

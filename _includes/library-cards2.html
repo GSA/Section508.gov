@@ -2,7 +2,17 @@
 
 <div class="tablet:grid-col-9">
     <h2>Content Library Cards</h2>
-    <p id="filter-count" class="filter-count card-tag margin-top-0 text-gray-50 text-thin">X items</p>
+    <div id="filter-count-container" class="margin-bottom-2">
+        <p id="filter-count-text">
+            <span id="filter-count" class="filter-count card-tag margin-top-0 text-gray-50 text-thin">X </span>
+            ITEMS SELECTED
+        </p>
+    </div>
+    <div id="active-filters-container" class="margin-bottom-2">
+        <p id="active-filters">Active Filters: 
+            <span id="active-filters-list" class="active-filters-list"></span>
+        </p>
+    </div>
     <ul class="usa-card-group">
         {% for page in site.pages %}
         {% if page.library-exclude %}
@@ -24,9 +34,29 @@
 
             {% assign sub-topic_filter = page.sub-topic %}
             {% assign sub-topic_fil = sub-topic_filter | downcase | replace: " ","-" | replace: "/","-" %}
+            
+            {% assign audience_item = page.audience %}
+            {% assign audience_split_item = audience_item | split: " (" %}
+            {% assign audience_filter = audience_split_item | slice: 0 %}
+            {% assign audience_short_fil = audience_split_item | slice: 1 %}
+            {% capture audience_str_fil %}{{audience_short_fil}}{%endcapture%}
+            {% assign audience_fil = audience_str_fil | replace: ")", "" %}
 
+            {% assign resource_type_item = page.resource-types %}
+            {% assign resource_type_split_item = resource_type_item | split: " (" %}
+            {% assign resource_type_filter = resource_type_split_item | slice: 0 %}
+            {% capture resource_type_str_fil %}{{resource_type_fliter}}{%endcapture%}
+            {% assign resource_type_fil = resource_type_str_filter | downcase | replace: " ","-" | replace: "/","-" %}
 
-        <li class="usa-card grid-col-6 desktop:grid-col-4 {{ topic_fil }} {{ sub-topic_fil }}">
+            {% assign format_item = page.format %}
+            {% assign format_split_item = format_item | split: " (" %}
+            {% assign format_filter = format_split_item | slice: 0 %}
+            
+            {% capture format_str_filter %}{{format_filter}}{% endcapture %}
+            
+            {% assign format_fil = format_item | downcase | replace: " ","-" | replace: "/","-" %}
+
+        <li class="usa-card grid-col-6 desktop:grid-col-4" data-filter="{{ topic_fil }} {{ sub-topic_fil }} {{ audience_fil }} {{ resource_type_fil }} {{ format_fil }}">
             <div class="usa-card__container">
                 <div class="usa-card__header">
                     <span class="usa-card__heading font-sans-lg">{{topic_filter}}</span>
