@@ -22,47 +22,48 @@
         
             {% assign topic_item = page.topic %}
             {% assign topic_split_item = topic_item | split: " (" %}
-            {% assign topic_filter = topic_split_item | slice: 0 %}
-            {% capture topic_str_filter %}{{topic_filter}}{% endcapture %}
+            {% assign topic_filter = topic_split_item[0] %}
             {% if topic_str_filter == "Other" %}
-                {% assign topic_fil = topic_str_filter | downcase %}
+                {% assign topic_fil = topic_filter | downcase %}
             {% else %}
-                {% assign topic_short_fil = topic_split_item | slice: 1 %}
-                {% capture topic_str_fil %}{{topic_short_fil}}{%endcapture%}
-                {% assign topic_fil = topic_str_fil | replace: ")", "" %}
+                {% assign topic_short_fil = topic_split_item[1] %}
+                {% assign topic_fil = topic_short_fil | replace: ")", "" %}
             {% endif %}
 
             {% assign sub-topic_filter = page.sub-topic %}
-            {% assign sub-topic_fil = sub-topic_filter | downcase | replace: " ","-" | replace: "/","-" %}
+            {% assign sub-topic_fil = sub-topic_filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
             
-            {% assign audience_item = page.audience %}
-            {% assign audience_split_item = audience_item | split: " (" %}
-            {% assign audience_filter = audience_split_item | slice: 0 %}
-            {% assign audience_short_fil = audience_split_item | slice: 1 %}
-            {% capture audience_str_fil %}{{audience_short_fil}}{%endcapture%}
-            {% assign audience_fil = audience_str_fil | replace: ")", "" %}
+            {% assign audience_filter = "" %}
+            {% assign audience_fil = "" %}
+            {% for item in page.audience %}
+                {% assign split_item = item | split: " (" %}
+                {% assign label = split_item[0] %}
+                {% assign short = split_item[1] | replace: ")", "" %}
 
-            {% assign resource_type_item = page.resource-types %}
-            {% assign resource_type_split_item = resource_type_item | split: " (" %}
-            {% assign resource_type_filter = resource_type_split_item | slice: 0 %}
-            {% capture resource_type_str_fil %}{{resource_type_fliter}}{%endcapture%}
-            {% assign resource_type_fil = resource_type_str_filter | downcase | replace: " ","-" | replace: "/","-" %}
+                {% if forloop.first %}
+                    {% assign audience_filter = label %}
+                    {% assign audience_fil = short %}
+                {% else %}
+                    {% assign audience_filter = audience_filter | append: ", " | append: label %}
+                    {% assign audience_fil = audience_fil | append: ", " | append: short %}
+                {% endif %}
+            {% endfor %}
 
-            {% assign format_item = page.format %}
-            {% assign format_split_item = format_item | split: " (" %}
-            {% assign format_filter = format_split_item | slice: 0 %}
-            
-            {% capture format_str_filter %}{{format_filter}}{% endcapture %}
-            
-            {% assign format_fil = format_item | downcase | replace: " ","-" | replace: "/","-" %}
+            {% assign resource_type_split_item = page.resource-type | split: " (" %}
+            {% assign resource_type_filter = resource_type_split_item[0] %}
+            {% assign resource_type_fil = resource_type_filter | downcase | replace: " ","-" | replace: "/","-" %}
 
-        <li class="usa-card grid-col-6 desktop:grid-col-4" data-filter="{{ topic_fil }} {{ sub-topic_fil }} {{ audience_fil }} {{ resource_type_fil }} {{ format_fil }}">
+            {% assign format_split_item = page.format | split: " (" %}
+            {% assign format_filter = format_split_item[0] %}
+            {% assign format_fil = format_split_item[1] | replace: ")", "" %}
+
+        <li class="usa-card grid-col-6 desktop:grid-col-4" data-topic="{{ topic_fil }}" data-sub_topic="{{ sub-topic_fil }}"  data-audience="{{ audience_fil }}" data-resource_type="{{ resource_type_fil }}" data-format="{{ format_fil }}">
             <div class="usa-card__container">
-                <div class="usa-card__header">
-                    <span class="usa-card__heading font-sans-lg">{{topic_filter}}</span>
+                <div class="usa-card__header padding-top-1 bg-primary-lighter">
+                    <span class="usa-card__heading font-sans-md text-bold">{{topic_filter}}</span>
                 </div>
                 <div class="usa-card__body">
-                    <p>
+                    <p class="font-sans-sm">
                         <a class="no-style" href="{{ site.baseurl }}/{{ page.permalink }}">{{ page.title }}</a>
                     </p>
                 </div>

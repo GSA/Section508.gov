@@ -35,7 +35,7 @@
                             {% capture str_fil %}{{short_fil}}{%endcapture%}
                             {% assign fil = str_fil | replace: ")", "" %}
                         {% endif %}
-                        <li class="fliter-item"><a aria-label="Filter by Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                        <li class="fliter-item"><a aria-label="Filter by Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -54,7 +54,7 @@
                 <ul class="filter-list" data-filter-group="sub-topic">
                     {% for filter in sub-topics %}
                     {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
-                    <li class="fliter-item"><a aria-label="Filter by Sub-Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    <li class="fliter-item"><a aria-label="Filter by Sub-Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -99,7 +99,7 @@
                     {% assign filter = split_item | slice: 0 %}
                     {% capture str_filter %}{{filter}}{%endcapture%}
                     {% assign fil = str_filter | downcase | replace: " ","-" | replace: "/","-" %}
-                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -122,7 +122,7 @@
                     {% assign short_fil = split_item | slice: 1 %}
                     {% capture str_filter %}{{short_fil}}{%endcapture%}
                     {% assign fil = str_filter | replace: ")", "" %}
-                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter=".{{fil}}">{{filter}}</a></li>
+                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
                     {% endfor %}
                 </ul>
             </div>
