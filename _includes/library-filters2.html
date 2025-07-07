@@ -22,7 +22,7 @@
                 Filter by Topic
                 </button>
             </h2>
-            <div id="topic-filters" class="usa-accordion__content usa-prose padding-x-0">
+            <div id="topic-filters" class="usa-accordion__content usa-prose padding-x-05">
                 <ul class="filter-list" data-filter-group="topic">
                     {% for item in topics %}
                         {% assign split_item = item | split: " (" %}
@@ -50,7 +50,7 @@
                 Filter by Sub-Topic
                 </button>
             </h2>
-            <div id="sub-topic-filters" class="usa-accordion__content usa-prose padding-x-0">
+            <div id="sub-topic-filters" class="usa-accordion__content usa-prose padding-x-05">
                 <ul class="filter-list" data-filter-group="sub-topic">
                     {% for filter in sub-topics %}
                     {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
@@ -69,7 +69,7 @@
                 Filter by Audience
                 </button>
             </h2>
-            <div id="audience-filters" class="usa-accordion__content usa-prose padding-x-0">
+            <div id="audience-filters" class="usa-accordion__content usa-prose padding-x-05">
                 <ul class="filter-list" data-filter-group="audience">
                     {% for item in audience %}
                     {% assign split_item = item | split: " (" %}
@@ -92,7 +92,7 @@
                 Filter by Resource Type
                 </button>
             </h2>
-            <div id="resource-type-filters" class="usa-accordion__content usa-prose padding-x-0">
+            <div id="resource-type-filters" class="usa-accordion__content usa-prose padding-x-05">
                 <ul class="filter-list" data-filter-group="resource-type">
                     {% for item in resource-types %}
                     {% assign split_item = item | split: " (" %}
@@ -114,7 +114,7 @@
                 Filter by Format
                 </button>
             </h2>
-            <div id="format-filters" class="usa-accordion__content usa-prose padding-x-0">
+            <div id="format-filters" class="usa-accordion__content usa-prose padding-x-05">
                 <ul class="filter-list" data-filter-group="format">
                     {% for item in formats %}
                     {% assign split_item = item | split: " (" %}

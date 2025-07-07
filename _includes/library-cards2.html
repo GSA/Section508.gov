@@ -8,9 +8,31 @@
             ITEMS SELECTED
         </p>
     </div>
+    {% assign topics = site.pages  | map: "topic" | uniq | compact | sort %}
+    {% assign sub-topics = site.pages  | map: "sub-topic" | uniq | compact | sort %}
+    {% assign audience = site.pages  | map: "audience" | uniq | compact | sort %}
+    {% assign resource-types = site.pages  | map: "resource-type" | uniq | compact | sort %}
+    {% assign formats = site.pages  | map: "format" | uniq | compact | sort %}
     <div id="active-filters-container" class="margin-bottom-2">
         <p id="active-filters">Active Filters: 
-            <span id="active-filters-list" class="active-filters-list"></span>
+                <ul id="active-filters-list" class="active-filters-list">
+                    {% for item in topics %}
+                        {% assign split_item = item | split: " (" %}
+                        {% assign filter = split_item[0] %}
+                        {% if filter == "Other" %}
+                            {% assign fil = filter | downcase %}
+                        {% else %}
+                            {% assign fil = split_item[1] | replace: ")", "" %}
+                        {% endif %}
+                        <li class="active-fliter-item"><a aria-label="Remove filter by Topic: {{filter}}" href="javascript:void(0)" data-filter="{{fil}}">
+                            <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                                <use href="/assets/img/sprite.svg#highlight_off"></use>
+                            </svg>
+                            {{filter}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
         </p>
     </div>
     <ul class="usa-card-group">

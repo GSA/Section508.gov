@@ -1622,6 +1622,47 @@ div[role=rowheader] {
 }
 
 /******** styling for content library ********/
+
+.active-filters-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em; /* optional: space between items */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Remove default list styling */
+.active-filters-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Inline list items */
+.active-filter-item {
+  display: inline-block !important;
+  padding: 0.5em 1em;
+  font-size: 80%;
+  border: solid 1px hsl(0, 0%, 50%);
+  color: #333;
+  background: white;
+  margin-right: 0.5em;
+  text-decoration: none !important;
+}
+
+/* Remove bullet from any nested <li> just in case */
+.active-filters-list li::marker {
+  display: none;
+  content: none;
+}
+
+/* Optional: style the link inside the list item */
+.active-filters-list a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .card-tag {
   font-size: .9rem;
   margin-top: .2em;
