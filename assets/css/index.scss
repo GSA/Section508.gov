@@ -1622,7 +1622,29 @@ div[role=rowheader] {
 }
 
 /******** styling for content library ********/
+/* Adjust spacing without checkbox */
+.usa-checkbox__input--tile+[class*=__label] {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding: 0.25rem 0.25rem 0.25rem 0.25rem;
+  display: inline-block !important;
+}
 
+/* Hide checkbox */
+.usa-checkbox__label::before {
+  display: none;
+}
+
+.filter-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-item {
+  display: inline-block!important;
+}
+
+/* Content Library - remove default list styling */
 .active-filters-list {
   display: flex;
   flex-wrap: wrap;
@@ -1632,26 +1654,20 @@ div[role=rowheader] {
   margin: 0;
 }
 
-/* Remove default list styling */
 .active-filters-list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-/* Inline list items */
+/* Content Library inline list items */
 .active-filter-item {
   display: inline-block !important;
-  padding: 0.5em 1em;
-  font-size: 80%;
-  border: solid 1px hsl(0, 0%, 50%);
-  color: #333;
-  background: white;
   margin-right: 0.5em;
   text-decoration: none !important;
 }
 
-/* Remove bullet from any nested <li> just in case */
+/* Content Library - remove bullet from any nested <li> */
 .active-filters-list li::marker {
   display: none;
   content: none;
@@ -1677,13 +1693,6 @@ div[role=rowheader] {
   text-decoration: none;
   color: black;
 }
-.grid-spacing {
-  padding: 0;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 0px 10px 0px 0px;
-
-}
 
 .filters ul {
     display: flex;
@@ -1695,10 +1704,6 @@ div[role=rowheader] {
 
 .filters li {
     margin: 0 2px 2px 0;
-}
-
-.big {
-  font-size: 20px;
 }
 
 .filters a {
@@ -1714,40 +1719,6 @@ div[role=rowheader] {
 
 .filters a:hover {
     outline: 2px solid hsl(0, 0%, 50%);
-}
-
-a.checked {
-    background: hsl(0, 0%, 50%);
-    color: white;
-}
-
-.policy-border {
-  border-top: solid 4px #f2938c;
-}
-
-.priority-border {
-  border-top: solid 4px #97d4ea
-}
-
-
-.website-border {
-  border-top: solid 4px #07648d;
-}
-
-.guidance-border {
-  border-top: solid 4px #07648d;
-}
-
-.report-border {
-  border-top: solid 4px #07648d;
-}
-
-.whitepaper-border {
-  border-top: solid 4px #07648d;
-}
-
-.presentation-border {
-  border-top: solid 4px #07648d;
 }
 
 /*************** styling for resources page ****************/

@@ -12,33 +12,50 @@
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">
-            <h2 class="filter-title font-sans-sm usa-accordion__heading">
-                <button
-                type="button"
-                class="usa-accordion__button"
-                aria-expanded="false"
-                aria-controls="topic-filters"
-                >
-                Filter by Topic
-                </button>
-            </h2>
-            <div id="topic-filters" class="usa-accordion__content usa-prose padding-x-05">
-                <ul class="filter-list" data-filter-group="topic">
-                    {% for item in topics %}
-                        {% assign split_item = item | split: " (" %}
-                        {% assign filter = split_item | slice: 0 %}
-                        {% capture str_filter %}{{filter}}{% endcapture %}
-                        {% if str_filter == "Other" %}
-                            {% assign fil = str_filter | downcase %}
-                        {% else %}
-                            {% assign short_fil = split_item | slice: 1 %}
-                            {% capture str_fil %}{{short_fil}}{%endcapture%}
-                            {% assign fil = str_fil | replace: ")", "" %}
-                        {% endif %}
-                        <li class="fliter-item"><a aria-label="Filter by Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+            <form class="usa-form">
+                <fieldset class="usa-fieldset filter-list" data-filter-group="topic">
+                    <legend class="usa-label">
+                        <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="topic-filters"
+                            >
+                            Filter by Topic
+                            </button>
+                        </h2>
+                    </legend>
+                    <div id="topic-filters" class="usa-accordion__content padding-x-05">
+                        {% for item in topics %}
+                            {% assign split_item = item | split: " (" %}
+                            {% assign filter = split_item | slice: 0 %}
+                            {% capture str_filter %}{{filter}}{% endcapture %}
+                            {% if str_filter == "Other" %}
+                                {% assign fil = str_filter | downcase %}
+                            {% else %}
+                                {% assign short_fil = split_item | slice: 1 %}
+                                {% capture str_fil %}{{short_fil}}{%endcapture%}
+                                {% assign fil = str_fil | replace: ")", "" %}
+                            {% endif %}
+                        <div class="usa-checkbox filter-item">
+                            <input
+                                class="usa-checkbox__input usa-checkbox__input--tile"
+                                id="check-{{fil}}"
+                                type="checkbox"
+                                name="{{fil}}"
+                                value="{{fil}}"
+                                data-filter="{{fil}}"
+                            />
+                            <label class="usa-checkbox__label" for="check-{{fil}}"
+                                >{{filter}}</label
+                            >
+                        </div>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </fieldset>
+            </form>
 
             <h2 class="filter-title font-sans-sm usa-accordion__heading">
                 <button
