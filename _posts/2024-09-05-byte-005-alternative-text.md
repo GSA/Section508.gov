@@ -6,7 +6,7 @@ title: 'Accessibility Bytes No. 5: Alternative Text'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
 social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-09-12
-description: "<strong>Do you know some people rely only on a meaningful description of an image to understand the information contained in the image?</strong><p>Alternative text, also known as alt text, is descriptive text that conveys the meaning of an image in digital content. It’s designed to make visual content accessible to people with vision disabilities."
+description: "Do you know some people rely only on a meaningful description of an image to understand the information contained in the image?"
 contributors: 
 redirect_from:
 - blog/accessibility-bytes/5/ #Allows users to navigate by number
