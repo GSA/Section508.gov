@@ -7,7 +7,7 @@ title: Create Accessible Captions and Transcripts
 contributors: 
 social_img: '{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg'
 created: 2024-05-29
-updated:
+updated: 2025-07-08
 topic: "Content creation (create)"
 sub-topic: "Video/Audio/Multimedia"
 audience:
@@ -25,7 +25,7 @@ To learn more about when and why to use captions and transcripts, review the res
 Captions are typically required for videos that have an audio track. When creating captions for any pre-recorded video with audio, follow these general guidelines:
 
 -   Synchronize the captions to the corresponding audio in the audio track. The text and the speech or sound that the text describes must appear at the same time.
--   Use appropriate spelling, grammar, and punctuation. Captions must have at least 99% accuracy to be readable.
+-   Use appropriate spelling, grammar, and punctuation. Captions must include all of the dialogue (either verbatim or in essence) as well as all important sounds.
 -   Keep captions on screen long enough for viewers to read the text.
 -   Keep captions off the screen when no meaningful sounds are introduced.
 -   Use a consistent style throughout the captions for identifying speakers, sound effects, and music.

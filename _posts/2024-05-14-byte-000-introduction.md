@@ -6,7 +6,7 @@ title: 'Accessibility Bytes: Introduction'
 tags: Accessibility-Bytes Policy-and-Management #choose one or more: Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
 social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-05-14
-description: '<strong>Ever wonder what Section 508 is and why it’s so important? Or what you can do to ensure your work is “accessible?”</strong><p><em>Accessibility Bytes</em> is a new series from the team that brings you Section508.gov to share quick tips you can use to improve the accessibility of the information, communications, and technology you create for federal employees and members of the public.'
+description: 'Ever wonder what Section 508 is and why it’s so important? Or what you can do to ensure your work is “accessible?” <em>Accessibility Bytes</em> is a new series from the team that brings you Section508.gov to share quick tips you can use to improve the accessibility of the information, communications, and technology you create for federal employees and members of the public.'
 contributors: 
 redirect_from:
 - blog/accessibility-bytes/0/ #Allows users to navigate by number

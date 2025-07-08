@@ -6,7 +6,7 @@ title: 'Accessibility Bytes No. 4: Descriptive Links and Hypertext'
 tags: Accessibility-Bytes Content-Creation Testing #choose one or more (comma separated): Accessibility-Bytes, Acquisition, Content-Creation, Design-and-Develop, Events, Policy-and-Management, Testing 
 social_img: '{{site.baseurl}}/assets/images/social-media-og-image-bytes.jpg'
 created: 2024-08-14
-description: "<strong>Do you know some people rely only on the text of a hyperlink to navigate content to find the information they are looking for?</strong><p>By ensuring links are descriptive, clear, and easy to navigate, you help all users, including those with disabilities, to access and understand your content effectively."
+description: "Do you know some people rely only on the text of a hyperlink to navigate content to find the information they are looking for?"
 contributors: 
 redirect_from:
 - blog/accessibility-bytes/4/ #Allows users to navigate by number
