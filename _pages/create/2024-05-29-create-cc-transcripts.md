@@ -4,6 +4,7 @@ sidenav: true
 permalink: create/captions-transcripts/
 type: create
 title: Create Accessible Captions and Transcripts
+description: Create accessible videos with captions and transcripts. Learn technical standards, legal requirements, tools, and best practices from Section508.gov. 
 contributors: 
 social_img: '{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg'
 created: 2024-05-29
@@ -228,4 +229,4 @@ If the audio content contains swearing, slurs, or other offensive language, foll
 -   If the profanity is censored in the audio, indicate that the word or phrase was censored. For example, "I feel like (censored)."
 -   Never replace profanity with euphemisms or substitute words that were not used in the original audio, like replacing "killed" with "unalived."
 
-**Reviewed/Updated:** May 2024
+**Reviewed/Updated:** July 2025
