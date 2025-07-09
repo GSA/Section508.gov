@@ -12,9 +12,9 @@
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">
-            <form class="usa-form">
+            <form class="usa-form margin-y-1">
                 <fieldset class="usa-fieldset filter-list" data-filter-group="topic">
-                    <legend class="usa-label">
+                    <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
                             type="button"
@@ -26,7 +26,7 @@
                             </button>
                         </h2>
                     </legend>
-                    <div id="topic-filters" class="usa-accordion__content padding-x-05">
+                    <div id="topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
                         {% for item in topics %}
                             {% assign split_item = item | split: " (" %}
                             {% assign filter = split_item | slice: 0 %}
@@ -38,16 +38,16 @@
                                 {% capture str_fil %}{{short_fil}}{%endcapture%}
                                 {% assign fil = str_fil | replace: ")", "" %}
                             {% endif %}
-                        <div class="usa-checkbox filter-item">
+                        <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
-                                id="check-{{fil}}"
+                                id="check-{{fil}}-{% increment counter1 %}"
                                 type="checkbox"
                                 name="{{fil}}"
                                 value="{{fil}}"
                                 data-filter="{{fil}}"
                             />
-                            <label class="usa-checkbox__label" for="check-{{fil}}"
+                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
                                 >{{filter}}</label
                             >
                         </div>
@@ -56,25 +56,43 @@
                     </div>
                 </fieldset>
             </form>
-
-            <h2 class="filter-title font-sans-sm usa-accordion__heading">
-                <button
-                type="button"
-                class="usa-accordion__button"
-                aria-expanded="false"
-                aria-controls="sub-topic-filters"
-                >
-                Filter by Sub-Topic
-                </button>
-            </h2>
-            <div id="sub-topic-filters" class="usa-accordion__content usa-prose padding-x-05">
-                <ul class="filter-list" data-filter-group="sub-topic">
-                    {% for filter in sub-topics %}
-                    {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
-                    <li class="fliter-item"><a aria-label="Filter by Sub-Topic: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+            
+            <form class="usa-form margin-y-1">
+                <fieldset class="usa-fieldset filter-list" data-filter-group="topic">
+                    <legend class="usa-label width-full">
+                        <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="sub-topic-filters"
+                            >
+                            Filter by Sub-Topic
+                        </button>
+                    </h2>
+                    </legend>
+                    <div id="sub-topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
+                        {% for item in sub-topics %}
+                        {% assign filter = item %}
+                        {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
+                        <div class="usa-checkbox filter-item margin-2px">
+                            <input
+                                class="usa-checkbox__input usa-checkbox__input--tile"
+                                id="check-{{fil}}-{% increment counter1 %}"
+                                type="checkbox"
+                                name="{{fil}}"
+                                value="{{fil}}"
+                                data-filter="{{fil}}"
+                            />
+                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                                >{{filter}}</label
+                            >
+                        </div>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </fieldset>
+            </form>
 
             <h2 class="filter-title font-sans-sm usa-accordion__heading">
                 <button

@@ -1624,10 +1624,10 @@ div[role=rowheader] {
 /******** styling for content library ********/
 /* Adjust spacing without checkbox */
 .usa-checkbox__input--tile+[class*=__label] {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding: 0.25rem 0.25rem 0.25rem 0.25rem;
   display: inline-block !important;
+  padding: 0.25rem;
+  margin: 0;
+  border: 0;
 }
 
 /* Hide checkbox */
@@ -1642,6 +1642,13 @@ div[role=rowheader] {
 
 .filter-item {
   display: inline-block!important;
+  border: 1px solid #005ea2;
+  border-radius: 0.25rem;
+}
+
+.filter-item:focus-within {
+  border: .25rem solid #2491ff;
+  border-radius: 0.25rem;
 }
 
 /* Content Library - remove default list styling */
