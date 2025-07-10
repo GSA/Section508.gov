@@ -14,7 +14,7 @@
     {% assign resource-types = site.pages  | map: "resource-type" | uniq | compact | sort %}
     {% assign formats = site.pages  | map: "format" | uniq | compact | sort %}
     <div id="active-filters-container" class="margin-bottom-2">
-        <p id="active-filters">Active Filters: 
+        <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
                 <ul id="active-filters-list" class="active-filters-list">
                     {% for item in topics %}
                         {% assign split_item = item | split: " (" %}
@@ -24,7 +24,54 @@
                         {% else %}
                             {% assign fil = split_item[1] | replace: ")", "" %}
                         {% endif %}
-                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1"><a aria-label="Remove filter by Topic: {{filter}}" href="javascript:void(0)" data-filter="{{fil}}">
+                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter="{{fil}}"><a aria-label="Remove filter by Topic: {{filter}}" href="javascript:void(0)">
+                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                                <use href="/assets/img/sprite.svg#highlight_off"></use>
+                            </svg>
+                            {{filter}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    {% for item in sub-topics %}
+                        {% assign filter = item %}
+                        {% assign fil = item | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
+                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter="{{fil}}"><a aria-label="Remove filter by Sub-topic: {{filter}}" href="javascript:void(0)">
+                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                                <use href="/assets/img/sprite.svg#highlight_off"></use>
+                            </svg>
+                            {{filter}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    {% for item in audience %}
+                        {% assign split_item = item | split: " (" %}
+                        {% assign filter = split_item[0] %}
+                        {% assign fil = split_item[1] | replace: ")", "" %}
+                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter="{{fil}}"><a aria-label="Remove filter by Audience: {{filter}}" href="javascript:void(0)">
+                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                                <use href="/assets/img/sprite.svg#highlight_off"></use>
+                            </svg>
+                            {{filter}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    {% for item in resource-types %}
+                        {% assign split_item = item | split: " (" %}
+                        {% assign filter = split_item[0] %}
+                        {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
+                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter="{{fil}}"><a aria-label="Remove filter by Resource Type: {{filter}}" href="javascript:void(0)">
+                            <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
+                                <use href="/assets/img/sprite.svg#highlight_off"></use>
+                            </svg>
+                            {{filter}}
+                            </a>
+                        </li>
+                    {% endfor %}
+                    {% for item in formats %}
+                        {% assign format_split_item = item | split: " (" %}
+                        {% assign filter = split_item[0] %}
+                        {% assign fil = split_item[1] | replace: ")", "" %}
+                        <li class="active-fliter-item bg-secondary-lighter border-solid radius-pill border-primary-vivid border-width-1px padding-left-05 padding-right-1 display-none" data-filter="{{fil}}"><a aria-label="Remove filter by Format: {{filter}}" href="javascript:void(0)">
                             <svg class="usa-icon text-middle margin-bottom-05 text-secondary-darker" aria-hidden="true" focusable="false" role="img">
                                 <use href="/assets/img/sprite.svg#highlight_off"></use>
                             </svg>
@@ -35,7 +82,7 @@
                 </ul>
         </p>
     </div>
-    <ul class="usa-card-group">
+    <ul id="library-cards" class="usa-card-group">
         {% for page in site.pages %}
         {% if page.library-exclude %}
         {% else %}

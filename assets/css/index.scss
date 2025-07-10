@@ -1621,7 +1621,7 @@ div[role=rowheader] {
   margin-left: 48px;
 }
 
-/******** styling for content library ********/
+/******** Styling for content library ********/
 /* Adjust spacing without checkbox */
 .usa-checkbox__input--tile+[class*=__label] {
   display: inline-block !important;
@@ -1634,6 +1634,11 @@ div[role=rowheader] {
   background-color: #e6eff6;
   border: 2px solid #005ea2;
   border-radius: 0.25rem;
+}
+
+/* Library Card transitions */
+#library-cards li {
+  transition: opacity 0.5s ease, transform 0.5s ease;
 }
 
 /* Hide checkbox */
@@ -1686,7 +1691,7 @@ div[role=rowheader] {
   content: none;
 }
 
-/* Optional: style the link inside the list item */
+/* Style the link inside the list item */
 .active-filters-list a {
   text-decoration: none;
   color: inherit;
@@ -1734,43 +1739,3 @@ div[role=rowheader] {
     outline: 2px solid hsl(0, 0%, 50%);
 }
 
-/*************** styling for resources page ****************/
-
-.border-pub {
-  border-left: .2em solid #D83933;
-}
-
-.seprate-line {
-	width: 30px;
-  height: 3px;
-  margin-top: 10px;
-  margin-bottom: 6px;
-  background: #D83933;
-}
-
-.shadow-1 {
-  padding: 10px;
-}
-
-.text-container {
-  height: 140px;
-}
-
-
-.description {
-  font-size: 12px;
-}
-
-.more {
-  text-decoration: none;
-  color: #D83933;
-  height: 30px;
-  font-size: 12px;
-
-}
-
-.title-resources {
-  font-size: 14.2px;
-  line-height: 20px;
-  font-weight: 500;
-}

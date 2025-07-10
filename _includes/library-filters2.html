@@ -2,7 +2,7 @@
 
 <div class="tablet:grid-col-3">
 
-    <a class="usa-button usa-button--accent-cool margin-bottom-2" href="#">Reset Filter</a>
+    <a id="reset-filters" class="usa-button usa-button--accent-cool margin-bottom-2" href="javascript:void(0)">Reset Filter</a>
 
     {% assign topics = site.pages  | map: "topic" | uniq | compact | sort %}
     {% assign sub-topics = site.pages  | map: "sub-topic" | uniq | compact | sort %}
