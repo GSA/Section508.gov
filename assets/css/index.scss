@@ -1630,6 +1630,12 @@ div[role=rowheader] {
   border: 0;
 }
 
+.usa-checkbox__input--tile:checked+[class*=__label] {
+  background-color: #e6eff6;
+  border: 2px solid #005ea2;
+  border-radius: 0.25rem;
+}
+
 /* Hide checkbox */
 .usa-checkbox__label::before {
   display: none;

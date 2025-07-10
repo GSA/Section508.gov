@@ -29,14 +29,11 @@
                     <div id="topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
                         {% for item in topics %}
                             {% assign split_item = item | split: " (" %}
-                            {% assign filter = split_item | slice: 0 %}
-                            {% capture str_filter %}{{filter}}{% endcapture %}
-                            {% if str_filter == "Other" %}
-                                {% assign fil = str_filter | downcase %}
+                            {% assign filter = split_item[0] %}
+                            {% if filter == "Other" %}
+                                {% assign fil = filter | downcase %}
                             {% else %}
-                                {% assign short_fil = split_item | slice: 1 %}
-                                {% capture str_fil %}{{short_fil}}{%endcapture%}
-                                {% assign fil = str_fil | replace: ")", "" %}
+                                {% assign fil = split_item[1] | replace: ")", "" %}
                             {% endif %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
@@ -55,10 +52,8 @@
                         </ul>
                     </div>
                 </fieldset>
-            </form>
-            
-            <form class="usa-form margin-y-1">
-                <fieldset class="usa-fieldset filter-list" data-filter-group="topic">
+
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="topic">
                     <legend class="usa-label width-full">
                         <h2 class="filter-title font-sans-sm usa-accordion__heading">
                             <button
@@ -92,75 +87,115 @@
                         </ul>
                     </div>
                 </fieldset>
-            </form>
 
-            <h2 class="filter-title font-sans-sm usa-accordion__heading">
-                <button
-                type="button"
-                class="usa-accordion__button"
-                aria-expanded="false"
-                aria-controls="audience-filters"
-                >
-                Filter by Audience
-                </button>
-            </h2>
-            <div id="audience-filters" class="usa-accordion__content usa-prose padding-x-05">
-                <ul class="filter-list" data-filter-group="audience">
-                    {% for item in audience %}
-                    {% assign split_item = item | split: " (" %}
-                    {% assign filter = split_item | slice: 0 %}
-                    {% assign short_fil = split_item | slice: 1 %}
-                    {% capture str_filter %}{{short_fil}}{%endcapture%}
-                    {% assign fil = str_filter | replace: ")", "" %}
-                    <li class="fliter-item"><a aria-label="Filter by Audience: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-            
-            <h2 class="filter-title font-sans-sm usa-accordion__heading">
-                <button
-                type="button"
-                class="usa-accordion__button"
-                aria-expanded="false"
-                aria-controls="resource-type-filters"
-                >
-                Filter by Resource Type
-                </button>
-            </h2>
-            <div id="resource-type-filters" class="usa-accordion__content usa-prose padding-x-05">
-                <ul class="filter-list" data-filter-group="resource-type">
-                    {% for item in resource-types %}
-                    {% assign split_item = item | split: " (" %}
-                    {% assign filter = split_item | slice: 0 %}
-                    {% capture str_filter %}{{filter}}{%endcapture%}
-                    {% assign fil = str_filter | downcase | replace: " ","-" | replace: "/","-" %}
-                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
-            
-            <h2 class="filter-title font-sans-sm usa-accordion__heading">
-                <button
-                type="button"
-                class="usa-accordion__button"
-                aria-expanded="false"
-                aria-controls="format-filters"
-                >
-                Filter by Format
-                </button>
-            </h2>
-            <div id="format-filters" class="usa-accordion__content usa-prose padding-x-05">
-                <ul class="filter-list" data-filter-group="format">
-                    {% for item in formats %}
-                    {% assign split_item = item | split: " (" %}
-                    {% assign filter = split_item | slice: 0 %}
-                    {% assign short_fil = split_item | slice: 1 %}
-                    {% capture str_filter %}{{short_fil}}{%endcapture%}
-                    {% assign fil = str_filter | replace: ")", "" %}
-                    <li class="fliter-item"><a aria-label="Filter by Resource Type: {{filter}}" role="checkbox" aria-checked="false" href="javascript:void(0)" data-filter="{{fil}}">{{filter}}</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="topic">
+                    <legend class="usa-label width-full">
+                        <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="audience-filters"
+                            >
+                            Filter by Audience
+                        </button>
+                    </h2>
+                    </legend>
+                    <div id="audience-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
+                        {% for item in audience %}
+                            {% assign split_item = item | split: " (" %}
+                            {% assign filter = split_item[0] %}
+                            {% assign fil = split_item[1] | replace: ")", "" %}
+                        <div class="usa-checkbox filter-item margin-2px">
+                            <input
+                                class="usa-checkbox__input usa-checkbox__input--tile"
+                                id="check-{{fil}}-{% increment counter1 %}"
+                                type="checkbox"
+                                name="{{fil}}"
+                                value="{{fil}}"
+                                data-filter="{{fil}}"
+                            />
+                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                                >{{filter}}</label
+                            >
+                        </div>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </fieldset>
+
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="topic">
+                    <legend class="usa-label width-full">
+                        <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resource-type-filters"
+                            >
+                            Filter by Resource Type
+                        </button>
+                    </h2>
+                    </legend>
+                    <div id="resource-type-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
+                         {% for item in resource-types %}
+                            {% assign split_item = item | split: " (" %}
+                            {% assign filter = split_item[0] %}
+                            {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
+                        <div class="usa-checkbox filter-item margin-2px">
+                            <input
+                                class="usa-checkbox__input usa-checkbox__input--tile"
+                                id="check-{{fil}}-{% increment counter1 %}"
+                                type="checkbox"
+                                name="{{fil}}"
+                                value="{{fil}}"
+                                data-filter="{{fil}}"
+                            />
+                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                                >{{filter}}</label
+                            >
+                        </div>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </fieldset>
+
+                <fieldset class="usa-fieldset filter-list margin-y-1" data-filter-group="topic">
+                    <legend class="usa-label width-full">
+                        <h2 class="filter-title font-sans-sm usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="format-filters"
+                            >
+                            Filter by Format
+                        </button>
+                    </h2>
+                    </legend>
+                    <div id="format-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
+                         {% for item in formats %}
+                            {% assign split_item = item | split: " (" %}
+                            {% assign filter = split_item[0] %}
+                            {% assign fil = split_item[1] | replace: ")", "" %}
+                        <div class="usa-checkbox filter-item margin-2px">
+                            <input
+                                class="usa-checkbox__input usa-checkbox__input--tile"
+                                id="check-{{fil}}-{% increment counter1 %}"
+                                type="checkbox"
+                                name="{{fil}}"
+                                value="{{fil}}"
+                                data-filter="{{fil}}"
+                            />
+                            <label class="usa-checkbox__label font-sans-xs" for="check-{{fil}}-{% increment counter2 %}"
+                                >{{filter}}</label
+                            >
+                        </div>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </fieldset>
+            </form>
         </div>
     </nav>
 </div>
