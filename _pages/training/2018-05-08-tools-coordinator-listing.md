@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-07-08
+updated: 2025-07-10
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -581,7 +581,7 @@ Mohammad Islam - <mohammad.islam@gsa.gov>
 
 ---
 ## <span id="usnasa" ></span>National Aeronautics and Space Administration (NASA)
-Courtney L. Ritz - <courtney.l.ritz@nasa.gov>  
+Phillip A. Gross - <phillip.a.gross@nasa.gov>  
 ### <span id="usgsfc" ></span>Goddard Space Flight Center
 Betsy Sirk - <betsy.sirk-1@nasa.gov>
 
@@ -685,8 +685,8 @@ William Jackson - <bjackson@eac.gov>
 
 ---
 ### Equal Employment Opportunity Commission (EEOC)
-Catherine Archambeault - <catherine.archambeault@eeoc.gov>. 
-Sivaram (Siva) Ghorakavi (Deputy) - <sivaram.ghorakavi@eeoc.gov>. 
+Catherine Archambeault - <catherine.archambeault@eeoc.gov>  
+Sivaram (Siva) Ghorakavi (Deputy) - <sivaram.ghorakavi@eeoc.gov>   
 
 ---
 
@@ -719,7 +719,7 @@ Dornesia Webster - <dornesia.webster@ferc.gov>
 
 ---
 ### Federal Housing Finance Agency (FHFA)
-James Myers - <james.myers@fhfa.gov>  
+Warren Hammonds - <warren.hammonds@fhfa.gov>  
 
 ---
 ### Federal Labor Relations Authority (FLRA)
@@ -944,7 +944,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: June 2025
+**Reviewed/Updated**: July 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
