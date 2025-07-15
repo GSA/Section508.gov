@@ -35,6 +35,7 @@
                             {% else %}
                                 {% assign fil = split_item[1] | replace: ")", "" %}
                             {% endif %}
+                            {% if fil != "" %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
@@ -48,6 +49,7 @@
                                 >{{filter}}</label
                             >
                         </div>
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>
@@ -68,8 +70,9 @@
                     </legend>
                     <div id="sub-topic-filters" class="usa-accordion__content padding-y-05 padding-x-0 margin-top-05">
                         {% for item in sub-topics %}
-                        {% assign filter = item %}
-                        {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
+                            {% assign filter = item %}
+                            {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" | replace: ",","" %}
+                            {% if fil != "" %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
@@ -83,6 +86,7 @@
                                 >{{filter}}</label
                             >
                         </div>
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>
@@ -106,6 +110,7 @@
                             {% assign split_item = item | split: " (" %}
                             {% assign filter = split_item[0] %}
                             {% assign fil = split_item[1] | replace: ")", "" %}
+                            {% if fil != "" %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
@@ -119,6 +124,7 @@
                                 >{{filter}}</label
                             >
                         </div>
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>
@@ -142,6 +148,7 @@
                             {% assign split_item = item | split: " (" %}
                             {% assign filter = split_item[0] %}
                             {% assign fil = filter | downcase | replace: " ","-" | replace: "/","-" %}
+                            {% if fil != "" %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
@@ -155,6 +162,7 @@
                                 >{{filter}}</label
                             >
                         </div>
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>
@@ -178,6 +186,7 @@
                             {% assign split_item = item | split: " (" %}
                             {% assign filter = split_item[0] %}
                             {% assign fil = split_item[1] | replace: ")", "" %}
+                            {% if fil != "" %}
                         <div class="usa-checkbox filter-item margin-2px">
                             <input
                                 class="usa-checkbox__input usa-checkbox__input--tile"
@@ -191,6 +200,7 @@
                                 >{{filter}}</label
                             >
                         </div>
+                            {% endif %}
                         {% endfor %}
                         </ul>
                     </div>
