@@ -13,14 +13,16 @@ manage:
         grandchildren:
           - name: Accessibility Roles
             url: manage/roles/
+          - name: Developing a Training Plan
+            url: manage/developing-a-section-508-training-plan/
+          - name: IT Accessibility/508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
           - name: Teach Staff about Accessibility
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
             url: manage/track-report-conformance/
-          - name: IT Accessibility/508 Program Manager Responsibilities
-            url: manage/program-manager-responsibilities/
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
       - name: Practical Reasons for Digital Accessibility
