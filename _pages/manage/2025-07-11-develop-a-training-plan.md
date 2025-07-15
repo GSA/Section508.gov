@@ -13,7 +13,7 @@ audience:
 - "508 Program Manager (508pm)"
 - "Federal employee (fedemp)"
 - "agency-head"
-- "hr-chco”
+- "hr-chco"
 resource-type: "Process/How-to"
 format: "HTML (html)"
 redirect_from:
