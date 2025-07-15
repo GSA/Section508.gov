@@ -341,7 +341,7 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
       <td>
       <ul>
       <li>How effective is the LMS or training system at capturing metrics?</li>
-       <li>Are employees retaining content, as measured by knowledge assessments or final exams? </li>
+       <li>Are employees retaining content, as measured by knowledge assessments or final exams?</li>
        <li>What success metrics trends can be discerned?</li></ul></td></tr>
     <tr>
       <td scope="row">Solicit feedback from participants for improvement.</td>
@@ -354,7 +354,7 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
       <td>
       <ul>
       <li>How often will training content be refreshed or updated?</li>  
-       <li>Establish metrics to gauge training efficacy.</li></u></td></tr>
+       <li>Establish metrics to gauge training efficacy.</li></ul></td></tr>
   <tr>
       <td scope="row">Adjust content and training based on policy or technology updates.</td>
       <td>
