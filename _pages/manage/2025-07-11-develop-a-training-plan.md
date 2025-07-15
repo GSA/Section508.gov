@@ -26,12 +26,12 @@ This checklist covers seven key areas to guide considerations in the development
 
 This section focuses on establishing a clear understanding of applicable laws, agency strategic goals, and mission-based ICT to inform the foundational knowledge on which to educate employees. 
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-governance" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -86,12 +86,12 @@ This section focuses on establishing a clear understanding of applicable laws, a
 ## Conduct Role-Based Needs Assessment
 This section focuses on the importance of assessing and addressing accessibility training needs based on specific job roles within an agency. By identifying how each role interacts with Section 508 and prioritizing those with the greatest impact, agencies ensure targeted, effective training to support compliance and improve ICT accessibility outcomes.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-needs" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -136,12 +136,12 @@ This section focuses on the importance of assessing and addressing accessibility
 
 This section focuses on clearly defining and enforcing mandatory ICT accessibility training based on legal obligations and job functions. It ensures employees in key roles receive timely, role-specific training and agencies track compliance through structured monitoring systems.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-requirements" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
   </thead>
 <tbody>    
@@ -191,12 +191,12 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
 
 This section focuses on the need to choose effective training delivery methods by evaluating existing platforms and formats. It highlights the importance of coordinating across departments and offering alternative formats to support accessibility and learning needs.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-delivery" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -237,12 +237,12 @@ This section focuses on the need to choose effective training delivery methods b
 
 This section focuses on the importance of tailoring accessibility training to specific roles to ensure employees receive relevant, actionable guidance aligned with their responsibilities. By aligning training content with job functions, agencies build targeted skills, reduce compliance risks, and improve overall ICT accessibility outcomes.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-develop" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -290,12 +290,12 @@ This section focuses on the importance of tailoring accessibility training to sp
 
 This section focuses on the importance of a clear, audience-specific communication plan to effectively roll out ICT accessibility training. Strategic messaging and timing help ensure awareness, compliance, and engagement, while highlighting the broader benefits of accessibility, such as cost savings and operational efficiency.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-communications" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -327,12 +327,12 @@ This section focuses on the importance of a clear, audience-specific communicati
 
 This section focuses on the need for ongoing evaluation and refinement of ICT accessibility training. By using success metrics, gathering feedback, and regularly updating content to reflect policy or technology changes, agencies ensure training remains effective, relevant, and aligned with compliance and strategic goals.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-evaluation" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
@@ -371,12 +371,12 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
 
 The purpose of this planning section is to establish a formal, sustainable foundation for ICT accessibility training within the agency’s Section 508 program. Documenting policies and procedures ensures roles and responsibilities are clearly defined, training expectations are consistent and measurable, and compliance obligations are met. Integrating this policy into the broader agency governance framework promotes accountability, supports workforce readiness, and reinforces the agency’s long-term commitment to accessibility and inclusive technology practices.
 
-<table id="table-" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
+<table id="table-document" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
   <caption></caption>
   <thead>
     <tr>
-        <th class="center-important">Consideration</th>
-        <th class="center-important">Activities</th>
+        <th scope="col" class="center-important">Consideration</th>
+        <th scope="col" class="center-important">Activities</th>
     </tr>
     </thead>
 <tbody>    
