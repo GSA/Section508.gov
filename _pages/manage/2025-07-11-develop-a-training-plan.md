@@ -5,9 +5,9 @@ permalink: manage/developing-a-section-508-training-plan/
 type: manage
 title: 'Considerations for Developing a Section 508 Training Plan'
 description: Learn how to develop a Section 508 agency training program to help staff understand their roles in complying with Section 508, reduce the risk of costly remediation, and support consistent application of ICT standards across roles, content, systems, and procurement processes. 
-created: 2025-07-11
+created: 2025-07-15
 topic: "Manage (program)"
-sub-topic: “Manage a 508 Program”, “Content Creation Training or Tools”
+sub-topic: "Manage a 508 Program"
 audience:
 - "Manager/Exec (exec)"
 - "508 Program Manager (508pm)"
