@@ -36,7 +36,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Identify and review applicable accessibility laws and standards, Office of Management and Budget (OMB) guidance, and policies.</td>
+      <th scope="row">Identify and review applicable accessibility laws and standards, Office of Management and Budget (OMB) guidance, and policies.</th>
       <td>
       <ul>
       <li>Identify what tasks your agency performs.</li>  
@@ -46,7 +46,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
       </td>
     </tr>
    <tr>
-      <td scope="row">Define agency-specific accessibility goals and obligations.</td>
+      <th scope="row">Define agency-specific accessibility goals and obligations.</th>
       <td>
       <ul>
         <li>Review your agency’s strategic plan. </li>  
@@ -56,7 +56,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
       </td>
       </tr> 
     <tr>
-      <td scope="row">Identify existing internal accessibility governance bodies, training points of contact, and other relevant internal controls or stakeholders.</td>
+      <th scope="row">Identify existing internal accessibility governance bodies, training points of contact, and other relevant internal controls or stakeholders.</th>
       <td>
       <ul>
       <li>Identify all training points of contact.</li>
@@ -66,7 +66,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
       </td>
       </tr> 
     <tr>
-      <td scope="row">Identify mission-based ICT. </td>
+      <th scope="row">Identify mission-based ICT. </th>
       <td>
       <ul>
       <li>Does your plan address ICT unique to your mission, such as scientific lab equipment?</li> 
@@ -75,7 +75,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
       </td>
     </tr> 
     <tr>
-      <td scope="row">Audit policies and procedures for Section 508 conformance responsibilities to ensure training includes or specifies responsibilities defined by your agency.</td>
+      <th scope="row">Audit policies and procedures for Section 508 conformance responsibilities to ensure training includes or specifies responsibilities defined by your agency.</th>
       <td>Does agency training indicate who is responsible for activities, such as 
       <ul>
        <li>Contracting Officer Representative (COR) is responsible for ensuring Section 508 language is included in each ICT procurement.</li>  
@@ -96,7 +96,7 @@ This section focuses on the importance of assessing and addressing accessibility
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Identify all job roles across the agency such as developers, web content managers, document authors, Section 508 testers, Human Resources (HR), acquisition and procurement, content creators, and leadership.</td>
+      <th scope="row">Identify all job roles across the agency such as developers, web content managers, document authors, Section 508 testers, Human Resources (HR), acquisition and procurement, content creators, and leadership.</th>
       <td>
       <ul>
       <li>Create a list of all unique job roles in your agency.</li> 
@@ -106,7 +106,7 @@ This section focuses on the importance of assessing and addressing accessibility
       </td>
     </tr>
   <tr>
-      <td scope="row">Map how each role interacts with Section 508 such as ICT types, product development, communications, procurement, and service delivery.</td>
+      <th scope="row">Map how each role interacts with Section 508 such as ICT types, product development, communications, procurement, and service delivery.</th>
       <td>
       <ul>
       <li>Document responsibilities for each role.</li>  
@@ -115,7 +115,7 @@ This section focuses on the importance of assessing and addressing accessibility
       </td>
   </tr>
   <tr>
-      <td scope="row">Determine knowledge and skill gaps by role.</td>
+      <th scope="row">Determine knowledge and skill gaps by role.</th>
       <td>
       <ul>
       <li>Identify at least one training, shared or role-specific, for each role.</li>
@@ -123,7 +123,7 @@ This section focuses on the importance of assessing and addressing accessibility
       <li>Have you considered each role and any gaps in knowledge that may exist?</li> 
       <li>Consult the <a href="https://www.section508.gov/manage/roles/#key-agency-stakeholders">Key Agency Stakeholder list</a>.</li></ul></td></tr> 
 <tr>
-      <td scope="row">Prioritize roles with high accessibility impact such as acquisition professionals, developers and testers, requirements officials, content creators, web content managers, and communications officials.</td>
+      <th scope="row">Prioritize roles with high accessibility impact such as acquisition professionals, developers and testers, requirements officials, content creators, web content managers, and communications officials.</th>
       <td>
       <ul>
       <li>Prioritize training. This may be determined by the number of employees in specific roles or those with high impact roles.</li>  
@@ -143,16 +143,16 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
         <th class="center-important">Consideration</th>
         <th class="center-important">Activities</th>
     </tr>
-    </thead>
+  </thead>
 <tbody>    
     <tr>
-      <td scope="row">Develop justification criteria for making training mandatory by role. Some roles that may justify required training are:
+      <th scope="row">Develop justification criteria for making training mandatory by role. Some roles that may justify required training are:
       <ul>
       <li>Acquisition professionals due to legal requirements that may apply to procurement.</li>  
       <li>Public-facing content creators, including communications officials.</li>  
       <li>Employees involved in digital services, including web content managers who serve as approvers of ICT.</li>
       <li>ICT developers and testers.</li>  
-      <li>ICT program or project management.</li></ul></td>
+      <li>ICT program or project management.</li></ul></th>
       <td>
       <ul>
       <li>At minimum, require basic training or general knowledge about Section 508 requirements and agency resources.</li>  
@@ -162,13 +162,13 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
        <li>Create a justification matrix that details role, training topic, justification related to risk, regulatory or operations, frequency, and if it is mandatory.</li>
        <li>Need a sample training justification? Consider using <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Template.docx">Mandatory Section 508 Training Justification Template (DOCX)</a> and <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx"> Mandatory Section 508 Training Justification Example (DOCX)</a>.</li></ul></td></tr>
     <tr>
-      <td scope="row">Establish frequency of required training such as:
+      <th scope="row">Establish frequency of required training such as:
       <ul>
        <li>Onboarding or one-time requirement</li>  
        <li>Annual or biennial refresher</li>
        <li>Role-based</li>
        <li>Role change or promotion</li>  
-       <li>Project-based</li></ul></td>
+       <li>Project-based</li></ul></th>
       <td>
       <ul>
       <li>At minimum, an annual Section 508 basics or general knowledge training is recommended.</li>  
@@ -178,7 +178,7 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
        <li>Consider how HR systems support this training requirement.</li>  
        <li>Create a training matrix to define who gets trained, on what, and how often.</li></ul></td></tr>
     <tr>
-      <td scope="row">Include completion monitoring and reporting mechanisms such as learning management system (LMS) or certificate tracking.</td>
+      <th scope="row">Include completion monitoring and reporting mechanisms such as learning management system (LMS) or certificate tracking.</th>
       <td>
       <ul>
       <li> How will the agency track completion?</li> 
@@ -201,7 +201,7 @@ This section focuses on the need to choose effective training delivery methods b
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Evaluate existing LMS capabilities or training mechanism(s) used in your agency.</td>
+      <th scope="row">Evaluate existing LMS capabilities or training mechanism(s) used in your agency.</th>
       <td>
       <ul>
       <li>Consult with HR or the LMS system owner to understand current capabilities.</li> 
@@ -209,13 +209,13 @@ This section focuses on the need to choose effective training delivery methods b
        <li>Will the current training mechanism impact the effectiveness of training content?</li>   
        <li>Document any processes needed to upload training into an existing LMS or other training mechanism.</li></ul></td></tr>
      <tr>
-      <td scope="row">Consider curricula outside of your agency such as training on <a href="http://FAI.gov" target="_blank" class="usa-link--external">FAI.gov</a>, <a href="https://www.section508.gov/training/">Section508.gov</a>, or <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a>.</td>
+      <th scope="row">Consider curricula outside of your agency such as training on <a href="http://FAI.gov" target="_blank" class="usa-link--external">FAI.gov</a>, <a href="https://www.section508.gov/training/">Section508.gov</a>, or <a href="https://www.section508.gov/training/online-training/add-our-training-to-your-lms/">Add GSA’s Section 508 Training Courses to Your LMS</a>.</th>
       <td>
       <ul>
       <li>Complete an analysis of alternatives to determine if there are any government-provided training, modules, or courses that may meet needs.</li> 
        <li>Collaborate with external stakeholders to integrate pertinent training materials into your Learning Management System (LMS) or other training platforms.</li></ul></td></tr>
     <tr>
-      <td scope="row">Consider the most impactful delivery format(s) such as self-paced, eLearning, instructor-led, or on-demand videos.</td>
+      <th scope="row">Consider the most impactful delivery format(s) such as self-paced, eLearning, instructor-led, or on-demand videos.</th>
       <td>
       <ul>
       <li>Consult stakeholders from each role or responsibility to understand the most effective delivery method.</li>  
@@ -223,11 +223,11 @@ This section focuses on the need to choose effective training delivery methods b
        <li>Evaluate the costs and resources required for training development and delivery.</li>  
        <li>Factor content update frequency into resource needs.</li></ul></td></tr>
     <tr>
-      <td scope="row">Coordinate with appropriate offices for integration. This may include agency head, HR, IT, Acquisitions, and Section 508 offices.  Engage other component offices or stakeholders as required.</td>
+      <th scope="row">Coordinate with appropriate offices for integration. This may include agency head, HR, IT, Acquisitions, and Section 508 offices.  Engage other component offices or stakeholders as required.</th>
       <td>
       <ul>
       <li>Have you identified all stakeholders involved in the training rollout?</li> 
-       <li>Are you aware of the process to integrate training into roles and responsibilities? </li> 
+       <li>Are you aware of the process to integrate training into roles and responsibilities?</li> 
        <li>Is there a documented standard operating procedure (SOP) or equivalent that outlines the frequency and content updates for training?</li>  
        <li>Do you have documented roles and responsibilities?</li></ul></td></tr>
 </tbody>
@@ -247,22 +247,22 @@ This section focuses on the importance of tailoring accessibility training to sp
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Define basic accessibility training topics such as disability awareness, digital accessibility and Section 508 general awareness, and role-based knowledge.</td>
+      <th scope="row">Define basic accessibility training topics such as disability awareness, digital accessibility and Section 508 general awareness, and role-based knowledge.</th>
       <td>
       <ul>
       <li>What topics should every employee learn about?</li>  
        <li>How do these topics align with agency mission and agency-specific ICT?</li>
        <li>What resources should employees be aware of?</li></ul></td></tr>
     <tr>
-      <td scope="row">Develop role-specific modules based on your role-based needs assessment. For example:
+      <th scope="row">Develop role-specific modules based on your role-based needs assessment. For example:
       <ul>
        <li>Executives and Leadership need to understand applicable policies, risk and risk assessments, and return on investments.</li>  
-       <li>ICT Developers and Testers need to understand Section 508 standards, the <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio</a>, and testing tools. Note: Developers and testers may benefit from the same course, but where resources are available, slight deviations in training topics and exercises may improve foundational knowledge needed for each role.</li>  
+       <li>ICT Developers and Testers need to understand Section 508 standards, the <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio</a>, and testing tools. <strong>Note:</strong> Developers and testers may benefit from the same course, but where resources are available, slight deviations in training topics and exercises may improve foundational knowledge needed for each role.</li>  
        <li>Designers need to understand color use, contrast, navigation, and a good user journey.</li>  
        <li>Procurement professionals need to understand accessible acquisition processes, Quality Assurance Surveillance Plans, Contractor Performance Assessment Reporting System, and Federal Acquisition Regulations.</li>  
        <li>HR needs to understand Reasonable accommodations in coordination with Equal Employment Opportunity (EEO) or appropriate agency office; LMS platform, courses, and downloadable certificates; Employment forms, tax forms, etc.</li>   
        <li>Product or System Owners need to understand ICT requirements specific to what they develop; How to include Section 508 in budgetary and staffing considerations; How ICT intersects with the physical building such as printers, copiers, and digital signage; Responsibility for preventing inaccessible ICT from being released to users  and associated risk.</li> 
-       <li>Communications need to understand electronic content conformance, including social media, audio, video, multimedia, digital forms, and electronic signatures.</li></ul></td>
+       <li>Communications need to understand electronic content conformance, including social media, audio, video, multimedia, digital forms, and electronic signatures.</li></ul></th>
       <td>
       <ul>
       <li>Prioritize content or roles for development first.</li>  
@@ -271,22 +271,22 @@ This section focuses on the importance of tailoring accessibility training to sp
        <li>What content should be included in each module?</li> 
        <li>Assess the necessary additional support for module content creation.</li></ul></td></tr>
     <tr>
-      <td scope="row">Ensure all training content is Section 508 conformant.</td>
+      <th scope="row">Ensure all training content is Section 508 conformant.</th>
       <td>
       <ul>
        <li>Develop content with accessibility in mind.</li>  
        <li>Is the LMS used Section 508 conformant?</li> 
        <li>Perform comprehensive Section 508 conformance testing on all learning content.</li></ul></td></tr>
   <tr>
-      <td scope="row">Provide alternative formats of training content for Reasonable Accommodation or to accommodate different learning styles.</td>
+      <th scope="row">Provide alternative formats of training content for Reasonable Accommodation or to accommodate different learning styles.</th>
       <td>
       <ul>
       <li>Offer contact information for students needing alternative formats.</li>  
-       <li>Identify agency points of contact who assist with alternative format creation.</li></ul></td></tr>
+      <li>Identify agency points of contact who assist with alternative format creation.</li></ul></td></tr>
     </tbody>
     </table>
 
- ## Develop Communication and Rollout Plan
+## Develop Communication and Rollout Plan
 
 This section focuses on the importance of a clear, audience-specific communication plan to effectively roll out ICT accessibility training. Strategic messaging and timing help ensure awareness, compliance, and engagement, while highlighting the broader benefits of accessibility, such as cost savings and operational efficiency.
 
@@ -300,14 +300,14 @@ This section focuses on the importance of a clear, audience-specific communicati
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Create a communication strategy—with announcements and reminders—for training requirements. Choose strategic timing, for example, that aligns with annual training requirements.</td>
+      <th scope="row">Create a communication strategy—with announcements and reminders—for training requirements. Choose strategic timing, for example, that aligns with annual training requirements.</th>
       <td>
       <ul>
       <li>Identify a training calendar that aligns with compliance cycles already implemented in your agency.</li>  
        <li>Does your agency currently have a system in place to notify employees about mandatory training?</li> 
        <li>Is there a reasonable deadline for training completion?</li></ul></td></tr>
     <tr>
-      <td scope="row">Tailor communication messages by audience such as mandatory versus recommended and by roles and responsibilities.</td>
+      <th scope="row">Tailor communication messages by audience such as mandatory versus recommended and by roles and responsibilities.</th>
       <td>
       <ul>
       <li>Determine available communication methods within your agency.</li>   
@@ -315,11 +315,11 @@ This section focuses on the importance of a clear, audience-specific communicati
        <li>Consider a multi-channel communication approach.</li>   
        <li>Document your communications approach that details who, how, why, and when.</li></ul></td></tr>
     <tr>
-      <td scope="row">Promote ICT accessibility tailored to your mission—don't forget about the benefits of strategic cost savings and increased efficiencies.</td>
+      <th scope="row">Promote ICT accessibility tailored to your mission—don't forget about the benefits of strategic cost savings and increased efficiencies.</th>
       <td>
       <ul>
       <li>Does your Section 508 strategic communications plan require an update to incorporate training?</li>  
-       <li>Explore effective methods to promote ICT accessibility within your agency.</li></ul></td></tr>
+      <li>Explore effective methods to promote ICT accessibility within your agency.</li></ul></td></tr>
 </tbody>
 </table>
 
@@ -337,32 +337,32 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Establish success metrics such as completion rates, knowledge assessments, and final exams.</td>
+      <th scope="row">Establish success metrics such as completion rates, knowledge assessments, and final exams.</th>
       <td>
       <ul>
       <li>How effective is the LMS or training system at capturing metrics?</li>
        <li>Are employees retaining content, as measured by knowledge assessments or final exams?</li>
        <li>What success metrics trends can be discerned?</li></ul></td></tr>
     <tr>
-      <td scope="row">Solicit feedback from participants for improvement.</td>
+      <th scope="row">Solicit feedback from participants for improvement.</th>
       <td>
       <ul>
       <li>Is there a feedback collection feature within the LMS or training system?</li>  
        <li>How frequently will feedback be reviewed and a course of action planned to address it?</li></ul></td></tr>
     <tr>
-      <td scope="row">Monitor training content, knowledge checks metrics and feedback—as well as conformance metrics—and adjust content and training emphasis to improve learning success.</td>
+      <th scope="row">Monitor training content, knowledge checks metrics and feedback—as well as conformance metrics—and adjust content and training emphasis to improve learning success.</th>
       <td>
       <ul>
       <li>How often will training content be refreshed or updated?</li>  
        <li>Establish metrics to gauge training efficacy.</li></ul></td></tr>
   <tr>
-      <td scope="row">Adjust content and training based on policy or technology updates.</td>
+      <th scope="row">Adjust content and training based on policy or technology updates.</th>
       <td>
       <ul>
       <li>What criteria or threshold determines when training content should be updated such as the release of a new policy?</li>  
-       <li>What is the criteria or threshold for reviewing and revising training content?</li></ul></td></tr>
+      <li>What is the criteria or threshold for reviewing and revising training content?</li></ul></td></tr>
   <tr>
-      <td scope="row">Conduct periodic reviews and update the training plan as needed.</td>
+      <th scope="row">Conduct periodic reviews and update the training plan as needed.</th>
       <td><ul><li>What is the frequency for reviewing and revising the training plan?</li></ul></td></tr>
 </tbody>
 </table>
@@ -381,21 +381,21 @@ The purpose of this planning section is to establish a formal, sustainable found
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Create a formal ICT Accessibility Training policy or plan as part of the Section 508 program’s strategic plan.</td>
+      <th scope="row">Create a formal ICT Accessibility Training policy or plan as part of the Section 508 program’s strategic plan.</th>
       <td>
       <ul>
       <li>Are there any training elements within the current Section 508 program's strategic plan?</li>  
        <li>Have you considered all items in this checklist during the drafting of an ICT accessibility training policy or plan?</li>  
        <li>To formalize the training plan, what buy-in or approval is necessary?</li></ul></td></tr>
     <tr>
-      <td scope="row">Include documentation of:
+      <th scope="row">Include documentation of:
         <ul>
            <li>Roles and responsibilities.</li> 
            <li>Training frequency and formats.</li>  
-           <li>Compliance requirements.</li></ul></td>
+           <li>Compliance requirements.</li></ul></th>
       <td><ul><li>Include all documentation such as roles and responsibilities, role map to intersection with Section 508 compliance, repeatable matrices, criteria, or processes to help others understand training frequency and formats.</li></ul></td></tr>
    <tr>
-      <td scope="row">Ensure the ICT Accessibility Training policy is part of broader agency governance frameworks.</td>
+      <th scope="row">Ensure the ICT Accessibility Training policy is part of broader agency governance frameworks.</th>
       <td>
       <ul>
       <li>Do you know whom to engage within your agency to ensure the ICT Accessibility Training plan is adopted?</li>  
