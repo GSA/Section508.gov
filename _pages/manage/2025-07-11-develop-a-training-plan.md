@@ -76,7 +76,7 @@ This section focuses on establishing a clear understanding of applicable laws, a
     </tr> 
     <tr>
       <td scope="row">Audit policies and procedures for Section 508 conformance responsibilities to ensure training includes or specifies responsibilities defined by your agency.</td>
-      <td>Does agency training indicate who is responsible for activities, such as<br> 
+      <td>Does agency training indicate who is responsible for activities, such as 
       <ul>
        <li>Contracting Officer Representative (COR) is responsible for ensuring Section 508 language is included in each ICT procurement.</li>  
        <li>Web Content Manager is responsible for ensuring website and associated electronic content is accessible.</li></ul></td></tr> 
@@ -146,7 +146,7 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
     </thead>
 <tbody>    
     <tr>
-      <td scope="row">Develop justification criteria for making training mandatory by role. Some roles that may justify required training are:<br>
+      <td scope="row">Develop justification criteria for making training mandatory by role. Some roles that may justify required training are:
       <ul>
       <li>Acquisition professionals due to legal requirements that may apply to procurement.</li>  
       <li>Public-facing content creators, including communications officials.</li>  
@@ -167,7 +167,7 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
        <li>Onboarding or one-time requirement</li>  
        <li>Annual or biennial refresher</li>
        <li>Role-based</li>
-       <li>Role change or promotion<b/li>  
+       <li>Role change or promotion</li>  
        <li>Project-based</li></ul></td>
       <td>
       <ul>
@@ -384,8 +384,8 @@ The purpose of this planning section is to establish a formal, sustainable found
       <td scope="row">Create a formal ICT Accessibility Training policy or plan as part of the Section 508 program’s strategic plan.</td>
       <td>
       <ul>
-      <li>Are there any training elements within the current Section 508 program's strategic plan?<br>  
-       <li>Have you considered all items in this checklist during the drafting of an ICT accessibility training policy or plan?<br>  
+      <li>Are there any training elements within the current Section 508 program's strategic plan?</li>  
+       <li>Have you considered all items in this checklist during the drafting of an ICT accessibility training policy or plan?</li>  
        <li>To formalize the training plan, what buy-in or approval is necessary?</li></ul></td></tr>
     <tr>
       <td scope="row">Include documentation of:
