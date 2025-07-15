@@ -8,11 +8,12 @@
             ITEMS SELECTED
         </p>
     </div>
-    {% assign topics = site.pages  | map: "topic" | uniq | compact | sort %}
-    {% assign sub-topics = site.pages  | map: "sub-topic" | uniq | compact | sort %}
-    {% assign audience = site.pages  | map: "audience" | uniq | compact | sort %}
-    {% assign resource-types = site.pages  | map: "resource-type" | uniq | compact | sort %}
-    {% assign formats = site.pages  | map: "format" | uniq | compact | sort %}
+    {% assign pages_posts = site.pages | concat: site.posts %}
+    {% assign topics = pages_posts | map: "topic" | uniq | compact | sort %}
+    {% assign sub-topics = pages_posts | map: "sub-topic" | uniq | compact | sort %}
+    {% assign audience = pages_posts | map: "audience" | uniq | compact | sort %}
+    {% assign resource-types = pages_posts | map: "resource-type" | uniq | compact | sort %}
+    {% assign formats = pages_posts | map: "format" | uniq | compact | sort %}
     <div id="active-filters-container" class="margin-bottom-2">
         <p id="active-filters">Active Filters: <span id="no-filters" class="text-primary-vivid">None</span>
                 <ul id="active-filters-list" class="active-filters-list">
@@ -83,7 +84,7 @@
         </p>
     </div>
     <ul id="library-cards" class="usa-card-group">
-        {% for page in site.pages %}
+        {% for page in pages_posts %}
         {% if page.library-exclude %}
         {% else %}
 

@@ -4,11 +4,12 @@
 
     <a id="reset-filters" class="usa-button usa-button--accent-cool margin-bottom-2" href="javascript:void(0)">Reset Filter</a>
 
-    {% assign topics = site.pages  | map: "topic" | uniq | compact | sort %}
-    {% assign sub-topics = site.pages  | map: "sub-topic" | uniq | compact | sort %}
-    {% assign audience = site.pages  | map: "audience" | uniq | compact | sort %}
-    {% assign resource-types = site.pages  | map: "resource-type" | uniq | compact | sort %}
-    {% assign formats = site.pages  | map: "format" | uniq | compact | sort %}
+    {% assign pages_posts = site.pages | concat: site.posts %}
+    {% assign topics = pages_posts | map: "topic" | uniq | compact | sort %}
+    {% assign sub-topics = pages_posts | map: "sub-topic" | uniq | compact | sort %}
+    {% assign audience = pages_posts | map: "audience" | uniq | compact | sort %}
+    {% assign resource-types = pages_posts | map: "resource-type" | uniq | compact | sort %}
+    {% assign formats = pages_posts | map: "format" | uniq | compact | sort %}
 
     <nav id="filter" class="filters" aria-label="Filters">
         <div class="usa-accordion">
