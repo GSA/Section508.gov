@@ -39,22 +39,23 @@ This section focuses on establishing a clear understanding of applicable laws, a
       <td scope="row">Identify and review applicable accessibility laws and standards, Office of Management and Budget (OMB) guidance, and policies.</td>
       <td>* Identify what tasks your agency performs.<br>  
         * Identify all laws, standards, guidance, and policies that align with required tasks. <br>  
-        * Review existing agency training curriculum to identify tasks that lack training content.</td> </tr>
+        * Review existing agency training curriculum to identify tasks that lack training content.</td></tr>
    <tr>
       <td scope="row">Define agency-specific accessibility goals and obligations.</td>
       <td>* Review your agency’s strategic plan. <br>  
         * Review your agency’s Section 508 program’s strategic plan. <br>  
-        * Clearly define the expected outcomes of the training plan.</td> </tr> 
+        * Clearly define the expected outcomes of the training plan.</td></tr> 
     <tr>
       <td scope="row">Identify existing internal accessibility governance bodies, training points of contact, and other relevant internal controls or stakeholders.</td>
       <td>* Identify all training points of contact. <br>
         * Should additional accessibility stakeholders or governance bodies be engaged? <br> 
         * Gather information on the process for adding or updating training content.</td> </tr> 
-  <tr>
+    <tr>
       <td scope="row">Identify mission-based ICT. </td>
       <td>* Does your plan address ICT unique to your mission, such as scientific lab equipment?<br> 
-        * Align mission-critical ICT with specific roles and responsibilities.</td> </tr> 
-  <tr>
+        * Align mission-critical ICT with specific roles and responsibilities.</td>
+    </tr> 
+    <tr>
       <td scope="row">Audit policies and procedures for Section 508 conformance responsibilities to ensure training includes or specifies responsibilities defined by your agency.</td>
       <td>Does agency training indicate who is responsible for activities, such as<br> 
         * Contracting Officer Representative (COR) is responsible for ensuring Section 508 language is included in each ICT procurement.<br>  
@@ -78,21 +79,24 @@ This section focuses on the importance of assessing and addressing accessibility
       <td scope="row">Identify all job roles across the agency such as developers, web content managers, document authors, Section 508 testers, Human Resources (HR), acquisition and procurement, content creators, and leadership.</td>
       <td>* Create a list of all unique job roles in your agency.<br> 
         * Identify and document criteria to determine high impact roles. <br> 
-        * Define high impact roles for Section 508 compliance.</td></tr>
+        * Define high impact roles for Section 508 compliance.</td>
+    </tr>
   <tr>
       <td scope="row">Map how each role interacts with Section 508 such as ICT types, product development, communications, procurement, and service delivery.</td>
       <td>* Document responsibilities for each role.<br>  
-        * Document how each role interacts with Section 508 compliance. </td></tr>
-<tr>
+        * Document how each role interacts with Section 508 compliance. </td>
+  </tr>
+  <tr>
       <td scope="row">Determine knowledge and skill gaps by role.</td>
       <td>* Identify at least one training, shared or role-specific, for each role.<br>
         * Identify any training needs to address common defect types.<br> 
         * Have you considered each role and any gaps in knowledge that may exist?<br> 
-        * Consult the <a href="https://www.section508.gov/manage/roles/#key-agency-stakeholders">Key Agency Stakeholder list</a>.</td><tr> 
+        * Consult the <a href="https://www.section508.gov/manage/roles/#key-agency-stakeholders">Key Agency Stakeholder list</a>.</td></tr> 
 <tr>
       <td scope="row">Prioritize roles with high accessibility impact such as acquisition professionals, developers and testers, requirements officials, content creators, web content managers, and communications officials.</td>
       <td>* Prioritize training. This may be determined by the number of employees in specific roles or those with high impact roles.<br>  
-        * Establish the minimum information required for each role-specific training.</td></tr>
+        * Establish the minimum information required for each role-specific training.</td>
+  </tr>
 </tbody>
 </table>
 
@@ -198,7 +202,7 @@ This section focuses on the importance of tailoring accessibility training to sp
       <td scope="row">Define basic accessibility training topics such as disability awareness, digital accessibility and Section 508 general awareness, and role-based knowledge.</td>
       <td>* What topics should every employee learn about?<br>  
         * How do these topics align with agency mission and agency-specific ICT?<br>
-        * What resources should employees be aware of?</td> </tr>
+        * What resources should employees be aware of?</td></tr>
     <tr>
       <td scope="row">Develop role-specific modules based on your role-based needs assessment. For example:<br>
         * Executives and Leadership need to understand applicable policies, risk and risk assessments, and return on investments.<br>  
