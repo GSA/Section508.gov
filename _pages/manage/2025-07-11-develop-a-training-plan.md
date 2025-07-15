@@ -121,7 +121,7 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
         * Prioritize roles with the highest impact using a risk matrix.<br>  
         * Define why each selected role should have required training.<br>  
         * Create a justification matrix that details role, training topic, justification related to risk, regulatory or operations, frequency, and if it is mandatory.<br>
-        * Need a sample training justification? Consider using <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Template.docx">Mandatory Section 508 Training Justification Template (DOCX)</a> and <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx"> Mandatory Section 508 Training Justification Example (DOCX)</a>.</td> </tr>
+        * Need a sample training justification? Consider using <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Template.docx">Mandatory Section 508 Training Justification Template (DOCX)</a> and <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx"> Mandatory Section 508 Training Justification Example (DOCX)</a>.</td></tr>
     <tr>
       <td scope="row">Establish frequency of required training such as:<br>
         * Onboarding or one-time requirement<br>  
