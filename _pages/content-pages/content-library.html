@@ -1,0 +1,30 @@
+---
+title: Content Library
+description: This content library helps users filter and find content contained on Section508.gov by topic, audience, resource type, and format.
+subtitle: Our Focus Areas
+layout: page
+permalink: /content-library/
+sidenav: false
+custom-script: content-library.js
+library-exclude: true
+---
+<section class="usa-graphic-list">
+  <div class="grid-container padding-x-1">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+
+        <p class="font-sans-sm margin-y-0"><span id="long-intro" class="display-none tablet:display-inline">Use the filters below to explore our content library. You can narrow results by Topic, Sub-Topic, Audience, Resource Type, and Format. Select one or more filters in each group to expand the results, and combine filters across different groups to refine your search. As you make selections, the list of matching items and active filters will update automatically. You can reset all filters at any time, and use the filter link in your browser’s address bar to bookmark or share specific views.</span><span id="short-intro" class="tablet:display-none">Filter content by Topic, Audience, Format, and more. Choose multiple filters to expand or refine your results. The list updates automatically as you go. Use the Reset button to clear filters or share the link to save your view.</span></p>
+<br>
+    </div>
+  </div>
+</section>
+
+<section class="usa-graphic-list margin-bottom-4">
+  <div class="grid-container padding-x-1">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+
+      {% include library-filters.html %}
+      {% include library-cards.html %}
+
+    </div>
+  </div>
+</section>
