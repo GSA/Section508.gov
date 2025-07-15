@@ -162,7 +162,7 @@ This section focuses on clearly defining and enforcing mandatory ICT accessibili
        <li>Create a justification matrix that details role, training topic, justification related to risk, regulatory or operations, frequency, and if it is mandatory.</li>
        <li>Need a sample training justification? Consider using <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Template.docx">Mandatory Section 508 Training Justification Template (DOCX)</a> and <a href="https://assets.section508.gov/assets/files/New%20Required%20Course%20Justification%20Example.docx"> Mandatory Section 508 Training Justification Example (DOCX)</a>.</li></ul></td></tr>
     <tr>
-      <td scope="row">Establish frequency of required training such as:<br>
+      <td scope="row">Establish frequency of required training such as:
       <ul>
        <li>Onboarding or one-time requirement</li>  
        <li>Annual or biennial refresher</li>
@@ -254,7 +254,7 @@ This section focuses on the importance of tailoring accessibility training to sp
        <li>How do these topics align with agency mission and agency-specific ICT?</li>
        <li>What resources should employees be aware of?</li></ul></td></tr>
     <tr>
-      <td scope="row">Develop role-specific modules based on your role-based needs assessment. For example:<br>
+      <td scope="row">Develop role-specific modules based on your role-based needs assessment. For example:
       <ul>
        <li>Executives and Leadership need to understand applicable policies, risk and risk assessments, and return on investments.</li>  
        <li>ICT Developers and Testers need to understand Section 508 standards, the <a href="https://ictbaseline.access-board.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio</a>, and testing tools. Note: Developers and testers may benefit from the same course, but where resources are available, slight deviations in training topics and exercises may improve foundational knowledge needed for each role.</li>  
@@ -319,7 +319,7 @@ This section focuses on the importance of a clear, audience-specific communicati
       <td>
       <ul>
       <li>Does your Section 508 strategic communications plan require an update to incorporate training?</li>  
-       <li>Explore effective methods to promote ICT accessibility within your agency.</li></ul></tr>
+       <li>Explore effective methods to promote ICT accessibility within your agency.</li></ul></td></tr>
 </tbody>
 </table>
 
@@ -342,7 +342,7 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
       <ul>
       <li>How effective is the LMS or training system at capturing metrics?</li>
        <li>Are employees retaining content, as measured by knowledge assessments or final exams? </li>
-       <li>What success metrics trends can be discerned?</li></ul></td> </tr>
+       <li>What success metrics trends can be discerned?</li></ul></td></tr>
     <tr>
       <td scope="row">Solicit feedback from participants for improvement.</td>
       <td>
@@ -354,7 +354,7 @@ This section focuses on the need for ongoing evaluation and refinement of ICT ac
       <td>
       <ul>
       <li>How often will training content be refreshed or updated?</li>  
-       <li>Establish metrics to gauge training efficacy.</li></u></td> </tr>
+       <li>Establish metrics to gauge training efficacy.</li></u></td></tr>
   <tr>
       <td scope="row">Adjust content and training based on policy or technology updates.</td>
       <td>
@@ -388,7 +388,7 @@ The purpose of this planning section is to establish a formal, sustainable found
        <li>Have you considered all items in this checklist during the drafting of an ICT accessibility training policy or plan?<br>  
        <li>To formalize the training plan, what buy-in or approval is necessary?</li></ul></td></tr>
     <tr>
-      <td scope="row">Include documentation of:<br>
+      <td scope="row">Include documentation of:
         <ul>
            <li>Roles and responsibilities.</li> 
            <li>Training frequency and formats.</li>  
@@ -399,7 +399,7 @@ The purpose of this planning section is to establish a formal, sustainable found
       <td>
       <ul>
       <li>Do you know whom to engage within your agency to ensure the ICT Accessibility Training plan is adopted?</li>  
-       <li>What additional stakeholders are involved in agency governance and should be engaged?</li></ul></td> </tr>
+      <li>What additional stakeholders are involved in agency governance and should be engaged?</li></ul></td></tr>
 </tbody>
 </table>
 
