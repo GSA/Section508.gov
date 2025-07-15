@@ -92,7 +92,7 @@
             {% assign topic_item = page.topic %}
             {% assign topic_split_item = topic_item | split: " (" %}
             {% assign topic_filter = topic_split_item[0] %}
-            {% if topic_str_filter == "Other" %}
+            {% if topic_filter == "Other" %}
                 {% assign topic_fil = topic_filter | downcase %}
             {% else %}
                 {% assign topic_short_fil = topic_split_item[1] %}
