@@ -209,7 +209,7 @@ This section focuses on the need to choose effective training delivery methods b
        <li>Will the current training mechanism impact the effectiveness of training content?</li>   
        <li>Document any processes needed to upload training into an existing LMS or other training mechanism.</li></ul></td></tr>
      <tr>
-      <th scope="row">Consider curricula outside of your agency such as training on <a href="http://FAI.gov" target="_blank" class="usa-link--external">FAI.gov</a>, <a href="https://www.section508.gov/training/">Section508.gov</a>, or add GSA’s Section 508 Training Courses to Your LMS.</th>
+      <th scope="row">Consider curricula outside of your agency such as training on <a href="http://FAI.gov" target="_blank" class="usa-link--external">FAI.gov</a>, <a href="https://www.section508.gov/training/">Section508.gov</a>, or <a href="{{site.baseurl}}/training/online-training/add-our-training-to-your-lms/"> add GSA’s Section 508 Training Courses to Your LMS</a>a>.</th>
       <td>
       <ul>
       <li>Complete an analysis of alternatives to determine if there are any government-provided training, modules, or courses that may meet needs.</li> 
