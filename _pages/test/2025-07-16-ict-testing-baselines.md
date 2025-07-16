@@ -40,23 +40,25 @@ The ICT Testing Baseline is:
 
 
 The ICT Testing Baseline is not:
+
 <ol class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
       <div class="usa-icon-list__content">A step-by-step testing procedure or methodology.</div>
   </li> 
-<ol class="usa-icon-list tablet:grid-col">
+<li class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
       <div class="usa-icon-list__content">A specific testing tool or software for Section 508 conformance testing.</div>
   </li>
 </ol>
 
+
 The Portfolio includes a <a href="https://ictbaseline.access-board.gov/web-baselines/" target="_blank" class="usa-link--external">Baseline for Web</a> and a <a href="https://ictbaseline.access-board.gov/document-baselines/" target="_blank" class="usa-link--external">Baseline for Documents</a>. Additional Baselines will be developed for all ICT covered by Section 508 including software and hardware.
 
 ## How to Contribute 
 
-If you are a federal employee or provide direct contract support to a federal agency, we invite you to contribute directly as a member of our ICT Testing Baseline Portfolio Working Group. Even if you are not a federal employee or contractor, we still welcome your feedback and contributions via submission of <a href="https://github.com/Section508Coordinators/baselinealignment/issues" target="_blank" class="usa-link--external">issues</a> and <a href="https://github.com/Section508Coordinators/baselinealignment/pulls" target="_blank" class="usa-link--external">pull requests</a> in the <a href="https://github.com/atbcb/ICTTestingBaseline" target="_blank" class="usa-link--external"> ICT Testing Baseline Portfolio GitHub repository</a>. We are also happy to accept your input and recommendations for other methods of contributions via [ictbaseline@gsa.gov](mailto:ictbaseline@gsa.gov).
+If you are a federal employee or provide direct contract support to a federal agency, we invite you to contribute directly as a member of our ICT Testing Baseline Portfolio Working Group. Even if you are not a federal employee or contractor, we still welcome your feedback and contributions via submission of <a href="https://github.com/Section508Coordinators/baselinealignment/issues" target="_blank" class="usa-link--external">issues</a> and <a href="https://github.com/Section508Coordinators/baselinealignment/pulls" target="_blank" class="usa-link--external">pull requests</a> in the <a href="https://github.com/atbcb/ICTTestingBaseline" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio GitHub repository</a>. We are also happy to accept your input and recommendations for other methods of contributions via [ictbaseline@gsa.gov](mailto:ictbaseline@gsa.gov).
 
 Contributors do not need to be highly technical nor make a long-term commitment, although both skills and time can certainly be helpful. 
 
