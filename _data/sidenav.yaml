@@ -449,9 +449,11 @@ test:
   - name: Testing Methods
     url: '#'
     children:
+      - name: ICT Testing Baseline Portfolio
+        url: 'test/ict-testing-baseline-portfolio/'
       - name: Learn About Testing Methods
         url: 'test/testing-overview/'
-      - name: Trusted Tester and ICT Testing Baseline
+      - name: Trusted Tester
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
