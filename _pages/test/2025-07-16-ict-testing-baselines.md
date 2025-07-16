@@ -40,9 +40,17 @@ The ICT Testing Baseline is:
 
 
 The ICT Testing Baseline is not:
-
-* A step-by-step testing procedure or methodology.  
-* A specific testing tool or software for Section 508 conformance testing.
+<ol class="usa-icon-list tablet:grid-col">
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
+      <div class="usa-icon-list__content">A step-by-step testing procedure or methodology.</div>
+  </li> 
+<ol class="usa-icon-list tablet:grid-col">
+  <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#cancel"></use></svg></div>
+      <div class="usa-icon-list__content">A specific testing tool or software for Section 508 conformance testing.</div>
+  </li>
+</ol>
 
 The Portfolio includes a <a href="https://ictbaseline.access-board.gov/web-baselines/" target="_blank" class="usa-link--external">Baseline for Web</a> and a <a href="https://ictbaseline.access-board.gov/document-baselines/" target="_blank" class="usa-link--external">Baseline for Documents</a>. Additional Baselines will be developed for all ICT covered by Section 508 including software and hardware.
 
@@ -59,6 +67,6 @@ The ICT Testing Baseline Working Group needs help refining <a href="https://ictb
 * Baseline for Software  
 * Baseline for Web
 
-The ICT Baseline Alignment for Web Working Group also needs help developing and evaluating web test cases. You can submit web test cases to help validate test processes and tools as [pull requests](https://github.com/Section508Coordinators/baselinealignment/pulls) in the [ICT Testing Baseline Portfolio GitHub repository](https://github.com/atbcb/ICTTestingBaseline). Current web test cases can be viewed at [ICT Testing Baseline Alignment Framework](https://baselinealignment.section508.gov/) along with more information on contributing. 
+The ICT Baseline Alignment for Web Working Group also needs help developing and evaluating web test cases. You can submit web test cases to help validate test processes and tools as <a href="https://github.com/Section508Coordinators/baselinealignment/pulls" target="_blank" class="usa-link--external">pull requests</a> in the <a href="https://github.com/atbcb/ICTTestingBaseline" target="_blank" class="usa-link--external">ICT Testing Baseline Portfolio GitHub repository</a>. Current web test cases can be viewed at <a href="https://baselinealignment.section508.gov/" target="_blank" class="usa-link--external">ICT Testing Baseline Alignment Framework</a> along with more information on contributing. 
 
 **Reviewed/Updated:** July 2025
