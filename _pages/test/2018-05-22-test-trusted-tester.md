@@ -4,6 +4,7 @@ sidenav: true
 permalink: test/trusted-tester/
 type: test
 title: 'DHS Trusted Tester Process & Certification Program'
+description: The DHS Trusted Tester Process is a manual test approach that aligns with the ICT Testing Baseline for Web, and provides repeatable and reliable conformance test results. DHS offers training and formal accessibility testing certification for using the DHS Trusted Tester Process.
 created: 1527031851
 contributors: usab
 topic: Testing (test)
