@@ -192,6 +192,8 @@ training:
         url: 'training/online-course/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
         url: 'training-home#federal-acquisition-institute'
+      - name: "Add GSA’s Training to Your LMS"
+        url: 'training/online-training/add-our-training-to-your-lms/'
   - name: Training Videos Library
     url: '#'
     children:
