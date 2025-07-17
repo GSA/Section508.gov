@@ -13,14 +13,16 @@ manage:
         grandchildren:
           - name: Accessibility Roles
             url: manage/roles/
+          - name: Developing a Training Plan
+            url: manage/developing-a-section-508-training-plan/
+          - name: IT Accessibility/508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
           - name: Teach Staff about Accessibility
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
             url: manage/track-report-conformance/
-          - name: IT Accessibility/508 Program Manager Responsibilities
-            url: manage/program-manager-responsibilities/
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
       - name: Practical Reasons for Digital Accessibility
@@ -190,6 +192,8 @@ training:
         url: 'training/online-course/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
         url: 'training-home#federal-acquisition-institute'
+      - name: "Add GSA’s Training to Your LMS"
+        url: 'training/online-training/add-our-training-to-your-lms/'
   - name: Training Videos Library
     url: '#'
     children:
@@ -445,9 +449,11 @@ test:
   - name: Testing Methods
     url: '#'
     children:
+      - name: ICT Testing Baseline Portfolio
+        url: 'test/ict-testing-baseline-portfolio/'
       - name: Learn About Testing Methods
         url: 'test/testing-overview/'
-      - name: Trusted Tester and ICT Testing Baseline
+      - name: Trusted Tester
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
