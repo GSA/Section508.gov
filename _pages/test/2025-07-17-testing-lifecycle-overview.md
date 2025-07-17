@@ -29,15 +29,15 @@ Testing should happen throughout the <a href="{{base.siteurl}}/develop/incorpora
     <h2 class="usa-process-list__heading">Plan and Scope Testing</h2>
 <ul>
 <li>Identify which ICT product(s) will be tested, such as a web page, web site, software, electronic document, or hardware.</li>   
-<li>>Determine applicable <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, <a href="{{base.siteurl}}/test">testing methodologies</a>, and associated tools that will be used. Align with agency approved Section 508 conformance testing methodologies.</li>   
+<li>Determine applicable <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, <a href="{{base.siteurl}}/test/">testing methodologies</a>, and associated tools that will be used. Align with agency approved Section 508 conformance testing methodologies.</li>   
 <li>Scope which user paths, functions, or other product features will be included in the testing. At minimum, the testing scope should include public-facing, frequently used, or critical functions.</li>  
-<li>>Select knowledgeable Section 508 testers—these may include federal employees, contractors, third-party accessibility testing experts, or users with disabilities.</li>
+<li>Select knowledgeable Section 508 testers—these may include federal employees, contractors, third-party accessibility testing experts, or users with disabilities.</li>
 </ul>
 </li>
 <li class="usa-process-list__item">
     <h2 class="usa-process-list__heading">Gather Testing Materials and Access</h2>
 <ul>
-<li>>Identify all product components required for testing such as web pages, electronic documents, software applications, and hardware.</li>
+<li>Identify all product components required for testing such as web pages, electronic documents, software applications, and hardware.</li>
 <li>Ensure installation of or access to all product components including test environments.</li> 
 <li>Confirm testers have required login information, test data, or administrative credentials.</li> 
 <li>Gather any additional information needed from designers or developers to understand how to use the content within the scope of testing.</li>
@@ -85,8 +85,8 @@ Once all defects have been remediated, or remediated to the best of the team’s
     <ul>
 <li>Schedule periodic re-testing. At a minimum, Section 508 testing should be included in any updates or redesigns. Alternatively, <a href="{{base.siteurl}}/develop/incorporating-accessibility-conformance/">Section 508 testing may be integrated into development processes</a>.</li> 
 <li>Embed Section 508 conformance into future work and ensure it is included in design, procurement, development, and content processes.</li>
-</li>
 </ul>
+</li>
 </ol>
 
 **Reviewed/Updated:** July 2025
