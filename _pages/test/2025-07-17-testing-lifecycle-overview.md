@@ -32,9 +32,7 @@ Testing should happen throughout the [design and development process]({{base.sit
 * Scope which user paths, functions, or other product features will be included in the testing. At minimum, the testing scope should include public-facing, frequently used, or critical functions.  
 * Select knowledgeable Section 508 testers—these may include federal employees, contractors, third-party accessibility testing experts, or users with disabilities. 
 
-<h2 class="usa-icon">
-      <div class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#shopping_basket"></use></svg></div>
-      <div class="usa-icon">Gather Testing Materials and Access</div></h2>
+<h2 class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#shopping_basket"></use></svg>Gather Testing Materials and Access</h2>
 
 * Identify all product components required for testing such as web pages, electronic documents, software applications, and hardware.
 
