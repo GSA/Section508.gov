@@ -450,7 +450,7 @@ test:
     url: '#'
     children:
       - name: Testing Lifecycle Overview
-        url: 'testing-lifecycle-overview/'
+        url: 'test/testing-lifecycle-overview/'
   - name: Testing Methods
     url: '#'
     children:
