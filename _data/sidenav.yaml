@@ -446,6 +446,11 @@ develop:
 test:
   - name: Testing
     url: 'test/'
+  - name: Testing Lifecycle
+    url: '#'
+    children:
+      - name: Testing Lifecycle Overview
+        url: 'test/testing-lifecycle-overview/'
   - name: Testing Methods
     url: '#'
     children:
