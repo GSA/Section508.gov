@@ -32,7 +32,11 @@ Testing should happen throughout the [design and development process]({{base.sit
 * Scope which user paths, functions, or other product features will be included in the testing. At minimum, the testing scope should include public-facing, frequently used, or critical functions.  
 * Select knowledgeable Section 508 testers—these may include federal employees, contractors, third-party accessibility testing experts, or users with disabilities. 
 
-<h2 class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#shopping_basket"></use></svg>Gather Testing Materials and Access</h2>
+<div>
+<h2 class="usa-icon">
+      <div class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#shopping-basket"></use></svg></div>
+      <div class="usa-icon">Gather Testing Materials and Access</div>
+</div>
 
 * Identify all product components required for testing such as web pages, electronic documents, software applications, and hardware.
 
@@ -48,7 +52,7 @@ Testing should happen throughout the [design and development process]({{base.sit
 
 * Using the methodologies identified in Step 1, test the product.  
 * Ensure comprehensive testing includes all applicable Section 508 Standards.   
-* Ensure each defect is captured in an [Accessibility Test Report]({{base.siteurl}}/test/elements-of-an-accessibility-test-report). 
+* Ensure each defect is captured in an [Accessibility Test Report]({{base.siteurl}}/test/elements-of-an-accessibility-test-report/). 
 
 <h2 class="usa-icon">
       <div class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#bug_report"></use></svg></div>
@@ -77,7 +81,7 @@ Testing should happen throughout the [design and development process]({{base.sit
   * Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.  
 * Create an Accommodation or Alternate Means Plan for any defects that remain unresolved. 
 
-Once all defects have been remediated, or remediated to the best of the team’s ability, there may be a need to develop an Accessibility Conformance Report (ACR) based on the test results. See the [Accessibility Conformance Report (ACR) page]({{base.siteurl}}/sell/acr/) for more information on how to create a machine readable ACR and when you may need one.
+Once all defects have been remediated, or remediated to the best of the team’s ability, there may be a need to develop an Accessibility Conformance Report (ACR) based on the test results. See the [Accessibility Conformance Report (ACR) page]({{base.siteurl}}/sell/acr) for more information on how to create a machine readable ACR and when you may need one.
 
 <h2 class="usa-icon">
       <div class="usa-icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/img/sprite.svg#loop"></use></svg></div>
