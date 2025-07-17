@@ -1,94 +1,158 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/publish-to-web/
+permalink: develop/example-personas
 type: develop 
-title: 'Considerations for Publishing a Page to the Web'
+title: 'Example Personas'
 created: 20240924
-topic: "Development (dev)"
-sub-topic: "Content Creation Training or Tools"
+topic: "design"
+sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
-- "Developers and Testers (dev-test)"
+- "508-pm"
 - "Content Creators (creator)"
-- "Website Managers/Content Managers (wcm)"
 - "Federal employee (fedemp)"
 - "Designer (design)"
-resource-type: "Process/How-to"
+- "Public"
+resource-type: "playbook"
 format: "HTML (html)"
 ---
 Web content managers have many considerations when it comes to publishing content to their domains. First, there are a few action items to consider before readying the content to post. We have included these actions in the pre-publishing checklist below. Some of the actions should be done sequentially, while others can be done independently. However, all items from the pre-publishing checklist should be completed prior to publishing.
 
-## Pre-publishing checklist
-Below is a pre-publishing checklist web content managers should use before considering or finalizing content for publication. Please note that all checklist items will not be relevant to all types and uses of digital content.
+## Accessibility Personas
+The law requires that we take the needs of today's users and the needs of future users into account.  So how do we do that? Well, there is such a wide spectrum of disabilities, it would be an impossible task to cater requirements to the needs of every single individual person. That's why, in design and development, it's helpful to categorize users with similar needs into "personas".
+
 <ol>
-    <li><strong>Set and refer to policies for creating digital content.</strong>
-        <ol type="a">
-            <li>Determine if accessibility is incorporated into agency web content publishing policy by reviewing relevant policies and using the <a href="{{ site.baseurl }}/manage/policy-framework/introduction"> Accessibility Policy Framework</a>.
-                <ol type="i">
-                    <li><strong>If not</strong>, include accessibility requirement information in an existing policy or create a new one; see the <a href="{{ site.baseurl }}/manage/policy-framework/guidance-by-policy-type/communications/"> Policy Framework Communications </a> page for suggested language.</li>
-                    <li><strong>If yes</strong>, proceed to item No. 2 on this list.</li>
-                </ol>
-            </li>
-        </ol>
-    </li>
-    <li><strong>Solidify authorities and set standard operating procedures for posting content.</strong>
-        <ol type="a">
-            <li>Ensure web content managers have the ability to reject content and send back to the content creator while also pointing to remediation resources.</li>
-            <li>Create standard operating procedures (SOPs) to set guidelines for content creation, including specifying a timeline for review to ensure web content managers have the appropriate amount of time to review content prior to target publication date.</li>
-            <li>If management requires you to publish nonconforming content, require that documentation in writing and include it in your records.</li>
-        </ol>
-    </li>
-    <li><strong>Determine if the content will be public facing.</strong>
-        <ol type="a">
-            <li><strong>If yes</strong>, it is subject to the Section 508 standards and must be accessible.</li>
-            <li><strong>If no</strong>, move on to step No. 4.</li>
-        </ol>
-    </li>
-    <li><strong>Determine if the content is <a href="{{site.baseurl}}/tools/glossary/#a"> agency official communication</a></strong>.
-        <ol type="a">
-            <li><strong>If not and it is not public facing,</strong> Section 508 standards do not apply, but other policies or requirements may; review relevant internal policies.</li>
-            <li><strong>If yes</strong>, ensure all relevant Section 508 standards are met prior to publication.</li>
-        </ol>
-    </li>
-    <li><strong>Test and determine the severity of the nonconformant content.</strong> <a href="{{ site.baseurl }}/test/"> Conduct a review </a> of the content to determine the number and severity of accessibility errors:
-        <ol type="a">
-            <li><strong>If significant remediation is required</strong>, send content back to the creator for  remediation. Include content creation resources or checklists <a href="{{ site.baseurl }}/create/">such as those found on Section508.gov</a> to ensure content is created accessibly.</li>
-            <li><strong>If not</strong>, determine if the web content manager or their team can readily remediate content or if the content should be returned to the content creator based on established SOPs.</li>
-        </ol>
-    </li>
-    <li><strong>Determine what type of content is being created and apply the appropriate accessibility tools, guidelines and checklists to ensure the content is accessible:</strong>
-        <ol type="a">
-            <li>For presentations, use <a href="{{ site.baseurl }}/create/presentations/">best practices on creating accessible presentations</a>.</li>
-            <li>For spreadsheets, use <a href="{{ site.baseurl }}/create/spreadsheets/">best practices on creating accessible spreadsheets</a>.</li>
-            <li>For documents, use <a href="{{ site.baseurl }}/create/documents/">best practices on creating documents</a>.</li>
-            <li>For PDFs, use <a href="{{ site.baseurl }}/create/pdfs/">best practices on creating PDFs</a>.</li>
-            <li>For HTML content, use <a href="{{ site.baseurl }}/develop/software-websites/">best practices on developing accessible web pages</a>.</li>
-            <li>For other digital content, <a href="{{ site.baseurl }}/create/">see the broader content creation page on Section508.gov</a>.</li>
-        </ol>
-    </li>
-</ol>
+    <h2>Blind Users</h2>
+    A blind user does not have the ability to see. These users use an Assistive Technology called a Screen Reader (JAWS, NVDA, VoiceOver, Talkback) to navigate web content. These users do not use a mouse because they cannot see the mouse pointer. Instead, they use a keyboard to navigate on desktop or gestures to navigate a touch screen.
+    <h3>A Blind User Needs...</h3>
+<ul>
+  <li>Interactive controls to be keyboard accessible</li>
+  <li>Interactive controls to be named and described in text</li>
+  <li>Instructions on how to use non-native, non-intuitive interactive controls</li>
+  <li>Meaningful colors to be provided in text</li>
+  <li>The visual cues of elements that change state upon interaction to be described in text</li>
+  <li>Alternative text descriptions of meaningful images and icons</li>
+  <li>Audio descriptions of video content when important information is provided visually</li>
+</ul>
+    <h3>A Blind User Expects...</h3>
+<ul>
+  <li>A logical focus order</li>
+  <li>Focus to be sent to new interactive content that dynamically appears
+</li>
+  <li>To be notified of new content when new information/notifications dynamically appear</li>
+<li>Semantic page structures, such as headings, lists, and regions, to skim content and jump to desired sections
+</li>
+  <li>To understand a data table's name and structure (column names)</li>
+   <h2>Low Vision Users</h2>
+    A low vision user has significantly reduced vision that interferes with daily living and cannot be fully corrected by glasses. These users may use an Assistive Technology called a Magnifier (ZoomText) and may also use Screen Reader (JAWS, NVDA, VoiceOver, Talkback) to navigate web content. Most low vision users do not use a mouse because they have difficulty seeing the mouse pointer. Instead, they may prefer a keyboard to navigate on desktop or gestures to navigate a touch screen. </p>
 
-## Publication and Post-Publication Checklist
-<ol>
-    <li><strong>Use native accessibility checkers to check for accessibility issues in your content.</strong></li>
-    <li><strong>Consider what additional remediation or special actions, such as providing to attendees beforehand, etc., should be considered if this content is used in a virtual meeting.</strong></li>
-    <li><strong>Test draft web pages with available accessibility tools once in HTML format.</strong>
-        <ol type="a">
-            <li>For website content, one can use <a href="{{ site.baseurl }}/test/trusted-tester/">testing methodologies such as Trusted Tester</a> or tools such as <a href="https://www.ssa.gov/accessibility/andi/help/install.html">the ANDI tool</a>.</li>
-            <li>For color contrast issues specifically, use a color contrast checker.</li>
-        </ol>
-    </li>
-    <li><strong>Once posted, regularly check pages for potential issues and required remediation:</strong>
-        <ol type="a">
-            <li>Use an accessibility scanning tool to check an entire website, determine prioritized areas for accessibility remediation, and apply manual testing where possible.</li>
-            <li>For online PDF content, use <a href="{{ site.baseurl }}/test/documents/">a PDF checker</a> for more specific review.</li>
-        </ol>
-    </li>
-</ol>
+<p><h3>A Low Vision User Needs...</h3>
+<ul>
+  <li>Highly visible and high contrast indications of visible focus</li>
+  <li>High contrast for text and interactive interfaces</li>
+  <li>Instructions on how to use non-native, non-intuitive interactive controls</li>
+  <li>To enlarge text sizes and images using the browser zoom function</li>
+  <li>Audio descriptions of video content when important information is provided visually</li></ul>
+  <p><h3>A Low Vision User Expects...</h3><ul>
+  <li>Minimalist and efficient screen layouts</li>
+  <li>Related items to be near each other
+</li>
+  <li>Interactive controls to be keyboard accessible
+</li>
+  <li>Focus to be sent to new interactive content that dynamically appears
+</li>
+  <li>To be notified of new content when new information/notifications dynamically appear
+</li>
+<li>To be able to linearize page content</li>
+</p>
+    </li></ul>
+    <h2>Color Blind Users</h2>
+    A color blind user cannot see the full spectrum of colors and has difficulty distinguishing colors. The most common form of color blindness is called Protanopia, which makes the colors red and green look the same.
 
-For additional resources and processes for publishing accessible content to the web, contact your organization’s Section 508 Program Manager for assistance.
+<h3>A Color Blind User Needs...</h3>
+<ul>
+  <li>High contrast for text</li>
+  <li>High contrast for interactive interfaces
+</li>
+  <li>Meaningful colors to be provided in screen text or by using a different icon for each color which represents the meaning</li></ul>
+   <h2>Deaf and Partial Hearing Users</h2>
+    A Deaf user does not have the ability to hear. A Partial Hearing user has a significantly reduced ability to hear. </p>
+
+<p><h3>A Deaf and Partial User Needs...</h3>
+<ul>
+  <li>Text transcripts for audio-only content
+</li>
+  <li>High contrast for text and interactive interfaces</li>
+  <li>Synchronized captioning and text transcripts for video
+</li>
+  <li>Interpretive services for live events and remote meetings
+</li></ul>
+  <p><h3>A Deaf and Partial User Needs...</h3><ul>
+  <li>Text transcripts for audio-only content
+</li>
+  <li>Synchronized captioning and text transcripts for video
+</li>
+  <li>Interpretive services for live events and remote meetings
+</li>
+</p></ul><p>
+<h3>A Partial Hearing User Needs...</h3><ul>
+<li> Audio to be loud, high quality, volume adjustable, and absent of background noises</li></ul>
+
+  <h2>Deaf and Partial Hearing Users</h2>
+    A Deaf user does not have the ability to hear. A Partial Hearing user has a significantly reduced ability to hear. </p>
+
+<p><h3>A Deaf and Partial User Needs...</h3>
+<ul>
+  <li>Text transcripts for audio-only content
+</li>
+  <li>High contrast for text and interactive interfaces</li>
+  <li>Synchronized captioning and text transcripts for video
+</li>
+  <li>Interpretive services for live events and remote meetings
+</li></ul>
+  <p><h3>A Deaf and Partial User Needs...</h3><ul>
+  <li>Text transcripts for audio-only content
+</li>
+  <li>Synchronized captioning and text transcripts for video
+</li>
+  <li>Interpretive services for live events and remote meetings
+</li></ul>
+</p><p>
+<h3>A Partial Hearing User Needs...</h3>
+<ul><li> Audio to be loud, high quality, volume adjustable, and absent of background noises</li></p></ul>
+<h2>Low Mobility Users</h2>
+In the context of a web application, a Low Mobility User has difficulty using their fingers, hands, or may not have hands. These users may use a keyboard to use the web or they may use an Assistive Technology called Dictation Controlled AT (Dragon). They may not have the ability to accurately click or touch web interfaces that are small.
+
+<h3>A Low Mobility User Needs... </h3><ul>
+<li> Interactive controls to be keyboard accessible</li>
+<li> To be warned about system auto-timeouts at least 20 seconds prior to the time out and provided an option to keep working </li></ul>
+
+<h3>A Low Mobility User Expects... </h3>
+<ul><li> The touch/click areas of interactive controls to be at least 24 by 24 pixels</li>
+<li> Interactive elements to have their associated on-screen label text be programmatically associated</li>
+<li> Custom interactive components to behave similarly to native HTML elements</li></ul>
+
+<p><h2> Language, Cognitive, and Developmentally Delayed Users </h2></p>Language, Cognitive, and Developmentally Delayed Users have difficulty with mental tasks such as reading, comprehension, memory, and computation.</p>
+
+<h3>A Language, Cognitive, or Developmentally Delayed User Needs... </h3><ul>
+<li> To be notified of changes of context or non-disruptive changes</li>
+<li> To be warned about system auto-timeouts at least 20 seconds prior to time out and provided an option to keep working </li></ul>
+
+<h3>A Language, Cognitive, or Developmentally Delayed User Expects... </h3>
+<ul><li> Simple, plain language
+</li>
+<li> Minimalist and efficient screen layouts</li>
+<li> Text to not be in all CAPS
+</li>
+<li>Sans-serif fonts</li><li>Paragraphs of text to be left aligned
+</li>
+</ul>    
 
 
 
 
-**Reviewed/Updated:** September 2024
+
+<p>
+<p>
+
+**Added** July 2025.
