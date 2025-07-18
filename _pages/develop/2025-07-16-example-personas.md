@@ -4,7 +4,8 @@ sidenav: true
 permalink: develop/example-personas
 type: develop 
 title: 'Example Personas'
-created: 20240924
+description: Learn about example Accessiblity Personas by user need. 
+created: 20240718
 topic: "design"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
@@ -13,7 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 - "Designer (design)"
 - "Public"
-resource-type: "playbook"
+resource-type: "article"
 format: "HTML (html)"
 ---
 Web content managers have many considerations when it comes to publishing content to their domains. First, there are a few action items to consider before readying the content to post. We have included these actions in the pre-publishing checklist below. Some of the actions should be done sequentially, while others can be done independently. However, all items from the pre-publishing checklist should be completed prior to publishing.
@@ -146,13 +147,7 @@ In the context of a web application, a Low Mobility User has difficulty using th
 </li>
 <li>Sans-serif fonts</li><li>Paragraphs of text to be left aligned
 </li>
-</ul>    
+</ul>
+</ol>
 
-
-
-
-
-<p>
-<p>
-
-**Added** July 2025.
+**Reviewed/Updated** August 2025
