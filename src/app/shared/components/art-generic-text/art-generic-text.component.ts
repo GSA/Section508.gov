@@ -2,9 +2,10 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { FormElement } from '../../models/form-element.interface';
 
 @Component({
-  selector: 'art-generic-text',
-  templateUrl: './art-generic-text.component.html',
-  styleUrls: ['./art-generic-text.component.scss']
+    selector: 'art-generic-text',
+    templateUrl: './art-generic-text.component.html',
+    styleUrls: ['./art-generic-text.component.scss'],
+    standalone: false
 })
 export class ArtGenericTextComponent implements OnInit {
 
