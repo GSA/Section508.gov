@@ -4,7 +4,8 @@ sidenav: true
 permalink: develop/
 type: develop 
 title: 'Example Personas'
-created: 20240924
+description: Learn about example Accessiblity Personas by user need. 
+created: 20240718
 topic: "design"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
@@ -13,7 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 - "Designer (design)"
 - "Public"
-resource-type: "playbook"
+resource-type: "article"
 format: "HTML (html)"
 ---
 
