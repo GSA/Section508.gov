@@ -501,7 +501,7 @@ export class ArtDocxDownloadComponent implements OnInit {
    */
   private parseHeader(elem: Element): Paragraph {
     let level = elem.nodeName[1];
-    let headingLevel: HeadingLevel = HeadingLevel.TITLE;
+    let headingLevel: any = HeadingLevel.TITLE;
     switch (level) {
       case "1":
         headingLevel = HeadingLevel.HEADING_1;
