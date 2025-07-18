@@ -4,9 +4,10 @@ import { ArtTestService } from 'src/app/shared/services/art-test.service';
 import { IctItemService } from 'src/app/shared/services/ict-item/ict-item.service';
 
 @Component({
-  selector: 'app-test',
-  templateUrl: './test.component.html',
-  styleUrls: ['./test.component.scss']
+    selector: 'app-test',
+    templateUrl: './test.component.html',
+    styleUrls: ['./test.component.scss'],
+    standalone: false
 })
 export class TestComponent implements OnInit {
 

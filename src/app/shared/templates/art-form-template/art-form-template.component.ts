@@ -41,9 +41,10 @@ interface ErrorMessage {
   required?: string;
 }
 @Component({
-  selector: "art-form-template",
-  templateUrl: "./art-form-template.component.html",
-  styleUrls: ["./art-form-template.component.scss"],
+    selector: "art-form-template",
+    templateUrl: "./art-form-template.component.html",
+    styleUrls: ["./art-form-template.component.scss"],
+    standalone: false
 })
 export class ArtFormTemplateComponent implements OnInit, OnChanges, OnDestroy {
   sectionLabelMapping: any = {

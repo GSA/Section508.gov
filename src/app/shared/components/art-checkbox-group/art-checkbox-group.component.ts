@@ -4,9 +4,10 @@ import {FormControl, FormGroup, Validators} from "@angular/forms";
 import { FormPageService } from '../../services/form-page/form-page.service';
 
 @Component({
-  selector: 'art-checkbox-group',
-  templateUrl: './art-checkbox-group.component.html',
-  styleUrls: ['./art-checkbox-group.component.scss']
+    selector: 'art-checkbox-group',
+    templateUrl: './art-checkbox-group.component.html',
+    styleUrls: ['./art-checkbox-group.component.scss'],
+    standalone: false
 })
 export class ArtCheckboxGroupComponent implements OnInit, OnChanges {
 
