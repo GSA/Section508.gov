@@ -27,7 +27,7 @@ The law requires that we take the needs of today's users and the needs of future
 
 ## Blind Users
 
-A blind user does not have the ability to see. These users use an Assistive Technology called a Screen Reader (JAWS, NVDA, VoiceOver, Talkback) to navigate web content. These users do not use a mouse because they cannot see the mouse pointer. Instead, they use a keyboard to navigate on desktop or gestures to navigate a touch screen.
+A blind user does not have the ability to see. These users use an Assistive Technology called a Screen Reader to navigate web content. These users do not use a mouse because they cannot see the mouse pointer. Instead, they use a keyboard to navigate on desktop or gestures to navigate a touch screen.
 
 ### A Blind User Needs...
 
@@ -51,7 +51,7 @@ A blind user does not have the ability to see. These users use an Assistive Tech
 
 ## Low Vision Users
 
-A low vision user has significantly reduced vision that interferes with daily living and cannot be fully corrected by glasses. These users may use an Assistive Technology called a Magnifier (ZoomText) and may also use Screen Reader (JAWS, NVDA, VoiceOver, Talkback) to navigate web content. Most low vision users do not use a mouse because they have difficulty seeing the mouse pointer. Instead, they may prefer a keyboard to navigate on desktop or gestures to navigate a touch screen.
+A low vision user has significantly reduced vision that interferes with daily living and cannot be fully corrected by glasses. These users may use an Assistive Technology called a Magnifier and may also use Screen Reader to navigate web content. Most low vision users do not use a mouse because they have difficulty seeing the mouse pointer. Instead, they may prefer a keyboard to navigate on desktop or gestures to navigate a touch screen.
 
 ### A Low Vision User Needs...
 
@@ -103,7 +103,7 @@ A Deaf user does not have the ability to hear. A Partial Hearing user has a sign
 
 ## Low Mobility Users
 
-In the context of a web application, a Low Mobility User has difficulty using their fingers, hands, or may not have hands. These users may use a keyboard to use the web or they may use an Assistive Technology called Dictation Controlled AT (Dragon). They may not have the ability to accurately click or touch web interfaces that are small.
+In the context of a web application, a Low Mobility User has difficulty using their fingers, hands, or may not have hands. These users may use a keyboard to use the web or they may use an Assistive Technology called Dictation Controlled AT. They may not have the ability to accurately click or touch web interfaces that are small.
 
 ### A Low Mobility User Needs...
 
@@ -133,7 +133,8 @@ Language, Cognitive, and Developmentally Delayed Users have difficulty with ment
 - Minimalist and efficient screen layouts  
 - Text to not be in all CAPS  
 - Sans-serif fonts  
-- Paragraphs of text to be left aligned  
+- Paragraphs of text to be left aligned
+    
 ---
 
 **Reviewed/Updated** August 2025
