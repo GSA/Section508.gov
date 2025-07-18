@@ -4,9 +4,10 @@ import { AbstractControl, FormControl, ValidationErrors } from '@angular/forms';
 import { FormElement, ElementType } from '../../models/form-element.interface';
 
 @Component({
-  selector: 'art-text-field',
-  templateUrl: './art-text-field.component.html',
-  styleUrls: ['./art-text-field.component.scss']
+    selector: 'art-text-field',
+    templateUrl: './art-text-field.component.html',
+    styleUrls: ['./art-text-field.component.scss'],
+    standalone: false
 })
 export class ArtTextFieldComponent implements OnInit {
 

@@ -3,7 +3,8 @@ import { IStepIndicator } from "../../models/step-indicator.interface";
 @Component({
     selector: 'atr-step-indicator',
     templateUrl: './step-indicator.component.html',
-    styleUrls: ['./step-indicator.component.scss']
+    styleUrls: ['./step-indicator.component.scss'],
+    standalone: false
 })
 
 export class StepIndicatorComponent implements OnInit{

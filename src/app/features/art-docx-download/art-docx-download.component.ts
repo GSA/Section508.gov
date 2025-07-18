@@ -3,9 +3,10 @@ import * as docx from 'docx';
 import {AlignmentType, HeadingLevel, LevelFormat, Paragraph, TextRun, WidthType, Table, TableRow, TableCell, BorderStyle, ExternalHyperlink} from 'docx';
 
 @Component({
-  selector: 'art-docx-download',
-  templateUrl: './art-docx-download.component.html',
-  styleUrls: ['./art-docx-download.component.scss']
+    selector: 'art-docx-download',
+    templateUrl: './art-docx-download.component.html',
+    styleUrls: ['./art-docx-download.component.scss'],
+    standalone: false
 })
 export class ArtDocxDownloadComponent implements OnInit {
   @Input() params: { btnName: string, fileName: string } = { btnName: "", fileName: "" };
