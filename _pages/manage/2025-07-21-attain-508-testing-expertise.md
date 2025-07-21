@@ -32,19 +32,19 @@ Agencies may choose to develop or obtain expertise in house. There are significa
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">Reducing recurring external vendor fees and staff turnover over time. For agencies with ongoing, large volumes of ICT development or procurement, in-house testing can be more cost-effective.</div></li>  
-li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">The ability to respond more efficiently to urgent Section 508 issues or new content releases without waiting for external vendor scheduling or contract approvals.</div></li>   
-li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">Developing a strong understanding of agency-specific systems, policies, and workflows, enabling more context-aware testing and remediation recommendations.</div></li>   
-li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">Promoting continuous collaboration by embedding Section 508 testers within IT teams.</div></li>   
-li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">Reducing risks related to data privacy and security by keeping access in-house.</div></li>   
-li class="usa-icon-list__item">
+<li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#check_circle"></use></svg></div>
       <div class="usa-icon-list__content">The ability to more easily adapt testing methods and tools to meet evolving agency needs, technologies, and priorities, creating more flexibility than external vendors bound by contract scopes.</div></li>   
 </ul>
@@ -110,7 +110,7 @@ Assign responsibilities for each defined role based on your organizational struc
 * The remediation lead manages remediation tracking by prioritizing defects, coordinating retesting, and ensuring remediation timelines are met. Regular reporting is a key responsibility of this role.  
 * Other agency stakeholders may need to be identified and their roles and responsibilities defined.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Tip:</strong>: See <a href="{{site.baseurl}}/manage/roles/">Roles and Responsibilities</a>.</p></div>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Tip:</strong> See <a href="{{site.baseurl}}/manage/roles/">Roles and Responsibilities</a>.</p></div>
 
 #### Developing a Policy for Section 508 Testing
 
