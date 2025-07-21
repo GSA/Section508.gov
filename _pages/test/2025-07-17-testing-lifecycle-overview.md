@@ -77,7 +77,7 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
       <li>Update the accessibility test report and tracking mechanisms with the new status for each Section 508 Standard, date of re-test, and any other product information that has changed.</li></ul>  
 <li>Create an Accommodation or Alternate Means Plan for any defects that remain unresolved.</li>
 </ul> 
-
+<br>
 Once all defects have been remediated, or remediated to the best of the team’s ability, there may be a need to develop an Accessibility Conformance Report (ACR) based on the test results. See the <a href="{{site.baseurl}}/sell/acr/">Accessibility Conformance Report (ACR) page</a> for more information on how to create a machine readable ACR and when you may need one.
 </li>
 <li class="usa-process-list__item">
