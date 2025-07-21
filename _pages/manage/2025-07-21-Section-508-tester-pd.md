@@ -82,4 +82,4 @@ The Section 508 Accessibility Tester is responsible for ensuring that digital pr
 * \[If applicable\] Experience training others in Section 508 and ICT accessibility best practices or leading workshops.  
 * \[If applicable\] Expertise to remediate electronic documents such as PDFs, Word, PowerPoint, and Excel.
 
-**Reviewed/Updated:** July 20205
+**Reviewed/Updated:** July 2025
