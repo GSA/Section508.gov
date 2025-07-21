@@ -11,8 +11,6 @@ manage:
       - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
-          - name: Accessibility Roles
-            url: manage/roles/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
           - name: IT Accessibility/508 Program Manager Responsibilities
@@ -25,6 +23,15 @@ manage:
             url: manage/track-report-conformance/
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
+      - name: Roles, Responsibilities, and Position Descriptions
+        url: '#'
+        grandchildren: 
+          - name: Accessibility Roles
+          - url: manage/roles/
+          - name: How to Attain Section 508 Testing Expertise
+          - url: manage/roles/attain-section-508-testing-expertise/
+          - name: Section 508 Accessibility Tester Position Description
+          - url: manage/roles/Section-508-tester-PD/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
