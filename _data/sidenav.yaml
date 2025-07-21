@@ -27,11 +27,11 @@ manage:
         url: '#'
         grandchildren: 
           - name: Accessibility Roles
-          - url: manage/roles/
+            url: manage/roles/
           - name: How to Attain Section 508 Testing Expertise
-          - url: manage/roles/attain-section-508-testing-expertise/
+            url: manage/roles/attain-section-508-testing-expertise/
           - name: Section 508 Accessibility Tester Position Description
-          - url: manage/roles/Section-508-tester-PD/
+            url: manage/roles/Section-508-tester-PD/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities

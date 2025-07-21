@@ -1,11 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink:  /manage/roles/Section-508-tester-PD
+permalink: manage/roles/Section-508-tester-PD
 type: manage
-title: Example Position Description: Section 508 Accessibility Tester
+title: Example Position Description for Section 508 Accessibility Tester
 description: Example position description for a Section 508 Accessibility Tester.
-disclaimer: true
+disclaimer: false
 contributors: 
 created: 2025-07-21
 updated: 
