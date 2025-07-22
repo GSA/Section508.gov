@@ -31,7 +31,7 @@ manage:
           - name: How to Attain Section 508 Testing Expertise
             url: manage/roles/attain-section-508-testing-expertise/
           - name: Section 508 Accessibility Tester Position Description
-            url: manage/roles/Section-508-tester-PD/
+            url: manage/roles/section-508-tester-pd/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
