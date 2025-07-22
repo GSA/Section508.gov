@@ -24,15 +24,13 @@ format: "HTML (html)"
 **Position Type:** [Specify full time or part time]  
 **Security Clearance:** [Specify if required]
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p>Instructions: Write a high-level overview of the position and key responsibilities and qualifications.</p></div>
-
 ## Position Summary
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong>strong> Write a high-level overview of the position and key responsibilities and qualifications.</p></div>
 
 The Section 508 Accessibility Tester is responsible for ensuring that digital products, services, and electronic content developed, procured, or maintained by [Agency Name] comply with the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. This individual will support information and communication technology (ICT) Section 508 conformance validation testing, defect reporting, remediation planning and guidance, and training efforts across the agency's enterprise.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p>Instructions: Consider and select the key responsibilities for the position you are developing per agency requirements.</p></div>
-
 ## Key Responsibilities
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong>strong> Consider and select the key responsibilities for the position you are developing per agency requirements.</p></div>
 
 * Conduct comprehensive Section 508 conformance validation testing of web content, media such as audio, video, or multimedia, and electronic documents such as PDFs, Word, PowerPoint and Excel documents.  
 * [If applicable] Conduct comprehensive Section 508 conformance validation testing of software and mobile applications.   
@@ -48,10 +46,8 @@ The Section 508 Accessibility Tester is responsible for ensuring that digital pr
 * [If applicable] Deliver training or workshops to raise awareness and knowledge about ICT accessibility and Section 508 requirements.  
 * [If applicable] Support integration of Section 508 conformance in agency software development lifecycle (SDLC) , Agile processes, and acquisition workflows.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p>Instructions: Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p></div>
-
 ## Qualifications
-
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong>strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p></div>
 ### Minimum:
 
 #### Education & Experience
