@@ -25,7 +25,7 @@ format: "HTML (html)"
 **Security Clearance:** [Specify if required]
 
 ## Position Summary
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong>strong> Write a high-level overview of the position and key responsibilities and qualifications.</p></div>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong> Write a high-level overview of the position and key responsibilities and qualifications.</p></div>
 
 The Section 508 Accessibility Tester is responsible for ensuring that digital products, services, and electronic content developed, procured, or maintained by [Agency Name] comply with the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. This individual will support information and communication technology (ICT) Section 508 conformance validation testing, defect reporting, remediation planning and guidance, and training efforts across the agency's enterprise.
 
