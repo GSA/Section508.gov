@@ -47,7 +47,7 @@ The Section 508 Accessibility Tester is responsible for ensuring that digital pr
 * [If applicable] Support integration of Section 508 conformance in agency software development lifecycle (SDLC) , Agile processes, and acquisition workflows.
 
 ## Qualifications
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong>strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p></div>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p></div>
 ### Minimum:
 
 #### Education & Experience
