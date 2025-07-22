@@ -83,15 +83,15 @@ Agencies should first identify which [testing methodologies]({{site.baseurl}}/te
   * <a href="https://www.dhs.gov/508-training" target="_blank" class="usa-link--external">Section 508 Standards for Web included in the courses for DHS Trusted Tester for Web Certification Program</a> 
 * Training on agency approved testing methodologies. This may include Assistive Technology. Resources include:  
   * <a href="https://www.dhs.gov/508-training" target="_blank" class="usa-link--external"> DHS Trusted Tester for Web Certification Program</a>
-  * Training on [document testing]({{site.baseurl}}/test/documents/) and [accessible content creation]({{site.baseurl}}/create/) on [Section508.gov](https://Section508.gov)  
-  * [Browser developer tools](https://assets.section508.gov/assets/files/Using-DevTools-for-Manual-Accessibility-Inspection-2024-AUG-ITACM.pdf)  
+  * Training on [document testing]({{site.baseurl}}/test/documents/) and [accessible content creation]({{site.baseurl}}/create/)
+  * <a href="https://assets.section508.gov/assets/files/Using-DevTools-for-Manual-Accessibility-Inspection-2024-AUG-ITACM.pdf" target="_blank" class="usa-link--external">Browser developer tools (PDF)</a>
 * Training on agency approved testing tools. Resources include:  
-  * <a href="https://www.ssa.gov/accessibility/andi/help/howtouse.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI) tutorial</a> >and <a href="https://www.section508.gov/training/web-software/andi-training-videos/" target="_blank" class="usa-link--external">ANDI Overview</a>  
+  * <a href="https://www.ssa.gov/accessibility/andi/help/howtouse.html" target="_blank" class="usa-link--external">Accessible Name and Description Inspector (ANDI) tutorial</a> and <a href="({{site.baseurl}}/training/web-software/andi-training-videos/">ANDI Overview</a>  
   * [How to Test Color Contrast using the Color Contrast Analyser]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/)  
 * Community participation. Resources include:  
   * [GSA's IT Accessibility Community Meeting]({{site.baseurl}}/training/presentations-workshops/)  
   * [Section 508 Community Listserv]({{site.baseurl}}/manage/join-the-508-community/)  
-  * [Interagency Accessibility Forum]({{site.baseurl}}/iaaf/archives/) (IAAF): Annual forum featuring presentations, panel discussions and workshops led by accessibility experts across the federal government.  
+  * [Interagency Accessibility Forum (IAAF)]({{site.baseurl}}/iaaf/archives/): Annual forum featuring presentations, panel discussions and workshops led by accessibility experts across the federal government.  
   * [Section508.gov Training, Tools, and Events]({{site.baseurl}}/training-home/#training-videos-library)  
   * [Section508.gov Video Library]({{site.baseurl}}/training-home/#training-videos-library)  
 * External certifications the agency may deem beneficial or essential such as platform, application or code expertise. 
@@ -156,7 +156,7 @@ Agencies may determine that building or acquiring internal skills is not the mos
 
 ### Choose a Vendor Who Meets Required Qualifications
 
-When choosing a vendor, define specific knowledge and skills that are required. Refer to the [Sample Section 508 Accessibility Tester Position Description]({{site.baseurl}}/manage/manage/roles/Section-508-tester-PD). Additional actions include:
+When choosing a vendor, define specific knowledge and skills that are required. Refer to the [Sample Section 508 Accessibility Tester Position Description]({{site.baseurl}}/manage/roles/section-508-tester-pd). Additional actions include:
 
 * Checking the qualifications of proposed staff by requesting resumes describing  work experience and credentials.  
 * Requesting examples of ICT testing reports or Accessibility Conformance Reports, including defect descriptions and prioritizations.  
