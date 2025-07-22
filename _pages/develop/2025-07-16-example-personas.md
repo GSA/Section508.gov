@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/example-accessibility-personas/
+permalink: develop/example-fpc-personas/
 type: develop 
-title: 'Example Personas'
-description: Learn about example Accessiblity Personas by user need. 
+title: 'Example Funcational Performance Criteria (FPC) Personas'
+description: Learn about example Funcational Performance Criteria (FPC) Personas by user need. 
 created: 20240718
 topic: "design"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
@@ -17,9 +17,6 @@ audience:
 resource-type: "article"
 format: "HTML (html)"
 ---
-
-
-## Accessibility Personas
 
 The law requires that we take the needs of today's users and the needs of future users into account. So how do we do that? Well, there is such a wide spectrum of disabilities, it would be an impossible task to cater requirements to the needs of every single individual person. That's why, in design and development, it's helpful to categorize users with similar needs into "personas".
 
