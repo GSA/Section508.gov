@@ -46,5 +46,10 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "rimraf": "^3.0.2",
     "typescript": "~5.8.3"
+  },
+  "overrides":{
+    "docx":{
+      "nanoid":"^5.0.9"
+    }
   }
 }
