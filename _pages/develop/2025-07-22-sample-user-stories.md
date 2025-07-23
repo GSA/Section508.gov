@@ -38,7 +38,7 @@ Write with clarity and alignment to Section 508 Standards so that user stories a
 
 All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio of at least 4.5:1 for normal text and 3:1 for large text (text that is 14 point and bold or larger, or 18 point or larger).</p></div>
 
-## Example Web, Software, and Electronic Document User Stories
+## Example User Stories
 
 The following user stories illustrate how accessibility needs can be captured during the development of digital content and tools. These examples are not exhaustive; development teams should tailor user stories to reflect the specific users, features, and technologies relevant to their own product or project.
 
