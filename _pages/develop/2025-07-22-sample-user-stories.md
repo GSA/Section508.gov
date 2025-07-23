@@ -418,10 +418,10 @@ The following user stories illustrate how accessibility needs can be captured du
       type="button"
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a8"
+      aria-controls="a9"
     >Limited Language, Cognitive, and Learning Abilities</button></h3>
 
-<div id="a8" class="usa-table--borderless usa-accordion__content" tabindex="0">
+<div id="a9" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited language, cognitive, and learning abilities</caption>
   <thead>
@@ -477,10 +477,10 @@ The following user stories illustrate how accessibility needs can be captured du
       type="button"
       class="usa-accordion__button"
       aria-expanded="false"
-      aria-controls="a9"
+      aria-controls="a10"
     >Photosensitive</button></h3>
 
-<div id="a9" class="usa-table--borderless usa-accordion__content" tabindex="0">
+<div id="a10" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with photosensitivities</caption>
   <thead>
