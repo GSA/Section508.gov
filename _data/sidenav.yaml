@@ -443,7 +443,7 @@ develop:
         url: develop/software-websites/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/
-      - name: Sample User Stories
+      - name: Sample User Stories for Accessible ICT
         url: develop/user-stories/
       - name: Web Content
         url: '#'
