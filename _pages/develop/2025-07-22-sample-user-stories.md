@@ -5,7 +5,7 @@ permalink: develop/user-stories/
 type: develop
 title: 'Sample User Stories'
 description: Sample user stories to help embed ICT accessibility requirements into everyday practices to support compliance with Section 508 standards and reduce the risk of costly retrofits. 
-created: 2025-07-22
+created: 2025-07-23
 topic: "develop"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
@@ -32,10 +32,10 @@ To write effective ICT accessibility-related user stories, start with the format
 
 Write with clarity and alignment to Section 508 Standards so that user stories are actionable and meaningful.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>For example</strong>: As a user who relies on high contrast, I want to view text with sufficient contrast against backgrounds so I can read content easily.
-<br>
-Acceptance Criteria:
-<br>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>For example</strong>: As a user who relies on high contrast, I want to view text with sufficient contrast against backgrounds so I can read content easily.</p>
+
+<p>Acceptance Criteria:
+</br>
 All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio of at least 4.5:1 for normal text and 3:1 for large text (text that is 14 point and bold or larger, or 18 point or larger).</p></div>
 
 ## Example Web, Software, and Electronic Document User Stories
@@ -245,6 +245,7 @@ The following user stories illustrate how accessibility needs can be captured du
     <th scope="row" role="rowheader"> As a user with very limited hearing in my left ear, I want text notifications in addition to audible alerts, so that I am informed when a form has not been completed accurately.</th>
     <td>Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as sound. [WCAG SC 1.3.3]</td>
     <td>Documents, Software, Web</td></tr>
+    <tr>
 <th scope="row" role="rowheader">As a user with limited hearing, I want to be able to easily turn off audio that plays automatically so that I am not distracting others.</th>
 <td>If any audio on a web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control audio volume independently from the overall system volume level. [WCAG SC 1.4.2]</td>
 <td>Documents, Software, Web</td>
@@ -311,7 +312,6 @@ The following user stories illustrate how accessibility needs can be captured du
 <th scope="row" role="rowheader">As a keyboard only user, I want to be able to focus on a submit button without actually submitting the form so that I can review my information first.</th>
 <td>When any user interface component receives focus, it does not initiate a change of context. [WCAG SC 3.2.1]</td>
 <td>Documents, Software, Web</td></tr>
-    </tr>
     </tbody>
     </table>
     </div>
@@ -386,7 +386,8 @@ The following user stories illustrate how accessibility needs can be captured du
 <td>Documents, Software, Web</td></tr>
 <tr>
 <th scope="row" role="rowheader">As a user who has trouble following detailed instructions, I want to easily understand what is required in each form field so that I can accurately fill in data.</th>
-<td>Headings and labels describe topic or purpose. [WCAG SC 2.4.6] Labels or instructions are provided when content requires user input. [WCAG SC 3.3.2]</td>
+<td><ul><li>Headings and labels describe topic or purpose. [WCAG SC 2.4.6]</li> 
+<li>Labels or instructions are provided when content requires user input. [WCAG SC 3.3.2]</li></ul></td>
 <td>Documents, Software, Web</td></tr>
 <tr>
 <th scope="row" role="rowheader">As a user who gets easily overwhelmed, I want more than one way to navigate to webpages within a website so that I can find information easier and in a more comprehensible manner for me.</th>
@@ -421,5 +422,10 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ## Related Resources
 
-*<a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes  
-*<a href="https://digital.va.gov/section-508/checklists/collections-user-stories/" target="_blank" class="usa-link--external">Department of Veteran's Affairs: Collections, Epics, Sub Epics, and User Stories</a> 
+<ul>
+<li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</li>  
+<li><a href="https://digital.va.gov/section-508/checklists/collections-user-stories/" target="_blank" class="usa-link--external">Department of Veteran's Affairs: Collections, Epics, Sub Epics, and User Stories</a></li></ul> 
+
+
+**Reviewed/Updated:** July 2025
+---
