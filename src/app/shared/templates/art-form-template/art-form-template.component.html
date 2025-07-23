@@ -251,13 +251,13 @@
             >
             @if (error.message) {
               <div>
-                @if (error.message?.maxlength) {
+                @if (error.message.maxlength) {
                   <b>{{ getSectionLabel(error.section) }}: </b>
-                  {{ " " + error.message?.maxlength }}
+                  {{ " " + error.message.maxlength }}
                 }
-                @if (!error.message?.maxlength && error.message?.required) {
+                @if (!error.message.maxlength && error.message.required) {
                   <b>{{ getSectionLabel(error.section) }}: </b>
-                  {{ " " + error.message?.required }}
+                  {{ " " + error.message.required }}
                 }
               </div>
             }
