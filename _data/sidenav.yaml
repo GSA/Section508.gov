@@ -437,10 +437,14 @@ develop:
   - name: Develop
     url: '#'
     children:
-      - name: Develop Software and Websites
-        url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
+      - name: Develop Software and Websites
+        url: develop/software-websites/
+      - name: Incorporating Accessibility Conformance Validation within Development
+        url: develop/incorporating-accessibility-conformance/
+      - name: Sample User Stories
+        url: develop/user-stories/
       - name: Web Content
         url: '#'
         grandchildren:
@@ -448,8 +452,6 @@ develop:
             url: develop/web-content/
           - name: Publishing to the Web
             url: develop/publish-to-web/
-      - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/
 test:
   - name: Testing
     url: 'test/'
