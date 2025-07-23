@@ -42,7 +42,7 @@ All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio 
 
 The following user stories illustrate how accessibility needs can be captured during the development of digital content and tools. These examples are not exhaustive; development teams should tailor user stories to reflect the specific users, features, and technologies relevant to their own product or project.
 
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter padding-bottom-1" style="margin-top: 1.0em;"><p><strong>User Stories</strong>:</p>
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter margin-bottom-4" style="margin-top: 1.0em;"><p><strong>User Stories</strong>:</p>
 <ul>
 <li> Define specific functionality or needs</li>
 <li> Are task-specific with a focus on goals or interactions</li>
