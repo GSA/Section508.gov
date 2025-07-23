@@ -28,14 +28,19 @@ To write effective ICT accessibility-related user stories, start with the format
 * **User type or need:** Clearly identify a user with a specific accessibility need such as a keyboard-only user.  
 * **Goal, action, function:** State what they want to do such as tab through a form logically.  
 * **Benefit or Achievement:** Explain why it matters, such as to complete a task independently.   
-* Include acceptance criteria to define when the story is complete; this might involve meeting contrast requirements, supporting screen readers, or ensuring keyboard functionality.   
-* Write with clarity and alignment to Section 508 Standards so that user stories are actionable and meaningful.
+* **Acceptance criteria**: Defines when the story is complete; this might involve meeting contrast requirements, supporting screen readers, or ensuring keyboard functionality.   
 
-For example: As a user who relies on high contrast, I want to view text with sufficient contrast against backgrounds so I can read content easily.
+Write with clarity and alignment to Section 508 Standards so that user stories are actionable and meaningful.
 
+<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>For example</strong>: As a user who relies on high contrast, I want to view text with sufficient contrast against backgrounds so I can read content easily.
+<br>
 Acceptance Criteria:
+<br>
+All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio of at least 4.5:1 for normal text and 3:1 for large text (text that is 14 point and bold or larger, or 18 point or larger).</p></div>
 
-* All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio of at least 4.5:1 for normal text and 3:1 for large text (text that is 14 point and bold or larger, or 18 point or larger). 
+## Example Web, Software, and Electronic Document User Stories
+
+The following user stories illustrate how accessibility needs can be captured during the development of digital content and tools. These examples are not exhaustive; development teams should tailor user stories to reflect the specific users, features, and technologies relevant to their own product or project.
 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p>User Stories:</p>
 <ul>
@@ -44,10 +49,6 @@ Acceptance Criteria:
 <li> Are short and focused on functionality and goals</li>
 </ul>
 </div>
-
-## Example Web, Software, and Electronic Document User Stories
-
-The following user stories illustrate how accessibility needs can be captured during the development of digital content and tools. These examples are not exhaustive; development teams should tailor user stories to reflect the specific users, features, and technologies relevant to their own product or project.
 
 ### Without Vision
 
@@ -126,7 +127,7 @@ The following user stories illustrate how accessibility needs can be captured du
     </div>
 
 ### Limited Vision
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited vision</caption>
   <thead>
@@ -160,7 +161,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Without Perception of Color
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without the preception of color</caption>
   <thead>
@@ -190,7 +191,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Without Hearing
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without hearing</caption>
   <thead>
@@ -229,7 +230,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Limited Hearing
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited hearing</caption>
   <thead>
@@ -254,7 +255,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Without Speech
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without speech</caption>
   <thead>
@@ -276,7 +277,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Limited Manipulation
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited manipulation</caption>
   <thead>
@@ -317,7 +318,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Limited Reach and Strength
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited reach and strength</caption>
   <thead>
@@ -348,7 +349,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Limited Language, Cognitive, and Learning Abilities
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited language, cognitive, and learning abilities</caption>
   <thead>
@@ -398,7 +399,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Photosensitive
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with photosensitivities</caption>
   <thead>
