@@ -35,7 +35,7 @@ Write with clarity and alignment to Section 508 Standards so that user stories a
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>For example</strong>: As a user who relies on high contrast, I want to view text with sufficient contrast against backgrounds so I can read content easily.</p>
 
 <p>Acceptance Criteria:
-</br>
+
 All text meets Web Content Accessibility Guidelines (WCAG) 1.4.3 contrast ratio of at least 4.5:1 for normal text and 3:1 for large text (text that is 14 point and bold or larger, or 18 point or larger).</p></div>
 
 ## Example Web, Software, and Electronic Document User Stories
@@ -423,7 +423,7 @@ The following user stories illustrate how accessibility needs can be captured du
 ## Related Resources
 
 <ul>
-<li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</li>  
+<li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a></li>  
 <li><a href="https://digital.va.gov/section-508/checklists/collections-user-stories/" target="_blank" class="usa-link--external">Department of Veteran's Affairs: Collections, Epics, Sub Epics, and User Stories</a></li></ul> 
 
 
