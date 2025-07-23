@@ -212,10 +212,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Without Hearing
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a4"
+    >Without Hearing</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a4" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without hearing</caption>
   <thead>
@@ -251,10 +259,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Limited Hearing
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a5"
+    >Limited Hearing</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a5" lass="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited hearing</caption>
   <thead>
@@ -277,10 +293,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Without Speech
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a6"
+    >Without Speech</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id= "a6" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without speech</caption>
   <thead>
@@ -299,10 +323,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Limited Manipulation
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a7"
+    >Limited Manipulation</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a7" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited manipulation</caption>
   <thead>
@@ -339,10 +371,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Limited Reach and Strength
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a8"
+    >Limited Reach and Strength</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a8" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited reach and strength</caption>
   <thead>
@@ -370,10 +410,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Limited Language, Cognitive, and Learning Abilities
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a8"
+    >Limited Language, Cognitive, and Learning Abilities</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a8" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with limited language, cognitive, and learning abilities</caption>
   <thead>
@@ -421,10 +469,18 @@ The following user stories illustrate how accessibility needs can be captured du
     </tbody>
     </table>
     </div>
+    </div>
 
-### Photosensitive
+<div class="usa-accordion data-allow-multiple">
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="a9"
+    >Photosensitive</button></h3>
 
-<div class="usa-table--borderless" tabindex="0">
+<div id="a9" class="usa-table--borderless usa-accordion__content" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users with photosensitivities</caption>
   <thead>
@@ -442,6 +498,7 @@ The following user stories illustrate how accessibility needs can be captured du
     </tr>
     </tbody>
     </table>
+    </div>
     </div>
 
 ## Related Resources
