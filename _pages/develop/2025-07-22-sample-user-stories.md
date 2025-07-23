@@ -51,7 +51,7 @@ The following user stories illustrate how accessibility needs can be captured du
 
 ### Without Vision
 
-<div class="usa-table--borderless usa-table-container--scrollable" tabindex="0">
+<div class="usa-table--borderless" tabindex="0">
   <table class="usa-table">
   <caption> Sample user stories for users without vision</caption>
   <thead>
