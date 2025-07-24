@@ -21,6 +21,8 @@ manage:
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
             url: manage/track-report-conformance/
+          - name: Section 508 Exceptions Request and Approval Process
+            url: manage/exceptions-request-and-approval-process/ 
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
       - name: Roles, Responsibilities, and Position Descriptions
