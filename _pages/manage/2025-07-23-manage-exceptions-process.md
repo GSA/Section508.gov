@@ -38,7 +38,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/#legacy-ict">Legacy ICT</a>
@@ -46,7 +46,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/#national-security-systems">National Security Systems</a>
@@ -54,7 +54,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/#federal-contracts">Federal Contracts</a> or Incidental to Contract
@@ -62,7 +62,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions#ict-functions-located-in-maintenance-or-monitoring-spaces">
@@ -72,7 +72,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/#undue-burden-or-fundamental-alteration">Undue Burden or Fundamental Alteration</a>
@@ -80,7 +80,7 @@ The Section 508 Standards identify six General Exceptions that federal agencies 
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/#best-meets">Best Meets</a>
@@ -134,7 +134,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         May create bottlenecks due to limited reviewer capacity.
@@ -142,7 +142,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Slower turnaround times for urgent or time-sensitive requests.
@@ -150,7 +150,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Less flexibility for unique program or component needs.
@@ -158,7 +158,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Requires robust support infrastructure such as tracking systems or intake processes.
@@ -169,7 +169,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         With high-volume ICT procurements or a large, diverse user base requiring uniform oversight.
@@ -177,7 +177,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Without broad subject matter expertise.
@@ -185,7 +185,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         With small to medium ICT procurements.
@@ -193,7 +193,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Without urgent or time sensitive needs.
@@ -237,7 +237,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Potential for inconsistent application of policy across components.
@@ -245,7 +245,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Challenging to centralize records for reporting, tracking, or auditing without a centralized portal or ticketing system.
@@ -253,7 +253,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Requires strong internal controls and training to ensure policy alignment.
@@ -261,7 +261,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Risk of varying documentation quality and interpretation of exceptions.
@@ -272,7 +272,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         With decentralized subcomponents, such as departments with diverse missions or IT systems.
@@ -324,7 +324,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         May lack dedicated accessibility expertise at decision points.
@@ -332,7 +332,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Risk of exceptions being overlooked or inconsistently interpreted and documented.
@@ -340,7 +340,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Difficult to extract or aggregate data for enterprise-wide reporting and tracking.
@@ -348,7 +348,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Requires extensive coordination across multiple lifecycle checkpoints.
@@ -359,7 +359,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Undergoing IT modernization or those with automated procurement and development platforms.
@@ -648,7 +648,7 @@ All approved exceptions should:
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Include an expiration or revalidation date between 12 to 36 months of issuance, unless a shorter interval is justified based on risk or planned upgrades.
@@ -656,7 +656,7 @@ All approved exceptions should:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Be reviewed annually: Ensure ongoing relevance, assess whether circumstances have changed, and evaluate any progress toward remediation, resolution, or mitigation.
@@ -664,7 +664,7 @@ All approved exceptions should:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Be sunsetted, revised, or rejustified when:
@@ -715,7 +715,7 @@ At a minimum, exception records should:
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Include documentation required under <em>E202.6 Undue Burden or Fundamental Alteration</em> and <em>E202.7 Best Meets</em>.
@@ -723,7 +723,7 @@ At a minimum, exception records should:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Be retained for at least five years after the exception expires, or longer in accordance with National Archives and Records Administration (NARA) retention records guidelines.
@@ -731,7 +731,7 @@ At a minimum, exception records should:
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       Be tracked and available for auditing, re-evaluations, and reporting.
