@@ -107,9 +107,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-        </svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Ensures consistent decisions across the agency.
@@ -117,9 +115,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-        </svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Enables centralized documentation, auditing, tracking, and reporting readiness.
@@ -127,9 +123,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
     </li>
     <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-green">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-        </svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Facilitates the involvement of subject matter experts in evaluations.
@@ -139,40 +133,32 @@ Because the Section 508 Standards do not specify how agencies must handle except
   <h4>Potential Drawbacks:</h4>
   <ul class="usa-icon-list maxw-full">
     <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-error">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use>
-        </svg>
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         May create bottlenecks due to limited reviewer capacity.
       </div>
     </li>
     <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-error">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use>
-        </svg>
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Slower turnaround times for urgent or time-sensitive requests.
       </div>
     </li>
     <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-error">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use>
-        </svg>
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Less flexibility for unique program or component needs.
       </div>
     </li>
     <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-error">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_down_alt"></use>
-        </svg>
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
       </div>
       <div class="usa-icon-list__content">
         Requires robust support infrastructure such as tracking systems or intake processes.
@@ -220,47 +206,166 @@ Because the Section 508 Standards do not specify how agencies must handle except
   </h3>
   <div id="m-a2" class="usa-accordion__content">
     <p>Authority to review exceptions is delegated to program offices or subcomponents, following a common policy framework established by the central Section 508 Program Office. Periodic oversight helps ensure consistency and alignment with agency-wide standards.</p>
-    <h4>Benefits:</h4>
-    <ul>
-        <li>Promotes responsiveness and context-specific decision-making.</li>
-        <li>Encourages operational ownership and accountability.</li>
-        <li>Scales well in agencies with decentralized components or diverse missions.</li>
-    </ul>
-    <h4>Potential Drawbacks:</h4>
-    <ul>
-        <li>Potential for inconsistent application of policy across components.</li>
-        <li>Challenging to centralize records for reporting, tracking, or auditing without a centralized portal or ticketing system.</li>
-        <li>Requires strong internal controls and training to ensure policy alignment.</li>
-        <li>Risk of varying documentation quality and interpretation of exceptions.</li>
-    </ul>
-    <h4>Best For Agencies:</h4>
-    <ul>
-        <li>With decentralized subcomponents, such as departments with diverse missions or IT systems.</li>
-    </ul>
-  </div>
-  <h3 class="usa-accordion__heading">
-    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-a3">Model 3: Decentralized Exceptions Review</button>
-  </h3>
-  <div id="m-a3" class="usa-accordion__content">
-    <p>Exception processing is integrated into existing acquisition and development workflows, including planning, design, and contract approval checkpoints.</p>
-    <h4>Benefits:</h4>
-    <ul>
-        <li>Embeds accessibility planning early in the project lifecycle.</li>
-        <li>Aligns exceptions with risk assessments and mitigation strategies.</li>
-        <li>Streamlines decision-making and reduces standalone documentation.</li>
-        <li>Supports automation in modern procurement and development environments.</li>
-    </ul>
-    <h4>Potential Drawbacks:</h4>
-    <ul>
-        <li>May lack dedicated accessibility expertise at decision points.</li>
-        <li>Risk of exceptions being overlooked or inconsistently interpreted and documented.</li>
-        <li>Difficult to extract or aggregate data for enterprise-wide reporting and tracking.</li>
-        <li>Requires extensive coordination across multiple lifecycle checkpoints.</li>
-    </ul>
-    <h4>Best For Agencies:</h4>
-    <ul>
-        <li>Undergoing IT modernization or those with automated procurement and development platforms.</li>
-    </ul>
+     <h4>Benefits:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Promotes responsiveness and context-specific decision-making.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Encourages operational ownership and accountability.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Scales well in agencies with decentralized components or diverse missions.
+      </div>
+    </li>
+  </ul>
+  <h4>Potential Drawbacks:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Potential for inconsistent application of policy across components.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Challenging to centralize records for reporting, tracking, or auditing without a centralized portal or ticketing system.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Requires strong internal controls and training to ensure policy alignment.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Risk of varying documentation quality and interpretation of exceptions.
+      </div>
+    </li>
+  </ul>
+  <h4>Best For Agencies:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-blue">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        With decentralized subcomponents, such as departments with diverse missions or IT systems.
+      </div>
+    </li>
+  </ul>
+</div>
+<h3 class="usa-accordion__heading">
+  <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="m-a3">Model 3: Decentralized Exceptions Review</button>
+</h3>
+<div id="m-a3" class="usa-accordion__content">
+  <p>Exception processing is integrated into existing acquisition and development workflows, including planning, design, and contract approval checkpoints.</p>
+  <h4>Benefits:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Embeds accessibility planning early in the project lifecycle.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Aligns exceptions with risk assessments and mitigation strategies.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Streamlines decision-making and reduces standalone documentation.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-green">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Supports automation in modern procurement and development environments.
+      </div>
+    </li>
+  </ul>
+  <h4>Potential Drawbacks:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        May lack dedicated accessibility expertise at decision points.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Risk of exceptions being overlooked or inconsistently interpreted and documented.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Difficult to extract or aggregate data for enterprise-wide reporting and tracking.
+      </div>
+    </li>
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-red">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_down_alt"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Requires extensive coordination across multiple lifecycle checkpoints.
+      </div>
+    </li>
+  </ul>
+  <h4>Best For Agencies:</h4>
+  <ul class="usa-icon-list maxw-full">
+    <li class="usa-icon-list__item">
+      <div class="usa-icon-list__icon text-blue">
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      </div>
+      <div class="usa-icon-list__content">
+        Undergoing IT modernization or those with automated procurement and development platforms.
+      </div>
+    </li>
+  </ul>
   </div>
 </div>
 
@@ -272,6 +377,7 @@ Because the Section 508 Standards do not specify how agencies must handle except
 Whether an agency uses a centralized, federated, or integrated model for Section 508 exception processing, certain core policy elements should be in place to ensure legal compliance, audit readiness, and operational consistency. The following are common elements to consider including in your agency's exception process.
 
 ### Process Workflow
+Agency procedures should explain how to create and submit a Section 508 exception request, as well as how requests are reviewed, approved, and tracked. The following example can help your agency establish procedures that align with your organization’s goals and workflow efficiency.
 <ol class="usa-process-list">
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Initiate Request</h4>
@@ -391,7 +497,9 @@ Whether an agency uses a centralized, federated, or integrated model for Section
     </div>
   </li>
 </ol>
----
+
+<hr style="width:75%">
+
 ### Identify Authorizing Officials
 
 Agency policy should clearly define who is responsible for managing Section 508 exception requests. These responsibilities may be assigned to existing roles---such as the Chief Information Officer (CIO), Chief Acquisition Officer (CAO), or Section 508 Program Manager---or to an Exceptions Review Board (ERB) made up of key stakeholders.
@@ -597,7 +705,7 @@ Agencies should establish procedures to ensure that equivalent access is conside
 * *Track user requests* for alternate access to uncover common accessibility gaps and inform ongoing improvements.
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <strong>Legal Consideration:</strong> Even when a Section 508 exception applies, providing alternative means is not optional---it is a continuing obligation under <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794.htm">Section 504 of the Rehabilitation Act (29 U.S.C. 794)</a> and other agency responsibilities.
+    <strong>Legal Consideration:</strong> Even when a Section 508 exception applies, providing alternative means is not optional&mdash;it is a continuing obligation under <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794.htm">Section 504 of the Rehabilitation Act (29 U.S.C. 794)</a> and other agency responsibilities.
 </div>
 
 ## Recordkeeping and Reporting
@@ -650,7 +758,7 @@ Exception records should include standardized metadata fields, such as:
     <tr>
       <td>Exception ID Number</td>
       <td>
-        Assign a unique identifier to each approved exception.<br>
+        Assign a unique identifier to each approved exception. For example:<br>
         <strong><u>Format:</u></strong><br>Agency-Component-Office-Date-Sequence-Type<br>
         <strong><u>Example:</u></strong><br>DHS-FEMA-Recovery-2024-05-08-003-Best-Meets
       </td>
@@ -739,12 +847,13 @@ Agencies that currently use business process or workflow automation tools may co
 
 Agencies that do not utilize such systems may opt for a forms-based approach, such as creating an online form or a fillable PDF that can be routed to the appropriate stakeholders for review and approval. For these cases, the following sample forms are provided for consideration:
 
-* <a href="" target="_blank" class="usa-link--external">E202.2 Legacy ICT Exception Request Form (DOCX)</a>
-* <a href="" target="_blank" class="usa-link--external">E202.3 National Security Exception Request Form (DOCX)</a>
-* <a href="" target="_blank" class="usa-link--external">E202.4 Federal Contracts Exception Request Form (DOCX)</a>
-* <a href="" target="_blank" class="usa-link--external">E202.5 ICT Functions Located in Maintenance/Monitoring Spaces Request Form (DOCX)</a>
-* <a href="" target="_blank" class="usa-link--external">E202.6 Undue Burden or Fundamental Alteration Exception Request Form (DOCX)</a>
-* <a href="" target="_blank" class="usa-link--external">E202.7 Best Meets Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.2-Legacy-ICT-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.2 Legacy ICT Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.3-National-Security-Systems-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.3 National Security Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.4-Federal-Contracts-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.4 Federal Contracts Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.5-ICT-Functions-Located-in-Maintenance-or-Monitoring-Spaces-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.5 ICT Functions Located in Maintenance/Monitoring Spaces Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.6-Fundamental-Alteration-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.6 Fundamental Alteration Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.6-Undue-Burden-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.6 Undue Burden Exception Request Form (DOCX)</a>
+* <a href="{{site.baseurl}}/assets/files/E202.7-Best-Meets-Exception-Request-and-Authorization-Form-(SAMPLE).docx" target="_blank" class="usa-link--external">E202.7 Best Meets Exception Request Form (DOCX)</a>
 
 ## Related Resources
 
