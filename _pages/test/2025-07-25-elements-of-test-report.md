@@ -79,7 +79,7 @@ Test results should be reported using testing performed by knowledgeable accessi
    <li> Include a screenshot of the defect.</li>   
    <li> Include a code snippet of the defect, if applicable.</li>   
    <li> Provide sufficient detail to explain how developers can remediate the defect.</li>   
-   <li> Explain why Supports, Pass, or Not Applicable was selected. It is recommended some explanation is provided for each accessibility standard on the test report.</li></ul> 
+   <li> Explain why Supports, Pass, or Not Applicable was selected. It is recommended some explanation is provided for each accessibility standard on the test report.</li></ul></ul>
 
 ## Formatting
 
@@ -104,4 +104,4 @@ Formatting enhances readability and understanding of the test report. At a minim
 <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
 
 
-** Reviewed/Updates:** July 2025
+** Reviewed/Updated:** July 2025
