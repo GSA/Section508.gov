@@ -48,7 +48,7 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
 <ul>
 <li>Using the methodologies identified in Step 1, test the product.</li>  
 <li>Ensure comprehensive testing includes all applicable Section 508 Standards.</li>   
-<li>Ensure each defect is captured in an Accessibility Test Report.</li>
+<li>Ensure each defect is captured in an <a href="{{site.baseurl}}/test/elements-of-an-accessibility-test-report/">Accessibility Test Report</a>.</li>
 </ul>
 </li>
 <li class="usa-process-list__item">

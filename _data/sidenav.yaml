@@ -462,6 +462,8 @@ test:
     children:
       - name: Testing Lifecycle Overview
         url: 'test/testing-lifecycle-overview/'
+      - name: Essential Elements of an Accessibility Test Report
+        url: 'test/elements-of-an-accessibility-test-report/'
   - name: Testing Methods
     url: '#'
     children:
