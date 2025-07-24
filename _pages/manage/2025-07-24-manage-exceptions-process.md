@@ -27,11 +27,11 @@ resource_type:
 - law-policy
 - template
 format: html
-created: 2025-07-23
+created: 2025-07-24
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 
 ---
-Federal agencies are required to ensure that their information and communication technology (ICT) is accessible to individuals with disabilities, as mandated by [Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)](https://www.section508.gov/manage/laws-and-policies/section-508-law/). This applies to all ICT that an agency procures, develops, uses, or maintains. However, the [Section 508 Standards](https://www.access-board.gov/ict/) allow certain ICT to be exempt from these requirements under specific conditions.
+Federal agencies are required to ensure that their information and communication technology (ICT) is accessible to individuals with disabilities, as mandated by <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act (29 U.S.C. § 794d)</a>. This applies to all ICT that an agency procures, develops, uses, or maintains. However, the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> allow certain ICT to be exempt from these requirements under specific conditions.
 
 The Section 508 Standards identify six General Exceptions that federal agencies may use to determine whether specific ICT, or components thereof, are exempt from full conformance with the standards; they are:
 
@@ -705,7 +705,7 @@ Agencies should establish procedures to ensure that equivalent access is conside
 * *Track user requests* for alternate access to uncover common accessibility gaps and inform ongoing improvements.
 
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-    <strong>Legal Consideration:</strong> Even when a Section 508 exception applies, providing alternative means is not optional&mdash;it is a continuing obligation under <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794.htm">Section 504 of the Rehabilitation Act (29 U.S.C. 794)</a> and other agency responsibilities.
+    <strong>Legal Consideration:</strong> Even when a Section 508 exception applies, providing alternative means is not optional&mdash;it is a continuing obligation under <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title29/html/USCODE-2011-title29-chap16-subchapV-sec794.htm" target="_blank" class="usa-link--external">Section 504 of the Rehabilitation Act (29 U.S.C. 794)</a> and other agency responsibilities.
 </div>
 
 ## Recordkeeping and Reporting
