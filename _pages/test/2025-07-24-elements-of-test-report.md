@@ -104,4 +104,4 @@ Formatting enhances readability and understanding of the test report. At a minim
 <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
 
 
-** Reviewed/Updated:** July 2025
+<strong>Reviewed/Updated:</strong> July 2025
