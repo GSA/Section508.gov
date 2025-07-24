@@ -3,9 +3,9 @@ layout: page
 sidenav: true
 permalink: test/elements-of-an-accessibility-test-report/
 type: test
-title: "Essential Elements of an Accessibility Test Report"
+title: 'Essential Elements of an Accessibility Test Report'
 description: Learn about essential elements an ICT accessibility test report should include in order to assist teams in identifying accessibility gaps and prioritizing remediation efforts.
-created: 
+created: 2025-07-24
 contributors: 
 topic: Testing (test)
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
@@ -87,17 +87,17 @@ Formatting enhances readability and understanding of the test report. At a minim
 * Use an approved agency test report to ensure defects are logged and tracked for remediation purposes.  
 * Machine-readable formats facilitate comparison capabilities and tool integration.
 
-## Tools to Generate a Test Report
+<h2>Tools to Generate a Test Report</h2>
 <ul>
 <li><a href="https://github.com/Section508Coordinators/SCRT" target="_blank" class="usa-link--external">Section 508 Compliance Reporting Tool</a> by the Department of Homeland Security</li>  
 <li><a href="https://www.hhs.gov/sites/default/files/hhs-508-webapps-checklist.xlsx" target="_blank" class="usa-link--external">Web Sites, Web Applications and Software Excel Checklist</a> by the Department of Health and Human Services</li> 
 <li><a href="{{site.baseurl}}/test/documents/">Accessibility Testing for Electronic Documents</a></li></ul>
 
-## Related Resources
+<h2>Related Resources</h2>
 
-* [Universal Design & Development]({{site.baseurl}}/develop/universal-design/)  
-* [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/)   
-* [Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes]({{site.baseurl}}/develop/incorporating-accessibility-conformance/)  
-* [Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/)
+<ul><li><a href="{{site.baseurl}}/develop/universal-design/">Universal Design & Development</a></li> 
+<li><a href="{{site.baseurl}}/test/testing-overview/">Overview of Testing Methods for 508 Conformance</a></li>  
+<li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes/a></li>  
+<li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
 
 **Reviewed/Updated:** July 2025
