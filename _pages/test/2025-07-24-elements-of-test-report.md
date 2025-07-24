@@ -93,7 +93,7 @@ Formatting enhances readability and understanding of the test report. At a minim
 ## Tools to Generate a Test Report
 <ul>
 <li><a href="https://github.com/Section508Coordinators/SCRT" target="_blank" class="usa-link--external">Section 508 Compliance Reporting Tool</a> by the Department of Homeland Security</li>  
-<li><a href="https://www.hhs.gov/sites/default/files/hhs-508-webapps-checklist.xlsx" target="_blank" class="usa-link--external">Web Sites, Web Applications and Software Excel Checklist</a> by the Department of Health and Human Services</li> 
+<li><a href="https://www.hhs.gov/sites/default/files/hhs-508-webapps-checklist.xlsx" target="_blank" class="usa-link--external">Web Sites, Web Applications and Software Excel Checklist (XLSX)</a> by the Department of Health and Human Services</li> 
 <li><a href="{{site.baseurl}}/test/documents/">Accessibility Testing for Electronic Documents</a></li></ul>
 
 ## Related Resources
