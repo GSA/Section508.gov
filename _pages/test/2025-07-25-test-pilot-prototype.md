@@ -38,7 +38,7 @@ When developing new Information and Communication Technology (ICT) products, it'
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle_outline"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle_outline"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Electronic Content:</strong> Any digital information intended for communication or documentation such as web pages, online forms or surveys, office documents such as DOCX, PPTX and XLSX, PDF, training manuals, audio and video media, emails and official memos.
@@ -46,7 +46,7 @@ When developing new Information and Communication Technology (ICT) products, it'
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle_outline"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle_outline"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Hardware:</strong> Physical devices that deliver or support ICT functionality such as desktop and laptop computers, interactive kiosks or ticketing machines, videophones and Voice Over IP phones, multifunction printers and scanners, and ATMs and voting machines.
@@ -54,7 +54,7 @@ When developing new Information and Communication Technology (ICT) products, it'
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle_outline"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle_outline"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Software:</strong> Programs or systems that enable users to perform digital tasks such as web browsers, word processing or spreadsheet software, mobile apps, enterprise systems such as HR or payroll platforms, and video conferencing tools.
@@ -62,7 +62,7 @@ When developing new Information and Communication Technology (ICT) products, it'
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check_circle_outline"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle_outline"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Support Documentation and Services:</strong> Materials and services that verified users understand, operate, or troubleshoot ICT products or services such as user manuals, online verified systems, product installation guides, FAQs or knowledge base articles, training materials such as slides, recordings, and handouts, verified desk and customer support portals, live chat interfaces, telephone support systems, and remote support tools.
@@ -83,7 +83,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Early Visualization:</strong> Translates ideas into tangible models, aiding clarity of design and alignment with business needs.
@@ -91,7 +91,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Faster Feedback:</strong> Encourages early stakeholder and user input, reducing guesswork.
@@ -99,7 +99,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Risk Reduction:</strong> Prevents baked-in design flaws, including accessibility and usability issues, before full-scale development.
@@ -107,7 +107,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Cost Efficiency:</strong> Identifies accessibility issues early in development saving time and resources. It verifieds avoid costly retrofits and the need for any redundant alternative access solutions.
@@ -115,7 +115,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Innovation Catalyst:</strong> Encourages creative exploration and problem solving.
@@ -123,7 +123,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Improved Communication:</strong> verifieds stakeholders better understand functionality and sets expectations.
@@ -131,7 +131,7 @@ In the context of accessibility testing, a prototype may not be fully conformant
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>User-Centered Design:</strong> Enhances user satisfaction by incorporating real user behavior and needs from the beginning.
@@ -244,7 +244,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Real-World Testing:</strong> Assesses performance, accessibility, usability, and impact in a realistic setting.
@@ -252,7 +252,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Risk Mitigation:</strong> Detects operational, technical, accessibility, usability and other issues before scaling.
@@ -260,7 +260,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Evidence-Based Refinement:</strong> Provides data to fine-tune the electronic information or digital service.
@@ -268,7 +268,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Stakeholder Confidence:</strong> Demonstrates feasibility and value to decision-makers.
@@ -276,7 +276,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Change Management:</strong> Allows users and teams to adapt gradually, easing transition.
@@ -284,7 +284,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Cost Control:</strong> Prevents large-scale investment in an unproven, inaccessible, or unusable concept.
@@ -292,7 +292,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Implementation Insights:</strong> Reveals training, support, reasonable accommodations, and infrastructure needs prior to broader rollout.
@@ -304,7 +304,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Accessibility requirements:</strong> Familiarize yourself with the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>, your agency’s enterprise test process, and other relevant guidelines required by law or policy.
@@ -312,7 +312,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Alternate modes of operation:</strong> Where the Section 508 Standards do not cover certain ICT functions, those functions must still meet the <a href="https://www.access-board.gov/ict/#chapter-3-functional-performance-criteria" target="_blank" class="usa-link-eexternal">Functional Performance Criteria</a>.
@@ -320,7 +320,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Test for Conformance:</strong> Use both manual and automated testing to check Section 508 compliance, including testing with screen readers and other assistive technologies, and create <a href="{{site.baseurl}}/sell/" target="_blank" class="usa-link--external">Accessibility Conformance Reports (ACRs)</a> for government-developed ICT products.
@@ -328,7 +328,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>User Feedback Loop:</strong> Collect feedback from pilot participants, including those with disabilities, to identify real-world accessibility barriers.
@@ -336,7 +336,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Innovate:</strong> Be curious. Listen to feedback and refine your ICT product to continually remediate defects and eliminate barriers to ensure independent access for all users.
@@ -418,7 +418,7 @@ Agencies should document how accessibility considerations were integrated and va
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Accessibility Strategy or Approach Statement:</strong> A brief summary of how accessibility is being considered in the prototype such as semantic structure, keyboard navigation and screen reader output.
@@ -427,7 +427,7 @@ Agencies should document how accessibility considerations were integrated and va
   
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Feature Inventory or Component Map:</strong> A listing of unique interactive elements included in the prototype, used to guide later testing and identify accessibility implications early.
@@ -436,7 +436,7 @@ Agencies should document how accessibility considerations were integrated and va
   
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Preliminary Accessibility Observations:</strong> Informal findings from sample testing with manual and automated tools, noting potential issues and areas requiring further attention.
@@ -444,7 +444,7 @@ Agencies should document how accessibility considerations were integrated and va
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Design Artifacts with Accessibility Notes:</strong> Annotated wireframes or mockups that indicate accessible features such as heading levels, focus order, alternative text, and color contrast considerations.
@@ -452,7 +452,7 @@ Agencies should document how accessibility considerations were integrated and va
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Vendor Accessibility Conformance Reports (ACRs or VPATs):</strong> For COTS products, reviewed copies of vendor documentation, including notes on known limitations or gaps.
@@ -460,7 +460,7 @@ Agencies should document how accessibility considerations were integrated and va
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Alternative Means Plan:</strong> For COTS products, documentation of how the product’s accessibility features or limitations align with the agency’s intended use cases, noting any existing alternative means.
@@ -473,7 +473,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Accessibility Test Plan:</strong> A documented plan that outlines the scope, tools, methods, and success criteria for accessibility testing.
@@ -481,7 +481,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Test Results and Issue Logs:</strong> Detailed reports from manual, automated, and assistive technology testing, including screenshots, steps to reproduce, and defect severity ratings.
@@ -489,7 +489,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Remediation Tracking:</strong> A list of identified issues and the status of fixes, including validation of resolved defects.
@@ -497,7 +497,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Final Conformance Statement:</strong> A formal summary or declaration confirming that the pilot system meets applicable Section 508 Standards. Accessibility Conformance Reports (ACR) should be available for all COTS and 
@@ -506,7 +506,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Vendor Engagement Records:</strong> Notes or correspondence demonstrating efforts to address accessibility concerns with the vendor, including timelines or commitments.
@@ -514,7 +514,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Exception Justification (where applicable):</strong> If full conformance is not possible, the documentation should clearly outline the rationale for a Section 508 exception. Documentation is required for authorized Undue Burden or Fundamental Alteration (E202.6) and Best Meet (E202.7) exceptions.
@@ -522,7 +522,7 @@ Because pilots are functionally complete and subject to full Section 508 conform
   </li>
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-green">
-      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="/assets/img/sprite.svg#check"></use></svg>
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check"></use></svg>
     </div>
     <div class="usa-icon-list__content">
       <strong>Alternative Means Plan (where applicable):</strong> If full conformance is not possible, the documentation should describe the approved alternative means of access.
