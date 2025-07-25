@@ -315,7 +315,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Alternate modes of operation:</strong> Where the Section 508 Standards do not cover certain ICT functions, those functions must still meet the <a href="https://www.access-board.gov/ict/#chapter-3-functional-performance-criteria" target="_blank" class="usa-link-eexternal">Functional Performance Criteria</a>.
+      <strong>Alternate modes of operation:</strong> Where the Section 508 Standards do not cover certain ICT functions, those functions must still meet the <a href="https://www.access-board.gov/ict/#chapter-3-functional-performance-criteria" target="_blank" class="usa-link-external">Functional Performance Criteria</a>.
     </div>
   </li>
   <li class="usa-icon-list__item">
@@ -323,7 +323,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Test for Conformance:</strong> Use both manual and automated testing to check Section 508 compliance, including testing with screen readers and other assistive technologies, and create <a href="{{site.baseurl}}/sell/" target="_blank" class="usa-link--external">Accessibility Conformance Reports (ACRs)</a> for government-developed ICT products.
+      <strong>Test for Conformance:</strong> Use both manual and automated testing to check Section 508 compliance, including testing with screen readers and other assistive technologies, and create <a href="{{site.baseurl}}/sell/">Accessibility Conformance Reports (ACRs)</a> for government-developed ICT products.
     </div>
   </li>
   <li class="usa-icon-list__item">
