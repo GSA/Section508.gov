@@ -26,7 +26,7 @@ resource_type:
 - article
 - process-how-to
 format: html
-created: 2025-07-25
+created: 2025-08-04
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 
 ---
@@ -549,4 +549,4 @@ If you're unsure whether your project is in the prototype or pilot phase---or wh
 * <a href="https://designsystem.digital.gov/" target="_blank" class="usa-link--external">U.S. Web Design System (USWDS) | Digital.gov</a>
 * <a href="https://www.deque.com/blog/the-business-case-for-accessibility/" target="_blank" class="usa-link--external">The business case for accessibility | Deque</a>
 
-**Reviewed/Updated:** July 2025
+**Reviewed/Updated:** August 2025
