@@ -11,8 +11,6 @@ manage:
       - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
-          - name: Accessibility Roles
-            url: manage/roles/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
           - name: IT Accessibility/508 Program Manager Responsibilities
@@ -23,8 +21,19 @@ manage:
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
             url: manage/track-report-conformance/
+          - name: Section 508 Exceptions Request and Approval Process
+            url: manage/exceptions-request-and-approval-process/ 
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
+      - name: Roles, Responsibilities, and Position Descriptions
+        url: '#'
+        grandchildren: 
+          - name: Accessibility Roles
+            url: manage/roles/
+          - name: How to Attain Section 508 Testing Expertise
+            url: manage/roles/attain-section-508-testing-expertise/
+          - name: Section 508 Accessibility Tester Position Description
+            url: manage/roles/section-508-tester-pd/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
@@ -430,10 +439,14 @@ develop:
   - name: Develop
     url: '#'
     children:
-      - name: Develop Software and Websites
-        url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
+      - name: Develop Software and Websites
+        url: develop/software-websites/
+      - name: Incorporating Accessibility Conformance Validation within Development
+        url: develop/incorporating-accessibility-conformance/
+      - name: Sample User Stories for Accessible ICT
+        url: develop/user-stories/
       - name: Web Content
         url: '#'
         grandchildren:
@@ -441,11 +454,16 @@ develop:
             url: develop/web-content/
           - name: Publishing to the Web
             url: develop/publish-to-web/
-      - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/
 test:
   - name: Testing
     url: 'test/'
+  - name: Testing Lifecycle
+    url: '#'
+    children:
+      - name: Testing Lifecycle Overview
+        url: 'test/testing-lifecycle-overview/'
+      - name: Essential Elements of an Accessibility Test Report
+        url: 'test/elements-of-an-accessibility-test-report/'
   - name: Testing Methods
     url: '#'
     children:
