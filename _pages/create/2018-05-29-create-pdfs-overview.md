@@ -28,7 +28,7 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
   <!-- Adobe Acrobat DC Section - Open by default -->
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="true" aria-controls="pdf1">
-      Adobe Acrobat DC – Portable Document Format (PDF)
+      Portable Document Format (PDF) - 2019
     </button>
   </h3>
   <div id="pdf1" class="usa-accordion__content usa-prose" hidden="false">
@@ -47,7 +47,7 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
   <!-- Adobe Acrobat Pro Older Versions Section - Closed by default -->
   <h3 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="pdf2">
-      Adobe Acrobat Pro (Older Versions)
+      Portable Document Format (PDF) - 2017
     </button>
   </h3>
   <div id="pdf2" class="usa-accordion__content usa-prose" hidden>
