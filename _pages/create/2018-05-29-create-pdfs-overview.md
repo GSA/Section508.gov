@@ -4,7 +4,7 @@ sidenav: true
 type: create
 title: 'Create Accessible PDFs'
 permalink: create/pdfs/
-description: Learn how to create accessible PDFs that meet Section 508 standards. Step-by-step guidance for making documents usable by people with disabilities and compliant with federal accessibility requirement
+description: Learn how to create accessible Portable Document Format (PDF) documents that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 topic: "Content creation (create)"
 sub-topic: "PDFs"
 audience:
@@ -16,17 +16,59 @@ format: "HTML (html)"
 redirect_from:
 - content/pdfs/
 created: 2018-05-29
-updated: 2025-05-23
+updated: 2025-08-05
+exclude-changelog: true
+redirect_from:
+- create/pdfs/authoring-guides/
 ---
+Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
-How to create accessible Portable Document Format (PDF) documents that conform to the [Revised 508 Standards][1].
+## Authoring Guides
+<div class="usa-accordion usa-accordion--bordered">
+  <!-- Adobe Acrobat DC Section - Open by default -->
+  <h3 class="usa-accordion__heading">
+    <button class="usa-accordion__button" aria-expanded="true" aria-controls="pdf1">
+      Adobe Acrobat DC – Portable Document Format (PDF)
+    </button>
+  </h3>
+  <div id="pdf1" class="usa-accordion__content usa-prose" hidden="false">
+    <ul>
+      <li>
+        <a href="https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx" 
+           target="_blank" class="usa-link--external">PDF Testing and Remediation Guide (DOCX)</a>
+      </li>
+      <li>
+        <a href="https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx" 
+           target="_blank" class="usa-link--external">PDF Testing Checklist (DOCX)</a>
+      </li>
+    </ul>
+  </div>
 
-## Guidance
+  <!-- Adobe Acrobat Pro Older Versions Section - Closed by default -->
+  <h3 class="usa-accordion__heading">
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="pdf2">
+      Adobe Acrobat Pro (Older Versions)
+    </button>
+  </h3>
+  <div id="pdf2" class="usa-accordion__content usa-prose" hidden>
+    <ul>
+      <li>
+        <a href="https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx" 
+           target="_blank" class="usa-link--external">PDF Baseline Test Process (DOCX)</a>
+      </li>
+      <li>
+        <a href="https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx" 
+           target="_blank" class="usa-link--external">PDF Detailed Checklist</a>
+      </li>
+      <li>
+        <a href="https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx" 
+           target="_blank" class="usa-link--external">PDF Printable Checklist (DOCX)</a>
+      </li>
+    </ul>
+  </div>
+</div>
 
-The resources in this section were developed by the Accessible Electronic Documents Community of Practice (AED COP).
-
-### Training Videos
-
+## Training Videos
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
       <a href="{{site.baseurl}}/create/pdfs/training-videos/"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-pdf-series.jpg" style="width:100%" class="radius-lg" /></a>
@@ -47,13 +89,12 @@ The resources in this section were developed by the Accessible Electronic Docume
 
 * * *
 
-### Other Tips
+## Tips and Tricks
 
   * When generating PDF documents through conversion from another format, or through an automated tool, ensure the resulting PDF file is properly tagged to support accessibility.  
   * If using an authoring tool, make sure the tool is capable of generating accessible PDF documents that conform to PDF/UA (some do not). PDF/UA provides a standardized framework for software to create, test and remediate accessible PDFs. PDF/UA and WCAG should be complimentary. See also [PDF Techniques for WCAG 2.0][14].
 
 ## Agency-Developed Guidance
-
 The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].
 
   * [Resources for Developers and Document Authors][7] - Guidance on how to develop and author accessible electronic content  
@@ -61,14 +102,13 @@ The resources in this section were developed by Federal agencies, and shared her
   * [Making a diagram screen reader friendly](https://blog-nrrd.doi.gov/beyond-auto/) - ONRR.gov  
 
 ## Related Resources
-
   * [Create Accessible Digital Products][9]
   * Review [WebAIM Alternative Text][10] for appropriate use of alternative text.
   * Review [W3C's Alt Decision Tree][11] for guidance on how to describe images.
   * [Adobe Acrobat accessibility support][12]
   * [Web Accessibility Tutorials and Presentations][13] - Guidance from the World Wide Web Consortium (W3C)
 
-**Reviewed/Updated:** June 2025
+**Reviewed/Updated:** August 2025
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines
  [2]: https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx
