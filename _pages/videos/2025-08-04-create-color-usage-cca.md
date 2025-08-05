@@ -4,9 +4,9 @@ layout: page
 permalink: training/create/making-color-usage-accessible/color-contrast-analyzer/
 type: training
 title: 'How to Use the Color Contrast Analyzer (CCA)'
-description: 
+description: Learn how to use the Colour Contrast Analyser (CCA) to check color contrast in digital content using HEX codes. This Making Color Usage Accessible video is ideal when tools like ANDI can't detect contrast issues.
 disclaimer: true
-created: 2025-08-04
+created: 2025-08-05
 updated: 
 topic: "Training (train)"
 sub-topic: 

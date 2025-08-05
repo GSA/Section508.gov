@@ -4,8 +4,7 @@ sidenav: true
 type: create
 title: Making Color Usage Accessible
 permalink: create/making-color-usage-accessible/
-description: Learn how to make color usage accessible in digital content and ICT. This guide explains why color accessibility matters, how to meet Section 508 and WCAG standards, and what tools and techniques ensure inclusive design for all users.
-disclaimer: true
+description: Learn how to make digital content accessible by using color effectively. This guide explains color contrast requirements, common accessibility barriers, and tools like ANDI, WebAIM, and CCA to help ensure your ICT meets Section 508 and WCAG standards.
 audience: 
 - content-creator
 - designer
@@ -28,7 +27,7 @@ resource_type:
 redirect_from:
 - training/making-color-usage-accessible/
 format: html
-created: 2025-07-30
+created: 2025-08-05
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 
 ---

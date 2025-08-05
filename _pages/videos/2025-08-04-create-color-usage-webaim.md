@@ -4,9 +4,9 @@ layout: page
 permalink: training/create/making-color-usage-accessible/webaim-contrast-checker/
 type: training
 title: 'How to Use the WebAIM Contrast Checker'
-description: 
+description: Learn how to use WebAIM’s Contrast Checker to test color contrast in documents. This video from Making Color Usage Accessible explains how to ensure readable text when automated tools like ANDI can't detect contrast issues.
 disclaimer: true
-created: 2025-08-04
+created: 2025-08-05
 updated: 
 topic: "Training (train)"
 sub-topic: 
