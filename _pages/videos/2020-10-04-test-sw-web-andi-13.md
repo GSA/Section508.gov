@@ -19,7 +19,8 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In Module: 13 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, discover how to use the ANDI _Color Contrast_ module to ensure that text has sufficient contrast with its background so that it can be read by people with moderately low vision (i.e. those who generally do not use contrast-enhancing assistive technology).
+<p>In Module 13 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <em>Color Contrast</em> module to <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> whether text in a webpage has enough contrast with its background to be readable by people with moderately low vision—especially those who do not typically use contrast-enhancing assistive technology.</p>
+
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-13-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
