@@ -33,7 +33,7 @@ exclude-changelog:
 When developing new Information and Communication Technology (ICT) products, it's common to encounter terms like prototype and pilot. While both are part of the product design and development lifecycle, they serve distinctly different purposes---especially when it comes to accessibility and Section 508 conformance.
 
 ## What is ICT?
-[Section 508 Standards](https://www.access-board.gov/ict/) define ICT as, "Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and, electronic documents," and commonly includes:
+<a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> define ICT as, "Information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include, but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and, electronic documents," and commonly includes:
 
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
@@ -315,7 +315,7 @@ Because a pilot is considered a production product, it must fully conform to Sec
       <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Alternate modes of operation:</strong> Where the Section 508 Standards do not cover certain ICT functions, those functions must still meet the <a href="https://www.access-board.gov/ict/#chapter-3-functional-performance-criteria" target="_blank" class="usa-link-external">Functional Performance Criteria</a>.
+      <strong>Alternate modes of operation:</strong> Where the Section 508 Standards do not cover certain ICT functions, those functions must still meet the <a href="https://www.access-board.gov/ict/#chapter-3-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>.
     </div>
   </li>
   <li class="usa-icon-list__item">
