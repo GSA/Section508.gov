@@ -116,7 +116,7 @@ Federal agencies are responsible for ensuring their information and services are
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/software-websites/">Software & Websites</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/develop/software-websites/">Software & Websites</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Learn how the Revised 508 standards apply to software applications, web content, operating systems, and more.</p>
@@ -126,7 +126,7 @@ Federal agencies are responsible for ensuring their information and services are
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/universal-design/">Universal Design</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/develop/universal-design/">Universal Design</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Read more about the concept of universal design and how to apply it to federal agencies and products.</p>
