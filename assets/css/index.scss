@@ -41,7 +41,7 @@
 }
 
 a{
-  color: #054299;
+  color: #1763cf;
 }
 
 .card-tag {
@@ -1621,3 +1621,122 @@ div[role=rowheader] {
   display: inline-block; 
   margin-left: 48px;
 }
+
+/******** Styling for content library ********/
+/* Adjust spacing without checkbox */
+.usa-checkbox__input--tile+[class*=__label] {
+  display: inline-block !important;
+  padding: 0.25rem;
+  margin: 0;
+  border: 0;
+}
+
+.usa-checkbox__input--tile:checked+[class*=__label] {
+  background-color: #e6eff6;
+  border: 2px solid #005ea2;
+  border-radius: 0.25rem;
+}
+
+/* Library Card transitions */
+#library-cards li {
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+/* Hide checkbox */
+.usa-checkbox__label::before {
+  display: none;
+}
+
+.filter-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter-item {
+  display: inline-block!important;
+  border: 1px solid #005ea2;
+  border-radius: 0.25rem;
+}
+
+.filter-item:focus-within {
+  border: .25rem solid #2491ff;
+  border-radius: 0.25rem;
+}
+
+/* Content Library - remove default list styling */
+.active-filters-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em; /* optional: space between items */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.active-filters-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Content Library inline list items */
+.active-filter-item {
+  display: inline-block !important;
+  margin-right: 0.5em;
+  text-decoration: none !important;
+}
+
+/* Content Library - remove bullet from any nested <li> */
+.active-filters-list li::marker {
+  display: none;
+  content: none;
+}
+
+/* Style the link inside the list item */
+.active-filters-list a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-tag {
+  font-size: .9rem;
+  margin-top: .2em;
+  margin-bottom: .15em;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #323a45;
+ }
+
+.no-style {
+  text-decoration: none;
+  color: black;
+}
+
+.filters ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.filters li {
+    margin: 0 2px 2px 0;
+}
+
+.filters a {
+    display: block;
+    padding: .5em 1em;
+    font-size: 80%;
+    border: solid 1px hsl(0, 0%, 50%);
+    color: #333;
+    text-decoration: none;
+    background: white;
+}
+
+
+.filters a:hover {
+    outline: 2px solid hsl(0, 0%, 50%);
+}
+
