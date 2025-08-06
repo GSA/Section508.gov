@@ -13,11 +13,11 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-created: 2018-05-15
+created: 2018-05-10
 updated: 2025-08-05
+exclude-changelog: true
 redirect_from:
 - create/presentations/authoring-guides/
-exclude-changelog: true
 ---
 Learn how to create accessible presentation&mdash;including Microsoft PowerPoint documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 

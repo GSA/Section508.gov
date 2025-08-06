@@ -1,15 +1,9 @@
 ---
-permalink: create/
+sidenav: true
 type: create
 title: 'Create Accessible Digital Products'
-hide-date: true
-created: 2022-05-22
-updated: 2024-11-12
+permalink: create/
 layout: page
-sidenav: true
-redirect_from:
-- content/build/create-accessible-documents/
-- create/video-social/
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -18,6 +12,12 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2022-05-09
+updated: 2024-11-12
+hide-date: true
+redirect_from:
+- content/build/create-accessible-documents/
+- create/video-social/
 ---
 <p class="font-body-lg text-bold">Remediation is rework, and rework is waste.<hr></p>​
 Federal agencies are responsible for ensuring their information and services are accessible to persons with disabilities. The [Revised 508 Standards][1] include not just IT tools and systems, but electronic content such as documents, web pages, presentations, social media content, blogs, and certain emails.

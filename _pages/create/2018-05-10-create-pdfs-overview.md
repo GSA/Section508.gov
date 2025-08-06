@@ -13,12 +13,11 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-redirect_from:
-- content/pdfs/
-created: 2018-05-29
+created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
 redirect_from:
+- content/pdfs/
 - create/pdfs/authoring-guides/
 ---
 Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
@@ -27,48 +26,30 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
 <div class="usa-accordion usa-accordion--bordered">
   <!-- Adobe Acrobat DC Section - Open by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="true" aria-controls="pdf1">
-      Portable Document Format (PDF) - 2019
-    </button>
+    <button class="usa-accordion__button" aria-expanded="true" aria-controls="pdf1">Portable Document Format (PDF) - 2019</button>
   </h3>
   <div id="pdf1" class="usa-accordion__content usa-prose" hidden="false">
     <ul>
-      <li>
-        <a href="https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx" 
-           target="_blank" class="usa-link--external">PDF Testing and Remediation Guide (DOCX)</a>
-      </li>
-      <li>
-        <a href="https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx" 
-           target="_blank" class="usa-link--external">PDF Testing Checklist (DOCX)</a>
-      </li>
+      <li><a href="https://assets.section508.gov/assets/files/PDF Testing and Remediation Guide-Adobe Acrobat DC Pro-AED COP.docx" target="_blank" class="usa-link--external">PDF Testing and Remediation Guide (DOCX)</a></li>
+      <li><a href="https://assets.section508.gov/assets/files/PDF-Printable-Accessiblility-Checklist.docx" target="_blank" class="usa-link--external">PDF Testing Checklist (DOCX)</a></li>
     </ul>
   </div>
-
   <!-- Adobe Acrobat Pro Older Versions Section - Closed by default -->
   <h3 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="pdf2">
-      Portable Document Format (PDF) - 2017
-    </button>
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="pdf2">Portable Document Format (PDF) - 2017</button>
   </h3>
   <div id="pdf2" class="usa-accordion__content usa-prose" hidden>
     <ul>
-      <li>
-        <a href="https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx" 
-           target="_blank" class="usa-link--external">PDF Baseline Test Process (DOCX)</a>
-      </li>
-      <li>
-        <a href="https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx" 
-           target="_blank" class="usa-link--external">PDF Detailed Checklist</a>
-      </li>
-      <li>
-        <a href="https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx" 
-           target="_blank" class="usa-link--external">PDF Printable Checklist (DOCX)</a>
-      </li>
+      <li><a href="https://assets.section508.gov/assets/files/PDF%20Baseline%20Test%20Process.docx" target="_blank" class="usa-link--external">PDF Baseline Test Process (DOCX)</a></li>
+      <li><a href="https://assets.section508.gov/assets/files/PDF%20Detailed%20508%20Accessibility%20Checklist.docx" target="_blank" class="usa-link--external">PDF Detailed Checklist</a></li>
+      <li><a href="https://assets.section508.gov/assets/files/PDF%20Printable%20Checklist.docx" target="_blank" class="usa-link--external">PDF Printable Checklist (DOCX)</a></li>
     </ul>
   </div>
 </div>
 
 ## Training Videos
+---
+
 <div class="grid-row grid-gap">
     <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
       <a href="{{site.baseurl}}/create/pdfs/training-videos/"><img  alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-pdf-series.jpg" style="width:100%" class="radius-lg" /></a>
@@ -86,13 +67,7 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
     </div>
   </div>
 
-
-* * *
-
-## Tips and Tricks
-
-  * When generating PDF documents through conversion from another format, or through an automated tool, ensure the resulting PDF file is properly tagged to support accessibility.  
-  * If using an authoring tool, make sure the tool is capable of generating accessible PDF documents that conform to PDF/UA (some do not). PDF/UA provides a standardized framework for software to create, test and remediate accessible PDFs. PDF/UA and WCAG should be complimentary. See also [PDF Techniques for WCAG 2.0][14].
+---
 
 ## Agency-Developed Guidance
 The resources in this section were developed by Federal agencies, and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].

@@ -13,7 +13,7 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-created: 2018-05-15
+created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
 redirect_from:

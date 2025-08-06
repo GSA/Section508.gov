@@ -98,14 +98,6 @@ Learn how to create accessible word processing documents&mdash;including Microso
 
 ---
 
-## Tips and Tricks
-* Save documents as .docx format to preserve accessibility features. Other formats that can be produced by Microsoft Word (RTF, DOC, TXT, and ODF) may not be accessible.
-* Develop reusable accessible design templates to reduce the level of effort to create accessible electronic content. 
-  * Follow responsive design principles that support accessibility on different types of devices.
-* Advocate for the use of authoring tools and document converters that enable users to easily create accessible documents. Where possible, upgrade existing tools (e.g., Microsoft Office or Adobe Acrobat) to the latest version. Benefits include: 
-  * Authoring and evaluation features that make it easier to create accessible documents;
-  * Conformance to requirements for software-authoring tools requirement in the Revised 508 standards.
-
 ## Agency-Developed Guidance
 The resources in this section were developed by federal agencies and shared here for your convenience. Note, much of this guidance predates the [Revised 508 Standards][1].
 
