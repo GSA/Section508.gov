@@ -464,6 +464,8 @@ test:
         url: 'test/testing-lifecycle-overview/'
       - name: Essential Elements of an Accessibility Test Report
         url: 'test/elements-of-an-accessibility-test-report/'
+      - name: Conformance of ICT Prototypes and Pilots
+        url: 'test/conformance-of-prototypes-and-pilots/'
   - name: Testing Methods
     url: '#'
     children:
@@ -559,39 +561,29 @@ create:
     children:
       - name: Create Accessible Documents
         url: 'create/documents/'
-      - name: Authoring Guides
-        url: create/documents/authoring-guides/
-      - name: Tips and Tricks
-        url: 'create/documents/#tips'
       - name: Video Training
         url: 'create/documents/training-videos/'
   - name: Create a Presentation
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/presentations/authoring-guides/
-      - name: Tips and Tricks
+      - name: Create Accessible Presentations
         url: create/presentations/
       - name: Video Training
         url: create/presentations/training-videos/
   - name: Create a Spreadsheet
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/spreadsheets/authoring-guides/
-      - name: Tips and Tricks
+      - name: Create Accessible Spreadsheets
         url: create/spreadsheets/
       - name: Video Training
         url: create/spreadsheets/training-videos/
   - name: Create a PDF
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/pdfs/authoring-guides/
+      - name: Create Accessible PDFs
+        url: create/pdfs/
       - name: Tags and Their Usage
         url: create/pdfs/common-tags-and-usage/
-      - name: Tips and Tricks
-        url: create/pdfs/
       - name: Video Training
         url: create/pdfs/training-videos/
   - name: Audio & Video
