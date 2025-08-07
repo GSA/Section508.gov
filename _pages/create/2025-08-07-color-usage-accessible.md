@@ -303,7 +303,7 @@ Measuring and Checking Color Contrast" aria-describedby="figure-11" class="borde
    </div>
 </div>
 
-### Measure and Check Color Contrast
+### Measuring and Checking Color Contrast
 Color contrast is measured as a ratio that reflects how different the luminance (lightness or darkness) of one color is from another. In accessibility, this typically means comparing foreground content—like text, icons, or essential images—with the background it sits on. It’s important to note that this measurement is based on brightness, not how the colors might appear to people with normal or corrected color vision.
 
 Because our eyes and screens perceive color differently—and because visual judgment is unreliable for contrast—the most accurate way to check color contrast is to locate and verify the programmatic HEX or RGB color values rather than sampling the colors. 
