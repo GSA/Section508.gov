@@ -18,7 +18,7 @@ exclude-changelog:
 ---
 In this video from [Making Color Usage Accessible]({{site.baseurl}}/create/making-color-usage-accessible/), we’ll show you how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Colour Contrast Analyser (CCA)</a> and the programmatic color values&mdash;or HEX codes&mdash;to check contrast between text, images of text, and background colors in digital content and documents. This tool is especially helpful when contrast issues can’t be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> or when those tools aren’t available.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="{{site.baseurl}}/assets/videos/training-video-color-usage-cca-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-cca-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="{{site.baseurl}}/assets/videos/training-video-color-usage-cca-oc.mp4" type="video/mp4" /></video>
 
 ## Related Color Contrast Training Videos
 * [Accessible Name & Description Inspector (ANDI) Color Contrast]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/)

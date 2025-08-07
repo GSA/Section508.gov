@@ -18,7 +18,7 @@ exclude-changelog:
 ---
 In this video from [Making Color Usage Accessible]({{site.baseurl}}/create/making-color-usage-accessible/), you’ll learn how to use <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM’s Contrast Checker</a> to evaluate the contrast between text—or images of text—and background colors in documents. This tool is especially helpful when contrast issues can’t be <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by tools like <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/">ANDI</a> or when those tools aren’t available.
 
-<video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="{{site.baseurl}}/assets/videos/training-video-color-usage-webaim-oc.mp4" type="video/mp4" /></video>
+<video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-video-webaim-poster.jpg" data-vscid="3qesx4ovd" style="width:100%"><source src="{{site.baseurl}}/assets/videos/training-video-color-usage-webaim-oc.mp4" type="video/mp4" /></video>
 
 ## Related Color Contrast Training Videos
 * [Accessible Name & Description Inspector (ANDI) Color Contrast]({{site.baseurl}}/training/web-software/andi-training-videos/color-contrast/)
