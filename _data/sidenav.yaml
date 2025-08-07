@@ -363,7 +363,7 @@ training:
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
       - name: Color Contrast Analyzer
-        url: 'training/web-software/andi-training-videos/color-contrast-analyzer/'
+        url: 'training/create/making-color-usage-accessible/color-contrast-analyzer/'
       - name: Universal Design and Accessibility
         url: '#'
         grandchildren:
@@ -379,6 +379,8 @@ training:
           - name: "An Introduction to Universal Design for Procurement Professionals"
             url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
             external: true
+      - name: WebAIM Contrast Checker
+        url: 'training/create/making-color-usage-accessible/webaim-contrast-checker/'
       - name: 'What is Alternative Text?'
         url: 'training/alt-text/what-is-alternative-text/'
   - name: Events
@@ -480,6 +482,8 @@ test:
   - name: Testing Checklists
     url: '#'
     children:
+      - name: Color Accessibility Checklists
+        url: 'create/making-color-usage-accessible/#color-accessibility-checklist'
       - name: Email Messages
         url: 'test/checklist/email-messages/'
   - name: Electronic Documents
@@ -603,6 +607,8 @@ create:
     url: 'create/email-messages/'
   - name: Equations and Formulas
     url: 'create/accessible-equations-formulas/'
+  - name: Making Color Usage Accessible
+    url: create/making-color-usage-accessible/
   - name: Meetings
     url: 'create/accessible-meetings/'
   - name: Social Media
