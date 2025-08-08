@@ -2,7 +2,7 @@
 title: "Maps for All – Building Accessible Maps | Webinar"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Sep 26 2023 14:30 #otherwise use end-date
+end-date: 2023-09-26 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-sep2023/
