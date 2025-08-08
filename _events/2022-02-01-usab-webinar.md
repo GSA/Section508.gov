@@ -1,8 +1,8 @@
 ---
 title: Section 508 Questions and Answers Webinar
 layout: wide_events
-start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Mar 29 2022 14:30 #otherwise use end-date
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2022-03-29 #otherwise use end-date (YYYY-MM-DD)
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-mar2022/

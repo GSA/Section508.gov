@@ -1,8 +1,8 @@
 ---
 title: "GSA and the U.S. Access Board to Present at the CSUN Assistive Technology Conference"
 layout: wide_events
-start-date: Tuesday, Mar 19 2024 09:00 #only fill in start date if the events spans multiple days
-end-date: Thursday, Mar 21 2024 17:30 #otherwise use end-date
+start-date: 2024-03-19 #only fill in start date if the events spans multiple days
+end-date: 2024-03-21 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/csun-presentations-2024/
