@@ -1,8 +1,8 @@
 ---
 title: Managing projects to ensure accessibility
 layout: wide_events
-start-date: Tuesday, Sep 29 2020 13:00 #only fill in start date if the events spans multiple days
-end-date: Tuesday, Sep 29 2020 14:30 #otherwise use end-date
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2020-09-29 #otherwise use end-date (YYYY-MM-DD)
 image:
 image-alt: 
 permalink: /event/managing-projects-ensure-accessibility/

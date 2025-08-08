@@ -2,7 +2,7 @@
 title: "Highlights from the new Government-wide Section 508 Assessment | Webinar"
 layout: wide_events
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Jan 30 2024 14:30 #otherwise use end-date
+end-date: 2024-01-30 #otherwise use end-date
 image:
 image-alt: 
 permalink: /event/best-practices-webinar-jan2024/

@@ -1,10 +1,8 @@
 ---
-title: IT Accessibility Community Meeting | June 2022 
 layout: wide_events
-start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, June 14 2022 13:00 #otherwise use end-date
-image:
-image-alt: 
+title: Be The Change In Accessibility&colon; Acquisition Lifecycle | ITACM 
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2022-06-14 #otherwise use end-date (YYYY-MM-DD)
 permalink: /event/itacm-jun2022/
 description: The June IT Accessibility Community Meeting (ITACM) will be held on Tuesday, June 14, 2022. Join us to hear about the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 ---

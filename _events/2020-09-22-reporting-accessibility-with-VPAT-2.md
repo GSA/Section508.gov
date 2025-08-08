@@ -1,8 +1,8 @@
 ---
 title: Reporting Accessibility with VPAT&reg; 2 - A Guide for Vendors
 layout: wide_events
-start-date: Tuesday, Sep 22 2020 11:00 #only fill in start date if the events spans multiple days
-end-date: Tuesday, Sep 22 2020 12:30 #otherwise use end-date
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2020-09-22 #otherwise use end-date (YYYY-MM-DD)
 overview: 
 image:
 image-alt: 
