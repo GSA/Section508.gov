@@ -173,19 +173,19 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 #### Benefits:
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Equips acquisition teams with the knowledge and skills to address Section 508 requirements.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Integrate critical development practices, like accessibility testing, earlier in the acquisition lifecycle. Lowers risk of persons with disabilities being unable to use ICT.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Avoids post-release costs to remediate inaccessible technology after purchase.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Improves oversight of contract deliverables prior to acceptance.</div>
   </li>
 </ul>
@@ -193,19 +193,19 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 #### Potential Outcomes:
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
     <div class="usa-icon-list__content">Relationships with acquisition teams.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
     <div class="usa-icon-list__content">Expertise with procurement and Section 508 knowledge.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
     <div class="usa-icon-list__content">Relationships with project teams.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div>
+    <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div>
     <div class="usa-icon-list__content">More accessible ICT.</div>
   </li>
 </ul>
@@ -214,37 +214,37 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 #### Benefits:
 <ul class="usa-icon-list maxw-full">
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Increases knowledge of testing methodologies throughout the organization.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Increases ability to spot accessibility errors during development.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Reduces likelihood for accessibility issues to be first identified at the end of the life cycle.</div>
   </li>
   <li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
+    <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use></svg></div>
     <div class="usa-icon-list__content">Increases accessibility knowledge and capabilities of the development community.</div>
   </li>
 </ul>
 
 #### Potential Outcomes:
 <ul class="usa-icon-list maxw-full">
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Relationships with project teams.</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Project's use of an automated test environment that supports Section 508 testing rulesets.</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Service provider knowledge of:</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Agile and DevOps process</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Trusted Tester</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Industry-standard automated testing frameworks</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Automated testing tools and rulesets</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Relationships with project teams.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Project's use of an automated test environment that supports Section 508 testing rulesets.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Service provider knowledge of:</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Agile and DevOps process</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Trusted Tester</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Industry-standard automated testing frameworks</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Automated testing tools and rulesets</div></li>
   <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Development expertise</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Keeping abreast of changing technology and ability to assess impact to rule set configuration, etc.</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Availability of testing experts, with experience in testing various types of technology, who can perform a full range of ICT testing.</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">A defined test process for each type of ICT that will be tested.</div></li>
-  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Improved accessibility of the organization's ICT portfolio.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Keeping abreast of changing technology and ability to assess impact to rule set configuration, etc.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Availability of testing experts, with experience in testing various types of technology, who can perform a full range of ICT testing.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">A defined test process for each type of ICT that will be tested.</div></li>
+  <li class="usa-icon-list__item"><div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#verified"></use></svg></div><div class="usa-icon-list__content">Improved accessibility of the organization's ICT portfolio.</div></li>
 </ul>
 
 ### Section 508 Program Management Collaboration with CX, UX, and Design Functions
