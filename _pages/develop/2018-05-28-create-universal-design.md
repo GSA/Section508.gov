@@ -41,12 +41,12 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
-    <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
+    <a href="{{site.baseurl}}/develop/universal-design-video-series/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
     <p>
-      <a href="{{site.baseurl}}/create/universal-design-video-series"><strong>An Introduction to Universal Design for Content Creators</strong></a>
+      <a href="{{site.baseurl}}/develop/universal-design-video-series/"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
 <p>
       This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
