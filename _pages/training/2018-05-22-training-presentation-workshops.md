@@ -6,6 +6,7 @@ title: 'Accessibility Presentations and Workshop Materials'
 permalink: training/presentations-workshops/
 redirect_from:
 - csun2024/
+description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
 topic: "Events (events)"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -15,12 +16,18 @@ audience:
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 created: 2018-05-22
-updated: 2025-04-21
+updated: 2025-08-12
 ---
 The information on this page includes available resources and captioned text files 
 
 ## 2025
 ### IT Accessibility Community Meetings
+#### August 5, 2025
+On August 5, 2025, GSA’s Government-wide IT Accessibility Program hosted a community meeting featuring the EPA’s integration of Section 508 requirements into its Authority to Operate (ATO) process. The session shared strategies, templates, and lessons learned for embedding accessibility throughout the system development lifecycle, offering a practical model for agencies to reduce risk and improve compliance.
+
+Downloads:
+* <a href="{{site.baseurl}}/assets/files/EPA-508-ATO-Integration_ITACM-AUG-2025.pptx" target="_blank" class="usa-link--external">EPA's Section 508 & Authority to Operate (ATO) Integration Process - ITACM APR 2025 (PPTX)</a>
+
 #### April 22, 2025
 The April meeting included presentations on the Section 508 Assessment and IT Accessibility Key Performance Indicators (KPIs). Designed for the IT Accessibility implementors and management professionals across your agencyattendees learn how to turn reporting into actionable improvements, track progress with meaningful KPIs, and empower your teams to embed accessibility from procurement through delivery.
 
@@ -140,4 +147,4 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/assets/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: April 2025
+**Reviewed/Updated**: August 2025

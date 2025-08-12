@@ -219,6 +219,45 @@ training:
             url: 'training/art/introducing-art-04/'
           - name: How Do I Use JSON to Modify My Report?
             url: 'training/art/introducing-art-05/'
+      - name: ANDI
+        url: '#'
+        grandchildren:
+          - name: "Module 1: Overview of ANDI"
+            url: training/web-software/andi-training-videos/overview/
+          - name: "Module 2: Focus Element"
+            url: training/web-software/andi-training-videos/focus-element/
+          - name: "Module 3: Links & Buttons"
+            url: training/web-software/andi-training-videos/links-buttons/
+          - name: "Module 4: Images"
+            url: training/web-software/andi-training-videos/images/
+          - name: "Module 5: Structure Headings"
+            url: training/web-software/andi-training-videos/structure-headings/
+          - name: "Module 6: Heading Levels"
+            url: training/web-software/andi-training-videos/heading-levels/
+          - name: "Module 7: Structure Lists"
+            url: training/web-software/andi-training-videos/structure-lists/
+          - name: "Module 8: Page Language"
+            url: training/web-software/andi-training-videos/page-language/
+          - name: "Module 9: Language of Parts"
+            url: training/web-software/andi-training-videos/language-parts/
+          - name: "Module 10: Page Title"
+            url: training/web-software/andi-training-videos/andi-page-title/
+          - name: "Module 11: Frames"
+            url: training/web-software/andi-training-videos/frames/
+          - name: "Module 12: iFrames"
+            url: training/web-software/andi-training-videos/iframes/
+          - name: "Module 13: Color Contrast"
+            url: training/web-software/andi-training-videos/color-contrast/
+          - name: "Module 14: Color Contrast Analyzer"
+            url: training/web-software/andi-training-videos/color-contrast-analyzer/
+          - name: "Module 15: Data Tables"
+            url: training/web-software/andi-training-videos/data-tables/
+          - name: "Module 16: Layout Tables"
+            url: training/web-software/andi-training-videos/layout-tables/
+          - name: "Module 17: CSS Content and Positioning"
+            url: training/web-software/andi-training-videos/css-content-positioning/
+          - name: "Module 18: Live Regions"
+            url: training/web-software/andi-training-videos/live-regions/
       - name: Document       
         url: '#'
         grandchildren:
@@ -321,64 +360,12 @@ training:
             url: 'training/pdfs/aed-cop-pdf03/'
           - name: "Module 4: Converting Scanned Documents into Section 508 Conformant PDFs"
             url: 'training/pdfs/aed-cop-pdf04/'
-      - name: ANDI
-        url: '#'
-        grandchildren:
-          - name: "Module 1: Overview of ANDI"
-            url: training/web-software/andi-training-videos/overview/
-          - name: "Module 2: Focus Element"
-            url: training/web-software/andi-training-videos/focus-element/
-          - name: "Module 3: Links & Buttons"
-            url: training/web-software/andi-training-videos/links-buttons/
-          - name: "Module 4: Images"
-            url: training/web-software/andi-training-videos/images/
-          - name: "Module 5: Structure Headings"
-            url: training/web-software/andi-training-videos/structure-headings/
-          - name: "Module 6: Heading Levels"
-            url: training/web-software/andi-training-videos/heading-levels/
-          - name: "Module 7: Structure Lists"
-            url: training/web-software/andi-training-videos/structure-lists/
-          - name: "Module 8: Page Language"
-            url: training/web-software/andi-training-videos/page-language/
-          - name: "Module 9: Language of Parts"
-            url: training/web-software/andi-training-videos/language-parts/
-          - name: "Module 10: Page Title"
-            url: training/web-software/andi-training-videos/andi-page-title/
-          - name: "Module 11: Frames"
-            url: training/web-software/andi-training-videos/frames/
-          - name: "Module 12: iFrames"
-            url: training/web-software/andi-training-videos/iframes/
-          - name: "Module 13: Color Contrast"
-            url: training/web-software/andi-training-videos/color-contrast/
-          - name: "Module 14: Color Contrast Analyzer"
-            url: training/web-software/andi-training-videos/color-contrast-analyzer/
-          - name: "Module 15: Data Tables"
-            url: training/web-software/andi-training-videos/data-tables/
-          - name: "Module 16: Layout Tables"
-            url: training/web-software/andi-training-videos/layout-tables/
-          - name: "Module 17: CSS Content and Positioning"
-            url: training/web-software/andi-training-videos/css-content-positioning/
-          - name: "Module 18: Live Regions"
-            url: training/web-software/andi-training-videos/live-regions/
+      - name: An Introduction to Universal Design
+        url: 'develop/universal-design-video-series/'
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
       - name: Color Contrast Analyzer
         url: 'training/create/making-color-usage-accessible/color-contrast-analyzer/'
-      - name: Universal Design and Accessibility
-        url: '#'
-        grandchildren:
-          - name: "An Introduction to Universal Design for Content Creators"
-            url: 'https://www.youtube.com/watch?v=acKd-q2I3f0'
-            external: true
-          - name: "An Introduction to Universal Design for Developers"
-            url: 'https://www.youtube.com/watch?v=ryfd3fmZHCY'
-            external: true
-          - name: "An Introduction to Universal Design for Managers"
-            url: 'https://www.youtube.com/watch?v=d1X5XSEErdY'
-            external: true
-          - name: "An Introduction to Universal Design for Procurement Professionals"
-            url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
-            external: true
       - name: WebAIM Contrast Checker
         url: 'training/create/making-color-usage-accessible/webaim-contrast-checker/'
       - name: 'What is Alternative Text?'
@@ -430,14 +417,14 @@ develop:
     children:
       - name: Universal Design
         url: develop/universal-design/
-      - name: Video Training
-        url: 'develop/universal-design-video-series/'
       - name: Accessible Fonts and Typography  
         url:  'develop/fonts-typography/'
       - name: Accessible Design Using the USWDS
         url: develop/accessible-design-using-uswds/
       - name: Designing Digital Content For Users With Cognitive Disabilities
         url: design/digital-content-users-with-cognitive-disabilities/
+      - name: Mapping of WCAG 2.0 to Functional Performance Criteria
+        url: content/mapping-wcag-to-fpc/
   - name: Develop
     url: '#'
     children:
