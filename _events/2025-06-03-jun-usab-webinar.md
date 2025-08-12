@@ -3,10 +3,8 @@ layout: wide_events
 title: "That Doesn't Need to Be a PDF | Webinar"
 permalink: /event/best-practices-webinar-jul2025/
 start-date: #only fill in start date if the events spans multiple days
-end-date: Tuesday, Jul 29 2025 13:00 #otherwise use end-date
+end-date: 2025-07-29 #otherwise use end-date
 description: Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
-created: 2024-12-03
-updated: 2025-06-03
 ---
 Hear how agencies can design an HTML-first approach for electronic content using “@media print” for a superior printing experience (because yes, some people do use paper) during a panel discussion with experts from FDIC, USAB, and GSA when a PDF document is the proper solution.
 

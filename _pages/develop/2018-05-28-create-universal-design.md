@@ -41,12 +41,12 @@ Invest in universal design to transform the way your agency serves citizens, reg
 
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center" style="margin-bottom: 15px;">
-    <a href="{{site.baseurl}}/create/universal-design-video-series"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
+    <a href="{{site.baseurl}}/develop/universal-design-video-series/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" alt="An Introduction to Universal Design for Video Series" /></a>
   </div>
   
   <div class="desktop:grid-col-9">
     <p>
-      <a href="{{site.baseurl}}/create/universal-design-video-series"><strong>An Introduction to Universal Design for Content Creators</strong></a>
+      <a href="{{site.baseurl}}/develop/universal-design-video-series/"><strong>An Introduction to Universal Design for Content Creators</strong></a>
     </p>
 <p>
       This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.
@@ -82,15 +82,6 @@ If you have questions or want to share your experiences using universal design, 
 
   * [Section 508 Program Contact Us page][9]
   * Email: <section.508@gsa.gov>
-
-<div class="border-base radius-lg border-1px" style="margin-top: 1.5em;">
-  <div class="padding-1">
-    <span class="text-large"><strong>Before You Go</strong></span> <br /> 
-<p>
-      We're always working to improve the information and resources on this website. To suggest a new resource for this or another page, please <a href="mailto:section.508@gsa.gov">contact us</a>.
-    </p>
-  </div>
-</div>
 
 **Reviewed/Updated:** January 2025
 

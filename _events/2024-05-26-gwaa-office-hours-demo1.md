@@ -1,8 +1,8 @@
 ---
 title: "Section 508 Assessment Submission Tool Demo #1 | June 12, 2024"
 layout: wide_events
-start-date: #only fill in start date if the events spans multiple days (24-hour time)
-end-date: Wednesday, June 12 2024 15:00 #otherwise use end-date (24-hour time)
+start-date: #only fill in start date if the events spans multiple days (YYYY-MM-DD)
+end-date: 2024-07-12 #otherwise use end-date (YYYY-MM-DD)
 image:
 image-alt: 
 permalink: /event/gwaa-demo-12june2024/
