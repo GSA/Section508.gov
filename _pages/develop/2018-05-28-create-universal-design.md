@@ -4,7 +4,6 @@ sidenav: true
 permalink: develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
-created: 1527530633
 redirect_from:
 - create/universal-design/
 topic: Development (dev)
@@ -17,6 +16,7 @@ audience:
 - Content Creators (creator)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-22
 ---
 
  <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
@@ -65,6 +65,12 @@ User testing and design personas should include people with disabilities and com
 
 See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/test/usability-testing-with-people-with-disabilities/) for more information on including accessibility considerations in your designs. 
 
+### World Wide Web Consortium (W3C) Guidance
+
+  * <a href="https://www.w3.org/WAI/intro/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Use the Web: Overview</a> - Explains how people with disabilities, including age-related impairments, use the Web
+  * <a href="https://www.w3.org/WAI/perspectives/" target="_blank" class="usa-link--external">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> - Short videos showing the impact of accessible design in a variety of situations
+  * <a href="https://www.w3.org/WAI/mobile/overlap.html" target="_blank" class="usa-link--external">Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices</a>- Explains the overlap between accessibility and mobile web design and development
+
 ## Learn More About Universal Design
 
   * [Universal Design - What is it?][1]
@@ -83,7 +89,7 @@ If you have questions or want to share your experiences using universal design, 
   * [Section 508 Program Contact Us page][9]
   * Email: <section.508@gsa.gov>
 
-**Reviewed/Updated:** January 2025
+**Reviewed/Updated:** August 2025
 
  [1]: {{site.baseurl}}/blog/Universal-Design-What-is-it
  [2]: {{site.baseurl}}/blog/universal-design-whats-in-it-for-me
