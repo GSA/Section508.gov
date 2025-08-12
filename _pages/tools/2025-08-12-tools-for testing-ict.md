@@ -91,16 +91,11 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   <strong>Note:</strong> Your government-issued device may not have access to download or use this software. Contact your agency's IT Helpdesk to see if it's available for installation.
 </div>
 
-## ICT Testing Baseline Portfolio
-The [ICT Testing Baseline Portfolio]({{site.baseurl}}test/ict-testing-baseline-portfolio/) provide a standardized set of test procedure components for evaluating Section 508 conformance. Incorporating the Baseline tests into a testing process ensures that necessary elements of information and communications technology (ICT) are tested, reducing the risk of overlooking important requirements and ensuring comprehensive ICT accessibility test results.
-
-## Trusted Tester Program
-
-The [Interagency Trusted Tester Program]({{site.baseurl}}/test/trusted-tester/) Program promotes a unified, consistent, shareable, and repeatable test and evaluation approach for Section 508 standards conformance. The goal is to reduce redundant testing and save agencies money.
-
 ## Related Resources
 
+  * [ICT Testing Baseline Portfolio]({{site.baseurl}}test/ict-testing-baseline-portfolio/)
   * [Test ICT for Accessibility]({{site.baseurl}}/test/)
+  * [Trusted Tester Program]({{site.baseurl}}/test/trusted-tester/) 
   * [Universal Design]({{site.baseurl}}/create/universal-design/)
   * <a href="https://www.w3.org/WAI/Tools/" target="_blank" class="usa-link--external">WAI - tools Project</a>
 
