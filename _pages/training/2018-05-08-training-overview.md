@@ -205,10 +205,10 @@ The following self-paced courses provide an overview of key aspects of IT access
   
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
-    <a href="{{site.baseurl}}/create/universal-design-video-series"><img  alt="An Introduction to Universal Design for Content Creators" src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
+    <a href="{{site.baseurl}}/develop/universal-design-video-series/"><img  alt="An Introduction to Universal Design for Content Creators" src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
   </div>
   <div class="desktop:grid-col-9">
-    <h3><a href="{{site.baseurl}}/create/universal-design-video-series">An Introduction to Universal Design for Content Creators</a></h3>
+    <h3><a href="{{site.baseurl}}/develop/universal-design-video-series/">An Introduction to Universal Design for Content Creators</a></h3>
     <p>This four-part video series provides an introduction to Universal Design for content creators, developers, managers and procurement professionals. It includes resources, tips, and tricks for designing products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design.</p>
     <p>Duration: 18m 21s | 4-Part Video Series</p>
   </div>

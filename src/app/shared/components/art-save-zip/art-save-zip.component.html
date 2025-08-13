@@ -1,6 +1,6 @@
 <span class="usa-tooltip width-full">
+  @if (buttonIsEnabled) {
     <a
-      *ngIf="buttonIsEnabled"
       (click)="generateZip()"
       (keydown.enter)="generateZip()"
       (keyup.space)="generateZip()"
@@ -12,11 +12,12 @@
       role="button">
       {{ saveAsInfo.btnName }}
     </a>
-    <span
-      class="usa-tooltip__body"
-      id="tooltip-307973"
-      role="tooltip"
-      aria-hidden="true">
-      This allows you to download a zipped file with all ICT forms in json format.
-    </span>
+  }
+  <span
+    class="usa-tooltip__body"
+    id="tooltip-307973"
+    role="tooltip"
+    aria-hidden="true">
+    This allows you to download a zipped file with all ICT forms in json format.
   </span>
+</span>

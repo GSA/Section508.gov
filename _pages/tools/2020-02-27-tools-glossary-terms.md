@@ -559,6 +559,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>The clickable text on a webpage that links to another document or webpage.</td>
   </tr>
   <tr>
+    <th scope="row" id="http">Hypertext Transfer Protocol (HTTP)</th>
+    <td>HTTP is the set of rules that web browsers and servers use to communicate and transfer information. It defines how requests (such as loading a webpage) and responses (such as sending back the page content) are handled over the internet.</td>
+  </tr>
+  <tr>
     <th scope="row" id="html">Hypertext Markup Language (HTML)</th>
     <td>&nbsp;A set of tags and rules used to encode and format text, graphics, animation, sound, and other types of files on the internet.</td>
   </tr>
@@ -1200,6 +1204,14 @@ These terms appear throughout our website, communications, and reports, includin
     <td>An action that requires significant difficulty or expense. In determining whether an action would result in an undue burden, an agency shall consider all agency resources available to the program or component for which the product is being developed, procured, maintained, or used.</td>
   </tr>
   <tr>
+    <th scope="row" id="uri">Universal Resource Identifier (URI)</th>
+    <td>A URI is a standardized way to identify and locate a resource on the internet. It can point to a webpage, file, image, or other resource, and may include information about how to access it. Web addresses (URLs) are a common type of URI.</td>
+  </tr>
+    <tr>
+    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
+    <td>A form of Universal Resource Identifier (URI), a URL is what a user types into a browser to find the location of a resource on the web.</td>
+  </tr>
+  <tr>
     <th scope="row" id= "user-agent">User Agent </th>
     <td>&nbsp;As per&nbsp;<a href="https://www.w3.org/WAI/UA/work/wiki/Definition_of_User_Agent" target="_blank" class="usa-link--external">W3.org definition</a>, "[a] user agent is any software that retrieves and presents Web content for end users or is implemented using Web technologies. User agents include Web browsers, media players, and plug-ins that help in retrieving, rendering and interacting with Web content. The family of user agents also includes operating system shells, consumer electronics with Web-widgets, and stand-alone applications or embedded applications whose user interface is implemented as a combination of Web technologies."</td>
   </tr>
@@ -1210,10 +1222,6 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="user-interface-element">User interface element</th>
     <td>Elements of an application that convey information.</td>
-  </tr>
-  <tr>
-    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
-    <td>What a user types into a browser to find the location of a resource on the web.</td>
   </tr>
   <tr>
     <th scope="row" id="universal-design">Universal design</th>
@@ -1277,7 +1285,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="webpage">Webpage (web page)</th>
-    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
+    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single <a href="#uri">Universal Resource Identifier (URI)</a> using <a href="http">Hypertext Transfer Protocol (HTTP)</a> plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
     <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, a document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one page.</p></td>
   </tr>
   <tr>
