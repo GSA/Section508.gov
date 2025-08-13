@@ -42,8 +42,8 @@ GSA then developed and released an online tool for each designated point of cont
 As GSA uses reporting entity data to support evidence-based decision making, we will continue to evaluate and improve data quality. Following guidelines in the Federal Committee on Statistical Methodology’s “A Framework for Data Quality,” and in coordination with internal data quality initiatives, GSA will identify key challenges and strategies to continually improve data quality and data collection in future years.
 
 <div style="width: 100%; border: 1px solid #72b2e6; background-color: #F3F8FC;" class="border-base radius-lg padding-1">
+<h4>Text of Consolidated Appropriations Act, 2023 Section 752:</h4>
 <ol type="a" class="list-item-spacer">
-    <h3>Consolidated Appropriations Act, 2023 Section 752</h3>
     <li>&nbsp;
         <ol>
             <li>Not later than 100 days after the date of enactment of this Act, the Director of the Office of Management and Budget (in this section referred to as the ‘‘Director’’), in coordination with the Architectural and Transportation Barriers Compliance Board and the Administrator of General Services (in this section referred to as the ‘‘Administrator’’), shall disseminate amended or updated criteria and instructions to any Federal department or agency (in this section referred to as an ‘‘agency’’) covered by section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d) for the evaluation required pursuant to paragraph (3)(B).</li>
