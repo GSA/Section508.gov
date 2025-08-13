@@ -110,7 +110,7 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container radius-md">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/web-software/">Testing Tools for Web</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing ICT</a></h2>
       </header>
       <div class="usa-card__body">
         <p>Programs and tools to help web designers, developers, and content managers with accessibility best practices.</p>

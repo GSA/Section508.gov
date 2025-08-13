@@ -18,8 +18,8 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-07-10
-exclude-changelog: true
+updated: 2025-08-13
+exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
 
@@ -521,11 +521,11 @@ Sheree Peters (Deputy) - <sheree.peters@faa.gov>
 Cicely Waters - <cicely.waters@dot.gov>  
 Justine Chen (Deputy) - <justine.chen@dot.gov>    
 ### Federal Railroad Administration (FRA)
-Venkata "Anil" Perakam - <venkata.perakam@dot.gov>  
+Yoseph Kelile - <yoseph.kelile@dot.gov>  
 Hugo Vives (Deputy) - <hugo.vives@dot.gov>      
 ### Federal Transit Administration (FTA)
-Kenneth King - <kenneth.king@dot.gov>  
-Leela Chandrasekara Sukumar (Deputy) - <l.c.sukumar.ctr@dot.gov>  
+Kimberly Castillo - <kimberly.castillo@dot.gov>   
+Dr. Alfonz Ruth (Deputy) - <alfonz.ruth@dot.gov>  
 ### Maritime Administration (MARAD)
 La Tisa T. Wilder - <latisa.wilder@dot.gov>  
 Bob Ellington (Deputy) - <bob.ellington@dot.gov>    

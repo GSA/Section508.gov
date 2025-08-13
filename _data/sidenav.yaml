@@ -400,8 +400,8 @@ training:
         url: 'buy/solicitation-review-tool/'
       - name: Accessibility Playbooks
         url: 'manage/playbooks/'
-      - name: Testing Tools for Web
-        url: 'test/web-software/'
+      - name: Tools for Testing ICT
+        url: 'tools/tools-for-testing-ict/'
       - name: 'Terms, Definitions, and Acronyms'
         url: '#'            
         grandchildren:
@@ -485,10 +485,11 @@ test:
   - name: Software & Websites
     url: '#'
     children:
-      - name: Test Websites & Software
-        url: test/web-software/
       - name: Testing Guidance for Developers
         url: test/testing-for-developers/
+  - name: Tools for Testing ICT
+    url: tools/tools-for-testing-ict/
+
 acquisition:
   - name: Acquisition
     url: 'buy-sell/'
