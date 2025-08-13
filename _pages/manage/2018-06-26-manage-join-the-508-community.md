@@ -1,9 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/join-the-508-community/
 type: manage 
 title: 'Section 508 IT Accessibility Community'
+permalink: manage/join-the-508-community/
+redirect_from:
+- join-the-508-community/
+- community/
 created: 1530040376
 topic: Manage (program)
 sub-topic: Manage a 508 Program

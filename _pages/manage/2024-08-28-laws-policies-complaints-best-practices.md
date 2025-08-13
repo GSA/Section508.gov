@@ -38,14 +38,14 @@ Agencies should publicize to employees and the public their procedures and proce
             <li>Sufficient description and location of the inaccessible ICT</li>
         </ul>
         </li>
-<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></ol></li>
+<li>Any online complaint form or process must itself be accessible and comply fully with the Section 508 Standards.</li></ol>
 
 Below are examples of agency complaint forms:<sup><strong><a href="#fn1" id="fr1">1</a></strong></sup>
 <ul>
 <li><a href="https://www.dhs.gov/file-civil-rights-complaint">Department of Homeland Security Civil Rights Complaints</a>: Provides a consolidated website and online portal to submit a complaint online, via fillable PDF form or information to submit by email, fax, phone or mail.</li>
 <li><a href="https://www.va.gov/resources/your-civil-rights-and-how-to-file-a-discrimination-complaint/">Department of Veterans Affairs How to File a Discrimination Complaint</a>: Provides a website detailing complaint procedures and a mailing address with instructions for submitting a complaint.</li>
 <li><a href="https://www.ssa.gov/forms/ssa-437.pdf">Social Security Administration's Section 508 Complaint Form</a>: Provides instructions and a detailed fillable form for how to submit a complaint via email or mail.</li>
-<li><a href="https://www.usda.gov/oascr/filing-program-discrimination-complaint-usda-customer">U.S. Department of Agriculture Complaint Form</a>: Provides a website with instructions, a fillable form and information on how to submit via mail, fax, or email.</li></ul>
+<li><a href="https://www.usda.gov/oascr/filing-program-discrimination-complaint-usda-customer">U.S. Department of Agriculture Complaint Form</a>: Provides a website with instructions, a fillable form and information on how to submit via mail, fax, or email.</li></ul></li>
 <li>Describe the complaint intake process.
 <ol type="a">
 <li>Identify complaints that include references to technology access issues for a user with a disability as Section 508 complaints. Intake staff should be trained on complaint handling, able to identify Section 508 complaints including complaints that do not directly cite Section 508, and able to route non-Section 508 complaints appropriately. If the staff responsible for intake is unsure if a complaint is Section 508 related, consult with general counsel, a Section 508 Subject Matter Expert (SME), or the agency Section 508 Program Manager (PM) for guidance.</li>

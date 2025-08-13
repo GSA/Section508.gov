@@ -54,12 +54,12 @@ Complete each Voluntary Procurement Accessibility Template (**VPAT**®) or simil
 Item.
 
 <ol type="i">
-    <li>Provide a description of the evaluation methods used to support Section 508 conformance claims. The agency reserves the right, prior to making an award decision, to perform testing on some or all of the vendor’s proposed ICT items to validate Section 508 conformance claims made in the ACR.</li>
+    <li>Provide a description of the evaluation methods used to support Section 508 conformance claims. The agency reserves the right, prior to making an award decision, to perform testing on some or all of the vendor’s proposed ICT items to validate Section 508 conformance claims made in the ACR.
         <ol type="A">
         <li> Describe your approach to incorporating universal design principles to ensure ICT products or services are designed to support disabled users.</li>
         <li> Describe plans for features that do not fully conform to the Section 508 Standards.</li>
         <li> Describe “typical” user scenarios and tasks, including individuals with disabilities, to ensure fair and accurate accessibility testing of the ICT product or service being offered.</li>
-        </ol>
+        </ol></li>
 </ol>
 
 Prior to acceptance, the Government reserves the right to perform testing on required ICT items to validate the contract holder’s Section 508 conformance claims. If the Government determines that Section 508 conformance claims provided by the contract holder represent a higher level of conformance than what is actually provided to the agency, the Government shall, at its option, <a href="https://nitaac.nih.gov/sites/default/files/2021-08/instructions-and-evaluations-code-development-far16.5-20210506-508-compliant-0.docx" target="_blank" class="usa-link--external">require the contract holder to remediate the item (DOCX)</a> to align with the contract holder’s original Section 508 conformance claims prior to acceptance.

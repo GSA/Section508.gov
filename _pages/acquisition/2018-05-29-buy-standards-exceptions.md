@@ -3,8 +3,8 @@ layout: page
 sidenav: true
 permalink: buy/standards-exceptions/
 type: acquisition
-title: '508 Standards and Exceptions Chart & Examples'
-created: 1527568596
+title: 'Section 508 Standards and Exceptions Chart & Examples'
+description: Learn how Section 508 standards apply to federal IT acquisitions and when exceptions are allowed. Understand compliance requirements, exception types, and agency responsibilities.
 topic: "Acquisition/Buy (buy)"
 sub-topic: "Accessible Acquisition Info, Guidance & Best Practices"
 audience:
@@ -13,13 +13,16 @@ audience:
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Template"
 format: "Document (docx)"
+created: 2018-05-29
+updated: 2025-07-01
+exclude-changelog: true
 ---
 
-When procuring information and communication technology (ICT), ensure your purchases conform to the [Revised 508 Standards][1] by clearly communicating the standards and exceptions that apply to **each item** in your solicitation. ICT includes software, hardware, electronic content, support documentation & services. 
+When procuring information and communication technology (ICT), ensure your purchases conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a> by clearly communicating the standards and exceptions that apply to **each item** in your solicitation. ICT includes software, hardware, electronic content, support documentation & services. 
 
 Use the template below, or develop your own format, when preparing a solicitation, statement of work, or other procurement document.
 
-  * [Applicable 508 Standards and Exceptions Chart - Template][2] (MS-Word, September 2017)
+  * [Applicable 508 Standards and Exceptions Chart - Template (DOCX)][1]
 
 ## **Examples**
 
@@ -29,9 +32,8 @@ The following examples show how to complete the chart for different ICT items.
   * Software
   * Kiosk (complex)
 
-
-<table class="usa-table usa-table--borderless">
-<caption id="website-example" style="font-size: 1.2em ; font-weight: bolder"> Website Example</caption>
+<table class="usa-table usa-table--borderless usa-table--striped">
+<caption id="website-example">Table 1: Website Example</caption>
  <thead>
     <tr>
       <th scope="col">
@@ -151,8 +153,8 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-<table class="usa-table usa-table--borderless">
-<caption id="software-example" style="font-size: 1.2em ; font-weight: bolder"> Software Example</caption>
+<table class="usa-table usa-table--borderless usa-table--striped">
+<caption id="software-example">Table 2: Software Example</caption>
 <thead>
     <tr>
       <th scope="col">
@@ -287,10 +289,8 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-
-
-<table class="usa-table usa-table--borderless">
-<caption id="kiosk-complex-example" style="font-size: 1.2em ; font-weight: bolder"> Kiosk (Complex) Example</caption>
+<table class="usa-table usa-table--borderless usa-table--striped">
+<caption id="kiosk-complex-example">Table 3: Kiosk (Complex) Example</caption>
   <thead>
     <tr>
       <th scope="col">
@@ -437,12 +437,15 @@ The following examples show how to complete the chart for different ICT items.
   </tbody>
 </table>
 
-See [Request Accessibility Information from Vendors and Contractors][3] to learn more about standards and exceptions for ICT items.
+## Related Resources
 
-_These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration._
+* [Understanding Section 508 Exceptions][2]
+* [Determine Section 508 Standards and Exceptions][3]
+* [Request Accessibility Information from Vendors and Contractors][4] to learn more about standards and exceptions for ICT items.
 
-**Reviewed/Updated**: May 2018
+**Reviewed/Updated**: June 2025
 
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
- [2]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
- [3]: {{site.baseurl}}/buy/request-accessibility-information
+ [1]: https://assets.section508.gov/assets/files/standards-exceptions-chart.docx
+ [2]: {{site.baseurl}}/buy/determine-508-standards-exceptions/
+ [3]: {{site.baseurl}}/buy/understanding-section-508-exceptions/
+ [4]: {{site.baseurl}}/buy/request-accessibility-information

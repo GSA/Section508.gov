@@ -4,6 +4,7 @@ sidenav: true
 type: training
 title: 'Glossary of Section 508 Terms'
 permalink: tools/glossary/
+
 description: "Access a comprehensive glossary of Section 508 terms and definitions, including key concepts like Accessibility Conformance Reports (ACR), Assistive Technology (AT), and Audio Descriptions (AD). This resource aids in understanding and implementing accessibility standards for information and communication technology (ICT)."
 topic: "Other"
 sub-topic: "General Info and Best Practices"
@@ -19,8 +20,9 @@ redirect_from:
 - manage/section-508-assessment/definition-of-terms/
 - manage/section-508-assessment/2023/appendix-a-terms/
 - manage/section-508-assessment/2024/appendix-a-terms/
+- glossary/
 created: 2020-02-27
-updated: 2025-03-12
+updated: 2025-06-23
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -63,6 +65,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="art">Accessibility Requirements Tool (ART)</th>
     <td>The <a href="{{site.baseurl}}/art/">Accessibility Requirements Tool (ART)</a> is a web-based application created by GSA that provides a step-by-step guide to help users determine which Section 508 requirements apply to acquisitions involving ICT products and services. It simplifies the process of identifying relevant accessibility requirements from the Revised Section 508 Standards and integrating them into procurement and contracting documentation.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="acquisition-official">Acquisition Official</th>
+    <td>An acquisition official is an overarching term for any official in an acquisition role who helps with procurement of ICT. This may be a Contracting Officer, Contracting Officer’s Representative (COR), Requiring Official, or other personnel responsible for acquisition actions.</td>
   </tr>
   <tr>
     <th scope="row" id="affinity-group">Affinity Group</th>
@@ -359,7 +365,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="document">Document</th>
-    <td><p><strong>Definition 1:</strong> Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</p>
+    <td><p><a href="#electronic-content">Electronic Content</a> that is:</p><p><strong>Definition 1:</strong> Logically distinct assembly of content (such as a file, set of files, or streamed media) that: functions as a single entity rather than a collection; is not part of software; and does not include its own software to retrieve and present content for users. Examples of documents include, but are not limited to, letters, email messages, spreadsheets, presentations, podcasts, images, and movies.</p>
     <p><strong>Definition 2:</strong> Files created with common office software for content generation and information sharing, such as Microsoft Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and Portable Document Format (PDF).</p></td>
   </tr>
   <tr>
@@ -400,6 +406,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="eit">Electronic and Information Technology (EIT)</th>
     <td>Superseded by <a href="#ict">Information and Communication Technology (ICT)</a></td>
+  </tr>
+  <tr>
+    <th scope="row" id="electronic-document">Electronic Document</th>
+    <td>See <a href="#document">Document</a> and <a href="#electronic-content">Electronic Content</a>.</td>
   </tr>
   <tr>
     <th scope="row" id="electronic-form">Electronic form</th>
@@ -547,6 +557,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="hypertext">Hypertext</th>
     <td>The clickable text on a webpage that links to another document or webpage.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="http">Hypertext Transfer Protocol (HTTP)</th>
+    <td>HTTP is the set of rules that web browsers and servers use to communicate and transfer information. It defines how requests (such as loading a webpage) and responses (such as sending back the page content) are handled over the internet.</td>
   </tr>
   <tr>
     <th scope="row" id="html">Hypertext Markup Language (HTML)</th>
@@ -1190,6 +1204,14 @@ These terms appear throughout our website, communications, and reports, includin
     <td>An action that requires significant difficulty or expense. In determining whether an action would result in an undue burden, an agency shall consider all agency resources available to the program or component for which the product is being developed, procured, maintained, or used.</td>
   </tr>
   <tr>
+    <th scope="row" id="uri">Universal Resource Identifier (URI)</th>
+    <td>A URI is a standardized way to identify and locate a resource on the internet. It can point to a webpage, file, image, or other resource, and may include information about how to access it. Web addresses (URLs) are a common type of URI.</td>
+  </tr>
+    <tr>
+    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
+    <td>A form of Universal Resource Identifier (URI), a URL is what a user types into a browser to find the location of a resource on the web.</td>
+  </tr>
+  <tr>
     <th scope="row" id= "user-agent">User Agent </th>
     <td>&nbsp;As per&nbsp;<a href="https://www.w3.org/WAI/UA/work/wiki/Definition_of_User_Agent" target="_blank" class="usa-link--external">W3.org definition</a>, "[a] user agent is any software that retrieves and presents Web content for end users or is implemented using Web technologies. User agents include Web browsers, media players, and plug-ins that help in retrieving, rendering and interacting with Web content. The family of user agents also includes operating system shells, consumer electronics with Web-widgets, and stand-alone applications or embedded applications whose user interface is implemented as a combination of Web technologies."</td>
   </tr>
@@ -1200,10 +1222,6 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="user-interface-element">User interface element</th>
     <td>Elements of an application that convey information.</td>
-  </tr>
-  <tr>
-    <th scope="row" id="url">Uniform Resource Locator (URL)</th>
-    <td>What a user types into a browser to find the location of a resource on the web.</td>
   </tr>
   <tr>
     <th scope="row" id="universal-design">Universal design</th>
@@ -1267,7 +1285,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="webpage">Webpage (web page)</th>
-    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single Universal Resource Identifier (URI) using HyperText Transfer Protocol (HTTP) plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
+    <td><p><strong>Definition 1:</strong> A non-embedded resource obtained from a single <a href="#uri">Universal Resource Identifier (URI)</a> using <a href="http">Hypertext Transfer Protocol (HTTP)</a> plus any other resources that are provided for the rendering, retrieval, and presentation of content.</p>
     <p><strong>Definition 2:</strong> For the purposes of the annual Section 508 Assessment report, a document on the World Wide Web, including resources provided for rendering, retrieval, and presentation of content. Web pages are delivered by a web server to the user and displayed in a web browser. Web-based applications with dynamic content or customizable views within a single page should be counted as one page.</p></td>
   </tr>
   <tr>
@@ -1277,4 +1295,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** March 2025
+**Reviewed/Updated:** June 2025

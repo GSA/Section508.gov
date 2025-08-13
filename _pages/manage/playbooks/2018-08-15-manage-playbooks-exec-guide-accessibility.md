@@ -4,7 +4,7 @@ layout: page
 permalink: manage/playbooks/exec-guide-accessibility/
 type: manage
 title: 'Executive Guide to Federal IT Accessibility'
-created: 2028-08-15
+created: 2018-08-15
 updated: 2025-03-05
 redirect_from:
 - tools/playbooks/exec-guide-accessibility/

@@ -8,6 +8,7 @@ created: 1526408212
 redirect_from:
 - tools/playbooks/technology-accessibility-playbook-intro/
 - content/technology-accessibility-playbook/
+- technology-accessibility-playbook/
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
