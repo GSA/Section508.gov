@@ -1,11 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/universal-design/
 type: develop
 title: 'Universal Design and Accessibility'
+permalink: develop/universal-design/
 redirect_from:
 - create/universal-design/
+description: Learn how federal agencies can adopt Universal Design and Accessibility principles—from strategy and procurement to implementation—to create ICT products usable by all, not just for compliance.
 topic: Development (dev)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
 audience:
@@ -18,6 +19,7 @@ resource-type: Long form article
 format: HTML (html)
 created: 2018-05-22
 updated: 2025-08-12
+exclude-changelog: true
 ---
 
  <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
