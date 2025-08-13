@@ -369,7 +369,7 @@ Watch the following videos to learn more about how to use each of these commonly
 </div>
   
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <strong>Note:</strong> Your government-issued device may not have access to download or use this software. Contact your agency's IT Helpdesk to see if it's available for installation.
+  <strong>Note:</strong> Your government-issued device may not allow you to download or use certain software. Contact your agency’s IT Helpdesk to check if the software is available for installation.
 </div>
 
 ### Color Contrast for Text and Large Text

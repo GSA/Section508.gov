@@ -7,6 +7,7 @@ permalink: tools/tools-for-testing-ict/
 redirect_from: 
 - test/web-software/ 
 - test/about-testing-tools/ #See archive 2018-05-22-test-about-testing-tools.md
+disclaimer: true
 topic: "Testing (test)"
 sub-topic: "Websites"
 audience:
@@ -26,12 +27,49 @@ Web designers, developers, and content managers play a key role in ensuring webs
 
 The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4] tests) have been chosen based on several factors including ease of use, ease of teaching, and accuracy of results. They are also free to install and use.
 
-  * **ANDI (Accessible Name & Description Inspector)**, developed by the Social Security Administration, is a free open-source bookmarklet, which means that the tool does not require installation as a plugin and can be added to multiple browsers as a bookmark. 
-      * <a href="https://www.ssa.gov/accessibility/andi/help/install.html" target="_blank" class="usa-link--external">Install ANDI</a>
-  * **Color Contrast Analyzer (CCA)**, is a free open-source tool that displays the contrast ratio for two selected colors. CCA is used to inspect color contrast when contrast cannot be programmatically identified by ANDI. 
-      * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Download CCA for Windows or macOS</a>
-  * **WebAIM Contrast Cheker**, is a free, web-based tool that displays the contrast ratio for two selected colors. WebAIM Contrast Checker is used to inspect color contrast when contrast cannot be programmatically identified by ANDI.
-      * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">Use the WebAIM Contrast Checker</a>
+<ul class="usa-icon-list maxw-full">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>ANDI (Accessible Name & Description Inspector)</strong>, developed by the Social Security Administration, is a free open-source bookmarklet. This means the tool does not require installation as a plugin and can be added to multiple browsers as a bookmark.  
+      <div>
+        <a href="https://www.ssa.gov/accessibility/andi/help/install.html" target="_blank" class="usa-link--external">Install ANDI</a>
+      </div>
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Browser-based developer tools</strong> are built-in utilities in modern web browsers that help developers build, debug, and optimize web applications. You can open these tools directly in the browser, usually by right-clicking on a webpage and selecting "Inspect" or through the browser's menu, such as "More tools" > "Developer tools". Following are links to information for commonly used browsers: <a href="https://developer.chrome.com/docs/devtools" target="_blank" class="usa-link--external">Chrome</a> , <a href="https://learn.microsoft.com/en-us/microsoft-edge/devtools/overview" target="_blank" class="usa-link--external">Edge</a>, <a href="https://firefox-source-docs.mozilla.org/devtools-user/" target="_blank" class="usa-link--external">Firefox</a>, and <a href="https://developer.apple.com/safari/tools/" target="_blank" class="usa-link--external">Safari</a>.
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-red">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>Color Contrast Analyzer (CCA)</strong> is a free open-source tool that displays the contrast ratio for two selected colors. It is especially useful when contrast cannot be programmatically identified by ANDI.  
+      <div>
+        <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Download CCA for Windows or macOS</a>
+      </div>
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+   <div class="usa-icon-list__icon text-red">
+      <svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+    </div>
+    <div class="usa-icon-list__content">
+      <strong>WebAIM Contrast Checker</strong> is a free, web-based tool that displays the contrast ratio for two selected colors. It is useful when contrast cannot be programmatically identified by ANDI.  
+      <div>
+        <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">Use the WebAIM Contrast Checker</a>
+      </div>
+    </div>
+  </li>
+</ul>
 
 ## Training Videos
 
@@ -82,21 +120,21 @@ The tools used in the Trusted Tester Test Process (and [ICT Testing Baseline][4]
   </div>
   <div class="desktop:grid-col-9">
     <h3><a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/">How to Test Color Contrast using the Color Contrast Analyser (CCA)</a></h3>
-    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+    <p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank" class="usa-link--external">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
     <p>Duration 2m 33s | 1-Part Video Tutorial</p>
   </div>
 </div>
   
 <div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
-  <strong>Note:</strong> Your government-issued device may not have access to download or use this software. Contact your agency's IT Helpdesk to see if it's available for installation.
+  <strong>Note:</strong> Your government-issued device may not allow you to download or use certain software. Contact your agency’s IT Helpdesk to check if the software is available for installation.
 </div>
 
 ## Related Resources
 
-  * [ICT Testing Baseline Portfolio]({{site.baseurl}}test/ict-testing-baseline-portfolio/)
+  * [ICT Testing Baseline Portfolio]({{site.baseurl}}/test/ict-testing-baseline-portfolio/)
   * [Test ICT for Accessibility]({{site.baseurl}}/test/)
   * [Trusted Tester Program]({{site.baseurl}}/test/trusted-tester/) 
-  * [Universal Design]({{site.baseurl}}/create/universal-design/)
+  * [Universal Design]({{site.baseurl}}/develop/universal-design/)
   * <a href="https://www.w3.org/WAI/Tools/" target="_blank" class="usa-link--external">WAI - tools Project</a>
 
 **Reviewed/Updated:** August 2025

@@ -17,6 +17,7 @@ audience:
 resource-type: Long form article
 format: HTML (html)
 created: 2018-05-22
+updated: 2025-08-12
 ---
 
  <div class="desktop:grid-col-4 radius-lg" style="float:right; margin-bottom: 15px; margin-left: 15px; background-color:#0C5294; padding:12px 12px 12px; color:#fff;">
@@ -81,13 +82,6 @@ See [Tips for Usability Testing with People with Disabilities]({{site.baseurl}}/
   * [White Paper - Universal Design: Transforming Accessible IT in the Federal Government][6]
   * [Watch this Introduction to Universal Design for Developers][7] 
   * [The Benefit of Designing for Everyone][8]
-
-## Questions?
-
-If you have questions or want to share your experiences using universal design, contact GSA's Government-wide IT Accessibility Program:
-
-  * [Section 508 Program Contact Us page][9]
-  * Email: <section.508@gsa.gov>
 
 **Reviewed/Updated:** August 2025
 
