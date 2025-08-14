@@ -11,18 +11,29 @@ manage:
       - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
-          - name: Accessibility Roles
-            url: manage/roles/
+          - name: Developing a Training Plan
+            url: manage/developing-a-section-508-training-plan/
+          - name: IT Accessibility/508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
           - name: Teach Staff about Accessibility
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
             url: manage/track-report-conformance/
-          - name: IT Accessibility/508 Program Manager Responsibilities
-            url: manage/program-manager-responsibilities/
+          - name: Section 508 Exceptions Request and Approval Process
+            url: manage/exceptions-request-and-approval-process/ 
           - name: Revised Section 508 Standards Roadmap
             url: manage/program-roadmap/
+      - name: Roles, Responsibilities, and Position Descriptions
+        url: '#'
+        grandchildren: 
+          - name: Accessibility Roles
+            url: manage/roles/
+          - name: How to Attain Section 508 Testing Expertise
+            url: manage/roles/attain-section-508-testing-expertise/
+          - name: Section 508 Accessibility Tester Position Description
+            url: manage/roles/section-508-tester-pd/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
@@ -190,6 +201,8 @@ training:
         url: 'training/online-course/soliciting-and-evaluating-acrs/'
       - name: "Online Training Courses via FAI"
         url: 'training-home#federal-acquisition-institute'
+      - name: "Add GSA’s Training to Your LMS"
+        url: 'training/online-training/add-our-training-to-your-lms/'
   - name: Training Videos Library
     url: '#'
     children:
@@ -206,6 +219,45 @@ training:
             url: 'training/art/introducing-art-04/'
           - name: How Do I Use JSON to Modify My Report?
             url: 'training/art/introducing-art-05/'
+      - name: ANDI
+        url: '#'
+        grandchildren:
+          - name: "Module 1: Overview of ANDI"
+            url: training/web-software/andi-training-videos/overview/
+          - name: "Module 2: Focus Element"
+            url: training/web-software/andi-training-videos/focus-element/
+          - name: "Module 3: Links & Buttons"
+            url: training/web-software/andi-training-videos/links-buttons/
+          - name: "Module 4: Images"
+            url: training/web-software/andi-training-videos/images/
+          - name: "Module 5: Structure Headings"
+            url: training/web-software/andi-training-videos/structure-headings/
+          - name: "Module 6: Heading Levels"
+            url: training/web-software/andi-training-videos/heading-levels/
+          - name: "Module 7: Structure Lists"
+            url: training/web-software/andi-training-videos/structure-lists/
+          - name: "Module 8: Page Language"
+            url: training/web-software/andi-training-videos/page-language/
+          - name: "Module 9: Language of Parts"
+            url: training/web-software/andi-training-videos/language-parts/
+          - name: "Module 10: Page Title"
+            url: training/web-software/andi-training-videos/andi-page-title/
+          - name: "Module 11: Frames"
+            url: training/web-software/andi-training-videos/frames/
+          - name: "Module 12: iFrames"
+            url: training/web-software/andi-training-videos/iframes/
+          - name: "Module 13: Color Contrast"
+            url: training/web-software/andi-training-videos/color-contrast/
+          - name: "Module 14: Color Contrast Analyzer"
+            url: training/web-software/andi-training-videos/color-contrast-analyzer/
+          - name: "Module 15: Data Tables"
+            url: training/web-software/andi-training-videos/data-tables/
+          - name: "Module 16: Layout Tables"
+            url: training/web-software/andi-training-videos/layout-tables/
+          - name: "Module 17: CSS Content and Positioning"
+            url: training/web-software/andi-training-videos/css-content-positioning/
+          - name: "Module 18: Live Regions"
+            url: training/web-software/andi-training-videos/live-regions/
       - name: Document       
         url: '#'
         grandchildren:
@@ -308,64 +360,14 @@ training:
             url: 'training/pdfs/aed-cop-pdf03/'
           - name: "Module 4: Converting Scanned Documents into Section 508 Conformant PDFs"
             url: 'training/pdfs/aed-cop-pdf04/'
-      - name: ANDI
-        url: '#'
-        grandchildren:
-          - name: "Module 1: Overview of ANDI"
-            url: training/web-software/andi-training-videos/overview/
-          - name: "Module 2: Focus Element"
-            url: training/web-software/andi-training-videos/focus-element/
-          - name: "Module 3: Links & Buttons"
-            url: training/web-software/andi-training-videos/links-buttons/
-          - name: "Module 4: Images"
-            url: training/web-software/andi-training-videos/images/
-          - name: "Module 5: Structure Headings"
-            url: training/web-software/andi-training-videos/structure-headings/
-          - name: "Module 6: Heading Levels"
-            url: training/web-software/andi-training-videos/heading-levels/
-          - name: "Module 7: Structure Lists"
-            url: training/web-software/andi-training-videos/structure-lists/
-          - name: "Module 8: Page Language"
-            url: training/web-software/andi-training-videos/page-language/
-          - name: "Module 9: Language of Parts"
-            url: training/web-software/andi-training-videos/language-parts/
-          - name: "Module 10: Page Title"
-            url: training/web-software/andi-training-videos/andi-page-title/
-          - name: "Module 11: Frames"
-            url: training/web-software/andi-training-videos/frames/
-          - name: "Module 12: iFrames"
-            url: training/web-software/andi-training-videos/iframes/
-          - name: "Module 13: Color Contrast"
-            url: training/web-software/andi-training-videos/color-contrast/
-          - name: "Module 14: Color Contrast Analyzer"
-            url: training/web-software/andi-training-videos/color-contrast-analyzer/
-          - name: "Module 15: Data Tables"
-            url: training/web-software/andi-training-videos/data-tables/
-          - name: "Module 16: Layout Tables"
-            url: training/web-software/andi-training-videos/layout-tables/
-          - name: "Module 17: CSS Content and Positioning"
-            url: training/web-software/andi-training-videos/css-content-positioning/
-          - name: "Module 18: Live Regions"
-            url: training/web-software/andi-training-videos/live-regions/
+      - name: An Introduction to Universal Design
+        url: 'develop/universal-design-video-series/'
       - name: Creating Accessible Media
         url: 'create/synchronized-media/creating-accessible-media/'
       - name: Color Contrast Analyzer
-        url: 'training/web-software/andi-training-videos/color-contrast-analyzer/'
-      - name: Universal Design and Accessibility
-        url: '#'
-        grandchildren:
-          - name: "An Introduction to Universal Design for Content Creators"
-            url: 'https://www.youtube.com/watch?v=acKd-q2I3f0'
-            external: true
-          - name: "An Introduction to Universal Design for Developers"
-            url: 'https://www.youtube.com/watch?v=ryfd3fmZHCY'
-            external: true
-          - name: "An Introduction to Universal Design for Managers"
-            url: 'https://www.youtube.com/watch?v=d1X5XSEErdY'
-            external: true
-          - name: "An Introduction to Universal Design for Procurement Professionals"
-            url: 'https://www.youtube.com/watch?v=MD0XrzqML8Y'
-            external: true
+        url: 'training/create/making-color-usage-accessible/color-contrast-analyzer/'
+      - name: WebAIM Contrast Checker
+        url: 'training/create/making-color-usage-accessible/webaim-contrast-checker/'
       - name: 'What is Alternative Text?'
         url: 'training/alt-text/what-is-alternative-text/'
   - name: Events
@@ -398,8 +400,8 @@ training:
         url: 'buy/solicitation-review-tool/'
       - name: Accessibility Playbooks
         url: 'manage/playbooks/'
-      - name: Testing Tools for Web
-        url: 'test/web-software/'
+      - name: Tools for Testing ICT
+        url: 'tools/tools-for-testing-ict/'
       - name: 'Terms, Definitions, and Acronyms'
         url: '#'            
         grandchildren:
@@ -415,21 +417,25 @@ develop:
     children:
       - name: Universal Design
         url: develop/universal-design/
-      - name: Video Training
-        url: 'develop/universal-design-video-series/'
       - name: Accessible Fonts and Typography  
         url:  'develop/fonts-typography/'
       - name: Accessible Design Using the USWDS
         url: develop/accessible-design-using-uswds/
       - name: Designing Digital Content For Users With Cognitive Disabilities
         url: design/digital-content-users-with-cognitive-disabilities/
+      - name: Mapping of WCAG 2.0 to Functional Performance Criteria
+        url: content/mapping-wcag-to-fpc/
   - name: Develop
     url: '#'
     children:
-      - name: Develop Software and Websites
-        url: develop/software-websites/
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
+      - name: Develop Software and Websites
+        url: develop/software-websites/
+      - name: Incorporating Accessibility Conformance Validation within Development
+        url: develop/incorporating-accessibility-conformance/
+      - name: Sample User Stories for Accessible ICT
+        url: develop/user-stories/
       - name: Web Content
         url: '#'
         grandchildren:
@@ -437,23 +443,34 @@ develop:
             url: develop/web-content/
           - name: Publishing to the Web
             url: develop/publish-to-web/
-      - name: Incorporating Accessibility Conformance Validation within Development
-        url: develop/incorporating-accessibility-conformance/
 test:
   - name: Testing
     url: 'test/'
+  - name: Testing Lifecycle
+    url: '#'
+    children:
+      - name: Testing Lifecycle Overview
+        url: 'test/testing-lifecycle-overview/'
+      - name: Essential Elements of an Accessibility Test Report
+        url: 'test/elements-of-an-accessibility-test-report/'
+      - name: Conformance of ICT Prototypes and Pilots
+        url: 'test/conformance-of-prototypes-and-pilots/'
   - name: Testing Methods
     url: '#'
     children:
+      - name: ICT Testing Baseline Portfolio
+        url: 'test/ict-testing-baseline-portfolio/'
       - name: Learn About Testing Methods
         url: 'test/testing-overview/'
-      - name: Trusted Tester and ICT Testing Baseline
+      - name: Trusted Tester
         url: 'test/trusted-tester/'
       - name: Tips for Usability Testing with People with Disabilities
         url: 'test/usability-testing-with-people-with-disabilities/'
   - name: Testing Checklists
     url: '#'
     children:
+      - name: Color Accessibility Checklists
+        url: 'create/making-color-usage-accessible/#color-accessibility-checklist'
       - name: Email Messages
         url: 'test/checklist/email-messages/'
   - name: Electronic Documents
@@ -468,10 +485,11 @@ test:
   - name: Software & Websites
     url: '#'
     children:
-      - name: Test Websites & Software
-        url: test/web-software/
       - name: Testing Guidance for Developers
         url: test/testing-for-developers/
+  - name: Tools for Testing ICT
+    url: tools/tools-for-testing-ict/
+
 acquisition:
   - name: Acquisition
     url: 'buy-sell/'
@@ -535,39 +553,29 @@ create:
     children:
       - name: Create Accessible Documents
         url: 'create/documents/'
-      - name: Authoring Guides
-        url: create/documents/authoring-guides/
-      - name: Tips and Tricks
-        url: 'create/documents/#tips'
       - name: Video Training
         url: 'create/documents/training-videos/'
   - name: Create a Presentation
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/presentations/authoring-guides/
-      - name: Tips and Tricks
+      - name: Create Accessible Presentations
         url: create/presentations/
       - name: Video Training
         url: create/presentations/training-videos/
   - name: Create a Spreadsheet
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/spreadsheets/authoring-guides/
-      - name: Tips and Tricks
+      - name: Create Accessible Spreadsheets
         url: create/spreadsheets/
       - name: Video Training
         url: create/spreadsheets/training-videos/
   - name: Create a PDF
     url: '#'
     children:
-      - name: Authoring Guides
-        url: create/pdfs/authoring-guides/
+      - name: Create Accessible PDFs
+        url: create/pdfs/
       - name: Tags and Their Usage
         url: create/pdfs/common-tags-and-usage/
-      - name: Tips and Tricks
-        url: create/pdfs/
       - name: Video Training
         url: create/pdfs/training-videos/
   - name: Audio & Video
@@ -587,6 +595,8 @@ create:
     url: 'create/email-messages/'
   - name: Equations and Formulas
     url: 'create/accessible-equations-formulas/'
+  - name: Making Color Usage Accessible
+    url: create/making-color-usage-accessible/
   - name: Meetings
     url: 'create/accessible-meetings/'
   - name: Social Media
