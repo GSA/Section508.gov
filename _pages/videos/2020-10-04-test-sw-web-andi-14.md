@@ -19,7 +19,8 @@ audience:
 resource-type: Training
 format: Video & Synchronized Media (video)
 ---
-In Module: 14 of the Accessible Name &amp; Description Inspector (ANDI) Tool video series, learn how to use <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">The Paciello Group’s Color Contrast Analyzer (CCA)</a> to ensure the contrast ratio between text, and images of text, and it's background is sufficient. CCA is used to inspect color contrast when contrast cannot be [programmatically identified][1] by ANDI. Visit the [Testing Tools for Web][2] for download information.
+<p>In Module: 14 of the Accessible Name & Description Inspector (ANDI) Tool video series, learn how to use the <a href="https://developer.paciellogroup.com/resources/contrastanalyser/">Color Contrast Analyzer's (CCA)</a> built-in color sampler to ensure the contrast ratio between text, and images of text, and it&apos;s background is sufficient. CCA can be used to when contrast cannot <a href="{{site.baseurl}}/tools/glossary/#programmatically-determinable" >programmatically determined</a> by ANDI.</p>
+
 <video controls="controls" data-vscid="3qesx4ovd" style="width:100%"><source src="https://assets.section508.gov/assets/videos/training-video-andi-14-oc.mp4" type="video/mp4"></video>
 <h2 class="block-title">Related ANDI Video Series Modules</h2>
 <div class="item-list">
