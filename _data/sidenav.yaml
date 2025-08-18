@@ -426,16 +426,18 @@ develop:
   - name: Design
     url: '#'
     children:
+      - name: Accessible Design Using the USWDS
+        url: develop/accessible-design-using-uswds/
+      - name: Accessible Fonts and Typography  
+        url:  develop/fonts-typography/
+      - name: Designing Digital Content For Users With Cognitive Disabilities
+        url: design/digital-content-users-with-cognitive-disabilities/
+      - name: Sample Personas for Users With Disabilities
+        url: develop/sample-personas/
       - name: Universal Design
         url: develop/universal-design/
       - name: Video Training
-        url: 'develop/universal-design-video-series/'
-      - name: Accessible Fonts and Typography  
-        url:  'develop/fonts-typography/'
-      - name: Accessible Design Using the USWDS
-        url: develop/accessible-design-using-uswds/
-      - name: Designing Digital Content For Users With Cognitive Disabilities
-        url: design/digital-content-users-with-cognitive-disabilities/
+        url: develop/universal-design-video-series/
   - name: Develop
     url: '#'
     children:
