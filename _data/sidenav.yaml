@@ -119,6 +119,11 @@ manage:
         url: manage/laws-and-policies/state/
       - name: International IT Accessibility Laws and Policies
         url: manage/laws-and-policies/international/
+  - name: Governance
+    url: '#'
+    children:
+      - name: Integrating Section 508 into Capital Planning and Investment Control
+        url: manage/governance/integrating-section-508-into-cpic/
   - name: IT Accessibility Policy Framework
     url: '#'
     children:
