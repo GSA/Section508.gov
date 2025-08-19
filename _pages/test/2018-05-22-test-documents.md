@@ -90,7 +90,7 @@ Incorporate accessibility up-front and learn how to create accessible content an
   * [Create Accessible Digital Products][8]
   * <a href="https://ictbaseline.access-board.gov/document-baselines/" target="_blank" class="usa-link--external">ICT Testing Baseline for Electronic Documents</a>
   * [Test for Accessibility][9]
-  * [Tools for Testing ICT]({{site.baseurl}}/tools/tools-for-testing-ict/)
+  * [Tools for Testing Information and Communications Technology]({{site.baseurl}}/tools/tools-for-testing-ict/)
 
 
 
