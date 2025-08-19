@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: test/documents/
 type: test
-decription:  Discover Section 508 accessibility requirements for electronic documents like PDFs, Word, Excel, and PowerPoint, ensuring federal content is usable by all  
+description:  Discover Section 508 accessibility requirements for electronic documents like PDFs, Word, Excel, and PowerPoint, ensuring federal content is usable by all  
 disclaimer: true
 title: Electronic Documents Overview
 created: 1527027750
