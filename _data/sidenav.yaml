@@ -476,17 +476,25 @@ test:
   - name: Electronic Documents
     url: '#'
     children:
-      - name: Test Electronic Documents
+      - name: Electronic Documents Overview
         url: test/documents/
-      - name: About Electonic Document Testing Tools
-        url: test/about-testing-tools/
       - name: Testing Color Contrast in Non-Web Documents and Images
         url: test/color-contrast-in-nonweb-documents-images/
-  - name: Software & Websites
+  - name: ICT Hardware
     url: '#'
     children:
-      - name: Testing Guidance for Developers
-        url: test/testing-for-developers/
+      - name: ICT Hardware Overview
+        url: test/ict-hardware-overview/
+  - name: Software 
+    url: '#'
+    children:
+      - name: Software Overview
+        url: test/software/   
+  - name: Websites
+    url: '#'
+    children:
+      - name: Web Content Overview
+        url: test/websites/
   - name: Tools for Testing ICT
     url: tools/tools-for-testing-ict/
 
