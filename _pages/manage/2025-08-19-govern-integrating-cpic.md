@@ -243,8 +243,8 @@ Agencies can embed Section 508 into the CPIC lifecycle using the following strat
 </ol>
 
 ## Related Resources
-* <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf" target="_blank" class="usalink--external">OMB Circular A-130 Managing Information as a Strategic Resource</a>
-* <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII.htm" target="_blank" class="usalink--external">Clinger Cohen Act of 1996</a>
-* <a href="https://energy.gov/sites/prod/files/cioprod/documents/IM-20CPICBY2012_2_BUDGET.pdf" target="_blank" class="usalink--external">Department of Energy - Guide to IT Capital Planning and Investment Control (CPIC)</a>
+* <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf" target="_blank" class="usa-link--external">OMB Circular A-130 Managing Information as a Strategic Resource</a>
+* <a href="https://www.govinfo.gov/content/pkg/USCODE-2011-title40/html/USCODE-2011-title40-subtitleIII.htm" target="_blank" class="usa-link--external">Clinger Cohen Act of 1996</a>
+* <a href="https://energy.gov/sites/prod/files/cioprod/documents/IM-20CPICBY2012_2_BUDGET.pdf" target="_blank" class="usa-link--external">Department of Energy - Guide to IT Capital Planning and Investment Control (CPIC)</a>
 
 **Reviewed/Updated:** August 2025
