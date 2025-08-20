@@ -6,21 +6,27 @@ title: Interagency Accessibility Forum (IAAF)
 permalink: /iaaf/
 redirect_from:
 - IAAF/
-start-date: 2026-05-06 #only fill in start date if the events spans multiple days
-end-date: 2026-05-08 #otherwise use end-date
+start-date: 2026-05-05 #only fill in start date if the events spans multiple days
+end-date: 2026-05-07 #otherwise use end-date
 description: The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility imperatives including Section 508 of the Rehabilitation Act.
 created: 2014-01-01
-updated: 2025-08-07
+updated: 2025-08-20
+exclude-changelog: true
 --- 
-<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Accessible by Design: Enhancing Efficiency in Federal ICT. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-2025.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
+<p style="text-align:center;"><img alt="Annual Interagency Accessibility Forum. Ideas that Enable Agencies to Buy, Build, and Be Accessible. Logo and Seals for GSA, IAAF, and U.S. Access Board." src="{{site.baseurl}}/assets/images/iaaf-banner-standard.jpg" style="width:100%" class="border-base radius-lg border-0px"/></p>
 
 ## About IAAF
 The annual Interagency Accessibility Forum (IAAF) provides a venue for federal accessibility professionals, buyers, developers, designers, project managers, leadership and many others to exchange best practices in managing and implementing digital accessibility standards and reporting required by Section 508 of the Rehabilitation Act of 1973, as amended (29 USC 794d).
 
-## 2025 IAAF
-The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT**, and take place virtually on Zoom for Government from May 20-21. The event is hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies.
+## 2026 IAAF  
+The 2026 IAAF is expected to take place in May 2026. The event will be hosted by the Government-wide IT Accessibility Program within GSA’s Office of Government-wide Policy (OGP) and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies. Federal agencies interested in co-sponsoring the event may send inquiries to <iaaf@gsa.gov>. 
 
-<img src="{{site.baseurl}}/assets/images/iaaf-date-card-2025.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;">
+<!-- 
+## 2025 IAAF
+The 2025 Interagency Accessibility Forum (IAAF) was built on the theme **Accessible by Design: Enhancing Efficiency in Federal ICT**, and took place virtually on Zoom for Government from May 20-21, 2025. The event was hosted by the Government-wide IT Accessibility Program within the Office of Government-wide Policy (OGP) at the General Services Administration (GSA), and co-sponsored by the U.S. Access Board (USAB) in collaboration with other federal agencies. 
+-->
+
+<!-- <img src="{{site.baseurl}}/assets/images/iaaf-date-card-2025.jpg" alt="Event dates: May 20 and 21" width="275" height="auto" style="display: block; margin-left: auto; margin-right: auto;"> -->
 
 <!--
 <div class="grid-row">
@@ -33,10 +39,9 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
     <span> | </span>
     <a href="https://calendar.yahoo.com/?desc=This%2520is%2520a%2520calendar%2520placeholder%2520for%2520the%25202025%2520Interagency%2520Accessibility%2520Forum.%2520Registration%2520is%2520expected%2520to%2520open%2520in%2520April%2520at%2520which%2520time%2520you%2520can%2520register%2520and%2520receive%2520a%2520personalized%2520calendar%2520invitation.%2520Watch%2520https%253A%252F%252Fwww.section508.gov%252Fiaaf%2520for%2520event%2520and%2520registration%2520information.&dur=false&et=20250520T210000Z&in_loc=Virtual+-+Zoom+for+Government&st=20250520T130000Z&title=2025%2520IAAF%2520-%2520Save%2520the%2520Date%21&v=60&recur=RRULE:FREQ=DAILY;COUNT=2" target="_blank"><svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>Add to Outlook Online Calendar</a>
   </div>
-</div> -->
+</div> 
 
 ## Event Details
-<!-- 
 <div class="grid-row">
   <div class="tablet:grid-col-9">
     <div class="grid-row">
@@ -72,7 +77,7 @@ The 2025 Interagency Accessibility Forum (IAAF) will be built on the theme **Acc
 </div>
 
 ## Event Agenda
--->
+
 <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/"><img style="display: block; float: left; margin-right: 12px;" src="{{site.baseurl}}/assets/images/agenda-icon.png" alt="2025 IAAF Agenda" width="75" height="75"/></a>
 
 This year’s IAAF was held on May 20–21, 2025, and featured a mix of presentations, workshops, and discussions led by accessibility experts from government, private industry, academia, and other sectors.
@@ -81,7 +86,6 @@ Presenters and panelists covered a wide range of Section 508-related subjects, i
 
 For more details on the two-day event or to download presentations, visit the <a href="{{site.baseurl}}/iaaf/archives/agenda-2025/">2025 IAAF Agenda</a>. 
 
-<!--
 ## Accessibility Accommodations and Services
 American Sign Language (ASL) interpretation and Real Time Captioning (CART) will be available in all sessions. Electronic documents will be available for download from the agenda prior to the day of the session.
 
@@ -111,4 +115,4 @@ If you have any questions regarding the Interagency Accessibility Forum (IAAF), 
   </div>
 </div>
 
-**Reviewed/Updated:** May 2025
+**Reviewed/Updated:** August 2025
