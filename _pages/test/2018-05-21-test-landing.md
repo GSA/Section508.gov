@@ -111,7 +111,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-orange">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-software.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-software-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
