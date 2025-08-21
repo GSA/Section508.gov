@@ -17,15 +17,15 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2022-05-09
-updated: 2025-08-20
-exclude-changelog: 
+updated: 2025-08-21
+exclude-changelog: true
 hide-date: true
 ---
 Remediation means rework—and rework is waste. Federal agencies must ensure that their electronic documents and digital services are accessible to people with disabilities. These guides help federal employees create digital products that are accessible to everyone.
 
 <section id="create-cards" class="usa-section">
 <ul class="usa-card-group">
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/documents/">Documents</a></h2>
@@ -40,37 +40,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/presentations/">Presentations</a></h2>
-      </div>
-      <div class="usa-card__media">
-        <div class="usa-card__img bg-gold">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-pptx-col3.png" alt="" aria-hidden="true"/>
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Create accessible Microsoft Powerpoint presentations.</p>
-      </div>
-    </div>
-  </li>
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-       <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/spreadsheets/">Spreadsheets</a></h2>
-      </div>
-      <div class="usa-card__media">
-        <div class="usa-card__img bg-mint">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-xlsx-col3.png" alt="" aria-hidden="true"/>
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Create accessible Microsoft Excel spreadsheets.</p>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-4 usa-card">
+    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/pdfs/">PDFs</a></h2>
@@ -85,10 +55,25 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/presentations/">Presentations</a></h2>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-gold">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-pptx-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Create accessible Microsoft Powerpoint presentations.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans">Audio, Video, and Social Media</h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="http://127.0.0.1:4000/create/social-media/">Social Media</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-accent-warm">
@@ -101,10 +86,25 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+       <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/spreadsheets/">Spreadsheets</a></h2>
+      </div>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-mint">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-xlsx-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Create accessible Microsoft Excel spreadsheets.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Synchronized Media</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Video & Audio</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-cyan">
@@ -116,10 +116,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-</ul>
-​
-<ul class="usa-card-group">
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/accessible-meetings/">Meetings</a></h2>
@@ -134,7 +131,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/making-color-usage-accessible/">Using Color</a></h2>
@@ -149,7 +146,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans">Miscellaneous</h2>
@@ -160,8 +157,9 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Learn how to create accessible:</p>
+        <p>Learn how to create:</p>
         <p>
+          <a href="{{site.baseurl}}/create/alternative-text/">Alternative Text</a><br>
           <a href="{{site.baseurl}}/create/electronic-signatures/">Electronic Signatures</a><br>
           <a href="{{site.baseurl}}/create/email-messages/">Email Messages</a><br>
           <a href="{{site.baseurl}}/create/accessible-equations-formulas/">Equations & Formulas</a>
@@ -170,7 +168,4 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
     </div>
   </li>
 </ul>
-​
-</section>
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
+​</section>

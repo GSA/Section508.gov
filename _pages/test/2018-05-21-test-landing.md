@@ -7,6 +7,7 @@ permalink: test/
 redirect_from:
 - refresh-toolkit/test/
 - Refresh-toolkit/test/
+description: Learn Section 508 accessibility testing lifecycle, methods, and tools for electronic documents, hardware, software, and websites.
 topic: Testing (test)
 sub-topic: Various Electronic Content (i.e. Multiple)
 audience:
@@ -22,11 +23,11 @@ updated: 2025-08-13
 redirect_from: test/testing-for-developers/
 exclude-changelog: true
 ---
-An overview of testing methods and the tools to test websites, software, and electronic documents for conformance with the <a href="https://www.access-board.gov/ict/">Revised 508 Standards</a>. You can also review guidance on the Interagency Trusted Tester Program.
+An overview of testing methods and the tools to test websites, software, and electronic documents for conformance with the <a href="https://www.access-board.gov/ict/">Section 508 Standards</a>. You can also review guidance on the Interagency Trusted Tester Program.
 
 <section class="usa-section">
 <ul class="usa-card-group">
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/testing-lifecycle-overview/">Testing Lifecycle</a></h2>
@@ -41,7 +42,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/testing-overview/">Testing Methods</a></h2>
@@ -56,7 +57,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing</a></h2>
@@ -71,10 +72,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-</ul>
-
-<ul class="usa-card-group">
-    <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/documents/">Test Documents</a></h2>
@@ -89,7 +87,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li> 
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/ict-hardware-overview/">Test Hardware</a></h2>
@@ -104,7 +102,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/software/">Test Software</a></h2>
@@ -119,10 +117,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-</ul>
-
-<ul class="usa-card-group">
-    <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/websites/">Test Websites</a></h2>
@@ -137,7 +132,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/ict-testing-baseline-portfolio/">ICT Testing Baseline Portfolio</a></h2>
@@ -152,7 +147,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program)">Trusted Tester Process & Certification Program</a></h2>

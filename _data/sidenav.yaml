@@ -561,28 +561,14 @@ acquisition:
 create:
   - name: Content Creation
     url: 'create/'
-  - name: Create a Document
+  - name: Documents
     url: '#'
     children:
       - name: Create Accessible Documents
         url: 'create/documents/'
       - name: Video Training
         url: 'create/documents/training-videos/'
-  - name: Create a Presentation
-    url: '#'
-    children:
-      - name: Create Accessible Presentations
-        url: create/presentations/
-      - name: Video Training
-        url: create/presentations/training-videos/
-  - name: Create a Spreadsheet
-    url: '#'
-    children:
-      - name: Create Accessible Spreadsheets
-        url: create/spreadsheets/
-      - name: Video Training
-        url: create/spreadsheets/training-videos/
-  - name: Create a PDF
+  - name: PDFs
     url: '#'
     children:
       - name: Create Accessible PDFs
@@ -591,14 +577,28 @@ create:
         url: create/pdfs/common-tags-and-usage/
       - name: Video Training
         url: create/pdfs/training-videos/
-  - name: Audio & Video
+  - name: Presentations
+    url: '#'
+    children:
+      - name: Create Accessible Presentations
+        url: create/presentations/
+      - name: Video Training
+        url: create/presentations/training-videos/
+  - name: Spreadsheets
+    url: '#'
+    children:
+      - name: Create Accessible Spreadsheets
+        url: create/spreadsheets/
+      - name: Video Training
+        url: create/spreadsheets/training-videos/
+  - name: Video & Audio
     url: '#'
     children:
       - name: Audio- and Video-Only
         url: 'create/audio-video/'
       - name: Captions & Transcripts
         url: 'create/captions-transcripts/'
-      - name: Synchronized Media
+      - name: Video and Other Synchronized Media
         url: 'create/synchronized-media/'
   - name: Alternative Text
     url: 'create/alternative-text/'

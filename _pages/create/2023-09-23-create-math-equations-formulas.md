@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: create/accessible-equations-formulas/
 type: create
-title: Creating Accessible Equations and Formulas
+title: Equations and Formulas
 contributors: smith-frances, usfs
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"

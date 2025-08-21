@@ -3,8 +3,7 @@ layout: page
 sidenav: true
 permalink: create/audio-video/
 type: create
-title: 'Create Accessible Audio- and Video-Only Media'
-created: 1526416120
+title: 'Audio- and Video-Only Media'
 topic: "Content creation (create)"
 sub-topic: "Video/Audio/Multimedia"
 audience:
@@ -13,6 +12,9 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-15
+updated: 2025-08-21
+exclude-change-log: true
 ---
 ## Audio-Only Content
 Audio-only media refers to digital content, such as podcasts and MP3s audio files, that typically provides information using speech, music and sound effects. In order for individuals without hearing or have limited hearing to access the information, content creations must provide an alternative that presents equivalent information for prerecorded audio-only content.

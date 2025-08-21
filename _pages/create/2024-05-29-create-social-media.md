@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: create
-title: Create Accessible Social Media
+title: Social Media
 permalink: create/social-media/
 redirect_from:
 - social-media/
