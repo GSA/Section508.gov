@@ -1,9 +1,13 @@
 ---
 sidenav: true
 type: create
+layout: page
 title: 'Create Accessible Digital Products'
 permalink: create/
-layout: page
+redirect_from:
+- content/build/create-accessible-documents/
+- create/video-social/
+description: Remediation is rework, and rework is waste. Federal agencies are responsible for ensuring their information and services are accessible to persons with disabilities. Federal employees can use our guides to create accessible electronic documents and digital services ensure access by everyone.
 topic: "Content creation (create)"
 sub-topic: "Various Electronic Content (i.e. Multiple)"
 audience:
@@ -13,40 +17,67 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2022-05-09
-updated: 2024-11-12
+updated: 2025-08-21
+exclude-changelog: true
 hide-date: true
-redirect_from:
-- content/build/create-accessible-documents/
-- create/video-social/
 ---
-<p class="font-body-lg text-bold">Remediation is rework, and rework is waste.<hr></p>​
-Federal agencies are responsible for ensuring their information and services are accessible to persons with disabilities. The [Revised 508 Standards][1] include not just IT tools and systems, but electronic content such as documents, web pages, presentations, social media content, blogs, and certain emails.
-​
+Remediation means rework—and rework is waste. Federal agencies must ensure that their electronic documents and digital services are accessible to people with disabilities. These guides help federal employees create digital products that are accessible to everyone.
+
 <section id="create-cards" class="usa-section">
 <ul class="usa-card-group">
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/documents/">Documents</a></h2>
       </div>
       <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-doc.jpg" alt="" aria-hidden="true"/>
+        <div class="usa-card__img bg-blue">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-docx-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Learn how to create accessible Microsoft Word documents that conform to the Revised 508 Standards.</p>
+        <p>Create accessible Microsoft Word documents.</p>
       </div>
     </div>
   </li>
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/accessible-meetings/">Meetings</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-accent-cool">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-meetings-col3.png" alt="" aria-hidden="true"/>           
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Use this guide to make your next meeting accessible to all of your attendees&mdash;including people with disabilities.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/pdfs/">PDFs</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-red">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-pdf-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Create accessible Portable Document Format (PDF) documents.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/presentations/">Presentations</a></h2>
       </div>
       <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-slide.jpg" alt="" aria-hidden="true"/>
+        <div class="usa-card__img bg-gold">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-pptx-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -54,14 +85,29 @@ Federal agencies are responsible for ensuring their information and services are
       </div>
     </div>
   </li>
-  <li class="usa-card tablet:grid-col-4 widescreen:grid-col-4">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/social-media/">Social Media</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-accent-warm">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-social-media-col3.png" alt="" aria-hidden="true"/>
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Create and publish social media post for everyone.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <div class="usa-card__header">
        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/spreadsheets/">Spreadsheets</a></h2>
       </div>
       <div class="usa-card__media">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-sheet.jpg" alt="" aria-hidden="true"/>
+        <div class="usa-card__img bg-mint">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-xlsx-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -69,72 +115,56 @@ Federal agencies are responsible for ensuring their information and services are
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/pdfs/">PDFs</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/making-color-usage-accessible/">Using Color</a></h2>
       </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-magenta">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-color-usage-col3.png" alt="" aria-hidden="true"/>           
+        </div>
+      </div>
       <div class="usa-card__body">
-        <p>Create accessible Portable Document Format (PDF) documents that conform to the Revised 508 Standards.</p>
+        <p>Learn the importance of color usage, and the tools and techniques to make color usage accessible.</p>
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans">Audio, Video, and Social Media</h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Video & Audio</a></h2>
       </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-cyan">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-video-col3.png" alt="" aria-hidden="true"/>           
+        </div>
+      </div>
       <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/create/audio-video/">Create accessible audio and video media.</a></p>
-        <p><a href="{{site.baseurl}}/create/social-media">Create accessible social media posts.</a></p>
+        <p>Create accessible synchronized media&mdash;or "videos"&mdash; with captions, transcripts, and audio descriptions.</p>
       </div>
     </div>
   </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Synchronized Media</a></h2>
+        <h2 class="usa-card__heading font-family-sans">Miscellaneous</h2>
       </header>
-      <div class="usa-card__body">
-        <p>Summary of considerations for the development of synchronized media - commonly thought of as "videos," including captions, transcripts, and audio descriptions.</p>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-indigo">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-misc-col3.png" alt="" aria-hidden="true"/>           
+        </div>
       </div>
-    </div>
-  </li>
-</ul>
-​
-<ul class="usa-card-group">
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/electronic-signatures/">Electronic Signatures</a></h2>
-      </header>
       <div class="usa-card__body">
-        <p>Electronic signatures digitally validate or acknowledge PDF documents, online forms, or specialized e-signature software.</p>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/develop/software-websites/">Software & Websites</a></h2>
-      </header>
-      <div class="usa-card__body">
-        <p>Learn how the Revised 508 standards apply to software applications, web content, operating systems, and more.</p>
-      </div>
-    </div>
-  </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container radius-md">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/develop/universal-design/">Universal Design</a></h2>
-      </header>
-      <div class="usa-card__body">
-        <p>Read more about the concept of universal design and how to apply it to federal agencies and products.</p>
+        <p>Learn how to create:</p>
+        <p>
+          <a href="{{site.baseurl}}/create/alternative-text/">Alternative Text</a><br>
+          <a href="{{site.baseurl}}/create/electronic-signatures/">Electronic Signatures</a><br>
+          <a href="{{site.baseurl}}/create/email-messages/">Email Messages</a><br>
+          <a href="{{site.baseurl}}/create/accessible-equations-formulas/">Equations & Formulas</a>
+        </p>
       </div>
     </div>
   </li>
 </ul>
-​
-</section>
-
- [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
+​</section>

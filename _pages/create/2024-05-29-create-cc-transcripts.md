@@ -3,12 +3,10 @@ layout: page
 sidenav: true
 permalink: create/captions-transcripts/
 type: create
-title: Create Accessible Captions and Transcripts
+title: Captions and Transcripts
 description: Create accessible videos with captions and transcripts. Learn technical standards, legal requirements, tools, and best practices from Section508.gov. 
 contributors: 
 social_img: '{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg'
-created: 2024-05-29
-updated: 2025-07-08
 topic: "Content creation (create)"
 sub-topic: "Video/Audio/Multimedia"
 audience:
@@ -17,6 +15,9 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2024-05-29
+updated: 2025-08-21
+exclude-changelog: true
 ---
 Captions and transcripts are valuable tools that provide access to audio content. Captions describe dialogue, music, and sound effects in videos, while transcripts are documents that describe audio-only and video-only content, such as podcasts and animations.
 

@@ -2,7 +2,7 @@
 layout: page
 sidenav: true
 type: create
-title: 'Create Accessible Meetings'
+title: 'Accessible Meetings'
 permalink: create/accessible-meetings/
 redirect_from:
 - accessible-meetings/
@@ -17,7 +17,8 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2020-08-01
-updated: 2025-05-07
+updated: 2025-08-21
+exclude-changelog: true
 ---
 In recent years, how agencies gather, collaborate, discuss, share, and learn has changed from largely in-person meetings and conference calls to virtual meetings where the audience participates remotely through voice and video from their homes. Now, meetings are often virtual, or a hybrid of in-person and remote participants. For this reason, accessibility can and should be seamlessly integrated into your meeting. 
 

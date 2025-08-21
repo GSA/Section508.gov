@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: create/email-messages/
 type: create
-title: 'Creating Accessible Email Messages'
+title: 'Email Messages'
 contributors: frith-chet, va
 created: 2024-08-28
 updated: 
