@@ -40,7 +40,22 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
     </div>
   </li>
-    <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/accessible-meetings/">Meetings</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-accent-cool">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-meetings-col3.png" alt="" aria-hidden="true"/>           
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Use this guide to make your next meeting accessible to all of your attendees&mdash;including people with disabilities.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/pdfs/">PDFs</a></h2>
@@ -104,36 +119,6 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Video & Audio</a></h2>
-      </header>
-      <div class="usa-card__media">
-        <div class="usa-card__img bg-cyan">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-video-col3.png" alt="" aria-hidden="true"/>           
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Create accessible synchronized media&mdash;or "videos"&mdash; with captions, transcripts, and audio descriptions.</p>
-      </div>
-    </div>
-  </li>
-  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/accessible-meetings/">Meetings</a></h2>
-      </header>
-      <div class="usa-card__media">
-        <div class="usa-card__img bg-accent-cool">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-meetings-col3.png" alt="" aria-hidden="true"/>           
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Use this guide to make your next meeting accessible to all of your attendees&mdash;including people with disabilities.</p>
-      </div>
-    </div>
-  </li>
-  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/making-color-usage-accessible/">Using Color</a></h2>
       </header>
       <div class="usa-card__media">
@@ -143,6 +128,21 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
       </div>
       <div class="usa-card__body">
         <p>Learn the importance of color usage, and the tools and techniques to make color usage accessible.</p>
+      </div>
+    </div>
+  </li>
+  <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/synchronized-media/">Video & Audio</a></h2>
+      </header>
+      <div class="usa-card__media">
+        <div class="usa-card__img bg-cyan">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-create-video-col3.png" alt="" aria-hidden="true"/>           
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Create accessible synchronized media&mdash;or "videos"&mdash; with captions, transcripts, and audio descriptions.</p>
       </div>
     </div>
   </li>
