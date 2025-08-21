@@ -42,3 +42,10 @@
     }); 
   });
 </script>
+
+{% if page.custom-script %}
+<!-- Custom Page Scripts -->
+{% for script in page.custom-script %}
+<script src="{{site.baseurl}}/assets/js/{{script}}"></script>
+{% endfor %}
+{% endif %}
