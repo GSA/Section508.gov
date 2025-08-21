@@ -88,7 +88,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="http://127.0.0.1:4000/create/social-media/">Social Media</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/create/social-media/">Social Media</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-accent-warm">
@@ -96,8 +96,7 @@ Remediation means rework—and rework is waste. Federal agencies must ensure tha
         </div>
       </div>
       <div class="usa-card__body">
-        <p><a href="{{site.baseurl}}/create/audio-video/">Create accessible audio and video media.</a></p>
-        <p><a href="{{site.baseurl}}/create/social-media">Create accessible social media posts.</a></p>
+        <p>Create and publish social media post for everyone.</p>
       </div>
     </div>
   </li>
