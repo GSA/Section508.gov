@@ -1,15 +1,16 @@
 ---
 layout: page
 sidenav: true
-permalink: training-home/
 type: training
 title: 'Accessibility Training Overview'
+permalink: training-home/
+redirect_from:
+ - training/508-training/
 description: Explore Section 508 training, tools, and events to help your agency make digital services accessible to everyone. Access online courses, video tutorials, trusted tester certification, and tools to support Section 508 compliance.
 disclaimer: true
 created: 2018-05-08
 updated: 2025-08-05
-redirect_from:
- - training/508-training/
+exclude-changelog: true
 ---
 The courses listed below are intended to improve your understanding of IT accessibility, and Section 508 law, and help you produce digital tools and content that conform to the [Revised 508 Standards][1].
 
