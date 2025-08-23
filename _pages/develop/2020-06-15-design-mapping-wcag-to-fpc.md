@@ -2,7 +2,9 @@
 layout: wide_post
 type: article
 title: 'Mapping of WCAG 2.0 to Functional Performance Criteria'
-permalink: content/mapping-wcag-to-fpc/
+permalink: develop/mapping-wcag-to-fpc/
+redirect_from:
+- content/mapping-wcag-to-fpc/
 description: Learn how WCAG 2.0 Level A and AA success criteria correspond to Section 508’s Functional Performance Criteria (FPC), showing which disabilities each requirement supports.
 topic: "Law (law)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
@@ -16,6 +18,8 @@ resource-type: "Process/How-to"
 format: "HTML (html)"
 contributors: usab
 created: 2020-06-15
+updated: 2025-08-22
+exclude-changelog: true
 ---
 
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
