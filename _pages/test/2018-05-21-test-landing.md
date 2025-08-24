@@ -63,8 +63,8 @@ An overview of testing methods and the tools to test websites, software, and ele
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/tools-for-testing-ict/">Tools for Testing</a></h2>
       </header>
       <div class="usa-card__media">
-        <div class="usa-card__img  bg-green">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-tools.png" alt="" aria-hidden="true"/>
+        <div class="usa-card__img bg-green">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-tools-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
@@ -154,7 +154,7 @@ An overview of testing methods and the tools to test websites, software, and ele
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-primary-light">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester.png" alt="" aria-hidden="true"/>
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-trusted-tester-col3.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
