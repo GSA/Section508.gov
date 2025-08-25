@@ -66,7 +66,7 @@ Designing and developing ICT for users with cognitive disabilities is not just a
 ## Additional Resources:
 <ul>
 <li>For a full list of WCAG 2.0 AA criteria mapped to impact for users with cognitive disabilities,
-review <a href="{{site.baseurl}}/content/mapping-wcag-to-fpc/">Mapping of WCAG 2.0 to Functional Performance Criteria</a>.</li>
+review <a href="{{site.baseurl}}/develop/mapping-wcag-to-fpc/">Mapping of WCAG 2.0 to Functional Performance Criteria</a>.</li>
 <li>For more information on Universal Design, visit <a href="{{site.baseurl}}/develop/universal-design/">Universal Design and Accessibility</a>.</li>
 </ul>
 
