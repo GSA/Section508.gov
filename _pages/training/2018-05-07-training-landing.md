@@ -75,8 +75,8 @@ Learn how you can make your agency's electronic information and digital services
         <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/tools/">Section 508 Tools</a></h2>
       </header>
       <div class="usa-card__media">
-        <div class="usa-card__img bg-green">
-          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-test-tools-col2.png" alt="" aria-hidden="true"/>
+        <div class="usa-card__img bg-orange">
+          <img src="{{site.baseurl}}/assets/images/thumbnails/thumb-training-toolbox-col2.png" alt="" aria-hidden="true"/>
         </div>
       </div>
       <div class="usa-card__body">
