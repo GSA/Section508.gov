@@ -2,12 +2,12 @@
   id: 1
   q: What is ICT?
   a: |
-    As defined by Section 508 of the Rehabilitation Act, Information and Communication Technology (ICT) is information technology and other equipment, systems, technologies, or processes for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data, information, and any associated content. Examples of ICT include but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents {Section 508, E103.4 Defined Terms}.
+    As defined by Section 508 of the Rehabilitation Act, information and communication technology (ICT) is information technology and other equipment, systems, technologies, or processes for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data, information, and any associated content. Examples of ICT include but are not limited to: computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents {Section 508, E103.4 Defined Terms}.
 -  
   id: 2
   q: What is ICT Accessibility (also known as digital accessibility)?
   a: |
-    Information and Communication Technology (ICT) is considered accessible if individuals with disabilities who are federal employees or members of the public have equal or comparable access and use of information and data compared to those without a recognized disability.
+    information and communication technology (ICT) is considered accessible if individuals with disabilities who are federal employees or members of the public have equal or comparable access and use of information and data compared to those without a recognized disability.
 -  
   id: 3
   q: What is Section 508?

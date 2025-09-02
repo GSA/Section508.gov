@@ -22,7 +22,7 @@ Federal agencies have a simple, cost-effective way to provide foundational acces
 
 ## **Ready-to-Use Section 508 Training Packages**
 
-The Section 508 courses are designed to help federal employees, executives, and acquisition professionals understand the importance of accessible Information and Communication Technology (ICT), the requirements of Section 508 of the Rehabilitation Act, and their role in meeting those obligations.
+The Section 508 courses are designed to help federal employees, executives, and acquisition professionals understand the importance of accessible information and communication technology (ICT), the requirements of Section 508 of the Rehabilitation Act, and their role in meeting those obligations.
 
 Through a memorandum of understanding (MOU), GSA makes the course files available at no cost to other federal agencies, eliminating the time and expense associated with developing in-house training. The courses can be hosted on an agency’s Learning Management System (LMS) and assigned as mandatory or optional training based on agency policy.
 

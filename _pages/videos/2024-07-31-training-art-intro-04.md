@@ -7,7 +7,7 @@ title: 'How Do I Generate a List for Multiple Procurements?'
 created: 2024-07-25
 updated: 2025-01-09
 ---
-This episode demonstrates how to use ART to add and remove multiple items and generate Section 508 requirements for [Information and Communication Technology (ICT)][6] that you want to procure.
+This episode demonstrates how to use ART to add and remove multiple items and generate Section 508 requirements for [information and communication technology (ICT)][6] that you want to procure.
 
 <video controls="controls" poster="{{site.baseurl}}/assets/images/thumbnails/training-art-poster-04.jpg" data-vscid="3qesx4ovd" style="width:100%" class="border-base radius-lg border-0px"><source src="https://assets.section508.gov/assets/videos/art-introduction-04-oc.mp4" type="video/mp4" /></video>
 

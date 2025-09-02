@@ -29,7 +29,7 @@ updated: 2025-03-19
         </div>
       </div>
       <div class="usa-card__body">
-        <p>This course is a basic overview of the Federal acquisition process for procuring Information and Communication Technology (ICT) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC 056)</p>
+        <p>This course is a basic overview of the Federal acquisition process for procuring information and communication technology (ICT) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC 056)</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/procuring-section-508-conformant-ict-products-and-services/index.html" target="_blank" class="usa-button">Open Course</a>&nbsp;<a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-button usa-button--accent-warm">Earn CLPs FAC 056</a>

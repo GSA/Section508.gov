@@ -56,7 +56,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="accessibility-policy">Accessibility Policy</th>
-    <td>Policy for implementing Section 508 or Information and Communication Technology (ICT) accessibility requirements.</td>
+    <td>Policy for implementing Section 508 or information and communication technology (ICT) accessibility requirements.</td>
   </tr>
   <tr>
     <th scope="row" id="accessibility-statement">Accessibility Statement</th>
