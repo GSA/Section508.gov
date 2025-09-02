@@ -26,7 +26,7 @@ The information on this page includes available resources and captioned text fil
 On August 5, 2025, GSA’s Government-wide IT Accessibility Program hosted a community meeting featuring the EPA’s integration of Section 508 requirements into its Authority to Operate (ATO) process. The session shared strategies, templates, and lessons learned for embedding accessibility throughout the system development lifecycle, offering a practical model for agencies to reduce risk and improve compliance.
 
 Downloads:
-* <a href="{{site.baseurl}}/assets/files/EPA-508-ATO-Integration_ITACM-AUG-2025.pptx" target="_blank" class="usa-link--external">EPA's Section 508 & Authority to Operate (ATO) Integration Process - ITACM APR 2025 (PPTX)</a>
+* <a href="{{site.baseurl}}/assets/files/EPA-508-ATO-Integration_ITACM-AUG-2025.pptx" target="_blank" class="usa-link--external">EPA's Section 508 & Authority to Operate (ATO) Integration Process - ITACM AUG 2025 (PPTX)</a>
 
 #### April 22, 2025
 The April meeting included presentations on the Section 508 Assessment and IT Accessibility Key Performance Indicators (KPIs). Designed for the IT Accessibility implementors and management professionals across your agencyattendees learn how to turn reporting into actionable improvements, track progress with meaningful KPIs, and empower your teams to embed accessibility from procurement through delivery.
@@ -86,7 +86,7 @@ The California State University, Northridge (CSUN) hosted the 39th annual CSUN A
 * [Section 508 ICT Testing Baseline Portfolio (PPTX)](https://assets.section508.gov/assets/files/ICT-Baseline-Portfolio-CSUN-2024.pptx) - The Section 508 ICT Testing Baseline Portfolio interprets the 508 Standards and sets minimum requirements of accessibility testing for consistent and reliable test results. Learn about the Baseline for Web and a Baseline for Documents is coming soon!
 * [OpenACR - the Future of Accessibility Conformance Reporting (PPTX)](https://assets.section508.gov/assets/files/Revolutionizing-ACRs-OpenACR-CSUN-2024.pptx) - Unlock the future of digital accessibility conformance reporting with OpenACRs. Dive into the transformative approach of machine-readable reports, explore the innovative OpenACR Editor, and envision a world of continuous accessibility improvements.
 * [Analytical approach to the Government-Wide Annual Assessment (PPTX)](https://assets.section508.gov/assets/files/FY23-Governmentwide-Section-508-Assessment-CSUN-2024.pptx) - GSA and USAB dives into the analytical approach to the Government-wide Section 508 Annual Assessment, including an overview of the report to Congress, discussion of criteria development, data analysis, proof-points, and data-driven recommendations.
-* [Introduction to the Accessibility Requirements Tool (ART) (PPTX)](https://assets.section508.gov/assets/files/Introduction-to-the-Accessibility-Requirements-Tool-(ART)-CSUN-2024.pptx) - Accessibility experts demonstrate how to use the Accessibility Requirements Tool (ART) to generate standardized Section 508 requirements language when procuring Information and Communication Technology (ICT) products and services.
+* [Introduction to the Accessibility Requirements Tool (ART) (PPTX)](https://assets.section508.gov/assets/files/Introduction-to-the-Accessibility-Requirements-Tool-(ART)-CSUN-2024.pptx) - Accessibility experts demonstrate how to use the Accessibility Requirements Tool (ART) to generate standardized Section 508 requirements language when procuring information and communication technology (ICT) products and services.
 
 ---
 ## 2023
@@ -124,7 +124,7 @@ Continuing our theme, “Be The Change In Accessibility” focuses on “Be The 
 
 ---
 #### June 14, 2022 
-Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring Information and Communication Technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
+Continuing our theme, “Be The Change In Accessibility” focuses on “Be The Change In Accessibility: Acquisition” where our speakers discussed the federal acquisition processes for procuring information and communication technology (ICT) and how these processes provide key opportunities to ensure accessible technology is being purchased.
 
 * [Accessibility through the Acquisition Lifecycle - ITACM JUN 2022 (PPT)](https://assets.section508.gov/assets/files/Accessibility%20through%20the%20Acquisition%20Lifecycle%20%28ITACM%20JUN%202022%29.pptx)
 * [Demystifying Section 508 IT Accessibility - ITACM JUN 2022 (PPT)](https://assets.section508.gov/assets/files/Demystifying%20Section%20508%20IT%20Accessibility%20%28ITACM%20JUN%202022%29.pptx)

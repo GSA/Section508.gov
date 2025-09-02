@@ -28,7 +28,7 @@ created: 2025-08-18
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 
 ---
-Federal hardware Information and Communication Technology (ICT) refers to physical technology products such as computers, mobile devices, and peripheral equipment, information kiosks and transaction machines, telecommunications equipment, customer premises equipment such as servers, and multifunction office machines such as printers. Section 508 of the Rehabilitation Act requires hardware ICT be usable by people with disabilities including features like tactile controls, adjustable displays, accessible ports, and compatibility with assistive technologies. <a href="https://www.access-board.gov/ict/#chapter-4-hardware" target="_blank" class="usa-link--external"> Chapter 4: Hardware</a> applies if the ICT is a tangible device or if it has a physical component.
+Federal hardware information and communication technology (ICT) refers to physical technology products such as computers, mobile devices, and peripheral equipment, information kiosks and transaction machines, telecommunications equipment, customer premises equipment such as servers, and multifunction office machines such as printers. Section 508 of the Rehabilitation Act requires hardware ICT be usable by people with disabilities including features like tactile controls, adjustable displays, accessible ports, and compatibility with assistive technologies. <a href="https://www.access-board.gov/ict/#chapter-4-hardware" target="_blank" class="usa-link--external"> Chapter 4: Hardware</a> applies if the ICT is a tangible device or if it has a physical component.
 
 ## Definitions
 

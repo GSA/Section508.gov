@@ -32,7 +32,7 @@ created: 2025-08-07
 updated: #Add/update date stamp for each review/update
 exclude-changelog: 
 ---
-In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and Information and Communication Technology (ICT) accessible.
+In this resource, you will learn about the importance of color usage in accessibility, and you will learn the tools and techniques you can use to make the colors in your content and information and communication technology (ICT) accessible.
 
 ## Why is Color Accessibility Important?
 Color accessibility means making sure that someone does not need to perceive color in order to understand your information and use your technology, and that the colors you use have a level of color contrast that will allow users to easily discern and read all text and other content.

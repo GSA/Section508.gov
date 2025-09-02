@@ -29,7 +29,7 @@ updated: 2025-03-19
         </div>
       </div>
       <div class="usa-card__body">
-        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your Information and Communication Technology (ICT) products and services are accessible to people with disabilities.</p>
+        <p>This course is designed to help you gain awareness of Section 508 and understand your agency's responsibilities in ensuring that your information and communication technology (ICT) products and services are accessible to people with disabilities.</p>
       </div>
       <div class="usa-card__footer">
         <a href="{{site.baseurl}}/assets/online-training/accessibility-of-ict-for-government-executives/index.html" target="_blank" class="usa-button">Open Course</a>

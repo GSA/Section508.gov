@@ -18,7 +18,7 @@ format: "HTML (html)"
 ---
 
 ## Purpose
-This guide focuses on Accessibility in procurement. Contracting Officers (COs)/Contract Specialists (CSs) play an integral role in the Information and Communication Technology (ICT) lifecycle. Including them early on in the process will ensure optimal results in ensuring products are fully accessible. The procurement process is very dynamic and can be very overwhelming. 
+This guide focuses on Accessibility in procurement. Contracting Officers (COs)/Contract Specialists (CSs) play an integral role in the information and communication technology (ICT) lifecycle. Including them early on in the process will ensure optimal results in ensuring products are fully accessible. The procurement process is very dynamic and can be very overwhelming. 
 
 The purpose of this guide is to align acquisition professionals within Technology Transformation Services (TTS) with its process and mission; provide a user-friendly approach to incorporating accessibility into the lifecycle of ICT projects; and provide a tool to support the integration of procurement personnel throughout the process. This guide follows agile principles and should be iterated on, as needed. It can be applied to any part of the General Services Administration (GSA) and other federal agencies.
 

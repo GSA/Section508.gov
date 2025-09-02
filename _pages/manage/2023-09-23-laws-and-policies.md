@@ -27,7 +27,7 @@ This guide highlights laws, policies and other regulations requiring federal age
 
 In 1998, Congress amended the Rehabilitation Act of 1973 to require federal agencies to make their electronic and information technology (EIT) accessible to people with disabilities. The law <a href="{{site.baseurl}}/manage/laws-and-policies/section-508-law/">29 U.S.C &sect; 794d</a> applies to all federal agencies when they develop, procure, maintain, or use electronic and information technology. Under Section 508, agencies must give disabled employees and members of the public access to information comparable to the access available to others.
 
-The <a href="https://www.access-board.gov/" target="_blank" class="usa-link--external">U.S. Access Board</a> is responsible for developing Information and Communication Technology (ICT) accessibility standards to incorporate into regulations that govern federal procurement practices. On January 18, 2017, the Access Board issued a final rule that updated accessibility requirements covered by Section 508 and refreshed guidelines for telecommunications equipment subject to Section 255 of the Communications Act. The final rule went into effect on January 18, 2018.
+The <a href="https://www.access-board.gov/" target="_blank" class="usa-link--external">U.S. Access Board</a> is responsible for developing information and communication technology (ICT) accessibility standards to incorporate into regulations that govern federal procurement practices. On January 18, 2017, the Access Board issued a final rule that updated accessibility requirements covered by Section 508 and refreshed guidelines for telecommunications equipment subject to Section 255 of the Communications Act. The final rule went into effect on January 18, 2018.
 
 The rule updated and reorganized the Section 508 Standards and Section 255 Guidelines in response to market trends and innovations in technology. The refresh also harmonized these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission, and with the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG 2.0), a globally recognized voluntary consensus standard for web content and ICT.
 
@@ -122,7 +122,7 @@ Agencies should periodically review and update their Sections 508, 501, and 504 
 
 Your agency’s policies should include that your agency is obligated to:
 
-  * Make Information and Communication Technology (ICT) accessible to people with disabilities.
+  * Make information and communication technology (ICT) accessible to people with disabilities.
   * Accommodate the needs of employees and program participants, while meeting the Revised Section 508 requirements.
 
 Learn how to maintain your agency’s policies through the links below:

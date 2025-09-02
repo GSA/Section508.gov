@@ -21,7 +21,7 @@ The transition from the Original 508 Standards to the Revised 508 Standards is a
 
 Your accessibility policies should explain that your agency is obligated to:
 
-  1. Make Information and Communication Technology (ICT) accessible to people with disabilities; and
+  1. Make information and communication technology (ICT) accessible to people with disabilities; and
   2. Accommodate the needs of employees and program participants, while meeting the Revised 508 requirements.
 
 These policies should acknowledge that failing to meet these obligations could result in unlawful discrimination against people with disabilities, and put the agency at risk.
@@ -59,11 +59,11 @@ Agencies should update either the Scope or Roles and Responsibilities section of
 
 Recommended language for Scope section:
 
-(XX Agency) will identify the needs of users with disabilities when it procures, develops, maintains, or uses Information and Communication Technology (ICT). This will include a determination of how users with disabilities will perform the functions supported by the ICT and how the ICT will be developed, installed, configured, and maintained to support users with disabilities.
+(XX Agency) will identify the needs of users with disabilities when it procures, develops, maintains, or uses information and communication technology (ICT). This will include a determination of how users with disabilities will perform the functions supported by the ICT and how the ICT will be developed, installed, configured, and maintained to support users with disabilities.
 
 Recommended language for Roles and Responsibilities section:
 
-The Chief Information Officer will ensure that the needs of users with disabilities are identified when XX Agency procures, develops, maintains, or uses Information and Communication Technology (ICT). This will include a determination of how users with disabilities will perform the functions supported by the ICT and how the ICT will be developed, installed, configured, and maintained to support users with disabilities.
+The Chief Information Officer will ensure that the needs of users with disabilities are identified when XX Agency procures, develops, maintains, or uses information and communication technology (ICT). This will include a determination of how users with disabilities will perform the functions supported by the ICT and how the ICT will be developed, installed, configured, and maintained to support users with disabilities.
 
 [back to top][11]
 
@@ -333,7 +333,7 @@ Section 508 is just one part of the Rehabilitation Act of 1973, as amended, and 
 
 Sections 501, 504, and 508 are separate laws with different goals. They are complimentary and sometimes more than one will apply to a particular situation. Together they ensure non-discrimination on the basis of disability in programs conducted by Federal agencies, in programs receiving Federal financial assistance, in Federal employment, and in the employment practices of Federal contractors.
 
-Compliance with one Section does not ensure compliance with the other Sections. For example, if Information and Communication Technology (ICT) qualifies for one of the exceptions in the Revised Section 508 Standards, agencies still have obligations to not discriminate under Section 501 or 504. Conversely, if an agency provides its employees or members of the public accommodations to meet their unique individual disability-related needs, doing so does not remove the obligation under Section 508 to make ICT compliant with the Revised 508 Standards. Most agencies appropriately manage each of these sections through different departments or business areas (e.g., Human Resources may manage Section 501 and 504, while the CIO manages Section 508). Because these legal obligations are so interrelated, you should look upon issuance of the Revised 508 Standards as an opportunity to develop better communications and cooperation between these interrelated agency functions.
+Compliance with one Section does not ensure compliance with the other Sections. For example, if information and communication technology (ICT) qualifies for one of the exceptions in the Revised Section 508 Standards, agencies still have obligations to not discriminate under Section 501 or 504. Conversely, if an agency provides its employees or members of the public accommodations to meet their unique individual disability-related needs, doing so does not remove the obligation under Section 508 to make ICT compliant with the Revised 508 Standards. Most agencies appropriately manage each of these sections through different departments or business areas (e.g., Human Resources may manage Section 501 and 504, while the CIO manages Section 508). Because these legal obligations are so interrelated, you should look upon issuance of the Revised 508 Standards as an opportunity to develop better communications and cooperation between these interrelated agency functions.
 
 Increasingly Section 501 and 504 complaints and lawsuits focus on barriers to technology experienced by members of the public or employees with disabilities. The end result often is that the agency must develop a more robust Section 508 program to address the immediate concern and minimize future risk.
 

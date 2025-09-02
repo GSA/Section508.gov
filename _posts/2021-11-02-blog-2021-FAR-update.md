@@ -5,7 +5,7 @@ type: article
 title: 'FAR Updated to Add Revised Section 508 Standards for Information and Communication Technology'
 created: November 10, 2021
 tags: Policy-and-Management
-description: On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for Information and Communication Technology (ICT). Read more about the final FAR rule update and changes effective as of September 10, 2021.
+description: On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for information and communication technology (ICT). Read more about the final FAR rule update and changes effective as of September 10, 2021.
 topic: "Policy (policy)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -14,7 +14,7 @@ audience:
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 ---
-On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for Information and Communication Technology (ICT). The final rule went into effect on January 18, 2018.
+On January 18, 2017, the U.S. Access Board issued a final rule (the “Revised 508 Standards”) that updated accessibility requirements covered by Section 508 for information and communication technology (ICT). The final rule went into effect on January 18, 2018.
 
 The Access Board rule updated and reorganized the Section 508 Standards (as well as the Section 255 Guidelines) in response to market trends and innovations in technology. The “refresh” also harmonized these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission and the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG 2.0), a globally recognized voluntary consensus standard for digital content.
 

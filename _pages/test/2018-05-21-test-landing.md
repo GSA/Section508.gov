@@ -143,7 +143,7 @@ An overview of testing methods and the tools to test websites, software, and ele
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Baseline tests of Information and Communication Technology (ICT) attempt to reduce ambiguity, increase consistency of results, and emphasize methods and techniques to reliably meet federal accessibility requirements.</p>
+        <p>Baseline tests of information and communication technology (ICT) attempt to reduce ambiguity, increase consistency of results, and emphasize methods and techniques to reliably meet federal accessibility requirements.</p>
       </div>
     </div>
   </li>

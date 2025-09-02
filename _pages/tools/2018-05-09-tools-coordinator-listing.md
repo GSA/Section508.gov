@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-08-13
+updated: 2025-09-02
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -198,8 +198,8 @@ Michelle I. Kilic - <michelle.i.kilic.civ@mail.mil>
 Fariba Beg - <fariba.beg.civ@mail.mil>  
 Corey Soesbee (Deputy) - <corey.j.soesbee.civ@mail.mil>  
 ### Defense Intelligence Agency (DIA)
-Vanessa Hill - <vanessa.hill2@dodiis.mil>   
-Terrence L. Ward – <terrence.ward@dodiis.mil>  
+Darnyse Werts-Owens – <Darnyse.Werts-Owens@dodiis.mil>  
+Add Pamela Fitzgerald (Deputy) – <Pamela.Fitzgerald2@dodiis.mil>  
 DIA IT Accessibility Program Office - <it_accessibility@dodiis.mil>  
 ### Defense Logistics Agency (DLA)
 Antonio Boston - <antonio.boston@dla.mil>  
@@ -271,11 +271,11 @@ Sandra Logan - <doesection508coordinator@hq.doe.gov>
 ---
 ## <span id="usdohhs" ></span>Department of Health and Human Services (HHS)
 ### Agencywide
-
+HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Administration for Children and Families (ACF)
 Janean Chambers - <jchambers@acf.hhs.gov>
 ### Administration for Community Living (ACL)
-Steven Verber - <accessibility@acl.hhs.gov>  
+ACL Helpdesk - <accessibility@acl.hhs.gov>  
 ### Agency for Healthcare Research and Quality (AHRQ)
 Tim Erny - <ahrqsection508@ahrq.hhs.gov>  
 ### Centers For Disease Control and Prevention (CDC)
@@ -286,7 +286,7 @@ Stacey Holden (Deputy) - <stacey.holden@cms.hhs.gov>
 ### Food and Drug Administration (FDA)
 Heather Chafin - <heather.chafin@fda.hhs.gov>  
 ### Health Resources and Services Administration (HRSA)
-Lauren Taylor - <ltaylor1@hrsa.gov>  
+Long Pham - <lpham@hrsa.gov>  
 ### Indian Health Service (IHS)
 Kevin Fulbright - <kevin.fulbright@ihs.gov>  
 ### National Institutes of Health (NIH)
@@ -325,7 +325,7 @@ Jason Hitchcock (Deputy) - <jason.hitchcock@nih.gov>
   * **Office of the Director (OD)** <br>Christina Simmons - <simmonsc@od.nih.gov>  
 
 ### Office of the Secretary Division
-Cammie Truesdell - <cammie.truesdell@hhs.gov>
+HHS Helpdesk - <508helpdesk@hhs.gov>  
 ### Substance Abuse and Mental Health Services Administration (SAMHSA)
 Alex Karakcheyev - <olexiy.karakcheyev@samhsa.hhs.gov>  
 
@@ -945,7 +945,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: July 2025
+**Reviewed/Updated**: September 2025
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"
