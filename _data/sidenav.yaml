@@ -8,8 +8,12 @@ manage:
   - name: Governance
     url: '#'
     children:
+      - name: Enterprise Architecture and Change Control Review Guidelines for Project Teams
+        url: manage/governance/enterprise-architecture-and-change-control/
       - name: Integrating Section 508 into Capital Planning and Investment Control
         url: manage/governance/integrating-section-508-into-cpic/
+      - name: Section 508 Considerations for Change Control Processes
+        url: manage/governance/section-508-for-change-control-processes
   - name: IT Accessibility Policy Framework
     url: '#'
     children:
