@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: Section 508 Considerations for Change Control Processes
-permalink: manage/governance/section-508-for-change-control-processes
+permalink: manage/governance/section-508-for-change-control-processes/
 description: Learn how to integrate Section 508 into each stage of the ICT change control process to ensure Section 508 compliance.
 disclaimer: 
 contributors: dhs
@@ -48,7 +48,7 @@ ICT accessibility considerations throughout each stage of the change control pro
 <strong>Process</strong>: CCB reviews the change request and impact analysis, makes a determination to approve, reject, or defer the change or request additional information, and changes are prioritized. <br> <br>
 <strong>Section 508 consideration</strong>: Include a Section 508 SME on the CCB to ensure ICT accessibility is considered in the approval process. The Section 508 SME provides authoritative input to the CCB; if unresolved issues are identified, the CCB should require remediation or <a href="{{site.baseurl}}/blog/Accessibility-risk-management-and-model/">document risks</a> in the approval record.</li> 
 <li class="usa-process-list__item">
-    <h2 class="usa-process-list__heading">Planning and Scheduling</h2>  
+    <h2 class="usa-process-list__headinsg">Planning and Scheduling</h2>  
 <strong>Process</strong>: Design technical implementation of the change, create a comprehensive test and implementation plan, and allocate resources. <br>
 <br>
 <strong>Section 508 consideration</strong>: Ensure Section 508 conformance testing is explicitly included in the test plan. Testing should include both automated and manual methods consistent in alignment with the <a href="{{site.baseurl}}/test/ict-testing-baseline-portfolio/">ICT Accessibility Testing Baselines</a> such as the <a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program\">Trusted Tester process</a>, and should be documented in alignment with “<a href="s{{site.baseurl}}/test/elements-of-an-accessibility-test-report/">Essential Elements of an Accessibility Test Report</a>.”</li>  

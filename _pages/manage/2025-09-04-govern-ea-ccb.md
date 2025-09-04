@@ -79,8 +79,8 @@ For all listed conditions, evidence of accessibility conformance such as test re
 * [Essential Elements of an Accessibility Test Report]({{site.baseurl}}/test/elements-of-an-accessibility-test-report/)  
 * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">OMB Memorandum M-24-08: Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a>
 * [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
-* [Section 508 Considerations for Change Control Processes]({{site.baseurl}}/manage/governance/section-508-for-change-control-processes) 
-* [Technology Accessibility Playbook \- Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/)  
+* [Section 508 Considerations for Change Control Processes]({{site.baseurl}}/manage/governance/section-508-for-change-control-processes/) 
+* [Technology Accessibility Playbook \- Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/)  s
 * [Understanding Vendor Claims in Accessibility Conformance Reports for Section 508 Conformance]({{site.baseurl}}/buy/understand-claims/)   
 
 
