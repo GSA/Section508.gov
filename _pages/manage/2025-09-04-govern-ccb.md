@@ -75,7 +75,7 @@ ICT accessibility considerations throughout each stage of the change control pro
 
 * [Enterprise Architecture and Change Control Review Guidelines for Project Teams]({{site.baseurl}}/manage/governance/enterprise-architecture-and-change-control/)
 * [Essential Elements of an Accessibility Test Report]({{site.baseurl}}/test/elements-of-an-accessibility-test-report/)  
-* <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf" target="_blank" class="usa-link--external">NIST SP 800-53 Rev. 5</a>, SA-11 (Developer Testing and Evaluation), RA-5 (Vulnerability Monitoring), SI-2 (Flaw Remediation)
+* <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf" target="_blank" class="usa-link--external">NIST SP 800-53 Rev. 5 (PDF)</a>, SA-11 (Developer Testing and Evaluation), RA-5 (Vulnerability Monitoring), SI-2 (Flaw Remediation)
 * <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/" target="_blank" class="usa-link--external">OMB Memorandum M-24-08: Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act</a> 
 * [Overview of Testing Methods for 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
 * [Technology Accessibility Playbook \- Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/)  
