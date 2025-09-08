@@ -1621,3 +1621,31 @@ div[role=rowheader] {
   display: inline-block; 
   margin-left: 48px;
 }
+
+/* Resource Cards for Playbook resources, styled after USWDS Card */
+ .itad-card-group {border-top: .25rem solid #162e51;
+  border-bottom: 1px solid #dfe1e2;
+  border-left: 1px solid #dfe1e2;
+  border-right: 1px solid #dfe1e2;
+  border-radius: .5rem;
+  display: flex; 
+  width: 100%;
+}
+.itad-card__media {
+  flex: 0 0 100px;  
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.itad-card__media img {
+  width: 65px; 
+  height: 65px;
+  object-fit: cover;
+}
+
+.itad-card__body {
+  flex: 1; 
+  padding-left: 1rem; 
+  padding-right: 1rem;
+}
