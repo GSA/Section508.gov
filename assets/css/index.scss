@@ -1649,3 +1649,15 @@ div[role=rowheader] {
   padding-left: 1rem; 
   padding-right: 1rem;
 }
+
+.itad-list--sm-indent {
+  list-style: disc;     /* keeps bullets */
+  margin-left: 0;       /* removes default margin */
+  padding-left: 0;      /* removes default padding */
+}
+
+.itad-list--sm-indent {
+  list-style: disc;     /* keeps bullets */
+  margin-left: 1.2rem;       /* removes default margin */
+  padding-left: 0;      /* removes default padding */
+}
