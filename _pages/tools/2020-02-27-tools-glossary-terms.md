@@ -22,7 +22,7 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 - glossary/
 created: 2020-02-27
-updated: 2025-06-23
+updated: 2025-09-09
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -420,6 +420,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>All forms of digital data and its encoding, covering both public and internal information as defined by <a href="https://www.access-board.gov/ict/#E205-content" target="_blank" class="usa-link--external">E205 of the Section 508 Standards</a>.</td>
   </tr>
   <tr>
+    <th scope="row" id="enterprise-architecture-review-board">Enterprise Architecture Review Board (EARB)</th>
+    <td> A team that reviews proposed IT projects to make sure they fit with the organization’s overall technology plans and standards. They help ensure systems work well together, stay secure, and support organizational goals.</td>
+  </tr>
+  <tr>
     <th scope="row" id="exceptions">Exceptions</th>
     <td>See <a href="#general-exceptions">General Exceptions</a></td>
   </tr>
@@ -626,6 +630,10 @@ These terms appear throughout our website, communications, and reports, includin
       </ol>
     </td>
   </tr>
+  <tr>
+    <th scope="row" id="institutional-review-board">Institutional Review Board (IRB)</th>
+    <td>A group that reviews research involving people to make sure it’s safe, ethical, and follows the rules. They check that participants’ rights are protected before the research starts.</td>
+    </tr>
   <tr>
     <th scope="row" id="interactive-element">Interactive element</th>
     <td>Application content that a user may modify, activate, or use to input data.</td>
@@ -1295,4 +1303,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** June 2025
+**Reviewed/Updated:** September 2025

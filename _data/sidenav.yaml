@@ -10,8 +10,12 @@ manage:
     children:
       - name: Enterprise Architecture and Change Control Review Guidelines for Project Teams
         url: manage/governance/enterprise-architecture-and-change-control/
+      - name: Integrating Section 508 Data into Asset Management and GRC Tools
+        url: manage/governance/section-508-into-asset-management-and-grc-tools/
       - name: Integrating Section 508 into Capital Planning and Investment Control
         url: manage/governance/integrating-section-508-into-cpic/
+      - name: Section 508 Considerations for Enterprise Architecture Integration
+        url: manage/governance/integrating-section-508-into-enterprise-architecture/
       - name: Section 508 Considerations for Change Control Processes
         url: manage/governance/section-508-for-change-control-processes/
   - name: IT Accessibility Policy Framework
@@ -452,6 +456,19 @@ develop:
             url: develop/web-content/
           - name: Publishing to the Web
             url: develop/publish-to-web/
+  - name: Product Lifecycle
+    url: '#'
+    children:
+      - name: ICT Product Lifecycle Overview
+        url: develop/product-lifecycle-overview/
+      - name: Agile Roles Section 508 Task Matrix
+        url: develop/agile-roles-section-508-task-matrix/
+      - name: Business Analyst Section 508 Task Matrix
+        url: develop/ba-section-508-task-matrix/
+      - name: RACI Matrix for ICT Accessibility Integration Across the Product Lifecycle 
+        url: develop/raci-matrix-for-ict-accessibility-product-lifecycle/
+      - name: RACI Matrix for Section 508 Accessibility Integration in the Software Development Lifecycle 
+        url: develop/raci-matrix-for-section-508-in-sdlc/
 test:
   - name: Testing
     url: 'test/'
