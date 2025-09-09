@@ -174,7 +174,7 @@ The following process outlines the product lifecycle stages and hows to integrat
 * [RACI Matrix for ICT Accessibility Integration Across the Product Lifecycle]({{site.baseurl}}/develop/raci-matrix-for-ict-accessibility-product-lifecycle/)
 * [RACI Matrix for Section 508 Accessibility Integration in the Software Development Lifecycle]({{site.baseurl}}/develop/raci-matrix-for-section-508-in-sdlc/)
 * [Section 508 Compliance Checklist for the Product Lifecycle (DOCX)]({{site.baseurl}}/assets/files/section-508-compliance-checklist-for-the-product-lifecycle.docx)
-* [Section 508 COnsiderations for Enterprise Architecture Integration]({site.baseurl}}/manage/governance/integrating-section-508-into-enterprise-architecture/)  
+* [Section 508 Considerations for Enterprise Architecture Integration]({{site.baseurl}}/manage/governance/integrating-section-508-into-enterprise-architecture/)  
 * [Technology Accessibility Playbook:]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/)  
   * [Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/)  
   * [Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/)  
