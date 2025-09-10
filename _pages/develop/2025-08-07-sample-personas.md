@@ -5,7 +5,7 @@ permalink: develop/sample-personas/
 type: develop
 title: "Sample Personas for Users With Disabilities"
 description: Sample personas for users with disabilities to use in the research and design phase to improve Section 508 conformance and the overall end-user experience of a service, product, or website.
-created: 2025-08-07
+created: 2025-09-10
 contributors: dhs
 topic: "design"
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
@@ -167,10 +167,7 @@ Developing a persona is much like creating a character for a book. Name them, de
   <li class="usa-card flex-1">
     <div class="usa-card__container thumbnail-card">
       <div class="usa-card__body">
-          <img
-            src="https://github.com/GSA/Section508.gov/blob/dcec018018c61b460c7399b07964070b5d77a60c/assets/images/enzo-persona..jpg"
-            alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench."
-            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
+          <img src="{{site.baseurl}}/assets/images/enzo-persona..jpg" alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench." style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
       </div>
       <div class="usa-card__body">
