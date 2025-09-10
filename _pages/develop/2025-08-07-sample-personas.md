@@ -78,7 +78,7 @@ To develop effective personas that reflect people with disabilities:
   <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Start With Real User Research</h3>
     <p class="margin-top-05">
-Qualitative and quantitative research are useful in creating user personas. They help to understand groupings within a user base. Qualitative research can be used to create clusters or groupings of characteristics. Quantitative surveys can then be used to test groupings to see if the clusters behave similarly or need to be re-grouped. More about conducting User Research can be found in <a href="https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/play07/">Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a>.</p></li>
+Qualitative and quantitative research are useful in creating user personas. They help to understand groupings within a user base. Qualitative research can be used to create clusters or groupings of characteristics. Quantitative surveys can then be used to test groupings to see if the clusters behave similarly or need to be re-grouped. More about conducting User Research can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a>.</p></li>
 
 <li class="usa-process-list__item">
     <h3 class="usa-process-list__heading">Include Functional Attributes</h3>
@@ -168,7 +168,7 @@ Developing a persona is much like creating a character for a book. Name them, de
     <div class="usa-card__container thumbnail-card">
       <div class="usa-card__body">
           <img
-            src="{{site.baseurl}}/assets/images/enzo-persona..jpg"
+            src="https://github.com/GSA/Section508.gov/blob/dcec018018c61b460c7399b07964070b5d77a60c/assets/images/enzo-persona..jpg"
             alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench."
             style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
@@ -626,9 +626,9 @@ Developing a persona is much like creating a character for a book. Name them, de
 
 ## Related Resources
 
-* [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/play07/)  
-* [Universal Design & Development](https://www.section508.gov/develop/universal-design/)  
-* [Design and Develop](https://www.section508.gov/develop/)  
+* [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/)  
+* [Universal Design & Development]({{site.baseurl}}/develop/universal-design/)  
+* [Design and Develop]({{site.baseurl}}/develop/)  
 * <a href="https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs/" target="_blank" class="usa-link--external">Digital.gov Personas: learn how to discover your audience, understand them, and pivot to address their needs</a>
 
-<strong>Reviewed/Updated:</strong> August 2025
+<strong>Reviewed/Updated:</strong> September 2025
