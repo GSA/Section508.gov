@@ -4,6 +4,7 @@ sidenav: true
 permalink: manage/roles/
 type: manage
 title: 'Roles and Responsibilities'
+description: Explore the clearly defined roles and responsibilities—from agency officials to content creators and program managers—that federal agencies must follow to effectively govern and ensure compliance with Section 508 accessibility requirements.
 created:
 updated: 2025-09-09
 topic: Manage (program)
