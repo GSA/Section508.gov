@@ -43,7 +43,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
     <tr>
       <th scope="row">Elicit stakeholder needs</th>
       <td>Ensure accessibility requirements are comprehensive and align to Section 508 Standards. Engage users with disabilities early in discovery workshops, persona development, and interviews, not only during validation.</td>
-      <td>User Needs and <a href="{{site.baseurl}}/develop/personas">Personas</a></td>
+      <td>User Needs and <a href="{{site.baseurl}}/develop/sample-personas/">Personas</a></td>
       <td>Include users with disabilities such as screen reader users and keyboard-only users</td>
       <td>Plan, Gather requirements</td>
       <td>Stakeholder interviews, accessibility personas</td>
