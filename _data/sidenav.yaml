@@ -434,6 +434,8 @@ develop:
         url: design/digital-content-users-with-cognitive-disabilities/
       - name: Mapping of WCAG 2.0 to Functional Performance Criteria
         url: develop/mapping-wcag-to-fpc/
+      - name: Sample Personas for Users With Disabilities
+        url: develop/sample-personas/
   - name: Develop
     url: '#'
     children:
