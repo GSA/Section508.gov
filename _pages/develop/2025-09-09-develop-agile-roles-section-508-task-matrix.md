@@ -46,9 +46,9 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
       <td>Prioritize accessibility stories</td>
       <td>Facilitate discussion to ensure accessibility items are visible</td>
       <td>Ensure visibility into accessibility tasks</td>
-      <td>Epics, <a href="{{site.baseurl}}/develop/personas">User Personas</a></td>
+      <td>Epics, <a href="{{site.baseurl}}/develop/sample-personas/">User Personas</a></td>
       <td>Add personas with disabilities</td>
-      <td>Story maps, <a href="{{site.baseurl}}/develop/personas">Persona templates</a></td>
+      <td>Story maps, <a href="{{site.baseurl}}/develop/sample-personas/">Persona templates</a></td>
     </tr>
     <tr>
       <th scope="row">User Story Writing</th>
