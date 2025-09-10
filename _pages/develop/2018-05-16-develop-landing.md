@@ -36,6 +36,7 @@ Learn how to design and develop digital products and services for your agency th
         <ul class="add-list-reset">
           <li><a href="{{site.baseurl}}/test/conformance-of-prototypes-and-pilots/">Conformance of ICT Prototypes and Pilots</a></li>
           <li><a href="{{site.baseurl}}/design/digital-content-users-with-cognitive-disabilities">Designing Digital Content For Users With Cognitive Disabilities</a></li>
+          <li><a href="{{site.baseurl}}/develop/sample-personas/">Sample Personas for Users With Disabilities</a></li>
           <li><a href="{{site.baseurl}}/develop/fonts-typography/">Understanding Accessible Fonts and Typography for Section 508 Compliance</a></li>
           <li><a href="{{site.baseurl}}/develop/mapping-wcag-to-fpc/">Mapping of WCAG 2.0 to Functional Performance Criteria</a></li>
         </ul>
