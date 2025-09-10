@@ -61,21 +61,15 @@ format: "HTML (html)"
  }
 </style>
 
-
 Personas are semi-fictional characters that portray a group of users within a user base. With respect to digital accessibility, personas are primarily used in the research and design project phase to improve Section 508 conformance and the overall end-user experience of a service, product, or website. Developing multiple and diverse personas helps identify the varying needs and expectations of different user types by understanding how individuals utilize assistive technologies or interact with content. This provides valuable insights into multiple user needs for development teams. Without personas that include users with disabilities, digital products and services risk overlooking barriers that impact users with disabilities. Including these personas during the planning and design phases ensures ICT accessibility is addressed proactively, not reactively—saving time and money.
-
 
 To enhance Section 508 conformance, two different types of user personas may be developed:  those representing individuals with disabilities and those without disabilities who still benefit from ICT accessibility features and functions.
 
-
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p>Personas provide the “who and why” behind Section 508 conformance and are used primarily in the research and design phases and in brainstorming design solutions for a specific user group.</p></div>
-
 
 ## How to Develop Personas
 
-
 To develop effective personas that reflect people with disabilities:
-
 
 1. **Start with real user research:** Interview users with disabilities or draw insights from accessibility studies, usability testing, or disability advocacy organizations. 
 2. **Include functional attributes:** Describe how the person interacts with technology such as screen reader use, speech recognition, or keyboard navigation instead of only focusing on the medical diagnoses. 
@@ -175,7 +169,6 @@ Developing a persona is much like creating a character for a book. Name them, de
 
 ## Example Personas
 
-
 <div class="usa-accordion usa-accordion--bordered usa-accordion--multiselectable" data-allow-multiple >
  <h3 class="usa-accordion__heading">
    <button
@@ -189,7 +182,7 @@ Developing a persona is much like creating a character for a book. Name them, de
  <li class="usa-card flex-1">
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
-         <img src="{{site.baseurl}}/assets/images/enzo-persona.jpg" alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench." style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
+         <img src="{{site.baseurl}}/assets/images/persona-enzo.jpg" alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench." style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
      </div>
      <div class="usa-card__body">
@@ -209,9 +202,9 @@ Developing a persona is much like creating a character for a book. Name them, de
 <li>Ensure semantic HTML and ARIA labels for form fields.</li> 
 <li>Provide Section 508 conformant data visualizations with text equivalents.</li> 
 <li>Support keyboard and screen reader navigation.</li></ul>
-</p></div></div></li></ul></div>
-<br>
-
+</p></div></div>
+</li></ul></div>
+<hr class="breaker-bar-green margin-top-2 margin-bottom-2">
 
 <h3 class="usa-accordion__heading">
    <button
@@ -226,7 +219,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/john-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-john.jpg"
            alt="An older white male sitting on a couch, wearing dark sunglasses and  holding a white cane in front of him. He is wearing kakhi pants and a green sweater with a collared shirt underneath."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -269,7 +262,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/anna-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-anna.jpg"
            alt="A middle aged white woman with red hair and brown eyes smiling."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -311,7 +304,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/cole-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-cole.jpg"
            alt="A young white male with a start of a brown beard smiling. He has brown hair and is wearing a red polo shirt."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -352,7 +345,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/amy-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-amy.jpg"
            alt="A middle aged woman in an office wearing a black and white striped blazer. She has short wavy brown hair and is smiling."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -395,7 +388,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/apollo-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-apollo.jpg"
            alt="An older white man with white hair. He is wearing a pale yellow sweatshirt with a white collar shirt underneath and has a small diamond stud earring in his left ear."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -443,7 +436,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/alma-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-alma.jpg"
            alt="A younger middle aged woman with short black hair in a bob cut. She is wearing a white chunky sweater and big gold necklace."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -488,7 +481,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/kai-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-kai.jpg"
            alt="An african american husband smiling and hugging his wife. He is wearing a black beanie and a green sweatshirt. He and his wife are posing outside of their home."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -541,7 +534,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/tina-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-tina.jpg"
            alt="A younger middle aged woman with short read and white hair. She is wearing a blue ruffled shirt and is sitting in a wheelchair with neck support while looking at a tablet on the desk in front of her."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -592,7 +585,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/sam-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-sam.jpg"
            alt="A white male with a serious look on his face standing outside of a building. He is wearing black framed glasses and a suit jacket with a white collared shirt."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
@@ -635,7 +628,7 @@ Developing a persona is much like creating a character for a book. Name them, de
    <div class="usa-card__container thumbnail-card">
      <div class="usa-card__body">
          <img
-           src="{{site.baseurl}}/assets/images/miguel-persona.jpg"
+           src="{{site.baseurl}}/assets/images/persona-miguel.jpg"
            alt="A latino male sitting in an office chair laughing while looking at printed documents in his hand. He is wearing a white collared shirt with a black tie."
            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
          />
