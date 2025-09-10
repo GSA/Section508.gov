@@ -1134,6 +1134,11 @@ These terms appear throughout our website, communications, and reports, includin
     <td>The name of a category of data in a <a href="#data-table">data table</a> row or column. In a<a href="#simple-data-table"> simple data table</a>, column headers are provided in the first row and apply to the data cells in their respective columns. Similarly, row headers are provided in the first column and apply to the data cells in their respective rows. In a<a href="#complex-data-table"> complex data table</a>, a column header may be defined in any row, and may apply to multiple columns or to a few cells in a column, and a row header may be defined in any column, and may apply to multiple rows or to a few cells in a row.</td>
   </tr>
   <tr>
+    <th scope="row" id="tep">Technical Evaluation Panel (TEP)</th>
+    <td>A group of subject matter experts assembled during the federal acquisition process to review, assess, and score proposals submitted in response to a solicitation. In the context of Section 508, the TEP evaluates whether proposed Information and Communication Technology (ICT) solutions meet applicable accessibility standards and requirements, ensuring that vendors’ products or services comply with Section 508 accessibility regulations before contract award.
+    </td>
+  </tr>
+  <tr>
     <th scope="row" id="trs">Telecommunications Relay Services (TRS)</th>
     <td><a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities.</td>
   </tr>
