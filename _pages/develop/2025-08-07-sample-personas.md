@@ -17,6 +17,46 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 ---
+<style>
+  /* Flex container for horizontal thumbnail cards */
+  .thumbnail-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap; /* Stacks on smaller screens */
+  }
+
+  .thumbnail-card .usa-card__media {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+  }
+
+  .thumbnail-card .usa-card__media img {
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Optional: Stack vertically on narrow screens */
+  @media (max-width: 600px) {
+    .thumbnail-card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .thumbnail-card .usa-card__media {
+      width: 100%;
+      height: auto;
+    }
+    .thumbnail-card .usa-card__media img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+  }
+</style>
 
 Personas are semi-fictional characters that portray a group of users within a user base. With respect to digital accessibility, personas are primarily used in the research and design project phase to improve Section 508 conformance and the overall end-user experience of a service, product, or website. Developing multiple and diverse personas helps identify the varying needs and expectations of different user types by understanding how individuals utilize assistive technologies or interact with content. This provides valuable insights into multiple user needs for development teams. Without personas that include users with disabilities, digital products and services risk overlooking barriers that impact users with disabilities. Including these personas during the planning and design phases ensures ICT accessibility is addressed proactively, not reactively—saving time and money.
 
@@ -124,15 +164,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Example Template</button></h3>
   <div id="a-a1" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+  <li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/enzo-persona..jpg"
+            alt="An african american man sitting on a park bench with dark sunglasses on. He is wearing a beige jacket, a gray scarf and plaid blue pants. He is putting headphones into his ears to listen to his phone while a white cane leans against the bench."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
   <p>
@@ -163,15 +202,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Without Vision</button></h3>
 <div id="b-a1" class="usa-accordion__content">
 <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+  <li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/john-persona.jpg"
+            alt="An older white male sitting on a couch, wearing dark sunglasses and  holding a white cane in front of him. He is wearing kakhi pants and a green sweater with a collared shirt underneath."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -205,15 +243,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >With Limited Vision</button></h3>
   <div id="b-a2" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+   <li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/anna-persona.jpg"
+            alt="A middle aged white woman with red hair and brown eyes smiling."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -246,15 +283,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Without Perception of Color</button></h3>
   <div id="b-a3" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/cole-persona.jpg"
+            alt="A young white male with a start of a brown beard smiling. He has brown hair and is wearing a red polo shirt."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -287,15 +323,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Without Hearing</button></h3>
   <div id="b-a4" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/amy-persona.jpg"
+            alt="A middle aged woman in an office wearing a black and white striped blazer. She has short wavy brown hair and is smiling."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -329,15 +364,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >With Limited Hearing</button></h3>
   <div id="b-a5" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/apollo-persona.jpg"
+            alt="An older white man with white hair. He is wearing a pale yellow sweatshirt with a white collar shirt underneath and has a small diamond stud earring in his left ear."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -376,15 +410,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Without Speech</button></h3>
   <div id="b-a6" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+  <li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/alma-persona.jpg"
+            alt="A younger middle aged woman with short black hair in a bob cut. She is wearing a white chunky sweater and big gold necklace."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -419,16 +452,15 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Limited Manipulation</button></h3>
   <div id="b-a7" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/kai-persona.jpg"
+            alt="An african american husband smiling and hugging his wife. He is wearing a black beanie and a green sweatshirt. He and his wife are posing outside of their home."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
         </div>
-      </div>
       <div class="usa-card__body">
 <p>
 <strong>Name:</strong> Kai <br>
@@ -470,15 +502,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Limited Reach and Strength</button></h3>
   <div id="b-a8" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/tina-persona.jpg"
+            alt="A younger middle aged woman with short read and white hair. She is wearing a blue ruffled shirt and is sitting in a wheelchair with neck support while looking at a tablet on the desk in front of her."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
@@ -520,16 +551,15 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Limited Language, Cognitive, and Learning Abilities</button></h3>
   <div id="b-a9" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/sam-persona.jpg"
+            alt="A white male with a serious look on his face standing outside of a building. He is wearing black framed glasses and a suit jacket with a white collared shirt."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
         </div>
-      </div>
       <div class="usa-card__body">
 <p>
 <strong>Name:</strong> Sam  <br>
@@ -563,15 +593,14 @@ Developing a persona is much like creating a character for a book. Name them, de
     >Photosensitive</button></h3>
   <div id="b-a10" class="usa-accordion__content usa-prose">
   <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag flex-1 usa-card--media-right">
-    <div class="usa-card__container">
-      <div class="usa-card__media">
-        <div class="usa-card__img">
+<li class="usa-card flex-1">
+    <div class="usa-card__container thumbnail-card">
+      <div class="usa-card__body">
           <img
-            src="https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg"
-            alt="A placeholder image"
+            src="{{site.baseurl}}/assets/images/miguel-persona.jpg"
+            alt="A latino male sitting in an office chair laughing while looking at printed documents in his hand. He is wearing a white collared shirt with a black tie."
+            style="width:250px;height:250px;object-fit:cover;border-radius:4px;"
           />
-        </div>
       </div>
       <div class="usa-card__body">
 <p>
