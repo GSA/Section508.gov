@@ -661,7 +661,7 @@ Developing a persona is much like creating a character for a book. Name them, de
 * [Design and Develop]({{site.baseurl}}/develop/) 
 * <a href="https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs/" target="_blank" class="usa-link--external">Digital.gov Personas: learn how to discover your audience, understand them, and pivot to address their needs</a>
 * [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/) 
-* [Universal Design & Development]({{site.baseurl}}/develop/universal-design/) 
+* [Universal Design]({{site.baseurl}}/develop/universal-design/) 
 
 
 <strong>Reviewed/Updated:</strong> September 2025
