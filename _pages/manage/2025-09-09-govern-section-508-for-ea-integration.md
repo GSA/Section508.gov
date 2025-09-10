@@ -68,7 +68,7 @@ If ICT accessibility is not integrated at the architectural level, compliance be
       <td>
         <ul>
           <li>Incorporate Section 508 in business capability models and service catalogs.</li>
-          <li>Incorporate Section 508 in <a href="{{site.baseurl}}/develop/personas">personas</a>, <a href="{{site.baseurl}}/develop/user-stories">user stories</a>, and business requirements.</li>
+          <li>Incorporate Section 508 in <a href="{{site.baseurl}}/develop/sample-personas/">personas</a>, <a href="{{site.baseurl}}/develop/user-stories">user stories</a>, and business requirements.</li>
           <li>Ensure service <a href="{{site.baseurl}}/manage/roles/">designers and business analysts</a> collaborate with Section 508 subject matter experts as early as possible in the technology lifecycle.</li>
           <li>Integrate Section 508 checkpoints in stage gates or software development lifecycle (SDLC) milestones such as requirements, design, development, and testing.</li>
           <li>Integrate Section 508 checks into business process diagrams and workflows.</li>
