@@ -85,9 +85,9 @@ manage:
           - name: Implementing a Public Feedback Mechanism
             url: manage/laws-and-policies/implementing-public-feedback-mechanism/
           - name: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process
-            url: manage/laws-and-policies/Section-508-complaints-best-practices/           
-      - name: Updating Agency Policy
-        url: manage/laws-and-policies/update-agency-policies/
+            url: manage/laws-and-policies/section-508-complaints-best-practices/           
+      - name: Update and Maintain Agency Policy
+        url: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
       - name: State-level Accessibility Law and Policy
         url: manage/laws-and-policies/state/
       - name: International IT Accessibility Laws and Policies
@@ -98,24 +98,26 @@ manage:
       - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
+          - name: Manage a Section 508 Program Overview
+            url: manage/section-508-program/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
-          - name: IT Accessibility/508 Program Manager Responsibilities
-            url: manage/program-manager-responsibilities/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
+          - name: Revised Section 508 Standards Roadmap
+            url: manage/program-roadmap/
+          - name: Section 508 Exceptions Request and Approval Process
+            url: manage/exceptions-request-and-approval-process/ 
+          - name: Section 508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
           - name: Teach Staff about Accessibility
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
-            url: manage/track-report-conformance/
-          - name: Section 508 Exceptions Request and Approval Process
-            url: manage/exceptions-request-and-approval-process/ 
-          - name: Revised Section 508 Standards Roadmap
-            url: manage/program-roadmap/
+            url: manage/track-report-conformance/          
       - name: Roles, Responsibilities, and Position Descriptions
         url: '#'
         grandchildren: 
-          - name: Accessibility Roles
+          - name: IT Accessibility Roles and Responsibilities
             url: manage/roles/
           - name: How to Attain Section 508 Testing Expertise
             url: manage/roles/attain-section-508-testing-expertise/
@@ -155,23 +157,23 @@ manage:
           - name: Introduction
             url: manage/playbooks/technology-accessibility-playbook/
           - name: "Play 1: Establish a Section 508 Program Manager"
-            url: manage/playbooks/technology-accessibility-playbook/01/
+            url: manage/playbooks/technology-accessibility-playbook/1/
           - name: "Play 2: Assess your Section 508 Program Maturity"
-            url: manage/playbooks/technology-accessibility-playbook/02/
+            url: manage/playbooks/technology-accessibility-playbook/2/
           - name: "Play 3: Develop a Section 508 Accessibility Roadmap"
-            url: manage/playbooks/technology-accessibility-playbook/03/
+            url: manage/playbooks/technology-accessibility-playbook/3/
           - name: "Play 4: Establish a Section 508 Policy"
-            url: manage/playbooks/technology-accessibility-playbook/04/
+            url: manage/playbooks/technology-accessibility-playbook/4/
           - name: "Play 5: Develop a Section 508 Program Team"
-            url: manage/playbooks/technology-accessibility-playbook/05/
+            url: manage/playbooks/technology-accessibility-playbook/5/
           - name: "Play 6: Collaborate with the Federal Accessibility Community"
-            url: manage/playbooks/technology-accessibility-playbook/06/
+            url: manage/playbooks/technology-accessibility-playbook/6/
           - name: "Play 7: Integrate Accessibility Needs into Requirements and Design Processes"
-            url: manage/playbooks/technology-accessibility-playbook/07/
+            url: manage/playbooks/technology-accessibility-playbook/7/
           - name: "Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes"
-            url: manage/playbooks/technology-accessibility-playbook/08/
+            url: manage/playbooks/technology-accessibility-playbook/8/
           - name: "Play 9: Integrate Accessibility Needs into Development Processes"
-            url: manage/playbooks/technology-accessibility-playbook/09/
+            url: manage/playbooks/technology-accessibility-playbook/9/
           - name: "Play 10: Conduct Section 508 Testing"
             url: manage/playbooks/technology-accessibility-playbook/10/
           - name: "Play 11: Track and Resolve Accessibility Issues"

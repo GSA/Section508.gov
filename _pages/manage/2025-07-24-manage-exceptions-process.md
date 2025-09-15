@@ -858,7 +858,7 @@ Agencies that do not utilize such systems may opt for a forms-based approach, su
 ## Related Resources
 
 * [Understanding Section 508 Exceptions]({{site.baseurl}}/buy/understanding-section-508-exceptions/)
-* [Technology Accessibility Playbook - Play 8: Integrate accessibility needs into market research and acquisition processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/08/)
+* [Technology Accessibility Playbook - Play 8: Integrate accessibility needs into market research and acquisition processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/)
 * [Track and Report Conformance]({{site.baseurl}}/manage/track-report-conformance/)
 * [Determine Section 508 Standards]({{site.baseurl}}/buy/determine-508-standards-exceptions/)
 

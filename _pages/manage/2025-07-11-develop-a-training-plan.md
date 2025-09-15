@@ -404,8 +404,8 @@ The purpose of this planning section is to establish a formal, sustainable found
 </table>
 
 ## Related Resources
-* [Technology Accessibility Playbook—Play 2: Assess Your Section 508 Program Maturity](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/02/)  
-* [Technology Accessibility Playbook—Play 3: Develop a Section 508 Accessibility Roadmap](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/03/)  
+* [Technology Accessibility Playbook—Play 2: Assess Your Section 508 Program Maturity](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/2/)  
+* [Technology Accessibility Playbook—Play 3: Develop a Section 508 Accessibility Roadmap](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/3/)  
 * [Technology Accessibility Playbook—Play 12: Educate the Workforce](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/12) 
 
 **Reviewed/Updated:** July 2025

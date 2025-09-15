@@ -1,11 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/
 type: manage
-title: 'Manage an IT Accessibility/Section 508 Program'
-created: 2018-05-22
-updated: 2025-01-21
+title: 'Manage Agency ICT Accessibility'
+permalink: manage/
+redirect_from:
+- manage/deia-guidance/
 topic: "Manage (program)"
 sub-topic: "Manage a Section 508 Program"
 audience:
@@ -16,10 +16,11 @@ audience:
 - "Lawmakers and Policy Officials (law-policy)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
-redirect_from:
-- manage/deia-guidance/
+created: 2018-05-22
+updated: 2025-09-15
+exclude-changelog: true
 ---
-Learn how to manage a Federal IT accessibility (Section 508) program and help your agency meet its responsibilities under the Rehabilitation Act, which requires equal access to information and communication technology (ICT) for people with disabilities.
+Learn how to manage your ICT accessibility responsibilities and support your agency in fulfilling its Rehabilitation Act obligations, ensuring equal access to information and communication technology (ICT) for people with disabilities.
 
 <section class="usa-section">
 <ul class="usa-card-group">
@@ -56,7 +57,7 @@ Learn how to manage a Federal IT accessibility (Section 508) program and help yo
       <div class="usa-card__body">
         <p>Learn how to manage a federal ICT accessibility program, and ensure that your agency complies with Section 508 of the Rehabilitation Act.</p>
         <ul class="add-list-reset">
-          <li><a href="{{site.baseurl}}/manage/program-manager-responsibilities/">IT Accessibility/508 Program Manager Responsibilities</a></li>
+          <li><a href="{{site.baseurl}}/manage/program-manager-responsibilities/">Section 508 Program Manager Responsibilities</a></li>
           <li><a href="{{site.baseurl}}/manage/benefits-of-accessibility/">Practical Reasons for Digital Accessibility</a></li>          
           <li><a href="{{site.baseurl}}/manage/developing-a-section-508-training-plan/">Considerations for Developing a Section 508 Training Plan</a></li>
         </ul>

@@ -168,7 +168,7 @@ Accurate and consistent testing for ICT accessibility is crucial as federal agen
 ## Related Resources:
 
 * [Overview of Testing Methods for Section 508 Conformance]({{site.baseurl}}/test/testing-overview/)  
-* [Technology Accessibility Playbook—Play 4: Establish a Section 508 Policy]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/04/)  
+* [Technology Accessibility Playbook—Play 4: Establish a Section 508 Policy]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/4/)  
 * [Technology Accessibility Playbook—Play 10: Conduct Section 508 Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/)
 
 **Reviewed/Updated:** July 2025

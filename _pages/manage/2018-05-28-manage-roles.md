@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 permalink: manage/roles/
 type: manage
-title: 'Roles and Responsibilities'
+title: 'IT Accessibility Roles and Responsibilities'
 created:
 updated: 2025-03-05
 topic: Manage (program)

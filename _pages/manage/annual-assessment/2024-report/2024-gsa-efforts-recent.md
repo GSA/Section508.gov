@@ -124,7 +124,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * [Best practices for establishing and maintaining a public feedback mechanism]({{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/)
 
-  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/)
+  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/section-508-complaints-best-practices/)
 
   * [Common PDF Tags and Their Usage]({{site.baseurl}}/create/pdfs/common-tags-and-usage/)
 

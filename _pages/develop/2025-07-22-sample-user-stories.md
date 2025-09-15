@@ -504,7 +504,7 @@ The following user stories illustrate how accessibility needs can be captured du
 <h2>Related Resources</h2>
 
 <ul>
-<li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook/07/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a></li>  
+<li><a href="{{ site.baseurl }}/manage/playbooks/technology-accessibility-playbook/7/">Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a></li>  
 <li><a href="https://digital.va.gov/section-508/checklists/collections-user-stories/" target="_blank" class="usa-link--external">Department of Veteran's Affairs: Collections, Epics, Sub Epics, and User Stories</a></li></ul> 
 
 **Reviewed/Updated:** July 2025

@@ -319,7 +319,7 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Update Agency Accessibility Policies</a> - Learn which policy documents need to be updated 
+  <a href="{{site.baseurl}}/manage/laws-and-policies/update-agency-policies">Maintaining Agency Accessibility Policies</a> - Learn which policy documents need to be updated 
 </li>
 <li dir="ltr">
   <a href="{{site.baseurl}}/manage/identify-user-needs">Identify User Needs</a> - Learn how to identify user needs for ICT 
