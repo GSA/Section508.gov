@@ -29,11 +29,11 @@ Integrating Section 508 conformance data, such as test reports or Accessibility 
 
 ## Asset Inventory Tools
 
-Federal agencies track their information and communication technology (ICT) in an inventory of information systems and each agency may have a different name for their asset management system or model. Regardless of the specific system, Section 508 conformance should be integrated. This integration enables users to easily determine if a product is conformant and identify any existing barriers to accessibility.
+Federal agencies track their information and communication technology (ICT) in an inventory of information systems and each agency may have a different name for their inventory, asset management system, or model. Regardless of the specific system, Section 508 conformance should be integrated. This integration enables users to easily determine if a product is conformant and identify any existing barriers to accessibility.
 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>Tip</strong>: Require each Section 508-related field to be filled out when a new product is listed. This may involve integrating Section 508 conformance questions during intake and as part of IT governance.</div>
 
-Consider updating the TRM or equivalent to include the following fields:
+Consider updating the inventory to include the following fields:
 
 <ul class="usa-icon-list">
   <li class="usa-icon-list__item">
@@ -240,7 +240,7 @@ The following table outlines the integration of Section 508 considerations into 
 
 <h2>Procurement Integration</h2>
 
-Procurement teams should verify Section 508 conformance status and review test reports before awarding new contracts or renewing existing ICT procurements. The agency’s TRM or GRC system should serve as a source of record for this review, and solicitations should require vendors to provide updated accessibility conformance documentation.
+Procurement teams should verify Section 508 conformance status and review test reports before awarding new contracts or renewing existing ICT procurements. The agency’s inventory of information systems or GRC system should serve as a source of record for this review, and solicitations should require vendors to provide updated accessibility conformance documentation.
 
 <h2>Monitoring and Maintenance</h2>
 
