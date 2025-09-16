@@ -25,11 +25,11 @@ created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 
 ---
-Integrating Section 508 conformance data, such as test reports or Accessibility Conformance Reports (ACR) into IT product portfolios—like asset inventories, approved application lists or [Governance, Risk, and Compliance (GRC)]({{site.baseurl}}/tools/glossary/#g) tools—is crucial for ensuring Section 508 conformance across an agency’s digital ecosystem. Effective execution of these practices supports informed procurement decisions, facilitates audits, strengthens governance, and enhances risk management, all while optimizing documentation storage.
+Integrating Section 508 conformance data, such as test reports or Accessibility Conformance Reports (ACR) into IT product portfolios—like asset and application inventories or [Governance, Risk, and Compliance (GRC)]({{site.baseurl}}/tools/glossary/#g) tools—is crucial for ensuring Section 508 conformance across an agency’s digital ecosystem. Effective execution of these practices supports informed procurement decisions, facilitates audits, strengthens governance, and enhances risk management, all while optimizing documentation storage.
 
 ## Asset Inventory Tools
 
-Federal agencies track their information and communication technology (ICT) in various inventory systems, sometimes referred to as a Technical Reference Model (TRM). Regardless of the specific system, Section 508 conformance should be integrated. This integration enables users to easily determine if a product is conformant and identify any existing barriers to accessibility.
+Federal agencies track their information and communication technology (ICT) in an inventory of information systems and each agency may have a different name for their asset management system or model. Regardless of the specific system, Section 508 conformance should be integrated. This integration enables users to easily determine if a product is conformant and identify any existing barriers to accessibility.
 
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><strong>Tip</strong>: Require each Section 508-related field to be filled out when a new product is listed. This may involve integrating Section 508 conformance questions during intake and as part of IT governance.</div>
 
