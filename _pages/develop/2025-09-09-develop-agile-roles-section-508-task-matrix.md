@@ -27,7 +27,7 @@ exclude-changelog:
 ---
 Incorporating Section 508 conformance into Agile product lifecycle requires clear coordination among many roles to ensure compliance with Section 508. This Agile Section 508 Task Matrix provides a practical framework that maps key Agile activities to Product or Project Owner, Scrum Master or Agile Coach, and Agile or Development Team tasks. This visibility promotes accountability, fosters collaboration, and ensures Section 508 conformance is consistently prioritized throughout the development process—not as an afterthought.
 
-<caption id="table-agile-roles-caption">Table 1: Agile Roles Section 508 Task Matrix.</caption> For a static, non-scrollable table, select <a href="{{site.baseurl}}/develop/agile-roles-section-508-task-matrix-no-sidenav/"> Agile Roles Section 508 Task Matrix Full Page</a>. 
+<caption id="table-agile-roles-caption">Table 1: Agile Roles Section 508 Task Matrix.</caption> For a larger table view, select <a href="{{site.baseurl}}/develop/agile-roles-section-508-task-matrix-no-sidenav/">Agile Roles Section 508 Task Matrix Full Page</a>. 
 <figure class = "usa-table-container--scrollable" role="region" aria-labelledby="table-agile-roles-caption" tabindex="0">
   <table id="table-agile-roles" class="usa-table usa-table--borderless striped margin-bottom-3">
   <colgroup>
