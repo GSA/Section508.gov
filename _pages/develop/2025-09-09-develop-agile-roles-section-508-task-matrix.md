@@ -25,10 +25,19 @@ created: 2025-09-09
 updated: 2025-09-09
 exclude-changelog: 
 ---
-Incorporating Section 508 conformance into Agile product lifecycle requires clear coordination among many roles to ensure compliance with Section 508. This Agile Section 508 Task Matrix provides a practical framework that maps key Agile activities to Product or Project Owner, Scrum Master or Agile Coach, and Agile or Development Team tasks. This visibility promotes accountability, fosters collaboration, and ensures Section 508 conformance is consistently prioritized throughout the development process—not as an afterthought. 
-
-<table id="table-agile-roles" class="usa-table usa-table--borderless striped grid-col-12 margin-bottom-3">
-  <caption>Table 1: Agile Roles Section 508 Task Matrix</caption>
+Incorporating Section 508 conformance into Agile product lifecycle requires clear coordination among many roles to ensure compliance with Section 508. This Agile Section 508 Task Matrix provides a practical framework that maps key Agile activities to Product or Project Owner, Scrum Master or Agile Coach, and Agile or Development Team tasks. This visibility promotes accountability, fosters collaboration, and ensures Section 508 conformance is consistently prioritized throughout the development process—not as an afterthought.
+<figure class = "usa-table-container--scrollable" role="region" aria-labelledby="table-agile-roles-caption" tabindex="0">
+  <table id="table-agile-roles" class="usa-table usa-table--borderless striped margin-bottom-3">
+  <caption id="table-agile-roles-caption">Table 1: Agile Roles Section 508 Task Matrix</caption>
+  <colgroup>
+    <col class="col-activity">
+    <col class="col-owner">
+    <col class="col-coach">
+    <col class="col-team">
+    <col class="col-artifact">
+    <col class="col-integration">
+    <col class="col-tools">
+  </colgroup>
   <thead>
   <tr>
       <th scope="col">Agile Activity</th>
@@ -160,5 +169,6 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </tr>
   </tbody>
 </table>
+</figure>
 
 **Reviewed/Updated:** September 2025
