@@ -1,10 +1,15 @@
 ---
 sidenav: true
 layout: page
-permalink: manage/laws-and-policies/section-508-law/
 type: manage
 title: 'Section 508 of the Rehabilitation Act, as amended'
+permalink: manage/laws-and-policies/section-508-law/
+description: Review the full text of Section 508 of the Rehabilitation Act and access federal guidance on digital accessibility requirements for government agencies.
+redirect_from:
+- section-508-law/
+- law/
 created: 2024-07-30
+updated: 
 ---
 <h2 id="794d">29 U.S.C. §794d. Electronic and Information Technology</h2>
 <ol>
