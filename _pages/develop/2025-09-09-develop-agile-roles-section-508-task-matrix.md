@@ -1,6 +1,6 @@
 ---
 layout: page
-sidenav: false
+sidenav: true
 type: develop
 title: Agile Roles Section 508 Task Matrix
 permalink: develop/agile-roles-section-508-task-matrix/
