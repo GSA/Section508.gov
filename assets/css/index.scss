@@ -1644,3 +1644,18 @@ div[role=rowheader] {
 #table-agile-roles col.col-artifact   { width: 18rem; }
 #table-agile-roles col.col-integration{ width: 20rem; }
 #table-agile-roles col.col-tools      { width: 18rem; }
+
+/* Make the activity list compact and readable */
+.usa-card__body details + details { margin-top: .5rem; }
+.usa-card__body p { margin-bottom: .5rem; }
+.usa-card__header { background: var(--usa-base-lightest, #f9f9f9); }
+
+/* Give each card full equal height in the row */
+.height-full { height: 100%; }
+
+/* Print-friendly: expand all details when printing */
+@media print {
+  details[open] summary::marker, details summary::marker { content: ""; }
+  details { display: block; }
+  details > div { display: block !important; }
+}
