@@ -2,9 +2,34 @@
 layout: page
 sidenav: true
 type: manage
-permalink: manage/section-508-program-team-roles-and-responsibilities/
 title: Section 508 Program Team Roles and Responsibilities
-created: 2025-08-11
+permalink: manage/section-508-program-team-roles-and-responsibilities/
+description: Explore Section 508 team roles, functions, and collaboration strategies to advance digital accessibility and agency compliance goals.
+disclaimer: 
+audience: 
+- 508-pm
+- buyer
+- buyer-senior-exec
+- cao
+- cio
+- hr-chco
+- requirement-ba
+topic: 
+- buy
+- design
+- dev
+- training
+subtopic: 
+- Accessible Selling Info, Guidance, & Best Practices
+- Content Creation Training or Tools
+- General Info and Best Practices
+- Manage a 508 Program
+- Manage Accessibility for IT Program/Project Managers
+resource_type: 
+- article
+format: html
+created: 
+updated: 
 ---
 
 Section 508 program managers (PM) collaborate with various teams committed to and responsible for ensuring their [important role in their agency's overall Section 508 compliance efforts.](https://www.section508.gov/manage/roles/#management) To achieve success, a Section 508 Program Office must be integrated throughout the entire agency. The Section 508 Program Office should function as a support service, assisting various groups, teams, and divisions within the agency in meeting their digital accessibility goals and obligations. Each of these groups have their own responsibilities for implementing Section 508 policy in the organization. The goal of this document is to outline the scope of each of these functions and to provide guidance on what collaboration might look like between your Section 508 Program Office and stakeholders across IT, procurement, acquisition, human capital, contracting, and customer experience.
@@ -282,3 +307,7 @@ Section 508 PMs should be targeted in their efforts to socialize the importance 
 
 ## Related Resources
 * [Roles & Responsibilities]({{site.baseurl}}/manage/roles/)
+* [How to Attain Section 508 Testing Expertise]({{site.baseurl}}/manage/roles/attain-section-508-testing-expertise/)
+* [Example Position Description for Section 508 Accessibility Tester]({{site.baseurl}}/manage/roles/section-508-tester-pd/)
+
+**Reviewed/Updated:** September 2025
