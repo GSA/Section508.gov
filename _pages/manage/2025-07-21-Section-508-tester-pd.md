@@ -1,13 +1,14 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/roles/section-508-tester-pd/
 type: manage
-title: 'Example Position Description for Section 508 Accessibility Tester'
+title: 'Sample Position Descriptions for Section 508 Subject Matter Experts'
+permalink: manage/roles/section-508-position-description/
+redirect_from:
+- manage/roles/section-508-tester-pd/
 description: Example position description for a Section 508 Accessibility Tester.
 disclaimer: false
 contributors: 
-created: 2025-07-21
 updated: 
 topic: "Manage (program)"
 sub-topic: "Testing for Accessibility Training or Tools"
@@ -17,65 +18,254 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Template"
 format: "HTML (html)"
+created: 2025-07-21
+updated: 2025-09-17
 ---
+Building a strong Section 508 program starts with having the right team in place. Clear, well-defined roles ensure accountability, consistent application of accessibility standards, and effective collaboration across your organization. This page provides sample position descriptions for key IT accessibility roles, including program managers and accessibility tester. These examples are designed to help federal agencies develop or refine staffing structures that support compliance with Section 508 requirements and technical standards throughout the IT lifecycle.
 
-**Position Title:** Section 508 Accessibility Tester  
-**Location:** [Insert Agency/Office Name], [Insert Location or Remote]  
-**Position Type:** [Specify full time or part time]  
-**Security Clearance:** [Specify if required]
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading">
+    <button type="button" class="usa-accordion__button" aria-expanded="true" aria-controls="508-tester">
+      Section 508 Accessibility Tester
+    </button>
+  </h2>
+  <div id="508-tester" class="usa-accordion__content">
+    <p><strong>Position Title:</strong> Section 508 Accessibility Tester<br>
+    <strong>Location:</strong> [Insert Agency/Office Name], [Insert Location or Remote]<br>
+    <strong>Position Type:</strong> [Specify full time or part time]<br>
+    <strong>Security Clearance:</strong> [Specify if required]</p>
+    <h3>Position Description</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Write a high-level overview of the position and key responsibilities and qualifications.</p>
+    </div>
+    <p>The Section 508 Accessibility Tester is responsible for ensuring that digital products, services, and electronic content developed, procured, or maintained by [Agency Name] comply with the 
+      <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. 
+      This individual will support information and communication technology (ICT) Section 508 conformance validation testing, defect reporting, remediation planning and guidance, and training efforts across the agency's enterprise.</p>
+    <h3>Duties</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Consider and select the key responsibilities for the position you are developing per agency requirements.</p>
+    </div>
+    <ul>
+      <li>Conduct comprehensive Section 508 conformance validation testing of web content, media (audio, video, multimedia), and electronic documents (PDFs, Word, PowerPoint, Excel).</li>
+      <li>[If applicable] Conduct testing of software and mobile applications.</li>
+      <li>[If applicable] Conduct testing of kiosks and hardware.</li>
+      <li>Apply Section 508 Standards and WCAG 2.0 Level AA success criteria using manual and automated testing techniques per agency policy.</li>
+      <li>Use standardized federal testing methods, including [insert approved Section 508 testing methodology(ies)].</li>
+      <li>Generate Section 508 test reports, including defect severity and remediation recommendations.</li>
+      <li>Provide Section 508 guidance and technical support to internal teams and stakeholders.</li>
+      <li>Engage with content creators and developers to guide remediation efforts.</li>
+      <li>Track and report Section 508 testing status, remediation progress, and metrics to support program governance.</li>
+      <li>Review Accessibility Conformance Reports (ACRs) and provide feedback for procurement decision making.</li>
+      <li>Collaborate with developers, content creators, program managers, and procurement officials to improve Section 508 compliance.</li>
+      <li>[If applicable] Deliver training or workshops on ICT accessibility and Section 508 requirements.</li>
+      <li>[If applicable] Support integration of Section 508 conformance in agency SDLC, Agile processes, and acquisition workflows.</li>
+    </ul>
+    <h3>Qualifications</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p>
+    </div>
+    <h4>Minimum</h4>
+    <h5>Education &amp; Experience</h5>
+    <ul>
+      <li>[Insert agency’s minimum education requirements such as Bachelor’s degree]</li>
+      <li>Minimum 3 years of ICT accessibility testing experience. [Scale up/down depending on role level]</li>
+    </ul>
+    <h5>Knowledge and Skills</h5>
+    <ul>
+      <li>Deep understanding of Revised Section 508 Standards and WCAG 2.0 Level AA.</li>
+      <li>[If applicable] Proficiency testing WCAG 2.2 Level AA.</li>
+      <li>Proficiency with manual testing procedures including keyboard-only navigation and code review.</li>
+      <li>[If applicable] Proficiency with Assistive Technology (screen readers, zoom, voice dictation).</li>
+      <li>Familiarity with accessibility testing tools:
+        <ul>
+          <li>[Insert manual test tools, e.g., Accessibility Name and Description Inspector (ANDI)]</li>
+          <li>[Insert automated test tools used by the agency]</li>
+        </ul>
+      </li>
+      <li>Expertise in evaluating and creating Accessibility Conformance Reports (ACRs).</li>
+      <li>Ability to document and interpret test results, and advise on remediation techniques.</li>
+      <li>Strong communication and interpersonal skills with technical and non-technical staff.</li>
+    </ul>
+    <h4>Preferred</h4>
+    <ul>
+      <li>Familiarity with federal ICT accessibility policy and governance (FAR, 21st Century IDEA, OMB Memos).</li>
+      <li>[If applicable] DHS Section 508 Trusted Tester Certification (TT v5 or newer).</li>
+      <li>[If applicable] Other certifications (e.g., SCRUM Master, ICT accessibility certifications).</li>
+      <li>[If applicable] Experience in Agile, DevSecOps, or CI/CD environments.</li>
+      <li>[If applicable] Experience training others in ICT accessibility best practices.</li>
+      <li>[If applicable] Expertise in remediating documents (PDF, Word, PowerPoint, Excel).</li>
+    </ul>
+  </div>
+</div>
 
-## Position Summary
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong> Write a high-level overview of the position and key responsibilities and qualifications.</p></div>
+<!-- Section 508 PM -->
+<div class="usa-accordion usa-accordion--bordered">
+  <h2 class="usa-accordion__heading">
+    <button type="button" class="usa-accordion__button" aria-expanded="false" aria-controls="508-pm">
+      Section 508 Program Manager
+    </button>
+  </h2>
+  <div id="508-pm" class="usa-accordion__content">
+    <p><strong>Position Title:</strong> Section 508 Program Manager<br>
+    <strong>Location:</strong> [Insert Agency/Office Name], [Insert Location or Remote]<br>
+    <strong>Position Type:</strong> [Specify full time or part time]<br>
+    <strong>Security Clearance:</strong> [Specify if required]</p>
+    <h3>Position Description</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Write a high-level overview of the position and key responsibilities and qualifications.</p>
+    </div>
+    <p>This position serves as the [Agency] Section 508 Program Manager. The incumbent has the primary responsibility for providing expert assistance and advice on the overall establishment of information technology accessibility policies, plans and programs. Through oversight of IT accessibility programs, the incumbent ensures effective planning and management of the accessibility of Electronic and Information Technology (EIT) systems in compliance with best practices, applicable standards, and regulations. For purposes of this position description, “accessibility” shall have the definition in 29 U.S.C. 794d (a) (1) and NOT that provided in the OPM Job Family Standard for [Job Series Name], [Job Series Number].</p>
+    <h3>Duties</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Consider and select the key responsibilities for the position you are developing per agency requirements.</p>
+    </div>
+    <ul>
+      <li>Leads and manages the agencywide Section 508 program to include developing and maintaining agency policies, guidance, and best practices, and conducting Section 508 governance activities.</li>
+      <li>Establishes and implements the agency&#39;s policies, procedures, and practices to ensure that ICT procured, developed, maintained, or used meets applicable Section 508 requirements.</li>
+      <li>Provides Section 508 guidance to agency programs and project teams for buying, building, maintaining and using technology products and services.</li>
+      <li>Leads compliance management activities for digital services and technology covered under the Section 508 law, including:
+        <ul>
+          <li>Addressing compliance requirements in design, acquisition, development, and maintenance life cycles and processes.</li>
+          <li>Ensuring conformance claims are validated.</li>
+        </ul>
+      </li>
+      <li>Develops policy, supports budget formulation, and addresses issues associated with digital accessibility with agency subcomponents, if applicable.</li>
+      <li>Coordinates and collaborates with other staff responsible for Rehabilitation Act compliance, including the provision of reasonable accommodations. Key stakeholders include:
+        <ul>
+          <li>Technology providers and development teams</li>
+          <li>Operations and service delivery components</li>
+          <li>Acquisition teams</li>
+          <li>Communications and training groups</li>
+          <li>Civil rights and reasonable accommodation officials</li>
+          <li>Human resource staff</li>
+          <li>Legal staff</li>
+          <li>Other federal IT accessibility and Section 508 program managers</li>
+        </ul>
+      </li>
+      <li>Promotes Section 508 awareness through training and outreach activities and advocates leverage shared resources.</li>
+      <li>Leads technical discussions, meetings, conferences, demonstrations, and negotiations and negotiates to improve accessibility of agency IT products and solutions.</li>
+      <li>Collaborates with internal and external stakeholders to promote accessibility and with customers or business partners.</li>
+      <li>Analyzes and re-engineers business processes to improve efficacy and efficiency.</li>
+      <li>Provides consultation to, or participates in, agency capital planning and business case development and IT governance to ensure ICT activities appropriately integrate Section 508 compliance across the IT and acquisition lifecycles.</li>
+      <li>Provides consultation and advice on development and implementation of digital accessibility plans, including development of remediation plans, risk analyses, and review of contractor accessibility provisions.</li>
+      <li>Provides support for Section 508 testing and for remediating accessible electronic content, such as documents and forms, to conform to the Section 508 standards.</li>
+      <li>Oversees the requirements planning, procurement, design, modification, integration, testing and deployment of accessible ICT.</li>
+      <li>Tests ICT, such as large or complex web applications or electronic content, for Section 508 requirements and accessibility using a regimented test methodology that includes automated web scanning and testing, manual code inspection, and user testing with assistive technology, and delivers design recommendations to improve the accessibility of ICT.</li>
+      <li>Coordinates the collection of data to complete the annual Section 508 Assessment.</li>
+      <li>Develops and implements agencywide policy that ensures 508 compliance and outlines validation measures that can be tracked and processed.</li>
+      <li>Assesses and seeks to address the needs of the public and employees with disabilities with regards to ICT accessibility, including:
+        <ul>
+          <li>Assessing the maturity of the agency IT accessibility and Section 508 program and reporting to OMB on compliance program activities.</li>
+          <li>Responding to accessibility concerns and complaints submitted to your agency.</li>
+          <li>Establishing tracking procedures to document agency successes and remediation efforts for Section 508 compliance.</li>
+        </ul>
+      </li>
+      <li>Reviews and approves ICT products and services for conformance to the Section 508 standards.</li>
+      <li>Reviews technology solicitations for proper inclusion of Section 508 requirements. </li>
+      <li>Serves as a Section 508 subject matter expert (SME) for technical evaluation of solicitations. </li>
+      <li>Manages and coordinates:
+        <ul>
+          <li>Assistance to acquisition officials and developers in procuring or building accessible ICT.</li>
+          <li>Evaluation of web content, software, and hardware for Section 508 conformance.</li>
+          <li>Section 508 training and outreach.</li>
+          <li>Creation and review of electronic documents for Section 508 conformance.</li>
+          <li>Provision of alternative formats.</li>
+        </ul>
+      </li>
+      <li>Explains technical and functional accessibility concepts to technical and nontechnical personnel verbally, in written communications, and through briefings and formal presentations.</li>
+      <li>Encourages professional development and recognition of accessibility professionals across the agency.</li>
+    </ul>
+    <h3>Qualifications</h3>
+    <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;">
+      <p><strong>Instructions:</strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p>
+    </div>
+    <h4>Minimum</h4>
+    <h5>Education &amp; Experience</h5>
+    <ul>
+      <li>[Insert agency’s minimum education requirements such as Bachelor’s degree]</li>
+      <li>Minimum 3 years of ICT accessibility testing experience. [Scale up/down depending on role level]</li>
+    </ul>
+    <h5>Knowledge and Skills</h5>
+    <ul>
+      <li>Accountability</li>
+      <li>Attention to Detail</li>
+      <li>Conflict Management</li>
+      <li>Creative Thinking</li>
+      <li>Customer Service</li>
+      <li>Decision Making</li>
+      <li>External Awareness</li>
+      <li>Flexibility</li>
+      <li>Influencing and Negotiating</li>
+      <li>Information Management</li>
+      <li>Integrity and Honesty</li>
+      <li>Interpersonal Skills</li>
+      <li>Manages Human Resources</li>
+      <li>Manages Resources</li>
+      <li>Leadership</li>
+      <li>Oral Communication</li>
+      <li>Organizational Awareness</li>
+      <li>Partnering</li>
+      <li>Planning and Evaluating</li>
+      <li>Political Savvy</li>
+      <li>Reading Comprehension</li>
+      <li>Reasoning</li>
+      <li>Strategic Thinking</li>
+      <li>Teaching Others</li>
+      <li>Team Building</li>
+      <li>Teamwork</li>
+      <li>Technical Competence</li>
+      <li>Technical Credibility</li>
+      <li>Technical Application</li>
+      <li>Writing</li>
+    </ul>
+    <h4>Preferred</h4>
+    <ul>
+      <li>Preferred Certifications in Certified Information Systems Security Professional (CISSP), International Association of Accessibility Professionals (IAAP), Project Management Professional (PMP), and Trusted Tester Certification</li>
+      <li>Acquisition Strategy</li>
+      <li>Change Management</li>
+      <li>Compliance</li>
+      <li>Financial Management</li>
+      <li>Knowledge Management</li>
+      <li>Performance Measurement</li>
+      <li>Program Management</li>
+      <li>Project Management</li>
+      <li>Quality Management</li>
+      <li>Requirements Management</li>
+      <li>Risk Management</li>
+      <li>Schedule Management</li>
+      <li>Scope Management</li>
+      <li>Stakeholder Management</li>
+    </ul>
+    <h2>How Will You be Evaluated</h2>
+    You will be evaluated for this job based on how well you meet the qualifications above.
+    You will be scored on the questions you answer during the application process, which will measure your possession of the following competencies or knowledge, skills, and abilities. Your responses to these questions must be supported by your resume or your score may be lowered.  
+    <ul>
+      <li>Knowledge of training in program and project management, including:<ul>
+      <li>Strategic planning</li>
+      <li>Business process analysis</li>
+      <li>Risk management</li>
+      <li>Business case development</li>
+      <li>Problem solving and analysis techniques</li>
+      </ul>
+      </li>
+      <li>Ability to adeptly collaborate with cross-functional stakeholders, including building:<ul>
+      <li>Organizational awareness</li>
+      <li>Partnership development</li>
+      <li>Influence and negotiation</li>
+      </ul>
+      </li>
+      <li>Knowledge of policy compliance, including:<ul>
+      <li>Knowledge of IT accessibility requirements, including 508 standards, law and policy.</li>
+      <li>Familiarity with the other components of the Rehabilitation Act, specificallySections 501, 503, and 504.</li>
+      </ul>
+      </li>
+      <li>Knowledge of customer experience best practices and principles, including:<ul>
+      <li>Communications planning and management</li>
+      <li>Customer service</li>
+      </ul>
+    <h2></h2>
 
-The Section 508 Accessibility Tester is responsible for ensuring that digital products, services, and electronic content developed, procured, or maintained by [Agency Name] comply with the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. This individual will support information and communication technology (ICT) Section 508 conformance validation testing, defect reporting, remediation planning and guidance, and training efforts across the agency's enterprise.
+  </div>
+</div>
 
-## Key Responsibilities
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong> Consider and select the key responsibilities for the position you are developing per agency requirements.</p></div>
-
-* Conduct comprehensive Section 508 conformance validation testing of web content, media such as audio, video, or multimedia, and electronic documents such as PDFs, Word, PowerPoint and Excel documents.  
-* [If applicable] Conduct comprehensive Section 508 conformance validation testing of software and mobile applications.   
-* [If applicable] Conduct comprehensive Section 508 conformance validation testing of kiosks and hardware.  
-* Apply Section 508 Standards and WCAG 2.0 Level AA success criteria using manual and automated testing techniques per agency policy.  
-* Use standardized federal testing methods, including [insert agency approved Section 508 testing methodology (ies)].  
-* Generate Section 508 test reports per agency testing methodology(ies) including defect severity and remediation recommendations.  
-* Provide Section 508 guidance and technical support to internal teams and stakeholders.  
-* Engage with content creators and developers to help guide remediation efforts.  
-* Track and report Section 508 testing status, defect remediation progress, and other agency metrics to support Section 508 program governance.  
-* Review Accessibility Conformance Reports (ACRs) and provide feedback for procurement decision making.  
-* Collaborate with developers, content creators, program managers, and procurement officials to improve Section 508 compliance.  
-* [If applicable] Deliver training or workshops to raise awareness and knowledge about ICT accessibility and Section 508 requirements.  
-* [If applicable] Support integration of Section 508 conformance in agency software development lifecycle (SDLC) , Agile processes, and acquisition workflows.
-
-## Qualifications
-<div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong>Instructions:</strong> Consider and select the minimum and preferred qualifications for the position you are developing per agency requirements.</p></div>
-### Minimum:
-
-#### Education & Experience
-
-* [Insert agency’s requirements for minimum education such as Bachelor’s degree]  
-* Minimum of 3 years of experience in ICT accessibility testing. [Agencies should scale up or down based on the level of expertise the agency is looking for. For example, for a senior SME, consider 5 years of experience. For a novice, consider 1-2 years of experience.]
-
-#### Knowledge and Skills
-
-* Deep understanding of Revised Section 508 Standards and WCAG 2.0 Level AA.  
-* [If applicable] Proficiency testing WCAG 2.2 Level AA.   
-* Proficiency with manual testing procedures including keyboard-only navigation and code review.  
-* [If applicable] Proficiency using common Assistive Technology tools such as a screenreader, zoom, and voice dictation.   
-* Familiarity with accessibility testing tools such as:  
-  * [Insert all manual test tools used by the agency, such as Accessibility Name and Description Inspector (ANDI)]  
-  * [Insert all automated test tools used by the agency]  
-* Expertise in evaluating and creating Accessibility Conformance Reports (ACRs).  
-* Ability to clearly document test results, interpret test results, and advise on relevant remediation techniques.  
-* Strong communication and interpersonal skills to work with technical and non-technical staff.
-
-### Preferred 
-
-* Familiarity with federal policy and governance structures related to ICT accessibility such as the Federal Acquisition Regulation (FAR), 21st Century IDEA, and applicable OMB Memos.  
-* [If applicable] DHS Section 508 Trusted Tester Certification (TT v5 or newer) — required.  
-* [If applicable] [Insert other certifications that may be desired by the agency, such as SCRUM Master, specific application knowledge, or other ICT accessibility certifications that may be a plus].  
-* [If applicable] Experience working in Agile, DevSecOps, or CI/CD environments.  
-* [If applicable] Experience training others in Section 508 and ICT accessibility best practices or leading workshops.  
-* [If applicable] Expertise to remediate electronic documents such as PDFs, Word, PowerPoint, and Excel.
-
-
-**Reviewed/Updated:** July 2025
+**Reviewed/Updated:** September 2025
