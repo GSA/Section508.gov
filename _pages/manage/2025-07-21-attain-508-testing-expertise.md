@@ -131,7 +131,7 @@ The Section 508 testing policy or supplemental standard operating procedure shou
 * Procurement workflows prior to acquisition,  
 * Enterprise Performance Life Cycle Framework (EPLCF) checkpoints,   
 * Authority to Operate (ATO) reviews,   
-* Federal Information Technology Acquisition Reform Act (FITARA) reviews, and   
+* [Federal Information Technology Acquisition Reform Act (FITARA)]({{site.baseurl}}/manage/governance/including-section-508-in-fitara/) reviews, and   
 * Contract deliverables acceptance criteria.
 
 ### Sustaining Section 508 Testing Expertise
@@ -171,4 +171,4 @@ Accurate and consistent testing for ICT accessibility is crucial as federal agen
 * [Technology Accessibility Playbook—Play 4: Establish a Section 508 Policy]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play04/)  
 * [Technology Accessibility Playbook—Play 10: Conduct Section 508 Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10/)
 
-**Reviewed/Updated:** July 2025
+**Reviewed/Updated:** September 2025
