@@ -133,7 +133,7 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
 
 ### Development or Updating Policy:
 
-<table id="table-1-purpose" class="usa-table usa-table--borderless striped grid-col-desktop">
+<table id="table-1-purpose" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
   <caption>Table 1: Purpose</caption>
   <thead>
     <tr>
@@ -154,11 +154,10 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
       <th scope="row" aria-label="1"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
       <td>Includes links to relevant rules and provisions that support the mandate</td>
     </tr>
-
   </tbody>
 </table>
 
-<table id="table-2-scope" class="usa-table usa-table--borderless striped grid-col-desktop">
+<table id="table-2-scope" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
   <caption>Table 2: Scope</caption>
   <thead>
     <tr>
@@ -190,7 +189,7 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
   </tbody>
 </table>
 
-<table id="table-3-authority" class="usa-table usa-table--borderless striped grid-col-desktop">
+<table id="table-3-authority" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
   <caption>Table 3: Authority</caption>
   <thead>
     <tr>
@@ -214,7 +213,7 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
   </tbody>
 </table>
 
-<table id="table-4-policy" class="usa-table usa-table--borderless striped grid-col-desktop">
+<table id="table-4-policy" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
   <caption>Table 4: Policy</caption>
   <thead>
     <tr>
@@ -241,17 +240,12 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
       <td>Includes expectations regarding ICT accessibility conformance, including testing methodologies, reporting requirements and remediation prioritization</td>
     </tr>
   </tbody>
 </table>
 
-<table id="table-5-roles-responsibilities" class="usa-table usa-table--borderless striped grid-col-desktop">
+<table id="table-5-roles-responsibilities" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
   <caption>Table 5: Roles and Rresponsibilities</caption>
   <thead>
     <tr>
@@ -275,8 +269,8 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
   </tbody>
 </table>
 
-<table id="table-1-purpose" class="usa-table usa-table--borderless striped grid-col-desktop">
-  <caption>Table 1: Purpose</caption>
+<table id="table-6-definitions" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
+  <caption>Table 6: Definitions</caption>
   <thead>
     <tr>
       <th scope="col"><span class="usa-sr-only">Item</span><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_circle"></use></svg></th>
@@ -286,34 +280,21 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
   <tbody>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>Provides relevant definitions of terms used throughout your policy</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>Defines acronyms specific to your agency and Section 508 implementation</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>See <a href="{{site.baseurl}}/content/glossary/">Section 508 glossary of terms</a></td>
     </tr>
   </tbody>
 </table>
 
-<table id="table-1-purpose" class="usa-table usa-table--borderless striped grid-col-desktop">
-  <caption>Table 1: Purpose</caption>
+<table id="table-7-resources" class="usa-table usa-table--borderless striped grid-col-desktop margin-bottom-5">
+  <caption>Table 7: Resources</caption>
   <thead>
     <tr>
       <th scope="col"><span class="usa-sr-only">Item</span><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_circle"></use></svg></th>
@@ -323,28 +304,56 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
   <tbody>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>General information or Section 508 program information</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>Alternative Formats</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>Assistive Technology or Reasonable Accommodations</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>Captioning or American Sign Language services</td>
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>
-      </td>
+      <td>ICT accessibility testing</td>
+    </tr>
+    <tr>
+      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+      <td>Training</td>
+    </tr>
+  </tbody>
+</table>
+
+## Post Development Checklist
+<table id="table-7-post-development-steps" class="usa-table usa-table--borderless striped grid-col-desktop">
+  <caption>Table 7: Post Development Steps</caption>
+  <thead>
+    <tr>
+      <th scope="col"><span class="usa-sr-only">Item</span><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_circle"></use></svg></th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+      <td>Finalize Policy which may include stakeholder review</td>
+    </tr>
+    <tr>
+      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+      <td>If your agency requires signature, submit for formal approval</td>
+    </tr>
+    <tr>
+      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+      <td>Follow your agency’s processes for implementing new or updated policies </td>
+    </tr>
+    <tr>
+      <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
+      <td>Include references to the Section 508 or ICT Accessibility Policy in all other relevant policies, processes, and business functions in your agency</td>
     </tr>
   </tbody>
 </table>
