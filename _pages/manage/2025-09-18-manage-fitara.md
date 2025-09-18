@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: Integrating Section 508 in FITARA
-permalink: manage/governance/including-section-508-in-fitara
+permalink: manage/governance/including-section-508-in-fitara/
 description: Learn how integrating Section 508 compliance into FITARA oversight strengthens federal IT acquisition and management. Embed accessibility into portfolio reviews, acquisitions, investment scorecards, and governance to improve accountability, reduce waste, and deliver accessible technology that supports mission success.
 disclaimer: 
 audience: 
