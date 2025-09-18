@@ -29,9 +29,6 @@ created: 2025-09-18
 updated: 
 exclude-changelog:
 ---
-<strong>Reviewed/Updated:</strong> September 2025
-
-
 The <a href="https://www.congress.gov/113/statute/STATUTE-128/STATUTE-128-Pg3292.pdf" target="_blank" class="usa-link--external">Federal Information Technology Acquisition Reform Act (FITARA)</a>, enacted in 2014, provides a framework for agencies to improve the acquisition, management, and performance of federal IT. The law emphasizes accountability for the cost and schedule of IT investments alongside oversight provided by FITARA scorecards and CIO reporting. FITARA makes federal IT smarter, faster, and more accountable by improving federal agency Chief Information Officer (CIO) involvement in IT investments and management of IT investments across government, saving the federal government money by reducing wasteful buying practices.
 
 By incorporating Section 508 compliance into FITARA oversight, agencies can:
