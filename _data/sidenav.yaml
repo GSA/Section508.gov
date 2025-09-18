@@ -12,6 +12,8 @@ manage:
         url: manage/governance/enterprise-architecture-and-change-control/
       - name: Integrating Section 508 into Capital Planning and Investment Control
         url: manage/governance/integrating-section-508-into-cpic/
+      - name: Integrating Section 508 in FITARA
+        url: manage/governance/including-section-508-in-fitara/
       - name: Section 508 Considerations for Change Control Processes
         url: manage/governance/section-508-for-change-control-processes/
   - name: IT Accessibility Policy Framework
