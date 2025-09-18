@@ -133,5 +133,5 @@ In short, risk must be assessed, a remediation opportunity must be granted, and 
 * [Technology Accessibility Playbook \- Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play08/)  
 * [Testing Lifecycle Overview]({{site.baseurl}}/test/testing-lifecycle-overview/)
 
-\<strong\>Reviewed/Updated:\</strong\> September 2025
+**Reviewed/Updated:** September 2025
 
