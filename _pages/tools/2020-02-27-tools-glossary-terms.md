@@ -340,6 +340,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="criteria">Criteria</th>
     <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
+  <tr>
+    <th scope="row" id="cure-notice">Cure Notice</th>
+    <td>A formal written notification, used within the Federal Acquisition Regulation (FAR), to inform a contractor that their failure to perform or lack of progress, is jeopardizing contract performance and gives the contractor an opportunity to correct the issue before the government proceeds with termination for default.</td>
+  </tr>
 </tbody>
 </table>
   
