@@ -1622,12 +1622,23 @@ div[role=rowheader] {
   margin-left: 48px;
 }
 
-/* Customize Agile Role Table Column Widths */
-.usa-table-container--scrollable { overflow-x: auto; max-width: 100%; }
+/* Customize 'Bit Table' size and scrolling */
+.usa-table-container--scrollable { 
+  z-index: 2;
+  position: relative;
+  overflow-x: auto; 
+  overflow-y: auto; 
+  max-width: 100%; 
+  max-height: 80vh;
+}
 
 /* predictable column widths + wrapping */
-#table-agile-roles { table-layout: fixed; width: 100%; }
-#table-agile-roles th, #table-agile-roles td {
+.big-table { 
+  table-layout: fixed; 
+  width: 100%; 
+}
+
+.big-table th, .big-table td {
   vertical-align: top;
   white-space: normal;        /* allow wrapping */
   overflow-wrap: anywhere;    /* wrap long words/URLs */
@@ -1635,9 +1646,43 @@ div[role=rowheader] {
   hyphens: auto;              
 }
 
+/* Freeze caption text above table */
+.table-caption {
+  position: sticky;
+  top: 0;                 /* sits above sticky header row */
+  z-index: 1;
+  background: #fff;
+  padding: .5rem;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+
+/* Freeze header row at the top */
+.big-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: #fff;
+}
+
+/* Freeze the first column */
+.big-table th[scope="row"],
+.big-table thead th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 2;              /* ensures it stays above other cells */
+  box-shadow: 1px 0 0 0 rgba(0,0,0,.1); /* optional: visual divider */
+}
+
+.big-table thead th:first-child:first-child {
+  background-color: #fff;
+  z-index: 4;  /* ensure top-left cell is white and prevent bleed through */
+}
+
 /* Tune widths with tokens that make sense for your content.
    Mix % for flexibility + rem/ch for comfortable reading widths. */
-#table-agile-roles col.col-activity   { width: 14rem; }  /* short labels */
+#table-agile-roles col.col-activity   { width: 12rem; }  /* short labels */
 #table-agile-roles col.col-owner      { width: 20rem; }
 #table-agile-roles col.col-coach      { width: 22rem; }
 #table-agile-roles col.col-team       { width: 22rem; }

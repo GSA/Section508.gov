@@ -30,7 +30,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
 <div class="grid-container padding-x-0">
   <div class="grid-col-12">
     <figure class = "usa-table-container--scrollable" role="region" aria-labelledby="table-agile-roles-caption" tabindex="0">
-      <table id="table-agile-roles" class="usa-table usa-table--borderless striped margin-bottom-3">
+      <table id="table-agile-roles" class="usa-table usa-table--borderless striped margin-bottom-3 big-table">
         <caption id="table-agile-roles-caption">Table 1: Agile Roles Section 508 Task Matrix</caption>
         <colgroup>
           <col class="col-activity">
