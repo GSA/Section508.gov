@@ -16,7 +16,7 @@ resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2025-09-15
 updated: 
-exclude-changelog: true
+exclude-changelog:
 ---
 Section 508 Program Managers (PM) play a critical role in ensuring that their agency’s information and communication technology (ICT) is accessible to all users, including people with disabilities. This page provides guidance, best practices, and resources to help PMs lead an effective Section 508 program and ensure compliance with the Rehabilitation Act.
 
@@ -38,7 +38,7 @@ Section 508 Program Managers (PM) play a critical role in ensuring that their ag
 * Engage executive leadership to secure support and resources.
 
 ## Planning and Risk Management
-* Develop a structured Section 508 program plan with clear goals and milestones.
+* Develop a [structured Section 508 program plan]({{site.baseurl}}/manage/strategic-roadmap-template/) with clear goals and milestones.
 * Identify and assess accessibility risks across ICT initiatives.
 * Implement risk mitigation strategies and track progress over time.
 * Monitor changes in law, standards, and best practices to update program plans.
