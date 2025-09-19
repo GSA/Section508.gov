@@ -112,12 +112,10 @@ The purpose of this document is to provide example language you can use when dev
 </ul>
 
 <div class="display-flex flex-justify-center margin-y-4">
-  <button class="usa-button">
-    <a href="{{site.baseurl}}/assets/files/.pdf" target="_blank" class="usa-button"><span>
-      <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg>
-      Download: Notional Best Practice Section 508 Policy Template
-    </span></a>
-  </button>
+  <a href="{{site.baseurl}}/assets/files/managing-accessible-information-and-communications-technology-template.docx" target="_blank" class="usa-button"><span>
+    <svg class="usa-icon" aria-hidden="true" role="img" style="margin-top:-3px; margin-bottom:-3px; margin-right:13px;"><use href="{{site.baseurl}}/assets/img/sprite.svg#file_download"></use></svg>
+    Download: Notional Best Practice Section 508 Policy Template (DOCX)
+  </span></a>
 </div>
 
 ## Agency Examples
