@@ -16,6 +16,8 @@ manage:
         url: manage/governance/integrating-section-508-into-cpic/
       - name: Section 508 Considerations for Enterprise Architecture Integration
         url: manage/governance/integrating-section-508-into-enterprise-architecture/
+      - name: Integrating Section 508 in FITARA
+        url: manage/governance/including-section-508-in-fitara/
       - name: Section 508 Considerations for Change Control Processes
         url: manage/governance/section-508-for-change-control-processes/
   - name: IT Accessibility Policy Framework
