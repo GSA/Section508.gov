@@ -1621,3 +1621,26 @@ div[role=rowheader] {
   display: inline-block; 
   margin-left: 48px;
 }
+
+/* Customize Agile Role Table Column Widths */
+.usa-table-container--scrollable { overflow-x: auto; max-width: 100%; }
+
+/* predictable column widths + wrapping */
+#table-agile-roles { table-layout: fixed; width: 100%; }
+#table-agile-roles th, #table-agile-roles td {
+  vertical-align: top;
+  white-space: normal;        /* allow wrapping */
+  overflow-wrap: anywhere;    /* wrap long words/URLs */
+  word-break: normal;
+  hyphens: auto;              
+}
+
+/* Tune widths with tokens that make sense for your content.
+   Mix % for flexibility + rem/ch for comfortable reading widths. */
+#table-agile-roles col.col-activity   { width: 14rem; }  /* short labels */
+#table-agile-roles col.col-owner      { width: 20rem; }
+#table-agile-roles col.col-coach      { width: 22rem; }
+#table-agile-roles col.col-team       { width: 22rem; }
+#table-agile-roles col.col-artifact   { width: 18rem; }
+#table-agile-roles col.col-integration{ width: 20rem; }
+#table-agile-roles col.col-tools      { width: 18rem; }

@@ -6,6 +6,7 @@ node_modules
 .jekyll-cache/
 .idea
 .DS_Store
+.markdownlint.json
 Gemfile.lock
 package-lock.json
 .angular
