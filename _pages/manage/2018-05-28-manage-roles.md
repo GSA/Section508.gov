@@ -18,7 +18,6 @@ audience:
 resource-type: Long form article
 format: HTML (html)
 ---
-
 Agencies need clear governance and strong leadership to guide Section 508 programs, which establishes the importance of accessibility, improves compliance, and minimizes legal exposure. An agency’s IT Accessibility/508 program’s success also depends on the involvement of many other key players.
 
 The tables below list the roles and responsibilities for agency officials, content creators and other stakeholders.
