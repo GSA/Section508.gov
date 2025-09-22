@@ -202,7 +202,7 @@ format: HTML (html)
 </h2>
 
 <p dir="ltr">
-  Use the technical requirements in the standards to drive adoption of accessible, sustainable technology and <a href="{{site.baseurl}}/create/universal-design">universal design principles</a>. Provide an environment that can be accessed, understood and used to the greatest extent possible by all people, regardless of their age, size, ability or disability.
+  Use the technical requirements in the standards to drive adoption of accessible, sustainable technology and <a href="{{site.baseurl}}/develop/universal-design">universal design principles</a>. Provide an environment that can be accessed, understood and used to the greatest extent possible by all people, regardless of their age, size, ability or disability.
 </p>
 <ul>
 <li dir="ltr">

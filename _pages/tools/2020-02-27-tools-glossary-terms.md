@@ -1234,7 +1234,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="universal-design">Universal design</th>
-    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/create/universal-design">Universal design</a> is also referred to as inclusive design.</td>
+    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/develop/universal-design">Universal design</a> is also referred to as inclusive design.</td>
   </tr>
 </tbody>
 </table>

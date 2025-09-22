@@ -251,7 +251,7 @@ agency buys, builds, and uses, is accessible for all.
       <a href="{{site.baseurl}}/create">Create accessible digital content & products</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/create/universal-design">Universal Design</a>
+      <a href="{{site.baseurl}}/develop/universal-design">Universal Design</a>
   </li>
   <li>
       <a href="https://digital.gov/guides/accessibility-for-teams/">Accessibility for Teams</a>
@@ -343,7 +343,7 @@ agency buys, builds, and uses, is accessible for all.
     Developers 
     <ul>
       <li>
-          <a href="{{site.baseurl}}/create/universal-design">Adopt universal design</a> to  <a href="{{site.baseurl}}/create/software-websites">create software & websites</a> that are accessible to all
+          <a href="{{site.baseurl}}/develop/universal-design">Adopt universal design</a> to  <a href="{{site.baseurl}}/create/software-websites">create software & websites</a> that are accessible to all
       </li>
     </ul>
   </li>
