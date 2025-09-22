@@ -30,7 +30,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
 <!-- Select Accordion / Table View -->
 <ul class="usa-button-group usa-button-group--segmented">
   <li class="usa-button-group__item">
-    <button type="button" class="usa-button" id="btn-view-accordion" aria-expanded="true" aria-controls="accordion-view">Accrodion View</button>
+    <button type="button" class="usa-button" id="btn-view-accordion" aria-expanded="true" aria-controls="accordion-view">Accordion View</button>
   </li>
   <li class="usa-button-group__item">
     <button type="button" class="usa-button usa-button--outline" id="btn-view-table" aria-expanded="false" aria-controls="table-view">Table  View</button>
@@ -102,7 +102,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
         </section>
         <section class="grid-col-12 tablet:grid-col-4">
           <h4 class="margin-y-0">Agile / Development Team Task</h4>
-          <p class="margin-top-05">Write <a href="{{site.baseurl}}develop/user-stories/">user stories</a></p>
+          <p class="margin-top-05">Write <a href="{{site.baseurl}}/develop/user-stories/">user stories</a></p>
         </section>
       </div>
       <hr class="margin-y-1">
@@ -700,7 +700,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
   });
 </script>
 
-<!-- Select Accrodion / Table Views -->
+<!-- Select Accordion / Table Views -->
 <script>
   $("#btn-view-accordion").on("click", function(){
     if ($(this).attr("aria-expanded") === "true") {}
