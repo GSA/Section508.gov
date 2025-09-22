@@ -82,7 +82,7 @@ To develop effective personas that reflect people with disabilities:
  <li class="usa-process-list__item">
    <h3 class="usa-process-list__heading">Start With Real User Research</h3>
    <p class="margin-top-05">
-Qualitative and quantitative research are useful in creating user personas. They help to understand groupings within a user base. Qualitative research can be used to create clusters or groupings of characteristics. Quantitative surveys can then be used to test groupings to see if the clusters behave similarly or need to be re-grouped. More about conducting User Research can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/">Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a>.</p></li>
+Qualitative and quantitative research are useful in creating user personas. They help to understand groupings within a user base. Qualitative research can be used to create clusters or groupings of characteristics. Quantitative surveys can then be used to test groupings to see if the clusters behave similarly or need to be re-grouped. More about conducting User Research can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/">Play 7: Integrate Accessibility Needs into Requirements and Design Processes</a>.</p></li>
 
 
 <li class="usa-process-list__item">
@@ -660,8 +660,8 @@ Developing a persona is much like creating a character for a book. Name them, de
 
 * [Design and Develop]({{site.baseurl}}/develop/) 
 * <a href="https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs/" target="_blank" class="usa-link--external">Digital.gov Personas: learn how to discover your audience, understand them, and pivot to address their needs</a>
-* [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/) 
+* [Technology Accessibility Playbook—Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/) 
 * [Universal Design]({{site.baseurl}}/develop/universal-design/) 
 
 
-<strong>Reviewed/Updated:</strong> September 2025
+<strong>Reviewed/Updated:</strong> September 2025 

@@ -175,22 +175,22 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play01">Play 1: Establish a Section 508 Program Manager to lead compliance efforts</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/1/">Play 1: Establish a Section 508 Program Manager to lead compliance efforts</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02">Play 2: Assess your Section 508 program maturity</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/2/">Play 2: Assess your Section 508 program maturity</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play03">Play 3: Develop a Section 508 Accessibility Roadmap</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/3/">Play 3: Develop a Section 508 Accessibility Roadmap</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play05">Play 5: Develop a Section 508 Program Team</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/5/">Play 5: Develop a Section 508 Program Team</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play06">Play 6: Collaborate with the federal accessibility community</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/6/">Play 6: Collaborate with the federal accessibility community</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play12">Play 12: Educate the workforce</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/12/">Play 12: Educate the workforce</a>
 </li>
 </ul>
 
@@ -259,7 +259,7 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Play 7: Integrate accessibility needs into requirements and design processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/">Play 7: Integrate accessibility needs into requirements and design processes</a>
 </li>
 </ul>
 
@@ -334,7 +334,7 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play04">Play 4: Establish an Agency Policy</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/4/">Play 4: Establish an Agency Policy</a>
 </li>
 </ul>
 
@@ -425,16 +425,16 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play08">Play 8: Integrate accessibility needs into market research and acquisition processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/08/">Play 8: Integrate accessibility needs into market research and acquisition processes</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/09/">Play 9: Integrate accessibility needs into development processes</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Play 11: Track and resolve accessibility issues</a>
 </li>
 </ul>
 
@@ -489,13 +489,13 @@ format: HTML (html)
 ### Technology Accessibility Playbook
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Play 9: Integrate accessibility needs into development processes</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/09/">Play 9: Integrate accessibility needs into development processes</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Play 11: Track and resolve accessibility issues</a>
 </li>
 </ul>
 
@@ -550,10 +550,10 @@ format: HTML (html)
 </h3>
 <ul>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Play 10: Conduct Section 508 testing</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Play 10: Conduct Section 508 testing</a>
 </li>
 <li dir="ltr">
-  <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Play 11: Track and resolve accessibility issues</a>
+  <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Play 11: Track and resolve accessibility issues</a>
 </li>
 </ul>
 
