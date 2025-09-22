@@ -38,7 +38,6 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
 </ul>
 
 <hr>
-
 <!-- Accordion View -->
 <div id="accordion-view">
   <div class="margin-bottom-3">
@@ -55,18 +54,18 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
     </h3>
     <div id="acc-backlog" class="usa-accordion__content roles_content">
       <div class="grid-row grid-gap">
-        <section class="grid-col-12 tablet:grid-col-4">
+        <div class="grid-col-12 tablet:grid-col-4">
           <h4 class="margin-y-0">Agile Product / Project Owner Task</h4>
           <p class="margin-top-05">Prioritize accessibility stories.</p>
-        </section>
-        <section class="grid-col-12 tablet:grid-col-4">
+        </div>
+        <div class="grid-col-12 tablet:grid-col-4">
           <h4 class="margin-y-0">Scrum Master / Agile Coach Task</h4>
           <p class="margin-top-05">Facilitate discussion to ensure accessibility items are visible.</p>
-        </section>
-        <section class="grid-col-12 tablet:grid-col-4">
+        </div>
+        <div class="grid-col-12 tablet:grid-col-4">
           <h4 class="margin-y-0">Agile / Development Team Task</h4>
           <p class="margin-top-05">Ensure visibility into accessibility tasks.</p>
-        </section>
+        </div>
       </div>
       <hr class="margin-y-1">
       <div class="grid-row grid-gap">
