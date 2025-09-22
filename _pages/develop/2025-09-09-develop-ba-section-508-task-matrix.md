@@ -158,7 +158,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
         </div>
         <div class="grid-col-12 tablet:grid-col-6">
           <h4 class="text-bold margin-0">Related artifacts</h4>
-          <p class="margin-top-05"><a href="{{site.baseurl}}/develop/user-stories/">User Story</a></p>
+          <p class="margin-top-05"><a href="{{site.baseurl}}/develop/user-stories/">User Stories</a></p>
         </div>
       </div>
       <hr class="margin-y-1">
@@ -503,7 +503,7 @@ Embedding Section 508 conformance consistently throughout the product lifecycle 
         <tr>
           <th scope="row">Draft user stories</th>
           <td>Create stories that include accessibility as a user goal</td>
-          <td><a href="{{site.baseurl}}/develop/user-stories/">User Story</a></td>
+          <td><a href="{{site.baseurl}}/develop/user-stories/">User Stories</a></td>
           <td>Clear tab order, visible focus, all interactive elements operable by keyboard</td>
           <td>Gather requirements and Develop</td>
           <td>Pair programming, code review guidance</td>
