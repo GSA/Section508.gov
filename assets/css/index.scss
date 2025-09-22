@@ -1666,3 +1666,68 @@ div[role=rowheader] {
    max-width: none; 
    width: 100%;
 }
+
+/* Customize 'Big Table' size and scrolling */
+.usa-table-container--scrollable { 
+  z-index: 2;
+  position: relative;
+  overflow-x: auto; 
+  overflow-y: auto; 
+  max-width: 100%; 
+  max-height: 80vh;
+}
+
+/* predictable column widths + wrapping */
+.big-table { 
+  table-layout: fixed; 
+  width: 100%; 
+}
+
+.big-table th, .big-table td {
+  vertical-align: top;
+  white-space: normal;        /* allow wrapping */
+  overflow-wrap: anywhere;    /* wrap long words/URLs */
+  word-break: normal;
+  hyphens: auto;              
+}
+
+/* Freeze header row at the top */
+.big-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: #fff;
+}
+
+/* Freeze the first column */
+.big-table th[scope="row"],
+.big-table thead th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 2;              /* ensures it stays above other cells */
+  box-shadow: 1px 0 0 0 rgba(0,0,0,.1); /* optional: visual divider */
+}
+
+.big-table thead th:first-child:first-child {
+  background-color: #fff;
+  border-color: #1b1b1b;
+  border-bottom: 1px solid #1b1b1b;
+  z-index: 4;  /* ensure top-left cell is white and prevent bleed through */
+}
+
+/* Tune Agile Role table widths */
+#table-agile-roles col.col-activity   { width: 12rem; }
+#table-agile-roles col.col-owner      { width: 20rem; }
+#table-agile-roles col.col-coach      { width: 22rem; }
+#table-agile-roles col.col-team       { width: 22rem; }
+#table-agile-roles col.col-artifact   { width: 18rem; }
+#table-agile-roles col.col-integration{ width: 20rem; }
+#table-agile-roles col.col-tools      { width: 18rem; }
+
+/* Tune BA Role table widths */
+#table-ba-roles col.col-batask     { width: 12rem; }
+#table-ba-roles col.col-focus      { width: 20rem; }
+#table-ba-roles col.col-artifact   { width: 22rem; }
+#table-ba-roles col.col-criteria   { width: 22rem; }
+#table-ba-roles col.col-lifecycle  { width: 18rem; }
+#table-ba-roles col.col-tools      { width: 18rem; }

@@ -4,8 +4,9 @@ sidenav: true
 permalink: manage/roles/
 type: manage
 title: 'IT Accessibility Roles and Responsibilities'
+description: Explore the clearly defined roles and responsibilities—from agency officials to content creators and program managers—that federal agencies must follow to effectively govern and ensure compliance with Section 508 accessibility requirements.
 created:
-updated: 2025-03-05
+updated: 2025-09-09
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -275,6 +276,18 @@ The roles and responsibilities cited in this article were informed by federal re
     </td>
   </tr>
   <tr>
+    <th scope="row" id="business-analyst">Business Analyst (BA)</th>
+    <td>
+      <ul>
+        <li>Elicit, analyze, and document business and technical requirements, ensuring ICT accessibility needs are incorporated into systems, workflows, and acquisition processes.</li>
+         <li>Align solutions with Section 508 standards and federal ICT accessibility best practices, providing clear specifications for developers, vendors, and procurement teams.</li>
+         <li>Facilitate conformance testing and validation through coordination with Quality Assurance Specialist, Testers, and accessibility subject matter experts (SME) to validate compliance.</li>
+         <li>Track, monitor, and report accessibility-related metrics and progress, delivering insights to program managers, leadership, and oversight bodies.</li>
+         <li>Serve as a liaison between business stakeholders, technical teams, and accessibility SMEs to ensure ICT accessibility is integrated throughout the project lifecycle.</li>
+        </ul>
+      </td>
+     </tr> 
+  <tr>
     <th scope="row" id="content-creators">Content Creators & Document Authors</th>
     <td>
       <ul>
@@ -323,10 +336,14 @@ The roles and responsibilities cited in this article were informed by federal re
     </td>
   </tr>
   <tr>
-    <th scope="row">Scrum master</th>
+    <th scope="row">Scrum master or Agile Coach</th>
     <td>
       <ul>
-        <li>Ensure product backlog items are clearly defined and managed efficiently.</li>
+        <li>Ensure user stories, bugs, and criteria related to ICT accessibility are visible during planning, backlog refinement, and demonstrations.</li>
+        <li>Support teams in raising and prioritizing accessibility blockers.</li>
+        <li>Guide teams in defining acceptance criteria, estimating tasks, and embedding ICT accessibility into the Definition of Done (DoD).</li>
+        <li>Promote accessibility checks in manual, automated, and Continuous Integration and Continuous Deployment (CI/CD) pipelines, and ensure UAT and demos include accessibility-specific scenarios.</li>
+        <li>Utilize Scrum events to facilitate collaboration between Product Owner, developers, and testers to translate criteria into test scenarios, log clear bugs, and incorporate user feedback into future work.</li>
       </ul>
     </td>
   </tr>
@@ -442,4 +459,4 @@ The roles and responsibilities cited in this article were informed by federal re
   <li><a href="https://www.appropriations.senate.gov/imo/media/doc/JRQ121922.PDF#page=651" target="_blank" class="usa-link usa-link--external text-top">Section 752 of the Consolidated Appropriations Act of 2023</a></li>
 </ul>
 
-**Reviewed/Updated:** March 2025
+**Reviewed/Updated:** September 2025
