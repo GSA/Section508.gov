@@ -49,7 +49,7 @@ Incorporating Section 508 conformance into Agile product lifecycle requires clea
   <div class="usa-accordion" data-allow-multiple>
     <!-- Backlog Grooming -->
     <h3 class="usa-accordion__heading">
-      <button class="usa-accordion__button roles_button" aria-expanded="false" aria-controls="acc-backlog">
+      <button class="usa-accordion__button roles_button" aria-expanded="true" aria-controls="acc-backlog">
         Backlog Grooming
       </button>
     </h3>
