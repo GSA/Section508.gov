@@ -1622,7 +1622,7 @@ div[role=rowheader] {
   margin-left: 48px;
 }
 
-/* Customize 'Bit Table' size and scrolling */
+/* Customize 'Big Table' size and scrolling */
 .usa-table-container--scrollable { 
   z-index: 2;
   position: relative;
@@ -1646,18 +1646,6 @@ div[role=rowheader] {
   hyphens: auto;              
 }
 
-/* Freeze caption text above table */
-.table-caption {
-  position: sticky;
-  top: 0;                 /* sits above sticky header row */
-  z-index: 1;
-  background: #fff;
-  padding: .5rem;
-  font-weight: bold;
-  border-bottom: 2px solid #ddd;
-}
-
-
 /* Freeze header row at the top */
 .big-table thead th {
   position: sticky;
@@ -1677,15 +1665,24 @@ div[role=rowheader] {
 
 .big-table thead th:first-child:first-child {
   background-color: #fff;
+  border-color: #1b1b1b;
+  border-bottom: 1px solid #1b1b1b;
   z-index: 4;  /* ensure top-left cell is white and prevent bleed through */
 }
 
-/* Tune widths with tokens that make sense for your content.
-   Mix % for flexibility + rem/ch for comfortable reading widths. */
-#table-agile-roles col.col-activity   { width: 12rem; }  /* short labels */
+/* Tune Agile Role table widths */
+#table-agile-roles col.col-activity   { width: 12rem; }
 #table-agile-roles col.col-owner      { width: 20rem; }
 #table-agile-roles col.col-coach      { width: 22rem; }
 #table-agile-roles col.col-team       { width: 22rem; }
 #table-agile-roles col.col-artifact   { width: 18rem; }
 #table-agile-roles col.col-integration{ width: 20rem; }
 #table-agile-roles col.col-tools      { width: 18rem; }
+
+/* Tune BA Role table widths */
+#table-ba-roles col.col-batask     { width: 12rem; }
+#table-ba-roles col.col-focus      { width: 20rem; }
+#table-ba-roles col.col-artifact   { width: 22rem; }
+#table-ba-roles col.col-criteria   { width: 22rem; }
+#table-ba-roles col.col-lifecycle  { width: 18rem; }
+#table-ba-roles col.col-tools      { width: 18rem; }
