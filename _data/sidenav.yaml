@@ -110,6 +110,8 @@ manage:
             url: manage/program-roadmap/
           - name: Section 508 Exceptions Request and Approval Process
             url: manage/exceptions-request-and-approval-process/ 
+          - name: Section 508 Policy Template
+            url: manage/section-508-policy-template/
           - name: Section 508 Program Manager Responsibilities
             url: manage/program-manager-responsibilities/
           - name: Teach Staff about Accessibility
