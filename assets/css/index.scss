@@ -18,7 +18,7 @@
 
 // Example - Override the background image in the hero component using CSS:
 .usa-hero {
-  background-image: url("{{site.baseurl}}/assets/images/hero-whats-new.jpg")
+  background-image: url("{{site.baseurl}}/assets/images/hero-playbook-2b.jpg")
     //  background-position: 50%;
     //  background-size: cover;
 }
@@ -464,9 +464,10 @@ div[role=rowheader] {
 }
 @media (min-width: 40em) {
   .usa-hero__callout {
-    //original max-width was 24rem
-    //a11y bytes was 31rem
-    max-width: 27rem;
+    max-width: 30rem;
+    //24rem = original max-width
+    //31rem - a11y bytes
+    //30rem = playbook
   }
 
   .topics {
