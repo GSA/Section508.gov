@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: 'Manage Agency ICT Accessibility'
+description: Learn how to manage your ICT accessibility responsibilities and support your agency in fulfilling its Rehabilitation Act obligations, ensuring equal access to information and communication technology (ICT) for people with disabilities.
 permalink: manage/
 redirect_from:
 - manage/deia-guidance/
@@ -17,7 +18,7 @@ audience:
 resource-type: "Process/How-to"
 format: "HTML (html)"
 created: 2018-05-22
-updated: 2025-09-15
+updated: 2025-09-23
 exclude-changelog: true
 ---
 Learn how to manage your ICT accessibility responsibilities and support your agency in fulfilling its Rehabilitation Act obligations, ensuring equal access to information and communication technology (ICT) for people with disabilities.

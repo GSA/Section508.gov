@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: 'Manage a Section 508 Program Overview'
+description: Explore comprehensive guidance on managing a Section 508 program, including policy development, governance, training, and compliance strategies for federal agencies.
 permalink: manage/section-508-program/
 topic: "Manage (program)"
 sub-topic: "Manage a Section 508 Program"

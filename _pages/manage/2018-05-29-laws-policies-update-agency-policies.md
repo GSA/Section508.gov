@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: 'Update and Maintain Agency Policy'
+description: Learn how to update and maintain your agency's accessibility policies to ensure compliance with Section 508 and other requirements of the Rehabilitation Act.
 permalink: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
 redirect_from:
 - manage/laws-and-policies/update-agency-policies/
