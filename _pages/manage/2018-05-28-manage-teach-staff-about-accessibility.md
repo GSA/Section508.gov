@@ -35,8 +35,8 @@ Accessibility is not just a legal mandate, it is also good for business. Use the
 
   * **Establish accessibility review guidelines.** Determine a review process for each department responsible for publishing covered electronic content. Insert accessibility reviews into existing development and publication lifecycles.
 
-    *  [Play 7: Integrate accessibility needs into requirements and design processes][6]
-    *  [Play 9: Integrate accessibility needs into development processes][7]
+    *  [Play 7: Integrate Accessibility Needs into Requirements and Design Processes][6]
+    *  [Play 9: Integrate Accessibility Needs into Development Processes][7]
 
 ## Related Resources
 

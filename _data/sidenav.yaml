@@ -168,7 +168,7 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook/
           - name: "Play 1: Establish a Section 508 Program Manager"
             url: manage/playbooks/technology-accessibility-playbook/1/
-          - name: "Play 2: Assess your Section 508 Program Maturity"
+          - name: "Play 2: Measure Your Section 508 Program’s Overall Performance"
             url: manage/playbooks/technology-accessibility-playbook/2/
           - name: "Play 3: Develop a Section 508 Accessibility Roadmap"
             url: manage/playbooks/technology-accessibility-playbook/3/
@@ -184,7 +184,7 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook/8/
           - name: "Play 9: Integrate Accessibility Needs into Development Processes"
             url: manage/playbooks/technology-accessibility-playbook/9/
-          - name: "Play 10: Conduct Section 508 Testing"
+          - name: "Play 10: Conduct ICT Accessibility Testing"
             url: manage/playbooks/technology-accessibility-playbook/10/
           - name: "Play 11: Track and Resolve Accessibility Issues"
             url: manage/playbooks/technology-accessibility-playbook/11/
