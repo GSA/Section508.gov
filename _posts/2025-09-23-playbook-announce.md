@@ -53,7 +53,7 @@ Plays 5--8 provide strategies to embed accessibility in governance, budgeting, a
 <ul class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-red"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#insights"></use></svg></div>
-      <div class="usa-icon-list__content"><h4>Better Integration Across Agency Operations</h4></div>
+      <div class="usa-icon-list__content"><h4>Support for Continuous Improvemen</h4></div>
   </li>
 </ul>
 <!-- #### 📈 Support for Continuous Improvement -->
