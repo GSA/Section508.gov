@@ -3,9 +3,9 @@ layout: page
 sidenav: true
 type: manage
 title: 'Sample Position Descriptions for Section 508 Subject Matter Experts'
-permalink: manage/roles/section-508-position-description/
+permalink: manage/roles/section-508-position-descriptions/
 redirect_from:
-- manage/roles/section-508-tester-pd/
+- manage/roles/section-508-tester-pd/ #legacy
 description: Example position description for a Section 508 Accessibility Tester.
 disclaimer: false
 contributors: 
