@@ -443,6 +443,8 @@ develop:
     children:
       - name: Applicability and Conformance Requirements for Developers
         url: develop/applicability-conformance/
+      - name: Conducting User Research with People with Disabilities
+        url: develop/usability-testing-with-people-with-disabilities/
       - name: Develop Software and Websites
         url: develop/software-websites/
       - name: Incorporating Accessibility Conformance Validation within Development
