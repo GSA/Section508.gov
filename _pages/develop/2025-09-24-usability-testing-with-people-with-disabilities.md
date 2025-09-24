@@ -1,4 +1,4 @@
-**---
+---
 layout: page
 sidenav: true
 type: develop
@@ -21,8 +21,6 @@ format: html
 created: 2025-08-20
 updated: 
 exclude-changelog: 
-
-
 ---
 
 Effective information and communication technology (ICT) must be designed to serve all users, including people with disabilities. Incorporating people with disabilities into user research is critical to understanding how ICT solutions function in real-world settings and ensuring compliance with Section 508 requirements. Design and development teams should conduct user research with end users who will ultimately benefit from the solution. Engaging participants with diverse needs throughout the design and development process helps agencies identify barriers early, improve usability, and reduce the cost of remediation. The guidance below provides best practices for planning and conducting user research with people with disabilities, including considerations for recruitment, study design, and testing methods.
