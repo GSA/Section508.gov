@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: develop
 title: Conducting User Research with People with Disabilities
-permalink: develop/usability-testing-with-people-with-disabilities
+permalink: develop/usability-testing-with-people-with-disabilities/
 description: Guidance for planning and conducting usability and qualitative research with people with disabilities, including best practices for recruitment, accessible research processes, budgeting, scheduling, and scripting to ensure inclusive ICT design and development.
 disclaimer: true
 audience: 
