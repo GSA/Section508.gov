@@ -31,8 +31,6 @@ exclude-changelog:
 
 When writing a recruitment questionnaire, consider following the following process: 
 
-### Process Workflow
-
 <ol class="usa-process-list">
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Define the Objective</h4>
@@ -40,9 +38,8 @@ When writing a recruitment questionnaire, consider following the following proce
       <ul>
         <li>Example: For this engagement our goal is to identify or confirm usability of the feature such as an application, website, or solution. </li>
                          </ul>
-            </li>
     </div>
-
+</li>
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Identify Sources of Potential Subjects</h4>
     <div class="margin-top-05">
@@ -57,7 +54,6 @@ When writing a recruitment questionnaire, consider following the following proce
             <li>Partnering with agency programs</li>
             <li>Collaborating with disability-focused employee resource groups</li>
               </ul>
-            </li>
           </ul>
     </div>
   </li>
@@ -190,4 +186,4 @@ When writing a recruitment questionnaire, consider following the following proce
 
 
 
-**Reviewed/Updated:** July 2025
+**Reviewed/Updated:** September 2025
