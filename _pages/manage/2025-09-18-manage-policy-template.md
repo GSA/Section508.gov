@@ -62,7 +62,7 @@ The purpose of this document is to provide example language you can use when dev
       </svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Authority:</strong> Includes a list of the relevant laws and regulations. Refer to <a href="https://www.section508.gov/manage/laws-and-policies/" target="_blank" class="usa-link--external">IT Accessibility Laws and Policies</a> as well as your own agency policies.
+      <strong>Authority:</strong> Includes a list of the relevant laws and regulations. Refer to <a href="{{site.baseurl}}/manage/laws-and-policies/">IT Accessibility Laws and Policies</a> as well as your own agency policies.
     </div>
   </li>
 
@@ -73,7 +73,7 @@ The purpose of this document is to provide example language you can use when dev
       </svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Policy:</strong> Includes the actions required to uphold the directive regarding accessible information and communication technologies, including development, maintenance, procurement, acquisition, etc. (See <a href="https://www.section508.gov/manage/policy-framework/introduction/" target="_blank" class="usa-link--external">Policy Framework</a> for examples). Also includes exceptions, documentation, remediation, reporting, and conformance with standards.
+      <strong>Policy:</strong> Includes the actions required to uphold the directive regarding accessible information and communication technologies, including development, maintenance, procurement, acquisition, etc. (See <a href="{{site.baseurl}}/manage/policy-framework/introduction/">Policy Framework</a> for examples). Also includes exceptions, documentation, remediation, reporting, and conformance with standards.
     </div>
   </li>
 
@@ -84,7 +84,7 @@ The purpose of this document is to provide example language you can use when dev
       </svg>
     </div>
     <div class="usa-icon-list__content">
-      <strong>Roles and Responsibilities:</strong> Contains a list of your agency's <a href="https://www.section508.gov/manage/roles/" target="_blank" class="usa-link--external">stakeholders who are responsible</a> for upholding Section 508 compliance. Describes the roles they play, collaboration, oversight, reporting, and guidance delivery.
+      <strong>Roles and Responsibilities:</strong> Contains a list of your agency's <a href="{{site.baseurl}}/manage/roles/">stakeholders who are responsible</a> for upholding Section 508 compliance. Describes the roles they play, collaboration, oversight, reporting, and guidance delivery.
     </div>
   </li>
 
@@ -120,7 +120,7 @@ The purpose of this document is to provide example language you can use when dev
 
 ## Agency Examples
 * <a href="https://www.hhs.gov/web/governance/digital-strategy/it-policy-archive/hhs-policy-section-508-compliance-accessibility-information-communications-technology.html" target="_blank" class="usa-link--external">Department of Health and Human Services (HHS) Policy for Section 508 Compliance and Accessibility of ICT</a>
-* *<a href="https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc" target="_blank" class="usa-link--external">Department of Homeland (DHS) Security Section 508 Directive (DOC)</a>
+* <a href="https://assets.section508.gov/assets/files/Directive_139.2_Final_10-28-2008.doc" target="_blank" class="usa-link--external">Department of Homeland (DHS) Security Section 508 Directive (DOC)</a>
 * <a href="https://www.doi.gov/sites/doi.gov/files/elips/documents/375-dm-8_0.pdf" target="_blank" class="usa-link--external">Department of the Interior (DOI) Section 508 Departmental Policy Example (PDF)</a>
 * <a href="https://www.opm.gov/information-management/accessibility/OPMSection508Policy2021.pdf" target="_blank" class="usa-link--external">Office of Personnel Management (OPM) Section 508 Policy (PDF)</a>
 * <a href="https://www.dfc.gov/sites/default/files/media/documents/Section%20508%20Policy%2004-01-2024.pdf" target="_blank" class="usa-link--external">U.S. International Development Finance Corporation (DFC) Office of Information Technology (OIT) Section 508 Policy (PDF)</a>
@@ -286,7 +286,7 @@ Use this checklist as a supplement to the Section 508 Policy Template to ensure 
     </tr>
     <tr>
       <th scope="row"><svg class="usa-icon text-blue center-middle" aria-hidden="true" focusable="false" role="img"><use href="{{ site.baseurl }}/assets/img/sprite.svg#check_box_outline_blank"></use></svg></th>
-      <td>See <a href="{{site.baseurl}}/content/glossary/">Section 508 glossary of terms</a></td>
+      <td>See <a href="{{site.baseurl}}/tools/glossary/">Section 508 glossary of terms</a></td>
     </tr>
   </tbody>
 </table>
