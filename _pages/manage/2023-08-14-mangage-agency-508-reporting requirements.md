@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: 'Section 508 Conformance Reporting for Federal Agencies'
+description: Learn federal agency reporting requirements under Section 508. Review previous reporting on ICT accessibility, compliance, and program maturity.
 permalink: manage/agency-508-reporting-requirements/
 topic: Manage (program)
 sub-topic: Reporting

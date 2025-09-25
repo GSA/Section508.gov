@@ -3,6 +3,7 @@ sidenav: true
 layout: page
 type: training
 title: "Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement"
+description: Learn requirements and best practices for soliciting and evaluating Accessibility Conformance Reports (ACRs) in federal ICT procurement.
 permalink: training/online-course/soliciting-and-evaluating-acrs/
 topic: "Training (train)"
 sub-topic: "Presentations"

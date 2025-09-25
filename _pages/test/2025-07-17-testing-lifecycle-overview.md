@@ -1,13 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: test/testing-lifecycle-overview/
 type: test
 title: 'Testing Lifecycle Overview'
 description: Learn about the testing lifecycle which involves planning, scoping, and executing tests, remediating issues and retesting for resolution and ongoing monitoring to sustain Section 508 conformance.
-created: 2025-07-21
-updated: 2025-07-21
-contributors: 
+permalink: test/testing-lifecycle-overview/
 topic: Testing (test)
 sub-topic: "Design, Develop, Testing for Accessibility Training or Tools"
 audience:
@@ -18,6 +15,8 @@ audience:
 - Chief Information Officer (cio)
 resource-type: Long form article
 format: HTML (html)
+created: 2025-07-21
+updated: 2025-07-21
 ---
 
 Section 508 conformance testing is essential to ensure information and communication technology (ICT) is usable and accessible for people with disabilities and conforms to federal <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>. Without testing, Section 508 defects may go unnoticed—leading to conformance issues, poor user experience, and potential legal risk. The testing lifecycle begins with planning and scoping, followed by testing using a test methodology and tools to identify defects. Following the review, remediation is performed and validated through retesting to ensure all issues have been adequately resolved. Ongoing monitoring and maintenance helps sustain Section 508 conformance as ICT evolves. 
@@ -44,7 +43,7 @@ Testing should happen throughout the <a href="{{site.baseurl}}/develop/incorpora
 </ul>
 </li> 
 <li class="usa-process-list__item">
-    <h2 class="usa-process-list__heading">Conduct Section 508 Testing</h2>
+    <h2 class="usa-process-list__heading">Conduct ICT Accessibility Testing</h2>
 <ul>
 <li>Using the methodologies identified in Step 1, test the product.</li>  
 <li>Ensure comprehensive testing includes all applicable Section 508 Standards.</li>   

@@ -130,7 +130,7 @@ In short, risk must be assessed, a remediation opportunity must be granted, and 
 * [Procuring Section 508 Conformant ICT Products and Services]({{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/)   
 * [Section 508 Exceptions Request and Approval Process]({{site.baseurl}}/manage/exceptions-request-and-approval-process/)  
 * [Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement]({{site.baseurl}}/training/online-course/soliciting-and-evaluating-acrs/)  
-* [Technology Accessibility Playbook \- Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play08/)  
+* [Technology Accessibility Playbook \- Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/8/)  
 * [Testing Lifecycle Overview]({{site.baseurl}}/test/testing-lifecycle-overview/)
 
 **Reviewed/Updated:** September 2025

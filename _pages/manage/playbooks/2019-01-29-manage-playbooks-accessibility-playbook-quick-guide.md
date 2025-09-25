@@ -98,10 +98,10 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play01">Appoint a program manager</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/1/">Appoint a program manager</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play04">Establish agency policy</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/4/">Establish agency policy</a>
   </li>
 </ul>
 
@@ -135,7 +135,7 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play02">Assess program maturity</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/2/">Assess program maturity</a>
   </li>
 </ul>
 
@@ -162,7 +162,7 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play03">Develop a roadmap</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/3/">Develop a roadmap</a>
   </li>
 </ul>
 
@@ -196,10 +196,10 @@ agency buys, builds, and uses, is accessible for all.
 </h3>
 <ul>
     <li>
-        <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play05">Cultivate a team</a>
+        <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/5/">Cultivate a team</a>
     </li>
     <li>
-        <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play06">Engage with the community</a>
+        <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/6/">Engage with the community</a>
   </li>
 </ul>
 
@@ -231,10 +231,10 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/">Document your requirements</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play08">Buy accessible</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/08/">Buy accessible</a>
   </li>
 </ul>
 
@@ -251,7 +251,7 @@ agency buys, builds, and uses, is accessible for all.
       <a href="{{site.baseurl}}/create">Create accessible digital content & products</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/create/universal-design">Universal Design</a>
+      <a href="{{site.baseurl}}/develop/universal-design">Universal Design</a>
   </li>
   <li>
       <a href="https://digital.gov/guides/accessibility-for-teams/">Accessibility for Teams</a>
@@ -264,10 +264,10 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play07">Document your requirements</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/7/">Document your requirements</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play09">Build accessible</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/09/">Build accessible</a>
   </li>
 </ul>
 
@@ -307,10 +307,10 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play10">Test for accessibility</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/10/">Test for accessibility</a>
   </li>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play11">Track and resolve issues</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Track and resolve issues</a>
   </li>
 </ul>
 
@@ -343,7 +343,7 @@ agency buys, builds, and uses, is accessible for all.
     Developers 
     <ul>
       <li>
-          <a href="{{site.baseurl}}/create/universal-design">Adopt universal design</a> to  <a href="{{site.baseurl}}/create/software-websites">create software & websites</a> that are accessible to all
+          <a href="{{site.baseurl}}/develop/universal-design">Adopt universal design</a> to  <a href="{{site.baseurl}}/create/software-websites">create software & websites</a> that are accessible to all
       </li>
     </ul>
   </li>
@@ -373,7 +373,7 @@ agency buys, builds, and uses, is accessible for all.
 
 <ul>
   <li>
-      <a href="{{site.baseurl}}/tools/playbooks/technology-accessibility-playbook-intro/play12">Train employees</a>
+      <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/12/">Train employees</a>
   </li>
 </ul>
 
