@@ -150,7 +150,7 @@ An overview of testing methods and the tools to test websites, software, and ele
   <li class="usa-card mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-4">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/#dhs-trusted-tester-process--certification-program)">Trusted Tester Process & Certification Program</a></h2>
+        <h2 class="usa-card__heading font-family-sans"><a href="{{site.baseurl}}/test/trusted-tester/">Trusted Tester Process & Certification Program</a></h2>
       </header>
       <div class="usa-card__media">
         <div class="usa-card__img bg-primary-light">

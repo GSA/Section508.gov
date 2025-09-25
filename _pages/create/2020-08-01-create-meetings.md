@@ -440,7 +440,7 @@ By making your meetings accessible, you are contributing to the ongoing effort t
 ## Additional Resources
 <ul>
     <li><a href="{{site.baseurl}}/create/">Create Accessible Digital Products</a></li>
-    <li><a href="{{site.baseurl}}/create/universal-design/">Universal Design and Accessibility</a></li>
+    <li><a href="{{site.baseurl}}/develop/universal-design/">Universal Design and Accessibility</a></li>
     <li><a href="https://www.cdc.gov/ncbddd/hearingloss/transcripts/Making-Meetings-Accessible.pdf" target="_blank" class="usa-link--external">Making Meetings Accessible | CDC.gov</a></li>
     <li><a href="https://www.w3.org/TR/remote-meetings/#creating-accessible-content-for-remote-meetings" target="_blank" class="usa-link--external">Accessibility of Remote Meetings | W3C</a></li>
     <li><a href="https://www.w3.org/WAI/people-use-web/" target="_blank" class="usa-link--external">How People with Disabilities Used the Web | W3C</a></li>

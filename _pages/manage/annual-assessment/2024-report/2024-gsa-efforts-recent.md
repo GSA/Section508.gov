@@ -124,7 +124,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * [Best practices for establishing and maintaining a public feedback mechanism]({{site.baseurl}}/manage/laws-and-policies/implementing-public-feedback-mechanism/)
 
-  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/Section-508-complaints-best-practices/)
+  * [Best practices for establishing and maintaining a formal Section 508 complaint process]({{site.baseurl}}/manage/laws-and-policies/section-508-complaints-best-practices/)
 
   * [Common PDF Tags and Their Usage]({{site.baseurl}}/create/pdfs/common-tags-and-usage/)
 
@@ -134,7 +134,7 @@ In the beginning of FY25, GSA created a list of key performance indicators (KPIs
 
   * [Designing Digital Content for Users With Cognitive Disabilities]({{site.baseurl}}/design/digital-content-users-with-cognitive-disabilities)
 
-* GSA conducted a "High Achiever Study'' to enhance the [Technology Accessibility Playbook]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/), which is currently published on Section508.gov. GSA interviewed high-performing agencies on their FY23 Assessment responses to provide insights into how agencies may improve accessibility within their program. GSA is developing an addition to the playbook to create a model program. This addition will also include tools, templates, and other artifacts to assist agencies with implementing the plays from the playbook.
+* GSA conducted a "High Achiever Study'' to enhance the [Technology Accessibility Playbook]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/), which is currently published on Section508.gov. GSA interviewed high-performing agencies on their FY23 Assessment responses to provide insights into how agencies may improve accessibility within their program. GSA is developing an addition to the playbook to create a model program. This addition will also include tools, templates, and other artifacts to assist agencies with implementing the plays from the playbook.
 
 ## Strategic Engagement
 

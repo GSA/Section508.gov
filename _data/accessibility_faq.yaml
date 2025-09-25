@@ -42,7 +42,7 @@
   id: 9
   q: I don't have much free time, can I find resources specifically targeted at my role within my agency? 
   a: |
-    Currently [section508.gov](https://www.section508.gov/) is broken down by type of content not role. However, certain content is targeted for specific roles. For instance, [the technology accessibility playbook](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/) is targeted solely for designers and developers, while the [broader policy and management section](https://www.section508.gov/manage/) is primarily targeted at Section 508 Program Managers (PMs) and agency IT executives.
+    Currently [section508.gov](https://www.section508.gov/) is broken down by type of content not role. However, certain content is targeted for specific roles. For instance, [the technology accessibility playbook](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/) is targeted solely for designers and developers, while the [broader policy and management section](https://www.section508.gov/manage/) is primarily targeted at Section 508 Program Managers (PMs) and agency IT executives.
 -  
   id: 10
   q: Where can I find training on accessibility?
@@ -172,4 +172,4 @@
   id: 25
   q: What do we need in a baseline Section 508/ICT Accessibility policy?
   a: |
-    The cornerstone of an accessibility program is an agency-wide Section 508 policy. The policy must identify how the agency will manage accessibility compliance through technology acquisition, development, authoring, configuration, deployment, and maintenance activities. The policy must define clear roles and responsibilities. The policy must clarify the authorities and shared responsibility with other agency stakeholders for implementing Section 508 across the agency. For more information visit [this Section 508 policy creation guidance page on Section508.gov](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook-intro/play04/).
+    The cornerstone of an accessibility program is an agency-wide Section 508 policy. The policy must identify how the agency will manage accessibility compliance through technology acquisition, development, authoring, configuration, deployment, and maintenance activities. The policy must define clear roles and responsibilities. The policy must clarify the authorities and shared responsibility with other agency stakeholders for implementing Section 508 across the agency. For more information visit [this Section 508 policy creation guidance page on Section508.gov](https://www.section508.gov/manage/playbooks/technology-accessibility-playbook/4/).

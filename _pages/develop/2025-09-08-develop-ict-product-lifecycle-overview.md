@@ -178,7 +178,7 @@ The following process outlines the product lifecycle stages and hows to integrat
 * [Technology Accessibility Playbook:]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/)  
   * [Play 7: Integrate Accessibility Needs into Requirements and Design Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play07/)  
   * [Play 9: Integrate Accessibility Needs into Development Processes]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/)  
-  * [Play 10: Conduct Section 508 Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10/)  
+  * [Play 10: Conduct ICT Accessibility Testing]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play10/)  
   * [Play 11: Track and Resolve Accessibility Issues]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/)  
 * [Test for Accessibility]({{site.baseurl}}/test/)   
 * [Understanding Accessible Fonts and Typography for Section 508 Compliance]({{site.baseurl}}/develop/fonts-typography/)
