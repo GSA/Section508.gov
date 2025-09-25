@@ -39,7 +39,7 @@ endcomment %}
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   {% comment -%} Add a default og:image for social media sharing when not defined. {%- endcomment -%} 
   {% if page.social_img and page.social_img_alt and page.social_img contains 'assets/' and '.jpg' or '.png' -%}
-  <meta property="og:image" content="{{ page.social_img | escape }}" />
+  <meta property="og:image" content="/{{ page.social_img | escape }}" />
   <meta property="og:image:alt" content="{{ page.social_img_alt | escape }}" />
   {%- else -%}
   <meta property="og:image" content="{{site.baseurl | absolute_url}}/assets/images/social-media-og-image.jpg" />
@@ -58,7 +58,7 @@ endcomment %}
   <meta name="twitter:description" content="{{site.description}}" />
   {%- endif %}
   {% if page.social_img and page.social_img_alt and page.social_img contains '/' and '.jpg' or '.png' -%}
-  <meta name="twitter:image" content="{{site.baseurl | absolute_url}}{{ page.social_img | escape }}" />
+  <meta name="twitter:image" content="/{{ page.social_img | escape }}" />
   <meta name="twitter:image:alt" content="{{ page.social_img_alt | escape }}" />
   {%- else -%}
   <meta name="twitter:image" content="{{site.baseurl | absolute_url}}assets/images/social-media-og-image.jpg" />
