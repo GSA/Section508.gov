@@ -6,7 +6,6 @@ type: create
 title: Captions and Transcripts
 description: Create accessible videos with captions and transcripts. Learn technical standards, legal requirements, tools, and best practices from Section508.gov. 
 contributors: 
-social_img: '{{site.baseurl}}/assets/images/captions-transcripts-figure-4.jpg'
 topic: "Content creation (create)"
 sub-topic: "Video/Audio/Multimedia"
 audience:

@@ -5,7 +5,6 @@ title: 'Technology Accessibility Playbook&mdash;A Practical Guide to Building an
 description: The updated Technology Accessibility Playbook helps federal agencies build and sustain effective Section 508 programs to ensure ICT is accessible to all.
 permalink: blog/technology-accessibility-playbook-refresh/
 tags: Acquisition Content-Creation Design-and-Develop Policy-and-Management Testing #choose one or more (space separated): Accessibility-Bytes Acquisition Content-Creation Design-and-Develop Events Policy-and-Management Testing
-social_img: '{{site.baseurl}}/assets/images/social-media-og-image-playbook.jpg'
 created: 2025-09-23
 ---
 We're excited to launch the newly updated **Technology Accessibility Playbook**, a practical guide to help federal agencies build and sustain effective Section 508 Programs that ensure their technology is accessible to everyone---including people with disabilities.
