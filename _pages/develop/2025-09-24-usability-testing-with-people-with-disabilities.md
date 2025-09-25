@@ -238,7 +238,7 @@ Collect only the minimum personal information needed to schedule and pay partici
 
 <ul>
 <li><a href="https://www.w3.org/TR/2020/WD-coga-usable-20201211/usability_testing.html" target="_blank" class="usa-link--external">Chapter 5: Usability Testing, Focus Groups and Feedback</a></li>
-<li><a href="{{ site.baseurl }}/[/test/conformance-of-prototypes-and-pilots/)">TConformance of ICT Prototypes and Pilots</a></li>  
+<li><a href="{{ site.baseurl }}/[/test/conformance-of-prototypes-and-pilots/)">Conformance of ICT Prototypes and Pilots</a></li>  
 <li><a href="{{ site.baseurl }}/[test/usability-testing-with-people-with-disabilities/)">Tips for Usability Testing with People with Disabilities</a></li> 
 </ul> 
 
