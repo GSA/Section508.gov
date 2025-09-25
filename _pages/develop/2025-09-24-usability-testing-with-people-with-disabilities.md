@@ -59,7 +59,7 @@ Recruiting people with disabilities for a research study may be challenging:
 * Some people with disabilities may be more likely to experience physical or mental fatigue. 
 * Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.
 
-To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment.
+To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{ site.baseurl }}/develop/recruitment-questionnaire-process/" target="_blank" class="usa-link--external"> user research recruitment process when writing a recruitment questionnaire.
 
 ### Qualitative Research
 

@@ -59,6 +59,7 @@ Learn how to design and develop digital products and services for your agency th
           <li><a href="{{site.baseurl}}/develop/applicability-conformance/">Applicability & Conformance Requirements for Developers</a></li>
           <li><a href="{{site.baseurl}}/develop/usability-testing-with-people-with-disabilities/"> Conducting User Research with People with Disabilities</a></li>
           <li><a href="{{site.baseurl}}/develop/publish-to-web/">Considerations for Publishing to the Web</a></li>
+          <li><a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">Developing a User Research Recruitment Questionnaire</a></li>
           <li><a href="{{site.baseurl}}/develop/web-content/">Developing Web Content</a></li>
           <li><a href="{{site.baseurl}}/develop/user-stories/">Sample User Stories for Accessible ICT</a></li>
         </ul>
