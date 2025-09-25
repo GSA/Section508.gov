@@ -7,7 +7,7 @@ permalink: blog/technology-accessibility-playbook-refresh/
 tags: Acquisition Content-Creation Design-and-Develop Policy-and-Management Testing #choose one or more (space separated): Accessibility-Bytes Acquisition Content-Creation Design-and-Develop Events Policy-and-Management Testing
 created: 2025-09-23
 ---
-We're excited to launch the newly updated **Technology Accessibility Playbook**, a practical guide to help federal agencies build and sustain effective Section 508 Programs that ensure their technology is accessible to everyone---including people with disabilities.
+We're excited to launch the newly updated **[Technology Accessibility Playbook]({{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/)**, a practical guide to help federal agencies build and sustain effective Section 508 Programs that ensure their technology is accessible to everyone---including people with disabilities.
 
 ### Why It Matters
 <a href="https://www.cdc.gov/media/releases/2024/s0716-Adult-disability.html" target="_blank" class="usa-link--external">According to the CDC</a>, over 70 million Americans live with a disability. Yet too many government websites, applications, and digital tools remain inaccessible to members of the public and federal employees alike. The Section 508 law requires that federal agencies develop, procure, maintain, and use information and communication technology (ICT) that's accessible. Meeting this obligation isn't just about compliance---it's about delivering quality digital services to all taxpayers.
@@ -70,7 +70,7 @@ Explore the Playbook today and begin implementing the plays that align with your
 <ul class="usa-icon-list tablet:grid-col">
   <li class="usa-icon-list__item">
       <div class="usa-icon-list__icon text-blue"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#bookmark"></use></svg></div>
-      <div class="usa-icon-list__content">Read the <a href="{{site.baseurl}}/technology-accessibility-playbook/" target="_blank" class="usa-link--external">Technology Accessibility Playbook</a></div>
+      <div class="usa-icon-list__content">Read the <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/" target="_blank" class="usa-link--external">Technology Accessibility Playbook</a></div>
   </li>
 </ul>
 
