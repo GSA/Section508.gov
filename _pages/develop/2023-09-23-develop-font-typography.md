@@ -1,11 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/fonts-typography/
 type: develop
 title: 'Understanding Accessible Fonts and Typography for Section 508 Compliance'
-created: 2023-09-23
-updated: 2025-03-05
+description: Learn how fonts and typography impact accessibility. Explore Section 508 guidance on legibility, font size, contrast, and design best practices.
+permalink: develop/fonts-typography/
 contributors: usab
 topic: Design (design)
 sub-topic: Accessibility Standards, Procedures, Guidance, Best Practices
@@ -17,6 +16,8 @@ audience:
 - Developers and Testers (dev-test)
 resource-type: Long form article
 format: HTML (html)
+created: 2023-09-23
+updated: 2025-03-05
 ---
 In the realm of digital content creation, people often ask, “What does it mean for an accessible font to be accessible?”
 

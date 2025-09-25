@@ -115,7 +115,7 @@ Find testing tools, view playbooks, or find your agency’s Section 508 Program 
       <div class="usa-card__body">
         <p>Guidance to help federal agencies improve management and delivery of accessible information and communication technology (ICT).</p>
         <ul class="add-list-reset">
-          <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/">Technology Accessibility Playbook</a></li>
+          <li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/">Technology Accessibility Playbook</a></li>
           <li><a href="{{site.baseurl}}/manage/playbooks/exec-guide-accessibility/">Executive Guide to IT Accessibility</a></li>
         </ul>
       </div>

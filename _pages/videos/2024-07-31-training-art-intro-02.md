@@ -1,9 +1,10 @@
 ---
 sidenav: true
 layout: page
-permalink: training/art/introducing-art-02/
 type: training
 title: 'Where is ART and How Do I Use It?'
+description: This episode provides information on where to find ART and how to start generating a list of Section 508 requirements that apply to the [information and communication technology (ICT)][6] that you wish to procure.
+permalink: training/art/introducing-art-02/
 created: 2024-07-25
 updated: 2025-01-09
 ---

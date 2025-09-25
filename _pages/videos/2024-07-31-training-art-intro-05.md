@@ -1,9 +1,10 @@
 ---
 sidenav: true
 layout: page
-permalink: training/art/introducing-art-05/
 type: training
 title: 'How Do I Use JSON to Modify My Report?'
+description: This episode explains how to upload a report file to resume using ART or modify an existing report to generate a list of Section 508 requirements for the information and communication technology (ICT) you want to procure.
+permalink: training/art/introducing-art-05/
 created: 2024-07-25
 updated: 2025-01-09
 ---
