@@ -3,6 +3,7 @@ layout: page
 sidenav: true
 type: create
 title: Social Media
+description: Learn best practices for creating accessible social media content. Ensure posts, images, and videos meet Section 508 standards.
 permalink: create/social-media/
 redirect_from:
 - social-media/

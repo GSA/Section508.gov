@@ -3,6 +3,7 @@ sidenav: true
 layout: page
 type: manage
 title: 'Playbooks'
+description: Explore Section 508 accessibility playbooks&mdash;including the Technology Accessibility Playbook. Find guidance, strategies, and tools to help agencies build effective, inclusive ICT programs and services.
 permalink: manage/playbooks/
 topic: Manage (program)
 sub-topic: Manage a 508 Program

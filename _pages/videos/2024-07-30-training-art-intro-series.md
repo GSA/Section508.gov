@@ -3,6 +3,7 @@ sidenav: false
 layout: page
 type: acquisition
 title: Introduction to the Accessibility Requirements Tool (ART)
+description: Discover the Accessibility Requirements Tool (ART). Learn how to generate Section 508 requirements for ICT procurement with step-by-step video guides.
 permalink: training/art/introducing-art/
 redirect_from:
 - introducing-art/
