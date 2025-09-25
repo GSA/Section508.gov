@@ -450,7 +450,8 @@ develop:
       - name: Conducting User Research with People with Disabilities
         url: develop/usability-testing-with-people-with-disabilities/
       - name: Develop a User Research Recruitment Questionnaire
-        url: develop/recruitment-questionnaire-process/- name: Develop Software and Websites
+        url: develop/recruitment-questionnaire-process/
+      - name: Develop Software and Websites
         url: develop/software-websites/
       - name: Incorporating Accessibility Conformance Validation within Development
         url: develop/incorporating-accessibility-conformance/
