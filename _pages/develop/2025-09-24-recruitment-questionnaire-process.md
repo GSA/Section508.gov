@@ -121,6 +121,7 @@ When writing a recruitment questionnaire, consider following the following proce
 <li>What percentage of time do you use a screen reader to navigate websites, mobile applications, or software? </li>
 <li>When you travel to a new location, what is your preferred mode of transportation? Drive myself, ask a friend or family member to drive me, carlift, bus, train, etc.</li> 
 </ul>
+</ul>
 <li> Self identification question such as: </li>
 <ul><li> Do you identify as a person with a disability? Yes or No 
 </li>
@@ -138,6 +139,7 @@ When writing a recruitment questionnaire, consider following the following proce
 <li>I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate; I use a combination of keyboard and mouse to navigate; I use a combination of keyboard, mouse, and assistive devices to navigate, or other. </li>
 </ul>
 <li>If you use assistive technology to help navigate websites, what type/s do you use? (Open ended). If not applicable, select N/A.</li>
+</ul>
 <li>When was the last time you shopped online? </li>
 <li>What is your preferred device when shopping online?</li>
 </ul>
