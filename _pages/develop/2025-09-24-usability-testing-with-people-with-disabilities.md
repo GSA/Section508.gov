@@ -120,15 +120,15 @@ If the audience of the potential service, product, or solution will be the gener
 
 ## Checklist for Researchers
 
-*Determine the disabilities and functional abilities to be represented in the study. Refer to the Section 508 Functional Performance Criteria. 
-*Identify sources for potential participants, such as organizations and advocacy groups.
-*Define and describe the probable users of the service, product, or solution.
-*Determine the number of research subjects needed.
-*Set a budget for recruitment incentives.
-*Select or write a screener for recruitment.
-*Schedule research timing and appointments.
-*Consult with the agency’s Office of General Counsel, Equal Employment Office, or Human Resources office when interviewing employees with disabilities to ensure compliance with relevant laws, regulations, and organizational policies.
-*Create scripts for each scenario and topic to be observed or discussed.
+* Determine the disabilities and functional abilities to be represented in the study. Refer to the Section 508 Functional Performance Criteria. 
+* Identify sources for potential participants, such as organizations and advocacy groups.
+* Define and describe the probable users of the service, product, or solution.
+* Determine the number of research subjects needed.
+* Set a budget for recruitment incentives.
+* Select or write a screener for recruitment.
+* Schedule research timing and appointments.
+* Consult with the agency’s Office of General Counsel, Equal Employment Office, or Human Resources office when interviewing employees with disabilities to ensure compliance with relevant laws, regulations, and organizational policies.
+* Create scripts for each scenario and topic to be observed or discussed.
 
 ### Budgeting & Resources
 
@@ -219,7 +219,6 @@ There are also industry standard expectations for how many or which percentage o
       </ol>
     </li>
   </ol>
-</section>
 
 ### Sample Research Schedules 
 
@@ -284,8 +283,8 @@ Collect only the minimum personal information needed to schedule and pay partici
 
 <ul>
 <li><a href="https://www.w3.org/TR/2020/WD-coga-usable-20201211/usability_testing.html" target="_blank" class="usa-link--external">Chapter 5: Usability Testing, Focus Groups and Feedback</a></li>
-<li><a href="{{site.baseurl}}/test/conformance-of-prototypes-and-pilots/)">Conformance of ICT Prototypes and Pilots</a></li>  
-<li><a href="{{site.baseurl}}/test/usability-testing-with-people-with-disabilities/)">Tips for Usability Testing with People with Disabilities</a></li> 
+<li><a href="{{site.baseurl}}/test/conformance-of-prototypes-and-pilots/">Conformance of ICT Prototypes and Pilots</a></li>  
+<li><a href="{{site.baseurl}}/test/usability-testing-with-people-with-disabilities/">Tips for Usability Testing with People with Disabilities</a></li> 
 </ul> 
 
 **Reviewed/Updated:** September 2025
