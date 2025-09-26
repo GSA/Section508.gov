@@ -183,13 +183,12 @@ There are also industry standard expectations for how many or which percentage o
             </li>
           </ol>
         </li>
-
         <li>
           <strong>Drawback:</strong>
-          <p>
+          <li>
             The floater typically gets paid for their time at a similar rate to the respondent
             and may not ultimately end up participating in the study.
-          </p>
+          </li>
         </li>
       </ol>
     </li>
