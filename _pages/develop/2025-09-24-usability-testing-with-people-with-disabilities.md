@@ -137,34 +137,31 @@ Conducting research with people with disabilities involves many of the same step
 Recruiting people with disabilities for a research study may be challenging:
 <ul class="usa-icon-list">
 <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-red">
+  <div class="usa-icon-list__icon text-blue">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
   <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
 </svg>
 </div>
 <div class="usa-icon-list__content">People with certain disabilities may require transportation assistance, adding expense and limiting the respondent’s availability.</div>
 </li>
-<ul class="usa-icon-list">
 <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-red">
+  <div class="usa-icon-list__icon text-blue">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
   <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
 </svg>
 </div>
 <div class="usa-icon-list__content">The building or space where the research is conducted must be accessible.</div>
 </li>
-<ul class="usa-icon-list">
 <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-red">
+  <div class="usa-icon-list__icon text-blue">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
   <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
 </svg>
 </div>
 <div class="usa-icon-list__content">Some people with disabilities may be more likely to experience physical or mental fatigue.</div>
 </li> 
-<ul class="usa-icon-list">
 <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-red">
+  <div class="usa-icon-list__icon text-blue">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
   <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
 </svg>
@@ -173,7 +170,7 @@ Recruiting people with disabilities for a research study may be challenging:
 </li>
 </ul>
 
-To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a>
+<p>To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a></p>
 
 ### Qualitative Research
 
