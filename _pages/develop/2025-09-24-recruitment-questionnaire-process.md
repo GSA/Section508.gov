@@ -91,12 +91,11 @@ When writing a recruitment questionnaire, consider following the following proce
         <li>Profession</li>
         <li>Time of Disability (from birth, from a young age, newly disabled)</li>
           </ul>
-        </li>
     </div>
   </li>
 
   <li class="usa-process-list__item">
-    <h4 class="usa-process-list__heading">Draft Screener Quesitons</h4>
+    <h4 class="usa-process-list__heading">Draft Screener Questions</h4>
     <div class="margin-top-05">
       <ul>
         <li>Open ended questions such as:</li>
@@ -130,11 +129,11 @@ When writing a recruitment questionnaire, consider following the following proce
 <li>Questions to determine comfort with technology such as: 
 </li>
 <ul>
-<li>Which of the best describes you? While on a website: 
+<li>Which of the best describes you? While on a website:</li> 
 <ul>
 <li>I never use assistive technology to help with reading and navigation; I sometimes use assistive technology to help with reading and navigation; I must use assistive technology to help with reading and navigation </li>
 </ul>
-<li>Which of these best describes you when navigating websites?
+<li>Which of these best describes you when navigating websites?</li>
 <ul>
 <li>I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate; I use a combination of keyboard and mouse to navigate; I use a combination of keyboard, mouse, and assistive devices to navigate, or other. </li>
 </ul>
@@ -142,11 +141,8 @@ When writing a recruitment questionnaire, consider following the following proce
 <li>When was the last time you shopped online? </li>
 <li>What is your preferred device when shopping online?</li>
 </ul>
-</ul>
-        </li>
-    </div>
-  </li>
-
+</div>
+</li>
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Set a budget for recruitment incentives</h4>
     <div class="margin-top-05">
@@ -154,10 +150,8 @@ When writing a recruitment questionnaire, consider following the following proce
         <li>PWD comprises a group that can pose challenges in recruiting, and may require additional increased incentive.</li>
         <li>Consider offering premium incentives to encourage attendance/acceptance by PWD. Additional incentives may include taxi or ride share reimbursement, for instance.</li>
 </ul>
-        </li>
-    </div>
-  </li>
-
+</div>
+</li>
 <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Obtain informed consent</h4>
     <div class="margin-top-05">
@@ -166,11 +160,8 @@ When writing a recruitment questionnaire, consider following the following proce
         <li>Read the informed consent document aloud upon arrival. </li>
         <li> Record informed consent on camera, sign and date, or sign in advance. This is a record of permission that you will retain. </li>
 </ul>
-        </li>
-    </div>
-  </li>
-
-
+</div>
+</li>
 <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Develop a schedule</h4>
     <div class="margin-top-05">
@@ -178,10 +169,9 @@ When writing a recruitment questionnaire, consider following the following proce
         <li>Schedule breaks</li>
         <li>Provide sufficient time between participants </li>
         <li>Include floaters or extra participants</li>
-</ul>
-        </li>
-    </div>
-  </li>
+</ul>  
+</div>
+</li>
 
 
 

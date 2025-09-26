@@ -119,70 +119,16 @@ If the audience of the potential service, product, or solution will be the gener
     c. Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. 
 
 ## Checklist for Researchers
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Determine the disabilities and functional abilities to be represented in the study. Refer to the Section 508 Functional Performance Criteria. </div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Identify sources for potential participants, such as organizations and advocacy groups.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Define and describe the probable users of the service, product, or solution.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Determine the number of research subjects needed.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Set a budget for recruitment incentives.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Select or write a screener for recruitment.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Schedule research timing and appointments.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Consult with the agency’s Office of General Counsel, Equal Employment Office, or Human Resources office when interviewing employees with disabilities to ensure compliance with relevant laws, regulations, and organizational policies.</div></li>
-<li class="usa-icon-list__item">
-    <div class="usa-icon-list__icon text-blue">
-      <svg class="usa-icon" aria-hidden="true" role="img">
-        <use href="/assets/img/sprite.svg#thumb_up_alt"></use>
-      </svg>
-    </div>
-    <div class="usa-icon-list__content">Create scripts for each scenario and topic to be observed or discussed.</div></li>
+
+*Determine the disabilities and functional abilities to be represented in the study. Refer to the Section 508 Functional Performance Criteria. 
+*Identify sources for potential participants, such as organizations and advocacy groups.
+*Define and describe the probable users of the service, product, or solution.
+*Determine the number of research subjects needed.
+*Set a budget for recruitment incentives.
+*Select or write a screener for recruitment.
+*Schedule research timing and appointments.
+*Consult with the agency’s Office of General Counsel, Equal Employment Office, or Human Resources office when interviewing employees with disabilities to ensure compliance with relevant laws, regulations, and organizational policies.
+*Create scripts for each scenario and topic to be observed or discussed.
 
 ### Budgeting & Resources
 
