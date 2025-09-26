@@ -57,7 +57,7 @@ Recruiting people with disabilities for a research study may be challenging:
 * Some people with disabilities may be more likely to experience physical or mental fatigue. 
 * Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.
 
-To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a>.
+To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a>
 
 ### Qualitative Research
 
@@ -65,7 +65,7 @@ Conducting qualitative research with people with disabilities is an important st
 
 Run basic conformance checks and fix blocking issues before usability sessions with participants with disabilities. This helps identify and resolve critical barriers that would otherwise make task completion impossible. For example, if focus is not properly managed a screen reader user will be unable to initiate the test. 
 
-More on the various types of testing and testing processes can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play09/">Play 9: Integrate Accessibility Needs into Development Processes</a>. 
+More on the various types of testing and testing processes can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/">Play 9: Integrate Accessibility Needs into Development Processes</a>. 
 
 ### Planning & Recruiting Participants
 
@@ -107,16 +107,16 @@ If the audience of the potential service, product, or solution will be the gener
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong> Tip</strong>: Before recruiting participants with disabilities, consult with your agency’s legal counsel and follow all Privacy Act requirements, <a href="https://pra.digital.gov/" target="_blank" class="usa-link--external">Paperwork Reduction Act</a> rules and other applicable laws, regulations, and processes for public engagement. This is particularly relevant for recruiting Federal employees with disabilities.</p></div>
 
 1. To recruit participants from the general public, reach out to: 
-    a. Associations and advocacy groups for that particular disability
-    b. General disability advocacy groups or associations
-    c. Research firms that specialize in recruiting people with disabilities
-    d. Target geographic areas with high concentrations of users with disabilities
-    e. Ask vendors that serve people with disabilities to share your call for participants; do not request or purchase customer lists
+<li>    a. Associations and advocacy groups for that particular disability </li>
+<li>    b. General disability advocacy groups or associations</li>
+<li>    c. Research firms that specialize in recruiting people with disabilities</li>
+<li>    d. Target geographic areas with high concentrations of users with disabilities</li>
+<li>    e. Ask vendors that serve people with disabilities to share your call for participants; do not request or purchase customer lists</li>
 
 2. Recruiting Federal employees with disabilities requires careful consideration. For example, it may not be appropriate to directly ask a fellow employee to participate in research.
-    a. Do not assume a colleague’s disability or pressure them to participate. 
-    b. Participation must be voluntary and, if on duty time, approved by the supervisor. 
-    c. Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. 
+<li>      a. Do not assume a colleague’s disability or pressure them to participate. </li>
+<li>      b. Participation must be voluntary and, if on duty time, approved by the supervisor. </li>
+<li>      c. Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. </li>
 
 ## Checklist for Researchers
 
@@ -161,64 +161,53 @@ When determining the number of research subjects to include in the study, consid
 Plan to stop when sessions stop yielding new themes or insights. There is a diminishing return when major issues are no longer identified and smaller differences in opinions are the primary types of feedback encountered. As a rule of thumb, recruit six to eight participants for one on one studies. For focus groups, recruit six to eight people per group and run three to four separate groups. 
 
 There are also industry standard expectations for how many or which percentage of respondents will cancel or “no show” for their assigned time slot. When considering scheduling options, there are a few scheduling best practices that can minimize the impact of no shows on the study schedule. 
-
- <ol>
-    <li>
-      <p>
-        Schedule a “floater” or alternate that will arrive at the start of the day
-        and stay until lunch, then schedule a second floater for the second half
-        of the day.
-      </p>
-
-      <ol type="a">
-        <li>
-          <strong>Benefit:</strong>
-          <ol type="i">
-            <li>If one candidate does not arrive or arrives late, the floater can fill the slot.</li>
-            <li>
-              A floater can be used at the judgment of the researcher if the participant
-              does not meet the requirements of the screener, is unable to understand the
-              questions or attempt the tasks, or has biases or experiences that will hinder
-              their ability to provide usable data.
-            </li>
-          </ol>
-        </li>
-        <li>
-          <strong>Drawback:</strong>
-           <ol type="i">
-           <li>
+<ol>
+  <li>
+    Schedule a “floater” or alternate that will arrive at the start of the day
+    and stay until lunch, then schedule a second floater for the second half
+    of the day.
+    <ol type="a">
+      <li>
+        <strong>Benefit:</strong>
+        <ol type="i">
+          <li>If one candidate does not arrive or arrives late, the floater can fill the slot.</li>
+          <li>
+            A floater can be used at the judgment of the researcher if the participant
+            does not meet the requirements of the screener, is unable to understand the
+            questions or attempt the tasks, or has biases or experiences that will hinder
+            their ability to provide usable data.
+          </li>
+        </ol>
+      </li>
+      <li>
+        <strong>Drawback:</strong>
+        <ol type="i">
+          <li>
             The floater typically gets paid for their time at a similar rate to the respondent
             and may not ultimately end up participating in the study.
           </li>
-        </li>
-      </ol>
-    </li>
+        </ol>
+  </li>
 
-    <li>
-      <p>
-        Schedule an additional day of testing that may or may not be needed. This additional day
-        can be used or canceled depending on the need.
-      </p>
-
-      <ol type="a">
-        <li>
-          <strong>Drawbacks:</strong>
-          <ol type="i">
-            <li>A “no show” leaves a gap in the schedule.</li>
-            <li>Staff who set aside time to conduct the study may not be able to switch to other tasks.</li>
-          </ol>
-        </li>
-
-        <li>
-          <strong>An alternative to using “floaters”:</strong>
-          <ol type="i">
-            <li>Balance disability mix against research goals and consider over-recruiting by 15–25% to offset no-shows.</li>
-            <li>Maintain a short waitlist and invite replacements as needed, then use staggered “standby windows” rather than paying all-day floaters.</li>
-          </ol>
-        </li>
-      </ol>
-    </li>
-  </ol>
+  <li>
+    Schedule an additional day of testing that may or may not be needed. This additional day
+    can be used or canceled depending on the need.
+    <ol type="a">
+      <li>
+        <strong>Drawbacks:</strong>
+        <ol type="i">
+          <li>A “no show” leaves a gap in the schedule.</li>
+          <li>Staff who set aside time to conduct the study may not be able to switch to other tasks.</li>
+        </ol>
+      </li>
+      <li>
+        <strong>An alternative to using “floaters”:</strong>
+        <ol type="i">
+          <li>Balance disability mix against research goals and consider over-recruiting by 15–25% to offset no-shows.</li>
+          <li>Maintain a short waitlist and invite replacements as needed, then use staggered “standby windows” rather than paying all-day floaters.</li>
+        </ol>
+      </li>
+</ol>
 
 ### Sample Research Schedules 
 
@@ -288,4 +277,4 @@ Collect only the minimum personal information needed to schedule and pay partici
 </ul> 
 
 
-**Reviewed/Updated:** September 2025
+<strong> Reviewed/Updated:</strong> September 2025

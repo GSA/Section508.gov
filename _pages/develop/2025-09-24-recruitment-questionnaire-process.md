@@ -139,9 +139,9 @@ When writing a recruitment questionnaire, consider following the following proce
 <li>I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate; I use a combination of keyboard and mouse to navigate; I use a combination of keyboard, mouse, and assistive devices to navigate, or other. </li>
 </ul>
 <li>If you use assistive technology to help navigate websites, what type/s do you use? (Open ended). If not applicable, select N/A.</li>
-</ul>
 <li>When was the last time you shopped online? </li>
 <li>What is your preferred device when shopping online?</li>
+</ul>
 </ul>
 </div>
 </li>
@@ -178,4 +178,4 @@ When writing a recruitment questionnaire, consider following the following proce
 
 
 
-**Reviewed/Updated:** September 2025
+<strong> Reviewed/Updated:</strong> September 2025
