@@ -166,7 +166,7 @@ There are also industry standard expectations for how many or which percentage o
     Schedule a “floater” or alternate that will arrive at the start of the day
     and stay until lunch, then schedule a second floater for the second half
     of the day.
-    <ol type="a">
+
       <li>
         <strong>Benefit:</strong>
         <ol type="i">
@@ -185,23 +185,21 @@ There are also industry standard expectations for how many or which percentage o
           <li>
             The floater typically gets paid for their time at a similar rate to the respondent
             and may not ultimately end up participating in the study.
-          </li>
-  </li>
-  </ol>
+          </li> </ol>
+
   <li>
-    Schedule an additional day of testing that may or may not be needed. This additional day
+  Schedule an additional day of testing that may or may not be needed. This additional day
     can be used or canceled depending on the need.
-    <ol type="a">
-      <li>
+    <li>
         <strong>Drawbacks:</strong>
-        <ol type="i">
+        <ol type="a">
           <li>A “no show” leaves a gap in the schedule.</li>
           <li>Staff who set aside time to conduct the study may not be able to switch to other tasks.</li>
         </ol>
       </li>
       <li>
         <strong>An alternative to using “floaters”:</strong>
-        <ol type="i">
+        <ol type="b">
           <li>Balance disability mix against research goals and consider over-recruiting by 15–25% to offset no-shows.</li>
           <li>Maintain a short waitlist and invite replacements as needed, then use staggered “standby windows” rather than paying all-day floaters.</li>
         </ol>
