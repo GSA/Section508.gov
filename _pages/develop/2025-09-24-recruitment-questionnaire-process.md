@@ -20,7 +20,7 @@ subtopic:
 resource_type: 
 - process-how-to
 format: html
-created: 2025-09-24
+created: 2025-09-26
 updated: 
 disclaimer: 
 exclude-changelog: 
@@ -35,9 +35,7 @@ When writing a recruitment questionnaire, consider following the following proce
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Define the Objective</h4>
     <div class="margin-top-05">
-      <ul>
-        <li>Example: For this engagement our goal is to identify or confirm usability of the feature such as an application, website, or solution. </li>
-                         </ul>
+      Example: For this engagement our goal is to identify or confirm usability of the feature such as an application, website, or solution. </li>
     </div>
 </li>
   <li class="usa-process-list__item">
@@ -61,8 +59,7 @@ When writing a recruitment questionnaire, consider following the following proce
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Screen for People with Disabilities</h4>
     <div class="margin-top-05">
-      <ul>
-        <li>Include PWDs:
+    Include PWDs:
           <ul>
             <li>Without vision</li>
             <li>With limited vision</li>
@@ -73,9 +70,7 @@ When writing a recruitment questionnaire, consider following the following proce
             <li>With limited manipulation</li>
             <li>With limited reach and strength</li>
             <li>With limited language, cognitive, and learning abilities</li>
-</ul>
-            </li>      
-      </ul>
+          </ul>
     </div>
   </li>
 
@@ -98,53 +93,38 @@ When writing a recruitment questionnaire, consider following the following proce
     <h4 class="usa-process-list__heading">Draft Screener Questions</h4>
     <div class="margin-top-05">
       <ul>
-        <li>Open ended questions such as:</li>
-          <ul>
-            <li>Do you have a disability? If yes, and you feel comfortable sharing, please describe your disability.
-</li>
-</ul>
+        <li>Open ended questions such as: Do you have a disability? If yes, and you feel comfortable sharing, please describe your disability.</li>
         <li>“Select all that apply” questions such as:
-</li>
-    <ul>
-        <li>Do you identify as living with any type of disability? Select all that apply [modify disability groups to fit your need]: </li>  
-        <ul>
-        <li>Attention disorders; Blindness or blind; Cognitive impairment; Deaf; Dyscalculia; Dysgraphia; Dyslexia; Learning disabilities; Low or limited hearing, or hard of hearing; Low or limited vision; Memory issues; Neurodiversity; Neurological disorders; Physical or dexterity issues or limited dexterity or mobility; Reading disorders; Speech difficulties; Temporary disabilities such as a broken arm; Other; None of the above; Prefer not to say. </li>
-        </ul>
-        <li>Which of the following assistive devices do you use? Select all that apply.</li>
-        <ul> <li>Braille display; Hearing aid; Screen magnification; Screen reader; Walking frame; Walking stick; Wheelchair </li>
-</ul>
-</ul>
-<li> Questions to determine use of assistive technology such as: </li>
-<ul><li>If specifically identifying screen reader users and people who are extremely low vision or blind, another question to ask is: </li>
-<ul>
-<li>Which screen reader do you use (if a screen reader is identified)? </li> 
-<li>What percentage of time do you use a screen reader to navigate websites, mobile applications, or software? </li>
-<li>When you travel to a new location, what is your preferred mode of transportation? Drive myself, ask a friend or family member to drive me, carlift, bus, train, etc.</li> 
-</ul>
-</ul>
-<li> Self identification question such as: </li>
-<ul><li> Do you identify as a person with a disability? Yes or No 
-</li>
-<li>Do you identify as any of the following? Living with a cognitive or neurological disability, living with a physical disability or injury.</li> 
-</ul>
-<li>Questions to determine comfort with technology such as: 
-</li>
-<ul>
-<li>Which of the best describes you? While on a website:</li> 
-<ul>
-<li>I never use assistive technology to help with reading and navigation; I sometimes use assistive technology to help with reading and navigation; I must use assistive technology to help with reading and navigation </li>
-</ul>
-<li>Which of these best describes you when navigating websites?</li>
-<ul>
-<li>I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate; I use a combination of keyboard and mouse to navigate; I use a combination of keyboard, mouse, and assistive devices to navigate, or other. </li>
-</ul>
-<li>If you use assistive technology to help navigate websites, what type/s do you use? (Open ended). If not applicable, select N/A.</li>
-<li>When was the last time you shopped online? </li>
-<li>What is your preferred device when shopping online?</li>
-</ul>
-</ul>
-</div>
-</li>
+          <ul>
+            <li>Do you identify as living with any type of disability? Select all that apply [modify disability groups to fit your need]: Attention disorders; Blindness or blind; Cognitive impairment; Deaf; Dyscalculia; Dysgraphia; Dyslexia; Learning disabilities; Low or limited hearing, or hard of hearing; Low or limited vision; Memory issues; Neurodiversity; Neurological disorders; Physical or dexterity issues or limited dexterity or mobility; Reading disorders; Speech difficulties; Temporary disabilities such as a broken arm; Other; None of the above; Prefer not to say. </li>
+            <li>Which of the following assistive devices do you use? Select all that apply.Braille display; Hearing aid; Screen magnification; Screen reader; Walking frame; Walking stick; Wheelchair </li>
+          </ul>
+        </li> 
+        <li> Questions to determine use of assistive technology. For example, if specifically identifying screen reader users or people who are extremely low vision or blind, ask: 
+          <ul>
+            <li>Which screen reader do you use (if a screen reader is identified)? </li> 
+            <li>What percentage of time do you use a screen reader to navigate websites, mobile applications, or software? </li>
+            <li>When you travel to a new location, what is your preferred mode of transportation? Drive myself, ask a friend or family member to drive me, carlift, bus, train, etc.</li> 
+          </ul>
+        </li>
+        <li> Self identification question such as:
+          <ul>
+            <li> Do you identify as a person with a disability? Yes or No </li>
+            <li>Do you identify as any of the following? Living with a cognitive or neurological disability, living with a physical disability or injury.</li> 
+          </ul>
+        </li>
+        <li>Questions to determine comfort with technology such as:
+          <ul>
+            <li>Which of the best describes you? While on a website: I never use assistive technology to help with reading and navigation; I sometimes use assistive technology to help with reading and navigation; I must use assistive technology to help with reading and navigation </li>
+            <li>Which of these best describes you when navigating websites? I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate; I use a combination of keyboard and mouse to navigate; I use a combination of keyboard, mouse, and assistive devices to navigate, or other. </li>
+            <li>If you use assistive technology to help navigate websites, what type/s do you use? (Open ended). If not applicable, select N/A.</li>
+            <li>When was the last time you shopped online? </li>
+            <li>What is your preferred device when shopping online?</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </li>
   <li class="usa-process-list__item">
     <h4 class="usa-process-list__heading">Set a budget for recruitment incentives</h4>
     <div class="margin-top-05">
@@ -176,7 +156,4 @@ When writing a recruitment questionnaire, consider following the following proce
 </li>
 </ol>
 
-
-
-
-<strong> Reviewed/Updated:</strong> September 2025
+<strong>Reviewed/Updated:</strong> September 2025

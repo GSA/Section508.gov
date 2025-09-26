@@ -29,33 +29,149 @@ Effective information and communication technology (ICT) must be designed to ser
 
 Research with people with disabilities can occur at different stages of the design process, including: 
 
-* Discovery Phase 
-* Ideation
-* Prototyping 
-* Testing
-* Piloting
-* Implementation
-* Validation and Quality Assurance 
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Discovery Phase</div>
+</li> 
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Ideation</div>
+</li> 
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Prototyping</div>
+</li>  
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Testing</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Piloting</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Implementation</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-blue">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Validation and Quality Assurance</div>
+</li>
+</ul> 
 
 Include research with people with disabilities at every stage. The types of research include but are not limited to: 
-
-* Qualitative Research
-  * Focus Groups
-  * Ethnographic Interviews
-  * Usability Testing 
-* User Flow Testing
-* Assistive Technology Testing
-* User Acceptance Testing
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-green">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Qualitative Research
+  <ul>
+  <li>Focus Groups</li>
+  <li>Ethnographic Interviews</li>
+  <li>Usability Testing</li>
+  </ul>
+  </div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">User Flow Testing</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Assistive Technology Testing</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">User Acceptance Testing</div>
+</li>
+</ul>
 
 ## Conducting Research
 
 Conducting research with people with disabilities involves many of the same steps as conducting research involving people without disabilities, but there are important differences to consider. 
 
 Recruiting people with disabilities for a research study may be challenging:
-* People with certain disabilities may require transportation assistance, adding expense and limiting the respondent’s availability.
-* The building or space where the research is conducted must be accessible.
-* Some people with disabilities may be more likely to experience physical or mental fatigue. 
-* Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-red">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">People with certain disabilities may require transportation assistance, adding expense and limiting the respondent’s availability.</div>
+</li>
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-red">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">The building or space where the research is conducted must be accessible.</div>
+</li>
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-red">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Some people with disabilities may be more likely to experience physical or mental fatigue.</div>
+</li> 
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+  <div class="usa-icon-list__icon text-red">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.</div>
+</li>
+</ul>
 
 To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a>
 
