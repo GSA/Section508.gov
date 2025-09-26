@@ -107,16 +107,16 @@ If the audience of the potential service, product, or solution will be the gener
 <div class="border-base radius-lg border-1px padding-1 bg-primary-lighter" style="margin-top: 1.0em;"><p><strong> Tip</strong>: Before recruiting participants with disabilities, consult with your agency’s legal counsel and follow all Privacy Act requirements, <a href="https://pra.digital.gov/" target="_blank" class="usa-link--external">Paperwork Reduction Act</a> rules and other applicable laws, regulations, and processes for public engagement. This is particularly relevant for recruiting Federal employees with disabilities.</p></div>
 
 1. To recruit participants from the general public, reach out to: 
-<li>    a. Associations and advocacy groups for that particular disability </li>
-<li>    b. General disability advocacy groups or associations</li>
-<li>    c. Research firms that specialize in recruiting people with disabilities</li>
-<li>    d. Target geographic areas with high concentrations of users with disabilities</li>
-<li>    e. Ask vendors that serve people with disabilities to share your call for participants; do not request or purchase customer lists</li>
+   * Associations and advocacy groups for that particular disability 
+   * General disability advocacy groups or associations
+   * Research firms that specialize in recruiting people with disabilities
+   * Target geographic areas with high concentrations of users with disabilities
+   * Ask vendors that serve people with disabilities to share your call for participants; do not request or purchase customer lists
 
-2. Recruiting Federal employees with disabilities requires careful consideration. For example, it may not be appropriate to directly ask a fellow employee to participate in research.
-<li>      a. Do not assume a colleague’s disability or pressure them to participate. </li>
-<li>      b. Participation must be voluntary and, if on duty time, approved by the supervisor. </li>
-<li>      c. Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. </li>
+1. Recruiting Federal employees with disabilities requires careful consideration. For example, it may not be appropriate to directly ask a fellow employee to participate in research.
+   * Do not assume a colleague’s disability or pressure them to participate. 
+   * Participation must be voluntary and, if on duty time, approved by the supervisor. 
+   * Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. 
 
 ## Checklist for Researchers
 
@@ -186,9 +186,8 @@ There are also industry standard expectations for how many or which percentage o
             The floater typically gets paid for their time at a similar rate to the respondent
             and may not ultimately end up participating in the study.
           </li>
-        </ol>
   </li>
-
+  </ol>
   <li>
     Schedule an additional day of testing that may or may not be needed. This additional day
     can be used or canceled depending on the need.
