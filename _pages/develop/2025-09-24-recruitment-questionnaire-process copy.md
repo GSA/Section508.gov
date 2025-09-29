@@ -40,7 +40,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 1. Define the Objective -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="true" aria-controls="objective-content">
-        Define the Objective
+        Step 1. Define the Objective
       </button>
     </h3>
     <div id="objective-content" class="usa-accordion__content">
@@ -51,7 +51,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 2. Identify Sources of Potential Subjects -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="sources-content">
-        Identify Sources of Potential Subjects
+        Step 2. Identify Sources of Potential Subjects
       </button>
     </h3>
     <div id="sources-content" class="usa-accordion__content">
@@ -67,7 +67,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 3. Screen for People with Disabilities -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="screening-content">
-        Screen for People with Disabilities
+        Step 3. Screen for People with Disabilities
       </button>
     </h3>
     <div id="screening-content" class="usa-accordion__content">
@@ -86,7 +86,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 4. Identify User Demographics and Psychographics -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="demographics-content">
-        Identify User Demographics and Psychographics
+        Step 4. Identify User Demographics and Psychographics
       </button>
     </h3>
     <div id="demographics-content" class="usa-accordion__content">
@@ -102,7 +102,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 5. Draft Screener Questions -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="screener-content">
-        Draft Screener Questions
+        Step 5. Draft Screener Questions
       </button>
     </h3>
     <div id="screener-content" class="usa-accordion__content">
@@ -145,7 +145,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 6. Set a Budget for Recruitment Incentives -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="incentives-content">
-        Set a Budget for Recruitment Incentives
+        Step 6. Set a Budget for Recruitment Incentives
       </button>
     </h3>
     <div id="incentives-content" class="usa-accordion__content">
@@ -176,7 +176,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 8. Develop a Schedule -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="schedule-content">
-        Develop a Schedule
+        Style 7. Develop a Schedule
       </button>
     </h3>
     <div id="schedule-content" class="usa-accordion__content">
@@ -192,80 +192,9 @@ Use this structured questionnaire process to recruit people with disabilities (P
   </div>
 </div>
 
-## Requirement Questionnaire Checklist
-<table class="usa-table usa-table--borderless usa-table--striped">
-  <caption>Table: 1: Checklist for Developing a User Research Recruitment Questionnaire</caption>
-  <thead>
-    <tr>
-      <th scope="col">Status</th>
-      <th scope="col">Step</th>
-      <th scope="col">Goal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Define the Objective</td>
-      <td>Establish the purpose of the user research engagement.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Identify Sources of Potential Subjects</td>
-      <td>Find diverse participants who reflect the population of people with disabilities (PWD).</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Screen for People with Disabilities</td>
-      <td>Ensure participation from people with a range of disabilities.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Identify User Demographics and Psychographics</td>
-      <td>Collect demographic and psychographic information to understand your audience.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Draft Screener Questions</td>
-      <td>Identify eligible participants and their technology or assistive device usage.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Set a Budget for Recruitment Incentives</td>
-      <td>Encourage participation from PWD.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Obtain Informed Consent</td>
-      <td>Ensure participants understand the study and agree to participate.</td>
-    </tr>
-    <tr>
-      <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}assets/img/sprite.svg#check_box_outline_blank"></use></svg>
-      </td>
-      <td>Develop a Schedule</td>
-      <td>Ensure a smooth and accessible research session.</td>
-    </tr>
-  </tbody>
-</table>
-
 <strong>Reviewed/Updated:</strong> September 2025
 
 <script>
-
 $("#expand-all").on("click", function () {
   $("#accordion-group-questions .usa-accordion__button").attr("aria-expanded", "true");
   $("#accordion-group-questions .usa-accordion__content").removeAttr("hidden");
@@ -277,5 +206,4 @@ $("#collapse-all").on("click", function () {
   $("#accordion-group-questions .usa-accordion__content").attr("hidden", "");
   updateHashFromOpenAccordions();
 });
-
 </script>
