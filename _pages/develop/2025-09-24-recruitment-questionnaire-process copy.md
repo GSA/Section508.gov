@@ -219,7 +219,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
   </div>
 </div>
 
-## Planning Checklist
+## Requirement Questionnaire Checklist
 <table class="usa-table usa-table--borderless usa-table--striped">
   <caption>Table: 1: Checklist for Developing a User Research Recruitment Questionnaire</caption>
   <thead>
