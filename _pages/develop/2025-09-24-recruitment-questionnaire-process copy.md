@@ -205,56 +205,56 @@ Use this structured questionnaire process to recruit people with disabilities (P
   <tbody>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Define the Objective</td>
       <td>Establish the purpose of the user research engagement.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Identify Sources of Potential Subjects</td>
       <td>Find diverse participants who reflect the population of people with disabilities (PWD).</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Screen for People with Disabilities</td>
       <td>Ensure participation from people with a range of disabilities.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Identify User Demographics and Psychographics</td>
       <td>Collect demographic and psychographic information to understand your audience.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Draft Screener Questions</td>
       <td>Identify eligible participants and their technology or assistive device usage.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Set a Budget for Recruitment Incentives</td>
       <td>Encourage participation from PWD.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Obtain Informed Consent</td>
       <td>Ensure participants understand the study and agree to participate.</td>
     </tr>
     <tr>
       <td class="text-center">
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="/assets/img/sprite.svg#check_box_outline_blank"></use></svg>
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use href="{{site.abseurl}}assets/img/sprite.svg#check_box_outline_blank"></use></svg>
       </td>
       <td>Develop a Schedule</td>
       <td>Ensure a smooth and accessible research session.</td>
