@@ -201,7 +201,7 @@ Run basic conformance checks and fix blocking issues before usability sessions w
 
 More on the various types of testing and testing processes can be found in <a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/9/">Play 9: Integrate Accessibility Needs into Development Processes</a>. 
 
-### Planning & Recruiting Participants
+### Planning and Recruiting Participants
 
 When recruiting for a study on how users with disabilities interact with a product or service, use the Section 508 Functional Performance Criteria (36 CFR 1194.41) to define participant needs, and recruit based on functional abilities and assistive technology use rather than diagnoses. 
 
