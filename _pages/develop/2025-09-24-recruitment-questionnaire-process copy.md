@@ -27,33 +27,6 @@ exclude-changelog:
 ---
 Effective user research starts with thoughtful participant recruitment. This page outlines a structured recruitment questionnaire process designed to help you engage people with disabilities (PWD) in your research. Use this recruitment questionnaire process in conjunction with the guidance provided in <a href="{{site.baseurl}}/develop/usability-testing-with-people-with-disabilities/">Conducting User Research with People with Disabilities</a> to ensure your studies are inclusive, representative, and accessible from start to finish. Following these steps helps you identify eligible participants, understand their needs, and gather meaningful insights to improve the usability of your digital products.
 
-<ol class="usa-process-list">
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Define the Objective</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Identify Sources of Potential Subjects</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Screen for People with Disabilities</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Identify User Demographics and Psychographics</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Draft Screener Questions</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Set a Budget for Recruitment Incentives</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Obtain Informed Consent</h3>
-  </li>
-  <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Develop a Schedule</h3>
-  </li>
-</ol>
-
 ## Questionnaire Considerations
 Use this structured questionnaire process to recruit people with disabilities (PWD) and ensure your research is inclusive, accessible, and produces actionable insights.
 
