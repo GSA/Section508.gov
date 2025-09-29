@@ -160,7 +160,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 7. Obtain Informed Consent -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="consent-content">
-        Obtain Informed Consent
+        Step 7. Obtain Informed Consent
       </button>
     </h3>
     <div id="consent-content" class="usa-accordion__content">
@@ -176,7 +176,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <!-- 8. Develop a Schedule -->
     <h3 class="usa-accordion__heading">
       <button class="usa-accordion__button" aria-expanded="false" aria-controls="schedule-content">
-        Style 7. Develop a Schedule
+        Step 8. Develop a Schedule
       </button>
     </h3>
     <div id="schedule-content" class="usa-accordion__content">
