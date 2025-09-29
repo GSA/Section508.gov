@@ -108,39 +108,93 @@ Use this structured questionnaire process to recruit people with disabilities (P
     <div id="screener-content" class="usa-accordion__content">
       <p><strong>Goal:</strong> Identify eligible participants and their technology or assistive device usage.</p>
       <p><strong>Best Practice:</strong> Combine open-ended and multiple-choice questions; cover disability type, assistive tech, and comfort with devices.</p>
-      <p><strong>Example:</strong></p>
-      <ul>
-        <li>Do you have a disability? If yes, please describe.</li>
-        <li>Do you identify as living with any type of disability? Select all that apply:
+      <p><strong>Examples:</strong></p>
+      <ol>
+        <li><strong>Open ended question</strong> such as: 
           <ul>
-            <li>Attention-related conditions</li>
-            <li>Blindness or low vision</li>
-            <li>Color vision deficiency</li>
-            <li>Cognitive or intellectual disabilities</li>
-            <li>Deafness or hearing impairments</li>
-            <li>Dyslexia</li>
-            <li>Learning disabilities</li>
-            <li>Low vision or hearing difficulties</li>
-            <li>Physical or mobility limitations</li>
-            <li>Speech or communication difficulties</li>
-            <li>Temporary disabilities</li>
-            <li>Other conditions or disabilities</li>
+            <li>Do you have a disability?</li>
+            <li>If yes, and you feel confortable sharing, please describe.</li>
           </ul>
         </li>
-        <li>Which assistive devices do you use? 
+        <li><strong>"Select all that apply" questions</strong> such as: 
           <ul>
-            <li>Braille display</li>
-            <li>Hearing aid</li>
-            <li>Screen magnification</li>
-            <li>Screen reader</li>
-            <li>Mobility aids</li>
-            <li>Other</li>
+            <li><strong>Do you identify as living with any type of disability?</strong> Select all that apply:
+              <ul>
+                <li>Attention disorders</li>
+                <li>Blindness or blind</li>
+                <li>Cognitive impairment</li>
+                <li>Deaf</li>
+                <li>Dyscalculia</li>
+                <li>Dysgraphia</li>
+                <li>Dyslexia</li>
+                <li>Learning disabilities</li>
+                <li>Low or limited hearing, or hard of hearing</li>
+                <li>Low or limited vision</li>
+                <li>Memory issues</li>
+                <li>Neurodiversity</li>
+                <li>Neurological disorders</li>
+                <li>Physical or dexterity issues or limited dexterity or mobility</li>
+                <li>Reading disorders</li>
+                <li>Speech difficulties</li>
+                <li>Temporary disabilities such as a broken arm</li>
+                <li>Other</li>
+                <li>None of the above</li>
+                <li>Prefer not to say</li>
+              </ul>
+            </li>
+            <li><strong>Which of the following assistive devices do you use?</strong> Select all that apply.
+              <ul>
+                <li>Braille display</li>
+                <li>Hearing aid</li>
+                <li>Screen magnification</li>
+                <li>Screen reader</li>
+                <li>Walking frame</li>
+                <li>Walking stick</li>
+                <li>Wheelchair</li>
+              </ul>
+            </li>
           </ul>
         </li>
-        <li>How often do you use assistive technology, and what types do you use?</li>
-        <li>How do you self-identify in terms of cognitive, neurological, or physical disabilities?</li>
-        <li>How comfortable are you with technology? For example, using keyboard-only navigation, assistive technology, or your preferred devices.</li>
-      </ul>
+        <li><strong>Questions to determine use of assistive technology</strong>, such as when specifically identifying screen reader users or people who are extremely low vision or blind, ask queation such as:
+          <ul>
+            <li>Which screen reader do you use (if a screen reader is identified)?</li>
+            <li>What percentage of time do you use a screen reader to navigate websites, mobile applications, or software?</li>
+            <li>When you travel to a new location, what is your preferred mode of transportation? Drive myself, ask a friend or family member to drive me, carlift, bus, train, etc.</li>
+          </ul>
+        </li>
+        <li><strong>Self identification question</strong> such as:
+          <ul>
+            <li>Do you identify as a person with a disability? Yes or No</li>
+            <li>Do you identify as any of the following:
+              <ul>
+                <li>Living with a cognitive or neurological disability</li>
+                <li>living with a physical disability or injury?</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><strong>Questions to determine comfort with technology</strong> such as:
+          <ul>
+            <li><strong>Which of the best describes you while on a website?</strong>
+              <ul>
+                <li>I never use assistive technology to help with reading and navigation</li>
+                <li>I sometimes use assistive technology to help with reading and navigation</li>
+                <li>I must use assistive technology to help with reading and navigation</li>
+              </ul>
+            </li>
+            <li><strong>Which of these best describes you when navigating websites?</strong> 
+              <ul>
+                <li>I exclusively use keys on a keyboard (no mousepad, trackpad, mouse or touchscreen) to navigate</li>
+                <li>I use a combination of keyboard and mouse to navigate</li>
+                <li> use a combination of keyboard, mouse, and assistive devices to navigate, or other</li>
+              </ul>
+            </li>
+            <li><strong>If you use assistive technology to help navigate websites</strong>, describe what type/s do you use? If not applicable, select N/A.</li>
+            <li><strong>When was the last time you shopped online?</strong></li>
+            <li><strong>What is your preferred device when shopping online?</strong></li>
+          </ul>
+        </li>
+      </ol>
     </div>
     <!-- 6. Set a Budget for Recruitment Incentives -->
     <h3 class="usa-accordion__heading">
