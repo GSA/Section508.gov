@@ -411,7 +411,7 @@ Watch the following videos to learn more about how to use each of these commonly
 
 ### Color Contrast for Text and Large Text
 Regular text must have a color contrast ratio of 4.5:1 or higher, while large text must have a ratio of 3:1 or higher.
-Large text is any text that is 18px or larger, or if it is 14px or larger and bolded.
+Large text is any text that is 18pt or larger, or if it is 14pt or larger and bolded.
 
 These contrast thresholds apply even in the following circumstances:
 
@@ -433,22 +433,22 @@ The text in the “Sample Text” column of the following table does not meet co
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18px)</td>
-      <td><span style="font-size: 18px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
+      <td>Large text (non-bold 18pt)</td>
+      <td><span style="font-size: 24px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
       <td>Text: Light grey (#CCCCCC)<br />Background: White (#FFFFFF)</td>
       <td class="center">1.6:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>Large text (bold 14px)</td>
-      <td><span style="font-size: 14px; font-weight: bold; color: #3A76D5; background-color: #073763; padding: 4px 8px; display: inline-block;">This is large text.</span></td>
+      <td>14pt bold text (bold 14pt)</td>
+      <td><span style="font-size: 19px; font-weight: bold; color: #3A76D5; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
       <td>Text: Medium blue (#3A76D5)<br />Background: Dark blue (#073763)</td>
       <td class="center">2.7:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14px)</td>
-      <td><span style="font-size: 14px; color: #B56109;">This is regular text.</span></td>
+      <td>Regular text (non-bold 14pt)</td>
+      <td><span style="font-size: 19px; color: #B56109;">This is regular text.</span></td>
       <td>Text: Orange (#B56109)<br />Background: White (#FFFFFF)</td>
       <td class="center">4.4:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 4.5:1</td>
@@ -471,23 +471,23 @@ The following table contains the same three examples of sample text, but now the
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18px)</td>
-      <td><span style="font-size: 18px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
+      <td>Large text (non-bold 18pt)</td>
+      <td><span style="font-size: 24px; font-weight: normal; color: #919191;">This is large text.</span></td>
       <td>Text: Medium grey (#919191)<br />Background: White (#FFFFFF)</td>
-      <td class="center">3.2:1</td>
+      <td class="center">3.15:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>Large text (bold 14px)</td>
-      <td><span style="font-size: 14px; font-weight: bold; color: #4DA0E6; background-color: #073763; padding: 4px 8px; display: inline-block;">This is large text.</span></td>
-      <td>Text: Medium blue (#3A76D5)<br />Background: Dark blue (#073763)</td>
+      <td>14pt bold text (bold 14pt)</td>
+      <td><span style="font-size: 19px; font-weight: bold; color: #4DA0E6; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
+      <td>Text: Medium blue (#4DA0E6)<br />Background: Dark blue (#073763)</td>
       <td class="center">4.3:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14px)</td>
-      <td><span style="font-size: 14px; color: #916333;">This is regular text.</span></td>
-      <td>Text: Orange (#B56109)<br />Background: White (#FFFFFF)</td>
+      <td>Regular text (non-bold 14pt)</td>
+      <td><span style="font-size: 19px; color: #916333;">This is regular text.</span></td>
+      <td>Text: Orange (#916333)<br />Background: White (#FFFFFF)</td>
       <td class="center">5.2:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 4.5:1</td>
     </tr>
@@ -607,7 +607,7 @@ Use the following table as you check your ICT for color accessibility.
       <td><a href="https://www.w3.org/WAI/WCAG22/quickref/#contrast-minimum" target="_blank" class="usa-link--external">WCAG 1.4.3 Contrast (Minimum)</a> (for documents and web content)</td>
       <td>
         Regular text has a contrast ratio of at least 4.5:1.<br>
-        Large-scale text (non-bold 18px or larger, or bold 14px or larger) has a contrast ratio of at least 3:1.
+        Large-scale text (non-bold 18pt or larger, or bold 14pt or larger) has a contrast ratio of at least 3:1.
       </td>
     </tr>
     <tr>
