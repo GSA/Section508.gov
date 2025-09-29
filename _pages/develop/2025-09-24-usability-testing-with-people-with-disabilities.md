@@ -528,7 +528,7 @@ When planning research, it is helpful to add time in the schedule to accommodate
    * Break: 12:30 pm-1:40 pm (Lunch, reset)
    * Session 3: 1:40 pm - 3:10 pm 
    * Break for notes and capturing data, reset for next day 
-2. Floater (option “a” above)
+2. Floater (option “1” above)
    * Floater 1: schedule for 9:00 am-12:30 pm; they can be dismissed once the Session 2 participant arrives
    * Floater 2: schedule for 1:40 pm - 3:10 pm; they can be dismissed once the Session 3 participant arrives.
 
