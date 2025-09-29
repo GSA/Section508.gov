@@ -3,6 +3,7 @@ sidenav: true
 layout: page
 type: training
 title: "Procuring Section 508 Conformant ICT Products and Services"
+description: Learn the basics of procuring Section 508 conformant information and communication technology (ICT). This no-cost course explains roles, responsibilities, and steps in the federal acquisition process.
 permalink: training/online-course/procuring-section-508-conformant-ict/
 topic: "Training (train)"
 sub-topic: "Presentations"

@@ -1,11 +1,12 @@
 ---
 layout: page
-sidenav: false
-permalink: content/requiring-business-partners-provide-accessible-documents/
-type: page
+sidenav: true
+type: acquisition
 title: 'Requiring Business Partners to Provide Accessible Documents'
-created: 2019-05-09
-updated: 2025-03-05
+description: Learn how to require business partners to provide accessible documents. Get Section 508 guidance, sample language, and best practices for compliance.
+permalink: buy/requiring-business-partners-provide-accessible-documents/
+redirect_from: 
+- content/requiring-business-partners-provide-accessible-documents/
 topic: Content creation (create)
 sub-topic: Documents
 audience:
@@ -14,8 +15,9 @@ audience:
 - Vendor (vendor)
 resource-type: Process/How-to
 format: HTML (html)
+created: 2019-05-09
+updated: 2025-03-05
 ---
-
 Do you work for an agency that provides services through grantees or other partner organizations? If those partner organizations provide documents that will be posted to your agency's website, how do you ensure that the content they provide is accessible?
 
 Requests for Proposal (RFP), grant notices, trainings, status reports - if you have business partners that produce these types of documents, and you host them on your website, the documents must meet Section 508 accessibility requirements. Here are some simple steps (with examples!) to ensure your business partners deliver accessible documents.

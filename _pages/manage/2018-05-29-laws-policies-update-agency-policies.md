@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/laws-and-policies/update-agency-policies/
 type: manage
-title: 'Update Agency Accessibility Policies'
-created: 1527607206
+title: 'Update and Maintain Agency Policy'
+description: Learn how to update and maintain your agency's accessibility policies to ensure compliance with Section 508 and other requirements of the Rehabilitation Act.
+permalink: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
+redirect_from:
+- manage/laws-and-policies/update-agency-policies/
 topic: Law (law)
 sub-topic: Accessibility Law & Policy
 audience:
@@ -15,16 +17,16 @@ audience:
 - Information Technology Program and Project Managers (itpm)
 resource-type: Process/How-to
 format: HTML (html)
+created: 2025-09-15
 ---
+Ongoing compliance with Section 508 requires agencies to regularly review and update their Section 508, Section 501, and Section 504 policies. These policies should work together to clearly define responsibilities, ensure compliance with the Rehabilitation Act, and guide responses to claims of disability discrimination.
 
-The transition from the Original 508 Standards to the Revised 508 Standards is an opportunity for agencies to revisit and update your Section 508, 501, and 504 policies. Policies on how your agency implements each Section of the Rehabilitation Act should be closely aligned, to clarify responsibilities and determine how to respond to claims of discrimination on the basis of disability.
+Your agency’s information and communication technology (ICT) accessibility policies should make clear that you are obligated to:
 
-Your accessibility policies should explain that your agency is obligated to:
+* Ensure all ICT is accessible to people with disabilities.
+* Provide reasonable accommodations to employees and program participants, while meeting Section 508 requirements.
 
-  1. Make information and communication technology (ICT) accessible to people with disabilities; and
-  2. Accommodate the needs of employees and program participants, while meeting the Revised 508 requirements.
-
-These policies should acknowledge that failing to meet these obligations could result in unlawful discrimination against people with disabilities, and put the agency at risk.
+Policies should also recognize that failure to meet these obligations may result in discrimination against people with disabilities and increase legal and operational risks for the agency.
 
 <div class="grid-row">
   <div class="grid-col-auto jump-links">
@@ -339,7 +341,7 @@ Increasingly Section 501 and 504 complaints and lawsuits focus on barriers to te
 
 These best practices were developed by the U.S. Federal Government Revised 508 Standards Transition Workgroup. Members include the U.S. Federal CIO Council Accessibility Community of Practice, the U.S. Access Board, and the General Services Administration.
 
-**Reviewed/Updated**: October 2017
+**Reviewed/Updated**: September 2025
 
 &nbsp;
 

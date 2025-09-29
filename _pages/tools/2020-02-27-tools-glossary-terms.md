@@ -22,7 +22,7 @@ redirect_from:
 - manage/section-508-assessment/2024/appendix-a-terms/
 - glossary/
 created: 2020-02-27
-updated: 2025-06-23
+updated: 2025-09-09
 ---
 These terms appear throughout our website, communications, and reports, including the annual [Governmentwide Section 508 Assessment]({{site.baseurl}}/manage/section-508-assessment/annual-reports/) to Congress. Some are also included in [Commonly Used Acronyms and Abbreviations]({{site.baseurl}}/tools/acronyms-abbreviations/).
 
@@ -340,6 +340,10 @@ These terms appear throughout our website, communications, and reports, includin
     <th scope="row" id="criteria">Criteria</th>
     <td>Refers to the Assessment criteria for agency response. Also denoted with “Q” before a number to identify specific criteria referenced. The terms criteria, metric, and question are used interchangeably when referring to the content to which agencies responded. For specific criteria, refer to the data dictionaries available in the Assessment Data & Downloads section under Assessment Reports.</td>
   </tr>
+  <tr>
+    <th scope="row" id="cure-notice">Cure Notice</th>
+    <td>A formal written notification, used within the Federal Acquisition Regulation (FAR), to inform a contractor that their failure to perform or lack of progress, is jeopardizing contract performance and gives the contractor an opportunity to correct the issue before the government proceeds with termination for default.</td>
+  </tr>
 </tbody>
 </table>
   
@@ -418,6 +422,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="electronic-content">Electronic Content</th>
     <td>All forms of digital data and its encoding, covering both public and internal information as defined by <a href="https://www.access-board.gov/ict/#E205-content" target="_blank" class="usa-link--external">E205 of the Section 508 Standards</a>.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="enterprise-architecture-review-board">Enterprise Architecture Review Board (EARB)</th>
+    <td> A team that reviews proposed IT projects to make sure they fit with the organization’s overall technology plans and standards. They help ensure systems work well together, stay secure, and support organizational goals.</td>
   </tr>
   <tr>
     <th scope="row" id="exceptions">Exceptions</th>
@@ -626,6 +634,10 @@ These terms appear throughout our website, communications, and reports, includin
       </ol>
     </td>
   </tr>
+  <tr>
+    <th scope="row" id="institutional-review-board">Institutional Review Board (IRB)</th>
+    <td>A group that reviews research involving people to make sure it’s safe, ethical, and follows the rules. They check that participants’ rights are protected before the research starts.</td>
+    </tr>
   <tr>
     <th scope="row" id="interactive-element">Interactive element</th>
     <td>Application content that a user may modify, activate, or use to input data.</td>
@@ -1134,6 +1146,11 @@ These terms appear throughout our website, communications, and reports, includin
     <td>The name of a category of data in a <a href="#data-table">data table</a> row or column. In a<a href="#simple-data-table"> simple data table</a>, column headers are provided in the first row and apply to the data cells in their respective columns. Similarly, row headers are provided in the first column and apply to the data cells in their respective rows. In a<a href="#complex-data-table"> complex data table</a>, a column header may be defined in any row, and may apply to multiple columns or to a few cells in a column, and a row header may be defined in any column, and may apply to multiple rows or to a few cells in a row.</td>
   </tr>
   <tr>
+    <th scope="row" id="tep">Technical Evaluation Panel (TEP)</th>
+    <td>A group of subject matter experts assembled during the federal acquisition process to review, assess, and score proposals submitted in response to a solicitation. In the context of Section 508, the TEP evaluates whether proposed Information and Communication Technology (ICT) solutions meet applicable accessibility standards and requirements, ensuring that vendors’ products or services comply with Section 508 accessibility regulations before contract award.
+    </td>
+  </tr>
+  <tr>
     <th scope="row" id="trs">Telecommunications Relay Services (TRS)</th>
     <td><a href="https://www.fcc.gov/trs">Telecommunications Relay Services (TRS)</a> allow persons who are deaf, hard of hearing, deafblind, or have speech disabilities to communicate by telephone in a manner that is functionally equivalent to telephone services used by persons without such disabilities.</td>
   </tr>
@@ -1225,7 +1242,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="universal-design">Universal design</th>
-    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/create/universal-design">Universal design</a> is also referred to as inclusive design.</td>
+    <td>The design and composition of an environment so it can be accessed, understood, and used to the greatest extent possible by all people, regardless of their age, size, ability or disability. <a href="{{site.baseurl}}/develop/universal-design">Universal design</a> is also referred to as inclusive design.</td>
   </tr>
 </tbody>
 </table>
@@ -1295,4 +1312,4 @@ These terms appear throughout our website, communications, and reports, includin
 </tbody>
 </table>
 
-**Reviewed/Updated:** June 2025
+**Reviewed/Updated:** September 2025

@@ -101,7 +101,7 @@ Formatting enhances readability and understanding of the test report. At a minim
 <ul><li><a href="{{site.baseurl}}/develop/universal-design/">Universal Design & Development</a></li> 
 <li><a href="{{site.baseurl}}/test/testing-overview/">Overview of Testing Methods for 508 Conformance</a></li>  
 <li><a href="{{site.baseurl}}/develop/incorporating-accessibility-conformance/">Effective Methods and Tools for Incorporating Accessibility Conformance Validation within Development Processes</a></li>  
-<li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook-intro/play11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
+<li><a href="{{site.baseurl}}/manage/playbooks/technology-accessibility-playbook/11/">Technology Accessibility Playbook — Play 11: Track and Resolve Accessibility Issues</a></li></ul>
 
 
 <strong>Reviewed/Updated:</strong> July 2025

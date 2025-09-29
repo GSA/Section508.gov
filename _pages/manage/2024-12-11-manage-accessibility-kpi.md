@@ -1,10 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/accessibility-kpi/
 type: manage
 title: 'Organizational IT Accessibility Key Performance Indicators (KPI)'
-created: 2024-12-11
+permalink: manage/accessibility-kpi/
+redirect_from:
+- kpi/
+- kpis/
 topic: "Manage (program)"
 sub-topic: "General Info and Best Practices"
 audience:
@@ -15,9 +17,9 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Long form article"
 format: "HTML (html)"
-redirect_from:
-- kpi/
-- kpis/
+created: 2024-12-11
+updated: 2025-09-22
+exclude-changelog: true
 ---
 Results of the last two governmentwide Section 508 Annual Assessments show that agencies generally have many areas in which they could improve. From improving the maturity of their Section 508 Program Office, to the need for creating polices and repeatable procedures, to solidifying their accessibility testing infrastructure, to improving accessibility of ICT; agencies can improve the accessibility of their organizations in one way or another.
 
@@ -139,7 +141,7 @@ Federal organizations can take advantage of KPIs below to track improvement over
     </tr>
     <tr>
       <td scope="row" class="center-important">13</td>
-      <td>Disability Group Engagement</td>
+      <td>Advocacy Organizations Engagement</td>
       <td>In FY2X, conduct outreach to at least X# of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>In FY26, conduct outreach to at least 3 of disability-related affinity groups to garner feedback and incorporate into agency policies, process and standard procedures.</td>
       <td>Human Capital, Culture, and Leadership</td>

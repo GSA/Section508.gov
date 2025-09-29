@@ -10,8 +10,14 @@ manage:
     children:
       - name: Enterprise Architecture and Change Control Review Guidelines for Project Teams
         url: manage/governance/enterprise-architecture-and-change-control/
+      - name: Integrating Section 508 Data into Asset Management and GRC Tools
+        url: manage/governance/section-508-into-asset-management-and-grc-tools/
       - name: Integrating Section 508 into Capital Planning and Investment Control
         url: manage/governance/integrating-section-508-into-cpic/
+      - name: Section 508 Considerations for Enterprise Architecture Integration
+        url: manage/governance/integrating-section-508-into-enterprise-architecture/
+      - name: Integrating Section 508 in FITARA
+        url: manage/governance/including-section-508-in-fitara/
       - name: Section 508 Considerations for Change Control Processes
         url: manage/governance/section-508-for-change-control-processes/
   - name: IT Accessibility Policy Framework
@@ -85,9 +91,9 @@ manage:
           - name: Implementing a Public Feedback Mechanism
             url: manage/laws-and-policies/implementing-public-feedback-mechanism/
           - name: Best Practices For Establishing And Maintaining a Formal Section 508 Complaint Process
-            url: manage/laws-and-policies/Section-508-complaints-best-practices/           
-      - name: Updating Agency Policy
-        url: manage/laws-and-policies/update-agency-policies/
+            url: manage/laws-and-policies/section-508-complaints-best-practices/           
+      - name: Update and Maintain Agency Policy
+        url: manage/laws-and-policies/update-maintain-agency-accessibility-policy/
       - name: State-level Accessibility Law and Policy
         url: manage/laws-and-policies/state/
       - name: International IT Accessibility Laws and Policies
@@ -98,29 +104,35 @@ manage:
       - name: Manage a Section 508 Program
         url: '#'
         grandchildren:
+          - name: Manage a Section 508 Program Overview
+            url: manage/section-508-program/
           - name: Developing a Training Plan
             url: manage/developing-a-section-508-training-plan/
-          - name: IT Accessibility/508 Program Manager Responsibilities
-            url: manage/program-manager-responsibilities/
           - name: Publish Accessible Content
             url: manage/publish-accessible-content/
+          - name: Revised Section 508 Standards Roadmap
+            url: manage/program-roadmap/
+          - name: Section 508 Exceptions Request and Approval Process
+            url: manage/exceptions-request-and-approval-process/ 
+          - name: Section 508 Policy Template
+            url: manage/section-508-policy-template/
+          - name: Section 508 Program Manager Responsibilities
+            url: manage/program-manager-responsibilities/
           - name: Teach Staff about Accessibility
             url: manage/teach-staff-about-accessibility/
           - name: Track and Report Conformance
-            url: manage/track-report-conformance/
-          - name: Section 508 Exceptions Request and Approval Process
-            url: manage/exceptions-request-and-approval-process/ 
-          - name: Revised Section 508 Standards Roadmap
-            url: manage/program-roadmap/
+            url: manage/track-report-conformance/          
       - name: Roles, Responsibilities, and Position Descriptions
         url: '#'
         grandchildren: 
-          - name: Accessibility Roles
+          - name: IT Accessibility Roles and Responsibilities
             url: manage/roles/
           - name: How to Attain Section 508 Testing Expertise
             url: manage/roles/attain-section-508-testing-expertise/
-          - name: Section 508 Accessibility Tester Position Description
-            url: manage/roles/section-508-tester-pd/
+          - name: Section 508 Position Descriptions
+            url: manage/roles/section-508-position-descriptions/
+          - name: Section 508 Program Team Roles and Responsibilities
+            url: manage/section-508-program-team-roles-and-responsibilities/
       - name: Practical Reasons for Digital Accessibility
         url: manage/benefits-of-accessibility/
       - name: How Section 508 Standards Benefit People With Disabilities
@@ -153,31 +165,31 @@ manage:
         url: '#'
         grandchildren:
           - name: Introduction
-            url: manage/playbooks/technology-accessibility-playbook-intro/
+            url: manage/playbooks/technology-accessibility-playbook/
           - name: "Play 1: Establish a Section 508 Program Manager"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play01/
-          - name: "Play 2: Assess your Section 508 Program Maturity"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play02/
+            url: manage/playbooks/technology-accessibility-playbook/1/
+          - name: "Play 2: Measure Your Section 508 Program’s Overall Performance"
+            url: manage/playbooks/technology-accessibility-playbook/2/
           - name: "Play 3: Develop a Section 508 Accessibility Roadmap"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play03/
+            url: manage/playbooks/technology-accessibility-playbook/3/
           - name: "Play 4: Establish a Section 508 Policy"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play04/
+            url: manage/playbooks/technology-accessibility-playbook/4/
           - name: "Play 5: Develop a Section 508 Program Team"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play05/
+            url: manage/playbooks/technology-accessibility-playbook/5/
           - name: "Play 6: Collaborate with the Federal Accessibility Community"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play06/
+            url: manage/playbooks/technology-accessibility-playbook/6/
           - name: "Play 7: Integrate Accessibility Needs into Requirements and Design Processes"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play07/
+            url: manage/playbooks/technology-accessibility-playbook/7/
           - name: "Play 8: Integrate Accessibility Needs into Market Research and Acquisition Processes"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play08/
+            url: manage/playbooks/technology-accessibility-playbook/8/
           - name: "Play 9: Integrate Accessibility Needs into Development Processes"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play09/
-          - name: "Play 10: Conduct Section 508 Testing"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play10/
+            url: manage/playbooks/technology-accessibility-playbook/9/
+          - name: "Play 10: Conduct ICT Accessibility Testing"
+            url: manage/playbooks/technology-accessibility-playbook/10/
           - name: "Play 11: Track and Resolve Accessibility Issues"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play11/
+            url: manage/playbooks/technology-accessibility-playbook/11/
           - name: "Play 12: Educate the Workforce"
-            url: manage/playbooks/technology-accessibility-playbook-intro/play12/
+            url: manage/playbooks/technology-accessibility-playbook/12/
       - name: Quick Guide to IT Accessibility for Program Managers
         url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Executive Guide to Federal IT Accessibility
@@ -424,18 +436,20 @@ develop:
   - name: Design
     url: '#'
     children:
-      - name: Universal Design
-        url: develop/universal-design/
-      - name: Accessible Fonts and Typography  
-        url:  'develop/fonts-typography/'
       - name: Accessible Design Using the USWDS
         url: develop/accessible-design-using-uswds/
+      - name: Accessible Fonts and Typography  
+        url: develop/fonts-typography/
       - name: Designing Digital Content For Users With Cognitive Disabilities
         url: design/digital-content-users-with-cognitive-disabilities/
+      - name: Guide to Accessible Web Design & Development
+        url: develop/guide-accessible-web-design-development/
       - name: Mapping of WCAG 2.0 to Functional Performance Criteria
         url: develop/mapping-wcag-to-fpc/
       - name: Sample Personas for Users With Disabilities
         url: develop/sample-personas/
+      - name: Universal Design
+        url: develop/universal-design/
   - name: Develop
     url: '#'
     children:
@@ -454,6 +468,19 @@ develop:
             url: develop/web-content/
           - name: Publishing to the Web
             url: develop/publish-to-web/
+  - name: Product Lifecycle
+    url: '#'
+    children:
+      - name: ICT Product Lifecycle Overview
+        url: develop/product-lifecycle-overview/
+      - name: Agile Roles Section 508 Task Matrix
+        url: develop/agile-roles-section-508-task-matrix/
+      - name: Business Analyst Section 508 Task Matrix
+        url: develop/ba-section-508-task-matrix/
+      - name: RACI Matrix for ICT Accessibility Integration Across the Product Lifecycle 
+        url: develop/raci-matrix-for-ict-accessibility-product-lifecycle/
+      - name: RACI Matrix for Section 508 Accessibility Integration in the Software Development Lifecycle 
+        url: develop/raci-matrix-for-section-508-in-sdlc/
 test:
   - name: Testing
     url: 'test/'
@@ -538,6 +565,8 @@ acquisition:
             url: 'buy/determine-ict-standards/'
       - name: Request Accessibility Information from Vendors & Contractors
         url: 'buy/request-accessibility-information/'
+      - name: Requiring Business Partners to Provide Accessible Documents
+        url: buy/requiring-business-partners-provide-accessible-documents/
       - name: Understanding Vendor Claims in Accessibility Conformance Reports
         url: 'buy/understand-claims/'
       - name: 'Solicitation Review Tool (SRT)'
