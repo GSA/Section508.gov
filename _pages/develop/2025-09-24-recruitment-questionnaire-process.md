@@ -118,7 +118,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
         </li>
         <li><strong>"Select all that apply" questions</strong> such as: 
           <ul>
-            <li><strong>Do you identify as living with any type of disability?</strong> Select all that apply:
+            <li><strong>Do you identify as living with any type of disability?</strong>
               <ul>
                 <li>Attention disorders</li>
                 <li>Blindness or blind</li>
@@ -142,7 +142,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
                 <li>Prefer not to say</li>
               </ul>
             </li>
-            <li><strong>Which of the following assistive devices do you use?</strong> Select all that apply.
+            <li><strong>Which of the following assistive devices do you use?</strong>
               <ul>
                 <li>Braille display</li>
                 <li>Hearing aid</li>
@@ -168,7 +168,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
             <li>Do you identify as any of the following:
               <ul>
                 <li>Living with a cognitive or neurological disability</li>
-                <li>living with a physical disability or injury?</li>
+                <li>Living with a physical disability or injury</li>
               </ul>
             </li>
           </ul>
