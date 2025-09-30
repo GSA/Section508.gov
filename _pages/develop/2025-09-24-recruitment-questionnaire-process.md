@@ -110,10 +110,9 @@ Use this structured questionnaire process to recruit people with disabilities (P
       <p><strong>Best Practice:</strong> Combine open-ended and multiple-choice questions; cover disability type, assistive tech, and comfort with devices.</p>
       <p><strong>Examples:</strong></p>
       <ul>
-        <li><strong>Open ended question</strong> such as: 
+        <li><strong>Open ended questions</strong> such as: 
           <ul>
-            <li>Do you have a disability?</li>
-            <li>If yes, and you feel confortable sharing, please describe.</li>
+            <li>Do you have a disability? If yes, and you feel confortable sharing, please describe.</li>
           </ul>
         </li>
         <li><strong>"Select all that apply" questions</strong> such as: 
