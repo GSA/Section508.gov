@@ -109,7 +109,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
       <p><strong>Goal:</strong> Identify eligible participants and their technology or assistive device usage.</p>
       <p><strong>Best Practice:</strong> Combine open-ended and multiple-choice questions; cover disability type, assistive tech, and comfort with devices.</p>
       <p><strong>Examples:</strong></p>
-      <ol>
+      <ul>
         <li><strong>Open ended question</strong> such as: 
           <ul>
             <li>Do you have a disability?</li>
@@ -194,7 +194,7 @@ Use this structured questionnaire process to recruit people with disabilities (P
             <li><strong>What is your preferred device when shopping online?</strong></li>
           </ul>
         </li>
-      </ol>
+      </ul>
     </div>
     <!-- 6. Set a Budget for Recruitment Incentives -->
     <h3 class="usa-accordion__heading">

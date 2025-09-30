@@ -29,126 +29,103 @@ Effective information and communication technology (ICT) must be designed to ser
 
 Research with people with disabilities can occur at different stages of the design process, including: 
 
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Discovery Phase</div>
-</li> 
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Ideation</div>
-</li> 
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Prototyping</div>
-</li>  
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Testing</div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Piloting</div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Implementation</div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-blue">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#add_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Validation and Quality Assurance</div>
-</li>
-</ul> 
-
-Include research with people with disabilities at every stage. The types of research include but are not limited to: 
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
+<div class="grid-container">
+<ul class="usa-icon-list grid-row">
+  <li class="usa-icon-list__item padding-top-105 mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Qualitative Research
-  <ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Focus Groups</div>
-</li>
- <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Ethnographic Interviews</div>
-</li>
-  <li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Usability Testing</div>
-</li>
-  </ul>
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
   </div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-green">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
+  <div class="usa-icon-list__content">Discovery Phase</div>
+  </li> 
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Ideation</div>
+  </li> 
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Prototyping</div>
+  </li>  
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Testing</div>
+  </li>
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Piloting</div>
+  </li>
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Implementation</div>
+  </li>
+  <li class="usa-icon-list__item mobile:grid-col-12 tablet:grid-col-4">
+  <div class="usa-icon-list__icon text-blue">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#label"></use>
+  </svg>
+  </div>
+  <div class="usa-icon-list__content">Validation and Quality Assurance</div>
+  </li>
+</ul>
 </div>
-<div class="usa-icon-list__content">User Flow Testing</div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-green">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Assistive Technology Testing</div>
-</li>
-<li class="usa-icon-list__item">
-<div class="usa-icon-list__icon text-green">
-<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">User Acceptance Testing</div>
-</li>
+
+Include research with people with disabilities at every stage. The types of research can include: 
+<ul class="usa-icon-list">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img">
+        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+      </svg>
+    </div>
+    <div class="usa-icon-list__content">
+      Qualitative Research (e.g., Focus Groups, Interviews, Usability Testing)
+    </div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img">
+        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+      </svg>
+    </div>
+    <div class="usa-icon-list__content">User Flow Testing</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img">
+        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+      </svg>
+    </div>
+    <div class="usa-icon-list__content">Assistive Technology Testing</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-green">
+      <svg class="usa-icon" aria-hidden="true" role="img">
+        <use href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+      </svg>
+    </div>
+    <div class="usa-icon-list__content">User Acceptance Testing</div>
+  </li>
 </ul>
 
 ## Conducting Research
@@ -157,38 +134,38 @@ Conducting research with people with disabilities involves many of the same step
 
 Recruiting people with disabilities for a research study may be challenging:
 <ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">People with certain disabilities may require transportation assistance, adding expense and limiting the respondent’s availability.</div>
-</li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">The building or space where the research is conducted must be accessible.</div>
-</li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Some people with disabilities may be more likely to experience physical or mental fatigue.</div>
-</li> 
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.</div>
-</li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+    </svg>
+    </div>
+    <div class="usa-icon-list__content">People with certain disabilities may require transportation assistance, adding expense and limiting the respondent’s availability.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+    </svg>
+    </div>
+    <div class="usa-icon-list__content">The building or space where the research is conducted must be accessible.</div>
+  </li>
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+    </svg>
+    </div>
+    <div class="usa-icon-list__content">Some people with disabilities may be more likely to experience physical or mental fatigue.</div>
+  </li> 
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-blue">
+    <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+      <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
+    </svg>
+    </div>
+    <div class="usa-icon-list__content">Avoid purchasing or maintaining “disability lists.” They are sensitive, often unethical, and may violate privacy requirements.</div>
+  </li>
 </ul>
 
 <p>To ensure that your product is accessible to anyone, screener questions should be designed to identify and prioritize people with disabilities during recruitment. Follow this <a href="{{site.baseurl}}/develop/recruitment-questionnaire-process/">user research recruitment process when writing a recruitment questionnaire</a></p>
@@ -317,7 +294,11 @@ If the audience of the potential service, product, or solution will be the gener
    * Participation must be voluntary and, if on duty time, approved by the supervisor. 
    * Consult your Human Resources office, Equal Employment Opportunity office, and General Counsel before any outreach to employees. 
 
-## Checklist for Researchers
+## Planning and Managing Research Logistics
+Once you have defined your research goals and begun planning recruitment, it is equally important to manage the practical details of running a study. This includes creating a clear checklist of tasks, establishing a budget, setting participant numbers, building realistic schedules, preparing scripts, and ensuring compliance with ethics and privacy requirements. Careful attention to these logistical elements helps ensure that research sessions with people with disabilities run smoothly, remain accessible, and generate reliable, actionable results.
+
+
+### Checklist for Researchers
 
 <ul class="usa-icon-list">
 <li class="usa-icon-list__item">
@@ -398,7 +379,7 @@ If the audience of the potential service, product, or solution will be the gener
 
 Budget managers must decide if cost determines the number of respondents or if the number of respondents sets the budget. It is important to align the number of respondents with the budget available and include the cost of recruiting candidates. There is typically a finder’s fee charged by recruitment firms or advocacy groups. The budget should also include the payment to the candidate and any additional expenses that may be incurred. 
 
-Budget items to consider:
+#### Budget items to consider
 
 1. Accessible space (meets <a href="https://www.access-board.gov/aba/" target="_blank" class="usa-link--external">Architectural Barriers Act</a> accessibility standards) or use a fully accessible remote space.
 2. Transportation for staff and respondents, if they are being reimbursed for travel costs.
@@ -445,32 +426,7 @@ When determining the number of research subjects to include in the study, consid
   <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
 </svg>
 </div>
-<div class="usa-icon-list__content">Resources
-  <ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Space</div>
-</li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content"> Budget</div>
-</li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#thumb_up_alt"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Staff Availability</div>
-</li></ul>
+<div class="usa-icon-list__content">Resources: Space, Budget, Staff Availability
 </div>
 </li>
 </ul>
@@ -483,148 +439,326 @@ There are also industry standard expectations for how many or which percentage o
   <li>Schedule a “floater” or alternate that will arrive at the start of the day
     and stay until lunch, then schedule a second floater for the second half
     of the day.
-    <ol type="a">
+    <ul>
       <li><strong>Benefits:</strong>
-        <ol type="i">
+        <ul>
           <li>If one candidate does not arrive or arrives late, the floater can fill the slot.</li>
           <li>A floater can be used at the judgment of the researcher if the participant does not meet the requirements of the screener, is unable to understand the questions or attempt the tasks, or has biases or experiences that will hinder their ability to provide usable data.</li>
-        </ol>
+        </ul>
       </li>
       <li><strong>Drawback:</strong>
-        <ol type="i">
+        <ul>
           <li>The floater typically gets paid for their time at a similar rate to the respondent and may not ultimately end up participating in the study.</li>
-          </ol>
+          </ul>
           </li>
-          </ol>
+          </ul>
           </li>
   <li>Schedule an additional day of testing that may or may not be needed. This additional day
     can be used or canceled depending on the need.
-    <ol type="a">
+    <ul>
     <li><strong>Drawbacks:</strong>
-      <ol type="i">
+      <ul>
           <li>A “no show” leaves a gap in the schedule.</li>
           <li>Staff who set aside time to conduct the study may not be able to switch to other tasks.</li>
-        </ol></li>
+        </ul></li>
       <li><strong>An alternative to using “floaters”:</strong>
-        <ol type="i">
+        <ul>
           <li>Balance disability mix against research goals and consider over-recruiting by 15–25% to offset no-shows.</li>
           <li>Maintain a short waitlist and invite replacements as needed, then use staggered “standby windows” rather than paying all-day floaters.</li>
-        </ol>
+        </ul>
       </li>
-    </ol>
+    </ul>
     </li>
   </ol>
 
 ### Sample Research Schedules 
 
-When planning research, it is helpful to add time in the schedule to accommodate any needs that arise with mobility difficulties, extended explanations for those with limited language, cognitive, or learning disabilities, or technology modifications to accommodate users. A best practice is to include time at the start of the session to obtain signatures on important documents including non-disclosure agreements, permission to use respondent feedback in any research findings or publications that will be created as a result of the research, permission to record or other informed consent, and confidentiality agreements. Even if distributed in advance, respondents may not have read, completed, or signed the document and will need to do so prior to the start of any research.
+When planning research with people with disabilities, it is important to build extra time into the schedule to accommodate participant needs. This may include allowing or mobility assistance, longer explanations for participants with limited language, cognitive, or learning abilities, or additional setup for assistive technologies. Begin each session with time for administrative tasks such as reviewing and signing consent forms, non-disclosure agreements, permissions to record, and other required documents. Even if provided in advance, participants may not have completed these forms before arriving, so scheduling this step ensures compliance and prevents delays later in the session. Thoughtful planning up front helps sessions run smoothly, remain accessible, and yield reliable results.
 
-#### Sample In-Person One-on-One Interview Schedule
-
-1. Two to four days, two to three sessions per day (90 minutes each, including setup and breaks)
-   * Session 1: 9:00 am-10:30 am 
-   * Break: 10:30 am - 11:00 am
-   * Session 2: 11:00 am - 12:30 pm
-   * Break: 12:30 pm-1:40 pm (Lunch, reset)
-   * Session 3: 1:40 pm - 3:10 pm 
-   * Break for notes and capturing data, reset for next day 
-2. Floater (option “1” above)
-   * Floater 1: schedule for 9:00 am-12:30 pm; they can be dismissed once the Session 2 participant arrives
-   * Floater 2: schedule for 1:40 pm - 3:10 pm; they can be dismissed once the Session 3 participant arrives.
-
-Continue with three sessions per day until all scheduled participants complete the study. If the task or research does not require 90 minutes, an additional afternoon participant could be added (and lunch moved up). Additionally, if the study takes longer than 90 minutes, shorten the planned tasks or interview and potentially break them into multiple sessions, typically on different days in order to ensure quality of response. 
-
-#### Sample In-Person Focus Group Schedule
-Focus group studies should limit to two groups per day and will include more participants, without the need for floaters. Recruit approximately eight people - this will allow for a few people to miss the appointment without sacrificing a diversity of user experiences due to a small number of participants. 
-
-<p><strong>Sample schedule:</strong></p>
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Two days with two groups per day (four total groups)</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">One evening group and one morning or daytime group, lunch in the middle</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Scheduled time following each group to debrief with the research team and capture feedback.</div></li></ul>
-
-#### Sample Remote Focus Group Schedule 
-<p><strong>Format:</strong></p>
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Two moderated sessions per day, 60–75 minutes each</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">Fifteen-minute buffers before and after each session</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-green">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">One facilitator, one note-taker, optional observer(s) on mute with cameras off</div></li>
+<!-- One-on-One Interviews (In-Person) -->
+<ul class="usa-card-group">
+  <li class="usa-card tablet-lg:grid-col-12">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading font-sans-md">One-on-One Interviews (in-Person)</h4>
+      </div>
+      <div class="usa-card__body">
+        <h5 class="font-code-sm">Format & Duration</h5>
+        <p>
+          Two to four days of testing, with two to three individual sessions per day. Each session should last approximately 90 minutes, including setup and breaks.
+        </p>
+        <h5 class="font-code-sm">Daily Structure (Example Schedule)</h5>
+        <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              9:00 – 10:30: Session 1
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              10:30 – 11:00: Break/reset
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              11:00 – 12:30: Session 2
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              12:30 – 1:40: Lunch, reset
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              1:40 – 3:10: Session 3
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              3:10-3:40: Debrief and capture notes
+            </div>
+          </li>
+        </ul>
+        <h5 class="font-code-sm">Special Considerations</h5>
+         <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Recruit six to eight participants, accounting for potential no-shows.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Use “floaters” (alternates scheduled for half-day blocks) or maintain a short waitlist as a backup if participants cancel or do not meet screening requirements.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Allow time for consent paperwork at the beginning of the day.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Adjust schedule if sessions are shorter or longer than 90 minutes.
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </li>
 </ul>
 
-<p><strong>Sample schedule:</strong></p>
-<ul class="usa-icon-list">
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">9:00–9:15: Team setup and tech check (enable captions, admit ASL/CART, open task links)</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">9:15–10:30: Session 1 (60–75 minutes)</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">10:30–10:45: Buffer (upload notes, save recordings, quick debrief)</div></li>
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">10:45–12:00: Session 2 (60–75 minutes)</div></li> 
-<li class="usa-icon-list__item">
-  <div class="usa-icon-list__icon text-blue">
-  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-  <use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#event"></use>
-</svg>
-</div>
-<div class="usa-icon-list__content">12:00–12:15: Buffer (wrap up, assign follow-ups)</div></li>
-</ul> 
+<!-- Focus Groups (In-Person) -->
+<ul class="usa-card-group">
+  <li class="usa-card tablet-lg:grid-col-12">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading font-sans-md">Focus Groups (In-Person)</h4>
+      </div>
+      <div class="usa-card__body">
+        <h5 class="font-code-sm">Format & Duration</h5>
+        <p>
+          Typically conducted over two days, with one to two groups per day. Each group should include six to eight participants and last 90–120 minutes. 
+        </p>
+        <h5 class="font-code-sm">Daily Structure (Example Schedule)</h5>
+        <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Morning: Focus Group 1 (90–120 minutes)
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Lunch break
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Afternoon/Evening: Focus Group 2 (90–120 minutes)
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Post-session: Debrief and capture team notes
+            </div>
+          </li>
+        </ul>
+        <h5 class="font-code-sm">Special Considerations</h5>
+         <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Recruit approximately eight people per group to allow for absences while maintaining multiple perspectives.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Limit to two groups per day to reduce participant and facilitator fatigue.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Provide adequate time between groups for debriefing and resetting materials/technology.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Ensure the space is physically accessible and equipped with necessary accommodations (e.g., ASL interpretation, CART captioning).
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<!-- Focus Groups (Remote) -->
+<ul class="usa-card-group">
+  <li class="usa-card tablet-lg:grid-col-12">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h4 class="usa-card__heading font-sans-md">Focus Groups (Remote)</h4>
+      </div>
+      <div class="usa-card__body">
+        <h5 class="font-code-sm">Format & Duration</h5>
+        <p>
+          Conducted virtually over one or more days. Each day includes two moderated sessions lasting 60–75 minutes.
+        </p>
+        <h5 class="font-code-sm">Daily Structure (Example Schedule)</h5>
+        <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              9:00 – 9:15: Team setup and tech check (captions enabled, interpreters admitted, links tested)
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              9:15 – 10:30: Session 1 (60–75 minutes)
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              10:30 – 10:45: Break/reset/debrief
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              10:45 – 12:00: Session 2 (60–75 minutes)
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-blue">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#event"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              12:00 – 12:15: Wrap-up and assign follow-ups
+            </div>
+          </li>
+        </ul>
+        <h5 class="font-code-sm">Special Considerations</h5>
+         <ul class="usa-icon-list">
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Recruit eight to ten participants per group, anticipating some no-shows.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Assign clear roles: facilitator, note-taker, and optional observers (off-camera and on mute).
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Provide prep materials to interpreters and captioners in advance.
+            </div>
+          </li>
+          <li class="usa-icon-list__item">
+            <div class="usa-icon-list__icon text-green">
+              <svg class="usa-icon" aria-hidden="true" role="img"><use href="{{site.baseurl}}/assets/img/sprite.svg#push_pin"></use></svg>
+            </div>
+            <div class="usa-icon-list__content">
+              Build in buffer time before and after each session for technical setup and troubleshooting.
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </li>
+</ul>
 
 ### Follow a Script 
 A script is a guide that allows the tester to create a universal experience for each research session. This consistency can allow for direct comparison of feedback, with less bias impacting the direction of the conversation. Some things to consider adding to a script include:
