@@ -5,7 +5,7 @@ permalink: important-notice/
 type: page
 title: 'Important Notice'
 created: 2024-02-21
-redirect_to: https://www.section508.gov
+#redirect_to: {{site.baseurl}} #Comment out when disabiling redirect
 topic: "About the program/site (about)"
 sub-topic: "N/A"
 audience:
@@ -15,6 +15,6 @@ audience:
 resource-type: "Long form article"
 format: "HTML (html)"
 ---
-<strong class="text-secondary-darker">NOTICE</strong>: Due to the lapse in federal funding, this website will not be actively managed. This website was last updated on Month #, 2024 and will not be updated until after funding is enacted. As such, information on this website may not be up to date. Transactions submitted via this website might not be processed and we will not be able to respond to inquiries until after appropriations are enacted.
+Due to a lapse in federal funding, this website is not actively managed. It was last updated on October 1, 2025, and will not be updated until funding is restored. Information may be outdated, transactions may not be processed, and we cannot respond to inquiries until appropriations are enacted.
 
-**Reviewed/Updated:** February 2024
+**Reviewed/Updated:** October 2025
