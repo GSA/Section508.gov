@@ -1,7 +1,7 @@
 <section id="alert_banner" aria-label="Special Notification Banner" class="page-landing-page layout-demo">
-  <div class="usa-banner__header bg-primary-lighter" style="padding-bottom: .25rem; padding-top: .25rem; min-height: 0;">
+  <div class="usa-banner__header bg-primary-lighter">
     <div class="usa-banner__inner grid-row">
-      <div class="grid-col-11 font-sans-md">
+      <div class="grid-col-11 font-sans-md" style="padding-bottom: .25rem; padding-top: .25rem; min-height: 0;">
         {{ site.data.alert.message | markdownify }}
       </div>
       {% if site.data.alert.dismissible == true %}
