@@ -26,7 +26,7 @@ Learn how to create accessible Portable Document Format (PDF) documents that con
   <li class="usa-icon-list__item">
     <div class="usa-icon-list__icon text-gold" style="display: flex; align-items: center; justify-content: center; width:20rem;">
       <svg class="usa-icon" aria-hidden="true" style="width:3em; height:3em;" role="img">
-        <use href="/assets/img/sprite.svg#warning"></use>
+        <use href="{{site.baseurl}}/assets/img/sprite.svg#warning"></use>
       </svg>
     </div>
     <div class="usa-icon-list__content">
