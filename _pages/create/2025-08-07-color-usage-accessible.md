@@ -156,7 +156,7 @@ A person with color blindness may be unable to distinguish between the colors in
 In addition, many people with color blindness or low vision have difficulty perceiving text, icons, and symbols when the color of the object is too similar in shade to the color of the background. The “shade” of a color is how light or dark a color is. The following example images show a navigation menu when the colors are “low contrast,” where the colors are similar shades, and “high contrast,” where the colors are very different shades, along with how each of these images may look to a person with color blindness or low vision. For all types of vision, it is harder to distinguish the icons and text in the low contrast menu than in the high contrast menu.
 
 <table class="usa-table usa-table--borderless">
-  <caption>Table 1: </caption>
+  <caption>Table 1: Low and High Contrast Images</caption>
   <thead>
     <tr>
       <th scope="col" class="grid-col-3">Condition</th>
@@ -166,17 +166,17 @@ In addition, many people with color blindness or low vision have difficulty perc
   </thead>
   <tbody>
     <tr>
-      <td>Typical Vision</td>
+      <th scope="row">Typical Vision</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-05a.jpg" class="" alt="Light grey menu on a very light grey background. Menu contains four icons with labels for Home, Schedule, Locations, and Search."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-05b.jpg" class="" alt="Dark grey menu on a very light grey background. Menu contains four icons with labels for Home, Schedule, Locations, and Search."></td>
     </tr>
     <tr>
-      <td>Color Blindness</td>
+      <th scope="row">Color Blindness</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-06a.jpg" class="" alt="The same low contrast menu, but it appears to be light pink on a very light pink background."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-06a.jpg" class="" alt="The same high contrast menu, but it appears to be very dark purple on a very light pink background."></td>
     </tr>
     <tr>
-      <td>Low Vision</td>
+      <th scope="row">Low Vision</th>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-07a.jpg" class="" alt="A blurry version of the original menu with low contrast. Text is entirely indiscernible and icons are difficult to identify."></td>
       <td><img src="{{site.baseurl}}/assets/images/create-color-usage-figure-07b.jpg" class="" alt="A blurry version of the original menu with high contrast. The text and icons may be discernable and readable for some sighted users."></td>
     </tr>
@@ -295,25 +295,25 @@ Quarterly Spending by Year
   </thead>
   <tbody>
     <tr>
-      <td>Quarter 1</td>
+      <th scope="row">Quarter 1</th>
       <td>43,000</td>
       <td>24,000</td>
       <td>20,000</td>
     </tr>
     <tr>
-      <td>Quarter 2</td>
+      <th scope="row">Quarter 2</th>
       <td>25,000</td>
       <td>44,000</td>
       <td>20,000</td>
     </tr>
     <tr>
-      <td>Quarter 3</td>
+      <th scope="row">Quarter 3</th>
       <td>35,000</td>
       <td>18,000</td>
       <td>30,000</td>
     </tr>
     <tr>
-      <td>Quarter 4</td>
+      <th scope="row">Quarter 4</th>
       <td>45,000</td>
       <td>28,000</td>
       <td>47,000</td>
@@ -421,7 +421,7 @@ These contrast thresholds apply even in the following circumstances:
 The text in the “Sample Text” column of the following table does not meet color contrast thresholds. 
 
 <table class="usa-table border-0">
-  <caption>Table: </caption>
+  <caption>Table 3: Inaccessible “Sample Text” Color Contrast</caption>
   <thead>
     <tr>
       <th scope="col">Type of text</th>
@@ -433,21 +433,21 @@ The text in the “Sample Text” column of the following table does not meet co
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18pt)</td>
+      <th scope="row">Large text (non-bold 18pt)</th>
       <td><span style="font-size: 24px; font-weight: normal; color: #cccccc;">This is large text.</span></td>
       <td>Text: Light grey (#CCCCCC)<br />Background: White (#FFFFFF)</td>
       <td class="center">1.6:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>14pt bold text (bold 14pt)</td>
+      <th scope="row">14pt bold text (bold 14pt)</th>
       <td><span style="font-size: 19px; font-weight: bold; color: #3A76D5; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
       <td>Text: Medium blue (#3A76D5)<br />Background: Dark blue (#073763)</td>
       <td class="center">2.7:1</td>
       <td class="center">No&mdash;Color contrast ratio is less than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14pt)</td>
+      <th scope="row">Regular text (non-bold 14pt)</th>
       <td><span style="font-size: 19px; color: #B56109;">This is regular text.</span></td>
       <td>Text: Orange (#B56109)<br />Background: White (#FFFFFF)</td>
       <td class="center">4.4:1</td>
@@ -459,7 +459,7 @@ The text in the “Sample Text” column of the following table does not meet co
 The following table contains the same three examples of sample text, but now they meet the required color contrast thresholds.
 
 <table class="usa-table border-0">
-  <caption>Table: </caption>
+  <caption>Table 4: Accessible “Sample Text” Color Contrast</caption>
   <thead>
     <tr>
       <th scope="col">Type of text</th>
@@ -471,21 +471,21 @@ The following table contains the same three examples of sample text, but now the
   </thead>
   <tbody>
     <tr>
-      <td>Large text (non-bold 18pt)</td>
+      <th scope="row">Large text (non-bold 18pt)</th>
       <td><span style="font-size: 24px; font-weight: normal; color: #919191;">This is large text.</span></td>
       <td>Text: Medium grey (#919191)<br />Background: White (#FFFFFF)</td>
       <td class="center">3.15:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>14pt bold text (bold 14pt)</td>
+      <th scope="row">14pt bold text (bold 14pt)</th>
       <td><span style="font-size: 19px; font-weight: bold; color: #4DA0E6; background-color: #073763; padding: 4px 8px; display: inline-block;">This is bold text.</span></td>
       <td>Text: Medium blue (#4DA0E6)<br />Background: Dark blue (#073763)</td>
       <td class="center">4.3:1</td>
       <td class="center">Yes&mdash;Color contrast ratio is more than 3:1</td>
     </tr>
     <tr>
-      <td>Regular text (non-bold 14pt)</td>
+      <th scope="row">Regular text (non-bold 14pt)</th>
       <td><span style="font-size: 19px; color: #916333;">This is regular text.</span></td>
       <td>Text: Orange (#916333)<br />Background: White (#FFFFFF)</td>
       <td class="center">5.2:1</td>
@@ -627,4 +627,4 @@ Use the following table as you check your ICT for color accessibility.
 * <a href="https://www.tpgi.com/color-contrast-checker/" target="_blank" class="usa-link--external">Colour Contrast Alayser (CCA)</a>
 * <a href="https://webaim.org/resources/contrastchecker/" target="_blank" class="usa-link--external">WebAIM Contrast Checker</a>
 
-**Reviewed/Updated:** August 2025
+**Reviewed/Updated:** November 2025
