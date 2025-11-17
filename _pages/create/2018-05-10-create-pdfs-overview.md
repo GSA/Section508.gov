@@ -22,6 +22,19 @@ redirect_from:
 ---
 Learn how to create accessible Portable Document Format (PDF) documents that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 
+<div class="grid-col-12 border-base radius-lg padding-1" style="border: 1px solid black; background-color: #f5f9fc;">
+  <li class="usa-icon-list__item">
+    <div class="usa-icon-list__icon text-gold" style="display: flex; align-items: center; justify-content: center; width:20rem;">
+      <svg class="usa-icon" aria-hidden="true" style="width:3em; height:3em;" role="img">
+        <use href="/assets/img/sprite.svg#warning"></use>
+      </svg>
+    </div>
+    <div class="usa-icon-list__content">
+    PDFs are still used across government, but they are often not the most accessible or mobile-friendly option. <a href="https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/#anchorD" target="_blank" class="usa-link--external">Federal policy</a> requires agencies to prioritize HTML and use PDFs only when necessary. Choose formats that support accessibility, responsiveness, mobile-friendliness, and a digital-first user experience.
+    </div>
+  </li>
+</div>
+
 ## Authoring Guides
 <div class="usa-accordion usa-accordion--bordered">
   <!-- Adobe Acrobat DC Section - Open by default -->
