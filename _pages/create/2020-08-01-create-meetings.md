@@ -28,7 +28,7 @@ But what types of meetings need to be accessible? How can you make your presenta
 
 ### General Guidelines
 
-In general, it is best practice to make all of your meetings as accessible as possible. When you apply accessibility standards from the beginning, you make the meeting easier for anyone to access and participate. Not only does this help meeting attendees with undisclosed disabilities, but you also benefit those with limited English proficiency, those who are accessing the meeting via phone, or anyone with barriers to accessing the meeting.
+In general, it is best practice to make all of your meetings as accessible as possible. When you apply accessibility standards from the beginning, you make the meeting easier for anyone to access and participate. Not only does this help meeting attendees with undisclosed disabilities, but you also benefit those with limited language proficiency, those who are accessing the meeting via phone, or anyone with barriers to accessing the meeting.
 
 Following Section 508 standards in advance also ensures that if and when the standards become applicable to your meetings, you are able to avoid costly rework or remediation to retroactively incorporate digital accessibility into your plan.
 
