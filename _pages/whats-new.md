@@ -10,7 +10,7 @@ updated: 2025-08-10
 exclude-changelog: true
 ---
 
-Stay up to date with the latest additions and changes to Section508.gov. This page lists updated content from the past 30 days—making it easy to find new accessibility training, tools, guidance, and policy updates.
+Stay up to date with the latest additions and changes to Section508.gov. This page displays the most recent content updates—making it easy to find new accessibility training, tools, guidance, and policy updates.
 
 {% assign recent_pages = "" | split: "" %}
 {% assign fallback_pages = "" | split: "" %}
