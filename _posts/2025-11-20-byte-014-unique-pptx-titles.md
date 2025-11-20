@@ -21,7 +21,7 @@ Screen reader and other assistive technology (AT) users and other audience membe
 <div class="tablet:grid-col" style="margin: auto; max-width: 100%; text-align: center; padding: 10px 0px ">
    <div class="margin-top-neg-1 margin-bottom-neg-4"><img src="{{site.baseurl}}/assets/images/byte-014-figure-1.png" alt="Screenshot of PowerPoint in normal view of slide titled, Agenda (Continued), with generic agenda items." aria-describedby="figure-1" class="border-0px border-base-light shadow-0 padding-1">
    </div>
-   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> Caption text.</span>
+   <div class="font-mono-3xs margin-x-auto auto" style="max-width: 90%; text-align: center;"><span id="figure-1"><strong>Figure 1.</strong> A PowerPoint presentation showing the handling of a repeated slide topic.</span>
    </div>
 </div>
 
