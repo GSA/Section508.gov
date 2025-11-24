@@ -157,7 +157,7 @@ This micro-purchases process consists of six steps:
   <div id="m-b2" class="usa-accordion__content">
   <h4 id="what-section-508-standards-apply-">What Section 508 standards apply?</h4>
     <p>Once you have determined that your procurement is ICT, your next step is to determine which category of ICT it fits into. That category will define the Section 508 technical standards that you will use when evaluating potential products.</p>
-    <p>As defined in <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">CFR Part 1194, Appendices A&amp;B</a>, there are four Section 508 technical standards categories:</p>
+    <p>As defined in <a href="https://www.ecfr.gov/current/title-36/chapter-XI/part-1194" target="_blank" class="usa-link--external">CFR Part 1194, Appendices A&amp;B</a>, there are four Section 508 technical standards categories:</p>
     <ul>
     <li>Electronic content, including websites and agency communications</li>
     <li>Hardware</li>
@@ -165,19 +165,19 @@ This micro-purchases process consists of six steps:
     <li>Support documentation and services (i.e. help desk services)</li>
     </ul>
     <h4 id="developing-section-508-requirements-for-procurements">Developing Section 508 requirements for procurements</h4>
-    <p>The below tools and processes can help you conduct either a manual or automated review to define accessibility requirements for your solicitation. See <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Buy Accessible Products and Services</a> for more information on how to use these tools.</p>
+    <p>The below tools and processes can help you conduct either a manual or automated review to define accessibility requirements for your solicitation. See <a href="{{site.baseurl}}/buy/">Buy Accessible Products and Services</a> for more information on how to use these tools.</p>
     <ul>
     <li><p>Option 1 - Build custom accessibility requirements using Accessibility Requirements Tool (ART). Use ART, which automates the Standards Applicability Checklist and generates customized language to build your accessibility requirements.</p>
     </li>
-    <li><p>Option 2 - Manually determine accessibility requirements. Follow this step-by-step guidance on how to <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Determine 508 Standards and Exceptions</a> and complete the Standards Applicability Checklist. Use the 508 Standards and Exceptions Chart &amp; Examples template to clearly communicate which standards and exceptions apply to each item in a solicitation that includes ICT.</p>
+    <li><p>Option 2 - Manually determine accessibility requirements. Follow this step-by-step guidance on how to <a href="{{site.baseurl}}/buy/determine-508-standards-exceptions/">Determine 508 Standards and Exceptions</a> and complete the Standards Applicability Checklist. Use the 508 Standards and Exceptions Chart &amp; Examples template to clearly communicate which standards and exceptions apply to each item in a solicitation that includes ICT.</p>
     </li>
     </ul>
     <p>Failing to include the applicable Section 508 technical requirements increases the risk of your project going over budget, missing deadlines, or requiring remediation after the product has been delivered and accepted. Not developing Section 508 conformant deliverables also puts your agency at a higher risk of being sued.</p>
     <h4 id="request-accessibility-information-from-vendors-and-contractors">Request Accessibility Information from Vendors and Contractors</h4>
-    <p>The <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Request Accessibility Information from Vendors and Contractors</a> page can help you determine the required standards for the ICT solution you intend to procure. Requirements will depend on whether the ICT is standard or customized. The page also includes a suggested process to help you determine and document the requirements and applicable exceptions.</p>
-    <p>Determining Section 508 requirements is rather technical, so consult with <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">your agency Section 508 Program Manager</a> for assistance.</p>
+    <p>The <a href="{{site.baseurl}}/buy/request-accessibility-information/">Request Accessibility Information from Vendors and Contractors</a> page can help you determine the required standards for the ICT solution you intend to procure. Requirements will depend on whether the ICT is standard or customized. The page also includes a suggested process to help you determine and document the requirements and applicable exceptions.</p>
+    <p>Determining Section 508 requirements is rather technical, so consult with your agency <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a> for assistance.</p>
     <h4 id="section-508-exceptions">Section 508 Exceptions</h4>
-    <p>There are some <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">general exceptions</a> that pertain to Section 508:</p>
+    <p>There are some <a href="{{site.baseurl}}/buy/understanding-section-508-exceptions/">general exceptions</a> that pertain to Section 508:</p>
     <ul>
     <li>Legacy ICT (Safe Harbor)</li>
     <li>National Security</li>
@@ -186,7 +186,7 @@ This micro-purchases process consists of six steps:
     <li>Undue Burden or Fundamental Alteration</li>
     <li>Best Meets (due to commercial non-availability). If there are technically acceptable solutions available in the marketplace, you need to select one of those solutions. You cannot choose a different solution and claim an exception (e.g., &quot;best meets&quot; or &quot;undue burden&quot;). </li>
     </ul>
-    <p>Micro-purchases rarely fall within these exceptions. If you are making a micro-purchase in one of these categories, consult <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">your Section 508 Program Manager</a> for assistance in properly documenting the exception.</p>
+    <p>Micro-purchases rarely fall within these exceptions. If you are making a micro-purchase in one of these categories, consult your <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a> for assistance in properly documenting the exception.</p>
   </div>
   <!--03-->
   <h3 class="usa-accordion__heading">
@@ -198,15 +198,15 @@ This micro-purchases process consists of six steps:
     <p>Once you know which Section 508 technical standards apply to your micro-purchase, you must perform market research to find possible solutions that could meet your business need. The goal of your market research is to find a Section 508 conformant product or service or decide which of the available products or services best meets the accessibility requirements.</p>
     <p>Maria must perform market research to find a vendor that offers a multifunction machine that conforms to all the applicable Section 508 technical standards for multifunction machines.</p>
     <h4 id="conducting-market-research">Conducting Market Research</h4>
-    <p>Steps for conducting market research for accessible products are defined on the Section508.gov website in the <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Buy Accessible Products and Services, Market Research</a> section.</p>
+    <p>Steps for conducting market research for accessible products are defined on the Section508.gov website in the <a href="{{site.baseurl}}/buy/">Buy Accessible Products and Services, Market Research</a> section.</p>
     <p>To assess accessibility during the market research process, you may do any of the following:</p>
     <ul>
     <li>Search the internet for existing Accessibility Conformance Reports (ACR) for the ICT being procured. These are often referred to as Voluntary Product Accessibility Templates (VPATs®). A VPAT® is the industry standard template to be used for making product accessibility claims.</li>
     <li>Ask colleagues at your agency, or within relevant communities of practice.</li>
-    <li>Visit the <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Acquisition Gateway</a> (requires an OMB MAX ID) and use the <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Solutions Finder</a>.</li>
-    <li>Visit the Accessibility <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Communities of Practice</a>.</li>
+    <li>Visit the <a href="https://www.gsa.gov/tools/supply-procurement-etools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a> (requires an OMB MAX ID) and use the <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>.</li>
+    <li>Visit the Accessibility <a href="hhttps://www.cio.gov/about/members-and-leadership/accessibility-cop/" target="_blank" class="usa-link--external">Communities of Practice</a>.</li>
     </ul>
-    <p>For more information on conducting market research, see <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">FAR Part 10</a>.</p>
+    <p>For more information on conducting market research, see <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR Part 10</a>.</p>
     <h4 id="review-information-you-obtain">Review information you obtain</h4>
     <p>Next, review the information you obtain. For micro-purchases, this activity will primarily consist of gathering and comparing the ACR or VPAT® for the options you are considering. Your job here is to identify which option best meets the accessibility requirements you defined in Step 2.</p>
     <p>As a best practice, try to find at least two possible solutions, gather the ACRs/VPATs®, and compare their quality. The attention to detail in how a vendor documents the accessibility of their products is a great indicator of how well you can &#39;trust&#39; what is documented. As you review them, consider:</p>
@@ -216,11 +216,11 @@ This micro-purchases process consists of six steps:
     <li>Are there positive examples of how a product supports a specific success criterion?</li>
     <li>Does the vendor publicly display their ACR?</li>
     </ul>
-    <p>Excerpted from  <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>, Brian McNeilly, University of Washington, USA, Sina Bahram, Prime Access Consulting, Inc., USA</p>
+    <p>Excerpted from <a href="https://www.mw19.mwconf.org/session/how-to-read-a-vpat/index.html" target="_blank" class="usa-link--external">How to Read a VPAT®: Assessing Accessibility Conformance Reports</a>, Brian McNeilly, University of Washington, USA, Sina Bahram, Prime Access Consulting, Inc., USA</p>
     <h4 id="scoring-acrs">Scoring ACRs</h4>
     <p>ACRs include categories rated as &quot;meets&quot;, &quot;partially meets&quot;, and &quot;does not meet&quot; requirements. Assign a value to each of those ratings, then tally the scores, paying greatest attention to accessibility elements most pertinent to the requirements you defined in Step 2.</p>
     <p>Of the products that meet the business need, your agency is obligated to pick the item that meets Section 508 accessibility requirements. Document your research, to compare solutions and find one that is the best fit for your agency including at a minimum vendor name, version, and model number, and a description of how the solution will/will not meet your business need.</p>
-    <p>Evaluating ACRs is not easy for a novice. Do not be afraid to seek help from <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">your Section 508 Program Manager</a>.</p>
+    <p>Evaluating ACRs is not easy for a novice. Do not be afraid to seek help from your <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a>.</p>
     <h4 id="the-best-meets-exception">The Best Meets Exception</h4>
     <p>The &#39;Best Meets&#39; exception provides a mechanism to help agencies balance business needs and obligations to procure ICT and conform to the Revised Section 508 Standards when an alternative that fully conforms is not available.</p>
     <p>If there are technically acceptable solutions available in the marketplace, you must select one of those solutions (FAR 39.203(c)(1)). You cannot choose a different solution and claim an exception (such as &quot;best meets&quot; or &quot;undue burden&quot;).</p>
@@ -245,7 +245,7 @@ This micro-purchases process consists of six steps:
   </h3>
   <div id="m-b5" class="usa-accordion__content">
     <p>While all agencies are required to adhere to Section 508, procedures may differ from one agency to another.</p>
-    <p>As part of your role in the purchasing process, it is your responsibility to be aware of any agency-specific policies and procedures related to ICT micro-purchases and Section 508. If you are unsure of any agency-specific policies and procedures, check with your agency&#39;s Office of the Chief Information Officer (OCIO), Procurement Officer, and <a href="https://training.section508.gov/508-training/courses/micro-purchase-new/lesson1/index.html">Section 508 Program Manager</a>.</p>
+    <p>As part of your role in the purchasing process, it is your responsibility to be aware of any agency-specific policies and procedures related to ICT micro-purchases and Section 508. If you are unsure of any agency-specific policies and procedures, check with your agency&#39;s Office of the Chief Information Officer (OCIO), Procurement Officer, and <a href="{{site.baseurl}}/tools/program-manager-listing/">Section 508 Program Manager</a>.</p>
   </div>
   <!--06-->
   <h3 class="usa-accordion__heading">
@@ -260,39 +260,40 @@ This micro-purchases process consists of six steps:
 ## Additional Resources
 To learn more about regulations and requirements related to micro-purchases and other purchases, review the following resources.
 
--   Section 508 Standards
-    -   [Revised Section 508 Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
-    -   [Functional Performance Criteria](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria)
-    -   [Section E202 General Exceptions](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions)
-    -   [Section E202.7 Best Meets](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions)
--   Laws and Regulations
-    -   [36 CFR 1194](https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines)
-    -   [36 CFR Part 1194, Appendices A&C](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines)
-    -   [FAR Subpart 2.2 ](https://www.acquisition.gov/far/subpart-2.2)
-    -   [FAR 10](https://www.acquisition.gov/far/part-10)
-    -   [FAR 1.602-2](https://www.acquisition.gov/far/part-1#i1126427)
-    -   [FAR 1.603-3](https://www.acquisition.gov/far/part-1#i1126501)
-    -   [Micro-purchase and the FAR (FAR Part 13)](https://www.acquisition.gov/far/part-13/)
-    -   [Section 508 Federal Acquisition Regulation (FAR Part 39)](https://www.acquisition.gov/far/part-39)
--   Section 508.gov Resources
-    -   Training Courses
-        -   [Micro-Purchases and Section 508 Requirements](https://www.section508.gov/training/online-course/micro-purchases/)
-        -   [Procuring Section 508 Conformant ICT Products and Services](https://www.section508.gov/training/online-course/procuring-section-508-conformant-ict/)
-    -   Tools
-        -   [Accessibility Requirements Tool (ART)](https://www.section508.gov/buy/accessibility-requirements-tool)
-        -   [Find Your Section 508 Program Manager](https://www.section508.gov/tools/coordinator-listing)
-        -   [Voluntary Product Accessibility Template](https://www.section508.gov/sell/vpat)
-    -   Resources
-        -   [Buy Accessible Products and Services](https://www.section508.gov/buy)
-        -   [Buy Accessible Products and Services, Market Research](https://www.section508.gov/buy#market)
-        -   [Determine Section 508 Standards and Exceptions](https://www.section508.gov/buy/determine-508-standards-exceptions)
-        -   [Request Accessibility Information from Vendors](https://www.section508.gov/buy/request-accessibility-information)
-        -   [Section 508 IT Accessibility Community Listserv](https://www.section508.gov/manage/join-the-508-community)
--   Other Resources
-    -   [Acquisition Gateway](https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway)
-    -   [Communities of Practice](https://digital.gov/communities/it-accessibility-section-508/)
-    -   [How to Read a VPAT: Assessing Accessibility Conformance Reports](https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/)
-    -   [Solutions Finder](https://hallways.cap.gsa.gov/app/#/solutionsfinder)
+* Section 508 Standards
+    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
+    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
+* Laws and Regulations
+    * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
+    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&C</a>
+    * <a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>
+    * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR 10</a>
+    * <a href="https://www.acquisition.gov/far/part-1#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
+    * <a href="https://www.acquisition.gov/far/part-1#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
+    * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
+    * <a href="https://www.acquisition.gov/far/part-39" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
+* Section 508.gov Resources
+    * Training Courses
+        * [Micro-Purchases and Section 508 Requirements]({{site.baseurl}}/training/online-course/micro-purchases/)
+        * [Procuring Section 508 Conformant ICT Products and Services]({{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/)
+    * Tools
+        * <a href="({{site.baseurl}}/art/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a>
+        * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/coordinator-listing)
+        * [Voluntary Product Accessibility Template]({{site.baseurl}}/sell/vpat)
+    * Resources
+        * [Buy Accessible Products and Services]({{site.baseurl}}/buy)
+        * [Buy Accessible Products and Services, Market Research]({{site.baseurl}}/buy#market)
+        * [Determine Section 508 Standards and Exceptions]({{site.baseurl}}/buy/determine-508-standards-exceptions)
+        * [Request Accessibility Information from Vendors]({{site.baseurl}}/buy/request-accessibility-information)
+        * [Section 508 IT Accessibility Community Listserv]({{site.baseurl}}/manage/join-the-508-community)
+* Other Resources
+    * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
+    * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
+    * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
+    * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
+
 
 **Reviewed/Updated:** November 2025
 
