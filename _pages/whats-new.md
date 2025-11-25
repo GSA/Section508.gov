@@ -50,14 +50,25 @@ Stay up to date with the latest additions and changes to Section508.gov. This pa
 
 {% assign display_items = "" | split: "" %}
 
-{% assign recent_count = sorted_recent.size %}
-{% if recent_count == 0 %}
-  {% assign source_items = sorted_fallback %}
-  {% assign display_limit = 5 %}
-{% else %}
-  {% assign source_items = sorted_recent %}
-  {% assign display_limit = recent_count %}
-{% endif %}
+{%- comment -%}
+Build combined list:
+1. recent items first
+2. then older fallback items
+3. remove duplicates
+4. take top 5
+{%- endcomment -%}
+
+{% assign combined = sorted_recent | concat: sorted_fallback %}
+
+{%- comment -%}
+Remove duplicates: since packed strings are unique by epoch, we can use uniq
+{%- endcomment -%}
+{% assign combined = combined | uniq %}
+
+{%- comment -%}
+Take only the top 5
+{%- endcomment -%}
+{% assign source_items = combined | slice: 0, 5 %}
 
 {%- comment -%}
 Restore original order for display: title|url|date|description|epoch
