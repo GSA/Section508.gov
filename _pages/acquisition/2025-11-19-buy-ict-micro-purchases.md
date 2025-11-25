@@ -2,9 +2,9 @@
 layout: page
 sidenav: true
 type: acquisition
+permalink: buy/ict-micro-purchases/
 title: Understanding Micro-purchases
 description: Guide to buying accessible ICT under the micro-purchase threshold, covering Section 508 requirements, standards, and buyer responsibilities.
-permalink: /buy/ict-micro-purchases/
 audience: 
 - 508-pm
 - buyer
@@ -261,27 +261,30 @@ This micro-purchases process consists of six steps:
 To learn more about regulations and requirements related to micro-purchases and other purchases, review the following resources.
 
 * Section 508 Standards
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">Revised Section 508 Standards</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
+    * <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>
+    * <a href="https://www.access-board.gov/ict/#302-functional-performance-criteria" target="_blank" class="usa-link--external">Functional Performance Criteria</a>
+    * <a href="https://www.access-board.gov/ict/#E202-general-exceptions" target="_blank" class="usa-link--external">Section E202 General Exceptions</a>
+    * <a href="https://www.access-board.gov/ict/#E202" target="_blank" class="usa-link--external">Section E202.7 Best Meets</a>
 * Laws and Regulations
-    * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR 1194</a>
-    * <a href="https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines" target="_blank" class="usa-link--external">36 CFR Part 1194, Appendices A&C</a>
-    * <a href="https://www.acquisition.gov/far/subpart-2.2" target="_blank" class="usa-link--external">FAR Subpart 2.2</a>
-    * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">FAR 10</a>
-    * <a href="https://www.acquisition.gov/far/part-1#i1126427" target="_blank" class="usa-link--external">FAR 1.602-2</a>
-    * <a href="https://www.acquisition.gov/far/part-1#i1126501" target="_blank" class="usa-link--external">FAR 1.603-3</a>
-    * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Micro-purchase and the FAR (FAR Part 13)</a>
-    * <a href="https://www.acquisition.gov/far/part-39" target="_blank" class="usa-link--external">Section 508 Federal Acquisition Regulation (FAR Part 39)</a>
+    * [Section 508 of the Rehabilitation Act of 1973, as amended]({{site.baseurl}}/manage/laws-and-policies/section-508-law/)
+    * <a href="https://www.federalregister.gov/documents/2017/01/18/2017-00395/information-and-communication-technology-ict-standards-and-guidelines" target="_blank" class="usa-link--external">Information and Communication Technology (ICT) Standards and Guidelines (36 CFR 1194)</a>
+      * <a href="https://www.access-board.gov/ict/#appendixA" target="_blank" class="usa-link--external">Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements</a>
+      * <a href="https://www.access-board.gov/ict/#appendix-c" target="_blank" class="usa-link--external">Appendix C to Part 1194 – Functional Performance Criteria and Technical Requirements</a>
+    * Federal Acquisition Regulation (FAR)
+      * <a href="https://www.acquisition.gov/far/part-1#FAR_1_602_2" target="_blank" class="usa-link--external">Subpart - 1.602-2 - Responsibilities</a>
+      * <a href="https://www.acquisition.gov/far/part-1#FAR_1_603_3" target="_blank" class="usa-link--external">Subpart - 1.603-3 Appointment</a>
+      * <a href="https://www.acquisition.gov/far/part-2#FAR_Subpart_2_2" target="_blank" class="usa-link--external">Subpart 2.2 - Definitions Clause</a>
+      * <a href="https://www.acquisition.gov/far/part-10" target="_blank" class="usa-link--external">Part 10 - Market Research</a>
+      * <a href="https://www.acquisition.gov/far/part-13/" target="_blank" class="usa-link--external">Part 13 - Simplified Acquisition Procedures</a>
+      * <a href="https://www.acquisition.gov/far/subpart-39.2" target="_blank" class="usa-link--external">Subpart 39.2 - Information and Communication Technology Information and Communication Technology</a>
 * Section 508.gov Resources
     * Training Courses
         * [Micro-Purchases and Section 508 Requirements]({{site.baseurl}}/training/online-course/micro-purchases/)
         * [Procuring Section 508 Conformant ICT Products and Services]({{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/)
     * Tools
-        * <a href="({{site.baseurl}}/art/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a>
+        * <a href="{{site.baseurl}}/art/" target="_blank" class="usa-link--external">Accessibility Requirements Tool (ART)</a>
         * [Find Your Section 508 Program Manager]({{site.baseurl}}/tools/coordinator-listing)
-        * [Voluntary Product Accessibility Template]({{site.baseurl}}/sell/vpat)
+        * [Accessibility Conformance Report (ACR)]({{site.baseurl}}/sell/acr/)
     * Resources
         * [Buy Accessible Products and Services]({{site.baseurl}}/buy)
         * [Buy Accessible Products and Services, Market Research]({{site.baseurl}}/buy#market)
@@ -289,10 +292,10 @@ To learn more about regulations and requirements related to micro-purchases and 
         * [Request Accessibility Information from Vendors]({{site.baseurl}}/buy/request-accessibility-information)
         * [Section 508 IT Accessibility Community Listserv]({{site.baseurl}}/manage/join-the-508-community)
 * Other Resources
-    * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
-    * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
+    * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
+    * <a href="https://digital.gov/communities/" target="_blank" class="usa-link--external">Communities of Practice</a>
     * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance Reports</a>
-    * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
+    * <a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a>
 
 
 **Reviewed/Updated:** November 2025

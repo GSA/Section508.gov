@@ -110,10 +110,10 @@ Demonstrate your skills and stand out in your field with a certificate that prov
   * <a href="{{site.basueurl}}/tools/coordinator-listing ">Find Your Section 508 Program Manager</a>
   * <a href="{{site.basueurl}}/buy/request-accessibility-information">Request Accessibility Information from Vendors</a>
   * <a href="{{site.basueurl}}/manage/join-the-508-community">Section 508 IT Accessibility Community Listserv</a>
-  * <a href="{{site.basueurl}}/sell/vpat">Voluntary Product Accessibility Template</a>
+  * <a href="{{site.basueurl}}/sell/acr/">Accessibility Conformance Report (ACR)</a>
 * **Other Resources**
-  * <a href="https://www.gsa.gov/tools-overview/buying-and-selling-tools/acquisition-gateway" target="_blank" class="usa-link--external">Acquisition Gateway</a>
-  * <a href="https://digital.gov/communities/it-accessibility-section-508/" target="_blank" class="usa-link--external">Communities of Practice</a>
+  * <a href="https://www.acquisitiongateway.gov/" target="_blank" class="usa-link--external">Acquisition Gateway</a>
+  * <a href="{{site.baseurl}}/manage/join-the-508-community/" target="_blank" class="usa-link--external">Communities of Practice</a>
   * <a href="https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/" target="_blank" class="usa-link--external">How to Read a VPAT: Assessing Accessibility Conformance  Reports</a>
   * <a href="https://hallways.cap.gsa.gov/app/#/solutionsfinder" target="_blank" class="usa-link--external">Solutions Finder</a>
 

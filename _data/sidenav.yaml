@@ -546,16 +546,21 @@ acquisition:
   - name: Buy
     url: '#'
     children:
-      - name: Buy Accessible ICT
+      - name: Buy Accessible ICT Overview
         url: 'buy/'
       - name: Accessibility Requirement Tool (ART)
         url: 'art/'
+      - name: Authoring Tool Requirements
+        url: 'buy/authoring-tools/'
+      - name: Accessibility In Procurement
+        url: '#'
+        grandchildren:
+          - name: "Accessibility In Procurement I: Pre-Soliciation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
+          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
+            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'
       - name: Define Accessibility Criteria in Contracts
         url: 'buy/define-accessibility-criteria/'
-      - name: Understanding Section 508 Exceptions
-        url: 'buy/understanding-section-508-exceptions/'
-      - name: Section 508 Standards and Exceptions Chart & Examples
-        url: 'buy/standards-exceptions/'
       - name: Determine Section 508 Standards and Exceptions
         url: '#'
         grandchildren:
@@ -571,32 +576,29 @@ acquisition:
         url: 'buy/request-accessibility-information/'
       - name: Requiring Business Partners to Provide Accessible Documents
         url: buy/requiring-business-partners-provide-accessible-documents/
-      - name: Understanding Vendor Claims in Accessibility Conformance Reports
-        url: 'buy/understand-claims/'
+      - name: Section 508 Standards and Exceptions Chart & Examples
+        url: 'buy/standards-exceptions/'
       - name: 'Solicitation Review Tool (SRT)'
         url: 'buy/solicitation-review-tool/'
-      - name: Authoring Tool Requirements
-        url: 'buy/authoring-tools/'
-      - name: Accessibility In Procurement
-        url: '#'
-        grandchildren:
-          - name: "Accessibility In Procurement I: Pre-Soliciation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation-1/'
-          - name: "Accessibility In Procurement II: Soliciation & Post-Solicitation"
-            url: 'buy/accessibility-in-procurement-pre-solicitation-2/'         
+      - name: Understanding Micro-purchases 
+        url: 'buy/ict-micro-purchases/'
+      - name: Understanding Section 508 Exceptions
+        url: 'buy/understanding-section-508-exceptions/'      
+      - name: Understanding Vendor Claims in Accessibility Conformance Reports
+        url: 'buy/understand-claims/'
   - name: Sell
     url: '#'
     children:
-      - name: Sell Accessible Products and Services
+      - name: Sell Accessible ICT Overview
         url: sell/
       - name: Accessibility Conformance Report (ACR)
         url: sell/acr/
-      - name: OpenACR Editor
-        url: tools/openacr-editor/
-      - name: How to Create an ACR with a VPAT&reg;
-        url: sell/how-to-create-acr-with-vpat/
       - name: ACR/VPAT FAQ
         url: sell/acr-vpat-faq/
+      - name: How to Create an ACR with a VPAT&reg;
+        url: sell/how-to-create-acr-with-vpat/
+      - name: OpenACR Editor
+        url: tools/openacr-editor/
 create:
   - name: Content Creation
     url: 'create/'

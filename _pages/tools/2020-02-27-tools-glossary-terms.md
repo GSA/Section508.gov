@@ -48,7 +48,7 @@ These terms appear throughout our website, communications, and reports, includin
   </tr>
   <tr>
     <th scope="row" id="acr">Accessibility Conformance Report (ACR)</th>
-    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/vpat">Voluntary Product Accessibility Template (VPAT&reg;)</a> template created by the IT Industry Council (ITI), but other methods are used across government.</td>
+    <td>A document that explains the extent to which a product conforms to accessibility standards such as WCAG or Section 508 Technical Standards. A common way an ACR is completed is by using the <a href="{{site.baseurl}}/sell/acr/">Voluntary Product Accessibility Template&copy;</a> created by the IT Industry Council (ITI), but other methods are used across government.</td>
   </tr>
   <tr>
     <th scope="row" id="acr-repository">ACR Repository</th>

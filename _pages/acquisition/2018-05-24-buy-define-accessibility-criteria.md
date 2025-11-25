@@ -228,5 +228,5 @@ Before final acceptance of any ICT item, including updates and replacements, if 
 
  [1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
  [2]: https://www.dhs.gov/compliance-test-processes
- [3]: {{site.baseurl}}/sell/vpat
+ [3]: {{site.baseurl}}/sell/acr/
  [4]: http://www.itic.org/policy/accessibility
