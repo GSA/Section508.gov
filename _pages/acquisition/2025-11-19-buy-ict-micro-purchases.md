@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: acquisition
 permalink: buy/ict-micro-purchases/
-title: Understanding Micro-purchases
+title: Understanding ICT Micro-Purchases
 description: Guide to buying accessible ICT under the micro-purchase threshold, covering Section 508 requirements, standards, and buyer responsibilities.
 audience: 
 - 508-pm
@@ -298,6 +298,6 @@ To learn more about regulations and requirements related to micro-purchases and 
     * <a href="https://acquisitiongateway.gov/solutions" target="_blank" class="usa-link--external">Solutions Finder</a>
 
 
-**Reviewed/Updated:** November 2025
+**Reviewed/Updated:** December 2025
 
 <script src="{{site.baseurl}}/assets/js/accordion-manage.js"></script>

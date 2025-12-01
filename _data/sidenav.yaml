@@ -580,7 +580,7 @@ acquisition:
         url: 'buy/standards-exceptions/'
       - name: 'Solicitation Review Tool (SRT)'
         url: 'buy/solicitation-review-tool/'
-      - name: Understanding Micro-purchases 
+      - name: Understanding ICT Micro-purchases 
         url: 'buy/ict-micro-purchases/'
       - name: Understanding Section 508 Exceptions
         url: 'buy/understanding-section-508-exceptions/'      
