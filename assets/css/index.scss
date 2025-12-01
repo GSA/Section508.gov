@@ -1594,10 +1594,12 @@ div[role=rowheader] {
 
 /* use for dark box w/yellow mono text */
 .code-box {
+  width: 100%;
   border: 1px solid;
   border-color: #71767a;
   border-radius: 0.5rem;
   padding: 1.5rem;
+  background-color: #444;
   .code-box-text {
     font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
     color: #fee685;
