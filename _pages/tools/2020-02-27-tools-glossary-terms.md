@@ -43,6 +43,10 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+    <th scope="row" id="performance-plans">Acceptance Criteria</th>
+    <td>Specific, testable conditions that define when a product or feature is complete; in Section 508 contexts, they include accessibility requirements to ensure usability for people with disabilities.</td>
+  </tr>
+  <tr>
     <th scope="row" id="access-board">Access Board</th>
     <td>See <a href="#us-access-board">U.S. Access Board (USAB)</a></td>
   </tr>
@@ -366,6 +370,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="deploying">Deploying</th>
     <td>The act of making a solution available or operational.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="design-considerations">Design Considerations</th>
+    <td>Needs and preferences of different user types, represented through <a href="{{site.baseurl}}/develop/sample-personas/">personas</a>, that guide development and ensure accessibility for people with diverse abilities.</td>
   </tr>
   <tr>
     <th scope="row" id="document">Document</th>
@@ -899,6 +907,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="performance-plans">Performance Plans</th>
     <td>Guidelines that set clear, measurable job performance expectations.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="persona">Persona</th>
+    <td>A semi‑fictional character representing a group of users, built from real research data. In the context of Section 508 and digital accessibility, a persona captures not just demographics but how a user interacts with technology&mdash;including any assistive tools, their goals, frustrations, and needs. <a href="{{site.baseurl}}/develop/sample-personas/">Personas</a> are used during the research and design phases to help teams understand diverse user needs, including users with disabilities, and to guide development so that services, products, or websites are accessible and inclusive.</td>
   </tr>
   <tr>
     <th scope="row" id="platform-accessibility-services">Platform accessibility services</th>

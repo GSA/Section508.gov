@@ -1732,3 +1732,18 @@ div[role=rowheader] {
 #table-ba-roles col.col-criteria   { width: 22rem; }
 #table-ba-roles col.col-lifecycle  { width: 18rem; }
 #table-ba-roles col.col-tools      { width: 18rem; }
+
+/* format persona cards such as images and ul */
+.persona-image {
+  width:250px;
+  height:250px;
+  float:right;
+  margin: 0px 0px 10px 10px;
+  @extend .radius-lg;
+}
+.persona-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  line-height: 1.5;
+}
