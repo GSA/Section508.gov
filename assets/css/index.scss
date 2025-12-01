@@ -1732,3 +1732,15 @@ div[role=rowheader] {
 #table-ba-roles col.col-criteria   { width: 22rem; }
 #table-ba-roles col.col-lifecycle  { width: 18rem; }
 #table-ba-roles col.col-tools      { width: 18rem; }
+
+/* uswds card with fixed thumbnail size */
+.fixed-thumb {
+  width: 225px;      /* set what you want */
+  height: auto;     /* set what you want */
+  overflow: hidden;  /* hides overflow if needed */
+}
+.fixed-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* keeps it beautiful, no stretching */
+}

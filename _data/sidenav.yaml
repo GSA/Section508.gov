@@ -210,8 +210,12 @@ training:
     children:
       - name: "Accessibility of ICT for Government Executives"
         url: 'training/online-course/accessible-for-executives/'
-      - name: "Microsoft Word & Accessibility Best Practices"
-        url: 'training/online-course/ms-word-best-practices/'
+      - name: "Accessible Meetings"
+        url: 'training/online-course/accessible-meetings/'
+      - name: "Microsoft Word Accessibility Overview"
+        url: 'training/online-course/microsoft-word-accessibility-overview/'
+      - name: "Microsoft Word Accessibility for Document Designers"
+        url: 'training/online-course/microsoft-word-accessibility-for-document-designers/'
       - name: "Micro-Purchases and Section 508 Requirements"
         url: 'training/online-course/micro-purchases/'
       - name: "Procuring Section 508 Conformant ICT Products and Services"
