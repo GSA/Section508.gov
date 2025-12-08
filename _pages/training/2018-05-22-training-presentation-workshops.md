@@ -28,7 +28,7 @@ The Government-wide IT Accessibility Program hosts its December IT Accessibility
 Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
 
 Downloads:
-* <a href="{{site.baseurl}}/assets/files/FDIC-Automated-Business-Workflow_ITACM-DEC-2025" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
+* <a href="{{site.baseurl}}/assets/files/FDIC-Automated-Business-Workflow_ITACM-DEC-2025.pptx" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
 
 #### August 5, 2025
 On August 5, 2025, GSA’s Government-wide IT Accessibility Program hosted a community meeting featuring the EPA’s integration of Section 508 requirements into its Authority to Operate (ATO) process. The session shared strategies, templates, and lessons learned for embedding accessibility throughout the system development lifecycle, offering a practical model for agencies to reduce risk and improve compliance.
