@@ -190,8 +190,6 @@ manage:
             url: manage/playbooks/technology-accessibility-playbook/11/
           - name: "Play 12: Educate the Workforce"
             url: manage/playbooks/technology-accessibility-playbook/12/
-      - name: Quick Guide to IT Accessibility for Program Managers
-        url: manage/playbooks/accessibility-playbook-quick-guide/
       - name: Executive Guide to Federal IT Accessibility
         url: manage/playbooks/exec-guide-accessibility/
   - name: Annual Section 508 Assessment
