@@ -2,10 +2,11 @@
 layout: page
 sidenav: true
 type: training
-title: 'Accessibility Presentations and Workshop Materials'
-permalink: training/presentations-workshops/
+title: 'Webinars and Presentations Archive'
+permalink: training/webinars-and-presentations-archive/
 redirect_from:
 - csun2024/
+- training/presentations-workshops/
 description: Access downloadable presentations and workshop materials from IT Accessibility Community Meetings, IAAF and other GSA hosted events.
 topic: "Events (events)"
 sub-topic: "General Info and Best Practices"
@@ -16,9 +17,23 @@ audience:
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 created: 2018-05-22
-updated: 2025-12-08
+updated: 2025-12-11
 ---
-The information on this page includes available resources and captioned text files 
+Find webinars, presentations, and training materials from across the accessibility community. Explore this archive to access past ITACM sessions, CSUN presentations, and other event resources you can use to strengthen your Section 508 and digital accessibility practices.
+
+<div id="templates-tools-resources" class="itad-card-group margin-bottom-5">
+  <div class="itad-card__media bg-blue">
+    <img src="{{site.baseurl}}/assets/images/seals-logos/usab.jpg" aria-hidden="true" alt="" />
+  </div>
+  <div class="itad-card__body">
+    <h3>Section 508 Best Practies Webinars | U.S. Access Board</h3>   
+    The U.S. Access Board facilitates the Section 508 Best Practices Webinar series to help federal agencies procure, create, and maintain accessible information and communication technology. 
+    <ul>
+      <li><a href="https://www.accessibilityonline.org/cioc-508/schedule" target="_blank" class="usa-link--external">Register for upcoming Section 508 Best Practies Webinars</a></li>
+      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/" target="_blank" class="usa-link--external">View Archived Section 508 Best Practies Webinars</a></li>
+    </ul>
+  </div>
+</div>
 
 ## 2025
 ### IT Accessibility Community Meetings

@@ -201,11 +201,11 @@ manage:
 training:
   - name: Training, Tools & Events
     url: 'training/'
-  - name: Training Overview
-    url: 'training-home/'
   - name: Online Training Courses
     url: '#'
     children:
+      - name: Online Training Courses Overview
+        url: training/online-training/
       - name: "Accessibility of ICT for Government Executives"
         url: 'training/online-course/accessible-for-executives/'
       - name: "Microsoft Word & Accessibility Best Practices"
@@ -222,9 +222,13 @@ training:
         url: 'training-home#federal-acquisition-institute'
       - name: "Add GSA’s Training to Your LMS"
         url: 'training/online-training/add-our-training-to-your-lms/'
+  - name: "Train-the-Trainer (TTT) Workshops"
+    url: training/train-the-trainer-workshops/
   - name: Training Videos Library
     url: '#'
     children:
+      - name: "Training Videos Library Overview"
+        url: 'training/training-videos-library/'
       - name: "Accessibility Requirements Tool"
         url: '#'
         grandchildren:
@@ -395,7 +399,7 @@ training:
     url: 'iaaf/'
   - name: IAAF Archives
     url: 'iaaf/archives/'
-  - name: Presentations and Workshop Materials
+  - name: Webinars and Presentations Archive
     url: 'training/presentations-workshops/'
   - name: Section 508 Tools
     url: '#'

@@ -2,77 +2,15 @@
 layout: page
 sidenav: true
 type: training
-title: 'Accessibility Training Overview'
-permalink: training-home-old/
-redirect_from:
- - training/508-training/
-description: Explore Section 508 training, tools, and events to help your agency make digital services accessible to everyone. Access online courses, video tutorials, trusted tester certification, and tools to support Section 508 compliance.
+title: 'Training Videos Library'
+permalink: training/training-videos-library/
+description: 
 disclaimer: true
-created: 2018-05-08
-updated: 2025-08-05
-exclude-changelog: true
+created: 2025-12-11
 ---
-The courses listed below are intended to improve your understanding of IT accessibility, and Section 508 law, and help you produce digital tools and content that conform to the [Revised 508 Standards][1].
 
-<div class="grid-row">
-  <div class="grid-col-auto jump-links">
-    <strong>Jump to a Topic:</strong>
-    <ul style="list-style-type:none; padding-left: 10px">
-      <li><a href="#online-training-courses">Online Training Courses</a></li>
-      <!-- <li><a href="#federal-acquisition-institute">Earn Continuing Learning Points (CLP) for Digital Accessibility Training</a></li> -->
-      <li><a href="#training-videos-library">Training Videos Library</a></li>
-      <li><a href="#on-demand-webinars">On-Demand Webinars</a></li>
-      <li><a href="#additional-training-resources">Additional Training Resources</a></li>
-    </ul>
-  </div>
-</div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Online Training Courses
-
-The following self-paced courses provide an overview of key aspects of IT accessibility. (_Note: Some of these courses are also available through the_ [_Federal Acquisition Institute (FAI)_][2]_. If you need to earn Continuous Learning Points (CLPs) to meet annual training requirements, we recommend you take designated courses through FAI.)_
-
-<ol class="usa-icon-list tablet:grid-col">
-  <li class="usa-icon-list__item" id="ict-for-executives">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/accessible-for-executives/">Accessibility of ICT for Government Executives</a></h3>High-level overview of the Revised 508 Standards. Explains roles and responsibilities of Federal government executives, including agency heads, CIOs and CAOs, and Section 508 Program Managers.</div>
-  </li>
-  <li class="usa-icon-list__item">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/micro-purchases/">Micro-Purchases and Section 508 Requirements</a></h3>How to make micro-purchases that conform with the Revised 508 Standards, including how the requirements apply to micro-purchases of hardware, software, and other ICT. (FAI Course ID: FAC 047)</div>
-  </li>
-  <li class="usa-icon-list__item" id="word-best-practices">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/ms-word-best-practices/">Microsoft Word & Accessibility Best Practices</a></h3>This training covers various techniques to create accessible and navigable documents. You will learn how to use heading styles and table of contents features to improve navigation, write effective image descriptions, and convert complex tables into simple ones for accessibility. Additionally, you will gain knowledge on creating accessible charts, integrating infographics, and creating PDF forms using Microsoft Word. Finally, the course will also discuss the strengths and limitations of the Accessibility Checker in Microsoft Word.</div>
-  </li>
-  <li class="usa-icon-list__item" id="buying-ict">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{site.baseurl}}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/">Procuring Section 508 Conformant ICT Products and Services</a></h3>This course is a basic overview of the Federal acquisition process for procuring ICT (Information and Communication Technology) products and services that conform to Section 508 standards. It explains the purpose of this procurement process, who is responsible for each aspect of the process, and what steps are involved as you procure ICT. (FAI Course ID: FAC 056)</div>
-  </li>
-  <li class="usa-icon-list__item" id="508-awareness">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/section-508-what-is-it/">Section 508: What Is It and Why Is It Important?</a></h3>Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities. (FAI Course #: FAC 049)</div>
-  </li>
-  <li class="usa-icon-list__item" id="evaluating-acrs">
-      <div class="usa-icon-list__icon text-green"><svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="{{ site.baseurl }}/assets/images/sprite.svg#school"></use></svg></div>
-      <div class="usa-icon-list__content"><h3><a href="{{site.baseurl}}/training/online-course/soliciting-and-evaluating-acrs/">Soliciting and Evaluating Accessibility Conformance Reports in Federal ICT Procurement</a></h3>This training covers how to identify when you need to create or request an Accessibility Conformance Report (ACR) for an information and communication technology (ICT) product or service. It also covers the steps to take to write an ACR, and how to evaluate an ACR for a product. This training is intended both for those in the federal government who procure ICT and for vendors who provide ICT for federal government contracts.</div>
-  </li>
-</ol>
-
-<div style="width: 100%; border: 1px solid black; background-color: #f5f9fc;" class="border-base radius-lg padding-1 margin-top-5">
-  <h3 id="federal-acquisition-institute">Earn Continuing Learning Points (CLP) for Digital Accessibility Training</h3>
-
-  The Federal Acquisition Institute (FAI) offers three of our online training courses that allow you to earn Continuing Learning Points (CLP) and receive a downloadable certificate, supporting your Federal Acquisition Certification (FAC):
-
-  <ul>
-    <li><a href="{{site.baseurl}}/training/online-course/micro-purchases/">Course ID: FAC 047 | Micro-Purchases and Section 508 Requirements</a></li>
-    <li><a href="{{site.baseurl}}/training/online-course/section-508-what-is-it/">Course ID: FAC 049 | Section 508: What Is It and Why Is It Important?</a></li>
-    <li><a href="{{site.baseurl}}/training/online-course/procuring-section-508-conformant-ict/">Course ID: FAC 056 | Procuring Section 508 Conformant ICT Products and Services</a></li>
-  </ul>
-
-  For these and other online courses offered by FAI, visit <a href="https://www.fai.gov/training/find-and-register-for-courses" target="_blank" class="usa-link--external">Find and Register for Courses</a>.
-</div>
-
-## Training Videos Library
 ---
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
@@ -84,9 +22,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 9m 30s | 5-Part Video Series</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/create/documents/training-videos"><img alt="How to Make an Accessible Document in Microsoft Word" src="{{site.baseurl}}/assets/images/thumbnails/training-video-docx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg"/></a>
@@ -97,9 +33,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 59m 21s | 14-Part Video Series</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/create/pdfs/training-videos"><img alt="How to Test and Remediate PDFs for Accessibility Using Adobe Acrobat DC" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pdf-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" class="radius-lg" /></a>
@@ -110,9 +44,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 63m 51s | 5-Part Video Series</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/create/presentations/training-videos"><img alt="How to Author and Test Microsoft PowerPoint Presentations for Accessibility" src="{{site.baseurl}}/assets/images/thumbnails/training-video-pptx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -123,9 +55,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 43m 54s | 14-Part Video Series</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/tranining/presentations/creating-powerpoint-templates"><img alt="Creating PowerPoint Templates"  src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-ppt-templates-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -136,9 +66,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration: 8m 18s | 1-Part Video Tutorial</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/create/spreadsheets/training-videos"><img  alt="How to Make an Accessible Spreadsheet in Microsoft Excel" src="{{site.baseurl}}/assets/images/thumbnails/training-video-xlsx-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -149,9 +77,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 30m 50s | 11-Part Video Series</p>
   </div>
 </div>
-  
 ---
-  
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/training/web-software/andi-training-videos/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-00-thumb.jpg" alt="Accessible Name & Description Inspector (ANDI) Tool Overview" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -162,9 +88,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 31m 11s | 18-Part Video Series</p>
   </div>
 </div>
-  
 ---
-  
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/training/create/making-color-usage-accessible/color-contrast-analyzer/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-cca-thumb.jpg" alt="How to Test Color Contrast using the Color Contrast Analyser" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -175,9 +99,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 6m 07s | 1-Part Video Tutorial</p>
   </div>
 </div>
-  
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/training/create/making-color-usage-accessible/webaim-contrast-checker/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-webaim-thumb.jpg" alt="How to Test Color Contrast using the Color Contrast Analyser" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -188,9 +110,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 5m 22s | 1-Part Video Tutorial</p>
   </div>
 </div>
-  
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/training/web-software/andi-training-videos/color-contrast-analyzer/"><img src="{{site.baseurl}}/assets/images/thumbnails/training-video-andi-14-thumb.jpg" alt="How to Test Color Contrast using the Color Contrast Analyser" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -201,9 +121,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 2m 33s | 1-Part Video Tutorial</p>
   </div>
 </div>
-  
 ---
-  
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/develop/universal-design-video-series/"><img  alt="An Introduction to Universal Design for Content Creators" src="{{site.baseurl}}/assets/images/thumbnails/training-video-ud-series.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -214,9 +132,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration: 18m 21s | 4-Part Video Series</p>
   </div>
 </div>
-
 ---
-
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/create/synchronized-media/creating-accessible-media"><img alt="Creating Accessible Media" src="{{site.baseurl}}/assets/images/thumbnails/training-video-create-accessible-media-thumb.png" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -227,9 +143,7 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration: 5m 41s | 1-Part Video Tutorial</p>
   </div>
 </div>
-
 ---
-
 <div id="what-is-alt-text" class="grid-row grid-gap">
   <div class="desktop:grid-col-3 display-flex flex-column flex-align-self-center">
     <a href="{{site.baseurl}}/training/alt-text/what-is-alternative-text/"><img alt="What is Alternative Text?" src="{{site.baseurl}}/assets/images/thumbnails/create-what-is-alt-text-thumb.jpg" style="width:100%; border: 1px black solid;" class="radius-lg" /></a>
@@ -240,51 +154,6 @@ The following self-paced courses provide an overview of key aspects of IT access
     <p>Duration 3m 25s | 1-Part Video Tutorial</p>
   </div>
 </div>
-
 ---
 
-## On-Demand Webinars
-
-<ul>
-  <li><a href="https://assets.section508.gov/assets/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar.pptx">Digital Dashboard Accessibility Module Webinar (PPTX)</a> - Overview of the purpose, uses, and function of the Digital Dashboard Accessibility module</li>
-  <li><a href="https://assets.section508.gov/assets/files/Trusted%20Tester%20Awareness%20Webinar.pptx">Trusted Tester Awareness Webinar (PPTX)</a> - Overview of the purpose, benefits, and components of the Trusted Tester certification program</li>
-  <li>Learn about the Revised 508 Standards from the U.S. Access Board.
-    <ul>
-      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/110610" target="_blank" class="usa-link--external">Section 508 Refresh - ICT Final Standards and Guidelines</a> - Overview of new standards (January 2017)</li>
-      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/110613" target="_blank" class="usa-link--external">Old versus New: Original Section 508 Standards compared to the Revised Section 508 Standards</a> - Overview of what’s changed (May 2017)</li>
-      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/110612" target="_blank" class="usa-link--external">WCAG 2.0 and the Revised Section 508 Standards</a> - Practical advice for implementing the new standards (March 2017)</li>
-      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/110614" target="_blank" class="usa-link--external">Revised Section 508 Chapter 4 Hardware</a> - How to implement the hardware provisions of the new standards (July 2017)</li>
-      <li><a href="https://www.accessibilityonline.org/cioc-508/archives/110615" target="_blank" class="usa-link--external">Revised Section 508 Chapter 5 Software (including Mobile)</a> - How to implement the software provisions of the new standards (September 2017)</li>
-    </ul>
-  </li>
-</ul>
-
-## Additional Training Resources
-
-  * [Event Calendar][8] - find and register for upcoming training offered by GSA and other partners
-  * [Training Inventory][9] PDF file of (non-GSA) accessibility training resources
-  * [Accessibility Presentations and Workshop Materials][10] 
-  * ADA/AccessibilityOnline (US Access Board)
-      * <a href="https://www.accessibilityonline.org/cioc-508/schedule" target="_blank" class="usa-link--external">Register for upcoming webinars</a>  
-      * <a href="https://www.accessibilityonline.org/cioc-508/archives/" target="_blank" class="usa-link--external">View archived CIOC ACOP / Section 508 training</a>  
-  * Partnership on Employment & Accessibility (PEAT)
-      * <a href="https://www.peatworks.org/tag/webinar/" target="_blank" class="usa-link--external">Webinars</a>  
-      * <a href="https://www.peatworks.org/tag/video/" target="_blank" class="usa-link--external">Videos</a>  
-  * [Mapping of WCAG 2.0 to Functional Performance Criteria][15] 
-
 **Reviewed/Updated**: January 2025
-
-[1]: https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule
-[2]: #federal-acquisition-institute
-[3]: https://www.accessibilityonline.org/cioc-508/archives/110610
-[4]: https://www.accessibilityonline.org/cioc-508/archives/110613
-[5]: https://www.accessibilityonline.org/cioc-508/archives/110612
-[6]: https://www.accessibilityonline.org/cioc-508/archives/110614
-[7]: https://www.accessibilityonline.org/cioc-508/archives/110615
-[8]: {{site.baseurl}}/events
-[9]: https://assets.section508.gov/assets/files/Section-508-Course-Inventory-2021-04-09.pdf
-[10]: {{site.baseurl}}/training/presentations-workshops
-[15]: {{site.baseurl}}/content/mapping-wcag-to-fpc
-[17]: https://faitas.army.mil/Faitas/External/Login/?ReturnUrl=%2fFaitas%2f
-[18]: https://assets.section508.gov/assets/files/Digital%20Dashboard%20Accessibility%20Module%20Webinar.pptx
-[19]: https://assets.section508.gov/assets/files/Trusted%20Tester%20Awareness%20Webinar.pptx
