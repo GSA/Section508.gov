@@ -4,7 +4,7 @@ layout: video
 permalink: training/web-software/andi-training-videos/live-regions/
 type: ANDI training
 title: 'Module 18: Live Regions'
-created: 1601870389
+created: 2020-10-04
 updated: 2025-01-07
 redirect_from:
 - test/web-software/andi-training-videos/live-regions/

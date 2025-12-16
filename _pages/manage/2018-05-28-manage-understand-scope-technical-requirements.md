@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/understand-scope-technical-requirements/
 type: manage
 title: 'Understand Content Scope and Technical Requirements'
-created: 1527551014
+created: 2018-05-28
 topic: Manage (program)
 sub-topic: Manage Accessibility for IT Program/Project Managers
 audience:

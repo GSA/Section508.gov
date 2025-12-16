@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/teach-staff-about-accessibility/
 type: manage
 title: 'Teach Staff about Accessibility'
-created: 1527553139
+created: 2018-05-28
 topic: Manage (program)
 sub-topic: Other Accessibility Training or Tools
 audience:

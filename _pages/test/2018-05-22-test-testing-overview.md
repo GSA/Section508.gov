@@ -4,7 +4,7 @@ sidenav: true
 permalink: test/testing-overview/
 type: test
 title: "Overview of Testing Methods for 508 Conformance"
-created: 1527010285
+created: 2018-05-22
 topic: Testing (test)
 sub-topic: Design, Develop, Testing for Accessibility Training or Tools
 audience:

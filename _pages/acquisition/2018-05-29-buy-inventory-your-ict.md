@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/inventory-your-ict/
 type: acquisition
 title: 'Step 1: Inventory Your ICT'
-created: 1527568977
+created: 2018-05-29
 topic: Acquisition/Buy (buy)
 sub-topic: Accessible Acquisition Info, Guidance & Best Practices
 audience:

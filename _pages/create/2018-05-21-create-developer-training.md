@@ -4,7 +4,7 @@ sidenav: true
 permalink: create/developer-training/
 type: create
 title: 'Accessibility Training for Developers'
-created: 1526930196
+created: 2018-05-21
 topic: "Content creation (create)"
 sub-topic: "Content Creation Training or Tools"
 audience:

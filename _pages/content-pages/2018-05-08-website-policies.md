@@ -4,7 +4,7 @@ sidenav: false
 permalink: website-policies/
 type: page
 title: 'Website Policies'
-created: 1525801797
+created: 2018-05-08
 redirect_from: 
 - copyright/
 topic: About the program/site (about)

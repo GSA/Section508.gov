@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/determine-ict-standards/
 type: acquisition
 title: 'Step 3: Determine Which Standards Apply'
-created: 1527569242
+created: 2018-05-29
 topic: Acquisition/Buy (buy)
 sub-topic: Accessible Acquisition Info, Guidance & Best Practices
 audience:

@@ -7,7 +7,7 @@ permalink: manage/join-the-508-community/
 redirect_from:
 - join-the-508-community/
 - community/
-created: 1530040376
+created: 2018-06-26
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:

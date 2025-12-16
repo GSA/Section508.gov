@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/support-accessible-content/
 type: manage
 title: 'Build Support for Accessible Content'
-created: 1527548666
+created: 2018-05-28
 topic: "Manage (program)"
 sub-topic: "Manage Accessibility for IT Program/Project Managers"
 audience:

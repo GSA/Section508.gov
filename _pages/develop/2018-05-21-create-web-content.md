@@ -4,7 +4,7 @@ sidenav: true
 permalink: develop/web-content/
 type: develop
 title: 'Developing Accessible Web Content'
-created: 1526946893
+created: 2018-05-21
 redirect_from:
 - create/web-content/
 topic: "Development (dev)"

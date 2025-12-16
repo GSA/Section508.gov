@@ -4,7 +4,7 @@ sidenav: true
 permalink: develop/applicability-conformance/
 type: develop
 title: 'Applicability & Conformance Requirements'
-created: 1526574510
+created: 2018-05-17
 redirect_from:
 - create/applicability-conformance/
 topic: "Development (dev)"

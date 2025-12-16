@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/program-management/
 type: manage
 title: " IT Accessibility Program Management"
-created: 1527541161
+created: 2018-05-28
 topic: "Manage (program)"
 sub-topic: "Manage a 508 Program"
 audience:

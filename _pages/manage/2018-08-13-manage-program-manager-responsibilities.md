@@ -4,7 +4,7 @@ sidenav: true
 permalink: manage/program-manager-responsibilities/
 type: manage
 title: ' Section 508 Program Manager Responsibilities'
-created: 1534188326
+created: 2018-08-13
 topic: "Manage (program)"
 sub-topic: "Manage a 508 Program"
 audience:

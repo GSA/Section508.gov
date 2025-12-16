@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/define-accessibility-criteria/
 type: acquisition
 title: 'Define Accessibility Criteria in Contracts'
-created: 1527181796
+created: 2018-05-24
 topic: "Acquisition/Buy (buy)"
 sub-topic: "New Contracting (RFP, RFI, etc.)"
 audience:

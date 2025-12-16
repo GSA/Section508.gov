@@ -4,7 +4,7 @@ sidenav: false
 permalink: training/presentations-workshops/2018-interagency-accessibility-forum/
 type: page
 title: '2018 Interagency Accessibility Forum'
-created: 1537561274
+created: 2018-09-21
 topic: "Events (events)"
 sub-topic: "Accessibility Standards, Procedures, Guidance, Best Practices"
 audience:

@@ -4,7 +4,7 @@ sidenav: true
 permalink: buy/determine-ict-exceptions/
 type: acquisition
 title: 'Step 2: Determine ICT Exceptions'
-created: 1527569078
+created: 2018-05-29
 updated: 2025-01-24
 topic: Acquisition/Buy (buy)
 sub-topic: Accessible Acquisition Info, Guidance & Best Practices
