@@ -16,12 +16,20 @@ audience:
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
 created: 2018-05-22
-updated: 2025-08-12
+updated: 2025-12-08
 ---
 The information on this page includes available resources and captioned text files 
 
 ## 2025
 ### IT Accessibility Community Meetings
+#### December 9, 2025
+The Government-wide IT Accessibility Program hosts its December IT Accessibility Community Meeting featuring the Federal Deposit Insurance Corporation (FDIC) Section 508 Program Manager. The session provided a detailed look at how FDIC leverages the ServiceNow platform to manage and scale its digital accessibility operations.
+
+Participants learned how FDIC uses ServiceNow to document remediation requests, support training workflows, conduct VPAT/ACR reviews, manage ICT application testing, and track Section 508 exceptions. The Program Manager emphasized the value of strong ticket management practices for maintaining timely compliance and demonstrated how ServiceNow’s reporting tools—such as dashboards, charts, and data exports—help monitor performance and inform leadership.
+
+Downloads:
+* <a href="https://assets.section508.gov/assets/files/FDIC-Automated-Business-Workflow_ITACM-DEC-2025.pptx" target="_blank" class="usa-link--external">FDIC Automated Business Workflow - ITACM DEC 2025 (PPTX)</a>
+
 #### August 5, 2025
 On August 5, 2025, GSA’s Government-wide IT Accessibility Program hosted a community meeting featuring the EPA’s integration of Section 508 requirements into its Authority to Operate (ATO) process. The session shared strategies, templates, and lessons learned for embedding accessibility throughout the system development lifecycle, offering a practical model for agencies to reduce risk and improve compliance.
 
@@ -147,4 +155,4 @@ Our overall theme, *"Be The Change In Accessibility,”* focuses on “being the
 * [Enhancing  Accessibility with AI and Machine Learning - ITACM FEB 2022 (PPTX)](https://assets.section508.gov/assets/files/Enhancing%20Accessibility%20with%20AI%20and%20Machine%20Learning%20-%20ITACM%20FEB%202022.pptx)
 * [Captioned Text - FEB 2022 (DOCX)](https://assets.section508.gov/assets/files/Captioned-Text-%28ITACM-FEB2022%29.docx)
 
-**Reviewed/Updated**: August 2025
+**Reviewed/Updated**: December 2025
