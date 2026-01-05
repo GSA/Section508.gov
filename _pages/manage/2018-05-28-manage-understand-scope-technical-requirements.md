@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/understand-scope-technical-requirements/
 type: manage
 title: 'Understand Content Scope and Technical Requirements'
-created: 2018-05-28
+permalink: manage/understand-scope-technical-requirements/
+description: Understand Section 508 scope and technical requirements, including what digital content and tools must comply and how to apply accessibility standards effectively.
 topic: Manage (program)
 sub-topic: Manage Accessibility for IT Program/Project Managers
 audience:
@@ -15,6 +15,7 @@ audience:
 - Content Creators (creator)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-28
 ---
 
 In the Revised 508 Standards, [Section E205 - Electronic Content][1] specifies which electronic content, including web, software, multimedia and electronic documents, must conform to the technical requirements.
