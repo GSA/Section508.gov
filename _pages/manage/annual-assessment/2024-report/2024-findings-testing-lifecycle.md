@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 The Assessment continued to ask questions about outcome-based results to determine whether policies, practices, and procedures were effectively leading to Section 508 conformant ICT. The average c-index value for all reporting entities was 1.74 out of 5, indicating a low level of compliance and highlights that policies, practices, and procedures are not yet resulting in more conformant ICT.
 

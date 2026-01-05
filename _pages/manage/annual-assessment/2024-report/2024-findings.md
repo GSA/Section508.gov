@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 ## Summary
 In the second year of the Assessment and 26 years since the Rehabilitation Act of 1973 was amended to include Section 508, **governmentwide Section 508 conformance remains low and without improvement in FY24**. There remains significant variation in conformance across government, with some respondents reporting full conformance of ICT, while others report little to no conformance. Although we have not yet observed a governmentwide improvement in ICT conformance, the **data indicates there have been investments in Section 508 programs over the past year** with some entities noting this was spurred by the FY23 Assessment or OMB's M-24-08. Entities acknowledged gaps that were apparent in the FY23 Assessment and reported using the Assessment and M-24-08 as a roadmap for improvement. More conformant ICT governmentwide will result as agencies:

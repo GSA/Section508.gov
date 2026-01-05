@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 <hr class="breaker-bar-green">
 Please refer to <a href="{{site.baseurl}}/manage/laws-and-policies/">Section508.gov's IT Accessibility Laws and Policy</a> for review of key legislative and executive actions that have advanced digital equity across the federal government over the past 50 years. Please refer to the <a href="{{site.baseurl}}/manage/section-508-assessment/2023/appendix-b-initiatives-and-resources/">FY23 Assessment</a> for a review of federal initiatives and resources on ICT accessibility.

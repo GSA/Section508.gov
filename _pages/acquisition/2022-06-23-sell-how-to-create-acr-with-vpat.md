@@ -1,11 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: sell/how-to-create-acr-with-vpat/
 type: acquisition
 title: 'How to Create an Accessibility Conformance Report Using A Voluntary Product Accessibility Template (VPAT&reg;)'
-contributors: haileselassie, sirk, nasa
+permalink: sell/how-to-create-acr-with-vpat/
 description: Instructs users about how to develop an Accessibility Conformance Report (ACR) using a Voluntary Product Accessibility Template (VPAT&reg;)
+contributors: haileselassie, sirk, nasa
 topic: "Acquisition/Sell (sell)"
 sub-topic: "VPAT/ACR Production & Eval"
 audience:

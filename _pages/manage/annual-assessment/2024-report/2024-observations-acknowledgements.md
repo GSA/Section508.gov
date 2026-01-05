@@ -1,9 +1,9 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2024/observations/
 type: report2024
 title: "Observations and Acknowledgements"
+permalink: manage/section-508-assessment/2024/observations/
 topic: Law (law)
 sub-topic: Reporting
 audience:
@@ -14,6 +14,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: White paper
 format: HTML (html)
+created: 2024-12-20
 ---
 Out of the 245 reporting entities this year, we welcomed 15 new entities who submitted data. Some of these are new components within a department or agency, while others are small and independent agencies reporting for the first time. Additionally, 19 entities that submitted in FY23 did not submit in FY24 due to the following reasons:
 

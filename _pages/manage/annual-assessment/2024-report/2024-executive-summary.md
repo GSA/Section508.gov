@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Building on insights from the [FY23 assessment]({{site.baseurl}}/manage/section-508-assessment/2023/message-from-gsa-administrator/), the FY24 Governmentwide Section 508 Assessment (referred to as the "Assessment") provides a deeper understanding of digital accessibility across the federal government. It evaluates the current state of Section 508 compliance and digital accessibility efforts, while also examining changes since the last reporting period. By introducing year-over-year (YOY) comparisons, this Assessment offers a more comprehensive view, enhancing transparency and accountability in federal digital accessibility efforts.
 

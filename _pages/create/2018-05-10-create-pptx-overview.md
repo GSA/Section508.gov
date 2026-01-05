@@ -1,9 +1,11 @@
 ---
 layout: page
 sidenav: true
-permalink: create/presentations/
 type: create
 title: 'Accessible Presentations'
+permalink: create/presentations/
+redirect_from:
+- create/presentations/authoring-guides/
 description: Learn how to create accessible Microsoft PowerPoint presentations that meet the Revised 508 Standards. This comprehensive guide includes step-by-step training videos, document authoring tips, downloadable testing guides, and agency-developed resources. Ideal for document authors, accessibility testers, and federal staff.
 topic: "Content creation (create)"
 sub-topic: "Presentations"
@@ -16,8 +18,6 @@ format: "HTML (html)"
 created: 2018-05-10
 updated: 2025-08-05
 exclude-changelog: true
-redirect_from:
-- create/presentations/authoring-guides/
 ---
 Learn how to create accessible presentation&mdash;including Microsoft PowerPoint documents, that conform to the <a href="https://www.access-board.gov/ict/" target="_blank" class="usa-link--external">Section 508 Standards</a>.
 

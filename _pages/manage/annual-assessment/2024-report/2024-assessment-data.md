@@ -1,12 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/section-508-assessment/2024/assessment-data-downloads/
 type: report2024
 title: "Assessment Data & Downloads"
+permalink: manage/section-508-assessment/2024/assessment-data-downloads/
 description: 
-created: 2024-12-20
-updated: 2025-01-16
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -19,6 +17,8 @@ resource-type: "White paper"
 format: "HTML (html)"
 redirect_from:
 - 2024-congressional-report-downloads/
+created: 2024-12-20
+updated: 2025-01-16
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY24 Governmentwide Section 508 Assessment below, which includes:
 

@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 Overall, reporting entities experienced a decline in Section 508 conformance, with the governmentwide average score dropping from 1.79 in FY23 to 1.74. Amid this broader decline, testing coverage also decreased, with only 70% (down from 78%) of respondents assessing public web pages covering 41% (down from 52%) of total pages. Intranet testing dropped further, with only 41% of entities evaluating 8% of total intranet web pages, a precipitous reduction from 26.1% of total in FY23. While conformance rates for public web pages held steady around 62%, intranet conformance declined from 59% to 52%. Additionally, nearly half of respondents lacked resources for testing high-traffic ICT assets, including top-viewed web pages, documents, and videos. These findings underscore the need for improved testing resource allocation, including testing tools and testing personnel, and prioritization of testing and remediation efforts to drive meaningful improvements in conformance.
 

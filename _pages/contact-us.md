@@ -1,11 +1,9 @@
 ---
-permalink: contact-us/
 type: page
-title: 'Contact Us'
 layout: page
 sidenav: false
-created: 
-updated: 2024-07-18
+title: 'Contact Us'
+permalink: contact-us/
 topic: "About the program/site (about)"
 sub-topic: "N/A"
 audience:
@@ -13,6 +11,8 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "Blog article (blog)"
 format: "HTML (html)"
+created: 2018-05-20
+updated: 2024-07-18
 ---
 <!-- If you edit this page please also edit the /_pages/manage/2023-02-09-support-information.md as well. -->
 

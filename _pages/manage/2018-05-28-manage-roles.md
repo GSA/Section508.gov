@@ -5,8 +5,6 @@ permalink: manage/roles/
 type: manage
 title: 'IT Accessibility Roles and Responsibilities'
 description: Explore the clearly defined roles and responsibilities—from agency officials to content creators and program managers—that federal agencies must follow to effectively govern and ensure compliance with Section 508 accessibility requirements.
-created:
-updated: 2025-09-09
 topic: Manage (program)
 sub-topic: Manage a 508 Program
 audience:
@@ -17,6 +15,8 @@ audience:
 - Lawmakers and Policy Officials (law-policy)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-28
+updated: 2025-09-09
 ---
 Agencies need clear governance and strong leadership to guide Section 508 programs, which establishes the importance of accessibility, improves compliance, and minimizes legal exposure. An agency’s IT Accessibility/508 program’s success also depends on the involvement of many other key players.
 

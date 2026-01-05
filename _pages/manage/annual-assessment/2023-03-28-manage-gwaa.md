@@ -33,6 +33,7 @@ redirect_from:
 - manage/section-508-assessment/criteria-09/
 - manage/section-508-assessment/criteria-10/
 - manage/section-508-assessment/criteria-11/
+created: 2023-03-28
 ---
 
 On December 29, 2022, the <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617" target="_blank" class="usa-link--external">Consolidated Appropriations Act, 2023</a> was signed, which amended <a href="https://www.section508.gov/manage/laws-and-policies/section-508-law/#794d-1" target="_blank" class="usa-link--external">Section 508 of the Rehabilitation Act (29 U.S.C. § 794d-1)</a>. The amendment requires federal agencies to annually assess and report their efforts to ensure electronic and information technology is accessible to individuals with disabilities, in accordance with updated standards and guidance.

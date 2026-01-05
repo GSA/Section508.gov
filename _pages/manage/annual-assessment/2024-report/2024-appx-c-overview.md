@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2024-12-20
 ---
 
 Reporting entities are listed in alphabetical order beginning with Chief Financial Officer (CFO) Act departments and component reporting entities followed by independent reporting entities.<sup><a href="#fn38" id="fr38">38</a></sup> Due to similarities of some reporting entity names, respondent acronyms used in this report may be different than those used by the reporting entities.

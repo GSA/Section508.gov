@@ -13,6 +13,7 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2023-09-23
 ---
 
 It is quite common for those who work with equations and use screen reader technologies to get an error saying the equation does not read correctly. As creatures of habit, we are used to working with keyboard keys as mathematical components. However, there is a difference in using the key on your keyboard versus using a Unicode version of the mathematical component.

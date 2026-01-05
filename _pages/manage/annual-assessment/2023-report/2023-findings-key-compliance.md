@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ## Key Compliance Outcomes
 It has been 37 years since the Rehabilitation Act Amendments added Section 508 and 25 years since the expanded Rehabilitation Act Amendments of 1998, and the federal government is overarchingly still procuring, developing, maintaining, and using non-conformant ICT. <strong>The government as a whole is not meeting the minimum standard or legal obligation to provide equal access to all members of the public and federal employees with disabilities.</strong>

@@ -14,6 +14,7 @@ audience:
 - "Content Creators (creator)"
 resource-type: "Long form article"
 format: "HTML (html)"
+created: 2023-08-08
 ---
 <!-- Expand/Collapse All "Accessibility FAQ" Content -->
 <div class="margin-bottom-3">

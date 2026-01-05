@@ -5,7 +5,6 @@ permalink: manage/section-508-assessment/2024/message-from-gsa-administrator/
 type: report2024
 title: "Message from the GSA Administrator"
 description: 
-created: 2024-12-20
 topic: "Law (law)"
 sub-topic: "Reporting"
 audience:
@@ -19,6 +18,7 @@ format: "HTML (html)"
 redirect_from:
 - manage/section-508-assessment/2024/
 - 2024-congressional-report/
+- created: 2024-12-20
 ---
 The General Services Administration (GSA), in consultation with the Office of Management and Budget (OMB), submits the Fiscal Year (FY) 2024 Governmentwide Section 508 Assessment---referred to hereafter as the "Assessment"---to the Senate Committees on Appropriations and Homeland Security and Governmental Affairs and the House Committees on Appropriations and Oversight and Accountability, pursuant to the requirements in <a href="https://www.congress.gov/bill/117th-congress/house-bill/2617/text" target="_blank" class="usa-link--external">Public Law No. 117-328</a> (codified at <a href="https://www.govinfo.gov/content/pkg/USCODE-2022-title29/html/USCODE-2022-title29-chap16-subchapV-sec794d-1.htm" target="_blank" class="usa-link--external">29 U.S.C. § 794d-1</a>). GSA understands that the Department of Justice (DOJ) plans to submit the FY24 Assessment in fulfillment of the requirement that the DOJ report every two years on the state of federal agencies’ compliance with Section 508 under 29 U.S.C. § 794d(d)(2). The DOJ worked with GSA to ensure that the FY24 Assessment included questions and analysis necessary for the Department's biennial Section 508 report.
 

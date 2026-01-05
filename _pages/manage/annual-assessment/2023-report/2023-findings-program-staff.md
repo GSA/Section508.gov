@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 ### Section 508 Program Managers (PM)
 

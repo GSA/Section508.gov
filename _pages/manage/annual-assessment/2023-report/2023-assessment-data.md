@@ -4,8 +4,6 @@ sidenav: true
 permalink: manage/section-508-assessment/2023/assessment-data-downloads/
 type: report2023
 title: "Assessment Data & Downloads"
-created: 2023-12-29
-updated: 2025-01-16
 redirect_from:
 - 2023-congressional-report-downloads/
 topic: "Law (law)"
@@ -18,6 +16,8 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-12-29
+updated: 2025-01-16
 ---
 To enhance the transparency of this report and respondent data, we have made them publicly available as an open government data asset. You can find downloadable content related to the FY23 Governmentwide Section 508 Assessment below, which includes:
 

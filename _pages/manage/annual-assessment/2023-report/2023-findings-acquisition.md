@@ -14,6 +14,7 @@ audience:
 - "Federal employee (fedemp)"
 resource-type: "White paper"
 format: "HTML (html)"
+created: 2023-03-28
 ---
 Including ICT accessibility requirements during procurement and ensuring that vendors are adhering to ICT contract requirements helps the government comply with Section 508 requirements for the ICT that it buys, builds, maintains or uses. <strong>In general, respondents reported they are deficient in ensuring Section 508 compliance is included during the Acquisition phase.</strong>
 
