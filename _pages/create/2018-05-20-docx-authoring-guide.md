@@ -14,6 +14,7 @@ audience:
 - "Designer (design)"
 resource-type: "Process/How-to"
 format: "Document (docx)"
+created: 2018-05-20
 ---
 
 ## Microsoft Word 2016
