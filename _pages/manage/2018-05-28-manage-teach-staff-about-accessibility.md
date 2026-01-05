@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/teach-staff-about-accessibility/
 type: manage
 title: 'Teach Staff about Accessibility'
-created: 2018-05-28
+permalink: manage/teach-staff-about-accessibility/
+description: Find Section 508 resources and strategies to teach staff about accessibility, including training methods, tools, and best practices to build inclusive digital skills.
 topic: Manage (program)
 sub-topic: Other Accessibility Training or Tools
 audience:
@@ -15,6 +15,7 @@ audience:
 - Manager/Exec (exec)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-28
 ---
 
 Accessibility is not just a legal mandate, it is also good for business. Use these quick tips to help content creators, developers and other stakeholders adhere to the  [Revised 508 Standards][1], while delivering better content, products and systems to your customers.

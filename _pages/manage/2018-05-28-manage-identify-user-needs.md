@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/identify-user-needs/
 type: manage
 title: 'Identify User Needs'
-created: 2018-05-28
+permalink: manage/identify-user-needs/
+description: Learn how to identify and assess user needs for accessible digital services, including research strategies and best practices for Section 508 compliance.
 topic: "Manage (program)"
 sub-topic: "Manage Accessibility for IT Program/Project Managers"
 audience:
@@ -15,6 +15,7 @@ audience:
 - "Developers and Testers (dev-test)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-28
 ---
 
 Defined in the Revised 508 Standards [Section E203.2 User Needs][1], federal agencies are required to identify the needs of users with disabilities when procuring, developing, maintaining, or using information and communication technology (ICT), to determine:

@@ -4,6 +4,7 @@ sidenav: true
 type: create
 title: 'Spreadsheets Authoring Guides'
 permalink: create/spreadsheets/authoring-guides/
+description: Explore Section 508 spreadsheet authoring guides with practical tips and best practices to help you create accessible, compliant tables and data files.
 topic: Content creation (create)
 sub-topic: Spreadsheets
 audience:

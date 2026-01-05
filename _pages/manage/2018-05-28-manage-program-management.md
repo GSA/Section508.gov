@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: manage/program-management/
 type: manage
 title: " IT Accessibility Program Management"
-created: 2018-05-28
+permalink: manage/program-management/
+description: Explore Section 508 program management guidance, best practices, and roles to help federal teams plan, implement, and sustain effective accessibility compliance.
 topic: "Manage (program)"
 sub-topic: "Manage a 508 Program"
 audience:
@@ -14,6 +14,7 @@ audience:
 - "Product Managers (prodmgr)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-28
 ---
 
 Learn how to manage a federal IT Accessibility Program, help your agency comply with Section 508 of the Rehabilitation Act, and use technology that conforms to the [Revised 508 Standards][1].

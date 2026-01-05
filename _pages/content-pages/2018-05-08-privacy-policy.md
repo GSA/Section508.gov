@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: false
-permalink: privacy-policy/
 type: page
 title: 'Privacy Policy'
-created: 2018-05-08
+permalink: privacy-policy/
+description: Review the Section508.gov privacy policy to understand how information is collected, used, protected, and managed when you visit or interact with the site.
 topic: About the program/site (about)
 sub-topic: N/A
 audience:
@@ -12,6 +12,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-08
 ---
 
 ## <a name="_7io4k9tm7wg7"></a>Information Collected and Stored Automatically

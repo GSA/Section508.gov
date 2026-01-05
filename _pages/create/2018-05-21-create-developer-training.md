@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: create/developer-training/
 type: create
 title: 'Accessibility Training for Developers'
-created: 2018-05-21
+permalink: create/developer-training/
+description: Find Section 508 developer training resources, courses, certifications, and tools to improve accessibility skills and build digital tools compliant with accessibility standards.
 topic: "Content creation (create)"
 sub-topic: "Content Creation Training or Tools"
 audience:
@@ -13,6 +13,7 @@ audience:
 - "508 Program Manager (508pm)"
 resource-type: "Training"
 format: "HTML (html)"
+created: 2018-05-21
 ---
 
 From general training to certification programs, there are many training options to help you improve your accessibility skills. Learn how to build digital tools that conform to the  [Revised 508 Standards][1].

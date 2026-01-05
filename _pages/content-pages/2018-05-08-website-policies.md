@@ -1,12 +1,12 @@
 ---
 layout: page
 sidenav: false
-permalink: website-policies/
 type: page
 title: 'Website Policies'
-created: 2018-05-08
+permalink: website-policies/
 redirect_from: 
 - copyright/
+description: Explore Section508.gov website policies, including accessibility, privacy, security, and terms of use, to ensure safe and compliant site interactions.
 topic: About the program/site (about)
 sub-topic: General Info and Best Practices
 audience:
@@ -15,6 +15,7 @@ audience:
 - Federal employee (fedemp)
 resource-type: Long form article
 format: HTML (html)
+created: 2018-05-08
 ---
 
 This page explains website policies, procedures, and required links for the Section508.gov website.

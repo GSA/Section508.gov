@@ -1,9 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: create/documents/authoring-guides/
 type: create
 title: 'Documents Authoring Guides'
+permalink: create/documents/authoring-guides/
+description: Find Section 508 authoring guides for creating accessible documents, with step‑by‑step tips and best practices to ensure compliance and improve usability.
 topic: "Content creation (create)"
 sub-topic: "Documents"
 audience:

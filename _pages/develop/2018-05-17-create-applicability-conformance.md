@@ -1,12 +1,12 @@
 ---
 layout: page
 sidenav: true
-permalink: develop/applicability-conformance/
 type: develop
 title: 'Applicability & Conformance Requirements'
-created: 2018-05-17
+permalink: develop/applicability-conformance/
 redirect_from:
 - create/applicability-conformance/
+description: Understand the applicability and conformance standards of Section 508, including when the requirements apply and how to meet accessibility guidelines effectively.
 topic: "Development (dev)"
 sub-topic: "Accessibility Law & Policy"
 audience:
@@ -15,6 +15,7 @@ audience:
 - "508 Program Manager (508pm)"
 resource-type: "Law & Policy (law-policy)"
 format: "HTML (html)"
+created: 2018-05-17
 ---
 
 ## Applicability

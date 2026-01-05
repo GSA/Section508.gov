@@ -4,6 +4,7 @@ sidenav: true
 permalink: create/pdfs/authoring-guides/
 type: create
 title: 'PDFs Authoring Guides'
+description: Access Section 508 PDF authoring guides with templates and checklists to help you create and test accessible Portable Document Format documents.
 topic: Content creation (create)
 sub-topic: PDFs
 audience:

@@ -1,10 +1,10 @@
 ---
 layout: page
 sidenav: true
-permalink: buy/define-accessibility-criteria/
 type: acquisition
 title: 'Define Accessibility Criteria in Contracts'
-created: 2018-05-24
+permalink: buy/define-accessibility-criteria/
+description: Learn how to define accessibility criteria in federal contracts to ensure ICT meets Section 508 requirements, with sample language and procurement guidance.
 topic: "Acquisition/Buy (buy)"
 sub-topic: "New Contracting (RFP, RFI, etc.)"
 audience:
@@ -12,6 +12,7 @@ audience:
 - "Contracting Officer’s Representative (cor)"
 resource-type: "Process/How-to"
 format: "HTML (html)"
+created: 2018-05-24
 ---
 
 When preparing solicitations, statements of work, or other procurement documents, clearly define your criteria to ensure the information and communication technology (ICT) your agency buys or builds is accessible and conforms to the [Revised 508 Standards][1]. Use the sample language below in your procurement documents to mitigate Section 508 compliance risk in IT procurement and development.
