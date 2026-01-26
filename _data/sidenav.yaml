@@ -150,6 +150,8 @@ manage:
             url: manage/understand-scope-technical-requirements/
       - name: Organizational IT Accessibility Key Performance Indicators (KPI)
         url: manage/accessibility-kpi/
+      - name: Understanding and Leveraging the Relationship Between Sections 501, 504, and 508 of the Rehabilitation Act
+        url: manage/relationship-between-sections-508-504-and-501/
       - name: Join the Section 508 Community
         url: manage/join-the-508-community/
       - name: Find your Program Manager
@@ -495,6 +497,8 @@ test:
         url: 'test/elements-of-an-accessibility-test-report/'
       - name: Conformance of ICT Prototypes and Pilots
         url: 'test/conformance-of-prototypes-and-pilots/'
+      - name: Incorporating ICT Accessibility Testing into the Development Process
+        url: 'test/ict-testing-activities-by-lifecycle-phase/'
   - name: Testing Methods
     url: '#'
     children:
