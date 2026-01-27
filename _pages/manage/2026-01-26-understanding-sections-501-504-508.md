@@ -46,11 +46,44 @@ Section 504 prohibits discrimination against qualified individuals with disabili
 ## Why Section 508 Programs Should Build Alliances
 
 While Section 508 is the ICT-focused requirement, its outcomes directly support Sections 504 and 501 compliance:
-
-* **Unified Mission**: Section 508, 504, and 501 all aim to promote disability participation, equal access and nondiscrimination. A unified ICT accessibility strategy can transform fragmented efforts into a highly effective program, maximizing the return on investment for ICT products and services.  
-* **Increased Efficiency**: Coordinating ICT accessibility initiatives reduces redundant work and enhances consistency in accessibility approaches. This streamlines operations, lowers costs and improves outcomes for both employees and the public.  
-* **Enhanced Visibility**: Partnerships amplify an agency's influence and recognition regarding ICT accessibility.  
-* **Reduced Risk**: Collaboration ensures uniform standards for both internal and public-facing ICT, thereby mitigating compliance risks and administrative overhead.
+<ul class="usa-icon-list">
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">
+<strong>Unified Mission</strong>: Section 508, 504, and 501 all aim to promote disability participation, equal access and nondiscrimination. A unified ICT accessibility strategy can transform fragmented efforts into a highly effective program, maximizing the return on investment for ICT products and services.</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">
+<strong>Increased Efficiency</strong>: Coordinating ICT accessibility initiatives reduces redundant work and enhances consistency in accessibility approaches. This streamlines operations, lowers costs and improves outcomes for both employees and the public.</div>
+</li>
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">
+<strong>Enhanced Visibility</strong>: Partnerships amplify an agency's influence and recognition regarding ICT accessibility.</div>
+</li>   
+<li class="usa-icon-list__item">
+<div class="usa-icon-list__icon text-green">
+<svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+<use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#check_circle"></use>
+</svg>
+</div>
+<div class="usa-icon-list__content">
+<strong>Reduced Risk</strong>: Collaboration ensures uniform standards for both internal and public-facing ICT, thereby mitigating compliance risks and administrative overhead.</div>
+</li>  
+</ul>
 
 ## Practical Tips for Building Alliances
 <ol class="usa-process-list">

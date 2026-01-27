@@ -556,7 +556,8 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="hardware">Hardware</th>
-    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.</td>
+    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.<br> <br>
+    This also includes but is not limited to: monitors, kiosks, ATMs, and ticketing machines.</td>
   </tr>
   <tr>
     <th scope="row" id="header-attribute">Header attribute</th>
