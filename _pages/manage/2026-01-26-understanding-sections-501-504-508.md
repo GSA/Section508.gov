@@ -54,7 +54,7 @@ While Section 508 is the ICT-focused requirement, its outcomes directly support 
 </svg>
 </div>
 <div class="usa-icon-list__content">
-<strong>Unified Mission</strong>: Section 508, 504, and 501 all aim to promote disability participation, equal access and nondiscrimination. A unified ICT accessibility strategy can transform fragmented efforts into a highly effective program, maximizing the return on investment for ICT products and services.</div>
+<strong>Unified Mission</strong>: Section 508, 504, and 501 all aim to promote participation, equal access and nondiscrimination. A unified ICT accessibility strategy can transform fragmented efforts into a highly effective program, maximizing the return on investment for ICT products and services.</div>
 </li>
 <li class="usa-icon-list__item">
 <div class="usa-icon-list__icon text-green">
@@ -88,36 +88,36 @@ While Section 508 is the ICT-focused requirement, its outcomes directly support 
 ## Practical Tips for Building Alliances
 <ol class="usa-process-list">
   <li class="usa-process-list__item">
-    <h3 class="usa-process-list__heading">Start with Shared Goals:</h3> Frame discussions around the common mission: ensuring people with disabilities can fully participate in federal employment, programs and services and independently access and use federal digital products and services. Emphasizing these common values fosters unity and helps overcome enterprisewide barriers.</li>
- <li class="usa-process-list__item"><h3>Map Overlapping Responsibilities:</h3> Develop a straightforward matrix or diagram to illustrate how ICT accessibility contributes to Sections 501 and 504 outcomes. Visual aids are effective for demonstrating the benefits of coordination. For instance:
+    <h3>Start with Shared Goals</h3> Frame discussions around the common mission: ensuring people with disabilities can fully participate in federal employment, programs and services and independently access and use federal digital products and services. Emphasizing these common values fosters unity and helps overcome enterprisewide barriers.</li>
+ <li class="usa-process-list__item"><h3>Map Overlapping Responsibilities</h3> Develop a straightforward matrix or diagram to illustrate how ICT accessibility contributes to Sections 501 and 504 outcomes. Visual aids are effective for demonstrating the benefits of coordination. For instance:
         <ul>
             <li>Captioning enables employees with hearing disabilities to participate in meetings, training, and internal communications and enables members of the public with hearing disabilities to access webinars, town halls, or public briefings.</li>
             <li>Accessible digital forms ensure employees applying for internal opportunities or completing HR processes can do so independently. Accessible digital forms also allow members of the public to submit applications, forms, or service requests independently.</li>
             <li>Interoperability with <a href="{{site.baseurl}}/tools/glossary/#assistive-technology">Assistive Technology</a> ensures employees with disabilities can use HR systems, timekeeping, and internal tools necessary for their job. It also ensures applicants or users with disabilities can use agency websites and digital services.</li>
         </ul>
     </li>
-    <li class="usa-process-list__item"><h3>Connect with Section 504 Program Leads:</h3>
+<li class="usa-process-list__item"><h3>Connect with Section 504 Program Leads</h3>
     <ul>
         <li>Share information regarding <a href="{{site.baseurl}}/test/testing-overview/">ICT testing methodologies</a>, <a href="{{site.baseurl}}/tools/tools-for-testing-ict/">testing tools</a>, procurement, and remediation solutions.</li>
         <li>Collaborate to ensure that digital forms, digital services, and customer-facing platforms comply with both Sections 504 and 508 requirements.</li>
     </ul>
     </li>
-    <li class="usa-process-list__item"><h3>Partner with EEO and Section 501 Offices:</h3>
+<li class="usa-process-list__item"><h3>Partner with EEO and Section 501 Offices</h3>
         <ul>
         <li>Establish communication channels with your agency’s Equal Employment Opportunity Office (EEO) and the office or employee that manages reasonable accommodations requests for your agency (which may be a disability program manager or your agency’s equivalent).</li>
         <li>Coordinate on reasonable accommodation cases that involve ICT, such as assistive technology software, <a href="{{site.baseurl}}/tools/glossary/#assistive-technology-compatibility">assistive technology compatibility</a> or <a href="{{site.baseurl}}/tools/glossary/#assistive-technology-interoperability">interoperability</a>, and alternative formats.</li>
         <li>Provide input on ICT accessibility considerations for employee-facing systems such as HR portals, timekeeping, or training platforms. Prioritize high risk ICT systems and solutions.</li>
         </ul>
       </li>  
-     <li class="usa-process-list__item"><h3>Establish Regular Communication:</h3> Schedule recurring check-ins with Sections 501 and 504 points of contact. Even brief quarterly meetings can create opportunities to share challenges and successes and collaborate on cases, training, or ICT accessibility reviews before issues become complaints.</li>
-    <li class="usa-process-list__item"><h3>Share Training and Resources to Maximize Efficiencies:</h3>
+    <li class="usa-process-list__item"><h3>Establish Regular Communication</h3> Schedule recurring check-ins with Sections 501 and 504 points of contact. Even brief quarterly meetings can create opportunities to share challenges and successes and collaborate on cases, training, or ICT accessibility reviews before issues become complaints.</li>
+    <li class="usa-process-list__item"><h3>Share Training and Resources to Maximize Efficiencies</h3>
         <ul>
         <li>Offer joint training sessions on ICT accessibility that highlight its connection to reasonable accommodation (Section 501) and program access (Section 504).</li>
         <li>Disseminate Section 508 testing methodologies and tools, along with <a href="{{site.baseurl}}/develop/publish-to-web/">web manager</a> and <a href="{{site.baseurl}}/buy/">procurement</a> checklists, to enhance awareness and minimize redundant efforts.</li>
         <li>Promote agencywide awareness campaigns emphasizing accessibility as a shared responsibility.</li>
         </ul>
     </li>
-   <li class="usa-process-list__item"><h3>Build or Participate in Cross-Functional Accessibility Working Groups:</h3>
+   <li class="usa-process-list__item"><h3>Build or Participate in Cross-Functional Accessibility Working Groups</h3>
     <ul>
     <li>Establish or participate in agencywide councils or task forces comprising representatives from Sections 508, 501, 504, IT, and HR programs. This interdisciplinary approach cultivates collective responsibility and provides a unified platform for addressing accessibility challenges throughout the agency.</li>
     <li>Develop common metrics to monitor accessibility advancements, such as tracking improvements in ICT accessibility that benefit both employees and external users.</li>
