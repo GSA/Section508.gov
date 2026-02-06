@@ -80,7 +80,7 @@ Reporting entities are listed in alphabetical order beginning with CFO Act depar
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DIA">Defense Intelligence Agency (DIA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DLA">Defense Logistics Agency (DLA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DMA">Defense Media Activity (DMA)</a></li>
-    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DPOW">Defense POW/MIA Accounting Agency (DPOW)</a></li>
+    <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DPAA">Defense POW/MIA Accounting Agency (DPAA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DSCA">Defense Security Cooperation Agency (DSCA)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTIC">Defense Technical Information Center (DTIC)</a></li>
     <li><a href="{{site.baseurl}}/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DTSA" title="Entity only reported data in FY24">Defense Technology Security Administration (DTSA)*</a></li>
