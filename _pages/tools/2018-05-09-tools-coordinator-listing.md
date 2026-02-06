@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-11-18
+updated: 2026-02-06
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -258,7 +258,7 @@ Adam Grasheim - <adam.grasheim.1@usspacecom.mil>
 ### United States Special Operations Command (USSOCOM)  
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### United States Transportation Command (USTRANSCOM)
-Maj. Elizabeth Willenbring (Part-Time PM) - <transcom.scott.tcj6.mbx.na@mail.mil>  
+USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -298,7 +298,6 @@ Jason Hitchcock (Deputy) - <jason.hitchcock@nih.gov>
   * **Center for Scientific Review (CSR)** <br>Patricia Young - <youngp@csr.nih.gov>  
   * **Clinical Center (CC)** <br>Cindy Fisher - <cindy.fisher@nih.gov>  
   * **John E Fogarty International Center (FIC)** <br>Alisa McCullar - <mccullaa@mail.nih.gov>  
-  * **National Cancer Institute (NCI)** <br>Gary Morin - <moring@mail.nih.gov>  
   * **National Center for Advancing Translational Sciences (NCATS)** <br>Sam Michael - <michaelsg@mail.nih.gov>  
   * **National Center for Complementary and Integrative Health (NCCIH)** <br>Irene Liu - <irene.liu@nih.gov>  
   * **National Eye Institute (NEI)** <br>Lesley Earl - <lesley.earl@nih.gov>  
@@ -551,7 +550,7 @@ Jay Little - <jay.little@bep.gov>
 Elizabeth Burke - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - <jonesmw@cdfi.treas.gov>
-### Financial Crimes Enforcement (FINCEN)
+### Financial Crimes Enforcement Network (FINCEN)
 Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
 Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
