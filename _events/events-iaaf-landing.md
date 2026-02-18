@@ -40,7 +40,7 @@ The 2026 Interagency Accessibility Forum (IAAF) is being built on the theme **Fu
   <div class="tablet:grid-col-9">
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>Who: </strong></div>
-      <div class="grid-col tablet:grid-col-10">ICT Accessibility professionals and others responsible for ICT accessibility across the federal government</div>
+      <div class="grid-col tablet:grid-col-10">ICT Accessibility Professionals
     </div>
     <div class="grid-row">
       <div class="grid-col tablet:grid-col-2"><strong>What: </strong></div>
