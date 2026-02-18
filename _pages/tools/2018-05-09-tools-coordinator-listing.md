@@ -18,7 +18,7 @@ audience:
 resource-type: "Training"
 format: "HTML (html)"
 created: 2018-05-08
-updated: 2025-11-18
+updated: 2026-02-06
 exclude-changelog: true #since we change this often, omitting from being in the whats new perpetually.
 ---
 The Office of Management and Budget’s guidance on Strengthening Digital Accessibility and the Management of Section 508 of the Rehabilitation Act (M-24-08), requires Federal agencies to report any changes to the designated agency-wide Section 508 program manager to OMB within 30 days.  To update an agency-wide Section 508 program manager, the agency CIO (or designee) should email <a href="mailto:ofcio@omb.eop.gov,section.508@gsa.gov?subject=Section 508 PM Update">ofcio@omb.eop.gov and section.508@gsa.gov</a> with the program manager’s name, government email address, and phone number. 
@@ -69,12 +69,13 @@ Bernadette McGhee - <bernadette.mcghee@usda.gov>
 Tonia Canada - <tonia.canada@usda.gov>  
 ### Animal and Plant Health Inspection Service (APHIS)
 Tonia Canada - <tonia.canada@usda.gov>  
-### Farm Production and Conservation (FPAC)
+### Farm Production and Conservation Business Center (FPAC)
 Karen Garrison - <karen.garrison@usda.gov>  
 
-  * **Farm Service Agency (FSA)**
-  * **Natural Resources Conservation Agency (NRCS)**
   * **Risk Management Agency**
+
+### Farm Service Agency (FSA)
+Karen Garrison - <karen.garrison@usda.gov>  
 
 ### Food, Nutrition and Consumer Services	(FNCS)
 Elisha Owens - <elisha.owens@usda.gov>  
@@ -160,8 +161,7 @@ Patricia Kless - <patricia.kless@uspto.gov>
 ## <span id ="usdod" ></span>Department of Defense (DOD)
 ### Agencywide
 Susan "Jen" Haggerty - <susan.j.haggerty2.civ@mail.mil>  
-Marilyn Anderson (Deputy) - <marilyn.l.anderson14.ctr@mail.mil>  
-Allen Hoffman (Deputy) - <allen.w.hoffman3.ctr@mail.mil>  
+Bethany Letalien (Deputy) - <bethany.l.letalien.ctr@mail.mil>    
 
 ### Air Force
 Carlinda Lotson Miller - <carlinda.lotsonmiller.1@us.af.mil>  
@@ -258,7 +258,7 @@ Adam Grasheim - <adam.grasheim.1@usspacecom.mil>
 ### United States Special Operations Command (USSOCOM)  
 Lynor "Dee" Duncan - <lynor.duncan.civ@socom.mil>  
 ### United States Transportation Command (USTRANSCOM)
-Maj. Elizabeth Willenbring (Part-Time PM) - <transcom.scott.tcj6.mbx.na@mail.mil>  
+USTRANSCOM Section 508 CIO Mailbox - <transcom.scott.tcj6.mbx.cio-section-508@mail.mil>  
 ### Washington Headquarters Service (WHS)
 Tapan	M. Suthar - <tapan.m.suthar.civ@mail.mil>  
 
@@ -298,7 +298,6 @@ Jason Hitchcock (Deputy) - <jason.hitchcock@nih.gov>
   * **Center for Scientific Review (CSR)** <br>Patricia Young - <youngp@csr.nih.gov>  
   * **Clinical Center (CC)** <br>Cindy Fisher - <cindy.fisher@nih.gov>  
   * **John E Fogarty International Center (FIC)** <br>Alisa McCullar - <mccullaa@mail.nih.gov>  
-  * **National Cancer Institute (NCI)** <br>Gary Morin - <moring@mail.nih.gov>  
   * **National Center for Advancing Translational Sciences (NCATS)** <br>Sam Michael - <michaelsg@mail.nih.gov>  
   * **National Center for Complementary and Integrative Health (NCCIH)** <br>Irene Liu - <irene.liu@nih.gov>  
   * **National Eye Institute (NEI)** <br>Lesley Earl - <lesley.earl@nih.gov>  
@@ -449,8 +448,7 @@ Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>
 ### Interpol
 Heather Kowalski - <heather.kowalski@usdoj.gov>  
 ### Justice Management Division
-Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-Cynthia R. Wright - <cynthia.wright@usdoj.gov>  
+Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>   
 ### National Institute of Corrections
 Donna Ledbetter - <donna.ledbetter@usdoj.gov>  
 ### National Security Division
@@ -490,8 +488,6 @@ Tiyawna Duncan - <tiyawna.duncan@usdoj.gov>
 Sybil 	Barksdale - <sybil.barksdale@usdoj.gov> 
 ### Professional Responsibility Advisory Office
 Benjamin L. Schwarten - <benjamin.l.schwarten@usdoj.gov>  
-### Tax Division
-Karon	M. Etienne - <karon.m.etienne@usdoj.gov>
 ### United States Marshals Service
 James L. Brown - <james.brown9@usdoj.gov>  
 Dene James - <dene.james@usdoj.gov>  
@@ -541,6 +537,7 @@ Paul Mounkhaty (Deputy) - <paul.mounkhaty@dot.gov>
 ### Volpe National Transportation Systems Center (VOLPE)
 Stephanie Chase - <stephanie.chase@dot.gov>  
 Eliot Sutler (Deputy) - <eliot.sutler@dot.gov>  
+
 ---
 ## <span id="usdott" ></span>Department of the Treasury (USDT)
 ### Agencywide
@@ -553,7 +550,7 @@ Jay Little - <jay.little@bep.gov>
 Elizabeth Burke - <lee.burke@fiscal.treasury.gov>
 ### Community Development Financial Institution (CDFI) Fund
 Michael Jones - <jonesmw@cdfi.treas.gov>
-### FINCEN
+### Financial Crimes Enforcement Network (FINCEN)
 Joseph Harmon - <joseph.harmon@fincen.gov>  
 ### Internal Revenue Service (IRS)
 Russel "Rex" D. Rexroat - <russel.d.rexroat@irs.gov>  
@@ -741,7 +738,7 @@ FMCS Helpdesk	<fmcs508@fmcs.gov>
 Theodosia Villatoro-Sorto - <tvillatoro-sorto@fmshrc.gov>  
 
 ---
-### Federal Reserve Board of Governors (FRBG)
+### Federal Reserve Board of Governors (FRB)
 Melissa Lasbury - <melissa.p.lasbury@frb.gov>  
 Randal Duchesneau - <randall.duchesneau@frb.gov>  
 
@@ -946,7 +943,7 @@ Clifford Cummins - <ccummins@ustda.gov>
 
 ---
 
-**Reviewed/Updated**: November 2025
+**Reviewed/Updated**: February 2026
 
  [1]: #usaid "Go to Agency for International Development"
  [2]: #usda "Go to Department of Agriculture"

@@ -55,6 +55,10 @@ These terms appear throughout our website, communications, and reports, includin
     <td>A centralized location for ACRs to live and make it easy for buyers to review the documents.</td>
   </tr>
   <tr>
+    <th scope="row" id="accessibility-implementation">Accessibility Implementation</th>
+    <td>This measures an agency’s Section 508 implementation across policy, acquisition and procurement, and testing and remediation. This outcome range consists of an index using a scale from 0 to 5, with 0 representing very low implementation and 5 representing very high implementation.</td>
+  </tr>
+  <tr>
     <th scope="row" id="accessibility-policy">Accessibility Policy</th>
     <td>Policy for implementing Section 508 or information and communication technology (ICT) accessibility requirements.</td>
   </tr>
@@ -138,6 +142,14 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="assistive-technology">Assistive Technology (AT)</th>
     <td>Any item, piece of equipment, or system (whether acquired commercially, modified, or customized), that is commonly used to increase, maintain, or improve functional capabilities of individuals with disabilities.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="assistive-technology-compatibility">Assistive Technology (AT) compatibility</th>
+    <td>The ability of the ICT to work with AT without blocking access. Compatibility ensures AT can connect, recognize, and use the ICT, but may not mean consistent or seamless interaction.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="assistive-technology-interoperability">Assistive Technology (AT) interoperability</th>
+    <td>The ICT reliably communicates programmatic elements with AT and ensures AT can interact with, interpret, and control ICT features in a consistent and usable way.</td>
   </tr>
   <tr>
     <th scope="row" id="audio-descriptions">Audio Descriptions (AD)</th>
@@ -544,7 +556,8 @@ These terms appear throughout our website, communications, and reports, includin
 <tbody>
   <tr>
     <th scope="row" id="hardware">Hardware</th>
-    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.</td>
+    <td>A tangible device, piece of equipment, or physical component of ICT, such as telephones, computers, multifunction copy machines, or keyboards.<br> <br>
+    This also includes but is not limited to: monitors, kiosks, ATMs, and ticketing machines.</td>
   </tr>
   <tr>
     <th scope="row" id="header-attribute">Header attribute</th>
@@ -613,6 +626,16 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="inclusive-design">Inclusive design</th>
     <td>See <a href="#universal-design">universal design</a></td>
+  </tr>
+  <tr>
+  <th scope="row" id="individual-disability">Individual with a disability</th>
+  <td> Under federal disability nondiscrimination laws, this is an individual, applicant, employee or participant who:
+    <ul>
+    <li>has a physical or mental impairment that substantially limits one or more of the major life activities of such individual;</li>
+    <li>has a record of such an impairment; or</li>
+    <li>is regarded as having such an impairment.</li>
+    </ul>
+  </td>
   </tr>
   <tr>
     <th scope="row" id="ict">Information and Communication Technology (ICT)</th>
@@ -955,6 +978,9 @@ These terms appear throughout our website, communications, and reports, includin
 </thead>
 <tbody>
   <tr>
+  <th scope="row" id="qualified-individual">Qualified individual with a disability</th> <td>For purposes of receiving services, education or training, qualified <a href="{{site.baseurl}}/tools/glossary/#individual-disability">individuals with disabilities</a> meet essential eligibility requirements or qualifications for the job.</td>
+  </tr> 
+  <tr>
     <th scope="row" id="quality-assurance">Quality Assurance (QA)</th>
     <td>An activity to ensure an organization provides the best possible product or service to customers, often based on standardized testing methods.</td>
   </tr>
@@ -983,6 +1009,10 @@ These terms appear throughout our website, communications, and reports, includin
   <tr>
     <th scope="row" id="rtt">Real-Time Text (RTT)</th>
     <td>Communication by which characters are transmitted by a terminal as they are typed. Real-time text is used for conversational purposes, and may also be used in voicemail, interactive voice response systems, and other similar applications.</td>
+  </tr>
+  <tr>
+    <th scope="row" id="ra">Reasonable Accommodation (RA)</th>
+    <td>In Section 504, this is a workplace modification that allows a <a href="{{site.baseurl}}/tools/glossary/#qualified-individual">qualified individual with a disability</a> to apply for a job, perform essential job functions, or enjoy employment benefits. This is provided unless it creates an undue hardship for the agency. Examples of RAs include physical workplace modifications, assistive technology, a reader, sign language interpreter, or adjustments to the work schedule.</td>
   </tr>
   <tr>
     <th scope="row" id="reimbursable-service">Reimbursable service</th>
