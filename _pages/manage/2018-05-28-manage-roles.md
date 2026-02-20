@@ -109,6 +109,7 @@ The tables below list the roles and responsibilities for agency officials, conte
             <li>Provision of alternative formats.</li>
           </ul>
         </li>
+        <li>See also: <a href="{{ site.baseurl }}/manage/roles/section-508-pm-compentency-guide/">Section 508 Program Manager Competency Guide</a></li>
       </ul>
     </td>
   </tr>
