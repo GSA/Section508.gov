@@ -131,6 +131,8 @@ manage:
             url: manage/roles/attain-section-508-testing-expertise/
           - name: Section 508 Position Descriptions
             url: manage/roles/section-508-position-descriptions/
+          - name: Section 508 Program Manager Competency Guide
+            url: manage/roles/section-508-pm-compentency-guide/
           - name: Section 508 Program Team Roles and Responsibilities
             url: manage/section-508-program-team-roles-and-responsibilities/
       - name: Practical Reasons for Digital Accessibility
