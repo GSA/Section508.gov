@@ -18,7 +18,7 @@ subtopic:
 resource_type: 
 - article
 format: html
-created: 2026-02-20
+created: 2026-02-23
 updated: 
 ---
 The Section 508 Program Manager (PM) Competency Guide details the desired general and technical skills for Section 508 PMs within the federal government. This guide is a centralized resource for those aspiring to become Section 508 PMs, hiring managers, employees, and supervisors to identify suitable training opportunities for career growth. While a Program Manager may not have deep expertise in every area described, this guide illustrates examples, [adapted from OPM's ](https://www.opm.gov/policy-data-oversight/career-paths-for-federal-program-and-project-management-guide/federal-program-and-project-management-competency-development-framework-part-ii/#section-3)Program Management Career Pathway, of the types of expertise a Section 508 PM may develop or apply while serving as in this role.
