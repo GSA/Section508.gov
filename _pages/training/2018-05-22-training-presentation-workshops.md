@@ -20,6 +20,17 @@ updated: 2025-12-08
 ---
 The information on this page includes available resources and captioned text files 
 
+## 2026
+### IT Accessibility Community Meetings
+#### February 24, 2026
+
+The Government-wide IT Accessibility Program presents guidance on bridging the gap between “finding bugs” and managing compliance risks. Instead of viewing accessibility as an endless checklist, participants will learn to apply a Risk Management Framework to information and communication technology (ICT). We will move beyond simply identifying conformance issues and help teams look strategically at the risks of inaccessible ICT and ways to mitigate these risks.
+
+Attendees will gain practical takeaways on how to translate clear test results and known conformance issues into an actionable remediation roadmap with defined ownership and timelines. They will learn how to use [ICT accessibility and risk management]({{ site.baseurl }}/manage/ict-accessibility-and-risk-management/) framework tools and templates to analyze ICT accessibility risk within their organization, and how to apply a risk-scoring matrix to categorize risks by severity and prioritize the actions needed to address them effectively.
+
+Downloads:
+* <a href="{{ site.baseurl }}/assets/files/" download=".pptx" target="_blank" class="usa-link--external"> - ITACM FEB 2026 (PPTX)</a>
+
 ## 2025
 ### IT Accessibility Community Meetings
 #### December 9, 2025
