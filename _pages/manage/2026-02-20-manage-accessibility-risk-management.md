@@ -53,61 +53,63 @@ Using the ERM Framework, those assessing ICT accessibility risks should determin
 ### Assessing Risk
 Risk assessment frameworks commonly evaluate two primary dimensions: likelihood and consequence (or impact). A risk represents the possibility of an event occurring in the future. Once it occurs it becomes an issue requiring resolution. Agencies should assess both the probability that an accessibility failure will occur and the severity of its consequences if it does.  Table 1 shows an example of a standard Likelihood-Consequence risk model. 
 
-<table id="table-4" class="usa-table usa-table--borderless font-sans-3xs">
-  <caption>Table 1: Standard accessibility risk matrix</caption>
-  <thead>
-    <tr>
-      <th scope="col" aria-label="blank">Likelihood/Frequency</th>
-      <th scope="col" class="center">Negligible Consequence</th>
-      <th scope="col" class="center">Minor Consequence</th>
-      <th scope="col" class="center">Moderate Consequence</th>
-      <th scope="col" class="center">Significant Consequence</th>
-      <th scope="col" class="center">Severe Consequence</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Very Likely/Very Often</th>
-      <td class="bg-risk-5">Low</td>
-      <td class="bg-risk-4">Moderate</td>
-      <td class="bg-risk-2">Very High</td>
-      <td class="bg-risk-1">Critical</td>
-      <td class="bg-risk-1">Critical</td>
-    </tr>
-    <tr>
-      <th scope="row">Likely/Often</th>
-      <td class="bg-risk-6">Very Low</td>
-      <td class="bg-risk-4">Moderate</td>
-      <td class="bg-risk-3">High</td>
-      <td class="bg-risk-2">Very High</td>
-      <td class="bg-risk-1">Critical</td>
-    </tr>
-    <tr>
-      <th scope="row">Possible/Sometimes</th>
-      <td class="bg-risk-6">Very Low</td>
-      <td class="bg-risk-5">Low</td>
-      <td class="bg-risk-4">Moderate</td>
-      <td class="bg-risk-3">High</td>
-      <td class="bg-risk-2">Very High</td>
-    </tr>
-    <tr>
-      <th scope="row">Unlikely/Occasionally</th>
-      <td class="bg-risk-6">Very Low</td>
-      <td class="bg-risk-5">Low</td>
-      <td class="bg-risk-5">Low</td>
-      <td class="bg-risk-3">High</td>
-      <td class="bg-risk-3">High</td>
-    </tr>
-    <tr>
-      <th scope="row">Very Unlikely/Almost Never</th>
-      <td class="bg-risk-6">Very Low</td>
-      <td class="bg-risk-6">Very Low</td>
-      <td class="bg-risk-5">Low</td>
-      <td class="bg-risk-4">Moderate</td>
-      <td class="bg-risk-4">Moderate</td>
-    </tr>
-  </tbody>
-</table>
+<figure class="usa-table-container--scrollable" role="region" aria-labelledby="table-4-caption" tabindex="0">
+  <table id="table-4" class="usa-table usa-table--borderless">
+    <caption>Table 1: Standard accessibility risk matrix</caption>
+    <thead>
+      <tr>
+        <th scope="col" aria-label="blank">Likelihood/Frequency</th>
+        <th scope="col" class="center">Negligible Consequence</th>
+        <th scope="col" class="center">Minor Consequence</th>
+        <th scope="col" class="center">Moderate Consequence</th>
+        <th scope="col" class="center">Significant Consequence</th>
+        <th scope="col" class="center">Severe Consequence</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Very Likely/Very Often</th>
+        <td class="bg-risk-5">Low</td>
+        <td class="bg-risk-4">Moderate</td>
+        <td class="bg-risk-2">Very High</td>
+        <td class="bg-risk-1">Critical</td>
+        <td class="bg-risk-1">Critical</td>
+      </tr>
+      <tr>
+        <th scope="row">Likely/Often</th>
+        <td class="bg-risk-6">Very Low</td>
+        <td class="bg-risk-4">Moderate</td>
+        <td class="bg-risk-3">High</td>
+        <td class="bg-risk-2">Very High</td>
+        <td class="bg-risk-1">Critical</td>
+      </tr>
+      <tr>
+        <th scope="row">Possible/Sometimes</th>
+        <td class="bg-risk-6">Very Low</td>
+        <td class="bg-risk-5">Low</td>
+        <td class="bg-risk-4">Moderate</td>
+        <td class="bg-risk-3">High</td>
+        <td class="bg-risk-2">Very High</td>
+      </tr>
+      <tr>
+        <th scope="row">Unlikely/Occasionally</th>
+        <td class="bg-risk-6">Very Low</td>
+        <td class="bg-risk-5">Low</td>
+        <td class="bg-risk-5">Low</td>
+        <td class="bg-risk-3">High</td>
+        <td class="bg-risk-3">High</td>
+      </tr>
+      <tr>
+        <th scope="row">Very Unlikely/Almost Never</th>
+        <td class="bg-risk-6">Very Low</td>
+        <td class="bg-risk-6">Very Low</td>
+        <td class="bg-risk-5">Low</td>
+        <td class="bg-risk-4">Moderate</td>
+        <td class="bg-risk-4">Moderate</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 In this risk matrix, the likelihood/frequency increases along the vertical axis from bottom to top, while the consequence (or magnitude of impact) increases along the horizontal axis from left to right. General definitions for the risk ratings are below:
 
@@ -180,5 +182,3 @@ Contact the Government-wide IT Accessibility Program team for more information a
 * <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
-
-
