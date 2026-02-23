@@ -153,7 +153,7 @@ Enterprise-level risks typically involve broader consequences and require coordi
 ### Program and Project-Level Risk
 Program and project-level risks are tactical and execution focused. These risks typically affect cost, schedule, deliverables, or user experience within a defined scope. If not addressed, however, they may escalate into enterprise-level risks.  Effective risk management at the program level reduces the likelihood of broader organizational consequences.
 
-The Government-wide IT Accessibility Program has created a resource list of <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" target="_blank" class="usa-link--external">example program and project accessibility risk factors (XLSX)</a> to help determine the likelihood and consequence of a potential risk, or risk parameters. 
+The Government-wide IT Accessibility Program has created a resource list of <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" download="Example Accessibility Risk Factors.xlsx" target="_blank" class="usa-link--external">example program and project accessibility risk factors (XLSX)</a> to help determine the likelihood and consequence of a potential risk, or risk parameters. 
 
 ## Addressing the Risk
 Most agencies have resources that discuss risks and how to address them, though the concepts they contain will likely have to be adapted to ICT accessibility as they are unlikely to be strictly created for these types of risks.  Agencies should apply established resk response strategies to ICT accessibility risks. Common risk response options include:
@@ -170,14 +170,15 @@ After developing alternatives with the risk response options, users must impleme
 Additionally, designated individuals or teams must consistently monitor their program and project risks. Agency leadership, including the CIO and other executive officials, should periodically review enterprise-level accessibility risks as part of strategic risk governance processes.
 
 ## Assess Risk At Your Agency
-Use the risk matrix above and <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" target="_blank" class="usa-link--external">the accessibility risk input template (XLSX)</a> to input, assess, and track risks and risk mitigations. Additionally, refer to <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">the example risk list and risk mitigation document (XLSX)</a> to inspire your identification of acceptable risks within your organization.
+Use the risk matrix above and <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" download="Accessibility Risk Input Template.xlsx" target="_blank" class="usa-link--external">the accessibility risk input template (XLSX)</a> to input, assess, and track risks and risk mitigations. Additionally, refer to <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" download="Example Risk List.xlsx" target="_blank" class="usa-link--external">the example risk list and risk mitigation document (XLSX)</a> to inspire your identification of acceptable risks within your organization.
 
 Contact the Government-wide IT Accessibility Program team for more information and assistance with determining accessibility risk at <section.508@gsa.gov>.
 
 ## Downloads
-* <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" target="_blank" class="usa-link--external">Accessibility risk input template (XLSX)</a>
-* <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLS)</a>
-* <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">Example risk list (XLSX)</a>
+* <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" download="Accessibility Risk Input Template.xlsx" target="_blank" class="usa-link--external">Accessibility risk input template (XLSX)</a>
+* <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" download="Example Accessibility Risk Factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLS)</a>
+* <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
+
 
