@@ -25,7 +25,7 @@ format: html
 created: 2026-02-23
 ---
 
-In 2016, OMB revised <a href="https://www.commerce.gov/sites/default/files/opog/omb_circular_a-123.pdfCircular">Circular A-123</a> to require agencies to integrate Enterprise Risk Management (ERM) into strategic planning and review processes. ERM is defined as “an effective Agency-wide approach to addressing the full spectrum of the organization’s external and internal risks by understanding the combined impact of risks as an interrelated portfolio, rather than addressing risks only within silos.” 
+In 2016, OMB revised <a href="https://www.commerce.gov/sites/default/files/opog/omb_circular_a-123.pdf" target="_blank" class="usa-link--external">Circular A-123 (PDF)</a> to require agencies to integrate Enterprise Risk Management (ERM) into strategic planning and review processes. ERM is defined as “an effective Agency-wide approach to addressing the full spectrum of the organization’s external and internal risks by understanding the combined impact of risks as an interrelated portfolio, rather than addressing risks only within silos.” 
 
 ERM is a core component of an agency’s governance framework. As a discipline, it focuses on identifying, assessing, and managing risks that may affect the agency’s ability to achieve its mission. With respect to ICT, risk management principles and the ERM framework should be applied to vulnerabilities to ICT within your organization that could cause potential accessibility issues. These accessibility risks can be at the program or project level or could be more broadly applicable across the enterprise. In this article, we will introduce risk management principles, discuss how they can be applied to ICT accessibility, and determine how to assess and assess these ICT accessibility risks.
 
@@ -153,7 +153,7 @@ Enterprise-level risks typically involve broader consequences and require coordi
 ### Program and Project-Level Risk
 Program and project-level risks are tactical and execution focused. These risks typically affect cost, schedule, deliverables, or user experience within a defined scope. If not addressed, however, they may escalate into enterprise-level risks.  Effective risk management at the program level reduces the likelihood of broader organizational consequences.
 
-The Government-wide IT Accessibility Program has created a resource list of <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" target="_blank" class="usa-link--external">example program and project accessibility risk factors</a> to help determine the likelihood and consequence of a potential risk, or risk parameters. 
+The Government-wide IT Accessibility Program has created a resource list of <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" target="_blank" class="usa-link--external">example program and project accessibility risk factors (XLSX)</a> to help determine the likelihood and consequence of a potential risk, or risk parameters. 
 
 ## Addressing the Risk
 Most agencies have resources that discuss risks and how to address them, though the concepts they contain will likely have to be adapted to ICT accessibility as they are unlikely to be strictly created for these types of risks.  Agencies should apply established resk response strategies to ICT accessibility risks. Common risk response options include:
@@ -170,13 +170,14 @@ After developing alternatives with the risk response options, users must impleme
 Additionally, designated individuals or teams must consistently monitor their program and project risks. Agency leadership, including the CIO and other executive officials, should periodically review enterprise-level accessibility risks as part of strategic risk governance processes.
 
 ## Assess Risk At Your Agency
-Use the risk matrix above and <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" target="_blank" class="usa-link--external">the accessibility risk input template</a> to input, assess, and track risks and risk mitigations. Additionally, refer to <a href="https://www.section508.gov/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">the example risk list and risk mitigation document</a> to inspire your identification of acceptable risks within your organization.
+Use the risk matrix above and <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" target="_blank" class="usa-link--external">the accessibility risk input template (XLSX)</a> to input, assess, and track risks and risk mitigations. Additionally, refer to <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">the example risk list and risk mitigation document (XLSX)</a> to inspire your identification of acceptable risks within your organization.
 
 Contact the Government-wide IT Accessibility Program team for more information and assistance with determining accessibility risk at <section.508@gsa.gov>.
 
 ## Downloads
 * <a href="{{ site.baseurl }}/assets/files/accessibility-risk-input-template.xlsx" target="_blank" class="usa-link--external">Accessibility risk input template (XLSX)</a>
 * <a href="{{ site.baseurl }}/assets/files/example-accessibility-risk-factors.xlsx" target="_blank" class="usa-link--external">Example accessibility risk factors (XLS)</a>
-* <a href="https://www.section508.gov/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">Example risk list (XLSX)</a>
+* <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
+
