@@ -3,7 +3,7 @@ layout: page
 sidenav: true
 type: manage
 title: ICT Accessibility and Risk Management
-permalink: manage/manage/ict-accessibility-and-rsk-management/
+permalink: manage/manage/ict-accessibility-and-risk-management/
 description: Learn how to apply risk management principles to ICT accessibility to be comfortable identifying, assessing and analyzing ICT accessibility risks.
 disclaimer: 
 audience: 
@@ -182,4 +182,5 @@ Contact the Government-wide IT Accessibility Program team for more information a
 * <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
+
 
