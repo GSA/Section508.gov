@@ -23,7 +23,7 @@ subtopic:
 resource_type: 
 - article
 format: html
-created: 2026-02-23
+created: 2026-02-24
 ---
 
 In 2016, OMB revised <a href="https://www.commerce.gov/sites/default/files/opog/omb_circular_a-123.pdf" target="_blank" class="usa-link--external">Circular A-123 (PDF)</a> to require agencies to integrate Enterprise Risk Management (ERM) into strategic planning and review processes. ERM is defined as “an effective Agency-wide approach to addressing the full spectrum of the organization’s external and internal risks by understanding the combined impact of risks as an interrelated portfolio, rather than addressing risks only within silos.” 
@@ -183,6 +183,7 @@ Contact the Government-wide IT Accessibility Program team for more information a
 * <a href="{{ site.baseurl }}/assets/files/example-risk-list.xlsx" target="_blank" download="Example Risk List.xlsx" class="usa-link--external">Example risk list (XLSX)</a>
 
 **Reviewed/Updated:** February 2026
+
 
 
 
