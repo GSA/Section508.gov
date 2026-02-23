@@ -11,7 +11,7 @@ manage:
       - name: Enterprise Architecture and Change Control Review Guidelines for Project Teams
         url: manage/governance/enterprise-architecture-and-change-control/
       - name: ICT Accessibility and Risk Management
-        url: manage/manage/ict-accessibility-and-risk-management/
+        url: manage/governance/ict-accessibility-and-risk-management/
       - name: Integrating Section 508 Data into Asset Management and GRC Tools
         url: manage/governance/section-508-into-asset-management-and-grc-tools/
       - name: Integrating Section 508 into Capital Planning and Investment Control
